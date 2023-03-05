@@ -7,61 +7,6 @@ author: PodBean Development
 
 # S01E25 - Joseph Vogl zur Krise des Regierens | Future Histories
 
-> ## Excerpt
-> Befinden wir uns in einer Krise des Regieren? Und wenn ja, was macht diese aus und wie kann ihr begegnet werden?
- 
-Nützliche Informationen & Links:
-Vogl, Joseph. 2010. Das Gespenst des Kapitals. Zürich: Diaphenes:
-https://www.diaphanes.net/titel/das-gespenst-des-kapitals-198
-Vogl, Joseph. 2015. Der Souveränitätseffekt. Zürich: Diaphenes:
-https://www.diaphanes.net/titel/der-souveraenitaetseffekt-1717
-Zitat in Anmod gefunden in:
-Lemke/Bröckling/Krasmann (Hg.). Gouvernementalität der Gegenwart. Berlin: Suhrkamp:
-https://www.suhrkamp.de/buecher/gouvernementalitaet_der_gegenwart-_29090.html
-Zitat in Anmod ursprünglich aus:
-Foucault, Michel. 1996. Der Mensch ist ein Erfahrungstier - Gespräch mit Ducio Trombadori. Berlin: Suhrkamp:
-https://www.suhrkamp.de/buecher/der_mensch_ist_ein_erfahrungstier-michel_foucault_28874.html
-spätere Zitate aus:
-Foucault, Michel. 2010. Kritik des Regierens. Schriften zur Politik. Berlin: Suhrkamp:
-https://www.suhrkamp.de/buecher/kritik_des_regierens-michel_foucault_29533.html
-Deleuze, Gilles. 1990. "Postskriptum über die Kontrollgesellschaften". In L’autre journal Nr. 1:
-https://www.nadir.org/nadir/archiv/netzkritik/postskriptum.html
-Wiki zu Bretton Woods Abkommen:
-https://de.wikipedia.org/wiki/Bretton-Woods-System
-Staab, Philipp. 2019. Digitaler Kapitalismus. Berlin: Suhrkamp:
-https://www.suhrkamp.de/buecher/digitaler_kapitalismus-philipp_staab_7515.html
-Srnicek, Nick. 2016. Platform Capitalism. Cambridge: Polity:
-https://www.goodreads.com/book/show/32999998-platform-capitalism
-Morozov, Evgeny. 2019. "Digital Socialism?".  In New Left Review 116/117:
-https://newleftreview.org/issues/II116/articles/evgeny-morozov-digital-socialism
-Wiki zu Karl Polanyi:
-https://de.wikipedia.org/wiki/Karl_Polanyi
-Communications Decency Act, 47 U.S.C. §230:
-http://www.columbia.edu/~mr2651/ecommerce3/2nd/statutes/CommunicationsDecencyAct.pdf
-Wiki zur Eurogruppe:
-https://de.wikipedia.org/wiki/Euro-Gruppe
-Smith, Adam. 2002. Wealth of Nations. Project Gutenberg:
-http://www.gutenberg.org/ebooks/3300
-Wiki zu Oskar Morgenstern (im Zusammenhang mit ergodischer Wahrscheinlichkeit erwähnt):
-https://de.wikipedia.org/wiki/Oskar_Morgenstern
-Weitere Future Histories Episoden zum Thema:
-S01E11 | Frieder Vogelmann zu alternativen Regierungskünsten:
-https://www.futurehistories.today/episoden-blog/s01/e11-frieder-vogelmann-zu-alternativen-regierungskuensten/
-S01E53 | Kalle Kunkel zu Herrschaftstechnologien in der Krise:
-https://www.futurehistories.today/episoden-blog/s01/e53-kalle-kunkel-zu-herrschaftstechnologien-in-der-krise/
-S01E51 | Timo Daum zur unsichtbaren Hand des Plans:
-https://www.futurehistories.today/episoden-blog/s01/e51-timo-daum-zur-unsichtbaren-hand-des-plans/
-Wenn euch Future Histories gefällt, dann erwägt doch bitte eine Unterstützung auf Patreon:
-https://www.patreon.com/join/FutureHistories?
-Schreibt mir unter office@futurehistories.today und diskutiert mit auf Twitter (#FutureHistories):
-https://twitter.com/FutureHpodcast
-oder auf Reddit https://www.reddit.com/r/FutureHistories/
- www.futurehistories.today
- 
-Episode Keywords:
-#JosephVogl, #KrisedesRegierens, #FutureHistories, #Interview, #Zukunft, #DasGespenstDesKapitals, #DerSouveränitätseffekt, #Gouvernementalität, #proprietäreMärkte, #Krisenpolitik, #KritikdesRegierens, #alternativeRegierungskünste, #Foucault, #MichelFoucault, #Liberalismus, #Wirtschaftsliberalismus, #Kapitalismus, #Souveränität, #Ökonomie, #PluraleÖkonomik, #PolitischeÖkonomie, #DigitalSocialism, #EvgenyMorozov, #HeterodoxeÖkonomie, #AlternativeRegierungskunst
-
----
 Befinden wir uns in einer Krise des Regieren? Und wenn ja, was macht diese aus und wie kann ihr begegnet werden?
 
 **Nützliche Informationen & Links:**

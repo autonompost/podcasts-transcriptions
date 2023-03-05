@@ -7,61 +7,6 @@ author: PodBean Development
 
 # S02E16 - Lea Ypi on Freedom | Future Histories
 
-> ## Excerpt
-> Lea Ypi reflects on her childhood and youth in socialist Albania and the country's subsequent transition to liberal democracy and a free market economy. What's clear: None of the political economies Ypi experienced satisfied her need for and concept of freedom.
-Shownotes
-Lea Ypi's Website:
-https://personal.lse.ac.uk/YPI/
-Lea on Twitter:
-https://twitter.com/lea_ypi
-Ypi. Lea. 2021. Free. Coming of Age at the End of History. London: allen lane, Penguin Random House:
-https://www.penguin.co.uk/books/320869/free/9780241481851.html
-Ypi, Lea. 2022. Frei. Erwachsenwerden am Ende der Geschichte. Berlin: Suhrkamp:
-https://www.suhrkamp.de/buch/lea-ypi-frei-t-9783518430347
-Fine, Sarah, and Lea Ypi. 2016. Migration in Political Theory. The Ethics of Movement and Membership. Oxford University Press:
-https://global.oup.com/academic/product/migration-in-political-theory-9780199676606?cc=gb&lang=en&
-Wellman, Christopher Heath. 2016. "Freedom of Movement and the Rights to Enter and Exit" in: Migration in Political Theory. The Ethics of Movement and Membership, ed. Sarah Fine and Lea Ypi, Oxford University Press, p. 80–104:
-https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199676606.001.0001/acprof-9780199676606-chapter-5
-The Journal of Political Philosophy, of which Lea Ypi is co-editor:
-https://onlinelibrary.wiley.com/journal/14679760
-Renewal: A Journal of Social Democracy, of which Lea Ypi is commissioning editor:
-https://renewal.org.uk/
-Lea Ypi at The New Institute:
-https://thenew.institute/en/who/lea-ypi
-Further material:
-(German) Was ist die Shock Therapy? Future Histories Kurzvideo:
-https://youtu.be/QVqDbCChexo
-Shock Therapy (Wiki):
-https://en.wikipedia.org/wiki/Shock_therapy_(economics)
- 
-Further Future Histories Episodes on related topics:
-S02E10 | Aaron Benanav on Associational Socialism and Democratic Planning:
-https://www.futurehistories.today/episoden-blog/s02/e10-aaron-benanav-on-associational-socialism-and-democratic-planning/
-S02E11 | James Muldoon on Platform Socialism:
-https://www.futurehistories.today/episoden-blog/s02/e11-james-muldoon-on-platform-socialism/
-(German) S02E09 | Isabella M. Weber zu Chinas drittem Weg:
-https://www.futurehistories.today/episoden-blog/s02/e09-isabella-m-weber-zu-chinas-drittem-weg/
-S01E60 | Jan Groos zu distribuiertem Sozialismus:
-https://www.futurehistories.today/episoden-blog/s01/e60-jan-groos-zu-distribuiertem-sozialismus-staffelfinale/
- 
-If you like Future Histories, you can help with your support on Patreon:
-https://www.patreon.com/join/FutureHistories?
-Write me at office@futurehistories.today and join the discussion on Twitter (#FutureHistories):
-https://twitter.com/FutureHpodcast
-or on Reddit:
-https://www.reddit.com/r/FutureHistories/
-or on YouTube:
-https://www.youtube.com/channel/UCfRFz38oh9RH73-pWcME6yw
-or in the Collaborative Podcast Transcription:
-If you would like to support Future Histories by contributing to the collaborative transcription of episodes, please contact us at: transkription@futurehistories.today
-(German) Kollaborative Podcast-Transkription FAQ: shorturl.at/eL578 
- 
-www.futurehistories.today
- 
-Episode Keywords:
-#LeaYpi, #JanGroos, #FutureHistories, #Podcast, #Interview, #Freedom, #PenguinBooks, #Suhrkamp, #Socialism, #Sozialismus, #Capitalism, #Kapitalismus, #Post-capitalism, #Postkapitalismus, #Democracy, #Demokratie, #Autonomy, #DemocraticPlanning, #ShockTherapy, #systemchange, #Communism, #FutureHistoriesInternational,
-
----
 Lea Ypi reflects on her childhood and youth in socialist Albania and the country's subsequent transition to liberal democracy and a free market economy. What's clear: None of the political economies Ypi experienced satisfied her need for and concept of freedom.
 
   

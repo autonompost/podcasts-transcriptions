@@ -7,26 +7,6 @@ author: PodBean Development
 
 # S01E35 - Jeffrey Sachs on Economics Beyond GDP | Future Histories
 
-> ## Excerpt
-> It's high time for economics to overcome its obsession with GDP and move towards better indicators in the pursuit of a general wellbeing, says Jeffrey Sachs, well known economist, director of the UN Sustainable Development Solutions Network and Professor at Columbia University.Shownotes
-Wiki on Jeffrey Sachs:
-https://en.wikipedia.org/wiki/Jeffrey_Sachs
-Jeffrey Sachs on Twitter:
-https://twitter.com/jeffdsachs?lang=en
-Homepage Earth Institute at Columbia University:
-https://csd.columbia.edu/
-UN Sustainable Development Solutions Network (SDSN): 
-https://www.unsdsn.org/about-us
-UN Sustainability Goals:
-https://sdgs.un.org/goals
-Wiki Simon Kutznets:
-https://de.wikipedia.org/wiki/Simon_Smith_Kuznets
-Varoufakis, Yanis. 2018. Adults in the Room. London: Penguin:
-https://www.yanisvaroufakis.eu/books/adults-in-the-room/
- 
-More Future Histories episodes on the topic:
-S01E31/32 | Future Histories with Daniel Saros on his book "Information Technology and Socialist Construction" (from the introduction):
-https://castbox.fm/episode/S01E31---Daniel-E.-Saros-on-Digital-Socialism-and-the-Abolition-of-Capital-(Part-1)-id2228584-id280515245?country=en;
 https://castbox.fm/episode/S01E32---Daniel-E.-Saros-on-Digital-Socialism-and-the-Abolition-of-Capital-(Part-2)-id2228584-id286523325?country=us
  
 If you like Future Histories, you can support the show on Patreon:

@@ -7,57 +7,6 @@ author: PodBean Development
 
 # S01E03 - Armen Avanessian zu Akzelerationismus & Ethnofuturismen | Future Histories
 
-> ## Excerpt
-> Was bringt uns die allgegenwärtige Beschleunigung? Nicht nur Schlechtes, sagt Armen Avanessian in dieser Folge zu Akzelerationismus und Ethnofuturismen.
-Shownotes:
-Armen Avanessian auf Twitter:
-https://twitter.com/aavarmen
-Armen Avanessian ist Lehrstuhlinhaber für Medientheorie an der Zeppelin Universität Friedrichshafen:
-https://www.zu.de/lehrstuehle/medientheorie/?highlight=avanessian
-Avanessian, Armen und Mahan Moalemi. 2018. Ethnofuturismen. Leipzig: Merve:
-https://www.merve.de/index.php/book/show/513
- 
-Avanessian, Armen. 2013. #Akzeleration. Leipzig: Merve:  
-https://www.merve.de/index.php/book/show/467;
-Aus diesem Buch ist auch das Zitat zu Beginn der Folge:
-Avanessian, Armen. 2014. #Akzeleration#2. Leipzig: Merve:
-https://www.merve.de/index.php/book/show/478
-Andere Literatur:
-Srnicek, Nick und Alex Williams. 2013. "Das akzelerationistische Manifest". Blogbeitrag (zuletzt aufgerufen Januar 2022):
-https://syntheticedifice.files.wordpress.com/2013/06/beschleunigungsmanifest.pdf
-Das gemeinsame Buch der Autoren des akzelerationistischen Manifests:
-Srnicek, Nick und Alex Williams. 2016. Inventing the Future. London: Verso:
-https://www.versobooks.com/books/2315-inventing-the-future
-Noys, Benjamin. 2014. Malign Velocities. London: zero books:
-http://www.zero-books.net/books/malign-velocities
-Diese Personen & Themen werden erwähnt:
-Wiki zu Aria Dean:
-https://en.wikipedia.org/wiki/Aria_Dean
-Aria Dean führt eine Link-Sammlung zum Thema Blaccelerationism:
-https://webrecorder.io/ariadean/blaccelerationism
-Wiki zu Kodwo Eshun, Theoretiker & Filmemacher:
-https://en.wikipedia.org/wiki/Kodwo_Eshun
-Wiki zu Sun Ra, Musiker:
-https://de.wikipedia.org/wiki/Sun_Ra
-Wiki zu Nick Land, Vertreter des “rechten” Akzelerationismus und des Dark Enlightenment:
-https://en.wikipedia.org/wiki/Nick_Land
-Wiki zu Transhumanismus:
-https://de.wikipedia.org/wiki/Transhumanismus
-Wiki zu Posthumanismus:
-https://de.wikipedia.org/wiki/Posthumanismus
-Wiki zum Minority Report von Philip K. Dick:
-https://de.wikipedia.org/wiki/Der_Minderheiten-Bericht
-Wiki zu Afrofuturismus:
-https://de.wikipedia.org/wiki/Afrofuturismus
- 
-Wenn euch Future Histories gefällt, dann erwägt doch bitte eine Unterstützung auf Patreon:
-https://www.patreon.com/join/FutureHistories?
-Schreibt mir unter office@futurehistories.today und diskutiert mit auf Twitter (#FutureHistories):
-https://twitter.com/FutureHpodcast
-Episode Keywords:
-#ArmenAvanessian, #JanGroos, #FutureHistories, #Interview, #Zukunft, #Akzelerationismus #Ethnofuturismus, #Ethnofuturismen, #Akzeleration, #DasAkzelerationistischeManifest, #InventingTheFuture, #NickLand
-
----
 Was bringt uns die allgegenwärtige Beschleunigung? Nicht nur Schlechtes, sagt Armen Avanessian in dieser Folge zu Akzelerationismus und Ethnofuturismen.
 
 **  

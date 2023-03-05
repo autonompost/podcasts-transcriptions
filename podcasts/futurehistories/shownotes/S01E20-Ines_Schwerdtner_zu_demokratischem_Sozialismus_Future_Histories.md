@@ -7,46 +7,6 @@ author: PodBean Development
 
 # S01E20 - Ines Schwerdtner zu demokratischem Sozialismus | Future Histories
 
-> ## Excerpt
-> Mit Ines Schwerdtner, Chefredakteurin der deutschen Ausgabe des Jacobin Magazins und Ko-Moderatorin des Podcasts halbzehn.fm spreche ich über demokratischen Sozialismus.
-Interessante und relevante Links zur Folge:
-Homepage von Jacobin Deutschland:
-https://jacobin.de/
-Homepage von Jacobin US:
-https://jacobinmag.com/
-Homepage von halbzehn.fm:
-https://halbzehn.fm/about/
-Honneth, Axel. 2017. Die Idee des Sozialismus. Berlin: Suhrkamp:
-https://www.suhrkamp.de/buecher/die_idee_des_sozialismus-axel_honneth_29824.html
-Novara Media (Aaron Bastani und Ahs Sarkar werden erwähnt):
-https://novaramedia.com/
-Bastani, Aaron. 2020. Fully Automated Luxury Communism. London: Verso:
-https://www.versobooks.com/books/2757-fully-automated-luxury-communism
-Ash Sarkar Video "I'm literally a communist, you idiot!":
-https://www.youtube.com/watch?v=JD7Ol0gz11k
-Ines spricht über AOC, damit ist Alexandria Ocasio-Cortez gemeint:
-https://de.wikipedia.org/wiki/Alexandria_Ocasio-Cortez
-Interview mit Juso-Chef Kevin Kühnert zum Thema Sozialismus (Zugang z.B. über Outline):
-https://www.zeit.de/politik/deutschland/2019-05/kevin-kuehnert-spd-jugendorganisation-sozialismus
-Wheeler, S. (Hg.). 2021. In and Against the State: Discussion Notes for Socialists. London: Pluto Press:
-https://libcom.org/library/against-state-1979
-Homepage Deutsche Wohnen & Co. enteignen:
-https://www.dwenteignen.de/
- 
-Weitere Future Histories Episoden zum Thema:
-S01E15 | Rouzbeh Taheri zu Enteignung, Vergesellschaftung und demokratischem Sozialismus:
-https://www.futurehistories.today/episoden-blog/s01/e15-interview-mit-rouzbeh-taheri-zu-enteignung-amp-demokratischem-sozialismus/
-Wenn euch Future Histories gefällt, dann erwägt doch bitte eine Unterstützung auf Patreon:
-https://www.patreon.com/join/FutureHistories?
-Schreibt mir unter office@futurehistories.today und diskutiert mit auf Twitter (#FutureHistories):
-https://twitter.com/FutureHpodcast
-oder auf Reddit https://www.reddit.com/r/FutureHistories/
- www.futurehistories.today
- 
-Episode Keywords:
-#FutureHistories, #Podcast, #InesSchwerdtner, #DemokratischerSozialismus, #Jacobin, #AxelHonneth, #JanGroos, #Interview, #Novara, #AaronBastani, #AhsSarkar, #FullyAutomatedLuxuryCommunism, #Sozialismus, #DeutscheWohnen&Coenteignen
-
----
 Mit Ines Schwerdtner, Chefredakteurin der deutschen Ausgabe des [Jacobin Magazins](https://jacobin.de/) und Ko-Moderatorin des Podcasts [halbzehn.fm](https://halbzehn.fm/) spreche ich über demokratischen Sozialismus.
 
 **Interessante und relevante Links zur Folge:**
