@@ -1,0 +1,2408 @@
+1
+00:00:00,000 --> 00:00:05,560
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen von Zukunft.
+
+2
+00:00:05,560 --> 00:00:11,520
+Mein Name ist Jan Groß und ich spreche heute mit Marlies Wirth und Paul Feigelfeld über künstliche Intelligenz.
+
+3
+00:00:11,520 --> 00:00:16,760
+Die beiden haben zusammen die Ausstellung Uncanny Values Künstliche Intelligenz und Duko ratiert,
+
+4
+00:00:16,760 --> 00:00:23,680
+die derzeit im Wiener Museum für angewahnte Kunst läuft und dort noch bis zum 6. Oktober 2019 zu sehen sein wird.
+
+5
+00:00:23,680 --> 00:00:28,480
+Wundert euch nicht, ich werde während des Interviews einmal auf eine andere Audioquelle umsteigen,
+
+6
+00:00:28,480 --> 00:00:33,320
+da es einen technischen Ausfall gab. Zum Glück gab es das B-Mikrofon,
+
+7
+00:00:33,320 --> 00:00:36,880
+sodass ihr in dem Genuss des vollen Interviews mit den beiden kommen könnt
+
+8
+00:00:36,880 --> 00:00:41,400
+und ich werde im weiteren Verlauf dann auch wieder zur ursprünglichen Audioquelle zurückkehren können.
+
+9
+00:00:41,400 --> 00:00:46,880
+Es war mal wieder ein ausgesprochen interessantes Gespräch für mich mit Perlen wie diesen hier.
+
+10
+00:00:46,880 --> 00:00:55,040
+In Wirklichkeit aber müssen wir uns vielleicht eben auch damit anfreunden und dann anfangen auf der Basis zu arbeiten, dass wir Arschlöcher sind.
+
+11
+00:00:55,040 --> 00:01:00,760
+Und dass keine Technologie das richten wird.
+
+12
+00:01:00,760 --> 00:01:05,600
+Lasst mich wissen, was ihr zu dem ganzen denkt, zum Beispiel auf Twitter unter Hashtag Future Histories
+
+13
+00:01:05,600 --> 00:01:12,000
+oder in unserem Subreddit oder per Mail unter future-histories-at-protonmail.com
+
+14
+00:01:12,000 --> 00:01:26,080
+Und wenn ihr den Podcast darüber hinaus unterstützen wollt, dann könnt ihr das auf Patreon unter www.patreon.com-future-histories.
+
+15
+00:01:26,080 --> 00:01:28,920
+Herzlich willkommen Marlies und Paul.
+
+16
+00:01:28,920 --> 00:01:30,280
+Danke für die Einladung.
+
+17
+00:01:30,280 --> 00:01:32,160
+Hallo Jan.
+
+18
+00:01:32,160 --> 00:01:36,920
+Fangen wir mal mit der Definitionsfrage an. Was ist künstliche Intelligenz?
+
+19
+00:01:36,920 --> 00:01:44,480
+Es ist eine ziemlich schwierige Frage. Ich glaube, künstliche Intelligenz ist ein sehr weiter und sehr ehreführender Begriff,
+
+20
+00:01:44,480 --> 00:01:53,320
+den es schon sehr, sehr lange gibt, der vielleicht zeitweise besser umschrieben wäre mit Maschinenintelligenz oder maschinischer, technischer Intelligenz,
+
+21
+00:01:53,320 --> 00:01:59,960
+aber als Forschungsgebiet sich aufteilt in verschiedene Techniken- und Methodengebiete.
+
+22
+00:01:59,960 --> 00:02:03,840
+Also es ist ein Begriff, der jetzt nicht unbedingt einen Zustand beschreibt.
+
+23
+00:02:03,840 --> 00:02:11,080
+Es gibt keine künstliche Intelligenz in dem Sinn, sondern einen Komplex von verschiedenen Techniken des Verstehen und Lernens,
+
+24
+00:02:11,080 --> 00:02:19,680
+die durch verschiedene Algorithmen und andere Methoden der Berechnung vollzogen werden können.
+
+25
+00:02:19,680 --> 00:02:26,000
+Und welche sind die derzeit am häufigsten angewandten Techniken in Bezug auf künstliche Intelligenz?
+
+26
+00:02:26,000 --> 00:02:33,920
+Seit ein paar Jahren geistert dieser Begriff Deep Learning durch die Gegend, der sich irrsinnig gut anhört,
+
+27
+00:02:33,920 --> 00:02:41,680
+deswegen auch, glaube ich, so beliebt ist, allerdings das Problem mit sich bringt, dass er in seiner Tiefe auch sehr schwer nachvollziehbar ist.
+
+28
+00:02:41,680 --> 00:02:46,640
+Diese Tiefe hat allerdings überhaupt nichts mit Tiefsinnigkeit zu tun, sondern hat einfach damit zu tun,
+
+29
+00:02:46,640 --> 00:02:54,960
+dass im Prinzip mehrere neuronale Netzwerke, mit denen versucht wird, irgendwie Neuronen im menschlichen Gehirn nachzuäffen,
+
+30
+00:02:54,960 --> 00:03:04,440
+aufeinander geschichtet werden und dabei eine bestimmte Fähigkeit trainiert wird, nämlich in die Tiefe, also vertikal.
+
+31
+00:03:04,440 --> 00:03:11,320
+Das heißt, dieses Wissen, das hier produziert wird, ist eins, das sich überhaupt nicht irgendwie horizontal und vertikal vernetzt
+
+32
+00:03:11,320 --> 00:03:17,600
+und besonders allgemein oder universell wäre, sondern dann zum Beispiel, und da gehen diese Anwendungsgebiete momentan hin,
+
+33
+00:03:17,600 --> 00:03:22,800
+eine Sache besonders gut kann, in der Regel schon weitaus besser und schneller als Menschen.
+
+34
+00:03:22,800 --> 00:03:31,840
+Das kann sein, Bilderkennung im medizinischen Bereich, weil zum Beispiel so ein Deep Learning-System schon dreieinhalb Milliarden Bilder
+
+35
+00:03:31,840 --> 00:03:36,760
+von menschlichen Augen gesehen hat und deswegen sehr gut darin ist, grauen Start zu erkennen,
+
+36
+00:03:36,760 --> 00:03:45,040
+viel mehr Bilder als ein menschlicher Arzt, das in seiner Lebzeit je kann, dafür aber nicht in der Lage ist, irgendwas anderes zu tun.
+
+37
+00:03:45,040 --> 00:03:49,280
+Das wäre so eine Technik, die die letzten Jahre in aller Munde war.
+
+38
+00:03:49,280 --> 00:03:57,720
+Da gab es dann eben auch AlphaGo, das berühmte Go-Programm von Google, oder Deep Dream, das ist alles im selben Methodenbereich.
+
+39
+00:03:57,720 --> 00:04:05,800
+Und momentan sprechen alle von den sogenannten ganz Generative Adversarial Networks, die verantwortlich zeichnen für Deepfakes,
+
+40
+00:04:05,800 --> 00:04:13,240
+wo sich ja derzeit die Ereignisse jeden Tag, jede Stunde überschlagen, was solche Generative Adversarial Networks sind.
+
+41
+00:04:13,240 --> 00:04:21,480
+Zwei Netzwerke, die sozusagen miteinander gegeneinander lernen, in der Lage sind zu produzieren.
+
+42
+00:04:21,480 --> 00:04:32,720
+Das heißt, das fing an damit, dass man versucht hat, bestimmte Ähnlichkeiten herzustellen oder herauszukitzeln aus solchen Bilddatenbanken zum Beispiel.
+
+43
+00:04:32,720 --> 00:04:37,800
+Also man gibt dem Ding so und so viele Bilder als Training-Datenbank und sagt dann, zeige mir was Neues,
+
+44
+00:04:37,800 --> 00:04:44,480
+verstärke nicht bestimmte Bildmerkmale, sondern mach mir zum Beispiel ein völlig neues Gesicht. Das war dann so das erste, was es gab,
+
+45
+00:04:44,480 --> 00:04:49,440
+diese berühmte Webseite This Person Does Not Exist.
+
+46
+00:04:49,440 --> 00:05:00,600
+Dann gab es die Porn-Deepfakes, wo man in der Lage war, eben fotorealistisch und zwar im Bewegtbild Gesichter von Prominenten auf Pornodarstellerinnen drauf zu montieren.
+
+47
+00:05:00,600 --> 00:05:08,040
+Das Ganze hat sich dann weiter ausgedehnt in die Politik und so weiter und ist ja mittlerweile ein gesellschaftspolitisches Thema geworden,
+
+48
+00:05:08,040 --> 00:05:19,080
+weil natürlich mittlerweile, und das ist gut so, die Risiken, die das Ganze mit sich bringt für die Manipulation im öffentlichen Raum,
+
+49
+00:05:19,080 --> 00:05:23,720
+im öffentlichen Bewusstsein, den Leuten langsam bewusst werden.
+
+50
+00:05:23,720 --> 00:05:30,120
+Wir kommen definitiv dann noch später zu den verschiedenen Anwendungsfeldern, aber mich würde noch interessieren,
+
+51
+00:05:30,120 --> 00:05:37,000
+du hast jetzt von neuronalen Netzen gesprochen, die in sogar der anderen Herangehensweise dann quasi gegeneinander antreten.
+
+52
+00:05:37,000 --> 00:05:44,200
+Nur damit ich das verstehen kann, basiert das grundsätzlich immer noch darauf, dass es quasi eine große Masse an Daten gibt,
+
+53
+00:05:44,200 --> 00:05:53,600
+dass die auf bestimmte Strukturähnlichkeiten analysiert wird und dass der Anteil der künstlichen Intelligenz oder das Intelligente an dem Ganzen
+
+54
+00:05:53,600 --> 00:06:00,640
+eigentlich darin basiert, dass man sozusagen in Bezug auf diese Mustererkennung sich selbst trainierende Algorithmen hat,
+
+55
+00:06:00,640 --> 00:06:07,000
+also die quasi ganz viele verschiedene Methoden versuchen, also Wege versuchen, bei manchen erfolgreich sind,
+
+56
+00:06:07,000 --> 00:06:12,000
+dann den Weg weitergehen, wieder ganz viele verschiedene Versuche und so weiter und so fort.
+
+57
+00:06:12,000 --> 00:06:15,200
+Also ist das immer noch die grundsätzlichste Herangehensweise?
+
+58
+00:06:15,200 --> 00:06:17,440
+Im Grunde genommen ja, so funktioniert das.
+
+59
+00:06:17,440 --> 00:06:25,360
+Also wir haben und deswegen befinden wir uns momentan an diesem Punkt, der sich sozusagen technikgeschichtlich entwickelt hat,
+
+60
+00:06:25,360 --> 00:06:34,120
+nachdem wir lange Zeit im sogenannten Winter of AI gefroren haben, gepaart mit Smartphone-Technologie
+
+61
+00:06:34,120 --> 00:06:43,960
+ab ungefähr Mitte der 2000er, 2007 Einführung des iPhones, mit Big Data und dem wahnsinnigen Aufkommen von Daten als Ressourcen
+
+62
+00:06:43,960 --> 00:06:50,360
+und der steigenden Möglichkeit und Kapazität von Prozessoren das Ganze zu verarbeiten,
+
+63
+00:06:50,360 --> 00:06:55,880
+hat sich jetzt sozusagen eine Kontingente, ein Moment ergeben, wo das funktionieren kann.
+
+64
+00:06:55,880 --> 00:06:58,680
+Plus es hat einen Infrastrukturwandel stattgefunden.
+
+65
+00:06:58,680 --> 00:07:07,880
+Die großen Konzerne haben allesamt innerhalb der letzten zehn Jahre angefangen, ihre inneren Methoden so weit umzuändern,
+
+66
+00:07:07,880 --> 00:07:16,200
+dass alles, was da an Daten prozessiert wird, zu einem Teil auch benutzt wird, um weiter an Methoden des Machine-Learnings
+
+67
+00:07:16,200 --> 00:07:18,200
+und der künstlichen Intelligenz zu arbeiten.
+
+68
+00:07:18,200 --> 00:07:25,160
+Das heißt, jeder Facebook-Post, jeder Instagram-Post, jede Google-Suche und so weiter wird auch dahingehend ausgewertet
+
+69
+00:07:25,160 --> 00:07:33,160
+oder zu Trainingszwecken eingesetzt, um verschiedenste Systeme, das kann eben alles sein, von Spracherkennung,
+
+70
+00:07:33,160 --> 00:07:38,440
+Bilderkennung, jede Form von Prediction und so weiter zu trainieren.
+
+71
+00:07:38,440 --> 00:07:44,600
+Was allerdings nicht außer Acht zu lassen ist, ist, dass es in dem Ganzen immer noch und auch weiterhin
+
+72
+00:07:44,600 --> 00:07:49,960
+einen sehr großen Anteil menschlicher Arbeit gibt, der zum Teil kaschiert wird.
+
+73
+00:07:49,960 --> 00:07:59,000
+Das ist ganz interessant, dass dadurch, dass es auch ein verkaufs-, wie sagt man, ein Unique Selling Point ist,
+
+74
+00:07:59,000 --> 00:08:04,040
+für viele Firmen zu sagen, wir benutzen Machine-Learning, dass viele sich das auf die Fahnen schreiben,
+
+75
+00:08:04,040 --> 00:08:13,800
+in Wirklichkeit aber irgendwo in Bangladesch sich 500 Leute in einem Call-Center oder sonst wo für Microlabor bezahlen,
+
+76
+00:08:13,800 --> 00:08:18,280
+die dann so eine Anfrage erkennen, die überhaupt nicht von Machine-Learning beantwortet wird oder sonst was,
+
+77
+00:08:18,280 --> 00:08:25,000
+sondern in Wirklichkeit von irgendjemandem, der dafür unterhalb jeder Armutsgrenze bezahlt wird.
+
+78
+00:08:25,000 --> 00:08:32,040
+Eine letzte Frage muss ich noch dazu stellen, wo ist der Punkt, an dem man dann eigentlich von Intelligenz spricht,
+
+79
+00:08:32,040 --> 00:08:37,000
+oder ab wann fängt man an, von Intelligenz zu sprechen, weil auf eine Art, und ich habe so das Gefühl,
+
+80
+00:08:37,000 --> 00:08:42,520
+mir fehlt da wie so ein Puzzlestück oder so, habe ich das Gefühl, dass es sich da jetzt primär immer noch
+
+81
+00:08:42,520 --> 00:08:52,840
+um wie so eine avanciertere Brute-Force-Methode handelt, also wo quasi eigentlich mit einer großen Rechenleistung
+
+82
+00:08:52,840 --> 00:08:56,840
+einfach eine große Vielfalt ausgetestet wird und manches funktioniert und manches nicht.
+
+83
+00:08:56,840 --> 00:09:03,960
+Auf der anderen Seite gibt es ja dann so Phantasmen der Emulation von menschlichen Gehirnen,
+
+84
+00:09:03,960 --> 00:09:11,400
+wo dann ja auch viele Aufladungen mit einhergehen in Bezug auf eine Menschenähnlichkeit.
+
+85
+00:09:11,400 --> 00:09:17,240
+Wie soll dieser Schritt vollzogen werden, von dem einen hin zu diesem idealisierten anderen?
+
+86
+00:09:17,240 --> 00:09:23,720
+Ist ja ein Paradoxerschild, eindeutig, also es ist sozusagen die Henne-AI-Frage,
+
+87
+00:09:23,720 --> 00:09:30,360
+weil wir nicht wissen, wie unser Hirn so richtig funktioniert, also was sollen wir dann um Himmels willen emulieren oder simulieren?
+
+88
+00:09:30,360 --> 00:09:35,880
+Ne, also wir wissen nicht, wie Intelligenz funktioniert, also die Definitionen von Intelligenz,
+
+89
+00:09:35,880 --> 00:09:45,160
+an denen hier gearbeitet wird, mit denen hier operiert wird, die ganze Zeit sind ein ganzes Spektrum verschiedener Bereiche auch dessen
+
+90
+00:09:45,160 --> 00:09:53,240
+und natürlich kommt da auch viel an sozusagen menschlichen Ängsten und so weiter,
+
+91
+00:09:53,240 --> 00:09:59,160
+deswegen auch in der Ausstellung der Begriff, der an Kenningens, der Unheimlichkeit so im Zentrum steht,
+
+92
+00:09:59,160 --> 00:10:07,560
+wie wir damit umgehen, also irgendwie wollen wir ja auch gar nicht, dass das überhaupt passiert,
+
+93
+00:10:07,560 --> 00:10:10,760
+weil wir auch Angst haben davor, was dann mit uns passieren könnte,
+
+94
+00:10:10,760 --> 00:10:19,400
+aber einerseits ist es eben so ein strange loop, wo man denkt, wir müssen erst selber verstehen, wie wir verstehen,
+
+95
+00:10:19,400 --> 00:10:26,520
+um eine künstliche Intelligenz produzieren zu können, gleichzeitig müssten wir eine künstliche Intelligenz implementieren, um uns verstehen zu können.
+
+96
+00:10:26,520 --> 00:10:32,760
+So dreht sich das, wie dieser Schritt oder dieser Schritt, der sich schlussendlich vollziehen werden, weiß ich nicht,
+
+97
+00:10:32,760 --> 00:10:41,720
+mir scheint wichtig vor allem, glaube ich, dass man so ein bisschen von diesem pre-kopernikanischen Standpunkt abkommt,
+
+98
+00:10:41,720 --> 00:10:48,440
+das hat Benjamin Weitem ganz gut beschrieben in einem Text, dass er so ein bisschen vermutet oder wir zumindest in Erregung ziehen sollten,
+
+99
+00:10:48,440 --> 00:10:56,920
+dass wir uns, was unsere Konzeptionen von menschlichen Geist, von Intelligenz, der Art und Weise, der Wirklichkeit und so weiter funktioniert,
+
+100
+00:10:56,920 --> 00:11:05,560
+weiter an einem Punkt befinden, der kurz zu einer koperikanischen Runde steht, so wie man damals auch davon ausgegangen ist über Millenia,
+
+101
+00:11:05,560 --> 00:11:13,640
+dass es ein, sagen wir jetzt zum Beispiel, geozentrisches Weltbild gibt und das war in Stein gemeißelt, dass wir jetzt sagen,
+
+102
+00:11:13,640 --> 00:11:21,240
+wir sind der Messstein für das, was Intelligenz ist, ohne dabei zu wissen, was Intelligenz ausmacht, genau,
+
+103
+00:11:21,240 --> 00:11:28,760
+aus der schwaligen Definition darüber, dass wir lernfähig sind, verschiedene Fähigkeiten miteinander verbinden können und so weiter.
+
+104
+00:11:28,760 --> 00:11:37,720
+Und das finde ich eigentlich einen guten Ausblick, dass man sagt, und ich glaube sozusagen, also ganz salopp gesagt,
+
+105
+00:11:37,720 --> 00:11:44,680
+wir müssen uns vielleicht ein bisschen locker machen bei dem Ganzen, ohne dabei zu sehr jetzt einerseits zum Beispiel
+
+106
+00:11:44,680 --> 00:11:55,880
+in einer Technologiebranche zu folgen, die da natürlich höchst affirmativ, aber mit ganz eindeutigem Monetarisierungs- und Profitgedanken rangeht
+
+107
+00:11:55,880 --> 00:12:06,840
+oder eine Regierungsinstitution, die da eindeutig natürlich angeht mit dem Interesse an Kontrolle und so weiter, zu sehen, die Arme zu spinnen.
+
+108
+00:12:06,840 --> 00:12:14,920
+Ihr breitet in der Ausstellung ja eine ganze Palette von Bereichen aus, in denen künstliche Intelligenz auch heute schon Einfluss auf unser aller Leben hat.
+
+109
+00:12:14,920 --> 00:12:20,280
+Das geht dann von Wirtschaft und Politik über Gesundheit und Forschung ein bisschen in Bereiche,
+
+110
+00:12:20,280 --> 00:12:27,160
+in denen man es vielleicht an sich nicht so vermuten würde, wie Spiritualität, Sex oder Liebe.
+
+111
+00:12:27,160 --> 00:12:33,640
+Kannst du uns ein paar Beispiele geben, inwiefern künstliche Intelligenz unseren Alltag heute schon beeinflusst?
+
+112
+00:12:33,640 --> 00:12:39,960
+Ja, vielleicht auch noch kurz zu diesem Thema Intelligenz generell, wo ja immer von Gehirn ausgegangen wird
+
+113
+00:12:39,960 --> 00:12:45,240
+und den Menschen natürlich auch eine wahnsinnige körperliche Intelligenz besitzen, die manchen vergessen wird.
+
+114
+00:12:45,240 --> 00:12:54,760
+Die Art, wie wir lernen, Kulturtechnik, wie wir lernen, sind ja auch bestimmt von unserem physischen Sein und von unserem Zusammenleben als Gesellschaft.
+
+115
+00:12:54,760 --> 00:13:05,480
+Da sind wir am Rande zu den Themen. Es ist natürlich wichtig, dass man sich überlegt, dass diese Begriffe natürlich Menschenbegriffe sind und künstliche Intelligenz zwar reinspielt,
+
+116
+00:13:05,480 --> 00:13:12,280
+aber per se keine interessanten Themen hat. Was Gefühle betrifft, sind wir da natürlich weit entfernt.
+
+117
+00:13:12,280 --> 00:13:21,080
+Wir haben allerdings versucht, mit einem schon genannten GAN, einem Generative Artificial Network, auch neue Emotionen darzustellen in dieser Ausstellung,
+
+118
+00:13:21,080 --> 00:13:29,720
+mit dem AI-Emoji, den AI-Generated Emojis, die von Fossil Studio mit uns entwickelt wurden und versuchen, mit uns jetzt zu kommunizieren.
+
+119
+00:13:29,720 --> 00:13:39,960
+Im Bereich der Politikgesundheit wurden auch schon Beispiele genannt, natürlich die Deepfakes, die sind auch konkrete Anwendungsbeispiele, die uns auch gefährlich werden,
+
+120
+00:13:39,960 --> 00:13:51,480
+die Bots, die quasi meinungsbildend einwirken in sozialen Medien, die verwält werden, um verschiedenste Ansichten zu verstärken und zu verbreiten,
+
+121
+00:13:51,480 --> 00:14:00,920
+ein Ausmaß, das normale User, menschliche User einzuschreiben würden. Im Gesundheitsbereich natürlich medizinische Einsatzgebiete,
+
+122
+00:14:00,920 --> 00:14:12,680
+die wieder leider gekoppelt sind an nationale AI-Strategien, wie beispielsweise in Singapur zur Bekämpfung von Diabetes Typ 2, was ja per se mal positiv klingt,
+
+123
+00:14:12,680 --> 00:14:19,160
+man kann das sehr gut mittlerweile erkennen mit Qualitsystemen, andererseits ist man sofort in einem regigen System gekoppelt,
+
+124
+00:14:19,160 --> 00:14:27,640
+in dem Gesundheitsdaten gegen einen verwendet werden und man keinen Versicherungsschutz mehr erhält, weil man bereits als gefährdete Person eingestellt wird,
+
+125
+00:14:27,640 --> 00:14:38,920
+bis hin zu Spiritualität natürlich, das ist so ein neuartigem Glauben, wo Menschen jetzt anstatt einer höheren Gewalt im Sinne einer kirchlichen,
+
+126
+00:14:38,920 --> 00:14:48,760
+gottähnlichen Gestalt jetzt glauben, dass KI uns retten kann, unseren Planeten retten kann, bessere, klügere, weisere Entscheidungen treffen kann als der Mensch,
+
+127
+00:14:48,760 --> 00:14:59,960
+und das ist natürlich fragwürdig, weil die Daten, die wir zur Verfügung stellen für diese Lernsysteme, immer noch von einer Geschichte geprägt sind,
+
+128
+00:14:59,960 --> 00:15:09,160
+die jenseits von einer sogenannten Gerechtigkeit oder sozialen gleichen Verteilung stattgefunden hat und bis heute natürlich hier problematisch ist,
+
+129
+00:15:09,160 --> 00:15:15,160
+wenn wir uns anschauen, dass beispielsweise in der Schweiz das Frauenwahlrecht auch erst vor 30 Jahren implementiert wurde,
+
+130
+00:15:15,160 --> 00:15:26,600
+möchte man nicht wissen, welche Daten diese Maschinen eigentlich lernen, welche Relevanz, welche Personen in der Gesellschaft und unserem Zusammenleben einnehmen.
+
+131
+00:15:26,600 --> 00:15:35,160
+Das darf man natürlich nicht aus der Augen lassen, wenn man sich anschaut, wie KI-Systeme auf welcher Basis sie Entscheidungen haben.
+
+132
+00:15:35,160 --> 00:15:45,400
+Da sprichst du ein ganz wichtiges Thema an, das Thema der Daten, denn zumindest so wie ich das verstanden habe, liefern diese Daten letztlich eigentlich den Rohstoff,
+
+133
+00:15:45,400 --> 00:15:58,360
+auf dem sagen, all dieses Lernen ja basiert und entgegen einer so weit verbreiteten Meinung einer scheinbaren Objektivität von Daten ist es keinesfalls so, dass die neutral wären.
+
+134
+00:15:58,360 --> 00:16:08,600
+Könnt ihr da vielleicht noch ein bisschen uns das genauer näherbringen, welche Rolle spielen Daten in Bezug auf künstliche Intelligenz und welche Auswirkungen hat das?
+
+135
+00:16:08,600 --> 00:16:16,360
+Ja, das ist natürlich klar, die Frage ist immer, neutral kann kaum etwas sein auf der Welt, jede unserer Entscheidungen, auch von uns Menschen,
+
+136
+00:16:16,360 --> 00:16:24,120
+ist eigentlich subjektiv von unseren eigenen Zielen und Motivationen geprägt, wenn man sich anschaut, wer stellt diese Daten zur Verfügung und warum,
+
+137
+00:16:24,120 --> 00:16:34,120
+kommt man eigentlich sehr schnell drauf, dass es in der Hand von einigen wenigen großen Konzernen ist, die aufgrund vorhandener Ressourcen und finanzieller Mittel jetzt in der Lage sind,
+
+138
+00:16:34,120 --> 00:16:44,600
+etwas weiter zu entwickeln als vielleicht kleinere unabhängige Forschungsinstitutionen, die es aber Gott sei Dank mehr und mehr gibt und da gibt es jetzt diesen netten Begriff King Gaffa,
+
+139
+00:16:44,600 --> 00:16:58,600
+Google, Amazon, Facebook, Apple, den wir ja wie die Basalen immer noch die anderen darbringen und zwar unbezahlt, dafür diese Systeme nutzen, die uns diese mächtige Instanz zur Verfügung stellt.
+
+140
+00:16:58,600 --> 00:17:08,600
+Und die Frage ist, mit welchem Ziel werden diese Daten verarbeitet und manchmal werden Ziele vorgeschützt, die haben Muskeln oder im Hintergrund geht es eigentlich,
+
+141
+00:17:08,600 --> 00:17:20,600
+wie Paul vorhin schon erwähnt hat, warum das Machine Learning betrieben werden kann, mit beispielsweise hunderten, tausenden Profilbildern von Usern auf sozialen Medien zum Beispiel,
+
+142
+00:17:20,600 --> 00:17:30,600
+an denen Gesichtserkennung, Emotionserkennung etc. betrieben wird, trainiert wird und was mit den Daten weitergemacht wird.
+
+143
+00:17:30,600 --> 00:17:39,600
+Und da entsteht natürlich auch aufgrund der Sachlage, dass diese ganzen genannten Großkonzerne zwar supranational operieren,
+
+144
+00:17:39,600 --> 00:17:49,600
+aber eigentlich aus den westlichen, amerikanischen Realms stammen, dass diese Daten nurmals neutral sein können und dass sie auch gar nicht dafür eingesetzt werden,
+
+145
+00:17:49,600 --> 00:17:55,600
+beispielsweise soziale Ungleichheit zu minimieren, sondern im Gegenteil, diese Clou da noch verdreht.
+
+146
+00:17:55,600 --> 00:18:06,600
+Also wir sind da glaube ich noch, um das noch zu ergänzen oder noch zu eskalieren, in seiner ganz eigenartigen Produktions- und Verarbeitungs-Kybernetik drin,
+
+147
+00:18:06,600 --> 00:18:16,600
+die damit zu tun hat, dass einerseits die Produktion dieser Daten eine ist, die völlig anders funktioniert wie noch vor einigen Jahrzehnten oder sogar nur Jahren.
+
+148
+00:18:16,600 --> 00:18:19,600
+Das lässt sich sehr schön nachvollziehen an Facebook zum Beispiel.
+
+149
+00:18:19,600 --> 00:18:26,600
+Also sagen wir so, ich glaube Big Data fing an in einem Moment, wenn eine Ressource geschaffen wurde, ohne dass man wusste, was man damit machen soll.
+
+150
+00:18:26,600 --> 00:18:32,600
+Es war wie Öl finden ohne ein Konzept davon haben, dass man das irgendwie verbrennen kann oder einen Motor bauen kann.
+
+151
+00:18:32,600 --> 00:18:41,600
+Und das hat dann relativ schnell funktioniert und die Plattformen, die dann entstanden sind, sind tatsächlich vergleichbar Ölplattformen,
+
+152
+00:18:41,600 --> 00:18:48,600
+die da sozusagen irgendwas geschafft haben anzuzapfen, irgendwelche sentimentalen Sedimente, die in uns dran sind
+
+153
+00:18:48,600 --> 00:18:54,600
+und diese herauszufunden, indem sie jedem die Möglichkeit geben, da sozusagen zumindest das auszuschütten,
+
+154
+00:18:54,600 --> 00:19:01,600
+haben das Ganze aber dann so weit schon raffiniert, also es ist so perfekt aufgebaut, dass wir nicht nur die Daten produzieren,
+
+155
+00:19:01,600 --> 00:19:06,600
+sondern auch schon sozusagen die Raffinerie mitgestalten.
+
+156
+00:19:06,600 --> 00:19:15,600
+Das war ursprünglich mal nur ein Like, Facebook hat dann angefangen sozusagen diese Emotionen, die man hat zu reagieren, schon zu verfeinern.
+
+157
+00:19:15,600 --> 00:19:22,600
+Das heißt, wir haben die Daten schon so weit voraufbereitet für die, dass es schon natürlich einiges an Arbeit gestarrt hat,
+
+158
+00:19:22,600 --> 00:19:26,600
+wie man diese Daten dann weiter zu klassifizieren hat.
+
+159
+00:19:26,600 --> 00:19:32,600
+Dann hat man eben gesehen im Rahmen des Arabischen Frühlings und der sogenannten Twitter-Revolutionen und so weiter,
+
+160
+00:19:32,600 --> 00:19:40,600
+da auch der Jump-Fall seit 2016, was für einen massiven Impact das hat und was es für massive Manipulationsmöglichkeiten geben wird.
+
+161
+00:19:40,600 --> 00:19:50,600
+Und ich glaube, das war ein interessanter Moment für die guten Leute von Twitter, Facebook und Co, die dann da standen und das Gefühl hatten,
+
+162
+00:19:50,600 --> 00:19:57,600
+Moment, was passiert denn hier eigentlich? Wir haben eigentlich gedacht, wir machen da was relativ harmloses, lustiges,
+
+163
+00:19:57,600 --> 00:20:04,600
+vielleicht ein bisschen machistisches oder sonst was im Fall von Facebook und plötzlich haben wir so einen globalen Impact
+
+164
+00:20:04,600 --> 00:20:11,600
+und wir haben irrsinnige Ressource in der Hand. Es gibt diese berühmten Records von Mark Zuckerberg, der ja noch ganz jung ist,
+
+165
+00:20:11,600 --> 00:20:15,600
+wo er dann sagt, I don't know why people give me this, they're fucking stupid.
+
+166
+00:20:15,600 --> 00:20:20,600
+Und ich glaube, so funktioniert im Ende diese ganze Industrie. Also da ist was entstanden.
+
+167
+00:20:20,600 --> 00:20:26,600
+Das heißt, einerseits sind schon die Plattformen, wo das produziert wird, wie diese Algorithmen dort funktionieren,
+
+168
+00:20:26,600 --> 00:20:34,600
+wie sie sozusagen kompartmentalisieren innerhalb dieser Kulturgruppen und so weiter, bringen eine Bias mit sich,
+
+169
+00:20:34,600 --> 00:20:42,600
+provozieren und eskalieren bestimmte Biases dann noch weiter, plus dann natürlich die Schritte.
+
+170
+00:20:42,600 --> 00:20:50,600
+Es gibt nicht irgendwie drohe Daten und dann werden sie irgendwo, kommen sie einer Bias an, sondern wir befinden uns in einem totalen Dickicht von Bias.
+
+171
+00:20:50,600 --> 00:20:59,600
+Das ist zeitweise schwer nachzuvollziehen. Es gibt da, sozusagen Manifestationen des Ganzen, die relativ auf der Hand liegen.
+
+172
+00:20:59,600 --> 00:21:06,600
+So was, was wir kennen aus der Presse mittlerweile, wie, keine Ahnung, ein selbstfahrendes Auto erkennt Afroamerikaner nicht
+
+173
+00:21:06,600 --> 00:21:09,600
+und überfährt ihn deswegen, weil es einfach nicht darauf trainiert ist.
+
+174
+00:21:09,600 --> 00:21:16,600
+Wir müssen aber, glaube ich, und das wird interessant in den nächsten Jahren, da noch viel, viel feiner werden
+
+175
+00:21:16,600 --> 00:21:23,600
+in der Erforschung des Ganzen und in der Ausarbeitung des Ganzen, weil wir da, glaube ich, da kommt ein Haufen Scheiße auf uns zu,
+
+176
+00:21:23,600 --> 00:21:30,600
+ganz salopp gesagt noch. Das wird richtig schlimm. Und da kommen, da sind viele Konsequenzen noch drin,
+
+177
+00:21:30,600 --> 00:21:36,600
+die wir noch überhaupt nicht abschätzen können. Und das vielleicht, um jetzt den Bogen zurückzumachen zu den Themen,
+
+178
+00:21:36,600 --> 00:21:43,600
+die wir versucht haben in der Ausstellung anzusprechen und den Künstlern, die wir ausgewählt haben,
+
+179
+00:21:43,600 --> 00:21:49,600
+das sind so die ersten Schritte zu zeigen, nicht nur was kann künstliche Intelligenz, sondern wie funktioniert es,
+
+180
+00:21:49,600 --> 00:21:57,600
+was sind die Mechanismen, die dahinter stattfinden, weil das Moment kann so ist, dass wir zwar ein bisschen Angst haben davor,
+
+181
+00:21:57,600 --> 00:22:04,600
+aber im Endeffekt ist es gerade ein bisschen ein Kuriositätenkabinett. Also die Hälfte davon ist gar nicht echt,
+
+182
+00:22:04,600 --> 00:22:11,600
+da sitzen irgendwo irgendwelche armen Programmierer und armen Kreuzunternehmer, die das Ganze in Wirklichkeit echt menschlich machen.
+
+183
+00:22:11,600 --> 00:22:18,600
+Die andere Hälfte ist Brot und Spiele, das spielt dann Go und macht irgendwelche lustigen Sachen und erzeugt irgendwelche funky Bilder
+
+184
+00:22:18,600 --> 00:22:26,600
+oder kann irgendwelche Musik komponieren. Aber das Ausmaß dessen und die Tatsache, dass das bereits dabei ist,
+
+185
+00:22:26,600 --> 00:22:33,600
+unsere Zivilisation und zwar überall auf der Welt umzukrempeln, ist noch nicht so richtig angekommen, glaube ich.
+
+186
+00:22:33,600 --> 00:22:37,600
+Und das wäre interessant, da anzufangen und daran zu arbeiten.
+
+187
+00:22:37,600 --> 00:22:45,600
+Und um in Bezug auf die Daten noch mal ein bisschen nachzuhaken, es gibt auf der einen Seite so etwas wie eine
+
+188
+00:22:45,600 --> 00:22:54,600
+in Anführungsstrichen eine Verschmutzung der Daten mit den Biases, die unsere Gesellschaft hat und die sich natürlich
+
+189
+00:22:54,600 --> 00:23:01,600
+dann in die Daten übertragen. Und das wäre mal ein grundsätzliches Problem, das ihr angesprochen habt.
+
+190
+00:23:01,600 --> 00:23:10,600
+Und dann darüber hinaus frage ich mich, inwiefern es ein strukturelles Problem gibt, das immer erhalten bleiben wird,
+
+191
+00:23:10,600 --> 00:23:21,600
+weil quasi ein Übersetzungsproblem besteht. Also weil Daten an sich in Information verwandelt werden und dadurch
+
+192
+00:23:21,600 --> 00:23:27,600
+eine Auslassung passiert, die auch nicht kaschiert werden kann, die auch nicht überbrückt werden kann,
+
+193
+00:23:27,600 --> 00:23:32,600
+weil sie auf einer strukturellen Ebene passiert.
+
+194
+00:23:32,600 --> 00:23:40,600
+Ja, also wie Madis gesagt hat, kann ich noch mal unterstützen, es gibt da keine Neutralität und es gibt keine Rotafen.
+
+195
+00:23:40,600 --> 00:23:48,600
+Das hat es nie gegeben. Es gibt diese komische Nähe davon, dass Daten in irgendeiner Art und Weise,
+
+196
+00:23:48,600 --> 00:23:55,600
+dass sie nichts heraus entstehen und dann neutral und pristine und sauber daherkommen
+
+197
+00:23:55,600 --> 00:23:59,600
+und wir sie dann erst wieder schmutzig machen. Nein, wir haben die Daten gemacht.
+
+198
+00:23:59,600 --> 00:24:06,600
+Es ist genauso wie Erdöl aus Knochen ist. Alles das trägt bereits eine Geschichte in sich.
+
+199
+00:24:06,600 --> 00:24:12,600
+Und ab dem Zeitpunkt, wo es entsteht, über den Zeitpunkt, wie es seinen Weg irgendwo hinfindet
+
+200
+00:24:12,600 --> 00:24:17,600
+und was dann draus gemacht wird, gibt es, das meine ich vor allem, diesen Dickigkeit aus Biases.
+
+201
+00:24:17,600 --> 00:24:22,600
+Ich würde sagen, in jedem Schritt gibt es Übersetzungen, wie du gesagt hast, Handlungen,
+
+202
+00:24:22,600 --> 00:24:27,600
+Übertragungshandlungen, dementsprechend überall Interpretationen und Auslegungen,
+
+203
+00:24:27,600 --> 00:24:31,600
+überall technische Standards vor allem, die damit arbeiten
+
+204
+00:24:31,600 --> 00:24:37,600
+und überall dementsprechend irgendwelche Unvollständigkeiten, irgendwelche Überbleibsel und Reste,
+
+205
+00:24:37,600 --> 00:24:40,600
+Verschmutzungen, wie auch immer man das nennen möchte.
+
+206
+00:24:40,600 --> 00:24:48,600
+Ich finde es ganz gut, Verschmutzungen gefällt mir, dass man sozusagen tainted data hat irgendwie,
+
+207
+00:24:48,600 --> 00:24:52,600
+weil das tatsächlich der Fall ist. Und ich glaube, wir müssen so darüber nachdenken,
+
+208
+00:24:52,600 --> 00:24:56,600
+dass es im Prinzip, es ist wie eine ökologische Ressource auch.
+
+209
+00:24:56,600 --> 00:25:01,600
+Es ist wie ein Wasser oder so und dementsprechend ist es ein Komplex,
+
+210
+00:25:01,600 --> 00:25:06,600
+ein molekularer Komplex aus verschiedensten Reinheiten und Verunreinigungen,
+
+211
+00:25:06,600 --> 00:25:11,600
+je nachdem, wo so ein Fluss irgendwie herkommt und wie der hinfließt und wo er durchfließt.
+
+212
+00:25:11,600 --> 00:25:15,600
+Und der kann schneller sein, langsamer sein. Also ich glaube, man kann sich diese Metaphern
+
+213
+00:25:15,600 --> 00:25:21,600
+durchaus bedienen, sollte man auch, um eben nicht diesen Unterschied zu machen zwischen
+
+214
+00:25:21,600 --> 00:25:27,600
+Daten sind irgendwas, was sich in einem rein technischen und dementsprechend irgendwie unnatürlichen Bereich abspielt
+
+215
+00:25:27,600 --> 00:25:32,600
+und dem natürlichen Bereich, weil das alles hat eine Materialität auch.
+
+216
+00:25:32,600 --> 00:25:41,600
+Das hinterlässt auch, abgesehen von sozusagen sozialen, kulturellen Spuren, auch tatsächlich ökologische Spuren.
+
+217
+00:25:41,600 --> 00:25:45,600
+Vielleicht können wir in aller Klarheit noch einmal festhalten, dass wir ausschließlich
+
+218
+00:25:45,600 --> 00:25:50,600
+patriarchal und kolonial geprägte Daten zur Verfügung haben zum heutigen Zeitpunkt im Jahr 2019.
+
+219
+00:25:50,600 --> 00:25:55,600
+Nämlich global und das ist eigentlich etwas, dessen sich wenige Menschen bewusst sind.
+
+220
+00:25:55,600 --> 00:25:58,600
+Und wir immer davon sprechen, wann künstlich-intelligent self-aware wird.
+
+221
+00:25:58,600 --> 00:26:01,600
+Ich frage mich manchmal, wann wir es endlich werden.
+
+222
+00:26:01,600 --> 00:26:06,600
+Weil ich glaube, dass immer noch eine umgeblichere Inklarheit darüber besteht,
+
+223
+00:26:06,600 --> 00:26:11,600
+ja, es hat sich doch schon etwas gebessert und es ist so gewichst, schon anders als in den 60er Jahren.
+
+224
+00:26:11,600 --> 00:26:17,600
+Achtung, ja, es ist immer noch, wir leben, wir fahren auf den selben Schienen, die da gelegt wurden,
+
+225
+00:26:17,600 --> 00:26:21,600
+vor hunderten von Jahren und natürlich kann so etwas nicht von heute auf morgen sich ändern.
+
+226
+00:26:21,600 --> 00:26:27,600
+Und das ist, glaube ich, ein Bewusstsein, dass man sich gerade in unserer Generation vielleicht immer wieder vor Augen führen sollte,
+
+227
+00:26:27,600 --> 00:26:34,600
+die Anfang 20-jährigen jetzt haben das noch viel mehr im Bewusstsein, finde ich, im täglichen Gebrauch.
+
+228
+00:26:34,600 --> 00:26:38,600
+Dass man sagt, ja, natürlich dürfen Frauen uns wehren oder verdienen gleich viel,
+
+229
+00:26:38,600 --> 00:26:44,600
+aber wir leben trotzdem immer noch in materialen Strukturen und Dettos, was das Koloniale betrifft.
+
+230
+00:26:44,600 --> 00:26:49,600
+Wir haben nicht denselben Respekt für den globalen Süden, den wir vorgeben zu haben.
+
+231
+00:26:49,600 --> 00:26:56,600
+Und das betrifft sowohl die labor force, die Ressourcen als auch natürlich die Umgang mit Daten.
+
+232
+00:26:56,600 --> 00:26:57,600
+Absolut.
+
+233
+00:26:57,600 --> 00:27:00,600
+Die nächste Frage, die ich mir genutiert hätte, wäre gewesen,
+
+234
+00:27:00,600 --> 00:27:03,600
+wie artikuliert sich das Politische im Feld der künstlichen Intelligenz?
+
+235
+00:27:03,600 --> 00:27:08,600
+Wir haben da jetzt schon einiges angesprochen, mir fällt aber noch was ein, was mich auch sehr interessiert,
+
+236
+00:27:08,600 --> 00:27:16,600
+und zwar dann die Verbindung zwischen dem sogenannten Nudging und Formen algorithmischen Regierens.
+
+237
+00:27:16,600 --> 00:27:28,600
+Also, dass dann Entscheidungsarchitekturen auch durch künstliche Intelligenz unterfüttert uns bestimmte, sagen wir mal, Ratschläge geben,
+
+238
+00:27:28,600 --> 00:27:35,600
+suggerieren, was die bessere Entscheidung sei und damit ein Möglichkeitenhorizont konstituieren eigentlich.
+
+239
+00:27:35,600 --> 00:27:43,600
+Und das ist ja auch eine ganz manifeste Art Macht auszuüben, eine algorithmische Form des Regierens.
+
+240
+00:27:43,600 --> 00:27:49,600
+Könnt ihr vielleicht ein bisschen spezifizieren, wie diese Form von Macht ausgeübt wird, wo und durch wen?
+
+241
+00:27:49,600 --> 00:27:56,600
+Zuallererst gesagt, das hat es früher auch schon gegeben, dafür braucht man keine künstliche Intelligenz,
+
+242
+00:27:56,600 --> 00:28:02,600
+sondern einfach nur Medien, und zwar technische Medien genauso wie publizistische Medien,
+
+243
+00:28:02,600 --> 00:28:10,600
+die Art und Weise, wie Bevölkerungen und Entscheidungen in der Masse sich manifestieren.
+
+244
+00:28:10,600 --> 00:28:14,600
+Also, es gab keine künstliche Intelligenz und wir hatten trotzdem Nazis.
+
+245
+00:28:14,600 --> 00:28:17,600
+Jetzt gibt es künstliche Intelligenz und wir haben noch mehr Nazis.
+
+246
+00:28:17,600 --> 00:28:25,600
+Deswegen, da würde ich mir gerne großen Aufnahmen machen, in dem Sinn, dass es etwas besser macht, eher schlechter vielleicht,
+
+247
+00:28:25,600 --> 00:28:37,600
+aber mein Point being, glaube ich, das zu sagen, es gibt immer schon eine Art von Kodefinition dessen,
+
+248
+00:28:37,600 --> 00:28:41,600
+was politische Realitäten sind, wie sie sich entwickeln und wo sie hingehen sollen,
+
+249
+00:28:41,600 --> 00:28:45,600
+da werden bestimmte Sachen benutzt, wie sich Meinungen bilden und so weiter.
+
+250
+00:28:45,600 --> 00:28:51,600
+Das ist heute mit Formen von, ich würde nicht sagen künstlichen Intelligenz,
+
+251
+00:28:51,600 --> 00:29:00,600
+aber maschinell oder algorithmisch begünstigter Meinungsbildung, sicherlich individualisierter.
+
+252
+00:29:00,600 --> 00:29:03,600
+Das ist, glaube ich, der Punkt, der sich geändert hat.
+
+253
+00:29:03,600 --> 00:29:10,600
+Das entgegen dieser Aussage von Facebook, that it's connecting people, das genau das Gegenteil macht,
+
+254
+00:29:10,600 --> 00:29:18,600
+nämlich die Leute sehr, sehr genau zu individuieren, zu vereinzelt und soweit sozusagen einzeln angreifbar und sprechbar zu machen,
+
+255
+00:29:18,600 --> 00:29:23,600
+als Kunden, als politische Subjekte und so weiter, weil man nicht mehr laut in die Masse hinausschreiben muss,
+
+256
+00:29:23,600 --> 00:29:29,600
+sondern jeden einzelnen ziemlich genau und ziemlich fein dargelegt auf sein Profil hin,
+
+257
+00:29:29,600 --> 00:29:36,600
+das sich eben entwickelt hat in kubernetescher Koexistenz, wie wir unsere Profile selber pflegen und natürlich anlegen und sagen,
+
+258
+00:29:36,600 --> 00:29:40,600
+ich bin genau diese Person, das ist mein individueller Standpunkt,
+
+259
+00:29:40,600 --> 00:29:50,600
+dementsprechend kann mir dann genau die richtige Empfehlung, egal ob das für einen NP3-PR ist oder für eine Wahlentscheidung, gegeben werden.
+
+260
+00:29:50,600 --> 00:29:54,600
+Also das hat sich geändert, deswegen nageht mir auch ein interessanter Begriff,
+
+261
+00:29:54,600 --> 00:30:00,600
+man braucht keinen Fortschritt mehr, um Leute dazu zu bringen, irgendwie eine bestimmte Sache zu wählen,
+
+262
+00:30:00,600 --> 00:30:04,600
+sondern es reicht, sie ganz leicht in die Rippen zu stoßen, every now and then.
+
+263
+00:30:04,600 --> 00:30:07,600
+Idealerweise ist es so, dass sie es gar nicht merken.
+
+264
+00:30:07,600 --> 00:30:14,600
+Aber wie gesagt, so hat Politik und Propaganda und technische Medien immer schon funktioniert.
+
+265
+00:30:14,600 --> 00:30:18,600
+Ein Schlüsselbegriff, zu dem angesprochen ist, das ist der Begriff des Konsumenten,
+
+266
+00:30:18,600 --> 00:30:23,600
+und der überspannt jetzt Wirtschaft und Politik gleichermaßen, wie du schon gesagt hast.
+
+267
+00:30:23,600 --> 00:30:30,600
+Der Konsument konsumiert nicht nur Waren und Daten und Informationen, sondern er konsumiert auch politische Meinungen,
+
+268
+00:30:30,600 --> 00:30:34,600
+es wird ihm dargereicht, wie das neueste Sonderangebot quasi,
+
+269
+00:30:34,600 --> 00:30:39,600
+es wird ihm suggeriert, dass die Ware, die er da konsumieren wird oder wählen wird,
+
+270
+00:30:39,600 --> 00:30:43,600
+das finde ich jetzt mit dem Vokabular austauschbar, sein Leben verbessern wird,
+
+271
+00:30:43,600 --> 00:30:49,600
+plötzlich ihm das geben wird, ohne dass er sich immer gesehen hat, so wie das Kauf eines neuen Produkts,
+
+272
+00:30:49,600 --> 00:30:54,600
+und tatsächlich wird dieses Versprechen auch nicht eingelöst, und so funktioniert natürlich Populismus.
+
+273
+00:30:54,600 --> 00:31:00,600
+Und das spielt mit den Konsumenten, und gerade auf den Online-Medien, sozialen Medien sind vielleicht auch Prosumenten,
+
+274
+00:31:00,600 --> 00:31:05,600
+die produzieren gleichermaßen den Wahnsinn, der wieder zurückverkauft wird,
+
+275
+00:31:05,600 --> 00:31:09,600
+verkauft quasi auch gleichermaßen selbst, wir gestalten ihn mit,
+
+276
+00:31:09,600 --> 00:31:15,600
+und da geht es jetzt wirklich an, vorsichtig zu werden, auch im ökologischen Hinblick,
+
+277
+00:31:15,600 --> 00:31:20,600
+auf unsere planetarische Gesundheit und den Klimawandel und dessen Auswirkungen,
+
+278
+00:31:20,600 --> 00:31:25,600
+warum eigentlich müssen wir permanent konsumieren oder prosumieren,
+
+279
+00:31:25,600 --> 00:31:30,600
+wenn nicht auch eine andere Art von Existenz- und Daseinsberechtigung,
+
+280
+00:31:30,600 --> 00:31:33,600
+und können uns diese vielleicht wieder mehr widmen,
+
+281
+00:31:33,600 --> 00:31:37,600
+weil wir jetzt die Kurve vielleicht schon an den Peak-Point erreicht haben,
+
+282
+00:31:37,600 --> 00:31:44,600
+und es langsam Zeit wird, zurückzukehren auf eine Ebene, die nicht so von Konsum getrieben ist, in jeglicher Ansicht.
+
+283
+00:31:44,600 --> 00:31:46,600
+Das wäre schön.
+
+284
+00:31:46,600 --> 00:31:48,600
+Ein herer Wunsch, ich weiß.
+
+285
+00:31:48,600 --> 00:31:51,600
+Ja, ja, aber eine, wo du ja nicht allein bist.
+
+286
+00:31:51,600 --> 00:31:56,600
+Was mir noch einfällt, ist natürlich, dass es wahnsinnig spannend ist, jetzt schon,
+
+287
+00:31:56,600 --> 00:32:01,600
+und immer spannender wird in Zukunft, zu schauen, wie sich überhaupt politische,
+
+288
+00:32:01,600 --> 00:32:05,600
+und ökonomische, und zivilisatorische Landschaften verschieben,
+
+289
+00:32:05,600 --> 00:32:10,600
+und auch die Akteure und Agenten darin verschieben, wenn man sich anschaut, was passiert ist.
+
+290
+00:32:10,600 --> 00:32:17,600
+Nehmen wir Mark Zuckerberg als Beispiel, eine momentan sehr angefährende Deposition und Person,
+
+291
+00:32:17,600 --> 00:32:24,600
+der ein de facto Staatschef ist, also der hat 2,5 Milliarden, was auch immer.
+
+292
+00:32:24,600 --> 00:32:26,600
+Wir können nicht genau sagen, was es ist.
+
+293
+00:32:26,600 --> 00:32:30,600
+Also der Typus, was ein Bürger ist, was ein Konsument ist, was ein User ist,
+
+294
+00:32:30,600 --> 00:32:35,600
+oder zu welchen Anteilen diese Komponenten jeweils sozusagen uns ausmachen,
+
+295
+00:32:35,600 --> 00:32:40,600
+verschiebt sich gerade massiv. Wir wissen es gar nicht ganz genau, was los ist.
+
+296
+00:32:40,600 --> 00:32:45,600
+Es gibt da Entitäten, die agieren, wie mal es vorhin auch schon gesagt wird, supranational,
+
+297
+00:32:45,600 --> 00:32:56,600
+das heißt die Konzepte von Nationen und so weiter werden sich auch zum Überdenken aufgeben in Zukunft.
+
+298
+00:32:56,600 --> 00:33:01,600
+Mark Zuckerberg ist nicht zufällig, sage ich jetzt mal, mit einer Chinesin verheiratet
+
+299
+00:33:01,600 --> 00:33:06,600
+und wird dort empfangen wie ein Staatschef, beziehungsweise bietet,
+
+300
+00:33:06,600 --> 00:33:16,600
+zum Beispiel aus Facebook heraus entwickelte weaponized Technologien zur Überwachung und Datenauswirkung
+
+301
+00:33:16,600 --> 00:33:21,600
+an den Chinesen an, weil das riesige Ressourcen sind, die da auf ihn warten.
+
+302
+00:33:21,600 --> 00:33:29,600
+Und es gab diese mehr, nach der Trump-Wahl, kurze Zeit ging das Gerücht um,
+
+303
+00:33:29,600 --> 00:33:34,600
+dass Zuckerberg sich interessieren würde vielleicht zu kandidieren 2020 für eine Wahl,
+
+304
+00:33:34,600 --> 00:33:41,600
+weil er einen Move gemacht hat, der der klassische Move ist für früher Präsidentschaftskandidaten,
+
+305
+00:33:41,600 --> 00:33:47,600
+nämlich alle Staaten, alle Bundesstaaten in Amerika besuchen und dort so Town Hall Meetings zu machen.
+
+306
+00:33:47,600 --> 00:33:55,600
+Also was ich sagen wollte, ist, dass, glaube ich, deine interessante Generation gerade sehr viel Macht
+
+307
+00:33:55,600 --> 00:34:00,600
+in die Hand bekommt, wo sie zeitweise noch nicht genau wissen, was sie damit tun.
+
+308
+00:34:00,600 --> 00:34:05,600
+Ich glaube nicht, dass Leute wie Mark Zuckerberg und so weiter gerade großes Interesse haben,
+
+309
+00:34:05,600 --> 00:34:11,600
+direkt in die Politik zu gehen, sondern eher dabei zuschauen gerade so ein bisschen in Ord vielleicht,
+
+310
+00:34:11,600 --> 00:34:16,600
+hoffentlich, was wiederum die Technologien, die sie in die Welt gebracht haben,
+
+311
+00:34:16,600 --> 00:34:21,600
+da gerade für Schaden anrichten oder für Auswirkungen haben.
+
+312
+00:34:21,600 --> 00:34:27,600
+Im weiteren Verlauf über die nächsten Jahrzehnte wären die sicherlich aber interessant.
+
+313
+00:34:27,600 --> 00:34:31,600
+Also ich glaube, diese Generationen, die alle jetzt zwischen 30 und 40 sind,
+
+314
+00:34:31,600 --> 00:34:37,600
+die eben unsere nächsten paar Jahrzehnte bestimmen werden, die muss man sich genau anschauen.
+
+315
+00:34:37,600 --> 00:34:42,600
+Da waren halt einerseits junge Populisten wie Sebastian Kurz hier
+
+316
+00:34:42,600 --> 00:34:47,600
+und andererseits Leute wie Zuckerberg auf der anderen Seite.
+
+317
+00:34:47,600 --> 00:34:54,600
+Und irgendwie ist es massiv, was da gerade passiert, aber zeitweise noch irgendwie hat man das Gefühl,
+
+318
+00:34:54,600 --> 00:34:58,600
+dass da doch schwer abschätzbare Folgen wieder bei rauskommen.
+
+319
+00:34:58,600 --> 00:35:05,600
+Und das heißt, neben der ganzen Frage, was eine abstrakte Entität wie KI, die es jetzt in dem Sinn ja noch
+
+320
+00:35:05,600 --> 00:35:11,600
+nicht so gibt, in der Art und Weise, dann vielleicht möglicherweise die Welt beherrscht,
+
+321
+00:35:11,600 --> 00:35:16,600
+ich glaube, das müssen wir dann schon wie verschiedene künstliche Intelligenzen im Zusammenspiel mit
+
+322
+00:35:16,600 --> 00:35:22,600
+den Leuten, die sie implementieren und die sie nutzen, dann also wie diese Interaktionen aussehen können,
+
+323
+00:35:22,600 --> 00:35:29,600
+das wird interessant sein zu beachten. Nicht so sehr obiz-pestig, also die Angst vor der Singularität
+
+324
+00:35:29,600 --> 00:35:37,600
+in irgendeiner Form von Skynet-Terminator-Szenario ist, glaube ich, eher unnötig.
+
+325
+00:35:37,600 --> 00:35:44,600
+Können wir das vielleicht noch ein bisschen genauer skizzieren, welche Möglichkeiten des politischen
+
+326
+00:35:44,600 --> 00:35:50,600
+sich da auftun, also im Guten wie im Schlechten, also das, denn die Gefahren haben wir jetzt schon
+
+327
+00:35:50,600 --> 00:35:56,600
+einigermaßen skizziert, vielleicht noch nicht ganz in Bezug auf die Zukunftsszenarien, aber was kann man denn
+
+328
+00:35:56,600 --> 00:36:03,600
+für politische Möglichkeiten skizzieren, zukünftige, die man vielleicht begrüßenswerter fände.
+
+329
+00:36:03,600 --> 00:36:08,600
+Mir fällt da zum Beispiel ein Artikel ein, der vor kurzem erschienen ist von Evgeny Mosorov,
+
+330
+00:36:08,600 --> 00:36:14,600
+der ist betitelt Digital Socialism und da ist dann eine Headline zum Beispiel
+
+331
+00:36:14,600 --> 00:36:19,600
+Socialize the Means of Feedback Production, wo quasi anerkannt wird, es gibt diese Machteffekte,
+
+332
+00:36:19,600 --> 00:36:25,600
+die auch auf Daten basieren, aber wir würden gut daran tun, die sagen, in anderen Händen,
+
+333
+00:36:25,600 --> 00:36:33,600
+vielleicht in Form von Open AI oder Open Data oder als Commons organisiert, quasi anders zu nutzen.
+
+334
+00:36:36,600 --> 00:36:41,600
+Es gibt irrsinnig viele Bereiche, also ich glaube, es trifft auf alle Bereiche zu und es wird sich
+
+335
+00:36:41,600 --> 00:36:48,600
+überall irgendwie äußern, es gibt wahnsinnige Potenziale dafür, was sich politisch umsetzen ließe
+
+336
+00:36:48,600 --> 00:36:56,600
+mit KI, also es gibt, denke ich, allein was Bürokratie und Verwaltung angeht, also oftmals
+
+337
+00:36:56,600 --> 00:37:03,600
+gerne eher weniger betrachtete Aspekte von Politik und Alltagsinteraktion mit Politik angeht,
+
+338
+00:37:03,600 --> 00:37:10,600
+denke ich, da wird sich sehr, sehr viel tun und it's gonna be boring as hell, aber es gibt
+
+339
+00:37:10,600 --> 00:37:15,600
+jetzt schon genug algorithmisierte Systeme, die beispielsweise, keine Ahnung,
+
+340
+00:37:15,600 --> 00:37:20,600
+sich mit Strafzetteln auseinandersetzen oder sonst was und auf diesem Gebiet wird man
+
+341
+00:37:20,600 --> 00:37:26,600
+dann auch noch lernen müssen, damit umzugehen, was da passiert, wenn einfach, sozusagen,
+
+342
+00:37:26,600 --> 00:37:32,600
+Massen von Interaktionen, die natürlich einfach Effekte haben, die dann, also sowohl direkte
+
+343
+00:37:32,600 --> 00:37:40,600
+als auch Ripple-Effekte in dem weiteren politischen Apparat, der ein großer Komplexer ist,
+
+344
+00:37:40,600 --> 00:37:46,600
+passieren wird, dann wird die Frage sein, wie immer bei solchen Sachen, kui bono,
+
+345
+00:37:46,600 --> 00:37:53,600
+also wem geben wir welche Handlungsspielräume und Instrumente in die Hand, um irgendwas damit
+
+346
+00:37:53,600 --> 00:37:59,600
+zu machen, wie nehmen wir als Zivilgesellschaft an solchen Entscheidungsprozessen teil, es gibt
+
+347
+00:37:59,600 --> 00:38:06,600
+jetzt schon, äußerst ist es sozusagen höchste Eisenbahn, dass man als politisches Subjekt und
+
+348
+00:38:06,600 --> 00:38:10,600
+als Zivilgesellschaft sich bei Wahlen und so weiter auch dahingehend orientiert, was
+
+349
+00:38:10,600 --> 00:38:15,600
+für Digitalprogramme die jeweiligen Regierungen fahren. Hier in Österreich wurde eins
+
+350
+00:38:15,600 --> 00:38:22,600
+implementiert von der letzten Regierung, dass an, sozusagen, Macht- und Kontrollausübung
+
+351
+00:38:22,600 --> 00:38:29,600
+Großbritannien und den USA in nichts nachsteht, aber es schaut keiner hin, weil wir immer
+
+352
+00:38:29,600 --> 00:38:33,600
+noch das Gefühl haben, das geht uns nichts an und Politik und Technologie haben irgendwie
+
+353
+00:38:33,600 --> 00:38:38,600
+nichts miteinander zu tun. Das ändert sich gerade langsam, graduell, da gab es dann eben
+
+354
+00:38:38,600 --> 00:38:44,600
+Skandale mit Cambridge Analytica und so weiter und so fort, aber das ist, glaube ich, die
+
+355
+00:38:44,600 --> 00:38:51,600
+Hauptaufgabe, die uns da bevorstellt ist, also Bildung im Allgemeinen sowieso, um ein
+
+356
+00:38:51,600 --> 00:38:56,600
+Bewusstsein zu schaffen dafür, wie, zumindest dass es Mechanismen gibt, man muss nämlich
+
+357
+00:38:56,600 --> 00:39:00,600
+jeden Mechanismus auch an Detail verstehen, aber den meisten Leuten ist nicht mal klar,
+
+358
+00:39:00,600 --> 00:39:06,600
+oder uns als Gesellschaft, dass bestimmte Sachen überhaupt passieren. Also da ist Transparenz
+
+359
+00:39:06,600 --> 00:39:13,600
+gefragt und zwar nicht Transparenz mit dem Vektor, dass sozusagen aus Regierung und Industrie
+
+360
+00:39:13,600 --> 00:39:17,600
+die Gesellschaft transparent wird, sondern umgekehrt, dass für die Gesellschaft Regierungen
+
+361
+00:39:17,600 --> 00:39:21,600
+und Industrien transparent werden und dann im weiteren Sinne ganz konkret politische
+
+362
+00:39:21,600 --> 00:39:28,600
+Bildung und die Tatsache, dass das dann, also ich freue mich auf die ersten wirklichen
+
+363
+00:39:28,600 --> 00:39:35,600
+Politiker und Parteien, die mit dem Ganzen ernsthaft umgehen und anfangen, an Gesellschaften
+
+364
+00:39:35,600 --> 00:39:42,600
+und Regierungsmodellen zu basteln, die das ernsthaft in Betracht ziehen, was da angeht,
+
+365
+00:39:42,600 --> 00:39:49,600
+weil das ist bis jetzt höchstens als wirtschaftlicher Faktor interessant, dass dann eine neoliberale
+
+366
+00:39:49,600 --> 00:39:57,600
+Politik begünstigt wird, aber im Hinblick darauf, was es mit unserem ganz normalen alltäglichen
+
+367
+00:39:57,600 --> 00:40:05,600
+Leben tut, bis hin zu mit unseren Seelen im weitesten Sinne, also was es an psychischen
+
+368
+00:40:05,600 --> 00:40:11,600
+Erscheinungen auch mit sich bringt für eine kulturelle Seele, wie auch für die Individuen,
+
+369
+00:40:11,600 --> 00:40:16,600
+wie das die Leute fertig macht. Niemand denkt darüber nach, was es jetzt an Mental Health
+
+370
+00:40:16,600 --> 00:40:24,600
+Statistiken gibt, die ganz eindeutig belegen, wie krank viele dieser Plattformen und Technologien
+
+371
+00:40:24,600 --> 00:40:32,600
+machen, wie sehr sie ausbreiten und so weiter. Und das sind langsam so Realitäten, die ein
+
+372
+00:40:32,600 --> 00:40:36,600
+bisschen bewusst werden und wo man, glaube ich, sozusagen, wo jeder eine Verantwortung
+
+373
+00:40:36,600 --> 00:40:43,600
+hat, daran mitzuarbeiten, diese Sachen klarer herauszuarbeiten und herauszufinden, was zu
+
+374
+00:40:43,600 --> 00:40:49,600
+tun ist, jeder für sich. Und die Ausstellung, die wir gemacht haben, ist, also ohne jetzt,
+
+375
+00:40:49,600 --> 00:40:57,600
+wir haben keine Lösungsansätze, aber es war zumindest der Versuch zu sagen, das ist der
+
+376
+00:40:57,600 --> 00:41:02,600
+klarste Blick, den wir gerade in der Lage sind, auf diese Situation zu werfen, mit den
+
+377
+00:41:02,600 --> 00:41:09,600
+Mitteln, die wir haben, als Wissenschaftler, Kurator und Künstler, als Institution, wie
+
+378
+00:41:09,600 --> 00:41:13,600
+das Museum, und zu sagen, this is what we have.
+
+379
+00:41:13,600 --> 00:41:19,600
+Ich glaube, um auf die Frage auch noch einzugehen an der Wirtschaft und der Commons, wem gehört
+
+380
+00:41:19,600 --> 00:41:24,600
+Technologie, wem gehören Entscheidungsprozesse, da ist wirklich ein Umdenken gefragt, um nochmal
+
+381
+00:41:24,600 --> 00:41:30,600
+zurückzukommen auf den Begriff des Konsumenten. Momentan bestehen ja politische Programme
+
+382
+00:41:30,600 --> 00:41:35,600
+vorwiegend darin, uns zu suggerieren, das Wichtigste sei es, dem Staatshaushalt die Kasse
+
+383
+00:41:35,600 --> 00:41:43,600
+auf Null zu bringen, einzusparen, Steuern zu sparen, neue Arbeitsplätze zu schaffen,
+
+384
+00:41:43,600 --> 00:41:47,600
+niemand hinterfragt aber, ob das System nicht per se krank ist, und da wird uns auch künstliche
+
+385
+00:41:47,600 --> 00:41:51,600
+Intelligenz per se nicht helfen können dabei, solange die Frage nicht geklärt ist, was
+
+386
+00:41:51,600 --> 00:41:58,600
+wir als Commons bezeichnen, solange es Diskussionen darüber gibt, Trinkwasser zu privatisieren,
+
+387
+00:41:58,600 --> 00:42:06,600
+Fernsehstationen etc., sämtliche staatlich organisierten Strukturen eigentlich, ist das
+
+388
+00:42:06,600 --> 00:42:11,600
+ein großes Problem, und da ist die Frage auch der Technologie selber, in welchen Hand
+
+389
+00:42:11,600 --> 00:42:16,600
+ist das eben, ist es wirklich sinnvoll eine nationale AI-Strategie zu haben, wie das ja
+
+390
+00:42:16,600 --> 00:42:23,600
+viele Länder schon vorlegen, wie das auch Österreich eben anstrebt, oder ist es sinnvoll,
+
+391
+00:42:23,600 --> 00:42:27,600
+das supranational zu lösen, ist es dann aber wieder sinnvoll, dass es in der Hand von Konzernen
+
+392
+00:42:27,600 --> 00:42:34,600
+ist, die wieder sich aus dem Wirtschaftssystem in einer Weise herausnehmen, wir sind ja supranational,
+
+393
+00:42:34,600 --> 00:42:38,600
+wir zahlen keine Steuern auf dem Grund und Boden, auf dem wir Ressourcen und Arbeitskraft
+
+394
+00:42:38,600 --> 00:42:43,600
+nutzen, wir machen aber Einnahmen, die wir dann aber nicht der Allgemeinheit zugutestellen,
+
+395
+00:42:43,600 --> 00:42:49,600
+die Frage ist, sollte Facebook ein Commons sein zum Beispiel, sollte man da als Mr.
+
+396
+00:42:49,600 --> 00:42:55,600
+Zuckerberg mal sagen, ich habe das gegründet und jetzt gebe ich es quasi in die Hand einer
+
+397
+00:42:55,600 --> 00:43:02,600
+zentralisierten Gemeinschaft, die es vielleicht anstatt monopolisiert gemeinsam regiert, ist
+
+398
+00:43:02,600 --> 00:43:07,600
+das überhaupt möglich, sind wir überhaupt in der Lage dazu eine wirkliche Demokratie
+
+399
+00:43:07,600 --> 00:43:12,600
+oder Gemeinschaft zu sein, die auf Basis von Commons und Commoning zusammenlebt, oder sind
+
+400
+00:43:12,600 --> 00:43:17,600
+wir über die Jahrhunderte zu sehr geprägt von Besitzdenken und es sind meine Daten,
+
+401
+00:43:17,600 --> 00:43:22,600
+meine Waren, meine Information, mein Geld, mein Wirtschaftsstandort, oder ist es tatsächlich
+
+402
+00:43:22,600 --> 00:43:27,600
+möglich, dass wir jetzt auch dank diesen Technologien und dank der Erkenntnis, die wir aus diesen
+
+403
+00:43:27,600 --> 00:43:32,600
+Daten, die wir jetzt zuhauf auch analysieren können endlich, vielleicht einmal Schlüsse
+
+404
+00:43:32,600 --> 00:43:35,600
+ziehen, die wir zum größeren Wohl verwenden?
+
+405
+00:43:35,600 --> 00:43:43,600
+Ja, die Frage ist wirklich, ob wir, vielleicht liegt es einfach an uns, vielleicht liegt
+
+406
+00:43:43,600 --> 00:43:48,600
+es einfach an, das ist immer dieses Ding, das jetzt, also in einer Technologie, die
+
+407
+00:43:48,600 --> 00:43:55,600
+wir sozusagen, in die wir so eine Größe hineinprojizieren und die wir gerade so hochskalieren,
+
+408
+00:43:55,600 --> 00:44:01,600
+da wir es hineinprojizieren, dass es eine Anwesenheit vielleicht gegen uns oder für
+
+409
+00:44:01,600 --> 00:44:06,600
+uns tut, in Wirklichkeit aber müssen wir uns vielleicht eben auch damit anfreunden und
+
+410
+00:44:06,600 --> 00:44:13,600
+dann anfangen, auf der Basis zu arbeiten, dass wir Arschlöcher sind und dass keine
+
+411
+00:44:13,600 --> 00:44:15,600
+Technologie das richten wird.
+
+412
+00:44:15,600 --> 00:44:26,600
+Da sind wir, finde ich, an einem interessanten Punkt angekommen und auf eine Art schlägt
+
+413
+00:44:26,600 --> 00:44:34,600
+das den Bogen zu einem Thema, was du am Anfang angesprochen hattest, Paul, und was ich überlegt
+
+414
+00:44:34,600 --> 00:44:37,600
+hatte, ob ich es noch ansprechen soll oder nicht, aber nachdem du es quasi aufgebracht
+
+415
+00:44:37,600 --> 00:44:42,600
+hast, spreche ich es jetzt an, du hast es, glaube ich, als eine der, eine neue kopernikanische
+
+416
+00:44:42,600 --> 00:44:46,600
+Kränkungen angesprochen und ich finde, es steht auch im Zusammenhang zu dem, was du
+
+417
+00:44:46,600 --> 00:44:49,600
+angesprochen hast, Marlis, nämlich in Bezug auf die Systemfrage.
+
+418
+00:44:49,600 --> 00:44:54,600
+Ich persönlich glaube, die Systemfrage muss in aller Behemenz gestellt werden und diskutiert
+
+419
+00:44:54,600 --> 00:44:59,600
+werden, weil es so eine Art von Asynchronität gibt, in der wir auf der einen Seite so Strukturen
+
+420
+00:44:59,600 --> 00:45:05,600
+haben, die einfach in keiner Form mehr zeitgemäß sind und gleichzeitig aber regiert werden
+
+421
+00:45:05,600 --> 00:45:12,600
+durch Methoden, die schon ganz selbstverständlich von anderen Prämissen ausgehen, sage ich
+
+422
+00:45:12,600 --> 00:45:13,600
+mal.
+
+423
+00:45:13,600 --> 00:45:14,600
+Fange ich vorne an.
+
+424
+00:45:14,600 --> 00:45:18,600
+Welche Einsichten ergeben sich aus den Entwicklungen innerhalb des Feldes der künstlichen Intelligenz
+
+425
+00:45:18,600 --> 00:45:21,600
+in Bezug auf das Konzept des freien Willens?
+
+426
+00:45:21,600 --> 00:45:24,600
+Gute Frage.
+
+427
+00:45:24,600 --> 00:45:31,600
+Ist eine Frage, die sich jetzt gerade wieder massiv stellt darin, wo sich aber wahnsinnig
+
+428
+00:45:31,600 --> 00:45:39,600
+eine historische und medienhistorische und kulturhistorische Entwicklung nachvollziehen
+
+429
+00:45:39,600 --> 00:45:44,600
+lässt, die was damit zu tun hat, die im Prinzip losgeht und das haben wir in der Ausstellung
+
+430
+00:45:44,600 --> 00:45:48,600
+versucht auch ein bisschen zu zeigen in seiner Art Genealogie, die wir sources and devices
+
+431
+00:45:48,600 --> 00:45:56,600
+genannt haben, der Mediengeschichte der künstlichen Intelligenz, die davon ausgeht, dass zu sagen,
+
+432
+00:45:56,600 --> 00:46:03,600
+erstens ab dem Zeitpunkt, wo wir anfangen, irgendwie irgendwelche Formen von externen
+
+433
+00:46:03,600 --> 00:46:09,600
+Agenten, kleine Mediensteinchen oder sonst was zu benutzen, um zu denken, als Hilfsmittel
+
+434
+00:46:09,600 --> 00:46:12,600
+eigentlich schon von künstlicher Intelligenz gesprochen werden könnte.
+
+435
+00:46:12,600 --> 00:46:23,600
+Andererseits etwas im Zentrum steht von irgendwie jedem menschlichen Unterfangen zu einer Entwicklung,
+
+436
+00:46:23,600 --> 00:46:28,600
+was sich kaum geändert hat über die Jahrtausende, nämlich die Zukunft.
+
+437
+00:46:28,600 --> 00:46:34,600
+Es geht uns immer darum, voraus zu sagen, was passiert und wie wir das machen, daran
+
+438
+00:46:34,600 --> 00:46:38,600
+entwickeln sich unsere Techniken und dementsprechend da entsteht auch eine Feedback-Steife mit
+
+439
+00:46:38,600 --> 00:46:41,600
+dem freien Willen, das heißt zuallererst machen wir Orakel.
+
+440
+00:46:41,600 --> 00:46:47,600
+Wir sehen, dass es gibt irgendwelche Sachen passieren, wir versuchen Sinn daraus zu machen
+
+441
+00:46:47,600 --> 00:46:51,600
+und versuchen uns zu erklären, warum das passiert und erfinden aber kargokultartig
+
+442
+00:46:51,600 --> 00:46:54,600
+irgendeine Technik, die dafür vielleicht gar nichts zu tun hat.
+
+443
+00:46:54,600 --> 00:47:01,600
+Also ich lese im Kaffeesatz oder in den Eingeweiden von Tieren oder so und sage, deswegen wird
+
+444
+00:47:01,600 --> 00:47:02,600
+das Wetter morgen schlecht.
+
+445
+00:47:02,600 --> 00:47:08,600
+Danach entstehen die ersten Formen von Pattern Recognition und die ersten Modelle, die das
+
+446
+00:47:08,600 --> 00:47:14,600
+Ganze mathematisch zum Beispiel oder geometrisch besser abbilden können, das heißt die Naturbeschau
+
+447
+00:47:14,600 --> 00:47:18,600
+funktioniert so, dass ich sage, ich erkenne, Sonne geht auf, Sonne geht unter, Sternbilder
+
+448
+00:47:18,600 --> 00:47:25,600
+wiederholen sich, Ebbe und Flut und so weiter und daraus entwickeln sich erste Instrumente
+
+449
+00:47:25,600 --> 00:47:28,600
+dafür, wie zum Beispiel Alphabete und Zahlensysteme.
+
+450
+00:47:28,600 --> 00:47:32,600
+Daraus entwickelt sich der Grundgedanke der Permutation, dass ich sage, ich habe ohne
+
+451
+00:47:32,600 --> 00:47:36,600
+endlich viele Zustände irgendwo, ich kann sie aber mit endlichen Mitteln darstellen
+
+452
+00:47:36,600 --> 00:47:39,600
+und dementsprechend einfangen.
+
+453
+00:47:39,600 --> 00:47:46,600
+Als nächstes entsteht daraus zum ersten Mal wirklich eine mathematische Technik der
+
+454
+00:47:46,600 --> 00:47:51,600
+Vorhersage, das ist im 17. Jahrhundert erst, also noch gar nicht lange her im Vergleich
+
+455
+00:47:51,600 --> 00:47:57,600
+zu dem, was davor passiert ist, in zwei, drei, viertausend Jahren in Form der Infinitisimalrechnung
+
+456
+00:47:57,600 --> 00:47:59,600
+von Leibniz oder auch von Newton.
+
+457
+00:47:59,600 --> 00:48:03,600
+Das heißt, da hat man zum ersten Mal eine mathematische Technik entwickelt, basierend
+
+458
+00:48:03,600 --> 00:48:08,600
+auf der vorhergegangenen, mit der es möglich ist, tatsächlich in die Zukunft zu schauen,
+
+459
+00:48:08,600 --> 00:48:14,600
+hätte man vorausgesetzt, man hätte Rechengeschwindigkeiten, die schneller sind als unser eigenes Gehirn.
+
+460
+00:48:14,600 --> 00:48:16,600
+Das gibt es zu der Zeit natürlich auch noch nicht.
+
+461
+00:48:16,600 --> 00:48:22,600
+Leibniz wünscht sich famously ein Heer von Mathematikern und baut ja dann erste Rechenmaschinen,
+
+462
+00:48:22,600 --> 00:48:27,600
+die aber natürlich noch keine Differenzialgleichungen können, sondern nur für Speziesrechnungen.
+
+463
+00:48:27,600 --> 00:48:34,600
+Und macht aber entwickelt plötzlich etwas, was in der Lage ist, den Flux der Natur einzufangen
+
+464
+00:48:34,600 --> 00:48:37,600
+und aber auch vorauszusagen, was passieren wird.
+
+465
+00:48:37,600 --> 00:48:40,600
+Und das ganze Dispositiv der Berechenbarkeit.
+
+466
+00:48:40,600 --> 00:48:44,600
+Und damit zum ersten Mal auch der Idee des freien Willens kommt heraus, weil er sagt,
+
+467
+00:48:44,600 --> 00:48:46,600
+es kann sowas eigentlich gar nicht geben.
+
+468
+00:48:46,600 --> 00:48:50,600
+Wenn ich genug Parameter habe und die richtigen Methoden habe, kann ich aus einem vergangenen
+
+469
+00:48:50,600 --> 00:48:54,600
+und einem Ist-Zustand immer die Zukunft vorher berechnen.
+
+470
+00:48:54,600 --> 00:49:01,600
+Leibniz täten das aus auf die Diplomatie und sagt, wenn sich zwei streiten, kann man hingehen
+
+471
+00:49:01,600 --> 00:49:06,600
+und sagen, meine Herren, es muss überhaupt keinen Streit gehen, Kalkulemos rechnen wir.
+
+472
+00:49:06,600 --> 00:49:13,600
+Und das ist eine der sozusagen Urszenen einer Kultur, die sich bis heute auch weiterhin vorzieht.
+
+473
+00:49:13,600 --> 00:49:20,600
+Weil nichts anderes tun diese Maschinen die ganze Zeit, als bestimmte Zustände auf einer bestimmten Datenbasis
+
+474
+00:49:20,600 --> 00:49:25,600
+und Methodenbasis zu analysieren und zu entscheiden, was passiert als nächstes.
+
+475
+00:49:25,600 --> 00:49:28,600
+Der Unterschied ist, dass ich im Englischen kann man das schön machen.
+
+476
+00:49:28,600 --> 00:49:33,600
+Was sich da getan hat, ist, dass es nicht mehr um Prediction geht, sondern um Production.
+
+477
+00:49:33,600 --> 00:49:36,600
+Also was sich verschoben hat, ist, dass wir nicht mehr nur davon sprechen,
+
+478
+00:49:36,600 --> 00:49:42,600
+dass wir finally in der Lage sind, Zukunft vorherzusagen, was wichtig ist in jederlei Hinsicht
+
+479
+00:49:42,600 --> 00:49:46,600
+für Klimaentwicklungen, Wetter und so weiter.
+
+480
+00:49:46,600 --> 00:49:49,600
+Und eben immer schon kulturgeschichtlich wichtig war für jede Zivilisation.
+
+481
+00:49:49,600 --> 00:49:54,600
+Es ist wichtig zu überlegen, wie das Wetter wird, weil sonst geht einfach mal die Ernte kaputt.
+
+482
+00:49:54,600 --> 00:50:00,600
+Also es geht hier nicht darum, den Oracle nur zu machen, sondern das ganz handfeste pragmatische Gründe.
+
+483
+00:50:00,600 --> 00:50:06,600
+Was sich verschoben hat in dem Zeitpunkt, wo die Rechenkapazität die Methoden überholt hat,
+
+484
+00:50:06,600 --> 00:50:09,600
+also wo es tatsächlich das, was Leibniz sich gewünscht hat,
+
+485
+00:50:09,600 --> 00:50:14,600
+nämlich ich führte ganz viele Parameter, ganz viel Daten irgendwo rein
+
+486
+00:50:14,600 --> 00:50:17,600
+und mit diesen relativ einfachen Methoden bin ich dann in der Lage,
+
+487
+00:50:17,600 --> 00:50:22,600
+einfach wirklich Jahre oder Jahrhunderte in die Zukunft zu rechnen,
+
+488
+00:50:22,600 --> 00:50:28,600
+ist, dass wir aus der Vorhersage zur Herstellung von Wirklichkeiten gewechselt haben.
+
+489
+00:50:28,600 --> 00:50:33,600
+Das Beispiel, das ich dabei am schönsten finde und wo sich ein Wendepunkt ergeben hat,
+
+490
+00:50:33,600 --> 00:50:37,600
+ich habe leider vergessen welches Jahr das war, als der isländische Vulkan ausgebrochen ist
+
+491
+00:50:37,600 --> 00:50:46,600
+und den ich nicht aussprechen kann, der dafür gesorgt hat, dass der Flugverkehr global auf dem Boden blieb.
+
+492
+00:50:46,600 --> 00:50:49,600
+Wegen besagter Aschewolke, die da da war.
+
+493
+00:50:49,600 --> 00:50:53,600
+Diese Aschewolke gab es nur als Berechnung erst mal.
+
+494
+00:50:53,600 --> 00:50:58,600
+Das heißt, es wurde basierend auf einem Komplex von Berechnungsmodellen,
+
+495
+00:50:58,600 --> 00:51:02,600
+zuerst über die Ausbreitung dieser Aschewolke,
+
+496
+00:51:02,600 --> 00:51:08,600
+anhand allmöglicher Geodaten und Klimadaten und Winddaten und so weiter berechnet,
+
+497
+00:51:08,600 --> 00:51:12,600
+wie groß ist sie, wie ist sie beschaffen, wo breitet sie sich wahrscheinlich aus,
+
+498
+00:51:12,600 --> 00:51:17,600
+weiterhin angeschlossen an den Komplex von Versicherungen und so weiter,
+
+499
+00:51:17,600 --> 00:51:22,600
+die überlegt haben, wie viel würde uns das theoretisch kosten, das alles auf dem Boden zu behalten,
+
+500
+00:51:22,600 --> 00:51:26,600
+wie viel würde es uns kosten, wenn jetzt sieben Flugzeuge tatsächlich abstürzen,
+
+501
+00:51:26,600 --> 00:51:34,600
+deswegen bis hin zu dem Individuum und dem Todesfall eines einzelnen Fluggasses.
+
+502
+00:51:34,600 --> 00:51:38,600
+Und dann beschlossen wurde, das ist die Entscheidung,
+
+503
+00:51:38,600 --> 00:51:44,600
+da wurde eine globale Wirklichkeit kreiert, basierend rein auf einer Berechnung,
+
+504
+00:51:44,600 --> 00:51:49,600
+nicht auf einer Evidenz, die einzige Evidenz war, dass klar war, dieser Vulkan ist tatsächlich ausgebrochen,
+
+505
+00:51:49,600 --> 00:51:57,600
+aber die Entscheidung ist getroffen, die tatsächliche Messung der Aschepartikel in der Luft hat erst nach der Stadt gefunden.
+
+506
+00:51:57,600 --> 00:52:04,600
+Das scheint mir als zumindest eine Instanz eines Wendepunkts dessen, was das angeht, ganz wichtig
+
+507
+00:52:04,600 --> 00:52:09,600
+und daran, finde ich, lässt sich auch schön nachvollziehen, was es mit freiem Willen auf sich hat.
+
+508
+00:52:09,600 --> 00:52:17,600
+Ich denke, was uns menschlich macht, ist, dass wir glauben, dass wir freien Willen haben.
+
+509
+00:52:17,600 --> 00:52:22,600
+Ich glaube sehr stark an die Kontingenz und die Unvollständigkeit
+
+510
+00:52:22,600 --> 00:52:27,600
+und nicht komplette Nachvollziehbarkeit aller Prozesse.
+
+511
+00:52:27,600 --> 00:52:34,600
+Ich glaube aber, dass das freie Wille oder nicht freie Wille keine binäre Frage ist,
+
+512
+00:52:34,600 --> 00:52:37,600
+sondern eher die Frage ist, wie viel freier Wille.
+
+513
+00:52:37,600 --> 00:52:42,600
+Das heißt, es gibt sicherlich irgendwo was, wo wir als menschliche Akteure
+
+514
+00:52:42,600 --> 00:52:49,600
+und alles, was uns ergibt als lakanianisches Reales, genug Rauschen erzeugt.
+
+515
+00:52:49,600 --> 00:52:54,600
+Dieses Rauschen ist dann der freie Wille, wo irgendwas passieren kann,
+
+516
+00:52:54,600 --> 00:52:57,600
+wo ich vielleicht denke, ich kann eine Entscheidung mit treffen.
+
+517
+00:52:57,600 --> 00:53:03,600
+Aber die ganzen anderen Parameter, die da reinfließen,
+
+518
+00:53:03,600 --> 00:53:06,600
+alle Entscheidungen, die dem Ganzen vorhergegangen sind,
+
+519
+00:53:06,600 --> 00:53:12,600
+und alle jedes halbe Grad im Temperaturunterschied draußen,
+
+520
+00:53:12,600 --> 00:53:14,600
+wird irgendwie einen Einfluss darauf haben, was passiert.
+
+521
+00:53:14,600 --> 00:53:20,600
+Ich glaube auch, dass wir natürlich nicht alleine entscheiden, frei oder nicht frei.
+
+522
+00:53:20,600 --> 00:53:26,600
+Wir sind ja umgeben von Wesenheiten, von Dingen, von zunehmend auch smarten, intelligenten Dingen.
+
+523
+00:53:26,600 --> 00:53:31,600
+Aber auch in der Vergangenheit ist der Einfluss darauf, welchen Weg ich einschlage,
+
+524
+00:53:31,600 --> 00:53:35,600
+auch schon als Teilzeitmensch, mag vielleicht inspiriert sein, nicht durch freien Willen,
+
+525
+00:53:35,600 --> 00:53:40,600
+sondern ich sehe in der Ferne etwas, was mich interessiert, uns gehe den anderen Weg.
+
+526
+00:53:40,600 --> 00:53:42,600
+Und das zeichnet uns ja auch aus.
+
+527
+00:53:42,600 --> 00:53:46,600
+Also ich würde mir sagen, der Begriff der Vorstellungskraft oder auch Kreativität
+
+528
+00:53:46,600 --> 00:53:50,600
+ist ja auch noch etwas, was uns Menschen momentan mal,
+
+529
+00:53:50,600 --> 00:53:54,600
+was wir gerne als Alleinstellungsmerkmal für uns beanspruchen, sagen wir mal so.
+
+530
+00:53:54,600 --> 00:53:56,600
+Wir sagen, was machen wir damit?
+
+531
+00:53:56,600 --> 00:54:00,600
+Und wir haben das Potenzial, uns etwas vorzustellen und es manchmal auch zu erreichen.
+
+532
+00:54:00,600 --> 00:54:04,600
+Und diese Entscheidungsprozesse, wie wäre es, man stellt sich vor,
+
+533
+00:54:04,600 --> 00:54:07,600
+ich könnte das Feuer nicht nur dann haben, wenn der Blitz einschlägt,
+
+534
+00:54:07,600 --> 00:54:10,600
+sondern ich könnte es selbst erzeugen.
+
+535
+00:54:10,600 --> 00:54:13,600
+Oder ich könnte nicht nur einen guten Stein finden,
+
+536
+00:54:13,600 --> 00:54:17,600
+sondern ich könnte mir selbst ein Werkzeug erschaffen.
+
+537
+00:54:17,600 --> 00:54:23,600
+Also diese Idee der Einflussnahme ergibt sich auch manchmal durch Zufälle, denke ich,
+
+538
+00:54:23,600 --> 00:54:27,600
+und durch diese Umwege, oder wie du sagst, die die Kontingenz macht.
+
+539
+00:54:27,600 --> 00:54:29,600
+Na ja, aber es ist eine Herstellung von Wirklichkeit.
+
+540
+00:54:29,600 --> 00:54:31,600
+Natürlich, eine Herstellung von Wirklichkeit.
+
+541
+00:54:31,600 --> 00:54:36,600
+Exactly, that's what we do. Und natürlich haben wir uns auch die künstliche Intelligenz hergeträumt
+
+542
+00:54:36,600 --> 00:54:43,600
+und jetzt erforschen wir ein Spiel, kommt mir immer so vor ein bisschen noch damit, was eigentlich passiert.
+
+543
+00:54:43,600 --> 00:54:47,600
+Und die Vorstellungskraft reicht im Moment zumindest bei mir
+
+544
+00:54:47,600 --> 00:54:50,600
+und vielen Menschen nicht aus, uns vorzustellen, was da noch kommen kann.
+
+545
+00:54:50,600 --> 00:54:56,600
+Also dass man sagt, es gibt dann diese ganze Science-Fiction-Idee der Singularity oder so.
+
+546
+00:54:56,600 --> 00:54:59,600
+Aber eigentlich kann es ja auch in eine ganz andere Richtung gehen.
+
+547
+00:54:59,600 --> 00:55:05,600
+Also das fände ich ja spannender, wenn diese Art Prognosen, die da getätigt wurden,
+
+548
+00:55:05,600 --> 00:55:10,600
+über mehrere Jahrzehnte eigentlich nicht eintreffen, sondern etwas ganz anderes passiert.
+
+549
+00:55:10,600 --> 00:55:14,600
+Vielleicht abschließend wenden wir uns ganz konkret der Frage der Zukunft zu.
+
+550
+00:55:14,600 --> 00:55:19,600
+Es wurde ja schon angesprochen, eben Werkzeuge haben schon immer auch daran gearbeitet,
+
+551
+00:55:19,600 --> 00:55:24,600
+sagen Wirklichkeit herzustellen. Ihr sprecht es in der Ausstellung an.
+
+552
+00:55:24,600 --> 00:55:30,600
+Vielleicht lese ich einfach mal kurz das Zitat vor, denn es ergänzt sich mit einem anderen kurzen Zitat, das ich gefunden habe.
+
+553
+00:55:30,600 --> 00:55:35,600
+Ihr schreibt in der Ausstellung, durch die Erkennung von Sprache und Bildern, die Verarbeitung von Daten
+
+554
+00:55:35,600 --> 00:55:39,600
+und die algorithmische Analyse von Verhaltensmustern durch künstliche Intelligenz
+
+555
+00:55:39,600 --> 00:55:45,600
+rückt die Bestimmung einer Zukunft in den Fokus, die nicht mehr vorhergesagt, sondern hergestellt wird.
+
+556
+00:55:45,600 --> 00:55:51,600
+Und dem mag ich jetzt was beistehen, was ich vor kurzem gelesen habe in einem Interview mit Antoinette Rouvois.
+
+557
+00:55:51,600 --> 00:55:56,600
+Und die hat gesagt, wer den Raum der Potentialität beherrscht, wird der Herrscher der Welt.
+
+558
+00:55:56,600 --> 00:56:02,600
+Das heißt, wir sind wieder angekommen bei der Frage der Machtkonfiguration.
+
+559
+00:56:02,600 --> 00:56:11,600
+Aber in Bezug auf die Frage, inwiefern diese technologischen Möglichkeiten dazu beitragen,
+
+560
+00:56:11,600 --> 00:56:20,600
+eine Bandbreite von Zukunft eigentlich viel mehr zu verengen, als dass sie die erweitern, wie es oft postuliert wird.
+
+561
+00:56:20,600 --> 00:56:23,600
+Wahrscheinlich ist beides möglich, aber…
+
+562
+00:56:23,600 --> 00:56:29,600
+Also total gut, ich muss dem Ganzen noch ein Zitat folgen lassen, nämlich von Carl Schmid.
+
+563
+00:56:29,600 --> 00:56:32,600
+Souveränes wäre, wer über den Ausnahmezustand entscheidet.
+
+564
+00:56:32,600 --> 00:56:40,600
+Agamben hat das in seinem Buch Homo Saka auf die Biopolitik bezogen und über die Entscheidung auf Leben und Tod.
+
+565
+00:56:40,600 --> 00:56:46,600
+Ich glaube, wir sollten es aussehen, eben sie sehen es den Raum der Potentialität, nennen wir es Fiktion.
+
+566
+00:56:46,600 --> 00:56:51,600
+Souveränes wäre, wer über die Fiktion entscheidet und wie die funktioniert.
+
+567
+00:56:51,600 --> 00:56:57,600
+Und ich denke, dass wir da sozusagen in diesen Bereich angekommen sind, wo natürlich all diese verschiedenen Politiken,
+
+568
+00:56:57,600 --> 00:57:03,600
+die Potentialität der Politik, die Biopolitik, die Geopolitik oder die Fiktiopolitik,
+
+569
+00:57:03,600 --> 00:57:12,600
+sozusagen die Auslegungshoheit und Produktionshoheit darüber, was Wirklichkeit ist und was nicht,
+
+570
+00:57:12,600 --> 00:57:18,600
+im Zeitalter von Deepfakes und Zeitalter heißt in dem Fall ein paar Wochen.
+
+571
+00:57:18,600 --> 00:57:25,600
+Eine ist die, die tatsächlich darüber entscheidet, wem die Zukunft gehört gerade.
+
+572
+00:57:25,600 --> 00:57:34,600
+Wir sind absolut on Topic zum Subtitel des Podcasts, der Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+573
+00:57:34,600 --> 00:57:41,600
+Wenn ich das richtig verstehe, Paul, plädierst du also auch, dass Sie sich mehr mit Narrativen von Zukunft auseinanderzusetzen
+
+574
+00:57:41,600 --> 00:57:44,600
+als Formen des Politischen?
+
+575
+00:57:44,600 --> 00:57:50,600
+Ja, mit Narrativen von Zukunft, aber eben vor allem auch mit den Mechanismen und Infrastrukturen,
+
+576
+00:57:50,600 --> 00:57:53,600
+auf denen diese Narrative produziert werden.
+
+577
+00:57:53,600 --> 00:57:58,600
+Also ich glaube, es ist wichtig, sich nicht nur anzuschauen, wer macht die Geschichten, wie schauen die Geschichten aus,
+
+578
+00:57:58,600 --> 00:58:03,600
+sondern unter was für Bedingungen und zwar in jeder Hinsicht.
+
+579
+00:58:03,600 --> 00:58:08,600
+Also politische Bedingungen, technologische Bedingungen, ökologische Bedingungen passieren
+
+580
+00:58:08,600 --> 00:58:15,600
+und werden diese Narrative geschrieben. Wer sind die Autoren, die in der Regel eben nicht nur, wie Malis auch mehrfach schon gesagt hat,
+
+581
+00:58:15,600 --> 00:58:21,600
+vorhin nur Menschen sind, sondern das Schreibwerkzeug schreibt dann den Gedanken mit.
+
+582
+00:58:21,600 --> 00:58:28,600
+So ist das immer schon gewesen. Und lustigerweise umso mehr Schreibwerkzeug wir haben, und es wird immer mehr,
+
+583
+00:58:28,600 --> 00:58:34,600
+umso weniger scheint uns das bewusst zu sein, dass diese Technologien, die wir hier rund um uns herum haben,
+
+584
+00:58:34,600 --> 00:58:38,600
+das ist irgendwie geschickt gemacht worden. Ich weiß nicht, wer das gemacht hat,
+
+585
+00:58:38,600 --> 00:58:43,600
+ob die Technologien das selber gemacht haben, dass sie sich immer unsichtbarer machen.
+
+586
+00:58:43,600 --> 00:58:49,600
+Und dass man immer mehr das Gefühl hat, wir werden immer menschlicher, umso technologischer wir werden.
+
+587
+00:58:49,600 --> 00:58:56,600
+Das ist ein ganz komischer Move, der da passiert. Und ich glaube, das ist die große Aufgabe,
+
+588
+00:58:56,600 --> 00:59:05,600
+ist ein bisschen dem einen Widerstand entgegenzusetzen und weiterhin daran zu arbeiten, dass sichtbar wird und bleibt,
+
+589
+00:59:05,600 --> 00:59:11,600
+wie die Sachen funktionieren. Also den Blick hinter den Vorhang werfen und zu merken,
+
+590
+00:59:11,600 --> 00:59:16,600
+dass Wizard of Oz in Wirklichkeit einfach ein Medienkünstler ist.
+
+591
+00:59:16,600 --> 00:59:23,600
+Wunderbar. Ich frage zum Abschluss immer noch, wenn ihr euch Zukunft vorstellt, was stimmt euch freudig?
+
+592
+00:59:23,600 --> 00:59:27,600
+Mein Urlaub.
+
+593
+00:59:27,600 --> 00:59:30,600
+Marlies, Paul, vielen Dank für das Gespräch.
+
+594
+00:59:30,600 --> 00:59:31,600
+Vielen Dank.
+
+595
+00:59:37,600 --> 00:59:41,600
+Das war Future Histories für heute. Vielen Dank fürs Zuhören.
+
+596
+00:59:41,600 --> 00:59:46,600
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+597
+00:59:46,600 --> 00:59:51,600
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder auf Reddit.
+
+598
+00:59:51,600 --> 00:59:55,600
+Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+
+599
+00:59:55,600 --> 01:00:00,600
+Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+
+600
+01:00:00,600 --> 01:00:06,600
+Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com-futurehistories
+
+601
+01:00:06,600 --> 01:00:12,600
+vieles an Zusatzmaterial. Ich lese zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt.
+
+602
+01:00:12,600 --> 01:00:21,600
+Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.
+
