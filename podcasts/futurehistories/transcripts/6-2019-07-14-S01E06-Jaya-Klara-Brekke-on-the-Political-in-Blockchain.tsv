@@ -1,0 +1,681 @@
+start	end	text
+0	9760	It is absolutely incredible that economic concepts and tool sets are being implemented
+9760	15840	deeply into computational processes and into network security processes.
+15840	24320	I think this is actually quite a big deal, intellectually, technically, philosophically.
+24320	25760	It is quite a big deal.
+25760	31560	I first realized this when I went to a Bitcoin conference a while back and it was really
+31560	32560	interesting.
+32560	39200	I was like, wow, it's basically cryptographers that are discussing economics.
+39200	40840	Cryptographers discussing economics.
+40840	43800	That's a perfect start for today's episode.
+43800	45680	Welcome everybody to Future Histories.
+45680	51360	My name is Jan Groß and my guest today is Dr. Jaya Clara Brecke and we will be talking
+51360	56520	about blockchain technology in relation to the question of the political.
+56520	61020	You can find Jaya's dissertation on a website at distributingchains.info.
+61020	67320	It is titled Disassembling the Trust Machine, Three Cuts on the Political Matter of Blockchain.
+67320	72180	And if you want to know more about the podcast, please visit futurehistories.today.
+72180	77320	Most of the episodes will be in German, but once in a while I'll do an interview in English,
+77400	82760	especially if it allows me to talk to people like Jaya, whose work I highly recommend to
+82760	85000	everybody interested in the field.
+85000	88400	Check out Future Histories on Twitter and Reddit and let me know what you think about
+88400	94780	the show or write me an email to future underscore histories at protonmail.com.
+94780	96720	You can support the show on Patreon.
+96720	100000	For this go to patreon.com slash future histories.
+100000	102120	But now enough promo.
+102120	104000	Please enjoy the interview with Jaya.
+104000	105080	I certainly did.
+107320	111960	Welcome to Future Histories.
+111960	116560	My name is Jan Groß and my guest today is Dr. Jaya Clara Brecke.
+116560	121680	She's a researcher investigating what matters politically in blockchain technology at Derham
+121680	123120	University.
+123120	124120	Welcome Jaya.
+124120	125120	Hi.
+125120	129720	I think most of my listeners will have heard of the term blockchain at some point, but
+129720	134920	I think there's still actually considerable confusion and quite a lot of mysticism around
+134920	136240	the technology.
+136240	138120	So let's cover the basics first.
+138120	141680	What is a blockchain and what types of blockchains are there?
+141680	148360	Okay, so the way I tend to explain blockchain is I actually I go back to cryptography and
+148360	153400	I go back to starting off with explaining what cryptographic hashing is for those who
+153400	154640	are not familiar.
+154640	159640	So essentially, you know, this is a mathematical process where you take some data, you put
+159640	165080	it through this process and it spits out a string of numbers or a string of numbers and
+165080	169200	letters, characters, whatever kind of hashing algorithm you're using.
+169200	177000	And this has a very particular set of characteristics, which are extremely useful because only the
+177000	181460	exact same data would spit out that particular string of numbers.
+181460	186760	So what that means is that if anything in the data changes, you can detect that by running
+186760	190320	the hashing algorithm again, and if it doesn't spit out the same number, then you know something
+190320	191560	has been tampered with.
+192520	198320	It's a very useful way of verifying the integrity of data.
+198320	206480	So you add a timestamp to this and you string this together in a chain of hashed data.
+206480	211560	And what you essentially potentially have is a linear history of, you know, things that
+211560	216560	have changed over time or, you know, sets of data over time.
+216560	221800	So that's essentially, you know, the kind of blockchain in terms of kind of data structure.
+221800	225920	But then there is the question of how do you, if you want to have this taking place in a
+225920	231300	decentralized network, how does the decentralized network come to an agreement around what data
+231300	235400	should be added and hashed into this chain in the first place?
+235400	240500	So how do we come to an agreement about what has happened, you know, in a given context?
+240500	243560	In the case of Bitcoin, what has happened in terms of transactions?
+243560	247160	In the case of Ethereum, what has happened in terms of computation?
+247160	250080	But it could be any potential data.
+250080	255320	So that consensus mechanism is what's called proof of work in Bitcoin and in many other
+255320	256680	cryptocurrencies.
+256680	258200	There are other consensus protocols.
+258200	261120	I'm going to explain the one that Bitcoin uses.
+261120	262520	That's the kind of starting point, let's say.
+262520	264840	But you also have things like proof of stake.
+264840	268040	You have things like proof of importance and proof of cooperation.
+268160	274440	So the way the consensus protocol takes place in Bitcoin is the network competes on grouping
+274440	281640	together the transactions into blocks and running it through a hashing process that
+281640	286040	needs to spit out a number that meets certain requirements.
+286040	289920	If it does not spit out that number meeting certain requirements, then they have not successfully
+289920	290920	mined a block yet.
+290920	292600	So they need to try again.
+292600	297520	And by trying again, they basically just add a nonce, which is a random number to the data
+298160	303960	until the random number that they add to the data affects the output string of number in
+303960	308360	such a way so that it meets the requirements.
+308360	315960	So what is it we have here is actually a quite profound shift in understanding around the
+315960	322000	word consensus and an understanding around how a network reaches consensus.
+322040	330040	Because if we think about this as a model for governance, this is a model for agreeing
+330040	338240	about what actually happened, you have gone from previous models that could be a political
+338240	342200	leader decides what's true or not, a judge decides what's true or not, a religious leader
+342200	349920	decides what's true or not, or science or some kind of philosophical understanding of
+349960	356920	truth of events and so on to a system which is essentially, you know, the way that it
+356920	362400	decides what's happened, the way that it's decided what's true is through randomized
+362400	370200	turns that is that is incentivized through rewards.
+370200	377360	So you have a competition to be the one to define which transactions are considered valid
+377360	381560	or what data is considered valid for that round.
+381560	386480	So you have all these, you know, this whole network of computers that are taking turns
+386480	393080	that are competing with each other to be the next intern to define the truth for that next
+393080	394560	block.
+394560	399160	That is essentially the kind of Bitcoin consensus protocol.
+399160	405160	So blockchain technology did have very political goals from the start, and one of them actually
+405160	409800	being the goal of overcoming politics altogether.
+409800	416160	How did you approach the question of the political in your work on blockchain technology?
+416160	421160	So first of all, it was really kind of working that out, you know, understanding, you know,
+421160	430280	where what's really kind of the underlying ideas that gave rise to this technology.
+431000	435400	And from that, I really, you know, I articulated this thing that actually, you know, what seems
+435400	441840	to be happening here is an attempt at a kind of technical fix, a technical solution to
+441840	443560	the problem of the political.
+443560	451440	So if we understand the political as basically the negotiation of incompatible differences
+451440	455880	through lots of different means, that would be one definition.
+456240	461040	What you have here is a technology that tries to kind of resolve that in some kind of final
+461040	462040	manner.
+462040	466840	So, you know, you take the problem of power and authority that will be replaced by a decentralized
+466840	467840	network.
+467840	470720	So problem of authority has been solved.
+470720	474600	The problem of consensus between, you know, incompatible positions, well, we've got an
+474600	478680	algorithm that will do that and an algorithm that will do that in a way that's decentralized,
+478680	484200	meaning no one can control it, which means that it can be considered somewhat, can be
+484240	486880	considered neutral.
+486880	491840	And then we have the problem of how to enforce that and secure the system.
+491840	498240	And, you know, code will enforce it and cryptography will secure the system from any kind of
+498240	500520	attacks or manipulation.
+500520	505240	So the idea is like these components somehow resolve the problem of the political in some
+505240	507560	kind of final way.
+507560	512800	So a lot of my work, I guess, was partially kind of untangling where do these ideas come
+512800	520960	from and how are they sought to be kind of like written and encoded and what's that
+520960	526040	process, what has that process looked like?
+526040	533000	And also to look at kind of, you know, there's lots of different theories around like understanding
+533000	534360	the politics of technology.
+534360	538920	One of them is, you know, really understands the political as something that then gets
+539000	544360	inscribed into a piece of technology or an infrastructure so that a certain kind of politics
+544360	550440	or ethics will be operating in a kind of imminent manner.
+550440	556920	So, you know, say, for example, for me, like a really good example is the door closer that
+556920	561160	I think Bruno Latour uses and is, you know, one kind of easy way of understanding this
+561160	566280	principle, which is basically like a door closer will automatically close the door and
+566280	571920	that enforces a certain kind of understanding that the door being closed is good, whereas
+571920	574340	the door remaining open is bad.
+574340	578920	So therefore we have this door closer that's now going to continue to enforce that regardless
+578920	583000	of what we feel about it or not.
+583000	588760	Of course, the door closer is radically different from a complex network because the door closer,
+588760	593760	if you disagree with it, you just kind of like put something to block it from working
+593840	599040	or you pick it apart or whatever else, it's quite easy to change those conditions.
+599040	604200	And it's also quite easy to see what exactly is enforcing those conditions, where in complex
+604200	610320	network technology, sometimes it's pretty hard to understand where and why something
+610320	614720	turns out the way it turns out and how to fix that.
+614720	619600	And it requires certain skills to understand that and requires certain skills to tinker
+619600	621440	with it.
+621440	627960	Of course, in blockchain and in the kind of open source movement, that problem is attempted
+627960	632280	to be addressed by actually making things open source and trying to kind of explain
+632280	635320	systems and involve people in a variety of ways.
+635320	640880	And that's like a very positive side of the culture.
+640880	642840	But I think I lost my thread there a little bit.
+642840	645360	I don't mind.
+645360	651080	It's good because you pointed towards you looking at the history of network cultures
+651080	657560	actually in order to understand how this, you call it blockchain sensibility, got formed
+657560	660080	the way it is.
+660080	665840	And I think you did a very good job in pointing out that we should definitely take a second
+665840	673840	look and that both the evangelists, like the blockchain evangelists, should get away from
+673840	676320	easy dichotomies, but also the critics.
+676320	677320	Yeah.
+677320	682600	I mean, so because what I was observing was obviously, you know, the people that are attracted
+682600	686040	to blockchain come from a variety of different backgrounds.
+686040	691200	I mean, it's really attracted a lot of people from across different political spectrums
+691200	695920	and across different kinds of political cultures and histories.
+695920	700940	And so to me, it just seemed like, you know, although I think like some of the criticisms
+701100	708340	that have come, that does analyze, you know, especially things like Bitcoin and so on as,
+708340	715180	you know, a kind of right wing capitalist kind of project or a narco capitalist project,
+715180	718660	you know, sure, there's certain truth to that, but it just didn't seem to be telling the
+718660	719660	entire story.
+719660	727140	And it was telling a very kind of US centric history of blockchain to analyze it just on
+727140	728140	those terms.
+728140	730820	And I was trying to understand what else was going on or what was missing from that
+730820	735980	picture because I was observing people really from lots of different political backgrounds
+735980	738700	getting involved.
+738700	742420	And so for me, it was more interesting to look at the kind of like history of decentralization
+742420	748460	and peer to peer and look at some of the kind of practical problems that different technologies
+748460	750500	have been trying to solve.
+750500	754940	And one of them, I mean, really, you know, like the kind of history of peer to peer in
+754980	759460	terms of network cultures really has been about authority and it really has been about
+759460	765580	how can we create networks that even if like one person gets arrested or one server gets
+765580	772340	taken down, the network itself can still continue to function and can still continue to operate.
+772340	779060	And these were kind of pragmatic problems, you know, that the piracy movement or anti
+779500	781860	copyright movement has been dealing with.
+781860	786260	You know, these are problems that like, you know, different kind of, you know, indie media
+786260	789260	type projects have been dealing with.
+789260	794660	You know, it's really this question of, or this, let's say, using decentralization as
+794660	798940	a way to circumvent authorities, you know.
+798940	804700	So but what for me was interesting was some things have changed from the early history
+804700	810940	of peer to peer to, you know, where we're now at with blockchain technology.
+810940	815580	And a lot of that has to do with kind of like a shift in understanding where instead of
+815580	822580	using peer to peer or decentralization as a kind of specific strategy for specific political
+823700	830060	projects or purposes, it becomes a kind of abstract political aim in itself.
+830060	835100	And that's where I think like this idea or this kind of illusion of like having resolved
+835100	839940	the problem of the political in some kind of final manner comes about, right.
+839940	845980	And it's also where, to be honest, I think like, you know, by abstracting these things,
+845980	852980	that's why you see something like Ethereum being able to appeal to, you know, financial
+852980	858980	industries plus governments plus activists plus, you know, pretty much anybody or anything
+859100	864100	because this thing has been taken out of it, right.
+864100	868540	It becomes this kind of like generalized abstract thing where there's no, yeah, the kind of
+868540	872640	political project is abstracted, let's say.
+872640	876940	So everyone can see a certain kind of way of potentially using these technologies for
+876940	880980	some efficiency gains or whatever else.
+880980	887980	But for me, yeah, for me, there's like something strange that happens with that abstraction
+889060	896060	where kind of grounded understanding of what's in operation with the technology is lost.
+896980	901300	And I'm trying to, so what I'm trying to do in the thesis is give, you know, some access
+901300	903820	points to that.
+903820	910820	And actually, it feels as if a specific type of looking at the world is actually generalized.
+912540	918540	And when I was reading your thesis, I had to think about like how it reminded me of
+918740	925740	how game theory was invented in the sociopolitical arena of Cold War politics in a very specific
+928660	930860	context.
+930860	937860	And then it kind of got generalized as well, kind of similar to the way that Ethereum kind
+939580	946580	of set the scene to generalize this very specific understanding that comes out of like decentralized
+947580	951420	security modeling, actually.
+951420	958420	And I was wondering, because I mean, that might be unfair again, you know, but kind
+958540	965540	of it felt as if the same type of paranoia-ish looking on the world is generalized in game
+969380	970980	theory in the first place.
+970980	977980	And then a technology like Ethereum comes along and kind of builds and technological
+977980	983980	infrastructure to generalize it in technical terms as well.
+983980	987540	Yeah, absolutely. And it's, you know, there's a whole set of kind of strange contradictions
+987540	988340	at play here.
+988340	994300	So you're right. I mean, what I'm tracing in my PhD also is like the set of problems
+994300	1001300	that come about when you create a decentralized network, the set of technical problems, which,
+1001500	1008500	you know, in terms of network security is this issue that, you know, in a truly decentralized
+1009820	1015620	network, anyone can potentially be an adversary, right?
+1015620	1021400	And so, you know, a lot of that idea of like how do you secure against the fact that anyone
+1021400	1026080	can potentially be an adversary does feed into the kind of like general understanding
+1026080	1033080	of the world really is like, you know, trying to eliminate trust, you know, trying to solve
+1033080	1038360	the trust problem, which is like, you know, how big or how blockchain tends to be understood
+1038360	1039800	these days.
+1039800	1046800	But it's like very fuzzy, the exact limits to where things are being solved or what's
+1047400	1053040	being solved here exactly, because in each and every moment, there is so much trust involved.
+1053040	1056760	You know, you've got to, you know, there's no one that has actually gone through and
+1056760	1063020	audited every single piece of code or understood every single piece of, you know, cryptographic
+1063020	1068220	hashing algorithm that's being used and verified themselves as a single individual.
+1068220	1074440	You know, there are obviously communities of trust in a real sense, even in blockchain
+1074440	1078120	technologies in so-called, you know, trustless networks.
+1078120	1084720	So like, yeah, there is this kind of imagination or this ideal that like ultimate, you know,
+1084720	1091480	the ultimate system is a system where nobody needs to be trusted.
+1091480	1098760	And that's kind of necessary to reach this ideal of a secure decentralized system replacing
+1098760	1100880	authorities.
+1100880	1104760	But in actual fact, the way it plays out doesn't quite look that way.
+1104760	1112000	It just, there's a kind of reconfiguration of how trust operates.
+1112000	1115160	There was something else I wanted to say on that, but it slipped my mind now.
+1115160	1117120	I'm sure it'll come up in a different form.
+1117120	1123800	Well, yeah, and I think I'll have a good point to get into it, because you describe four
+1123800	1130640	principles of blockchain technology and afterwards you have a short paragraph where you let the
+1130640	1136760	reader know how different the way the terms are being used actually is.
+1136760	1142040	I mean, you just said it in relation to trust, but actually it's in relation to decentralization
+1142040	1144040	as well and consensus and stuff.
+1144040	1150720	So could you maybe explain the four principles and how the way these terms are being used
+1150720	1157120	is actually quite counterintuitive to the way we use it in like everyday language?
+1157120	1158120	Yeah.
+1158720	1165320	Yeah, so I guess, so what I'm saying in this section is trying to kind of compare, like
+1165320	1176200	you say, how we understand some of these terms, trust, openness, decentralization, and immutability
+1176200	1184080	quite differently in our social lives than what becomes technically articulated and how
+1184160	1188680	that technical articulation then becomes a kind of certain view of the world or a certain
+1188680	1192360	kind of understanding of the world.
+1192360	1198000	So generally speaking in social life, more trust is a good thing, right?
+1198000	1205640	If we create kind of more trust between us, that's a good thing.
+1205640	1213040	Whereas in kind of blockchain, trust is considered something that needs to be eliminated entirely.
+1213440	1219080	In some ways, there's some interesting dynamics that I don't think I go into so much in this
+1219080	1230760	paragraph about that, but about how that's in many ways a kind of feature of lots of
+1230760	1236840	different aspects of technology and scientific devices in general, that we trust the observation
+1237640	1244480	of a measuring device more than we would trust someone's account of it.
+1244480	1249800	So take like temperature measurements, for example, it's like someone's like, oh, this
+1249800	1254840	feels really, really hot, and it's like, no, the thermometer says it's only 20 degrees
+1254840	1260520	outside or things like this where there's like a certain kind of, we assign a certain
+1260600	1269640	kind of validity to the return of certain kinds of technical instruments and apparatuses
+1269640	1275000	more so than our kind of common experiences.
+1275000	1278560	I mean, that's not to pit the kind of human against the machine in any kind of way.
+1278560	1284280	It's just an observation about how devices and apparatuses sometimes operate.
+1284280	1290160	And I say it only because it's such a major, major part of the political proposition of
+1290160	1300360	blockchain to create a kind of governance apparatus, essentially, that is somehow constructed
+1300360	1304040	by a set of elements that are beyond the control of human beings.
+1304040	1306160	And that's like the explicit aim.
+1306160	1311320	That's the kind of that's the political aim of the project, really.
+1311320	1312600	So let's go into that.
+1312600	1316940	What's the role of algorithmic governance in blockchain technology?
+1316940	1324060	So what is the narrative around it and what are the narratives of future that are connected
+1324060	1325060	to it?
+1325060	1334980	Sorry, I'm not sure if I understand entirely the question, if you can make it more specific.
+1334980	1342340	Well, you kind of said right now that one of the main purposes of blockchain technology
+1342340	1355380	is being a technology for governance purposes in order to provide a different way to actually
+1355380	1357940	organize society as a whole, you know?
+1357940	1365260	And so there's a narrative, a political narrative connected to this technology that is tightly
+1365260	1369740	coupled to the idea of algorithmic governance.
+1369740	1370820	What's the idea behind it?
+1370820	1376300	How do they want to use algorithmic governance to reorganize society?
+1376300	1382820	Yeah, I mean, so, you know, one point that I've been making a lot throughout my thesis
+1382820	1387540	in the kind of not just in the written piece, but also in the talks that I've been giving
+1387540	1394860	and so on, is this kind of irony or this kind of this observation that like peer-to-peer
+1394860	1400320	technology, you know, there's a lot of focus on this ambition of disintermediation, right?
+1400320	1406680	To get rid of the kind of intermediary, the middleman, so that we can have kind of direct
+1406680	1409040	relations with one another.
+1409040	1412520	And so for transactions, that would be like, let's get rid of the banks and the governments
+1412520	1417880	so that we can just exchange value directly between each other without anyone, you know,
+1417880	1423880	either controlling whether we can do that or not, or like the surveillance and gathering
+1423880	1427840	information about us and our transactions.
+1427840	1432120	And so there's like this focus on disintermediation and getting rid of the middleman.
+1432120	1436360	But then on this kind of like political ambition, I mean, you look at this thing and it's like
+1436360	1441200	the most incredible, like the most intense form of intermediation you can imagine when
+1441200	1443760	it comes to questions of governance, right?
+1443760	1451120	We're bringing together like, you know, networks and algorithms and protocols and game theory
+1451120	1456160	and market dynamics and you name it, all into this kind of like some kind of apparatus that
+1456240	1464200	is supposed to kind of sit between all of us and enforce some kind of consensus between
+1464200	1465720	all of us.
+1465720	1473000	So it's this very intense form of intermediation, actually, and a hugely complex form of intermediation.
+1473000	1481880	Yeah, so on the question of algorithmic governance, it's so, I mean, with blockchain, I think
+1481920	1487720	I mentioned already in the definition how, you know, the technology looks to solve the
+1487720	1489960	problem of the political.
+1489960	1494280	And so you have, you know, something like, you know, you have consensus algorithms that
+1494280	1497560	organize consensus amongst nodes in the network.
+1497560	1504720	But also, you've got things like decentralized autonomous organizations, you've got things
+1504720	1507360	like smart contracts.
+1507360	1516480	So ways of trying to kind of automate certain aspects of governance and contractual relationships,
+1516480	1521440	let's say, so that they once again cannot be controlled by any single individual, but
+1521440	1526520	that run, you know, across a kind of decentralized network.
+1526520	1530880	And there's lots of kind of directions that people imagine this going in.
+1530960	1538120	And so, you know, the kind of like fantasy, which is both the kind of like dystopian fantasy,
+1538120	1541680	but also something that you see people in the blockchain space talk about with like
+1541680	1547240	really kind of like feverish bright eyes is this, you know, this combination of blockchain
+1547240	1553520	with AI, you know, that, you know, will have, you know, AI emerge, which will be this kind
+1553520	1565600	of like, yeah, perfect, scary, non-human, but amazingly mathematical intelligence that
+1565600	1574720	will use the kind of power of cryptography and the kind of uncontrollable, uncontrollability,
+1574720	1580680	unstoppable ability of smart contracts to basically run the world.
+1580840	1587600	And specifically in terms of this narrative for future, there has been some setbacks to
+1587600	1589560	say it mildly.
+1589560	1596800	So there was a DAO, a decentralized autonomous organization, as you mentioned, in Ethereum,
+1596800	1598480	on the Ethereum blockchain.
+1598480	1600880	And there was a lot of hype around it.
+1600880	1604280	And at some point it got hacked.
+1604280	1612000	And actually, what followed then was some kind of reflection about the limits of this
+1612000	1613840	kind of thinking.
+1613840	1622400	And for some, it was like a, I think it was just the lesson that we just didn't do it
+1622400	1623400	good enough yet.
+1623400	1624400	Yeah.
+1624400	1629640	And for others, they thought, all right, well, this showed us actually that it's not just
+1629640	1636240	a deterministic world we're living in that can be handled in this kind of way, but there
+1636240	1642240	are different aspects, like social aspects and stuff that have to be considered in this
+1642240	1643240	kind of thing.
+1643240	1644240	Yeah.
+1644240	1645240	Yeah.
+1645240	1648080	So I write quite a bit about that event in my thesis also.
+1648080	1657520	I mean, the problem is, so, you know, the story of blockchain and what it can do and
+1657520	1663760	the story of blockchain plus AI, you know, these things, they sound so convincing.
+1663760	1667400	But one of the main reasons why they're so convincing is because when you kind of, when
+1667400	1671600	you look at the story, you're looking only at the story and you forget to look at everything
+1671600	1676560	outside of it, when actually everything outside of it really matters for how that story will
+1676560	1678720	play out in reality.
+1678720	1686300	And to take a very basic example, this idea of a kind of, you know, blockchain system
+1686540	1693740	that runs entirely without authorities, you know, at some point, someone had to write
+1693740	1696740	that protocol, right?
+1696740	1702340	And so that someone, you know, or those groups of people, in essence, have then written the
+1702340	1705340	rules of society, right?
+1705340	1709100	If indeed this thing was going to continue to run without it being controlled or without
+1709100	1713180	it being kind of modified and so on.
+1713180	1719100	But also what happens is in reality, not only has someone or people writing protocols,
+1719100	1723740	but also the protocols need to be maintained and updated and things break and nothing is
+1723740	1725140	ever written perfectly.
+1725140	1733100	And, you know, so there is this kind of like real kind of difference or real gap between
+1733100	1743180	the kind of the perfect ideal that somehow kind of, you know, mathematics, cryptography
+1743180	1747300	and technical systems, you know, they give us this kind of mental image of something
+1747300	1753740	that is perfectly neatly organized, perfectly rational and perfectly objective, when in
+1753740	1757740	actual fact, like that's a kind of it's a mental image of it.
+1757740	1761900	Whenever people actually write these things down, obviously, like it exists as part of
+1761900	1768580	a kind of far more complex world where lots of other dynamics play into how a system
+1768580	1772300	will actually operate and the actual effects of a system.
+1772300	1778780	And so what happened in the DAO attack was, you know, there was this decentralized autonomous
+1778780	1784620	organization and it was supposed to be governed purely and only by the rules written in its
+1784620	1787380	smart contract.
+1787380	1791860	And this smart contract lived in a decentralized network and no one was supposed to be able
+1791860	1796700	to modify it or change it after it had been deployed.
+1796700	1802700	So it was deployed and lots of people invested in the decentralized autonomous organization,
+1802700	1804700	I think up to 60 million dollars.
+1804700	1806540	No, more than that.
+1806540	1809580	I think over 100 million dollars.
+1809580	1817380	And then all of a sudden people saw that there was an amount of investment that was being
+1817700	1822540	taken out of the DAO contract repeatedly.
+1822540	1828980	And so it turned out that in the contract code, this was possible through a kind of
+1828980	1833980	combination of a couple of different rules that had been specified in the contract.
+1833980	1840380	And someone was literally emptying the fund and got away with about 60 million dollars.
+1840380	1846040	And the reactions to that were, you know, kind of split the community.
+1846040	1853720	So some people felt like, you know, this needed to be stopped.
+1853720	1855680	This should never have happened.
+1855680	1857520	We should intervene.
+1857520	1862760	And another set of people were like, no, because the rules said that only the smart contracts
+1862760	1863800	governs this thing.
+1863800	1867520	And so therefore, if what's written in the smart contract is the only thing that governs
+1867520	1873400	it and it allows for this person to actually or this hacker to actually siphon off this
+1873520	1876880	money, that should be allowed to go ahead.
+1876880	1883760	And so what you saw was, you know, the Ethereum Foundation got quite concerned and got involved
+1883760	1891680	because this was a considerable amount of the actual total amount of ether in the market.
+1891680	1898200	And so they decided to go in and intervene and basically do what's called, I guess you
+1898280	1907680	could call it a kind of rollback on the Ethereum blockchain and fork the blockchain so that
+1907680	1912320	before the hack attacked and kind of pretend that in the history of the Ethereum blockchain,
+1912320	1920200	this hack had never actually happened to then buy time to go in and retrieve the funds.
+1920200	1925760	And that's like a clear act of a kind of outside authority in a sense, right?
+1925760	1929080	And so there was a lot of like soul searching in the community about whether or not that
+1929080	1935760	was a good thing or not, whether that should be possible at all.
+1935760	1937520	And it did split the community.
+1937520	1941800	And so you have two different versions of Ethereum running now, one that has a history
+1941800	1946200	of events where this hack never happened, and one that has a history of events where
+1946200	1949120	it did happen.
+1949760	1959000	And so for some people in the Ethereum community, the way of making sense of this in terms of
+1959000	1966680	decentralization and so on, was to say that social consensus trumps computational consensus.
+1966680	1974480	So this idea that like it was actually okay for the Ethereum Foundation to step in and
+1974480	1979480	retrieve the funds by forking the chain because there was agreement, there was broad agreement
+1979480	1982760	in the community that that was what needed to be done.
+1982760	1994480	And that agreement was expressed through the adoption of nodes in the network of this new
+1994480	1997000	version of the Ethereum blockchain.
+1997000	2001240	So in many ways, you could say there was a decentralized consensus around moving forward
+2001240	2009040	on that decision, although there was a kind of another splinter group that disagreed.
+2009040	2011200	So there's lots of stuff going on here.
+2011200	2020440	But what I think really kind of was very nicely kind of demonstrated to the community was
+2020440	2028680	that you don't get rid of the complexity of the world, you don't get rid of human beings,
+2028680	2030720	you don't get rid of all these things so easily.
+2030720	2035680	And they actually play a pretty important role for how systems play out.
+2035680	2043480	Like there's no there's no final guarantee against like against the indeterminate reality
+2043480	2047720	that we live in, you know, things kind of unfold.
+2047720	2052000	I mean, yeah, there's there's so many ways of kind of saying this.
+2053000	2060120	And I keep saying it that, you know, this idea of a kind of final solution to the problem
+2060120	2064200	of the political, it's I mean, it's cute.
+2064200	2067480	And I understand where it's coming from.
+2067480	2070040	But really, you know, cryptography doesn't do that.
+2070040	2071320	There is nothing that does that.
+2071320	2072960	I mean, time keeps passing.
+2072960	2077760	And between us, there's just too many, there's there's too many unknowns in the universe.
+2077800	2082720	It's like it's a radically open future, you know, and you take something like cryptography
+2082720	2089840	that is that is really, let's say, the the cornerstone of this political or this kind
+2089840	2098000	of belief system in blockchain, this idea of like the, you know, the security of cryptography
+2098000	2104760	being like something fixed and something something determined, you know, that we can somehow
+2104800	2110920	build everything else on top of, you know, I went to I went to Bletchley Park the other
+2110920	2117400	day, which is I don't know if people know what that is, but it's it's where Alan Turing
+2117400	2122440	and a bunch of other English mathematicians got together during the Second World War to
+2122440	2127440	break the Lorenz, the German Lorenz cipher machine.
+2127440	2132520	And a few of them did and invented the Colossus in order to do that.
+2132520	2137800	And it's you know, it's a very good it's a very kind of historical reminder and an epic
+2137800	2143520	reminder of the fact that cryptography, you know, is is never final.
+2143520	2149640	You know, it can be broken and and it is repeatedly broken and it's an ongoing process.
+2149640	2155040	Cryptography is very interesting to use in different kinds of systems design because,
+2155040	2161360	yes, it does buy you time and it has some incredible properties, but but it doesn't
+2161360	2164360	resolve things in any final in any final way.
+2164360	2166560	It's not bulletproof.
+2166560	2173440	It's just another device that we humans have invented in our engagement with with the kind
+2173440	2177520	of elements of the universe that we live in, you know, with the mathematics that we that
+2177520	2181320	we've kind of developed. Yeah.
+2181320	2183520	That was a lot.
+2184240	2192720	That's good. And actually, there's a there's another element that kind of undermines this
+2192720	2196840	perception of blockchain technology being a truth machine.
+2196840	2203800	In your thesis, there's a part where you describe this actually quite fitting.
+2203800	2204800	I'll just quote it.
+2204800	2209440	Actually, I think if we take a closer look at how double spending is solved and how consensus
+2209440	2214520	is arrived at in decentralized networks, there is, in fact, no need to determine which
+2214520	2219600	of the conflicting transactions is true because from the perspective of the system, it does
+2219600	2223640	not matter which is verified as long as it is just one of them.
+2223640	2227080	What is true or really happened is not of importance.
+2227080	2228080	End quote.
+2228080	2233200	So I really like that because the consensus this means that means that the consensus in
+2233240	2239840	blockchain is actually far from being any kind of objective truth, but it is what you
+2239840	2243480	later call an incentive driven settlement.
+2243480	2250960	And I think this is very spot on because it kind of begs the question, how does this affect
+2250960	2254520	the the the kinds of truths?
+2254520	2256080	Is that the plural of truth?
+2256080	2262200	I don't know the truths that that can be produced because I'm actually like one hundred percent
+2262240	2270080	sure that there are many, many, many, many, many, many, many truths that cannot be produced
+2270080	2272680	with this specific type of thinking.
+2272680	2273680	Yeah.
+2275800	2281680	Yeah, it's another kind of like cute.
+2284480	2290840	I say cute because it's another kind of cute approach to some of the kind of deep complex
+2290840	2292160	problems of the political.
+2294440	2299560	And I say cute because it's a kind of backing down of or a kind of historical accumulation
+2299560	2301920	of disappointments in authorities.
+2301920	2308480	So it feels a little bit like this child that who's who realizes that its parents are
+2309480	2314320	fallible, you know, and goes looking for something that isn't fallible.
+2314320	2320840	And so, you know, and the reason why I say that is because, like, OK, so, I don't know,
+2320840	2326200	to me, it does seem like, you know, it's trying to instead of instead of instead of trying
+2326200	2332840	to ponder what truths might be out there and try and work through that in all the kind
+2332840	2337280	of philosophical implications and all the social implications and through all the kind
+2337280	2342240	of historical pain and so on that has that has happened in this pursuit of truth.
+2342240	2343880	And here I'm talking about religion.
+2343880	2347640	I'm talking about political ideologies.
+2347640	2353920	I'm talking about geopolitics, you know, and and historical events.
+2355240	2362480	This is the kind of idea that, like, we don't need a universal truth coming stemming from
+2362480	2363840	kind of human reflection.
+2364480	2369800	All we need is something that ensures that who gets to determine the next round of truth
+2370440	2378640	is randomly selected in a way that can be deterministically analyzed as as decentralized,
+2378640	2382640	as fair. You know, there's no single node in the network that will be able to determine
+2382640	2385360	the truth over and over and over again.
+2385360	2387440	It's always going to be a different node in the network.
+2387760	2393000	So it's this kind of mathematically randomized set of truths.
+2393920	2397920	And there's some, you know, so when we talk about truth machine or this idea of
+2397920	2402840	blockchain as truth machine, that is the kind of truth that's being produced.
+2402840	2408080	It's it's it's, you know, and this is, again, a little bit of an abstraction because,
+2408080	2411000	like, OK, we're analyzing proof of work.
+2411880	2415880	And so the truth that we're talking about here is whether a transaction happened or
+2415880	2419840	not in the Bitcoin blockchain or whatever.
+2420360	2424120	And so it's a bit of an extrapolation to talk about kind of more existential or political
+2424120	2429840	truths. But I think I do think that extrapolation makes sense because that is the
+2429840	2434200	kind of ultimate political imaginary that's at play here in blockchain.
+2435920	2442200	But, yeah, it's it's a very particular it's a very particular kind of and strange and
+2442200	2446160	funky and quite interesting way of arriving at a set of truths.
+2446160	2451360	And I'm sure that that, you know, I do I am curious about, you know, the experiments in
+2451360	2457920	this space to see what and how we might be able to use something like this.
+2458960	2464720	But I'm also quite firm about finding the very specific appropriate uses of it and really
+2464720	2471880	not having this as some kind of overarching ideology, because, like you say, this form
+2471880	2476840	of consensus, this way, this method at which to arrive at consensus around truth is a very
+2476840	2481720	specific way. It's very different from, let's say, a group of people that get together in
+2481720	2486400	a room and share their experiences about something that then arrive at some kind of
+2486400	2488600	shared understanding of what has happened.
+2490360	2495400	That's a very, very different process and a very, very different way of being in the
+2495400	2502160	world and acting in the world and understanding the world than the proof of work consensus
+2502160	2502840	algorithm. Right.
+2503560	2513320	Actually, I'm keen on looking a bit closer on this subset of being incentive driven,
+2513320	2515120	because I think that's quite relevant.
+2515960	2518080	And you can see this in other fields as well.
+2518080	2526880	When, for example, a blockchain technology has to resolve the problem, how to bridge
+2526880	2532440	the gap into the material world, like the non-digital world, then things come into play
+2532680	2534080	like oracles and stuff.
+2534320	2537280	But these oracles, they are market driven.
+2537280	2546400	So it's a monetary incentive that is supposed to deliver the best possible truth, not the
+2546400	2547680	ultimate truth, maybe.
+2547680	2560200	But it's constructed as if this monetary incentive is able to produce the best workable
+2560200	2565240	truth. And I think this goes down to the bottom of the protocol when it comes to
+2565240	2572560	something like crypto economics, because there also you have this kind of techno
+2572560	2579000	engineering idea or behavioral engineering idea, you call it, I think, in the thesis as
+2579000	2591360	well, that you might be able to construct a good system architecture through actually
+2591360	2599600	carrots and sticks, which are, again, monetary incentives or the punishment of taking away
+2599600	2600920	some money.
+2601800	2604080	Yeah. Yeah, exactly.
+2604640	2611000	And there, again, it's interesting to look at how things are done or might be done
+2611000	2612560	differently in a social scenario.
+2612560	2618440	Right. So, you know, we're working with crypto economic designs, then it is very much,
+2618440	2623560	like you say, kind of crude, carrot or stick kind of set of tools that are being used.
+2623640	2628280	Yeah, I think maybe for the listeners, could you briefly explain what it is?
+2628280	2630000	Crypto economics, what that means?
+2630800	2634120	Yeah, and it won't be brief, I'm sorry.
+2634120	2635600	Go ahead, go ahead.
+2635680	2641480	Because because I think, again, there's there's an interesting alternative history that
+2641480	2644800	hasn't really been discussed or written much about crypto economics.
+2646600	2653440	But crypto economics basically comes from, you know, in the Bitcoin protocol, what you
+2653440	2661600	have is a set of miners in the network that verify transactions, and those miners are
+2661600	2669120	rewarded with some Bitcoin every time they successfully manage to verify a block of
+2669120	2674320	transactions. And they're rewarded with a Bitcoin partially with the idea that if it
+2674320	2682280	pays more to contribute to the system than it does to attack it, then you'll have a
+2682280	2688680	system that essentially, yeah, it's a it's a kind of element of the security of the
+2688680	2693280	system, you'll have a system that runs that runs well.
+2693280	2697280	And so you've got you get even more kind of sophisticated versions of that, that, you
+2697280	2701720	know, you kind of economically reward good behavior in the network, and economically
+2701720	2703720	punish bad behavior in the network.
+2704800	2710520	And you see kind of different designs of that in different protocols in the blockchain
+2710520	2713000	space. And some of them get very elaborate.
+2714000	2717600	And I used a Bitcoin example because it's kind of one of the kind of more simple ones and
+2717600	2718600	easier to understand.
+2719880	2725560	So, yeah, it's a kind of combination of game theory and market dynamics in a kind of
+2725560	2728040	cryptographic decentralized network space.
+2729360	2737280	But the other story to that that I think is a very interesting angle is to understand this in
+2737280	2743880	terms of business models, because if we take, you know, the kind of business models of
+2745920	2752680	platform, the kind of like Internet platforms of today that use a kind of data extraction as
+2752680	2760320	their business models, data extraction and advertising, if we want to create new kind
+2760360	2768280	of a new type of Internet, you know, Web3, and if we want to create kind of new types of
+2768280	2775720	decentralized applications that make it cryptographically impossible for the kind of
+2775720	2781320	business models that rely on data extraction in that kind of a way, then we need a different
+2781320	2784200	kind of economy that runs these systems.
+2784480	2788360	And so for me, the interesting side of crypto economics, the really interesting side of
+2788520	2794000	crypto economics is the dream of and the idea of creating systems that are kind of
+2794000	2800280	economically autonomous and viable to run without the need for surveillance or
+2800280	2804040	surveillance capitalism or platform surveillance or, you know, the kinds of business
+2804040	2805920	models that we see run the Internet today.
+2805920	2810720	So that for me is like the kind of opportunity, the interesting possibility of crypto
+2810720	2811720	economics.
+2812480	2817240	Awesome. I think it's really, really important to point that out, because I mean, also for
+2817240	2825280	someone like me, it's kind of like overwhelming how the way crypto economics is
+2825280	2833360	handled is narrowed down to this idea of actually socio-technical engineering, which
+2833360	2839400	I think is really behavioral engineering, which I think is really actually a very
+2839400	2846640	dangerous road to to go on, you know, and it's very refreshing the way you did describe
+2846760	2853440	it right now that there are also, well, this might be a like acute danger to use the
+2853440	2856160	technology in the way of behavioral engineering or such.
+2857040	2866800	There are these other possibilities to actually use the technology in a way that is
+2866800	2868800	very much beneficial for everybody.
+2868880	2875400	Yeah. Yeah. But I think like in order for that to actually be able to happen, the space
+2875400	2881840	needs a lot of new thinking, especially from people that come from a heterodox economic
+2881840	2887880	thinking, because like right now what you've got is a bunch of programmers and computer
+2887880	2890360	engineers tinkering with economic tools.
+2890760	2897760	And so and from their perspective, they're trying to achieve certain security properties
+2897760	2902040	in the network. And so economics is being used in order to achieve those security
+2902080	2905080	properties. And that's why it tends towards behavioral engineering.
+2905760	2909840	That's why it tends towards like, how can we kind of make sure that certain types of
+2909840	2917480	behaviors, you know, honest behavior is happens, whereas kind of dishonest or malicious
+2917480	2919120	behavior is made impossible?
+2919120	2922800	You know, so that's like it's really the computer engineers perspective.
+2922800	2928440	But if we can have kind of more thinking in the space that looks more at this question of,
+2928840	2933040	you know, the business model of the Internet and the kinds of economics that might happen
+2933040	2938680	in that space, you know, if we can kind of start deliberately shaping that in some ways,
+2938680	2941200	I think that would be like super interesting.
+2941280	2944240	I think that's like, yeah, an important direction to work on.
+2944800	2951720	Very much so. But I have to say, I think it's in the in the current state, it's not just
+2951760	2959040	that the programmers are thinking in terms of security models, and that's why there's
+2959040	2963000	this kind of misunderstanding.
+2963000	2967480	But I'm afraid that I think what's happening right now, and you can see that in the
+2967480	2973280	collaboration between Vitalik Buterin, the founder of Ethereum and Glenn Whale, an
+2973280	2979520	economist who wrote Radical Markets, what like the next level of shit in this sense
+2979880	2985120	is that they are very much aware of that.
+2985120	2992280	This is not just about security modeling, but they believe crypto economics to be the
+2992280	2997080	appropriate social technology to design society.
+2997520	2999280	That's that's the impression I get.
+2999280	3007200	And that and that for me means that there might be a lesson learned in terms of how
+3007200	3014400	autonomous systems are not fully controllable and that we should put some social input
+3014400	3018120	into how to govern things and stuff like that, to say just a bit simple.
+3018560	3027920	But that in the final step, there's still a belief in engineering society through
+3027920	3032520	appropriate technological architectures.
+3032520	3039040	Actually, they really call it, he calls it the new social technology, like crypto.
+3039040	3040720	Yeah. Yeah.
+3040960	3048840	And this is where I think it's important to understand power a little bit better and
+3048840	3055360	different forms of power, because in the blockchain space and I think in society in
+3055360	3061080	general, when people kind of think of power just off the top of their heads, what comes
+3061120	3063400	to mind is a kind of authoritarian dictator.
+3063400	3069400	Right. What comes to mind is like a kind of centralized, you know, some kind of centralized
+3069400	3074960	power where one person or one party or whatever determines everything and kind of power
+3074960	3077760	radiates from that kind of central point.
+3079880	3084400	But there's there's so many more theories of power and ways of understanding power that
+3084400	3089760	are much more kind of apt at describing our current kind of conditions.
+3090720	3097080	One of which, like in the case of what you just described, that is quite useful for
+3097080	3105920	understanding, for understanding this condition is like a kind of power that operates
+3105920	3108080	more on the landscape of what's possible.
+3108080	3117040	So instead of having a centralized person dictate what needs to happen, you kind of
+3117040	3121880	model the landscape in a way that makes certain types of things seem like they're just
+3121880	3127680	naturally impossible to do or very difficult to do and make other things feel like they're
+3127680	3129080	very desirable to do.
+3129920	3134120	And that's what a lot of kind of protocological design really is about.
+3134120	3138160	And that's what a lot of kind of crypto economic design really is about, is, you know,
+3138160	3143400	to kind of make certain types of behavior desirable for someone on a kind of intuitive
+3143400	3146960	level. So it doesn't feel like an authority is dictating anything to you.
+3146960	3149080	It's just the way the landscape looks.
+3149080	3153320	It's easier to go that, you know, down that road than it is to climb over that hedge.
+3153320	3162760	You know, and so, you know, I think keeping an eye on that is is is very important also
+3162760	3169680	to be able to analyze, you know, analyze what is the types of, you know, what is the
+3169680	3173560	politics that's being inscribed in the protocols that then shape that landscape, you know?
+3175920	3180240	Yeah. What's the main takeaway from your research?
+3181960	3189720	Oh, wow. The main takeaway.
+3189720	3201880	Give me one moment, because there's so many that we've touched on.
+3201880	3203480	What's the main takeaway for you?
+3203480	3209400	I think it's that we should all be aware that there is no wholesale answer to anything,
+3209400	3217640	actually, and that these things are, like, context specific and that they have, like,
+3217720	3226280	a side that might benefit us that is very much context specific, but another one that is not.
+3226280	3230280	And we shouldn't, like, alles über einen Kamm scheren.
+3230280	3231720	I don't know the English word for that.
+3231720	3235480	Like, we shouldn't approach it as if it's all the same.
+3236360	3238280	Take a second look. Maybe that's.
+3238280	3241400	Yeah. Yeah. Yeah. I think you're right.
+3241400	3243800	I mean, really, that is the main takeaway.
+3243800	3254920	The main takeaway is, or the main work that I'm trying to do here is to, first of all,
+3254920	3263480	shift the understanding away from trying to arrive at some final solutions to problems
+3263480	3271880	of power and politics and these issues, and to create some ways to feel OK about the fact
+3271880	3279960	that we do live in an infinitely complex world and universe where the work is ongoing.
+3280440	3282360	And that's part of the excitement of things, right?
+3283560	3286040	These new technologies can do incredible things.
+3288040	3289320	History doesn't stop.
+3289320	3290440	The work doesn't stop.
+3290440	3291640	The game doesn't stop.
+3291640	3292760	The kind of interaction.
+3292760	3295320	I mean, there's so much more interesting things to come.
+3296440	3299800	And all this stuff will break and get old at some point,
+3300680	3302840	and we'll move on and something else will happen.
+3302840	3306920	And it's really kind of tracing through and sticking.
+3307720	3312120	There's just a fantastic title of a book by Donna Haraway that came out last year,
+3312760	3314120	Staying with the Trouble.
+3314120	3315000	That's what it's about.
+3318760	3324440	And I say this not as a kind of trying to create some kind of new universal statement,
+3324440	3327000	but more like literally staying with the trouble
+3327960	3332120	and understanding the details of how these technologies play out
+3332120	3334760	and getting involved in how they play out.
+3335640	3336520	Great final words.
+3337080	3340520	I usually put one question at the end,
+3341160	3344760	which is, if you think about the future, what makes you joyful?
+3347720	3352120	If I think about the future, what makes it that the future is radically open.
+3352600	3357080	The future has never been more radically open than it feels right now.
+3357080	3358440	And that to me is incredible.
+3359720	3360360	Awesome.
+3360360	3362360	Jaya, thank you so much for the interview.
+3363400	3364360	Thank you, Jan.
+3370040	3371960	That was our show for today.
+3371960	3376600	I hope you enjoyed the interview with Dr. Jaya Clara Brecke.
+3377080	3380920	If you want to know more about future histories, please visit future histories.
+3380920	3383000	Visit future histories dot today.
+3383000	3385400	You can support future histories at Patreon.
+3385400	3389400	For this, go to patreon.com slash future histories.
+3389400	3394280	And let me know what you think about this episode and the show in general.
+3394280	3399240	For this, use Twitter, hashtag future histories, or Reddit,
+3399240	3405800	or send me an email to future underscore histories at protonmail dot com.
+3405800	3412280	See you next time.
