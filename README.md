@@ -2,7 +2,7 @@
 
 This project contains the transcription files for the podcasts I am listening to.
 
-All podcast audio files are being transcribed with [whisper-autotranscription](https://github.com/autonompost/whisper-autotranscription). Podcast audio files are being downloaded with [podgrab](https://github.com/akhilrex/podgrab). All audio file names are being sanetized with `detox`.
+All podcast audio files are being transcribed with [whisper-autotranscription](https://github.com/autonompost/whisper-autotranscription) with medium model setting. Podcast audio files are being downloaded with [podgrab](https://github.com/akhilrex/podgrab). All audio file names are being sanetized with `detox`.
 
 ## Podcasts in this project
 
