@@ -1,11 +1,18 @@
-
-# Titel
+# TITLEHEADER
 
 ```audio-note
-audio: /pathto/audiofile
-title: Title
-transcript: /pathto/audiosrt
+audio: AUDIOPATH
+title: TITLEHEADER
+transcript: TRANSCRIPTPATH
 liveUpdate: true
 ---
 
 ```
+---
+
+Shownotes: [[SHOWNOTESANCHOR]]
+Complete: [[COMPLETEANCHOR]]
+
+
+Episode Keywords:
+
