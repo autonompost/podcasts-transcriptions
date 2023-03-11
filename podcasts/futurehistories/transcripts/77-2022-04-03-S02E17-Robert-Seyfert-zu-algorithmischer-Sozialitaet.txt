@@ -1,0 +1,745 @@
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Robert Seifert begrüßen zu dürfen.
+Er ist Professor für Soziologie an der Christian-Albrechts-Universität zu Kiel und arbeitet unter
+anderem an einer Theorie algorithmischer Sozialität. Gemeinsam mit Jonathan Robert hat er den
+Sammelband Algorithmus Kulturen herausgebracht, den man als Open Access Publikation bei Transkript
+finden kann. Und Full Disclosure, Robert betreut meine Doktorarbeit, was mich sehr freut. Ich habe
+diese Folge hier ein wenig vorproduziert, weshalb ich jetzt auch gar nicht großartig
+irgendwelche Danksagungen einbauen kann, was ich natürlich sonst immer sehr gerne mache und wünsche
+euch deswegen einfach viel Freude bei der heutigen Episode mit Robert Seifert zu algorithmischer
+Sozialität. Herzlich willkommen, Robert. Hallo, Jan. Fangen wir mit der Definitionsfrage an. Was
+sind Algorithmen und inwiefern unterscheidet sich vielleicht dein Zugang zu dieser Frage von anderen?
+Wogegen kennst du dich vielleicht auch ab? Ja, Algorithmen, das ist natürlich immer eine
+sehr schwierige Frage, weil es dafür ganz unterschiedliche Definitionen gibt. Vor allem
+gibt es eben auch unterschiedliche Definitionen in den Sozialwissenschaften oder in der Soziologie.
+Ich habe mir da ein ganz spezifisches Verständnis angeeignet oder übernommen,
+eine Definition, also dass man Algorithmen als relational und prozessual versteht,
+diese doppelte Charakteristik ist mir wichtig und das kann man vielleicht am besten verstehen,
+wenn man das mal versucht, mit anderen gängigen Definitionen von Algorithmen in eine Beziehung zu
+setzen. Also häufig werden Algorithmen definiert als formale Handlungsanweisungen oder als die
+Gesamtheit von Regeln von Input und Output, also der Verarbeitung von Input und Output oder als
+eine Art Symboltabelle, eine klassische Analogie ist auch immer das Rezept. Also das Rezept sagt
+sozusagen genau, was man in welchen Schritten tun, machen soll, wie sie kramen, Zutaten,
+in welchen Zeitraum und so weiter und so fort. Und das hat eigentlich zwei Implikationen oder
+das hat zwei Voraussetzungen, solche Definitionen. Einerseits wird davon die Hardware von der
+Software getrennt, also man sagt eben der Algorithmus ist sozusagen eine formale
+Handlungsanweisung, die mit einer Software dann zum Beispiel in ein Programm in Gang gesetzt wird
+und man trennt eben die Handlungsanweisung dadurch auch von der Implementierung. Also
+die Implementierung des Algorithmus muss dann nochmal durch einen anderen Prozess
+vonstatten gehen und für mich ist eben wichtig, dass diese Definition des Algorithmus selbst
+schon prozessual ist, dass er sozusagen diese Implementierung selbst schon enthält. Das wäre
+sozusagen wichtig, das sind selbst Prozesse. Der Techniksoziologe Roger Häusling sagt,
+dass Daten die Produkte von Relationierungen sind und das finde ich eigentlich insofern eine ganz
+gute Definition, weil man eben sagen kann, dass Algorithmen eben genau diese Relationierungsprozesse
+sind. Also die Algorithmen relationieren Daten und produzieren sie oder co-produzieren sie dabei.
+Das heißt, insofern geht eben die Definition des formalen Rezepts ein bisschen an der Realität
+vorbei, weil das eben der Algorithm und der Ablauf dieses Prozesses selbst ist. Schreiben sozusagen
+Temporalität und Zeitlichkeit in die soziale Welt ein. So kennen wir sie als Soziologen ja auch die
+Algorithmen. Wenn wir sie jetzt nicht computerseitig uns anschauen, wie sie geschrieben sind, im Alltag
+begegnet man Algorithmen in erster Linie auch durch eine sehr spezifische Zeitlichkeit,
+indem sie eben unsere Handlungen mit strukturieren. Bei Shintaro Miyazaki, so ein Medienwissenschaftler,
+hat einen sehr schönen Begriff dafür, dass die sich entfalten müssen und sich in Zeit verkörpern.
+Das finde ich eine sehr gute Beschreibung dafür. Wie gesagt, also nicht nur ein formales Schema,
+ein real ablaufender Prozess und man würde eben sogar sagen, es handelt sich genau genommen um
+eine Art Maschine, nicht eine algorithmische Maschine. Diese Definition wiederum ist jetzt
+inspiriert von einem Computerwissenschaftler Juri Gurevich, der eben zugleich noch darauf
+hinweist, dass diejenigen, die Algorithmen von ihrer Implementierung trennen wollen,
+die also sagen Algorithmen und Computerprogramme oder Codes sind verschiedene Dinge, dass die
+eben den Begriff der Implementierung für Dinge verwenden, die selber Algorithmen sind. Also die
+Implementierung selbst ist eigentlich wieder ein algorithmischer Prozess und das wäre sozusagen,
+wenn ich das mal versuchen würde, so knapp zusammenzufassen, einerseits die Spezifik meines
+Algorithmusverständnis herauszuarbeiten, aber auch eben da eine Unterscheidung vorzunehmen von dem,
+was andere, die zentrale Unterscheidung, wie gesagt, besteht darin, dass glaube ich der Begriff des
+Rezeptes extrem irreführend ist, weil das so tatsächlich aus einer technisch-soziologischen
+Perspektive eigentlich überhaupt nicht, auf diese Art und Weise Algorithmen eigentlich nicht begegnen.
+Und wir kommen später dann auch noch zu ganz konkreten Beispielen, anhand derer, finde ich,
+man das wirklich sehr schön auch sehen kann, inwiefern dieses relationale Verständnis von
+Algorithmen eigentlich auch nachvollziehbar ist. Bevor wir dahin kommen, interessiert mich aber
+noch ein bisschen eine Beschreibung der Ausgangslage, denn du gehst von einer umfassenden,
+im Grunde sogar allumfassenden, Zitat, algorithmischen Transformation der Gesellschaft,
+Zitat Ende, aus und schreibst da, nochmal zitiert, es gibt keinen Weltzugang und keine
+soziale Beziehung, keine sozialen Beziehungen, in denen keine algorithmischen Elemente
+eingebunden sind, Zitat Ende. Worum handelt es sich bei dieser algorithmischen Transformation
+der Gesellschaft und was bedeutet sie für den Versuch eines Verstehens der Gesellschaften?
+Also das ist natürlich eine Formulierung, die gerichtet ist sozusagen von einem Soziologen
+an die Soziologie. Das ist einerseits sozusagen ein Gesellschaftsbefund, nicht die Gesellschaftsanalyse
+und zugleich aber eben auch eine Herausforderung für die Soziologie, insbesondere die soziologische
+Theorie. Dass man eben sagt, die Zentralen für die Intersoziologie, auch wenn es natürlich
+mit der Techniksoziologie und den Science and Technology Studies und Medienwissenschaften
+natürlich viele oder Mediensoziologie viele spezielle oder Formen der Soziologie gibt,
+die sich mit der Auseinandersetzung mit Dingen und Medien beschäftigen, ist eben doch, kann man schon
+sagen, die Mainstreamsoziologie beschäftigt mit der Interaktion in der Beziehung von menschlichen
+Wesen. Das ist tatsächlich eben so, wenn Sie das jetzt studieren oder den Einführungspunkt
+zur Soziologie nehmen, ist eine soziale Beziehung eben Menschen zwischen Menschen. Vielleicht kann
+man auch, wenn man Beziehungen thematisiert oder sich dazu anschaut, wie die Soziologie sich
+dazu positioniert, kann man vielleicht noch einen Kommunikationsbegriff finden, der das vielleicht
+noch abstrakter macht und sich nicht allein auf menschliche Interaktion bezieht, aber die sind
+dann meistens eben so abstrakt, dass es dann eigentlich keinen Unterschied mehr macht, wer
+sozusagen mit wem kommuniziert. Das können dann Systeme und Menschen und alles Mögliche
+miteinander sein. Und wenn man das dann sozusagen so verallgemeinert und sagt, die soziale Beziehung
+ist jede Form von Kommunikation, dann kommt man natürlich zu dem nicht sehr überraschenden
+Befund, dass wir eigentlich immer schon in einer digitalen Gesellschaft gelebt haben. Das liegt da
+einfach sozusagen an dem theoretischen Zuschnitt. Aber nicht, wie gesagt, der dominante
+soziologische Zugang, das kann man, mein Lieblings, wenn ich das in der Lehre mache, nehme ich immer
+Wikipedia Seite zur Soziologie heraus, steht eben dann auf der ersten Zeile, ist die Wissenschaft
+von Menschen und den sozialen Beziehungen. Das steht da ganz selbstverständlich. Und jetzt ist
+eben der Befund, dass wenn man sich das anschaut, schon seit einigen Jahren eigentlich davon keine
+Rede mehr sein kann, dass das sozusagen der dominante Weltzugang ist, sondern der dominante
+Zugang ist eben über technische Dinge oder mit technischen Dingen, dass man sagen kann, die
+Face-to-Face, die reine menschliche Interaktion ist sozusagen fast schon ein Spezialfein geworden,
+umso mehr jetzt in der ganzen pandemischen Situation, denn auch wir sitzen ja jetzt im
+Studio nicht uns gegenüber, sondern auch wir sind hochgradig algorithmisch vermittelt.
+Insofern hat uns das sozusagen jetzt diese pandemische Situation das noch stärker sozusagen
+transparent gemacht, wie weit wir vermittelt sind und das einerseits sozusagen diese digitale
+Vermittlung, aber eben auf der anderen Seite, was du angesprochen hast, diese Frage der
+algorithmischen Sozialität, dass es eben nicht allein irgendwie einfach nur technische Gerätschaften
+sind, die uns miteinander verbinden, wie eine Wippe oder eine Schaukel oder irgend sowas,
+sondern dass es eben immer Techniken sind, die mit algorithmischen Prozessen uns in Verbindung
+miteinander setzen. Also ein Beispiel, immer wenn man mit älteren Menschen spricht, heißt es dann
+immer, früher konnte man einfach mal bei jemandem vorbeiklingen und klingeln, kommst du runter oder
+nicht, machen wir was. Mittlerweile ist das sozusagen völlig undenkbar, dass ich bei jemandem
+vor der Tür stehe. Es ist halt immer irgendwie verabredet über Messenger-Apps oder E-Mails oder
+wie auch immer. Man sieht halt sozusagen, dass zwischen diese zwischenmenschlichen Beziehungen
+eigentlich in fast jeder Form, wie wir uns begegnen, eigentlich algorithmische Prozesse
+dazwischengeschaltet sind. Dass es möglicherweise von der Partnersure bis zur Orientierung im Raum,
+Landkarten oder jetzt diese Situation hier sich dem Podcast anzuhören oder hinziehen zu produzieren,
+alles hochgradig algorithmische Prozesse sind, die ohne das gar nicht erklärbar sind und insofern
+eben nicht die Herausforderung an der Soziologie, diesen Interaktions- oder Beziehungsbegriff da
+umzustellen. Und da ist jetzt die algorithmische Sozialität eben der Versuch, dem Umstand gerecht
+zu werden, dass jede Form der Beziehung in erster Linie über algorithmische Systeme läuft.
+Und allgemein bekannter, würde ich sagen, ist ja der Begriff der digitalen Transformation. Du schreibst
+eben von der algorithmischen Transformation. Ich erinnere mich da an einen Paper von dir,
+wo du zu Beginn eben auch eine Unterscheidung einführst zwischen Digitalisierung 1.0 und
+Digitalisierung 2.0. Das scheint mir so ein bisschen in eine ähnliche Richtung zu gehen. Also es ist
+schon so zu verstehen, dass du das untereinander auch nochmal unterscheiden würdest, die Frage
+der digitalen Transformation und die Frage der algorithmischen Transformation. Genau,
+das ist natürlich eine Unterscheidung, die heute von manchen natürlich gemacht wird,
+häufig nicht gemacht wird, dass man, wenn man alt genug ist, eigentlich den Digitalisierungsbegriff
+nochmal von Begriff der 90er, 2000er Jahre hielt, dann ist der verschwunden. Und seit einigen Jahren
+ist er wieder als sozusagen der heißeste Begriff wieder aufgetaucht. Was eigentlich überraschend ist,
+dass sozusagen so ein Revival so schnell wieder auftaucht, eine Mode jetzt nicht,
+dass er keine 40, 50 Jahre gedauert, sondern der kommt irgendwie nach 20 Jahren wieder raus und
+alles ist sozusagen digital. Und da ist jetzt der Versuch, die Unterscheidung hier zu machen,
+dass man sagt, Digitalisierung 1.0 ist eben tatsächlich unterschieden von Digitalisierung 2.0,
+ganz einfach gesagt durch den Grad der Verallgemeinerung. Dass man eben sagen kann,
+in den 90ern, Anfang 2000er Jahre war, wie unsere ehemalige Bundeskanzlerin gesagt hatte,
+das Internet tatsächlich noch Neuland. Das war für sie natürlich viel länger Neuland als für andere,
+aber da ist es eben tatsächlich eben eine Nischenkultur, da gibt es auch in der Soziologie
+oder in Sozialwissenschaften dann auch sozusagen spezielle Soziologien, Internet-Studies,
+Software-Studies, die sich sozusagen in irgendwelche Expertennischen einarbeiten und dort die
+verwunderlichsten Dinge an die Gesellschaft hervorbringen und davon berichten. Und mittlerweile,
+und das ist der Unterschied zur Digitalisierung 2.0, würde ich sagen, hat es einen Grad der
+Verallgemeinerung und Verselbstständigung und Selbstverständlichung gefunden, dass man da eben
+nicht mehr von einer Nischen- und einer Expertenkultur sprechen kann, sondern das betrifft eben,
+wie gesagt, alle. Das, was ich jetzt versucht habe, mit der algorithmischen Sozialität zu
+beschreiben, also dass man jetzt sagen kann, in der Digitalisierung 2.0 ist der Punkt erreicht,
+wo es eben keine Experten, sondern eine Alltagskultur ist. Was natürlich Konsequenzen hat,
+weil was auch viel übersehen wird, weil eben in der Digitalisierung 1.0 in erster Linie
+Innenexperten sich damit beschäftigt haben, die einen ganz anderen, ja auch vielleicht technikaffineren,
+technisch alphabitisierten Zugang zu den Technologien hatten, wo ich als Soziologe heute sagen würde,
+heutzutage ist der Zugang ganz anders, der ist eher implizit. Meistens Leute wissen überhaupt nicht,
+wie Algorithmen funktionieren und wie die Technik funktioniert und trotzdem funktionieren und
+benutzen sie es richtig. Aber das heißt natürlich, dass eine solche Analyse an diesen beiden Fällen
+ganz anders untersuchen muss. Ich kann jetzt nicht so tun, als seien wir alle Softwareingenieure und
+daran scheint mir auch das Problem der Aufforderung derjenigen zu sein, die sagen, wir sollten jetzt
+alle schon in der Schule Programm schreiben lernen. Das geht eigentlich an der Realität vorbei,
+weil das faktisch einfach mit Alltagsgegenständen nie der Fall ist. Die kennt man nie und ein
+Phänomen der Veralltäglichung und Selbstständigung besteht immer auch darin, dass man es eben benutzt
+wie ein Toaster. Man weiß zwar, wie er angeht, aber sonst interessiert einen auch dazu nicht
+sonderlich viel mehr. Und das wäre jetzt nochmal das Argument einerseits, sozusagen analytisch die
+beiden zeitlich-historisch zu trennen und zweitens analytisch darauf hinzuweisen, dass man dafür eine
+ganz andere Form der soziologischen Untersuchung braucht, weil es eben eine Veralltäglichung ist
+und einen anderen Rezipienten und Konsumenten voraussetzt als den noch in der früheren
+Phase der Digitalisierung 1.0. Also das würde jetzt ja diese Differenzierung zwischen Digitalisierung
+1.0 und Digitalisierung 2.0 nachvollziehbar machen. Inwiefern steht das in Zusammenhang mit diesen
+beiden Begriffsparen von algorithmischer Transformation und digitaler Transformation? Gibt es da sozusagen
+auch noch eine differenziertere Unterscheidung, was unter dem einen zu verstehen ist und was unter dem
+anderen? Das ist eine gute Frage. Also da würde ich bei digitaler Transformation eben schon eher auch
+noch an Frage einer vernetzten Gesellschaft denken. Also die Frage der Vernetzung, der Frage der
+Kommunikation. Der Vernetzungsbegriff bezieht sich sozusagen nicht notwendigerweise auf die Art und
+Weise, wie man in den Netzen prozessiert, sondern der bezieht sich in erster Linie darauf, auf diese
+Idee der Weltgesellschaft, dass man sozusagen an allen Formen, an allen Enden miteinander kommunizieren
+kann. Und da habe ich den Eindruck, dass der Begriff der digitalen Transformation auch häufig so
+verwendet wird. Aber es ist natürlich auch klar, dass mit Digitalisierung auch gemeint ist, häufig
+das, was ich sozusagen algorithmische Sozialität beschreibe. Dass man eben bestimmte Apps entwickelt,
+die mir erlauben, bestimmte Dinge zu tun. Aber ich würde sagen, dass digitale Transformation sich
+sozusagen noch auf noch anderes bezieht. Das heißt, ich mache ja auch die Unterscheidung
+zwischen Infrastrukturen und Systemen. Das heißt nicht nur ich, das machen relativ viele. Und eben
+digitalen oder algorithmischen Systemen. Und die gesamte digitale Transformation umfasst natürlich
+auch den kompletten gesellschaftlichen Umbau der Infrastrukturen. Also Einbau von Kabeln und
+Sensoren. Und das ist sozusagen eine massive gesellschaftliche Transformation. Wobei sich
+dagegen sich diese algorithmische Sozialität eben eher um die Art und Weise des Prozesses,
+sozusagen des Lebensprozesses bezieht. Wie wir miteinander in Verbindung treten. Einfach,
+dass man auch sagen kann, dass bestimmte algorithmische Systeme, Apps oder was auch
+immer eine gewisse Zeitlichkeit einschreiben. Das ist ja immer ein Navigationsgerät. Ich würde
+schon sagen, dass das Phänomen, das da dransteht, immer die Navigationsgerät, wie viel Zeit es bis
+zu Ziel ist, die Art und Weise des Fahrerlebens schon grundlegend ändert. Nicht, dass da da steht
+nach dreieinhalb Stunden bis zur Ankunft. Das ist, glaube ich, schon eine ganz andere Form. Das
+kennen wir aber in anderen Formen auch der Arbeit mit Apps oder mit Software. Dass da immer eine
+bestimmte Zeitlichkeit implementiert ist. Nicht, dass wir, wenn wir jetzt Messenger-Apps benutzen,
+wir eine bestimmte Erwartung haben, wie lange jemand eine Nachricht schreibt. Das wird häufig
+gebrochen, wenn man mit älteren Leuten oder Leuten kommuniziert, die sich damit nicht auskennen.
+Dann kann man beobachten, wie der andere oder die andere schreibt und schreibt und schreibt und die
+Nachricht wird nicht fertig. Und dann gibt es irgendwie einen Punkt, wo diese Erwartung sozusagen,
+was man als normale Antwortzeitraum hinnehmen würde, durchbrachen würde. Ähnlich kennen wir das ja
+auch bei E-Mails. Das hat auch sozusagen die Zeitlichkeit, wie wir miteinander interagieren,
+vollständig verändert. Eine E-Mail nach 14 Tagen zu beantworten, kann man machen, aber es eben auch
+dann meistens fällt auf. Also insofern wäre das vielleicht noch mal der Unterschied zur digitalen
+und transformativen algorithmischen Sozialität. Das ist bei der algorithmischen Sozialität eben
+wirklich um diese Form, Art und Weise der prozessualen Führung des Lebens auch geht.
+Aber da kommen wir vielleicht noch darauf, dass man das eben jetzt nicht, das muss man vielleicht
+schon warnen sozusagen, wieder sagen, nicht notwendigerweise nur kritisch versteht und sagt,
+wir werden von den algorithmischen Maschinen diszipliniert und auf Linie gebracht. Das ist
+damit eigentlich nicht gemeint, sondern eher erstmal ganz analytisch der Umstand, dass es so
+eine Art von Interaktion zwischen individuellen, menschlichen Individuen, algorithmischen Systemen
+als dominantes Beziehungssystem gibt. Du hast jetzt schon ganz selbstverständlich immer mal
+wieder eben dieses Begriff par algorithmische Sozialität auch verwendet. Ich hatte ja zuvor
+noch heranbahnend von algorithmischer Transformation gesprochen, aber es ist, glaube ich, trotzdem
+jetzt eben dann vielleicht noch mal sinnvoll, sich eben diesen Ausdruck ein bisschen genauer
+anzugucken oder was du darunter verstehst unter algorithmischer Sozialität. Es gibt da also
+andere Beziehungen, die es in den Blick zu nehmen gilt. Das hattest du jetzt schon beschrieben,
+Beziehungen, die auch in dieser Form eben vor der digitalen Transformation der Gesellschaften eben
+auch noch nicht existiert haben in dieser Form. Und du fasst es eben dann unter den Begriff der
+algorithmischen Sozialität zusammen. Was sind das für Beziehungen, die da eben neu auftreten,
+die durch eine algorithmische Sozialität beschrieben werden können? Was haben wir
+uns darunter vorzustellen? Ja, wie gesagt, das habe ich vielleicht jetzt schon ein bisschen
+zusammen gemischt. Also es geht in erster Linie auch um diese Art von grundlegender Beziehung.
+Das geht auch auf den Anfangspunkt zurück, dass wir mit jeder Art der sozusagen
+Alltagsorientierung mit Algorithmen, ja, dass wir damit operieren. Also das geht ja sogar so weit,
+dass wir sagen würden, wenn ich jetzt entnetzen will und Digital Detox betreiben will, brauche
+ich da wahrscheinlich auch ein Navigationsgerät, was mich zum Kampf fährt. Ich also auch dieser
+Ausstieg ist sozusagen wieder über solche Orientierungen und Zeitlichkeitsphänomene
+vermittelt. Und nicht diese Zeitlichkeit ist mir dabei relativ wichtig. Also die Frage,
+was ich jetzt schon beschrieben habe, eben einerseits, dass wir, das kann man sich eben
+hier nochmal deutlich klar machen, der Unterschied zwischen Algorithmus und Rezept, ein Navigationsgerät
+ist eben nicht allein nur ein Rezept. Da kann man natürlich sagen, da steht sozusagen, jetzt fahren
+sie rechts und danach 300 Metern fahren sie wieder links und danach fahren sie wieder links
+und dann fahren sie wieder rechts. Das wäre sozusagen, das könnte man aufschreiben, dann
+könnte ich mir das durchlesen, dann könnte ich da sozusagen danach folgen. Aber wir wissen eben aus
+der eigenen Erfahrung, dass das Navigationsgerät eben ganz anders funktioniert, weil das eben
+permanent uns begleitet, das Gerät und uns sozusagen in gewisser Weise auch antreibt oder
+zurückhält, bestimmte Dinge zu tun. Oder wenn wir noch weitere Assistenzsysteme in Beziehung setzen,
+eben vielleicht auch sagt, dass wir immer mal eine Pause machen sollen und so weiter und so fort nicht.
+Aber beim Messenger, das hatte ich beschrieben, dieses Phänomen der Zeitlichkeit, aber auch bei
+sozialen Medien ist es eben auch so, wir reden häufig davon, dass es eben darauf ankommt, mit
+besonders aufmerksam reichens reichen Bildern oder Posts sozusagen Aufmerksamkeit zu generieren,
+auf welchen Medien auch immer, Instagram vielleicht mit Bildern, Twitter muss es halt
+besonders witzige Tweets sein. Also das ist sozusagen mit sozialen Medien sehr unterschiedlich,
+aber es kommt nicht nur sozusagen darauf an, was man und wie man es postet, sondern eben auch in
+welcher Zeitlichkeit. Also dass man das bei diesen sozialen Medien eben auch berücksichtigt, dass
+man das mit einer relativ großen Regelmäßigkeit macht. Und wenn man jetzt wenig postet, dann wird
+der nächste Post, den man nach zwei Wochen postet, auch entsprechend runtergerankt. Und auch hier haben
+wir diese Zeitlichkeit, die ich vorhin bei den E-Mails oder Messenger beschrieben habe, eine
+bestimmte erwartbare Zeit überschritten ist, dann wird man sozusagen taucht das nicht mehr in der
+Aufmerksamkeit auf, ist auch nicht mehr in der Aufmerksamkeit der eigenen Person auf, weil man
+sagt, das ist eine E-Mail, da war vor 14 Tagen, das ist jetzt nicht mehr relevant. Oder eben der
+Algorithmus sagt, das, was Sie jetzt hier posten, ist nicht mehr aufmerksamkeitsrelevant, weil du als
+Person viel zu selten. Was machst du nicht? Also diese Zeitlichkeit, diese Spezifische findet
+man eben da. Und das ist mit dem Begriff der Sozialität eben gemeint, nicht dieser Doppelbegriff
+Relationalität, also Beziehungen nicht nur zu Menschen, sondern auch zu Dingen und Prozesse,
+das heißt, die Form der Art und Weise, wie man in eine Beziehung miteinander dreht,
+ist hochgradig von algorithmischen Prozessen mitgeprägt und umgekehrt. Da nochmal anzuschließen an
+dem vorhergehenden Kommentar, prägt man diese Prozesse eben auch mit, nicht? Also das ist
+sozusagen auch eine Wechselseitigkeit und nicht nur eine einseitige, determinierende, bestimmte
+Beziehung. Ein Aspekt oder ein Teil dessen, was du als algorithmische Sozialität beschreibst,
+sind eben verschiedene Formen der Beziehung. Und das sind eben nicht immer nur Formen zwischen
+Menschen und Algorithmen, sondern es gibt da eben verschiedenste Interaktionen, die durch diese
+algorithmische Sozialität mit in den Blick kommen können. Und das sind eben auch unter anderem
+interalgorithmische Beziehungen. Also es geht eben nicht nur darum, damit jetzt beschreibbar zu machen,
+dass all unsere gemeinten Menschen leben und unser Handeln von Algorithmen, sagen, auch betroffen
+und mitbestimmt und co-produziert sind, sondern es gibt eben auch andere Beziehungen, die damit in
+den Blick geraten, unter anderem eben auch interalgorithmische Beziehungen. Interessant
+fände ich vielleicht noch, dass du das einmal kurz skizzierst, was das für Formen der Beziehungen
+sind und wie man sich denen vielleicht auch nähert. Der Begriff stammt eigentlich von
+Karin Knut-Zetina und Donald McKenzie, die das im Zusammenhang der Finanzmarktsozialogie erforscht
+haben. Und vor allem bei Donald McKenzie kann man eben schön sehen, also der hat sozusagen diesen
+Begriff von Goffman der Interaktion jetzt diese Herausforderung angenommen und hat gesagt, wenn
+das stimmt, dass wir nicht mehr wie bei Goffman dominant mit menschlichen Interaktionsbeziehungen
+zu tun haben, sondern auch mit Interaktionen, mit technischen Dingen, mit Algorithmen, dann muss man
+sich überlegen, ob wir vielleicht sogar so weit gehen könnten, eben die Beziehungen zwischen
+Algorithmen, das was du gerade beschrieben hast, selbst als eine Form des Sozialen, als Gegenstand
+der Sozialen der Soziologie zu betrachten. Er bejaht das, versucht das und das Argument ist hier, da
+geht es um den Hochfrequenzhandel, dass wenn man sich anschaut, wie geht es um Order-Bücher,
+Auftragsbücher in elektronischen Börsenplätzen, dass wie da Aufträge gestellt werden, wie die
+verkauft und gekauft werden, dass die eben hochgradig Ergebnisse politischer Entscheidungen sind,
+hochgradig sozial vermittelt sind. Also schon die Frage, ob ich Preisbruchteile von einem Dollar
+oder von zehn Cent festlege, ist eine politische Entscheidung, eine soziale Norm und das materialisiert
+sich dann sozusagen in diesen Handelsalgorithmen, die dann eben entscheiden, ob jetzt der Verkauf
+noch relevant ist oder eben dann sagen, hier wird an dem Börsenplatz nur in Bruchteilen von zehn
+Cent gehandelt, da kann ich sozusagen diesen drei Cent Gewinn gar nicht materialisieren,
+weil das auf dem Börsenplatz eben nicht strukturell möglich ist. In diesen Art von Beispielen zeigt
+Mackenzie, dass das sozusagen auch jede Form der algorithmischen Interaktivität oder was eben als
+algorithmische Interaktivität bezeichnet, eben generell als auch eine soziale Beziehung beschrieben
+werden kann, weil sie eben soziale Normen hat, Erwartungen eingeschrieben sind. Auch die Frage,
+wenn man sich anschaut, wie Aufträge in den Auftragsbüchern sortiert werden, gibt es da
+Warteschlangen und diese Warteschlangen erinnern eben an all das, was wir sonst im normalen Leben an
+Warteschlangen auch so kennen und wir kennen dort auch Marktmanipulationsstrategien, wo man
+versucht, die Warteschlange auszutricksen, wo man sich vorzudrängelt, wo Hochfrequenzhändler
+bestimmte Strategien entwickeln, um sozusagen in eine bessere Position im Auftragsbuch zu kommen,
+dass ihre Aufträge eben dann schneller behandelt werden. Das ist jetzt eine Perspektive, die vor
+allen Dingen eben in den Science and Technology Studies sehr prominent ist, also diese Form der
+Einschreibung der sozialen oder selbst die digitalen Technologien eben so weit zu gehen,
+zu sagen, das sind jetzt nicht einfach nur Technologien, sondern selbst das Signal des
+WLAN Router Routers ist eben ein sozialer Tatbestand. Das ist natürlich eine Provokation,
+aber ich finde das auch an den Beispielen, wie Mackenzie das deutlich macht, schon sehr illustrativ,
+weil er eben wirklich zeigen kann, wie all diese Dinge gar nicht entstehen würden. Die sind nicht
+einfach nur sozusagen ein Ergebnis einer technischen Evolution, wie uns manche Technik-Freaks
+immer einreden wollen, dass das sozusagen aus sich selbst sich heraus gebiert, sondern das sind
+hochgradig pfadabhängige Entwicklungen, die auch das Ergebnisse von sozialer und politischen
+Entscheidungen sind. Genau das ist ja vielleicht ein Beispiel dafür, wenn man diese interalgorithmischen
+Beziehungen vielleicht illustrieren könnte. Ja, das würde ich auch ja sofort unterschreiben.
+Interessanterweise ist es für dich dann aber trotzdem sind die subjektalgorithmischen Beziehungen,
+eben nicht die interalgorithmischen Beziehungen, sondern die subjektalgorithmischen Beziehungen
+für dich eigentlich dann zentral, wenn es um die algorithmische Sozialität geht. Also das ist da
+doch in deinem Paper recht stark rübergekommen, dass das ist das, was dich am allermeisten interessiert.
+Und was ich auch in diesem Zusammenhang interessant fand, war, dass du da eine Abfolge von
+Wechselbeziehungen beschreibst, die eben also Prozesse, die diese Wechselbeziehungen eben
+darstellen in der subjektalgorithmischen Beziehung. Und das beginnt mit einer algorithmischen
+Mustererkennung, dann zweitens der Versuch einer behavioristischen Verhaltenssteuerung,
+dann drittens ein vernarkulares Erkennen und viertens dann digitale Praktiken,
+die wiederum das Material für dann eine erneute algorithmische Mustererkennung bilden. Also diese
+Abfolge von Prozessen fand ich interessant. Vielleicht wäre es hilfreich, den Zuhörerinnen
+das an einem Beispiel einmal zu erläutern. Und im Anschluss würde mich dann interessieren, ob diese
+Prozessabfolge für dich bei allen Formen von subjektalgorithmischen Beziehungen so gegeben
+sind. Weil ich mich zum Beispiel gefragt habe, ob der Schritt des Versuchs einer behavioristischen
+Verhaltenssteuerung, ob der zum Beispiel zwingend vorkommen muss, weil das ist ja eine sehr spezifische
+Form des Versuches der Verhaltenslenkung, eine bestimmte Rationalität, die da eingeschrieben ist.
+Und auf eine Art fragt man sich ja, ob das zwingend an Algorithmus als Formen gebunden sein muss. Ich
+würde eher intuitiv jetzt sagen, nein, hoffentlich nicht. Das geht sozusagen schon mit der letzten
+Frage anzufangen auf das, was man eben soziale Algorithmen nennen kann. Also ich würde jetzt
+gar nicht sagen, das sind notwendigerweise maschinell lernende Algorithmen, die in der
+Lage sind, Feedback zu verarbeiten, sondern es geht hier wirklich um soziale Algorithmen,
+die sozusagen in irgendeiner Art und Weise das Verhalten des männlichen Akteurs in der Lage sind
+zu verarbeiten. Also nochmal das Navigationsgerät beobachtet einen, wenn man sich verfährt oder
+nicht folgt, wird neu ausgerechnet und wird sozusagen eine neue Route vorgeschlagen. Kann
+man jetzt natürlich begriffsanalytisch fragen, ob es sich streng genommen dabei bei einer
+Verhaltenssteuerung handelt. Aber ich würde schon sagen, dass eben das Navigationsgerät,
+das hat natürlich jetzt relativ geringe Möglichkeiten Anreize zu schaffen oder die
+Leute zu disziplinieren oder zu strafen, aber ich denke schon, dass der Vorschlag selbst,
+den das Navigationsgerät macht, eben zu sagen, jetzt hier links und rechts, wieder rechts,
+dass das schon auch Elemente einer Verhaltenssteuerung involviert, würde ich schon
+denken. Die erste Frage war genau dieser Kreislauf. Der Impuls dahinter ist der, der Theorie, zwei
+Fallen zu entkommen. Die eine Falle ist das, was man jetzt oft mit Interviews mit Ingenieuren und
+Computerwissenschaftlern spricht, eben diese Vorstellung, das ist ein Werkzeug, das ist eine
+Technik wie alles andere auch, das macht, ich programmiere das, hier der Algorithmus und letztlich
+mache da genau das, was ich da reinschreibe. Das sind Produkte menschlichen Intentionen und die
+setzen sich da um und dann kann ich dann eben sehen, das hört man häufig, das hört man auch
+sogar noch von Börsenhändlern, wo man, wenn man jetzt da ethnographisch beobachtet, sagen kann,
+dass das mit Sicherheit nicht der Fall ist, weil die hochgradig auch von den Algorithmen gesteuert
+werden in ihrem Verhalten. Aber nicht, das ist sozusagen ein Aspekt und der andere Aspekt ist
+natürlich das, was man aus der kritischen Soziologie oder der kritischen Theorie kennt,
+die natürlich immer sofort den Begriff der Disziplinierung und Steuerung kennt, das kennen
+wir auch aus der populären Literatur, da brauchen wir wahrscheinlich jetzt nicht in dem Medium hier
+länger darauf eingehen, das habt ihr wahrscheinlich schon in anderen Formen diskutiert. Also die
+Vorstellung nicht, dass wir sozusagen von den sozialen Medien oder was auch immer wieder alle
+sozusagen gesteuert sind. Also die beiden Extreme, das zu entgehen und da ist diese Idee eben dieses
+Algorithmischen oder diese Objektsubjektiven oder Subjektalgorithmischen Beziehungen,
+die auf der einen Seite dem Umstand gerecht wird, dass es natürlich Versuche der Verhaltenssteuerung
+gibt, also ich war selbst angefangen bei Navigationsgeräten oder eben Banalität immer
+wieder Amazon, sie haben das gekauft, also wollen sie auch das kaufen, kennen wir ja mittlerweile
+schon und jetzt ist das umgekehrte Argument, dass wir eben das wahrnehmen und das hatte ich am
+Anfang gesagt, das kennzeichnende Digitalisierung 2.0 ist eben, dass wir nicht technikaffin sind
+und auch nicht technikalphabetisiert, das heißt wir wissen nicht, warum die Entscheidungen
+zustande kommen, wie sie zustande kommen, das hat verschiedene Gründe, weil wir wie gesagt
+entweder vielleicht nicht alphabetisiert sind technologisch oder andersrum, weil eben viele
+Unternehmen auch ein Interesse daran haben, das intransparent zu halten, wie die Algorithmen zu
+ihren Entscheidungen kommen, aber nichtsdestotrotz ist es eben tatsächlich so, dass wir irgendwie aus
+diesem Verhalten einen Sinn für uns machen und das ist mit dem Begriff des vernackularen Wissens
+beschrieben, das heißt, dass wir implizit irgendwie, wenn wir damit umgehen, ein Verständnis
+dafür entwickeln, wie die Dinge funktionieren und hier ist es eben wichtig, nicht den Fehler zu
+machen, eine Korrespondenz zu vermuten, also dass man sagt, das könnte man jetzt dieses implizite
+Wissen explizit machen, dann wäre ich Computerwissenschaftler, also das wäre jetzt
+die Falle, dieses implizite Wissen, deswegen nenne ich es eben vernackulares Wissen und nicht
+implizites Wissen, weil es eben eine eigenständige Form, eine Volkssprache, sozusagen eine
+eigenständige Sprache oder Kultur ist des Umgangs, für uns zum Beispiel ist bei
+etwa der Hashtag, der sozusagen durch die NutzerInnen erfunden wurde, das ist wieder
+eine Plattform eingeschrieben, noch hat das irgendjemand mal vorgesehen, hat jemand mal
+angefangen, hat das benutzt und es hat sich halt durchgesetzt, das heißt, da wurde nichts
+verstanden, da wurde auch nichts irgendwie, ja, kein Code offen gelegt oder keine Schulung
+durchgeführt, das hat sich eben sozusagen so entwickelt und egal wie wir jetzt damit
+umgehen, jede Form, auch den sozialen Medien entwickeln wir vernäckulare Form des Wissens
+darüber, wie gesagt wichtig ist eben, dass die eigentlich überhaupt nicht mit den eigentlichen
+Intentionen oder Absichten dieser Technologie viel zu tun haben müssen und dann kommen
+wir zum Begriff der digitalen Praktik, weil natürlich Wissen diese Wisseneffekte hat,
+man macht dann wieder irgendwas damit und jetzt muss eben dieses System entweder, indem
+es jetzt sozusagen aktualisiert wird von Programmieren oder weil es selbst durch machinelle
+Lernprozesse vielleicht versucht sich wieder darauf einzustellen, wieder darauf reagieren
+und wird da wieder irgendwie was versuchen zu erkennen und das dann wieder einen neuen
+Input geben und das Interessante ist sozusagen an diesen Subjekt-Algorithmienbeziehungen,
+dass sie eben mit hochgradigen Prozessen sozusagen des wechselseitigen Nicht-Verstehens
+zu tun haben, das würde ich sozusagen auch immer den Leuten sozusagen entgegenhalten,
+die die Algorithmen sozusagen vermuten, dass die irgendwas aushecken, dass die eben tatsächlich
+und das ist mit der Begriff der behavioristischen Modelle schon relativ wichtig, weil diese
+Vermutung, dass sich sozusagen in den digitalen Systemen Gesellschaft nur einfach ausdifferenziert
+glaube ich relativ naiv ist, weil eben diese Systeme ja nicht differenzierungstheoretisch
+oder systemtheoretisch komplex gedacht sind, sondern die auf den einfachsten behavioristischen
+Modellen beruhen und wenn ich das als Soziolog sage, dass ich diese behavioristischen Modelle
+in der Soziologie als eine unangemessene Beschreibung der gesellschaftlichen Wirklichkeit ansehe,
+kann ich ja jetzt nicht mich umgekehrt hinstellen und sagen, jetzt sind sie aber als Algorithmen
+auf der Welt und jetzt sind sie auf einmal richtig, das ist natürlich nicht der Fall.
+Fakt ist aber dennoch natürlich, dass die uns irgendwie auf eine Art und Weise beeinflussen.
+Also irgendwas macht das mit uns und dann muss man jetzt empirisch herausfinden, was das mit uns
+macht und interessanter ist eben die Frage nicht, wie die Menschen dann darauf reagieren, welche
+neue Formen des vernachlässigen Wissens sie entwickeln und wie sie dann darauf wieder sozusagen
+sich wechselseitig irritieren. Ja, also ich muss sagen, mir leuchtet das eh auch total ein. Ich
+glaube, was ich mich gefragt habe, war halt vor allem, ob diese spezifische Abfolge von Prozessen
+als Wechselbeziehungen, die eben diese Formen des Versuchs behavioristischer Verhaltenssteuerung
+mit eingeschrieben hat, ob das nur ein Subset ist der Subjekt algorithmischen Beziehungen oder
+ob sich das auf alle Subjekt algorithmischen Beziehungen so umlegen lässt. Das war, glaube
+ich, so ein bisschen das, was hast du denn? Du hast ja vielleicht eine Vermutung, wo es nicht passt.
+Ja, meine Intuition wäre halt, dass nicht jede Form von Subjekt algorithmischer Beziehung diese
+diese Form von behavioristischer Intentionalität sozusagen irgendwie eingeschrieben hat. Was wäre
+ein Beispiel? Da müsste ich jetzt nachdenken. Ich glaube, also so ein konkretes Beispiel hätte
+ich jetzt nicht sofort. Klar, man kann natürlich immer sagen, man könnte jetzt schon dieses
+Beispiel des Navigationsgerätes hinnehmen und schon sozusagen das bestreiten, dass das was mit
+einer Verhaltenssteuerung zu tun hat. Man kann natürlich immer sagen, eigentlich ist das nur
+eine Form der Beschreibung, sozusagen ein coded space, wo irgendwie eine Art von Prozessualität
+eingeschrieben ist. Und das, was ich auf jeden Fall sozusagen umständlich zugestehen würde,
+ist, dass das natürlich graduell extrem unterschiedlich ist. Also, dass es natürlich
+Formen gibt, wo wir uns viel mehr bereit sind, darauf einzulassen oder auch gar keine andere Wahl
+haben, sozusagen auf diese Verhaltenssteuerung und das vielleicht eher hinnehmen. Und in anderen
+wurde das halt vielleicht eher weniger. So ist, also man muss vielleicht diese Wechselseitigkeit
+kann man vielleicht auch als wechselseitige Beziehung unterschiedlicher Intensität bezeichnen,
+nicht die auch graduell unterschiedlich sind. Also ein Beispiel ist immer jetzt bei der empirischen
+Forschung zum Hochfrequenzhandel, dass man eben schon sehr unterscheiden kann, wie sehr man sich
+bereit ist, von algorithmischen Prozessen zu streuen zu lassen. Das hat eben sehr mit der
+Subjektivierungsform auch zu tun. Also wenn ich sozusagen sehr der Vorstellung eines sozusagen
+autonomen, selbstermächtigten, reflexiven, rationalen Ichs folge, dann tendiere ich,
+eher dazu zu sagen, der Algorithmus ist ein Werkzeug, der das macht, was ich will. Wenn ich
+sozusagen eher kooperativ bin, dann bin ich auch eher bereit, mich vielleicht von Prozessen einfach
+mal anregen zu lassen, die ich jetzt nicht notwendigerweise verstehe. Das ist feldspezifisch,
+glaube ich, auch noch unterschiedlich. Also insofern man das wahrscheinlich jetzt beim Spiel viel
+eher bereit ist, sozusagen diese Transgression des Subjekts einzugehen, Immersion, Immersions in
+der Kunst und im Spiel nicht. Dort, wo es ernst wird, dann nicht. Bei dem Kapitalismus, da ist es
+dann alles ganz, ganz furchtbar. Nini, ich hatte mich ja wirklich gefragt, ob es nicht einfach auch
+Kontexte gibt, in denen eben nicht nur ich als Subjekt, willentlicher da mich hineinbegebe,
+sondern Kontexte gibt, in denen Algorithmen per se gar nicht aufbauen auf eine Rationalität,
+die als eine solche behavioristische Verhaltenssteuerung korrekt geframt wäre.
+Das war quasi das. Aber nachdem ihr ohnehin sozusagen ein Beispiel jetzt nicht sofort in
+den Kopf springt, gehen wir einfach weiter, würde ich sagen. Also diese verschiedenen Prozesse und
+Wechselbeziehungen, die lassen sich, finde ich, sehr schön an einem Beispiel verständlich machen,
+das du aufzeigst und zwar anhand des autonomen Fahrens bzw. eigentlich des assistierten Fahrens.
+Vielleicht kannst du uns anhand dessen einmal kurz erläutern, wie denn diese Subjekt-Algorithmus-
+Beziehungen vonstatten gehen und wie sie auch durch die Perspektive einer algorithmischen
+Sozialität eigentlich besonders gut in den Blick genommen werden können und dabei dann vielleicht
+auch nochmal diesen Unterschied klarmachen zwischen autonomem Fahren und assistierten
+Fahren, weil wir haben oft autonomes Fahren schon gehört und viele nehmen das natürlich
+einfach als gegeben voraus, dass das jetzt dann bald ins Haus steht, aber dem scheint ja nicht
+wirklich so zu sein. Genau, das ist sozusagen auch eine Beobachtung gewesen, die mir dann
+relativ schnell bei dem Phänomen des autonomen bzw. assistierten oder auch vernetzten Fahrens
+aufgefallen ist, dass da eben sehr viele Dinge durcheinander kommen. Einerseits strategisch,
+von denen diejenigen, die solche Systeme produzieren, das kennen wir ja, die versuchen
+sozusagen immer natürlich auch ihre Technologie als viel fähiger zu verkaufen, als sie tatsächlich
+ist. Elon Musk ist da ja sozusagen das Paradebeispiel dafür, Sachen zu behaupten, die
+faktisch eben nicht umgesetzt sind. Das kann man kritisieren, aber da würde man sagen, gut,
+das ist eben DNA-Geschäft. Viel problematischer ist es eben tatsächlich auch bei der Analyse im
+Journalismus, aber auch in der Sozialwissenschaft, dass man diese Begriffe nicht sauber trennt. Es
+gibt so einen Lieblingsartikel in der FAZ, den Namen jetzt des Autos habe ich vergessen, da heißt
+es eben, es gibt sozusagen eine Road-Driver-Kamera, die die Augenbewegungen des Fahrers oder der
+Fahrerin beobachtet und dadurch den Zitat, das autonome Fahren sicherer machen will. Diese Kamera
+dient dazu, die Person sozusagen dafür zu warnen, wenn sie in den Sekundenschlaf einschläft, also
+wie sie einschläft, gibt es ein Signal, wacht man auf. Und wenn man diesen Satz jetzt liest,
+fragt man sich natürlich schon, warum muss ein autonomes Fahrzeug die Wachheit des Fahrers oder
+der Fahrerin überwachen, wenn es doch heißt, dass diese autonomen Fahrzeuge uns irgendwann mal selbst
+fahren sollen. Und wieso ist das eine Entwicklung, eine Technologie auf dem Weg hin zum autonomen
+Fahren? Es scheint doch eigentlich eine Entwicklung auf dem Weg zu etwas ganz anderem zu sein, nämlich
+nicht zum autonomen Fahren, sondern eben zu einem viel stärkeren Vernetzung von Fahrzeug und Fahrerin.
+Das ist sozusagen die Beobachtung, dass hier also zwei Dinge durcheinander geworfen werden,
+dass also autonomes Fahren eigentlich in erster Linie nur als ein imaginäres existiert, also
+ein imaginäres Versprechen der Produzenten oder eben auch in einer unreflektierten Übernahme von
+Journalisten oder sozialwissenschaftlichen Analysen. Und auf der anderen Seite, das assistierte Fahren
+tatsächlich eine Praktik ist bzw. eben auch eine Politik. Eine Politik insofern, als man ja
+kürzlich lesen konnte, dass verschiedene Assistenzsysteme seit Anfang dieses Jahres in
+der Europäischen Union verpflichtend in jedem verkauften Fahrzeug einzubauen sind. Da kann man
+eben tatsächlich sehen, dass es nicht nur ein imaginäres ist, eine Imagination oder eine Fantasie,
+sondern es ist eben tatsächlich, kann man als Technologie jetzt sagen, die hat sich auf dem
+Markt verbreitet und ist insofern auch für die Soziologie eben interessant, weil natürlich die
+Individualmobilität, ob man das jetzt gut findet oder nicht, eines der weit verbreitesten Phänomene
+oder Gesellschaftsphänomene sind. Da kann man jetzt sehen, dass diese Umsetzung der Assistenzsysteme
+natürlich wichtig sind. Und wenn man sich das anschaut, stellt man eben fest, dass diese
+Assistenzsysteme eigentlich alle dazu dienen, die Aufmerksamkeit des Fahrers oder der Fahrerin auf
+den Verkehr und das auf Fahrzeug zu lenken. Ablenkungsassistenten, Einschlafwarnungen,
+alle solche Formen dienen nicht dazu, dass das Auto besser fährt, sondern Spurhalteassistenten,
+Notbremsassistenten, alles solche Sachen dienen letztlich nur dazu, den Fahrenden nicht davon
+abzuhalten, dass sie einschlafen oder aus dem Fenster gucken oder sie mit ihren Nachbarn
+unterhalten. Und da sieht man eben, das sind ganz verschiedene, nochmal um den Begriff der
+algorithmischen Sozialität oder auch der Beziehung zurückzukommen, das sind eben ganz andere
+Beziehungsformen. Und jetzt wäre der Vorschlag zu sagen, mit dem Begriff der algorithmischen
+Sozialität bekommt man dieses Phänomen in den Griff, weil man eben sehen kann, dass hier diese
+Beziehung zwischen Fahrzeug und Fahrerin immer weiter intensiviert wird auf der visuellen Ebene,
+also die Überwachung der Augen, nicht der Lied, ob man einschläft oder eben ob man von der Bahn
+abkommt. Und da finde ich eben dieser relationale Begriff der algorithmischen Sozialität analytisch
+viel hilfreicher, weil er eben nicht zu diesen Verwirrungen führt, dass wir irgendwie von autonomen
+Fahrzeugen ständigen reden, die weder sozusagen entwickelt sind noch marktfähig sind. Und diese
+ganze Rede auch sozusagen dazu führt, dass wir faktisch überhaupt nicht erkennen, mit welcher
+gesellschaftlichen Veränderung wir es eigentlich zu tun haben. Dass die gesellschaftliche, relevante
+gesellschaftliche Veränderung nicht darin besteht, autonome Fahrzeuge zu haben, die uns es erlauben,
+irgendwann einfach mal ein Buch zu lesen im Auto, sondern die eher dazu führen werden,
+dass wir mit dem Auto, mit dem Fahrzeug noch auf eine viel intensivere Art und Weise verschmolzen
+werden als je zuvor. Also eine Intensivierung, eine Vertiefung der Mensch-Maschine-Beziehung,
+würde man eben sagen. Und das wäre jetzt sozusagen das Argument, dass man das nur erkennt, wenn man
+eben erstens diese beiden Phänomene unterscheidet. Das eine ist ein imaginäres, das eine ist eine
+tatsächliche empirische umgesetzte Praktik oder die Technologie. Und zweitens brauche ich dafür
+eben eine Theorie, die das überhaupt beschreiben kann. Und dafür wäre dann der Vorschlag, dass ich
+jetzt hier mit dieser algorithmischen Sozialität gleich in die Bresche springen kann.
+Diesen Prozess, den du eben gerade skizziert hast, den fasst du dann auch als Ironie der
+Assistenz bzw. Dialektik der Assistenz zusammen. Und was ich total interessant fand, und das kam
+dir eigentlich doch auch in der Art und Weise, wie du das beschrieben hast, ganz gut durch,
+ist, dass es am Ende eigentlich in einer gesteigerten Disziplinierung des Subjekts
+auch mit untermünden kann. Und zwar nämlich genau eigentlich diametral entgegengesetzt zu dem,
+was als Verkaufssprech dann eigentlich eben angefahren wird, nämlich ein Autonomieversprechen.
+Was wiederum interessant ist, weil ja da dann eigentlich man auf eine Art von doppelter
+Idealisierung der Autonomie stößt. Es ist ja kein Zufall, dass Elon Musk quasi die Person ist,
+die in diesem ja in diesem Move quasi federführend ist, denn der ist ja bekanntermaßen
+ein Libertärer, der sozusagen die Idee des autonomen Individuums quasi ganz besonders
+hoch hält. Und das fand ich auch total spannend, dass da ja dann auf der einen Seite eigentlich dem
+Fahrzeug quasi eine Autonomie zugesprochen wird, die nicht eingelöst wird, weil das Fahrzeug ja
+am Ende dann eben nicht autonom Fahrt ist, sondern nur eben quasi assistiert immer noch
+von einem Menschen gesteuert wird. Und natürlich dann eigentlich im Verkaufssprech wiederum ja auch
+dem der Fahrerin und dem dem Fahrer quasi eigentlich eine Idee von Autonomie irgendwie
+ja vorgehalten wird oder nicht vorgehalten, eine Art von Autonomie versprochen wird. Insofern
+ist, dass sie quasi während der Fahrt sozusagen sich zurücklehnen kann und eben was lesen,
+schlafen, was auch immer. Und beides wird eigentlich eben nicht eingehalten, aber trotzdem
+mit der Idee der der Autonomie verkauft. Das fand ich irgendwie ganz ganz spannend und das dann am
+Ende als Pointe, die wiederum durch die Theorie algorithmischer Sozialität dann in den Blick
+kommt als Pointe, eigentlich auch noch als Sahnehäubchen oben draufgesetzt wird, dass im
+Grunde das in der Form von gesteigerte Disziplinierung der Subjekte dann würde das,
+fand ich eigentlich als Gesamtbild ganz ganz anschaulich und ironisch eigentlich. Deswegen
+war Ironie der Assistenz auch ziemlich treffender Begriff fand ich muss ich sagen. Ja das würde man
+jetzt überhaupt nicht, also gerade wenn man jetzt jetzt aus Deutschland kommt, kennen wir ja das
+Phänomen, dass der oder die Deutsche gern mit manuell schaltenden Fahrzeugen fährt. Also
+Deutschland ist ja das einzige Land, wo es kaum automatische Schalter gibt, weil eben alle sozusagen
+kleine Versionen von Michael Schumacher sind. Und ausgehend von dieser Beobachtung würde man
+natürlich sagen, es gibt eine bestimmte Widerständigkeit gegen die Vorstellung
+autonomer Fahrzeuge. Wenn ich jetzt schon nicht bereit bin eine automatische Gangschaltung zu
+abzitieren, dann würde ich natürlich vermuten, dass ich auch gegen die Vorstellung autonomer
+Fahrzeuge bin. Und gerade in den USA lässt sich halt genau das gegenteilige Phänomen beobachten,
+wie du es schon beschrieben hast, dass da eben die Vorstellung des freien unregulierten Individuens,
+also unreguliert nicht vor Gesellschaft sozusagen, sich gespiegelt wird in das Fahrzeug. Nicht,
+dass man dort aktive Lobbyarbeit betreibt, dass diese Fahrzeuge nicht vernetzt sein sollen. Also
+dass man jetzt sagen würde als Regulierungsbehörde, wir setzen jetzt voraus, dass zum Beispiel die
+Fahrzeuge miteinander vernetzt sind, dass sie erkennen können, wenn vorne einer abbremst,
+kann der hinten schon abbremsen, kommen sie nicht zu Auffahrunfällen, wäre ja technisch
+eigentlich liegt auf der Hand. Das wird sozusagen aktiv unterminiert, weil man eben dadurch für
+seinen Eingriff in die Freiheit des Individuums befürchtet, was in dem Moment sich sozusagen
+als Fahrzeug reinkarniert hat. Eine ziemlich verrückte Wandlung, die man jetzt wirklich gar
+nicht erwarten würde. Genau, und das Ergebnis ist dann, das kann man ja auf YouTube und überall
+beobachten, diese Videos, wo irgendwelche Leute in Tesla sitzen und schlafen, die also sozusagen
+auf dieses Versprechen von Maske reingefallen sind. Das heißt, dieses Assistenzsystem ja auch
+glaube ich Autopilot. Also das wird das sozusagen so verkauft. Das heißt, die fahrenden Kaufen
+glauben das eben, dass das so ist, nutzen das dann, kommen es dann eben zu entsprechenden Unfällen.
+Das wäre sozusagen eben diese Ironie der Assistenz. Gibt es einige Untersuchungen,
+die sagen eben mittlerweile sind diese Assistenzsysteme die größten Quellen von
+Verkehrsunfällen. Nicht mehr Alkohol oder irgend sowas, sondern diese Ablenkung durch
+Assistenzsysteme oder einfach, indem man die Assistenzsysteme überschätzt oder indem man sie
+unterschätzt oder indem man abgelenkt wird, wenn man nicht versteht, nicht wenn man überlastet ist,
+man demietet sich vielleicht ein Auto oder jemand ist in entsprechendes Alter erreicht,
+versteht nicht so schnell, was diese ganzen Displays alles machen, guckt da drauf und
+sozusagen kommt es zu Unfällen. Das wäre sozusagen die Ironie der Assistenz, nicht das
+sozusagen jetzt durch Systeme, die eigentlich das Fahren leichter machen sollen, die eigentlich
+das verschlimmern. Und die Dialektik der Assistenz besteht eben dann darin, dass man jetzt
+Assistenzsysteme einbaut, die genau das wieder verhindern sollen. Also Ablenkung verhindern
+sollen, dass ich jetzt eben nicht vor den Assistenzsystemen abgelenkt werde, wird durch
+erweiterte Assistenzsysteme verhindert. Das ist eine schon sehr verrückte Entwicklung und hat,
+glaube ich, in erster Linie damit zu tun, was ich vorhin angesprochen habe, dass man systematisch
+sozusagen diesen Verkaufsversprechen, dass es sich um autonome Fahrzeuge handelt, systematisch auf
+Leim gegangen ist. Das ist sozusagen niemand oder es gab natürlich immer Leute, die gewarnt haben
+und das wissen nun, aber dass man auch in den zentralen Medien überhaupt nicht versteht, mit
+welchen Entwicklungen wir zu tun haben, dass jedes Assistenzsystem eigentlich eine Vertiefung der
+Beziehung ist und keine Entlastung in dem Sinne. Aber ich muss das immer ein bisschen beholen,
+weil unsere Diskussion jetzt in eine weiche Richtung geht, weil ich eben gerade diese
+Disziplinierungsperspektive entkommen will, ist das eben auch eine Disziplinierung des Fahrzeugs.
+Das Fahrzeug wird ja jetzt auch gezwungen, ständig aufzupassen, was der Fahrer macht oder die
+Fahrerin. Es ist auch eine Subjektivierung des Fahrzeugs gleichzeitig, was jetzt auf einmal sehr
+menschlich wird oder zumindest für menschliche Schwächen sich sensibilisieren muss. Da sitzt jetzt
+ein Mensch drin, der überschätzt sich, der wird abgelenkt, der tentidiert dazu auch einzuschlafen.
+Also haben wir es auch einerseits mit einer wechselseitigen Assistenz, könnte man sagen,
+zu tun. Also ich assistiere dem Fahrzeug, das Fahrzeug assistiert mir. Umgekehrt ist das aber
+eben auch eine doppelseitige Disziplinierung, insofern als das autonome Fahrzeug ja auch Autonomie
+verliert. Es wird immer mehr abhängig davon, dass da jemand drin sitzt und auch das Richtige tut und
+die richtigen Knöpfe drückt. Damit haben wir jetzt im Grunde eigentlich einen Weg, der derzeit
+beschritten wird, beschrieben. Also diese Abfolge von eigentlich Ironie der Assistenz und dann
+Dialektik der Assistenz, dass man also eben in dem Fall mit dem Versprechen der Autonomie
+nicht autonome Systeme einbaut, die dann wiederum von den Menschen falsch verstanden werden oder
+für bare Münze falsch verstanden werden als autonome Systeme. Daraufhin ihr Verhalten darauf
+ausrichten, als wären sie wirklich autonom, was wiederum Dysfunktionalitäten erzeugt,
+weshalb man eben die Dialektik der Assistenz wieder neu erweiterte Assistenzsysteme einbauen
+muss, die das wiederum versuchen zu adressieren. Das ist sozusagen der eine Strang, der wirklich
+gelebte Realität ist, muss man da auch jetzt hinzu sagen, weil wie Roberto ja eben gesagt hast,
+das ist jetzt auch quasi schon in die Politik eingegangen. Das ist sozusagen mal der eine Zugang,
+der derzeit auch absolut so praktiziert wird und ein anderer Zugang auf dieses Problem in
+Anführungsstrichen der störenden Subjekte oder der sozusagen in dem Fall dysfunktional agierenden
+Subjekte einzugehen, den beschreibst du als Prinzip des Ausschlusses der eigentlich der
+menschlichen Subjekte. Ja, und also mich hat das sehr stark erinnert an einen Vortag, den ich
+mal gesehen habe von Benjamin Bretton, in dem er eine Zukunft beschreibt, in der menschliche
+AutofahrerInnen als ignorant-individualistische Bedrohungsfaktoren beschreibt, die entgegen jeder
+empirischen Fakten lagen, darauf beharren, ein freiheitliches Verkehrsrisiko darstellen zu dürfen.
+Ja, und Bretton nimmt da dann halt relativ klar Stellung für ein umfassendes, kollektiv
+vernetztes, nicht-menschliches Fahren. Ja, also das ist eben das, was du dann wiederum in deinem
+Text mit Verweis auf einen Konzern namens Waymo, der wohl eben auch versucht, autonome Systeme,
+also Systeme autonome Fahrens beziehungsweise erweitert assistierenden Fahrens zu entwickeln.
+Mit Verweis auf diesen Konzern gehst du eben auch auf diese Variante ein, denn eben auch Waymo
+beschreibt, dass im Grunde sagen, in ihrer Perspektive der Mensch eigentlich das größte
+Problem ist, denn der Mensch, der ist eben nicht so regelkonform, wie es die programmierten Autos
+eben sind, und denen fällt es wiederum unglaublich schwer, auf dieses Abweichen von der Regel wiederum
+einzugehen, weswegen dann wiederum die Schlussfolgerung von Waymo ist, man müsse doch eigentlich dann
+dafür sorgen, dass dieser Störfaktor nicht mehr partizipiert am Verkehr, am Straßenverkehr und
+erst dann könne sozusagen ein Maß an Sicherheit erzeugt werden, dass irgendwie der Sache gerecht
+wäre, vielleicht kannst du das uns ein bisschen näher bringen, diesen Zugang des Ausschlusses und
+auch was das bedeutet. Die Ausgangslage ist natürlich wieder wie vorhin, also sozusagen die
+völlige Verwirrung, was autonomes Fahren tatsächlich in seiner Umsetzung bedeutet, dass wir eben
+angefixt sind, Lucy Satchman nennt das sozusagen die Privilegierung der Maschine, also wir schauen
+uns an Möglichkeiten und Grenzen, Big Data und maschinelles Lernen und autonomes Fahren, aber
+dass das natürlich eigentlich immer nur in Interaktionsbeziehungen auftaucht und als
+Technologie völlig uninteressant ist oder nicht sehr aufschlussreich ist, wird halt übersehen und
+das sind sozusagen jetzt, kommen diese Unternehmen, stellen halt fest in ihren Analysen, also bestimmte
+Abläufe können wir das Fahrzeug sozusagen semi-autonom durch die Stadt führen, aber dann gibt es Leute,
+die laufen dabei rot über die Ampel und zum Schluss fahren die Autos sozusagen super vorsichtig im
+Schritttempo durch die Stadt, die menschlichen Fahrerinnen, die dahinter sind, verlieren den
+Nervenfang an zu hupen und es kam sozusagen auch zu Gewaltausbrüchen gegen diese Testfahrzeuge,
+einfach weil man hier ist und das ist eigentlich das, wo ich auch mit diesem ganzen Gemengelage der
+algorithmischen Sozialität hinweisen will, dass das Problem, das größte Problem eigentlich nicht
+die technische Umsetzung des autonomen Fahrers ist, sondern eben eigentlich die
+Subjekt-algorithmische Beziehung, nicht dass man es schafft, Fahrzeuge und menschliche Personen
+in Beziehung zu setzen und ähnlich, ich habe das mal auf einer Industriekonferenz mal jemanden,
+so ein Ingenieur, gefragt, die sozusagen ihre Präsentation machen, da ist ja dann das autonome
+Fahrer immer in fünf Jahren umgesetzt in diesen Präsentationen und dann habe ich eben mal gefragt,
+wie das jetzt eigentlich man sich das als Soziologe vorstellen soll, dass wir eben auf der einen Seite
+als Soziologe in dem Wissen, dass Menschen eben Normenbrecher sind, sich eben nicht an Normen
+halten oder eben dazu tendieren, die Normen immer ein bisschen zu schieben und eben ein Algorithmus,
+das halt nicht kann, eine Höchstgeschwindigkeit ist halt eine Höchstgeschwindigkeit, die kann man
+jetzt zwar irgendwie manuell diskretionär überschreiben, aber dazu braucht es auch wieder
+einen menschlichen Fahrer, das Fahrzeug wird das nicht können und ist eben die Frage, wie können
+Regelfolger und Regelbrecher zusammenleben? Das läuft, hat ja Ingenieur dann auch zugegeben,
+dass das eigentlich faktisch empirisch nur geht, indem man die Menschen das Fahren verbietet,
+also das, was du auch geschrieben hast, indem man sie aus dem Verkehr ausschließt. Wir kennen das
+und daran zeigt sich auch in gewisser Weile die Banalität des gesamten Phänomens. Wir kennen
+das ja auch von anderen autonomen Fahrzeugen, nämlich zum Beispiel so Zubringer-Shuttle am
+Flughafen, die sozusagen autonomig verankert werden. Was man da beobachten kann, ist genau das
+Phänomen, das wird halt in hochgradig isolierten Umwelten findet das statt, da gehen Türen zu,
+gehen Türen auf, es gibt eine Schiene, auf der das langfährt, das sind sozusagen hochgradig
+künstliche Umwelten und auch man sieht man jetzt bei dem autonomen Fahren, die angeblich in diese
+Alltagswelt gebracht werden soll, das ist ja Anspruch, dass das autonome Fahrzeug eigentlich
+faktisch überall fahren kann auf dem Mond, dass das eben eigentlich nur zufangs funktioniert,
+wenn man die eben umweltextrem artificiell zurichtet, also entweder vollpackt mit Sensoren,
+dass die Fahrzeuge eben wissen, wo sie sind und eben auch eine massive Ausschluss von Menschen.
+Und da gab es jetzt verschiedene Testgelände, verschiedene Städte haben eben Experimente zu
+technischen Fahrzeugen gemacht und da gab es eben dann auch diese Phänomene, dass dann faktisch die
+gesamte Innenstadt für Menschen abgesperrt ist, nicht? Da haben wir dann sozusagen Zäune an der
+Straße, es gibt Schranken beim Fußgängerüberweg, da sieht man also genau das Umgesetz, dass sozusagen
+der Regelbrecher Mensch aus diesem Phänomen ausgeschlossen ist und es ist ganz offensichtlich,
+dass es entweder darauf hinaus läuft, den Menschen auszuschließen, wie sozusagen beim
+Flughafenzubringer, beim Shuttle oder dass es in einer Art von intensivierter Beziehung bedarf,
+wo man dann aktiv sagen kann, so kennt man das jetzt nicht auch, wenn man sich mal ein neues Auto mit
+so Assistenzsystemen mal fährt und man hat diese Abstandsassistenten und man merkt das sozusagen,
+man fährt jetzt auf der Überholspur und der Abstandsassistent hält sozusagen diese Mindestabstand ein
+und nachdem das vierte oder fünfte Auto in den Sicherheitsabstand gefahren ist, hat man dann auch
+keinen Spaß mehr an diesem Assistenzsystem und wird dann entweder eben diese Distanz verringern,
+also eigentlich den vorgeschriebenen Sicherheitsabstand unterschreiten oder man wird die
+Geschwindigkeit rosseln müssen und irgendwie heranfahren. Das ist jetzt eben nochmal sozusagen ein
+Zeichen dafür oder ein Symptom dafür, dass man eben sagen kann, die wahrscheinlichere Form als
+Soziologe, würde ich sagen, ist eine Form von Interaktion, dass man komplette Städte und die
+gesamte komplette Fahrindustrie oder Infrastruktur von Menschen absperrt, kann ich mir faktisch
+eigentlich nicht vorstellen. Insofern eben nochmal eben das Plädoyer, dass man das mit einer
+Beziehungsanalyse eigentlich aufschlüsseln muss, diese Transformation, die sich da vor uns in
+Augen abspielt. Oder auf eine Art finde ich ist ja oder vielleicht verstehe ich das noch falsch,
+das würde mich jetzt interessieren. Auf eine Art klang das ja jetzt so, als ob durch die
+Differenzierung von autonomem Fahren oder dem eben in Anführungsstrichen falschen Versprechen,
+von autonomem Fahren und dem anderen Paradigma, nämlich dem vernetzten, koordinierten Fahren,
+dass da eigentlich schon auch zwei unterschiedliche Paradigmen sich so ein bisschen aufzeigen. Oder
+also das ist das vielleicht dann auch eine Form des Verständnisses von subjektalgorithmischen
+Beziehungen und Beziehungshaftigkeit eigentlich da so ein bisschen drin versteckt liegt oder ein
+Versprechen vielleicht auch eine Möglichkeit, eine Chance drin liegt. Wenn man also weder das
+menschliche Subjekt komplett ausschließen will, noch eigentlich einem falschen Versprechen totaler
+Autonomie folgen, das dann in einer gesteigerten gegenseitigen Disziplinierung von sowohl in dem
+Fall dem Auto als auch dem Menschen mündet, was gäbe es da vielleicht noch für einen anderen Weg,
+mit dieser grundsätzlichen Problematik von subjektalgorithmischen Beziehungen umzugehen.
+Und auf eine Art hatte ich das Gefühl, dass die Form des vernetzten koordinierten Fahrens
+eigentlich da auch schon versucht zu sagen, einem anderen Paradigma zu folgen,
+das eben dann nicht auch in dieser Falle der falschen Autonomie tappt und infolgedessen dann
+eben auch andere Lösungsvorschläge anstrebt. Aber wie hätten wir uns die vorzustellen? Wie
+kann man sich das vielleicht anhand des Beispiels des autonomen Fahrens dann auch ein bisschen
+veranschaulichen, wie quasi diese Beziehung anders gedacht werden kann?
+Nein, das gibt es natürlich alles. Das sind auch eigentlich, könnte man jetzt nochmal den
+Begriff der Algorithmuskulturen schreiben, es sind eben verschiedene Algorithmuskulturen. Das ist
+jetzt vielleicht ein bisschen eine steile These, aber ich habe eigentlich auch ehrlich gesagt ein
+bisschen die Vermutung, dass das ein Grund ist, warum wir viel von dem autonomen Fahren aus den USA
+hören. Vamo, Musk, Tesla und eigentlich aus Europa gar nicht so sehr. Das, was ich mal sozusagen als
+explorative Studie auch untersucht habe in Düsseldorf zum vernetzten Fahren, hieß eben
+vernetztes Fahren, und das hatte eigentlich einen ganz anderen Zuschnitt. Das ist also nicht das
+Interessesprojekt von technolibratären Individualisten und Millionärin, sondern das
+ist ein Projekt einer Stadt. Eine Stadt hat natürlich eine ganz andere Form, ein ganz anderes
+Problem. Eine Stadt hat ja überhaupt gar kein Interesse daran, dass das Auto und Fahrzeug an den
+Umfährt. Die Stadt hat Interesse daran, dass der Verkehr effizient geregelt wird, dass die
+Emissionen gesteuert werden, dass das Parkplatzproblem gelöst werde und dieses vernetzte Fahren in
+Düsseldorf zielte eben genau darauf ab. Das sind ganz andere Problemarisierungen, die damit betrieben
+werden. Wie kann man verhindern, dass in dem Tunnel es zu Auffahrunfällen, wie kann man den
+Sperren, wenn es ein Feuerunfall ist, Verkehrsleitssysteme, nicht, da ist sozusagen die
+Frage des vernetzten Fahrens immer eine Frage der Kooperation und Kooperationsprobleme. Also würde
+man sagen, wenn eine Stadt sowas betreibt, dann wird sie dieses Phänomen ganz anders angehen, als
+wenn ein sozusagen irgendwie ein Egomane das betreibt, der am liebsten mit seinem Auto gleich
+noch zum Mond fahren würde, wenn es möglich wäre. Also das unterscheidet sich sozusagen schon.
+Interessant war bei dieser explorativen Studie in Düsseldorf eben auch, dass die eigentlich
+im Grunde eine Infrastruktur gebaut haben. Also wir bauen Sensoren, Kameras, Bluetooth-Schnittstellen,
+bieten wir ein in der Stadt, in der Teststrecke und jetzt bieten wir das Privatunternehmen an,
+das zu nutzen. Das Einzige, was richtig gut funktioniert hat, ist sozusagen der öffentliche
+Nahverkehr, also die Busse. Dass man jetzt sagt, kann die Busfahrer damit optimieren. Das System
+findet jetzt heraus, dass in 30 Sekunden davon erholt wird, kann der Busfahrer auch ein bisschen
+länger in der Haltestelle warten und stellen und solche Sachen. Aber man hat dann versucht,
+auch Privatunternehmen fort und so einzubinden und eigentlich hat man festgestellt, dass viele
+von diesen Unternehmen überhaupt kein Interesse haben, weil sie eben ihre Technologien, die sehr
+so sehr auf Individualverkehr abgestellt sind, mit diesen Infrastrukturen eigentlich überhaupt
+nichts anfangen können oder einfach auch gar nicht daran interessiert sind. Die sind eben daran
+interessiert, Individualfahrzeuge herzubauen und dadurch ist diese gesamte Ausrichtung der Technologie
+ganz anders orientiert, als wenn ich sagen würde, ich versuche ein Phänomen zu bauen,
+wo wir ein gesellschaftliches Problem lösen und nicht nur ein individuelles. Also insofern ist es
+auch empirisch jetzt schon so, dass man eben ganz verschiedene, man kann eben vernetztes Fahren,
+ist eigentlich wieder ein anderes Phänomen. Also man kann ja sagen, Assistenzsysteme oder assistiertes
+Fahren kann auch vernetzt sein, wenn die Fahrzeuge eben miteinander vernetzt sind und sich beobachten
+miteinander kommunizieren, aber vernetztes Fahren kann auch viel ganz anders gemeint sein. Also das
+ist eben wirklich um eine Funktion des Gemeinschaftslebens, des gemeinsamen Zusammenlebens
+geht. Man sagt, wie kann ich das jetzt so gestalten, dass wir alle einen Bus benutzen können, ohne jetzt
+sozusagen ständig irgendwie zu spät zu sein und dann lieber doch wieder das eigene Auto nehmen,
+solche Sachen. Das ist ja wirklich ein ganz großartiger Ausblick, finde ich, der sich jetzt
+da bietet aus der Analyse der algorithmischen Sozialität heraus eigentlich zu einem Plädoyer
+für kooperative Algorithmuskulturen. Das ist ja eigentlich wirklich schön und schließt auch super
+an an meine letzte Frage, die da ist. Wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+Das ist immer eine schwierige Frage. Also wie gesagt, solche Sachen, solche Phänomene,
+wie wir sie jetzt gerade zum Schluss geschrieben haben von Kooperation, sind natürlich viel
+spannender. Ob das jetzt sozusagen eine Zukunftsentwicklung ist, kann ich schwer absehen.
+Ich bin da ehrlich gesagt als Soziologe auch ein bisschen emotionslos. Sowohl was hoffnungsvolle
+Zukunftsszenarien als auch Dystopien betrifft. Ich bin da mehr sozusagen an den tatsächlichen
+Veränderungen, die man konkret beobachten kann, interessiert. Und da glaube ich schon, dass man,
+das versuche ich auch sozusagen in diesem Konzept der algorithmischen Sozialität zu
+berücksichtigen, dass das eben keine festgelegte Sache ist. Also da sind extrem viele Unbestimmtheiten
+drin in dem Prozess. Ich dekonstruiere jetzt vielleicht eine Frage zu sehr, dass ich eigentlich eher
+Interesse habe oder finde, dass wir eine größere Sensibilität entwickeln sollten für die Momente
+der Transformation oder das Werten, in dem wir uns gerade befinden, weil wir eben sehr dazu tendieren,
+die aktuellen Entwicklungen entgegweder von der Ausgehen von der Vergangenheit zu denken oder eben
+irgendwelche kritischen Befürchtungen gleich mal von der Vergangenheit wieder in die Zukunft klappen.
+Insofern, da bin ich wahrscheinlich dann auch wieder zu sehr Deleuzianer, finde ich diese
+Fokussierung auf die Zukunft vielleicht eher problematisch und würde eher sagen, was wir
+eigentlich sehr selten können, ist zu verstehen, dass in den Momenten, in denen wir leben,
+was da eigentlich für Momente möglich sind, Transformationsmomente eigentlich drinstecken,
+weil wir möglicherweise eben immer schon sozusagen in Zukunftshoffnungen und Zukunfts- oder
+Vergangenheitsbefürchtungen leben. Also, weil ich die Frage vielleicht ein bisschen umdrehe,
+dass ich immer sozusagen auf diese Transformation im aktuellen Moment eigentlich, das stimmt mich
+sozusagen immer wieder freudig, weil ich glaube, dass man, egal was sozusagen passiert, es nie
+vollständig bestimmt ist, wie es weitergeht. Das kann, was jetzt freudig ist, damit auch natürlich
+schlecht gewählt, weil es kann auch immer alles viel schlimmer kommen als es eh schon ist, aber es
+kann auch eben noch wieder besser kommen. Das ist jetzt so eine sehr unbefriedigende sowohl
+als auch Antwort, das tut mir jetzt leid. Finde ich überhaupt nicht. Ich finde, das ist, das beharrt
+ja einfach vehement auf der Offenheit, die in jeder Gegenwart auch gegeben ist. Das finde ich
+eigentlich ganz großartig und mich persönlich stimmt das auch freudig. Insofern kann ich das
+total verstehen als eine Antwort. Ja, ganz super. Und danke dir ganz herzlich für dieses Gespräch.
+Ja, danke dir, dass ich hier sein durfte. Und ja, ich genieße das immer sehr, den Podcast,
+und werde weiter zuhören, neben was hier in Zukunft noch kommt. Das freut mich. Bis dahin, ciao.
+Das war Future Histories für heute. Vielen Dank fürs Zuhören, Show-Notizen und vieles mehr findet
+ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag Future Histories
+oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen
+hören und abonnieren, sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos
+zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich
+freue mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future
+Histories unterstützen wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder
+auch via Spende auf unserer Homepage. Future Histories ist eine Produktion von MetaLapses
+zu finden auf meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.

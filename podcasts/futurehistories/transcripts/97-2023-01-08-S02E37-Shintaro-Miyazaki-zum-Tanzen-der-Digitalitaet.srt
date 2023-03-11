@@ -1,0 +1,2332 @@
+1
+00:00:00,000 --> 00:00:05,760
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+
+2
+00:00:05,760 --> 00:00:11,600
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Shintaro Miyazaki begrüßen zu
+
+3
+00:00:11,600 --> 00:00:18,960
+dürfen. Er ist Junior Professor für Digitale Medien und Computation am Institut für Medienwissenschaft
+
+4
+00:00:18,960 --> 00:00:24,800
+der Humboldt-Universität zu Berlin. Shintaro und ich, wir kennen uns durch das von Anna Verena
+
+5
+00:00:24,880 --> 00:00:31,160
+Nosthoff und Felix Maschewski geleitete Critical Data Lab. Das ist nämlich bei Shintaro's
+
+6
+00:00:31,160 --> 00:00:37,360
+Professur an der HU gehostet, also der institutionelle Host dieses Labs ist Shintaro's
+
+7
+00:00:37,360 --> 00:00:43,280
+Professur. An dieser Stelle auch liebe Grüße an alle vom Critical Data Lab. Ich freue mich
+
+8
+00:00:43,280 --> 00:00:47,400
+sehr, dass wir heute über Shintaro's Buch sprechen können, das den Titel trägt,
+
+9
+00:00:47,400 --> 00:00:53,520
+Digitalität tanzen. Denn in diesem Buch da kommen viele Themen auf, die auch durchaus eine zentrale
+
+10
+00:00:53,560 --> 00:01:00,680
+Rolle hier bei Future Histories spielen. Der Titel lautet nämlich im vollen Digitalität tanzen über
+
+11
+00:01:00,680 --> 00:01:07,240
+Commoning und Computing und sowohl das Commoning als auch das Computing dürften regelmäßigen
+
+12
+00:01:07,240 --> 00:01:14,000
+Future Histories HörerInnen durchaus untergekommen sein, sage ich mal über die Zeit hinweg. Insofern
+
+13
+00:01:14,000 --> 00:01:19,640
+passt das ganz ausgezeichnet in die Fragen der Suchbewegung von Future Histories hinein. Einer
+
+14
+00:01:19,640 --> 00:01:25,600
+der aktuellen Stränge der jetzt der laufenden zweiten Staffel widmet sich ganz dezidiert dem
+
+15
+00:01:25,600 --> 00:01:32,040
+Regieren der Algorithmen und da passt Shintaro's Arbeit mit ihrem Blick auf alternative Rhythmen
+
+16
+00:01:32,040 --> 00:01:37,880
+der Digitalität natürlich ganz ausgezeichnet hinein. Insofern kann ich euch zum Beispiel auch
+
+17
+00:01:37,880 --> 00:01:44,120
+die Folge mit Robert Seifert zu algorithmischer Sozialität ans Herz legen und es gibt so manche
+
+18
+00:01:44,120 --> 00:01:50,720
+andere Folge, die durchaus in einem produktiven Dialog mit der heutigen Episode stehen, namentlich
+
+19
+00:01:50,720 --> 00:01:58,360
+zum Beispiel Folge 47 der ersten Staffel mit Stefan Meritz zu Kommunismus oder auch die Folge
+
+20
+00:01:58,360 --> 00:02:04,480
+mit Jens Schröter zur Gesellschaft nach dem Geld. Denn in diesem Forschungsprojekt von Jens da haben
+
+21
+00:02:04,480 --> 00:02:11,800
+sie ja auch mit Agent Based Modeling eine eben Gesellschaft nach dem Geld modelliert und wie ihr
+
+22
+00:02:11,920 --> 00:02:18,200
+später hören werdet ist auch Shintaro an Agent Based Modeling sehr interessiert. Es gäbe sicher
+
+23
+00:02:18,200 --> 00:02:22,280
+noch einige andere Episoden, die ich hier empfehlen könnte, aber ich möchte euch nicht zu lange
+
+24
+00:02:22,280 --> 00:02:28,480
+aufhalten. Bevor es jetzt losgeht möchte ich aber noch ganz unbedingt Fabian, Lukas, Carmen und
+
+25
+00:02:28,480 --> 00:02:35,320
+Wilfried für ihre Spenden danken und Minoas ganz herzlich als Patreon von Future Histories begrüßen
+
+26
+00:02:35,320 --> 00:02:43,080
+und jetzt viel Freude mit der heutigen Episode Future Histories mit Shintaro Miyazaki zum Tanzen
+
+27
+00:02:43,080 --> 00:02:55,760
+der Digitalität. Herzlich willkommen Shintaro. Ja ich freue mich sehr, dass ich hier dieses
+
+28
+00:02:55,760 --> 00:03:03,040
+Gespräch mit dir führen darf und damit auch einen Beitrag leisten kann zu deiner schönen Serie und
+
+29
+00:03:03,040 --> 00:03:10,400
+die Folge zum Anarchismus zum Beispiel fand ich ganz toll. Daniel Leuk oder jene mit Jens Schröter
+
+30
+00:03:10,400 --> 00:03:19,560
+auch und die ganz relativ neue mit Alexander Kluge, grandios. Also bin ich auch sehr gespannt wie das
+
+31
+00:03:19,560 --> 00:03:25,600
+Gespräch sich entwickelt und ja die Frage wie wir unsere Zukunft gemeinsam gestalten können ist
+
+32
+00:03:25,600 --> 00:03:31,040
+auch eine Frage die mich seit Längerem beschäftigt. Ja das merkt man am Buch muss ich sagen, dass dich
+
+33
+00:03:31,040 --> 00:03:35,360
+das beschäftigt und ich fand das auch unglaublich interessant wie du dich dieser Frage eben zuwendest.
+
+34
+00:03:35,360 --> 00:03:42,560
+Vielleicht lass uns anfangen mit dem algorithmischen, das ist jetzt natürlich im sprachlichen nicht so
+
+35
+00:03:42,560 --> 00:03:48,200
+leicht zu sehen, das ist mit y geschrieben also eine Kombination, eine Wortkreation aus dem
+
+36
+00:03:48,200 --> 00:03:56,000
+Algorithmus mit i klassischerweise ja so geschrieben und dem Rhythmus, das ist eine Figur der Algorithmus
+
+37
+00:03:56,000 --> 00:04:01,880
+die du schon in deiner Dissertation eigentlich geformt hast, angefangen hast zu formen und die du
+
+38
+00:04:01,880 --> 00:04:06,800
+jetzt eben auch weiterentwickelst. Vielleicht kannst du uns das zunächst mal ein bisschen näher
+
+39
+00:04:06,800 --> 00:04:14,440
+bringen. Was hat es auf sich mit dem algorithmischen? Ja danke, es ist eine bewusst falsch
+
+40
+00:04:14,440 --> 00:04:22,400
+geschriebene Form, eine Karkografie könnte man sagen, wo eben Algorithmus, wo ich das mit R-H-Y-T-H
+
+41
+00:04:22,400 --> 00:04:30,200
+schreibe statt mit R-I-T-H und ich wollte eben damit auf die Zeitprozesse, die mit digitalen Medien zu
+
+42
+00:04:30,200 --> 00:04:37,280
+tun haben, aufmerksam machen und Rhythmus war deshalb ein passendes Konzept, das war zumindest mein
+
+43
+00:04:37,280 --> 00:04:45,360
+Argument, weil es so beides, also symbolisch, also es ist abstrakt und hat mit Mathematik zu tun und
+
+44
+00:04:45,360 --> 00:04:50,440
+es ist gleichzeitig aber auch realphysikalisch, es basiert auf Signale, es basiert auf Körperlichkeit
+
+45
+00:04:50,920 --> 00:04:58,080
+und das führt dann ja auch zum Tanz, genau und dann damals bei meiner Literatursuche habe ich mich
+
+46
+00:04:58,080 --> 00:05:04,720
+auch zum Beispiel mit der Rhythmusanalyse des französischen Marxisten Henri Lefebvre beschäftigt,
+
+47
+00:05:04,720 --> 00:05:12,640
+der hat dann auch später zur Stadt und so viele Monographien geschrieben und da hatte sich eben
+
+48
+00:05:12,640 --> 00:05:16,520
+auch für die Arbeit drin und für die Maschinen, die Rhythmen der Maschinen so interessiert,
+
+49
+00:05:16,520 --> 00:05:21,160
+das muss dich dann aber damals so ein bisschen, dieses politische muss dich ein bisschen außen
+
+50
+00:05:21,160 --> 00:05:28,040
+vor lassen. Genau und das kommt jetzt dann mit Vehemenz oder zumindest mit Dringlichkeit eigentlich
+
+51
+00:05:28,040 --> 00:05:33,320
+wieder hinein in deinem neuen Buch, da bringst du eben dann dezidiert eine politische Ebene mit in
+
+52
+00:05:33,320 --> 00:05:40,760
+das Ganze hinein und es geht dir dabei darum und ich zitiere dich hier, wie Digitalität neue Rhythmen,
+
+53
+00:05:40,760 --> 00:05:45,880
+Tänze und Bewegungen ermöglichen könnte, die den Kapitalismus und die damit einhergehende
+
+54
+00:05:45,880 --> 00:05:51,640
+Selbstzerstörung der bisher liberal bürgerlich geprägten Gesellschaft aufzuheben und in etwas
+
+55
+00:05:51,640 --> 00:05:56,880
+Neues zu transformieren vermögen, Zitat Ende. Vielleicht kannst du auch das noch ein bisschen
+
+56
+00:05:56,880 --> 00:06:01,440
+genauer ausführen, welche Alternativen stecken denn da in der Digitalität, welche alternativen
+
+57
+00:06:01,440 --> 00:06:09,800
+Rhythmen kannst du da ausmachen? Ja ich denke da vor allem an, dass wir Wege finden sollten,
+
+58
+00:06:09,800 --> 00:06:16,920
+den Rhythmus im Alltag selbstbestimmt gestalten zu können und nicht immer zum Beispiel in acht
+
+59
+00:06:16,920 --> 00:06:21,600
+Stunden arbeiten und dann nach Hause, das ist ein fester Rhythmus irgendwie, sondern vielleicht
+
+60
+00:06:21,600 --> 00:06:28,240
+auch mal einmal das ganze Jahr hindurch vielleicht nicht arbeiten zu müssen oder eben nicht auf die
+
+61
+00:06:28,240 --> 00:06:34,000
+neueste Chat-Nachricht antworten zu müssen, also dieses digitale Medien geben uns ja auch Rhythmen
+
+62
+00:06:34,000 --> 00:06:39,120
+vor und viele privilegierte und reiche Menschen können das dann natürlich auch schon heute,
+
+63
+00:06:39,240 --> 00:06:45,680
+dass sie sich da rausziehen und da auch bisschen langsamer sind vielleicht, aber es gibt auch
+
+64
+00:06:45,680 --> 00:06:52,200
+andere Menschen die das nicht können und ja digitale Medien verstärken dieses ständig online sein
+
+65
+00:06:52,200 --> 00:06:59,360
+müssen, man spricht ja auch hier von FOMO also Fear of Missing Out und aber gleichzeitig kann
+
+66
+00:06:59,360 --> 00:07:04,680
+man eben mit digitalen Medien auch, könnte man eben auch unsere eigenen Rhythmen kreieren,
+
+67
+00:07:04,680 --> 00:07:12,400
+eigene Räume kreieren, Netzwerke, Lebensweisen und Beziehungsweisen konstruieren, die eben nicht
+
+68
+00:07:12,400 --> 00:07:18,480
+fremdbestimmt sind, sondern selbstbestimmt, da muss man aber halt die auch selbst konstruieren und ganz
+
+69
+00:07:18,480 --> 00:07:24,840
+wichtig für mich ist eben, dass die Idee, das eben nicht alleine zu tun, sondern eben mit möglichst
+
+70
+00:07:24,840 --> 00:07:30,600
+vielen zusammen und da kommt eben dieses Tanzen auch ins Spiel, weil Tanzen, das können wir nur
+
+71
+00:07:30,600 --> 00:07:37,520
+zusammen und wir müssen Räume schließen, wir müssen Räume selbst gestalten und regeln auch
+
+72
+00:07:37,520 --> 00:07:45,960
+beim Tanzen und ja das ist ein wichtiger Aspekt von Digitalität tanzen und meine wichtige Annahme
+
+73
+00:07:45,960 --> 00:07:51,160
+dann oder Feststellung von mir ist eben, dass auch als Medienwissenschaftler, dass eben auch
+
+74
+00:07:51,160 --> 00:08:00,640
+in Digitalisierung alle Gesellschaftsbereiche sozusagen bestimmt und dann eben aber auch, weil
+
+75
+00:08:00,640 --> 00:08:06,400
+das so ist, könnten wir auch theoretisch mit alternativen digitalen Mitteln das alles auch
+
+76
+00:08:06,400 --> 00:08:11,520
+transformieren. Jetzt hast du es eben schon zweimal erwähnt, ich hatte es jetzt in der Anmoderation,
+
+77
+00:08:11,520 --> 00:08:17,080
+aber bisher noch nicht erwähnt, dass Tanzen als eine Figur, die du ja in deinem Buch, das ja auch
+
+78
+00:08:17,080 --> 00:08:22,360
+eben diesen Namen trägt, Digitalität tanzen, einführst und verwendest. Vielleicht kannst du das ein
+
+79
+00:08:22,360 --> 00:08:29,760
+bisschen erläutern, wie dir diese Metapher des Tanzens in Bezug auf Digitalität von Hilfe war.
+
+80
+00:08:29,760 --> 00:08:38,600
+Also das Tanzen ermöglicht einem das körperliche zu denken und eben den Rhythmus durch den Körper
+
+81
+00:08:38,600 --> 00:08:44,360
+und Tanzen hat ja eben dann auch mit sozialen Bewegungen zu tun, also es gibt solche
+
+82
+00:08:44,440 --> 00:08:50,720
+Tanzwissenschaftlerin, ich beziehe mich darauf, Gabriele Klein, die das theoretisch auch sozusagen
+
+83
+00:08:50,720 --> 00:08:56,120
+konzipiert, dass eben soziale Bewegungen stark mit dem Tanzen zusammenhängen und es gibt ja auch
+
+84
+00:08:56,120 --> 00:09:02,040
+sowas wie den Wave oder Technowave und so, das sind alles so Konstellationen, die mich interessiert
+
+85
+00:09:02,040 --> 00:09:09,640
+haben, das Tanzen dann auch zu denken mit dem Digitalen zusammen und eben das, was wir jetzt
+
+86
+00:09:09,640 --> 00:09:15,240
+vorher schon angesprochen haben, der Algorithmus, der hat natürlich auch mit Rhythmen zu tun und
+
+87
+00:09:15,240 --> 00:09:20,480
+da ist so diese Beschränkung schon von Digitalität und Körperlichkeit eigentlich schon da.
+
+88
+00:09:20,480 --> 00:09:27,160
+Und vielleicht auf diese Körperlichkeit noch mal eingehend, das heißt, wenn du jetzt bei
+
+89
+00:09:27,160 --> 00:09:33,520
+Digitalität tanzen, durch das Tanzen auch auf diese Körperlichkeit dich eigentlich beziehen willst,
+
+90
+00:09:33,520 --> 00:09:41,200
+da anknüpfen willst, das bedeutet ja wahrscheinlich auch, dass es letztlich eine bestimmte Materialität
+
+91
+00:09:41,200 --> 00:09:49,120
+des Digitalen wahrzunehmen und ernst zu nehmen gilt, wenn ich das richtig verstehe, oder? Vielleicht
+
+92
+00:09:49,120 --> 00:09:54,400
+kannst du für die Zuhörerinnen und Zuhörer da noch mal kurz darauf eingehen, welche Materialität
+
+93
+00:09:54,400 --> 00:09:59,920
+denn da dann zum Vorschein kommt, also was ist, um in der Analogie zu bleiben, was ist der Körper
+
+94
+00:09:59,920 --> 00:10:06,920
+des Digitalen beim Tanzen des Digitalen? Ja, das sind mehrere Konstellationen. Also der Körper des
+
+95
+00:10:06,920 --> 00:10:14,320
+Digitalen, einfach technisch betrachtet, sind erstmal die Signale und die elektronischen Signale
+
+96
+00:10:14,320 --> 00:10:21,480
+oder die optischen, akustischen, die generiert werden durch unsere Geräte und dann die Geräte,
+
+97
+00:10:21,480 --> 00:10:28,080
+natürlich die Hardware, da ist die Materialität und natürlich auch, woher die Rohstoffe dann
+
+98
+00:10:28,080 --> 00:10:34,840
+dazu kommen zum Beispiel und wie das produziert wird, da kommt ganz stark natürlich die Frage der
+
+99
+00:10:34,840 --> 00:10:41,120
+Materialität ins Spiel oder eben auch unsere Infrastrukturen, die das ermöglichen, das digitale,
+
+100
+00:10:41,120 --> 00:10:47,120
+also die Digitalisierung, die Kabel, überall, die sind ja versteckt in den Wänden und so oder in
+
+101
+00:10:47,120 --> 00:10:54,000
+den Böden, im Boden drin, aber die sind da, das ist alles materiell, genau. Es gibt natürlich viele
+
+102
+00:10:54,000 --> 00:11:00,520
+Leute, die behaupten, das digitale sei immateriell, aber wenn man genau hinschaut eben, dann ist es
+
+103
+00:11:00,520 --> 00:11:05,800
+sehr materialistisch oder sehr, sehr materiell gedacht und das sind dann die ganzen auch Fragen
+
+104
+00:11:05,800 --> 00:11:12,560
+dann von Macht und Ökonomie und so weiter, die da eine Rolle spielen. Genau, eben auch die Fragen nach
+
+105
+00:11:12,560 --> 00:11:18,120
+Alternativen in der Digitalität kommen dann natürlich nochmal recht konkret eben auch zum
+
+106
+00:11:18,120 --> 00:11:26,720
+Vorschein und ein Weg oder ein Zugang über den du dich dieser Frage nach den Alternativen
+
+107
+00:11:26,720 --> 00:11:31,800
+widmest, also ein Zugang, den du nutzt, um dich diesen Fragen widmen zu können, ist der Zusammenhang
+
+108
+00:11:31,800 --> 00:11:38,400
+von, sagen wir mal, Computation und Kommunismus. Du schlägst nämlich vor, Computation und
+
+109
+00:11:38,400 --> 00:11:44,120
+kommunistische Kooperation stärker miteinander verschränkt zu denken und bevor wir uns das jetzt
+
+110
+00:11:44,200 --> 00:11:48,440
+vielleicht ein bisschen genauer angucken, wie das konkret aussehen könnte, finde ich es gut,
+
+111
+00:11:48,440 --> 00:11:53,880
+wenn wir uns noch der Frage zuwenden, wie du das sagen vorher einmal auseinander nimmst in
+
+112
+00:11:53,880 --> 00:11:59,680
+Bezug auf eine, sagen wir mal, kapitalistische Computation, wenn man so will. Du führst da
+
+113
+00:11:59,680 --> 00:12:04,760
+nämlich eine Differenzierung verschiedener Operationen innerhalb der profitorientierten
+
+114
+00:12:04,760 --> 00:12:11,800
+und konkurrenzverstärkenden Kooperativität ein und diese Differenzierung, die fand ich sehr
+
+115
+00:12:11,880 --> 00:12:20,440
+hilfreich und auch sehr spannend, muss ich sagen, als so eine Art von Klassifikation und dadurch
+
+116
+00:12:20,440 --> 00:12:25,480
+auch eine Form von Orientierung, mit Hilfe derer man dann später über Alternativen nachdenken
+
+117
+00:12:25,480 --> 00:12:30,120
+kann. Das fand ich also eigentlich ganz schön, wie du das da aufgefächert hast. Vielleicht kannst du
+
+118
+00:12:30,120 --> 00:12:35,360
+uns zunächst mal kurz erläutern, wie du den Begriff der Operation in diesem Zusammenhang
+
+119
+00:12:35,440 --> 00:12:40,840
+verwendest und dann auf die drei Klassen von Operationen eingehen, die du da zur
+
+120
+00:12:40,840 --> 00:12:48,560
+Analyse einführst. Ja, das ist ganz gut. Das ist genau auch einer der wichtigen Punkte. Also ich
+
+121
+00:12:48,560 --> 00:12:54,200
+versuche im Buch, mich auf die Operationen, Operativität zu konzentrieren. Die Operation
+
+122
+00:12:54,200 --> 00:13:00,320
+hat ja, ist interessant für mich, weil die eben auch wieder dieses Körperliche, also die Arbeit,
+
+123
+00:13:00,320 --> 00:13:08,000
+Operare, Operation, die Arbeit mitdenkt oder denken lässt und aber gleichzeitig eben dieses
+
+124
+00:13:08,000 --> 00:13:12,160
+mathematische auch dabei ist. Mathematische Operation, die Multiplikation und so weiter.
+
+125
+00:13:12,160 --> 00:13:18,360
+Und dann versuche ich eben, das Digitale oder Digitalität durch diesen Filter der Operativität
+
+126
+00:13:18,360 --> 00:13:24,080
+zu betrachten und dann habe ich, das machen ja auch viele andere, versuche ich so eine Art,
+
+127
+00:13:24,080 --> 00:13:30,760
+so ein Schichtenmodell zu denken. Oder ich stelle mir das so vor und da ist die erste Schicht,
+
+128
+00:13:30,760 --> 00:13:36,320
+oder man könnte sagen, kommt darauf an, wo man anfängt. Aber die erste Schicht ist eigentlich
+
+129
+00:13:36,320 --> 00:13:44,080
+so eine Art Schicht der Machtoperationen, die eben beherrschen, zerstören, extrahieren,
+
+130
+00:13:44,080 --> 00:13:51,280
+korrelieren, diskriminieren, ausschließen oder eben auch ignorieren. Und dann gibt es vielleicht eine
+
+131
+00:13:51,280 --> 00:13:57,520
+zweite Schicht, darunter oder darüber, die Kontroll- oder Differenzierungs- und
+
+132
+00:13:57,520 --> 00:14:03,480
+Vereinnahmungsoperationen, wie etwa, die sind dann ein bisschen neutraler, könnte man sagen. Also
+
+133
+00:14:03,480 --> 00:14:13,480
+regeln, vergleichen, skalieren, zerlegen. Und dann gibt es drittens nochmals eine Schicht der
+
+134
+00:14:13,480 --> 00:14:19,400
+arithmetischen Grundoperationen, könnte man sagen, wie adhieren, subtrahieren, multiplizieren,
+
+135
+00:14:19,560 --> 00:14:26,960
+dividieren. Ja, und die bauen dann aufeinander auf. Und wie gesagt, es gibt auch andere Modelle,
+
+136
+00:14:26,960 --> 00:14:31,440
+die auch so ähnlich operieren, wo man, wenn man dann die Protokolle erklärt,
+
+137
+00:14:31,440 --> 00:14:35,520
+Kommunikationsprotokolle, da geht es dann mehr so um das Physikalische. Also unten sind dann die
+
+138
+00:14:35,520 --> 00:14:40,920
+physikalischen Prozesse, die in den Kabel stattfinden. Und da gibt es logische Prozesse,
+
+139
+00:14:40,920 --> 00:14:48,720
+die darauf aufbauen und so weiter. Prozesse, die die Verbindung garantieren und bis dann zu
+
+140
+00:14:49,040 --> 00:14:58,480
+der Benutzeroberfläche. Und das war so ein bisschen das Modell. Und dadurch, dass eben diese grobe
+
+141
+00:14:58,480 --> 00:15:05,040
+Struktur, diese drei Schichten dann, wenn man das so ein bisschen in den Blick rückt, dann kann man
+
+142
+00:15:05,040 --> 00:15:10,400
+eben theoretisch auch an der untersten Ebene ansetzen, also der Ebene der arithmetischen
+
+143
+00:15:10,400 --> 00:15:17,240
+Operationen oder vielleicht auch ein bisschen darüber, wo verglichen wird oder geregelt. Und
+
+144
+00:15:17,240 --> 00:15:24,440
+da kann man da auch versuchen, eben alternative Strukturen oder alternative Operativitäten dann
+
+145
+00:15:24,440 --> 00:15:30,680
+auszutesten oder da könnte man ansetzen. Das ist so ein bisschen die Idee, um eben diese solidarisch
+
+146
+00:15:30,680 --> 00:15:37,160
+kommunistische Operativität zu zeitigen. Ja, das finde ich total spannend. Also wie gesagt,
+
+147
+00:15:37,160 --> 00:15:41,440
+ich fand, dass das nämlich in dieser Aufstellung auch bestimmte Dinge sichtbar macht,
+
+148
+00:15:41,440 --> 00:15:46,720
+also nämlich sowohl, wie gesagt, in Bezug auf die Frage, wie könnten eben alternative
+
+149
+00:15:46,720 --> 00:15:55,200
+Operationen aussehen oder wie könnte man sowas wie vergleichen, vielleicht auch anders angehen.
+
+150
+00:15:55,200 --> 00:16:01,240
+Aber ich finde, es kommt zum Beispiel auch zutage, dass jetzt in Bezug auf das, was du als erste
+
+151
+00:16:01,240 --> 00:16:07,840
+Ebene beschrieben hast, nämlich die Machtoperation, dass man sich derer auch nicht gänzlich
+
+152
+00:16:07,840 --> 00:16:13,400
+entledigen können wird. Also dieses, es geht nicht, nicht regiert zu werden zum Beispiel. Als so ein
+
+153
+00:16:13,400 --> 00:16:18,640
+Zugang finde ich auch da auf einer anderen Art und Weise eigentlich auch wieder auf, dass es nicht
+
+154
+00:16:18,640 --> 00:16:24,040
+möglich ist, sich überhaupt mal Formen der Vermachtung sozusagen gänzlich zu entziehen,
+
+155
+00:16:24,040 --> 00:16:28,840
+sondern dass man sich dann eigentlich fragen muss, wie geht man die anders an. Weil jetzt die erste
+
+156
+00:16:28,840 --> 00:16:34,360
+Ebene, die hat es ja benannt als beherrschen, zerstören, extrahieren, korrelieren, diskriminieren,
+
+157
+00:16:34,360 --> 00:16:39,840
+ausschließen oder ignorieren. Und wenngleich bei manchen Sachen, man vielleicht klarer sagen kann,
+
+158
+00:16:39,840 --> 00:16:45,840
+okay beherrschen, das wollen wir in jedem Fall sozusagen überwinden. Ja, also das ist möglich
+
+159
+00:16:45,840 --> 00:16:50,880
+und da streben wir nach, sage ich jetzt mal in einem diffusen Plural, ist es bei anderen Sachen
+
+160
+00:16:50,880 --> 00:16:55,640
+wiederum relativ offensichtlich, finde ich, dass es nicht komplett ohne gehen wird. Also zum
+
+161
+00:16:55,640 --> 00:17:02,200
+Beispiel extrahieren ist was, was man natürlich zu Recht jetzt heutigen Wirtschaftsformen vorwirft,
+
+162
+00:17:02,200 --> 00:17:07,720
+insofern als dass es quasi eine Grundlogik ist, eine extraktive Logik, auf der sozusagen
+
+163
+00:17:07,720 --> 00:17:11,200
+kapitalistisches Wirtschaften fußt. Aber nichtsdestotrotz wird zum Beispiel ein
+
+164
+00:17:11,200 --> 00:17:18,760
+kommunistisches Wirtschaften natürlich auch in irgendeiner Form extrahieren müssen, aber dann
+
+165
+00:17:18,760 --> 00:17:23,440
+eben in einer anderen Art und Weise, in einer anderen Form der Formatierung, in einer anderen
+
+166
+00:17:23,520 --> 00:17:30,760
+Form auch der Bewusstmachung solcher Operationen als Elemente des in dem Fall kommunistischen
+
+167
+00:17:30,760 --> 00:17:35,960
+Regierens, wenn man so will. Ja, ähnliches gilt dann auch für korrelieren und interessanterweise
+
+168
+00:17:35,960 --> 00:17:41,320
+auch für die Frage des Ausschließens. Das war was, was mir in deinem Buch auch aufgefallen ist,
+
+169
+00:17:41,320 --> 00:17:46,760
+wo sozusagen diese Frage des Ausschlusses so ein bisschen changierend behandelt worden ist.
+
+170
+00:17:46,760 --> 00:17:51,640
+Auf der einen Seite votierst du eigentlich dafür zu sagen, du möchtest eigentlich den Ausschluss
+
+171
+00:17:51,640 --> 00:17:57,000
+ausschließen, also du willst sozusagen nicht mit Ausschlüssen operieren müssen. Auf der anderen
+
+172
+00:17:57,000 --> 00:18:02,280
+Seite gibt es auch Elemente, in denen dann der Ausschluss wieder hineinkommt. Vielleicht
+
+173
+00:18:02,280 --> 00:18:09,040
+können wir das mal so als einen Anker nehmen, um uns der Frage zuzuwenden, wie diese Operationen
+
+174
+00:18:09,040 --> 00:18:14,520
+denn anders aussehen könnten, wie innerhalb alternativer Formen der kommunistischen
+
+175
+00:18:14,520 --> 00:18:20,680
+Kooperativität, wie da solche Operationen auf diesen verschiedenen Ebenen auch gedacht werden
+
+176
+00:18:20,680 --> 00:18:28,000
+können. Ja, schön. Ich würde aber trotzdem sagen, dass sowas wie Zerstören, das sollten wir ja schon
+
+177
+00:18:28,000 --> 00:18:34,800
+versuchen zu vermeiden. Und Zerstören, also vielleicht würde man das dann anders nennen. Also
+
+178
+00:18:34,800 --> 00:18:40,040
+Zerstören ist ja schon eine starke Machtoperation, weil man davon ausgeht, dass dann das, was man
+
+179
+00:18:40,040 --> 00:18:49,000
+zerstört, auch dass es wertlos ist. Und sowas wie Abfall und zum Beispiel eben auch Leute,
+
+180
+00:18:49,000 --> 00:18:55,960
+politische Philosophien wie Eva von Redeka, die sagen ja auch, dass das dann ganz stark mit dem
+
+181
+00:18:55,960 --> 00:19:02,120
+Eigentum oder mit der Idee des Eigentums zusammenhängt. Aber wenn wir jetzt das alles
+
+182
+00:19:02,120 --> 00:19:07,920
+gemeinsam sozusagen teilen und organisieren wollen, dann können wir vielleicht auch gewisse
+
+183
+00:19:07,920 --> 00:19:13,360
+Dinge gar nicht mehr zerstören, weil wir dann eben auch keine Verfügungsmacht haben, sondern weil wir
+
+184
+00:19:13,360 --> 00:19:18,800
+das auch diskutieren wollen und fragen wollen, ob da jemand vielleicht jemand anderes das benutzen
+
+185
+00:19:18,800 --> 00:19:24,880
+möchte oder ob für jemanden ist dann das, was wir als Abfall bezeichnen, vielleicht keine Abfall
+
+186
+00:19:24,880 --> 00:19:30,920
+und so weiter. Ja, ja, genau. Vielleicht muss ich mich da bis zu einem gewissen Grad korrigieren,
+
+187
+00:19:30,920 --> 00:19:35,400
+beziehungsweise würde ich dir folgen, dass man vielleicht dann andere Begriffe dafür finden
+
+188
+00:19:35,400 --> 00:19:40,480
+könnte oder so. Ich glaube, woran ich denken musste, da gibt es Elemente im Denken von Donna
+
+189
+00:19:40,480 --> 00:19:44,920
+Haraway, wo sie versucht, das herauszustellen, dass es quasi, es gibt nicht diesen Ort der
+
+190
+00:19:44,920 --> 00:19:49,480
+Unschuldigkeit, wenn man so will, der totalen Unschuldigkeit, sondern die Weltverhältnisse
+
+191
+00:19:49,480 --> 00:19:55,680
+sind immer auch bis zu einem gewissen Grad eben in Anführungsstrichen zerstörend, ob dann das Wort
+
+192
+00:19:55,680 --> 00:20:02,000
+besser ein anderes sein müsste, weil eine Bewusstmachung dieses Aspekts dann zu einem
+
+193
+00:20:02,000 --> 00:20:07,520
+anderen, zu einer anderen Beziehungsweise führen kann oder so. Das mag sein, aber trotzdem, es gibt
+
+194
+00:20:07,520 --> 00:20:14,480
+keinen Ort der absoluten Unschuldigkeit, sage ich jetzt mal, ein bisschen polemisch überspitzt.
+
+195
+00:20:14,480 --> 00:20:19,640
+Das war, glaube ich, so die Richtung, die ich da mit hineinbringen wollte und ähnliches ist eben,
+
+196
+00:20:19,640 --> 00:20:26,920
+wie gesagt, in Bezug auf die Frage des Ausschlusses ja auch interessant, sich zu fragen, wie ist das
+
+197
+00:20:26,920 --> 00:20:32,960
+denkbar? Also die Frage des Ausschlusses, in dem Fall jetzt in einer von dir imaginierten
+
+198
+00:20:32,960 --> 00:20:37,520
+kommunistischen Kooperativität ist das ja durchaus etwas, was nochmal spannend wird,
+
+199
+00:20:37,520 --> 00:20:43,680
+zu verhandeln. Gibt es den nicht und wenn es ihn doch gibt, was geht damit einher? Ich glaube,
+
+200
+00:20:43,680 --> 00:20:48,920
+in irgendeiner der Textpassagen bei dir knüpft du es dann an Form der Verantwortlichkeit und
+
+201
+00:20:48,920 --> 00:20:54,120
+führst damit aber eigentlich doch auch wieder Form des Ausschlusses mit ein. Genau, das fand
+
+202
+00:20:54,120 --> 00:20:59,680
+ich einfach spannend, dass eigentlich ja dieses Aufzeigen oder Aufdröseln der verschiedenen
+
+203
+00:20:59,680 --> 00:21:03,920
+Operationen auf den unterschiedlichen Ebenen eigentlich die Dinge dann nochmal anders
+
+204
+00:21:03,920 --> 00:21:12,400
+verhandelbar, besprechbar, adressierbar machen sozusagen. Ja, es kommt auf den Bezug drauf an,
+
+205
+00:21:12,400 --> 00:21:18,520
+wie man dann auf diese Operation, also wie gültig die ist zum Beispiel auch, ob man die dann auch
+
+206
+00:21:18,520 --> 00:21:24,880
+wieder zurücknimmt oder dann ändert. Vielleicht kann man etwas ausschließen, aber nur für den
+
+207
+00:21:24,880 --> 00:21:31,040
+Moment und dann, um das dann wieder gut zu machen oder irgendwie anders zu lösen oder sowas. Dieses
+
+208
+00:21:31,040 --> 00:21:36,920
+Adaptive, das ist mir wichtig, dass man nicht sagt, ja so ist es. Das ist ja dann eben auch
+
+209
+00:21:36,920 --> 00:21:42,080
+eine Machtoperation, dass man sagt, so und so ist es, das ist mein Eigentum oder dass dieses
+
+210
+00:21:42,080 --> 00:21:50,760
+Gesetz gilt und es kann nicht abgeendet werden. Wie sehr gilt es da jeweils das Rat quasi nochmal
+
+211
+00:21:51,120 --> 00:21:55,920
+zu erfinden? Also weil ich mich auch frage, wenn du diese Sachen durchdeklinierst, diese
+
+212
+00:21:55,920 --> 00:22:00,560
+verschiedenen Ebenen der Operationen, zum Beispiel bei Regeln, Vergleichen, Skalieren,
+
+213
+00:22:00,560 --> 00:22:07,800
+zerlegen, ist das zum Beispiel was, wo du das Gefühl hättest, das kann eigentlich mehr oder
+
+214
+00:22:07,800 --> 00:22:15,000
+minder in ähnlichen Funktionslogiken auch für alternative Projekte, sagen, furchtbar gemacht
+
+215
+00:22:15,000 --> 00:22:21,760
+werden. Was, also gilt es da nochmal genauer hineinzugehen und sozusagen anzugucken, okay,
+
+216
+00:22:21,760 --> 00:22:27,360
+wie genau wird da zerlegt, nach welchen Parametern wird zerlegt, nach welchen Parametern wird
+
+217
+00:22:27,360 --> 00:22:32,120
+verglichen und ich meine, beim Regeln ist es vielleicht am offensichtlichsten, weil da ist
+
+218
+00:22:32,120 --> 00:22:39,000
+ja irgendwie relativ klar, okay, dass das Regeln politisiert gehört sozusagen. Gilt es für jeder
+
+219
+00:22:39,000 --> 00:22:44,720
+einzelne der Operationen, die du da beschreibst, dass die eigentlich in anderen, in alternativen
+
+220
+00:22:44,720 --> 00:22:51,080
+Kontexten der kommunistischen Kooperation eigentlich auch nochmal neu jeweils angeguckt
+
+221
+00:22:51,080 --> 00:22:58,000
+und in ihren situativen Einsatzbereichen quasi neu bewertet gehören? Ja, auf jeden Fall. Also
+
+222
+00:22:58,000 --> 00:23:04,760
+man muss die immer wieder reflektieren hinterfragen und auch überlegen, wenn ich jetzt diese Regel
+
+223
+00:23:04,760 --> 00:23:10,480
+hier ändere, was passiert dann? Und dazu ist das, das ist so ein bisschen meine Idee, dass man das
+
+224
+00:23:10,480 --> 00:23:18,480
+eben mit Simulationsmodellen, mit Computation dann versucht vorherzusagen oder zu sehen, was das
+
+225
+00:23:18,480 --> 00:23:23,200
+bewirkt, weil wir können, wenn wir die Regel einfach ändern, wir können zwar die, das können
+
+226
+00:23:23,200 --> 00:23:29,400
+wir tun, aber wir können uns irgendwie nicht gut vorstellen, wie sich das auswirkt auf den Gesamtzusammenhang,
+
+227
+00:23:29,400 --> 00:23:36,360
+könnte man sagen. Und das ist eben, glaube ich, die Kraft und Macht von Computermodellen. Man muss
+
+228
+00:23:36,400 --> 00:23:42,080
+die natürlich auch kritisch betrachten, weil die sollen jetzt keine Repräsentation sein von der
+
+229
+00:23:42,080 --> 00:23:47,760
+Realität oder so. Das gibt es auch viel. Solche Missverständnisse dann, dass Computermodelle oder
+
+230
+00:23:47,760 --> 00:23:53,360
+Simulationen dann eben die Realität abbilden, sondern die, nein, also die eigentlich ist es
+
+231
+00:23:53,360 --> 00:24:00,400
+immer so, dass die ja auch alles verkomplizieren. Sagt ja auch Klaus Pias, der Medienwissenschaftler,
+
+232
+00:24:00,400 --> 00:24:06,040
+dem ich mich beziehe, der hat sehr viel über Simulationen und Computermodelle geschrieben und
+
+233
+00:24:06,040 --> 00:24:13,000
+der sagt, da ist eben sowas wie ein hypothetischer Index immer dabei beim Computermodellieren. Es ist
+
+234
+00:24:13,000 --> 00:24:21,200
+eine Art Fiktion, eine Art Konstruktion. Aber das ist eben, das könnte hilfreich sein, wenn wir über
+
+235
+00:24:21,200 --> 00:24:28,880
+diese Operationen nachdenken. Und es ist dann, und dann von Fall zu Fall, wenn wir dann, wenn Leute
+
+236
+00:24:28,880 --> 00:24:34,880
+dann zusammenkommen und diese Sichtweise hätten dann auf Operativität, auf die Regeln dann und
+
+237
+00:24:34,880 --> 00:24:42,680
+vielleicht kommt dann jemand auf die Idee, ja, lass uns das mal modellieren. Dann bringt das,
+
+238
+00:24:42,680 --> 00:24:48,040
+glaube ich, der Diskussion und dem Projekt, könnte das, sozusagen, helfen. Das ist so die
+
+239
+00:24:48,040 --> 00:24:53,840
+ganz einfache Idee. Ja, lass doch da dann vielleicht einfach noch mal ein bisschen
+
+240
+00:24:53,840 --> 00:24:57,600
+genauer drauf eingehen, weil die Zuhörerinnen und Zuhörer jetzt den Kontext noch gar nicht so
+
+241
+00:24:57,600 --> 00:25:03,920
+gut kennen. Nämlich, was du da vorschlägst, ist ja eigentlich ein experimentelles, vielleicht auch
+
+242
+00:25:03,920 --> 00:25:10,840
+spielerisches, vielleicht auch tanzendes, Arbeiten mit Agent-Based Modeling, also agentenbasiertem
+
+243
+00:25:10,840 --> 00:25:16,120
+Modellieren. Das wird jetzt vielen wahrscheinlich zunächst mal kein Begriff sein. Worum handelt es
+
+244
+00:25:16,120 --> 00:25:23,200
+sich denn da beim agentenbasierten Modellieren? Ja, das sind Modelle, die eben suchen von Bottom-Up,
+
+245
+00:25:23,200 --> 00:25:32,640
+dynamische Prozesse zu simulieren und es werden im Regeln in diesen sogenannten Agenten eingebaut.
+
+246
+00:25:32,640 --> 00:25:37,880
+Das sind dann eben so, eigentlich dann, wenn man es visualisiert, sind das so einzelne Punkte auf
+
+247
+00:25:37,880 --> 00:25:47,560
+einer Fläche zum Beispiel. Und dann kann man sagen, was der Punkt, wie der sich bewegt und was
+
+248
+00:25:47,560 --> 00:25:59,400
+passiert, wenn sich zwei Punkte treffen oder ob er springt und so weiter. Das ist dann der Agent und
+
+249
+00:25:59,400 --> 00:26:08,520
+damit kann man eben auch verschiedene Prozesse dann, wie das dann sozusagen dynamisch zusammenspielt,
+
+250
+00:26:08,520 --> 00:26:15,640
+also sowas wie Schwarmprozesse kann man damit simulieren. Also da kommen wir eigentlich,
+
+251
+00:26:15,640 --> 00:26:22,440
+finde ich, sofort so ein paar Fragen auf. Also du hattest jetzt eben schon so bestimmte Zuschreibungen
+
+252
+00:26:22,440 --> 00:26:31,160
+genannt, die man dann eben den Agenten, Agentinnen gibt. Aber es ist ja eigentlich dann sofort so,
+
+253
+00:26:31,160 --> 00:26:37,040
+dass man sich fragt, okay, zum einen, welche Parameter sind das, die dazugeschrieben werden
+
+254
+00:26:37,040 --> 00:26:43,080
+und auf Basis welcher Paradigmen wird da sozusagen gearbeitet in Bezug auf die Modellierung der
+
+255
+00:26:43,080 --> 00:26:47,280
+einzelnen Agentinnen und Agenten. Weil, also ich meine, ich habe das mitgekriegt, dass bei dem
+
+256
+00:26:47,280 --> 00:26:52,760
+Forschungsprojekt die Gesellschaft nach dem Geld, die das auch versuchen, mit Form des Agent-based
+
+257
+00:26:52,760 --> 00:27:00,600
+Modelling eigentlich eine postkapitalistische Gesellschaft nach dem Geld zu simulieren. Und
+
+258
+00:27:00,600 --> 00:27:05,600
+ansonsten ist es mir eigentlich eben nur so aus den Wirtschaftswissenschaften so ein bisschen
+
+259
+00:27:05,600 --> 00:27:10,360
+ein Begriff, dass es da halt auch immer wieder verwendet wird und dass dort aber zum Beispiel
+
+260
+00:27:10,360 --> 00:27:15,200
+die Agentinnen und Agenten dann auf Basis der sogenannten bounded rationality, also einer
+
+261
+00:27:15,200 --> 00:27:21,240
+Abwandlung des homo economicus, der eben dann nicht mehr hyper rational ist, sondern eben nur
+
+262
+00:27:21,240 --> 00:27:26,960
+bedingt rational bounded rational, deswegen bounded rationality, der noch bedingt rational ist,
+
+263
+00:27:26,960 --> 00:27:34,200
+das ist auf Basis dessen dann eigentlich diese Agentinnen und Agenten modelliert werden. Also
+
+264
+00:27:34,200 --> 00:27:38,520
+ich finde, es kommt dann einfach schon nochmal sofort quasi die Frage auf, auf Basis welcher
+
+265
+00:27:38,520 --> 00:27:45,760
+paradigmatischen Grundannahmen sagen diese Agentinnen und Agenten dann entstehen. Und mich
+
+266
+00:27:45,760 --> 00:27:50,280
+würde es interessieren, wie tief du da eigentlich eingetaucht bist. Also hast du dir das genauer
+
+267
+00:27:50,280 --> 00:27:55,680
+angeguckt, also wie viel da eigentlich möglich ist auf der einen Seite, ja. Und das andere ist
+
+268
+00:27:55,680 --> 00:28:00,720
+halt dann die Frage, dass es mir beim Lesen des Buches halt auch so ein bisschen die Frage,
+
+269
+00:28:00,720 --> 00:28:06,840
+ich mir die Frage gestellt habe. Auf der einen Seite betonst du so dieses körpergebundene,
+
+270
+00:28:06,840 --> 00:28:12,960
+also dadurch, dass du ja eben Digitalität tanzen willst, ja, bringst du das körpergebundene,
+
+271
+00:28:12,960 --> 00:28:20,680
+das materielle sozusagen hinein und betonst dessen Wichtigkeit und auch Stärke im Zusammenhang mit
+
+272
+00:28:20,680 --> 00:28:26,040
+Digitalität. Und beim agent-based modeling hätte man ja eigentlich das Gefühl, dass das gerade
+
+273
+00:28:26,040 --> 00:28:32,160
+darauf basiert, dass man meint, man könne sozusagen die Körperlichkeit eigentlich jetzt weglassen,
+
+274
+00:28:32,160 --> 00:28:38,400
+um auf Basis dessen dann sozusagen in einem abstrahierten Raum quasi das Geschehen eben zu
+
+275
+00:28:38,400 --> 00:28:44,960
+simulieren. Und auf eine Art habe ich mich gefragt, warum es da eigentlich so ein Auseinanderklappen
+
+276
+00:28:44,960 --> 00:28:48,320
+gibt. Oder ich fand es eigentlich interessant, sagen wir es so, dass du da eigentlich dann für
+
+277
+00:28:48,320 --> 00:28:53,160
+dieses agent-based modeling dich so begeisterst, wo das doch eigentlich gerade die Körperlichkeit
+
+278
+00:28:53,160 --> 00:28:57,000
+vermissen lässt. Und damit will ich nicht sagen, dass es nicht auch spannend sein könnte, mit
+
+279
+00:28:57,000 --> 00:29:02,680
+agent-based modeling zu arbeiten. Aber ich für mich habe sozusagen das noch nicht ganz auch fassen
+
+280
+00:29:02,680 --> 00:29:10,120
+können. Also wie man das, wie man da dran gehen kann, ohne diese doppelten Auslassungen oder
+
+281
+00:29:10,120 --> 00:29:14,040
+wahrscheinlich mehrfachen, nicht nur doppelten, mehrfachen Auslastungen von sowohl Körperlichkeit
+
+282
+00:29:14,040 --> 00:29:20,320
+als auch eben Reflektion über die paradigmatischen Grundlagen sozusagen, wie man das dann angehen
+
+283
+00:29:20,320 --> 00:29:29,680
+kann und was dabei rauskäme. Ja, das sind jetzt mehrere Fragen drin. Also du hast ja angefangen mit
+
+284
+00:29:29,680 --> 00:29:37,840
+der Feststellung, dass es darum geht, die eigenen Prämisten dann und Parameter und Einstellungen,
+
+285
+00:29:37,840 --> 00:29:42,960
+was dann modelliert wird, dass das sozusagen in den Blick rückt, wenn man anfängt darüber
+
+286
+00:29:42,960 --> 00:29:47,480
+nachzudenken. Und das ist ja genau der Effekt eigentlich, der mir auch wichtig ist, wenn man
+
+287
+00:29:47,480 --> 00:29:54,480
+modelliert, dass man dann eben über die eigenen Vorteile und Regeln, die man schon irgendwie,
+
+288
+00:29:54,480 --> 00:29:58,240
+die man vielleicht nicht reflektiert, die man dann aber irgendwie einprogrammiert und dann merkt man,
+
+289
+00:29:58,240 --> 00:30:04,160
+ah, Moment, das ist ja vielleicht eine Regel oder etwas, was ich einfach angenommen habe,
+
+290
+00:30:04,160 --> 00:30:10,400
+aber oder das wir, das macht man ja eben auch zusammen, angenommen haben. Vielleicht ist es ja auch,
+
+291
+00:30:10,400 --> 00:30:17,160
+könnte es auch anders sein. Dieses Zusammenspiel von Modellierung, dann eben Abänderung der Regeln
+
+292
+00:30:17,160 --> 00:30:22,040
+und so weiter. Das ist, da liegt auch sozusagen der Reiz, dass das ja so eine Art kritische Praxis
+
+293
+00:30:22,040 --> 00:30:29,280
+ist, die ganz, die vielleicht auch nützlich ist, weil wir können ja schon zum Beispiel Dinge
+
+294
+00:30:29,280 --> 00:30:38,520
+aufzeichnen und Karten entwerfen und das dann so und damit auch diskutieren oder was auch schon
+
+295
+00:30:38,520 --> 00:30:44,280
+lange gemacht wird, sind halt so Filme zu machen oder Fotografien und so und dann irgendwie Dinge
+
+296
+00:30:44,400 --> 00:30:50,880
+sichtbar zu machen. Aber eben dieses Modellieren, dieses Arbeiten mit diesen, mit Computation und
+
+297
+00:30:50,880 --> 00:30:55,720
+vor allem eben dieses agentenbasierte Modell. Das ist so vielleicht etwas, was man noch stärker in,
+
+298
+00:30:55,720 --> 00:31:01,080
+es gibt ja, es gibt schon das als kulturelle Praxis etwa so mit, also ich denke dann eben auch
+
+299
+00:31:01,080 --> 00:31:07,280
+so an Rollenspielen oder an Computerspiele vielleicht. Da gibt es auch eine interessante
+
+300
+00:31:07,280 --> 00:31:14,000
+Überladung von Körperlichkeit oder als rein digitalen Sachen. Da gibt es schon eine kulturelle
+
+301
+00:31:14,000 --> 00:31:18,880
+Praxis, aber es gibt nicht so eine Art aktivistische Praxis oder eine Lebenspraxis,
+
+302
+00:31:18,880 --> 00:31:24,720
+wo wir auch irgendwie ständig modellieren oder irgendwie das dann durchspielen und so. Und das
+
+303
+00:31:24,720 --> 00:31:29,320
+ist vielleicht auch der zweite Punkt, den du angesprochen hast, eben die Frage, wie das dann
+
+304
+00:31:29,320 --> 00:31:35,200
+zusammenkommt. Und für mich kommt das eben da zusammen, wo man dann eben diese Modelle versucht,
+
+305
+00:31:35,200 --> 00:31:42,960
+auch durchzuführen. Also man kann das eben auf der Ebene des Tances oder so von Tanzexperimenten,
+
+306
+00:31:42,960 --> 00:31:48,400
+könnte man sagen, kann man das ja eigentlich ganz gut machen. Es gibt da verschiedene Modelle zum
+
+307
+00:31:48,400 --> 00:31:54,480
+Beispiel. Das ist dann eher so auf der abstrakten spielerischen Ebene von so Tanzchoreografien
+
+308
+00:31:54,480 --> 00:32:04,320
+vielleicht. Aber man kann das natürlich auch versuchen, auszuweiten dann auf Kooperation oder
+
+309
+00:32:04,320 --> 00:32:11,320
+auf soziopolitische Aspekte, kann man dann jetzt da reinbringen. Ich denke es an so Übungen und wenn
+
+310
+00:32:11,320 --> 00:32:17,120
+man dann diese Übungen vielleicht auf einer größeren Ebene noch bringen könnte, wo wir
+
+311
+00:32:17,120 --> 00:32:23,080
+vielleicht üben, Dinge zu teilen, kann man natürlich auch in echt durchführen, aber man
+
+312
+00:32:23,080 --> 00:32:29,200
+könnte sie auch simulieren, besuchen in einem Spiel und dann kann man das vielleicht durch
+
+313
+00:32:29,200 --> 00:32:34,960
+den Tag hindurch machen, zwischenzeitlich und könnte dann eben ausprobieren, ob das überhaupt
+
+314
+00:32:34,960 --> 00:32:43,480
+geht mit diesem kommunistischen Leben. Das ist so ein bisschen die Idee und natürlich kommt dann
+
+315
+00:32:43,480 --> 00:32:50,240
+eben das körperliche, durch das körperliche kommt dann auch, was ich auch im Buch beschrieben habe,
+
+316
+00:32:50,240 --> 00:32:57,760
+dieses, das Affektive kommt ja auch ins Spiel und beim Tanz geht es ja auch viel um solche
+
+317
+00:32:57,760 --> 00:33:05,480
+körperlichen Reaktionen eigentlich, die aber, da mache ich einen Unterschied, da muss man auch
+
+318
+00:33:05,480 --> 00:33:14,080
+einiges lernen beim Tanzen. Also es ist nicht so eine Art Zucken oder eines ganz rein strikten
+
+319
+00:33:14,080 --> 00:33:18,640
+Trainings, da gibt es auch noch den Drillen zum Beispiel, wo man wirklich strikt nur die
+
+320
+00:33:18,640 --> 00:33:23,920
+Regeln befolgt, sondern das Tanzen ist da was dazwischen so, wo man dann eben auch Dinge
+
+321
+00:33:23,920 --> 00:33:30,280
+reflektiert und auch mal stoppen kann. Das finde ich eben auch spannend an dem Tanzen als kritische
+
+322
+00:33:30,280 --> 00:33:38,760
+Praxis und ich versuche das dann eben mit diesen agent-based Models, agentenbasierten Modelle in
+
+323
+00:33:38,760 --> 00:33:45,600
+Verbindung zu bringen. Ja. Und aber vielleicht noch nachgefragt in Bezug auf diese Affektive
+
+324
+00:33:45,600 --> 00:33:50,720
+Ebene, weil ich finde das total spannend, weil auf einer Art eben, da kommt ja nochmal dann diese
+
+325
+00:33:50,720 --> 00:33:57,080
+Frage auf der Modellierbarkeit und wann eine bestimmte Form von Körperlichkeit eben dann zu
+
+326
+00:33:57,080 --> 00:34:03,320
+diesen Formen der Simulation auch hinzutritt, weil jetzt zum Beispiel diese affektiv-somatische
+
+327
+00:34:03,320 --> 00:34:10,400
+Ebene, nennst du sie glaube ich an irgendeiner Stelle, weil die ja wahrscheinlich nicht in oder
+
+328
+00:34:10,400 --> 00:34:16,880
+nicht so einfach in den agentenbasierten Modellen implementiert werden könnte, oder? Also insofern
+
+329
+00:34:17,280 --> 00:34:23,240
+wäre es nochmal interessant, wie du dir das dann vorstellst, weil wenn man jetzt sagt, man versucht
+
+330
+00:34:23,240 --> 00:34:30,720
+mithilfe von agentenbasierten Modellen zum Beispiel kommunistische Kooperativität zu simulieren,
+
+331
+00:34:30,720 --> 00:34:37,320
+um zu gucken, in welchen Kontexten das vielleicht wie ausgehen könnte, wenn man so will, ja, dann
+
+332
+00:34:37,320 --> 00:34:45,320
+stellt sich ja schon die Frage, ob das bei einer Praxis, die eigentlich doch sehr stark an diese
+
+333
+00:34:45,320 --> 00:34:50,840
+affektiv-somatische Ebene gebunden ist, an diese spezifische Form des Lernens, die sich dieser
+
+334
+00:34:50,840 --> 00:34:57,520
+spezifischen Art der Modellierbarkeit vielleicht ja auch entzieht, inwiefern dann sozusagen die
+
+335
+00:34:57,520 --> 00:35:03,640
+Ergebnisse, die auf Basis des agentenbasierten Modellierens herausgekommen sind, wenn sie dann
+
+336
+00:35:03,640 --> 00:35:09,160
+auf die Körperlichkeit treffen oder auf diese spezifische Form der Körperlichkeit treffen und
+
+337
+00:35:09,160 --> 00:35:13,560
+auch auf das affektiv-somatische, also da würde man ja dann erwarten, dass sich das eigentlich
+
+338
+00:35:13,560 --> 00:35:19,440
+doch substanziell verschiebt und quasi eigentlich anders ausgeht, wenn man so will, als das in der
+
+339
+00:35:19,440 --> 00:35:25,440
+Simulation vorher angenommen worden war. Und dann wäre es dann nochmal spannend zu sehen und zu
+
+340
+00:35:25,440 --> 00:35:31,280
+fragen so, okay, aha, was bringt es mir vielleicht trotzdem zu einer Form von Modellierung und
+
+341
+00:35:31,280 --> 00:35:35,960
+Simulation? Also insofern, genau, kommen da eigentlich diese verschiedenen Ebenen nochmal
+
+342
+00:35:35,960 --> 00:35:44,520
+neu zur Frage, was jetzt eigentlich mit sowohl den eingeschriebenen Paradigmen auf Seiten der
+
+343
+00:35:44,520 --> 00:35:52,720
+Agenten in der Simulation auf sich hat, als auch inwiefern eine affektiv-somatische Ebene,
+
+344
+00:35:52,720 --> 00:35:58,600
+die vielleicht sich dieser Modellierung entzieht, eine wichtige Basis dessen ausmacht, was du
+
+345
+00:35:58,600 --> 00:36:05,280
+eigentlich ja fördern willst, also was eigentlich diese anderen Operationen eigentlich möglich
+
+346
+00:36:05,280 --> 00:36:13,440
+machen sollen. Weiß nicht, ob das verständlich war. Ja, also ich bin komplett absolut einverstanden
+
+347
+00:36:13,440 --> 00:36:22,000
+mit das, was du gesagt hast. Also das ist ja genau das, was du beschreibst, dieses Hin und Her,
+
+348
+00:36:22,000 --> 00:36:29,520
+auch der Argumente, das ist ja das, was das bewirken soll, wenn wir uns mit der Frage,
+
+349
+00:36:29,520 --> 00:36:36,800
+ob man das modellieren kann, auseinandersetzen. Also das ist genau das und ich sehe das schon,
+
+350
+00:36:36,800 --> 00:36:44,360
+und es ist eben interessant, dieses Zusammenspiel von Software oder von Computation mit dann mit dem
+
+351
+00:36:44,360 --> 00:36:50,760
+Tanzen oder mit dem Menschlichen, und es gibt ja noch andere, es gibt auch tierisch und biologisch,
+
+352
+00:36:50,760 --> 00:36:56,760
+wenn man sagt, lebendig, mit dem Lebendigen, dieses Zusammenspiel, das ist das Spannende. Also es geht
+
+353
+00:36:56,760 --> 00:37:04,440
+eben nicht nur darum, das dann irgendwie im Computer zu simulieren, sondern eben dann davon zu
+
+354
+00:37:04,440 --> 00:37:10,080
+überlegen und die Effekte, die dann dieses Modellieren dann bewirkt und vielleicht und auch
+
+355
+00:37:10,080 --> 00:37:15,320
+unbedingt die Kritik dann an dem Modell, dass das vielleicht auch falsch ist, das Modell, und dass
+
+356
+00:37:15,320 --> 00:37:21,600
+wir das dann ändern müssen und so weiter. Oder dass eben das Modell, wie gesagt, wie ich vorher
+
+357
+00:37:21,600 --> 00:37:29,240
+schon angedeutet habe, eben zurück, dass es wie ein Spiegel ist, der dann auf unsere Gewohnheiten
+
+358
+00:37:29,240 --> 00:37:37,400
+oder unsere Vorteile dann zurück, der die zurückspiegelt und die so sichtbar macht. Genau,
+
+359
+00:37:37,400 --> 00:37:43,920
+und das ist ja, das könnte glaube ich sehr nützlich sein, und das ist so eine Art Herangehensweise an
+
+360
+00:37:43,920 --> 00:37:53,360
+Technologien, die ja vielleicht erstmal so ein bisschen optimistisch klingt, aber ich berufe mich
+
+361
+00:37:53,360 --> 00:38:01,560
+auch hier auf die genannte Donna Haraway, die ja eben bekanntlich von dem Cyborg spricht,
+
+362
+00:38:01,560 --> 00:38:07,440
+der so als Modell auch gehen könnte, um eben mit Technologien umzugehen. Und der Cyborg ist eine
+
+363
+00:38:07,440 --> 00:38:15,360
+ironische Figur, also die ist selbstreflektiv und weiß auch eben, weiß die negativen Eigenschaften
+
+364
+00:38:15,360 --> 00:38:21,680
+oder Effekte von Technologien, aber auch die positiven. Und bei ihr spielt eben auch die Rolle
+
+365
+00:38:21,680 --> 00:38:26,520
+der Fabulation und des Fiktional auch ganz eine wichtige Rolle, und dass wir das eben zusammen
+
+366
+00:38:26,520 --> 00:38:34,160
+machen. Sie spricht dann auch von Symposes und so weiter. Und das ist eigentlich dieser Punkt,
+
+367
+00:38:34,160 --> 00:38:43,280
+wo wir angefangen haben bei den Operatoren und Operationen, wo wir selbst zu Operatoren werden,
+
+368
+00:38:43,280 --> 00:38:51,760
+Operators, und vielleicht eben auch zu Robotern und Arbeiterinnen, Agentinnen. Aber dass das
+
+369
+00:38:51,760 --> 00:38:57,200
+versucht wird, positiv umzudeuten, dass wir uns vielleicht absichtlich da in diese Lage
+
+370
+00:38:57,200 --> 00:39:05,080
+versetzen und diese Agenten basierten Modelle vielleicht dann mal tanzen, roboterhaft,
+
+371
+00:39:05,080 --> 00:39:10,320
+aber dann, wenn wir dann eben das tanzen, dass dann sofort eben das körperliche dann und dass
+
+372
+00:39:10,320 --> 00:39:18,000
+der Widerstand eigentlich zum Vorschein kommt. Und das ist ein interessanter, glaube ich,
+
+373
+00:39:18,000 --> 00:39:26,120
+interessanter Aspekt, der diese Technologiefeindlichkeit vielleicht von kritischen
+
+374
+00:39:26,120 --> 00:39:32,160
+Theorien so ein bisschen anders versucht zu denken. Ja, spannend. Also das, finde ich, leuchtet
+
+375
+00:39:32,160 --> 00:39:37,360
+eigentlich jetzt wieder sehr schön ein im Grunde. Also dass das eigentlich auch, dass das
+
+376
+00:39:37,360 --> 00:39:43,760
+agentenbasierte Modellieren dann im Grunde als Technologien spekulativer Fabulation eingeführt
+
+377
+00:39:43,760 --> 00:39:49,080
+wird, die sozusagen in der bewussten Auslassung bestimmter Elemente, in dem Fall körperlich,
+
+378
+00:39:49,080 --> 00:39:54,240
+also bestimmter Körperlichkeit und affektiv-somatischer Ebenen, im Grunde auch
+
+379
+00:39:54,240 --> 00:40:02,440
+einen bewusst, also zum einen natürlich bewusst reduktiven oder bewusst reduzierenden und dadurch
+
+380
+00:40:02,440 --> 00:40:09,000
+auch bewusst provokanten Einsatz machen erst mal, der aber gar nicht erst meint, das hattest du
+
+381
+00:40:09,000 --> 00:40:13,440
+jetzt auch schon herausgestellt, der gar nicht erst so tut, als würde er sozusagen Wirklichkeit
+
+382
+00:40:13,440 --> 00:40:20,160
+darstellen oder so, sondern immer eine auch reduzierte Abstraktion und das aber dann, sagen
+
+383
+00:40:20,160 --> 00:40:26,040
+im gemeinsamen Tanzen dieses spekulativ fabulativen Einwurfs im Grunde Prozesse
+
+384
+00:40:26,040 --> 00:40:33,000
+losgetreten werden, die dann auch zu anderen beziehungsweisen in der Mensch-Technologie
+
+385
+00:40:33,000 --> 00:40:39,080
+Konstellation eigentlich führen. So, oder? Das leuchtet mir nämlich, finde ich, dann wieder total
+
+386
+00:40:39,080 --> 00:40:45,520
+gut ein, ja. Dann lass uns doch vielleicht gerade in Fragen dieser Konstruktion auch noch mal ein
+
+387
+00:40:45,520 --> 00:40:50,320
+bisschen genauer einbiegen, weil wenn es dann um die Frage geht, okay, was könnte man denn da
+
+388
+00:40:50,320 --> 00:40:58,120
+dann simulierend, tanzend sozusagen ausverhandeln, wenn man so will, ja. Da gibt es ja dann eine
+
+389
+00:40:58,120 --> 00:41:03,280
+Richtung, die du im Buch verfolgst, die durchaus hier mit diesem Podcast auch sehr schön oder
+
+390
+00:41:03,280 --> 00:41:09,600
+zumindest einem wichtigen Strang in diesem Podcast hier Hand in Hand geht. Es gab da nämlich einige
+
+391
+00:41:09,600 --> 00:41:15,080
+spannende Passagen in deinem Buch, die in Richtung der Konstruktion deuten, ohne da jetzt sehr
+
+392
+00:41:15,080 --> 00:41:20,280
+explizit zu werden, aber es geht doch oft in Richtung auch so einer demokratischen Planung
+
+393
+00:41:20,280 --> 00:41:25,760
+und du zitierst da zum Beispiel Robert Kurz mit der Aufforderung, und ich zitiere das jetzt hier,
+
+394
+00:41:25,760 --> 00:41:30,640
+Elemente einer mikroelektronischen Naturwirtschaft zu entwickeln, die sich dem
+
+395
+00:41:30,640 --> 00:41:36,280
+Vergesellschaftungsprinzip des Werts grundsätzlich entzieht und davon nicht mehr erfasst werden kann.
+
+396
+00:41:36,280 --> 00:41:40,920
+Zitat Ende. Also das ist ja jetzt erstmal so ein ganz pauschaler Einwurf von Kurz,
+
+397
+00:41:41,000 --> 00:41:45,360
+sozusagen jetzt da, aber da stellt sich natürlich dann im Anschluss die Frage,
+
+398
+00:41:45,360 --> 00:41:51,560
+wie das dann ganz konkret aussehen könnte, und du gehst darauf folgend in einem Abschnitt dann
+
+399
+00:41:51,560 --> 00:41:57,160
+auch auf die Frage einer, und ich zitiere wieder, eigens entwickelten, programmierten,
+
+400
+00:41:57,160 --> 00:42:03,360
+dezentral verteilten und durch Beteiligung vieler sich selbst organisierenden Planwirtschaft ein,
+
+401
+00:42:03,360 --> 00:42:09,480
+Zitat Ende. Vielleicht kannst du uns von dieser mikroelektronischen Naturwirtschaft ein
+
+402
+00:42:09,480 --> 00:42:13,320
+Bild zeichnen, denn ich nehme mal an, das wäre ja dann sozusagen eigentlich ein Kandidat,
+
+403
+00:42:13,320 --> 00:42:17,640
+eine Kandidatin für ein solches experimentelles Simulieren auch, oder?
+
+404
+00:42:17,640 --> 00:42:23,400
+Genau, tatsächlich. Und das ist auch eine schwierige Frage dann, und ich habe versucht da,
+
+405
+00:42:23,400 --> 00:42:28,360
+also das ist ja im ersten Teil des Buchs, ich habe da versucht so ein bisschen eben das Weltbild,
+
+406
+00:42:28,360 --> 00:42:34,880
+oder das Vorbild zu finden, Vorbilder und Ansätze, die man dann eben dann versucht,
+
+407
+00:42:34,880 --> 00:42:42,440
+zu modellieren. Das ist so die große Argumentation, und bei Robert Kurz geht es eigentlich eben darum,
+
+408
+00:42:42,440 --> 00:42:49,640
+nicht von der Produktion auszugehen, sondern am Ende, also bei der Konsumtion anzusetzen,
+
+409
+00:42:49,640 --> 00:42:55,520
+und wir wissen ja von der Geschichte der Genossenschaften, also eben auch Konsumgenossenschaften
+
+410
+00:42:55,520 --> 00:43:00,080
+ganz gut funktionieren, und da werden zum Beispiel finanzielle Mittel zusammengelegt,
+
+411
+00:43:00,080 --> 00:43:06,200
+damit man dann eben Lebensmittel kaufen kann, um sie dann eben zu Commons zu machen für alle Beteiligten,
+
+412
+00:43:06,200 --> 00:43:12,920
+und wenn das dann gut funktioniert, lässt sich dann vielleicht auch die Produktion auf den Feldern
+
+413
+00:43:12,920 --> 00:43:18,080
+bestimmen, oder auch die Anbauweise, und so kann das dann von der Konsumtion her bis zur
+
+414
+00:43:18,080 --> 00:43:28,360
+Produktion dann so sich ausweiten, vom Lokalen dann ins Ferne, und ja, die können dann,
+
+415
+00:43:28,480 --> 00:43:32,880
+sie können sich dann eben auch alle wehren oder organisieren, es gibt ja auch solche
+
+416
+00:43:32,880 --> 00:43:40,200
+Modelle wie eben die solidarische Landwirtschaft, wo das eben auch schon praktiziert wird, und dann
+
+417
+00:43:40,200 --> 00:43:45,880
+sagt ja auch Kurz, dass es aber doch schwierig ist, etwa eben die Produktion von Computern jetzt
+
+418
+00:43:45,880 --> 00:43:52,440
+sofort zu ändern, das ist ja dann jetzt heute, 20, 30 Jahre später, noch viel zugespitzter,
+
+419
+00:43:52,440 --> 00:44:02,400
+und deshalb wäre es wichtiger, eben von der Konsumtion, vom Gebrauch her zu denken,
+
+420
+00:44:02,400 --> 00:44:09,520
+und eben Produktion und Gebrauch zusammen zu bringen, möglichst, das heißt die Produktion
+
+421
+00:44:09,520 --> 00:44:16,320
+vielleicht auch näher an uns, und dann darüber hinaus geht es dann eben in diese Naturwirtschaft,
+
+422
+00:44:17,080 --> 00:44:23,920
+das ist ja eben das Gegenteil von Geld- und Marktwirtschaft, also die Idee eben, das ohne
+
+423
+00:44:23,920 --> 00:44:33,080
+Preismechanismen, ohne Markt zu regeln, und das aber dann gleichzeitig eben selbst organisierend zu
+
+424
+00:44:33,080 --> 00:44:38,200
+tun, das ist so ein bisschen die Theorie, die er da formuliert, und das ist auch sehr interessant,
+
+425
+00:44:38,200 --> 00:44:44,120
+weil er da auch schon sozusagen zu bedenken gibt, dass es wichtig wäre, da auch die ganzen Prozesse
+
+426
+00:44:44,200 --> 00:44:53,440
+zu analysieren, also sowas wie eine kritische Analyse dieser Logistik und Lieferketten und
+
+427
+00:44:53,440 --> 00:45:00,680
+Produktionsketten fordert, und da kommen dann auch die ganzen Methoden, die wir auch so ein
+
+428
+00:45:00,680 --> 00:45:06,960
+bisschen in der Medienwissenschaft anzuwenden, kommen da auch ins Spiel, also wenn wir versuchen,
+
+429
+00:45:06,960 --> 00:45:12,120
+vom Material aus, was ist denn im Smartphone drin, und woher kommt das, und wie kann man das verfolgen,
+
+430
+00:45:12,120 --> 00:45:16,400
+das sind ja eigentlich Methoden, die er da auch schon formuliert, und dann eben auch dieses
+
+431
+00:45:16,400 --> 00:45:23,760
+Kartografieren, das kommt ja auch schon bei ihm auch vor. Ja, und ich würde dann ihm vorschlagen,
+
+432
+00:45:23,760 --> 00:45:32,520
+das Ganze als Tanz zu praktizieren, und ja, das muss man irgendwie modellieren.
+
+433
+00:45:32,520 --> 00:45:42,920
+Ja, irgendwie ist gut. Das ist die große Frage. Ja, genau, ich würde auch sagen,
+
+434
+00:45:42,920 --> 00:45:49,200
+also da sind schon einige Fragen offen, nämlich gerade auch, und das sprichst du im Buch auch
+
+435
+00:45:49,200 --> 00:45:55,160
+immer oder an mehreren Stellen glaube ich an, richtigerweise finde ich, also ein wichtiger
+
+436
+00:45:55,160 --> 00:46:01,400
+Aspekt, den es da ja noch zu bearbeiten gilt, gerade wenn man aus so einer Ebene der kommunistischen
+
+437
+00:46:01,720 --> 00:46:08,440
+Organisation herauskommt, ist die Frage nach der Vermittlung von interpersonaler und transpersonaler
+
+438
+00:46:08,440 --> 00:46:13,760
+Ebene, weil zumindest, also bei den Konzepten, die ich jetzt da kenne, ist das eine große
+
+439
+00:46:13,760 --> 00:46:19,400
+Leerstelle jetzt im Kommunismus, wie ich ihn zumindest jetzt mal von Simon Suttolitti und
+
+440
+00:46:19,400 --> 00:46:25,280
+Stefan Meretz kennengelernt habe, hatte ich immer das Gefühl, dass das mit den dort angegebenen
+
+441
+00:46:25,280 --> 00:46:30,800
+Metacommons und Stigmergie und polyzentrische Selbstorganisation noch nicht hinreichend
+
+442
+00:46:30,800 --> 00:46:35,920
+beantwortet ist eigentlich. Das Global Communing System, die Gruppe rund um dieses Projekt,
+
+443
+00:46:35,920 --> 00:46:42,760
+die versuchen ja unter anderem auch genau diese Ebene eigentlich dann zu adressieren mit dieser
+
+444
+00:46:42,760 --> 00:46:48,400
+Form von Plattform, die sie da vorschlagen. Aber also ich finde jetzt genau in Bezug auf die Frage
+
+445
+00:46:48,400 --> 00:46:57,840
+der Simulation und des Modellierens einer solchen kommunistischen Kooperativität sind da noch viele
+
+446
+00:46:57,840 --> 00:47:04,600
+Fragen offen, finde ich irgendwie. Also mich würde das interessieren, wie du das gedenkst,
+
+447
+00:47:04,600 --> 00:47:09,800
+anzugehen. Also wie würdest du dann, wenn du jetzt dich so einem Projekt zuwenden würdest,
+
+448
+00:47:09,800 --> 00:47:16,880
+dass du daraus eine agentenbasierte Modellierung machst. Was sind denn die Grundlagen zum Beispiel
+
+449
+00:47:16,880 --> 00:47:21,800
+in Bezug auf die Modellierung der einzelnen Agentinnen und Agenten, die Zuschreibungen,
+
+450
+00:47:21,800 --> 00:47:27,640
+die da gesetzt werden? Hast du da eine Idee zu, wie du das angehen würdest? Also weil ich nehme
+
+451
+00:47:27,640 --> 00:47:31,960
+jetzt einfach mal an, dass du dich nicht einfach nur auf die bounded rationality irgendwie zurückziehen
+
+452
+00:47:31,960 --> 00:47:38,440
+würdest, sondern da bräuchte es ja dann andere Parameter, die man zunächst einmal experimentell
+
+453
+00:47:38,440 --> 00:47:46,600
+in diese Agentinnen und Agenten einprogrammiert, um dann zu gucken, welches Verhalten sich daraus
+
+454
+00:47:46,600 --> 00:47:53,400
+ergibt. Aber wie wird das hergeleitet, also auf Basis von was wird da operiert, wenn man so will?
+
+455
+00:47:53,400 --> 00:48:00,080
+Ja, schöne Frage, die ich auch nicht so schnell beantworten kann, aber ich kann es versuchen,
+
+456
+00:48:00,080 --> 00:48:06,680
+also im Buch versuche ich ja so größere, die uns alle auch schon, die wir kennen, so was wie
+
+457
+00:48:06,680 --> 00:48:14,200
+Solidarität beziehungsweise, dass es auf die Beziehung drauf ankommt, dass die da ist und die
+
+458
+00:48:14,200 --> 00:48:19,560
+Freiheit des anderen zum Beispiel oder der anderen und nicht die eigene Freiheit. Also solche, das
+
+459
+00:48:19,560 --> 00:48:25,640
+sind ja schon so Rahmenbildungen, die kann man versuchen zu operationalisieren, das heißt,
+
+460
+00:48:25,640 --> 00:48:31,320
+in Regelsysteme dann irgendwie einzubauen. Und das sind eigentlich, die sind schon Teil von
+
+461
+00:48:31,320 --> 00:48:38,320
+solchen Regeln, die dann in Agentinnen und Agenten, also diese Punkte, da eigenprogrammiert
+
+462
+00:48:38,320 --> 00:48:44,920
+werden können. Und deshalb könnte man sowas wie Stimergie, könnte man dann versuchen zu
+
+463
+00:48:44,960 --> 00:48:53,880
+modellieren. Das ist die gemärkische Prozess. Und zum Beispiel in einem, wo es darum geht, zum
+
+464
+00:48:53,880 --> 00:49:01,800
+Beispiel Orte, die man reparieren muss in einer Wohngenossenschaft, wie könnte das funktionieren?
+
+465
+00:49:01,800 --> 00:49:07,360
+So und dann kann man da, beginnt man dann zu überlegen, ja was könnten wir abstrahieren? Wie
+
+466
+00:49:07,360 --> 00:49:11,960
+bewegen sich die Leute innerhalb der Genossenschaft? Ist es da vielleicht nur ein Feld? Und was sind
+
+467
+00:49:12,000 --> 00:49:18,400
+da die, wie weit können die sehen zum Beispiel, um etwas zu bemerken, dass es repariert wird und
+
+468
+00:49:18,400 --> 00:49:24,440
+wie wird dann das, das repariert werden muss kommuniziert und so weiter. Da muss man von Grund
+
+469
+00:49:24,440 --> 00:49:33,760
+auf eigentlich so ein Prozess, so ein Modell dann entwickeln. Ich würde schon so bei den Dingen,
+
+470
+00:49:33,760 --> 00:49:42,400
+die dann auch im Kapitalismus aufheben, beschrieben werden, da ansetzen wollen. Und was ich ein
+
+471
+00:49:42,400 --> 00:49:48,000
+bisschen schade fand bei diesem Modell, bei Gesellschaft ohne Geld, die haben ja versucht,
+
+472
+00:49:48,000 --> 00:49:55,760
+das Modell, was sie gemacht haben, war ja schon sehr komplex. Und vielleicht war es zu komplex und
+
+473
+00:49:55,760 --> 00:50:03,520
+vielleicht kann man auch mit einfachen Modellen die Leute irgendwie zum Denken anlegen oder
+
+474
+00:50:04,480 --> 00:50:13,720
+vielleicht können auch schon einfache Modelle dann helfen, dann Regelsysteme zu bauen und dann
+
+475
+00:50:13,720 --> 00:50:20,760
+die dann auch auszuprobieren. Ob jetzt in echt, in wirklichen Genossenschaften oder in Communing
+
+476
+00:50:20,760 --> 00:50:26,520
+Projekten oder ob das dann in einem Spiel ist, ist wieder eine andere Frage. Aber ich glaube man muss
+
+477
+00:50:26,520 --> 00:50:31,080
+dann einfach mal anfangen. Vielleicht kann ich das auch jetzt deshalb nicht antworten, weil ich das
+
+478
+00:50:31,080 --> 00:50:37,640
+immer bis jetzt alleine mache. Vielleicht brauche ich andere Leute und dann sollten wir dann
+
+479
+00:50:37,640 --> 00:50:44,200
+zusammen ein Problem sozusagen lokalisieren und dann versuchen, was ist jetzt das und wie könnte
+
+480
+00:50:44,200 --> 00:50:49,120
+man das abstrahieren und so weiter. Man muss glaube ich wirklich eine Gemeinschaft bilden,
+
+481
+00:50:49,120 --> 00:50:57,360
+die natürlich auch offen ist, aber die das dann angeht. Und das Buch ist auch vielleicht so ein
+
+482
+00:50:57,360 --> 00:51:04,440
+Versuch da so was anzuregen und dass ich da auch andere ja Alliierte oder Freunde finde,
+
+483
+00:51:04,440 --> 00:51:11,120
+mit denen ich das dann auch durchführen kann. Ja, ja. Bevor wir jetzt dann zur letzten Frage
+
+484
+00:51:11,120 --> 00:51:18,160
+kommen, vielleicht noch ein Punkt noch zum Boden, auf dem sich das Ganze bewegt. Ich lese da mal ein
+
+485
+00:51:18,160 --> 00:51:23,320
+Zitat aus deinem Buch auch vor, da heißt es nämlich, doch die Beschaffenheit des Bodens und die
+
+486
+00:51:23,320 --> 00:51:29,160
+Atmosphäre des Raums, in dem sich die Tanzenden bewegen und situieren, also ihre Umwelt, wirkt
+
+487
+00:51:29,160 --> 00:51:35,840
+sich auf den Tanz und dessen Tanzbarkeit aus. Zitat Ende. Das hat mich ziemlich erinnert an
+
+488
+00:51:35,840 --> 00:51:42,160
+eine bestimmte Art von Hände und Eilproblem, wenn man so will, die gerade auch in Bezug auf
+
+489
+00:51:42,160 --> 00:51:48,360
+kommunistische Kooperativität eigentlich ja wichtig ist. Ein Problem, was da zutage tritt,
+
+490
+00:51:48,360 --> 00:51:56,400
+denn es bedarf ja, ich sag mal, begünstigender Grundlagen, um also erfolgreich in kommunistischer
+
+491
+00:51:56,400 --> 00:52:00,960
+Kooperativität sich zu üben. Also dieses Erlernen, auf das du ja auch immer wieder
+
+492
+00:52:00,960 --> 00:52:08,520
+hinweist, das ist ja nicht in jedem Kontext so ohne Weiteres möglich. Also wenn ich jetzt irgendwie
+
+493
+00:52:08,520 --> 00:52:14,760
+40 Stunden die Woche irgendwo am Fließband stehe oder so, dann ist die Wahrscheinlichkeit,
+
+494
+00:52:14,760 --> 00:52:20,640
+dass ich da jetzt dann doch noch bei einer Koop mitmache, wo ich dann irgendwie alle zwei Wochen
+
+495
+00:52:20,640 --> 00:52:25,400
+ins Plenum muss und noch einen Job übernehmen oder so was, dass ich da dann mitmache, ist die
+
+496
+00:52:25,400 --> 00:52:32,400
+Wahrscheinlichkeit eher geringer. Also das heißt, es ist eigentlich essentiell wichtig, dass im
+
+497
+00:52:32,400 --> 00:52:38,280
+Grunde der Boden auf Basis dessen diese Kooperativität gedacht werden kann, dass der
+
+498
+00:52:39,280 --> 00:52:46,560
+thematisiert wird. Hast du da einen Zugang zu, wie man das am besten angehen kann? Weil bis zum
+
+499
+00:52:46,560 --> 00:52:54,720
+gewissen Grad ist das ja auch ein vielleicht berechtigter Vorwurf, den man dann jetzt dem
+
+500
+00:52:54,720 --> 00:53:02,800
+kommunistischen Zugang machen kann, zu sagen, okay, wie kann das sozusagen in die Welt kommen in einer
+
+501
+00:53:02,800 --> 00:53:11,240
+immer größeren und verbreiteten Art und Weise, wenn doch der Boden, auf dem es sich entwickeln
+
+502
+00:53:11,240 --> 00:53:19,280
+soll, so feindlich ist gegen eine Ausbreitung letztlich dieser kooperativen Umgangsformen,
+
+503
+00:53:19,280 --> 00:53:26,520
+dieser kommunistischen Kooperativität. Also gibt es da Ideen zu, wie man das angehen könnte?
+
+504
+00:53:26,520 --> 00:53:37,160
+Ja, also es gibt ja eben, wie gesagt, schon Gruppierungen, Gemeinschaften, die dann
+
+505
+00:53:37,160 --> 00:53:45,600
+versuchen einen eigenen Boden zu kreieren. Vielleicht auch mal einfach woanders hingehen
+
+506
+00:53:45,600 --> 00:53:51,960
+und so mutig sind, auch ihr Leben zu ändern und dann, oder vielleicht sind sie auch gezwungen,
+
+507
+00:53:51,960 --> 00:53:58,560
+aber es gibt da, also man muss, man kann ja den Boden oder das Gebiet wechseln. Einerseits,
+
+508
+00:53:58,560 --> 00:54:03,360
+andererseits natürlich schwierig, es sind auch nur, es können nur solche Leute, die sich das
+
+509
+00:54:03,360 --> 00:54:08,920
+irgendwie leisten können oder irgendwie da mutig genug sind und eine Hoffnung haben, dass das dann
+
+510
+00:54:08,920 --> 00:54:17,640
+funktioniert. Und ja, da brauchen wir mehr solche Beispiele und da gibt es ja viele jetzt und die
+
+511
+00:54:17,640 --> 00:54:27,240
+müssen bekannter werden. Und dann mein Vorschlag eben, wir könnten solche Leute, das sind ja dann
+
+512
+00:54:27,240 --> 00:54:36,480
+so ein bisschen die Helden der Kommunisierung oder des Kommunismus, dann eben auch zum Vorbild nehmen
+
+513
+00:54:36,480 --> 00:54:42,800
+und das versuchen aber auch in unseren Alltag einzubauen durch dieses spielerische. Das ist
+
+514
+00:54:42,800 --> 00:54:47,120
+noch ein bisschen eine unformulierte, vielleicht ein bisschen naive Idee, aber dass man vielleicht
+
+515
+00:54:47,120 --> 00:54:57,120
+so ein Netzwerk von, dass man das virtuell machen kann, spielerisch, also so ein bisschen wie diese
+
+516
+00:54:57,120 --> 00:55:03,400
+Multi-User-Spiele, wo wir dann auch natürlich vor unseren Computern sitzen, aber dann gemeinsam
+
+517
+00:55:03,400 --> 00:55:10,520
+irgendwie ein Spiel spielen, woanders. Und so ein Spiel könnte ja auch kommunistisch organisiert
+
+518
+00:55:10,600 --> 00:55:16,760
+sein und solidarischen Prinzipien und da könnte man solche Dinge ausprobieren. Und vielleicht können
+
+519
+00:55:16,760 --> 00:55:24,600
+sich ja da Erkenntnisse davon dann immer ein Stück, immer mehr auch in den Alltag etablieren. Und
+
+520
+00:55:24,600 --> 00:55:30,920
+andererseits sehe ich eben dieses Henne-Ei-Problem auch nicht so, das ist nicht so ein großes Problem
+
+521
+00:55:30,920 --> 00:55:36,800
+für mich. Also es ist eine Betrachtungsweise, die man vielleicht auch aufgeben muss, weil es ist ja
+
+522
+00:55:36,800 --> 00:55:45,320
+immer eine Frage der Adaption. Die Frage, was jetzt zuerst war, ist eigentlich nicht so wichtig,
+
+523
+00:55:45,320 --> 00:55:52,480
+weil es war schon immer irgendwie da und man muss einfach die Situation oder man kann die
+
+524
+00:55:52,480 --> 00:56:02,080
+Situation ändern. Und die Frage ist, wie das passieren kann und wie man da die Energie findet
+
+525
+00:56:02,080 --> 00:56:09,160
+oder die Motivation, das zu tun. Und wenn es sich dann vielleicht herumspricht, dass es eine
+
+526
+00:56:09,160 --> 00:56:16,920
+alternative Lebensweise gibt für Leute, dann sprengen vielleicht auch Leute an, die eben 24
+
+527
+00:56:16,920 --> 00:56:21,560
+Stunden oder irgendwie ganz viel arbeiten müssen und diese Gefühl haben, sie kommen da nicht mehr
+
+528
+00:56:21,560 --> 00:56:27,920
+raus. Aber vielleicht ist das dann eine Möglichkeit für die, dann irgendwie da umzuwechseln, oder? Das
+
+529
+00:56:27,920 --> 00:56:34,320
+ist ja auch so ein bisschen diese Idee der Keimform, auch die bei Kapitalismus aufheben, da auch
+
+530
+00:56:34,320 --> 00:56:44,920
+formuliert wird. Irgendwo muss dieses Prinzip bekannt werden und funktionieren und dann gibt es
+
+531
+00:56:44,920 --> 00:56:49,400
+dann schon andere Leute, die das dann auch nachmachen und es verbreitet sich dann so. Genau. Ja,
+
+532
+00:56:49,400 --> 00:56:53,840
+aber eben die Frage wäre halt, ob das reicht. Also das ist, glaube ich, vielleicht ist dann
+
+533
+00:56:53,840 --> 00:56:59,560
+Henne und ein auf eine Art falsch, weil wie du sagst, das stimmt ja durchaus, dass da schon was
+
+534
+00:56:59,560 --> 00:57:10,840
+da ist. Also es gibt quasi schon Eier, aber es ist trotzdem so, dass dann halt in Bezug auf die Frage
+
+535
+00:57:10,840 --> 00:57:19,520
+der Transformation jetzt es eigentlich dann schon auch riesengroße Fragezeichen gibt, ob da dann
+
+536
+00:57:19,520 --> 00:57:24,800
+nicht doch, also eben nicht die Zuckungen, weil du hattest das ja irgendwo mal gesagt, nicht diese
+
+537
+00:57:24,800 --> 00:57:30,160
+Muskelzuckungen, die du dann mit einer Revolution gleichgesetzt hast, also ob es die nicht vielleicht
+
+538
+00:57:30,160 --> 00:57:36,480
+doch auch braucht bzw. ob es nicht einfach auch einen selektiven Einsatz von Muskelkraft braucht,
+
+539
+00:57:36,480 --> 00:57:43,560
+sozusagen. Also weil einfach realistischerweise man ja wohl feststellen muss, dass im Sinne der
+
+540
+00:57:43,560 --> 00:57:47,680
+Machtverhältnisse es jetzt nicht so ist, dass es so aussieht. Und das hatten wir heute auch schon
+
+541
+00:57:47,720 --> 00:57:53,080
+mal angesprochen, dass es nicht so aussieht, als ob quasi von allein in so einem mehr oder
+
+542
+00:57:53,080 --> 00:58:01,840
+minder harmonistischen Ablösungsprozess es zu einer weitflächigen Ausbreitung käme,
+
+543
+00:58:01,840 --> 00:58:07,640
+die dann irgendwann sozusagen einfach nur noch diesen Kippmoment braucht, in dem es dann zum
+
+544
+00:58:07,640 --> 00:58:16,400
+Dominanzparadigma wird oder Dominantparadigma wird, sondern so ein bisschen liegt ja schon
+
+545
+00:58:16,400 --> 00:58:22,000
+die Vermutung nahe, dass es eventuell doch auch noch mehr bräuchte. Also nämlich tatsächlich,
+
+546
+00:58:22,000 --> 00:58:26,600
+um jetzt in diesem Bild des Tanzes und der Körperlichkeit zu bleiben, Muskelkraft, also
+
+547
+00:58:26,600 --> 00:58:34,880
+sozusagen einen selektiven Einsatz von Muskelkraft, die nicht nur im Erlernen der Alternative besteht,
+
+548
+00:58:34,880 --> 00:58:43,000
+sondern tatsächlich auch im Kampf. Das wäre die Frage. Ja, in der Tat. Ja. Oft ist, die Frage ist
+
+549
+00:58:43,000 --> 00:58:50,560
+doch dann oft, das sagen doch viele dann, was nach der Revolution passiert und wie man dann zum
+
+550
+00:58:50,560 --> 00:58:59,160
+Tanzen kommt nach der Zukunft, nach der Muskelkraft, ob man damit dann einen neuen Tanz generieren kann.
+
+551
+00:58:59,160 --> 00:59:02,640
+Aber das ist nicht, was ich sage. Das kommt ja zusammen. Genau. Also ich will nicht sagen,
+
+552
+00:59:02,640 --> 00:59:07,200
+dass man sozusagen nur die Muskelkraft bräuchte und danach würde sich schon alles ergeben, was
+
+553
+00:59:07,200 --> 00:59:12,120
+sozusagen das klassische Bild wäre oder jetzt mal so ein bisschen eine Karikatur des klassischen
+
+554
+00:59:12,120 --> 00:59:16,520
+Bildes, sage ich mal, von Revolution, sondern ich würde total zustimmen, dass es vorher quasi
+
+555
+00:59:16,520 --> 00:59:22,240
+eine einübende Tanzbewegung braucht, wenn man so will, aber gleichzeitig vielleicht auch darauf
+
+556
+00:59:22,240 --> 00:59:29,880
+hinweisen, dass es zusätzlich zu diesem Erlernen, diesem affektiv-somatischen Erlernen im Tanze,
+
+557
+00:59:29,880 --> 00:59:36,200
+sozusagen, trotzdem auch darüber hinaus noch eben, wie gesagt, einen selektiven Einsatz von
+
+558
+00:59:36,200 --> 00:59:43,760
+Muskelkraft braucht an bestimmten Stellen, um dann tatsächlich auch das Realistische erscheinen zu
+
+559
+00:59:43,760 --> 00:59:51,560
+lassen, dass eine solche Form der Bezugnahme auch zu einem dominanten Paradigma werden kann.
+
+560
+00:59:51,560 --> 00:59:58,680
+Also das affektiv-somatische, das ist ganz wichtig. Es ging mir nicht darum, das zu kritisieren,
+
+561
+00:59:58,680 --> 01:00:03,840
+sondern es ist ein Zusammenspiel oder da eben die Kraft davon oder die Möglichkeiten,
+
+562
+01:00:04,160 --> 01:00:11,040
+das affektiv-somatische generieren, die da auch geschickt ausnutzen zu können. Das ist dann auch
+
+563
+01:00:11,040 --> 01:00:15,840
+im Tanzen oder dass man das lernt, mit den eigenen Effekten umzugehen oder mit der eigenen
+
+564
+01:00:15,840 --> 01:00:21,440
+Muskelkraft, um es dir auch aufzubauen und beim Tanzen und so.
+
+565
+01:00:21,440 --> 01:00:29,360
+Sehr schön. Shintaro, am Schluss frage ich immer noch, wenn du dir Zukunft vorstellst,
+
+566
+01:00:29,360 --> 01:00:37,080
+was stimmt dich freudig? Ja, es gibt natürlich vieles, was einem nachdenklich und traurig stimmt,
+
+567
+01:00:37,080 --> 01:00:43,400
+aber freudig stimmt mich zu wissen, da haben wir ein bisschen darüber gesprochen,
+
+568
+01:00:43,400 --> 01:00:49,120
+eben die Adaption, also dass wir eigentlich im Laufe der Millionen von Jahren oder das
+
+569
+01:00:49,120 --> 01:00:55,480
+biologische Organismen sich oft an ihre Umweltbedingungen anpassen konnten und
+
+570
+01:00:55,600 --> 01:01:01,520
+falls wir jetzt eben diesen, wir benötigen ja so einen dringenden Sprung, wenn wir das irgendwie
+
+571
+01:01:01,520 --> 01:01:06,960
+durch geschickte Selbstorganisation und Selbsttransformation guten Regeln und Bildung
+
+572
+01:01:06,960 --> 01:01:11,640
+dann eben besser in den Griff bekommen, dann wenn wir das alles schaffen, dann haben wir natürlich
+
+573
+01:01:11,640 --> 01:01:17,760
+ein wirklich schönes Leben, das noch viel besser sein wird als das, was wir haben und es kann nur
+
+574
+01:01:17,760 --> 01:01:21,720
+besser werden. Wunderbar, Shintaro, vielen Dank für das Gespräch.
+
+575
+01:01:21,720 --> 01:01:33,960
+Das war Future Histories für heute, vielen Dank fürs Zuhören, Show-Notizen und vieles mehr findet
+
+576
+01:01:33,960 --> 01:01:40,880
+ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag Future Histories
+
+577
+01:01:40,880 --> 01:01:46,400
+oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen großen Podcast-
+
+578
+01:01:46,400 --> 01:01:53,080
+Plattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den Episoden dann auch
+
+579
+01:01:53,080 --> 01:01:59,560
+Kurzvideos zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne unter jan at future
+
+580
+01:01:59,560 --> 01:02:06,160
+histories.today. Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr
+
+581
+01:02:06,160 --> 01:02:12,440
+Future Histories unterstützen wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories
+
+582
+01:02:12,440 --> 01:02:17,720
+oder auch via Spende auf unserer Homepage. Future Histories ist eine Produktion von
+
+583
+01:02:17,720 --> 01:02:24,720
+Metalapsis zu finden auf metalapsis.net. Bis zum nächsten Mal, ich freue mich.
+

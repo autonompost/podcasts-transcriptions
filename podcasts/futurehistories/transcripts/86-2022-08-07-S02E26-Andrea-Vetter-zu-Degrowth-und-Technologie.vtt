@@ -1,0 +1,1871 @@
+WEBVTT
+
+00:00.000 --> 00:05.320
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung
+
+00:05.320 --> 00:06.320
+von Zukunft.
+
+00:06.320 --> 00:11.720
+Mein Name ist Jan Groß und ich freue mich sehr, heute Andrea Vetter begrüßen zu dürfen.
+
+00:11.720 --> 00:17.440
+Gemeinsam mit Nicolas Gouenot hat sie ein Kapitel zum kürzlich erschienenen Buch Degrowth
+
+00:17.440 --> 00:19.360
+and Strategy beigetragen.
+
+00:19.360 --> 00:27.800
+Dieses Buch, das ist aus der Konferenz Degrowth Vienna 2020, Strategies for Social Ecological
+
+00:27.800 --> 00:32.640
+Transformation hervorgegangen und ist als PDF frei verfügbar.
+
+00:32.640 --> 00:39.000
+Ihr findet es also in den Show Notes zusammen mit anderen interessanten Ressourcen zu Degrowth
+
+00:39.000 --> 00:44.440
+und jeder und jeder, die an Degrowth Strategie und Transformation interessiert ist, wird
+
+00:44.440 --> 00:47.960
+sicher große Freude damit haben, also schaut es euch an.
+
+00:47.960 --> 00:54.120
+An dieser Stelle auch liebe Grüße an Degrowth Vienna, die die Konferenz damals veranstaltet
+
+00:54.120 --> 00:56.800
+haben und auch für das Buchprojekt verantwortlich zeichnen.
+
+00:56.800 --> 01:03.640
+Das Buchkapitel von Andrea und Nicolas, das widmet sich dem Verhältnis zwischen Degrowth
+
+01:03.640 --> 01:04.640
+und Technologie.
+
+01:04.640 --> 01:09.880
+Beides Themen, die in Future Histories ja immer wieder verhandelt worden sind und auch
+
+01:09.880 --> 01:14.480
+weiterhin verhandelt werden und ich freue mich sehr, dass das Gespräch mit Andrea zustande
+
+01:14.480 --> 01:15.480
+gekommen ist.
+
+01:15.480 --> 01:20.120
+Ich wollte es auch auf jeden Fall nicht ausfallen lassen, obwohl ich zum Zeitpunkt der Aufnahme
+
+01:20.120 --> 01:25.760
+gerade Corona hatte und zugegebenermaßen geistig nicht ganz auf der Spur war.
+
+01:25.920 --> 01:27.880
+Ich hoffe, das merkt man nicht allzu sehr.
+
+01:27.880 --> 01:32.560
+Andrea war jedenfalls geistig komplett auf der Höhe und kann das somit spielend wett
+
+01:32.560 --> 01:34.560
+machen, würde ich sagen.
+
+01:34.560 --> 01:40.680
+Es handelt sich hier bei dieser Episode auch um eine vorproduzierte Episode für den Sommer,
+
+01:40.680 --> 01:45.840
+weshalb ich den etwaig neuen Patreon-UnterstützerInnen und SpenderInnen nicht persönlich danken
+
+01:45.840 --> 01:46.840
+kann.
+
+01:46.840 --> 01:51.760
+Ich werde das zu einem späteren Zeitpunkt in jedem Fall nachholen, aber es sei euch
+
+01:51.760 --> 01:57.200
+schon jetzt und ganz pauschal gesagt, dass ich euch allen ganz aufrichtig dankbar bin
+
+01:57.200 --> 02:03.440
+für eure Spenden und jetzt viel Freude mit der heutigen Episode Future Histories mit
+
+02:03.440 --> 02:06.640
+Andrea Vetter zu Degrowth und Technologie.
+
+02:12.480 --> 02:14.120
+Herzlich Willkommen, Andrea.
+
+02:14.120 --> 02:16.280
+Ja, vielen Dank für die Einladung.
+
+02:16.280 --> 02:17.280
+Ich freue mich.
+
+02:17.280 --> 02:18.760
+Ich freue mich sehr.
+
+02:19.000 --> 02:21.480
+Sag, vielleicht kannst du dich zum Einstieg mal kurz vorstellen.
+
+02:22.320 --> 02:24.320
+Ja, also mein Name ist Andrea Vetter.
+
+02:24.320 --> 02:27.320
+Ich mache ganz verschiedene Sachen.
+
+02:27.320 --> 02:32.320
+Unter anderem vertrete ich zurzeit eine Professur an der Hochschule für Bild der Künste in
+
+02:32.320 --> 02:33.640
+Braunschweig.
+
+02:33.640 --> 02:38.200
+Im Masterstudiengang Transformation Design lehre ich da vor allem.
+
+02:38.200 --> 02:44.040
+Also es geht ganz viel um die Frage, wie kann eigentlich gesellschaftlicher Wandel gelingen?
+
+02:44.040 --> 02:46.920
+Welche Transformationsebenen, Strategien braucht es dafür?
+
+02:47.000 --> 02:54.880
+Dann arbeite ich immer wieder mit dem Konzept Berg neue Ökonomie zusammen und lebe hauptsächlich
+
+02:54.880 --> 02:58.640
+auf dem Land in Ostbrandenburg in einem Haus, das heißt Haus des Wandels.
+
+02:58.640 --> 03:04.120
+Das haben wir vor vier Jahren gemeinsam mit einem Verein gekauft und versuchen da Ideen
+
+03:04.120 --> 03:10.280
+zum Thema Degrowth, Commoning, queerfeministische, intersektionale Perspektiven so einfach
+
+03:10.280 --> 03:14.480
+on the ground im Leben auf dem Land umzusetzen.
+
+03:14.520 --> 03:17.200
+Das ist schön und auch immer wieder herausfordernd.
+
+03:17.200 --> 03:22.680
+Und genau, ich glaube, das ist so was, was mich auch umtreibt.
+
+03:22.680 --> 03:28.120
+Wie können die Gross Perspektiven in Theorie und Praxis zusammenkommen?
+
+03:28.120 --> 03:31.800
+Deswegen schreibe ich zwar auch ab und zu dazu, was zum Beispiel ein Buch geschrieben
+
+03:31.800 --> 03:37.520
+mit meinem Kollegen Matthias Schmelzer zusammen, das heißt Postwachstum und die Gross zur
+
+03:37.520 --> 03:41.040
+Einführung im Junius Verlag erschienen.
+
+03:41.080 --> 03:47.240
+Da könnt ihr alles Grundlegende zu Postwachstum nachlesen, wenn ihr das gern wollt.
+
+03:47.240 --> 03:50.120
+Oder ihr könnt natürlich auch diesen Podcast hier hören, weil da erfährt man ja auch
+
+03:50.120 --> 03:53.680
+alles Grundlegende zu Degrowth, wie ich schon gehört habe.
+
+03:53.680 --> 03:56.320
+Also in anderen Folgen natürlich nicht in der hier.
+
+03:56.320 --> 04:00.400
+Ja, also so umfassend wird es wahrscheinlich nicht sein, aber zumindest gibt es auf jeden
+
+04:00.400 --> 04:04.200
+Fall schon mal ein paar Folgen, die sich dem Thema auch zuwenden.
+
+04:04.200 --> 04:07.320
+Bevor wir jetzt zu eurem Kapitel in dem Buch kommen, kannst du vielleicht noch ein paar
+
+04:07.360 --> 04:12.400
+Worte zu dem Buch an sich sagen, weil die Prämisse ist ja unglaublich vielversprechend.
+
+04:12.400 --> 04:17.520
+Denn das Buch tritt an, eben nicht nur eine Problemlage zu beschreiben, sondern Strategien
+
+04:17.520 --> 04:20.760
+zu entwerfen, wie man zu einer Degrowth Gesellschaft kommen kann.
+
+04:20.760 --> 04:25.200
+Also sehr entlang dessen, was du ja gerade auch als deine Eininteressen beschrieben
+
+04:25.200 --> 04:29.320
+hast. Kannst du vielleicht das Projekt insgesamt noch mal kurz skizzieren?
+
+04:29.320 --> 04:33.560
+Also ich habe ja mit Nico zusammen das Kapitel zu Technik nur geschrieben.
+
+04:33.560 --> 04:37.640
+Deswegen mag ich mir jetzt nicht anmaßen, die Intention der Herausgeberinnen wiederzugeben.
+
+04:40.400 --> 04:43.480
+Und weiß tatsächlich auch wenig über die Genese des Buches.
+
+04:43.480 --> 04:48.200
+Aber es ist, so wie ich das verstanden habe, entstanden im Nachgang
+
+04:50.160 --> 04:55.800
+einer Degrowth Konferenz in Wien, wo es eben um die Frage ging, wie können wir
+
+04:55.800 --> 05:00.880
+konzentrierter strategisch überlegen, wie sich Degrowth auch wirklich in die Realität
+
+05:00.920 --> 05:06.640
+umsetzen ließe, ausgehend von vielerlei Analysen und auch utopischen Visionen,
+
+05:06.640 --> 05:12.800
+die es in dem Feld gibt, noch mal genauer draufzuschauen, welche Wege können denn
+
+05:12.800 --> 05:18.880
+jetzt gegangen werden und was ist vielversprechende, was sind vielleicht vielversprechende
+
+05:18.880 --> 05:20.480
+Pfade und welche sind schwieriger?
+
+05:20.480 --> 05:26.280
+Und das ist natürlich eine super interessante und wichtige Frage, weil wir können ja viel reden
+
+05:26.280 --> 05:29.040
+und aufschreiben, aber das ist ja nicht der Selbstzweck.
+
+05:30.040 --> 05:35.040
+Und ihr habt euch dann für euer Kapitel ein Thema ausgesucht, das innerhalb der Degrowth
+
+05:35.040 --> 05:39.680
+Bewegung ja durchaus mit einigen Vorbehalten behaftet ist, könnte man sagen, nämlich die
+
+05:39.680 --> 05:45.280
+Frage nach dem Verhältnis zwischen Technologie und Degrowth, also Technologie im Allgemeinen
+
+05:45.280 --> 05:50.080
+und bei euch dann im Kapitel Digitalen Technologien im Speziellen.
+
+05:50.080 --> 05:54.800
+Vielleicht kannst du zunächst mal dieses Verhältnis ein bisschen beschreiben zwischen
+
+05:54.800 --> 05:57.600
+Degrowth und der Frage der Technologie.
+
+05:58.080 --> 06:03.800
+Ihr stellt ja auch gewisse Berührungsängste in der Degrowth Bewegung fest, die aber letztlich
+
+06:03.800 --> 06:09.400
+eigentlich dazu führen, dass da ein wichtiges Feld weitestgehend unbearbeitet bleibt, weshalb
+
+06:09.400 --> 06:13.680
+ihr dann wahrscheinlich euch auch diesem Thema zuwenden wolltet.
+
+06:14.880 --> 06:18.360
+Ja, genau. Also ich kann vielleicht noch dazu sagen, das ist ein Thema, das beschäftigt
+
+06:18.360 --> 06:21.160
+mich schon ziemlich lange.
+
+06:21.680 --> 06:27.000
+Ich habe dazu auch meine Doktorarbeit geschrieben, die heißt Konviviale Technik und wird
+
+06:27.760 --> 06:30.800
+hoffentlich dieses Jahr endlich bei Transkript erscheinen.
+
+06:31.400 --> 06:32.880
+Es liegt nicht am Verlag, es liegt an mir.
+
+06:33.960 --> 06:42.360
+Genau. Und ich habe mich also seit über zehn Jahren da rein gefuchst in dieses Verhältnis
+
+06:42.360 --> 06:48.160
+von Degrowth Bewegung oder Postwachsums Ideen und Technik.
+
+06:51.680 --> 06:57.360
+Und am Anfang, also so vor über zehn Jahren, würde ich sagen, gab es vor allem eine sehr
+
+06:57.600 --> 07:04.200
+breite Technik-Ignoranz oder auch Technik-Ablehnung zum Teil.
+
+07:04.680 --> 07:12.000
+Die Degrowth als Bewegung ist ja bekannter geworden durch solche Aktionen wie die von
+
+07:12.000 --> 07:16.800
+Francois Schneider, der mit einem Esel ein Jahr lang durch Frankreich gelaufen ist, um
+
+07:16.800 --> 07:19.800
+mit Menschen vor Ort über Decroissance zu sprechen.
+
+07:19.800 --> 07:24.000
+Und ich finde das nach wie vor eine tolle Aktion, auch wenn ich Esel tolle Tiere finde.
+
+07:24.520 --> 07:31.760
+Und da steckt ja aber so ein ganz großes Bild, so ein Vorstellungsraum drin, der sehr
+
+07:31.760 --> 07:32.760
+antitechnisch ist.
+
+07:33.560 --> 07:36.520
+Also sozusagen so diese Fortbewegung mit dem Esel und zu Fuß.
+
+07:36.560 --> 07:43.760
+Dann gab es auf den allerersten Degrowth Konferenzen so Gruppen, die sich eben zum
+
+07:43.760 --> 07:49.200
+Thema Technik auch ausgetauscht haben im Rahmen von dem Group Assembly Process, den es
+
+07:49.280 --> 07:54.320
+damals gab und die in wesentlichen Moratorien gefordert haben für Großtechnologien, also
+
+07:54.360 --> 07:58.520
+sowas wie Atomkraft oder auch andere gefährliche Technologien wie Fracking oder so.
+
+07:58.520 --> 08:03.240
+Und gesagt haben, auf gesellschaftlicher Ebene müssen wir dafür sorgen, dass bestimmte
+
+08:03.240 --> 08:06.880
+risikobehaftete Technologien gar nicht implementiert werden, auch wenn es technologisch
+
+08:06.880 --> 08:11.480
+möglich wäre oder zumindest erst mal deren Nutzung gestoppt wird.
+
+08:11.520 --> 08:14.440
+Und es gab sehr, sehr wenig Nachdenken darüber.
+
+08:14.960 --> 08:20.240
+Wie können wir eigentlich Technik in einer emanzipatorischen Weise auch nutzen?
+
+08:21.280 --> 08:24.880
+Aber das ist natürlich eine Frage, die wir uns stellen müssen, weil unsere ganze
+
+08:25.840 --> 08:33.160
+Umwelt und die Welt, in der wir jetzt leben, ist ja technisch über und unterformt.
+
+08:33.160 --> 08:36.040
+Also auch die Art und Weise, wie wir uns jetzt unterhalten.
+
+08:36.880 --> 08:38.280
+Das ist ja nur möglich.
+
+08:39.000 --> 08:40.440
+Also vielleicht für die Zuhörnern.
+
+08:40.560 --> 08:44.760
+Wir unterhalten uns an einem über einen Computer und das ist ja nur möglich, weil es
+
+08:44.760 --> 08:52.640
+ganz vertragte Lieferketten gibt, super komplexe Infrastrukturen, die mittels Kabel
+
+08:52.640 --> 08:56.440
+Übermittlung, mittels Satelliten und dem Zusammenspiel vieler, vieler Komponenten
+
+08:56.440 --> 08:59.120
+überhaupt erst möglich machen, dass wir hier miteinander sprechen.
+
+08:59.120 --> 09:02.760
+Und das ist ja auch total schön und wünschenswert.
+
+09:02.760 --> 09:08.000
+Und ich glaube, dass eben auch die Technik, die wir jetzt haben, die wir jetzt
+
+09:08.000 --> 09:15.440
+haben, das eben wenige heutige D-Growth-AktivistInnen oder WissenschaftlerInnen
+
+09:15.440 --> 09:18.840
+so weit gehen würden, dass sie sagen würden, ne, wir wollen irgendwie nicht
+
+09:18.840 --> 09:20.560
+miteinander Videoskypen.
+
+09:20.560 --> 09:21.920
+Das finden wir doof oder so.
+
+09:21.920 --> 09:23.760
+Das, glaube ich, ist nicht der Punkt.
+
+09:25.160 --> 09:30.360
+Und ich glaube, da hat sich halt schon auch was verändert, einfach im Verhältnis von
+
+09:30.680 --> 09:34.800
+D-Growth-DenkerInnen in Bezug auf Technik, einfach weil sich die Lebenswelten der
+
+09:34.800 --> 09:36.160
+Menschen auch verändert haben.
+
+09:36.720 --> 09:40.760
+Und am Anfang wurde sich halt so vor 15 Jahren oder so, wurde sich halt sehr stark
+
+09:40.760 --> 09:47.320
+auf Technikkritiker der alten Schule bezogen, so Leute wie Günter Anders oder auch
+
+09:47.320 --> 09:52.600
+Jacques Ellul oder Ivan Illich, die tatsächlich auch für meinen Denken auch
+
+09:52.600 --> 09:57.480
+immer noch total spannende Impulsgeber sind, würde ich sagen, und die aber halt
+
+09:57.480 --> 10:02.080
+in einer völlig anderen Zeit gelebt haben, in den 1950er Jahren, 60er Jahren, 70er
+
+10:02.160 --> 10:06.880
+Jahren, als es die Art von digitaler Technik und Kommunikationstechnologie über
+
+10:06.880 --> 10:12.880
+die wir heute ja große Teile unseres Lebens bestreiten noch gar nicht gab und
+
+10:12.880 --> 10:15.680
+die selber am Anfang des 20.
+
+10:15.680 --> 10:20.400
+Jahrhunderts geboren wurden in eine Welt, die einen völlig anderen technischen
+
+10:20.400 --> 10:23.840
+Standard hatte als Kinder, die heute geboren werden.
+
+10:23.840 --> 10:29.040
+Und ich glaube, das muss man immer mit bedenken, dass wir ja auch für eine
+
+10:29.040 --> 10:33.480
+bestimmte Welt sozialisiert werden und es eben bestimmten Grad an Technik auch
+
+10:33.480 --> 10:34.480
+schon gibt.
+
+10:36.480 --> 10:39.400
+Und das, würde ich sagen, ist halt einer der absoluten Kern.
+
+10:40.760 --> 10:45.400
+Prämissen für mich jedenfalls von D-Growth, eben nicht in so einen Denken reinzugehen
+
+10:45.400 --> 10:48.560
+von Wir müssen jetzt alles nochmal ganz neu designen.
+
+10:48.680 --> 10:50.560
+Das wäre so ein grüner Tech-Ansatz zu sagen.
+
+10:50.560 --> 10:53.840
+Ja, Technik ist voll geil, aber es ist halt super umweltschädlich aus den bekannten
+
+10:53.840 --> 10:56.440
+Gründen. Da müssen wir jetzt gar nicht mehr drüber sprechen hier in dieser Stelle.
+
+10:56.920 --> 11:01.720
+Und deswegen geht es halt darum, dass wir jetzt komplett kompostierbare Handys oder
+
+11:01.720 --> 11:05.240
+komplett in den Kreislauf rückverbare Handys zum Beispiel nochmal designen, dass wir im
+
+11:05.240 --> 11:08.400
+Prinzip alles, was wir erfunden haben, nochmal ganz neu erfinden mit anderen
+
+11:08.400 --> 11:10.480
+Materialien, anderen Materialkreisläufen.
+
+11:10.920 --> 11:18.000
+Und das, finde ich, ist halt die absolut verrückte Hypris, weil es ist eine, es ist
+
+11:18.000 --> 11:24.520
+die totale Utopie, quasi alles, was es jetzt gibt, nochmal ganz anders nachzubauen.
+
+11:24.520 --> 11:30.320
+Und zwar genau so, also ganz abgesehen davon, dass alle Formen von Ungerechtigkeiten
+
+11:31.800 --> 11:34.760
+auf der Welt, die ja überhaupt nur dazu geführt haben, dass wir diese Technik haben
+
+11:34.760 --> 11:39.040
+können, also kolonialistische Strukturen, rassistische Strukturen, Ausbeutungsstrukturen
+
+11:39.040 --> 11:43.600
+aller Art, dabei unberücksichtigt sind bis zum gewissen Grad.
+
+11:45.560 --> 11:52.440
+Ist es auch einfach, würde ich sagen, technisch sehr unwahrscheinlich, dass das
+
+11:52.480 --> 11:54.120
+machbar ist, zumindest schnell.
+
+11:55.160 --> 11:59.320
+Und deswegen, um zu der Grundprämisse von Degros zurückzukehren, die für mich total
+
+11:59.320 --> 12:05.320
+wichtig ist und ich eigentlich gerade sagen wollte, geht in Degros davon aus, dass wir
+
+12:05.320 --> 12:07.520
+in einer Welt leben, in der es vieles schon gibt.
+
+12:09.320 --> 12:17.280
+Also es geht nicht darum, alles auf der Welt neu zu bauen, alle technischen Dinge, alle
+
+12:17.280 --> 12:21.240
+Beziehungen, alle Institutionen, alle Häuser abzureißen und neu zu bauen.
+
+12:21.280 --> 12:27.240
+Also in so letztlich auch das apokalyptisches Denken reinzugehen, sondern es geht eher
+
+12:27.240 --> 12:30.720
+darum zu sagen so Hey, wir sitzen jetzt auf diesem Sediment aus Scheiße.
+
+12:31.240 --> 12:32.360
+Was machen wir denn damit?
+
+12:32.560 --> 12:37.960
+Wie können wir denn damit jetzt einen lebensdienlichen Umgang finden und anerkennen,
+
+12:38.560 --> 12:43.320
+dass all diese toxischen Beziehungen in unseren technischen Geräten zum Beispiel auch
+
+12:43.320 --> 12:46.520
+drinstecken? Aber trotzdem sind sie ja jetzt schon mal da.
+
+12:47.320 --> 12:55.920
+Wir haben ja Milliarden von Smartphones, von Computern, von Untersee-Kabeln und ist es
+
+12:55.920 --> 13:02.400
+nicht vielleicht eine Idee, mit dem, was schon da ist, weiterzugehen und das aber ganz
+
+13:02.400 --> 13:08.880
+neu zu denken und neu wieder neu zusammenzubauen oder kreativ damit umzugehen?
+
+13:08.880 --> 13:13.280
+Und ich glaube, das ist halt schon ziemlich radikaler Ansatz, weil es letztlich rausgeht
+
+13:13.280 --> 13:15.720
+aus so einer bestimmten Art von Fortschrittslogik.
+
+13:16.640 --> 13:21.960
+Ihr seht euch in eurem Text dann zunächst mal unterschiedliche Strategien an im Umgang
+
+13:21.960 --> 13:28.520
+mit Technologien, um danach dann teils in Anlehnung, teils in Ablehnung eine
+
+13:28.520 --> 13:32.680
+Degrowth Strategie im Umgang mit digitalen Technologien zu entwickeln.
+
+13:33.480 --> 13:37.040
+Vielleicht schauen wir uns diese verschiedenen Strategien mal an, die ihr da unter die Lupe
+
+13:37.120 --> 13:44.880
+nehmt. Das sind Green New Deal, linker Aktionismus, Ludismus, also Maschinenstürmerei und als
+
+13:44.880 --> 13:47.440
+letztes Open Source Low Tech.
+
+13:48.080 --> 13:53.360
+Fangen wir also mit dem Green New Deal an, der ja durchaus innerhalb eines linken Spektrums,
+
+13:53.360 --> 13:59.200
+kann man sagen, eine Art hegemoniale Position einnimmt, würde ich sagen, aber natürlich
+
+13:59.200 --> 14:03.000
+auch durchaus mit guten Gründen kritisiert werden kann.
+
+14:03.880 --> 14:08.400
+Vielleicht kannst du da zunächst mal drauf eingehen, womit haben wir es da zu tun beim
+
+14:08.400 --> 14:09.280
+Green New Deal?
+
+14:10.160 --> 14:15.360
+Der Green New Deal geht ja letztlich davon aus, dass wir vielleicht, das habe ich ja
+
+14:15.360 --> 14:21.720
+gerade schon so ein bisschen angedeutet, dass wir im Prinzip unseren, also unseren jetzt
+
+14:21.720 --> 14:29.000
+sage ich mal von Mittelklasse Menschen in Europa Lebensstil einfach beibehalten können und
+
+14:29.000 --> 14:34.320
+die ganzen ökologischen Probleme, die da sind, dadurch in den Griff bekommen, dass
+
+14:34.320 --> 14:40.200
+wir sie technologisch lösen über Innovation und vor allem über Effizienz.
+
+14:40.760 --> 14:46.320
+Also in dem, das ist meistens ist noch nicht mal der Ansatz so weit gedacht, wie ich den
+
+14:46.320 --> 14:49.640
+vorher skizziert habe, dass wir eine komplette Kreislaufwirtschaft anstreben.
+
+14:49.640 --> 14:55.320
+Aber auch dazu gibt es natürlich super viele Überlegungen, sondern meistens ist noch der
+
+14:55.320 --> 14:59.680
+Schritt davor, dass es darum geht, wir müssen irgendwie Technologien entwickeln, die effizienter
+
+14:59.680 --> 15:05.080
+sind. Da lässt sich aus einer Degross Perspektive natürlich immer der Einwand des Rebound
+
+15:05.080 --> 15:11.440
+Effektes bringen, der auch super lange schon bekannt ist, in vielerlei Hinsicht erforscht,
+
+15:11.800 --> 15:16.440
+dass Effizienzgewinne also fast immer durch mehr Verbräuche aufgefressen werden.
+
+15:17.160 --> 15:23.280
+Und das ist, glaube ich, einfach der Baufehler hinter fast allen Green-Growth-Strategien
+
+15:23.280 --> 15:28.360
+letztlich. Weil ich würde, glaube ich, nicht so weit gehen, zu sagen, dass alle Green-New-Deal-Strategien,
+
+15:28.360 --> 15:35.520
+die ja auch noch mal was anderes sind als Green-Growth, per se gar nie als Bündnispartnerinnen
+
+15:35.520 --> 15:41.040
+für Degross-Ideen dastehen könnten.
+
+15:41.040 --> 15:46.680
+Also ich glaube, da stecken schon manche Maßnahmen drin, die einfach sinnvoll sind, also einen
+
+15:46.680 --> 15:55.040
+großflächigen Ausbau von erneuerbaren Energien zum Beispiel an vielen Stellen. Aber auch all das
+
+15:55.040 --> 16:01.440
+wird eben nichts, also wird nicht den gewünschten Effekt haben, wenn nicht auch Verbrauchsreduktionen
+
+16:01.440 --> 16:05.680
+auftreten. Und das ist dann die Stelle, wo wir wieder darüber sprechen können, wie kann das denn
+
+16:06.160 --> 16:10.960
+genau passieren? Und das finde ich gerade im Moment auch tatsächlich historisch ziemlich
+
+16:10.960 --> 16:17.520
+interessanten Moment, also mit der ganzen Gas- und Ölkrise und dem Krieg in der Ukraine, der
+
+16:17.520 --> 16:22.640
+natürlich superschrecklich ist für die Menschen da und durch nichts zu rechtfertigen. Aber eben
+
+16:22.640 --> 16:30.880
+diese Momente eröffnet von, es ist plötzlich sagbar in der Öffentlichkeit, dass es wahrscheinlich nicht
+
+16:31.280 --> 16:36.160
+ausreichen wird, irgendwie eine andere Energiebasis zu schaffen und auch nicht schnell genug gehen kann,
+
+16:36.160 --> 16:44.320
+sondern dass eben tatsächlich die Frage ist, wie kann über ein anderes Verhalten von Menschen auch
+
+16:44.320 --> 16:51.760
+Energieeinsparungen passieren? Und da ist dann wiederum oft das Problem, dass sich das so ganz
+
+16:51.760 --> 16:56.960
+pauschal an alle dann richtet, so nach dem Motto, wir müssen jetzt den Gürtel enger schieben,
+
+16:57.040 --> 17:02.800
+und halb zwei Grad kälter in unseren Wohnungen sitzen. Und dabei nicht thematisiert wird, ja,
+
+17:02.800 --> 17:07.200
+wer ist denn dieses Wir? Also wer sitzt denn nicht eh schon seit Jahren in einer zwei Grad zu kalten
+
+17:07.200 --> 17:11.840
+Wohnung? Und da ist natürlich jetzt so die ganz große Frage, wie kann man da mit sozialen
+
+17:11.840 --> 17:18.960
+Forderungen reingehen, soziale Ungerechtigkeiten auch in hohem Maße thematisieren. Das ist ja auch
+
+17:18.960 --> 17:23.440
+der Anspruch generell von Green New Deal eben im Gegensatz zu den sozialen Forderungen, die
+
+17:23.520 --> 17:28.720
+im Gegensatz zu so einer grünen Wachstumsstrategie der EU oder so zu sagen, ja, wir müssen die
+
+17:28.720 --> 17:33.920
+Ungerechtigkeiten, die so eine sozial-ökologische Transformation hervorbringt, mit adressieren und
+
+17:33.920 --> 17:36.880
+uns fragen, wie kann ein gerechter Übergang da stattfinden?
+
+17:37.760 --> 17:42.480
+Dann lass uns doch den linken Aktionismus noch anschauen, weil, wenngleich ihr da natürlich
+
+17:42.480 --> 17:48.720
+auch Vorbehalte habt gegenüber dem impliziten Technikoptimismus vielleicht auch, hatte ich
+
+17:48.880 --> 17:54.240
+trotzdem das Gefühl, dass da an mancher Stelle auch so ein bisschen durchschimmert, dass eine
+
+17:54.240 --> 17:58.640
+potenzielle Synthese vielleicht doch auch im Raum stünde, also dass es da durchaus ein
+
+17:58.640 --> 18:02.720
+ambivalentes Verhältnis gibt zwischen Degrowth und linken Aktionismus.
+
+18:04.720 --> 18:12.720
+Naja, klar gibt's ein ambivalentes Verhältnis, also natürlich stimmen, glaube ich, zumindest
+
+18:12.720 --> 18:18.480
+Kapitalismus und auch Kapitalismus und auch Kapitalismus und Kapitalismus und Kapitalismus
+
+18:18.480 --> 18:27.200
+und Kapitalismus, kritische Degrowth-Vertreterinnen mit den Aktionisten in den Punkt übereinen,
+
+18:27.200 --> 18:33.280
+dass wir uns eine postkapitalistische Zukunft wünschen und der Kapitalismus ein großes
+
+18:33.280 --> 18:39.520
+Problem ist und weg muss. Das ist ja schon eine ganz tragfähige gemeinsame Basis, die
+
+18:39.520 --> 18:45.520
+jetzt zum Beispiel mit VertreterInnen von verschiedenen grünes Wachstum oder auch Green
+
+18:45.520 --> 18:50.640
+Deal Konzepten gar nicht unbedingt gegeben ist. Also da ist vielleicht an manchen Stellen
+
+18:52.080 --> 18:56.640
+gibt es eine Überschneidung in bestimmten strategischen Entscheidungen zu sagen, es macht
+
+18:56.640 --> 19:05.040
+Sinn, dass Kommunen versuchen, energieautark zu werden und ihren eigenen Strom und ihre
+
+19:05.040 --> 19:09.200
+eigene Erheizung zu organisieren. Das wäre, glaube ich, so ein übereinstimmender Punkt,
+
+19:09.200 --> 19:14.080
+den wahrscheinlich die GroßvertreterInnen und VertreterInnen von einem New Deal machen
+
+19:14.240 --> 19:20.880
+würden und den wahrscheinlich auch AktionistInnen erstmal auch mit unterschreiben würden. Also ich
+
+19:20.880 --> 19:26.000
+finde das schon interessant, oft über die Grundversorgungstechniken auch zu sprechen,
+
+19:26.000 --> 19:31.320
+die einfach wichtig sind und Grundinfrastrukturen in unserem Alter, die auch alle technisch
+
+19:31.320 --> 19:39.120
+vermittelt sind. Und dann würden wahrscheinlich AktionistInnen und Degrowth-VertreterInnen übereinstimmen
+
+19:39.120 --> 19:46.320
+und sagen, ja, aber wir müssen das so organisieren, dass diese Technologien, die wir nutzen, auch in
+
+19:46.320 --> 19:52.880
+unserer eigenen Hand sind, sowohl in der Produktion als auch in der Nutzung, als auch was dann
+
+19:52.880 --> 19:58.400
+logischerweise die Verwendung der Daten auch angeht und so weiter. Also ich glaube, da gibt es auf
+
+19:58.400 --> 20:05.040
+jeden Fall eine große Einigkeit und da ein großes Fragezeichen gibt es halt wieder bei dieser Frage
+
+20:05.200 --> 20:12.640
+nach Entkopplung. Also ist es möglich, den Energieverbrauch, den Ressourcenverbrauch
+
+20:14.000 --> 20:19.120
+für die Herstellung und Aufrechterhaltung von diesen ganzen technologischen Infrastrukturen
+
+20:20.400 --> 20:27.840
+vom Wirtschaftswachstum zu entkoppeln? Oder auch anders gefragt, ist es eben überhaupt möglich,
+
+20:27.840 --> 20:34.320
+in eine derart durch technologisierte Zukunft, die tendenziell eher mehr Technik nutzt, als weniger
+
+20:34.320 --> 20:40.880
+hineinzugehen, ohne nicht massive Ressourcenprobleme zu bekommen? Und da herrscht, glaube ich,
+
+20:41.600 --> 20:48.000
+Dissens. Und mir ist, ehrlich gesagt, auch nach längerer Beschäftigung mit dem linken
+
+20:48.000 --> 20:55.280
+Aktionismus nicht klar, wie der aufgelöst werden kann, weil da einfach eine gewisse Hoffnung
+
+20:55.280 --> 20:58.800
+irgendwie besteht. Ja, das kriegen wir irgendwie schon hin, technisch, weil Menschen sind ja total
+
+20:58.800 --> 21:03.200
+einfallreich und so weiter und so weiter. Aber mir ist nicht ganz klar, worauf diese Hoffnung
+
+21:03.200 --> 21:09.680
+gründet und warum überhaupt. Das ist vielleicht das größte Problem, das ich damit habe. Was ist
+
+21:09.680 --> 21:14.640
+daran überhaupt so attraktiv? Also meines Erachtens ist die viel interessantere Frage, die
+
+21:15.520 --> 21:23.040
+D-Growth ja auch in massiven Weise stellt. Wie kann Wirtschaft viel stärker an Care und Sorgearbeit
+
+21:23.120 --> 21:30.000
+orientiert werden und an der Reproduktion des Lebens notwendigen und alle anderen Dinge sich
+
+21:30.000 --> 21:36.080
+dem unterordnen? Also das, würde ich sagen, ist ja eine ganz zentrale Kernfrage von D-Growth. Und
+
+21:36.080 --> 21:40.720
+die wird halt im linken Aktionismus so in der Form gar nicht gestellt, was vielleicht auch damit
+
+21:40.720 --> 21:45.200
+zu tun hat, dass die meisten Leute, die diese These vertreten, auch CIS-Männer sind, die sich
+
+21:45.200 --> 21:49.120
+vielleicht auch so in ihrem Alltag diese Frage nicht so oft stellen, sondern sich halt in ihren
+
+21:49.200 --> 21:53.760
+Schreibtisch setzen, irgendwie in ihrem Computer was machen. Und dann hat halt jemand anders für
+
+21:53.760 --> 21:59.520
+sie gekocht oder vielleicht auch jemand anders irgendwie ihre Wohnung geputzt. Und ich glaube,
+
+21:59.520 --> 22:03.920
+das ist halt eine Perspektivenfrage, die da drin steckt, aus der heraus ich sagen würde,
+
+22:03.920 --> 22:08.560
+ich finde das einfach relativ uninteressant, weil die Tätigkeiten, um die es ja wirklich geht,
+
+22:08.560 --> 22:12.960
+um die wir uns gemeinsam kümmern müssen, die lassen sich sowieso nicht technisieren. Und wenn
+
+22:12.960 --> 22:17.520
+sie sich technisieren ließen, dann wäre es tatsächlich eher ein Albtraum als eine besonders
+
+22:17.600 --> 22:23.440
+angenehme Zukunftsvorstellung, also Idee, dass alte Menschen komplett von Robotern gepflegt werden,
+
+22:23.440 --> 22:31.920
+dass irgendwie Kinder ausschließlich in technischen, dem Menschen externen Gebärmüttern
+
+22:31.920 --> 22:41.240
+heranreifen oder dass unsere Wohnung voll automatisch das Licht anmacht und auf mich reagiert,
+
+22:41.240 --> 22:45.960
+wenn ich reinkomme und ich keinen Lichtschalter mehr betätigen muss, mein Kühlschrank immer
+
+22:46.000 --> 22:51.440
+automatisch gefüllt wird. Also ich finde, das sind eher tatsächlich Dystopien aus dem Orwellschen
+
+22:51.440 --> 22:59.640
+Mottenkasten oder so, als jetzt irgendwie besonders attraktive Zukunftsvorstellungen. Aber das sind,
+
+22:59.640 --> 23:06.720
+glaube ich, vielleicht auch einfach verschiedene Bilder von wünschbaren menschlichen Zusammenleben,
+
+23:06.720 --> 23:09.960
+die dahinterstecken, die es schwierig machen, da zusammenzukommen.
+
+23:09.960 --> 23:15.720
+Ja, wobei halt, also ich mir ehrlich gesagt dann immer nicht so ganz sicher bin. Also ich
+
+23:15.720 --> 23:21.680
+hatte eine Episode gemacht mit Joanna Pope zu Accelerationismus und Degrowth und fand das
+
+23:21.680 --> 23:26.480
+eigentlich relativ überzeugend, wie sie versucht hat, darzulegen, dass im Grunde das meiste mehr
+
+23:26.480 --> 23:31.840
+oder minder auf Missverständnissen beruhe, also dass im Grunde die Überschneidungen doch viel
+
+23:31.840 --> 23:36.760
+höher seien, als man eben meinen würde und ein paar hast du jetzt natürlich schon angesprochen,
+
+23:36.760 --> 23:41.840
+aber auch damals meinte sie und da würde ich dir jetzt auch vollkommen, also ihr und dir,
+
+23:41.840 --> 23:48.560
+vollkommen zustimmen, dass im Grunde diese Frage der Entkopplung eigentlich der wirkliche
+
+23:48.560 --> 23:54.320
+Knackpunkt ist. Also in Bezug auf diese verschiedenen Bilder von Zukunft, da weiß ich nicht so genau,
+
+23:54.320 --> 24:00.320
+muss man wahrscheinlich dann die einzelnen VertreterInnen anschauen, wer da welche
+
+24:00.320 --> 24:06.280
+Position im Einzelnen hat und inwiefern die eben dann in das hineinragen, was du als dystopisch
+
+24:06.280 --> 24:10.760
+empfinden würdest. Ich habe es leider zeitlich noch nicht geschafft, mir die neuen Arbeiten von
+
+24:10.800 --> 24:17.240
+Helen Hester anzuschauen, die sich definitiv der Frage der Care-Arbeit zuwendet, eben aber dann
+
+24:17.240 --> 24:23.160
+aus einer aktionistischen Perspektive und kann dazu jetzt sagen, insofern nicht sagen, dass ich
+
+24:23.160 --> 24:29.800
+ihre Perspektive auf dieses Thema eben noch nicht kenne, aber hätte jetzt wirklich auch das Gefühl,
+
+24:29.800 --> 24:35.040
+dass am Ende der entscheidendste Knackpunkt diese Frage der Entkopplung ist eigentlich. Also wo
+
+24:35.040 --> 24:41.880
+wirklich da offene Fragen sind beim linken Aktionismus, inwiefern man da nicht eben im
+
+24:41.880 --> 24:47.280
+Grunde bestimmte Einsichten aus der Degrowth-Perspektive mit einbinden müsste in seine
+
+24:47.280 --> 24:57.360
+Ideen von Zukunft. Und was die anderen Vorbehalte anbelangt, könnte ich mir vorstellen, dass es
+
+24:57.360 --> 25:02.840
+eben bei einzelnen VertreterInnen vielleicht dann schon das geben mag, was du jetzt da
+
+25:02.840 --> 25:08.520
+gezeichnet hast. Also gerade jetzt bei dem Fully Automated Luxury Communism von Aaron Bastani
+
+25:08.520 --> 25:15.520
+findet man ähnliche Sachen wie die, die du jetzt beschrieben hast, in jedem Fall, aber würde jetzt
+
+25:15.520 --> 25:19.800
+auch meinen, dass es innerhalb des links aktionistischen Spektrums Positionen gibt,
+
+25:19.800 --> 25:28.600
+die da vielleicht auch einfach eine reflektiertere Position in Bezug auf die Techniknutzung vielleicht
+
+25:28.600 --> 25:32.760
+an den Tag legen. Beziehungsweise würde es mich auch interessieren, was ich einfach ein letzter
+
+25:32.760 --> 25:38.840
+Zeit getan hat, weil ich das Gefühl hatte, dass eigentlich, so wie es bei Degrowth eben verstärkte
+
+25:38.840 --> 25:43.640
+Auseinandersetzungen mit der Frage der Technologie und Techniknutzung gibt, auf der anderen Seite
+
+25:43.640 --> 25:49.120
+ist eigentlich, glaube ich, auch eine Tendenz innerhalb des links aktionistischen Spektrums
+
+25:49.120 --> 25:55.240
+gab, sich diesen blinden Flecken eigentlich mehr zuzuwenden, weil das auf jeden Fall stimmt,
+
+25:55.240 --> 26:02.560
+was du sagst, dass das doch sehr stark einfach so eine weiß-männlich-cis-Perspektive war,
+
+26:02.560 --> 26:09.400
+auf jeden Fall zu Beginn mindestens und müsste man halt schauen, inwiefern da Formen der Aufarbeitung
+
+26:09.400 --> 26:14.480
+oder Umarbeitung vielleicht auch stattgefunden haben. Ja voll, das finde ich eine total spannende Frage.
+
+26:14.480 --> 26:19.040
+Also ich könnte mir schon vorstellen, dass es auch so Felder geben könnte, gerade mit euren
+
+26:19.040 --> 26:26.280
+VertreterInnen, wo man produktiv gemeinsam weiter denken könnte, die sich im Imaginationsraum von
+
+26:26.280 --> 26:33.440
+Solarpunk und Peer-to-Peer-Production im weitesten Sinne bewegen und kommen. Also ich glaube,
+
+26:33.440 --> 26:39.600
+da könnte so ein superspannender gemeinsamer Vorstellungsraum entstehen, wo tatsächlich
+
+26:39.600 --> 26:48.280
+VertreterInnen der verschiedenen Richtungen Bilder und Fragen mitbringen könnten, um zu sagen so,
+
+26:48.360 --> 26:56.560
+hey, was heißt das denn? Und die nächste Strategie, die ihr euch dann anschaut, ist der Luddismus und
+
+26:56.560 --> 27:02.680
+da muss ich ehrlich gesagt ein bisschen schmunzeln, weil es natürlich mit zu einem gewissen Grad auch
+
+27:02.680 --> 27:08.760
+ein Vorurteil, das man vielleicht hat gegenüber der D-Growth-Bewegung durchaus bestätigt. Also
+
+27:08.760 --> 27:14.520
+zumindest, wenn man eben die Ludditen falsch versteht, aber da gibt es natürlich ein Fundament,
+
+27:14.520 --> 27:19.800
+dass es anders zu verstehen geht und auf das ihr euch ja offensichtlich dann auch bezieht. Also es
+
+27:19.800 --> 27:27.400
+geht nicht um eine reaktionäre Ablehnung von Technologie per se, sondern es geht natürlich
+
+27:27.400 --> 27:37.200
+um andere Formen der Bezugnahme und auch ein Rückerobern bestimmter Kräfte oder Machtverhältnisse
+
+27:37.200 --> 27:42.320
+vielleicht. Aber am besten sagst du was dazu. Was konnte dir den Luddismus abgewinnen?
+
+27:43.280 --> 27:50.040
+Ich glaube, das interessante Moment, dass im Luddismus, also dem was man auf deutsch so schön
+
+27:50.040 --> 27:57.840
+Maschinensturmerei nennt, innewohnt, also von den ersten Aktionen bei den Weber, die ihre
+
+27:57.840 --> 28:01.640
+mechanischen Webstühle zerstört haben, das ja auch schon eine ganze Weile her zum Beispiel und so,
+
+28:01.640 --> 28:11.880
+dass sich sozusagen eine Gewalt im Arbeitskampf gegen die Produktionsmittel selbst richtet. Ich
+
+28:11.880 --> 28:18.080
+glaube, das ist halt nicht dumm, weil die Produktionsmittel selbst ja schon auch eine
+
+28:18.080 --> 28:24.320
+bestimmte Herrschaftsförmigkeit auch transportieren ganz oft und es ist eben nicht so einfach, dass wir
+
+28:24.320 --> 28:30.880
+uns die unter kapitalistischen Verhältnissen entstandenen Produktionsmittel einfach so
+
+28:30.880 --> 28:35.080
+aneignen können und sie dann in anderen gesellschaftlichen Verhältnissen bruchlos
+
+28:35.080 --> 28:42.720
+weiter nutzen können, weil eben in die technischen Systeme und Geräte selber
+
+28:42.720 --> 28:48.120
+bestimmte Herrschaftsstrukturen oft eingeschrieben sind. Und jetzt kann man darüber streiten,
+
+28:48.120 --> 28:52.920
+inwiefern das jetzt bei mechanischen Webstühlen zum Beispiel der Fall ist oder nicht. Also ob man
+
+28:52.920 --> 28:59.400
+die sich sozusagen problemlos aneignen könnte oder nicht. Aber am Beispiel von Atomkraft kann
+
+28:59.400 --> 29:07.000
+man das zum Beispiel ziemlich gut sehen. Also um überhaupt Atomkraft, also jetzt Zivilnutzung von
+
+29:07.000 --> 29:14.320
+Atomkraft betreiben zu können, braucht es ja einen super komplexen hierarchisch organisierten Staat,
+
+29:14.320 --> 29:21.440
+der auch sozusagen garantiert dann auf super viele Jahrhunderte hinaus, dass diese Abfälle,
+
+29:21.440 --> 29:27.280
+die dabei entstehen, auch sicher verwahrt bleiben und auch weiter sich um die gekümmert wird und
+
+29:27.320 --> 29:34.960
+so weiter. Es braucht große staatliche Garantien für die Nutzung von so einer Hochrisikotechnologie
+
+29:34.960 --> 29:40.120
+und das finde ich schon ein ganz interessanter Fakt, dass sozusagen die Langlebigkeit von
+
+29:40.120 --> 29:47.040
+bestimmten staatlichen bürokratischen Strukturen dabei vorausgesetzt wird und es zeigt auch eine
+
+29:47.040 --> 29:56.400
+gewisse Ähnlichkeit, die halt in der industriellen Formation liegt von dem real existiert gehabt
+
+29:56.400 --> 30:00.360
+haben, den Sozialismus, den wir hatten und den kapitalistischen System, die halt eine sehr
+
+30:00.360 --> 30:04.040
+ähnliche technologische Basis ja auch genutzt haben, zum Beispiel beide auch Atomkraftwerke
+
+30:04.040 --> 30:12.200
+hatten und so weiter. Und das zeigt, dass es eben, wenn wir wirklich hin zu einer Gesellschaft kommen
+
+30:12.200 --> 30:19.920
+wollen, die postkapitalistisch ist, die gerecht ist und ökologisch ist und mehr Selbstbestimmung
+
+30:19.920 --> 30:26.560
+für die Menschen möglich macht, dann muss das eben eine sein, die auch in einem stärkeren Maße,
+
+30:26.560 --> 30:31.720
+als das die sozialistischen Staaten des 20. Jahrhunderts getan haben, aus den bestehenden
+
+30:31.720 --> 30:37.320
+industrialistischen und technologischen Imperativen aussteigt und sich eben fragt,
+
+30:37.320 --> 30:45.520
+wie kann eine andere Form von Technik und Mensch-Weltvermittlung aussehen? Und das ist,
+
+30:45.560 --> 30:51.920
+glaube ich, ein interessanter Impuls, der aus den luditischen Kämpfen eben rauskommt. Vielleicht
+
+30:51.920 --> 30:57.760
+könnte man noch so was sagen zu dem historischen Determinismus, also das technologische Erzählungen,
+
+30:57.760 --> 31:06.960
+wie jetzt accelerationistische Erzählungen, New Deal-Erzählungen oder auch so ganz Mainstream-Erzählungen
+
+31:06.960 --> 31:12.600
+von technologischem Fortschritt oder Ökomodernisierung, dass die eben immer so eine
+
+31:12.600 --> 31:19.480
+bestimmte Grundannahme drin haben von technischem Fortschritt, der sich quasi wie von selbst
+
+31:19.480 --> 31:30.160
+ereignet, der also gar nicht mehr als gesellschaftlich hervorgebrachtes systemisches
+
+31:30.160 --> 31:35.800
+Vorgehen kenntlich wird, sondern der ebenso naturalisiert wird auf eine bestimmte Weise.
+
+31:35.800 --> 31:40.040
+Das wird sich eher eignen. Technischer Fortschritt ist das, was passiert, das ist Geschichte, das ist
+
+31:40.040 --> 31:47.360
+historisch normal und so weiter. Und ich glaube, der luditische Impuls zeigt da nochmal ganz
+
+31:47.360 --> 31:51.480
+deutlich auf, dass das eben nicht so ist. Und ich glaube, das ist halt super wichtig, wenn wir über
+
+31:51.480 --> 32:00.040
+Alternativen nachdenken, dass wir nicht davon ausgehen, dass eine bestimmte Art von Fortschrittsdenken
+
+32:00.040 --> 32:04.320
+naturgegeben ist, weil das ist sie halt nicht. Also das ist eine bestimmte Ausprägung von einer
+
+32:04.320 --> 32:11.280
+bestimmten Art von Gesellschaft. Aber das ist überhaupt kein Merkmal von Menschen als solchen
+
+32:11.280 --> 32:18.160
+oder so. Muss es auch nicht sein und ist vielleicht auch nicht besonders hilfreich im Erreichen eines
+
+32:18.160 --> 32:23.480
+guten Lebens für alle Menschen. Und die letzte Strategie, die ihr euch dann anschaut und die
+
+32:23.480 --> 32:29.520
+eigentlich schon auch sehr dann eigentlich in die Richtung tendiert, der ihr euch dann selbst
+
+32:29.520 --> 32:35.400
+bedient, das sind die Open-Source-Low-Tech-Strategien. Vielleicht kannst du dazu noch was sagen.
+
+32:35.400 --> 32:40.360
+Da kommen ja schon einige Dinge drin vor, die du jetzt vorhin auch schon angesprochen hast,
+
+32:40.360 --> 32:47.560
+im Sinne der sowohl selbstbestimmten als auch eben abwägenden Techniknutzung vielleicht.
+
+32:47.560 --> 32:52.840
+Ja, ich glaube, das hat ganz viel damit zu tun, mit dem, was ich ganz zu Beginn auch gesagt habe.
+
+32:52.840 --> 32:58.920
+Also wie können wir der Tatsache Rechnung tragen, dass wir auf einem Berg von unglaublich
+
+32:58.920 --> 33:03.360
+viel technischer Infrastruktur und technischen Geräten ja schon sitzen, die schon da sind?
+
+33:03.360 --> 33:11.920
+Und wie können wir über Schlaues dran rumbasteln, dafür sorgen, dass wir die einfach länger und
+
+33:11.920 --> 33:18.280
+anders nutzen können, als es vielleicht ursprünglich vorgesehen war? Weil Open-Source-Low-Tech heißt ja
+
+33:18.280 --> 33:26.200
+ganz oft, dass wir Computer, die von den Betriebssystemen der großen Firmen eigentlich
+
+33:26.200 --> 33:32.760
+aussortiert worden sind, nochmal zum Laufen kriegen zum Beispiel. Oder Nico spricht da auch
+
+33:32.760 --> 33:38.560
+ganz oft von Old-Tech, das finde ich auch einen tollen Begriff, also zu sagen, es sind schon viele
+
+33:38.560 --> 33:48.560
+tolle IT-Protokolle oder schlaue Weisen entwickelt worden, miteinander zu kommunizieren oder Technik
+
+33:48.560 --> 33:53.480
+zu nutzen, die dann aber auch wieder in Vergessenheit geraten sind durch eine Art von technischem
+
+33:53.480 --> 33:57.960
+Fortschritt, durch die im Prinzip dann auch Hardware aussortiert wird, die eigentlich gar
+
+33:57.960 --> 34:06.320
+nicht aussortiert werden müsste. Und ich glaube schon, dass das tatsächlich auch was ist, was
+
+34:06.320 --> 34:16.280
+einfach auf uns zukommen wird, zumindest für bestimmte Teile der Bevölkerung, die nicht so
+
+34:16.280 --> 34:21.640
+wohlhabend sind und die vielleicht nicht den Mittelklassen angehören, lässt sich das schon
+
+34:21.640 --> 34:33.920
+sichtigen, dass es ja auch härter wird, selbst in den Zentren der Weltwirtschaft überhaupt
+
+34:33.920 --> 34:44.560
+ein halbwegs materiell sichergestelltes Leben zu führen. Und da sind Skills vom Typ irgendwie
+
+34:44.560 --> 34:55.160
+wie Tinkering und Brikolage einfach lebensnotwendig, um überhaupt Zugang zu haben zu allen möglichen
+
+34:55.160 --> 35:01.640
+Prozessen. Also der Witz ist ja, dass die staatlichen Bürokratien genauso wie viele
+
+35:01.640 --> 35:10.440
+Konsumangebote ja voraussetzen, dass wir sozusagen uns zu Hause darum kümmern,
+
+35:10.440 --> 35:15.240
+einen bestimmten technischen Stand aufweisen zu können. Das heißt, wir sind ja gezwungen,
+
+35:15.240 --> 35:23.840
+in einer gewissen Weise das vorzuhalten und uns da fit zu machen und das überhaupt möglich zu
+
+35:23.840 --> 35:31.320
+machen, zu kaufen. Und wenn das Kaufen nicht möglich ist, dann ist die Frage, was denn dann?
+
+35:31.320 --> 35:38.560
+Also es geht zum einen darum, glaube ich, aus einer Position von wenig Zugriff auf Ressourcen
+
+35:38.560 --> 35:44.200
+zu haben, sich trotzdem diese Ressourcen anzueignen und zum anderen eine größere
+
+35:44.200 --> 35:50.560
+Freiheit auch im Umgang mit technischen Geräten zu erlangen. Also in dem, was gehackt wird,
+
+35:50.560 --> 35:56.680
+kann ich ja viel stärker darüber bestimmen, was passiert zum Beispiel mit den Daten, welche Art
+
+35:56.680 --> 36:05.440
+von System und Protokollen sollen auf diesem Gerät überhaupt laufen. Und ich glaube, hier ist
+
+36:05.480 --> 36:11.560
+tatsächlich vielleicht auch, weiß ich gar nicht genau, eine Möglichkeit gegeben, weil du da
+
+36:11.560 --> 36:15.160
+vorher darauf angesprochen hast, wo gibt es eigentlich so Überschneidungspunkte mit bestimmten
+
+36:15.160 --> 36:23.120
+accelerationistischen Ideen? Also ich glaube, dass, wenn wir überhaupt emanzipatorisch mit
+
+36:23.120 --> 36:31.240
+digitalen Technik, digitalen Prozessen umgehen wollen, dann ist es eben unabdingbar,
+
+36:31.240 --> 36:39.600
+sich die in einer anderen Weise anzueignen. Und dafür ist Open Source und Free Software
+
+36:39.600 --> 36:48.960
+einfach das geeignetste Werkzeug. Das ist ja so ein doppelter Zugang, dieser Zugang von Open
+
+36:48.960 --> 36:54.600
+Source Low-Tech. Das eine ist, die bestehende technische Infrastruktur zu hacken und zu
+
+36:54.600 --> 37:02.920
+verändern und sich zugänglich zu machen. Und das andere ist auch immer wieder konkret zu
+
+37:02.920 --> 37:09.600
+überlegen, welche Art von Technik braucht es überhaupt wo. Also nicht den Weg zu gehen,
+
+37:09.600 --> 37:15.800
+zu sagen, wir machen immer das technisch maximal Machbare, sondern sich zu fragen,
+
+37:15.800 --> 37:24.120
+wie kann denn mit minimalem technischen Aufwand eigentlich das Maximale erreicht werden. Und das
+
+37:24.120 --> 37:30.840
+hat natürlich dann wieder gewisse Ähnlichkeiten zu einer New Deal-Effizienzstrategie, wo sich das
+
+37:30.840 --> 37:35.520
+wieder trifft oder so. Also wenn wir nicht jetzt im engeren Sinn über digitale Technik sprechen,
+
+37:35.520 --> 37:41.200
+sondern zum Beispiel im Gebäudebereich, sieht man das auf eine interessante Art und Weise. Da gibt
+
+37:41.200 --> 37:48.120
+es mittlerweile einen relativ großen Diskurs um Low-Tech-Neubau, auch für größere Gebäude,
+
+37:48.120 --> 37:52.400
+für Verwaltungsgebäude. Da war ich kürzlich auf einer Tagung, da habe ich Menschen gesehen,
+
+37:52.560 --> 37:59.840
+der hat zum Beispiel eine Schule präsentiert, also einen Schulneubau, der nach Low-Tech-Kriterien
+
+37:59.840 --> 38:04.280
+gebaut wurde, was eben heißt, bei so einem großen öffentlichen Gebäude, wo es super viele
+
+38:04.280 --> 38:09.760
+Vorschriften gibt über irgendwie Belüftung, CO2-Gehalt in den Klassenräumen, Licht,
+
+38:09.760 --> 38:15.400
+Dingsbums und so, das alles nicht mit künstlichen Lichtquellen zu lösen und mit komplizierten
+
+38:15.400 --> 38:21.120
+Belüftungssystemen, sodass irgendwie die Hälfte der Baukosten dann mittlerweile die Haustechnik
+
+38:21.120 --> 38:26.640
+beträgt, sondern eben zu sagen, wie können wir denn eher traditionellere Formen von zum
+
+38:26.640 --> 38:33.000
+Beispiel Fensterlüftung optimieren, vielleicht auch mit Rollosystemen oder was weiß ich,
+
+38:33.000 --> 38:38.480
+und bestimmte Materialien einfach nutzen, die eine ganz andere thermische Wirkung haben,
+
+38:38.480 --> 38:43.720
+dass das Gebäude halt im Winter wärmer bleibt und im Sommer kühler und so weiter. Das finde ich
+
+38:43.720 --> 38:53.720
+schon total spannende Ansätze, eben immer wieder zu überlegen, was ist denn eine angepasste Technik
+
+38:53.720 --> 38:59.160
+an einem bestimmten Ort, zu einem bestimmten Zeitpunkt und auch da, also auch in diesem
+
+38:59.160 --> 39:07.120
+Gebäudetechnikbereich, ist natürlich dann immer die spannende Frage wieder, ist es nicht sinnvoller,
+
+39:07.120 --> 39:13.440
+aus vielerlei Hinsicht halt ein altes Gebäude, was schon mal da steht, aber trotzdem aus
+
+39:13.440 --> 39:18.320
+ökologischer Perspektive ziemlich fragwürdig ist und vielleicht auch aus sozialer Perspektive
+
+39:18.320 --> 39:23.680
+fragwürdig ist, weil es für irgendeine Art von Anstaltsnutzung optimiert ist, die man heute vielleicht
+
+39:23.680 --> 39:28.040
+gar nicht mehr haben will, kann das nicht trotzdem irgendwie weiter und umgenutzt werden, kann das
+
+39:28.040 --> 39:35.040
+nicht trotzdem auch gehackt werden, dieses Haus und umgebaut und weggebastelt mit all dem toxischen
+
+39:35.160 --> 39:40.200
+Potenzial, was da halt drin ist, in Form von giftigen Verbundmaterialien und so weiter.
+
+39:40.200 --> 39:47.080
+Und ich glaube, da wird es halt auch nicht, also keine abschließende Antwort oder Lösung dafür
+
+39:47.080 --> 39:55.360
+geben, für diese Frage nach, zu welchem Grad ist es aber halt doch notwendig, technikneu
+
+39:55.360 --> 40:02.200
+anders kreislaufförmig zu denken und zu welchem Grad ist es halt notwendig, den ganzen Berg von
+
+40:02.280 --> 40:07.840
+Zeug, auf dem wir sitzen, kreativ umzunutzen und weiterzunutzen.
+
+40:07.840 --> 40:14.680
+Und im Grunde ist ja das dann eigentlich schon auch, also Open Source Low Tech ist ja eigentlich auch
+
+40:14.680 --> 40:19.440
+das, was eure Strategie dann letztlich ausmachen würde, oder? Also, weil ich jetzt hier quasi
+
+40:19.440 --> 40:24.120
+diesen vier Schritt mit Green New Deal, linker Aktionismus, Ludismus und dann eben Open Source
+
+40:24.120 --> 40:30.400
+Low Tech, also das Letztere wäre eigentlich das, was mal primär euren Vorschlag für eine
+
+40:30.640 --> 40:37.720
+Degrowth Strategie in Bezug auf Technologie und Techniknutzung eben ausmachen würde, mit gewissen
+
+40:37.720 --> 40:43.840
+Anleihen, mal mindestens beim Ludismus und eventuell auch beim linken Aktionismus und auch
+
+40:43.840 --> 40:48.640
+in Teilen, zumindest in einer strategischen Kooperation mit Formen des Green New Deals,
+
+40:48.640 --> 40:53.360
+wenn ich das richtig verstehe. Und vielleicht noch, weil du eben selber jetzt nochmal überlegt
+
+40:53.360 --> 40:57.120
+hattest, in Bezug auf, ob es jetzt denn Überschneidungen geben könnte mit linkem
+
+40:57.120 --> 41:02.800
+Aktionismus. Ich glaube, warum ich das angesprochen hatte, war auch, weil dann bei
+
+41:02.800 --> 41:09.880
+einem der Beispiele, was ihr dann in eurem Buchkapitel eben anführt, der Dissidim-Plattform
+
+41:09.880 --> 41:16.320
+in Barcelona, weil das ja eigentlich letztlich etwas ist, also so eine Koordinations-, digitale
+
+41:16.320 --> 41:22.560
+Koordinationsplattform für Fragen der effektiven Organisation, das ist ja was, was also ganz eins zu
+
+41:22.640 --> 41:28.440
+eins in Theorien des linken Aktionismus auch vorkommt. Und insofern hatte ich das Gefühl,
+
+41:28.440 --> 41:33.240
+dass da eigentlich wieder so eine gewisse Form von Brückenschlag eigentlich gemacht wird,
+
+41:33.240 --> 41:37.120
+sowohl eben in Richtung des linken Aktionismus, wenn man so will, oder dass es zumindest
+
+41:37.120 --> 41:45.760
+Anknüpfungspunkte wären, als auch in Bezug auf die derzeit ja eigentlich auch sehr lebhaft geführte
+
+41:45.760 --> 41:51.560
+zeitgenössische Debatte rund um Fragen der demokratischen Wirtschaftsplanung, wo ich also
+
+41:51.560 --> 41:56.720
+wirklich das Gefühl hatte, dass ihr da eigentlich im Abschluss des Kapitels im Grunde auch nochmal
+
+41:56.720 --> 42:02.520
+sowas wie Anknüpfungspunkte aufmacht eigentlich. Das war, glaube ich, so ein bisschen auch der
+
+42:02.520 --> 42:11.760
+Grund, warum ich jetzt im Einstieg dann da doch vielleicht mehr Potenzial für eben Allianzen
+
+42:11.760 --> 42:15.800
+vielleicht auch gesehen hätte, als du das vielleicht initial jetzt auch gedacht oder
+
+42:15.800 --> 42:23.760
+gemeint hättest. Vielleicht kannst du einfach ja auch dieses Projekt einfach nochmal umschreiben,
+
+42:23.760 --> 42:28.560
+dass die Hörerinnen und Hörer sich auch auskennen, wovon die Rede ist. Worum handelt es sich bei
+
+42:28.560 --> 42:35.240
+Dezidim, dieser Plattform für partizipativer Demokratie, die in Barcelona damals entwickelt
+
+42:35.240 --> 42:42.200
+worden ist? Genau, Dezidim ist eine digitale Plattform für die Bürgerbeteiligung, die in
+
+42:42.280 --> 42:47.480
+Barcelona vor allem entwickelt und eingesetzt wird, aber mittlerweile in mehr als 40 Kommunen
+
+42:47.480 --> 42:52.920
+weltweit, glaube ich, zum Einsatz kommt. Und das ist eine Open Source Plattform, wo es eben darum
+
+42:52.920 --> 43:03.160
+geht, dass Einwohner, eine Stadt, bestimmte politische Maßnahmen, Haushalt, Budget, andere
+
+43:03.160 --> 43:09.120
+Sachen gemeinsam auch diskutieren und auch abstimmen können. Und in Barcelona war das Ziel,
+
+43:09.240 --> 43:14.560
+dass über 90 Prozent der Maßnahmen unter Einbeziehung von dieser Dezidim Plattform
+
+43:14.560 --> 43:18.600
+entschieden werden. Ich weiß nicht genau, ob das erfüllt worden ist, aber das ist natürlich ein
+
+43:18.600 --> 43:23.680
+ganz interessanter Ansatz. Der versucht, Beteiligung und demokratische Entscheidungen
+
+43:23.680 --> 43:32.920
+nochmal anders zu denken und der als Plattform selber das eben in einer offenen, Open Source
+
+43:32.920 --> 43:37.920
+mäßigen Weise macht. Und ich glaube, du hast schon recht, dass sich an so einem Punkt bestimmte
+
+43:37.920 --> 43:48.680
+Strategien von Degross und auch von Accelerationismus treffen könnten, also auch insofern als in so
+
+43:48.680 --> 43:52.640
+einer ganz praktischen Art und Weise, und da weiß ich nicht, ob das bei Dezidim so ist oder nicht,
+
+43:52.640 --> 43:59.400
+tatsächlich, für Open Source Lösungen es ja meistens möglich ist, eben auch ältere Hardware
+
+43:59.400 --> 44:06.600
+mit einzubinden. Und es eben prinzipiell, da die Möglichkeit gibt, im Gegensatz zu, wenn so eine
+
+44:06.600 --> 44:15.240
+Plattform jetzt von einem kommerziellen Anbieter ist, da auch dann Forks, also so Gabelungen zu
+
+44:15.240 --> 44:19.280
+machen und zu sagen, so hey, es gibt irgendwie eine neue Entwicklerinnengruppe, die sagt jetzt,
+
+44:19.280 --> 44:23.080
+für dieses und jene abgehängte Betriebssystem wird jetzt auch nochmal Zugang geschaffen, damit
+
+44:23.400 --> 44:28.280
+Dezidim dann auf so einem alten Rechner auch noch wieder laufen kann zum Beispiel oder so. Und das
+
+44:28.280 --> 44:36.520
+ermöglicht natürlich auch so ganz basic, wenn man auf den ökologischen Fußabdruck der beteiligten
+
+44:36.520 --> 44:44.720
+Hardware guckt, ganz andere Möglichkeiten der Länger- und Weiternutzung von Technologien. Und
+
+44:44.720 --> 44:51.280
+das ermöglicht aber eben gleichzeitig auch ganz neue Formen von demokratischer Abstimmung und
+
+44:51.280 --> 45:00.080
+Zusammenwirken gegenüber eben der Old-School-Bürokratie, wie wir sie kennen. Ein anderes
+
+45:00.080 --> 45:07.960
+Beispiel, was mir da immer noch einfällt, wo es halt grandios gerade gescheitert ist, war jetzt im
+
+45:07.960 --> 45:15.440
+Zusammenhang mit der Pandemie und den Lockdowns die Erfordernis von öffentlichen Schulen mit
+
+45:15.440 --> 45:23.520
+bestimmter Online-Software, Kooperationssoftware zu arbeiten. Also ich weiß nicht, wie das bei euch
+
+45:23.520 --> 45:30.880
+war Jan, aber bei uns war das so. An der Schule meiner Tochter hier in Berlin wurde dann Microsoft
+
+45:30.880 --> 45:37.120
+Teams eingeführt, weil Microsoft auch gesagt hat, wir stellen euch das irgendwie ein Jahr lang
+
+45:37.120 --> 45:41.400
+kostenlos zur Verfügung. Die Schulen wurden damit so relativ allein gelassen, was sie machen und
+
+45:41.400 --> 45:46.040
+dann hat halt letztlich so die Schulleiterin zusammen mit dem Stadtbezirk entschieden, was
+
+45:46.040 --> 45:50.000
+da irgendwie jetzt für eine Software angeschafft wird. Und das ist jetzt natürlich so eine krasse
+
+45:50.000 --> 45:56.840
+Lock-In-Situation, weil man hat halt jetzt dieses System und die Kinder werden halt drauf trainiert,
+
+45:56.840 --> 46:01.120
+mit dieser bestimmten Art von Microsoft-Software zu arbeiten, die natürlich auch wiederum nur auf
+
+46:01.120 --> 46:09.320
+bestimmte Regeln läuft etc. Und da ist halt eine super große Chance verschenkt worden zu einer
+
+46:09.320 --> 46:18.640
+tatsächlich interessanten technischen Bildung beizutragen und auch einer größeren Demokratisierung
+
+46:18.640 --> 46:27.960
+von Unterricht und Unterrichtsmitteln beizutragen, weil stellt man sich vor, das wäre alles mit
+
+46:27.960 --> 46:34.640
+Open Source-Lern- und Gruppensoftware-Erfolg, die es tatsächlich ja gibt, die auch tatsächlich mit
+
+46:34.640 --> 46:39.560
+staatlichen Geldern entwickelt wurde und in der Testphase ist und die man einfach hätte implementieren
+
+46:39.560 --> 46:44.160
+können, wofür aber das technische Know-how und der politische Wille nicht da waren an den Schulen,
+
+46:44.160 --> 46:49.400
+dann hätte man gleichzeitig auch sagen können, okay, wir schaffen jetzt halt einen Haufen gebrauchter
+
+46:49.400 --> 46:53.400
+Geräte für die Schülerinnen und Schüler an, das wäre super viel billiger gewesen, das wäre viel
+
+46:53.400 --> 46:57.320
+ökologischer gewesen, die Kinder hätten viel mehr gelernt, weil sie dann nämlich gelernt hätten,
+
+46:57.320 --> 47:01.360
+erstmal, hey, wie können wir denn, was weiß ich, Ubuntu oder irgendein anderes Linux-Dirivat auf
+
+47:01.400 --> 47:05.960
+diesem System installieren, wie können wir eigentlich selber irgendwie unsere Rechner
+
+47:05.960 --> 47:12.720
+konfigurieren, wie können wir dann mit dieser Lernsoftware lernen, umzugehen und das finde ich
+
+47:12.720 --> 47:19.800
+schon krass, also wie da so neue Formen von Public-Private-Partnerships entstanden sind,
+
+47:19.800 --> 47:26.640
+die natürlich ganz im Geiste irgendwie neoliberaler Entwicklungen der letzten 20 Jahre sich befinden
+
+47:26.640 --> 47:32.400
+und sowas wie Dezidim ist eben ein Beispiel für eine neue Art von Kooperation, nämlich sowas
+
+47:32.400 --> 47:38.600
+wie eine Public-Commons-Partnership, also die Frage, wie können denn öffentliche Institutionen mit
+
+47:38.600 --> 47:46.560
+Commons-organisierten Institutionen, sowas wie einem Open-Source-Software-Projekt oder sowas
+
+47:46.560 --> 47:52.360
+wie vielleicht auch einer genossenschaftlich organisierten Bürgerenergiegenossenschaft oder
+
+47:52.520 --> 47:57.120
+wie können die eigentlich ganz neue Formen von gemeinwohlorientierter
+
+47:57.120 --> 48:04.880
+Regionalentwicklung eingehen und das finde ich super spannenden Punkt, der eben auch an der Frage
+
+48:04.880 --> 48:11.200
+von Technik immer wieder aufzumachen ist. Und jetzt hast du eigentlich schon so ein bisschen
+
+48:11.200 --> 48:18.640
+in deiner Antwort auch in Richtung der Frage der Transformation gedeutet und wie du eingangs
+
+48:18.640 --> 48:23.320
+gesagt hast, beschäftigst du dich mit dieser Frage der Transformation überhaupt auch jenseits
+
+48:23.320 --> 48:29.040
+dieses Buchkapitels intensiv. Public-Commons-Partnership hast du jetzt schon angedeutet,
+
+48:29.040 --> 48:33.280
+aber vielleicht kannst du uns ein bisschen skizzieren, wie dieser Transformationsprozess
+
+48:33.280 --> 48:43.240
+denn aussehen könnte. Na ich glaube die Frage nach der Transformation von technischen Infrastrukturen
+
+48:43.240 --> 48:48.480
+ist letztlich dieselbe wie die Frage nach gesellschaftlicher Transformation insgesamt
+
+48:48.480 --> 48:54.080
+und da bin ich schon großer Fan von Eric Olin Wright und seinen Transformationsstrategien,
+
+48:54.080 --> 49:00.160
+die ich einfach super hilfreich finde. Und der hat ja gesagt, wir brauchen verschiedene
+
+49:00.160 --> 49:07.280
+Transformationsstrategien gleichzeitig. Wir brauchen erstens die Entwicklungen und Entfaltung
+
+49:07.760 --> 49:14.440
+von alternativen Infrastrukturen, von Nautopias, von Nischen, von Freiräumen. Wir müssen überhaupt
+
+49:14.440 --> 49:19.720
+erst mal andere Logiken entwickeln. Und wir brauchen dann zweitens aber Reformen in den
+
+49:19.720 --> 49:26.960
+Institutionen. Er nannte das die symbiotische Strategie, glaube ich. Also dass es so darum geht,
+
+49:26.960 --> 49:32.360
+zusammen mit bestehenden Institutionen dort radikale Reformen anzustoßen. Und wir brauchen
+
+49:32.360 --> 49:36.680
+aber drittens auch sowas wie die Brüche und das weist natürlich wieder zurück auf die
+
+49:36.680 --> 49:42.360
+Blutdieten zum Beispiel. Manchmal muss man halt einfach was kaputt machen und man könnte vielleicht
+
+49:42.360 --> 49:48.200
+sagen, diese drei zusammen stellen eben die Frage danach, wie kann eigentlich eine Gegenhegemonie
+
+49:48.200 --> 49:58.640
+erreicht werden, um auf den alten Gramsci zurückzukommen. Dass Menschen ja nicht regiert
+
+49:58.680 --> 50:05.880
+werden können, wenn sie nicht in einer bestimmten Weise auch dem zustimmen. Also das meint ja
+
+50:05.880 --> 50:10.880
+sowas wie Hegemonie. Es gibt so einen gemeinsam geteilten Common Sense, dass es gut ist auf diese
+
+50:10.880 --> 50:15.800
+Weise regiert zu werden und in dieser Art von Gesellschaft zu leben. Und dieser Common Sense
+
+50:15.800 --> 50:21.960
+wird ja in unserer Gesellschaft vor allem über die imperiale Lebensweise hergestellt. Also dass
+
+50:21.960 --> 50:28.520
+die globalen Mittelschichten jederzeit und überall Zugriff haben, vor allem auch auf technische
+
+50:28.520 --> 50:34.440
+Geräte, Infrastrukturen, Institutionen, aber natürlich auch einen Haufen anderes Zeug vom
+
+50:34.440 --> 50:38.800
+Thema Nahrungsmittel, aber auch Kleidung und so weiter. Dass man jederzeit Zugriff hat auf
+
+50:38.800 --> 50:47.240
+Ressourcen von anderswo, die unter ausbeuterischen Bedingungen aus der Erde gekratzt werden,
+
+50:47.240 --> 50:51.320
+zusammengenäht werden, zusammengelötet werden und so weiter.
+
+50:55.320 --> 51:01.720
+Und in diesem Sinne könnte man halt schon sagen, ein Teil von so einer imperialen Lebensweise ist
+
+51:01.720 --> 51:07.640
+eben halt auch eine imperiale Technik. Also eigentlich ist die ganze Technik, mit der wir uns derzeit
+
+51:07.640 --> 51:15.520
+umgeben, darauf gebaut, dass sie andere Menschen anderswo, andere Lebewesen anderswo und eben auch
+
+51:15.520 --> 51:21.080
+zukünftige Menschen und zukünftige Lebewesen in einer Weise ausbeutet, die nicht regenerierbar
+
+51:21.080 --> 51:26.360
+ist. Und die Frage ist, wie kommen wir also von so einer imperialen Lebensweise und imperialen
+
+51:26.360 --> 51:32.240
+Technik hin zu einer solidarischen Lebensweise und einer konvidialen, also lebensfreundlichen Technik?
+
+51:32.240 --> 51:42.880
+Und ich glaube schon, in dem eben an diesen verschiedenen drei Stellen, die Riot genannt
+
+51:42.960 --> 51:50.000
+hat, gegen die bestehende Hegemonie der imperialen Lebensweise dagegen gearbeitet wird, ganz konkret
+
+51:50.000 --> 51:55.960
+und jetzt mal beispielhaft nochmal zurückzukommen auf die erste Strategie, also die Nautopias oder
+
+51:55.960 --> 52:01.600
+Alternativen entwickeln. Das ist natürlich in diesem technischen Bereich all das, wo es darum
+
+52:01.600 --> 52:10.600
+geht, freie und offene Software zu entwickeln zum Beispiel. Aber auch die ganzen Hacker Spaces und
+
+52:10.640 --> 52:19.320
+auch manche eher kapitalismuskritisch organisierten Maker Spaces. Ich glaube, da gibt es schon auch
+
+52:19.320 --> 52:23.520
+verschiedene, wo man nochmal genau reingucken muss, was sind jetzt genau die Formen, die da
+
+52:23.520 --> 52:30.520
+entstehen. Aber sowas wie die Freifunkbewegung zum Beispiel wäre ein ganz wichtiger Teil, die sagen,
+
+52:30.520 --> 52:37.760
+hey wir versuchen ein unabhängiges Netz aufzubauen und dann natürlich jenseits von digitaler
+
+52:37.760 --> 52:44.960
+Technik. Gibt es ganz, ganz viele andere Formen, wo eigentlich alle gängigen Formen von
+
+52:44.960 --> 52:51.160
+ökologischerer Technik, die wir heute benutzen, vom Typ Solarpanels, Windkraft, das wurde alles
+
+52:51.160 --> 52:59.160
+in kleinen Nischen entwickelt, häufig am Rande von Protesten gegen Atomkraft zum Beispiel. Und da
+
+52:59.160 --> 53:03.280
+sieht man, wie eng diese verschiedenen Strategien halt auch miteinander verknüpft sind. Also welche
+
+53:03.280 --> 53:08.600
+der ersten Solarenergieanlagen wurden in den großen Protestcamps in Deutschland Ende der
+
+53:08.600 --> 53:16.280
+70er Jahre am Atomkraftwerk Wiel am Oberrhein und in der Freien Republik Wendland in Gorleben. Die
+
+53:16.280 --> 53:22.280
+wurden da entwickelt tatsächlich von kleinen Tüftlern und Leuten, die gesagt haben, hey aber
+
+53:22.280 --> 53:27.840
+Energiegewinnung muss doch irgendwie auch anders funktionieren können. Und bei technischen Innovationen
+
+53:28.520 --> 53:33.760
+funktioniert das ja tatsächlich auch relativ gut, dass aus solchen Nischen Entwicklungen,
+
+53:33.760 --> 53:38.280
+dass die dann irgendwann mainstreamfähig werden. Ich glaube, was halt nicht so gut funktioniert,
+
+53:38.280 --> 53:45.120
+ist, wenn man diese Art, wie technischer Wandel funktioniert, eins zu eins übertragen will auf
+
+53:45.120 --> 53:52.080
+gesellschaftlichen Wandel. Also das, was in Nautopias oder Nischen passiert in einem Hacker-Space
+
+53:52.560 --> 53:58.480
+oder in einem Gemeinschaftsprojekt oder in einem besetzten Haus oder so, das einfach eins zu eins
+
+53:58.480 --> 54:03.680
+zu übertragen und zu sagen, ja das wird von selber dann irgendwie überspringen auf den Rest
+
+54:03.680 --> 54:07.440
+der Gesellschaft, weil es so überzeugend ist. Das wird glaube ich nicht passieren einfach,
+
+54:07.440 --> 54:11.600
+weil es so massive Interessen gibt, die dem entgegenstehen, weil wir uns halt in einer
+
+54:11.600 --> 54:20.320
+hochvermachteten, kapitalistisch organisierten, aber auch rassistisch und sexistisch organisierten
+
+54:20.320 --> 54:28.240
+patriarchalen Gesellschaft befinden und es halt super viele Leute gibt, die an den alten Strukturen
+
+54:28.240 --> 54:32.480
+festhalten wollen und die eben massive Verbauungen bauen, dass sich diese Nischen nicht so einfach
+
+54:32.480 --> 54:39.880
+ausbreiten wie technische Innovationen. Und deswegen glaube ich, braucht es da halt in
+
+54:39.880 --> 54:43.880
+besonderem Maße die Frage, wie können wir einerseits Verbünde befinden in bestehenden
+
+54:43.880 --> 54:49.400
+Institutionen und die Rahmenbedingungen ändern, dass die Rahmenbedingungen für technische
+
+54:49.480 --> 54:54.080
+Entwicklung und eben auch andere gesellschaftliche Formen, die Rahmenbedingungen für andere
+
+54:54.080 --> 55:00.360
+Unternehmensformen, die Rahmenbedingungen für ein anderes Steuergesetzgebung, die Rahmenbedingungen
+
+55:00.360 --> 55:08.160
+auf kommunaler Ebene, auf nationaler Ebene, auf europäischer Ebene. Aber auch bei technischen
+
+55:08.160 --> 55:13.480
+Entwicklungen sprechen wir ganz viel von sowas wie Normungen, DIN-Normen, bestimmten technischen
+
+55:13.480 --> 55:21.520
+Standards. Das sind ja alles so juristische Strukturen, für die wir Leute in den Institutionen
+
+55:21.520 --> 55:28.080
+brauchen, die auch daran glauben, aus Gründen, dass es Veränderungen braucht und mit denen man
+
+55:28.080 --> 55:34.760
+zum Beispiel als Person aus einer Nische zusammenarbeiten kann oder eben auch als soziale
+
+55:34.760 --> 55:39.480
+Bewegung sagen kann, so hey, wir machen Druck auf eine bestimmte Art von politischer
+
+55:39.480 --> 55:46.160
+Organisation, dass sich da Gesetze enormen Rahmenvorgaben ändern. Und die dritte Strategie,
+
+55:46.160 --> 55:54.240
+über die Wright spricht, sind eben die Brüche, also das Kaputtmachen von irgendwas. Und gerade wenn
+
+55:54.240 --> 55:58.760
+wir über Technik sprechen, glaube ich, dann müssen wir ja schon immer wieder auch über
+
+55:58.760 --> 56:02.160
+Extraktivismus sprechen. Das haben wir an dieser Stelle jetzt noch gar nicht so richtig getan,
+
+56:02.160 --> 56:12.840
+dass eben diese Form von imperialer Technik, die wir haben, massiv auf der Ausbeutung von Erde,
+
+56:12.840 --> 56:20.160
+von der Arbeit in Bergwerken, von großen Pipelines und so basiert. Sonst würde das ja alles überhaupt
+
+56:20.160 --> 56:26.320
+nicht funktionieren. Und da gibt es weltweit super viele Proteste von Menschen, die sagen, wir wollen
+
+56:26.400 --> 56:31.800
+das hier nicht und nicht zu diesen Bedingungen haben, weil das macht unsere Leben kaputt.
+
+56:31.800 --> 56:41.480
+Und ich glaube, es ist wichtig, das ernst zu nehmen und da tatsächlich auch als D-Gross-AktivistInnen
+
+56:41.480 --> 56:49.720
+aktiv Verbindungen hinzuknüpfen zu diesen globalen, aber eben immer lokalen Kämpfen,
+
+56:49.720 --> 56:59.480
+auch die ganz eng mit unserer Nutzung in den europäischen Zentren von imperialer Technik
+
+56:59.480 --> 57:06.240
+eben zu tun haben, weil sonst gäbe es ja diesen Extraktivismus in dieser Form gar nicht. Ja,
+
+57:06.240 --> 57:11.600
+und damit glaube ich, sind wir dann auch alle halt ausgelastet. Deswegen ist ja das Wichtigste bei
+
+57:11.600 --> 57:17.120
+der Transformation, egal bei welchem Thema, immer möglichst, wenn es einem von den Privilegien her
+
+57:17.120 --> 57:22.960
+erlaubt ist, nicht Lohnarbeiten zu gehen, damit man halt Zeit hat für diese ganzen Transformationen,
+
+57:22.960 --> 57:31.200
+weil das braucht halt super viel Zeit. A, in deinem Nautopiaort Veränderungen vor Ort anzugehen. B,
+
+57:31.200 --> 57:37.680
+mit den lokalen und überregionalen Behörden und Institutionen zu verhandeln und da institutionelle
+
+57:37.680 --> 57:43.360
+Veränderungen durchzusetzen. C, aktivistisch tätig zu sein und seinen Körper vor den Bagger
+
+57:43.520 --> 57:49.760
+zu schmeißen und dann auch noch D, Artikel zu schreiben und Podcast-Interviews zu geben. Das
+
+57:49.760 --> 57:56.480
+braucht halt alles voll viel Zeit und diese Lebenszeit, die sollten wir halt nicht irgendwelchen
+
+57:56.480 --> 58:01.280
+Konzernen oder irgendwem schenken, sondern die sollten wir halt dafür nutzen, das Notwendige
+
+58:01.280 --> 58:08.840
+zu tun. Das wäre schön. Wunderbar, Andrea. Zum Schluss frage ich eine jede und einen jeden immer
+
+58:08.840 --> 58:15.080
+noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig? Ich glaube, mich stimmt tatsächlich
+
+58:15.080 --> 58:21.080
+an Zukunft freudig dasselbe wie in der Gegenwart. Also mich stimmt es freudig, wenn ich aus dem
+
+58:21.080 --> 58:28.320
+Fenster gucke und zuschaue, wie die Mauersegler da fliegen. Vor allem jetzt im Juni, da machen
+
+58:28.320 --> 58:34.160
+die so ganz große Bögen oder mich stimmt es freudig, wenn ich am See lang spazieren gehe und
+
+58:34.160 --> 58:41.200
+mir dann denke, na diese Buche, die ist fünfmal älter als ich und die wird wahrscheinlich auch
+
+58:41.200 --> 58:48.560
+noch fünfmal älter als ich und da wird sie immer noch dastehen. Und das ist glaube ich auch meine
+
+58:48.560 --> 58:55.720
+Motivation in der Gegenwart, mich dafür einzusetzen, dass das halt so bleibt und die
+
+58:55.720 --> 59:01.640
+Mauersegler und die Buchen und die Menschen nicht verschwinden. Wunderbar, Andrea. Vielen
+
+59:01.640 --> 59:13.280
+Dank für das Gespräch. Ja, danke dir. Das war Future Histories für heute. Vielen Dank fürs
+
+59:13.280 --> 59:20.920
+Zuhören, Shownotizen und vieles mehr findet ihr auf www.futurehistories.today. Diskutiert mit
+
+59:20.920 --> 59:26.760
+auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit. Ihr könnt Future
+
+59:26.760 --> 59:31.000
+Histories nicht nur auf allen großen Podcastplattformen hören und abonnieren,
+
+59:31.000 --> 59:37.400
+sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen
+
+59:37.400 --> 59:43.840
+einzelne Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich freue
+
+59:43.840 --> 59:50.120
+mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen
+
+59:50.120 --> 59:55.640
+wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder auch
+
+59:55.640 --> 01:00:02.200
+via Spende auf unserer Homepage. Future Histories ist eine Produktion von Metalapsis zu finden auf
+
+01:00:02.200 --> 01:00:07.200
+metalapsis.net. Bis zum nächsten Mal. Ich freue mich.
+

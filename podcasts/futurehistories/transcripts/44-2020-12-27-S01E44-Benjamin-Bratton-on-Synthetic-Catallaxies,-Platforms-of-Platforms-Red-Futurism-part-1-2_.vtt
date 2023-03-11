@@ -1,0 +1,2627 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+Welcome to Future Histories, my name is Jan Gross and today's episode is a very special episode.
+
+00:06.000 --> 00:15.000
+Not only is it the last one of the year 2020, but it also is a new Future Histories live episode.
+
+00:15.000 --> 00:23.000
+This time, Mattia Paganelli invited me to hold a guest lecture at his seminar on computational arts
+
+00:23.000 --> 00:28.000
+at the Goldsmiths College in London, which I of course happily accepted.
+
+00:28.000 --> 00:36.000
+And since the guest lecture was three hours long, I proposed a format in which I would hold a short presentation
+
+00:36.000 --> 00:46.000
+on podcasting as a form of extended research and then afterwards record an episode of Future Histories live in front of the students.
+
+00:46.000 --> 00:54.000
+I'm absolutely thrilled that Benjamin Bratton agreed to be the interviewee for this Future Histories live episode.
+
+00:54.000 --> 00:59.000
+I will introduce him at the beginning of the interview and so I will restrain myself to saying that
+
+00:59.000 --> 01:04.000
+for me, Benjamin is one of the most interesting thinkers of our time.
+
+01:04.000 --> 01:12.000
+His book, The Stack, is rich beyond belief and his work tries to bridge a gap that absolutely needs to be worked at
+
+01:12.000 --> 01:20.000
+and that is the bridge between political theory and the techno-social realities and possibilities of our time.
+
+01:20.000 --> 01:24.000
+My warmest thanks go out to Mattia for the invitation to hold the guest lecture,
+
+01:24.000 --> 01:29.000
+to Benjamin for taking part in the interview and the discussion afterwards,
+
+01:29.000 --> 01:34.000
+and to the students of the seminar on computational arts for their participation.
+
+01:34.000 --> 01:39.000
+We talked quite a bit and so I split the interview into two parts,
+
+01:39.000 --> 01:44.000
+of which you will hear the first one today and the second one in two weeks' time.
+
+01:44.000 --> 01:51.000
+This will be in 2021, which leads me to wishing all of you a happy new year.
+
+01:51.000 --> 02:00.000
+Thank you for your interest in Future Histories, your thoughts, mails, tweets, your suggestions for guests and topics.
+
+02:00.000 --> 02:07.000
+I know 2020 has been shitty, but there are good things too and I thank you all for that.
+
+02:07.000 --> 02:12.000
+But now, enjoy today's episode of Future Histories with the great Benjamin Bratton
+
+02:12.000 --> 02:19.000
+on Synthetic Catalyxies, Platforms of Platforms and Red Futurism.
+
+02:25.000 --> 02:27.000
+So, welcome to Future Histories.
+
+02:27.000 --> 02:33.000
+My name is Jan Groß and I am very excited to welcome Benjamin Bratton as a guest in today's episode.
+
+02:33.000 --> 02:38.000
+Benjamin is Professor of Visual Arts and Director of the Center for Design and Geopolitics
+
+02:38.000 --> 02:41.000
+at the University of California, San Diego,
+
+02:41.000 --> 02:47.000
+as well as Program Director of the Terraforming Program at the Strelka Institute in Moscow.
+
+02:47.000 --> 02:49.000
+Welcome, Benjamin.
+
+02:49.000 --> 02:51.000
+Thank you very much for having me. Pleasure to be here.
+
+02:51.000 --> 02:56.000
+There are multiple episodes of Future Histories that are, in one way or another,
+
+02:56.000 --> 03:01.000
+concerned with the topic of cybernetic plant economies in the age of their technical feasibility.
+
+03:01.000 --> 03:06.000
+You have talked and written about this topic and you introduced a term that might be helpful
+
+03:06.000 --> 03:10.000
+to understand what we are dealing with, synthetic catalyxy.
+
+03:10.000 --> 03:16.000
+What are synthetic catalyxies and what openings do they possibly provide?
+
+03:16.000 --> 03:22.000
+So, yes, thank you for the invitation to speak with you.
+
+03:22.000 --> 03:29.000
+This term, synthetic catalyxy, is probably a good place to start.
+
+03:29.000 --> 03:35.000
+On this question of a planned economy versus an unplanned economy,
+
+03:35.000 --> 03:43.000
+and maybe as a way of also perhaps beginning the conversation with some consideration of what we mean by a plan,
+
+03:43.000 --> 03:49.000
+what we mean by unplanned, and maybe even what we mean by economy in this way.
+
+03:50.000 --> 04:04.000
+So the term, the catalyxy originally, the reference that I'm drawing this from is in reference to the work of Hayek,
+
+04:04.000 --> 04:16.000
+who uses this term catalyxy as part of his argument against socialist planned economies
+
+04:16.000 --> 04:24.000
+and the mid-20th century model of a socialist planned economy, which we should be clear right away.
+
+04:24.000 --> 04:30.000
+When we're thinking about what a planned economy might be for the 21st century,
+
+04:30.000 --> 04:42.000
+the models of a planned economy from the mid-20th century may not necessarily be the model reference that we should be building on.
+
+04:43.000 --> 04:51.000
+But suffice to say, for Hayek, he sees markets themselves,
+
+04:51.000 --> 04:59.000
+and it should be maybe clear not necessarily capitalism as a whole, but markets, at least in theory,
+
+04:59.000 --> 05:06.000
+as not only a space or a place by which supply and demand might meet each other,
+
+05:06.000 --> 05:15.000
+but also as a kind of calculation machine, as a kind of collaborative calculation machine
+
+05:15.000 --> 05:21.000
+that has capacities both for feats of tremendous abstraction,
+
+05:21.000 --> 05:29.000
+but also for the sort of direct fulfillment of supply and demand in the simplest sense.
+
+05:29.000 --> 05:36.000
+But the catalyxy then refers to this capacity of markets to be pricing mechanisms,
+
+05:36.000 --> 05:47.000
+that markets find prices, that how much the bananas should cost or how many desks and chairs should be produced
+
+05:47.000 --> 05:54.000
+is in essence calculated itself through the dynamics of the market.
+
+05:55.000 --> 06:03.000
+And so it's an understanding of the market as a kind of, not just something about which computation might be interested
+
+06:03.000 --> 06:11.000
+or something about which computation might be used to organize, but that the market itself has computational capacities,
+
+06:11.000 --> 06:15.000
+that it is a kind of computational apparatus.
+
+06:15.000 --> 06:22.000
+Now, as I'm sure you are quite aware because of all of the other, the discussions that you've kind of had,
+
+06:22.000 --> 06:28.000
+he's proposing this in contradistinction to the classical socialist pricing problem,
+
+06:28.000 --> 06:40.000
+which argues that no planned economy can possibly provide that calculative function that a market does
+
+06:40.000 --> 06:47.000
+as quickly or as efficiently as the market can itself.
+
+06:47.000 --> 06:53.000
+And you might imagine it sort of like if you have 10 people sitting in a room
+
+06:53.000 --> 06:58.000
+and they want to have a conversation with each other and negotiate something,
+
+06:58.000 --> 07:01.000
+like how should we rearrange the furniture in this room?
+
+07:01.000 --> 07:07.000
+And in order for the furniture in the room to be reorganized,
+
+07:07.000 --> 07:12.000
+all those 10 people would have to, let's say, write down their interest on a piece of paper
+
+07:12.000 --> 07:15.000
+and then send it to the office across the street.
+
+07:15.000 --> 07:17.000
+And then the office across the street will get all of these pieces of paper
+
+07:17.000 --> 07:21.000
+and then send pieces of paper back to every one of these 10 people one by one.
+
+07:21.000 --> 07:25.000
+And you imagine what this conversation would be like if every time anybody needed to say anything,
+
+07:25.000 --> 07:30.000
+you have to send what you wanted to say across the street to an office who then makes this plan
+
+07:30.000 --> 07:31.000
+and then sends it back to you.
+
+07:31.000 --> 07:35.000
+You would say, well, it would be just simpler if we just let, we had the conversation ourselves.
+
+07:35.000 --> 07:39.000
+So in any event, I'm not an Austrian, this isn't my approach,
+
+07:39.000 --> 07:44.000
+but just to give a sense of what the idea comes from.
+
+07:44.000 --> 07:50.000
+Now, one of the points that was made, and I'm sure you've raised this in some of your other podcasts,
+
+07:50.000 --> 07:56.000
+even back in the 60s and 70s was that, well, fine,
+
+07:56.000 --> 08:06.000
+but the capacity for computation and particular network computation,
+
+08:06.000 --> 08:10.000
+artificial computation, not the natural, let's say the natural computation of the market,
+
+08:10.000 --> 08:14.000
+but the artificial computation that when we think of computers and computer networks,
+
+08:14.000 --> 08:22.000
+you know, silicon-based computation, to send and receive information from one point to another point,
+
+08:22.000 --> 08:26.000
+they already sort of understood that this was increasingly fast
+
+08:26.000 --> 08:32.000
+and again, sort of in the height of the Cold War, 60s and 70s here,
+
+08:32.000 --> 08:38.000
+and the capacity of synthetic calculation through silicon-based computation
+
+08:38.000 --> 08:42.000
+was also becoming increasingly fast.
+
+08:42.000 --> 08:46.000
+And so this argument, and then even the metaphor that I'm using of the piece of paper
+
+08:46.000 --> 08:50.000
+walking across the street and stuff, this kind of bureaucratic model of,
+
+08:50.000 --> 08:54.000
+this particular kind of bureaucratic model of a planned economy,
+
+08:54.000 --> 08:58.000
+was probably out of date to a great extent.
+
+08:58.000 --> 09:04.000
+And that the scenario people would ask is like, okay, but what if you could,
+
+09:04.000 --> 09:08.000
+what if those messages of interest that everyone had in that rearrangement of the furniture
+
+09:08.000 --> 09:12.000
+could be said essentially instantaneously across the street,
+
+09:12.000 --> 09:20.000
+that it could be mapped against a thousand different ideal models of furniture rearrangement
+
+09:20.000 --> 09:22.000
+and then instantaneously sent back.
+
+09:22.000 --> 09:28.000
+Would not this allow for actually an acceleration in the capacity for that conversation
+
+09:28.000 --> 09:33.000
+and that negotiation to take place in such a way that this would work?
+
+09:33.000 --> 09:43.000
+And that not only could artificial computation operate to produce things like pricing signals
+
+09:43.000 --> 09:50.000
+and structure models that was equally fast to the kind of emergent processes of the market,
+
+09:50.000 --> 09:58.000
+but perhaps even faster, and perhaps could draw upon models and again, best practices
+
+09:59.000 --> 10:05.000
+and other kinds of things and goals and larger sort of macro programs
+
+10:05.000 --> 10:11.000
+that would not be available to just a small group of people doing this negotiation.
+
+10:11.000 --> 10:15.000
+And so this became, as you've all been discussing,
+
+10:15.000 --> 10:23.000
+the basis of sort of the first wave of an interest in a kind of socialist cybernetics economics
+
+10:23.000 --> 10:29.000
+that ended up, you know, was animated the work of, you know, people like to refer to Stafford Beer,
+
+10:29.000 --> 10:35.000
+but also, you know, even in others, in certain sense, even across the political spectrum,
+
+10:35.000 --> 10:41.000
+but certainly gave the rise to a kind of a different kind of idea of the mixture
+
+10:41.000 --> 10:49.000
+between computation, socialism, and the planned economy here as well.
+
+10:49.000 --> 10:55.000
+So the term synthetic catalacticy that I use, that I mentioned in the book, The Stack,
+
+10:55.000 --> 11:02.000
+going now back to your original question, is a term that would refer to that process
+
+11:02.000 --> 11:11.000
+by which the natural capacity for a market to find price signals, for example,
+
+11:11.000 --> 11:19.000
+or to organize the relations between its negotiated participants
+
+11:19.000 --> 11:25.000
+could produce this kind of what the Austrian school and its descendants like to think of
+
+11:25.000 --> 11:32.000
+as a kind of spontaneous order, could produce this process of a spontaneous order at a great distance
+
+11:32.000 --> 11:37.000
+and could do so at a scale, by using very large-scale computational systems,
+
+11:37.000 --> 11:44.000
+planetary-scale computational systems, that that spontaneous order could be produced at a scale
+
+11:44.000 --> 11:52.000
+that would be otherwise impossible to do just through the incremental aggregation
+
+11:52.000 --> 11:59.000
+of lots and lots of different supply and demand signals,
+
+11:59.000 --> 12:04.000
+could do so with a speed that would be impossible otherwise, and in principle could do so
+
+12:04.000 --> 12:13.000
+with a capacity for reflexive collective reason that would be impossible otherwise,
+
+12:13.000 --> 12:20.000
+and would be able to do so with some degree of recursive piloting or planning,
+
+12:20.000 --> 12:25.000
+and this is where the cybernetic comes in, the kind of piloting function of the whole dynamic
+
+12:25.000 --> 12:30.000
+in ways that would be impossible to happen just spontaneously.
+
+12:30.000 --> 12:35.000
+Now, as you are all probably aware, Hayek sort of pooh-poohed this whole idea,
+
+12:35.000 --> 12:53.000
+and indeed it was some of the Chicago school boys who were enthusiastic about the coup in Chile in 1973
+
+12:53.000 --> 13:00.000
+that moved Allende and Stafford Beer's CyberSign project out of the way,
+
+13:00.000 --> 13:08.000
+who later ended up becoming quite interested in the idea of the capacity for computational systems
+
+13:08.000 --> 13:12.000
+to have these kinds of recursive market effects.
+
+13:12.000 --> 13:18.000
+And so the last point I'll make before we move on from this with this and also to maybe introduce,
+
+13:18.000 --> 13:24.000
+frame part of our discussion around the planned economy in relationship to socialism and capitalism per se,
+
+13:24.000 --> 13:33.000
+is that perhaps one of the historical ironies of all of this is that we do have planned economies today.
+
+13:33.000 --> 13:42.000
+We do have large-scale synthetic catalaxies in the scale that I'm describing,
+
+13:42.000 --> 13:48.000
+in that this is how Walmart works, this is how Amazon works,
+
+13:48.000 --> 13:56.000
+this is how Google works in terms of its pricing of words and semantics and page views and the rest of this as well,
+
+13:56.000 --> 14:05.000
+is that many of the large capitalist platforms that increasingly, in a de facto basis,
+
+14:05.000 --> 14:13.000
+have taken on many of the roles that had previously been assigned to states,
+
+14:13.000 --> 14:24.000
+themselves are in ways that would absolutely be recognized as such in the high X era of the 60s and 70s, planned economies.
+
+14:24.000 --> 14:28.000
+And they work because they are planned economies.
+
+14:28.000 --> 14:37.000
+They work because they are able to calculate prices by integrating signals
+
+14:37.000 --> 14:48.000
+with a speed and scale and complexity that would be impossible to do otherwise,
+
+14:48.000 --> 14:58.000
+which allows them to do long-term planning, long-term recursive investment,
+
+14:58.000 --> 15:06.000
+infrastructural investment and so forth and so on, all the things that the socialist cyberneticians were interested in,
+
+15:06.000 --> 15:11.000
+in ways that they too would recognize as basically, yes, that's what we meant.
+
+15:11.000 --> 15:20.000
+And this, again, is kind of the irony, that you can imagine plucking some of the socialist cybernetician economists from the mid-60s
+
+15:20.000 --> 15:28.000
+and explaining to them how Amazon works, this very, very large scale global network that doesn't actually produce anything,
+
+15:28.000 --> 15:35.000
+but matches buyers and sellers and is this massive logistical enterprise,
+
+15:35.000 --> 15:44.000
+but whose real function as a social economy is the production, is the calculation and the computational calculation of a price
+
+15:44.000 --> 15:50.000
+and then the logistical mechanism for the deliverance of this, yes, yes, yes, that's exactly what we mean.
+
+15:50.000 --> 15:58.000
+And this is also then I think part of where maybe the interest discussion is that some of the more conventional Cold War left-right distinctions
+
+15:58.000 --> 16:03.000
+of what is planned, what's not planned, what's centralized, what's decentralized
+
+16:03.000 --> 16:12.000
+don't line up real well when we actually sort of investigate these processes that we're talking about
+
+16:12.000 --> 16:16.000
+as technical systems and as institutional systems.
+
+16:16.000 --> 16:23.000
+So in any event, that's my long answer to your simple question about what is synthetic catalectics.
+
+16:23.000 --> 16:31.000
+That means we do indeed have synthetic catalectics, even though these are up until today capitalist ones.
+
+16:31.000 --> 16:36.000
+I am very much interested in the possibilities of synthetic catalectics to come.
+
+16:36.000 --> 16:42.000
+And I would like to build a bridge actually between a proposal by one of my other guests, Daniel E. Seros,
+
+16:42.000 --> 16:47.000
+and your analysis of what you have called platform of platforms.
+
+16:47.000 --> 16:51.000
+And you actually described Amazon as such a platform already.
+
+16:51.000 --> 16:56.000
+I think what Dan Seros describes in his book Information Technology and Socialist Construction
+
+16:56.000 --> 17:01.000
+indeed is a different kind of proposal for a platform of platforms.
+
+17:01.000 --> 17:08.000
+And I think it absolutely confirms an intuition you have articulated in the stack about how governance,
+
+17:08.000 --> 17:16.000
+namely planning and programming, and I quote here, may be situated at if not originate from the interface layer.
+
+17:16.000 --> 17:22.000
+There's a lot to unpack here. Let's do this step by step and start with a definition of platforms.
+
+17:22.000 --> 17:30.000
+What are platforms and what could a platform of platforms that is different from those that we already have look like?
+
+17:30.000 --> 17:33.000
+Well, it could look like it could look lots of things.
+
+17:33.000 --> 17:38.000
+The platform, as I model it in the stack and discuss it in the stack,
+
+17:38.000 --> 17:45.000
+I don't mean it in a way to sort of evangelize platforms or to argue that platforms are in themselves good or bad or whatever,
+
+17:45.000 --> 17:52.000
+but rather to try to make the argument on behalf of, you know,
+
+17:52.000 --> 18:00.000
+for a kind of future old political science or economics or indeed international relations or computer science
+
+18:00.000 --> 18:08.000
+and most likely the way in which those approaches would need to kind of converge and understand each other a bit more,
+
+18:08.000 --> 18:12.000
+particularly the computer science and political science.
+
+18:13.000 --> 18:19.000
+To understand platforms not just as a kind of technical arrangement, but as an institutional form as well
+
+18:19.000 --> 18:25.000
+and one that has logics that are different than states, that are different than markets,
+
+18:25.000 --> 18:30.000
+that their political structure is different and indeed their economic structure is different.
+
+18:30.000 --> 18:37.000
+So whereas a platform in the simplest sense can be understood as a kind of a set of generic,
+
+18:38.000 --> 18:45.000
+a kind of a set of generic schematic arrangements that allows for the organization
+
+18:45.000 --> 18:53.000
+of other forms of conditional participation within that schema to interoperate with one another
+
+18:53.000 --> 18:58.000
+in ways that wouldn't have been possible without their participation within that platform.
+
+18:58.000 --> 19:04.000
+And so the platform in this way has the capacity to, as a kind of translation mechanism,
+
+19:04.000 --> 19:10.000
+a capacity as a kind of scaffolding system by which different kinds of actions and actors and participants
+
+19:10.000 --> 19:14.000
+can organize in relationship to one another.
+
+19:14.000 --> 19:17.000
+So lots of technical definitions of platforms.
+
+19:17.000 --> 19:23.000
+One of my PhD students, Stephanie Shermans, currently writing a book on the kind of early history of platforms
+
+19:23.000 --> 19:27.000
+in the industrial era with an emphasis on Fordism.
+
+19:27.000 --> 19:32.000
+So it's also, I think, important to say just for your listeners that when we're talking about platforms,
+
+19:32.000 --> 19:39.000
+we're not just talking about things like Airbnb and Uber and these contemporary versions of platforms
+
+19:39.000 --> 19:43.000
+that, for example, Nick Terncheck writes about in Platform Capitalism,
+
+19:43.000 --> 19:49.000
+where Nick is focusing on sort of the sort of contemporary face of many of these platforms.
+
+19:49.000 --> 19:55.000
+We can also think of platforms going back to the beginning of the urban grid as a kind of platform.
+
+19:55.000 --> 19:59.000
+Some would argue even the tetrahedral body plan as a kind of platform.
+
+19:59.000 --> 20:05.000
+But the platform as an organizational and technical logic has a historical scope
+
+20:05.000 --> 20:11.000
+that precedes computation and precedes planetary scale computation.
+
+20:11.000 --> 20:17.000
+But it's one in which the planetary scale computations, we define it,
+
+20:17.000 --> 20:21.000
+never would have happened if it was not organized through, as we understand it,
+
+20:21.000 --> 20:24.000
+never would have happened if it wasn't organized through platforms.
+
+20:24.000 --> 20:28.000
+So we can talk about things like the search engine as a kind of platform
+
+20:28.000 --> 20:33.000
+in that a search engine doesn't make any of the content that's on the Internet.
+
+20:33.000 --> 20:39.000
+It simply organizes the content that other people put on the Internet in such a way that in theory
+
+20:39.000 --> 20:46.000
+it makes that content more valuable both for the producer and the receiver of that content.
+
+20:46.000 --> 20:52.000
+So you put your website or your photos or whatever on the platform,
+
+20:53.000 --> 20:59.000
+there's now thousands or if not millions of people who will see this information,
+
+20:59.000 --> 21:04.000
+which in a way somehow makes it that now those items are more valuable for you
+
+21:04.000 --> 21:06.000
+because you've placed them on the platform.
+
+21:06.000 --> 21:08.000
+They're more valuable for the receiver to place on the platform.
+
+21:08.000 --> 21:11.000
+And so this is all obviously in theory.
+
+21:11.000 --> 21:16.000
+But here's that key idea around the economic difference
+
+21:16.000 --> 21:19.000
+and where they differentiate from states and markets.
+
+21:19.000 --> 21:25.000
+If states reproduce themselves, are able to in essence pay for their provision of public services
+
+21:25.000 --> 21:33.000
+primarily through taxation, that they identify kind of choke points within value chains
+
+21:33.000 --> 21:39.000
+such as a port or where goods are coming in and out or something.
+
+21:39.000 --> 21:43.000
+And they identify these kinds of choke points within value chains
+
+21:43.000 --> 21:52.000
+and then they absorb some of the value from these choke points in the form of taxation,
+
+21:52.000 --> 21:57.000
+which then pays for the long-term provision of the public services that made the production of that value possible
+
+21:57.000 --> 21:59.000
+in the first place and so on and so forth.
+
+21:59.000 --> 22:02.000
+But it's through taxation in essence that they reproduce themselves.
+
+22:02.000 --> 22:10.000
+Whereas corporations in the normal way of understanding them as capitalist structures
+
+22:10.000 --> 22:14.000
+reproduce themselves through commodities and transactions,
+
+22:14.000 --> 22:19.000
+that you produce a commodity, you pay charge more for the commodity
+
+22:19.000 --> 22:24.000
+and there's difference in this surplus between the two in the form of profit
+
+22:24.000 --> 22:28.000
+constitutes this ability for the corporation to reproduce itself.
+
+22:28.000 --> 22:30.000
+Platforms don't work either way.
+
+22:30.000 --> 22:33.000
+They don't tax you and they don't charge you.
+
+22:33.000 --> 22:34.000
+So how do they work?
+
+22:34.000 --> 22:41.000
+They work fundamentally through the rationalization of the information
+
+22:41.000 --> 22:47.000
+that populates the platform in such a way that that information becomes more valuable
+
+22:47.000 --> 22:49.000
+for the users of the platform.
+
+22:49.000 --> 22:53.000
+It rationalizes the information that populates the platform
+
+22:53.000 --> 22:57.000
+such that that information becomes more valuable for the users of the platform.
+
+22:57.000 --> 23:02.000
+And that differential between, let's say, the value of the information before it's concluded
+
+23:02.000 --> 23:09.000
+and after it's included in the platform is the basis of how they reproduce themselves.
+
+23:09.000 --> 23:12.000
+Currently, many of those are then dependent upon
+
+23:12.000 --> 23:17.000
+a sort of a secondary dependence market upon advertising.
+
+23:17.000 --> 23:22.000
+But I would argue that that's sort of a contingent arrangement
+
+23:22.000 --> 23:26.000
+that you can have and indeed have had lots of platforms
+
+23:26.000 --> 23:31.000
+that are, that produce, that actually reproduce themselves
+
+23:31.000 --> 23:35.000
+from many other kinds of ways besides that.
+
+23:35.000 --> 23:40.000
+So first of all, just as a sort of a definitional basis of platforms
+
+23:40.000 --> 23:45.000
+from the basis of our discussion.
+
+23:45.000 --> 23:49.000
+So a platform of platforms, as you've asked me sort of here as well,
+
+23:49.000 --> 23:54.000
+would refer to some other kind of meta-infrastructural mechanism
+
+23:54.000 --> 23:59.000
+that allows for multiple platforms to interoperate with each other.
+
+23:59.000 --> 24:04.000
+And so you can think of it a bit as a kind of first order platforms
+
+24:04.000 --> 24:07.000
+that are structuring and scaffolding structural systems
+
+24:07.000 --> 24:13.000
+that allow for the rationalization of information that's included in them.
+
+24:13.000 --> 24:16.000
+And then you can imagine sort of an aggregation of multiple platforms
+
+24:16.000 --> 24:22.000
+that in essence allows the platforms themselves to interoperate with one another
+
+24:22.000 --> 24:27.000
+in such a way that they have this, in principle that you have an even more,
+
+24:27.000 --> 24:32.000
+that you have other kinds of deliberate or emergent effects
+
+24:32.000 --> 24:35.000
+situated one way or another.
+
+24:35.000 --> 24:39.000
+Now, to the question about the interface layer that you asked
+
+24:39.000 --> 24:42.000
+about where the politics sits within this.
+
+24:42.000 --> 24:45.000
+I think in many ways the politics of the platforms
+
+24:45.000 --> 24:47.000
+is situated in many different places.
+
+24:47.000 --> 24:50.000
+And all the different points of description that I've argued here
+
+24:50.000 --> 24:54.000
+are all places that are ones that are interesting
+
+24:54.000 --> 24:57.000
+because they mediate power in some kind of way,
+
+24:57.000 --> 25:01.000
+that they are relevant, platforms are relevant as social technologies
+
+25:01.000 --> 25:04.000
+because they organize power in some way.
+
+25:04.000 --> 25:08.000
+To me this isn't a reason to exclude them,
+
+25:08.000 --> 25:12.000
+but rather to in essence to be interested in them
+
+25:12.000 --> 25:16.000
+and to try to understand how they can function as means
+
+25:16.000 --> 25:21.000
+for collective reason and societal self-composition.
+
+25:21.000 --> 25:24.000
+And to be quite concerned about the ways in which they
+
+25:24.000 --> 25:28.000
+are not living up to that assignment today
+
+25:28.000 --> 25:31.000
+because we should expect that of them.
+
+25:31.000 --> 25:34.000
+And because they may not be doing so today
+
+25:34.000 --> 25:37.000
+it's possible to criticize them for this fact
+
+25:37.000 --> 25:41.000
+because indeed this is something that should be expected of them.
+
+25:41.000 --> 25:43.000
+The question of the interface layer,
+
+25:43.000 --> 25:46.000
+the interface layer as I defined it has to do really with,
+
+25:46.000 --> 25:50.000
+the interface layer is the semiotic layer within the system
+
+25:50.000 --> 25:57.000
+that allows for the translation between users that are participating
+
+25:57.000 --> 26:00.000
+in the larger system and that system itself.
+
+26:00.000 --> 26:04.000
+So in the simplest sense you're using your computer,
+
+26:04.000 --> 26:07.000
+you're seeing all the buttons with words on them on the screen.
+
+26:07.000 --> 26:11.000
+Of all of the possible things you could do with your computer,
+
+26:11.000 --> 26:13.000
+of all the possible things your computer could do
+
+26:13.000 --> 26:15.000
+now that it's connected to the internet,
+
+26:15.000 --> 26:19.000
+all of those trillions and trillions and trillions of possibilities
+
+26:19.000 --> 26:25.000
+are reduced to a composable array of several dozen menu items
+
+26:25.000 --> 26:29.000
+that you can sort of choose between.
+
+26:29.000 --> 26:33.000
+That map reduction of all of those possibilities
+
+26:33.000 --> 26:36.000
+into this composable array of menu functions
+
+26:36.000 --> 26:42.000
+is unavoidably ideological, is unavoidably political
+
+26:42.000 --> 26:44.000
+if you want to think of it in those terms,
+
+26:44.000 --> 26:48.000
+constriction or collapse of the space of possibilities
+
+26:48.000 --> 26:51.000
+into a range of options.
+
+26:51.000 --> 26:53.000
+I would also argue though in a certain sense
+
+26:53.000 --> 26:56.000
+that this is to a certain sense unavoidable as well
+
+26:56.000 --> 26:59.000
+in that it has, when I call it a map reduction,
+
+26:59.000 --> 27:01.000
+this is exactly what it is.
+
+27:01.000 --> 27:04.000
+In the same way in which you don't want a map of your city
+
+27:04.000 --> 27:07.000
+that is one-to-one with your city,
+
+27:07.000 --> 27:08.000
+you don't want a map of the city
+
+27:08.000 --> 27:11.000
+that includes absolutely everything in your city on it
+
+27:11.000 --> 27:16.000
+and would be in essence the most accurate map possible of your city.
+
+27:16.000 --> 27:18.000
+You want a map that only includes,
+
+27:18.000 --> 27:22.000
+that gets rid of 99% of everything that's there,
+
+27:22.000 --> 27:26.000
+that only shows you that 1% that might be the most relevant
+
+27:26.000 --> 27:31.000
+for the purposes of the abstractions of navigation.
+
+27:31.000 --> 27:33.000
+Interface layer functions in a similar way.
+
+27:33.000 --> 27:37.000
+It's a kind of reductive abstraction of the space
+
+27:37.000 --> 27:40.000
+of the vectors of navigation through the space.
+
+27:40.000 --> 27:43.000
+And because of this function of simplification,
+
+27:43.000 --> 27:50.000
+it also allows for the network effects of the millions of people
+
+27:50.000 --> 27:56.000
+for whom this map is legible to actually use the system,
+
+27:56.000 --> 28:00.000
+to participate in the system, to generate value for the system,
+
+28:00.000 --> 28:03.000
+to have value generated for them from the system
+
+28:03.000 --> 28:07.000
+because of its simplification and its arrangement
+
+28:07.000 --> 28:09.000
+in the same way in which a simple map
+
+28:09.000 --> 28:13.000
+makes the city navigable for more people.
+
+28:13.000 --> 28:18.000
+On the one hand, you can see this as having a kind of democratizing effect,
+
+28:18.000 --> 28:22.000
+but there's a political valence of that.
+
+28:22.000 --> 28:25.000
+There's a political valence in the map reduction problem itself
+
+28:25.000 --> 28:27.000
+and the ideological constraint.
+
+28:27.000 --> 28:29.000
+There's also a political function of this
+
+28:29.000 --> 28:32.000
+in that in the network's effects of participation,
+
+28:32.000 --> 28:41.000
+you have the kinds of aggregations of user participants in such a way
+
+28:41.000 --> 28:44.000
+that they themselves enter into social relations
+
+28:44.000 --> 28:48.000
+that they wouldn't have been able to do so otherwise.
+
+28:48.000 --> 28:51.000
+So we're still kind of setting the groundwork, I think,
+
+28:51.000 --> 28:54.000
+for maybe the meat of our discussion,
+
+28:54.000 --> 28:59.000
+but if that's helpful in terms of kind of the definitional terms
+
+28:59.000 --> 29:06.000
+for how from not just a computer science perspective,
+
+29:06.000 --> 29:10.000
+but indeed from a sociological theory or economics or political science perspective,
+
+29:10.000 --> 29:13.000
+how it is that we can understand the terms of these interrelations
+
+29:13.000 --> 29:16.000
+and what is specific about platforms,
+
+29:16.000 --> 29:21.000
+what is generic about platforms in terms of how they function in these ways,
+
+29:21.000 --> 29:25.000
+then perhaps that's helpful.
+
+29:25.000 --> 29:27.000
+Yes, absolutely.
+
+29:27.000 --> 29:29.000
+This is super helpful, I guess,
+
+29:29.000 --> 29:33.000
+and it's super important that we get to understand this in a different form.
+
+29:33.000 --> 29:36.000
+And you have already touched upon how...
+
+29:36.000 --> 29:39.000
+I'm sorry, your question was about what other kinds of platforms could happen.
+
+29:39.000 --> 29:44.000
+So the reason I answer in this way is that defining platforms in this...
+
+29:44.000 --> 29:48.000
+I first would say there's lots of kinds of platforms that only could happen.
+
+29:48.000 --> 29:52.000
+I want to point your listeners' attention also historically
+
+29:52.000 --> 29:57.000
+to look at all of the kind of histories of platforms that in fact have preceded us
+
+29:57.000 --> 29:59.000
+and to understand some of the structures there.
+
+29:59.000 --> 30:02.000
+So I'm sorry, please go ahead.
+
+30:02.000 --> 30:05.000
+No, I just wanted to say that we already touched upon
+
+30:05.000 --> 30:12.000
+how this idea of platform of platforms might be able to address
+
+30:12.000 --> 30:15.000
+what has been called the socialist calculation problem
+
+30:15.000 --> 30:19.000
+or the socialist pricing problem, you call it.
+
+30:19.000 --> 30:23.000
+But in your texts you also point that it might be able to solve
+
+30:23.000 --> 30:25.000
+the capitalist pricing problem.
+
+30:25.000 --> 30:28.000
+And maybe let's just point out what that is
+
+30:28.000 --> 30:32.000
+and how a platform of platforms might be able to address this one.
+
+30:32.000 --> 30:37.000
+Sure. Yeah, and there's lots of other pricing problems as well
+
+30:37.000 --> 30:40.000
+besides just those two.
+
+30:40.000 --> 30:45.000
+In some respects, I think we may want to...
+
+30:45.000 --> 30:50.000
+Going forward, I think we'll probably want to open up the space of possibilities
+
+30:50.000 --> 30:56.000
+beyond this sort of simple Cold War dynamic of that as well.
+
+30:56.000 --> 31:00.000
+But yeah, to your point, I argue in the book that in many ways
+
+31:00.000 --> 31:02.000
+it's the capitalist pricing...
+
+31:02.000 --> 31:04.000
+The capitalist pricing problem, as I call it,
+
+31:04.000 --> 31:07.000
+that it maybe is the more pressing issue now.
+
+31:07.000 --> 31:12.000
+So if through whatever bending arcs of historical irony
+
+31:12.000 --> 31:17.000
+it ended up being Walmart and Amazon that proved that Hayek was wrong
+
+31:17.000 --> 31:21.000
+and that the socialist cybernauticians were right
+
+31:21.000 --> 31:27.000
+and that these big capitalist companies solved the socialist pricing problem
+
+31:27.000 --> 31:29.000
+in whatever strange way,
+
+31:29.000 --> 31:32.000
+the capitalist pricing problem, as I define it,
+
+31:32.000 --> 31:34.000
+really has to do in terms of...
+
+31:34.000 --> 31:37.000
+is a way of thinking about pricing systems
+
+31:37.000 --> 31:42.000
+in relationship to negative externalities.
+
+31:42.000 --> 31:46.000
+And in a larger sense, I see this as part of the question
+
+31:46.000 --> 31:49.000
+of the more important question of
+
+31:49.000 --> 31:54.000
+ultimately what is planetary scale computation for?
+
+31:54.000 --> 31:57.000
+If the stack was a book that was about
+
+31:57.000 --> 32:01.000
+what is planetary scale computation and how does it work,
+
+32:01.000 --> 32:05.000
+the next book is really more trying to speak to this question again.
+
+32:05.000 --> 32:07.000
+What is planetary scale computation for?
+
+32:07.000 --> 32:11.000
+How do we would see it in longer historical terms
+
+32:11.000 --> 32:14.000
+and maybe even in geologic terms,
+
+32:14.000 --> 32:17.000
+in sort of anthropocene scale kinds of terms.
+
+32:17.000 --> 32:23.000
+What does it mean now that it's possible for human societies
+
+32:23.000 --> 32:27.000
+and indeed human societies to calculate their own,
+
+32:27.000 --> 32:29.000
+to model and calculate their own processes
+
+32:29.000 --> 32:31.000
+with such speed and clarity,
+
+32:31.000 --> 32:34.000
+but also in many ways how it's possible for,
+
+32:34.000 --> 32:36.000
+if you think of the entire apparatus itself,
+
+32:36.000 --> 32:40.000
+of the satellite systems, the transoceanic cables,
+
+32:40.000 --> 32:43.000
+the data centers, this entire planet,
+
+32:43.000 --> 32:46.000
+this entire kind of artificial crust
+
+32:46.000 --> 32:49.000
+that we have produced around the surface of the planet,
+
+32:49.000 --> 32:51.000
+what it means for also to create for a planet
+
+32:51.000 --> 32:56.000
+to be able to model itself and act back upon itself
+
+32:56.000 --> 33:02.000
+with such sophistication.
+
+33:02.000 --> 33:05.000
+How do we understand this even in geological terms
+
+33:05.000 --> 33:07.000
+in terms of the arc and history of the planet?
+
+33:07.000 --> 33:10.000
+And so there's some questioning then
+
+33:10.000 --> 33:14.000
+of how to locate the question of planetary scale computation
+
+33:14.000 --> 33:16.000
+within some of the philosophical questionings
+
+33:16.000 --> 33:21.000
+after planetarity itself and how this would function.
+
+33:21.000 --> 33:23.000
+Now, to the question of the capitalist pricing problem,
+
+33:23.000 --> 33:26.000
+back to this, the capitalist pricing problem,
+
+33:26.000 --> 33:29.000
+as I define it, and again, it's rather schematic,
+
+33:29.000 --> 33:31.000
+has to do with the negative externalities
+
+33:31.000 --> 33:34.000
+within economic transactions
+
+33:34.000 --> 33:38.000
+and this trying to locate the question of economics,
+
+33:38.000 --> 33:44.000
+the ontology of economics within that of ecology more broadly.
+
+33:44.000 --> 33:46.000
+Excuse me.
+
+33:46.000 --> 33:49.000
+So the question of the ontology of economics,
+
+33:49.000 --> 33:52.000
+that is, what is value? What is valuable?
+
+33:52.000 --> 33:56.000
+And how can something be identified as valuable
+
+33:56.000 --> 34:02.000
+in whatever sense is, in theory, represented within the price?
+
+34:02.000 --> 34:07.000
+That if there is, in theory, 10 euros of value within this item,
+
+34:07.000 --> 34:10.000
+that the price of this will be 10 euros,
+
+34:10.000 --> 34:13.000
+and that the capacity for calculation,
+
+34:13.000 --> 34:17.000
+the markets to calculate this or central computer to calculate this,
+
+34:17.000 --> 34:20.000
+that there is some either correspondence
+
+34:20.000 --> 34:22.000
+between the price and the underlying value
+
+34:22.000 --> 34:24.000
+or distortion of correspondence
+
+34:24.000 --> 34:27.000
+between the price and the underlying value.
+
+34:27.000 --> 34:31.000
+And so for Hayek, the socialist pricing problem
+
+34:31.000 --> 34:34.000
+represented a distortion of value
+
+34:34.000 --> 34:37.000
+in that it could never really know
+
+34:37.000 --> 34:39.000
+whether something was overpriced or underpriced
+
+34:39.000 --> 34:42.000
+because it couldn't calculate it fast enough.
+
+34:42.000 --> 34:45.000
+What many of those, it's not my idea,
+
+34:45.000 --> 34:47.000
+but many of those working in fields of ecological economics
+
+34:47.000 --> 34:51.000
+have identified is that there's a different kind of distortion
+
+34:51.000 --> 34:54.000
+that's happening within the market price
+
+34:54.000 --> 35:02.000
+in that there are underlying social and ecological costs
+
+35:02.000 --> 35:07.000
+to the production and transaction and consumption of commodities
+
+35:07.000 --> 35:10.000
+that are not reflected in the price.
+
+35:10.000 --> 35:12.000
+These are called negative externalities.
+
+35:12.000 --> 35:16.000
+They would include, so if that $100 barrel of oil,
+
+35:16.000 --> 35:21.000
+if it costs $100 because the amount that's available
+
+35:21.000 --> 35:24.000
+on the world market at any point in time
+
+35:24.000 --> 35:29.000
+would suggest that this is the price of it,
+
+35:29.000 --> 35:33.000
+what that price signal does not include, for example,
+
+35:33.000 --> 35:38.000
+are the immediate and or long-term costs of burning that oil,
+
+35:38.000 --> 35:43.000
+of releasing that, of liberating that carbon into the atmosphere,
+
+35:43.000 --> 35:47.000
+and the costs of its ramifications,
+
+35:47.000 --> 35:50.000
+whether those are immediate health costs
+
+35:50.000 --> 35:53.000
+or long-term subtraction costs.
+
+35:53.000 --> 35:56.000
+We were having a lot of discussions with colleagues
+
+35:56.000 --> 35:59.000
+around negative emissions technologies
+
+35:59.000 --> 36:04.000
+and the need for not only the decarbonization,
+
+36:04.000 --> 36:07.000
+not putting more carbon into the atmosphere,
+
+36:07.000 --> 36:10.000
+but the subtraction of existing carbon from the atmosphere
+
+36:10.000 --> 36:13.000
+in order to keep it 2 degrees Celsius.
+
+36:13.000 --> 36:15.000
+The real question of this is how do you pay for it?
+
+36:15.000 --> 36:17.000
+Well, part of the reason you can't pay for it
+
+36:17.000 --> 36:20.000
+is because the cost of the production of that carbon
+
+36:20.000 --> 36:23.000
+in the first place was not reflected
+
+36:23.000 --> 36:28.000
+in the price signal of the oil that produced that carbon
+
+36:28.000 --> 36:31.000
+in its first instance, as you see.
+
+36:31.000 --> 36:35.000
+And so this represents a distortion of the pricing.
+
+36:35.000 --> 36:37.000
+The question then for going to this question
+
+36:37.000 --> 36:40.000
+of what planetary scale computation is for
+
+36:40.000 --> 36:42.000
+is to ask the question is,
+
+36:42.000 --> 36:45.000
+would it be possible to undistort this signal?
+
+36:45.000 --> 36:50.000
+Would it be possible for there to be a price signal
+
+36:50.000 --> 36:54.000
+that was in essence not distorted in this way?
+
+36:54.000 --> 36:57.000
+It would have to be a price signal where, for example,
+
+36:57.000 --> 37:01.000
+the price of that barrel of oil would somehow be able to count,
+
+37:01.000 --> 37:05.000
+be inclusive of not just the transactional value,
+
+37:05.000 --> 37:09.000
+but ultimately all of the secondary and tertiary costs
+
+37:09.000 --> 37:15.000
+and value that would be associated with that item,
+
+37:15.000 --> 37:18.000
+such that it would be the cost of the barrel of mine
+
+37:18.000 --> 37:21.000
+being $500 a barrel or $1,500 a barrel,
+
+37:21.000 --> 37:25.000
+if that's what it would cost to actually deal with this.
+
+37:25.000 --> 37:28.000
+Now, what I sort of hypothesize in the book a bit
+
+37:28.000 --> 37:30.000
+more of as a thought experiment
+
+37:30.000 --> 37:33.000
+than as a policy recommendation
+
+37:33.000 --> 37:36.000
+is to ask them what you would need then is some ability
+
+37:36.000 --> 37:43.000
+for some kind of economics calculative substrate
+
+37:43.000 --> 37:45.000
+that was able not just to identify
+
+37:45.000 --> 37:47.000
+the immediate transactional relations,
+
+37:47.000 --> 37:53.000
+but to hypothesize a futural value of that,
+
+37:53.000 --> 37:57.000
+to imagine in the future what the cost of that would be
+
+37:57.000 --> 37:59.000
+that has not happened yet.
+
+37:59.000 --> 38:01.000
+So you burn the barrel of oil in the future
+
+38:01.000 --> 38:03.000
+that will be these costs that are associated with it
+
+38:03.000 --> 38:05.000
+in the form of negative externalities,
+
+38:05.000 --> 38:08.000
+but how much is that for one barrel of oil
+
+38:08.000 --> 38:10.000
+or for 10 barrels of oil or for one bicycle
+
+38:10.000 --> 38:13.000
+or for one lunch or for one whatever?
+
+38:13.000 --> 38:16.000
+There would be a future cost that hasn't happened yet.
+
+38:16.000 --> 38:19.000
+There would have to be a way, in essence, to price the future.
+
+38:19.000 --> 38:22.000
+How would you calculate the pricing of the future
+
+38:22.000 --> 38:26.000
+into the transaction in some kind of way?
+
+38:26.000 --> 38:29.000
+So this sort of led us to some of the questions
+
+38:29.000 --> 38:32.000
+about the ways in which planetary scale computation
+
+38:32.000 --> 38:37.000
+has already been used as a method for futural modeling
+
+38:37.000 --> 38:40.000
+and the production of models of the future
+
+38:40.000 --> 38:43.000
+that can or should have some recursive capacity
+
+38:43.000 --> 38:45.000
+to govern the present.
+
+38:45.000 --> 38:47.000
+And that's really what I think this question
+
+38:47.000 --> 38:49.000
+of the capitalist pricing,
+
+38:49.000 --> 38:52.000
+the de-distortion of the capitalist pricing
+
+38:52.000 --> 38:54.000
+that it comes down to,
+
+38:54.000 --> 38:58.000
+how can objective empirical statistically valid models
+
+38:58.000 --> 39:01.000
+of the future govern the present in some kind of way?
+
+39:02.000 --> 39:05.000
+So that includes, there's a lot of other discussions
+
+39:05.000 --> 39:08.000
+about just the general capacities of prospection,
+
+39:08.000 --> 39:13.000
+of how it is that the predictive structures of the future
+
+39:14.000 --> 39:16.000
+as part of human cognition play into this,
+
+39:16.000 --> 39:19.000
+the ways in which the kind of preemptive logics
+
+39:19.000 --> 39:22.000
+of the biopolitics of planetary scale computation
+
+39:22.000 --> 39:23.000
+play into this.
+
+39:23.000 --> 39:26.000
+But we were looking at basically two things.
+
+39:26.000 --> 39:29.000
+One was climate science.
+
+39:29.000 --> 39:32.000
+And one of the, I think the key points for this
+
+39:32.000 --> 39:36.000
+is that I make the argument that climate change itself,
+
+39:36.000 --> 39:39.000
+not the physical geophysical fact of climate change,
+
+39:39.000 --> 39:42.000
+but the concept of climate change,
+
+39:42.000 --> 39:44.000
+the statistical regularity that the earth is warming,
+
+39:44.000 --> 39:47.000
+is itself an epistemological accomplishment
+
+39:47.000 --> 39:49.000
+of planetary scale computation.
+
+39:49.000 --> 39:52.000
+That without this sensing, calculation, simulation,
+
+39:52.000 --> 39:55.000
+modeling apparatus of planetary scale computation,
+
+39:55.000 --> 39:59.000
+the very idea of climate change as a kind of
+
+39:59.000 --> 40:04.000
+reductive statistical regularity of a hockey stick arc
+
+40:04.000 --> 40:06.000
+of all of the things that are going on in the planet
+
+40:06.000 --> 40:07.000
+could not be possible.
+
+40:07.000 --> 40:10.000
+And one of the things, it wasn't possible to calculate.
+
+40:10.000 --> 40:13.000
+This is a better example of what planetary scale computation
+
+40:13.000 --> 40:18.000
+is for, if you ask me, and a different kind of model
+
+40:18.000 --> 40:20.000
+of its ultimate social, technical,
+
+40:20.000 --> 40:22.000
+and ecological potential.
+
+40:22.000 --> 40:24.000
+But it's also one that is based on this,
+
+40:24.000 --> 40:28.000
+of a kind of a temporal and historical differential
+
+40:28.000 --> 40:30.000
+between the past and the future.
+
+40:30.000 --> 40:33.000
+It's used not only to mark a present moment,
+
+40:33.000 --> 40:36.000
+but also to sample moments in the past
+
+40:36.000 --> 40:39.000
+through ice core sampling or other kinds of things
+
+40:39.000 --> 40:43.000
+to try to understand the kind of the calculus,
+
+40:43.000 --> 40:45.000
+the statistical differential arc of this
+
+40:45.000 --> 40:47.000
+over a long period of time,
+
+40:47.000 --> 40:49.000
+and also to produce valid computational simulations
+
+40:50.000 --> 40:52.000
+of what the next 10 years, or 20 years,
+
+40:52.000 --> 40:54.000
+or 30 years, or 40 years are being like.
+
+40:54.000 --> 40:56.000
+And so when we look at all the IPCC scenarios,
+
+40:56.000 --> 40:58.000
+and they're forking into the future,
+
+40:58.000 --> 41:00.000
+depending on what happens,
+
+41:00.000 --> 41:02.000
+these are computational simulations
+
+41:02.000 --> 41:07.000
+dependent upon different presumptions and first principles.
+
+41:07.000 --> 41:11.000
+But they are models of the future that we can
+
+41:11.000 --> 41:14.000
+and should be using to govern the present.
+
+41:14.000 --> 41:17.000
+That's what climate science is going to do for it.
+
+41:17.000 --> 41:19.000
+And so this is one example by which, yes,
+
+41:19.000 --> 41:22.000
+we can imagine ways in which we have models of the future
+
+41:22.000 --> 41:25.000
+that we wish to have recursively come back
+
+41:25.000 --> 41:27.000
+and model the present.
+
+41:27.000 --> 41:30.000
+The other one, a bit more prosaic that we've been
+
+41:30.000 --> 41:34.000
+experimenting with is around, of all things, insurance.
+
+41:34.000 --> 41:40.000
+Insurance is another way in which the future is priced,
+
+41:40.000 --> 41:45.000
+and that it's priced in a way that acts back upon
+
+41:45.000 --> 41:49.000
+the changes, the price signal of something we do in the present.
+
+41:49.000 --> 41:55.000
+So if you're, one of my favorite magazines of all time
+
+41:55.000 --> 41:58.000
+is a magazine called Schaden Spiegel.
+
+41:58.000 --> 42:02.000
+It's the magazine of the German Reinsurance Agency.
+
+42:02.000 --> 42:05.000
+It's basically like disaster monthly,
+
+42:05.000 --> 42:11.000
+but it also has some of the most amazingly sober
+
+42:11.000 --> 42:15.000
+descriptions of the implications of climate change
+
+42:15.000 --> 42:18.000
+on large-scale infrastructure that you'll be able to find anywhere.
+
+42:18.000 --> 42:21.000
+Because they're the ones on the hook for a lot of this,
+
+42:21.000 --> 42:24.000
+ultimately, of where this would go.
+
+42:24.000 --> 42:27.000
+And so if you wanted to build that piece of infrastructure,
+
+42:27.000 --> 42:29.000
+not only does it need to be insured,
+
+42:29.000 --> 42:31.000
+but the insurance company needs to get reinsurance against it.
+
+42:31.000 --> 42:34.000
+And if the reinsurance company realizes that that thing
+
+42:34.000 --> 42:37.000
+is going to be extremely vulnerable to climate irregularities,
+
+42:37.000 --> 42:40.000
+you can't get it insured.
+
+42:40.000 --> 42:43.000
+Or if you get it insured, the price of doing it now
+
+42:43.000 --> 42:46.000
+is going to be so much higher because that insurance policy
+
+42:46.000 --> 42:49.000
+will be so expensive that it actually changes the price signal
+
+42:49.000 --> 42:53.000
+of whether we should build that infrastructure thing in the first place.
+
+42:53.000 --> 42:55.000
+So you see where I'm going with this.
+
+42:55.000 --> 43:00.000
+That if you can actually think about what the long-term climatic ramifications
+
+43:00.000 --> 43:04.000
+of some kind of action or investment would be in the future,
+
+43:04.000 --> 43:09.000
+such that those negative externalities are not only not excluded
+
+43:09.000 --> 43:14.000
+from the price, but are formed the basis of the model
+
+43:14.000 --> 43:18.000
+by which the price is produced in the first place.
+
+43:18.000 --> 43:24.000
+Then you go some distance towards at least de-distorting
+
+43:24.000 --> 43:30.000
+that initial price signal in such a way that you have a transformation
+
+43:30.000 --> 43:35.000
+to some extent what we even mean by price in the first place.
+
+43:35.000 --> 43:40.000
+You introduce a different temporality to economic ontology,
+
+43:40.000 --> 43:46.000
+and that what constitutes value is being produced
+
+43:46.000 --> 43:52.000
+in relationship to not only future value in the same way
+
+43:52.000 --> 43:55.000
+as stock price is related to future value,
+
+43:55.000 --> 44:00.000
+but also related to future costs in ways in which that are inclusive in this.
+
+44:00.000 --> 44:05.000
+This is a bit what we mean by that idea.
+
+44:05.000 --> 44:10.000
+Obviously, some of the open questions here is how total of a system
+
+44:10.000 --> 44:13.000
+is necessary for this to work.
+
+44:13.000 --> 44:18.000
+Is there a way in which does this have to be entirely some sort
+
+44:18.000 --> 44:22.000
+of massively centralized mechanism, but through which other forms
+
+44:22.000 --> 44:27.000
+of valuation can't escape, or is there some kind of way
+
+44:27.000 --> 44:32.000
+in which even the organized participation
+
+44:32.000 --> 44:40.000
+within a kind of economics of this sort that is futureal in this way,
+
+44:40.000 --> 44:47.000
+that is inclusive of what are present externalities in some sort of way,
+
+44:47.000 --> 44:53.000
+is there some kind of way that participation on this can be incentivized
+
+44:53.000 --> 45:00.000
+in a way in which it itself becomes a kind of catalytic institution,
+
+45:00.000 --> 45:04.000
+a kind of bottom-up institution rather than necessarily one
+
+45:04.000 --> 45:11.000
+that requires some kind of Skynet system to enforce itself.
+
+45:11.000 --> 45:15.000
+I think that's kind of an open question,
+
+45:15.000 --> 45:19.000
+which means that in a certain way we're back to where we started.
+
+45:20.000 --> 45:24.000
+Is that if all of this started in a debate between is it possible to have,
+
+45:24.000 --> 45:28.000
+can we only have bottom-up organization of this and will it work itself out,
+
+45:28.000 --> 45:31.000
+or do we need some kind of centralized top-down piloting function
+
+45:31.000 --> 45:33.000
+to make all of this work properly?
+
+45:33.000 --> 45:37.000
+If that's where this argument started in the 1950s,
+
+45:37.000 --> 45:40.000
+even when we're talking about how you incentivize participation
+
+45:40.000 --> 45:44.000
+within this situation I described,
+
+45:44.000 --> 45:49.000
+that question doesn't present itself as already solved.
+
+45:51.000 --> 45:56.000
+This is super interesting and I think there's a different layer to it,
+
+45:56.000 --> 45:59.000
+which is quite important as well,
+
+45:59.000 --> 46:02.000
+because actually I think what you're kind of saying is that
+
+46:02.000 --> 46:07.000
+the future is already priced, but it could be priced much better.
+
+46:07.000 --> 46:11.000
+And this kind of stays within the realm of pricing the future
+
+46:11.000 --> 46:17.000
+and argues for better models and the incorporation of externalities
+
+46:17.000 --> 46:20.000
+specifically into the question of pricing.
+
+46:20.000 --> 46:22.000
+For example, yes.
+
+46:22.000 --> 46:25.000
+But there is a different level,
+
+46:25.000 --> 46:29.000
+and maybe this is the homo sapiens level at the end,
+
+46:29.000 --> 46:31.000
+there's a different level to this.
+
+46:31.000 --> 46:34.000
+And Evgeny Morozov writes about it in his essay
+
+46:34.000 --> 46:37.000
+in the New Left Review on Digital Socialism,
+
+46:37.000 --> 46:39.000
+and I'd like to quote him here,
+
+46:39.000 --> 46:43.000
+When Austrian economists respond to today's defenders of central planning
+
+46:43.000 --> 46:46.000
+by noting that any non-capitalist system,
+
+46:46.000 --> 46:49.000
+even one rooted in the power of big data,
+
+46:49.000 --> 46:52.000
+could only beat the efficiency of the price system
+
+46:52.000 --> 46:57.000
+if it also created new behavioral modes and frameworks of meaning,
+
+46:57.000 --> 46:59.000
+they have a point.
+
+46:59.000 --> 47:01.000
+I think this is super important
+
+47:01.000 --> 47:04.000
+and I think it's relevant for what you just said as well,
+
+47:04.000 --> 47:07.000
+and at least in two key aspects,
+
+47:07.000 --> 47:12.000
+it's relevant for the question of synthetic catalectsies to come,
+
+47:12.000 --> 47:16.000
+specifically if they are embedded in some form of red futurism.
+
+47:16.000 --> 47:19.000
+The first one would be, and this is implicit in Morozov's quote,
+
+47:19.000 --> 47:22.000
+that prices are not just numerical, but social,
+
+47:22.000 --> 47:25.000
+and that it is therefore not enough to find a different method
+
+47:25.000 --> 47:27.000
+of quantification or weighing.
+
+47:27.000 --> 47:30.000
+So this would kind of mean that it's not enough
+
+47:30.000 --> 47:33.000
+to price the future even better,
+
+47:33.000 --> 47:36.000
+because there's still the question of new behavioral modes
+
+47:36.000 --> 47:38.000
+and frameworks of meaning,
+
+47:38.000 --> 47:41.000
+which are kind of an obstacle and a chance, I guess.
+
+47:41.000 --> 47:45.000
+And the second one is that markets are not equal to capital
+
+47:45.000 --> 47:49.000
+and that capital does not necessarily need markets,
+
+47:49.000 --> 47:52.000
+and that therefore the force of capital as such
+
+47:52.000 --> 47:55.000
+would need to be abolished if one wanted to be serious
+
+47:55.000 --> 47:58.000
+about synthetic catalectsies as red futurism.
+
+47:58.000 --> 48:01.000
+And this is a specific form, you know?
+
+48:01.000 --> 48:04.000
+So I think those are probably two questions,
+
+48:04.000 --> 48:07.000
+and maybe if I just, so I can keep them in my mind at once,
+
+48:07.000 --> 48:10.000
+maybe we ask them, I'll try to answer them one at a time,
+
+48:10.000 --> 48:13.000
+and maybe you can ask me the second one again after this as well.
+
+48:13.000 --> 48:18.000
+So I would say that I don't disagree,
+
+48:18.000 --> 48:22.000
+I probably don't disagree essentially with the point that
+
+48:23.000 --> 48:26.000
+that simply another,
+
+48:26.000 --> 48:29.000
+just a different means of calculating price
+
+48:29.000 --> 48:32.000
+about the same thing would be sufficient.
+
+48:32.000 --> 48:36.000
+What I'm calling a kind of a shift in economic ontology
+
+48:36.000 --> 48:39.000
+goes to that question of what value is
+
+48:39.000 --> 48:42.000
+and what is even being priced in the first place.
+
+48:42.000 --> 48:45.000
+So it's not just when we're talking about a barrel of oil,
+
+48:45.000 --> 48:49.000
+it's not just this particular assemblage of molecules
+
+48:49.000 --> 48:51.000
+that is transacting owners,
+
+48:51.000 --> 48:55.000
+but it's understood to be a whole other set
+
+48:55.000 --> 48:58.000
+of past, present, and future dynamics
+
+48:58.000 --> 49:03.000
+that one has illegal liability in its relationship to
+
+49:03.000 --> 49:05.000
+that becomes part of the price.
+
+49:05.000 --> 49:08.000
+And I think another way in which this goes back to this question
+
+49:08.000 --> 49:10.000
+of insurance and another future thing,
+
+49:10.000 --> 49:15.000
+part of the question about price has to do with,
+
+49:15.000 --> 49:18.000
+and another kind of externality is a political externality
+
+49:18.000 --> 49:22.000
+in that it is the institutions that allow in essence
+
+49:22.000 --> 49:26.000
+for the renunciation of liability in relationship to something.
+
+49:26.000 --> 49:29.000
+And you can just think, I mean, in the simplest possible sense,
+
+49:29.000 --> 49:32.000
+think of this in terms of like trash.
+
+49:32.000 --> 49:34.000
+So like you've got something in your house
+
+49:34.000 --> 49:37.000
+and you put it out in the garbage can
+
+49:37.000 --> 49:39.000
+and like someone comes along and takes it and says,
+
+49:39.000 --> 49:41.000
+well, this isn't yours anymore
+
+49:41.000 --> 49:43.000
+because you put it in the trash, right?
+
+49:43.000 --> 49:46.000
+And somehow in the act of like getting rid of it,
+
+49:46.000 --> 49:50.000
+you're not only renouncing property claims over it,
+
+49:50.000 --> 49:55.000
+you're also renouncing liability claims over it as well, right?
+
+49:55.000 --> 49:58.000
+And so part of the process of the reason
+
+49:58.000 --> 50:01.000
+why negative externalities can even work in this way
+
+50:01.000 --> 50:06.000
+is because we have this magic function
+
+50:06.000 --> 50:09.000
+by which the renunciation of private property
+
+50:09.000 --> 50:12.000
+constitutes the renunciation of liability.
+
+50:13.000 --> 50:16.000
+So I can spew all of the carbon dioxide
+
+50:16.000 --> 50:19.000
+into the atmosphere once I want.
+
+50:19.000 --> 50:24.000
+And once it's sort of above the airspace property line
+
+50:25.000 --> 50:28.000
+of my factory, it's no longer my carbon dioxide,
+
+50:28.000 --> 50:31.000
+and therefore I'm no longer liable for this carbon dioxide.
+
+50:31.000 --> 50:35.000
+So you see the point about this renunciation of liability
+
+50:35.000 --> 50:36.000
+in this space as well.
+
+50:36.000 --> 50:39.000
+Now, what I'm talking about as the shift
+
+50:39.000 --> 50:44.000
+of a kind of economic ontology has to do some ways
+
+50:44.000 --> 50:48.000
+in which that magic function of renunciation of liability
+
+50:48.000 --> 50:52.000
+and renunciation of sort of embeddedness
+
+50:52.000 --> 50:55.000
+within these socio-molecular relations
+
+50:56.000 --> 50:59.000
+is not something that can be so easily renounced,
+
+50:59.000 --> 51:01.000
+that is in fact part of what you're buying
+
+51:01.000 --> 51:03.000
+when you enter into the relations
+
+51:03.000 --> 51:06.000
+with that barrel of oil in the first place.
+
+51:06.000 --> 51:09.000
+So that is part of what I mean.
+
+51:09.000 --> 51:11.000
+So that is a bit where it seems like
+
+51:11.000 --> 51:14.000
+I probably agree with Evgeny in the sense to which
+
+51:14.000 --> 51:16.000
+it's not just a matter of finding another mechanism
+
+51:16.000 --> 51:18.000
+by which we measure the same thing.
+
+51:18.000 --> 51:20.000
+It's a matter of changing
+
+51:20.000 --> 51:22.000
+what we're measuring in the first place.
+
+51:23.000 --> 51:25.000
+But where I would say, where it may be disagree,
+
+51:25.000 --> 51:26.000
+when he says something like,
+
+51:26.000 --> 51:27.000
+I think your line was a measure,
+
+51:27.000 --> 51:30.000
+it's not just a matter of measuring and calculating
+
+51:30.000 --> 51:33.000
+something but rather something else
+
+51:33.000 --> 51:34.000
+because these have social relations.
+
+51:34.000 --> 51:36.000
+I think my point is that measuring and calculating
+
+51:36.000 --> 51:37.000
+are social relations.
+
+51:40.000 --> 51:42.000
+What he's saying is it can't just be
+
+51:42.000 --> 51:44.000
+these measuring things because it's social.
+
+51:44.000 --> 51:46.000
+I'm saying that is in fact what the social is.
+
+51:46.000 --> 51:49.000
+Measuring things and calculating things and weighing things
+
+51:49.000 --> 51:51.000
+not only have social functions,
+
+51:51.000 --> 51:53.000
+they are social functions.
+
+51:53.000 --> 51:56.000
+They are sort of the key social functions
+
+51:56.000 --> 52:01.000
+as part of this whole kind of dynamic as well.
+
+52:01.000 --> 52:05.000
+And so it is for sure something that needs to go deeper
+
+52:05.000 --> 52:07.000
+into this question of how we identify
+
+52:07.000 --> 52:09.000
+not only how we value the thing
+
+52:09.000 --> 52:11.000
+but what the thing is in the first place.
+
+52:11.000 --> 52:12.000
+So agreed.
+
+52:12.000 --> 52:14.000
+Now whether or not this constitutes
+
+52:14.000 --> 52:18.000
+a kind of behavioral change, it would.
+
+52:18.000 --> 52:21.000
+It's a matter of, it's an open question though
+
+52:21.000 --> 52:23.000
+I think whether or not the behavioral
+
+52:23.000 --> 52:25.000
+and psychological transformation would be the cause
+
+52:25.000 --> 52:26.000
+or the effect.
+
+52:28.000 --> 52:30.000
+And honestly there's sort of different approaches
+
+52:30.000 --> 52:33.000
+and schools of thought to this.
+
+52:33.000 --> 52:36.000
+And this probably goes to a more deeper
+
+52:36.000 --> 52:39.000
+sort of approaches to ecological politics
+
+52:39.000 --> 52:43.000
+and indeed just the kind of dynamics in general.
+
+52:43.000 --> 52:45.000
+For those whose alliance,
+
+52:45.000 --> 52:47.000
+whose those sort of like way of seeing the world
+
+52:47.000 --> 52:51.000
+is one in which large scale change happens
+
+52:51.000 --> 52:54.000
+through the accumulation of virtuous acts.
+
+52:54.000 --> 52:58.000
+That if enough people do enough virtuous acts
+
+52:59.000 --> 53:02.000
+and those virtuous acts assemble into millions and billions
+
+53:02.000 --> 53:04.000
+and trillions of virtuous acts,
+
+53:04.000 --> 53:07.000
+then there will be an infrastructural transformation
+
+53:07.000 --> 53:12.000
+will ensue through this deliberate conscious
+
+53:14.000 --> 53:19.000
+psychological moral shift in paradigmatic worldview
+
+53:21.000 --> 53:25.000
+and then the accumulation of virtuous acts.
+
+53:25.000 --> 53:26.000
+And then there's others.
+
+53:26.000 --> 53:29.000
+And I would be on the second side of this a bit more
+
+53:29.000 --> 53:32.000
+that would suggest in many ways the history of technology
+
+53:32.000 --> 53:34.000
+and the history of society are not only intertwined
+
+53:34.000 --> 53:37.000
+with one another, but in many respects,
+
+53:37.000 --> 53:40.000
+shifts in social systems and in cultural systems
+
+53:40.000 --> 53:42.000
+and indeed in political and economic systems
+
+53:42.000 --> 53:47.000
+usually happen more as an effect of transformations
+
+53:47.000 --> 53:51.000
+within underlying technological systems.
+
+53:51.000 --> 53:53.000
+This is in a certain sense
+
+53:53.000 --> 53:56.000
+based a superstructure kind of approach
+
+53:56.000 --> 53:59.000
+that in transformations not just in the means of production,
+
+53:59.000 --> 54:01.000
+but indeed in the mode of production
+
+54:02.000 --> 54:05.000
+that you then see shifts in culture
+
+54:05.000 --> 54:08.000
+and shifts in psychology as a result of these.
+
+54:08.000 --> 54:10.000
+And so I think in many respects,
+
+54:10.000 --> 54:15.000
+my inclination would be to look at ways
+
+54:15.000 --> 54:19.000
+in which you'll get greater leverage faster
+
+54:19.000 --> 54:24.000
+by looking at ways in which there would be shifts
+
+54:24.000 --> 54:27.000
+in geotechnology and shifts in geoeconomics
+
+54:27.000 --> 54:30.000
+that would bring about shifts in geoculture
+
+54:30.000 --> 54:35.000
+rather than trying to bring about a spiritual transformation
+
+54:36.000 --> 54:40.000
+that would subsequently down the line
+
+54:40.000 --> 54:42.000
+transform those geotechnologies.
+
+54:42.000 --> 54:45.000
+It's really not because of an aesthetic preference
+
+54:45.000 --> 54:47.000
+of this so much, but rather than just,
+
+54:47.000 --> 54:49.000
+I think that the history of economics
+
+54:49.000 --> 54:51.000
+and the history of technology suggest
+
+54:51.000 --> 54:55.000
+that that's the more likely path.
+
+54:56.000 --> 54:59.000
+But at least as far as I understand it,
+
+54:59.000 --> 55:01.000
+the question that he's aiming at when he's saying
+
+55:01.000 --> 55:04.000
+new behavioral modes and frameworks of meaning,
+
+55:04.000 --> 55:08.000
+it's more about what are the crucial points
+
+55:08.000 --> 55:13.000
+that are not only concerned with these technical aspects
+
+55:13.000 --> 55:17.000
+of, for example, how to price the future any better
+
+55:17.000 --> 55:20.000
+because these ideas of externalities
+
+55:20.000 --> 55:24.000
+and how you can behave with your property,
+
+55:24.000 --> 55:28.000
+this is ingrained in the very concept of property as such.
+
+55:28.000 --> 55:32.000
+So if you are not able to change this idea of property
+
+55:32.000 --> 55:36.000
+as a form of behavioral mode and a framework of meaning,
+
+55:36.000 --> 55:41.000
+then you won't get to a point where you will be effective
+
+55:41.000 --> 55:46.000
+in bringing people to a point of not treating it
+
+55:47.000 --> 55:49.000
+as an externality.
+
+55:49.000 --> 55:50.000
+Do you see what I mean?
+
+55:50.000 --> 55:53.000
+I think there's a way of approaching it
+
+55:53.000 --> 55:55.000
+from the perspective of, okay, we need to find
+
+55:55.000 --> 55:59.000
+a more effective pricing mechanism for these externalities,
+
+55:59.000 --> 56:03.000
+or we need to find a way to address this social institution
+
+56:03.000 --> 56:06.000
+of property as such because the property as such,
+
+56:06.000 --> 56:09.000
+as a social institution and a framework of meaning,
+
+56:09.000 --> 56:12.000
+is one of the root causes for the ways we do address
+
+56:12.000 --> 56:15.000
+these questions on a large scale.
+
+56:15.000 --> 56:18.000
+And this is not coming from a moral perspective,
+
+56:18.000 --> 56:22.000
+but as well from a perspective of effectiveness, I guess.
+
+56:22.000 --> 56:24.000
+Possibly.
+
+56:24.000 --> 56:26.000
+I agree with you everything up to the point of the phrase
+
+56:26.000 --> 56:27.000
+root cause.
+
+56:27.000 --> 56:30.000
+I see it as root effect.
+
+56:30.000 --> 56:36.000
+I completely agree with you that ultimately you can't have
+
+56:36.000 --> 56:38.000
+one without the other.
+
+56:38.000 --> 56:40.000
+I don't argue with this at all.
+
+56:44.000 --> 56:48.000
+If there is a changing in somehow, even at the level
+
+56:48.000 --> 56:51.000
+of some shift in the geotechnology of pricing
+
+56:51.000 --> 56:54.000
+and organization and the ontology of property
+
+56:54.000 --> 56:58.000
+that has some kind of planetary scale legal binding structure,
+
+56:58.000 --> 57:05.000
+if this isn't, in fact, become part of the culture
+
+57:05.000 --> 57:08.000
+of our relationship to object and molecular assemblages
+
+57:08.000 --> 57:10.000
+around us and our socioeconomic environment,
+
+57:10.000 --> 57:13.000
+if it doesn't actually become a social infrastructure
+
+57:13.000 --> 57:18.000
+and doesn't actually become the basis of the way
+
+57:18.000 --> 57:22.000
+in which we plan, conceptualize, model,
+
+57:22.000 --> 57:26.000
+and recursively organize our relationship
+
+57:26.000 --> 57:29.000
+to the material world, then it's nothing.
+
+57:29.000 --> 57:34.000
+It's not even a technology because it's not being used.
+
+57:34.000 --> 57:35.000
+There's no argument.
+
+57:35.000 --> 57:37.000
+I absolutely agree.
+
+57:37.000 --> 57:39.000
+And then part of the question is, how is it
+
+57:39.000 --> 57:44.000
+that at societal levels that the kind of models
+
+57:44.000 --> 57:50.000
+that we have, cognitive models, at an individual level
+
+57:50.000 --> 57:53.000
+and at a group level, cognitive models that understand
+
+57:53.000 --> 57:58.000
+and calculate advantage, calculate the future,
+
+57:58.000 --> 58:01.000
+calculate our interests, calculate our interactions
+
+58:02.000 --> 58:06.000
+with these kinds of things are done so in relationship
+
+58:06.000 --> 58:08.000
+to these differential systems.
+
+58:08.000 --> 58:12.000
+If that isn't part of how we are rethinking the world,
+
+58:12.000 --> 58:16.000
+then these technologies are, in fact, not even technologies.
+
+58:16.000 --> 58:19.000
+I would agree with that because they're not
+
+58:19.000 --> 58:21.000
+being used in this way.
+
+58:21.000 --> 58:26.000
+What I'm simply suggesting is that there is a presumption,
+
+58:26.000 --> 58:29.000
+and I think, honestly, I think it's one that's rather deep
+
+58:29.000 --> 58:33.000
+in a Western liberal individualist framework,
+
+58:33.000 --> 58:38.000
+that first there is a cognitive psychological transformation
+
+58:38.000 --> 58:42.000
+that then is made manifest upon the world,
+
+58:42.000 --> 58:48.000
+that somehow the agency and subjectivity are the same thing,
+
+58:48.000 --> 58:51.000
+that our agency in the world is ultimately
+
+58:51.000 --> 58:53.000
+a function of our subjectivity.
+
+58:53.000 --> 58:57.000
+And what I'm suggesting, honestly, I think I'm making
+
+58:57.000 --> 59:00.000
+more of a Marxian argument that in many ways
+
+59:00.000 --> 59:03.000
+that the transformations in the mode of production,
+
+59:03.000 --> 59:06.000
+and I would include these shifts in economic ontology
+
+59:06.000 --> 59:08.000
+as a shift in the mode of production,
+
+59:08.000 --> 59:14.000
+ultimately transforms the culture in its image more so.
+
+59:14.000 --> 59:16.000
+You can't have one without the other,
+
+59:16.000 --> 59:18.000
+but in terms of where it is that we should,
+
+59:18.000 --> 59:24.000
+where I would place my bet, now speaking of the future,
+
+59:24.000 --> 59:29.000
+so placing my bet on which is more a cause of the other,
+
+59:29.000 --> 59:32.000
+I'm going to vote that base causes superstructure
+
+59:32.000 --> 59:37.000
+more than superstructure causes base.
+
+59:37.000 --> 59:39.000
+Nice, super nice.
+
+59:39.000 --> 59:43.000
+I love this answer, and it already touches upon
+
+59:43.000 --> 59:47.000
+one of the next questions which is concerned with the individual.
+
+59:47.000 --> 59:53.000
+This has been the first part of the Future Histories Live event
+
+59:53.000 --> 59:55.000
+with Benjamin Bretton.
+
+59:55.000 --> 59:58.000
+I hope you enjoyed it, I certainly did.
+
+59:58.000 --> 01:00:00.000
+If you want to support Future Histories,
+
+01:00:00.000 --> 01:00:05.000
+then you can do so via Patreon or through a simple donation.
+
+01:00:05.000 --> 01:00:08.000
+And if you're not able to support Future Histories economically,
+
+01:00:08.000 --> 01:00:10.000
+then this is absolutely fine,
+
+01:00:10.000 --> 01:00:13.000
+because there is a fantastic money-free way
+
+01:00:13.000 --> 01:00:15.000
+to support the project too,
+
+01:00:15.000 --> 01:00:18.000
+and that is by telling a friend about the show
+
+01:00:18.000 --> 01:00:21.000
+who might be interested in the topics we discuss here.
+
+01:00:21.000 --> 01:00:24.000
+Thank you all, and hear you in two weeks.
+

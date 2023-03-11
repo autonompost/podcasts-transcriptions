@@ -1,0 +1,1607 @@
+WEBVTT
+
+00:00.000 --> 00:05.640
+Welcome to Future Histories, my name is Jan Gross and it is my great pleasure to welcome
+
+00:05.640 --> 00:09.000
+Antoinette Rovois in today's episode.
+
+00:09.000 --> 00:13.760
+It's a Future Histories live episode that you are about to hear, meaning it has been
+
+00:13.760 --> 00:19.680
+recorded in front of an audience, in this case, in the context of the workshop Biological
+
+00:19.680 --> 00:25.820
+Life and Political Cybernetics that took place in December 22 in Vienna.
+
+00:25.820 --> 00:32.460
+And I want to thank the organizers Anna Verena-Nosthoff, Eugenia Stamboljeff and Vessel Reyes for
+
+00:32.460 --> 00:36.640
+the possibility to take part in this, it has been great, thanks a lot.
+
+00:36.640 --> 00:42.140
+And I am happy to announce that this is not a single workshop, but a series of workshops
+
+00:42.140 --> 00:48.140
+on the topic of political cybernetics and that I myself will organize an instance of
+
+00:48.140 --> 00:54.620
+this series at Kiel University as part of the research project Governing Algorithms.
+
+00:55.280 --> 00:58.480
+I'll definitely keep you updated on that.
+
+00:58.480 --> 01:04.820
+I also want to send a quick shout out to the Critical Data Lab, which I'm also affiliated
+
+01:04.820 --> 01:11.560
+to and which was, through Anna Verena-Nosthoff, also involved in the organization of the Political
+
+01:11.560 --> 01:14.400
+Cybernetics Workshop in Vienna.
+
+01:14.400 --> 01:18.720
+Many thanks to everybody involved in general, it has been a pleasure.
+
+01:18.720 --> 01:24.480
+Before we start, I would like to welcome Manchu and Dahlia as patrons of Future Histories
+
+01:24.480 --> 01:30.240
+and I want to thank Fabian, Lucas and Karl for their kind donations.
+
+01:30.240 --> 01:37.240
+And now, please enjoy today's episode with Antoinette Rovois on Algorithmic Governmentality.
+
+01:42.740 --> 01:47.280
+Welcome to Future Histories, my name is Jan Gross and it is my great pleasure to welcome
+
+01:47.280 --> 01:50.340
+Antoinette Rovois in today's episode.
+
+01:50.340 --> 01:55.960
+She is a permanent research associate at the Belgian National Fund for Scientific Research
+
+01:55.960 --> 02:00.560
+and a researcher and professor at the University of Namur in Belgium.
+
+02:00.560 --> 02:06.360
+Her work centers around evolving normativities at the interface of legal theory, philosophy
+
+02:06.360 --> 02:12.280
+and science and technology studies using, for course, insights on questions of government.
+
+02:12.280 --> 02:17.060
+She has developed an analytic framework called Algorithmic Governmentality, which we will
+
+02:17.060 --> 02:19.420
+explore in today's conversation.
+
+02:19.500 --> 02:20.620
+Welcome Antoinette.
+
+02:20.620 --> 02:21.620
+Thank you.
+
+02:21.620 --> 02:22.620
+Thank you for having me.
+
+02:22.620 --> 02:24.120
+It's a great pleasure.
+
+02:24.120 --> 02:28.080
+Let's maybe start with a broad definition for people who are not familiar with your
+
+02:28.080 --> 02:29.080
+work.
+
+02:29.080 --> 02:30.080
+What is algorithmic governmentality?
+
+02:30.080 --> 02:39.880
+Well, I must first say that my intention with that concept or that notion or that non-concept
+
+02:39.880 --> 02:46.540
+rather of algorithmic governmentality has never been to find the right epochal ladder
+
+02:46.540 --> 02:49.280
+for something like a social totality.
+
+02:49.280 --> 02:55.740
+If I speak of governmentality, it is precisely in order to avoid delimiting the social as
+
+02:55.740 --> 02:56.740
+a totality.
+
+02:56.740 --> 03:04.220
+I don't speak of algorithmic society any more than of a surveillance society.
+
+03:04.220 --> 03:09.840
+Algorithmic governmentality does not, in the sense that I use the term, designate a particular
+
+03:09.840 --> 03:16.580
+mode of government which would have more or less replaced or been juxtaposited to the
+
+03:16.640 --> 03:22.160
+forms of sovereignty, pastorate, discipline, normalization, control and so on that Foucault
+
+03:22.160 --> 03:26.920
+and in fact, Foucault himself did not consider that sovereignty, surveillance, discipline,
+
+03:26.920 --> 03:33.260
+control and so on corresponded to a strict chronologic periodization.
+
+03:33.260 --> 03:37.920
+It was not for him a series in which the elements follow one another.
+
+03:37.920 --> 03:44.660
+It is rather a complex edifice in which the center of gravity shifts in the systems of
+
+03:44.760 --> 03:51.440
+correlations between legality, discipline, security, control and I would add with Felix
+
+03:51.440 --> 04:00.240
+Guattari integration and I would add with a lot of you, with most of you, recursivity.
+
+04:00.240 --> 04:04.160
+These shift at the core of governmental rationalities.
+
+04:04.160 --> 04:11.460
+The way I try to inherit of the non-concept of governmentality from Foucault is I must
+
+04:11.460 --> 04:19.800
+concede right away quite unfaithful, at least partially, to the original meaning ascribed
+
+04:19.800 --> 04:25.760
+to the term by Michel Foucault in the series of lectures he held at the Collège de France
+
+04:25.760 --> 04:35.640
+in 1978 and 1973 and I would say that because since I wrote about algorithmic governmentality
+
+04:35.720 --> 04:44.520
+first, it was a long, long time ago, my own thinking has evolved and I have come to understand
+
+04:44.520 --> 04:51.620
+that in fact algorithmic governmentality or algorithmic capitalism was not a mode of ordering
+
+04:51.620 --> 04:52.620
+of the world.
+
+04:52.620 --> 05:01.580
+It is not a mode of organization, but it's rather a tactic or a system of disorganization
+
+05:01.620 --> 05:11.520
+of organized and strategic disruption, which is highly profitable to the ones who Mackenzie
+
+05:11.520 --> 05:14.520
+work called the vectorialist class.
+
+05:14.520 --> 05:23.080
+But of course, we are all part of this and I will try to develop that a little bit later.
+
+05:23.080 --> 05:31.720
+So I refer to, also I must say right away that I refer to governmentality mainly as
+
+05:31.720 --> 05:38.560
+a methodological perspective that orients our attention away from the classical invariance
+
+05:38.560 --> 05:44.020
+of political science, the state, institutions, the subjects.
+
+05:44.020 --> 05:50.100
+From a governmentality perspective, the state, institutions, the subjects are not presupposed
+
+05:50.180 --> 05:52.480
+or pre-existent to governmentality.
+
+05:52.480 --> 05:56.220
+They are rather it's byproducts.
+
+05:56.220 --> 06:08.380
+So governmentality allows me to try to diagnose or to produce a kind of clinics or analytics
+
+06:08.380 --> 06:15.140
+of a series of semiotic, epistemic, normative, strategic, anthropological, ethical shifts
+
+06:15.180 --> 06:21.600
+in the processes or techniques of signification, that is production of meaning, in techniques
+
+06:21.600 --> 06:25.940
+of power or domination and in techniques of the self.
+
+06:25.940 --> 06:33.020
+Foucault's notion of governmentality or what he calls governmental rationality, which corresponds
+
+06:33.020 --> 06:39.160
+in this sense to what, for example, Castoriadis calls the imaginary institution of society
+
+06:39.180 --> 06:48.200
+is above all, for me, a way of making consistent, of articulating, of showing the entanglement
+
+06:48.200 --> 06:55.840
+in each era of a set of techniques of signification, meaning making, techniques of production,
+
+06:55.840 --> 07:00.120
+techniques of power and techniques of self.
+
+07:00.120 --> 07:09.080
+This being said, what I have as a target are indeed the new effects of reliability or credibility
+
+07:10.000 --> 07:21.000
+in the post-truth era where we are, as is often said, the unprecedented effects of power
+
+07:21.000 --> 07:29.800
+or operationality without authority, and therefore responsibility, or the force without law,
+
+07:29.800 --> 07:36.680
+and an individualization or molecularization and deterritorialization without subjects.
+
+07:36.680 --> 07:43.040
+Therefore, I speak with others of inhuman biopolitics, the instrumental unit of power
+
+07:43.040 --> 07:52.800
+being not anymore the population, individuals, or the bodies, but only meaningless data.
+
+07:52.800 --> 07:59.520
+So this being said about governmentality, now, why algorithmic governmentality?
+
+07:59.520 --> 08:06.480
+My algorithmic governmentality with my colleague Thomas Berns, we had in mind a kind of hypothesis
+
+08:07.280 --> 08:13.320
+a hypothesis of a government of the social world based on the algorithmic meaning automatic
+
+08:13.320 --> 08:21.120
+processing of the massive data proliferating from our behaviors by behaviors, I understand
+
+08:21.120 --> 08:28.400
+all the interactions we have with the environment, relationships, interactions, trajectories,
+
+08:28.400 --> 08:29.740
+and so on.
+
+08:29.740 --> 08:37.620
+So processing of massive data proliferating from our behaviors rather than on politics,
+
+08:37.620 --> 08:42.860
+law, social norms, in a multitude of sectors of activity and government.
+
+08:42.860 --> 08:50.540
+We therefore call algorithmic government or algorithmic governmentality a mode of government
+
+08:50.540 --> 08:57.100
+which is productive not of norms, neither of standards or rules, which in fact fails
+
+08:57.180 --> 09:04.100
+to adjudicate and which is fed essentially by raw data, by which I mean,
+
+09:04.100 --> 09:09.500
+intrapersonal and significant but quantifiable signals.
+
+09:10.740 --> 09:17.380
+Also, algorithmic governmentality operates by anticipatory configurations of possibilities
+
+09:17.380 --> 09:25.620
+through anticipatory optimization of environments rather than by regulation, permission, prohibition,
+
+09:25.620 --> 09:26.340
+and so on.
+
+09:27.260 --> 09:36.060
+But as I will tell, no, my current thought about it is rather that, in fact, it's not
+
+09:36.060 --> 09:48.060
+even trying to govern anything, it's rather trying to render power absolutely agile, able
+
+09:48.060 --> 09:55.420
+to be resilient to any kind of transformation, any kind of emergence.
+
+09:55.420 --> 10:04.620
+So that's really the speculative term that algorithmic governmentality marks.
+
+10:06.540 --> 10:13.420
+So we have also defined in some of our papers algorithmic governmentality very broadly
+
+10:14.140 --> 10:21.660
+as a certain type of normative or apolitical rationality founded or grounded on the automated
+
+10:21.660 --> 10:27.740
+collection, aggregation, and analysis of big data so as to model, anticipate, and
+
+10:27.740 --> 10:30.700
+preemptively affect possible behaviors.
+
+10:32.140 --> 10:40.060
+So, of course, when reading and rereading Foucault and Deleuze, I realized it was not
+
+10:40.060 --> 10:42.140
+very, very original.
+
+10:42.140 --> 10:51.260
+In fact, already in 1979, Foucault announced this on the horizon of liberal governmentality
+
+10:51.980 --> 10:59.100
+what appears is not at all the idea or the project of an exhaustively disciplinary society
+
+10:59.100 --> 11:05.260
+in which the legal network, enclosing individuals, would be related and extended from within
+
+11:05.260 --> 11:10.860
+by, let us say, normative mechanisms, nor is it a society in which the mechanisms of
+
+11:10.860 --> 11:16.460
+general normalization and exclusion of the non-normalizable would be required.
+
+11:17.100 --> 11:23.420
+On the contrary, on the horizon is the image or the idea or theme of a society in which
+
+11:23.420 --> 11:28.700
+there would be optimization of systems of difference, in which the field would be left open
+
+11:28.700 --> 11:34.940
+to auxiliary processes, in which there would be tolerance for minority individuals and
+
+11:34.940 --> 11:39.900
+practices, in which there would be action not on the players of the game but on the
+
+11:39.900 --> 11:44.860
+rules of the game, and finally, in which there would be intervention not on the type of
+
+11:44.860 --> 11:51.740
+internal subjugation of individuals but intervention of an environmental type.
+
+11:53.420 --> 11:59.180
+In the next lesson, Foucault reminded of the heterodox definition of economics given by
+
+11:59.180 --> 12:07.020
+Gary Baker, the science of systematicity of responses to environmental variations, a
+
+12:07.020 --> 12:12.540
+definition Foucault told us which can perfectly include the behavioral techniques that had been
+
+12:12.540 --> 12:20.540
+promoted in particular by Skinner about whom Foucault also writes that he was hostile to the
+
+12:20.540 --> 12:27.580
+use of statistics, that he considers that individual behaviors must be studied, which presupposes
+
+12:27.580 --> 12:33.660
+that we control the environment in which we place the subject and that we define measures
+
+12:33.660 --> 12:41.420
+of response which are informative. When a subject moves in his environment, some of his behaviors
+
+12:41.420 --> 12:47.900
+produce detectable changes in the environment, the reinforcement contingencies. The operant
+
+12:47.900 --> 12:54.460
+response is a class of responses defined by the consequences they have for the subject and issued
+
+12:54.460 --> 12:59.660
+in a given situation without being causally dependent on a stimulus in the situation.
+
+12:59.660 --> 13:07.100
+That's really the kind of data behaviorism that I have tried to describe, in which in fact
+
+13:07.100 --> 13:13.340
+insights replace knowledge and in fact it completely disturbs that the idea that
+
+13:15.180 --> 13:22.540
+Foucault had that in fact power is always based and co-produced with knowledge.
+
+13:22.540 --> 13:28.780
+Here the conjunction of knowledge and power is completely exploded. There is no need for
+
+13:28.860 --> 13:37.260
+knowledge to govern and it's even the opposite. It's a way through which contingency and
+
+13:37.260 --> 13:47.980
+non-knowledge and ignorance become the target of speculative and leveraging strategies.
+
+13:47.980 --> 14:00.620
+So we are not exactly in the situation described by Foucault. Why? Of course we perceive all that
+
+14:00.620 --> 14:09.740
+modulation that we have left modernist way of government and so on, but I would say we are
+
+14:09.740 --> 14:19.660
+even further than what he anticipated in 79. Why is it? Because in fact there is no action
+
+14:19.660 --> 14:23.900
+on the rules of the game or if there are actions on the rules of the game,
+
+14:24.700 --> 14:32.940
+these rules are not even any more detectable or subjectively recognizable by the players.
+
+14:32.940 --> 14:40.060
+Why is that? Because in algorithmic governmentality what we notice is that even
+
+14:40.060 --> 14:48.300
+metrics against which behaviors or performances are evaluated, ranked, scored and so on,
+
+14:49.340 --> 14:55.740
+metrics have become increasingly plastic. They are not fixed. They are not knowable in advance.
+
+14:55.820 --> 15:04.780
+They are moving and evolving according to the behaviors of all others. What that means is
+
+15:04.780 --> 15:13.420
+that we are not any more confronted with the kind of subject produced by algorithmic governmentality
+
+15:13.420 --> 15:21.740
+is completely at odds with the notion of the homo hemoconomicus described by Gary Becker,
+
+15:22.220 --> 15:34.620
+the homo economicus who had to invest rationally in his own human capital by being able to
+
+15:34.620 --> 15:46.060
+anticipate what kind of returns his investment would grant him. No, people never know how they
+
+15:46.060 --> 15:56.380
+will be evaluated and the metrics are so moving that in fact we can have the impression that this
+
+15:56.380 --> 16:05.820
+shift from modernist normativity towards recursive plasticity of abnormativity,
+
+16:06.300 --> 16:18.060
+that cybernetic mode of government, it can appear really emancipatory but it is paid,
+
+16:18.860 --> 16:27.900
+it is at the cost of transforming individuals into people who are completely addicted
+
+16:27.900 --> 16:35.100
+to credit so they have to find credit to gain attention, to gain audience, to be
+
+16:35.100 --> 16:44.780
+noticed, it means to occupy a node in the network. So in fact it's a kind of anomaly,
+
+16:44.780 --> 16:54.380
+that's the reason why in beginning to respond too long to your question, I said it's a system
+
+16:54.380 --> 17:03.980
+of disorganization. It's a system of disorganization because it fragments all subjectively and
+
+17:03.980 --> 17:14.220
+collectively recognizable forms into pure decontextualized signals which are re-aggregated
+
+17:14.220 --> 17:23.580
+at an industrial scale which is not personal nor collective nor nothing, which are pure speculative
+
+17:23.580 --> 17:32.700
+in which pure speculative spaces are created, speculative spaces of opportunities and risks.
+
+17:34.060 --> 17:39.580
+I have the impression that I have transformed this discussion into a monologue so don't
+
+17:39.580 --> 17:48.380
+hesitate to interrupt me if you wish. Well I'll just wait until you have finished making your
+
+17:48.380 --> 17:56.300
+point so that's all right with me. Okay so maybe in order to give some
+
+17:56.300 --> 18:08.700
+consistency, some materiality to what I'm saying here, I guess just a few examples.
+
+18:09.340 --> 18:15.660
+For example there is a new system of employee monitoring developed by Amazon in its warehouse
+
+18:15.660 --> 18:23.020
+and in the vehicle of their delivery drivers. In the online presentation Amazon presents the
+
+18:23.020 --> 18:29.180
+monitoring system as humanizing the interaction transportation companies have with their drivers
+
+18:29.180 --> 18:37.020
+to enhance driving performance. Indeed what matters in this humanization is to enable
+
+18:37.020 --> 18:43.580
+artificial intelligence systems to better understand or rather better act as if they
+
+18:43.580 --> 18:50.380
+understood the humans in their interactions with their environment. Of course what matters to
+
+18:50.380 --> 18:56.620
+Amazon is not at all understanding or legibility of each individual employee, their motivations,
+
+18:56.620 --> 19:03.420
+their intentions or the singularity of their experiences. In fact individual warehouse
+
+19:03.420 --> 19:10.380
+workers are eminently substituable or replaceable anyway. It is not their singularity that Amazon
+
+19:10.380 --> 19:17.660
+has an interest in nor is Amazon primarily interested in acquiring knowledge about the
+
+19:17.660 --> 19:24.540
+productivity of the workforce in general but rather it's interested in rendering individual
+
+19:24.540 --> 19:30.940
+workers every move computable in a data behaviorist paradigm. This is the kind of
+
+19:30.940 --> 19:36.300
+data behaviorism allowing humanization of interactions contemplated by Amazon.
+
+19:37.980 --> 19:44.620
+To humanize in this discourse means to scale power down to the molecular level,
+
+19:45.100 --> 19:51.820
+to leverage particularities not singularities but particularities. Conveniently from the
+
+19:51.820 --> 19:59.900
+perspective of a neoliberal management these particularities escape both subjective identification,
+
+19:59.900 --> 20:03.420
+recognition and collective perception and discussion.
+
+20:05.820 --> 20:11.260
+It is of course as I said not the singularity of individual experiences that are of interest to
+
+20:11.260 --> 20:17.500
+Amazon nor the regularities observed in the workforce population but rather the mostly
+
+20:17.500 --> 20:24.060
+subliminal particularities of behavioral responses to environmental stimuli. The individual and
+
+20:24.060 --> 20:32.380
+collective trade unionist and so on subjects how they may or may not acknowledge experiences
+
+20:32.380 --> 20:39.820
+their own and so on do not matter at all. They disappear from powers gaze. Singular and collective
+
+20:39.820 --> 20:46.220
+experiences drastically fall in value and power operates on the mode of machining enslavement
+
+20:46.220 --> 20:54.220
+rather than social subjection. So enabling everything to be connected to communicate
+
+20:54.220 --> 21:01.660
+or synchronize with everything else in almost real time the computational term appears to
+
+21:01.660 --> 21:08.540
+disqualify all kinds of representations including predictions based on statistical representations
+
+21:08.540 --> 21:14.540
+which never pretend to be adequate to the world but merely to provide approximative representations
+
+21:14.540 --> 21:22.780
+of it with an objective of neutrality. All these even statistical representations are felt as
+
+21:22.780 --> 21:31.820
+anarchisms sorry archaisms in favor of a post-representational recursive paradigm of
+
+21:31.900 --> 21:39.100
+disintermediated access to the digital real in high resolution which is also a high dissolution
+
+21:39.660 --> 21:46.620
+at the pre-semiotic stage emancipated from the symbolic order from the tyranny of the signifier
+
+21:46.620 --> 21:55.740
+from the imperialism of language itself. So and I will end maybe my attempt to
+
+21:56.540 --> 22:00.860
+to not define algorithmic or neutrality by this I would say that
+
+22:02.940 --> 22:09.020
+the aim but I will maybe later further explain this the aim is not so much to manage or influence
+
+22:09.020 --> 22:15.500
+the individuals and groups but to render power absolutely agile capable of leveraging the
+
+22:15.500 --> 22:21.660
+contingency of individual and collective behaviors whereas data drivenness attest to the replacement
+
+22:21.660 --> 22:30.060
+of both the commodity form and currency by assets all that matters is the convertibility
+
+22:30.060 --> 22:37.820
+of contingent data into speculative assets so the hallmark of power in algorithmic regime
+
+22:37.820 --> 22:45.260
+is not so much that it would look at us spy on us but rather that it literally bypass the visual
+
+22:45.260 --> 22:53.100
+epistem the phenomenological perceptual systems of recognition of qualification of judgment of
+
+22:53.100 --> 22:59.420
+categories in favors of systems of recursive computation as a consequence algorithmic
+
+22:59.420 --> 23:05.260
+governmentality is quite indifferent to what is present to what appears consistent and real to
+
+23:05.260 --> 23:11.740
+our ordinary senses as it shifts towards the forward-looking detection of contingent patterns
+
+23:11.740 --> 23:18.540
+as novel latent speculative spaces which are in no way subjectively or collectively recognizable
+
+23:19.660 --> 23:30.300
+so yes maybe I don't know if this fits as a broad indication of
+
+23:31.180 --> 23:38.780
+what algorithmic governmentality is about as a problem. Yes well let me jump in I would be
+
+23:38.780 --> 23:45.180
+interested at this point in in two things one would be that in one of your texts at some point
+
+23:45.180 --> 23:51.660
+you coming from this critique of algorithmic governmentality you continue to argue for a
+
+23:51.660 --> 23:57.260
+quote-unquote return to reality so I would be interested actually what you mean by reality in
+
+23:57.260 --> 24:03.420
+this case so what is it coming from this critique that you try to bring forward maybe as a I don't
+
+24:03.420 --> 24:09.020
+know how to call it then counter ontology I don't know maybe so maybe you could state what you mean
+
+24:09.020 --> 24:13.980
+with reality in this case this is one of the the questions that I have and the other one would be
+
+24:13.980 --> 24:19.980
+that when reading the texts from time to time I was asking myself whether or not these descriptions
+
+24:19.980 --> 24:25.980
+that you give of algorithmic governmentality I got the impression that they do absolutely fit
+
+24:26.620 --> 24:33.740
+for some form of imaginary of algorithmic governing but that if we look at the
+
+24:34.620 --> 24:42.940
+actual practice that this is not really an adequate description of how things are really
+
+24:42.940 --> 24:50.380
+going going down and one example for this would be this phrase of raw data is an oxymoron and you
+
+24:50.380 --> 24:56.060
+yourself state that the people who are actually working with these technologies are very much
+
+24:56.060 --> 25:02.700
+aware that there that there are so many hands reaching into the algorithm that there is always
+
+25:02.700 --> 25:08.780
+a co-production between the algorithm and the the humans who are working with it so that there is
+
+25:08.780 --> 25:15.580
+not actually this place of perfection that you kind of describe when talking about algorithmic
+
+25:15.580 --> 25:21.980
+governmentality who seems to be omnipotent when hearing about the critique and of course it's
+
+25:21.980 --> 25:28.700
+powerful but it's not omnipotent and it didn't yet succeed in getting rid of the human I would say so
+
+25:28.700 --> 25:34.620
+there is already this aspect of interpretation there's already this aspect of entanglement
+
+25:34.620 --> 25:43.260
+there's already this aspect of human co-production always in place already in capitalist cybernetics
+
+25:43.260 --> 25:47.020
+as well yes of course I hear what you say but I
+
+25:49.260 --> 25:54.860
+I think that that's the most maybe the most difficult thing to to to to transmit
+
+25:56.940 --> 26:03.740
+in fact what I say what I speak about what I speak about and I speak about it in my text as well
+
+26:04.460 --> 26:11.260
+it it's a technical ideology it's a technical ideology of big data it means that what I speak
+
+26:11.260 --> 26:19.740
+about is the kind of pretension but a pretension that even you know the designers of the of the
+
+26:19.740 --> 26:27.980
+technology data scientists and so on they they are not naive realists they they know they know that
+
+26:27.980 --> 26:35.420
+in fact big data doesn't mean exhaustivity that automatization or or algorithm don't
+
+26:35.820 --> 26:45.420
+mean doesn't mean objectivity that non-selectivity or less obvious selectivity
+
+26:45.420 --> 26:54.140
+doesn't mean impartiality and so on I think in fact and and that's the reason also why I
+
+26:55.500 --> 27:04.300
+I refer to problematization the basic question I ask to myself first is is why is you know the
+
+27:05.420 --> 27:12.380
+turning to algorithm and ambient intelligence artificial intelligence big data and so so on
+
+27:12.380 --> 27:16.940
+why are these solutions presented as solutions without
+
+27:19.420 --> 27:26.380
+and appearing as something absolutely obvious whereas they are presented by solution as solutions
+
+27:26.380 --> 27:32.140
+but the kind of problem to which they are presented as a solution against which which they are
+
+27:32.140 --> 27:41.340
+presented as solutions is never clearly stated and my my perception is that it is precisely
+
+27:41.340 --> 27:54.780
+because in our society we we have a hatred for averages we all want to be unique and recognized
+
+27:54.780 --> 28:01.980
+as unique we don't want to be part of a category anymore we want we all we all want personalization
+
+28:01.980 --> 28:10.780
+and so on means that in fact there is a radical crisis of representation and by this I mean
+
+28:11.980 --> 28:17.820
+not only the perception that all kinds of representations through which we perceive the
+
+28:17.820 --> 28:25.580
+world is misleading is ideological is is politically suspect and so on it's not that
+
+28:26.540 --> 28:36.700
+I think that there is behind this success of the algorithmic turn there is a kind of mystic
+
+28:36.700 --> 28:44.140
+a mystic of immanence a mystic or a belief that it is in it would be possible at last
+
+28:44.860 --> 28:51.580
+to touch rationally on the world and the things in themselves it is very close to the
+
+28:51.740 --> 28:59.740
+speculative turn and the speculative realism in philosophy that's the reason why I'm writing
+
+28:59.740 --> 29:08.460
+was about algorithmic realism but it's it's very it's of course absolutely absolutely
+
+29:09.260 --> 29:19.180
+ideological of course the human is everywhere the human is in the it's the human who who designs or
+
+29:19.180 --> 29:26.940
+who inscribes the the objective function the objective function of the algorithm
+
+29:26.940 --> 29:36.380
+what is it it is the it's the indication of or the cost function it indicates what has to be
+
+29:36.380 --> 29:40.460
+what has to be maximized what has to be minimized what has to be
+
+29:40.940 --> 29:50.860
+optimized of course that objective function is nothing but the the formalization of the
+
+29:50.860 --> 29:58.140
+sectoral sectorial interest or the sectorial logic of of the actor who's using the algorithm
+
+29:58.140 --> 30:05.500
+so there there is there is a human there there is the human of course in social reality itself
+
+30:05.500 --> 30:09.420
+and the mere fact the mere transcription of social reality of social
+
+30:10.780 --> 30:17.260
+into into digital data which appear as facts I speak of a new kind of facticity
+
+30:17.260 --> 30:23.500
+the simple transformation of reality of that reality social reality complex and so on into
+
+30:24.140 --> 30:26.540
+data doesn't purge doesn't
+
+30:30.700 --> 30:38.300
+expurgate that reality from all the domination the repose of domination relation over dominations
+
+30:38.300 --> 30:45.420
+and so on in fact as you say data raw data don't exist it it's not only that raw data is always
+
+30:46.300 --> 30:49.500
+of course it is it's a it's a patient work of
+
+30:52.380 --> 30:59.980
+of this indexization anonymization and so on producing raw data is a is a hard work
+
+30:59.980 --> 31:09.500
+but it's not it's not only that it's also that producing raw data is organizing the amnesia
+
+31:09.500 --> 31:14.620
+of data with regard to their the condition of their production that's the reason why it's
+
+31:14.620 --> 31:20.540
+I say it's a it's ideological it hides its own conditions of of production so
+
+31:25.020 --> 31:32.860
+so it's not that I in the question you you sent me I read that I don't only criticize the concept
+
+31:32.860 --> 31:39.180
+of a truth founded in probability I I never I I never criticized the concept of a truth
+
+31:39.180 --> 31:45.100
+founded in probability because following Foucault for me truth the notion of truth
+
+31:46.060 --> 31:53.900
+is always the result of truth regimes truth regime it's truth is always produced it's something that
+
+31:53.900 --> 32:02.140
+is added to the world it's nothing nothing that you can find in the world and that's the also you
+
+32:02.140 --> 32:11.340
+know the the false promise of of big data or the idea of the ideology of the technical ideology of
+
+32:11.340 --> 32:19.260
+big data is the idea that knowledge shouldn't have to be produced anymore that it can be discovered
+
+32:19.260 --> 32:25.500
+in the data that it's always already imminent in the data and provided you use the right algorithm
+
+32:25.500 --> 32:34.380
+you will you you you will find or knowledge will or truth will will arise spontaneously
+
+32:35.340 --> 32:39.900
+that's exactly that kind of naive realism that I'm combating
+
+32:41.660 --> 32:47.820
+the as as strongly as I can and you find that that same kind of naive realism
+
+32:48.780 --> 32:58.780
+in a lot of of techno-critics who really work on on the idea of rendering algorithms
+
+32:59.340 --> 33:05.180
+fair accountable transparent and so on meaning that they want to correct the algorithms with
+
+33:05.180 --> 33:12.860
+the idea of with the idea that if algorithms are fair are just are you know are accountable and so
+
+33:12.860 --> 33:22.780
+on then we will have a perfect access an objective access to what is you know without human
+
+33:22.780 --> 33:32.060
+intermediation that's that this that's really mad that's the madness because I think first of all
+
+33:32.060 --> 33:37.580
+there are several reasons of course the first obvious reason is that the notion of just the
+
+33:37.580 --> 33:44.220
+notions notions such as justice or concepts such as justice fairness and so on are dialectical
+
+33:44.220 --> 33:51.580
+concepts dialectical concepts are not easily formalizable into what george school nicolas
+
+33:51.580 --> 34:01.020
+george school again call uh uh uh arithmo uh arithmomorphic concepts arithmomorphic concepts
+
+34:01.020 --> 34:08.620
+in george school against uh uh uh civilization are concepts which are exactly what you know
+
+34:08.620 --> 34:15.580
+the result of an optimizations of an algorithmic optimization is you know just one result yes or
+
+34:15.580 --> 34:22.460
+not that's algorithm that's sure you know you don't have to discuss but justice is not something like
+
+34:23.340 --> 34:30.140
+it's really dialectical it means that it's it is a concept um which has a
+
+34:31.180 --> 34:37.340
+which is distinct of course but not discretizable not discretizable
+
+34:38.620 --> 34:48.700
+and that's that that's hugely important maybe i can yes i will read you i i had that um that
+
+34:48.700 --> 34:55.580
+passage of a george school george school again uh and for george school again the the the
+
+34:55.580 --> 35:02.060
+arithmomorphic character of a concept is linked to the fact that there is a definitive discrete
+
+35:02.060 --> 35:08.780
+border between what this and what is not what it is not what it is and what it is not the possibility
+
+35:08.780 --> 35:15.340
+of defining a big univocal relation between a set of concepts and a numerical scale makes it
+
+35:15.340 --> 35:20.620
+possible for example to attest to the arithmomorphic character of the concept in this set
+
+35:22.460 --> 35:30.380
+um but but there are another kind other another world of concept which are all the concepts that
+
+35:30.380 --> 35:40.860
+we we human use as we are uh uh because we are not inhuman and those not inhuman concepts are all
+
+35:41.500 --> 35:53.420
+are all uh dialectical i think so um so for for reality uh i think it was a misunderstanding
+
+35:54.540 --> 36:01.900
+there was a misunderstanding there uh if i the reality i i don't i don't remember having written
+
+36:01.900 --> 36:07.900
+that but uh if i help you for a return to reality the kind of reality i would like to return to
+
+36:07.900 --> 36:18.300
+is the reality that is added to the world added by our own collective productions of meaning so
+
+36:18.300 --> 36:27.100
+um that's the dialectical reality i i would uh i would argue for there are a series of conditions
+
+36:27.100 --> 36:34.060
+for this kind of additional uh additional uh reality to to occur
+
+36:35.660 --> 36:43.740
+and the first conditions are special and temporal we need scenes to discuss about
+
+36:43.740 --> 36:51.900
+dialectical concepts uh but maybe i go too too far in my answers i don't know if if it
+
+36:52.540 --> 36:59.180
+fits what you had in mind well if it was merely a misunderstanding you think then we could continue
+
+36:59.740 --> 37:04.540
+to other questions and i would just maybe to clear something up and since we are here on
+
+37:04.540 --> 37:12.300
+in the workshop on um cybernetic politics i just wanted to ask if i maybe understood it wrong
+
+37:12.940 --> 37:19.180
+right now in your answer when you pointed towards a kind of naive realism which is kind of close to
+
+37:19.180 --> 37:25.260
+speculative realism which you say is an kind of this naive realism is an aspect of algorithmic
+
+37:25.260 --> 37:31.740
+governmentality as well as of some of the critics i'm actually wondering because i always thought
+
+37:31.740 --> 37:39.980
+that cybernetics actually does not really care about ontology in this sense but is absolutely
+
+37:39.980 --> 37:47.020
+fine with something that would be called a probable truth so it's not about really kind of trying to
+
+37:47.020 --> 37:54.140
+unveil some kind of essence i always thought that this is absolutely not a logic found within the
+
+37:54.140 --> 38:02.060
+cybernetic paradigm but as i said instead it would totally be fine with a version that simply works
+
+38:02.060 --> 38:08.060
+or works better than the other one so this is what i meant with a truth founded in probability
+
+38:08.060 --> 38:13.660
+and i would say that this is really a fundamental difference so i was wondering if you think that
+
+38:13.660 --> 38:19.820
+algorithmic governmentality is in this respect different from cybernetics or why you say that
+
+38:19.820 --> 38:26.540
+they are trying to kind of get to the to the real because i always thought it's not about that
+
+38:27.100 --> 38:33.820
+no indeed it's not about that i think we have to understand quite clearly the epistemic ambition
+
+38:33.820 --> 38:42.460
+or strategic ambitions behind these machines as when they are used in a capitalist context
+
+38:43.420 --> 38:49.020
+of course in fact with the advent of big data and machine learning
+
+38:50.380 --> 38:59.340
+emergencies are detected in real time in a nanomic complex and purely metric digital space purely
+
+38:59.340 --> 39:06.300
+which is the result of an abstraction but also of all kinds of of production of raw data as you as
+
+39:06.300 --> 39:15.100
+you said which is compression and so on so but but which is purely metric which is a space which
+
+39:15.100 --> 39:23.900
+is envisaged that's not from the topological angle of continuity and stability but from the time
+
+39:23.900 --> 39:32.700
+based angle of contingency instability and continuously recons reconducted crisis
+
+39:34.220 --> 39:42.060
+as a host exo adams explaining one of his paper so in that context what we have to understand
+
+39:42.700 --> 39:50.860
+is that data doesn't don't function as as signs there they don't function as signifiers
+
+39:51.660 --> 39:59.660
+for for something rather they function as pure differences or deferments of meaning
+
+40:00.300 --> 40:09.340
+that are never given in their completion so to explain that a little bit i have i have to i think
+
+40:09.340 --> 40:15.420
+go back to a comparison between um what for example adolf ketley
+
+40:16.140 --> 40:22.860
+concept or the order between the deterministic metaphysics that for example adolf ketley
+
+40:23.820 --> 40:30.540
+heads when founding or participating to the to the foundation of statistics and what happens
+
+40:32.540 --> 40:39.660
+in machine learning the speculative ambitions of machine learning i think are really at odd
+
+40:39.660 --> 40:46.460
+with the mid 19th century of ambitions of studying studying social physics like adolf ketley
+
+40:47.020 --> 40:53.100
+whose project was to study men in his various degrees of aggregation from the individual state
+
+40:53.100 --> 41:00.220
+to the highest state of combination which includes the whole of humanity on the contrary algorithmic
+
+41:00.220 --> 41:08.700
+governmentality radically embraces uncertainty incommensurability contingency it it also attests
+
+41:08.700 --> 41:15.980
+to a new mode of preemptive intervention which is no longer legitimated or justified as the ability
+
+41:15.980 --> 41:23.660
+to act on the basis of precise knowledge of the future but on the contrary as an invincible
+
+41:23.660 --> 41:32.300
+certainty as to what must be done in the absence of such certainty as martin conings says quite
+
+41:32.300 --> 41:37.740
+clearly in capital and time so and the temporalities of course recursive which
+
+41:37.740 --> 41:46.780
+changed everything so um in fact it's a dynamic mode where continuous learning where continuous
+
+41:46.780 --> 41:53.500
+learning and production of reliability without truth including truth about people's behaviors
+
+41:53.500 --> 41:59.740
+replace the production of temporary truth and their justifiability verifiability contestability
+
+42:00.620 --> 42:07.340
+i would say what relates algorithmic governmentality also to cybernetic is of course the
+
+42:07.340 --> 42:14.140
+overcoming of the notion that that of the of the separation of calculation and things
+
+42:14.140 --> 42:24.220
+of of contents and matter and so on it resets a new kind new ontology but which is completely
+
+42:24.940 --> 42:31.420
+disarticulated from from the notion of of of a human subject
+
+42:32.700 --> 42:39.260
+so i don't know if it responds to you to your question i'm sure it does somehow definitely
+
+42:39.260 --> 42:45.260
+um i would be interested because i think you have described a lot of your critique already i would
+
+42:45.260 --> 42:53.420
+be interested in what you argue for actually so i would be interested in what is your proposition
+
+42:53.420 --> 43:00.060
+what would you bring in against algorithmic governmentality well um i i think of course
+
+43:01.420 --> 43:10.220
+my posture here is more descriptive of something uh which is uh which is which amounts to
+
+43:10.220 --> 43:18.860
+capitalism on capitalism and neoliberalism realism on algorithmic steroids i know it's
+
+43:18.860 --> 43:27.020
+not fashionable to say that uh but i think we would need uh maybe a constitutional moment
+
+43:27.020 --> 43:34.940
+a moment uh well a moment wherein we think about a concept what is a constitution a constitution
+
+43:34.940 --> 43:43.100
+is a text by which the present the people who are present and who sign the constitution limit
+
+43:43.100 --> 43:49.100
+their own power they limit their own power they promise a little bit like you know
+
+43:50.620 --> 43:58.940
+charged nature with that task of producing an animal who can promise and keep its promise
+
+43:59.660 --> 44:07.420
+constitution does that in fact it it forces those who sign to consider
+
+44:08.380 --> 44:16.940
+a lot of things which are irreducible to the mere optimization of the current situation or the state
+
+44:16.940 --> 44:25.980
+of state of facts uh it allow for the consideration uh a political constitution allow for the
+
+44:25.980 --> 44:35.820
+consideration of those who have not yet left any digital trace that can be enrolled in the calculation
+
+44:36.380 --> 44:45.100
+of the optimal it means that it allows to preserve the space and time which would not
+
+44:45.100 --> 44:53.820
+be preoccupied by the bulimic appetites by those who have been granted including by algorithmic
+
+44:53.820 --> 45:00.380
+algorithmic systems granted with the force without law which allows them to transform
+
+45:01.100 --> 45:08.140
+the virtual the not yet there the possibilities into into surplus value
+
+45:09.180 --> 45:19.980
+so it's it's uh i think we have to find ways to enforce uh new uh a new intelligence of
+
+45:19.980 --> 45:28.140
+limits a new intelligence of limits because uh this intelligence of limits which life itself
+
+45:28.140 --> 45:37.980
+has very well as a kangelem has shown us that normativity of life itself but we have to to
+
+45:39.180 --> 45:45.100
+to to find that there are several kinds of because i'm a lawyer by so i maybe i'm a bit
+
+45:45.100 --> 45:52.860
+distorted as all lawyers but i'm distorted uh uh and i try to go back to my own discipline you know
+
+45:52.860 --> 46:01.580
+as a as a safe island um but we have instruments uh the constitution we have the notion of
+
+46:01.580 --> 46:07.340
+institution what is an institution it's all that algorithmic governmentality tries to um
+
+46:08.940 --> 46:16.940
+to render obsolete in fact um the notion of according to david yume uh the role of institutions
+
+46:16.940 --> 46:26.700
+is in fact to force the agents you me uh elon musk uh donald trump everyone to force people
+
+46:27.340 --> 46:36.300
+to transcend the partiality of their natural sympathies you know um david yume was not for
+
+46:36.300 --> 46:43.660
+the social contract because he among other reasons he thought the problem of our society of society
+
+46:43.660 --> 46:49.900
+is not the egoism of individuals in fact people are not egoistic because they can sacrifice
+
+46:49.900 --> 46:56.140
+themselves for for the the ones they care for for their children and so on the problem is the
+
+46:56.140 --> 47:05.340
+partiality of these natural sympathies and only institutions can force people to refrain uh from
+
+47:05.340 --> 47:12.860
+their uh impulsion or compulsion to optimize that is to to to take the most they can of the present
+
+47:12.860 --> 47:19.660
+and of the future and of everything that is that is there and only only institution can force them
+
+47:20.540 --> 47:27.340
+to consider what is not already there for them to consume in fact so we we need that we need that
+
+47:28.860 --> 47:34.140
+no we need to rethink the role of kind of institutions and but fast because we don't
+
+47:34.140 --> 47:45.660
+have much time in front of systems in fact that push everyone uh towards self-optimization and
+
+47:45.660 --> 47:51.020
+consumption of of everything that's what i said at the beginning algorithmic
+
+47:51.020 --> 47:56.860
+governmentality is a way of fragmenting all collectives immunizing i would say capitalism
+
+47:56.860 --> 48:06.060
+against all and every form that should and and would in fact interrupt its flaws that is the
+
+48:06.060 --> 48:16.780
+world the material world and its limits the social the social the collective it fragments the
+
+48:16.780 --> 48:25.020
+collective it's a it's a high resolution which is also a high dissolution and life itself in fact
+
+48:25.020 --> 48:34.060
+life itself with with its own uh negantropic regulations that i i really believe that
+
+48:34.060 --> 48:41.580
+nick land was right when he said that there is a common teleology between cybernetics and capitalism
+
+48:41.580 --> 48:49.180
+and that terrible uh teleology is really necropolitic i believe so that that's the
+
+48:49.180 --> 49:02.220
+reason why we urgently need to reconcile with the notion that uh anyway we have to invent
+
+49:02.220 --> 49:07.100
+the forms including the political forms the institutional forms the constitutional forms
+
+49:07.820 --> 49:14.540
+which uh institute our life in common and alain supior had it right when he said the
+
+49:14.540 --> 49:20.860
+anthropologic function of law is to articulate together the different facets of human being
+
+49:20.860 --> 49:30.300
+these facets being the physiological the symbolic and the social if we agree to translate or to
+
+49:30.300 --> 49:39.740
+consider that all these different facets or layers are transcriber or reducible into
+
+49:40.620 --> 49:49.340
+reducible to pure flaws of of digital computable data and that this is enough for us to to to
+
+49:50.220 --> 49:57.900
+to govern ourselves i think we do a big mistake i think i would have to kind of dig a little
+
+49:57.900 --> 50:06.220
+deeper into this answer because um i guess it's not as simple as simply reverting back to like
+
+50:06.220 --> 50:13.900
+the law as it was the uh sovereign as it was the individual as it was so if we want to find
+
+50:13.900 --> 50:20.060
+answers to this as you frame it kind of assault of algorithmic governmentality then first of all we
+
+50:20.060 --> 50:26.220
+would have to ask are they the the proper tools in terms of are they adequate for the task and then
+
+50:26.220 --> 50:31.180
+of course i think we had we would have to rethink them because i mean they are not innocent in
+
+50:31.180 --> 50:37.500
+themselves the law is not innocent the the the liberal subject for sure is not innocent and so
+
+50:37.500 --> 50:44.220
+on so i would like to know at some point maybe this would be a good good example at some point
+
+50:44.220 --> 50:52.220
+you state that you think that actually we would have to stick with the fictional individual
+
+50:52.220 --> 50:58.460
+because it's kind of operationable it serves a purpose and that we need this purpose and
+
+50:58.460 --> 51:03.580
+while knowing that it is a fiction we still need it and i was wondering how far you would go with
+
+51:03.580 --> 51:10.060
+these things because i think it's kind of a play with fire but maybe positively speaking it's
+
+51:10.060 --> 51:15.660
+staying with the trouble in terms of done a hero way but i would be interested um whether or not
+
+51:15.660 --> 51:20.620
+we would have to kind of rethink these elements that you bring forward against algorithmic
+
+51:20.620 --> 51:27.580
+governmentality yes i think my response will be much simpler than your answer
+
+51:28.300 --> 51:35.820
+i'm afraid but i must state what's a subject for me what's the form subject for me the form subject
+
+51:35.820 --> 51:45.260
+is the content is void subjects are processes in constant overcoming of themselves subjects are
+
+51:45.260 --> 51:51.340
+becomeings there are processes of individuation processes of subjectivation and so on so
+
+51:51.980 --> 51:59.020
+notion of subject is eminently dynamic so i'm not nostalgic at all of the subject conceived as the
+
+52:00.060 --> 52:06.540
+as the liberalism conceived it as its fundamental unit unitary master of its own intentionality
+
+52:07.180 --> 52:12.460
+separated from others and so on not at all my notion of the subject is completely different and
+
+52:12.460 --> 52:19.820
+i have come to consider that the subject the role that the subject plays the subject is a point of
+
+52:19.820 --> 52:26.860
+view it's nothing else than a point of view so the world needs the subjects because the subject
+
+52:26.860 --> 52:34.140
+is the point of view from which objects may appear despite their ontological indetermination
+
+52:34.780 --> 52:44.620
+um as barad and so on uh would say and at the same time subjects need objects because also
+
+52:44.620 --> 52:52.460
+objects reflect their own position so it's a it's really a notion of the subject as um
+
+52:53.980 --> 53:03.420
+both as power subject as power of individuation or as a potentiality of individuation has never
+
+53:03.420 --> 53:10.060
+completely enclosed in any present but it's a process that is lived and experienced and
+
+53:10.060 --> 53:15.980
+constructed and deconstructed all the time over time over always over time so my notion of the
+
+53:15.980 --> 53:25.020
+subject is a heterochronic notion it's absolutely heterochronic that's the reason why uh the uh
+
+53:25.740 --> 53:33.340
+absorption in in the pure vortex of real time of everything by algorithmic governmentality
+
+53:33.340 --> 53:41.180
+is absolutely inhuman it's not habitable because we we are we are over time so that notion of the
+
+53:41.180 --> 53:48.780
+subject i think the subject like an actor it is because i'm a lawyer the notion of person persona
+
+53:48.780 --> 53:57.660
+person is the mask it's a mask that people put on their face when they have to act uh on a stage
+
+53:57.660 --> 54:03.980
+on a stage but also on the stage of the of the of a judicial court for example
+
+54:04.940 --> 54:14.940
+the notion the person is is inseparable from all the kinds of editorializations
+
+54:15.580 --> 54:24.460
+that we perform all the time but we are we are nothing else we are nothing else than these
+
+54:24.460 --> 54:32.220
+editorializations there is no subject without a form the form is the subject so that's the reason
+
+54:32.220 --> 54:37.980
+why the legal subject for example is is a functional fiction it's something that the law needs
+
+54:38.860 --> 54:46.940
+but it's but but the law knows that it's a fiction it's a place it's a location from which
+
+54:47.500 --> 54:55.580
+to make one's situation or the situation of the people who share an existential experience of
+
+54:55.580 --> 55:04.860
+discrimination for example together being a person before the law is being able to give account
+
+55:05.900 --> 55:16.540
+of injustice felt injustice felt problems to in fact it's a way of mattering and of determining
+
+55:16.540 --> 55:24.780
+or contributing to the definition of what matters what's a problem and what needs solution so it's
+
+55:24.780 --> 55:34.380
+quite pragmatic i would say but not only it's not only pragmatic i think it's also in a way ontologic
+
+55:34.380 --> 55:40.700
+but it's an ontology which is absolutely non-essentialist before asking my last
+
+55:40.700 --> 55:46.860
+question i would love to go to a place where we have been today in this workshop already
+
+55:47.420 --> 55:51.980
+i'm very much interested in this question of alternative arts of government and there's this
+
+55:51.980 --> 55:59.340
+famous quote by fukuh which i read out today earlier already and the quote goes what
+
+55:59.340 --> 56:03.820
+governmentality is possible as a strictly intrinsically and autonomously socialist
+
+56:03.820 --> 56:10.220
+governmentality in any case we know only that if there is a really socialist governmentality
+
+56:10.220 --> 56:16.460
+then it is not hidden within socialism and its texts it cannot be deduced from them it must be
+
+56:16.460 --> 56:24.060
+invented and quote and as i understand it your critique is a critique of algorithmic governmentality
+
+56:24.060 --> 56:30.780
+as a techno capitalist governmentality and not all of it will necessarily apply for other uses of
+
+56:30.780 --> 56:37.180
+these technologies in other contexts so maybe let's turn to the the question of construction again
+
+56:37.180 --> 56:43.260
+to the question of alternative in a positive sense what could this invention of desirable
+
+56:43.260 --> 56:49.900
+alternative governmentalities look like well i completely rejoined you when saying that you
+
+56:49.900 --> 56:57.500
+know and that's the the virtue of problematization is is to avoid technological determinism or you
+
+56:57.500 --> 57:07.020
+know today technologies are the ideal uh how you say scapegoat all the problems are
+
+57:08.300 --> 57:15.340
+we project all our problems on technologies it's because of of social networks that democracy is
+
+57:15.340 --> 57:23.660
+dysfunctional it's because of no no it's much broader than that uh of course so i i think
+
+57:23.660 --> 57:31.900
+there's no fatality in the fact that these uh technologies today are used in order to
+
+57:31.900 --> 57:40.700
+to boost uh capitalism and to accelerate uh to accelerate uh towards uh towards apocalysm
+
+57:40.700 --> 57:47.180
+apocalypse by apocalypse i mean precisely not the end of the world but the the end of the end of
+
+57:47.260 --> 57:58.060
+capitalism in fact um the smartness the smartness of these technologies is precisely
+
+57:59.180 --> 58:06.700
+that's uh through big data and machine learning we can become
+
+58:08.940 --> 58:16.060
+aware we can see regularities of the world which are only observable on on huge numbers
+
+58:16.860 --> 58:23.660
+so it's a question of scale so in fact what they produce also what they can produce are alternative
+
+58:23.660 --> 58:32.060
+maps of the world and of events which can be very interesting for i give you an example there are a
+
+58:32.060 --> 58:40.780
+lot of discussions today about the possibility the legitimacy or the opportunity of using
+
+58:40.780 --> 58:49.740
+algorithmic systems in in the judicial uh in the judicial system algorithmic decision making
+
+58:50.620 --> 59:00.780
+as to help judges for example and so on to take decisions um in fact what would be interesting
+
+59:00.780 --> 59:08.540
+what is interesting is that big data analytics allow for example to give to to to give to the
+
+59:08.540 --> 59:16.140
+judges a mirror of how the law functions you know it can give it can give very precious
+
+59:16.140 --> 59:23.820
+informations about the state of the law as it is practiced what kind of decisions are taken and so
+
+59:23.820 --> 59:35.180
+on so as a as a we can look at ourselves in big data and it gives us an image a certain image
+
+59:35.180 --> 59:41.660
+which is not deprived of a point of view because algorithms have point of view
+
+59:42.380 --> 59:48.220
+uh point the point of view of an algorithm i would say it's its objective function it depends of oh
+
+59:48.220 --> 59:54.940
+how the algorithm has been constructed and so on it depends on what kind of sensors are used to
+
+59:54.940 --> 01:00:01.260
+collect the data what kind of data are considered noise and what kind of data are considered signals
+
+01:00:01.260 --> 01:00:09.020
+and so on so there are point of view but it can allow us to be uh alerted
+
+01:00:10.700 --> 01:00:17.020
+about specificities or singularities of the world that we would not or of our
+
+01:00:17.020 --> 01:00:24.220
+or of our own behaviors that we would not notice otherwise so it can increase our intelligence
+
+01:00:24.220 --> 01:00:33.100
+instead of depriving us from intelligence the risk being of course that we overestimate the
+
+01:00:33.820 --> 01:00:42.300
+objectivity the scientificity of these productions no they are not more scientific not more objective
+
+01:00:42.300 --> 01:00:48.700
+than human judgment it's just that the world is looked at from a different perspective
+
+01:00:48.700 --> 01:00:54.780
+when looked at from the perspective of an algorithm we have to know about all the
+
+01:00:54.780 --> 01:01:01.420
+biases the basis of the humans but the basis of the algorithms as well and there are a lot there
+
+01:01:01.420 --> 01:01:07.980
+are a lot and and they're difficult to to detect sometimes because for example the distinction
+
+01:01:07.980 --> 01:01:14.860
+between uh what is a signal and what is noise is not decided by an institution in algorithmic
+
+01:01:14.860 --> 01:01:26.220
+governmentality it's it is just uh it is set it is that distinction is set in a in a way which is
+
+01:01:27.580 --> 01:01:34.860
+undergenius to the the socio-mediatic reality so it's evolving all the time so it's quite
+
+01:01:34.860 --> 01:01:40.700
+difficult to know exactly what the point of view of the algorithm is and that's the difficulty
+
+01:01:40.700 --> 01:01:48.300
+that's the difficulty but that difficulty is quite interesting in itself because it it it instills
+
+01:01:49.420 --> 01:01:56.860
+it instills trouble if we are if we keep attentive to these difficulties
+
+01:01:58.300 --> 01:02:03.820
+so that's the reason why i i don't meditate for algorithmic transparency for example which is
+
+01:02:04.780 --> 01:02:11.820
+it's a complete stupidity from my perspective not only it's unattainable because the the
+
+01:02:11.820 --> 01:02:19.260
+inductive logic is not even easily translatable into into a linear language understandable by
+
+01:02:19.260 --> 01:02:32.620
+the humans but but it would be really attenuating the enchanting alien logic or the enchanting
+
+01:02:32.620 --> 01:02:41.980
+view from somewhere else which we really need in order to to to boost our imagination also so i
+
+01:02:41.980 --> 01:02:50.940
+think it it can if algorithmic systems can de-automatize our own thinking that would be
+
+01:02:51.660 --> 01:02:58.940
+quite great okay in order to have some time for open discussion i will ask my last question
+
+01:02:58.940 --> 01:03:03.500
+question which is always if you think about the future what makes you joyful
+
+01:03:04.060 --> 01:03:11.100
+that's maybe the hardest one for the moment if i think about the future what makes me
+
+01:03:11.100 --> 01:03:18.540
+joyful i think maybe but i'm not the the first one to say that uh that that impression that
+
+01:03:19.900 --> 01:03:27.420
+the apocalypse has already arisen and that we are what remains i think slavosh dzek said that
+
+01:03:27.420 --> 01:03:33.100
+and i find that a nice logic because you know if you think that the catastrophe the absolute
+
+01:03:33.100 --> 01:03:41.340
+catastrophe has already arisen which is not impossible in fact then we have nothing left
+
+01:03:41.340 --> 01:03:53.820
+to lose you know except that we we now have to organize ourselves to um to become to become
+
+01:03:53.820 --> 01:04:03.420
+human to become human to to stop behaving like inhuman persons and there is much work i think
+
+01:04:04.300 --> 01:04:12.540
+to attain to that non-inhumanity i prefer to speak of non-inhuman uh because it's less
+
+01:04:12.540 --> 01:04:20.860
+segregative than affirming a human essence but i really like that double uh double negation i
+
+01:04:20.860 --> 01:04:28.220
+think it's that double negations are are really uh are really interesting and really dialectical
+
+01:04:28.220 --> 01:04:36.620
+and there may be the core of of of what makes us human that ability you know it's also zizek who
+
+01:04:36.620 --> 01:04:45.100
+said that and i agree with him uh what you know what an artificial intelligence will never never
+
+01:04:45.580 --> 01:04:52.300
+understand is the difference between uh coffee without cream and coffee without milk
+
+01:04:54.060 --> 01:05:00.220
+but we can we understand there is a difference because we are affected differently by the lack
+
+01:05:00.220 --> 01:05:07.660
+of cream or the lack of milk depending of our tastes um so that's what we have to preserve
+
+01:05:07.660 --> 01:05:15.980
+i think and that's that's that's dialectic that's dialectics and i think uh well that's one thing
+
+01:05:15.980 --> 01:05:23.420
+that makes me happy another thing that makes me happy uh or even joyful is are of course my my
+
+01:05:23.420 --> 01:05:36.060
+kids whom i i find so so intelligent and so marvelous and yes that's it i guess
+
+01:05:37.020 --> 01:05:40.540
+okay antonette thank you so much for being part of future histories
+
+01:05:40.540 --> 01:05:43.180
+thank you thank you for your patience and your attention
+
+01:05:43.260 --> 01:05:54.140
+that was our show for today thanks a lot for listening if you want to support future histories
+
+01:05:54.140 --> 01:06:01.580
+you can do so on patreon for this visit patreon.com slash future histories or you can simply tell a
+
+01:06:01.580 --> 01:06:07.660
+friend that you like the show and that he she or they might like it as well thanks a lot and
+
+01:06:07.660 --> 01:06:09.340
+hear you in two weeks
+

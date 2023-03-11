@@ -1,0 +1,1322 @@
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+Mein Name ist Jan Groß und ich freue mich sehr, heute Markus Meindl begrüßen zu dürfen.
+Markus ist Commons-Aktivist am Commons-Institut und ich habe mit großem Interesse seinen Text
+der Ausdehnungstrang moderner Commons gelesen.
+Wenn Markus sich also im folgenden Gespräch auf den Ausdehnungstrang bezieht, dann ist dieser Text gemeint.
+Und in dem versucht Markus gewisse Aspekte des von Simon Sutter, Lütti und Stefan Meeritz entwickelten
+Kommunismus aufzugreifen und weiterzudenken, namentlich die Frage nach der Erweiterung des
+Commoning auf den gesamtgesellschaftlichen Raum, welche Formen, zum Beispiel der Metacoordination
+es da vielleicht braucht und wie diese Koordination dann auch ganz konkret technisch vermittelt
+und unterstützt werden kann.
+Aus der Auseinandersetzung mit dieser Frage hat sich dann ein ganz konkretes Projekt entwickelt,
+ein Softwareprojekt, an dem Markus mit einer Gruppe von Leuten arbeitet,
+nämlich das Global Commoning System, über das wir heute auch reden werden.
+Ihr findet es unter commoningsystem.org.
+Solltet ihr Interesse haben an so etwas mitzuarbeiten, dann meldet euch bitte dort.
+Mir wurde gesagt, dass man sich in jedem Fall über Unterstützung freut,
+denn das Ganze ist ja noch in der Entwicklungsphase.
+Und auf der Homepage da findet ihr natürlich auch, wenn ihr nicht interessiert seid,
+unmittelbar mitzuarbeiten, Infomaterialien zu dem Projekt für alle, die ganz allgemein interessiert sind.
+Ich fand es auf jeden Fall sehr spannend, dass an so etwas gearbeitet wird.
+Ich bin ja auch sehr am von Stefan und Simon entwickelten Kommunismus interessiert.
+Und auch wenn jetzt die beiden nichts mit dem Global Commoning System zu tun haben,
+fand ich es doch wirklich erfreulich zu sehen, dass die Auseinandersetzung mit dem Kommunismus
+da zumindest mal als Initialzündung fungieren konnte, um bestimmte offene Fragen,
+in dem Fall jetzt auch der Skalierbarkeit des Commoning aufzugreifen
+und an diesen Fragen weiterzuarbeiten.
+Und es sagt ja auch viel aus über die Anziehungskraft der Idee des Kommunismus, finde ich,
+dass sich da so eine Eigendynamik daraus entwickelt.
+An dieser Stelle der Hinweis, wenn ihr mehr über den Kommunismus erfahren wollt,
+also nicht den Kommunismus, sondern den Kommunismus von Commons Comment,
+dann lege ich euch hiermit mit Nachdruck die Folge 47 der ersten Staffel von Future Histories ans Herz,
+in der ich Stefan Mehretz begrüßen durfte und mit ihm über Kommunismus sprechen.
+Ihr findet den Link zur Folge zusammen mit vielen anderen reichen Materialien in den Show Notes.
+Bevor es jetzt losgeht, möchte ich noch Matthias ganz herzlich als Patron von Future Histories begrüßen
+und Wilfried und Fabian für ihre Spenden danken und euch alle darauf hinweisen,
+wenn ihr Future Histories mögt, dann erzählt doch einem Freund oder einer Freundin davon,
+von der ihr glaubt, dass sie oder er es vielleicht auch mögen könnte.
+Vielen Dank dafür und jetzt viel Freude mit der heutigen Episode Future Histories
+mit Markus Meindl zum Global Commoning System.
+Markus, vielleicht kannst du für Zuhörerinnen und Zuhörer, die frisch dazugekommen sind sozusagen
+und weder wissen, was Commons sind, noch was Kommunismus ist, eine Definition mit auf den Weg geben?
+Ich sag mittlerweile nicht mehr Commons aus dem englischen Begriff, weil es das sehr...
+Es macht die Diskussion, finde ich, so ein bisschen schwammig, auch offener.
+Also ich finde, man kann dann mehr erreichen, auch dieser transmotive Ansatz funktioniert besser
+mit so einem eher offenen Begriff. Ich sag mittlerweile Gemeinsames auf Deutsch.
+Da weiß man, wovon man redet. Wir reden von Gemeinsamen einfach so, als wenn Kapitalismus
+auf privaten Eigentum aufbaut, also die willkürliche Verfügung über Dinge der Welt,
+dann geht es bei Commons eben darum, bei dem Bezug auf Gemeinsam ist es eben nicht willkürlich einzelne
+Akteure, Personen über Dinge der Welt entscheiden können, sondern dass da eben ein Prozess ist.
+Und so wie ich quasi Gemeinsames auffasse, auch wirklich so von dem Wort her ist auch, wenn du jetzt
+und deine Partnerin irgendwie ihr zu zweit ein Auto habt und ihr beide Eigentümer des Autos seid,
+dann ist das Auto ein Gemeinsames für euch, das eben alle anderen ausschließt.
+Und wenn ihr zum Beispiel noch irgendwie zwei Freunde habt und dürfen das Auto mitverwenden,
+dann ist es ein Gemeinsames von euch vier, aber die anderen beiden haben einfach nur gewährte Mitnutzungsrechte.
+Das heißt, eigentlich ist es ein Gemeinsames, aber wenn ihr sagt, ihr wollt es verwenden,
+könnt ihr die anderen wieder ausschließen oder genau einfach das für euch benutzen.
+Also da gibt es auch, wenn eben dieses Gemeinsame innerhalb des privaten Eigentums ist,
+was an sich kein Widerspruch ist, gibt es noch einzelne Positionen, die sich einfach unterscheiden.
+Und ich finde, in dem Bezug auf Gemeinsames können wir quasi, besonders im Softwareprojekt,
+wo wir bestimmt später noch dazu kommen, da müssen wir ganz klar versuchen, irgendwie Werkzeuge zu entwickeln,
+die hier und heute anwendbar sind, irgendwie Probleme heute lösen im Bezug auf Gemeinsames.
+Und da hilft uns halt diese Herangehensweise, diese sehr konkrete Herangehensweise viel mehr als was anderes.
+Also für unseren Fall direkt, für das, was wir machen, ist das quasi eine Art mit Commons umzugehen, die für uns sinnvoll ist, würde ich sagen.
+Ich hoffe, ich greife da jetzt nicht zu viel sozusagen auf diesen Zugang von Simon Sutiliti und Stefan Mehretz zu.
+Das liegt vielleicht auch daran, dass der Text, den ich von dir gelesen habe, weil ich habe ja nicht nur das Video geguckt zu eurem Softwareprojekt,
+zu dem wir auf jeden Fall noch kommen wollen, sondern ich habe auch den Text von dir gelesen zum Ausdehnungsdrang moderner Commons.
+Und da beziehst du dich ja sozusagen auch stark auf eben dieses Buch Kapitalismus aufheben.
+Und ich fand das unglaublich produktiv, muss ich sagen, wie du das gemacht hast, weil für mich nämlich,
+du findest an einem sehr richtigen und wichtigen Punkt ansetzt, mit dem ich bei den Ausführungen von Simon und Stefan auch immer so ein bisschen meine Schwierigkeiten hatte.
+Und das ist die Frage, inwiefern man denn von der, sie nennen es interpersonalen Ebene, also der unmittelbaren Ebene zwischen zwei Personen oder mehreren Menschen,
+hinkommt zu einer Organisation auf einer transpersonalen Ebene.
+Und das ist sozusagen genau der Punkt, wo du versuchst, eben mit deiner Arbeit dann auch anzusetzen.
+Und du bezeichnest das oder schreibst in deinem Text dazu die Autoren, also Simon Sutiliti und Stefan Mehretz,
+stellen zwar eine Beziehungsform zur Selbstorganisation heraus, in welcher kein Wert entsteht und sich damit auch keine Verwertungslogik verselbstständigt,
+schaffen es aber nicht, diese auf einen gesamtgesellschaftlichen Raum zu erweitern.
+Und ich glaube, eben wie gesagt, nachdem nicht alle diese Theorie kennen, wäre es vielleicht nochmal wichtig, auch erstmal die Problemlage herauszuarbeiten.
+Also was ist sozusagen das, was in diesem Buch Kapitalismus aufheben vorgeschlagen wird, um diese eigentliche Metaorganisation auch anzugehen?
+Wenn ich mich nicht täusche, werden da angeboten Stigmergie, polyzentrische Selbstorganisation und sogenannte Meta Commons.
+Und ich hatte zumindest beim Lesen auch immer ein bisschen das Gefühl, dass das noch nicht hinreichend plausibilisiert ist,
+warum aus diesen Prozessen heraus dann sozusagen emergent quasi Strukturen entstehen sollen,
+die dann dieses Problem der Metaorganisation irgendwie wirklich adressieren können sollen.
+Und es schien mir so, als ob du mit deiner Arbeit sozusagen dich auch an dieser Problemlage abarbeitest.
+Vielleicht kannst du für uns nochmal ein bisschen herausstellen, was genau das Problem ist,
+ob ich das überhaupt sozusagen jetzt auch versucht habe, richtig zu erfassen und wie du dich dem dann widmest.
+Ja, vielen Dank. Ich meine, du hast schon recht, dass du dich darauf beziehst.
+Und das war auch der ganze Start von dem Softwareprojekt und sowas, dieser Text, vor knapp vier Jahren, als es quasi wieder rausgekommen ist.
+Und da ist eine Leerstelle im Buch. Man muss auch wirklich deutlich sagen am Anfang,
+dass die beiden Autoren auch immer gesagt haben, das ist nicht vollständig.
+Die gehen quasi einen Schritt in diese Richtung. Die versuchen da quasi diesen Rahmen so ein bisschen aufzumachen.
+Aber es hat Probleme. Besonders haben sie gesagt, eben das Problem der Ausdehnung.
+Dass sie nicht wissen, wie eigentlich, also sie haben diese kommen Struktur, die sich hauptsächlich aus diesen Interpersonalen bezieht.
+Also interpersonalkonkrete Personen, die miteinander in Kontakt treten.
+Also das Gespräch, das wir haben, ist interpersonal zwischen dir und mir, aber eben nicht so irgendwie einer.
+Andere hören zu, aber wir reden miteinander.
+Und da ist in dieser Beziehungsform, also wie geht man mit diesen gemeinsamen um?
+Da gibt es quasi, das wird beschrieben als Phänomen so ein bisschen eben.
+Also es gibt diese Comments, es gibt diesen interpersonalen Bezug aufeinander, diese Empathie.
+Wir können die Bedürfnisse der anderen Person wahrnehmen und so weiter.
+Und dann wird auch an anderer Stelle beschrieben, dass auch das Internet irgendwie helfen kann und es Werkzeuge gibt und so weiter.
+Aber dieser Übergang ist so ein bisschen einfach, einfach ein bisschen schwammig, wenn ich so sagen darf.
+Und da habe ich versucht reinzugehen und wirklich irgendwie beizutragen, das anzugehen, das Problem.
+Das war eigentlich so der Zweck von dem Text der Ausdehnungstrang moderner Comments zu gucken.
+Wo wird es halt schwammig? Wo ist dann dieser Bruch?
+Und was ist denn eigentlich, wo ist denn eigentlich so dieses Grundding, wie sich Comments oder dieses gemeinsame eben ausdehnen kann und noch irgendwie eine Koordination davon möglich ist?
+Und ich hatte auch, wenn ich das noch irgendwie anhängen darf, einen anderen Ansatz.
+Ich habe vorher diese Kapitaleinführung geschrieben.
+Ich habe eben daran gearbeitet, das Kapital zu verfilmen, also eine filmische Einführung zum Kapital in einem Spielfilm eingewebt.
+Hab dann gemerkt, dass das genau nicht so einfach ist, dass ich die Theorie nicht genau rund bekomme, um diese leicht zu vermitteln.
+Hab dann diese Einführungsbroschüre geschrieben.
+Und um das so dicht zu machen irgendwie aus diesen, ich glaube 32 oder 36 Seiten oder so, dieser Superkurs, hat mir die Strukturformel von Marx wahnsinnig geholfen,
+die er im zweiten Band aufmacht, der Zirkulationsprozess hier.
+Also Geld wird zur Ware, zur Arbeitskraft und Produktionsmittel.
+Das geht in den Produktionsprozess rein.
+Dann kommt eine Ware mit höherem Wert.
+Die muss verkauft werden.
+Das kommt quasi Geld, das quasi den Wert hat, sowohl von Arbeitskraft und Produktionsmittel und eben diesen Mehrwert und so weiter.
+Das ist quasi diese Strukturformel.
+Und mit der lassen sich eigentlich einfach, wenn man die anschaut und betrachtet und die einzelnen Momente davon anschaut,
+dann lässt sich total viel aussagen über die kapitalistische Gesellschaft, in der wir uns bewegen.
+Total viel über diese Strukturen, in denen wir drin sind.
+Und das finde ich total.
+Also ich mag dieser Rang ins Beiß.
+Ich finde, das gibt ihm so eine Festigkeit, diese Marxischen Kritik, einfach diese Strukturformel.
+Ich bin da ein großer Fan davon.
+Und ich habe damals auf Kapitalismus gewartet, dass das veröffentlicht wird, weil ich dachte,
+das sind quasi die Lösungen, die ich quasi brauche, um für mich kommen ins Rund zu bekommen.
+Weil ich da so eben gesucht habe, was dann eigentlich so kommen kann nach dem Kapitalismus,
+weg von der rein kapitalistischen Kritik, sondern was gibt es denn eigentlich für Optionen.
+Ich habe sie woanders nicht gefunden.
+Ich habe sie in den Comments gesehen.
+Ich dachte, ich finde da die Lösungen im Buch.
+Und wenn ich auf das Buch gewartet habe, habe ich dann angefangen nachzudenken und dachte mir,
+wie kann man denn eigentlich, kann man denn irgendwie Communing,
+also dieser Communing ist so das Verb zu Commons,
+dieser Prozess mit dem Gemeinsamen umzugehen, Gemeinsames zu schaffen in den Bedingungen von Commons.
+Das ist vielleicht nochmal eine andere Frage.
+Und habe das versucht, als Formel zu fassen.
+Wie kann man Communing überhaupt als Formel beschreiben,
+wenn wir uns nicht irgendwie im Rahmen von Ware und sowas Ware und so Arbeitskraft,
+also die Formel von Marx, da kommt der Arbeitskraft vor als Ding.
+Das ist ja eher spannender.
+Das ist aus Perspektive eigentlich von Kapitalistinnen und Kapitalistinnen geschrieben.
+Da so das neben den Produktionsmitteln ist irgendwie die Arbeitskraft und die wird verwendet als Ding.
+Das gibt es nicht in Peer Production im Allgemeinen oder eben im Communing.
+Das ist quasi aus einer Ich-Perspektive auch, muss die Formel sein.
+Und da habe ich versucht, das irgendwie rauszustellen.
+Und das war eigentlich das Spannende, ja zu sagen, da war ich echt ein paar Tage in Jena und habe das irgendwie,
+ich habe mich rausgezogen aus Leipzig und so ein bisschen meine Ruhe zu haben zum Schreiben
+und habe dann diese Formel geforscht und die gesucht.
+Und es war eine innerlich sehr aufbrausende Zeit, wo ich da gemerkt habe, dass ich die so ein bisschen fassen kann vielleicht.
+Und dann habe ich so eine Formel gefunden, die erstmal für mich funktioniert hat
+im Communing irgendwie halbwegs beschreiben zu können als Prozess.
+Und mit der Formel eigentlich habe ich mir dann Kapitalismus aufheben angeschaut.
+Und wo dann eigentlich, wo es dann zu Problemen kommt, eigentlich war das so meine Stütze.
+Die Formel sieht heute anders aus, ja das war damals noch mit so Bedürfnissebenen und kritischer Psychologie,
+so sindig vitale Bedürfnissebene und produktive Bedürfnissebene und so.
+Das ist heute sehr viel einfacher.
+Genau, und damit habe ich mir das angeschaut und konnte da so die Kritik oder eigentlich war es nicht,
+es war eigentlich nicht als Kritik gemeint der Sage, sondern einfach als Beitrag,
+um da diese Vollständigkeit zu leisten und so erst mal heraufstellen,
+was eben eine Vermittlungsform eigentlich für Ansprüche hat,
+die Communing auf so einer gesamtgesellschaftlichen Ebene heben kann.
+Ja, das finde ich total nachvollziehbar.
+Also vielleicht, ich glaube es gibt trotzdem einen gewissen Klärungsbedarf für die Zuhörerinnen und Zuhörer,
+wenn man sagen, dass in dem Thema nicht so drin steckt.
+Also zum einen wäre es natürlich, es brennt uns allen.
+Nicht auf der Zunge ist ja dann falsch, in den Ohren zu hören, wie die Formel ist.
+Das ist schon angekündigt.
+Also die eine Frage wäre eben mal wirklich, was ist denn die Formel?
+Vielleicht kannst du uns die erklären und vielleicht auch,
+damit das für die Zuhörerinnen und Zuhörer dann nicht so klingt,
+als würde jetzt Markus hier sozusagen eine Formel zur Erklärung der Welt irgendwie vorstellen und zu tun,
+als könne man damit sozusagen jetzt wundersam alles lösen.
+Darum geht es nicht, sondern es geht eigentlich darum,
+wenn ich das richtig verstehe und korrigiere mich da bitte gerne,
+du versuchst jetzt bestimmte Funktionslogiken des Commoning zu erfassen,
+um eigentlich aus dieser Paz-Situation herauszukommen,
+dass Commoning sozusagen viel gedacht wird als ein lokales sich aufeinander beziehen
+und im Grunde ja der in Anführungsstrichen Vorwurf gegenüber dem Commoning,
+und das ist ja auch eine verbreitete Vorwurf eigentlich ist,
+dass es daraus nicht hinauskommen könne.
+Dass also im Grunde es quasi auf dieses lokale, extrem horizontale,
+sozusagen beschränkt ist und dadurch eigentlich in seiner Entfaltung,
+in Bezug auf die Ausdehnung, da haben wir sie wieder, im Grunde begrenzt ist.
+Und so wie ich das eben verstanden habe, und das fand ich, wie gesagt,
+in unglaublich produktiven Einsatz eben nicht als Kritik,
+sondern als ein Weiterdenken und darauf aufbauen, machst du dich jetzt daran,
+im Grunde eine strukturelle Perspektive auf Commoning als Prozess zu ermöglichen,
+die spezifisch dann darauf abzielt, durch dieses strukturelle Denken,
+also durch diese Strukturformel, wenn man so will,
+eigentlich ein Denken über die transpersonale Ebene anders möglich zu machen.
+Und dass das im Grunde sozusagen dann eigentlich auch ein Pfad bildet
+aus dieser Pfad-Situation und im Grunde finde ich dadurch dann eigentlich
+eine entscheidende Frage hilft, mit zu beantworten in Bezug auf,
+wie die Limitierungen der Ausdehnung des Commoning sozusagen eigentlich überwunden werden können.
+Das klingt jetzt alles hoffentlich im Nachhinein noch ein bisschen plausibel,
+wie ich das versucht habe zusammenzufassen, so habe ich es zumindest verstanden.
+Was ist sozusagen dann diese Formel, was macht sie aus
+und inwiefern kann man mit dieser Formel anders denken über die transpersonale Ebene?
+Vielen Dank. Ich habe schon gemerkt, ich bin ein bisschen der Frage
+vorher ausgewichen zu den Strukturen von Stefan und Simon und diesen Metacomments und den Sachen.
+Ich würde auch irgendwie, also ich tue mir schwer, mich darüber zu äußern,
+weil es eine andere Struktur ist, weil es ein anderer Hangdienst weißer ist,
+die auch mit dem weiteren, glaube ich, nicht so viel zu tun hat.
+Und genau, ich bin der Frage ausgewichen, aber ich glaube,
+da muss man sich das von Stefan und Simon anhören und die können einfach besser Aussagen darüber treffen.
+Genau, die Formel, um die es geht, die ich da quasi vorgestellt habe,
+da muss ich sagen, der Ansatz im Ausdienungsrang moderner Comments ist ein anderer Ansatz
+als der, den wir jetzt im Projekt machen und mit dem wir arbeiten,
+einfach weil da diese Bedürfnissebenen noch da sind.
+Da im Ausdienungsrang wird so das große Ganze aufgemacht.
+Also wo stehen wir heute? Was sind die Bedingungen der Lohnabhängigkeit,
+in denen wir heute drinstecken? Und wie kann es durch Communing so funktionieren,
+dass es wirklich eine Transformation ermöglicht in eine andere Gesellschaftlichkeit?
+Und da waren mir so Bedürfnissebenen total wichtig.
+Also auch eine Gegenüberstellung, wann es Communing sinnvoll für jemanden, der lohnabhängig ist
+und wann ist Lohnarbeit sinnvoll für jemanden.
+Und ich würde anfangen mit dem, mit dem wir heute arbeiten,
+weil es einfacher ist. Ich glaube, es ist sehr viel einfacher.
+Und das ist sehr banal, mittlerweile sogar einfach zu sagen, Communing geht um Bedürfnisbefriedigung.
+Das ist der Zweck von dem Bezug auf Gemeinsames, von vielleicht am Ende Ökonomie.
+Aber wir sind Menschen, wir haben Bedürfnisse, die befriedigt werden wollen
+oder vielleicht auch leiden, dass gelindert werden will.
+Wir haben irgendwas, irgendwas geht an uns vor.
+Und wir haben diesen gesellschaftlichen Prozess, der sich zumindest im besten Fall
+oder meiner Meinung nach im besten Fall darum dreht, dass meine Bedürfnisse befriedigt werden,
+genauso wie die der anderen Menschen, was auch bedeutet zum Beispiel auch,
+dass es mir wichtig ist, dass es Tieren gut geht oder der Umwelt gut geht,
+würde ich hier wirklich als mein Bedürfnis auffassen.
+Und das heißt, du hast am Anfang einfach ein Bedürfnis, ich würde sagen B-,
+das vermittelt werden muss, von dem andere erfahren müssen.
+Und es gibt Tätigkeiten, die dieses Bedürfnis befriedigen.
+Das ist einfach eine Tätigkeit im gesellschaftlichen Prozess.
+Und das ist zum Beispiel, ich habe Hunger, elendiges, klassisches Beispiel.
+Und ich esse ein Brot und habe danach kein Hunger mehr.
+Das Bedürfnis ist befriedigt.
+Die Frage ist, was ist, wenn kein Brot da ist?
+Was ist, wenn die Dinge, die ich brauche, um das Bedürfnis zu befriedigen,
+diese Tätigkeit auszuführen, die das Bedürfnis befriedigen, im Ende nicht vorhanden sind?
+Da würde ich eben von einem Bedarf sprechen.
+Es braucht Dinge zur Ausführung der Tätigkeit, die das Bedürfnis befriedigen.
+Also hast du wieder dieselbe Formel, die anfängt mit einem, ich fasse das immer als Mittel,
+also mittelt alle Dinge und genau der Welt.
+Die fehlen können, ein Bedarf per Minus, der wieder vermittelt werden muss,
+das andere davon erfahren, dass es fehlt und tätig werden können.
+Es gibt wieder Tätigkeiten, die dieses Mittel verfügbar machen, diesen Bedarf decken.
+Es gibt zum Beispiel jetzt in dem Beispiel wieder das Brot zu backen oder ein Brot,
+das woanders verfügbar ist, hinzufahren oder, I don't know, ein Brot aufzutauen.
+Es gibt verschiedene Tätigkeiten, die dafür sorgen können, dass verschiedene Szenarien,
+mit denen dieser Bedarf verfügbar gemacht werden kann.
+Genauso gibt es, also das Grundschema ist einfach nur, es gibt ein Problem im Prozess.
+Es gibt eine Tätigkeit, die das Problem irgendwie löst.
+Und Probleme gibt es eben, fangen an, immer beim Bedürfnis, im Common, in dem was wir aufbauen,
+fangen immer an beim Bedürfnis und von daher abgehend in das was fehlt
+oder zum Beispiel in dem was erhalten werden muss, wenn irgendwie ein Feld bestellt werden muss
+oder eine Küche aufgeräumt werden muss.
+Also das würde heißen, die Küche ist in einem problematischen Mittelzustand,
+jetzt mal ganz steif gesagt, und es braucht eine Tätigkeit, die das Küche putzt oder aufräumt,
+damit die Küche wieder in ihren Erhaltungszustand zurückkommt,
+also in dem andere die Küche vorfinden wollen.
+Aber genauso gibt es Probleme, wie dass mehrere Menschen auf dasselbe Ding zugreifen wollen.
+Du hast etwas, was uns gemeinsam ist, du und deine Freundin, ihr habt es gemeinsam im Auto.
+Ihr wollt vielleicht unterschiedlich mit anfangen.
+Ihr müsst euch irgendwie, ich sehe das auch als eine Tätigkeit, zusammensetzen und irgendwie,
+oder schreiben, ja oder wie auch immer, was tun, um Regeln zu finden, um Absprachen zu treffen,
+wer mit dem Ding, mit dem Auto jetzt umgehen kann, also für wen dann quasi,
+wer diese Tätigkeit dann ausführen kann mit diesem Auto.
+Auch das ist ein Problem, das mit Tätigkeit gelöst wird.
+Heute ist es so banal, mit dem wir heute umgehen, diese Formel, Problem, Tätigkeit, Lösung
+und da eben einen klaren Zusammenhang dazwischen herstellen.
+Im Ausdienungsstrang ist eben mehr mit Bedürfnissebenen gearbeitet worden.
+Das heißt, man hat einfach am Anfang die sindig vitale Bedürfnisproduktion, Bedürfnisdimension.
+Das sindig vital heißt irgendwas, was mit meinem Leben zu tun hat,
+mit das, was ich spüren kann, was ich schmecken kann, das sindliche, was direkt vielleicht körperlich ist.
+Und die will befriedigt werden und diese produktive Bedürfnisdimension,
+die sich quasi so drum herum webt, dieser gesellschaftliche Prozess ist, heißt,
+ich gehe in die Gesellschaft rein, um an den Strukturen mitzuwirken,
+die es mir ermöglichen, dass meine sindig vitale Dimension dauerhaft befriedigt werden kann,
+das Produktive, der gesellschaftliche Rahmen.
+Und das ist dann mehr so eingewoben im Ausdienungsstrang, als ich da mit der Formel gearbeitet habe,
+was eben notwendig war, um das dann vielleicht vergleichen zu können.
+Wann ist es für jemand sinnvoll, Lohnarbeiten zu gehen und wann ist es für jemand sinnvoll,
+Lohnarbeiten zu betreiben? Und wann wird Combining tendenziell sinnvoller,
+insofern man das eben sagen kann, als Lohnarbeit?
+Genau, ich hoffe, dass du so ein bisschen damit beantwortet zu haben.
+Ja, und ich glaube, wir kommen auf jeden Fall später dann auch nochmal zu dieser Frage,
+die du jetzt zuletzt angesprochen hast, denn die finde ich eigentlich auch eine sehr wichtige.
+Also ich sehe das eigentlich sehr stark im Zusammenhang mit der Frage der Transformation.
+Also wann macht es für mich individuell mehr Sinn, mich eben in einen Combining Prozess einzuspeisen,
+als eben weiterhin am kapitalistischen System hängen zu müssen?
+Das ist eine unglaublich wichtige Frage für uns alle letztlich,
+weil die muss ja eigentlich produktiv beantwortet werden,
+damit die Ausdehnung, die er hoffte, auch tatsächlich passieren kann.
+Da kommen wir auf jeden Fall noch hin. Das ist, wie gesagt, ein sehr wichtiges Element,
+diese gesamte Frage nach den Möglichkeiten der Transformation.
+Aber ich möchte vorher nochmal kurz eigentlich jetzt bei dem verbleiben,
+was du eingangs gesagt hattest, wo du jetzt eben mal sozusagen diese Grundformation
+eigentlich beschrieben hast in all ihrer Banalität, wenn man so will, die da ist.
+Es gibt ein Bedürfnis und das muss befriedigt werden.
+Und wir brauchen sozusagen funktionierende Mechanismen, die diese beiden Elemente zueinander bringen.
+Ich verstehe sozusagen euer Projekt.
+Das möchte eigentlich jetzt eine in dem Fall digitale Infrastruktur bereitstellen,
+um eben diese Vermittlung auch jenseits des unmittelbar personalen Rahmens möglich zu machen.
+Und das ist, glaube ich, auch ein wichtiges Element, dass man das dazusagt.
+Es geht nicht darum, dass das eine das andere ablösen möge,
+sondern es passiert natürlich weiterhin persönliches Commoning, interpersonales Commoning, wie das Wording ist.
+Und es geht eigentlich vor allem darum, für die Prozesse, die nicht über dieses interpersonale Commoning
+abgedeckt werden können, eine Plattform bereitzustellen, um Vermittlungstätigkeiten
+zur Bedürfnisbefriedigung im Grunde zu vermitteln, also zu bewerkstelligen.
+So habe ich das verstanden, oder?
+Genau, also ich würde es nicht als Plattform beschreiben.
+Plattform hat sowas Zentrales.
+Wir bauen Werkzeuge, die hoffentlich verteilt sind, die freie Software sind, die Leute übernehmen können,
+anders einsetzen und hoffentlich dann immer noch miteinander kommunizieren können.
+Genau, und die stellen also jetzt diese Vermittlung her von Bedürfnissen, Bedarfen usw., was getan werden muss.
+Wir brauchen so eine Transparenz über diese Dinge, die gemeinsam verwendet werden können,
+zu welchen Bedingungen usw.
+Und ich glaube, was auch noch wichtig ist, ist, dass wir versuchen, da Effizienz reinzubekommen in Commoning,
+also mit Aspekten von Werkzeugen zu gucken, wie können sich denn Leute effizient selbst organisieren,
+eben auf Augenhöhe, ohne dass sie eben von oben organisiert werden müssen.
+Das ist auch nochmal eine ganz eigene Herausforderung, würde ich sagen.
+Aber ansonsten, genau.
+Da waren jetzt gleich einige Dinge drin, bei denen ich nachfragen mag.
+Zum einen hattest du anfangs gesagt, eben Plattform, das sei nicht der Begriff,
+den du jetzt wählen wollen würdest, aufgrund dessen, dass es einen zentralistischen Beigeschmack hat.
+Ist es aber nicht trotzdem so, dass im Grunde eigentlich das Ziel wäre,
+dass es eine Art von zentraler Instanz gibt, die diese Vermittlung bewerkstelligt,
+weil wenn jetzt wieder es nur haufenweise lokale Instanzen gibt,
+die aber wiederum eine Metaorganisation eigentlich nicht möglich machen,
+dann ist ja im Grunde nicht das geleistet, was so eine technologische Infrastruktur im Grunde leisten könnte,
+nämlich diese überregionale Ebene miteinander in Verbindung zu setzen
+und da eine Vermittlung eigentlich darzustellen.
+Also inwiefern, was ist das, was dich stört an dem Zentralen,
+wenn wir jetzt nicht davon ausgehen, dass es eine zentrale Infrastruktur sein muss
+im Sinne von, auf der technologischen Ebene,
+also dass quasi jetzt irgendwie das missbraucht werden könne im Sinne der Datenruhe oder sowas.
+Ja, eh spannend.
+Spannend ist bei dem, was du gesagt hast, dass als der Text rausgekommen ist vor vier Jahren,
+da hieß es irgendwie eine, was gesucht wurde, eine zentrale Instanz zur Selbstorganisation und Zwecksetzung der Mittel
+und ich habe dann das Anfang des Jahres, glaube ich, überarbeitet.
+Da gibt es dann so eine Neuüberarbeitung, ganz wenig Änderungen.
+Da heißt es dann gemeinsame Instanz.
+Und ich glaube, der Unterschied zwischen diesen vier Jahren war auch einfach, weil wir oder weil, besonders ich,
+ich bin jetzt ein Softwareprojekt.
+Ich bin kein Entwickler.
+Ich kann keine Zeile Codes schreiben.
+Ich habe damit eigentlich nichts am Hut.
+Ich konzipiere die Strukturen.
+Und es gibt einfach andere Möglichkeiten, als das zentral zu machen.
+Und das finde ich auch ganz, ganz wichtig, dass diese Idee auch, also das finde ich ganz wichtig,
+so eine Idee, dass man so etwas aufbaut und da irgendwie selbst Regeln setzt und das irgendwie,
+also das sowieso, dieses selbst Regeln setzen und wie es funktioniert.
+Es wird auch, wenn wir über Bedürfnispriorisierung später reden, wie es im Ausstellungsrang vorkam.
+Das war eine ganz große Lehre von diesen Jahren, dass es einfach nicht sein darf, das ist schwer angenommen,
+wird aber auch einfach Machtstrukturen ermöglicht oder einfach Probleme aufmacht.
+Auch Datenschutzprobleme tatsächlich, sowas um die Ecke.
+Und es gibt einfach Möglichkeiten, zum Beispiel das Fediverse.
+Ich meine, vielleicht kennst du es, vielleicht kennst du auch nicht, ich sage ganz kurz.
+Fediverse ist so ein, zum Beispiel, du hast Twitter als zentrale Plattform,
+wo über alle Daten laufen in dieser Form von Messagingdienst.
+Dann gibt es sowas wie Mastodon, diese Open-Source-Variante davon,
+die quasi Leute unabhängig voneinander auf ihren Server drauf spielen können,
+wo sich Leute dann quasi auf diesen Server anmelden, aber die einzelnen Server kommunizieren miteinander
+und tauschen die Daten aus.
+Und da gibt es so eine ganze Infrastruktur von YouTube-Essatz mit Peertube und Mobile-Esson jetzt als Ersatz für Facebook-Events.
+Das ist ganz, ganz großartig, was da passiert.
+Und da wird es halt möglich durch solche Protokolle,
+dass du verteilte Strukturen haben kannst, die eben kein, überhaupt kein zentrales Ding in der Mitte haben,
+aber trotzdem ihre Informationen austauschen.
+Das geht es einfach um, also der Unterschied zwischen damals zentraler Instanz, heute gemeinsamer Instanz
+liegt einfach in den technologischen Möglichkeiten, die wir haben und die ich erst kennengelernt habe
+über die Jahre.
+Genau das Problem ist eben, also wie du auch gesagt hast, es gibt Probleme mit,
+was nicht sein darf, ist jetzt zum Beispiel, dass ein Ding, jetzt wieder ein, ich sag jetzt mal ein Gebäude,
+eingespeist ist auf der einen Instanz oder auf der einen Softwaregeschichte
+und das irgendwie einen Zweck bekommt, dass das irgendwie Leute sich darum kümmern, wer da leben kann,
+zu welchen Bedingungen, also vielleicht wie viele Jahre, bis das wieder diskutiert wird oder ich hab keine Ahnung,
+was man so als Regeln setzen kann, um ein Gebäude, das unter gemeinsamer Verfügung steht, genau zu regeln.
+Und wenn das irgendwie zweimal verschieden quasi da ist, wenn es in zwei verschiedenen Weisen,
+an zwei verschiedenen Orten quasi dasselbe Gebäude eingespeist ist und zweimal verschiedene Regeln,
+die sich widersprechen können, drin sind, dann kommt man auch nicht in diesen gemeinsamen Prozess.
+Da geht es eben um Daten, dass du quasi verteilte Instanzen haben kannst, aber die Mittel der Welt,
+auf die sich bezogen wird, eindeutig sind und da quasi eine Kommunikation auch darüber möglich ist,
+dass das hier einfach nicht zu widersprechen kommt.
+Das wäre so das zentrale Problem, was da quasi auch mit angegangen werden muss.
+Wenn man das verteilt, fährt das eben zentral.
+Also ich kann folgen, denke ich, ich würde halt differenzieren zwischen der Frage, ob es verteilte Infrastrukturen gibt
+oder ob am Ende trotzdem noch so etwas wie eine Form von geteilter Datenbank existiert letztlich, wenn man so will.
+Und das wäre dann quasi das in Anführungsstrichen zentralistische Element, was ich meinte.
+Und das inkludiert natürlich eine Form der Interoperabilität.
+Das ist der ganze Witz daran, dass nicht am Ende immer wieder haufenweise Kleinstinstanzen nebeneinander her tun,
+sondern dass es eine Möglichkeit gibt, sich miteinander auf einer übergeordneten Ebene zu koordinieren.
+Also das ist sozusagen das, was ich dann quasi auf einer funktionalen Ebene von mir aus, wenn man das so nennen kann,
+das weiß ich gar nicht, aber ich sage es jetzt einfach mal, auf einer funktionalen Ebene es eine Form der Koordination gibt,
+die man dann in der Hinsicht vielleicht als zentral benennen könnte, als dass sie vielleicht auch einer geteilten Funktionslogik folgt.
+Das wäre ja quasi dann so ein bisschen die Frage auch, wo sind die Schnittstellen,
+was sind sozusagen die Elemente, auf die man sich da quasi dann auch einigen können müsste
+und welche Elemente werden sozusagen den distribuierten Instanzen quasi noch zugestanden,
+dass sie das sozusagen für sich alleine unabhängig von der übergeordneten Instanz irgendwie regeln könnten.
+Das ist jetzt vielleicht schon ein bisschen zu sozusagen ins Abstrakte hineingehend.
+Ich glaube, wir können das vielleicht dann im Laufe des Gesprächs noch an Beispielen festmachen.
+Ich glaube, ein Punkt, an dem man jetzt vielleicht noch ansetzen kann an das, was du zuvor gesagt hattest,
+was vielleicht, glaube ich, für die Zuhörerinnen und Zuhörer einfach auch wichtig wäre, um das so ein bisschen nachvollziehbarer zu machen ist,
+vielleicht kannst du uns ein bisschen anhand eines Beispieles erklären,
+wie mithilfe der von euch vorgeschlagenen technologischen Infrastrukturen eine Form des transpersonalen Common Links denn konkret aussehen könnte.
+Also es gibt quasi ein Bedürfnis, das steht am Anfang und wie geht es von da aus weiter?
+Also vielleicht kannst du uns da einmal durchführen, dass wir uns das so ein bisschen vor unserem inneren Auge auch vorstellen können,
+wie das denn ablaufen soll.
+Ich würde es vielleicht auch alltagsnah machen. Vielleicht ein Beispiel, Bedürfnis Mobilität.
+Ich habe ein Bedürfnis nach Mobilität. Ich vermittel das. In der Vermittlung ist es schon mal etwas spannendes im Sinne von,
+was heißt Mobilität für mich? Ich muss das fassen können. Also im Sinne von, was ermöglicht mir Mobilität?
+Vielleicht ist es der Zugriff auf ein Fahrrad. Nicht unbedingt ein eigenes Fahrrad, aber erst mal der fixe Zugriff auf ein Fahrrad,
+um in meinem näheren Raum einfach hinfahren zu können, wo ich möchte.
+Das heißt, es gibt diesen Anspruch, den ich quasi rausschicke, ich brauche Zugriff auf ein Fahrrad.
+Und dann gibt es verschiedene Szenarien eben, wie dieser Zugriff auf ein Fahrrad gewährleistet werden kann.
+Das heißt, der klassische, vielleicht oder nicht klassische, wäre die Fahrradproduktion.
+Okay, jemand braucht irgendwie Zugriff auf ein Fahrrad. Das heißt, wir müssen jetzt irgendwie ein Fahrrad produzieren.
+Und das heißt, Fahrrad produzieren, da hängen ganz viele Tätigkeiten dran.
+Da hängt ja ein Komplex vom, also das näherste wahrscheinlich, der Transport des fertigen Fahrrads zu der Person.
+Davor wäre das Zusammenschrauben der einzelnen gefertigten Teile.
+Davor wäre irgendwie der Aufbau dieser einzelnen Räder und Speichen und was das alles an einem Fahrrad dran gehört.
+Also das ist ein riesigen Komplex an Tätigkeiten, die zusammengehören.
+Das wäre ein Szenario. Das ist ein Szenario, das mir als Person, die Zugriff auf ein Fahrrad haben möchte, am Ende das ermöglicht.
+Ein anderes Szenario wäre, es gibt ein Fahrrad in lokaler Nähe, das niemand braucht.
+Und das heißt einfach, vielleicht ein Hinweis darauf, vielleicht hat es die Person auch schon vorher in so einer Art Mittel-Datenbank gefunden,
+dass es das gibt und dann hätte es gar nicht vermittelt werden müssen eigentlich.
+Okay, aber es kann sein, es gibt einfach schon ein Fahrrad. Es kann auch sein, dass ein Fahrrad kaputt ist.
+Es gibt irgendwo ein Fahrrad, das steht an sich zur Verfügung, aber ist gerade nicht verwendbar.
+Und es muss eigentlich noch repariert werden.
+Oder zum Beispiel jemand hat Zugriff auf ein Fahrrad, irgendwie der Nachbarschaft,
+und braucht es so selten, dass die Person sagt, können wir gemeinsam benutzen.
+Zum Beispiel, das sind verschiedene Szenarien, wie das Bedürfnis befriedigt werden könnte.
+Und was die Software dann macht oder was eben ein Aspekt der Software macht,
+das ist dann der verteilte Planungsprozess, das ist ganz wichtig bei uns, das einfach möglich wird.
+Also das Grundprinzip unserer Struktur ist eigentlich Selbstorganisation durch Selbstzuordnung.
+Das heißt, es werden Tätigkeiten vorgeschlagen. Ich finde, das kann man sich so ein bisschen vorstellen wie bei einer Dating-App.
+Ja, du hast quasi verschiedene Tätigkeiten, die dir vorgeschlagen werden, die du für dich gefiltert hast, vielleicht auf was du Lust hast usw.
+Und du sagst quasi, habe ich Lust drauf, habe ich keine Lust drauf, jetzt so mal das ganz basale Formen.
+Und wenn du sagst, du hast ja Lust drauf, dann kommst du quasi in Kommunikation mit anderen, mit denen du quasi dann im Zusammenhang stehst.
+Also diese Selbstorganisation durch Selbstzuordnung ist zentral.
+Okay, was die Software macht ist, wir haben die verschiedenen Szenarien, wie das Bedürfnis Mobilität mit einem Fahrrad befriedigt werden kann.
+Und die Software schaut dann, was ist lokal verfügbar?
+Sind Fahrräder lokal verfügbar, die irgendwie nur ortsverändert werden müssten zu der Person, dass sie es quasi hat?
+Und gibt es Fahrräder, die nur repariert werden müssten?
+Gibt es irgendwie einzelne Bauteile von Fahrrädern, die zusammengebaut werden müssten, um quasi das mit der Person ein Fahrrad hat?
+Gibt es Leute, die vermittelt haben, dass sie schon ein Fahrrad haben und das quasi mitteilen würden usw.?
+Und dann ordnet es diese, vielleicht muss ich hier reinhängen, Tätigkeitsmuster, weil es sonst zu abstrakt ist.
+Wir fassen es in Tätigkeitsmuster.
+Tätigkeitsmuster heißt erstmal eine festgehaltene Tätigkeit.
+Im Mittelpunkt steht immer unsere Tätigkeit.
+Jedes Problem wird auch eine Tätigkeit gelöst.
+Jedes Bedürfnis durch eine Tätigkeit befriedigt, kann durch eine Tätigkeit befriedigt werden.
+Jedes Mittel durch Tätigkeiten gedeckt werden usw.
+Durch verschiedene, die je nachdem, wo man gerade ist, was für Bedingungen das sind, also was für Mittel vorhanden sind usw.
+verschieden sinnvoll sind.
+Und ein Tätigkeitsmuster, so wie wir das fassen, das ist nichts abstraktes.
+Wenn man auf WikiHow zum Beispiel geht, da sind Tätigkeitsmuster, da wird gezeigt, was man braucht, um irgendwas zu bauen,
+einen Hühnerstall zu bauen oder so was.
+Oder auf ifixit.com wird gezeigt, dein Laptop ist kaputt, du brauchst irgendeinen Schraubenzieher und das und das Werkzeug.
+Und dann gehst du diese fünf Schritte durch und dann ist dein Laptop wieder in Ordnung.
+Das sind Tätigkeitsmuster.
+Und das sind für uns so die Grundbausteine.
+Es heißt nicht, wir machen das alles so komplett über die Tätigkeitsmuster, aber sie sind auch erstmal am anschaulichsten.
+Jeder Tätigkeit isoliert betrachtbar mit ihren einzelnen Schritten und klar definiert, was ist das Resultat der Tätigkeit?
+Also zum Beispiel ein repariertes Fahrrad.
+Und was ist der Bedarf der Tätigkeit?
+Zum Beispiel Werkzeug und ein kaputtes Fahrrad, jetzt auch mal ganz lose.
+Und die Software, also um diese Vermittlung herzustellen, brauchen wir solche Tätigkeitsmuster,
+die entstehen müssen, die da sein müssen, die Leute einspeisen müssen mit der Erfahrung, die sie eben haben, mit dem Wissen, das sie haben,
+damit die Software einfach weiß, wie solche Prozesse aussehen können, wie eigentlich die Welt verändert werden kann, welche Schritte quasi zu möglichen Bedürfnisbefriedigungen führen.
+Ich bin weg von diesen einfachen Beispielen, es tut mir furchtbar leid.
+Aber du kannst ja jetzt wieder zurückkommen, oder?
+Im Grunde hattest du ja aufgehört bei dem Punkt, es gibt verschiedene Zugänge, wie jetzt das Bedürfnis befriedigt werden kann.
+Man kann eben ein fertiges Fahrrad, also ein Fahrrad neu produzieren, es gibt vielleicht ein kaputtes Fahrrad und so weiter und so fort.
+Das war quasi, glaube ich, der letzte Punkt, bevor du die Tätigkeitsmuster eingefügt hast.
+Dann kannst du ja da einfach wieder einsteigen.
+Genau. Und was die Software quasi macht, ist, sie schaut die einzelnen Szenarien an und ordnet sie danach, nach ihrem Aufwand, nach Aufwand des letzten.
+Noch mal ein neues Gesprächsthema, ich mache es vielleicht nicht auf.
+Ich sage mal, es sagt, was ist am aufwendigsten, welche Szenario und welche ist am wenigsten aufwendig.
+Von den Informationen, die der Software bereitsteht.
+Und dann sagt es zum Beispiel, Fahrrad reparieren ist jetzt das am wenigsten aufwendige Szenario, damit das Bedürfnis befriedigt werden kann.
+Und dann schickt es quasi dieses Tätigkeitsmuster raus an lokal beteiligte Menschen hier in der lokalen Nachbarschaft und sagt,
+quasi hier Tätigkeit Fahrrad reparieren, dort ist ein Fahrrad, das zur gemeinsamen Verfügung steht.
+Du brauchst irgendwie den Werkzeugkoffer dafür oder man braucht einen Werkzeugkoffer dafür.
+Willst du dich dem annehmen, das Fahrrad zu reparieren?
+Und das wird dann quasi rausgeschickt an die ganzen Leute.
+Und vielleicht findet sich jemand, der die Bock hat, ein Fahrrad zu reparieren.
+Vielleicht findet sich auch niemand.
+Das heißt, nach einem gewissen Zeitraum schaut die Tätigkeit, die Software, was ist denn das zweit am wenigsten aufwendigste Szenario,
+wie diese Person quasi Zugriff auf ein Fahrrad bekommt.
+Und vielleicht ist es eben, I don't know, das Fahrrad transportieren von einem Nachbardorf.
+Da steht da irgendwo ein Fahrrad.
+Und das müsste quasi geliefert werden von diesem Dorf zu der Person und quasi geregelt werden, dass sie quasi Zugriff darauf hat.
+Und das wird als nächstes vorgeschlagen werden.
+Das würde als zweite Tätigkeit jetzt irgendwie in deiner Smartphone-App vorgeschlagen werden.
+Hast du Lust, irgendwie ein Fahrrad von diesem Dorf zu transportieren in diesen Stadtteil?
+Vielleicht, weil es eher auf deiner Route liegt oder whatever.
+Und je nachdem, was vorhanden ist in der lokalen Umgebung, welche Tätigkeitsmuster die Software kennt, das ist total abhängig davon.
+Also je mehr Tätigkeitsmuster es gibt, desto mehr Szenarien sind möglich, um zu wissen, wie Bedürfnisse befriedigt werden können oder Bedarfe gedeckt werden können usw.
+Und genau das wird quasi eben der Reihenfolge des geringsten Aufwandes nach den Beteiligten vorgeschlagen, die sich dann zuordnen können oder eben nicht zuordnen können.
+Und um das Beispiel jetzt irgendwie zu Ende zu kriegen, also ich vermittel, ich habe Zugriff auf ein Fahrrad.
+Software sagt am wenigst aufwendigsten Fahrtreparatur.
+Jemand sagt, kann ich machen, repariert das Fahrrad, du holst das Fahrrad irgendwo ab, hast seinen Zugriff auf ein Fahrrad.
+Jetzt erstmal zum Beispiel.
+Genau.
+Gut, da waren jetzt natürlich sehr viele Sachen drin, zu denen ich noch nachfragen habe.
+Fangen wir vielleicht mit der, also bevor wir uns mal, also da kommen wir später auf jeden Fall noch zu, zu der Frage, weil du jetzt damit aufgehört hattest.
+Die Person sagt, ja, okay, habe ich Bock drauf, mache ich.
+Da schließt sie natürlich die Frage an, okay, unter welchen Umständen hat die Person Bock darauf, das zu machen?
+Das sollten wir auf jeden Fall noch besprechen.
+Ich notiere es mir und wir kommen danach noch dazu, bevor wir das angehen.
+Auf eine Art klingt das jetzt mal so ein bisschen auch nach einer Komplexitätsexplosion, muss ich sagen.
+Ja, also weil ja die Notwendigkeit der Beschreibung der Tätigkeitsmuster auf eine Art dann eben eigentlich ein riesengroßes Maß an Komplexität im Grunde einführt,
+dass sagen wir mal im kapitalistischen Kontext ja eingedampft wird dadurch, dass es eine Reduzierung gibt auf eine Vermittlungsinstanz, die da heißt Geld.
+Also das ist ja auf der einen Seite natürlich schrecklich, dass es diese Reduzierung gibt,
+weil natürlich dadurch dann einfach viele Dinge außen vor bleiben, die eigentlich mit berücksichtigt werden sollten.
+Auf der anderen Seite ist das, wenn man jetzt die österreichische Schule der Nationalökonomie sich anguckt, ein Argument deren Seite im Bezug auf was denn das zu leisten könne.
+Also da wird quasi diese Komplexitätsreduktion als ein Plus angesehen.
+Und es wird gesagt, okay, das ist quasi die Stärke, dass man eben all diese anderen Informationen auf anderer Ebene vermitteln kann
+und im Grunde dann über das Geld quasi dann eine in Anführungsstrichen Effizienz.
+Und wir wissen natürlich, dass das auf ganz vielen Ebenen am Ende eben nicht aufgeht, gerade in Hinsicht auf die Frage der Effizienz.
+Aber das ist sozusagen die Argumentationslinie, dass das sozusagen im Grunde auch ein Mechanismus der Komplexitätsreduktion ist.
+Und das muss man zugeben, ist es. Und was für einen Preis das hat, ist natürlich dann auch mal eine andere Diskussion.
+Aber es schließt dann daran eigentlich folgerichtig die Frage an, dass wenn ihr jetzt eben, ich habe das jetzt so verstanden,
+als ob ein Ort, an dem diese Komplexität dann wieder eingeführt wird, eben die Tätigkeitsmuster sind.
+Wenn ihr für jede einzelne der Tätigkeiten, die es braucht, um ein Bedürfnis zu befriedigen, eine Form von Beschreibung braucht,
+die dann wiederum eine Form von Self-Assignment quasi nach sich zieht, dann kommen wir eigentlich relativ schnell an einen Punkt,
+wo es eine Vielzahl von verschiedensten Tätigkeitsbeschreibungen gibt, die da erfüllt werden sollten.
+Und man im Grunde sich dann vor einer Flut dieser Beschreibungen sehen würde, aus der zu picken dann eigentlich vielleicht schon mühsam sein könnte,
+beziehungsweise könnte man da dann sagen, okay, das könnte quasi algorithmisch adressiert werden durch eine Form von Vorselektion.
+Und dann kommen wir aber wiederum zu dem Punkt, den du auch kurz angesprochen hattest, und zwar die Frage des Aufwands.
+Also nach welchen Logiken wird da diese Selektion dann vorgenommen, damit wir eben nicht mit dieser Explosion an Komplexität eigentlich ausgesetzt sind?
+Wie kann das quasi beherrschbar gemacht werden, sodass eigentlich eine sinnvolle Bezugnahme auf die Bedürfnisse der anderen für mich dann trotzdem noch über diese Infrastruktur, die in der Vorschlag gewährleistet werden kann?
+Nee, ich kann ja nur erstmal recht geben. Geld ist der Wahnsinn, erstmal so als Vermittlungsform.
+Ich kann jede Person, mit der man irgendwie so ein Gespräch anfängt über von wegen, man braucht was anderes, man muss wegkommen vom Markt und bla, bla, bla.
+Und die kennt die Kritik daran nicht zum Beispiel. Und die besteht darauf, wie cool Geld ist und sonst irgendwas.
+Und das ist Wahnsinn, so von wegzukommen, weil das macht alles so einfach und bla, bla, bla. Kann ich vollkommen nachvollziehen.
+Aber leider, man muss dann irgendwie, also ich hab's nicht geschafft, ich komm aus so einem Gespräch nicht raus mit irgendwie, I don't know, ich kann das nicht.
+Aber wir kennen die Probleme von Geld und das ist ein Thema.
+Komplexität ist ein Riesenthema bei uns im Projekt. Und wir haben jetzt quasi einen Bereich der Komplexität betreten mit diesen Tätigkeitsmustern, Geschichten.
+Wenn wir zum Thema Berücksichtigung kommen, was ja quasi dieser individuelle Vorteil ist, dann hat die Komplexität keine Grenzen mehr.
+Das ist ganz, ganz furchtbar. Auf jeden Fall erstmal zu Tätigkeitsmustern.
+Das Prinzip von Tätigkeitsmustern ist, dass es sich um wiederkehrende Tätigkeiten handelt.
+Und wir haben in unserer Gesellschaft enorm viele Tätigkeiten, die jeden Tag gleich ausgeführt werden.
+Ich meine, je nachdem auch, wie man das Tätigkeitsmuster fasst, wie streng das jetzt gefasst wird.
+So bohr ich ein Loch mit der Bohrmaschine-Typ so und so oder reicht mir die Bohrmaschine im Allgemeinen oder ein Gerät, mit dem sich Löcher bohren lassen, um das nochmal auszuweiten.
+Da geht es viel um die Frage, genau, wie fasse ich das und wie können da quasi Verbindungen entstehen zu den konkreten Dingen, die vorhanden sind?
+Eine Frage, die nicht leicht zu beantworten ist, die ich auch nicht beantworten kann.
+Wo ich sagen kann, ich kann da erstmal so ein bisschen hin konzipieren, dass dafür Lösungen gemacht werden müssen.
+Aber ich kann auch nur die Richtung andeuten in dieser ganzen Konzeptionsgeschichte.
+Aber Tätigkeitsmuster als solche sind wiederkehrend. Du machst jeden Tag vermutlich deinen Abwasch.
+Du machst jeden Tag mit dem Auto irgendwo irgendwas von A nach B fahren.
+Das ist quasi für verschiedene Orte, aber die Tätigkeit des Autofahrens ist ständig wiederkommend, wenn du irgendwie in einem Betrieb arbeitest.
+Wer macht denn also, egal ob du in der Werbeagentur bist oder quasi in der Fabrik oder wo auch immer wir uns aufhalten, da passiert ständig das Gleiche.
+Dass sich ziemlich gut fassen lässt und woanders auch wiederkehrt.
+Der Unterschied, was teilweise hier in der Fabrik passiert ist, in Ungarn, oft nicht so verschieden.
+Und worum es geht, ist Prozesse. Einerseits es gibt Menschen, die machen das.
+Es gibt Leute, die vermitteln ihr Wissen, egal ob es jetzt oft ist auf YouTube zum Beispiel.
+Wenn Leute sagen, ich zeige euch, wie das geht, auf YouTube, werfe ich meinen Ofen an oder repariere meinen Ofen.
+Daran geht es irgendwie, wenn so Wissen vorhanden ist, das eben in so einem Rahmen zu bringen, der irgendwie auswertbar ist.
+Das ist eine Herausforderung. Aber auch zum Beispiel, so Prozesse zu begleiten.
+Zum Beispiel, du kannst ja sagen, wir haben eine Waschmaschine, die repariert werden muss.
+Und dann kann es einfach nur abfragen, kann jemand diese Waschmaschine reparieren? Ganz blöd.
+Und jemand sagt, jo, kann ich. Einfach so, nicht als Muster als Abfrage, nicht eine gemusterte Tätigkeit.
+Sondern einfach nur, ich kann das. Ich habe das Wissen dazu. Und dann macht die Person das.
+Und dann funktioniert die Waschmaschine wieder. Und dann kann man abfragen danach, was, wenn dieses Problem gelöst wurde,
+wie hast du das gemacht? Was hast du dafür gebraucht? Kannst du die Schrift beschreiben?
+Und entweder die Person macht es dann oder sie macht es nicht.
+Es werden ja in diesem Prozess des Vorstellungs und Tätigkeiten parallel immer Mittel abgefragt,
+zu sagen, das Fahrrad wieder. Es wird abgefragt, kann jemand ein Fahrrad reparieren?
+Aber daneben wird auch noch abgefragt, hast du Zugriff auf ein Fahrrad, das zu teilen könntest?
+Weil Leute natürlich nicht alles, was sie zu Hause liegen haben und vielleicht nicht brauchen,
+einfach so mal eben in eine Software-Datenbank einspeisen, einfach dann noch mal nachhelfen,
+einfach um diese Informationen zu bekommen. Oder zum Beispiel weißt du, wie ein Fahrrad verfügbar gemacht werden kann?
+Also hast du das Wissen darüber, wie es noch funktioniert mit Informationen, die quasi vielleicht noch nicht bekannt sind?
+Und wenn du das weißt, kannst du es beschreiben. Und dann reicht auch am Anfang eine grobe Beschreibung,
+die dann durch andere Leute, die sich wieder in Tätigkeiten annehmen, angepasst werden kann.
+Also die Komplexität hört nicht auf. Die Komplexität ist eine Herausforderung, mit der man auf ganz unterschiedlichen Weisen umgehen muss.
+Genau, und das ist halt eine Aufgabe, würde ich sagen, für uns im Projekt.
+Deswegen wollen wir auch echter, also jede Person, die es hört und meint, unterstützen zu können,
+wir haben echt viele offene Baustellen, wo wir einfach Lösungen suchen.
+Wir haben diese Struktur, wo wir glauben, dass es so mit so einer Struktur erst mal tendenziell möglich ist,
+sich außerhalb von Eigentum, außerhalb eben von Jenseits zum Markt und Staat, wie der Common-Slogan so ist,
+organisieren können, wie wir uns effizient organisieren können, wie einfach frei gelebt werden kann,
+wenn es einfach nichts zu tun gibt, für niemanden irgendwas zu tun gibt, wo ich sagen kann, ich kann mich dort einbringen,
+wo ich es persönlich als wichtig erachte, und sonst mache ich halt nichts. Also dieses freie Leben, wie ich es bezeichnen würde.
+Wir haben da eine Grundstruktur, und jetzt müssen wir irgendwie gucken nach Werkzeugen, wie das angewendet werden kann erstens.
+Erstens Bereiche erschließen, wo es überhaupt heute sinnvoll ist, wo es überhaupt möglich ist, so zu handeln,
+und dann Werkzeuge zu konzipieren und technisch umzusetzen und mit einem entsprechenden Userdesign und so etwas greifbar zu machen,
+dass die Anwendung irgendwie einfach ist und trotzdem eben diese Probleme löst, vor denen wir stehen.
+Ja, ich muss noch ein bisschen leider nachbohren, auch in der problematischen Richtung,
+weil eine Sache, die sich ja natürlich da dann auch total aufdrängt, ist die zum Beispiel eine Frage langfristiger Planung.
+Ja, also wir haben jetzt da uns bisher bewegt in Beispielen, die dann doch eher wieder irgendwie überschaubar sind.
+Ja, aber letztlich ist es ja schon so, dass ihr abzielt auf eine Gesellschaft,
+in der das Commoning eigentlich am Ende dann die hegemoniale Bezugsform ist, wenn man so will.
+Ja, also das wäre irgendwie auf eine Art ja dann doch das Idealszenario.
+Und dafür gelte es dann aber durchaus noch andere Fragen zu beantworten,
+die natürlich indirekt dann auch immer mit dieser Frage der Komplexitätsbewältigung zu tun haben
+und der Frage, ob es nicht höherstufige Formen der Koordination braucht,
+die dann sich eben anderer Mechanismen vielleicht auch bedient, die eben diese Komplexität vielleicht anders adressieren und so weiter und so fort.
+Und eben ein Beispiel, an dem man das vielleicht dann halt noch mal festmachen könnte,
+wäre die Frage der langfristigen Planung von zum Beispiel großen Infrastrukturprojekten.
+Also wie ist das überhaupt denkbar, dass so etwas wie eine ICE-Trasse von Wien nach Hamburg gebaut wird?
+Da muss ich immer mal wieder pendeln, deswegen nehme ich das jetzt ganz uneigennützig.
+Wie ist das quasi denkbar, dass sowas angegangen wird?
+Bisschen eine gemeine Frage, aber sie muss gestellt werden.
+Das ist eine coole Frage. Das Spannende ist ja wie wir, wir fangen an bei so der Tätigkeit aus dieser Richtung.
+Also wir kommen nicht irgendwie so von diesen großen Projekten und gehen dann irgendwie so ins Kleine,
+wir fangen vom Kleinen an und dann wird es vielleicht auch mal ins Große gehen.
+An sich, ich würde jetzt einfach mal sagen, vielleicht kann ich zwei Richtungen aufmachen, ich bin mir noch nicht sicher.
+Erstens, was wir machen, ist ein Werkzeug zu einem bestimmten Zweck, so Tätigkeitskooperationen auch,
+die sehr arbeitsteilig an sich sein können, aufzumachen.
+Wenn du das möchtest, wenn du sagst, du hast dieses Projekt, du willst diese Autobahn oder diese Zugverbindung von Hamburg nach Wien oder was das war,
+dann ist es einerseits, ich meine, das betrifft echt viele Leute und echt viele Leute, die auch diese Software nicht verwenden.
+Das muss ich einfach mal echt super vorausstellen, damit man nicht glaubt, wir würden irgendwie ein Modell bauen,
+wo alle Menschen müssen diese Software verwenden. Ich finde das total wichtig, weil das ein sehr häufiges Missverständnis ist.
+Wir wollen nicht irgendwie, dass diese Software hegemonial wird oder sowas.
+Diese Softwarebeziehungen, wir bauen Softwarewerkzeuge, damit Leute, die sich besonders nicht kennen, die einander unbekannt sind,
+miteinander kooperieren können zur gemeinsamen Bedürfnisbefriedigung.
+Und das ist ein Werkzeug, das existiert neben anderen Formen des Communinks, wird hoffentlich existieren neben anderen Formen des Communinks.
+Das heißt, die Frage ist, ist die Verwendung dieses Softwarewerkzeugs sinnvoll, um sowas wie eine Zugverbindung von Hamburg nach Wien zu bauen?
+Erstmal weiß ich nicht. Vielleicht gibt es andere Prozesse, die für solche einschneidenden Dinge größer sind.
+Du könntest sagen, du machst einen, es gibt diesen verteilten Planungsprozess, der quasi so diese Aufwandsgeschichte abfragt nach Problemen.
+Ja, nein, da gibt es keine Muster dafür. Kann ich mir nicht vorstellen.
+Kann ich mir jetzt gerade nicht vorstellen. Vielleicht kommt es irgendwann anders.
+Aber erst mal über diesen verteilten Planungsprozess kann ich mir das nicht vorstellen.
+Ich kann mir vorstellen, dass man Tätigkeitskomplexe vorschlägt, so als Ganzes, die nicht quasi so Stück für Stück entstehen durch den geringsten Aufwand,
+sondern quasi ich schlage vor, dass wir diese komplexen Tätigkeiten machen, wozu sich dann quasi zu den einzelnen Tätigkeiten Schritten,
+die es ja quasi mit sich bringt, zu einer Trasse zu bauen, wieder Leute zuordnen und miteinander ins Gespräch kommen können.
+Das wäre an sich möglich. Aber das muss ich echt sagen.
+Ich kann diese Komplexität, diese Schwere, so eine Entscheidung zu treffen, könnte ich jetzt so aus dieser Ebene nicht treffen.
+Und ich weiß nicht, ob diese Softwarewerkzeuge, ich glaube, man braucht ein Softwarewerkzeug, um solche Dinge zu unterstützen und solche Gespräche dorthin zu unterstützen.
+Ich weiß nicht, ob wir das schon in der Konzeption drin haben. Ja, Punkt.
+Ich glaube, das wäre in Sachen für den fünften Teil, über den ich irgendwann in einem Jahr hoffentlich, wenn diese andere ist, andere zurück abgeschlossen ist, nachdenken kann.
+Aber eigentlich ist das echt groß. Ich würde fast sagen, es ist ein zu großes Problem, dass ich das mit der Softwarevermittlung gerade denken kann und noch dahinter stehe.
+Macht ja auch nichts. Also du hast ja explizit darauf hingewiesen, dass das auch gar nicht der Anspruch wäre, dass ihr glaubt, dass man mit diesem Global Commoning System jetzt schon,
+also mit dieser Software, die das eben darstellt, damit sozusagen alle Bereiche des Commoning grundsätzlich abdecken können muss sozusagen.
+Ich meine, wobei jetzt, wenn ich nachdenke, der Name natürlich schon so ein bisschen Global Commoning System im Grunde ein, der auf die globale Ebene verweist und da dann eigentlich solche Fragen der Metacoordination eben aufkommen.
+Und ich glaube, sie sind einfach inherent sozusagen in dieser Struktur natürlich eben poppen sie auf.
+Also wie, wie eben man eigentlich. Ja, so sagen wir mal einfach auch klassische Fragen der, wenn man so will, Socialist Calculation Debate,
+wie solche Fragen halt innerhalb des Commonings irgendwie beantwortet werden können.
+Und das sind eben Fragen nach zum einen Komplexitätsreduktion, Fragen nach gibt es eine Universal Unit of Account, wenn man so will, anhand derer verschiedene Produktionsmechanismen verglichen werden können.
+Und das sind ja dann wiederum Fragen, die mit der von dir auch schon angesprochenen Effizienz verbunden sind.
+Und das sind, glaube ich, alles samt Dinge, die natürlich dann auch aufpoppen, wenn man so etwas wie ein Global Commoning System vorschlägt.
+Ja, vielleicht machen wir es mal an der Frage des Aufwandes fest, weil das ja doch durchaus eigentlich ein neuralgischer Punkt wäre, gerade in Bezug auf die gerade angesprochenen Themenkomplexe.
+Du hattest vorhin beschrieben, dass die Software eben die verschiedenen Tätigkeitsmuster, die vorgeschlagen oder die existieren, um ein bestimmtes Bedürfnis zu befriedigen,
+dass die Software diese priorisiert vorschlägt anhand des dafür notwendigen Aufwandes.
+Wie wird denn dieser Aufwand definiert? Also das ist ja dann eigentlich schon mal ein zentraler Punkt, weil das ja dann letztlich eigentlich ganz entscheidend den Selektionsmechanismus natürlich beeinflusst.
+Finde ich eine super spannende Frage, was sich da auch was getan hat. Und zwar am Anfang habe ich quasi dieses Ding, diesen verteilten Platungsprozess quasi, wo der Aufwand eine Rolle spielt,
+dass die Software diese Tätigkeiten, diese Szenarien sortiert und quasi nacheinander vorschlägt. Ich bin hin und habe mir Gedanken gemacht, was das denn für ein Aufwand hat,
+der meines Wissens keine Einheit, der Aufwand an sich, die Anstrengung vielleicht an sich, die Anstrengung vielleicht schon mehr.
+Genau, und dann habe ich mir Gedanken gemacht, was das für eine Einheit sein könnte und habe dann für die Zeit argumentiert einfach ganz grundlegend,
+was leicht zu messen ist von jeder Tätigkeit, was sich schon sehr nahe mit dieser Effizienz gekoppelt ist. Und genau, aber es ist auch abschätzbar.
+Ich kann sagen, ich habe das und das gemacht. Ich kann sagen, ich habe dafür ungefähr 30 Minuten gebraucht. Andere sagen, ich brauche dafür ungefähr 40 Minuten.
+Dann wird irgendwie so ein Schnitt draus gemacht, die dann quasi für diese Tätigkeit allgemeingültig gilt. Aber das ist ein Problem, habe ich eben festgestellt.
+Schon am Anfang, als das aufkam, kam jemand quasi auch aus dem Cominstitut und meinte, wäre Energie nicht die bessere Einheit?
+Also Energie, die irgendwie verbraucht wird in dem Prozess und da quasi eine Energieorientierung. Und ich dachte mir, kann schon sein, aber ich wüsste jetzt nicht,
+wie viel Energie ich verbraucht habe, wenn ich in bestimmter Tätigkeit nachgegangen bin. Kann ich einfach nicht sagen. Und dann war ich in einem Hacker-Space und habe das Projekt vorgestellt.
+Und die meinten, warum denn Zeit? Du kannst ja auch irgendwas, I don't know, was sie gesagt haben, das war irgendwie, da war es eine Komplexität hatte, was auch Google Maps benimmt zur Routenberechnung,
+was nicht nur eine Größe hat, sondern auch irgendwie auf drei verschiedenen Größen aufbaut. Ich glaube, es ginge nicht darum, was die Einheit ist, sondern hauptsächlich, dass irgendwie komplex berechnet wird.
+Und da habe ich gemerkt, dass es echt, diese Struktur, die quasi konzipiert wird erstmal, es gibt zwei Unterschiede. Einerseits die Konzeption von dieser Struktur quasi, welche Werkzeug es braucht und so weiter.
+Und dann eben die konkrete Umsetzung, die wir im Projekt langsam angehen. Und ich finde, die Konzeption darf eigentlich keine persönlichen Entscheidungen beinhalten.
+Also dass ich sage, das und das ist eine gute Einheit und eine gute Regel. Und so wird das gemacht, weil ich bin jetzt irgendwie, I don't know, der Vordenker oder der Autor.
+Und deswegen habe ich da jetzt irgendwie diese Macht, das ist Käse. Wir haben die Problematik, wir haben das Gemeinsame, mit dem wir umgehen wollen, wo wir effizient darin kooperieren wollen und so was.
+Und ich versuche innerhalb dieses Rahmens, was durch das Gemeinsame einfach vorgegeben wird, die Problemstellungen, die quasi außerhalb des Eigentums und dieser willkürlichen Bestimmungsrechte über Dinge sind, Werkzeuge zu finden, wie damit umgegangen werden kann.
+Und solche Fragen wie, ja, also was ich als Gutdach das antworten, spielt eigentlich gar keine Rolle. Was die Software erstmal können muss, ist oder die Konstitution erstmal können muss, ist sämtliche Meinungen und Haltungen, die man in solchen Fragen haben kann, aufnehmen können.
+Damit umgehen können, dass Leute, wie jetzt, ich finde, Linux ist so das Beispiel, das ist ein Kernel, der spricht diese ganzen Treiber an. Also ich finde auch, es funktioniert auch auf die Weise als Beispiel, weil du auch die Welt mit den gegenständlichen Mitteln darin, kannst du vielleicht das Hardware sehen.
+Und dass diesen Kernel von Linux, der diese verschiedenen Dinge ansprechen kann, aber die Distribution, also das ob du jetzt Ubuntu hast oder Debian oder keine Ahnung, Fedora oder sonst irgendwas, werden da draufgesetzt.
+Die haben verschiedene Richtlinien, die haben verschiedene Flight-Haltungen, die gehen verschiedene Informationen um. Aber wenn es jemandem nicht passt, wie ein Projekt damit umgeht, dann machen die ihr eigenes Projekt, ihre eigene Instanz, ihre eigene Distribution davon.
+Wichtig ist, natürlich zur Effizienz oder wünschenswert, dass die weiterhin miteinander kommunizieren, dass diese Kommunikation, diese Interoperabilität nicht abbricht. Aber an sich sollte es oder muss es möglich sein, dass wenn Leute sagen, wir wollen das mit Energie machen, diesen Planungsprozess, wir wollen das mit irgendwas Komplexem machen, diesen Planungsprozess, soll das erstmal ermöglicht werden, weil ich keine Befugnis habe.
+Da irgendwelche Entscheidungen zu treffen. Ich versuche nur ein grobes Skelett aufzubauen von Werkzeugen, wie wir uns in diesen gemeinsamen koordinieren können. Genau deswegen der Aufwand, quasi der geringste Aufwand, das heißt gerade die Prozessplanungseinheit als Lehrstelle dafür, was auch immer für eine Einheit genommen wird.
+Nach der wird das quasi dann sortiert. Ich nehme im Text persönlich immer die Zeit. Ich finde, die Zeit hat viele Vorteile, aber das ist exemplarisch. Genau.
+Das schließt jetzt also die Art, wie du geantwortet hast, schließt eigentlich wieder an Anfang unseres Gesprächs an, wo ich eben versucht habe zu eruieren, wie weit eben doch innerhalb dieser Logik der von euch vorgeschlagenen Strukturen es.
+Ein in Anführungsstrichen zentralistisches Element geben muss, um diese Interoperabilität eigentlich gewährleisten zu können und wie viel man eben an die distribuierten Einheiten, die dezentralen Einheiten über antworten kann, also auch notwendigerweise sollte, um da die notwendige Autonomie in Bezug auf entscheidende Fragen quasi aufrechtzuerhalten.
+Das schließt, finde ich, glaube ich, jetzt sehr stark daran an, weil ja natürlich auf deine Frage auf deine Antwort jetzt eingehend sich die Frage stellt, inwiefern diese Interoperabilität da nicht flöten geht, wenn eben alle unterschiedliche Maße verwenden, wenn man so will, um die Frage des Aufwandes zu beantworten.
+Und das wird ja dann relevant, wenn eben solche Dinge wie Fragen der Vergleichbarkeit ins Spiel kommen und zwar Fragen der Vergleichbarkeit über diese Grenzen hinweg der einzelnen Instanzen.
+Hast du es jetzt, glaube ich, genannt, die für sich dann eben ein eigenes Game quasi entscheiden und sagen Nee, aber wir wollen nicht Zeit, sondern wir wollen Energie oder was auch immer.
+Ja, stellt sich ja dann eigentlich die Frage, inwiefern sich da Probleme der gegenseitigen Bezugnahme ergeben.
+Das ist sozusagen mal einfach die grundsätzliche Frage, und sie wird vor allem dann auch virulent, wenn man zu dem Bereich kommt, den wir in dem wir jetzt dann vielleicht auch damit eigentlich mit einbiegen können, nämlich wenn man in diesen in diesen Fragenkomplex der Priorisierung von Bedürfnissen eben einbiegt.
+Wo ihr innerhalb eures Projektes, so ich das richtig verstanden habe, ja dafür plädiert, dass es durchaus zumindest in der Transformationsphase auch Möglichkeiten der Priorisierung bestimmter Bedürfnisse gegenüber andere geben solle.
+Und da gibt es dann verschiedene Kriterien dafür, wann eine Priorisierung sinnvoll ist, wenn Leute auch in kommending sich betätigen, wenn sie andere nachvollziehbare Bedürfnisse haben und so weiter und so fort.
+Aber das hängt auf eine Art zusammen, denke ich, weil ja sozusagen, wenn über einzelne Projekte hinweg es da Koordinationsmöglichkeiten geben soll, man aber für sich keine.
+Geteilte, wenn man so will, Bemessungsgrundlage hat, es da eventuell ja eben Kompatibilitäts Schwierigkeiten gäbe und das und dann habe ich sozusagen den Fragenkomplex abgeschlossen, hängt vielleicht dann wiederum mit der Frage zusammen.
+Inwiefern eine allgemeine Buchhaltung in Zusammenhang steht mit der Frage der Priorisierung von Bedürfnissen, also wie eng ist das geführt?
+Also sagt man einfach nur Aha, okay, diese Person ist auch in anderen kommenden Projekten involviert und deswegen ist sie grundsätzlich berechtigt, auch priorisiert zu werden bei der Frage, inwiefern ihr Bedürfnis befriedigt wird, ja oder nein, ab wann, zu welchem Grad, für wie lange und so fort.
+Das waren jetzt viele Fragen in eins gepackt, aber ich glaube, sie hängen durchaus miteinander zusammen.
+Ja, auf jeden Fall. Ich glaube erstmal, das finde ich ganz wichtig, ganz am Anfang schon festzuhalten, diese Bedürfnis Priorisierung, die wird im Auslendungsdrang angedacht.
+Ja, das ist quasi die Bedürfnisse von denjenigen, die sich einbringen aktiv und gemeinsam es schaffen, auf das ja auch wieder mehr Leute zugreifen können, dass die Bedürfnisse von denen quasi, ich habe da das Wort mechanisch benutzt,
+dass die mechanisch irgendwie in den Vordergrund gerückt werden.
+Das war so der Gedanke damals, um so eine Transformation zu ermöglichen. Davon sind wir weggekommen.
+Ich würde dann, das würde ich nur ganz am Anfang sagen, vorher noch zur Interoperabilität dieser einzelnen Instanzen oder Systeme oder die sich verschieden vielleicht auf Aufwand beziehen.
+Ich bin mir ehrlich gesagt nicht sicher, inwiefern das Problem im Rahmen von gemeinsamen, von Commons konstruiert ist.
+Aber weil ich auch sehr, sehr lange damit gekämpft habe. Aber die Software gibt ja, was durch diesen verteilten Planungsprozess geschieht, sind immer nur Vorschläge.
+Also die wäre diese Tätigkeiten aus, nach ihrem geringsten Aufwand schlägt die dann quasi verteiligend vor.
+Das heißt nicht, dass nur die Software das vorschlägt, zum Beispiel Fahrrad reparieren, dass ich nicht sagen kann, ich sehe das und denke mir, nur ich mache irgendwas anderes.
+Ich baue halt irgendwie das Fahrrad neu. Das ist jetzt keine vorgestarkene Tätigkeit. Ich mache das einfach, weil die Software kommuniziert dann nur mit mir.
+Die hat ja keine Bestimmungsrechte, wie diese Mittel verwendet werden können.
+Es ist eine Hilfestellung, um mich in diesem Bereich das gemeinsam orientieren zu können, um zu wissen, für mich irgendwie, das ist jetzt eine sinnvolle Tätigkeit oder das ist keine sinnvolle Tätigkeit.
+Aber das heißt nicht, diese Tätigkeit wird durchgeführt oder keine Tätigkeit wird durchgeführt.
+Das sind einfach nur Vorschläge, die in einer bestimmten Reihenfolge gemacht werden.
+Und dann kommen wir zum Beispiel, was ich super, super spannend fand irgendwie als so kleine Erkenntnis in diesem Konzeptionsprozess, der jetzt echt seit dreieinhalb Jahren geht.
+Ich dachte, der wird nach einem halben Jahr abgeschlossen, jetzt stecke ich da drin.
+Was ich super spannend fand, ist diese Idee von, da ist eine Person, die hat zum Beispiel viel geleistet und ich baue da jetzt das Fahrrad.
+Ich mache das jetzt, ich baue jetzt das Fahrrad für diese Person.
+Dann hat diese Person ein Fahrrad, weil sie viel geleistet hat.
+Das geht schon schief im Rahmen von Gemeinsamen.
+Das ist schon insane, weil ich auf Gemeinsamen erstmal aufbaue, also ich verwende Dinge, die auch das Gemeinsame von anderen sind.
+Ich gebe durch meine Tätigkeit, gebe ich quasi eine Richtung vor.
+Ich sage, ich könnte auch meine Tätigkeit in eine andere Richtung.
+Ich könnte auch nichts machen.
+Ich könnte auch Wäsche waschen.
+I don't know.
+Irgendetwas anderes machen.
+Aber ich entscheide mich, ein Fahrrad zu machen, weil eine Person, die viel geleistet hat, ein Fahrrad zu braucht.
+Das heißt noch nicht, dass ich darüber bestimmen kann, weil wir uns im Gemeinsamen bewegen.
+Es könnte immer noch irgendein anderes hinkommen und sagen, jetzt mal bei wirklich hardcore offener Verfügung gedacht, was nochmal ein eigenes Thema ist.
+Aber an sich im Rahmen von Gemeinsamen kann einfach irgendein anderes kommen und einfach mitreden, wie dieses Fahrrad verwendet wird.
+Nur weil ich das Fahrrad jetzt repariert habe oder neu hergestellt habe, heißt es nicht, dass es in dem Moment mein privates Eigentum ist.
+Sondern ich auf einmal willkürliche Bestimmungsrechte habe, die wir heute in eigentümlichen oder auf Eigentum beruhenden Gesellschaften kennen.
+Es ist wieder gemeinsam.
+Es stellt sich erneut die Frage, wenn ich es gemacht habe, ob das jetzt an die Person geht, die viel geleistet hat.
+Oder an die Person geht, die irgendwie jeden Tag ihre drei Kinder mit dem Fahrrad zum Kindergarten fahren muss.
+Ich habe nicht das Recht, alleine darüber zu bestimmen, was mit dem geschieht, was ich mache.
+Und das finde ich erst mal als kleine Zwischenerkenntnis, wenn wir uns im Raum des Gemeinsamen bewegen, total wichtig.
+Und das ist auch bei Fragen, wie beziehen wir uns auf den Aufwand und an diese Buchhaltung, die du gesagt hast.
+Und über diese Buchhaltung wird dann gesagt, wer hat Zugriff auf was und wer hat nicht Zugriff auf was, weil die Person zu unsuviel geleistet hat usw.
+Das sind ganz viele andere Ebenen noch.
+Und da wird es wirklich der nächste hartkomplexe Bereich.
+Diese Ebene der Regelsetzung.
+Dies will ich jetzt, aber ich mache es kurz auf.
+Da denke ich gerade wirklich die letzten acht Monate oder sieben Monate meines Lebens denke ich nur darüber nach, wie man über die Regelsetzung gemeinsam passieren kann.
+Und versuche irgendeine Struktur für mich reinzukriegen und kriege das kaum gebacken.
+Langsam, gestern saßen wir so da und hatte so einen kurzen Moment, wo ich dachte, ich komme mit der Klarheit rein.
+Und ich finde auch eine Struktur, wie ich das irgendwie klar vermitteln kann und I don't know, werde ich wieder verwerfen in einem Monat.
+Aber Regelsetzung im Gemeinsamen ist ein total insane Geschichte.
+Im Eigentum ist es einfach.
+Ich bleibe mal kurz, ich fahre mal diesen Zug weiter, ich hoffe, das ist okay.
+Ich kann sagen, das ist mein Auto.
+Ich kann sagen, das ist mein Auto oder das ist zum Beispiel das Auto von mir und meiner Freundin.
+Wir sprechen uns ab im Gemeinsamen.
+Dann kommen noch zwei Leute dazu, denen wir quasi die Nutzung gewähren.
+Das ist gewährte Mitnutzung.
+Und das einfach, weil ich trotzdem die Regeln setzen kann.
+Bei gewährter Mitnutzung, ich gebe meinen Freunden, sage ich, ihr dürft das Auto auch verwenden, am Wochenende, wenn ich nicht da bin.
+Das lege ich einfach so fest und dann gibt es diese Regel, dass die quasi am Wochenende das Auto, wenn ich nicht da bin, selbst verwenden können.
+Es kann jemand sagen, ich zahle dir 100 Euro im Monat.
+Wir machen das irgendwie vertraglich.
+Und die Person zahlt mir 100 Euro im Monat und darf dafür irgendwie fünf Tage im Monat auch mein Auto verwenden.
+Würde ich so als durchsetzungsfähige Mitnutzung beschreiben.
+Also je nachdem, ob diese, vielleicht wenn diese fünf Tage festgelegt sind, dann begegnen wir uns da auf Augenhöhe.
+Das heißt, wenn wir unsere Nutzung koordinieren müssen von diesem Auto und die Person zahlt mir Geld dafür, genau zu dem Zweck, das Auto mitzuverwenden.
+Und das ist eigentlich mein Eigentum, deswegen habe ich auch diese Verwendungsrechte.
+Dann müssen wir das irgendwie unter uns klären.
+Aber diese Rahmen sind so ganz klar vorgegeben, die werden abgestimmt.
+Man kann sagen, zum Beispiel ein Eigentümer kann seine Entscheidung immer durchsetzen gegenüber einen gewährt Mitnutzenden.
+Sowas kann ich sagen im Bezug auf Gemeinsames in eigentümlichen Strukturen.
+Aber wenn wir uns dann in Strukturen der offenen Verfügung, wo einfach tendenziell alle Menschen irgendwie über alles mitbestimmen können, was die irgendwie betrifft,
+also die Utopie, wenn ich das sagen darf, dass ich durch die Straße gehen kann und es sind Dinge und das betrifft mich irgendwie und ich kann in so einen Prozess mit reingehen,
+wie mit diesen Dingen umgegangen werden kann, ist für mich natürlich, dass ich quasi über die Dinge, die mich betreffen, mitentscheiden kann, mitreden kann.
+Aber auch da müssen Regeln gesetzt werden können.
+Die Frage ist, was sind das Regeln, die von anderen akzeptiert werden, weil wenn es ein Gemeinsames gibt,
+ich sage mal ein Auto, auf das potenziell jeder zugreifen kann, jetzt mal wirklich als dieses Ding.
+Und ich sage irgendwie und drei Freunde, wir sagen uns, wir nehmen das Auto und ihr nehmt es Montag bis Sonntag.
+Ich und mein Freund, wir nehmen das Samstag Sonntag und wir setzen diese Regeln auf das Auto und dann kann ja irgendwer anderes kommen und sagen,
+ich benutze das Auto irgendwie fünf Tage die Woche und es sind meine Regeln und ich kann die genauso auf das Auto anwenden.
+Es gibt keinen Grund, warum dessen Regeln schlechter sein sollen als unsere Regeln.
+Also wie können wir, wie kann dieser Zustand erreicht werden, dass Regeln akzeptiert werden?
+Also wir brauchen da eigentlich auch, ich finde es so aus wie eine Verfassungsebene, ist so bei Gemeinsamen total wichtig,
+wie letztendlich geklärt werden kann, wenn es widersprechende Regeln über das selbe Ding gibt.
+Ja, wie damit umgegangen wird oder wie so ein Ding über das Regeln getroffen werden, vor Einhegung geschützt wird.
+Dass andere nicht mehr darüber entscheiden können, dass es so Momente, Klauseln, keine Ahnung gibt, wie wenn Regeln getroffen werden,
+die zu eng sind, die andere einfach zu sehr ausschließen, einfach wieder aufgelöst werden können.
+Egal wie diese aussehen, das ist ein furchtbares Problem.
+Aber wie ist das denn jetzt gerade gelesen? Also ich meine, es gibt ja existierende Comments.
+Also das ist ja wie so auf eine Art archätypisch dieser Mythos von der Tragedy of the Comments.
+Also das war ja quasi die Erzählung, als würde das dann passieren, die damals der Hardin in seinem Paper quasi so getan hat, als sei es so.
+Als kämen dann eben alle und dann würde alles quasi in Katastrophe enden und in Übernutzung und dadurch nicht nachhaltig sein.
+Und das war ja eigentlich, wenn ich das richtig erinnere, eigentlich genau der Punkt, wo dann Elena Ostrom gesagt hat, ja, aber nein, so ist es ja nicht.
+Sondern es gibt sehr wohl beobachtbare Mechanismen, wie genau diese Fragen adressiert werden.
+Es ist ja keine Regellosigkeit, die da jetzt vorgeschlagen wird, sondern es gibt sehr wohl Strukturen, die genau diese Problematik eigentlich versuchen zu adressieren.
+Und ist jetzt das, was du sagst, dass im Grunde ein neues Problem entsteht, wenn man diese Logiken auf die transpersonale Ebene ziehen will.
+Also wie man diese Regeln dann trotzdem noch erzeugen kann, wie die aussehen können und wie man erwirken kann, dass sie de facto dann auch umgesetzt werden.
+Oder wie unterscheidet sich das von dieser Problematik, die klassischerweise den Commons zumindest früher lange Zeit vorgeworfen worden sind?
+Hast du mal diesen Text von Harding gelesen?
+Nee, habe ich nicht.
+Das ist ein furchtbarer Text.
+Ja, das glaube ich sofort.
+Also es ist wirklich furchtbar, wie der sich so verbreiten konnte.
+Das ist echt, also wenn man gelesen hat, hat man echt keine Ahnung, wie das geschehen konnte.
+Ja, der war nützlich halt.
+Der ist ja nützlich für eine bestimmte Argumentation.
+Aber es ging ja gar nicht um Commons.
+Es ging ja darum, die Weltbevölkerung einzuschränken.
+Das Anliegen von dem Text war, dass quasi gebotene Kontrolle eingesetzt wird.
+Und dann hat er so nebenbei dieses Commons-Beispiel aufgemacht mit diesen Hürden.
+Und dann hat irgendwie und dieser ganze, wie weiß ich, jeder Vorteil, das mitzuverwenden.
+Aber die Kosten irgendwie teilen sich auf alle auf.
+Deswegen ist es egal.
+Und deswegen sind wir gezwungen.
+Ja, es wird jetzt lockt in, quasi in diese Situation, wo wir quasi das übernutzen.
+Das ist ja ein ganz, ganz furchtbarer Text.
+Aber klar, das hat sich eingebrannt.
+Aber und das stimmt ja auch.
+Also es ist ja auch, es ist jetzt nicht nur Quatsch.
+Ja, also dieses, wenn wir nicht miteinander kommunizieren, dann hat er auch mit manchen Recht.
+Das kann ja auch nicht gesagt werden.
+Und Ostraum hat ja dann diese Commons erforscht, wie es in der Praxis aussieht und wie das quasi gemacht werden kann und so weiter.
+Oder wie es in der Praxis geschieht tatsächlich.
+Und dann ist er rumgeflogen, hat sich verschiedene Commons-Projekte auf der ganzen Welt angeschaut.
+Ja, also oft irgendwas, was irgendwie Gewässer, ja, so gemeinsam ein Fisch fangen an der Küste und so was.
+Oder eben in der Schweiz irgendwelche Almende oder genau.
+Und was er gemacht hat am Ende, was er quasi ihr großes Ding war, ist diese Design-Prinzipien für langlebige Commons-Institutionen herauszustellen.
+Diese acht oder neun Stück, ich bin mir jetzt gerade gar nicht sicher.
+Und da zu sagen, okay, wenn, also Commons gehen schief, sagt sie ja.
+Also Commons gehen schief, beschreibt sie, warum die schief gehen und so weiter.
+Andere beschreibt sie, warum sie einfach gut gehen.
+Und dann sagt sie, okay, die Gemeinsamkeit von Commons-Projekten, also der Bezug von mehreren Leuten auf Gemeinsames, hat eben, ich kann bestimmt Prinzipien fassen.
+Wann es gut geht und wenn es tendenziell nicht gut geht.
+Und da geht es zum Beispiel darum, es ist quasi klar, welche Personen sich auf das Ding als Gemeinsames beziehen.
+Also wen das einschließt und wen das ausschließt auch.
+Das ist ja, sie ist ja nicht in der Ebene von dem, was Meretz, glaube ich, auch und ich als offene Verfügung bezeichnet würde.
+Und irgendwie alle können irgendwie potentiell irgendwie auf diese Dinge zugreifen.
+Weil es also bei Meretz kollektive Verfügung, ich bin mir jetzt nicht sicher, ob es so einen Beschied gibt.
+Und genau, da macht sich schon mal konkret fest, quasi bei diesem Auto-Beispiel, wenn wir wieder sind.
+Es gibt einen klar definierten Kreis von Personen, die das Recht haben, auf dieses Auto zuzugreifen.
+Und andere, die es nicht haben. Und damit setzt sich schon mal eine Grenze, auch eine Komplexitätsgrenze, wenn man so möchte.
+Oder bei ihr ist es keine Komplexitätsgrenze, sie sagt einfach, dann funktioniert es und dann funktioniert es tendenziell nicht so gut.
+Und das Problem jetzt, das ich da jetzt aufgemacht habe in dieser Rede von vorhin, ist jetzt kein transpersonales oder interpersonales Problem.
+Tatsächlich ist es ein Problem der offenen Verfügung.
+Das Konzept ist an offener Verfügung und dieses, wo wir nicht sind.
+Jetzt, es gibt konkrete, es gibt Kunstprojekte, das ist aber meistens klar.
+Also es gibt diese klassischen, die Ostrom beschreibt und so was, da ist meistens klar, wer die Fischer sind und so weiter.
+Oder wer die Leute sind, die auf diesem Dorf leben und die in Schweiz, in Tölpe oder so was, wo sie es beschreibt, da gibt es auch ganz klare Regeln.
+Dass die Leute, die irgendwie zuziehen, da irgendwie ausgeschlossen werden für, was weiß ich, drei Generationen oder so was.
+Das ist ja, kommen sie da keinen, also besonders bei Ostrom sind da kommen sie keinen, ich weiß nicht, Ponyhof.
+Da wird sich auch, wenn es irgendwie um die Verteidigung von Rechten geht, irgendwie mal abgestochen oder so was.
+Also beschreibt sowas an Fischergründen. Und das ist dann auch okay, weil es ja irgendwie, also nicht okay, es ist keine moralische Betrachtung,
+sondern es geht halt darum, diese Regeln quasi in Stand zu halten. Und genau, was jetzt so das Problem ist, ist halt,
+wie können wir das so auf einer, wegbringen von diesem Ostrom, hat er nie, Ostrom war ja nicht irgendwie in der Gesamt-, in der ganzen Gesellschaft.
+Ostrom war keine Kommunistin. Sie hat nicht gesagt, kommens überall. Und für sie gab es immer den Markt.
+Ja, aber für sie gab es auch den Staat und die staatlichen Situationen. Und sie hat einfach nur angeguckt, was macht das Kommens da drin?
+Ja, wir versuchen darüber hinauszugehen. Ich finde, Silke Helfrich hat ja zum Beispiel schon in die Richtung gearbeitet mit den Muster des Commandings.
+Weg von diesen klar definierten Dingern, Muster des Commandings, was ist gemeinsam zwischen den verschiedenartigsten Comments, Projekten
+und was sind, was sind einfach, worauf kann ich mich wieder beziehen, um überhaupt zu sagen, dass es ein Commons ist.
+Das ist ja da auch eine ganz eigene Herangehensweise. Die Muster des Commandings sind echt ein, was ist das Kartenzelt auch, ist echt ein unglaubliches Geschenk.
+Das ist echt so wertvoll. Das ist echt richtig, richtig wertvoll. Und was wir jetzt natürlich haben, ist halt ein ganz anderes Problem eben.
+Die Regelung auf dieser Soft-Ebene von sich unbekannten Leuten. Und erstmal spielt das auch gar keine große Rolle, weil wir erstmal in Eigentumsgeschichten sind.
+Ja, das Beste, was wir haben können, ist eine Stiftung zum Beispiel. Zum Beispiel die Munus-Stiftung hier aus Österreich, falls du die kennst, zufällig.
+Die Munus-Stiftung hat zum Beispiel einen Stiftungszweck. Der Zweck ist irgendwie die Erhaltung der Natur und Solidarität oder sowas.
+Und du kannst quasi Eigentum, das du hast, besonders da geht es um Felder oder Immobilien, kannst du entweder diese Munus-Stiftung schenken oder vererben.
+Vererben, quasi wie du stirbst, quasi schreibst rein und sagst du, wer hält die Munus-Stiftung. Die Munus-Stiftung hat das dann in ihren Privatbesitz, quasi Stiftungsbesitz, wie man auch immer dazu sagt.
+Und dann können sich Gruppen darauf bewerben, quasi dieses Feld zu nutzen, wenn sie quasi in der Verwendung dieses Dings, das dieser Stiftung gehört, die Stiftungszwecke erfüllen.
+Also dieser Zweck von Stiftung überträgt sich auf diese Mittel, die müssen angenommen werden, wenn mit denen umgegangen wird.
+Und was auch noch ein bisschen der Clou ist dabei, dass Leute, die diese Mittel verwenden und bekommen, müssen auch in den Aufsichtsrat und sind wieder Teil dieser Governance, um mit in den Prozess an wen die andere Mittel verteilt werden.
+Das ist eigentlich ganz clever gemacht, um damit umzugehen. Aber auch da hast du halt klare Regelungsstrukturen.
+Du hast auch eben Leute, die Entscheidungen treffen können, die in der Stiftung hocken, im Vorstand oder im Aufsichtsrat.
+Und das funktioniert, weil wir uns mit Eigentum, was am Ende trotzdem Eigentum ist, nur eben zweckgebunden ist.
+Wenn wir sowas nicht haben, haben wir einfach nochmal komplett neue Fragestellungen.
+Ich glaube, das ist genug zum Thema, weil das ist vielleicht gar nicht so riesig relevant, aber es ist schwierig.
+Was ich jetzt da heraus höre, ist, dass du sagst, es ist nicht relevant im Sinne von soweit sind wir noch nicht.
+Also so verstehe ich jetzt den Punkt von es ist nicht relevant, weil an sich ist es sehr relevant.
+An sich ist es mega relevant, weil es ist auch relevant, um irgendwie sich auszudenken, wie das eben, das stimmt, du hast vollkommen recht.
+Weil man muss es verstehen, wie sowas funktionieren kann, um dann eben, ich träume ja einfach von, ich weiß gar nicht, wie das funktionieren soll,
+aber wie man eine Software lizenziert, zum Beispiel mit der GNU General Public License, der GPL, wie Linux quasi,
+dass diese Software quasi, wenn sie verwendet wird, muss alles, wo diese Software enthalten ist, muss auch wieder frei sein und so weiter.
+Das ist also dadurch, dass der Linux Kernel quasi damals lizenziert wurde und dann bestimmt Lizenz, muss alles, was darauf aufbaut quasi, was es beinhaltet,
+diesen Kernel, muss auch wieder frei sein. Dadurch ist es überhaupt möglich gewesen, dass Linux entstanden ist und dieses wirklich großartige System ist,
+das wir heute haben und unabhängig davon sind von Windows oder von Mac, wenn wir das wollen, wenn wir da eben kein Geld ausgeben wollen,
+zum Beispiel und diese Freiheiten, die es eben mit sich bringt. Und das finde ich eben eine super relevante Frage dann, wie lässt sich sowas,
+wie diese Softwarelizenzen auf gegenständliche Mittel übertragen, die sich aufbrauchen. Software wird beim Teilen mehr.
+Also wenn ich mir irgendwie was auf den Softwarecenter auf meinen Laptop runterlade, dann ist es zusätzlich vorhanden auf meinem Laptop und es ist nicht irgendwo ausverkauft.
+Ist ja klar. Wenn jetzt ein Auto so eine Lizenz hätte und ich würde es benutzen, dann ist es weg für andere, also in dem Moment der Verwendung mindestens.
+Und dafür glaube ich, müssen wir uns solchen Fragen stellen. Was bedeutet das Gemeinsames? Wo sind dann akzeptierte Regeln?
+Wo sind die Gefahren der Einhegung, die Durchbrachung werden müssen? Blablabla.
+Ja, um dann irgendwie sowas entwerfen zu können, irgendwelche Formen, die halt heute funktionieren, der Eigentumsneutralisierung oder sowas,
+oder so Zwecksetzungen von Mitteln, die Bestand haben, sowas entwerfen können, dass wir sie anwenden können und diese Struktur überhaupt entsteht,
+in der es dann richtig notwendig wird oder in der es dann erst sich entfalten kann und so weiter. Also ja, insofern ist die Frage nicht irrelevant.
+Ja, ja, und auch zur allgemeinen Plausibilisierung eigentlich, weil ja im Grunde eigentlich das halt auf eine Art ja die würde ich mal denken,
+verbreitetste Angst in Bezug auf solche Vorschläge eigentlich beinhaltet.
+Also die die erste Reaktion, wenn man jetzt irgendjemanden auf der Straße sozusagen das pitchen wollen würde,
+ginge wahrscheinlich genau in also in einer skeptischen Art und Weise in diese Richtung.
+Ja, also dass man sich halt, dass man irgendwie erklärt haben wollen würde auf Basis welcher nachvollziehbaren Logik,
+wenn man so will, der Verteilungsmechanismus auch funktioniert.
+Ja, also das ist ja sozusagen was, womit wir aufgewachsen sind, wenn man so will.
+Ja, und auf das wir hierhin trainiert worden sind.
+Und alles, was überhaupt gar nicht diese Frage adressiert, wird es sehr schwer haben in einer allgemeinen Wahrnehmung als plausibel irgendwie zu erscheinen,
+weil es sonst halt eines riesengroßen Leap of Faith bedarf, einfach darauf zu vertrauen, dass sich das sozusagen dann irgendwie schon regeln wird.
+Aber du hast ja eigentlich im Grunde selber gesagt, OK, wenn jetzt eben im Grunde es eine absolut offene Verfügung gibt,
+dann ja, dann ist einfach wirklich sagen die die erste Frage, die sich sage ich jetzt einfach mal die Leute stellen.
+So ja, aber was passiert, wenn dann eben fünf verschiedene Leute sagen, aber unsere Regel für das Auto ist jetzt hier aber die richtige Regel.
+So ja, und wie einigt man sich da drauf, welches die Gültigregel ist?
+Und dann kommt danach wieder die Frage, OK, ist das sozusagen gekoppelt an die Frage, wie sinnvoll man mit dieser Ressource umgeht?
+Und daran gekoppelt ist die Frage, wie bemisst man, was sinnvoll ist?
+Daran ist gekoppelt die Frage, braucht man eine Universal Unit of Account, die klärt, ob das eine sinnvoller ist als das andere oder nicht?
+Und dann stellt sich wieder die Frage, was bedenkt diese Universal Unit of Account eben nicht?
+Beziehungsweise läuft man dadurch dann Gefahr, dass das wieder in ein Geld-Äquivalent umschlägt und so weiter und so fort.
+Also all das sind sozusagen Assoziationsketten, die bei mir sofort ratatatatata sozusagen dann losschießen.
+Ja, und die allesamt eigentlich so ein bisschen um diese zentrale Fragestellung eigentlich kreisen.
+Ja, aber das ist eh spannend.
+Zum Beispiel, wenn ich mich noch mal ganz kurz einhalten kann, weil ich den Gedanken total spannend finde mit der Universal Unit of Account.
+Wenn es das gäbe, sagen wir mal, jetzt wird sich auf eine geeinigt oder setzt sich eine durch.
+Ja, ich würde eher sagen, diese Einigungsprozess, finde ich.
+Also setzt sich eine durch quasi als Ding.
+Es ist ja nie mehr als in einer Diskussion, in welcher darüber quasi entschieden wird, was mit einem Ding gemacht wird.
+Es ist so ein Indeed, das gesagt wird, okay, wir können es dafür verwenden, wir können es dafür verwenden.
+Aber diese Universal Unit of Account schlägt diese Richtung vor.
+Und wollen wir uns hier, die wir jetzt hier irgendwie zusammensitzen, wollen wir sagen, wir haben eine andere Richtung.
+Es ist einfach hier irgendwie notwendig oder sonst irgendwas oder richten wir uns halt nach dieser Unit.
+Ja, aber sie hat also sie hat nie irgendeine Form von Durchsetzbarkeit.
+Dass sie sagen kann, ich meine, was ist denn das?
+Das ist halt irgendwas, was irgendwie softwaretechnisch irgendwo abläuft und aus irgendwelchen Informationen heraus gespeist wird.
+Sie hatte, woher sollen sie diese Governance haben oder das durchzusetzen, das in diese Richtung verwertet wird.
+Vielleicht können Situationen entstehen, wo Leute echt sozialen Druck bekommen, wenn sie sagen,
+okay, ich benutze das Auto jetzt für mich, um irgendwie, I don't know, meinen Sonntagsausflug zu machen.
+Und diese Universal Unit ist extrem hoch in der anderen Richtung, weil irgendwo ein Waldbrand ist, I don't know.
+Und dann kommt man einfach in Argumentationsschwierigkeiten.
+Aber sie kann trotzdem nie mehr als Indiz oder eine Hilfestellung in Diskussionen sein.
+Das ist die Sache.
+Und genau, welche Unit Leute in ihrem verteilten Planungsprozess verwenden usw.
+Das ist eigentlich ganz egal, weil es dann irgendwie, weil es dann in solchen Diskussionen und Verwendungen Indizien sind.
+Genau, und das mit der Entscheidung selbst.
+Genau, es gibt auch Leute, die interessieren sich einfach in Scheiß, Entschuldigung, für die Softwarestruktur.
+Die sagen, was wollt ihr mit eurer blöden Unit?
+Wir kennen das nicht.
+Wir haben hier irgendwie unsere anderen Strukturen, unsere vielleicht kommunenartige Strukturen oder sowas.
+Wir kennen uns.
+Wir brauchen das Ding jetzt.
+Und ihr kommt mit eurer blöden Unit auf Account.
+Das in der Communing ist viel Kommunikation.
+Eigentlich ist es nur Kommunikation.
+Und es gibt, es braucht Möglichkeiten, auch diese Kommunikation irgendwie zu unterstützen, dass sie nicht immer so verbal zum Beispiel ablaufen muss.
+Aber erstmal ist es einfach echt viel Kommunikation und Absprache.
+Das ist sowieso das Problem von Kommunikation.
+Das kann echt lästig sein.
+Ja, wobei ja eben halt trotzdem finde ich dann und so verstehe ich quasi das Projekt oder ein Anliegen des Projektes ja auch bestimmte Formen der Koordination.
+Gerade wenn sie eben über das hatten wir ja schon den lokalen die lokale Ebene hinausgehen, dann doch möglich zu machen.
+Und da kommen halt dann diese Fragen eben schon schon wieder auf.
+Also ich glaube, zwei Dinge zu dem, was du jetzt gerade gesagt hast.
+Ich glaube, das erste wäre halt, es wird dann relevant, wenn es eben zu Formen der Priorisierung kommt.
+Also dann ist sozusagen das eben nicht nur ein nicht mehr nur oder es kommt läuft zumindest Gefahr oder es stellt sich die Frage, wie damit umgehen, dass es nicht dann nur noch ein Indikator ist, der sozusagen als einer unter verschiedenen sozusagen eine mögliche Ausrichtung vorschlägt.
+Und dann kann man gucken, ob ja oder nein, sondern wenn sozusagen Formen der Priorisierung des Bedürfnisses damit verbunden sind, dann wird es eben schon irgendwie auf eine Art relevant, ob es da sozusagen eine Form von Maßeinheit gibt, welche das ist und ob sich alle darauf geeinigt haben.
+Und auch bei Fragen der Automatisierung.
+Also da waren wir auch schon mal an einem bestimmten Punkt des Gesprächs.
+Wenn wenn eben in die Software Formen der automatisierten Priorisierung von verschiedenen Möglichkeiten des adressieren eines Bedürfnisses ihr nennt das glaube ich eben Tätigkeitsmuster.
+Wenn verschiedene Tätigkeitsmuster als Möglichkeit wie ein Bedürfnis adressiert werden kann nebeneinander existieren und die Software priorisiert eins vor dem anderen, dann stellt sich ja eben schon die Frage, wie wird sozusagen der Aufwand bemessen?
+Auf Basis dessen diese Priorisierung durch die Software stattfindet und wenn dort wiederum unterschiedliche Instanzen verschiedene Einheiten für die Bemessung ihres Aufwandes haben, dann haben wir da eben wieder dieses Interoperabilitätsproblem.
+Also das sozusagen zur Frage der Universal Unit of Account und ob das egal ist oder nicht, also welche verwendet wird und ob sie eben nur als einen Hinweis dienen kann.
+Eins bei Priorisierung wäre quasi die Frage und zwei bei Frage der technischen Automatisierung.
+Aber ich glaube da sind jetzt zwei Sachen vermischt mit dieser.
+Erstens Bedürfnis Priorisierung, wo wir glaube ich langsam drüber reden müssen, weil es die eben solche nicht mehr gibt.
+Und zweitens diese Tätigkeitsmuster, die markiert werden.
+Das eine ist dieser verteilte Planungsprozess, wo die Software diese verschiedenen Szenarien ihrem Aufwand nach sortiert und dann quasi die Tätigkeiten in einer bestimmten Reihenfolge Personen im lokalen Umkreis nachlegt.
+Genau da spielt er da auch von erstmal in der Rolle und das ist was getrenntes von diesem alten Konzept der Bedürfnis.
+Absolut, das ist mir klar.
+Ich meine nur der Punkt ist quasi diese Frage der Automatisierung, der Priorisierung auf Basis des Aufwandes, wenn man dort nach welcher Einheit wird quasi Aufwand bewertet.
+Da waren wir schon mal kurz und dort ist sozusagen ist da nicht irrelevant, ob unterschiedliche Instanzen verschiedene Einheiten für diese Bemessungsgrundlage verwenden.
+Ja, aber es ist egal. Also wenn ich jetzt irgendwie, ich verwende eine Instanz, da ist Zeit zum Beispiel die Einheit.
+Und die andere Person verwendet eine Instanz, da ist irgendwie Energie die Einheit.
+Und das heißt ich bekomme auf meiner App quasi sozusagen eine Tätigkeit vorgeschlagen, die der andere erst später vorgeschlagen bekommt.
+Und who cares am Ende, weil ich kann das eine machen und dann fällt beim anderen hoffentlich seine Tätigkeit raus, wenn ich da eine Tätigkeit ausführe.
+Ich hoffe so sehr sind die interoperabel, aber es geht am Ende nicht darum irgendwie, dass jeder die Tätigkeiten unbedingt derselben Reihenfolge bekommt.
+Bekommen sie eh nicht durch andere Umstände, zum Beispiel durch die Verfügbarkeit von Mitteln.
+Wenn ich jetzt ein Mittel habe in meinem privaten Eigentum, das ein Mittel ist, zum Beispiel eine Bohrmaschine.
+Und die andere Person hat die Bohrmaschine nicht und es müsste eine Tätigkeit folgen, um diesen Bedarf nach einer Bohrmaschine noch zusätzlich quasi zu decken.
+Also wären einfach zwei Tätigkeiten statt einer Tätigkeit, weil dann noch diese Bohrmaschinen verfügbar machen, einfach noch mit dranhängt, die nicht dranhängen würde bei mir.
+Da würde ich eh diese Tätigkeit vorher vorgeschlagen bekommen, weil das der geringste Aufwand ist.
+Weil ich als Person, mit mir als Person ist der Gesamtaufwand am geringsten, im Gegensatz zu der anderen Person, die nicht über eine Bohrmaschine verfügt.
+Also es ist nicht...
+Ich verstehe es jetzt. Ich glaube, die einfache Antwort wäre ja auch zu sagen, im Tätigkeitsmuster kann ich sowohl einen Aufwand bemessen in Zeit als auch einen Aufwand bemessen in Energie angeben.
+Und dann kann die Instanz sich aussuchen, welche Kategorie für sie jetzt sozusagen die Relevante ist.
+Das ist ja eigentlich dann im Grunde die konkrete Antwort auf das.
+Okay, also dann, das habe ich jetzt verstanden.
+Damit wir sagen, diese Frage, die ja durchaus eine Relevante ist, einmal wirklich ganz klar adressiert haben und angesprochen haben.
+Und auch weil du ja schon gesagt hast, dass sich da innerhalb eures Projektes durchaus etwas geändert hat in Bezug auf diese zentrale Frage.
+Lass uns über die Priorisierung sprechen und inwiefern bestimmte Bedürfnisse eigentlich vorrangig behandelt werden vor anderen und falls ja, unter welchen Konditionen?
+Genau, das war die Idee damals beim Auslegungstrang, dass es eigentlich eine Transformation braucht, dass es am Anfang nicht sinnvoll ist, sich in kommenden Strukturen einzubringen.
+Man ja erst die Bedingungen schaffen muss, wo es für mehr Leute sinnvoll ist und so weiter.
+Wir brauchen das gemeinsame, auf das wir zugreifen können, das erst geschaffen werden muss.
+Der Gedanke war, dass Leute motiviert sind, sich einzubringen, dass die Bedürfnisse von denjenigen, die sich einbringen, aktiv an der Schaffung von gemeinsamen quasi tätig sind,
+dass die wieder in den Vordergrund gestellt werden, damit diese Personen Unabhängigkeit von Lohnarbeit haben.
+Das ist das Wichtige. Wir sind, die meisten von uns, vermutlich lohnabhängig. Wir müssen arbeiten gehen.
+Wenn wir arbeiten gehen, können wir kein Commanding betreiben, können wir nicht gemeinsam es schaffen und da einfach diesen Freiraum ermöglichen.
+Und der Gedanke war, das so festzusetzen, so als Regel, als festes Ding.
+Ich glaube, wir hatten es jetzt schon im Gespräch, dass der zentrale Ansatz und dieses Ding von, es gibt jemanden, der oder die legt sowas fest und das wird dann allen irgendwie aufgebürdet.
+Davon sind wir weggekommen. Ich habe das damals ausgearbeitet. Das war dann der vierte Teil damals von der Reihe.
+Und wie das funktionieren kann und blau und blau und habe das eigentlich, war eine lange Arbeit daran.
+Und dieser Teil, den ich dann geschrieben habe, ist auch wirklich, wo ich meinem Projektteam auch wirklich sehr, sehr dankbar bin, abgelehnt worden.
+Also mit Unbehagen empfangen worden und ich habe es versucht zu verteidigen und diese Ideen und das ist so wichtig und blau und blau.
+Aber ich meine, wir hatten schon immer diese Idee von Priorisierung und wir haben es damals die Transformationsvariable genannt, also dieser Aufwand, der dazu geschrieben wird und so weiter.
+Und diese Transformationsvariable Diskussion ging wirklich lange.
+Also das war von Anfang an des Projektes, also sobald Robert und ich, Robert und ich haben das gestartet damals.
+Ich habe den Text veröffentlicht, das haben vielleicht drei oder vier Leute gelesen. Also denke ich mal, ich habe ja keine Ahnung.
+Und einer davon war auf jeden Fall Robert und das war einfach ein wahnsinniges Glück, weil er ist freier Softwareentwickler.
+Er hat gesagt, das finde er einfach gut und er möchte das umsetzen und seitdem arbeiten wir da an dem Projekt.
+Genau und das war von Anfang an eigentlich, wo wir geredet haben, Thema, wie realisieren wir diese Drama, diesen individuellen Vorteil.
+Und erst nach zwei oder zweieinhalb Jahren, nachdem diese Texte veröffentlicht waren, noch ein halbes Jahr Diskussion im Projekt später, kamen wir eigentlich, haben wir endlich eine Möglichkeit gefunden, damit umzugehen mit diesem möglichen Vorteil.
+Eben das Prinzip der Berücksichtigung heißt es dann, der quasi dieses aufnimmt, dieses Leistungsding aufnehmen kann, wenn es ein selbstbestimmtes, aber neben anderen Variable.
+Und das Prinzip ist eigentlich auch total einfach und es ist eigentlich total spannend, wie lange man immer nachdenkt über Dinge, die danach total einfach erscheinen.
+Ich finde das spannend. Berücksichtigung heißt in erster Linie, ich vermittel als Person, was mir persönlich wichtig ist.
+Ich kann zum Beispiel sagen, ich möchte für Leute da sein, die viel für andere machen.
+Oder ich kann das spezifizieren und sagen, ich möchte für Leute da sein, die viel Mittel herstellen oder verfügbar machen für den Gemeinsprozess oder für Leute da sein, die vielleicht im Care-Bereich aktiv sind, wenn man das sagen möchte.
+Aber genauso, unabhängig von dieser Leistung, kann ich sagen, ich möchte für Leute da sein, die in bestimmten Lebenssituationen sind, die vielleicht wenig Einkommen haben, die vielleicht bestimmten Benachteiligungen haben, whatever.
+Oder ich kann da sein für meine Freunde, Familie, je nachdem, welche Informationen zur Verfügung stehen.
+Und das kann ich quasi vermitteln. Und wenn ich das vermittel und ich habe eigentlich, wir haben die Möglichkeit von sehr komplexen Prozessen.
+Also diese sehr einfache Systematik von Problem, Tätigkeit, Lösung quasi, aber das verästelt sich.
+Das kann in eine sehr komplexe Kooperation gehen. Am Ende weiß ich nicht, wenn ich jetzt irgendwie, altes Beispiel, aber ich mache irgendwie Schrauben.
+Ja, es besteht der Bedarf nach Schrauben von einem bestimmten Typ an. I don't know, 5000 Stück. Ich kann nicht nachschauen, für wen die sind.
+Ja, das muss ja unglaublich viele Menschen gehen. Aber ich kann sehen, wenn ich jetzt irgendwie den Ausdruck zwischen Schraubentyp A und Schraubentyp B habe, dass wenn ich Schrauben Typ A herstelle,
+inwiefern das quasi meinen eigenen Berücksichtigungen entspricht, inwiefern unterstützt das Menschen, die auf die Faktoren quasi zutreffen, die ich berücksichtige.
+Das kann mir transparent werden. Vielleicht kann ich das auch noch nachprüfen. Aber in erster Linie sehe ich, welche Tätigkeiten, die mir vorgeschlagen werden, erfüllen quasi den Zweck, wie ich mich in die Gesellschaft einbringen möchte.
+Und das ist total wichtig bei dieser Komplexität, mit der wir auch zu tun haben. Mit der wir auch im Kapitalismus zu tun haben, mit der Arbeitsteilung, die ja enorm ist.
+Wir versuchen Strukturen aufzubauen, die eben auch eine ähnliche komplexe Kooperation ermöglichen oder eine genauso komplexe Kooperation ermöglichen, wo am Ende eben, genau, wo man sich irgendwie durchkämpfen muss.
+Und ich will vermitteln können, was mir wichtig ist, wie ich mich einbringen möchte, welche Personengruppen, welche, oder eben das Leistungsprinzip.
+Dass eben Leute unterstützt werden, die viel für andere tun. Und das bekomme ich quasi vermittelt mit den Tätigkeiten selbst als quasi daran klebende Information, wie sehr das auf mich persönlich, meinen Berücksichtigungen, die ich persönlich bestimmt habe, zutrifft.
+Und wenn wir sagen, ja, das wäre jetzt die kritische Nachfrage vielleicht, ob dieses Ding von wegen Kommens müssen oder Gemeinschaft muss erst geschaffen werden, es braucht Leute, die tätig sind.
+Und wenn es jetzt eine von 100 verschiedenen Kategorien ist, geht es halt nicht irgendwie komplett darin unter.
+Und da muss man sagen, kann sein. Und es geht um die Voreinstellungen von so einer App.
+Wer baut diese App? Legt die Person das zum Beispiel nahe? Also wo ich das auch immer einstelle. Was mir wichtig ist, legt sie es nahe? Vielleicht legt sie es als Voreinstellung nahe?
+Legt sie es überhaupt nicht nahe, weil die Entwickler sagen, so debianmäßig Freiheit. Und dann kommt irgendwie, Entschuldigung, vielleicht keine guten Beispiele.
+Aber so engere Distributionen wie Opunto, die sagen, wir geben eine klare Richtung vor. Das sind Möglichkeiten.
+Und Leute, die diese Werkzeuge benutzen und eben als Anwendungen irgendwie herausbringen, können es nahelegen, können es nicht nahelegen.
+Leute, die es anwenden, können das mit einbeziehen, können es nicht einbeziehen. Aber das Wichtige ist, ist es den Leuten selbst.
+Wir sind eine Peerökonomie. Wir sind auf Augenhöhe. Wir wollen Strukturen, wo niemand von oben irgendwelche Entscheidungen trifft.
+Und wenn ich sage, ich schreibe jetzt diese Konstruktion und das wird in den Vordergrund gerückt, das ist massiv der Eingriff.
+Und das hat, ich glaube, zwei. Also einerseits fühlt es sich nicht gut an. Aber auch zur Verbreitung ist es, man kann sagen, vielleicht funktioniert der Ansatz mit der Transformation nicht usw.
+Aber es funktioniert noch viel weniger, wenn das vorgegeben wird, weil es viel mehr abgelehnt wird.
+Weil ich glaube nicht, dass das viele Leute das wollen, dass ihnen so ihre Meinung von irgendwo vorgegeben wird, was sie jetzt irgendwelche Wichtige achten und was nicht.
+Ich glaube, es verbreitet sich einfach. Vielleicht dieser Transfirmationsgedanke dahinter ist dann nicht so stark. Vielleicht funktioniert das nicht.
+Aber die Software oder die Anwendung kann einfach ein größeres Publikum erreichen, weil wir nicht irgendwie Entscheidungen treffen, die von Leuten einfach abgelehnt werden können.
+Und sie deswegen da einfach das prinzipiell ausschließen, diese Vermittlungsform. Genau. Und Berücksichtigung kann alles eben, diese Berücksichtigungsmethode.
+Es geht dann superhart um Verifizierung von Lebensumständen, von Leistungen. Wie verifiziere ich irgendwie? Ich kann das machen über Tätigkeitsmuster.
+Tätigkeitsmuster ist ja Aufwand, kann ja irgendwie als Zeit oder als Energie oder whatever als Information gespeichert sein.
+Das kann ich quasi geltend machen wie Zeit, die sich von Tätigkeitsmustern, ja, ich möchte mich danach richten.
+Ich kann mich auch danach richten, wenn jetzt jemand in irgendeiner Organisation drin ist. Irgendeiner, I don't know, keine Ahnung, Geflüchtetenhilfe oder sowas.
+Und ich kann das verifizieren, dass ich da tätig bin. Oder dann kann ich für Leute da sein, die in der Geflüchtetenhilfe tätig sind.
+Und darauf auf solche Leute abziehen. Auch das ist Leistung, die halt nicht über die Softwarestrukturen vermittelt wird, diese Tätigkeitsmuster.
+Aber ich kann es berücksichtigen, wenn es in einer Form verifiziert ist, die ich akzeptiere und an der ich vertraue.
+Und genau, also das war, ich habe es vorher schon angerissen, das ist nochmal ein Ereignis, Komplexitätsthema, diese Praxisgeschichte.
+Das ist endlos. Aber die Möglichkeiten davon sind auch endlos.
+Und ich kann dann wirklich, also diesen Ideal in Gesellschaft zu gehen und das zu tun, was ich jetzt richtig empfinde und was mir wichtig ist.
+Und diesen Ideal kann ich damit sehr nahe kommen, auch innerhalb sehr komplexer Strukturen einfach.
+Wenn die technischen Strukturen aufgebaut sind und die Verifizierungsmodelle und Arten und das, ich bin gleich fertig.
+Aber wenn es auch den einzelnen Personen wird, da auch eine Komplexität zugemutet an Einstellungen erstmal.
+Die noch schlimmer ist, als es jetzt gerade klingt.
+Ich kann Leute berücksichtigen, die viel für andere da sind und Leute, die in der Geflüchtetenhilfe aktiv sind.
+Aber wie sehr ist es mir wichtig? Was ist die Gewichtung davon?
+Was heißt irgendwie, dass in 20 Stunden im Kinderhort arbeiten gegen irgendwie 20 Sterne auf gutefrage.de?
+Wo ist da das Verhältnis zwischen denen?
+Das muss ich kalibrieren können oder es braucht halt Voreinstellungen, das ist einfach super notwendig.
+Voreinstellungen, die ich quasi auswählen kann, die diese Kalibrierungen für mich vornehmen oder solche Gewichtungen.
+Da sind wir in einer Datenkomplexität, die erschlagend ist.
+Aber wir nähern uns, damit glaube ich auch diesen Ziel leben, das zu tun, was ich für richtig halte.
+Und nicht nur irgendwie Sea-Watch, wo ich sage, ich möchte das so etwas wichtiges, nicht Gewale retten,
+sondern auch, ich kann Schrauben anfertigen und das erreicht dann den Zweck am Ende.
+So eine kleine Tätigkeit, wo man nicht den Zusammenhang sieht.
+Aber er wird mir dadurch transparent, das Berücksichtigungsprinzip.
+Er kann mir dadurch transparent werden, wenn das funktioniert.
+Warum das, was ich tue, dadurch irgendwie die Gesellschaft in die Richtung bewegt wird, die ich als richtig erachte.
+Und das ist eigentlich, das ist schöner, das fühlt sich total gut an, finde ich.
+Im Gegensatz zu diesen Bedürfnispriorisierungen, mechanischen auferlegt und Leistungen über Tätigkeitsmuster und so weiter, das war Käse.
+Und ich bin meinem Team, also damals, also nicht meinem Team, das Global-Communic-System-Team, in dem ich einfach aktiv bin,
+super dankbar auch, dass sie es einfach so auch abgelehnt haben und dass diese Frage wieder neu aufgeworfen wurde.
+Mein erster Impuls war jetzt auch, dass ich das eigentlich total super finde, dass man eben die Entscheidung über die Frage,
+was für einen relevant ist, zu berücksichtigen, dass das sozusagen mir selbst überlassen wird.
+Das finde ich eigentlich eine ganz großartige Herangehensweise in Bezug auf diese Problemlage.
+Gleichzeitig kommt absolut mit dem, was du jetzt zuletzt gesagt hast, dann auf jeden Fall wieder ein riesengroßer Bulk an Fragen auf,
+weil ja dann auch damit zusammenhängt, eine grundsätzliche Frage, die ich einfach noch stellen muss,
+noch mal exponentiell explodiert und erweitert wird, nämlich die Frage der Zuverlässigkeit.
+Also grundsätzlich ist es ja schon so, dass eigentlich man sich fragt,
+okay, wenn das jetzt alles auf offener Verfügung basiert und auf Freiwilligkeit, wie kann eine Zuverlässigkeit generiert werden?
+Wie kann ein Punkt erreicht werden, wo ich eben mich darauf verlassen kann, dass die Dinge dann da sind, wenn sie da sein müssen,
+gerade wenn über die Selbstzuordnung das ja mitunter auch zeitlich auseinandergezogen ist.
+Und dann einfach, wenn man jetzt sich fragt, okay, da muss eine Operation irgendwie gemacht werden,
+dafür braucht es zu einem bestimmten Zeitpunkt nämlich der Operation alles, was dafür nötig ist und das muss dann da sein.
+Da kann nicht irgendwie darauf gewartet werden, bis irgendjemand sich müßig fühlt, das Kapell herzustellen, sondern das braucht es dann schon.
+Also diese Frage des zeitlichen Auseinanderfallens und der damit verbundenen Zuverlässigkeitsfrage
+ist auf jeden Fall eher so intuitiv sofort was, was sich stellt, einfach schon banal, wenn man von radikaler Freiwilligkeit ausgeht.
+Und das wird jetzt dann eben nochmal, kriegt nochmal einen anderen Trial durch das, was du jetzt gerade eben gesagt hattest,
+nämlich diese Frage der Pluralität, der Modi der Berücksichtigung, wenn man so will.
+Also ich habe jetzt sozusagen ein Bedürfnis und jetzt gibt es aber 100.000 verschiedene Modi der Berücksichtigung
+und vielleicht falle ich in keine dieser, die jetzt aber gerade mein Bedürfnis, also das selektiert ja auf eine Art auch nochmal ganz stark vor,
+die Wahrscheinlichkeit, die Höhe der Wahrscheinlichkeit mit der mein, nicht nur mein Bedürfnis befriedigt wird,
+weil das quasi jemanden findet, der dieses Bedürfnis befriedigen will, sondern das muss dann noch jemand sein,
+der in der Berücksichtigung die selben Modalitäten angegeben hat, die auf mich dann zutreffen.
+Das heißt, beides muss zueinander fallen und das erhöht dann nochmal stärker die Instabilität im Bezug auf Zuverlässigkeit,
+weil dann einfach diese beiden Kategorien ja zutreffen müssen.
+Insofern quasi riesengroßes Fragezeichen, wie zuverlässig ist das Ganze für mich individuell?
+Ich finde es total spannend, auch das beim Nachdenken in den letzten dreieinhalb Jahren, sage ich jetzt mal, über diese Struktur und bla bla bla.
+Wir haben ja, also das ist insane, das war im Ausdienungsdrang, habe ich mir das auch quasi überlegt von wegen,
+wir haben dann dieses Bedürfnis und dann entstehen diese Prozesse, wo Mittel hergestellt werden, das kann sich wieder teilen,
+wenn irgendwie drei Dinge fehlen, dann teilt sich das wieder auf und das ist eine wahnsinnige Zeit, quasi eine wahnsinnige Zeitspanne,
+die sich quasi auftut, bis eben dieses Bedürfnis befriedigt wird und das stimmt.
+Und das stimmt, je nachdem einfach was wie die Bedingungen sind für Prozesse des Commandings, was lokal verfügbar ist,
+es mildert sich, je mehr die Gesellschaft auf Gemeinsamen beruht, je mehr Gemeinsames es gibt, auf das zugegriffen kann,
+desto mehr mildert es sich, weil viele Dinge schon vorhanden sind.
+Gerade eben ist es ja auch immer so zu denken von wegen, wir müssen jetzt irgendwas neu produzieren oder neu kaufen und so weiter,
+weil, I don't know, weil ich das nicht habe.
+In einer Gemeinsamen beruhten Gesellschaft geht es ja nicht darum, was ich habe, sondern was ist für den Gemeinsamen Gebrauch verfügbar,
+was ist denn schon da, wir müssen nicht alles neu herstellen, wir haben ein riesiges, je nachdem was man gerade ist,
+aber wir haben einen Pool an Dingen, die kann ich quasi für bestimmte Zwecke verwenden und ich kann auf das Gemeinsame auch zugreifen,
+wenn niemand für mich tätig ist, das heißt, ich vermittel ein Bedürfnis nach irgendwas,
+niemand nimmt sich quasi diese Tätigkeit an, die in diese Richtung meines Bedürfnisses geht,
+aber vielleicht gibt es ja trotzdem das Ding, das für mich gemacht werden sollte, vielleicht gibt es das an anderer Stelle
+und ich kann da in eine Diskussion reingehen und sagen, ich brauche das auch,
+erstmal von diesen Bedürfnisstrukturen finde ich das erstmal anders zu denken,
+wenn man im Gemeinsamen drin ist, weil es nicht immer nur um Produktion für einen geht, dann hat man etwas
+und dann ist es quasi, keine Ahnung da, bis ich es wegwerfe, wir haben einen anderen Boden, in dem wir uns bewegen,
+so was wie das Krankenhaus, da geht es ja wieder darum, um den Aspekt, wo hört die Sinnhaftigkeit von so einer Vermittlung auf,
+wo fängt es an, wo hört sie auf und wenn jetzt ein Krankenhaus irgendwie wartet bis irgendwie,
+ich meine, klar, es ist ein spezielles Beispiel, bis jetzt irgendjemand mit einem abgebrochenen Bein,
+mit einem gebrochenen Bein reinkommt und dann sagt, okay, wir vermitteln jetzt, dass wir ein Bett brauchen,
+dann ist es ja einfach echt spät dafür, also die werden Vorbereitungen treffen und entweder das quasi vermitteln,
+quasi nicht als Bedürfnisse, sondern quasi, ich würde sagen, Bedingungen, also vermitteln, dass das Bedingungen
+zur Bedürfnisbefriedigung verbessert werden müssen im Sinne von, wir brauchen mehr Krankenhausbetten,
+da hängt jetzt nicht direkt ein Bedürfnis dran, es gibt dieses Bedürfnis noch nicht danach, aber wir wissen,
+dass die Bedingungen verbessert werden müssen, wenn so was quasi vorkommt, weil solche Fälle vorkommen,
+wir müssen Vorkehrungen treffen, das ist natürlich auch eine Notwendigkeit, die bezieht sich auf Bedürfnisse,
+aber natürlich mit einem Gedanken daran, der Vorausplanung. Na, eins wollte ich noch sagen.
+Ah ja, Zuverlässigkeit finde ich auch einen total spannenden Punkt, zum Beispiel Leute ordnen sich Tätigkeiten zu,
+ich meine, das ist ja auch erstmal ein vereinfachtes Szenario, dass ich sage, irgendwie die Tätigkeit vorgeschlagen,
+wir ordnen sich zu, die nächste Tätigkeit wird vorgeschlagen, dann ordnet sich da jemand zu und dann kooperieren die miteinander,
+da ist natürlich auch noch ein Prozess, wo dann noch mal irgendwie, wo ich sagen kann, ich kann mich eine Tätigkeit zuordnen,
+dann passt mir zeitlich doch nicht, weil sich das irgendwie verschoben hat und dann gehe ich da wieder raus und der Prozess von wegen,
+ich committe mich der Tätigkeit, ich denke nicht nur an, die Tätigkeit auszuführen, sondern ich sag das fix zu,
+vielleicht in einem bestimmten Zeitraum der Ausführung. Und dann haben wir wieder, jetzt kann ich sagen, okay,
+aber was ist denn, wenn diese Strukturen entstehen und sich jemand committet hat, irgendwie, keine Ahnung,
+zwei Wochen lang diese und jene Tätigkeit auszuführen am Stück, es ist ja auch vereinfacht,
+dieses einzelne Tätigkeiten, die von Bedürfnissen weggehen, werden dann ausgeführt, das läuft zusammen,
+quasi eine kontinuierliche Tätigkeit, wie dem Schrauben herstellen, das wird ja nicht aufgerufen für einen Fahrrad im Ende,
+sondern für, I don't know, 500 und da ist eine kontinuierliche Tätigkeit und da ist dann die Möglichkeit,
+wenn quasi diese Menge an sich von diesem Bedarf, der wieder gebraucht wird, erhöht wird,
+diesen Leuten vorzuschlagen, die eh schon diese Tätigkeit geradeaus führen, die eh schon per Trans sind.
+Da entstehen festere Strukturen, die dann vielleicht auch gar nicht mehr softwarevermittelt irgendwie laufen müssen,
+ich sag jetzt mal anders. Aber die Möglichkeit ist ja auch, Sanktionierungen zu berücksichtigen.
+Ja, und dann kommen wir in ein anderes Gebiet, dass wir sagen, jemand, der sich immer Tätigkeiten committet und sie dann nicht ausführt,
+also quasi einen Regelbruch damit begeht, ich berücksichtige auch das in meiner Auswahl.
+Ich kann sehen, dass irgendwie eine Tätigkeit, die ausgeführt werden muss, einer Person zugutekommt
+oder in die Richtung der Bedürfnis einer Person geht, wo ich sage, eigentlich möchte ich das nicht, weil sie unzuverlässig ist,
+auch das kann ich berücksichtigen. Das ist so ein bisschen die, das klingt, glaube ich, ich glaube, wenn alles was,
+also ich finde, im Kommensbereich oft habe ich das Gefühl, dass alles, was damit zu Sanktionen zu tun hat,
+immer so ein bisschen, dass man da so ein bisschen ein schlechtes Gefühl hat, sage ich jetzt einfach mal.
+Ja, für Ostraum waren Sanktionen super wichtig. Also das ist in seinem Prinzip, dass es abgestufte Sanktionen geben muss, damit es funktioniert.
+Ich finde das auch relevant, über Sanktionen zu reden. Und da sind wir in einem Bereich, okay, wo ist dann quasi der selbstbestimmte Teil?
+Niemand will irgendwie so eine Information an sich kleben haben, dass man irgendwie Regen verletzt hat.
+Man braucht zum Prozess, wo man sich quasi erst mal quasi committet, dass wenn man Regeln bricht, die quasi irgendwie registriert werden
+und das irgendwie auch auslesbar sein kann für andere, das ist echt ein spannendes Thema, in das man rein muss.
+Und dann kann ich quasi sagen, Zuverlässigkeit wird gefördert dadurch, dass ich weiß, dass ich auch sanktioniert werden kann,
+wenn ich quasi mich committe und dann einfach nicht antrete. Auch das ist wieder selbstbestimmt.
+Wenn jemand sagt, mir ist es egal, wenn Leute irgendwie Regeln brechen, wenn sie sich was ausleihen, zum Beispiel Eigentum,
+wo sie dann irgendwie mitbenutzen können für andere Prozesse und es nicht mehr zurückbringen oder kaputt zurückbringen.
+Mir ist es egal, wenn Leute das machen. Ich berücksichtige das nicht. Das ist nicht relevant für mich.
+Dann ist es nicht relevant für die. Dann wird das auch nicht angezeigt.
+Aber wir brauchen auch Möglichkeiten, wie Sanktionen, Regelbrüche usw. wirken können innerhalb dieser selbstbestimmten Strukturen.
+Dass auch Vertrauen da entstehen kann, wenn jemand sich eine Teiligkeit committet, zuordnet, zusagt, dass die Person das auch machen wird,
+auch machen wird, wenn sie jetzt nicht irgendwie einen guten Grund hat, sag ich jetzt mal, und er irgendwie akzeptiert ist. Genau.
+Ich hatte ja meine letzte Frage, hatte ja darauf abgezielt.
+Okay, aber dann kommt man in eine Situation, in der zum einen sich jemand finden muss, der mal ein Bedürfnis befriedigt,
+also dass da sozusagen eine Deckungsgleichheit irgendwie erlangt wird und dass dann zusätzlich aber noch eine Deckungsgleichheit erlangt werden muss
+in Bezug auf die Frage, ob ich jetzt eben dieser Form von Berücksichtigung auch entspreche und dass diese beiden Dinge zusammengenommen
+es eben noch mal unwahrscheinlich erscheinen lassen, dass das am Ende eine wirkliche Deckungsgleichheit zwischen meine Bedürfnis auf der einen Seite
+und einer Bedürfnisbefriedigung auf der anderen Seite erreicht wird.
+Daraufhin hattest du jetzt richtigerweise und nachvollziehbarerweise darauf hingewiesen, dass sich das sehr mildert,
+wenn denn dann der Boden, auf dem wir hier operieren, eben mehr dem Commoning an sich, mehr auf das gemeinsame hinausgerichtet ist.
+Und das stimmt natürlich, aber ein großes Fragezeichen ist ja verbunden mit der Transformationsfrage, in der das eben noch nicht der Fall ist.
+Und so wie ich es verstanden hatte, war eben dein damaliger Zugang in Bezug auf die Priorisierung
+explizit ja auch auf diese Problemstellung der Transformation hinausgerichtet, dass es darauf eine Antwort geben müsse,
+wie in einem Kontext, der eigentlich hostile ist, der eigentlich sozusagen dem Commoning an sich gegenüber nicht günstig ist,
+eben ein kapitalistisches Wirtschaften, wie innerhalb eines solchen Kontextes trotzdem eine Struktur gedacht werden kann,
+die einen Ausdehnungsdrang und auch eine inhärente, eine Art kommunistischen Schneeballeffekt, wenn man so will, irgendwie erzeugen kann.
+Das war sozusagen, so habe ich das gelesen, das worauf du mit diesem Zugang der Priorisierung ja auch abgezielt hast.
+Und das bleibt dann sozusagen noch unbeantwortet, wenn man nur jetzt darauf verweist, zu sagen,
+okay, diese Problemlage wird sich dann mildern in der Zukunft, wenn der Boden ein anderer ist.
+Das stimmt. Ich finde, ich habe die Frage eher vergessen, die Antwort darauf als Sie.
+Genau. Aber das ist eine gute Frage, das ist eine wichtige Frage.
+Überhaupt ist es erstmal ein mega, mega wichtiges Ding anzumerken, dass ein vermitteltes Bedürfnis nicht unbedingt seine Befriedigung nach sich zieht.
+Also die Abhängigkeit in so einer, im Bezug auf Gemeinsamkeit, im Bezug auf Freiwilligkeit auch, ist ja eine Norm.
+Ich kann ja Bedürfsvermitteln und es gibt keinen Grund für irgendjemanden, erstmal natürlich auch so diese Brüchsegungen und blablabla, dem nachzugehen.
+Das heißt, ich weiß nicht, ob sich da jemand einbringt.
+Ich weiß nicht, ob es jemanden gibt, der das macht und es gibt keine Möglichkeit des Zwangs irgendwie zu sagen, man muss das jetzt machen,
+weil alle Menschen haben ein Recht, ihre Bedürfnisse zu befriedigen, dass man sowas auf eine gesellschaftliche Dinge auferlegt, vielleicht so ein bisschen ein sozialistischer Gedanke.
+Alle Menschen haben dieses Recht und deswegen müssen wir das erreichen, dass jeder Mensch die Bedürfnisse, die er vermittelt, auch befriedigt bekommt.
+Das gibt es nicht.
+Erstmal stehe ich da mit meinem vermittelten Bedürfnis und ob da sich Leute finden oder nicht, das ist jetzt nicht zufällig.
+Es kommt auf die Bedingungen drauf an und so weiter, aber es kann auch einfach sein, dass sich dem niemand annimmt.
+Oder sehr spät, wenn es mich eigentlich gar nicht mehr interessiert.
+Und das gibt es, dass ich den Bedürfnissen vermittel zum Beispiel.
+Ich habe erstmal, muss es Leute geben, die diese Tätigkeiten ausführen können mit den Fähigkeiten, Qualifikationen, Interessen und so weiter, die zu deiner Bedürfnisbefriedigung führen.
+Das ist natürlich der eine Faktor, die Leute muss es mir geben.
+Und die dich berücksichtigen, aber eher als Variable.
+Nicht irgendetwas ausständiges.
+Das heißt, Tätigkeiten werden nach persönlicher Relevanz markiert.
+Es wird vielleicht diese Tätigkeit, die zu deiner Bedürfnisbefriedigung abzielt, wird genauso vermittelt, sage ich jetzt mal.
+Aber es wird halt quasi dastehen, diese Tätigkeit ist nicht persönlich relevant für dich im Sinne deiner Berücksichtigungen, die du gemacht hast.
+Und dann kann ich trotzdem sagen, ich mache es.
+Oder ich sage, ich mache es nicht.
+Also ich kann sagen, ich mache es einfach nur, weil ich zum Beispiel Lust auf die Tätigkeit habe.
+Weil es ja trotzdem eine Tätigkeit ist, weil es trotzdem, wenn man jetzt einfach nur aus diesen Egoismusgedanken kommt, den ich okay finde.
+Ich mache es, weil es ja trotzdem irgendwie Aufwand ist.
+Das heißt, mehr Leute werden berücksichtigt und so weiter.
+Ich glaube nicht, dass es der einzige Grund ist, warum Leute Tätigkeiten ausführen.
+Also wirklich nicht.
+Aber auch das ist ein Aspekt davon.
+Und dann mache ich das.
+Auch weil das einfach Leistung durch mich ist.
+Genau.
+Irrelevant, ob jetzt das auf meine Berücksichtigungskategorien zielt oder nicht.
+Also das heißt, man hat einfach zwei Ebenen da, die die auch so machen.
+Es braucht nicht nur diese Schnittmenge davon.
+Zwischen hier geringstmöglicher Aufwand der Tätigkeit oder das Tätigkeitskomplex des Szenarios.
+Und irgendwie Berücksichtigung ist dann einfach, Berücksichtigung ist noch mal ein Layer.
+Noch mal eine Information für die Person, der die Tätigkeit vorgeschlagen wird.
+Inwiefern das quasi auf deren Dinge zutrifft.
+Aber es gibt ganz andere Gründe, warum sie die Tätigkeit trotzdem annehmen kann.
+Prinzipiell.
+Ja, das verstehe ich.
+Also das ist jetzt ein positives Beispiel.
+Du hast jetzt quasi das Szenario gewählt, an dem am Ende sich jemand,
+obwohl die Berücksichtigung eigentlich nicht in eigenen Kategorien entspricht,
+doch dafür entscheidet, die Tätigkeit auszuführen und das Bedürfnis zu befriedigen.
+Das problematische Szenario ist ja, wenn das nicht passiert.
+Also da sind wir wieder bei der Frage der Zuverlässigkeit bzw. bei der Frage der Abhängigkeit.
+Ja, und das ist was, was ich halt, also ich habe neulich ein Gespräch gehabt
+mit Tina Hauptner und Silke van Dijk zu ihrem Buch Community Capitalism, Community Kapitalismus.
+Und also die sind da einfach sehr klar da drin, dass sie darauf hinweisen, ja okay,
+aber also in dieser radikalen Freiwilligkeit birgt natürlich auch eine Gefahr im Sinne der Abhängigkeit
+von so einer Gefälligkeit, ob die Person jetzt mir helfen mag oder nicht.
+Man kommt, man rennt auf eine Art so ein bisschen in das Arschlochproblem.
+Also wer kümmert sich um das Arschloch sozusagen, ja?
+Also wer, wer, also wenn jetzt alles self-selected und freiwillig ist sozusagen,
+aber ich will ja auch, dass sozusagen der Typ, der wirklich einfach nur ein riesen Arschloch ist,
+immer schon wahr, immer noch ist, das auch voll raushängen lässt und so weiter.
+Will ich ja trotzdem, dass sich irgendjemand um den kümmert im Altersheim, ja?
+Und sozusagen wer ist self-selected für das Arschloch, ja?
+Das wird dann noch spannend. Kann ich mir vorstellen, dass es eh auch passiert, ja?
+Also das ist ja auch irgendwie nochmal, will gar nicht sagen, dass das nicht passiert oder sowas,
+aber es entstehen andere Abhängigkeiten in diesen Konstellationen der radikalen Freiwilligkeit,
+die durch so etwas wie ein anonymisiertes Sozialsystem, wie das eben im klassischen Wohlfahrtsstaat jetzt der Fall ist,
+die dort sozusagen anders aufgehoben sind, ja?
+Also wo das quasi, wo einfach gerade diese Form der Anonymisierung, ja?
+Also diese, diese Kälte quasi des, des, des anonymen Staates, wenn man so will, des Wohlfahrtsystems oder sowas,
+dann wiederum ein Plus darstellt insofern, als dass einfach pauschal alle berücksichtigt werden.
+Ob die jetzt irgendwie eben in meinen Augen sozusagen ein berechtigter, also berechtigter Bedürfnis haben oder nicht,
+oder es spielt keine Rolle, oder ob die eben, was weiß ich, in sozialen Gefügen irgendwie angesehen werden,
+als Leute, die etwas geleistet haben oder was auch immer, spielt alles keine Rolle,
+sondern es soll sich sozusagen um alle gekümmert werden, ja?
+Und das, wir sagen dieses Arschlochproblem quasi, ja?
+Das kommt nochmal einfach anders auf in Strukturen der radikalen Freiwilligkeit
+und erzeugt halt andere Formen der Abhängigkeit, die auch ihre eigenen Problematiken halt dann mit sich bringen, ne?
+Das war so, glaube ich, so ein bisschen die Schiene dann.
+Ja, voll.
+Genau, nur um das nochmal irgendwie darauf einzugehen.
+Genau, du hast an sich wieder die Möglichkeit, zu sagen, ich berücksichtige es,
+wenn Leute quasi existenzielle Hilfe brauchen, wie im Altersheim zu sein.
+Und das nehme ich als einen Faktor mit rein.
+Ist wieder die, wisst ihr, da geht es wieder darum, mache ich es freiwillig oder nicht, das klärt die Frage nicht.
+Aber ich kann quasi das von meinem, das kann mir auch wichtig sein.
+Ja, als Mensch kann mir das wichtig sein.
+Es muss mir am Ende vielleicht als Mensch wichtig sein.
+Die Frage ist auch, in, wieder zum Ende der Softwaregeschichte,
+die Grenzen von diesen Softwarevermittlungsgeschichten,
+wie sehr können Menschen was in so einer, also wenn das Gemeinsame wirklich das Prinzip ist,
+wie setzt sich da an anderer Stelle was durch, als wenn wir wirklich da in einer Gesellschaftlichkeit sind,
+auf so einer hegemoniale Communing-Gesellschaft.
+Setzt sich das durch, wenn man weiß, dass man mit Leuten, die man nicht mag,
+wenn man nicht gemocht wird, dass man die einfach verhungern lässt oder irgendwie in ihrem Genau liegen lässt?
+Glaube ich nicht. Ich glaube nicht, dass Leute so reagieren, die die Leute auch sehen können.
+Aber ich habe das Buch nicht gelesen.
+Tatsächlich hat Stefan Mehritz einen Vortrag dazu gehalten.
+Ich glaube, ich habe da, also im Commons Institute treffen letztes Wochenende,
+ich habe den übersprungen, ich habe irgendwas anderes gemacht. Schade.
+Genau, es gibt, glaube ich, in den, also in der Struktur gibt es, glaube ich, auch keine Antworten darauf.
+Und ich finde, das ist so was, da müssen Regelungen gefunden werden.
+Da können in Common-Strukturenregeln dafür gefunden werden, die akzeptiert werden.
+Da bin ich eigentlich, soweit ich das erzählen kann, soweit ich jetzt in so einer Möglichkeit auf Gemeinsamkeit
+und in Zukunft irgendwie, wie ich es nämlich hineinwagen möchte, was ich ungern tue.
+Aber es fällt mir schwer, sich vorzustellen, dass das Problem nicht thematisiert wird
+und man da nicht irgendwie das angeht, auf welche Weise auch immer.
+Eben, also auch wie bei dem komplexen Problem bei dir am Anfang mit der Trasse und so weiter.
+Ich weiß nicht, ob die Softwarevermittlung da das Richtige ist.
+Es gibt, von der Datengeschichte, der Dateninterpretation im Berücksichtigungsbereich kannst du sowas irgendwie einstellen.
+Das ist, wenn dann irgendwie jemand ist, der von niemandem Beachtung findet, dass das eben hervorgehoben wird und so weiter.
+Das ist möglich, aber das ist eine eigene Komplexität und ist auch wieder abhängig von dem Anwender, von der Anwenderin.
+Genau, nö. Also ich glaube, ich kann mir nicht vorstellen, dass das in wirklich so einer Gesellschaftlichkeit ein großes Thema ist.
+Aber ich wollte es auch nicht mal in meiner Hand dafür ins Feuer halten.
+Ja, ich sehe das Problem und ich finde es ein gutes, gut artikuliertes Problem. Ja, genau.
+Ja, also ich hätte auch jetzt das Gefühl, dass du da absolut in die Richtung deutest,
+also dass im Grunde das ähnlich geartet ist wie diese Fragestellung der langfristigen Planung von zum Beispiel Infrastrukturprojekten.
+Auf eine Art geht es da ja auch um eine Form von Infrastruktur, in dem Fall der Altersvorsorge zum Beispiel.
+Und dass man da dann eben auch anders pauschalisierte Lösungen finden kann,
+wie du das jetzt angedeutet hattest, im Sinne von ich berücksichtige grundsätzlich alle Leute, die Pflege brauchen sozusagen.
+Und da ist das Arschloch sozusagen inkludiert explizit, ja, weil ich will definitiv auch, dass man sich um das Arschloch kümmert, so 100 Prozent.
+Du kannst ja auch, wenn ich mal ganz kurz einwerfen darf, weil ich das eh auch spannend fand.
+Du kannst ja auf zwei verschiedene Arten für die Pflege quasi auch da sein.
+Du kannst sagen, ich möchte Tätigkeiten für mich persönlich relevant angezeigt bekommen, die für die Pflege notwendig sind oder von Menschen.
+Oder ich kann Leute mehr berücksichtigen, die im Pflegebereich tätig sind.
+Du hast zwei verschiedene Weisen quasi, wie du über Berücksichtigung darauf einwirken kannst, dass dieser Bereich gestärkt wird.
+Fand ich mal spannend, irgendwann, als ich drüber nachgedacht habe.
+Also es gäbe noch hunderte Fragen, die ich zu stellen hätte, aber ich befürchte, wir können nicht alles unterbringen in diesem einen Gespräch.
+Insofern eigentlich dann nur noch die Abschlussfrage.
+Wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+Ach, na, die sollte ich kennen von dir.
+Ich glaube, so eine Möglichkeit.
+Also ich finde echt die Möglichkeit, die wir durch das Internet haben.
+Und die wir wirklich in tausenden Jahren mehr in Schätzgeschichte nicht hatten.
+Und da ist einfach ein Potential drin, das einfach etwas ermöglicht, was vorher nicht denkbar war.
+Und ich weiß nicht, ich würde jetzt nicht wissen wollen, wie hoch die Wahrscheinlichkeit der Realisation davon ist.
+Aber das Potential ist da und das ermöglicht so viel, was so gut sein kann.
+Und das gefällt mir.
+Wunderbar. Markus, vielen Dank für das Gespräch.
+Ja, ich danke dir. Hat Spaß gemacht.
+Das war Future Histories für heute.
+Vielen Dank fürs Zuhören.
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit.
+Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube,
+wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet.
+Schreibt mir gerne unter jan at futurehistories.today.
+Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise.
+Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf www.patreon.com-futurehistories
+oder auch via Spende auf unserer Homepage.
+Future Histories ist eine Produktion von MetaLapses, zu finden auf meta-lapses.net.
+Bis zum nächsten Mal. Ich freue mich.

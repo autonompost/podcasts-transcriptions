@@ -1,0 +1,1452 @@
+start	end	text
+0	5640	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+5640	11760	Mein Name ist Jan Groß und ich freue mich sehr, heute Jürgen Goethe alias Tante begrüßen zu dürfen.
+11760	20160	Er ist unabhängiger Theoretiker und schreibt, denkt und spricht viel zur Digitalisierung und den sozialen Folgen von Technologie.
+20160	24680	Das alles passt natürlich ganz ausgezeichnet in Future Histories.
+24840	32440	Und wundert euch nicht, wir sprechen zwar in der Episode heute unter anderem auch einmal kurz über Sam Bankman Freed,
+32440	42600	den Gründer der einstmals größten Crypto-Trading-Plattform FTX, der ja zurzeit in aller Munde ist, weil FTX gecrashed ist.
+42600	50320	Das Ganze ist ziemlich hilarious, muss man sagen, angesichts dessen, dass Sam Bankman Freed eben zum Beispiel,
+50320	60960	wie wir heute in der Episode auch besprechen, einer der größten Spender aus der Krypto-Szene war, was den US-amerikanischen Politapparat betrifft.
+60960	68760	Insofern kommt das Thema zwar heute vor, also eben zum Beispiel in Form des Lobbying durch die Krypto-Szene,
+68760	77320	aber der Zusammenbruch von FTX war noch nicht passiert, weswegen das natürlich jetzt in dem heutigen Gespräch auch noch nicht thematisiert wurde.
+77360	82920	Ich werde aber in die Show Notes auch einen Link machen zu einem Artikel über diesen Zusammenbruch,
+82920	87160	falls ihr wie auch immer bisher noch nicht davon gehört haben solltet.
+87160	92360	Und bevor es jetzt losgeht, möchte ich noch Carmen und Fabian für ihre Spenden danken.
+92360	101560	Und jetzt viel Freude mit der heutigen Episode mit Tante zu Crypto-Imagineries und alternativen technologischen Infrastrukturen.
+107320	109200	Herzlich willkommen, Tante.
+109200	111000	Ja, danke für die Einladung.
+111000	118960	In der About-Section deiner Homepage steht, dass du viel zu Digitalisierung und der Struktur des digitalen Selbst schreibst und sprichst.
+118960	121120	Das hat mich ziemlich neugierig gemacht, muss ich sagen.
+121120	126400	Was ist denn die Struktur des digitalen Selbst und wie definierst du Digitalisierung?
+126400	131520	Diese Selbstbeschreibungstexte auf Websites und so weiter sind ja immer so ein bisschen mit Vorsicht zu genießen.
+131520	136320	Man schreibt da immer so irgendwas hin, damit Leute ein Gefühl dafür haben, was man so tut.
+136320	144320	Von daher ist es natürlich nicht immer perfekt, sondern es ist eher so ein Marketing-Sprechen.
+144320	146920	Für mich ist Digitalisierung, also ich fange mal mit dem zweiten Teil an.
+146920	152520	Für mich ist Digitalisierung so ein Vergangenheitsthema,
+152520	165120	denn die Digitalisierung war die vergangene Phase, in der wir halt die bis dahin an vielen Stellen doch noch sehr analoge Welt eben durch digitale Technologien nicht ersetzt haben,
+165120	170920	aber viele Prozesse eben auf digitale Technologien gestützt haben und damit ja auch bestimmte Dinge eben vielleicht verloren haben,
+170920	180320	bestimmte Dinge eben auch gewonnen haben, aber wir haben halt bestehende soziale und auch teilweise auch materielle Prozesse durch digitale Technologien ersetzt.
+180320	183720	Von daher, für mich ist Digitalisierung fast eher ein historisches Thema,
+183720	188120	auch wenn in Deutschland, wo ich wohne, ja Digitalisierung mal als Zukunftsthema gelabelt wird.
+188120	193800	Aber das sagt halt auch viel über Deutschland aus, dass man immer noch glaubt, dass das irgendwo vor uns liegt
+193800	199600	und nicht die nicht gemachten Hausaufgaben der Vergangenheit sind.
+199600	207000	Das Digitale selbst und das ist jetzt keine akademisch perfekte Definition,
+207000	217200	aber was ich damit so meine, ist die Art und Weise, wie wir als Individuen uns im digitalen Raum, sag ich mal, bewegen oder wie wir darin leben.
+217200	226800	Und das hat eben natürlich auch viele, als das digitale Leben so eine echte Lebensrealität geworden ist und so ein Space,
+226800	233000	in dem auch nicht nur drei Wissenschaftler Paper veröffentlichten, sondern wo wirklich auch soziale Interaktion passiert,
+233000	239200	wo Menschen vielleicht auch Facetten von sich auslebten, die vorher sehr, sehr unterdrückt geblieben sind,
+239200	244000	die keinen Platz hatten, wofür es keinen Ausdruck gab.
+244000	249200	Ich glaube, dass das das ist, was ich am ehesten so mit der Struktur des Digitalen selbst bezeichnen würde.
+249200	257400	Also die Art und Weise, wie sich unsere Selbstausdruck, auch in gewisser Weise unsere Selbstwirksamkeit
+257400	264200	und auch das Experimentieren mit uns selbst und den Neuausprobieren vielleicht von Identitäten,
+264200	270400	wie sich das strukturiert anhand der digitalen Technologien, die wir haben, wie einfach bestimmte Dinge vereinfacht haben.
+270400	277200	Es ist halt leichter, mit einem Nischeninteresse zum Beispiel Gleichgesinnte zu finden, mit denen man das dann ausprobieren kann.
+277200	285400	Also, keine Ahnung, ich bin halt auf dem Land aufgewachsen, irgendwo in der norddeutschen Tiefebene, wo es mehr Kühe als Menschen gibt.
+285400	289800	Wenn man jetzt Ferry wäre, dann hätte man da wahrscheinlich Schwierigkeiten gehabt,
+289800	292400	jemanden zu finden, der überhaupt weiß, worum es da geht.
+293200	302600	Und ich glaube, dass das eine, das ist häufig eine Achse, entlang derer ich über so Digitaltechnologie nachdenke.
+302600	308200	Also verändert das, wie wir uns zueinander, zu anderen Menschen, zu unseren Communities positionieren,
+308200	318400	wie wir vielleicht andere Communities finden und wie halt diese, die ja eh immer nur hingelogene, so monolithische Eigenschaft unseres Selbst,
+318400	323000	also wir sind diese Person. Und bei mir fällt das immer auf so eine skurrile Art und Weise auf,
+323000	327600	weil ich habe ja so einen Dayjob, so Herr Jürgen Goethe arbeitet bei einer Firma und macht da Sachen.
+327600	330000	Und dann schreibe ich als Tante Krawallzeug auf Twitter.
+330000	335400	Und bei mir sind es ja auch noch zwei Namen, so. Da fällt Leute manchmal auf, so ist das eine Persönlichkeitsstörung oder so.
+335400	339000	Nein, es sind unterschiedliche Facetten und wir hatten das alle immer.
+339000	343800	Also wir sind ja auch an unserer Familie anders, als wir in der Öffentlichkeit schreiben oder sprechen.
+343800	346800	Wir sind mit unseren Freunden anders als mit unserer Familie.
+346800	353600	Wir sind überall immer anders und haben immer andere Facetten von uns, die wir zeigen und zeigen wollen und ausdrücken wollen.
+353600	360200	Und das war für mich, wer darüber zuguckt und dann vielleicht ja auch über gewisserweise Utopien sprechen,
+360200	364200	das war für mich halt mit einer der großen Utopien des Digitalen zu sagen,
+364200	371200	hey, wir können, wir haben hier Infrastrukturen, die es Menschen erlauben können, ganz viele Dinge mit sich auszuprobieren
+371200	375800	und an sich auszuprobieren, um zu sehen, wer sie sein wollen und wie sie sein wollen.
+375800	384200	Und das auch jederzeit verändern zu können, weil man halt leicht Zugriff auf die Möglichkeit hat, mit so was zu spielen.
+384200	390400	Ich vergesse deinen Namen, es gibt einen interessanten Professor in den USA, der sich halt damit beschäftigt, wie viele eigentlich Spiele sind.
+390400	395000	Und er sagt immer, Spiele ist eigentlich Agency as an Artform.
+395000	398400	Das heißt, Spiele sind die Kunst, Agency auszuprobieren.
+398400	404800	Ich kann halt ein Feuerwehrmann sein und spiele das dann irgendwie und kann fühlen, wie das wäre, wenn ich Feuerwehrmann wäre.
+404800	406800	Oder wenn ich Superheld wäre.
+406800	411000	Und natürlich sind Spiele manchmal sehr eindimensional, wir sind alle immer nur Superheld, das ist auch ein bisschen boring.
+411000	418000	Aber interessanterweise gibt es ja Spiele wie den Treckersimulator oder den Lastfahrersimulator, wo Leute sich auch ernsthaft sagen,
+418000	425000	ich bin jetzt mal Lastfahrer, ich fahre jetzt von Porto nach Berlin und fahre so die Straßen runter und probiere das aus.
+425000	429000	Und man lacht dann vielleicht von außen drüber, aber ich finde das wertvoll, ich finde das wertvoll,
+429000	435800	dass wir durch das Digitale die Möglichkeit haben, so etwas auszuprobieren an uns und mit uns.
+435800	441200	Tante, ich würde gerne heute mit dir zusammen eine Brücke bauen, eine Einladung vielleicht auch.
+441200	445600	Aber bevor wir das machen können, da brauche ich glaube ich noch eine Form von Enttäuschung,
+445600	450200	also im besten Sinne des Wortes, nämlich im Nehmen einer Täuschung.
+450200	455400	Du bist im deutschsprachigen Raum einer der bekanntesten und auch lautstärksten Kritiker des Hypes
+455400	461000	um Blockchain-Technologie, Cryptocurrencies, Web3 und so weiter.
+461000	467000	Und bringst die Sache, finde ich auch immer wieder, ziemlich gut auf den Punkt in der Art, wie du diese Kritik eben vorbringst.
+467000	474600	Bevor wir also zum konstruktiven Teil, zur Konstruktion, sagen wir mal so, kommen, da braucht es erst noch etwas Destruktion.
+474600	481200	Also was sind denn die zentralen Punkte deiner Kritik am Hype und vor allem auch der ideologischen Aufladung
+481200	486400	oder dem ideologischen Grounding vielleicht dieses Technologiebündels?
+486400	493000	Ja, man kann sich diesen ganzen Crypto-Blockchain-Thema aus sehr unterschiedlichen Richtungen nähern.
+493000	496800	Und das tun ja auch zum Glück viele Menschen in Deutschland, leider nicht ganz so viele,
+496800	501000	aber international gibt es ja schon eine große Community aus Leuten, die es kritisch begleiten.
+501000	505200	Es gibt Leute, die machen das ja aus der Finanzaufsicht und Finanzpolitik Sicht.
+505200	508000	Das ist nicht unbedingt meine, da kenne ich mich auch nicht so aus.
+508000	510200	Ich komme halt vor allem einerseits zur Technischen.
+510200	513000	Ich bin ja ausgebildeter Ingenieur, ich bin Informatiker.
+513000	516600	Von daher gibt die Technik, da habe ich einen gewissen Zugang zu.
+516600	522200	Und ich komme aber vor allem sehr stark aus der politischen Kritik an diesen Gesamtkonstrukt.
+522200	526200	Also wenn man diesen Hype, so Blockchain, rettet ja uns alle bei allem.
+526200	530400	Also als es beim Brexit die Diskussion gab, wie macht man das jetzt mit der Nordirland-Grenze,
+530400	533200	da gab es auch sofort Politiker, die sagen, wir machen das mit Blockchain.
+533200	535800	Das ist alles, dann läuft das einfach so.
+535800	539600	Keiner konnte mir erklären, wie eine Datenbank das macht, aber irgendwie sollte das so sein.
+539600	543600	Blockchain ist halt so ein Heilsversprechen, das sehen wir natürlich nicht nur in Deutschland,
+543600	545400	aber auch gerade in Deutschland immer ganz stark.
+545400	548200	Deutschland hat immer Angst, dass man so die Zukunftszenen verpennt.
+548200	551000	Mit KI hat man das verpennt, das Web hat man verpennt.
+551000	553200	Und jetzt kommen mal ein paar Leute und sagen, hier Blockchain ist die Zukunft.
+553200	555600	Und jetzt sagt man, okay, das verpennen wir nicht, das machen wir jetzt.
+555600	560200	Einfach, wir müssen das machen, ohne dass irgendjemand rational sagen könnte, warum.
+560200	564000	Und das ist schon der erste Kritik, wo man sagt, okay, wenn das jetzt eine Technologie ist,
+564200	567400	die hat ja Eigenschaften und es gibt ja auch Use Cases.
+567400	571200	Also Blockchain ist eine Technologie, die für einen ganz speziellen Use Case gebaut ist.
+571200	576600	Und zwar, man braucht eine gemeinsame Datenbank mit genau einem Zustand
+576600	581800	zwischen beliebig vielen Entitäten, die sich nicht vertrauen können und wollen.
+581800	586800	Wenn man diese Situation hat, kann man eine Blockchain einsetzen, die tut das.
+586800	592200	Wenn das jetzt so nützlich ist, wie ja viele der FürsprecherInnen,
+592400	594600	eigentlich sind es meistens Fürsprecher, wenn wir jetzt mal ehrlich sind,
+594600	597800	aber sind wir jetzt mal fair, sagen FürsprecherInnen.
+597800	601600	Wenn das stimmen würde, was die sagen, dass das halt die Zukunftstechnologie ist,
+601600	605800	dass man damit Supply Chains absichern kann, all diesen Kram,
+605800	608600	dann müsste das es ja auch mal geben.
+608600	612400	Denn wenn wir Ingenieure eine Sache sind, dann ist das faul.
+612400	615000	Wenn es eine Lösung für ein Problem gibt, was man hat,
+615000	619200	dann nimmt man die fertige und baut es nicht selber, weil man will halt früh nach Hause.
+619200	622400	Blockchain gibt es jetzt seit 13 Jahren.
+622400	624400	Das iPhone gibt es seit 14 Jahren.
+624400	628000	Also nur mal so einen Vergleich zu machen, wie alt ist diese Technologie einfach
+628000	633000	und welche Umwälzungen passieren eigentlich in dieser Zeit.
+633000	635200	Blockchain gibt es jetzt seit 13 Jahren.
+635200	637400	Ethereum seit, ich glaube, neun.
+637400	640600	Das ist jetzt so die flexiblere Blockchain, die ich so merken konnte.
+640600	642800	Und in der Zeit gibt es immer noch keine Cases.
+642800	647200	Es wird immer ganz viel in der Zukunft wird und es wird und später.
+647200	650000	Aber realistischerweise passiert damit nichts.
+650000	655200	Das ist aus der technischen Sicht so, ja, das ist irgendwie niedliches Spielzeug.
+655200	657600	Für so einen ganz speziellen Use-Case kann man das auch einsetzen.
+657600	661200	Aber eigentlich, wenn wir jetzt mal so wie Erwachsene miteinander reden,
+661200	665400	okay, wir haben ein echtes Problem in der Welt, das wir lösen wollen,
+665400	667800	dann ergibt diese Technologie eigentlich nie Sinn.
+667800	671800	Weil wir haben ganz selten die Situation, dass wir eine Datenbank zwischen Leuten,
+671800	675000	die sich nicht vertrauen können und wollen, bauen müssen.
+675000	681800	Weil in den meisten Situationen gibt es halt eine Vertrauensbeziehung zu entweder einer Struktur.
+681800	684000	Also es gibt irgendwie, wenn ich mit einer Behörde interagiere,
+684000	686400	dann ich kann jetzt die Behörde doof finden,
+686400	688600	aber es gibt da irgendein Level von Vertrauensbeziehung,
+688600	691200	insbesondere in westlichen Demokratien zu dieser Behörde.
+691200	695200	Oder wenn ich bei einer Firma was kaufe, kann ich die doof finden und was auch immer.
+695200	699000	Aber offensichtlich vertraue ich ihr genug, dass ich von ihr was kaufen möchte.
+699000	704000	Also gibt da in irgendeiner Form etwas, was eigentlich erlauben würde,
+704000	705400	immer zu sagen, wir bauen das anders.
+705400	708400	Ich bin jetzt aber nicht der Einzige und nicht der Erste, der auf diese Idee kommt.
+708400	715000	Also die australische Regierung hat schon 2017 eine Studie bei der australischen Digital Agentur
+715000	718800	in Auftrag gegeben, sagt, okay, klopft mal alles, was wir in Australien wirtschaftlich machen, ab
+718800	721600	und sagt uns, wo Blockchain die Lösung ist.
+721600	725800	Wo diese Agentur auskam, ist so, ja, du kannst halt schon bestimmte Sachen damit machen,
+725800	730200	aber du kannst es halt auch immer besser, billiger und robuster mit was anderem machen.
+730200	733800	Deshalb ist halt, aber wir haben das Narrativ da so umgekehrt in diesem Kontext.
+733800	737200	Es wird halt nicht gesagt, okay, wir haben ein Problem und hier ist Blockchain die beste Lösung.
+737200	740600	Es wird gesagt, wir haben Blockchain und man kann das mit einer Blockchain machen.
+740600	742200	Aber das ist halt nicht seriöses Arbeiten.
+742200	746000	Seriöse Arbeit ist zu sagen, okay, das Problem wollen wir lösen, wir machen das am besten.
+746000	749800	Mit welchen Seiteneffekten, mit welchen negativen und positiven Effekten.
+749800	751400	Das ist aus der technischen Ebene.
+751400	756400	Also es ist ein technisches Spielzeug, was komplett überhypt ist, mit allen möglichen Versprechungen übergossen würde.
+756400	760200	Aber als Ingenieur würde man sagen, ja, wenn du das machen willst, dann mach das doch so.
+760200	767000	Dann brauchst du nicht so viel Strom wie ein kleiner Staat, sondern du kannst es auf einem Raspberry Pi abfackeln, so ungefähr.
+767000	769800	Schlimmer finde ich allerdings persönlich wirklich diese politische Ebene,
+769800	774600	weil was sich da gesammelt hat in diesem in diesem Becken eben aufgrund dieser Ideen,
+774600	777800	es muss vertrauenslos sein, Vertrauen ist negativ.
+777800	779800	Es darf nicht zensierbar sein durch den Staat.
+779800	781400	Also für sie ist halt ein staatlicher Eingriff.
+781400	786200	Sie haben eine Zensur und eben nicht, oh demokratische Staaten greifen manchmal ein,
+786200	789600	weil das demokratisch legitimiert ist und wir als Gesellschaft das wollen.
+789600	790600	Es ist immer Zensur.
+790600	793200	Und wenn man halt in dieser Welt anfängt, Dinge zu bauen,
+793200	796800	dann baut man politisch sehr häufig etwas problematische Systeme auf.
+796800	798000	Und das genau ist, was wir da sehen.
+798000	802200	Für Bitcoin hat es David Columbia, ein Wissenschaftler aus den USA, mal schön nachgezeichnet,
+802200	806400	in seinem Buch The Politics of Bitcoin, Software as Right-Wing Extremism,
+806400	811600	wie sehr die Ideen, die zur Entwicklung von Bitcoin, damit zur Entwicklung des Blockchain geführt haben,
+811600	819600	halt eigentlich rechtslibertäre, häufig antisemitische und häufig auch borderline faschistische Ideen sind,
+819600	821400	die da umgesetzt werden sollen.
+821400	825000	Es sind halt, es wird nie gesagt, die Juden sind immer schuld an allem und so weiter.
+825000	828800	Aber immer, wenn auf Personen referenziert wird, wegen der man Blockchains braucht,
+828800	831600	denen man nicht vertrauen kann, haben die zufällig jüdische Nachnamen.
+831600	834400	Es sind einfach so ein bisschen hässliche, hässliche Verbindungen.
+834400	840000	Deshalb sammelte sich halt in dieser Suppe auch eine spezielle Subkultur aus Menschen,
+840000	842200	die das dann weiter vorangetrieben hat.
+842200	844200	Es wurde natürlich danach ein bisschen popularisiert,
+844200	849000	also durch Ethereum ist auch mehr möglich drauf, mehr Leute haben sich da getummelt
+849000	853200	und es ist jetzt auch keine komplett politisch homogene Gruppe, die da operiert.
+853200	856800	Das ist jetzt nicht eine Kaderschmiede und eine Partei, die da gemeinsam sowas tut.
+856800	863000	Es gibt auch Leute, die aus einer, nach meinem Verständnis, etwas verstrahlten linken Perspektive
+863000	864800	darauf Dinge tun wollen.
+864800	868000	Aber was man halt schon sieht, ist, diese Idee zu glauben,
+868000	872400	erstens, alle Probleme, die wir haben in der Welt, lassen sich lösen,
+872400	878800	wenn man einfach nur eine Datenbank findet, in der man das Digitalisat zweifelsfrei speichern kann.
+878800	883200	Schon das ist absurd, weil viele Dinge sind eben nicht
+883200	886000	einfach nachweisbar auf die eine oder andere Art und Weise,
+886000	888400	sondern das ist politische Diskurs, das ist Streit.
+888400	889600	Da geht es um Interessen vertreten.
+889600	892600	Da gibt es nicht richtig und falsch, sondern, naja, Leute wollen unterschiedliche Sachen
+892600	894600	und müssen das irgendwie miteinander aushandeln.
+894600	897200	Und da jetzt eine Technologie zu bauen und zu sagen, naja, wir bauen halt was
+897200	899600	und da steht halt eine Wahrheit drin und das ist halt wie es ist,
+899600	902000	ist natürlich auch schon ein extrem gewalttätiger Ansatz,
+902000	904400	der eben auch gar nicht mehr, wenn es da drin steht, ist es halt so.
+904400	908600	Und dann kannst du halt sagen, aber meine Rechte wurden hier verletzt, gibt es halt nicht.
+908600	911000	Politischer Diskurs soll halt abgeschafft werden.
+911000	914600	Und das sieht man auch in dieser Idee, halt alles über sogenannte Smart Contracts,
+914600	919400	durch Code, alle Regeln abzubilden, weil ja die Regeln, die wir so haben, Gesetze,
+919400	924400	das ist ja alles Willkür, entscheidet dann irgendein Richter oder sonst was, was man darf und nicht darf.
+924400	927400	Und Facebook entscheidet willkürlich, was moderiert wird und nicht.
+927400	931600	Und ich will jetzt gar nicht Facebooks Moderationspolitik für Kommentare besonders loben und so.
+931600	935400	Aber zu sagen, naja, wir machen einfach Code, der das entscheidet,
+935400	938000	ist halt auch schon eine, das ist schon nicht mehr apolitisch.
+938000	940000	Die sagt gern, das ist antipolitisch, was sie da tun.
+940000	944800	Sie wollen nämlich politischen Diskurs und diesen Kampf von Werten
+944800	947600	und diesen Struggle von Interessen, den wollen sie halt abschaffen.
+947600	950400	Der ist ihnen zu lästig, die Leute sollen nicht mehr diskutieren dürfen,
+950600	954600	sondern irgendjemand schreibt halt Code und der wird da deployed und der läuft.
+954600	957600	Was natürlich aus der Sicht, wenn man selber die Person ist,
+957600	960000	die im Zweifel dieses Smart Contracts schreibt, das sind ja Leute wie ich,
+960000	963000	die haben so Informatikausbildung, die können dann Smart Contracts schreiben.
+963000	965600	Das gibt ihnen natürlich extreme Macht.
+965600	968000	Aber das, was sie halt in vielen Stellen als Willkür wahrnehmen
+968000	972400	und auch argumentieren würden, hier guck mal, das Recht wird ja gar nicht auf alle gleich angewendet.
+972400	976000	Es ist ja eigentlich müsste das Recht ja immer gleich sein.
+976000	979600	Das stimmt aber ja gar nicht. Also das ist gar nicht unsere politische Überzeugung.
+979600	984400	Ich sage immer westliche Demokratie, ich lebe halt in Deutschland.
+984400	986200	Natürlich wenden wir das Recht unterschiedlich an.
+986200	991200	Es macht halt einen Unterschied, wenn du im Supermarkt irgendwie was zu essen klaust,
+991200	993400	ob du das machst, weil du keine Kohle hast,
+993400	996200	oder ob du das aus Langeweile machst, weil du ein kleines Kind bist,
+996200	999600	oder ob du das als Erwachsener machst, der damit Profit erwirtschaften möchte.
+999600	1002000	Das sind sehr, sehr unterschiedliche...
+1002000	1004200	Das Recht, sag du mal, ist ein Diebstahl, muss jetzt bestraft werden.
+1004200	1007600	Aber natürlich macht das einen Unterschied, was der Kontext dieses Ganzen ist.
+1007600	1010000	Und natürlich lässt sich das nicht durch Code abbilden.
+1010000	1014000	Okay, wie viel Strafe muss die Person jetzt kriegen, oder ist das legitim, was da an der Stelle passiert?
+1014000	1017800	Das sind halt politische Entscheidungen, die da irgendwie abgewickelt werden müssen.
+1017800	1021000	Und dafür sind aber natürlich Smart Contracts und so kleine Codeschnipsel,
+1021000	1024200	die einfach nur so durchrechnen, ja, okay, das ist jetzt das überhaupt nicht geeignet.
+1024200	1031200	Aber das Weltbild dieser Leute, was sie halt durch Technologie verfestigen wollen
+1031200	1034200	und ja auch als neue Infrastruktur ins ganze Netz schieben wollen
+1034200	1037000	und damit eben auch einen Großteil unserer Lebensrealität schieben wollen,
+1037000	1042400	ist dieses ganze Minderheitenschutz und politische Diskurs, das muss weg.
+1042400	1046000	Es gibt einfach Code und der läuft und das so muss das sein.
+1046000	1048800	Und die Leute, die halt den Code schreiben können, die entscheiden das halt.
+1048800	1052600	Und die anderen sollen halt have fun staying poor,
+1052600	1057000	sollen halt damit leben, dass sie halt nur noch Opfer und so das Ganze sind.
+1057000	1059600	Und das ist natürlich jetzt auch ein sehr Extremfall.
+1059600	1062000	Wenn man gerade sich so die extremen Bitcoiner anguckt,
+1062000	1064600	wie die so sprechen über ihre Zukunftsvision, wo wollen die hin?
+1064600	1067800	Die Zukunftsvision ist da ja, es gibt ja kein Geld mehr, also kein richtiges mehr,
+1067800	1072400	was wir so Euro, Schweizer Franken, Dollar, was man sich vorstellen kann,
+1072400	1074400	sondern es gibt nur noch Bitcoin.
+1074400	1076800	Und weil sie ja früh dran sind und schon Bitcoin haben,
+1076800	1080000	müssen alle anderen sich ja bei ihnen immer Bitcoin leihen.
+1080000	1082200	Das heißt, sie werden halt die neue herrschende Klasse,
+1082200	1085400	weil sie halt dieses knappe Asset haben und alle anderen sind ihnen unterworfen
+1085400	1088400	und müssen sich halt ihnen unterordnen, ihrem Willen unterordnen.
+1088400	1092800	Das ist ja das verhältnismäßig explizit formulierte Sichtweise.
+1092800	1096200	Und mir ist unklar, wie man das nicht als eine rechte,
+1096200	1098800	wenn nicht gar faschistische Denke wahrnehmen kann.
+1098800	1104400	Das ist halt eine ganz klare Strategie der Unterdrückung von den Großteilen der Bevölkerung.
+1104400	1108000	Und das jetzt als positive Utopie, weil halt der Staat nicht mehr eingreifen kann
+1108000	1110600	und vielleicht Geld umverteilen könnte gesehen.
+1110600	1113800	Deshalb ist das eigentlich meine Hauptkritik.
+1113800	1120000	Das ist gar nicht so, dass jede Person das so am tiefsten Grunde ihres Herzens so glaubt.
+1120000	1121000	Die hasst er auch.
+1121000	1126000	Du hast da auch Rechtsradikale, die sich damit finanzieren oder eben auch
+1126000	1130400	insbesondere ökonomisch halt komplett rechte Ideologien von der Stadt darf überhaupt nicht eingreifen.
+1130400	1132400	Das Einzige, was der Staat vielleicht noch dafür sicherstellen darf,
+1132400	1135800	dass es einen Markt gibt und alles andere darf der überhaupt nicht regulieren.
+1135800	1137000	Die hast du auch.
+1137000	1142200	Aber in vielen Stellen gibt es da einfach auch so extrem viel Unreflektiertheit,
+1142200	1144600	die dann aber genau diesen Ideen Vorschub leistet.
+1144600	1148400	Man sieht halt nicht, was man da sich auch mit in den Rucksack gesteckt hat.
+1148400	1151400	Es wird halt gesagt, okay, wir bauen da jetzt dezentrale Datenbanken,
+1151400	1154000	nicht mehr wie bei Facebook, sondern alle können mitmachen.
+1154000	1158400	Dann wird gesagt, das sei demokratisierend, weil diese Worte gleichgesetzt werden,
+1158400	1162400	wobei das eine ist ein technisches Architekturprinzip und das andere ist ein politischer Wert.
+1162400	1165800	Das sind schon konzeptionell offensichtlich andere Dinge.
+1165800	1170400	Und dann sagen wir dir, ja, aber das ist doch demokratisierend, was wir da tun,
+1170400	1175600	ohne zu verstehen, ja, aber was du da tust, ist die Grundlage unserer Demokratie,
+1175600	1180600	unserer politischen Diskussion und überhaupt deiner Mitbestimmung an der Welt zu unterminieren
+1180600	1183200	und dir eigentlich die Möglichkeit zu nehmen, an der Stelle mitzusprechen,
+1183200	1187000	weil du kannst eben nicht mehr, selbst wenn es nur Wahlen sind, eingreifen.
+1187000	1188400	Weil, nee, Wahlen gibt es nicht mehr.
+1188400	1190400	Es wird halt abgestimmt, wer am meisten Token hat.
+1190400	1194600	Also ich habe tausend Token, du hast einen Token, dann können wir mal abstimmen
+1194600	1197800	und ganz demokratisch festlegen, wie es jetzt weitergeht.
+1197800	1202800	Und deshalb spreche ich halt auch so laut und so viel darüber,
+1202800	1208200	weil eben genau diese Widersprüche, also es wird über Demokratisierung gesprochen,
+1208200	1211000	aber es wird ein System gebaut, was nicht demokratisch ist,
+1211000	1217800	sondern was, wenn im besten Fall noch plutokratisch ist, das ist mir so wichtig, das aufzuzeigen.
+1217800	1221200	Und das ist neben der Tatsache, dass das schlechte Technologie ist, die nicht skaliert.
+1221200	1224200	Okay, whatever, wir haben auch andere schlechte Technologie.
+1224200	1225600	Da müsste man sich jetzt nicht so aufregen.
+1225600	1227600	Das ist ein bisschen doof, aber okay.
+1227600	1234600	Aber diese politische Realität, die da als Infrastrukturschicht ins ganze Web gelegt werden soll,
+1234600	1238600	und das ist ja diese, es gibt diesen Begriff des Web 3, der in dieser Szene verwendet wird,
+1238600	1244600	sie wollen halt wirklich das Internet, was wir alle benutzen, ändern und zwar radikal ändern.
+1244600	1251600	Sodass diese Ideologien, die sie haben, Code is Law, alles ist nur noch eine Transaktion zwischen Personen.
+1251600	1256600	Es gibt eigentlich nur noch einen großen Markt und alles, was Menschen miteinander tun, ist Markt und Handel.
+1256600	1261600	Und alles, was eben nicht digitalisierbar ist oder was auf politischen Diskurs basiert, findet halt nicht mehr statt,
+1261600	1263600	gibt es halt nicht mehr.
+1263600	1266600	Das ist nach meiner Wahrnehmung sehr gefährlich.
+1266600	1271600	Natürlich schaffen die es nicht, alle Demokratien jetzt durch ihre technische Infrastruktur abzuwickeln,
+1271600	1276600	aber sie leisten halt Ideologie einen Vorschub und sie machen an Stellen was kaputt.
+1276600	1281600	Und sie normalisieren halt ein Handeln, was dann auch politisch wieder wirksam wird.
+1281600	1284600	Weil wenn man irgendwann sagt, okay, wir haben doch da in der Technik sehen wir auch,
+1284600	1287600	alles ist nur eine Transaktion, so haben wir jetzt das Internet umgebaut,
+1287600	1290600	dann ist es auch einfacher für die reale Welt zu argumentieren und für die physische Welt,
+1290600	1293600	das ist jetzt ja auch real, für die physische Welt zu argumentieren.
+1293600	1296600	Guck mal, dann ist hier abwärts machen wir hier auch alles nur noch transaktional.
+1296600	1301600	Ab jetzt kriegst du halt deinen Token zum Wählen und das ist ab jetzt Politik.
+1301600	1306600	Und deshalb ist das, glaube ich, ein sehr gefährlicher Pfad, der sich da bildet
+1306600	1310600	und bei dem man jetzt frühzeitig dafür sorgen muss, dass der wieder zuwächst
+1310600	1314600	und für uns wieder auf die Straße begeben und mal gucken, wo es dann hingeht.
+1314600	1319600	Es ist schon eine Weile her, dass ich selber auch so ein bisschen genauer mal mir
+1319600	1322600	diese verschiedenen Pfade, die da beschritten werden, angeguckt habe.
+1322600	1325600	Insofern wird mich auch so ein bisschen nochmal interessieren,
+1325600	1327600	was ist denn aktuell der Stand der Dinge?
+1327600	1331600	Also ich habe schon mitgekriegt am Rande, dass auf jeden Fall es jetzt auch wirklich
+1331600	1336600	konzertierte Bestrebungen gibt, zum Beispiel Lobbying zu betreiben
+1336600	1338600	im US-amerikanischen Kongress und so weiter.
+1338600	1343600	Also es wird sozusagen schon sowas wie, wenn man so will, eine nächste Phase eingeläutet,
+1343600	1351600	die auch dezidiert eigentlich versucht, eine eben politische Agenda dann doch eben voranzutreiben.
+1351600	1356600	Und wie gesagt, die Zeit, in der ich das ein bisschen genauer beobachtet habe,
+1356600	1358600	ist schon ein paar Jahre verstrichen.
+1358600	1362600	Insofern würde mich interessieren, hast du da in Bezug auf zum Beispiel eben
+1362600	1366600	dieses Vorantreiben der politischen Agenda so ein bisschen Updates,
+1366600	1368600	was da derzeit der Stand der Dinge ist?
+1368600	1373600	Sam Bankman Freed, dem eine der großen Exchanges gehört,
+1373600	1379600	FDX heißt die, und er gilt auch als einer der Vordenker oder der Brainiacs dieser Krypto-Szene,
+1379600	1383600	so Sam Bankman Freed ist a big deal, auch wenn er noch sehr jung ist.
+1383600	1387600	Der sagt zum Beispiel, dass er jetzt in den nächsten Wahlen in den USA,
+1387600	1391600	also da sind ja gerade Midterms, da wird so die halben Parlamente neu besetzt.
+1392600	1396600	Und auch in den Wahlen danach, da wird ja neuer Präsident gewählt und so weiter.
+1396600	1399600	Er will eine Milliarde Dollar ausgeben an Spenden.
+1399600	1401600	Eine Milliarde.
+1401600	1406600	Damit kann man sich schon eine ganze Menge, damit kann man eine ganze Menge Wahlkämpfe irgendwo gewinnen.
+1406600	1408600	In den USA korreliert das jetzt sehr stark.
+1408600	1411600	Also erreiche ich Leute, schaffe ich es, dass sie wählen und so weiter.
+1411600	1414600	Und er ist nicht der Einzige, der da viel, viel Geld auskippt.
+1414600	1417600	Und jetzt kann man sagen, gut, das ist ja auch sein demokratisches Recht,
+1417600	1420600	alle dürfen spenden, das ist ja in den USA so konstruiert.
+1420600	1423600	Das ist die beste Demokratie, die man kaufen kann.
+1423600	1428600	Aber das ist ja nicht nur auf die USA beschränkt,
+1428600	1432600	sondern wir sehen natürlich auch Lobbying in Deutschland, in Europa.
+1432600	1434600	Das funktioniert ein bisschen anders auf einer anderen Ebene,
+1434600	1436600	weil es nicht so direkt funktioniert mit Spenden.
+1436600	1439600	Aber es wird halt hier sehr viel über dieses Zukunfts-Narrativ gemacht.
+1439600	1441600	Und das ist Technologie, da musst du dabei sein.
+1441600	1445600	Wir sehen, dass Gruppierungen, die eigentlich kritisch sein müssten,
+1445600	1449600	wie zum Beispiel Academia, an vielen Stellen nichts dazu sagt oder wenig dazu sagt,
+1449600	1453600	weil man halt hofft, damit kann man sich halt seine Professur doch nochmal rausschälen.
+1453600	1456600	Und wie mal Blockchain-Professur, weil die anderen Professuren sind ja alle schon belegt.
+1456600	1460600	Die KI-Professuren sind jetzt alle neu verteilt, die sind alle 40, die leben noch lange.
+1460600	1464600	Also baust du dir halt ein neues Ding, sag dir ja Blockchain, dann machen wir das.
+1464600	1466600	Das müssen wir jetzt untersuchen, weil das so wichtig ist.
+1466600	1470600	Wo du, wenn du drauf guckst, Blockchain, das ist eine Linked-List mit einem Kult.
+1470600	1472600	Da braucht man nicht viele Untersuchungen.
+1472600	1476600	Aber damit kann man natürlich an der Stelle auch, und das ist natürlich politisch tätig sein,
+1476600	1481600	also zu sagen, ich schaffe eine Technologie, die durchaus formend auf eine Gesellschaft einwirken kann,
+1481600	1485600	auf die fundamentalen Glaubenssätze einer Gesellschaft,
+1485600	1490600	weil sie strukturiert wie bestimmte ökonomische und eben auch soziale Prozesse ablaufen.
+1490600	1493600	Wenn ich schaffe, dass ich da bestimmte kritische Stimmen ausschalte
+1493600	1497600	oder ihnen zumindest einen incentiviere, sich nicht kritisch zu positionieren,
+1497600	1500600	um eventuell noch Fördergeld zu bekommen.
+1500600	1504600	Wenn ich Leuten, die Technik nicht verstehen, aber die halt in der Politik sitzen und Entscheidungen versagen,
+1504600	1509600	dann kann man sagen, das musst du machen, weil Arbeitsplätze oder weil damit geht dann Digitalisierung ganz einfach.
+1509600	1516600	Das sehen wir halt extrem stark auch im deutschen und auch im europäischen Sektor,
+1516600	1522600	weil einfach in diesem Bereich sehr, sehr viel Geld herumschwimmt immer noch.
+1522600	1525600	Man weiß nie so genau wie viel, also die Summen, die da mal stehen, das ist alles wert,
+1525600	1531600	das sind komplett aufgeblasen und nicht real, aber es ist schon Geld da, die haben schon Geld eingesammelt.
+1531600	1534600	Und damit kann man halt schon sehr tätig werden. Man kann halt einen Lobbyisten bezahlen,
+1534600	1538600	der dann auch in Brüssel sitzt und den Leuten einen erzählt, bitte schreibt immer Blockchain mit rein,
+1538600	1541600	wenn es um Ausschreibung geht, bitte etabliert.
+1541600	1545600	Im Koalitionsvertrag der Bundesregierung, der aktuellen Bundesregierung in Deutschland,
+1545600	1550600	der Ampelkoalition, steht drin, dass das Grundbuch bitte auf eine Blockchain geschoben werden muss.
+1550600	1552600	Das hat die FDP reingeschrieben.
+1552600	1560600	Koalitionsverträge sind immer so ein bisschen whatever, aber da geht es gar nicht um, ob die diese Runde machen.
+1560600	1562600	Jemand hat es geschafft, dass es drin steht.
+1562600	1566600	Wahrscheinlich war es Frank Scheffler von der FDP, der sich so als der Schutzheilige der Blockchain in Deutschland sieht,
+1566600	1568600	aber das macht ja was.
+1568600	1573600	Am Ende, irgendwann musst du halt diese blöde Blockchain überall reinbauen, weil es halt im Förderantrag steht.
+1573600	1578600	Und dann irgendwann ist es normal, dass alles über diese automatisierten Smart Contracts laufen muss,
+1578600	1583600	was halt immer bedeutet, man hat kein Andu mehr, man hat eben diese ganzen Checks and Balances,
+1583600	1589600	die über Jahrzehnte, Jahrhunderte gebaut wurden, werden halt an der Stelle versucht zu unterlaufen.
+1589600	1591600	Regulierung wird versucht zu unterlaufen.
+1591600	1597600	Als ich 2018 im Bundestag war als Gutachter zum Thema Blockchain im Ausschuss Digital Agenda,
+1597600	1605600	da forderten halt die Blockchain Lobbyisten, dass sie, sie nannten das regulative Sandboxes haben müssten
+1605600	1607600	für Blockchain-Projekte.
+1607600	1609600	Was das bedeutet, sind rechtsfreie Räume.
+1609600	1614600	Bei denen aufgefallen ist, dass die DSGVO ist halt hässlich, das hat halt Grundrechtslevel.
+1615600	1620600	Also darf man gar keine personenbezogenen Daten in eine Datenbank schreiben, die, wo man nicht löschen kann,
+1620600	1622600	weil es gibt ein Löschrecht.
+1622600	1626600	Also sagten sie, könntet ihr bitte diese Grundrechte für Blockchain aushebeln, weil das geht bei uns nicht.
+1626600	1629600	Aber wir müssen damit spielen dürfen.
+1629600	1636600	Und das sind halt, das wurde auch, da wurde damals noch die Große Koalition, also die schwarz-rote Koalition in Deutschland,
+1636600	1639600	das wurde alles so, ja, ja, müssen wir mal gucken, wie wir das dann so machen.
+1639600	1644600	Und das sehen wir halt auch so, nicht auf so einer krassen Ebene in Deutschland, aber wir sehen das halt auch schon.
+1644600	1649600	Also da wird halt jemand mit weiter, wird so ein Blockchain-Campus mit einem zweistelligen Millionenbetrag
+1649600	1651600	so von der Bundesregierung gefördert.
+1651600	1655600	Aber wenn es darum geht, den Leuten irgendwie für die Gaspreise unter die Arme zu greifen, ist keine Kohle da.
+1655600	1661600	Da ist halt auch so ein bisschen, da wird so ein bisschen absurde Technologieförderung, Förderung betrieben.
+1662600	1669600	Ich sah es interessant, aber gestern dieses, natürlich haben viele dieser großen Crypto-Exchanges,
+1669600	1674600	Sam Bank und Freed, denen geht es vor allen Dingen darum, dass eben nicht kryptoreguliert wird.
+1674600	1678600	Dass das Ding nicht plötzlich wie Aktien behandelt wird, mit allen Transparenzpflichten und so weiter.
+1678600	1681600	Das will er halt verhindern, er will das, oh, das ist das ganz anderes.
+1681600	1686600	Deshalb, deshalb sponsert er halt irgendwelche Politikerinnen und schickt die halt in die Bahn.
+1686600	1690600	Okay, das ist, ich verstehe das, ich finde es nicht richtig, aber ich verstehe, warum er das tut.
+1690600	1693600	Aber auch da wieder, da satteln sich halt Leute drauf.
+1693600	1698600	Ich sah gestern ein Interview mit Curtis Yavin, den Namen, wenn man den nicht kennt,
+1698600	1701600	tritt auch manchmal auf als Minnicious Mold Bug.
+1701600	1708600	Und er ist im Prinzip der Gründer der Neoreactionaries, des Dark Web, des Intellectual Dark Web in den USA.
+1708600	1713600	Er argumentiert gegen Demokratie, er argumentiert für Monarchie.
+1713600	1717600	Und er sagt, die einzige Möglichkeit, also Menschen haben nicht alle gleiche Rechte,
+1717600	1720600	Menschen sind noch nicht gleich und es sind noch nicht alle Rassen gleich gut.
+1720600	1724600	Und es gibt sehr klar bestimmte Rassen, die jetzt am König auswählen müssen, der ab jetzt das ganze Ding steuern muss.
+1724600	1730600	Der sagt auch, super, dass da Kohle ausgekippt wird für genau diese Systeme, die wir brauchen.
+1730600	1736600	Das heißt, er ist halt sehr anknüpfungsfähig für eben auch insbesondere die neue Rechte in den USA.
+1736600	1740600	Die haben selber vielleicht die Kohle gar nicht, um sie reinzukippen, sind aber sehr dankbar,
+1740600	1746600	dass über diesen Pfad auch Ideen, die sie eh schon verfolgen, plötzlich hochfähig gemacht werden.
+1746600	1751600	Und das sehen wir. Ich habe vor allem jetzt die US-Welt und Europa im Blick.
+1751600	1756600	Aber wir sehen auch, wie zum Beispiel in Afrika plötzlich bei irgendwelchen Staaten
+1756600	1762600	Bitcoin als offizielles Zahlungsmittel neben den anderen offiziellen Zahlungsmitteln zugelassen wird.
+1762600	1767600	Und man sich fragt, warum? Also ihr habt für die Hälfte eurer Bevölkerung keinen Strom.
+1767600	1774600	Und vorher kommt halt jemand von einem großen Exchange rein, spricht halt mit Politikern und plötzlich wird das Ding der Legal Tender.
+1774600	1780600	Warum? Das sind schon einfach interessante Bewegungen, weil man halt so viel Geld hat
+1780600	1785600	und Geld macht einen halt relevant in diesen Spaces, die man einfach tun kann.
+1785600	1794600	Jetzt hast du viel gesprochen eben über eine bestimmte Seite oder ein bestimmtes Segment dieser Szene, sage ich mal.
+1794600	1800600	Und auch eben vielleicht so einen ideologischen Bodensatz könnte man vielleicht auch sagen.
+1800600	1805600	Aber es gibt eben innerhalb dieses Raumes ja nicht nur diese zynischen Spekulanten,
+1805600	1812600	die rechtslibertär Verbremden und Kryptofaschisten, die FOMO-Kids und die solutionistischen Technik-Deterministen,
+1812600	1818600	sondern es gibt eben auch, wenngleich das eine kleine Nisch ist, zugegeben, ja.
+1818600	1826600	Aber es gibt tatsächlich auch solche, die dann aufrichtig nach, sagen wir mal, wünschenswerten systemischen Alternativen suchen
+1826600	1830600	und eben auch meinen, zum Beispiel mit sogenannten DAOs, die du ja schon erwähnt hattest,
+1830600	1835600	die Decentralized Autonomous Organizations, solche Alternativen auch in die Welt bringen zu können.
+1835600	1842600	Und das hat manchmal so ein bisschen eine komische oder vielleicht auch ein bisschen tragische Note, könnte man sagen,
+1842600	1848600	wenn da Leute versuchen, den Postkapitalismus in der Ethereum-Blockchain umzusetzen.
+1848600	1854600	Aber ich finde es trotzdem wichtig, dass man eben, dass man eigentlich diese soziotechnische Imagination,
+1854600	1858600	die da eben auch mit im Spiel ist, dass man die ernst nimmt, ja.
+1858600	1865600	Also, dass man sich auch dieses Bedürfnis anguckt, das sich dadurch artikuliert und eben dieses ernst nimmt, ja.
+1865600	1870600	Und jetzt kann man hingehen und diesem Imaginären zugrunde liegenden Prämissen kritisieren.
+1870600	1872600	Und das sollte man auch, ganz wichtig.
+1872600	1877600	Aber es geht eben dann auch, finde ich, um die Anschlussfrage, die dann eigentlich danach kommt.
+1877600	1880600	Was gibt es denn für Alternativen?
+1880600	1885600	Also was ist positiv gewendet, dann ein Angebot, was man dem zur Hand geben kann,
+1885600	1889600	wohin sich dieses Bedürfnis eben auch kanalisieren kann?
+1889600	1892600	Also man könnte das vielleicht so ein bisschen auf den Punkt gebracht,
+1892600	1896600	dann auch auf die auf dich jetzt personalisierte Frage vielleicht bringen.
+1897600	1903600	Was sind denn zum Beispiel soziotechnische Imaginationen, zu denen du Ja sagen würdest?
+1903600	1907600	Ja, daraus sind in der Hinsicht wirklich ein schönes Beispiel.
+1907600	1912600	Weil ja, es gibt absoluter ÜberzeugungstäterInnen, die da alles Mögliche versuchen.
+1912600	1920600	Und an vielen Stellen ist ja sogar die Problemanalyse, die vielen dieser Web3 FürsprecherInnen zugrunde liegt,
+1920600	1923600	die sie zugrunde legt, ist ja richtig.
+1923600	1926600	Das Web, das wir jetzt haben, ist zentralisiert.
+1926600	1931600	Also Facebook hat den Social Graph, Google hat den Search Graph, Amazon hat den Shopping Graph.
+1931600	1936600	Alle haben so ihr Ding abgesteckt und am Ende entscheiden die halt da drin, was passiert.
+1936600	1940600	Und wenn dann was anderes hochkommt, wird es halt gekauft und einverleibt an der Stelle.
+1940600	1945600	Also das ist ja offensichtlich ein Problem, was wir haben und dem auch sehr offensichtlich
+1945600	1949600	sich die Staaten scheinbar sehr machtlos gegenüber sehen.
+1949600	1953600	Ich sehe da sehr wenig an kreativen Umgang damit.
+1953600	1955600	Das wird dann vielleicht noch beklagt und so weiter.
+1955600	1957600	Und dann sagt man, wir hätten gerne europäisches Facebook.
+1957600	1961600	Aber was das soll, kann einem auch keiner so richtig sagen.
+1961600	1966600	Oder wie das eine bessere Lösung wäre oder wie das nachhaltig das Problem ist.
+1966600	1970600	Genauso wie auch diese Frage, okay, könnte das nicht eine Möglichkeit sein,
+1970600	1974600	die sich KünstlerInnen oder andere Dinge finanzieren können, die sich sonst nicht finanzieren?
+1974600	1976600	Das ist ja alles durchaus legitim.
+1976600	1978600	Diese Probleme, die benannt werden, sind richtig.
+1978600	1981600	Und an die müssen wir ran, auf jeden Fall.
+1981600	1985600	Auch wenn gesagt wird, dass viele Dinge eben nicht demokratisch genug sind.
+1985600	1991600	Wenn sowas wie, wer alter Mann, sei jetzt Facebook als Beispiel,
+1991600	1994600	heute sind die Leute wahrscheinlich auf Instagram, Facebook, was ja Meta gehört,
+1994600	1996600	von da ist es doch same shit.
+1996600	1998600	Die Tatsache, dass halt diese sozialen Plattformen, die wir nutzen,
+1998600	2004600	dass es da eben keine demokratische Teilhabe gibt, obwohl die eben nicht irgendeine Firma sind,
+2004600	2009600	zu der ich, wenn ich jetzt Schuhe kaufe, kann ich mir von 1.000 Firmen Schuhe kaufen.
+2009600	2012600	Und wenn die eine mir nicht passt, dann hält man das dann kein Problem.
+2012600	2013600	Das kann ich ja nicht machen.
+2013600	2015600	Also ich kann zu Twitter gehen oder ich kann halt nichts machen.
+2015600	2018600	Ja, Mastodon und mit drei Nerds reden.
+2018600	2020600	Oder ich kann zu Facebook gehen, wo halt alle sind.
+2020600	2023600	Oder ich baue halt mir da auch irgendwas anderes auf, wo halt kein Schwein ist.
+2023600	2026600	Die Tatsache, dass wir da halt so wenig Attentive haben, sorgt halt dafür,
+2026600	2030600	dass wir da politisch eingreifen müssen.
+2030600	2033600	Aber da, im Prinzip zeigt sich da schon mein unterschiedlicher Zugang.
+2033600	2034600	Für mich ist das nicht ein Wirk.
+2034600	2036600	Wir finden da jetzt keine Wundertechnologie,
+2036600	2039600	selbst wenn Blockchains so wunderhafte Eigenschaften hätten,
+2039600	2041600	wie das es ihnen gerne zugeschrieben wird.
+2041600	2043600	Und ich erhobe es gerne nochmal.
+2043600	2044600	Das haben sie nicht.
+2044600	2047600	Das ist technisch auch nicht advanced shit, was da passiert.
+2047600	2049600	Das ist wirklich trivialer Kram.
+2049600	2054600	Man kann eine Blockchain in 300 Zeilen Python schreiben und das ist faktisch äquivalent.
+2054600	2057600	Selbst wenn es diese Technologie gäbe, ist das nicht der Pfad.
+2057600	2060600	Weil wir haben ja die letzten, ja, man kann Jahrzehnte sagen,
+2060600	2063600	haben wir extrem viel Technologie ausgekippt.
+2063600	2065600	Wir haben gesagt, wie macht es das Internet?
+2065600	2066600	Dann haben wir das aufgemacht.
+2066600	2069600	Es wurde ja sogar sehr bewusst entschieden, ja, wir machen das kommerziell.
+2069600	2072600	Das war ja zu Beginn auch eine offene Frage.
+2072600	2075600	Lässt man eine kommerzielle Entität und privatisiert alles?
+2075600	2078600	Kommerzielle Entitäten zu und privatisiert alles?
+2078600	2079600	Oder will man das anders organisieren?
+2079600	2080600	Man hat sich sehr bewusst entschieden,
+2080600	2085600	nee, das soll marktbasiert, privatisiert, kommerziell sein.
+2085600	2089600	Und dann hat man da ja alle Leute, alle konnten halt alles ausprobieren.
+2089600	2092600	Und merkt da mal diese Tendenz zu Zentralisierung.
+2092600	2093600	Das wusste schon Adam Smith.
+2093600	2095600	Das hat man da jetzt auch gesehen.
+2095600	2097600	Alles hat sich halt zentralisiert.
+2097600	2099600	Wir haben also diesen Ansatz, wir kippen jetzt in Technologie,
+2099600	2102600	die auch vielleicht interessante, vielleicht auch tolle Eigenschaften hat,
+2102600	2104600	wie das Internet kam und alle dachten so,
+2104600	2107600	ich kann mit Leuten überall auf der Welt in Echtzeit sprechen.
+2107600	2112600	Ich kann Musik, alle Musik der Welt ist in meinem Napster vorhanden.
+2112600	2114600	Oder heute in Spotify oder wie auch immer.
+2114600	2120600	Diese krassen technischen Möglichkeiten, die aufgespannt wurden,
+2120600	2122600	das Spiel haben wir jetzt gerade gemacht.
+2122600	2124600	Und wir haben dabei aber immer vergessen,
+2124600	2126600	so diese politische Ebene mitzuziehen.
+2126600	2130600	Also du sagst ja gerade sozio-technische Imagineries.
+2130600	2133600	Wir haben den Sozio-Teil, haben wir nicht gemacht,
+2133600	2135600	haben gedacht, das löst sich schon irgendwie.
+2135600	2137600	Wir haben Technik und die ist cool.
+2137600	2139600	Heute häufig sogar etwas weniger cool,
+2139600	2142600	weil irgendwie so richtig interessante Dinge sieht man auch eigentlich,
+2142600	2143600	finde ich, sehr wenig.
+2143600	2145600	Also das meiste, was technisch rauskommt,
+2145600	2147600	ist ja gut größerer Bildschirm, dickerer Prozesse.
+2147600	2150600	Aber dass man wirklich nochmal geflasht ist von irgendwas,
+2150600	2152600	hat es jetzt auch lange nicht gegeben.
+2152600	2156600	Aber die Imagineries, die ich aufnehmen würde aus diesem Web3-Narrativ
+2156600	2159600	oder da jetzt irgendwelche Technik mitnehmen zu wollen, ist zu sagen,
+2159600	2165600	ja, wir haben massive Demokratisierungsdefizite in diesen Plattformen.
+2165600	2170600	Diese Dinge einfach so marktbasiert durch irgendwelche Firmen abwickeln zu lassen,
+2170600	2172600	ist offensichtlich nicht der richtige Weg.
+2172600	2177600	Das führt, selbst wenn man mit Monopolen kein Problem hätte,
+2177600	2183600	hat man dann immer das Problem, wenn man Monopolisten hat,
+2183600	2187600	dann hat man damit auch quasi eine private Polizei eingeführt,
+2187600	2189600	weil die muss ja dann anfangen, die Rechte durchzusetzen.
+2189600	2192600	Aber welche und wie und was ist, wenn die sich widersprechen?
+2192600	2194600	Wessen Rechtsstatus gilt denn dann?
+2194600	2198600	Im Zweifelsfall sagt Facebook, ja, wir sind US-Firma, US-Rechte gelten für uns,
+2198600	2200600	aber es ist ja gar nicht immer unsere Wertvorstellung.
+2200600	2202600	Wir in Deutschland haben ja zum Beispiel,
+2202600	2206600	das Leugnis des Holocausts ist für uns nicht Meinungsfreiheit.
+2206600	2209600	In den USA, do whatever, alles fine.
+2209600	2214600	Auch mit dieser Diversität auch von unseren Communities umzugehen,
+2214600	2216600	werden wir halt nicht über monopolisierte Plattformen
+2216600	2220600	in der Hand von ein paar profitorientierten Unternehmen schaffen.
+2220600	2222600	Und da knüpft sich sogar ein bisschen die Verbindung zu Beginn,
+2222600	2224600	als ich sagte, das Digital ist halt so eine schöne Möglichkeit,
+2224600	2228600	so die Vielfalt von uns selbst zu erkunden und auszuprobieren.
+2228600	2232600	Wir haben ja auch so eine Diversität in unseren Communities,
+2232600	2235600	in den Rechtsvorstellungen, in den Normen, die wir haben.
+2235600	2237600	Also das Plakativste ist natürlich,
+2237600	2240600	in Deutschland ist ein Foto von einer stillenden Frau,
+2240600	2242600	ja, das ist halt eine stillende Frau, die füttert ihr Kind.
+2242600	2243600	Das ist halt normal.
+2243600	2245600	In den USA ist das stark sexualisiert und da darf man nicht zeigen,
+2245600	2247600	da ist eine Brust drauf.
+2247600	2251600	Ein anderer Fall, den ich da in der Hinsicht ganz interessiert,
+2251600	2255600	ich sprach mal mit einem Maori aus Neuseeland und der sagte,
+2255600	2258600	also dieses europäische Verständnis von Daten,
+2258600	2261600	deine Daten sind dein Eigentum und du musst einwilligen,
+2261600	2262600	damit man was damit tut.
+2262600	2264600	Da war für ihn komplett absurd.
+2264600	2267600	Er sagte, nein, zum Beispiel mein genetischer Code,
+2267600	2270600	der gehört mir gar nicht, der gehört meinem Stamm,
+2270600	2272600	weil das ist meine Verbindung zur Historie,
+2272600	2274600	das ist die Geschichte unseres Stammes,
+2274600	2276600	die sich auch in meinem Code ausdrückt
+2276600	2278600	und in dem Code meiner Kinder ausdrücken wird.
+2278600	2280600	Ich kann da gar nicht einwilligen,
+2280600	2282600	ich habe überhaupt nicht das Recht dazu,
+2282600	2286600	weil das betrifft ja alle meine Vorfahren und die Gesamt-Community.
+2286600	2290600	Also einfach diese unterschiedlichen Wahrnehmungen auf die Welt,
+2290600	2293600	die drücken wir im Moment digital überhaupt nicht aus.
+2293600	2298600	Wir haben da so diesen westlich stark US geprägten Stiefel,
+2298600	2300600	so digitalisieren wir alles.
+2300600	2302600	Manchmal darf man dann für Europa oder China
+2302600	2305600	bachten auch manchmal noch eine eigene Suppe, so ein bisschen.
+2305600	2309600	Aber eigentlich haben wir genau das überhaupt nicht mitgenommen.
+2309600	2311600	Und da haben wir das auch nicht begriffen als,
+2311600	2314600	das ist ein Wert und das ist auch etwas,
+2314600	2316600	das ist erstens zutiefst menschliches,
+2316600	2319600	das ist zweitens etwas zutiefst erhaltenwertes
+2319600	2322600	und das ist drittens auch etwas zutiefst bereicherndes,
+2322600	2326600	dass wir sowas eigentlich da auch abbilden können.
+2326600	2328600	Wir haben nicht überlegt, wie wir das tun können.
+2328600	2332600	Wie baut man denn ein globales soziales Netzwerk,
+2332600	2335600	in dem aber bestimmte Communities vielleicht bestimmte Dinge
+2335600	2337600	eben nicht zulassen, die andere zulassen wollen,
+2337600	2340600	aber trotzdem in irgendeiner Form kommunizierbar bleiben.
+2340600	2343600	Weil ich kann sagen, die machen halt ihr eigenes Social Network.
+2343600	2347600	So Christian Mingel, da kannst du halt radikale Christen daten.
+2347600	2350600	Klar kannst du das machen und alle bauen sich so ihre kleine Festung,
+2350600	2353600	aber das ist ja nicht, wie wir als eine sich digital vernetzt
+2353600	2355600	und globalisierende Gesellschaft umgehen wollen.
+2355600	2358600	Und es ist besonders, wenn wir sehen, dass die Challenges, die wir haben,
+2358600	2360600	die lassen sich ja nicht mehr in Kleingruppen
+2360600	2362600	oder auf Nationalstaatsebene lösen.
+2362600	2364600	Climate Change, da können jetzt die Staaten Wettbewerb machen,
+2364600	2366600	aber das funktioniert halt nicht.
+2366600	2370600	Das ist ein globales Problem, dass eine Handvoll Staaten,
+2370600	2374600	inklusive der Staaten, in denen wir beide leben, viel Teil dran hatten.
+2374600	2377600	Viele andere haben da nichts beigetragen.
+2377600	2379600	Aber das müssen wir halt jetzt auch global lösen.
+2379600	2382600	Und deshalb ist ja das Zerrupfen der Menschheit wieder
+2382600	2385600	in kleine Stämme, die nicht miteinander reden.
+2385600	2386600	Das gibt keinen Sinn.
+2386600	2388600	Aber wie können wir trotzdem Communities die Möglichkeit geben,
+2388600	2390600	ihren Charakter nicht zu verlieren?
+2390600	2392600	Das ist, finde ich, eine super interessante Frage.
+2392600	2395600	Und natürlich die Dow-Leute behaupten, dass sie da auch irgendwie aktiv sind.
+2395600	2397600	Diesen sind sie aber eigentlich jetzt nicht so stark,
+2397600	2400600	weil da geht es auch immer nur um Tokens und Voting.
+2400600	2404600	Aber das ist ein bisschen eine zugrunde liegende Idee, die da drin ist.
+2404600	2409600	Also solche Formen von Zusammenarbeit klingt jetzt falsch,
+2409600	2412600	aber von Zusammenleben und miteinander interagieren,
+2412600	2416600	abbildbar zu machen und auch nicht als skurriles Nischenprojekt,
+2416600	2419600	sondern wirklich zu sagen, okay, die digitalen Infrastrukturen,
+2419600	2423600	die zum Beispiel soziale Netzwerke strukturieren, müssen das zulassen.
+2423600	2426600	Und vielleicht ist es halt eben da auch die Frage,
+2426600	2430600	ob eben die grundlegende Struktur von so etwas wie einem Facebook,
+2430600	2432600	vielleicht darf die einfach keiner Firma gehören,
+2432600	2434600	und vielleicht muss sie sogar dezentral sein.
+2434600	2439600	Also es gibt gerade ja auch mehrere Vorschläge.
+2439600	2442600	Es gibt ein aktuelles Buch von Ben Tarnow, heißt er, glaube ich,
+2442600	2445600	das sich auch damit beschäftigt, wusstet um jetzt zu sagen,
+2445600	2448600	hey, vielleicht ergibt es Sinn, dass man auch das Internet,
+2448600	2450600	was ein globales, digitales Ding ist,
+2450600	2453600	ein bisschen an die lokalen Communities koppelt und sagt,
+2453600	2456600	okay, es gibt Protokolle, wie soziale Netzwerke funktionieren,
+2456600	2460600	alle können mit allen sprechen, aber dein Storage wird zum Beispiel
+2460600	2462600	von deiner Stadt angeboten.
+2462600	2464600	Also ich wohne in Berlin, Berlin würde mir halt quasi
+2464600	2466600	mein Berlin-Facebook anbieten.
+2466600	2468600	Ich habe einen Ansprechpartner vor Ort, und was kaputt ist,
+2468600	2471600	da wird auch der regulative Rahmen irgendwie gesteckt.
+2471600	2474600	Ich kann trotzdem mit jedem überall auf der Welt Daten austauschen,
+2474600	2478600	aber es gibt in irgendeiner Form so eine Verankerung auch in meiner lokalen Community,
+2478600	2483600	die mir erlaubt, bestimmte mir wichtige lokale Regeln irgendwie auszudrücken,
+2483600	2485600	ohne mich abzuschließen von allem anderem.
+2485600	2489600	Und das ist, glaube ich, eine Frage, die man ernsthaft debattieren muss
+2489600	2492600	und da auch Vorschläge ausarbeiten muss, die jetzt nicht nur
+2492600	2495600	von der Hand von Techniker sagen, guck mal, wir haben eine Schnittstelle hier geschaffen,
+2495600	2498600	bei der aber niemand, ja auch Facebook hat ja kein Interesse dran,
+2498600	2501600	dass andere Leute da andocken können irgendwie.
+2501600	2504600	Die wollen halt das Monopol haben, also wusst man da politisch,
+2505600	2509600	vielleicht dürft ihr halt den Social Graph nicht haben,
+2509600	2512600	vielleicht brauchen wir eine andere Organisationsform,
+2512600	2516600	wie sowas organisiert wird, und ihr könnt auch eine Anwendung darauf anbieten,
+2516600	2519600	die der Newsfeed ist oder was auch immer ihr anbieten wollt.
+2519600	2525600	Ich glaube, das sind Denkrichtungen, die einige Leute, glaube ich, versuchen,
+2525600	2528600	mit daraus umzusetzen oder damit zu experimentieren,
+2528600	2532600	aber dabei wird einfach der, das ist auch das, was ich gerade beschrieben habe,
+2532600	2535600	klar ist das auch ein bisschen technische Herausforderung,
+2535600	2538600	eine Schnittstelle zu definieren, das zu implementieren,
+2538600	2541600	aber die Herausforderung ist zu sagen, okay, was sind die politischen Werte,
+2541600	2544600	die wir ausdrücken wollen und wie finden wir dann einen Konsens darüber,
+2544600	2547600	wie funktioniert Governance von so einer globalen Struktur,
+2547600	2550600	die sich ja auch weiterentwickeln soll, die soll ja nicht jetzt einmal hingekippt werden
+2550600	2553600	und dann für immer so sein, aber wie funktioniert es denn,
+2553600	2556600	dass man da Weiterentwicklungen durchführt, die nicht wieder
+2556600	2559600	Ausschlüsse erzeugen, die nicht wieder für Leute nicht ertragbar sind
+2559600	2562600	oder die nicht wieder Leuten ihre Rechte abschneiden.
+2562600	2567600	Und diese Form von Demokratisierung, von eben auch Technologieentwicklung
+2567600	2573600	ist, glaube ich, der wichtigste Aspekt an der Stelle.
+2573600	2574600	Und den kann man überall anwenden.
+2574600	2578600	Also ich habe jetzt Facebook oder Social Networks als ein Beispiel rausgeholt,
+2578600	2582600	aber das stellt sich ja in jedem anderen technischen Kontext auch.
+2582600	2584600	Also keine Ahnung, darfst du das wie Amazon geben?
+2584600	2585600	Okay, wie funktioniert denn das dann?
+2585600	2588600	Vielleicht hat ja die Tatsache, dass es eine Plattform gibt,
+2588600	2590600	bei der ich Dinge kaufen kann.
+2590600	2591600	Das hat auch einen Wert.
+2591600	2595600	Also Menschen kaufen auch deshalb viel bei Amazon, weil sie wissen, okay,
+2595600	2596600	wie kriegen die das hin?
+2596600	2599600	Ich habe Vertrauen zu dieser Plattform, die liefern.
+2599600	2603600	Ich weiß wahrscheinlich auch, dass die Arbeitsbedingungen in den Warehouses
+2603600	2604600	eine Katastrophe sind.
+2604600	2608600	Aber am Ende müssen die Leute auch immer eine Entscheidung treffen,
+2608600	2613600	was kann ich denn irgendwie, wie kann ich mein Leben halbwegs sicher abwickeln,
+2613600	2617600	halbwegs in der Zeit, die mir zur Verfügung steht, Dinge abwickeln?
+2617600	2622600	Und das Wichtigste an der Stelle, und das ist jetzt zu Beginn nicht erwähnt,
+2622600	2624600	aber ich nenne mich ja auch gerne Neoludit.
+2624600	2628600	Und die Luditen haben ja immer ein sehr schlechtes Standing.
+2628600	2631600	Die hassen nur Technik, die wollen alle Technik kaputt hauen,
+2631600	2633600	weil sie verstehen sie nicht und sind also doof.
+2633600	2638600	Aber eigentlich ist das der wichtigste Glaube, den Luditen schon immer hatten
+2638600	2641600	und die Neoluditen jetzt auch wieder sehr stark aufnehmen,
+2641600	2643600	zu sagen, man kann zur Technologie auch Nein sagen.
+2643600	2646600	Man darf auch sagen, das wollen wir nicht.
+2646600	2649600	Man muss nicht sagen, ja, aber das wird halt eh entwickelt.
+2649600	2651600	Man kann sagen, nein, wir machen das nicht.
+2651600	2654600	Wir verbieten, dass das passiert, wir setzen uns dagegen ein,
+2654600	2657600	wir machen einfach einen Strich und sagen, das ist die falsche Richtung,
+2657600	2659600	das ist der falsche Pfad.
+2659600	2662600	Wir haben es vielleicht sogar ausprobiert, haben gesehen, das ist nicht richtig.
+2662600	2666600	Wir haben jetzt gesagt, dass das Netz alles privatisieren, alles private,
+2666600	2669600	komplett marktwirtschaftlich profitorientiert unternehmen.
+2670600	2672600	Not the way for everything.
+2672600	2675600	Also zurückrudern, wie können wir das neu aufsetzen,
+2675600	2679600	auf eine Art und Weise, die eben uns als Einzelpersonen, uns als Communities
+2679600	2682600	irgendwie gerechter wird.
+2682600	2688600	Dazu muss man sich ein bisschen von diesem Technologie-Primat lösen,
+2688600	2692600	zu glauben, wenn das jemand baut, dann muss das auch so sein.
+2692600	2695600	Dann kann man vielleicht noch mal mit denen reden, vielleicht machen sie
+2695600	2700600	noch netterweise etwas ein bisschen anders, aus PR-Gründen oder weil sie es
+2700600	2702600	wirklich richtig finden.
+2702600	2706600	Dann muss man sagen, nein, die imaginaries, die sozio-technischen imaginaries,
+2706600	2711600	mit denen wir jetzt umgehen müssen, sind halt hart politisch zu erkämpfen.
+2711600	2716600	Das sind eben nicht Implementierungsvorschläge oder Patches an irgendwas,
+2716600	2722600	sondern das ist sehr harte Arbeit, bei der man sich auch mit Leuten unterhalten muss
+2722600	2725600	und denen die Augen gucken muss, die man eigentlich nicht mag.
+2725600	2732600	Also mir macht das ja auch keinen Spaß, mich mit Ultrakonservativen
+2732600	2734600	auseinandersetzen zu müssen.
+2734600	2736600	Das ist nicht meine Weltsicht, ich funktioniere so nicht.
+2736600	2741600	Okay, aber wenn man sowas bauen möchte, dann muss man halt drüber reden, okay,
+2741600	2748600	keine Ahnung, ihr wollt ein Netz, in dem Nackthalt nicht erlaubt sein darf
+2748600	2750600	für eure Community.
+2751600	2754600	Okay, verstehen wir, ihr wollt bestimmte Dinge irgendwie regeln,
+2754600	2757600	wie können wir das dann auf eine für alle faire Art und Weise bauen,
+2757600	2761600	sodass wir eben auch nicht nur jetzt noch kleine zensierte von einer Handvoll
+2761600	2766600	leutenkontrollierte Mini-Baronien bauen, in denen dann irgendwelche Warlords
+2766600	2769600	quasi über ihre kleinen Stämme regieren.
+2769600	2775600	Und das sind die großen Fragen gerade, auf die ich jetzt auch,
+2775600	2778600	ich hätte jetzt gerne eine fertige Antwort so, in 5 Minuten runtergenudelt,
+2778600	2784600	ich habe die leider nicht, aber das ist das, wo man, glaube ich,
+2784600	2788600	ein paar Leute aus diesem Krypto- und Web3-Umfeld mitnehmen kann,
+2788600	2791600	wo man sagt, okay, wir lassen jetzt mal diesen Technikkult und Blockchain-Shit,
+2791600	2794600	wir lassen es aber weg, und wir reden auch nochmal drüber,
+2794600	2797600	ob Dezentralisierung und Demokratie wirklich dasselbe sind,
+2797600	2800600	Spoiler, sind sie nicht.
+2800600	2802600	Und dann lassen wir jetzt mal an die echten Probleme gehen,
+2802600	2804600	lassen wir wirklich drüber reden, was sind denn die nächsten Schritte,
+2804600	2807600	was ist das, was wir als erstes irgendwie umbauen wollen.
+2807600	2810600	Und ich habe gar kein Problem, nur zu sagen, man muss im Netz Dinge radikal ändern.
+2810600	2813600	Absolut. Sollte man.
+2813600	2816600	Aber wie machen wir das auf eine Art und Weise,
+2816600	2820600	die nicht wie deine handvollen Nerds in Berlin oder sonst wo bauen,
+2820600	2824600	jetzt irgendein Casino, in dem man zufällig auch Blogposts absetzen kann.
+2824600	2827600	Das ist ja nicht das, was Sinn ergibt für uns.
+2827600	2831600	Ja, viele Fragen, also viele offene Fragen auch.
+2831600	2834600	Und natürlich würde mich das total interessieren,
+2834600	2838600	da jetzt quasi noch weiter hineinzugehen in die Frage,
+2838600	2841600	wie denn Antworten auf all das aussehen könnten,
+2841600	2843600	was du da gerade beschrieben hast.
+2843600	2846600	Du hast ja schon angedeutet, dass das so einfach nicht ist.
+2846600	2850600	Und du leider das bis zum gewissen Grad natürlich auch nicht liefern kannst.
+2850600	2853600	Ja, sondern man eben sich vielleicht auch über die Problemlage erst nochmal
+2853600	2856600	verständigen muss, um von da aus dann gemeinsam eben auch vielleicht
+2856600	2859600	andere Pfade zu beschreiten.
+2859600	2862600	Aber so ein paar Sachen kann man auf jeden Fall, glaube ich,
+2862600	2865600	nochmal sich angucken jetzt hier in unserem Gespräch.
+2865600	2869600	Eines davon wäre zum Beispiel die Frage der Legitimationsgrundlage,
+2869600	2874600	weil also du hattest jetzt am Anfang des Gesprächs in Bezug auf die Frage
+2874600	2877600	der Legitimationsgrundlage für bestimmte Formen des Vertrauens
+2877600	2882600	immer mal wieder Bürokratien oder staatliche Institutionen und so weiter angeführt,
+2882600	2886600	auf die man sich innerhalb der, so wie sie jetzt strukturiert sind,
+2886600	2889600	Gesellschaften eben ja verlassen könne und so.
+2889600	2893600	Aber es ist ja genau der Ort, an dem eine bestimmte Kritik
+2893600	2896600	von dieser Seite kommend ansetzt.
+2896600	2899600	Also dass sozusagen dem eben nicht so sei und so weiter und so fort.
+2899600	2904600	Du hattest jetzt im weiteren Verlauf des Gesprächs auch bestimmte Demokratiedefizite
+2904600	2910600	ausgewiesen, die vielleicht solchen Argumenten dann auch Vorschub leisten können
+2910600	2914600	oder wo man auch einfach berechtigterweise sagen muss,
+2914600	2916600	dass das bis zum gewissen Grad nachvollziehbar ist.
+2916600	2919600	Also es gibt Demokratiedefizite, sagen wir es so,
+2919600	2921600	dass es nicht von der Hand zu weisen.
+2921600	2925600	Und jetzt zuletzt in deiner Antwort, als du jetzt auf das Modell von Ben Tarnow
+2925600	2929600	eben verwiesen hast, dass ich mir auf jeden Fall mal angucken muss,
+2929600	2933600	bist du eben auf die regionale Ebene gegangen, hast dann Berlin genommen
+2933600	2935600	und auch dort, wenn ich dich jetzt nicht falsch verstanden habe,
+2935600	2937600	die Stadt Berlin dann hergenommen.
+2937600	2940600	Und ich nehme an, eben Stadt ist nicht nur der geographische Raum,
+2940600	2944600	sondern eben auch die regulative Instanz.
+2944600	2945600	Die politische Organisation.
+2945600	2949600	Genau, die politische Organisation Berlin als Stadt sozusagen.
+2949600	2952600	Und das würde mich jetzt nochmal interessieren,
+2952600	2956600	weil das wäre, glaube ich, ein Layer, bei dem,
+2956600	2959600	wenn man jetzt sich überlegt, wie schafft man es,
+2959600	2963600	da Leute auch mit ins Boot zu holen auf der einen Seite
+2963600	2966600	und auch bestimmte Fragestellungen, die eben berechtigterweise
+2966600	2971600	oder Kritikpunkte, die berechtigterweise aus dieser Richtung kommen, mit aufzunehmen,
+2971600	2976600	ist, glaube ich, die Frage der Legitimationsgrundlage dann einfach nochmal eine relevante.
+2976600	2981600	Und das, um das jetzt nochmal zu eskalieren in eine größere Skalierungsebene,
+2981600	2986600	geht es ja dann wiederum auch zu beantworten auf einer weltweiten Ebene potenziell.
+2986600	2990600	Also wenn du sagst, wir wollen eigentlich technologische Infrastrukturen,
+2990600	2995600	die in der Lage sind, sowohl die Gesamtheit der Menschheit zu vernetzen,
+2995600	3001600	als auch, sagen wir mal, individuelle Vielfalt zu respektieren und abbilden zu können,
+3001600	3005600	dann sind wir ja wieder bei der Frage der Legitimation in einem Terrain,
+3005600	3007600	das unglaublich schwer zu beantworten ist.
+3007600	3011600	Und mich würde beides interessieren, also sowohl, wie man das eben auf einer,
+3011600	3015600	erstmal vielleicht auch lokal gedachten Ebene denken kann,
+3015600	3021600	jenseits davon sofort zu dieverholten in eine staatliche Legitimation,
+3021600	3025600	als auch die bei der Frage der Skalierbarkeit ansetzende Frage,
+3025600	3030600	wie sowas dann auf einer weltweiten Ebene gedacht werden könnte.
+3030600	3035600	Wenn ich sagte, also Parnow sagte, deine Stadt hostet das für dich so,
+3035600	3039600	das muss jetzt auch nicht immer nur ein, okay, es gibt jetzt den Beamten,
+3039600	3043600	der streichelt den Server jeden Morgen warm oder sowas, sondern natürlich kann man,
+3043600	3046600	es gibt ja auch die Wehrsorgungsform, es kann eine Genossenschaft sein,
+3046600	3051600	man will ja jetzt auch nicht etwas, was so direkt irgendwelchen potenziell
+3051600	3054600	auch bestechbaren Politikern unterstellt ist, die dann Dinge tun.
+3054600	3057600	Also das ist ja auch wieder ein Thema, wo man diese Infrastrukturen
+3057600	3062600	natürlich auch soweit unabhängig eben auch von vielleicht Wahlergebnissen
+3062600	3066600	machen möchte, von kurzfristigen Eingriffen, um eventuell Wahlergebnisse
+3066600	3068600	zu beeinflussen oder sowas, frei machen möchte.
+3068600	3071600	Aber auch dafür, wir haben, ich spreche jetzt wenig wenig,
+3071600	3074600	wir sagen natürlich viel über Deutschland, weil ich kenne die Strukturen besser,
+3074600	3078600	es gibt aber ja hier auch schon unabhängige Strukturen, die aber zum Beispiel
+3078600	3083600	finanziert werden aus einer staatlichen Quelle, also zum Beispiel der,
+3083600	3087600	sowohl die Landes- als auch der Bundesbeauftragte für Datenschutz
+3087600	3091600	und Informationsfreiheit in Deutschland ist nicht weisungsabhängig,
+3091600	3096600	wird aber bezahlt vom Staat. Aber eigentlich überwacht die Person eher,
+3096600	3101600	auch mit staatliches Handeln. Oder wie, es gibt Genossenschaften,
+3101600	3104600	es gibt diverse Modelle, wie man sowas abbilden kann,
+3104600	3107600	um dann eine Organisationsform zu finden.
+3107600	3110600	Vielleicht findet man sogar noch eine bessere neue und sagt, wir bauen es jetzt so auf.
+3110600	3113600	Was ich charmant an dieser lokalen Verordnung finde,
+3113600	3117600	der mit im Gründungsmythos des Internets in dieser etwas unsäglichen
+3117600	3121600	The Declaration of the Independence of Cyberspace,
+3121600	3124600	die John Perry Barlow, ich glaube 94, geschrieben hat,
+3124600	3127600	war gesagt, hier, das Internet ist ein komplett neuer Raum,
+3127600	3131600	ihr Staaten, ihr ganzen Bestehen, ich habe da nichts zu sagen,
+3131600	3134600	the new space of the mind, sagte er glaube ich so,
+3134600	3137600	the new home of the mind.
+3137600	3140600	Ich glaube, das hat so einen ganz komischen Brainwarm gesetzt,
+3140600	3144600	wo man ja auch immer nur noch, man will immer noch auf dieser global abstrakten Ebene operieren.
+3144600	3147600	Und das hat halt häufig das Problem, dass man dann dazu tendiert,
+3147600	3149600	diese eine Lösung für alle zu bauen.
+3149600	3153600	Wir bauen jetzt das eine und da können Menschen jetzt drin miteinander sprechen.
+3153600	3156600	Aber ob das so ist, wie alle Menschen miteinander reden,
+3156600	3159600	darüber diskutiert man nicht, man macht ja die Plattform für alle.
+3159600	3162600	Und es sind ja alle, die man selber, deshalb passt das dann schon irgendwie.
+3162600	3165600	Und der Code ist open source und dann ist ja sowieso alles cool.
+3165600	3170600	Ich mag die Idee der lokalen Verankerung,
+3170600	3174600	weil es erstens in irgendeiner Form eine Vertrauensbasis gibt
+3174600	3176600	oder man sie auch gut aufbauen kann.
+3176600	3178600	Also so eine Organisation, die eben sowas hostet,
+3178600	3180600	die kann halt sehr einfach ansprechbar sein.
+3180600	3183600	Also wenn man jetzt ein Problem hat mit Facebook, wo etwas passiert,
+3183600	3187600	versucht dann mal jemanden, versucht dann eine Antwort von einem Menschen zu bekommen,
+3187600	3191600	irgendwie, zu irgendwas, selbst wenn du Journalist oder Journalistin bist
+3191600	3195600	und eine richtige Nachfrage hast, versucht eine Antwort zu bekommen von einem Menschen.
+3195600	3197600	Es ist nicht trivial.
+3197600	3200600	Das Problem hat man natürlich bei einer lokalen Verankerung nicht.
+3200600	3202600	Man kann eben auch andere Leute mitnehmen.
+3202600	3206600	Man kann ganz anders an Outreach betreiben und sagen, okay,
+3206600	3211600	die eine gute Zeit machen das dann teilweise die Enkel und Enkelinnen,
+3211600	3214600	die dann irgendwie ihren Großeltern, die vielleicht alleine noch irgendwo wohnen,
+3214600	3217600	dann sagen, okay, du kannst WhatsAppen und können damit manchmal chatten und so weiter.
+3217600	3219600	Aber das natürlich immer nur auf so einer individuellen Ebene.
+3219600	3223600	Du hast halt Glück, wenn du Enkel und Enkelinnen hast oder Kinder, die das für dich tun.
+3223600	3230600	Wenn das halt in irgendeiner Form in der lokalen Community als Community-Aufgabe begriffenes Ding ist,
+3230600	3232600	gibt es vielleicht auch nochmal einen anderen Outreach.
+3232600	3235600	Dann wird halt gesagt, okay, wir wissen ja, wer hier in der Stadt wohnt
+3235600	3240600	und wir checken einfach mal bei den Leuten ein, ob sie das kennen, ob das für sie einen Wert hat.
+3240600	3243600	Das ist halt was, was man natürlich global skaliert nicht hinkriegt.
+3243600	3244600	Da ist es absolut zu denken.
+3244600	3247600	Wenn man das aber auf einer kleineren Ebene denkt, ist das schon sehr viel realistischer.
+3247600	3250600	Da weiß man zumindest auch, okay, gibt es halt vielleicht Gruppen,
+3250600	3255600	die besondere Bedürfnisse haben, mit denen man, wenn man seinen Teil konfiguriert, mal sprechen möchte.
+3255600	3258600	Gibt es Gruppen, die man besonders schützen möchte?
+3258600	3263600	Gibt es Gruppen, die keinen Zugang haben aufgrund von Bildung, aufgrund von Zugang zu Ressourcen?
+3263600	3267600	Kann man denen vielleicht eben auch die materiellen Ressourcen bereitstellen,
+3267600	3269600	um überhaupt teilhaben zu können?
+3269600	3274600	Dann kann man immer schon sagen, ja, alle können TikTok Influencer und Stars werden.
+3274600	3277600	Natürlich mittlerweile Handys sind so billig geworden, dass viele eins haben,
+3277600	3279600	aber es haben eben doch nicht alle eins.
+3279600	3285600	Oder Zugang zu verlässlichem Internet, weil WLAN nicht überall ist und der Vertrag zu teuer ist.
+3285600	3287600	Vielleicht haben wir doch die Skills einfach nicht.
+3287600	3289600	Vielleicht können sie gerade WhatsApp bedienen und das war's.
+3289600	3291600	Oder gerade Facebook bedienen und das war's.
+3291600	3294600	Vielleicht ist an der Stelle auch einfach noch viel Arbeit notwendig,
+3294600	3299600	die man eben besser an der lokalen Ebene lösen kann und wo man auch besser miteinander sprechen kann.
+3299600	3302600	Es ist halt auch einfacher zu sagen, dieser, nennen wir es jetzt mal Pod,
+3302600	3305600	den irgendwie in irgendeiner Form eine Community aufsitzt.
+3305600	3308600	Ich habe jetzt Stadt Berlin gesagt, man könnte es natürlich auch sagen, ein Bezirk macht.
+3308600	3309600	Oder wer auch immer.
+3309600	3311600	Wenn es eine Struktur gibt, wie man miteinander sprechen kann,
+3311600	3314600	ist es ja am Ende egal, wer es hostet.
+3314600	3320600	Kann man dafür dann zum Beispiel so etwas wie einen Benutzerinnenrat aufsetzen?
+3320600	3322600	Und das kann ich global sehr schlecht.
+3322600	3324600	Wen soll ich denn da jetzt wählen?
+3324600	3326600	Da stehen jetzt 100 Leute zur Wahl.
+3326600	3330600	Alle aus Ländern, in denen ich noch nie war, mit denen ich nicht sprechen kann, weil die meine Sprache nicht sprechen.
+3330600	3332600	Was sind das für eine Wahl?
+3332600	3336600	Oder habe ich jetzt aus jedem Land anhand der Bevölkerung anteilig irgendwie Leute?
+3336600	3339600	Dann habe ich ein Grebium mit 5.000 Leuten.
+3339600	3341600	Das ist auch nicht beschlussfähig in irgendeiner sinnvollen Form.
+3341600	3343600	Das ist ja so ein pro forma Ding.
+3343600	3346600	Auf einer kleineren Community-Ebene kann ich aber bestimmt Entscheidungen sehr viel einfacher treffen.
+3346600	3350600	Da kann ich sagen, okay, ich wähle Leute aus meinem Umfeld, über den ich ernsthaft vertraue.
+3351600	3354600	Und die versuchen, mir Gehör zu verschaffen.
+3354600	3358600	Und vielleicht auf der Ebene, die wählen dann vielleicht die Vertreter auf einer höheren Ebene.
+3358600	3365600	Also Dezentralität auch da einfach aufzunehmen, kann man schon an der Stelle machen, aber als politisches Konstrukt.
+3365600	3369600	Also es gibt ja bei diesem Begriff, den man in der Schule immer durchkam,
+3369600	3375600	diese Subsidiarität zu sagen, man soll halt Entscheidungen da möglichst weit unten treffen.
+3375600	3378600	Da, wo es die Leute betrifft, die damit zu tun haben.
+3378600	3381600	Die können halt sagen, was sie brauchen und wollen.
+3381600	3386600	Und nicht bottom down irgendwelche Entscheidungen so auf die Leute herunterregen zu lassen, mit denen sie sich jetzt beschäftigen müssen.
+3386600	3393600	Und ich glaube, dass das als Ansatz für eine Demokratisierung von so zentralen Infrastrukturen des Digitalen,
+3393600	3399600	da ist natürlich diese ganze soziale Interaktionslogik ein ganz wichtiger Baustein davon,
+3400600	3409600	dass das ein Weg ist, Teilhabe von Menschen wirklich auch machbar zu machen.
+3409600	3415600	Weil der andere Ansatz, wo man dann immer diese globalen Visionen hat und immer von oben so auf der abstrakten Ebene,
+3415600	3418600	dann wird man eben genau diese Vielfalt nicht abbilden.
+3418600	3421600	Auch egal wie man sind, das muss ja gar nicht, wir alle haben immer bei uns.
+3421600	3425600	Und natürlich kennen wir auch unsere Lebensrealität und die Lebensrealität der anderen immer viel weniger.
+3425600	3431600	Aber egal wie man ein Projekt zusammenbaut, man wird eben nicht, man wird nie alles abgedeckt haben.
+3431600	3441600	Wenn man es aber bottom up eher bauen lässt und das auch als einen sehr, sehr klar als einen gemeinsamen konstruktiven Prozess der Menschheit sieht und begleitet.
+3441600	3443600	Und auch bei in der Leute natürlich kriegste.
+3443600	3446600	Natürlich macht El Salvador da unter seinem Diktator nicht mit.
+3446600	3448600	Das ist mir auch klar.
+3448600	3450600	Aber gut, man muss halt irgendwo anfangen.
+3451600	3453600	Das ist so ein bisschen wie das Argument.
+3453600	3455600	Nukleares Armament.
+3455600	3458600	Ja, gut, einer muss halt anfangen.
+3458600	3461600	Wenn du nicht alle dazu kriegst, dann musst du vielleicht einfach sagen, ich höre jetzt auf damit.
+3461600	3466600	Das ist ja, man kann ja auch einfach alleine sagen, dann höre ich mit dem Scheiß erstmal auf und zeige, dass es auch geht.
+3466600	3472600	Das heißt, man könnte an der Stelle schon auch eine Alternative zu eben dem bestehenden Modell, die ja auch nicht global entschieden wurden,
+3472600	3476600	sondern wo einfach, wo es halt gesagt wird, macht halt was ihr wollt im Internet und dann passt es schon.
+3477600	3483600	Dazu eine Alternative aufzubauen, ganz bewusst extrem politisch aufzubauen, extrem auf Mitbestimmung gesetzt,
+3483600	3491600	extrem darauf gesetzt, dass man eben nicht einem Fortschrittsglaube so, wenn man das machen kann, dann macht das auch einer.
+3491600	3495600	Dann muss es auch gemacht werden, sondern ganz klar mit Community sprechen, was wollt ihr?
+3495600	3497600	Warum macht ihr das eigentlich?
+3497600	3499600	Warum haben wir Social Media?
+3499600	3505600	Und wenn die Antwort nicht mehr ist, um euch Werbung irgendwie in die Augen zu drücken, dann kommt wahrscheinlich auch was anderes raus.
+3505600	3507600	Dann kommen auch andere Strukturen raus.
+3507600	3511600	Und das geht halt, glaube ich, nur über so eine lokale Verortung.
+3512600	3515600	Zwei Fragen, die sich da sofort anschließen.
+3515600	3520600	Also zum einen, wie ist die Schnittstelle dann zu denken zwischen dem Besonderen und dem Allgemeinen?
+3520600	3524600	Also innerhalb dessen, wie du das jetzt gerade gezeichnet hast.
+3524600	3531600	Und als zweite Frage dann, inwiefern die Rückbindung zum Lokalen dann nicht eigentlich zwingend in Widerstreit geraten muss
+3531600	3536600	zu dem Vorteil, den du ganz zu Beginn des Gesprächs benannt hast, als du das Furry-Beispiel genommen hast.
+3536600	3541600	Weil die Furries sitzen eben nicht alle in Hintertupfingen in Bayern zusammen,
+3541600	3544600	sondern da sitzt einer hier, einer dort, eine dort, einer da.
+3544600	3550600	Und zwar sehr weit verteilt, nicht lokal sozusagen zueinander zu bringen.
+3550600	3552600	Das ist ja sozusagen der Witz und der Benefit.
+3552600	3554600	Das hat es dir ja richtigerweise ausgewiesen.
+3554600	3559600	Wenn man jetzt die Strukturen wiederum geografisch lokal rückbindet,
+3559600	3567600	dann kommt man ja eigentlich in eine Situation, in der eben die konservativ-christliche Community, sagen wir jetzt mal,
+3567600	3574600	die eben nicht damit okay ist, das Brüste irgendwie zu sehen sind auf dem Social Media Pick oder so was,
+3576600	3580600	ob man das jetzt teilt oder nicht, also gut findet oder nicht,
+3580600	3586600	dass die eben quasi nicht die Handlungsmacht haben, zu sagen,
+3586600	3591600	okay, aber in unserer Instanz ist jetzt das Zeigen von Brüsten beim Stillen von Kindern eben nicht erlaubt,
+3591600	3595600	weil sie eben nicht lokal, obwohl bei denen muss ich mich jetzt eigentlich korrigieren,
+3595600	3600600	bei den christlichen Fundamentalisten könnte es durchaus sein, dass die alle lokal an einem Ort hocken,
+3600600	3604600	weil sie irgendwie eine Art von Sekte gegründet haben, aber egal.
+3604600	3609600	Also bleiben wir beim Furry-Beispiel oder so was, die sitzen definitiv nicht alle irgendwie an einem Ort
+3609600	3615600	und haben deswegen dann sozusagen auch nicht die Möglichkeit, eine Instanz zu haben,
+3615600	3618600	die in dieser Form quasi dann lokal rückgebunden ist,
+3618600	3622600	wo man dann über Formen der Föderation sich eben verständigen kann
+3622600	3625600	und dadurch dann auch dieser Zugriff quasi kollektiv gelöst werden kann.
+3625600	3628600	Das heißt, da gibt es so ein bisschen einen Widerstreit zwischen dem Wunsch,
+3628600	3633600	auf einer politischen Ebene das lokal rückzubinden und dadurch eine Kontrolle zu ermöglichen
+3633600	3640600	und dem, was dieser Technologie inhärent ist, nämlich der Möglichkeit der Vernetzung über das Lokale hinaus.
+3640600	3643600	Es geht ja auch nicht nur immer um harte Kontrolle an der Stelle.
+3643600	3647600	Also natürlich kannst du, viele unserer Normen sind ja auch nicht hart kontrolliert,
+3647600	3651600	sondern die sind halt über Einkünfte und bestimmte Communities sind sich einig, dass sie das gut finden,
+3651600	3657600	dass man sich so verhält. Ohne jetzt zu sagen, dass das für alles grundsätzlich so funktioniert,
+3657600	3662600	aber zu sagen, na ja, du hast einen Rechtsrahmen, auf den du dich auch verlässt ja in einer gewissen Art und Weise.
+3662600	3666600	Du sagst, das ist wie Dinge sind, keine Ahnung, ich habe bestimmte Menschenrechte,
+3666600	3670600	die werden auch von irgendwem enforced, wenn es wichtig ist.
+3670600	3674600	Man darf mich auf der Straße nicht überfallen und mich nicht beleidigen und so weiter.
+3674600	3678600	Ich kann jemanden anrufen, der sich um mich kümmert, wenn da was passiert, zu sagen,
+3678600	3685600	okay, wir haben einen Pod und in einem bestimmten Bereich garantieren wir dir die Einhaltung dieser Szenarien.
+3685600	3688600	Heißt ja nicht, du darfst nur darin sein.
+3688600	3691600	Das ist ja so ein bisschen wie, ich will nicht sagen Kiddie Pool und der Erwachsenen Pool,
+3691600	3696600	aber zumindest den Leuten die Möglichkeit, du kannst auch woanders hingehen
+3696600	3700600	oder mit Leuten aus anderen Bereichen sprechen.
+3700600	3703600	Die wird aber in einer Form klar gemacht, was das bedeutet.
+3703600	3706600	Okay, du verlässt jetzt gerade diesen Rechtsrahmen.
+3706600	3710600	Ihr baut hier gerade gemeinsam einen neuen Rechts, einen neuen Raum auf,
+3710600	3715600	in dem ihr vielleicht miteinander aushandeln müsst, wie hier diese Regeln sind oder was hier gültig ist.
+3715600	3718600	Natürlich würden christliche FundamentalistInnen immer sagen,
+3718600	3721600	nee, wir müssen das halt hart kontrollieren, das darf nicht möglich sein.
+3722600	3726600	Aber wenn wir das aus einer, wenn wir es mal als Utopie formulieren wollen,
+3726600	3732600	würden wir dann sagen, naja, wir garantieren dir über die lokale Anbindung erstens Zugang und eine gewisse Sicherheit um dich.
+3732600	3736600	Gerade wenn du zum Beispiel noch jünger bist und dich vielleicht noch nicht so erfahren bist,
+3736600	3739600	wir haben einen gewissen Schutzraum für dich.
+3739600	3743600	Und unter bestimmten, vielleicht wenn du ein gewisses Alter hast oder keine Ahnung,
+3743600	3747600	Nachwarnung kannst du das halt verlassen, wenn du das willst.
+3747600	3752600	Und ohne dass das andere sehen, dass du das tust oder dass du jetzt gebrannt mag bist als jemand,
+3752600	3756600	der zu anderen Furries auf der Welt Kontakt hatte,
+3756600	3762600	sondern eher zu sagen, okay, wir versuchen ein bisschen diesen Wildwest aus dem Glepp zu nehmen.
+3762600	3764600	So, ja, anything goes.
+3764600	3766600	Das ist ja gerade, was im Glepppreis so ist, so anything goes.
+3766600	3770600	Wenn du auf eine falsche Linke geklickt hast und alle den Token sind weg, sind die halt weg, hast du Pech gehabt.
+3770600	3774600	Da genau im Gegenentwurf zu stehen und zu sagen, wir garantieren dir Zugang
+3774600	3779600	und wir garantieren dir auch die Umsetzung der Rechte, an die du gewohnt bist und die dir auch wichtig sind
+3779600	3782600	und deiner Werte, die dir auch wichtig sind.
+3782600	3785600	Wir bieten dir auch eine Infrastruktur, mit allen anderen auf der Welt zu sprechen,
+3785600	3789600	die in dieser Plattform irgendwie unterwegs sind.
+3789600	3792600	Wir geben dir aber auch Bescheid, was das bedeutet.
+3792600	3796600	Und deshalb kann halt auch für dich halt sagen, ich bin feind damit, mir macht das nichts.
+3796600	3799600	Ich will gar nicht gewarnt werden vor bestimmten Sachen.
+3799600	3801600	Das kann man dann vielleicht von mir aus einstellen.
+3801600	3806600	Wir müssen jetzt nicht bei UI-Feinheiten reden, aber einfach Leuten bewusst zu machen, was passiert.
+3806600	3812600	Und nicht diese Illusion von, wir sind ja alle das globale Dorf und alle sind gleich, alles funktioniert gleich.
+3812600	3815600	Tut es aber ja gar nicht, weil wir leben ja in unterschiedlichen Orten.
+3815600	3820600	Die materielle Welt hat ja auch auf unser Erleben des Digitalen einen massiven Einfluss.
+3820600	3826600	Also, wenn du wo wohnst, wo du halt nur Edge hast, dann fühlst du das Internet ganz anders, als wenn du an einer Standleitung wohnst.
+3826600	3830600	Das ist einfach eine extrem unterschiedliche Wahrnehmung.
+3830600	3833600	Wir tun immer so, wenn du da am Internet bist, ist ja alles gleich.
+3833600	3835600	Ist es aber nicht.
+3835600	3844600	Und an der Stelle einfach die Regionalität und die Behaftetheit zum Materialien, die das Internet auch immer hat.
+3844600	3848600	Also ist ja auch schon die Frage, wer ist im Internet eigentlich relevant?
+3848600	3850600	Ist ja regional.
+3850600	3855600	Also, deutsche YouTube-Influencer sind ja nirgendwo außer in Deutschland relevant.
+3855600	3858600	Die sprechen halt auf Deutsch irgendwelches Zeug.
+3858600	3861600	Jetzt könnte man sagen, die sind auf YouTube, die haben solche Follower, kann man weltweit vergleichen.
+3861600	3864600	Das ist aber eine falsche, das sagt nichts.
+3864600	3868600	Jemand, Millionen Follower in Deutschland sind was anderes als eine Million Follower in den USA.
+3868600	3872600	Sind doch was anderes als eine Million Follower in Südafrika.
+3872600	3878600	Von daher, wir haben da eigentlich eh schon diese lokalen Overlays auf diesem Plattform, die existieren.
+3878600	3882600	Die sind nur nie sichtbar oder benutzbar.
+3882600	3885600	Man kann mit denen auch nichts tun, aber man kann sie ja sichtbar machen.
+3885600	3893600	Man kann sagen, okay, diese Lokalität, die irgendwie an dir hängt, das ist kein Zwang, der dich klein halten soll.
+3893600	3902600	Das soll dein Sprungbrett sein, um dir zu erlauben, dich so zu öffnen oder so mit der Welt zu intergieren, wie sich das für dich gut anfühlt.
+3902600	3909600	Und es wird Leute geben, die auch jetzt so im Internet mit allen Wassern gewaschen sind, die werden sagen, komm, let's go, wir machen alles.
+3909600	3913600	Und es wird aber vielleicht auch Leute geben, die sagen, okay, ich tasse mich da jetzt mal so rein.
+3913600	3921600	Ich bin bisher nur Facebook und meine drei Gruppen gewohnt mit meinen Enkeln und mit meinem, keine Ahnung, meinen Ortskreis und wie auch immer so.
+3921600	3923600	Das benutze ich und den Rest finde ich irgendwie auch so ein bisschen scary.
+3923600	3926600	Vielleicht auch bei Amazon nochmal was irgendwie.
+3926600	3928600	Aber ich beschäftige mich mit dem Internet nicht.
+3928600	3933600	Und jetzt zu sagen, du musst keine Sorge haben, du wirst dich betrogen.
+3933600	3939600	Wir schaffen hier Möglichkeiten für dich auch überhaupt zu erkunden, diese Vielfalt.
+3939600	3945600	Natürlich, wenn wir selber uns ein Internet zusammenbauen, dann sehen wir halt das Internet, was wir sehen.
+3945600	3951600	Wenn ich so durcheinander denke, mein Vater hat das Internet, was ich ihm zusammengestöpselt habe.
+3951600	3954600	Ich habe ihm gesagt, hier, das ist jetzt dein Mail-Account, damit kannst du e-mailen.
+3954600	3956600	Das ist dein Browser.
+3956600	3961600	Wenn das Internet kaputt ist, weiß ich, dass er aus Versehen das Icon vom Browser irgendwo hin geschoben hat, das es nicht mehr findet.
+3961600	3963600	Das ist so die Realität da.
+3963600	3965600	Das muss aber nicht so sein.
+3965600	3970600	Genau diese lokale Beschränkung, die auf so einem Vertrauen und Bezug zu Menschen basiert,
+3970600	3976600	die kann eben sogar ein Enabler sein, zu sagen, guck mal, das ist eine andere Community.
+3976600	3980600	Mein Vater kommt aus Franken.
+3980600	3987600	Er wohnt ja in der norddeutschen Tiefebene, wo die ganzen Bauern wohnen und Plattdeutsch sprechen.
+3987600	3993600	Der hat irgendwann mal den Heimatverein dieses Dorfes, in dem er da wohnt, mit in seine Heimat genommen.
+3994600	3996600	Das gibt es halt in Norddeutschland nicht.
+3996600	3998600	Das ist der Kulturschock natürlich.
+3998600	4002600	Man ist immer noch in Deutschland, der Kulturschock ist nicht riesig, aber es ist schon anders.
+4002600	4006600	Und das ist auch eine Möglichkeit, die diese lokale Anbindung einem erlauben kann.
+4006600	4010600	Diese Form von begleiteter Tour ins Digitale.
+4010600	4015600	Mit Leuten, die du kennst, denen du vertraust, denen du auch auf der Straße begegnest.
+4015600	4018600	Die nicht anonyme, irgendjemand macht da irgendwas mit mir.
+4018600	4020600	On the Internet, no one knows you're a dog.
+4020600	4024600	Das ist ganz gut zu wissen, du bist ein Hund, du kannst mich beschützen, dann gehen wir zusammen los.
+4024600	4032600	Diese Communities, die wir haben, die einige Menschen hoffentlich in ihrem Leben haben,
+4032600	4038600	die können ja bereichernd sein und helfen, genau Vielfalt zu erkunden.
+4038600	4045600	Die Tatsache, dass die Nachbarn aus Ländern kommen, in denen man noch nie war.
+4045600	4050600	Dann laden die zum Essen ein und man kommt über das Essen ins Gespräch, wie die aufgewachsen sind.
+4050600	4053600	Und überhaupt diese Form von Erfahrung.
+4053600	4055600	Das ist ja was, wo man jetzt gerade auch nicht hingesteuert wird.
+4055600	4058600	Wenn ich mir jetzt auf Facebook-Account klicke, dann werden mir sieben Leute vorgeschlagen,
+4058600	4059600	wenn ich zur Schule gegangen bin.
+4059600	4064600	Mit denen habe ich heute eine null gemeinsame Realität.
+4064600	4067600	Ich lebe da nicht, wo die leben.
+4067600	4070600	Ich habe auch gar keinen Bauernhof.
+4070600	4073600	Das wäre dann so eine Welt, da könnte ich versuchen, mir noch ein paar andere Bubbles.
+4073600	4076600	Aber natürlich ist man super eng eingeschnitten.
+4076600	4083600	Das beschränkt einen ja auch selber, weil es viel schwerer ist, neue Dinge zu erkunden und neue Dinge wahrzunehmen.
+4083600	4087600	Niemand guckt zufällig, was ist der größte Suchbegriff bei YouPorn gerade.
+4087600	4089600	Ich suche da auch mal nach und gucke mal, was passiert.
+4089600	4090600	Das würde man nicht tun.
+4090600	4095600	Aber zu sehen, hier gibt es eine Person, der ich vertraue und der zeigt mir einfach mal andere Teile.
+4095600	4099600	Das wird natürlich nicht mit wildem Furryporn als erstes kommen,
+4099600	4102600	aber zumindest zeigt er mir Dinge, die ich bisher nie gesehen hatte.
+4102600	4105600	Vielleicht finde ich die dann auch gar nicht toll, muss ich ja auch nicht.
+4105600	4109600	Aber ich kann das als sehr bereichernd wahrnehmen.
+4109600	4115600	Diese lokale Verankerung gar nicht als Kontrolle im Sinne von Beschränkungen,
+4115600	4119600	sondern eher, man fängt erst im Niedrigen an zu schwimmen.
+4119600	4124600	Oder wie sagt man immer, man muss erst krabbeln lernen und dann kann man gehen lernen und dann kann man rennen.
+4124600	4126600	Das ist so die Reihenfolge, die man gehen muss.
+4126600	4132600	Und ich glaube, diese lokale Verortung kann einem da eine ganze Menge entgegenkommen.
+4132600	4134600	Und ich meine das gar nicht nur im Sinne von Technikkompetenz.
+4134600	4139600	Ich meine das auch im Sinne von einfach, sich Erfahrungen öffnen, die man sonst vielleicht nicht gemacht hätte,
+4139600	4141600	weil man sagt, das interessiert mich doch nicht.
+4141600	4145600	Was interessieren mich südamerikanische Tänze?
+4145600	4148600	Blöd, aber vielleicht muss man in Kontakt kommen.
+4148600	4152600	Eigentlich ist das doch ganz cool, was da passiert oder irgendwas, was daneben passiert, zufällig ist geil.
+4152600	4155600	Vielleicht findet man das tanzen doof, aber die Mucke ist super.
+4155600	4163600	Also diese Form von der Exploration der globalen Menschheit in der Art, wie sie ist.
+4163600	4165600	Ich meine, warum reisen wir irgendwo hin?
+4165600	4167600	Wir könnten uns ja auch einfach ein Bildband irgendwo angucken.
+4167600	4171600	Aber es ist was anderes da zu sein und zu merken, dass der Vibe an einem anderen Ort anders ist,
+4171600	4175600	dass die Leute anders miteinander umgehen, dass Dinge anders funktionieren.
+4175600	4181600	Wenn du in bestimmten Ländern, das Normales ist abends, und zehn noch die Kids mit bei der Party rumrennen.
+4181600	4183600	Und in anderen Ländern ist das ganz unüblich.
+4183600	4187600	Aber diese Unterschiedlichkeit zu erfahren, funktioniert in Mitteln häufig ja nicht so gut,
+4187600	4189600	weil wir diese genormten Sichten haben.
+4189600	4192600	Der Facebook-Account in Deutschland ist der Facebook-Account in den USA,
+4192600	4197600	ist der Facebook-Account in Südkorea, ist der Facebook-Account in Neuseeland.
+4197600	4203600	Aber zu sagen, nein, ich kann irgendwie ein bisschen erfahren, wie unterschiedlich ihr denkt.
+4203600	4205600	Und ich muss das nicht übernehmen, aber vielleicht ist da ein Puls drin.
+4205600	4210600	Ich könnte mir das als großen Mehrwert vorstellen.
+4211600	4213600	Ja, interessant.
+4213600	4219600	Also ich würde fast meinen, ehrlich gesagt, dass dir der Kritikpunkt oder die Nachfrage
+4219600	4226600	oder der Konflikt in Bezug auf die lokale Verankerung trotzdem noch erhalten bleibt, ehrlich gesagt.
+4226600	4230600	Also weil du auch ein bisschen changierst in den Beschreibungen.
+4230600	4235600	Weil ja eben dieser Gedanke der Community, wenn man so will,
+4235600	4237600	eben nicht immer deckungsgleich ist mit dem Lokalen.
+4237600	4241600	In der Erzählung, wie du es jetzt quasi versucht hast, schmackhaft zu machen,
+4241600	4246600	quasi setzt du es sozusagen als deckungsgleich und sagst, okay, wir haben hier eine Lokalität.
+4246600	4255600	Und diese Lokalität hat mir eine Vielfalt zu präsentieren, die ich jetzt vielleicht gar nicht so gut kennenlerne,
+4255600	4261600	weil das sozusagen nicht der Definitionsrahmen ist, über den dieses Einführen in dem Fall in das Netz sozusagen passiert,
+4261600	4263600	sondern es gibt eben andere Strukturen.
+4263600	4269600	Und wenn ich das jetzt nicht falsch verstehe, dann sagst du ja, indem du für lokale Instanzen plädierst,
+4269600	4276600	erzeugt man auch eine Art von eben geschütztem Raum, wenn man so will, in den ich zunächst sozusagen eingeführt werde
+4276600	4283600	und über den ich dann perspektivisch auch hinausgehen kann, aber mit quasi einem Konsent, wenn man so will.
+4283600	4285600	Ja, so habe ich dich jetzt verstanden. Ja.
+4285600	4289600	Und aber dann, ja, Konsent ist immer so ein rechtliches Ding, aber auch mit einem Bewusstsein,
+4290600	4296600	Genau, aber jetzt mal unabhängig von der Frage, wie man jetzt quasi diesen Gang vom einen ins andere,
+4296600	4300600	vom Besonderen ins Übergeordnete oder vom Lokalen ins Weltweite, wenn man so will,
+4300600	4307600	wie man das jetzt gestaltet, setzt es trotzdem ja eben quasi diese Gemeinschaft deckungsgleich mit dem Lokalen.
+4307600	4312600	Und eben wie gesagt, ich würde mal meinen, das war quasi der Punkt, den ich versucht hatte herauszustellen,
+4312600	4321600	das bleibt dann trotzdem noch quasi die Kritik erhalten, dass dieses, dass das nicht immer deckungsgleich sein muss.
+4321600	4324600	Es muss ja nicht die einzige Community sein, in der man Teil ist.
+4324600	4331600	Also die Öffnung nach außen bedeutet ja auch eben zu sagen, okay, aber mich interessieren halt die globalen Kryptokritiker,
+4331600	4335600	die gar nicht alle in Berlin leben. So, hier gibt es gar nicht so viele.
+4335600	4340600	Da baut sich natürlich auch eine Community auf, aber eine Community muss ja nicht immer einen eigenen Pott haben.
+4340600	4343600	Also die Frage ist immer nur, wer stellt denn die Infrastruktur bereit?
+4343600	4347600	Also auch heute, du könntest deinen eigenen Mastodon-Server betreiben, aber wer kann das?
+4347600	4356600	Wer hat das? Eine Stadt hat potenziell die Ressourcen, das bereitstellen zu können auf eine sichere und robuste Art und Weise.
+4356600	4360600	Das heißt nicht, dass du nur da drin gefangen bist und dann vielleicht nur mit den Leuten sprechen darfst,
+4360600	4363600	vielleicht mal eine Mail an jemand anderen schicken, sondern das ist eher so,
+4363600	4369600	das ist eher so, die hosten deinen Account für dich und den Nicht-Schwimmer-Bereich.
+4369600	4374600	Und in Deutschland gibt es eine Plattform, die ist nebenan, wo man so quasi mit seinen Nachbarn sich irgendwie verknuppern kann.
+4374600	4380600	Und so, ich habe Eier über und fahre in den Urlaub, will die eine haben, so ein bisschen das.
+4380600	4384600	Aber das große Netz ist auch da, das wird auch von dir nicht versteckt oder so weiter.
+4384600	4389600	Es wird dir nur quasi die, du musst nicht selber irgendwas hosten, du musst auch weniger Infrastruktur haben.
+4389600	4392600	Du kannst dich auch darauf verlassen, dass das gewartet und halbwegs sicher ist, was da passiert.
+4392600	4398600	Und du hast Ansprechpartner, die dich schützenden Missbrauch gibt oder wenn jemand versucht, deinen Account zu hacken oder sowas.
+4398600	4403600	Aber das soll halt nicht heißen, dass du nicht Communities zwischen diesen Pods erzeugen kannst.
+4403600	4407600	Das wäre ja absurd, das würde ja das Interim komplett unterlaufen.
+4407600	4410600	Man muss ja auch gar nicht nur einen Account haben, von mir ist halt noch mehrere.
+4410600	4415600	Aber wenn jetzt sagt, okay, eine Person hätte nur einen Account, wir wollen, dass eine Person nur einen Account hat, was gar nicht so sein muss,
+4415600	4421600	dann ist es für mich ein Vorteil zu sagen, wir haben da eine lokale Anbindung, um Unterstützung zu bekommen, wenn man sie braucht.
+4421600	4425600	Im Zweifelsfall könnte man sogar wählen, woanders einen zu machen.
+4425600	4427600	Mir geht es ja gar nicht darum, du musst es lokal machen.
+4427600	4433600	Ich finde das Angebot gut, weil es eben Governance verständlicher macht.
+4433600	4438600	Jetzt könnten natürlich auch Leute, die sich eh schon kennen, also viele meiner Freunde wohnen überall auf der Welt verteilt.
+4438600	4440600	Jetzt könnte ich sagen, ich will aber einen Pod mit denen haben.
+4440600	4445600	Wir machen das einfach, ich kann das selber oder ich kenne Leute, die das können, wir hosten das für uns selber.
+4445600	4448600	Das sichert unsere Identität ab.
+4448600	4450600	Wir sind uns auch einig, wie wir das konfigurieren.
+4450600	4455600	Wir sind uns auch einig, wie wir da Governance betreiben und uns in dieses System integrieren, ist das ja auch fein.
+4455600	4461600	Nur ich finde es gut, das als Aufgabe einer öffentlichen Daseinsvorsorge zu haben.
+4461600	4467600	Zu sagen, du hast ein Anrecht darauf, daran teilzuhaben, in einem Bereich, den du rechtlich verstehen kannst,
+4467600	4470600	bei dem auch jemand deine Rechte durchfechtet für dich.
+4470600	4475600	Es gibt eine Polizeiabteilung, die sich dann beschäftigt, dich dazu zu schützen, wenn du das möchtest.
+4475600	4480600	Das heißt nicht, dass das genauso wie du nicht darauf eingeschränkt, du musst das auch nicht benutzen.
+4480600	4482600	Aber es ist ein Angebot an dich.
+4482600	4487600	Das soll jetzt auch kein, das ist jetzt deine rechtliche Identität sein und damit kannst du dich jetzt ausweisen.
+4487600	4488600	Das ist nicht der Punkt.
+4488600	4492600	Es geht mir nicht darum, jetzt Digitalisierungsprozesse der öffentliche Verwaltung damit zu machen.
+4492600	4493600	Das ist nicht der Punkt.
+4493600	4504600	Du sollst Zugang haben, ohne dass du entweder irgendeinem Nerd, wenn du jetzt gerade zu Mastodon gehst,
+4504600	4509600	das ist jetzt ein verteilter Twitter-Alternativ Open Source, dann kannst du halt zu mastodon.social gehen.
+4509600	4513600	Das betreibt halt der Typ, der das Projekt leitet.
+4513600	4516600	Okay, kannst du sagen, den vertraue ich, weil der ist nett.
+4516600	4518600	Oder du gehst zu irgendeinem anderen Server.
+4518600	4521600	Keine Ahnung, wer die hostet, musst du denen halt vertrauen.
+4521600	4527600	Ich glaube, für sowas, wenn wir das begreifen als eine essentielle Infrastruktur des Digitalen,
+4527600	4535600	dann ist es potenziell attraktiv auch anzubieten, dass, und es muss, wie gesagt, gar nicht staatlich sein,
+4535600	4539600	aber dass in irgendeiner Form eine Community fundet, von mir aus durch Steuergelder, wie auch immer,
+4539600	4542600	wo du nicht, wenn du kein Geld hast, bist du nicht ausgeschlossen.
+4542600	4544600	Du hast einfach Recht darauf, deinen Account zu bekommen.
+4544600	4549600	Und der funktioniert gut und der funktioniert für alles, wenn du das möchtest.
+4549600	4552600	Du musstest nicht. Und das muss nicht der Einzige sein.
+4552600	4555600	Und ich glaube, das kann wertvoll sein.
+4555600	4559600	Und ich glaube, das erlaubt das Ausgestalten.
+4559600	4566600	Vielleicht werden natürlich bestimmte Pots, werden, sagen wir, politisch oder in den hierarchischen Entscheidungsprozessen vielleicht höher gewertet als andere.
+4566600	4571600	Also vielleicht gibt es da so eine Mechanik wie, okay, die in irgendeiner Form öffentlich abgesicherten oder so weiter
+4572600	4578600	sind in so Stimmenrechtsprozesse besser eingebunden als irgendjemand zieht irgendwo irgendwelche Pots hoch,
+4578600	4581600	weil dann hast du natürlich das Problem, ich erzeuge jetzt eine Million Pots,
+4581600	4585600	damit ich eine Million Stimmen in den höheren Wertungsebenen habe.
+4585600	4594600	Aber ich glaube, dass man an der Stelle sich dadurch gerade auch für diese Fragen von hierarchischer Governance,
+4594600	4597600	sich eben gut auf bestehende Strukturen stützen kann.
+4598600	4601600	Und ich will nicht sagen, dass die EU hat auch extreme Demokratiedefizite.
+4601600	4603600	Das ist jetzt auch ein klarer zu sagen.
+4603600	4610600	Okay, man hat in Deutschland so, ich habe mein Bezirk und dann habe ich die Stadt oder das Land quasi, das Land Berlin.
+4610600	4614600	Dann habe ich die Bundesrepublik, dann habe ich Europa.
+4614600	4617600	Das funktioniert, soll ja auf einer ähnlichen Ebene funktionieren.
+4617600	4623600	Es gibt so eine hierarchische Abbildung von Partizipation.
+4623600	4628600	Und das parallel zu machen, sorgt glaube ich auch, sorgt erstens dafür, dass wir wissen, wie es geht.
+4628600	4633600	Wir haben Erfahrungen damit, wie man es tut, wie man solche Organisationen stemmt.
+4633600	4636600	Und es sorgt auch für ein gewisses Vertrauen, weil man es versteht.
+4636600	4642600	Es ist nicht an irgendjemand, da gibt es noch eben komisches mathematisches Votingverfahren und irgendwelche Keys.
+4642600	4643600	Und dann kommt am Ende was raus.
+4643600	4644600	Und nee, ich verstehe das.
+4644600	4647600	Ich habe die Leute gewählt, die sind hingegangen, die haben abgestimmt.
+4647600	4648600	Ich sehe das Ergebnis, wie die abgestimmt haben.
+4648600	4650600	Das passiert da jetzt an der Stelle.
+4650600	4653600	Und wenn es mir nicht passt, dann kann ich mir immer noch meinen Freunden einen anderen Pot bauen.
+4653600	4655600	Und dann benutze ich den halt als meine Hauptidentität.
+4655600	4658600	Und die andere benutze ich vielleicht nur für irgendwas anderes.
+4658600	4662600	Deshalb sehe ich das gar nicht so beschränkend an.
+4662600	4665600	Aber vielleicht habe ich es davor einfach nicht so besonders gut erklärt.
+4665600	4673600	Nee, ich glaube, das Ding ist, dass bei mir vor allem diese einhegende Charakter, das was du als Nichtschwimmerbereich bezeichnest,
+4673600	4676600	das ist, glaube ich, das, wo es sich bei mir am ehesten stößt.
+4676600	4685600	Weil ich glaube, das ist kein Zufall, dass da bei mir dann sofort zum einen Android- oder iOS-Assoziationen aufkommen oder der Play Store.
+4685600	4692600	Also wo man sagt, ja, aber das liefert ja auch die Sicherheit, dass du einfach alles jetzt installieren kannst.
+4692600	4695600	Ja, und klar, natürlich, das stimmt auf der einen Seite.
+4695600	4702600	Gleichzeitig erzeugt es natürlich eine extreme Macht, wenn ich quasi die oder der bin, die darüber entscheiden kann,
+4702600	4706600	was, sagen wir, ein Nichtschwimmerbereich ist und wie der ausgestaltet ist.
+4706600	4713600	Also die eine Assoziation geht in die Richtung, ja, und die andere Assoziation geht in Richtung Great Firewall von den Chinesen sozusagen.
+4713600	4719600	Also und das ist vielleicht kein Zufall, dass das halt beides aufpoppt, wenn es um diese Frage geht,
+4719600	4725600	wie jetzt sowas wie dieser Nichtschwimmerbereich quasi gedacht werden kann oder was da vielleicht auch als Kritik ansetzt.
+4725600	4729600	Da ist auf jeden Fall, da ist auf jeden Fall eine große Gefahr in diesem ganzen Bereich,
+4729600	4734600	dass das in so eine patriarchale, okay, jetzt müssen wir den Leuten so auf die Finger klopfen, was sie da tun dürfen.
+4734600	4741600	Dafür ist halt diese Idee der Governance und eben auch der, das Ganze eben nicht da sein.
+4741600	4744600	Wir müssen das Internet jetzt einhegen durch diese Strategie.
+4744600	4749600	Das ist es nicht, sondern es geht darum, eigentlich den Zugang möglich zu machen.
+4749600	4755600	Eigentlich eher ein, in gewisser Weise ist es das Umkippen dieses Freiheitsbegriffs.
+4755600	4757600	Das Internet gerade ist dieser negative Freiheitsbegriff.
+4757600	4760600	So du bist frei von Beschränkungen, kannst ja machen, was du willst.
+4760600	4762600	Und das ist aber ja exklusiv.
+4762600	4765600	Das bedeutet halt, du hast auch die Ressourcen, du hast die Ausbildung, kannst das machen.
+4765600	4767600	Hin zu einem eher positiven Freiheitsbegriff.
+4767600	4773600	Wir enable dich, um da so teilzuhaben, wie es für dich auch bereichernd sein kann.
+4773600	4776600	Und das ist wie nichts auf der Welt risikofrei.
+4776600	4779600	Und das kann halt sich auch in eine negative Richtung entwickeln.
+4779600	4782600	Und da muss man auch immer wieder nachkorrigieren und sehen, ob das noch richtig funktioniert.
+4782600	4786600	Ob es noch den Vorgezeichen Idealen und Werten entspricht.
+4786600	4794600	Oder ob man sich da vielleicht auch mal zu weit in Richtung von Kontrolle, Restriktion oder Bevormundung.
+4794600	4795600	Wie auch immer man das so sehen kann.
+4795600	4797600	Ob man sich dahin bewegt hat, dann muss man natürlich zurückrudern.
+4797600	4799600	Und sonst, ja, okay. Nein, wir.
+4799600	4808600	Und genauso wie wir, ich habe mir vorhin schon mal erwähnt, es gibt ja in Deutschland den Bundesbeauftragten für Datenschutz und Informationsfreiheit.
+4808600	4810600	Das ist ja nicht nur ein Verbieter.
+4810600	4813600	So Datenschutz, der dürfte nichts machen, sondern der soll sich in Ordnung kümmern.
+4813600	4816600	Nein, der Staat soll eigentlich viele Informationen freigeben.
+4816600	4817600	Er soll das.
+4817600	4819600	Er soll Leuten dadurch Möglichkeiten aufmachen.
+4819600	4825600	Und das wäre halt so eine Rolle, die eben auch diese Plattformentwicklung, glaube ich, mitmachen müssen.
+4825600	4827600	Ja, wir haben Werte, die dich hiermit verbinden.
+4827600	4833600	Und das ist nicht klein zu machen, sondern die Größe des Internets zugänglich zu machen für Menschen.
+4833600	4836600	Und das ist schwierig, natürlich.
+4836600	4841600	Es kann auch sehr schnell hässlich werden, aber wir sind ja Optimisten.
+4841600	4845600	Ja, das alleine wird wahrscheinlich nicht reichen.
+4845600	4849600	Aber ja, ich würde vielleicht gerne noch, bevor wir sagen, kein Ende einbiegen,
+4849600	4854600	würde mich noch interessieren, wie du das vielleicht auch strategisch denken würdest.
+4854600	4862600	Also in Bezug auf diese Krypto Szene merkt man ja oder also an der Krypto Szene, sagen wir es vielleicht so,
+4863600	4871600	merkt man ja auch, wie extrem einflussreich und von Bedeutung das Narrativ einfach ist.
+4871600	4877600	Also du hast ja jetzt eigentlich in deiner Kritik mehrmals auch darauf hingewiesen,
+4877600	4884600	wie wenig tatsächlich verwendbare Infrastruktur und Technologie es gibt, die jetzt irgendwie Blockchains nutzt.
+4884600	4891600	Das heißt, ein Großteil des Erfolges, den diese Technologiebündel ja irgendwie einfach
+4891600	4894600	auch im Sinne der öffentlichen Aufmerksamkeit ausweisen können,
+4894600	4898600	beruht hauptsächlich eigentlich auch auf narrativen Elementen,
+4898600	4903600	auf dem Erzeugen, dem erfolgreichen Verbreiten dieser sozio-technischen Imagination.
+4903600	4907600	Jetzt würde mich interessieren im Bezug auf Alternativen, wenn Sie sagen,
+4907600	4912600	was sind die wirklich auch einfach mal mit einer strategischen Brille aufgesetzt?
+4912600	4918600	Was sind die Wege, mit denen man eben diese alternativen sozio-technischen Imaginationen
+4918600	4921600	erfolgreich popularisieren kann?
+4921600	4926600	Eine meiner Hauptkritiker in diesem ganzen Web3-Narrativ ist ja auch häufig,
+4926600	4928600	dass es so, es ist ja immer so ein Zukunfts-Narrativ.
+4928600	4933600	Jetzt ist das alles shit, aber in einem Jahr ist es gut oder anderthalb Jahre.
+4933600	4937600	Und ich erwähne jetzt zu Beginn mal schon mal die Luditen.
+4937600	4940600	Und ein Historiker hat mal sehr schön geschrieben,
+4940600	4945600	die Luditen waren die letzte Gruppe, die Technologie im Jetzt betrachtet hat,
+4945600	4948600	die nicht immer drüber geredet haben, was das später alles kann,
+4948600	4950600	und ja gut, jetzt, wir müssen da durch, und dann ist alles gut.
+4950600	4952600	Nee, was macht das Jetzt?
+4952600	4956600	Die haben diese Webstühle zerhauen, weil die ihnen Jetzt das Leben schlecht gemacht haben,
+4956600	4958600	weil die dafür gesorgt haben, dass die Kinder arbeiten mussten
+4958600	4960600	und sie kein Geld mehr hatten und so weiter.
+4960600	4964600	Von daher geht es gar nicht so um die großen Tech-Imaginationen,
+4964600	4966600	die man jetzt sich da machen kann.
+4966600	4970600	Mir geht es vielmehr darum, ein bisschen mehr zurückzukommen zu dem Jetzt.
+4970600	4974600	Weil Versprechung, was in einem Jahr, in zehn Jahren alles toll ist,
+4974600	4978600	und Quantencomputer und was auch immer, säckeweise.
+4978600	4983600	Und es ist alles so wenig belastbar und so wenig materiell nützlich,
+4983600	4989600	wie irgendwelche Behauptungen, dass KI das Klima schon retten wird.
+4989600	4993600	Für mich haben häufig diese sehr zukunftsgerichteten Imaginationen
+4993600	4996600	so eine Funktion von Denialism.
+4996600	5000600	Man sieht das ganz stark, ich weiß nicht, wie es in anderen Ländern ist,
+5000600	5002600	man sieht das in Deutschland ganz stark im Bereich Climate Change.
+5002600	5006600	Wenn man da sich anguckt, was zum Beispiel diese gelbe Regierungspartei,
+5006600	5010600	die FDP, nicht Ferengi, man verwechselt die leicht.
+5010600	5014600	Was die so sagen, dann ist das immer in der Zukunft so.
+5014600	5018600	Ja, ist jetzt schon scheiße, aber in fünf Jahren haben wir KI,
+5018600	5020600	die steuert dann alles so, dass das alles sicher ist.
+5020600	5025600	Oder in x Jahren haben wir grün Wasserstoff und dann geht das alles.
+5025600	5028600	Und das ist halt eine Form, die erlaubt, sich nicht mit dem Jetzt zu beschäftigen.
+5028600	5031600	Das sieht man auch bei dieser gerade in der Tech-Szene
+5031600	5035600	und bei den Start-up-Leuten so beliebten Long-Termism-Philosophie.
+5035600	5038600	Wir müssen nicht die Leute jetzt retten, sondern wir müssen uns Gedanken machen,
+5038600	5042600	wie die Milliarden und zig Billionen Menschen, die der Zukunft existieren könnten,
+5042600	5045600	wie deren Leben gut sein könnte.
+5045600	5047600	Das ist aber nicht meine Perspektive.
+5047600	5050600	Also ich will nicht sagen, dass mich die nicht interessieren.
+5050600	5054600	Aber wichtiger sind die Leute, die es jetzt gibt und die Probleme, die es jetzt gibt.
+5054600	5059600	Von daher geht es für mich viel mehr darum, gar nicht so in einem großen...
+5059600	5064600	Wir haben, glaube ich, viele Jahre, wenn ich auch Jahrzehnte im ganzen Digital-Diskurs damit verbracht,
+5064600	5069600	uns wundersame Visionen über The Home of Mind zu machen.
+5069600	5072600	Mir geht es jetzt viel mehr darum zu sagen, können wir das alles, was wir da jetzt haben,
+5072600	5076600	mal verankern an dem, was ist und wie unsere Leben sind.
+5076600	5078600	Und die Probleme, die das erzeugt.
+5078600	5082600	Also häufig entsteht ja aus einer halbwegs korrekten Problembeschreibung schon mal...
+5082600	5085600	Idealerweise spannen die schon für ein bisschen engeren Lösungsraum auf,
+5085600	5088600	in dem man dann mal verhandeln kann, was man tun will.
+5088600	5090600	Die positive Wendung, die man da jetzt nehmen kann, ist,
+5090600	5093600	Technologie als etwas aus dem Jetzt zu begreifen.
+5093600	5097600	Technologie als etwas zu verhandeln, was Jetzt unser Leben beeinflusst,
+5097600	5100600	was wir Jetzt gestalten wollen und nicht später.
+5100600	5103600	Und nicht, wir warten jetzt noch mal fünf Jahre, wir warten jetzt noch mal zehn Jahre usw.
+5103600	5108600	Sondern zu sagen, okay, wir wollen das gute Leben jetzt.
+5108600	5113600	Also ich will auch, dass mein Sohn gutes Leben hat in zehn Jahren, 20, 30, hoffentlich 80 Jahren.
+5113600	5117600	Aber wir können halt nicht immer alles verzögern.
+5117600	5120600	Und diese... Natürlich braucht man auch, wieso man hin will.
+5120600	5125600	Ich habe ja gerade auch über Utopäen gesprochen, die man haben kann.
+5125600	5131600	Aber ich glaube, wir haben da eigentlich fast zu sehr den Schwerpunkt draufgelegt in den letzten Jahren.
+5131600	5138600	Wir haben manchmal das Jetzt vergessen und bewerten das Jetzt gar nicht mehr als wichtig.
+5138600	5141600	Also jetzt so, man kann dasselbe auch noch mal über die Vergangenheit sagen,
+5141600	5143600	die wir auch manchmal ein bisschen zu stark ignorieren,
+5143600	5146600	sagen, aber vielleicht gab es diese Diskussion schon mal.
+5146600	5151600	Aber gerade auch das Jetzt, Climate Change ist Jetzt.
+5151600	5154600	Ich sitze hier in einem kochenden Büro in Berlin, das ist Jetzt.
+5154600	5157600	Da braucht man nicht so überreden, was das bald tut.
+5158600	5161600	Das Monopolproblem von Facebook, das haben wir Jetzt.
+5161600	5165600	Dass da jemand jetzt Technologie rumspielen kann und dann in fünf Jahren noch mal draufgucken, das hilft mir nicht.
+5165600	5167600	Ich möchte Jetzt eine politische Lösung haben.
+5167600	5170600	Ich möchte Jetzt den Diskurs führen darüber, was man da tun kann.
+5170600	5175600	Und ob man jetzt sagt, wir enteignen das oder wir zerschlagen das oder wir bauen eine parallele Infrastruktur, was auch immer.
+5175600	5180600	Man kann ja an alles rangehen, aber man muss sich, glaube ich...
+5180600	5184600	Das heißt nicht, dass man nicht über die Zukunft nachdenken muss, weil nur dann ist man natürlich handlungsfähig.
+5184600	5187600	Man muss schon irgendwo sagen, welche grobe Richtung will ich denn?
+5187600	5191600	Was sind meine Werte, die ich habe, die mir wirklich auch was bedeuten, für die ich bereit bin zu kämpfen,
+5191600	5195600	für die ich bereit bin, vielleicht auch andere Dinge zurücktreten zu lassen.
+5195600	5199600	Wir alle haben ganz viele Werte, aber wir bewerten die ja nicht gleich.
+5199600	5201600	Einigen Leuten ist das Fairness ein sehr wichtiger.
+5201600	5204600	Wir alle würden sagen, Fairness ist wichtig, aber einiges ist sehr wichtig als anderen.
+5204600	5212600	Einigen Leuten ist die eigene Bequemlichkeit wichtiger und anderen Leuten ist es nicht so wichtig.
+5212600	5224600	Diese Form von einer groben Marschrichtung, klar braucht man die, aber dieses Leben in diesen gerade technischen Imaginationen
+5224600	5230600	blockiert uns, glaube ich, dabei manchmal das Jetzt zu verhandeln.
+5230600	5238600	Weil es ist sehr, sehr einfach darüber zu reden, wie es wäre, wenn ein Computer einfach Chips in der Wand eingebaut
+5238600	5245600	und dein Handy kommuniziert mit denen und alles macht Processing für dich, alles ist ambient, Strom ist in der Luft
+5245600	5250600	und der Internet ist für alle da und es gibt ein bedingungsloses Grundeinkommen und wie wäre die Welt.
+5250600	5253600	Das kann man auch darüber nachdenken, das ist auch cool.
+5253600	5259600	Aber ich glaube, wir haben gerade so dringende Probleme, dass das nicht der Fokus sein kann.
+5259600	5264600	Das kann eine Superergänzung sein, das kann einem helfen, so eine Richtung zu gehen und sagen,
+5264600	5269600	das stimmt, wenn nicht mehr an den Bullshit-Jobs arbeiten, das ist schon cool, das wollen wir eigentlich schon haben.
+5269600	5276600	Aber für jetzt müssen wir, glaube ich, viel darüber reden, was sind denn jetzt die materiellen Probleme der Welt,
+5276600	5281600	was sind die Dinge, an die wir jetzt dran wollen, immer unter der Maßgabe der, das sind ja auch immer politische Werte,
+5281600	5284600	also zu sagen, ich will ein bedingungsloses Grundeinkommen, das ist ein politischer Wert,
+5284600	5290600	der was mit positiver Freiheit und mit Menschenwürde zu tun hat, aber das auf der Ebene zu verhandeln,
+5290600	5295600	der gibt, glaube ich, gerade weniger Sinn, als zu sagen, was brauchen wir jetzt gerade, was ist der nächste Schritt.
+5295600	5298600	Deshalb sind meine Zukunftsvisionen häufig sehr klein.
+5298600	5303600	Also für mich ist es wirklich eher, ich gucke mal so vor mich und da liegt schon genug Shit rum
+5303600	5308600	und dann die fünf Kilometer, die räumen wir auch dann noch auf, wenn wir dahin kommen,
+5308600	5312600	aber jetzt gerade, weil gerade einfach viele Entscheidungen getroffen werden.
+5312600	5317600	Also deshalb bin ich bei diesem Web3-Thema so laut, weil ich mir gewisse Sorge habe,
+5318600	5324600	dass da Entscheidungen getroffen werden in eine problematische Richtung oder dass noch mehr Leute viel Geld verlieren,
+5324600	5327600	wie auch immer, aber das ist auch ein Jetzt-Thema.
+5327600	5332600	Die Gruppe spricht immer darüber, sei das in zehn Jahren irgendwie dann relevant und wir bauen ja alle eine Infrastruktur.
+5332600	5337600	Für mich ist es halt ein Jetzt-Thema, wo man jetzt quasi politisch einschreiten muss.
+5337600	5342600	Und das ist für mich gar keine Vision, mit der ich mich da auseinandersetze,
+5342600	5346600	weil ich das an der Stelle für gar nicht so ergiebig halte.
+5346600	5348600	Ich glaube, das ist die Antwort.
+5348600	5352600	Und das mit dem Jetzt, also das ist jetzt für mich auch interessant,
+5352600	5358600	weil ich habe vor kurzem mit Andrea Vetter eine Folge aufgezeichnet zu Technologie und Degrowth.
+5358600	5362600	Und die hat diese Frage des Jetzt einfach auch nochmal ganz konkret
+5362600	5366600	auf die jetzt schon vorhandenen technologischen Infrastrukturen bezogen und hat,
+5366600	5370600	und das so lese ich dich auch, verstehe ich dich auch, hat darauf hingewiesen,
+5370600	5373600	dass es natürlich auch einfach relevant ist, sich nochmal zu fragen,
+5373600	5379600	wie können die jetzt schon vorhandenen Technologien in einer anderen Art und Weise genutzt werden,
+5379600	5384600	anstatt sozusagen permanent immer wieder neue, neue, neue, neue zu bauen sozusagen?
+5384600	5385600	Genau.
+5385600	5390600	Also das fand ich, wir müssen, wir brauchen keine Innovation, um der Innovation will.
+5390600	5395600	Es gibt dieses wundervolle Buch von Lee Vinzel und ich vergesse seinen Partner immer,
+5396600	5400600	The Innovation Delusion, indem er das halt als Innovation Theater benennt.
+5400600	5403600	Du musst immer innovativ sein, Innovation produzieren.
+5403600	5407600	Es geht gar nicht darum, ob das materiell etwas verbessert im Vergleich zum Status quo.
+5407600	5411600	Du musst aber innovativ sein, weil es ein Wert in sich ist in unserer Gesellschaft heute.
+5411600	5413600	Und das ist definitiv ein Problem.
+5413600	5417600	Und dann, dann, man sieht das manchmal, wenn dann so ganz irritiert gesehen wird,
+5417600	5420600	dass bestimmte, bestimmte Naturvölker, die man eh immer schon abgewertet hat,
+5420600	5424600	bestimmte Probleme schon lange vor uns gelöst haben und wussten, wie man eine Kreislaufwirtschaft baut
+5424600	5425600	und all diese Geschichten.
+5425600	5427600	Ja, das ist alles da.
+5427600	5430600	Du musst halt auch mal mit den Leuten reden, die wissen, was sie da tun.
+5430600	5434600	Das ist nicht innovativ, aber das löst halt Probleme.
+5434600	5442600	Und jetzt hast du eben in der Antwort auf die Strategiefrage so vehement das jetzt herausgestellt,
+5442600	5450600	was ein bisschen natürlich die Abschlussfrage, die ich einem jeden Gast stelle, so ein bisschen vorfärbt.
+5450600	5456600	Denn ich frage eine jede, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+5456600	5458600	Das ist eine sehr gute Frage.
+5458600	5461600	Ich komme aus Norddeutschland, da ist ein positives Denken mal sehr schwierig.
+5461600	5465600	Wir sind ja grundsätzlich missmutig und schlecht.
+5465600	5472600	Ich glaube, was mich sehr freudig stimmt im Blick auf die Zukunft
+5472600	5477600	und so kritisch ich vielen Dingen gegenüberstehe, ich bin ja ein großer Fan des Digitalen und des Internet.
+5477600	5482600	Ich finde das ja wirklich die beste Sache, die seit vielen, vielen hundert Jahren erfunden wurde.
+5482600	5488600	Weil was mich sehr, sehr positiv stimmt, ist, wie sehr es uns Menschen erlaubt,
+5488600	5492600	das was ich zu Beginn mit der Struktur des Digitalen selbst erwähnte,
+5492600	5499600	wie sehr ich das überall sehe, wie Menschen begreifen, wie groß sie sein können
+5499600	5505600	und was sie alles sein können und wie sie neue Verbindungen zu anderen Menschen finden können.
+5505600	5511600	Und ich glaube, dass bei allen Mengen, die es haben, die digitalen Infrastrukturen, die wir haben,
+5511600	5514600	da schon viel gemacht haben und ich glaube, dass da noch viel, viel mehr passiert,
+5514600	5521600	wenn ich sehe, wie sich Communities auf TikTok, auf YouTube und sonst wo bilden
+5521600	5528600	und ein extrem offener, leider nicht immer, aber innerhalb dieser Communities
+5528600	5534600	häufig ein extrem offener und stützender Prozess läuft, der in einer Welt,
+5534600	5540600	in der sonst ganz viel, jeder gegen jeden und wir müssen uns jetzt, wir müssen alle Profit erwätschaften
+5540600	5543600	und wir müssen alle die anderen übervorteilen, dass daneben aber Dinge passieren,
+5543600	5549600	wo Menschen, die paar Kröten, die sie haben, noch irgendwelchen KünstlerInnen in den Hut werfen,
+5549600	5552600	weil sie einfach geil finden, dass die tolle Kunst für die Community machen
+5552600	5557600	und sich da einfach eine Form fahren. Das ist jetzt keine strukturierte Gegenbewegung
+5557600	5562600	gegen die Übel des Kapitalismus, aber sie zeigen, dass das David Graeber mal sagte,
+5562600	5568600	man lebt nie in einem vollen Kommunismus, man lebt auch nie in einem vollen Kapitalismus.
+5568600	5571600	Wir leben aber die meiste Zeit eigentlich in sehr kommunistischen Welten.
+5571600	5574600	Unsere Familien sind eigentlich so, unsere Freundschaften sind so.
+5574600	5577600	Ganz viele unserer sozialen Beziehungen funktionieren so, nur plötzlich,
+5577600	5581600	sobald wir rausgehen und Geld verdienen müssen, dann ist alles so transaktional.
+5581600	5588600	Ich finde, dass sich das an vielen Stellen ganz stark wieder zeigt, dass das wieder entdeckt wird.
+5588600	5593600	Und ich meine, es gibt eine politische Linke, die sich da vielleicht nochmal wieder formiert
+5593600	5597600	und die noch neue Ideen auskramt, sondern das Leute ganz materiell in ihrem Alltag begreifen,
+5597600	5604600	dass die Welt nicht so sein muss. Mark Fischer sagte mal, es ist nicht schwerer vorzustellen,
+5604600	5609600	dass das Ende des Kapitalismus, und es ist schwer vorzustellen, aber Leute machen das schon.
+5609600	5614600	Und wir sehen, dass da auch gerade dieses Community-Building, was das Digitale uns erlaubt,
+5614600	5618600	ein wichtiger Schritt dahin ist, zu sagen, weißt du was, fuck all of this,
+5618600	5621600	dann machen wir halt unseren eigenen Shit hier für uns.
+5621600	5624600	Und zumindest in unserem kleinen Bereich muss das nicht so sein.
+5624600	5628600	Ich glaube, Leute werden da viele Dinge erfahren, die man früher,
+5628600	5631600	da gab es ein paar Leute, die sich da mal in der Kommune zusammengefunden haben
+5631600	5634600	und die ein anderes Lebensmodell erfahren konnten in einem Aspekt ihres Lebens.
+5634600	5637600	Das war aber das Skalierte halt für nix.
+5637600	5640600	Ich glaube, es ist für viele Leute heute sehr viel einfacher,
+5640600	5644600	jenseits von Erfahrungen zu machen, du musst alle übervorteilen,
+5644600	5647600	du musst alle übertöpeln, und das geht nur um Profit.
+5647600	5651600	Und ich mache das hoffnungsvoll, weil ich glaube, wenn man das erlebt,
+5651600	5655600	dann weiß man, dass die Welt besser sein könnte, als sie jetzt ist.
+5656600	5660600	Wunderbar, Tante, das war ja ein ganz ausgezeichnetes Schlusswort.
+5660600	5662600	Vielen Dank für dieses Gespräch.
+5662600	5664600	Danke fürs Einladen, es hat mich sehr gefreut.
+5668600	5670600	Das war Future Histories für heute.
+5670600	5672600	Vielen Dank fürs Zuhören.
+5672600	5677600	Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+5677600	5681600	Diskutiert mit auf Twitter unter dem Hashtag Future Histories
+5681600	5683600	oder im eigenen Subreddit.
+5683600	5689600	Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren,
+5689600	5693600	sondern auch auf YouTube, wo ihr neben den Episoden dann auch
+5693600	5698600	Kurzvideos zu Kernbegriffen einzelner Episoden findet.
+5698600	5703600	Schreibt mir gerne unter jan at futurehistories.today.
+5703600	5707600	Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise.
+5707600	5710600	Wenn ihr Future Histories unterstützen wollt,
+5710600	5714600	dann könnt ihr das auf patreon.com schrägstrich Future Histories
+5714600	5717600	oder auch via Spende auf unserer Homepage.
+5717600	5720600	Future Histories ist eine Produktion von MetaLapses,
+5720600	5723600	zu finden auf meta-lapses.net.
+5723600	5726600	Bis zum nächsten Mal, ich freue mich.

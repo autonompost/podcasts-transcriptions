@@ -18,7 +18,7 @@ TODO
 
 ## Obsidian and Audio Notes
 
-If you are [Obsidian]() User and want to use the plugin [obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes) you will find ready to use notes with embedded Metadata for this plugin.
+If you are [Obsidian](https://obsidian.md) User and want to use the plugin [obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes) you will find ready to use notes with embedded Metadata for this plugin.
 
 - [ ] TODO create a script that lets you replace the path inside the audio notes
 

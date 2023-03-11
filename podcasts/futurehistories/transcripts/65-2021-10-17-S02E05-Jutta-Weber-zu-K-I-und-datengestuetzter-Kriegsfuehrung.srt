@@ -1,0 +1,2716 @@
+1
+00:00:00,000 --> 00:00:06,280
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+2
+00:00:06,280 --> 00:00:11,600
+Mein Name ist Jan Groß und ich freue mich sehr, heute Jutta Weber begrüßen zu dürfen.
+
+3
+00:00:11,600 --> 00:00:18,080
+Sie ist Professorin für Mediensozialogie an der Universität Paderborn und forscht unter anderem
+
+4
+00:00:18,080 --> 00:00:22,440
+zu künstlicher Intelligenz und datengesteuerter Kriegsführung.
+
+5
+00:00:22,440 --> 00:00:29,800
+Bevor es losgeht, möchte ich noch Andrea ganz herzlich in der Gemeinschaft der Patreon-Unterstützerinnen und Unterstützer begrüßen.
+
+6
+00:00:30,000 --> 00:00:34,480
+Und Dirk für die Erhöhung seiner Patreon-Unterstützung danken.
+
+7
+00:00:34,480 --> 00:00:37,960
+Ebenso vielen Dank an Fabian für deine Spende.
+
+8
+00:00:37,960 --> 00:00:42,800
+Und an dieser Stelle möchte ich nochmal darauf hinweisen, wenn ihr Future Histories unterstützen wollt,
+
+9
+00:00:42,800 --> 00:00:49,640
+dann könnt ihr das natürlich auf Patreon, wie ihr gerade gehört habt, aber man kann natürlich auch eine einzelne Spende machen.
+
+10
+00:00:49,640 --> 00:00:54,920
+Und wenn ihr die finanziellen Möglichkeiten nicht habt, sowas zu tun, dann ist das überhaupt kein Problem.
+
+11
+00:00:55,000 --> 00:01:00,240
+Ich freue mich auch sehr, wenn ihr Future Histories einfach einem Freund oder einer Freundin empfehlt,
+
+12
+00:01:00,240 --> 00:01:05,760
+von der ihr glaubt, dass ihr oder ihm Future Histories vielleicht auch gefallen könnte.
+
+13
+00:01:05,760 --> 00:01:11,800
+Vielen Dank dafür und viel Freude mit der heutigen Episode Future Histories mit Jutta Weber
+
+14
+00:01:11,800 --> 00:01:15,920
+zu künstlicher Intelligenz und datengestützter Kriegsführung.
+
+15
+00:01:21,960 --> 00:01:24,280
+Herzlich willkommen, Jutta.
+
+16
+00:01:24,280 --> 00:01:26,800
+Hallo Jan, ich freue mich sehr, hier zu sein.
+
+17
+00:01:26,800 --> 00:01:28,600
+Ich freue mich auch sehr.
+
+18
+00:01:28,600 --> 00:01:31,800
+Jutta, wir wollen im heutigen Gespräch zwei Dinge versuchen.
+
+19
+00:01:31,800 --> 00:01:36,920
+Wir wollen versuchen, zwei Felder einzufangen, mit denen du dich intensiv befasst hast
+
+20
+00:01:36,920 --> 00:01:40,000
+und die auch aufs engste Miteinander verwoben sind.
+
+21
+00:01:40,000 --> 00:01:45,000
+Zunächst wollen wir uns den erkenntnistheoretischen Grundlagen künstlicher Intelligenz zuwenden,
+
+22
+00:01:45,000 --> 00:01:52,080
+um uns dann anhand des sehr konkreten Praxisbeispiels datengestützter Kriegsführung anzusehen,
+
+23
+00:01:52,120 --> 00:01:56,720
+inwiefern maschinelles Lernen in Kombination mit sehr großen Datenbanken eigentlich auch
+
+24
+00:01:56,720 --> 00:02:02,680
+eine spezifische Form der Wissensproduktion darstellt und damit auch eine spezifische
+
+25
+00:02:02,680 --> 00:02:05,400
+Produktion von Welt mit sich bringt eigentlich.
+
+26
+00:02:05,400 --> 00:02:11,080
+Aber einsteigen würde ich dann doch gerne mit einer Definitionsfrage, nämlich wie definierst
+
+27
+00:02:11,080 --> 00:02:12,720
+du künstliche Intelligenz?
+
+28
+00:02:15,040 --> 00:02:16,360
+Das ist sehr lustig.
+
+29
+00:02:16,360 --> 00:02:19,080
+Wir arbeiten gerade, und jetzt mache ich einen kleinen Bogen.
+
+30
+00:02:19,080 --> 00:02:25,400
+Wir arbeiten gerade in einem kleinen Forschungsprojekt, das heißt Scoring Society.
+
+31
+00:02:25,400 --> 00:02:29,600
+Und da geht es eben auch um Praktiken von Scoring, Rating, Ranking.
+
+32
+00:02:29,600 --> 00:02:34,680
+Und da werden wir vielleicht noch mal bei der Frage der datengeschützten Kriegsführung
+
+33
+00:02:34,680 --> 00:02:35,920
+darauf zurückkommen.
+
+34
+00:02:35,920 --> 00:02:42,160
+Und da habe ich meinen Kollegen gefragt, der Maschinenlearner ist, was denn für ihn
+
+35
+00:02:42,160 --> 00:02:44,400
+künstliche Intelligenz sei.
+
+36
+00:02:44,400 --> 00:02:47,040
+Und dann hat er die Hände über den Kopf zusammengeschlagen.
+
+37
+00:02:47,040 --> 00:02:48,880
+Das ist eine ganz schreckliche Frage.
+
+38
+00:02:48,920 --> 00:02:51,840
+Weil es gäbe 1000 Antworten darauf.
+
+39
+00:02:51,840 --> 00:02:56,480
+Und eigentlich hat sich das natürlich jetzt in der Informatik vielleicht noch mal anders
+
+40
+00:02:56,480 --> 00:03:01,480
+als in kulturtheoretischen Kontexten es auch sozusagen keine Einigung darauf gibt.
+
+41
+00:03:01,480 --> 00:03:07,200
+Weil ich glaube, in der Informatik haben wir dann schon mehr gemeinsame Definitionen und
+
+42
+00:03:07,200 --> 00:03:12,880
+Verständnisse, als wir das vielleicht in dem Kulturwissen oder Sozialwissenschaften haben.
+
+43
+00:03:13,200 --> 00:03:19,800
+Ich glaube, ich könnte das eher historisch vielleicht begründen, weil ich glaube, es
+
+44
+00:03:19,800 --> 00:03:25,640
+gibt da nicht eine Definition und es gibt ja auch verschiedene Anwendungsbereiche, die
+
+45
+00:03:25,640 --> 00:03:29,520
+umstritten sind, ob die jetzt künstliche Intelligenz sind oder nicht.
+
+46
+00:03:29,520 --> 00:03:34,720
+Oder wenn sie zum Beispiel Daten getrieben sind, wie wir das jetzt mit Big Data und
+
+47
+00:03:34,720 --> 00:03:39,760
+Maschinenlearning haben, wird das eigentlich automatisch zu künstlicher Intelligenz
+
+48
+00:03:39,800 --> 00:03:45,520
+gerechnet. Aber ich muss an einen der ersten Roboter, der Shakey hieß, das sind wir, ich
+
+49
+00:03:45,520 --> 00:03:51,960
+glaube, im MIT weiß ich nicht mehr genau der sechziger Jahre, wo so eine wackelnde Box
+
+50
+00:03:51,960 --> 00:03:53,600
+durch den Raum gefahren ist.
+
+51
+00:03:53,600 --> 00:04:01,680
+Das war halt zu dieser Zeit auch sozusagen der höchste Stand oder das, was man damals
+
+52
+00:04:01,680 --> 00:04:08,360
+unter künstlicher Intelligenz verstand, wo man sehr aufgeregt war und was eben der Versuch
+
+53
+00:04:08,840 --> 00:04:17,240
+war, zum Beispiel gewisse symbolische Ordnungen in einer Maschine einzubauen und die dazu
+
+54
+00:04:17,240 --> 00:04:24,400
+zu bewegen, bestimmte Abläufe dann auch in Kombination vielleicht selbsttätig zu unternehmen.
+
+55
+00:04:24,400 --> 00:04:30,960
+Aber wie gesagt, zwischen einem Shakey aus den sechziger, siebziger Jahren und was wir
+
+56
+00:04:30,960 --> 00:04:36,440
+heute mit Daten getriebenen Lösungen, zum Beispiel in der Kriegsführung, aber auch anderswo
+
+57
+00:04:36,440 --> 00:04:40,920
+von Google-Suchmaschine und so haben, ist natürlich ein wahnsinnig breites Spektrum.
+
+58
+00:04:42,120 --> 00:04:48,760
+Das heißt jetzt so was wie maschinelles Lernen, das wird einfach dann subsummiert unter
+
+59
+00:04:48,760 --> 00:04:50,280
+künstliche Intelligenz auch.
+
+60
+00:04:50,840 --> 00:04:56,280
+Ja, ich vermute, da bin ich jetzt aber nicht die Expertin für, dass in der Geschichte des
+
+61
+00:04:56,280 --> 00:05:01,520
+maschinellen Lernens, also maschinelles Lernen nicht schon immer als Teil der künstlichen
+
+62
+00:05:01,520 --> 00:05:07,400
+Intelligenz wahrgenommen wurde, weil maschinelles Lernen, habe ich wiederum gelernt, ist
+
+63
+00:05:07,400 --> 00:05:14,040
+glaube ich mindestens 50 Jahre alt, bekommt aber eigentlich erst in den letzten 10, 15 Jahren
+
+64
+00:05:14,040 --> 00:05:20,240
+so einen richtigen Drive, also sodass wir jetzt auch wahrnehmen, was maschinelles Lernen,
+
+65
+00:05:21,080 --> 00:05:25,920
+was man damit alles machen kann und dass das eben auch in unseren Alltagspraktiken zunehmend
+
+66
+00:05:26,040 --> 00:05:32,360
+zentrale Rolle spielt und das hat natürlich auch mit neuen Formen von Datenbanken und
+
+67
+00:05:32,360 --> 00:05:38,000
+erstmal primär mit Big Data zu tun, dass man das in der Weise natürlich auch so gut
+
+68
+00:05:38,000 --> 00:05:45,120
+umsetzen konnte und natürlich auch mit der gesteigerten Rechnerkapazität von Computern
+
+69
+00:05:45,120 --> 00:05:52,400
+sicherlich auch und damit zum Beispiel auch in Echtzeit oder fast Echtzeit spannende
+
+70
+00:05:52,400 --> 00:05:59,240
+Anwendungen auf maschinelles Lernen basiert machen kann. Der Klassiker ist glaube ich immer
+
+71
+00:05:59,240 --> 00:06:07,240
+die Suchmaschine, die dann da ins Feld geführt wird. Interessant. Das heißt, maschinelles Lernen
+
+72
+00:06:07,240 --> 00:06:13,320
+wurde nicht schon immer unter künstlicher Intelligenz subsummiert, wird aber heute zumindest
+
+73
+00:06:13,320 --> 00:06:20,640
+mal in Teilen auch darunter gefasst, oder? Ja, eben das mit dem Darunterfassen ist ja eine ganz
+
+74
+00:06:20,640 --> 00:06:27,320
+schwierige Sache, weil ich versuche gerade mir ein Beispiel auszudenken, weil es wären ja jetzt
+
+75
+00:06:27,320 --> 00:06:37,720
+zum Beispiel wäre ja eine Frage, ob ferngesteuerte Roboter sind die Teil von künstlicher Intelligenz.
+
+76
+00:06:37,720 --> 00:06:51,040
+Also die sind, also die müssen sozusagen nicht selber ihre eigene Software optimieren,
+
+77
+00:06:51,040 --> 00:06:57,280
+das wäre jetzt zum Beispiel so ein advanced, also ein fortgeschrittenes Verständnis von
+
+78
+00:06:57,280 --> 00:07:06,640
+künstlicher Intelligenz, Selbstoptimierung von Algorithmen. Aber natürlich galt in den 60er,
+
+79
+00:07:06,760 --> 00:07:13,240
+70er Jahren, was ich vorhin meinte, so ein klassisch, also in dieser alten Logik der symbolischen KI,
+
+80
+00:07:13,240 --> 00:07:20,360
+wo man versucht hat zu einem Rechner möglichst viel Wissen in seinen Gehirn, also auf der
+
+81
+00:07:20,360 --> 00:07:26,160
+Festplatte zu speichern, was dann sozusagen Schritt für Schritt abgearbeitet wurde,
+
+82
+00:07:26,160 --> 00:07:32,400
+fiel da auch unter künstliche Intelligenz. Und viele fassen das auch heute noch, also für viele
+
+83
+00:07:32,400 --> 00:07:38,160
+Leute ist ja ein Roboter automatisch Teil von künstlicher Intelligenz, der aber, wenn er sozusagen
+
+84
+00:07:38,160 --> 00:07:45,320
+top down seine Programme abarbeitet und ferngesteuert wird, für manche eben nicht zur künstlichen
+
+85
+00:07:45,320 --> 00:07:51,440
+Intelligenz zählt, weil eben diese Selbstoptimierungs- und Selbstlernstrategien fehlen.
+
+86
+00:07:51,440 --> 00:07:57,120
+Ich glaube, das wäre vielleicht hilfreich für die Hörerinnen und Hörer, das auch noch mal
+
+87
+00:07:57,120 --> 00:08:03,080
+klarzumachen, weil du jetzt eben die Frühphase der KI auch angesprochen hast, wo einfach auch
+
+88
+00:08:03,080 --> 00:08:08,760
+wirklich noch ein anderes Paradigma im Grunde vorgeherrscht hat, wo also man noch glaubte,
+
+89
+00:08:08,760 --> 00:08:16,160
+man könne eben auf Basis von Kategorien sozusagen, in dem Fall Roboter in Anführungsstrichen,
+
+90
+00:08:16,160 --> 00:08:26,080
+eine große Menge an Wissen sozusagen einpflanzen und demgegenüber stehen, sagen, andere Zugänge,
+
+91
+00:08:26,080 --> 00:08:31,720
+die du auch in deinen Arbeiten beschreibst, wie zum Beispiel genetische Algorithmen, die eben in
+
+92
+00:08:31,720 --> 00:08:37,440
+der Lage sind, dann selbstlernende Mechanismen herauszubilden. Vielleicht kannst du noch mal
+
+93
+00:08:37,440 --> 00:08:42,160
+diesen Unterschied ein bisschen klar machen und inwiefern das auch einfach wirklich ein
+
+94
+00:08:42,160 --> 00:08:49,200
+Paradigmenwechsel darstellt. Wobei, also ich versuche das jetzt erst mal zu differenzieren,
+
+95
+00:08:49,200 --> 00:08:54,320
+wobei man auch da sagen muss, dass es schon sehr früh Ansätze dafür gibt, dass die sich aber
+
+96
+00:08:54,400 --> 00:09:00,120
+primär heute durchsetzen. Man hat früher eigentlich klassisch zwischen symbolischer
+
+97
+00:09:00,120 --> 00:09:06,160
+und konnektionistischer KI, teilweise auch Kybernetik, also konnektionistische KI und
+
+98
+00:09:06,160 --> 00:09:11,600
+Kybernetik sind teilweise eng verwandt, unterschieden und vielleicht würde ich heute,
+
+99
+00:09:11,600 --> 00:09:16,160
+kann man eigentlich auch noch eine dritte Unterscheidung einführen, die datengetriebene
+
+100
+00:09:16,160 --> 00:09:24,080
+KI. Aber fangen wir erstmal mit der symbolischen KI an. Man hat ja immer mit Vorbildern oder
+
+101
+00:09:24,080 --> 00:09:29,600
+Ideen, wie menschliche Intelligenz funktioniert, gearbeitet. Sieht man dann ein bisschen an den
+
+102
+00:09:29,600 --> 00:09:37,520
+Ergebnissen, wie es strukturiert wird. Und da war die Idee, Symbole sind wichtig und das war
+
+103
+00:09:37,520 --> 00:09:47,960
+ja auch sehr stark mathematisch logisch orientiert. Diese symbolische KI, dass sozusagen ein in dem
+
+104
+00:09:48,040 --> 00:09:54,800
+Zusammenhang dann Datengehirn oder Computergehirn symbolisch diese Abläufe, zum Beispiel Abläufe
+
+105
+00:09:54,800 --> 00:10:01,160
+berechnet. Also wie muss der Roboter von A nach B durch einen Raum laufen? Das wäre eins. Oder
+
+106
+00:10:01,160 --> 00:10:07,840
+vielleicht für ältere unter dem Podcast-Hörer Experten-Systeme waren eine große Hoffnung in
+
+107
+00:10:07,840 --> 00:10:14,840
+den 70er Jahren, kommen teilweise heute wieder, heißen dann anders. Aber das war ja auch die Idee,
+
+108
+00:10:15,040 --> 00:10:20,280
+man kann diese künstlichen intelligenten Systeme, also bitte immer in Anführungsstrichen,
+
+109
+00:10:20,280 --> 00:10:28,720
+soweit mit Wissen füttern, dass die Funktionen von Menschen übernehmen kann. Also damals war die
+
+110
+00:10:28,720 --> 00:10:35,880
+große Hoffnung, zum Beispiel ärztliche Experten-Systeme zu schaffen, denen man
+
+111
+00:10:35,880 --> 00:10:41,840
+Basisinformationen eingibt und die dann eine Diagnose erstellen können. So Ideen kommen immer
+
+112
+00:10:41,840 --> 00:10:48,280
+wieder. In den 70er Jahren ist man damit gescheitert, aber diese Form von künstlicher Intelligenz
+
+113
+00:10:48,280 --> 00:10:58,440
+basierte eben auf so einer symbolisch-rational-kognitiven Vorstellung von künstlicher
+
+114
+00:10:58,440 --> 00:11:03,760
+Intelligenz. Ich komme immer wieder auf die Roboter, weil ich mich damit mehr beschäftigt
+
+115
+00:11:03,760 --> 00:11:11,120
+habe und was dann ganz schön zu sehen war in den 70er und 80er Jahren, dass diese symbolische KI
+
+116
+00:11:11,200 --> 00:11:17,160
+einfach nicht gut funktioniert hat. Also die Roboter, der Shakey, von dem ich gesprochen habe,
+
+117
+00:11:17,160 --> 00:11:23,320
+der hat halt, um zum Beispiel einen Raum zu durchfahren, das war so eine wackelige Kiste
+
+118
+00:11:23,320 --> 00:11:29,680
+auf vier Rädern, irgendwie über eine Stunde gebraucht, weil der immer wieder Schritt für Schritt
+
+119
+00:11:29,680 --> 00:11:36,000
+ein Stück vorgefahren ist, dann versucht hat sozusagen die ganze Umgebung abzuscannen,
+
+120
+00:11:36,000 --> 00:11:41,600
+um wieder neu zu berechnen, was er jetzt tun muss. Also wirklich dieses, wie wir uns vielleicht
+
+121
+00:11:41,600 --> 00:11:48,920
+heute noch einen Algorithmus vorstellen, dass das eben wie so ein Kochrezept ein Schritt nach dem
+
+122
+00:11:48,920 --> 00:11:55,320
+anderen wird vorgegeben, der top down abgearbeitet wird und diese Folge bleibt auch immer so. Dann
+
+123
+00:11:55,320 --> 00:12:04,680
+haben die Robotiker festgestellt, dass damit vielleicht materialere und in Umwelten agierende
+
+124
+00:12:04,680 --> 00:12:11,800
+Systeme mit dieser Logik nicht wirklich vorankommen und dagegen gab es, der ist schon älter, diese
+
+125
+00:12:11,800 --> 00:12:17,920
+konnektionistische KI, die aber auch große Verwandtschaft mit der Kybernetik hat, also da
+
+126
+00:12:17,920 --> 00:12:26,760
+sind teilweise ähnliche Ansätze bzw. das geht auch ineinander über und die haben in der Robotik dann
+
+127
+00:12:26,760 --> 00:12:34,440
+in den 80er Jahren zunehmend Bedeutung gewonnen, also Leute wie Rodney Brooks, weiß ich nicht,
+
+128
+00:12:34,440 --> 00:12:40,720
+ob das manchen was sagt, der ist dann mit seinen Robotern relativ bekannt geworden und das Motto
+
+129
+00:12:40,720 --> 00:12:50,280
+war fast, cheap and out of control und das klingt natürlich erstmal extrem weird, aber fast war zum
+
+130
+00:12:50,280 --> 00:12:56,960
+Beispiel wirklich ein Punkt, weil nämlich dieses, dass das stundenlang dauert, bis so ein Roboter
+
+131
+00:12:56,960 --> 00:13:02,960
+sich in der Umgebung bewegt und eine Umgebung, die damals sogar noch eingegrenzt war, das war
+
+132
+00:13:02,960 --> 00:13:09,920
+ja ein Raum oder ein Labor, wir sprechen noch gar nicht davon, dass Roboter sich frei in der Umwelt
+
+133
+00:13:09,920 --> 00:13:16,440
+bewegen sollen, was ja noch mal eine ganz andere Herausforderung von Navigation, Wahrnehmung und so
+
+134
+00:13:16,440 --> 00:13:26,600
+weiter ist. So und da war dann und diese heißen fast cheap and out of control, weil die weniger
+
+135
+00:13:26,600 --> 00:13:33,880
+aufwendig gebaut, also cheap weniger aufwendig gebaut waren, weil die mehr auf Interaktion mit
+
+136
+00:13:33,880 --> 00:13:41,720
+der Umwelt gesetzt haben, das heißt man hat Sachen ausprobiert und dann geguckt und versucht zu sehen,
+
+137
+00:13:41,720 --> 00:13:49,160
+wie was tut der Roboter, wenn er da irgendwo lang fährt, wenn er gegen einen Gegenstand stößt und
+
+138
+00:13:49,160 --> 00:13:55,240
+hat versucht die dann zum Beispiel so zu bauen, dass die dann automatisch wenden und dann in eine
+
+139
+00:13:55,240 --> 00:14:00,720
+andere Richtung fahren, also dass die so eine Vorstellung, also so ein Konzept von Trial and
+
+140
+00:14:00,720 --> 00:14:06,200
+Error hat man ausprobiert und dass sie gleichzeitig aber, das ist dann so ein paar Jahre später,
+
+141
+00:14:06,200 --> 00:14:14,240
+das war vielleicht nicht gleich ganz am Anfang, sozusagen versuchen diese Strategien, bei Menschen
+
+142
+00:14:14,240 --> 00:14:20,280
+würde man sagen zu erinnern, wieder in Anführungsstriche, aber dass diese Strategien
+
+143
+00:14:20,280 --> 00:14:26,040
+erstmal glaube ich am Anfang von Hand implementiert wurden, dass die einmal zur Verbesserung,
+
+144
+00:14:26,040 --> 00:14:32,560
+zur Optimierung des Roboterverhaltens beigetragen haben und das war, das haben sie teilweise auch
+
+145
+00:14:32,560 --> 00:14:38,840
+selber so genannt, das nannte man dann Behavior Based Robotics, also verhaltenbasierte Robotik oder
+
+146
+00:14:38,840 --> 00:14:47,320
+Biologically Inspired Robotics, also man guckt so ein bisschen auf das Verhalten von jetzt keinen
+
+147
+00:14:48,280 --> 00:14:55,760
+hochorganisierten Säugetieren oder den Menschen, sondern man guckt zum Beispiel darauf, wie
+
+148
+00:14:55,760 --> 00:15:08,120
+funktionieren Ameisen oder ähnliche Tiere, um da aus diesen Bewegungsmustern Vorbilder für eine
+
+149
+00:15:08,120 --> 00:15:14,840
+andere Form von Programmierung von diesen Robotern zu gewinnen und das ist eben nicht mehr symbolisch,
+
+150
+00:15:15,280 --> 00:15:23,000
+also auf so einer Symbolverarbeitung basiert das nicht, sondern auf so genannten biologischen,
+
+151
+00:15:23,000 --> 00:15:30,760
+aber vor allem verhaltensbasierten Einsichten oder Regeln muss man mal sagen. Das geht jetzt aber
+
+152
+00:15:30,760 --> 00:15:35,960
+noch einen Schritt weiter, weil das hast du vorhin noch ins Spiel gebracht Jan, das war ja die Frage
+
+153
+00:15:35,960 --> 00:15:44,600
+nach den genetischen Algorithmen und das schließt genau an diese Idee von Trial und Error an, dass
+
+154
+00:15:44,600 --> 00:15:52,480
+man selbst Algorithmen optimieren kann durch Rumprobieren, sage ich jetzt mal flapsig und das
+
+155
+00:15:52,480 --> 00:16:00,240
+ist eigentlich auch eine ganz spannende Geschichte, das fängt in den 90er, 1990er Jahren an, als Vater
+
+156
+00:16:00,240 --> 00:16:09,200
+in Anführungsstrichen wieder gilt John Holland, der diese Algorithmen erfunden hat und da ist die
+
+157
+00:16:09,200 --> 00:16:16,360
+Idee, dass man auch nicht mehr top down die optimale Lösung für ein Problem sozusagen durch
+
+158
+00:16:16,360 --> 00:16:24,280
+Überlegen oder Ausrechnen, also symbolische Operationen findet, sondern dass man einen ersten
+
+159
+00:16:24,280 --> 00:16:31,560
+Versuch für eine Lösung formuliert, also um ein Beispiel zu geben, der Klassiker ist immer, man
+
+160
+00:16:31,560 --> 00:16:38,800
+hat 7x beliebige Zahlen und man versucht der Maschine beizubringen, die nach ihrer Größe
+
+161
+00:16:38,800 --> 00:16:49,320
+zu trainieren, in einer richtigen Reihenfolge zu sortieren, nicht zu trainieren und das auf dem
+
+162
+00:16:49,320 --> 00:16:55,480
+möglichst, früher war es der möglichst eleganteste Weg, heute ist es oft eher der schnellste Weg,
+
+163
+00:16:55,480 --> 00:16:59,600
+also die Mathematiker, wenn die das klassisch von Hand gemacht haben, die haben sich immer eher
+
+164
+00:16:59,600 --> 00:17:05,120
+bei die, für die Eleganz der Lösung, also natürlich auch für die Schnelligkeit, aber auch für die
+
+165
+00:17:05,120 --> 00:17:12,000
+Eleganz der Lösung interessiert und jetzt geht es aber darum, die schnellsten und den kürzesten
+
+166
+00:17:12,000 --> 00:17:21,080
+Weg zu finden. Und dann probiert man aus und genetische Algorithmen heißen die, weil man dann mit
+
+167
+00:17:21,080 --> 00:17:29,360
+zwei oder andersrum, weil man den Algorithmus nimmt, meistens in zwei Teile auseinander nimmt, die ein
+
+168
+00:17:29,360 --> 00:17:37,680
+klein wenig variiert, das ausprobiert, wie diese Lösung funktioniert und dann nimmt man 10% der
+
+169
+00:17:37,680 --> 00:17:45,400
+besten Lösung, um daraus wieder die Algorithmen etwas zu variieren, also deshalb genetische
+
+170
+00:17:45,400 --> 00:17:51,840
+Algorithmus, das da sozusagen an der DNA des Algorithmus geschraubt wird, indem man den Algorithmus
+
+171
+00:17:51,840 --> 00:17:57,800
+immer wieder ein klein wenig verändert oder auch beste Lösungen miteinander kreuzt und guckt,
+
+172
+00:17:57,800 --> 00:18:04,720
+was dabei rauskommt. Das ist insofern interessant, man kann je nachdem, es ist schon auch eine Kunst,
+
+173
+00:18:04,720 --> 00:18:10,280
+dann diesen Algorithmus zu konfigurieren, das fällt in der Geschichte meistens weg, aber was
+
+174
+00:18:10,280 --> 00:18:17,880
+dabei rauskommt, ist, dass oft 90% Chunk rauskommt oder vielleicht auch 99%, dass man dabei aber auch
+
+175
+00:18:17,880 --> 00:18:24,040
+sehr gute Lösungen findet und bei dieser und das ist so ein Grund und so ein Grundnarrativ von
+
+176
+00:18:24,040 --> 00:18:31,440
+diesen genetischen, der Erfindung der genetischen Algorithmen, wo man sagt, dass da oft schon erste
+
+177
+00:18:31,440 --> 00:18:38,280
+Implementationen von diesen Algorithmen zu sehr, sehr guten Ergebnissen geführt hat, also zum
+
+178
+00:18:38,280 --> 00:18:42,840
+Beispiel bei dieser Reihenfolge der sieben Zahlen oder vielleicht sind es auch nur fünf klassisch,
+
+179
+00:18:42,840 --> 00:18:49,120
+was auch immer so ein Wettbewerb unter Mathematikerinnen war, mit dieser neuen,
+
+180
+00:18:49,120 --> 00:18:56,280
+mit diesem neuen Ansatz von genetischen Algorithmen die zweitbeste Möglichkeit jemals gefunden wurde,
+
+181
+00:18:56,280 --> 00:19:02,680
+indem man immer wieder, also die schlechten Lösungen wegwirft, die guten Lösungen variiert
+
+182
+00:19:02,680 --> 00:19:09,200
+und dann sich versucht sozusagen dem Ziel anzunähern, ohne eigentlich genau zu wissen,
+
+183
+00:19:09,200 --> 00:19:18,840
+was man tut. Also wirklich ein Optimierungsverfahren, aber kein rational-kognitives Verfahren,
+
+184
+00:19:18,840 --> 00:19:27,040
+um zu verstehen, wie man zur besten Lösung kommt, sondern indem man immer, also ein wenig bessere
+
+185
+00:19:27,040 --> 00:19:34,000
+Lösungen ausprobiert und miteinander kreuzt, um bessere Ergebnisse zu erzielen, was letztendlich
+
+186
+00:19:34,000 --> 00:19:41,480
+ja auch bedeutet, dass man nie zu der besten Lösung kommen wird, wie wir das oft ja rational-kognitiv
+
+187
+00:19:41,480 --> 00:19:48,840
+versuchen, sondern das sozusagen ein Annäherungsprozess bleibt. Also irgendwann muss ich auch die Maschine
+
+188
+00:19:48,840 --> 00:19:54,480
+stoppen und sagen, mit der Lösung bin ich zufrieden, das scheint mir ein gutes Ergebnis zu sein,
+
+189
+00:19:54,480 --> 00:20:01,840
+aber es ist nie die Lösung, was offensichtlich auch oft oder am Anfang sehr stark auch zu
+
+190
+00:20:01,840 --> 00:20:08,600
+Irritationen geführt hat, weil das natürlich nicht unbedingt das klassisch rational-kognitive
+
+191
+00:20:08,600 --> 00:20:16,920
+Vorgehen ist, um ein Problem zu lösen, also mit dieser Annäherungslogik zu arbeiten. Und das kann
+
+192
+00:20:16,920 --> 00:20:22,120
+man dann eben auch in Roboter implementieren, die dann sozusagen aus ihrem eigenen Verhalten
+
+193
+00:20:22,120 --> 00:20:30,000
+lernen sollen und dann zu sehen, ah, dazu muss ich immer Parameter vorgeben, also was ist
+
+194
+00:20:30,080 --> 00:20:37,360
+ein gelungenes Verhalten. Das ist ganz wichtig, aber wo dann der Roboter sozusagen selber
+
+195
+00:20:37,360 --> 00:20:43,440
+abgleichen kann, also heute gibt es da ganz banale Lösungen, um es einfacher zu machen,
+
+196
+00:20:43,440 --> 00:20:54,240
+wenn bei VW an Fließband Fensterscheiben ins Auto eingebaut werden, dann schaut sich der Roboter,
+
+197
+00:20:54,280 --> 00:21:00,520
+schaut sich wieder in Anführungsstrichen, dann rechnet der Roboter aus, in welchem Bogen er optimal
+
+198
+00:21:00,520 --> 00:21:07,600
+sozusagen die Bewegung ausführen kann, um möglichst exakt und in möglichst schneller Zeit das Fenster
+
+199
+00:21:07,600 --> 00:21:13,440
+da einzusetzen und dann guckt er sich diese verschiedenen Bewegungen immer wieder an und
+
+200
+00:21:13,440 --> 00:21:22,160
+löst dann aufgrund dieses Optimierungsalgorithmus, wählt er dann genau die Variante aus, die am
+
+201
+00:21:22,160 --> 00:21:27,280
+schnellsten oder auch am besten, also wie er das Fenster am besten einpassen konnte,
+
+202
+00:21:27,280 --> 00:21:33,840
+selbsttätig aus, um das in Zukunft immer weiter zu optimieren. Das haben wir schon im Alltag heute
+
+203
+00:21:33,840 --> 00:21:42,040
+ganz häufig, aber das war halt in den 70er, 80er, 90er Jahren was, was auch zur Verbesserung,
+
+204
+00:21:42,040 --> 00:21:49,120
+Besserung von Robotern, aber auch von anderen Verfahren geführt hat. Und was sich, du hast ja
+
+205
+00:21:49,120 --> 00:21:54,200
+gesagt, es geht auch um die Wissensordnung, also man hat ja sehr lange an dieser symbolischen,
+
+206
+00:21:54,200 --> 00:22:02,600
+rational-kognitiven Idee festgehalten, wo ich argumentieren würde, dass sich heute diese
+
+207
+00:22:02,600 --> 00:22:11,000
+konnektionistische oder auch kubernetesche KI, die mit diesen Verfahren von Trial and Error,
+
+208
+00:22:11,000 --> 00:22:16,760
+von Rumprobieren, von Tinkering arbeiten, dass die sich heute zunehmend durchsetzt. Und ich finde
+
+209
+00:22:16,800 --> 00:22:23,400
+das auch insofern spannend, weil das natürlich zumindest in so einem Alltagsverstand, wie wir
+
+210
+00:22:23,400 --> 00:22:31,720
+uns Natur- und Technikwissenschaften vorstellen, wie die arbeiten, nämlich rational-kognitiv,
+
+211
+00:22:31,720 --> 00:22:38,320
+und nicht indem sie irgendwie rumbasteln, eigentlich gar nicht zusammenpasst. Das heißt,
+
+212
+00:22:38,320 --> 00:22:43,440
+bei den Ingenieuren passt es natürlich schon, aber bei den Naturwissenschaften und bei der
+
+213
+00:22:43,440 --> 00:22:48,640
+Mathematik vielleicht nicht. Und der Unterschied, denn auch Ingenieure haben und Ingenieurinnen
+
+214
+00:22:48,640 --> 00:22:56,160
+früher viel mit Tinkering und Rumprobieren gearbeitet. Ich muss sagen, nur Daniel Düsentrieb oder
+
+215
+00:22:56,160 --> 00:23:04,320
+sowas, jetzt rede ich von Alltagsverständnis. Aber das war kein systematisiertes Trial and Error,
+
+216
+00:23:04,320 --> 00:23:11,520
+also dass das jetzt auch mit großen Rechenkapazitäten immer wieder durchgespielt werden
+
+217
+00:23:11,520 --> 00:23:17,760
+kann, um Prozesse zu optimieren. Aber ohne dass man genau weiß, wie man die optimiert,
+
+218
+00:23:17,760 --> 00:23:24,960
+sondern eigentlich brutal force, in dem man das gut durchrechnen kann, mit großen Datenmengen und
+
+219
+00:23:24,960 --> 00:23:30,880
+schnellen Maschinen auch zu sehr, sehr guten Ergebnissen kommt. Das finde ich hochspannend.
+
+220
+00:23:30,880 --> 00:23:36,240
+Und witzigerweise hindert es ja auch dann nicht daran, dass am Ende, obwohl man eigentlich ein
+
+221
+00:23:36,240 --> 00:23:43,120
+komplett anderes Paradigma verfolgt hat, dass man am Ende dann trotzdem das alte Siegel drauf
+
+222
+00:23:43,120 --> 00:23:52,680
+klatscht. Also im Grunde die veraltete Behauptung von Objektivität. Das wird ja dann gerne am Ende
+
+223
+00:23:52,680 --> 00:23:58,520
+dann doch wieder behauptet, aber es ist eigentlich ein anderes Paradigma, dem man vorher gefolgt war,
+
+224
+00:23:58,520 --> 00:24:04,560
+im Grunde. Das ist jetzt nur so eine Seitennotiz. Ja, aber das ist total spannend, das finde ich
+
+225
+00:24:04,640 --> 00:24:13,440
+auch. Also es wird halt im Ex-Post dann wieder rationalisiert. Zur Ehrenrettung, also es ist
+
+226
+00:24:13,440 --> 00:24:21,120
+beides, so wie du sagst, dass man was als objektiv reklamiert, wo man starke Zweifel haben muss. Wobei
+
+227
+00:24:21,120 --> 00:24:26,640
+man natürlich da auch über den alten Ansatz, da könnte man auch noch mal Fragen stellen. Auf
+
+228
+00:24:26,640 --> 00:24:31,040
+der anderen Seite, was man natürlich auch macht und das habe ich vielleicht vorhin vergessen,
+
+229
+00:24:31,200 --> 00:24:38,120
+man versucht natürlich schon auch draus zu lernen, indem man dann praktisch Post-Processing sich die
+
+230
+00:24:38,120 --> 00:24:44,120
+Ergebnisse hinterher anguckt, um zu verstehen, was da passiert ist. Aber das tut man nur teilweise,
+
+231
+00:24:44,120 --> 00:24:50,320
+weil und das ist auch interessant, weil das waren die Anfänge und heute würde ich reklamieren,
+
+232
+00:24:50,320 --> 00:24:56,920
+dass das auch immer weniger interessiert eigentlich, wie das funktioniert, sondern
+
+233
+00:24:56,920 --> 00:25:03,680
+dass irgendwie, dass das, also dass es funktioniert, der wichtige Punkt ist. Was schon,
+
+234
+00:25:03,680 --> 00:25:12,720
+wenn wir uns selber als eine Kultur, also die sich für kognitive Leistungen und Verstehen und so,
+
+235
+00:25:12,720 --> 00:25:19,000
+also sich dadurch auszeichnet, es schon erstaunlich ist, dass man mehr und mehr auf den Punkt geht,
+
+236
+00:25:19,000 --> 00:25:26,760
+Hauptsache es funktioniert, egal wie. Wobei das ja, muss man sagen, eigentlich der Methode
+
+237
+00:25:26,760 --> 00:25:34,120
+inherent ist, nicht? Also sie werfen ja eigentlich von Beginn an, sagen die, hast du ja schon gesagt,
+
+238
+00:25:34,120 --> 00:25:40,120
+die Behauptung der einen richtigen Lösung über Bord, ja und dann endet man ja eigentlich dort,
+
+239
+00:25:40,120 --> 00:25:48,320
+dass im Grunde das Ziel in Anführungsstrichen ein gutes Funktionieren oder ein ausreichendes
+
+240
+00:25:48,320 --> 00:25:53,120
+Funktionieren nur im Grunde darstellt, nicht? Also insofern ist es wieder auf eine Art konsequent,
+
+241
+00:25:53,120 --> 00:25:59,880
+finde ich, muss man sagen. Aber also ich finde, dass jetzt sehr schön eigentlich auch diese
+
+242
+00:25:59,880 --> 00:26:07,360
+erkenntnistheoretische Verschiebung eingefangen, also im Grunde eine Wegbewegung von dem Gedanken
+
+243
+00:26:07,360 --> 00:26:15,960
+einer Repräsentation von Welt hin zu etwas, was eben dann jetzt immer mehr auch verwendet wird,
+
+244
+00:26:15,960 --> 00:26:25,280
+um Formen der vornehmlichen Prädiktion, also der Voraussage von Welt eigentlich zu erzeugen,
+
+245
+00:26:25,280 --> 00:26:30,080
+beziehungsweise zu behaupten, muss man ja eigentlich sagen. Und auch der eben dann
+
+246
+00:26:30,080 --> 00:26:35,200
+leider damit verbundenen präemptiven Logik, die sich da preisterweise dann einfach daraus
+
+247
+00:26:35,200 --> 00:26:40,360
+ableitet, ja. Vielleicht kannst du uns diesen einen Aspekt, der dann ja im Grunde noch mal
+
+248
+00:26:40,360 --> 00:26:45,200
+einen Schritt weitergeht eigentlich, vielleicht kannst du uns diesen Aspekt noch mal ein bisschen
+
+249
+00:26:45,200 --> 00:26:51,320
+näherbringen und warum der aus dieser spezifischen, du nennst es ja Technorationalität,
+
+250
+00:26:51,320 --> 00:26:57,880
+sich eigentlich auf eine Art auch logisch ergibt. Also wie hängt das zusammen? Diese in
+
+251
+00:26:57,880 --> 00:27:06,560
+Anführungsstrichen neuere Formen des Zugangs, den du eben als Technorationalität beschreibst und
+
+252
+00:27:06,560 --> 00:27:13,800
+der eigentlich auch eine Form von kybernetischer Logik eigentlich darstellt. Also vielleicht
+
+253
+00:27:13,800 --> 00:27:19,680
+kannst du uns beschreiben, inwiefern das dann eigentlich auch endet in diesen Verfahren der
+
+254
+00:27:19,680 --> 00:27:29,760
+Prädiktion und der präemptiven Logik? Ja, also da sage ich jetzt vielleicht nachher noch was zu,
+
+255
+00:27:29,760 --> 00:27:34,920
+weil ja, ich habe das natürlich jetzt im Bereich der Technowissenschaften versucht nachzuvollziehen,
+
+256
+00:27:34,920 --> 00:27:39,600
+was vielleicht, aber da können wir nachher vielleicht noch drauf kommen, noch mal mir
+
+257
+00:27:39,600 --> 00:27:44,680
+auch wichtig ist, die entsteht natürlich nicht im leeren Raum. Es wäre natürlich auch noch mal
+
+258
+00:27:44,680 --> 00:27:52,760
+spannend zu fragen, mit was für Weltsichten oder Verständnis von Welt diese Logik verbunden ist,
+
+259
+00:27:52,760 --> 00:27:58,200
+denn es ist ja auch nicht von ungefähr, dass sich so eine Logik durchsetzt. Das sage ich deshalb,
+
+260
+00:27:58,200 --> 00:28:06,640
+weil gerade diese präemptive Logik zum Beispiel im Bereich des Sicherheitsbereichs und im Bereich
+
+261
+00:28:06,640 --> 00:28:12,120
+des Militärs natürlich sehr wichtig ist und da korrespondiert auch was miteinander. Das ist
+
+262
+00:28:12,120 --> 00:28:18,720
+sozusagen nicht die reine Technorationalität, aber womit diese Technorationalität sehr stark
+
+263
+00:28:18,720 --> 00:28:26,720
+verbunden ist, meiner Meinung nach, ist, dass es auch eine Bewegung weg von Kausalität, also erkennen,
+
+264
+00:28:26,720 --> 00:28:35,400
+warum, was passiert, wie es passiert, hin in den Bereich der Korrelation verschiebt. Also viele
+
+265
+00:28:35,400 --> 00:28:39,680
+Leute reden auch jetzt in einem erkenntesteoretischen Rahmen heute von einem
+
+266
+00:28:39,680 --> 00:28:45,520
+Korrelationsparadigma. Also es geht eben weniger darum, zu verstehen, warum was passiert,
+
+267
+00:28:45,520 --> 00:28:52,960
+sondern Korrelation, wenn man es runter bricht, könnte man sagen, in der Vergangenheit haben wir
+
+268
+00:28:52,960 --> 00:28:58,440
+immer wieder einen bestimmten Zusammenhang festgestellt, deshalb gehen wir davon aus,
+
+269
+00:28:58,440 --> 00:29:05,380
+dass das auch in der Zukunft so passieren wird. Das funktioniert in vielen Zusammenhängen. Ich
+
+270
+00:29:05,380 --> 00:29:09,860
+könnte jetzt böse sagen, auf eine Art machen wir das jeden Morgen oder Abend, wenn wir sagen,
+
+271
+00:29:09,860 --> 00:29:13,540
+na ja, gestern ist die Sonne irgendwann aufgegangen, gehen wir davon aus, dass die
+
+272
+00:29:13,540 --> 00:29:19,540
+morgen auch aufgeht. Das ist aber keine klassisch naturwissenschaftlich technische Erklärung,
+
+273
+00:29:19,540 --> 00:29:24,980
+warum die Sonne aufgeht. Das heißt, wir arbeiten mit einer Erfahrung und projizieren die in die
+
+274
+00:29:24,980 --> 00:29:36,500
+Zukunft. Und weiß ich nicht, es gibt banale Beispiele, man könnte sagen, in der Terrorabwehr,
+
+275
+00:29:36,500 --> 00:29:41,940
+aber in vielen anderen Sachen auch, wo man sagt, wenn nicht nur Terrorabwehr,
+
+276
+00:29:41,940 --> 00:29:49,100
+Buchempfehlungen oder Produktempfehlungen von Amazon oder was immer wir uns vorstellen,
+
+277
+00:29:49,100 --> 00:29:58,500
+diese Person hat gerne folgende Produkte gekauft und dann habe ich eine andere Person. Also dann
+
+278
+00:29:58,500 --> 00:30:02,540
+versuche ich erst mal das Muster festzustellen, für welche Produkte interessiert sich diese
+
+279
+00:30:02,540 --> 00:30:09,380
+Person. Und wenn ich dann eine andere Person habe, die Teile dieses Musters erfüllen,
+
+280
+00:30:09,380 --> 00:30:14,820
+empfehle ich denen was Ähnliches. Und das ist eigentlich was ganz Ähnliches, dass man sozusagen
+
+281
+00:30:15,140 --> 00:30:22,140
+aus vergangenen Erfahrungen, Befunden in die Zukunft projiziert, dass es wieder in
+
+282
+00:30:22,140 --> 00:30:30,260
+ähnlicher Weise stattfinden wird. Und dieses Verfahren ist sehr weit verbreitet von Predictive
+
+283
+00:30:30,260 --> 00:30:43,180
+Policing bis Produktempfehlungen bis datengestützte Kriegsführung, Terrorismus. Also das haben wir in
+
+284
+00:30:43,260 --> 00:30:49,220
+ganz, ganz vielen Bereichen unterdessen, dass man mit dieser Korrelationslogik und eben nicht
+
+285
+00:30:49,220 --> 00:31:00,060
+mit der kausalen Logik arbeitet. Und präemptiv, ganz deutlich ist es natürlich im Sicherheitsbereich,
+
+286
+00:31:00,060 --> 00:31:08,540
+weil man da zum Beispiel Gefahren erkennen will und versucht schon im Vorab zu bestimmen, wer ist,
+
+287
+00:31:09,220 --> 00:31:13,580
+in der deutschen Logik würde man zum Beispiel sagen, wer ist ein Gefährder. Also ich möchte
+
+288
+00:31:13,580 --> 00:31:22,100
+erkennen, welche sind für den Staat oder in dem Fall für den Staat gefährliche Personen,
+
+289
+00:31:22,100 --> 00:31:31,380
+die man beobachten sollte. Und das versucht man, indem man eben bestimmte Muster extrahiert,
+
+290
+00:31:31,380 --> 00:31:37,460
+was macht einen Gefährder aus, um das dann zum Beispiel durch Datenbanken laufen zu lassen,
+
+291
+00:31:37,580 --> 00:31:44,260
+um solche Personen in einer kriminalistischen Datenbank zu finden und dann auf die zum
+
+292
+00:31:44,260 --> 00:31:52,180
+Beispiel meine Aufmerksamkeit zu lenken. Und ich glaube, das passiert unterdessen in den
+
+293
+00:31:52,180 --> 00:31:58,780
+unterschiedlichsten Bereichen. Also mit so einer präemptiven Logik auch zu arbeiten,
+
+294
+00:31:58,900 --> 00:32:07,180
+das kann man ja auch. Ich versuche gerade noch ein anderes Beispiel zu finden, unter anderem
+
+295
+00:32:07,180 --> 00:32:15,860
+bei Bewerbungsgesprächen. Menschen, die, ja das ist schwierig, weil es sind oft gar keine Muster,
+
+296
+00:32:15,860 --> 00:32:19,660
+weil manchmal sind es auch nur Annahmen. Also unterdessen guckt man ja zum Beispiel,
+
+297
+00:32:19,660 --> 00:32:27,060
+ich weiß es zumindest für die USA gerne, wenn man Menschen einstellt, ob die Kredite
+
+298
+00:32:27,100 --> 00:32:33,180
+ordentlich zurückgezahlt haben, um dann sozusagen aus diesem Proxy zu schließen oder aus dieser
+
+299
+00:32:33,180 --> 00:32:38,580
+Eigenschaft daraus zu schließen, ob jemand zum Beispiel in Zukunft ein guter Mitarbeiter
+
+300
+00:32:38,580 --> 00:32:44,220
+sein wird. Da ist es jetzt gar nicht so eine präemptive Logik, sondern ich gucke mir bestimmte
+
+301
+00:32:44,220 --> 00:32:50,100
+Kategorien an, die ich als relevant bestimme. Manchmal sind es aber auch Muster. Also manchmal
+
+302
+00:32:50,100 --> 00:32:55,340
+guckt man dann auch, was haben wir in der Vergangenheit gesehen, was für Eigenschaften
+
+303
+00:32:55,340 --> 00:33:02,460
+machen einen guten Mitarbeiter aus und nach diesen, diese Kategorien lege ich zugrunde für einen
+
+304
+00:33:02,460 --> 00:33:06,860
+zukünftigen Mitarbeiter. Das heißt, ich gucke mir nicht den Mitarbeiter an und versuche mir ein
+
+305
+00:33:06,860 --> 00:33:11,420
+Bild von diesem Menschen zu machen, um mir dann zu überlegen, ob der jetzt zum Beispiel gut in ein
+
+306
+00:33:11,420 --> 00:33:18,980
+Team passt, sondern was früher gut war, wird auch in der Zukunft gut sein. Was natürlich teilweise
+
+307
+00:33:18,980 --> 00:33:26,700
+dramatische Konsequenzen hat, weil das eigentlich die Wiederholung des immer gleichen im schlimmsten
+
+308
+00:33:26,700 --> 00:33:32,700
+Falle bedeuten kann. Also wir haben jetzt auch noch so ein anderes Forschungsprojekt, aber da
+
+309
+00:33:32,700 --> 00:33:39,380
+geht es zum Beispiel auch um diese, gibt es um Software, wie man beim Hiring, wie sagt man
+
+310
+00:33:39,380 --> 00:33:46,820
+im Deutschen, wie man beim Einstellungsverfahren, genau bei Bewerbungsgesprächen, wie man Leute
+
+311
+00:33:46,820 --> 00:33:54,100
+bestimmt und da ist es mehrfach aufgetreten, dass man einfach ein Profiling der eigenen
+
+312
+00:33:54,100 --> 00:34:01,380
+Mitarbeiter, die man für gut befunden hat, daraus die Kategorien extrahiert hat für die zukünftigen
+
+313
+00:34:01,380 --> 00:34:08,580
+Mitarbeiter und Mitarbeiterinnen. Was natürlich nicht zufällig, es gab ein Skandal um so einen
+
+314
+00:34:08,580 --> 00:34:15,820
+Algorithmus von Amazon, der dann einfach weiße Männer präferiert hat, weil in diesem Zusammenhang
+
+315
+00:34:16,500 --> 00:34:21,460
+primär weiße Männer gearbeitet haben oder als Manager gearbeitet haben und das waren dann
+
+316
+00:34:21,460 --> 00:34:26,740
+Kategorien, die auch in Zukunft bestimmt hat, wer wird denn ein guter Manager sein. Da kann man
+
+317
+00:34:26,740 --> 00:34:33,540
+ganz einfach daran sehen, wie problematisch sozusagen solche Formen von Korrelationen sind,
+
+318
+00:34:33,540 --> 00:34:38,660
+die dann eben auch zu Bias oder Diskriminierung führen, weil man gar nicht darüber nachdenkt,
+
+319
+00:34:38,660 --> 00:34:42,580
+dass das eben zur Reproduktion des schon Vorhandenen führt.
+
+320
+00:34:42,580 --> 00:34:51,780
+Und ein Beispiel, was total mustergültig, könnte man sagen, eigentlich diese präemptive Logik eben
+
+321
+00:34:51,780 --> 00:34:57,700
+auch eingeschrieben hat und mit dem du dich sehr intensiv auch befasst, ist eben die datengestützte
+
+322
+00:34:57,700 --> 00:35:05,900
+Kriegsführung und da gibt es etwas, das nennt sich die Disposition Matrix, die kannte ich bisher noch
+
+323
+00:35:05,900 --> 00:35:12,900
+nicht. Das ist eine im Grunde Todesliste in Form von einer Datenbank der US-Regierung. Vielleicht
+
+324
+00:35:12,900 --> 00:35:18,980
+kannst du uns anhand dieses sehr konkreten Beispiels auch nochmal erläutern, wie da eigentlich diese
+
+325
+00:35:18,980 --> 00:35:25,220
+von dir beschriebenen Wissensregime und auch Anwendungslogiken zum Einsatz kommen.
+
+326
+00:35:25,220 --> 00:35:30,660
+Ich kann das natürlich immer nur unter Vorbehalt, also ja, ich habe mich damit beschäftigt, ich
+
+327
+00:35:30,660 --> 00:35:36,780
+fand das auch sehr spannend, aber ich könnte jetzt, und das ist mir eigentlich auch eine
+
+328
+00:35:36,780 --> 00:35:43,260
+Herzensangelegenheit, es gibt ganz wenig in diesem Feld an Forschung und das liegt natürlich daran,
+
+329
+00:35:43,260 --> 00:35:47,980
+dass es ein extrem schwer zugänglicher Bereich ist. Es liegt auch daran, dass viele nicht über
+
+330
+00:35:47,980 --> 00:35:55,980
+diesen Bereich forschen wollen, ich mache immer so ein bisschen kleine Witze, weil ich fühle mich
+
+331
+00:35:56,100 --> 00:35:58,540
+Du bist jetzt auf einer Liste drauf, wahrscheinlich deswegen.
+
+332
+00:35:58,540 --> 00:36:06,140
+Ja, also auch das, das weiß man nicht, das sind natürlich dann auch paranoische, das ist schon
+
+333
+00:36:06,140 --> 00:36:11,900
+länger her, als ich nach San Francisco geflogen bin und mein Visum beantragt habe und normalerweise
+
+334
+00:36:11,900 --> 00:36:17,500
+kriegt man dieses Visum sofort und beim, ich habe das Visum bekommen, aber es hat glaube ich 24
+
+335
+00:36:17,500 --> 00:36:22,460
+oder 48 Stunden gedauert und ich habe mich natürlich schon gefragt, sind da irgendwelche
+
+336
+00:36:22,460 --> 00:36:29,620
+falschen Stichwörter hochgepoppt, als man in der Suchmaschine nach Frau Prof. Dr. Jutta Weber
+
+337
+00:36:29,620 --> 00:36:35,020
+gesucht hat, nämlich sowas wie Terror und Tötungsliste und ähnliches, das fragt man sich
+
+338
+00:36:35,020 --> 00:36:38,780
+natürlich auch, aber man wird es natürlich auch nie raus, also im Normalfall wird man es
+
+339
+00:36:38,780 --> 00:36:43,740
+nicht rausfinden, aber es ist halt interessant, weil ich fühle mich ja der Disziplin der Science
+
+340
+00:36:43,740 --> 00:36:51,860
+and Technology Studies zugehörig, die unter anderem gerade mit kritischem Blick auf das Militär in den
+
+341
+00:36:51,860 --> 00:36:58,740
+60er, 70er Jahren losgelaufen sind. Wir über die Drohnenkriege jetzt wieder ein bisschen mehr
+
+342
+00:36:58,740 --> 00:37:05,140
+Forschung haben, aber dieser, dieses Feld natürlich auch sehr brach liegt unter anderem,
+
+343
+00:37:05,140 --> 00:37:11,140
+weil halt auch empirische Forschung in dem Feld schwierig ist. Das heißt, was ich da über diese
+
+344
+00:37:11,140 --> 00:37:17,300
+Disposition Matrix, die du gerade ins Spiel gebracht hast, herausgefunden habe, ist natürlich nur
+
+345
+00:37:17,420 --> 00:37:23,300
+Dokumenten gestützt. Es gibt vielleicht ein paar Leute, die eine große Nähe zum weißen Haus haben,
+
+346
+00:37:23,300 --> 00:37:28,700
+die vielleicht auch noch die eine oder andere Person befragen können. Ich konnte das nicht,
+
+347
+00:37:28,700 --> 00:37:36,740
+aber was mir schon sehr, also nicht plausibel, aber was aus diesen Dokumenten, die ich dazu
+
+348
+00:37:36,740 --> 00:37:43,860
+gefunden habe, hervorging, war, dass man schon in diesen Drohnenkriegen und wir reden jetzt noch
+
+349
+00:37:44,060 --> 00:37:53,780
+von den ferngesteuerten Drohnen. Unterdessen gibt es ja auch Bemühungen, die autonome Drohnen zu
+
+350
+00:37:53,780 --> 00:38:02,300
+entwickeln oder einzusetzen, weiß man nicht. Da gibt es ja zwei Varianten in diesem Drohnenkrieg.
+
+351
+00:38:02,300 --> 00:38:11,700
+Das eine war, dass die Piloten bzw. die Beobachter manchen Menschen, auf die sie angesetzt wurden,
+
+352
+00:38:11,860 --> 00:38:18,820
+sehr lange gefolgt sind und genauer geguckt haben, was die tun. Und das andere ist,
+
+353
+00:38:18,820 --> 00:38:23,580
+dass es, also eigentlich so gesehen, fast drei Varianten. Das eine ist, manchmal wurde auch
+
+354
+00:38:23,580 --> 00:38:31,820
+Verdacht nach dem Motto, hier ist ein in Vaziristan zum Beispiel, da sind Männer, die sind jung und
+
+355
+00:38:31,820 --> 00:38:37,100
+es sieht so aus, als ob sie Waffen in den Händen tragen, war manchmal auch schon ausreichend,
+
+356
+00:38:37,580 --> 00:38:44,420
+um eine Rakete von einer Drohne abzufeuern. Aber es gibt offensichtlich Tötungslisten,
+
+357
+00:38:44,420 --> 00:38:52,580
+was ich dann selber auch erst rausgefunden habe. Die gab es früher, das ist vielleicht auch nochmal
+
+358
+00:38:52,580 --> 00:38:58,420
+interessant, offensichtlich bei den verschiedenen Geheimdiensten und beim Militär, die dann
+
+359
+00:38:58,420 --> 00:39:04,420
+irgendwann zusammengeführt worden sind. Und auch das halte ich für keinen Zufall, weil
+
+360
+00:39:04,420 --> 00:39:14,860
+Machine Learning und diese Big Data Logik natürlich am besten funktioniert, je größer mein Datenbestand,
+
+361
+00:39:14,860 --> 00:39:23,180
+mein Dataset ist. Das heißt, es kann dafür auch politische Gründe geben, warum man diese
+
+362
+00:39:23,180 --> 00:39:29,100
+Tötungslisten irgendwann zusammengeführt hat vom Militär und von den Geheimdiensten. Aber es gibt
+
+363
+00:39:29,100 --> 00:39:34,500
+sicherlich auch einen technischen Grund dafür, nämlich diese Datenbank mit ihren Informationen zu
+
+364
+00:39:34,500 --> 00:39:40,940
+vergrößern, um sozusagen nochmal genauer nach spezifischen Mustern suchen zu können,
+
+365
+00:39:40,940 --> 00:39:49,780
+was einen Terroristen oder eine Terroristin, in dem Fall meistens einen Terroristen, ausmacht. Und
+
+366
+00:39:49,780 --> 00:39:56,900
+dabei sind aber, also es gab ein paar Dokumente, die zum Beispiel von Edward Snowden geleakt
+
+367
+00:39:56,900 --> 00:40:05,980
+worden sind, an denen man das sehen konnte, teilweise sehr basale Profile von Terroristen
+
+368
+00:40:05,980 --> 00:40:12,220
+erstellt worden. Also das eine ist, es gibt keine offizielle Definition der US-amerikanischen
+
+369
+00:40:12,220 --> 00:40:18,860
+Regierung, was einen Terroristen ausmacht. Es gibt nur sehr vage Beschreibungen und man hat
+
+370
+00:40:18,940 --> 00:40:24,020
+sich dann letztendlich, und da kommt das Verhalten wieder, von dem wir vorhin gesprochen haben,
+
+371
+00:40:24,020 --> 00:40:33,060
+auf sehr basale Verhaltensmuster spezifiziert. Also zum Beispiel, um zurückzukehren zum Drohnenkrieg
+
+372
+00:40:33,060 --> 00:40:40,220
+im Pakistan, wer reist bestimmte Routen in Vaziristan, um dann daraus zu schließen,
+
+373
+00:40:40,620 --> 00:40:49,180
+dass es da Kontakte zu Aufständischen zum Beispiel gibt. Also was dann wieder zu einer
+
+374
+00:40:49,180 --> 00:40:58,740
+Definition von Terrorist oder Telefonkontakte, die vorhanden sind. Also es ist bestimmt nicht
+
+375
+00:40:58,740 --> 00:41:06,460
+sehr positiv, wenn man in seinem Handy Telefonnummern von Terroristen hat, die man schon getötet oder
+
+376
+00:41:06,460 --> 00:41:12,300
+die gefangen worden sind oder die eben auch schon auf einer Liste stehen, weil man dann sehr simpel
+
+377
+00:41:12,300 --> 00:41:16,580
+daraus geschlossen hat, na ja, wenn diese Telefonnummern wieder in dem Handy von dieser
+
+378
+00:41:16,580 --> 00:41:22,700
+Person vorkommen, dann ist es sehr wahrscheinlich, dass die sich auch in diesen terroristischen
+
+379
+00:41:22,700 --> 00:41:30,020
+Kontexten bewegt, dass die Person aber vielleicht einfach nur ein alter Schulfreund ist oder der
+
+380
+00:41:30,020 --> 00:41:36,620
+Onkel oder was auch immer, ist möglicherweise dabei nicht immer abgeglichen worden. Aber
+
+381
+00:41:36,620 --> 00:41:44,860
+eben über diese Erstellung von diesen Mustern hat man dann versucht, ja, Listen festzulegen,
+
+382
+00:41:44,860 --> 00:41:54,020
+wer mögliche Ziele für diese Drohnenangriffe sein können und sozusagen eine Hierarchie der
+
+383
+00:41:54,020 --> 00:42:01,220
+Most Wanted Terrorists festzulegen, die dann auch teilweise noch diskutiert worden sind. Es gab,
+
+384
+00:42:01,220 --> 00:42:08,780
+sagt man, ich kann ja immer nur sagen, sagt man, was ich aus den Dokumenten rauslesen konnte,
+
+385
+00:42:08,780 --> 00:42:15,780
+Bloody Tuesdays, wo es dann mit PowerPoint Präsentationen, wir reden jetzt von der Ära
+
+386
+00:42:15,780 --> 00:42:23,500
+Obama, als ich das recherchiert habe, dann diskutiert hat aufgrund dieser Profile, welche
+
+387
+00:42:23,500 --> 00:42:30,740
+die interessantesten Terroristen sind, derer man versucht habhaft zu werden und gerade unter Obama
+
+388
+00:42:30,740 --> 00:42:36,580
+ist man ja dann dazu übergegangen, nicht mehr mit Boots on the ground zu versuchen, dieser Menschen
+
+389
+00:42:36,580 --> 00:42:44,340
+habhaft zu werden, sondern sie einfach qua Rakete von der Drohne abgeschossen zu eliminieren,
+
+390
+00:42:45,300 --> 00:42:49,180
+eliminieren klingt immer so harmlos, sie umzubringen, sie zu töten.
+
+391
+00:42:49,180 --> 00:42:54,540
+Also als ich das gelesen habe bei dir in dem Paper, hatte ich ganz stark das Gefühl,
+
+392
+00:42:54,540 --> 00:43:05,100
+dass das im Grunde, also bis zu einem gewissen Grad einfach auch auf eine Produktion von Bedrohung
+
+393
+00:43:05,100 --> 00:43:11,340
+hinausläuft, weil ja genau die Logik, die du beschrieben hast, die ja letztlich auch immer
+
+394
+00:43:11,340 --> 00:43:17,300
+in sich trägt, dass man eigentlich gerne mehr Daten hätte, um noch mehr Netzwerkanalyse zu
+
+395
+00:43:17,300 --> 00:43:23,500
+machen, noch mehr Datenpunkte miteinander zu verbinden, dass diese Logik ja unabgeschlossen
+
+396
+00:43:23,500 --> 00:43:29,780
+ist, also du hattest ja schon gesagt, es gibt nicht irgendwann dann ein okay, hier ist jetzt das richtige
+
+397
+00:43:29,780 --> 00:43:34,100
+Ergebnis oder sowas, sondern es ist unabgeschlossen, also das heißt, es können immer mehr Daten
+
+398
+00:43:34,100 --> 00:43:39,500
+eigentlich eingespeist werden und es sollen auch immer mehr Daten eingespeist werden und dadurch,
+
+399
+00:43:39,500 --> 00:43:46,580
+dass man aber immer mehr Daten einspeist, werden dann natürlich auch immer mehr potenzielle
+
+400
+00:43:46,580 --> 00:43:55,340
+Verbindungen eigentlich erzeugt und dadurch eigentlich im Grunde ja auch eine unabgeschlossene
+
+401
+00:43:55,340 --> 00:44:01,180
+Bedrohung produziert. Also inwiefern hat man es da eigentlich dann letztlich mit einer Form von
+
+402
+00:44:01,180 --> 00:44:06,940
+sichselbsterzeugendem System zu tun? Das ist auf jeden Fall so, ich erinnere jetzt nicht
+
+403
+00:44:06,940 --> 00:44:15,460
+mehr auswendig die Zahlen, aber es gibt ja auch Datenbanken in den USA, wo diese Terroristen,
+
+404
+00:44:15,460 --> 00:44:21,860
+oder es sind eben nicht Terroristen, das möglicherweise des Terrorismus verdächtigen
+
+405
+00:44:21,860 --> 00:44:28,860
+und das geht in die Zehn- und Hunderttausende, also was da an Personen abgelegt sind in diesen
+
+406
+00:44:28,860 --> 00:44:35,260
+Datenbanken, als zumindest verdächtige Personen und das ist genau das, was du beschrieben hast,
+
+407
+00:44:35,260 --> 00:44:44,180
+weil man sammelt immer mehr Daten, damit findet man auch immer mehr Leute, die zumindest partiell in
+
+408
+00:44:44,180 --> 00:44:52,700
+diese Muster reinpassen und damit scheint natürlich auch die Bedrohung immer größer zu werden und das
+
+409
+00:44:52,700 --> 00:45:00,380
+ist ja auch eine Logik, die ganz schlecht sozusagen ex negativo abgeglichen werden kann. Also wie kann
+
+410
+00:45:00,380 --> 00:45:07,060
+man denn feststellen, dass jetzt jemand da unbegründeterweise in dieser Datenbank landet,
+
+411
+00:45:07,060 --> 00:45:14,380
+das versucht man auch großteils nicht, teilweise wo es dann, es ist nicht lustig, aber wo es dann
+
+412
+00:45:14,380 --> 00:45:19,260
+sehr deutlich wurde, weil über diese Tötungslisten hast du ja auch gesagt, dir war das noch nicht
+
+413
+00:45:19,260 --> 00:45:24,700
+bekannt, spricht natürlich kaum jemand, aber wo es natürlich aufgefallen ist, war es bei diesen
+
+414
+00:45:24,700 --> 00:45:30,180
+No-Fly-Lists, die es ja in den USA auch gibt, nämlich Menschen, die nicht mit dem Flugzeug fliegen
+
+415
+00:45:30,180 --> 00:45:36,260
+dürfen, weil sie eben als potenzielle, in Deutschland würde man eben sagen, potenzielle Gefährder
+
+416
+00:45:36,260 --> 00:45:43,420
+gelten und da Menschen ausgeschlossen worden sind aufgrund von simpler Namenverwechslungen und
+
+417
+00:45:43,420 --> 00:45:51,820
+andere mehr, wo es dann aufgefallen ist, wer alles in dieser No-Fly-Liste gelandet ist und diesen
+
+418
+00:45:51,820 --> 00:45:58,020
+Menschen es teilweise Monate oder Jahre gekostet hat, bis die durchgesetzt haben, dass sie von dieser
+
+419
+00:45:58,020 --> 00:46:04,940
+Liste gestrichen werden. Also auch da ganz schwierig, was bedeutet das, wenn man solche
+
+420
+00:46:04,940 --> 00:46:14,460
+Listen anlegt, wer überprüft überhaupt noch, wie sinnvoll oder wie zutreffend sozusagen diese
+
+421
+00:46:14,460 --> 00:46:23,140
+Einträge sind und gleichzeitig hat es natürlich auch eine immanente Logik, immer mehr Daten sammeln
+
+422
+00:46:23,140 --> 00:46:29,940
+zu wollen, um diese Muster zu optimieren. Das ist auf jeden Fall so. Wir haben jetzt ja einige
+
+423
+00:46:29,940 --> 00:46:38,460
+absolut problematische Aspekte an dieser Form des Zugangs, auch an dieser Produktion, spezifischen
+
+424
+00:46:38,460 --> 00:46:45,900
+Formen von Produktion von Wissen ja jetzt schon besprochen. Gleichzeitig ist es ja auch nicht so,
+
+425
+00:46:45,900 --> 00:46:51,460
+dass eben maschinelles Lernen nicht auch tatsächlich hilfreich sein könnte. Also du hast es ja auch
+
+426
+00:46:51,460 --> 00:46:58,260
+gesagt, es gibt ja, du hattest das Beispiel des Sortierens unsortierter Zahlen rein und so. Also
+
+427
+00:46:58,260 --> 00:47:06,460
+es ist ja so, dass es durchaus auch Anwendungsfälle gibt, in denen das eine total valide, vielleicht
+
+428
+00:47:06,540 --> 00:47:14,020
+unproblematische Form des Zugangs sein könnte. Wie kann man das unterscheiden und oder wie könnte
+
+429
+00:47:14,020 --> 00:47:20,740
+eine Nutzung oder auch eine Umformung etwaig solche Verfahren aussehen, solche Verfahren und
+
+430
+00:47:20,740 --> 00:47:27,220
+solche Technologien aussehen, damit sie eben nicht in diese Fettnäpfchen der Technorationalität
+
+431
+00:47:27,220 --> 00:47:33,620
+hinein treten? Na ja, ich glaube aus der Technorationalität selber kommt es nicht
+
+432
+00:47:33,620 --> 00:47:39,300
+raus. Also da würde ich sagen, aber das heißt ja, wie du richtig gesagt hast, nicht per se,
+
+433
+00:47:39,300 --> 00:47:44,140
+dass alle Anwendungen von übel sind. Das will ich damit überhaupt nicht sagen. Wir haben ja
+
+434
+00:47:44,140 --> 00:47:51,700
+jetzt wirklich extreme Beispiele diskutiert. Ich glaube, es sind jetzt zwei Punkte. Die eine
+
+435
+00:47:51,700 --> 00:47:59,500
+Frage ist, wie kann man größere Katastrophen, also jetzt im Fall der Tötungslisten, muss man
+
+436
+00:47:59,500 --> 00:48:06,900
+einfach sagen, da sind Menschen getötet worden, die zu Unrecht auf dieser Liste standen. Ich glaube,
+
+437
+00:48:06,900 --> 00:48:13,420
+das weiß man heute. Oder man hat es noch rechtzeitig gemerkt, es gab eben dieses eine Beispiel. Also
+
+438
+00:48:13,420 --> 00:48:20,380
+nicht nur eins, aber eins wurde auch bekannt durch ein Leak von Edward Snowden, wo man gesehen hat,
+
+439
+00:48:20,380 --> 00:48:26,740
+dass ein Journalist ganz weit oben in Vaziristan auf der Tötungsliste stand, weil der sich eben
+
+440
+00:48:26,740 --> 00:48:33,620
+mit Al-Qaeda und anderen Personen unterhalten hat. Und deshalb ist er die gleichen Routen entlang
+
+441
+00:48:33,620 --> 00:48:40,740
+gereist. Oder was sie auch gemapt haben, waren Wi-Fi-Netzwerke. Also wo hat sich ein Handy
+
+442
+00:48:40,740 --> 00:48:47,820
+eingeloggt? Und das waren dann halt Kontexte, die nicht erwünscht waren. Und deshalb stand dieser
+
+443
+00:48:47,820 --> 00:48:53,420
+Mann ganz oben auf der Tötungsliste. Da war aber ein Journalist und war sozusagen einer der wenigen,
+
+444
+00:48:53,420 --> 00:49:00,300
+der sich dann auch mit den Aufständischen oder den Terroristen, wie immer man es benennen will,
+
+445
+00:49:00,300 --> 00:49:06,300
+sich unterhalten hat, was durchaus positiv war, auch für die Berichterstattung, um da auch wieder
+
+446
+00:49:06,300 --> 00:49:12,620
+einen Dialog in Gang zu bringen, hat den Menschen aber höchst gefährdet. Also das ist das extreme
+
+447
+00:49:12,620 --> 00:49:19,340
+Beispiel und es gibt eben auch positive, jede Menge positive Beispiele auch von Machine Learning.
+
+448
+00:49:19,340 --> 00:49:28,740
+Da würde ich sagen, das sind jetzt, was jetzt eine große Diskussion war, ist immer, wie ist es mit
+
+449
+00:49:28,740 --> 00:49:37,500
+Diskriminierung? Wie ist es mit Bias? Wie kann man das verhindern? Und ich glaube, da hat man noch
+
+450
+00:49:37,500 --> 00:49:44,220
+keine wirkliche gute Antwort gefunden. Also es gibt jetzt zum einen viele Versuche, was ich
+
+451
+00:49:44,220 --> 00:49:50,620
+spannend finde, in der Informatik selbst, diese Algorithmen im Machine Learning, also zum Beispiel
+
+452
+00:49:50,620 --> 00:50:01,780
+so Ranking-Algorithmen zu verbessern. Aber das ist natürlich ein ganz schwieriges Feld, weil zum
+
+453
+00:50:01,780 --> 00:50:07,940
+einen versucht man eben, diese Algorithmen zu verbessern. Man müsste die eigentlich politisch,
+
+454
+00:50:07,940 --> 00:50:15,860
+juristisch, sozial einhegen. Es gibt auch eine laute Forderung nach so, ich glaube man im deutschen
+
+455
+00:50:15,860 --> 00:50:21,980
+Auditing, also einer gewissen Überwachung oder Prüfung von diesen Algorithmen und vor allem
+
+456
+00:50:21,980 --> 00:50:29,900
+von den Effekten der Algorithmen. Da hat man aber eigentlich auch noch keine zuverlässigen und vor
+
+457
+00:50:29,900 --> 00:50:35,060
+allem rechtsverbindliche Verfahren entwickelt. Also das hat ja sich mit so einer Geschwindigkeit
+
+458
+00:50:35,540 --> 00:50:45,300
+entwickelt, wo dann die verschiedenen von Verwaltung, Regierung, Justizialität und so weiter,
+
+459
+00:50:45,300 --> 00:50:50,180
+dem natürlich auch immer hinterher hinken, aber wo es eigentlich dringend nötig ist,
+
+460
+00:50:50,180 --> 00:50:57,220
+solche Algorithmen, also manche reden von dem Altü für Algorithmen, aber ich glaube auch das
+
+461
+00:50:57,220 --> 00:51:03,060
+alleine reicht noch nicht aus, weil es sind nicht nur die Algorithmen, es sind auch die Daten. Und
+
+462
+00:51:03,060 --> 00:51:08,580
+wenn ich mich mit Maschinenlearnern, meistens sind es Maschinenlearner, nicht so viele
+
+463
+00:51:08,580 --> 00:51:15,500
+Maschinenlearnerinnen unterhalte, habe ich auch den Eindruck, dass zum Beispiel kaum geprüft wird,
+
+464
+00:51:15,500 --> 00:51:23,700
+wie kommt man zu diesen Daten, wer hat die Kategorien dafür festgelegt, was in diesem
+
+465
+00:51:23,700 --> 00:51:29,540
+Datentool zum Beispiel drin ist, also welche Features, also welche Eigenschaften werden
+
+466
+00:51:29,540 --> 00:51:36,260
+abgefragt und welche nicht. Und das sagt ja schon ganz viel darüber aus, was überhaupt für Muster
+
+467
+00:51:36,260 --> 00:51:41,380
+gefunden und nicht gefunden werden können. Ich hatte ja vorhin so ein ganz kleines Beispiel wie
+
+468
+00:51:41,380 --> 00:51:48,820
+mit diesen Managern, also wenn ich jetzt von einer bestimmten Firma nur die Manager auf
+
+469
+00:51:48,820 --> 00:51:56,140
+ihre Eigenschaft, also versuche das zu zu profilen und das dann in einer Datenbank abzulegen und es
+
+470
+00:51:56,140 --> 00:52:01,180
+waren halt nur weiße Männer, dann weiß ich auch, dass in Zukunft alle, die dagegen dieses Profil
+
+471
+00:52:01,180 --> 00:52:09,780
+abgeglichen werden, die weißen Männer priorisiert werden. Aber das liegt dann nicht unbedingt an
+
+472
+00:52:09,780 --> 00:52:17,060
+dem Algorithmus, das kann auch sozusagen an meinem Datenset liegen, dass das passiert. Und das nächste
+
+473
+00:52:17,060 --> 00:52:21,740
+und das ist dann vielleicht noch das dritte und das führt dann vielleicht zu weit, aber gleichzeitig
+
+474
+00:52:21,740 --> 00:52:28,780
+werden ja diese Fragestellungen, die in diesem Machine Learning drinstecken, also wie finde ich
+
+475
+00:52:28,780 --> 00:52:37,100
+jetzt die besten Treffer für die Suchmaschine oder wie finde ich die besten geeigneten Menschen für
+
+476
+00:52:37,100 --> 00:52:43,900
+eine Aufgabe oder was immer man sich da jetzt vorstellt, dass ich das ja in irgendeiner Weise
+
+477
+00:52:43,900 --> 00:52:49,820
+modellieren muss, diese Fragestellungen, die kann ich ja nicht so eben mal in einen Algorithmus
+
+478
+00:52:49,820 --> 00:52:57,220
+implementieren und ich habe einen Kollegen Maschinen Lerner gefragt, habe ich gesagt, gibt es da
+
+479
+00:52:57,220 --> 00:53:04,860
+verbindliche Regeln der Modellierung? Dann hat er gesagt, nee, das ist mehr so eine Kunst, aber also er
+
+480
+00:53:04,860 --> 00:53:11,020
+würde nicht sagen, dass es dafür wirklich feststehende Regeln gibt, wie man sowas modelliert und es
+
+481
+00:53:11,020 --> 00:53:16,740
+gibt halt auch sehr wenig Supervision, wie man bestimmte Fragestellungen in sozusagen diese
+
+482
+00:53:16,740 --> 00:53:23,020
+algorithmische Logik übersetzt. Also da wäre ganz viel zu tun und da ist es nicht damit getan,
+
+483
+00:53:23,020 --> 00:53:31,260
+einfach nur einen Algorithmus zu verbessern, den man des Bias oder der Diskriminierung überführt
+
+484
+00:53:31,260 --> 00:53:36,940
+hat. Das ist glaube ich ein ganz schwieriges und sehr komplexes Feld und wo man glaube ich
+
+485
+00:53:36,940 --> 00:53:42,340
+gleichzeitig eben nicht nur Informatiker und Informatikerinnen fragen muss, sondern auch
+
+486
+00:53:42,340 --> 00:53:49,660
+Soziologinnen, Medienwissenschaftler, also Menschen, die in den Sozial- und Kulturwissenschaften zu
+
+487
+00:53:49,660 --> 00:53:54,860
+Hause sind, mit denen man da eigentlich kooperieren müsste, um zu verstehen, was in dem Feld passiert,
+
+488
+00:53:54,860 --> 00:54:04,180
+um auch größere Havarenen zu vermeiden. Ich meine, ich finde am Beispiel dieser Disposition
+
+489
+00:54:04,180 --> 00:54:11,460
+Matrix kann man eigentlich ganz schön auch sehen, dass da ja nicht nur es sich darauf
+
+490
+00:54:11,460 --> 00:54:16,100
+reduzieren lässt, dass man das irgendwie ein bisschen verbessern müsste. Also dass da jetzt
+
+491
+00:54:16,100 --> 00:54:23,380
+irgendwie nur, keine Ahnung was, man die Fehler nimmt und dann den Algorithmus entlang der Analyse
+
+492
+00:54:23,380 --> 00:54:28,580
+dieser Fehler halt verbessert, sondern dass ja eigentlich in erster Instanz schon die Art und
+
+493
+00:54:28,580 --> 00:54:33,580
+Weise, wie man dem Problem begegnet, einfach hoch problematisch ist, weil wie wir eben schon
+
+494
+00:54:33,580 --> 00:54:39,740
+besprochen hatten, man im Grunde die Bedrohung ja mit produziert, indem man vorgibt, sie eliminieren
+
+495
+00:54:39,740 --> 00:54:47,140
+zu wollen. Und dieses Zusammenspiel, das ist ja schon eigentlich etwas, was es also definitiv zu
+
+496
+00:54:47,140 --> 00:54:53,860
+vermeiden gilt. Und dann stellt sich mir halt anschließend irgendwie die Frage, okay, es ist
+
+497
+00:54:53,860 --> 00:55:01,060
+vielleicht so, dass einfach in bestimmten Feldern diese Form des Zugangs grundsätzlich nicht
+
+498
+00:55:01,060 --> 00:55:07,460
+eingesetzt werden sollte. Und wie kann man entlang dieser Fragestellungen Entscheidungen treffen?
+
+499
+00:55:07,460 --> 00:55:13,020
+Also gerade auch, weil ja, wie wir auch vorhin schon festgestellt hatten, immer wieder dann
+
+500
+00:55:13,020 --> 00:55:21,980
+diese Figuren der Scheinobjektivität und sowas angeführt werden, um so zu tun, als sei diese Form
+
+501
+00:55:21,980 --> 00:55:27,420
+des Zugangs eigentlich anderen überlegen, weil sie ja angeblich objektiv sei. Also,
+
+502
+00:55:27,420 --> 00:55:34,180
+genau, ja. Also irgendwie würde mich noch interessieren, wie man das unterscheiden kann,
+
+503
+00:55:34,180 --> 00:55:37,500
+also wo man das einsetzen sollte und wo eben vielleicht grundsätzlich nicht.
+
+504
+00:55:37,500 --> 00:55:44,260
+Ja, ich glaube, es ist schwierig, eindeutige Regeln für alle Kontexte zu formulieren. Aber
+
+505
+00:55:44,260 --> 00:55:48,340
+ich bin glaube ich da ganz deiner Meinung, es gibt Bereiche, wo man überhaupt nicht auf die Idee
+
+506
+00:55:48,340 --> 00:55:54,020
+kommen sollte, sie einzusetzen. Oder wenn man es dann mal ansatzweise versucht, bitte nicht
+
+507
+00:55:54,020 --> 00:55:58,620
+mein Tötungslisten, also jetzt gehen wir mal einen Schritt zurück. Wir hatten einen Kollegen,
+
+508
+00:55:58,620 --> 00:56:04,340
+das fand ich ganz schön, das für den Bereich Predictive Policing erzählt, wo es ja ähnliche
+
+509
+00:56:04,340 --> 00:56:11,260
+Versuche gibt, wie kann ich den Täter finden, bevor er was getan hat, also den Verbrecher finden
+
+510
+00:56:11,260 --> 00:56:18,100
+oder die Verbrecherin, bevor sie was getan hat. Und es da Versuche gab, jetzt muss ich versuchen,
+
+511
+00:56:18,100 --> 00:56:22,660
+weil ich mich da aktuell gar nicht viel mit beschäftige, aber ich glaube in Baden-Württemberg
+
+512
+00:56:22,660 --> 00:56:29,420
+war das Baden-Württemberg. Ich meine ja, ist ein solches Programm einfach mal auch evaluiert
+
+513
+00:56:29,420 --> 00:56:37,660
+worden. Also damit fängt es ja schon ganz häufig an, das haben wir ja auch in Deutschland im Kontext
+
+514
+00:56:37,660 --> 00:56:45,060
+von Geheimdiensten, dass man immer mehr bestimmte Zugriffe, Horten von Daten einfordert, aber
+
+515
+00:56:45,060 --> 00:56:50,380
+eigentlich kaum evaluiert wird, was denn damit gewonnen ist. Also eigentlich müsste man ja sagen,
+
+516
+00:56:50,620 --> 00:56:55,780
+also wenn jetzt hier, eigentlich dürfen sie sowieso keine Datenvorratsspeicherung machen,
+
+517
+00:56:55,780 --> 00:57:00,580
+aber es wird immer wieder damit argumentiert, auch wenn dann das Verfassungsgericht sich dagegen
+
+518
+00:57:00,580 --> 00:57:07,420
+wieder entscheidet und man sie wieder Gesetze umstricken muss, aber selten eigentlich nie Belege
+
+519
+00:57:07,420 --> 00:57:15,100
+vorgelegt werden, die beweisen, dass der Zugang zu Unmengen von Daten, nämlich von ganzen
+
+520
+00:57:15,100 --> 00:57:23,340
+Bevölkerungen wirklich dazu geführt hat, bestimmte Probleme zu lösen, sondern das wird
+
+521
+00:57:23,340 --> 00:57:28,820
+ja immer nur behauptet. Also man könnte wirklich mit sowas Banalem erstmal anfangen, dass es
+
+522
+00:57:28,820 --> 00:57:34,900
+dazu gilt, Belege vorzulegen und bei dieser Evaluierung von Predictive Policing-Programmen
+
+523
+00:57:34,900 --> 00:57:41,260
+ist wohl auch schon rausgekommen, das war in Baden-Württemberg, dass sie nicht wirklich
+
+524
+00:57:41,500 --> 00:57:45,900
+hilfreich waren und da hat man das dann auch eingestellt. Also das würde man sich ja eigentlich
+
+525
+00:57:45,900 --> 00:57:53,500
+wünschen. Man stellt nur fest, dass dieser, ich muss noch was sagen, der Aberglauben an die
+
+526
+00:57:53,500 --> 00:58:01,780
+Objektivität und die Hoffnung darauf einfach und vielleicht auch langfristig kostengünstiger als
+
+527
+00:58:01,780 --> 00:58:06,780
+wenn man Menschen einstellt, wobei das auch das nicht immer stimmt, weil man da ganz viele
+
+528
+00:58:06,860 --> 00:58:14,220
+Folgenkosten komplett unterschätzt, hofft schnell Probleme lösen zu können und schnell Erfolge
+
+529
+00:58:14,220 --> 00:58:19,620
+vorzuzeigen zu können und da würde ich jetzt wirklich erst mal wirklich sowas
+
+530
+00:58:19,620 --> 00:58:29,580
+Altenmodisches wie Evaluation einfordern wollen und ich denke bei anderen Fragen, nämlich in
+
+531
+00:58:29,580 --> 00:58:34,780
+welchen Bereichen wollen wir solche Systeme überhaupt einsetzen? Ich denke es werden noch
+
+532
+00:58:34,780 --> 00:58:42,060
+viele Fehler, Diskriminierungen und Bias, all das wird weiterhin passieren, aber ich glaube man
+
+533
+00:58:42,060 --> 00:58:53,180
+braucht einfach eine größere Aufmerksamkeit dafür und wie man das jetzt wirklich langfristig lösen
+
+534
+00:58:53,180 --> 00:59:00,780
+kann, weil oft ist eben die Technik schneller als die Behörden oder die Justiz. Ich musste noch mal
+
+535
+00:59:00,780 --> 00:59:07,700
+an das Beispiel Einstellungsverfahren denken, wo eben das heute zum Beispiel Social-Media-Profile
+
+536
+00:59:07,700 --> 00:59:17,980
+abgesucht werden, um Informationen über Bewerbungskandidatinnen zu erlangen, sowas müsste
+
+537
+00:59:17,980 --> 00:59:24,180
+verboten werden, aber gleichzeitig ist, also was gehen die privaten Äußerungen von Menschen über,
+
+538
+00:59:24,180 --> 00:59:30,380
+weiß ich nicht, ihr Lieblingsgetränk bis was auch immer man sich vorstellen kann, was geht es den
+
+539
+00:59:30,380 --> 00:59:37,100
+zukünftigen Arbeitgeber an? Meiner Meinung nach geht ihnen das gar nichts an, also dass man diese
+
+540
+00:59:37,100 --> 00:59:44,500
+Verbindungen von Persönlichkeitsprofilen, Social Media, dass man das auch mal generell da klare
+
+541
+00:59:44,500 --> 00:59:51,220
+Spielregeln formulieren müsste und da haben wir natürlich auch, und das muss man dazu sagen, auch
+
+542
+00:59:51,220 --> 00:59:59,060
+eine sehr sehr zögerliche Politik, die da eigentlich nicht eingreifen will, weil das natürlich auch ein
+
+543
+00:59:59,060 --> 01:00:05,540
+hochkomplexes und sehr schwieriges Feld ist und dann natürlich und nicht nur das, sondern auch da
+
+544
+01:00:05,540 --> 01:00:12,580
+vermutlich in größerem Stil Lobbyarbeit von den unterschiedlichsten Seiten betrieben wird, um das
+
+545
+01:00:12,580 --> 01:00:18,660
+auch zu verhindern. Und auf der Ebene des Paradigmas, das wird mich noch interessieren,
+
+546
+01:00:18,660 --> 01:00:23,620
+weil du in den Texten immer mal wieder eben dieses klassische mathematisch naturwissenschaftliche
+
+547
+01:00:23,620 --> 01:00:29,620
+Paradigma hernimmst, um es als eigentlich Kontrastfolie, würde ich sagen, zu verwenden,
+
+548
+01:00:29,620 --> 01:00:35,580
+um dem gegenüber die Technorationalität abzugrenzen, ja, also einfach um aufzuzeigen,
+
+549
+01:00:35,580 --> 01:00:44,220
+inwiefern dort, wie du es ja gesagt hast, diese Korrelationsdogmatik, wenn man so will,
+
+550
+01:00:44,220 --> 01:00:49,180
+eigentlich vorherrscht. Also wenn man jetzt diese beiden Dinge nimmt, ja, und es gibt eine
+
+551
+01:00:49,180 --> 01:00:54,660
+berechtigte Kritik an beidem, also ich mag nur hervorheben, wir also, gerade die feministischen
+
+552
+01:00:54,660 --> 01:01:00,980
+WissenschaftlerInnen aus den Science and Technology Studies haben ja immer schon eigentlich auch diese
+
+553
+01:01:00,980 --> 01:01:05,180
+höchst problematischen Aspekte des klassischen mathematischen naturwissenschaftlichen Paradigmas
+
+554
+01:01:05,180 --> 01:01:11,020
+hervorgehoben, ja, und zwar absolut zu Recht. Das heißt, wir haben jetzt hier zwei Paradigmen
+
+555
+01:01:11,020 --> 01:01:19,780
+eigentlich, die gleichermaßen ja problematisch sind, sage ich mal vorsichtig, müsste man da
+
+556
+01:01:19,780 --> 01:01:24,340
+jetzt nicht eigentlich dann auch auf dieser Ebene auch ansetzen und sagen, okay, es reicht
+
+557
+01:01:24,340 --> 01:01:34,340
+nicht eben durch Einhegungsgesetze und so weiter jetzt zu versuchen, dieser Technorationalität
+
+558
+01:01:34,340 --> 01:01:38,500
+irgendwie Schranken zu setzen, was sicher wichtig ist, also da bin ich auf keinen Fall dagegen,
+
+559
+01:01:39,180 --> 01:01:45,260
+das ist ein Aspekt, aber gelte es nicht dann auch auf der Ebene des Paradigmas anzusetzen und sich
+
+560
+01:01:45,260 --> 01:01:52,020
+zu fragen, okay, wo kommt man denn hin, wenn man jetzt auch über diese Technorationalität hinaus
+
+561
+01:01:52,020 --> 01:01:59,660
+will und vielleicht um sozusagen einen ersten Ansatz aus deinen Texten herauszunehmen, den ich
+
+562
+01:01:59,660 --> 01:02:04,580
+zumindest so verstanden habe, du hast da eine Formulierung von Human Machine Learning, wo du
+
+563
+01:02:04,580 --> 01:02:09,340
+eigentlich ja schon so ein bisschen wie so eine Richtung andeutest, dass man eigentlich anfängt,
+
+564
+01:02:09,340 --> 01:02:14,380
+sich einzugestehen, okay, der Mensch, der da immer so rausnegiert wird, wo immer so getan wird,
+
+565
+01:02:14,380 --> 01:02:19,060
+als gäbe es zum Beispiel das Post-Processing nicht und so weiter und so fort, wenn man an
+
+566
+01:02:19,060 --> 01:02:26,980
+all diesen Stellen, wo er eh schon immer da war, wenn man anfängt, das wieder bewusster auch mit
+
+567
+01:02:26,980 --> 01:02:33,380
+hineinzunehmen, ohne dabei so zu tun, als sei das jetzt eben ein in Anführungsstrichen souveränes
+
+568
+01:02:33,380 --> 01:02:39,500
+Individuum, wie irgendwie im klassischen Humanismus oder so, also vielleicht würde sich da quasi ein
+
+569
+01:02:39,500 --> 01:02:48,940
+neues hybrides Paradigma auftun oder hast du da Ansätze, die es vielleicht weiter zu ergründen
+
+570
+01:02:48,940 --> 01:02:55,220
+gibt? Das hast du super schön zusammengefasst, Jan, aber ich weiß nicht, ob ich dafür schon
+
+571
+01:02:55,220 --> 01:03:00,940
+wirklich gute Lösungen habe, weil ich fand das ja auch sehr schön, diesen einen Aufsatz,
+
+572
+01:03:01,180 --> 01:03:06,820
+der Human Machine Learning hast, da hast du mich danach gefragt, habe ich dir ja auch geschickt und
+
+573
+01:03:06,820 --> 01:03:14,180
+da habe ich ja mehr so kursorische Beispiele, als dass ich schon wirklich grundlegende Linien
+
+574
+01:03:14,180 --> 01:03:19,700
+ziehen könnte. Das ist, glaube ich, mehr so eine Arbeit für die Zukunft, aber auf jeden Fall,
+
+575
+01:03:19,700 --> 01:03:25,460
+glaube ich, ist es mir ganz wichtig, deutlich zu machen, dass es, meine Kollegin Lucy Satchman
+
+576
+01:03:25,460 --> 01:03:32,740
+nennt es immer Human Machine Assemblage, dass es sozusagen keine Maschinen ohne Menschen gibt und
+
+577
+01:03:32,740 --> 01:03:40,620
+dass da immer auch menschliche Arbeit und menschliche Werte, Normen in diesen Maschinen drin
+
+578
+01:03:40,620 --> 01:03:45,260
+stecken und das wird natürlich und da ist so völlig recht komplett negiert, wenn man da von
+
+579
+01:03:45,260 --> 01:03:52,860
+so einer maschinellen Objektivität spricht, also die ist wirklich absurd, weil es dünkt ja so,
+
+580
+01:03:52,860 --> 01:03:57,420
+als würden die Maschinen vom Himmel fallen und würden die sich jetzt alles selber berechnen,
+
+581
+01:03:57,420 --> 01:04:04,940
+nein, wir legen die Kategorien fest, wir legen die Fragen fest, wir legen fest,
+
+582
+01:04:04,940 --> 01:04:11,780
+in welche Richtung das Ganze gehen soll, also das ist ganz zutiefst implementiert,
+
+583
+01:04:11,780 --> 01:04:19,180
+wie wir gute Wege finden können. Das deutlicher zu machen ist, glaube ich, noch eine offene Frage,
+
+584
+01:04:19,180 --> 01:04:27,220
+aber vielleicht nochmal, und das hat mit dem, was du zuvor gesagt hast, zu tun, es ist natürlich
+
+585
+01:04:27,220 --> 01:04:32,020
+auch wahnsinnig schwer, wie stellt man die Wissensordnung seiner eigenen Zeit in Frage.
+
+586
+01:04:32,020 --> 01:04:38,380
+Ich würde jetzt mal sagen, da hat sich, das ist jetzt gemein, ich schätze Michel Foucault sehr,
+
+587
+01:04:38,380 --> 01:04:43,260
+aber der hat sich halt auf der einen Seite, naja, er hat auch über die eigene Zeit gesprochen,
+
+588
+01:04:43,260 --> 01:04:48,700
+aber es ist natürlich immer einfacher rückwärts zu gucken und zu sagen, was machte diese
+
+589
+01:04:48,700 --> 01:04:53,820
+Wissensordnung aus und vielleicht wird uns jetzt die alte Wissensordnung mit der Kausalität da
+
+590
+01:04:53,820 --> 01:05:00,300
+manchmal auch deutlicher, als sie uns früher war, weil, was mich auch interessiert, ist natürlich
+
+591
+01:05:00,300 --> 01:05:07,540
+die Frage, auf was antwortet diese Wissens-, unsere heutige Wissensordnung auch, weil die
+
+592
+01:05:07,540 --> 01:05:16,060
+Kausalität hat vor einem Hintergrund operiert, einer Welt, die von Gesetzen durchdrungen ist,
+
+593
+01:05:16,060 --> 01:05:23,420
+also einer natürlichen Welt, die von Gesetzen durchdrungen ist und heute hat man immer mehr den
+
+594
+01:05:23,420 --> 01:05:29,980
+Eindruck, dass man in so einem Bereich des Theorielosen eigentlich operiert, also dass
+
+595
+01:05:29,980 --> 01:05:39,260
+man nicht mehr darauf vertraut, dass es hier grundlegende Strukturen und Funktionalitäten
+
+596
+01:05:39,260 --> 01:05:45,740
+in der Welt gibt und immer so ad hoc praktisch Lösungen findet und dafür ist eben dieses
+
+597
+01:05:45,740 --> 01:05:53,220
+Korrelationsparadigma sehr gut, also indem man eben alte Muster in die Zukunft projiziert.
+
+598
+01:05:53,220 --> 01:06:01,380
+Das Human Machine Learning, was ich jetzt so genannt habe, ganz absichtlich, um den Human
+
+599
+01:06:01,380 --> 01:06:08,620
+Factor im Machine Learning deutlich zu machen, das bewegt sich natürlich auch noch mal auf so einer
+
+600
+01:06:08,620 --> 01:06:14,620
+anderen Ebene, das ist nicht primär eine erkenntnistheoretische, sondern eher in so einer
+
+601
+01:06:14,620 --> 01:06:23,780
+Herovation-Denkschiene, wollte ich jetzt schon fast sagen, auch der Einmischung und das ist
+
+602
+01:06:23,780 --> 01:06:29,380
+vielleicht, das ist dann, glaube ich, eher eine politische Ebene, was heißt, was muss eigentlich
+
+603
+01:06:29,380 --> 01:06:36,020
+passieren, dass es deutlicher wird, dass es diese enge Verflochtenheit und jetzt nicht wie in den
+
+604
+01:06:36,020 --> 01:06:43,460
+Science-Fiction-Filmen, die Cyborgs, wie sehr wir in diese sozio-technischen Praktiken involviert
+
+605
+01:06:43,460 --> 01:06:51,220
+sind, aber auf sehr unterschiedliche Weise, wir sind ja nicht alle in gleicher Weise eingebunden,
+
+606
+01:06:51,220 --> 01:06:59,940
+wer konfiguriert hier was, wie sind hier Machtverhältnisse, die diese, auch diese
+
+607
+01:06:59,940 --> 01:07:07,740
+Human Machine Assemblages, also diese Gefüge von Mensch und Maschine konfigurieren und wie können
+
+608
+01:07:07,740 --> 01:07:13,740
+wir uns einmischen und das habe ich ja an einem Beispiel aus einer schönen kleinen Novelle,
+
+609
+01:07:13,740 --> 01:07:20,820
+ja, Novelle-Erzählung von Cory Doctorow, wo sich jemand, der sich eigentlich kaum mit Technik
+
+610
+01:07:20,820 --> 01:07:26,700
+auskannte, aus so einem existenziellen, lebenspraktischen Zusammenhang mit so einem,
+
+611
+01:07:26,980 --> 01:07:33,460
+mit den Problemen des Internet of Things zum Beispiel auseinandersetzt, weil plötzlich der
+
+612
+01:07:33,460 --> 01:07:39,420
+Toaster nicht mehr funktioniert, weil die Firma bankrott gegangen ist, die diese Toaster herstellt
+
+613
+01:07:39,420 --> 01:07:46,340
+und man aber nur diese ganzen Maschinen benutzen kann, indem man die richtigen Produkte auch,
+
+614
+01:07:46,340 --> 01:07:51,900
+also weil die Produkte, also der Toast ist für den Toaster oder das Waschpulver ist für die
+
+615
+01:07:51,900 --> 01:07:57,780
+Spülmaschine konfiguriert und das dann alles nicht mehr funktioniert, bzw. wie kann man die
+
+616
+01:07:57,780 --> 01:08:04,140
+Maschinen hacken, damit man die auch mit anderen Toast, der günstiger ist, benutzen kann, bis hin
+
+617
+01:08:04,140 --> 01:08:14,020
+wie kann man Aufzüge in großen Hochhäusern konfigurieren, umkonfigurieren, das in der
+
+618
+01:08:14,020 --> 01:08:20,180
+Geschichte ist es eben so, dass auf der Vorderseite die reichen Leute wohnen, die immer den Vortritt
+
+619
+01:08:20,180 --> 01:08:25,500
+haben in dem Aufzug und die Leute, die auf der Rückseite in den Sozialwohnungen wohnen,
+
+620
+01:08:25,500 --> 01:08:29,860
+immer warten müssen, bis der Aufzug frei ist, damit sie ihn überhaupt benutzen können, was
+
+621
+01:08:29,860 --> 01:08:35,660
+nicht lustig ist, wenn man im 15. Stock zum Beispiel wohnt und man da sozusagen technische
+
+622
+01:08:35,660 --> 01:08:41,140
+Kompetenzen auch erlernt, aber das sind glaube ich sehr unterschiedliche Ebenen, weil das eine ist
+
+623
+01:08:41,140 --> 01:08:49,660
+eine politische Ebene, wo man deutlicher machen müsste, dass es hier auch um Machtverhältnisse
+
+624
+01:08:49,660 --> 01:08:57,260
+gibt, die es zu ändern gilt, weil nur bestimmte Menschen sehr stark involviert sind in die
+
+625
+01:08:57,260 --> 01:09:03,540
+Konfiguration von Technik und ihrer Benutzung, aber auf der anderen Ebene finde ich auch ganz
+
+626
+01:09:03,540 --> 01:09:09,860
+stark, wir reden ja immer von den Digital Natives, aber wenn ich meine Studierenden sehe, oft das
+
+627
+01:09:09,860 --> 01:09:15,900
+Gefühl habe, bestimmte technische Kompetenzen auch ganz stark fehlen, also die sind tausendmal
+
+628
+01:09:15,900 --> 01:09:24,460
+perfekter darin, TikTok, Instagram oder sonst irgendwas zu nutzen, aber zum Beispiel wirklich
+
+629
+01:09:24,460 --> 01:09:32,100
+grundlegendere Zusammenhänge von technischen Netzwerken wollte ich jetzt schon mal ganz
+
+630
+01:09:32,100 --> 01:09:39,100
+klassisch sagen, zu begreifen, so ein Wissen wird viel zu wenig in der Schule und auch in der
+
+631
+01:09:39,100 --> 01:09:47,420
+Universität vermittelt und auch so ein do it yourself im Sinne von, wie kann ich mir damit
+
+632
+01:09:47,420 --> 01:09:53,660
+weiterhelfen oder wie kann ich mir technische Kompetenzen beibringen und vielleicht auch,
+
+633
+01:09:53,660 --> 01:09:58,060
+ich meine das jetzt gar nicht in so einem Black Hat Logik, aber auch um bestimmte technische
+
+634
+01:09:58,060 --> 01:10:03,020
+Zusammenhänge hacken zu können, nämlich in meinem eigenen Sinne, also das ist natürlich dann eine
+
+635
+01:10:03,020 --> 01:10:08,100
+individuelle Logik und dann haben wir aber noch eine gesellschaftliche Logik und wie man die da
+
+636
+01:10:08,100 --> 01:10:13,620
+noch mal zusammenführen kann, ist dann noch mal ein ganz schwieriges Problem, aber da würde ich
+
+637
+01:10:13,620 --> 01:10:22,060
+jetzt erstmal glaube ich ansetzen und um eben dieses ewige endlose Rhetorik der Objektivität
+
+638
+01:10:22,060 --> 01:10:32,100
+von Maschinen oder auch der Objektivität dieser technowissenschaftlichen Logik grundsätzlich zu
+
+639
+01:10:32,100 --> 01:10:37,540
+hinterfragen, ist glaube ich vor allem wichtig, weil ich immer wieder erschüttert bin, wie sehr
+
+640
+01:10:37,540 --> 01:10:44,580
+auch so eine technokratische Logik in den Köpfen vieler Menschen verankert ist, also wie
+
+641
+01:10:44,580 --> 01:10:50,260
+selbstverständlich das ist daran zu glauben, dass man, also ich denke ich sage nur noch ein Beispiel
+
+642
+01:10:50,260 --> 01:10:56,260
+Klimawandel, wo immer wieder von bestimmten Leuten angeführt wird, ja wir werden Technologien
+
+643
+01:10:56,260 --> 01:11:01,900
+entwickeln, um das Problem des Klimawandels zu lösen, da muss ich mal lachen und sagen, ja das
+
+644
+01:11:01,900 --> 01:11:07,220
+hat man schon damals bei den Atomkraftwerken gesagt, wir werden schon irgendwann, das waren in
+
+645
+01:11:07,220 --> 01:11:14,740
+siebziger Jahren, also 50 Jahre her, Möglichkeiten finden, um den Atommüll sicher zu lagern, wir
+
+646
+01:11:14,740 --> 01:11:20,860
+wissen bis heute nicht so genau, wie wir das tun sollen und haben da ein riesen Problem, also der
+
+647
+01:11:20,860 --> 01:11:27,100
+Glauben an die Technik wird schon irgendwann richten oder sie kann auch alles lösen, Evgeny Morozov hat
+
+648
+01:11:27,100 --> 01:11:36,300
+das ja auch mal schön als Technosolutionism benannt, also und diese Logik ist einfach noch
+
+649
+01:11:36,380 --> 01:11:41,820
+sehr weit verbreitet und ich würde mir sehr wünschen, dass ich da eben mehr die Logik von
+
+650
+01:11:41,820 --> 01:11:46,620
+Human Machine Learning, also wir lernen von den Maschinen, aber wir müssen auch wirklich wissen,
+
+651
+01:11:46,620 --> 01:11:52,540
+was die Maschinen da tun und wie wir sie anders konfigurieren, das ist eigentlich der wichtigere
+
+652
+01:11:52,540 --> 01:12:01,260
+Schritt, dass wir dahin kommen, um den Satz zu Ende zu machen. Jutta, ich frage am Ende eines
+
+653
+01:12:01,340 --> 01:12:06,340
+jeden Gesprächs immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+
+654
+01:12:06,340 --> 01:12:15,860
+Das ist ja bei kritischen Kritikern eine schwierige Frage, also was mich erstmal freudig stimmt,
+
+655
+01:12:15,860 --> 01:12:24,020
+ist, dass ich in den letzten paar Jahren, wenigen Jahren, viel mehr kritische Fragen von meinen
+
+656
+01:12:24,020 --> 01:12:32,620
+Studierenden zu hören bekomme, als in den letzten 20 Jahren davor und das hat was mit dem Human
+
+657
+01:12:32,620 --> 01:12:44,460
+Machine Learning zu tun, also was da an Neugierde entsteht. Fällt mir noch was ein, was mich freudig
+
+658
+01:12:44,460 --> 01:12:54,740
+stimmt. Es ist nach und in einer Pandemie schwer zu sagen, weil in der Pandemie hatte ich ganz
+
+659
+01:12:54,740 --> 01:13:00,380
+naiverweise kurz die Hoffnung, dass sich politisch möglicherweise in diesem Lande was bewegt, aber
+
+660
+01:13:00,380 --> 01:13:07,860
+diese Hoffnung hat sich sehr schnell wieder gelegt leider. Von daher lasse ich das glaube ich mal
+
+661
+01:13:07,860 --> 01:13:13,740
+offen, aber ich finde ja auch schon dieses, ja das gehört vielleicht auch dazu, auch Klimabewegung,
+
+662
+01:13:13,860 --> 01:13:23,020
+dass die jungen Leute viele Dinge, und da ist ja auch der Technosolutionism zugange bei dieser
+
+663
+01:13:23,020 --> 01:13:29,100
+Diskussion um den Klimawandel, dass da wieder viel in Frage gestellt wird oder Extinction Rebellion,
+
+664
+01:13:29,100 --> 01:13:33,980
+dass da eigentlich ganz spannende Sachen passieren, auch auf so einer, nicht banal,
+
+665
+01:13:33,980 --> 01:13:40,340
+aber auf einer politischen Ebene, denn das Human Machine Learning wird nicht einfach nur aufgrund
+
+666
+01:13:40,620 --> 01:13:46,860
+von anderen Lehrprogrammen in Schulen oder Universitäten einsetzen, sondern das muss man
+
+667
+01:13:46,860 --> 01:13:52,260
+sich auch, das muss eingefordert werden und das muss erkämpft werden, weil da gibt es viele
+
+668
+01:13:52,260 --> 01:13:59,540
+Lobbys, die kein Interesse daran haben, dass die Mehrheit der Menschen dieses Human Machine
+
+669
+01:13:59,540 --> 01:14:07,460
+Learning lernt und auch umsetzt. Wunderbar, Jutta, vielen Dank für das Gespräch. Vielen
+
+670
+01:14:07,460 --> 01:14:17,620
+Dank an dich, Jan, für die schönen Fragen. Das war Future Histories für heute. Vielen
+
+671
+01:14:17,620 --> 01:14:24,380
+Dank fürs Zuhören, Shownotizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+672
+01:14:24,380 --> 01:14:31,220
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit. Ihr
+
+673
+01:14:31,220 --> 01:14:36,100
+könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren,
+
+674
+01:14:36,260 --> 01:14:42,500
+sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen
+
+675
+01:14:42,500 --> 01:14:48,940
+einzelner Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich freue
+
+676
+01:14:48,940 --> 01:14:55,220
+mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen
+
+677
+01:14:55,220 --> 01:15:01,580
+wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf
+
+678
+01:15:01,620 --> 01:15:07,300
+unserer Homepage. Future Histories ist eine Produktion von MetaLapses zu finden auf
+
+679
+01:15:07,300 --> 01:15:12,340
+meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.
+

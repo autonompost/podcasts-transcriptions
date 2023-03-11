@@ -1,0 +1,4355 @@
+WEBVTT
+
+00:00.000 --> 00:05.640
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:05.640 --> 00:11.760
+Mein Name ist Jan Groß und ich freue mich sehr, heute Jürgen Goethe alias Tante begrüßen zu dürfen.
+
+00:11.760 --> 00:20.160
+Er ist unabhängiger Theoretiker und schreibt, denkt und spricht viel zur Digitalisierung und den sozialen Folgen von Technologie.
+
+00:20.160 --> 00:24.680
+Das alles passt natürlich ganz ausgezeichnet in Future Histories.
+
+00:24.840 --> 00:32.440
+Und wundert euch nicht, wir sprechen zwar in der Episode heute unter anderem auch einmal kurz über Sam Bankman Freed,
+
+00:32.440 --> 00:42.600
+den Gründer der einstmals größten Crypto-Trading-Plattform FTX, der ja zurzeit in aller Munde ist, weil FTX gecrashed ist.
+
+00:42.600 --> 00:50.320
+Das Ganze ist ziemlich hilarious, muss man sagen, angesichts dessen, dass Sam Bankman Freed eben zum Beispiel,
+
+00:50.320 --> 01:00.960
+wie wir heute in der Episode auch besprechen, einer der größten Spender aus der Krypto-Szene war, was den US-amerikanischen Politapparat betrifft.
+
+01:00.960 --> 01:08.760
+Insofern kommt das Thema zwar heute vor, also eben zum Beispiel in Form des Lobbying durch die Krypto-Szene,
+
+01:08.760 --> 01:17.320
+aber der Zusammenbruch von FTX war noch nicht passiert, weswegen das natürlich jetzt in dem heutigen Gespräch auch noch nicht thematisiert wurde.
+
+01:17.360 --> 01:22.920
+Ich werde aber in die Show Notes auch einen Link machen zu einem Artikel über diesen Zusammenbruch,
+
+01:22.920 --> 01:27.160
+falls ihr wie auch immer bisher noch nicht davon gehört haben solltet.
+
+01:27.160 --> 01:32.360
+Und bevor es jetzt losgeht, möchte ich noch Carmen und Fabian für ihre Spenden danken.
+
+01:32.360 --> 01:41.560
+Und jetzt viel Freude mit der heutigen Episode mit Tante zu Crypto-Imagineries und alternativen technologischen Infrastrukturen.
+
+01:47.320 --> 01:49.200
+Herzlich willkommen, Tante.
+
+01:49.200 --> 01:51.000
+Ja, danke für die Einladung.
+
+01:51.000 --> 01:58.960
+In der About-Section deiner Homepage steht, dass du viel zu Digitalisierung und der Struktur des digitalen Selbst schreibst und sprichst.
+
+01:58.960 --> 02:01.120
+Das hat mich ziemlich neugierig gemacht, muss ich sagen.
+
+02:01.120 --> 02:06.400
+Was ist denn die Struktur des digitalen Selbst und wie definierst du Digitalisierung?
+
+02:06.400 --> 02:11.520
+Diese Selbstbeschreibungstexte auf Websites und so weiter sind ja immer so ein bisschen mit Vorsicht zu genießen.
+
+02:11.520 --> 02:16.320
+Man schreibt da immer so irgendwas hin, damit Leute ein Gefühl dafür haben, was man so tut.
+
+02:16.320 --> 02:24.320
+Von daher ist es natürlich nicht immer perfekt, sondern es ist eher so ein Marketing-Sprechen.
+
+02:24.320 --> 02:26.920
+Für mich ist Digitalisierung, also ich fange mal mit dem zweiten Teil an.
+
+02:26.920 --> 02:32.520
+Für mich ist Digitalisierung so ein Vergangenheitsthema,
+
+02:32.520 --> 02:45.120
+denn die Digitalisierung war die vergangene Phase, in der wir halt die bis dahin an vielen Stellen doch noch sehr analoge Welt eben durch digitale Technologien nicht ersetzt haben,
+
+02:45.120 --> 02:50.920
+aber viele Prozesse eben auf digitale Technologien gestützt haben und damit ja auch bestimmte Dinge eben vielleicht verloren haben,
+
+02:50.920 --> 03:00.320
+bestimmte Dinge eben auch gewonnen haben, aber wir haben halt bestehende soziale und auch teilweise auch materielle Prozesse durch digitale Technologien ersetzt.
+
+03:00.320 --> 03:03.720
+Von daher, für mich ist Digitalisierung fast eher ein historisches Thema,
+
+03:03.720 --> 03:08.120
+auch wenn in Deutschland, wo ich wohne, ja Digitalisierung mal als Zukunftsthema gelabelt wird.
+
+03:08.120 --> 03:13.800
+Aber das sagt halt auch viel über Deutschland aus, dass man immer noch glaubt, dass das irgendwo vor uns liegt
+
+03:13.800 --> 03:19.600
+und nicht die nicht gemachten Hausaufgaben der Vergangenheit sind.
+
+03:19.600 --> 03:27.000
+Das Digitale selbst und das ist jetzt keine akademisch perfekte Definition,
+
+03:27.000 --> 03:37.200
+aber was ich damit so meine, ist die Art und Weise, wie wir als Individuen uns im digitalen Raum, sag ich mal, bewegen oder wie wir darin leben.
+
+03:37.200 --> 03:46.800
+Und das hat eben natürlich auch viele, als das digitale Leben so eine echte Lebensrealität geworden ist und so ein Space,
+
+03:46.800 --> 03:53.000
+in dem auch nicht nur drei Wissenschaftler Paper veröffentlichten, sondern wo wirklich auch soziale Interaktion passiert,
+
+03:53.000 --> 03:59.200
+wo Menschen vielleicht auch Facetten von sich auslebten, die vorher sehr, sehr unterdrückt geblieben sind,
+
+03:59.200 --> 04:04.000
+die keinen Platz hatten, wofür es keinen Ausdruck gab.
+
+04:04.000 --> 04:09.200
+Ich glaube, dass das das ist, was ich am ehesten so mit der Struktur des Digitalen selbst bezeichnen würde.
+
+04:09.200 --> 04:17.400
+Also die Art und Weise, wie sich unsere Selbstausdruck, auch in gewisser Weise unsere Selbstwirksamkeit
+
+04:17.400 --> 04:24.200
+und auch das Experimentieren mit uns selbst und den Neuausprobieren vielleicht von Identitäten,
+
+04:24.200 --> 04:30.400
+wie sich das strukturiert anhand der digitalen Technologien, die wir haben, wie einfach bestimmte Dinge vereinfacht haben.
+
+04:30.400 --> 04:37.200
+Es ist halt leichter, mit einem Nischeninteresse zum Beispiel Gleichgesinnte zu finden, mit denen man das dann ausprobieren kann.
+
+04:37.200 --> 04:45.400
+Also, keine Ahnung, ich bin halt auf dem Land aufgewachsen, irgendwo in der norddeutschen Tiefebene, wo es mehr Kühe als Menschen gibt.
+
+04:45.400 --> 04:49.800
+Wenn man jetzt Ferry wäre, dann hätte man da wahrscheinlich Schwierigkeiten gehabt,
+
+04:49.800 --> 04:52.400
+jemanden zu finden, der überhaupt weiß, worum es da geht.
+
+04:53.200 --> 05:02.600
+Und ich glaube, dass das eine, das ist häufig eine Achse, entlang derer ich über so Digitaltechnologie nachdenke.
+
+05:02.600 --> 05:08.200
+Also verändert das, wie wir uns zueinander, zu anderen Menschen, zu unseren Communities positionieren,
+
+05:08.200 --> 05:18.400
+wie wir vielleicht andere Communities finden und wie halt diese, die ja eh immer nur hingelogene, so monolithische Eigenschaft unseres Selbst,
+
+05:18.400 --> 05:23.000
+also wir sind diese Person. Und bei mir fällt das immer auf so eine skurrile Art und Weise auf,
+
+05:23.000 --> 05:27.600
+weil ich habe ja so einen Dayjob, so Herr Jürgen Goethe arbeitet bei einer Firma und macht da Sachen.
+
+05:27.600 --> 05:30.000
+Und dann schreibe ich als Tante Krawallzeug auf Twitter.
+
+05:30.000 --> 05:35.400
+Und bei mir sind es ja auch noch zwei Namen, so. Da fällt Leute manchmal auf, so ist das eine Persönlichkeitsstörung oder so.
+
+05:35.400 --> 05:39.000
+Nein, es sind unterschiedliche Facetten und wir hatten das alle immer.
+
+05:39.000 --> 05:43.800
+Also wir sind ja auch an unserer Familie anders, als wir in der Öffentlichkeit schreiben oder sprechen.
+
+05:43.800 --> 05:46.800
+Wir sind mit unseren Freunden anders als mit unserer Familie.
+
+05:46.800 --> 05:53.600
+Wir sind überall immer anders und haben immer andere Facetten von uns, die wir zeigen und zeigen wollen und ausdrücken wollen.
+
+05:53.600 --> 06:00.200
+Und das war für mich, wer darüber zuguckt und dann vielleicht ja auch über gewisserweise Utopien sprechen,
+
+06:00.200 --> 06:04.200
+das war für mich halt mit einer der großen Utopien des Digitalen zu sagen,
+
+06:04.200 --> 06:11.200
+hey, wir können, wir haben hier Infrastrukturen, die es Menschen erlauben können, ganz viele Dinge mit sich auszuprobieren
+
+06:11.200 --> 06:15.800
+und an sich auszuprobieren, um zu sehen, wer sie sein wollen und wie sie sein wollen.
+
+06:15.800 --> 06:24.200
+Und das auch jederzeit verändern zu können, weil man halt leicht Zugriff auf die Möglichkeit hat, mit so was zu spielen.
+
+06:24.200 --> 06:30.400
+Ich vergesse deinen Namen, es gibt einen interessanten Professor in den USA, der sich halt damit beschäftigt, wie viele eigentlich Spiele sind.
+
+06:30.400 --> 06:35.000
+Und er sagt immer, Spiele ist eigentlich Agency as an Artform.
+
+06:35.000 --> 06:38.400
+Das heißt, Spiele sind die Kunst, Agency auszuprobieren.
+
+06:38.400 --> 06:44.800
+Ich kann halt ein Feuerwehrmann sein und spiele das dann irgendwie und kann fühlen, wie das wäre, wenn ich Feuerwehrmann wäre.
+
+06:44.800 --> 06:46.800
+Oder wenn ich Superheld wäre.
+
+06:46.800 --> 06:51.000
+Und natürlich sind Spiele manchmal sehr eindimensional, wir sind alle immer nur Superheld, das ist auch ein bisschen boring.
+
+06:51.000 --> 06:58.000
+Aber interessanterweise gibt es ja Spiele wie den Treckersimulator oder den Lastfahrersimulator, wo Leute sich auch ernsthaft sagen,
+
+06:58.000 --> 07:05.000
+ich bin jetzt mal Lastfahrer, ich fahre jetzt von Porto nach Berlin und fahre so die Straßen runter und probiere das aus.
+
+07:05.000 --> 07:09.000
+Und man lacht dann vielleicht von außen drüber, aber ich finde das wertvoll, ich finde das wertvoll,
+
+07:09.000 --> 07:15.800
+dass wir durch das Digitale die Möglichkeit haben, so etwas auszuprobieren an uns und mit uns.
+
+07:15.800 --> 07:21.200
+Tante, ich würde gerne heute mit dir zusammen eine Brücke bauen, eine Einladung vielleicht auch.
+
+07:21.200 --> 07:25.600
+Aber bevor wir das machen können, da brauche ich glaube ich noch eine Form von Enttäuschung,
+
+07:25.600 --> 07:30.200
+also im besten Sinne des Wortes, nämlich im Nehmen einer Täuschung.
+
+07:30.200 --> 07:35.400
+Du bist im deutschsprachigen Raum einer der bekanntesten und auch lautstärksten Kritiker des Hypes
+
+07:35.400 --> 07:41.000
+um Blockchain-Technologie, Cryptocurrencies, Web3 und so weiter.
+
+07:41.000 --> 07:47.000
+Und bringst die Sache, finde ich auch immer wieder, ziemlich gut auf den Punkt in der Art, wie du diese Kritik eben vorbringst.
+
+07:47.000 --> 07:54.600
+Bevor wir also zum konstruktiven Teil, zur Konstruktion, sagen wir mal so, kommen, da braucht es erst noch etwas Destruktion.
+
+07:54.600 --> 08:01.200
+Also was sind denn die zentralen Punkte deiner Kritik am Hype und vor allem auch der ideologischen Aufladung
+
+08:01.200 --> 08:06.400
+oder dem ideologischen Grounding vielleicht dieses Technologiebündels?
+
+08:06.400 --> 08:13.000
+Ja, man kann sich diesen ganzen Crypto-Blockchain-Thema aus sehr unterschiedlichen Richtungen nähern.
+
+08:13.000 --> 08:16.800
+Und das tun ja auch zum Glück viele Menschen in Deutschland, leider nicht ganz so viele,
+
+08:16.800 --> 08:21.000
+aber international gibt es ja schon eine große Community aus Leuten, die es kritisch begleiten.
+
+08:21.000 --> 08:25.200
+Es gibt Leute, die machen das ja aus der Finanzaufsicht und Finanzpolitik Sicht.
+
+08:25.200 --> 08:28.000
+Das ist nicht unbedingt meine, da kenne ich mich auch nicht so aus.
+
+08:28.000 --> 08:30.200
+Ich komme halt vor allem einerseits zur Technischen.
+
+08:30.200 --> 08:33.000
+Ich bin ja ausgebildeter Ingenieur, ich bin Informatiker.
+
+08:33.000 --> 08:36.600
+Von daher gibt die Technik, da habe ich einen gewissen Zugang zu.
+
+08:36.600 --> 08:42.200
+Und ich komme aber vor allem sehr stark aus der politischen Kritik an diesen Gesamtkonstrukt.
+
+08:42.200 --> 08:46.200
+Also wenn man diesen Hype, so Blockchain, rettet ja uns alle bei allem.
+
+08:46.200 --> 08:50.400
+Also als es beim Brexit die Diskussion gab, wie macht man das jetzt mit der Nordirland-Grenze,
+
+08:50.400 --> 08:53.200
+da gab es auch sofort Politiker, die sagen, wir machen das mit Blockchain.
+
+08:53.200 --> 08:55.800
+Das ist alles, dann läuft das einfach so.
+
+08:55.800 --> 08:59.600
+Keiner konnte mir erklären, wie eine Datenbank das macht, aber irgendwie sollte das so sein.
+
+08:59.600 --> 09:03.600
+Blockchain ist halt so ein Heilsversprechen, das sehen wir natürlich nicht nur in Deutschland,
+
+09:03.600 --> 09:05.400
+aber auch gerade in Deutschland immer ganz stark.
+
+09:05.400 --> 09:08.200
+Deutschland hat immer Angst, dass man so die Zukunftszenen verpennt.
+
+09:08.200 --> 09:11.000
+Mit KI hat man das verpennt, das Web hat man verpennt.
+
+09:11.000 --> 09:13.200
+Und jetzt kommen mal ein paar Leute und sagen, hier Blockchain ist die Zukunft.
+
+09:13.200 --> 09:15.600
+Und jetzt sagt man, okay, das verpennen wir nicht, das machen wir jetzt.
+
+09:15.600 --> 09:20.200
+Einfach, wir müssen das machen, ohne dass irgendjemand rational sagen könnte, warum.
+
+09:20.200 --> 09:24.000
+Und das ist schon der erste Kritik, wo man sagt, okay, wenn das jetzt eine Technologie ist,
+
+09:24.200 --> 09:27.400
+die hat ja Eigenschaften und es gibt ja auch Use Cases.
+
+09:27.400 --> 09:31.200
+Also Blockchain ist eine Technologie, die für einen ganz speziellen Use Case gebaut ist.
+
+09:31.200 --> 09:36.600
+Und zwar, man braucht eine gemeinsame Datenbank mit genau einem Zustand
+
+09:36.600 --> 09:41.800
+zwischen beliebig vielen Entitäten, die sich nicht vertrauen können und wollen.
+
+09:41.800 --> 09:46.800
+Wenn man diese Situation hat, kann man eine Blockchain einsetzen, die tut das.
+
+09:46.800 --> 09:52.200
+Wenn das jetzt so nützlich ist, wie ja viele der FürsprecherInnen,
+
+09:52.400 --> 09:54.600
+eigentlich sind es meistens Fürsprecher, wenn wir jetzt mal ehrlich sind,
+
+09:54.600 --> 09:57.800
+aber sind wir jetzt mal fair, sagen FürsprecherInnen.
+
+09:57.800 --> 10:01.600
+Wenn das stimmen würde, was die sagen, dass das halt die Zukunftstechnologie ist,
+
+10:01.600 --> 10:05.800
+dass man damit Supply Chains absichern kann, all diesen Kram,
+
+10:05.800 --> 10:08.600
+dann müsste das es ja auch mal geben.
+
+10:08.600 --> 10:12.400
+Denn wenn wir Ingenieure eine Sache sind, dann ist das faul.
+
+10:12.400 --> 10:15.000
+Wenn es eine Lösung für ein Problem gibt, was man hat,
+
+10:15.000 --> 10:19.200
+dann nimmt man die fertige und baut es nicht selber, weil man will halt früh nach Hause.
+
+10:19.200 --> 10:22.400
+Blockchain gibt es jetzt seit 13 Jahren.
+
+10:22.400 --> 10:24.400
+Das iPhone gibt es seit 14 Jahren.
+
+10:24.400 --> 10:28.000
+Also nur mal so einen Vergleich zu machen, wie alt ist diese Technologie einfach
+
+10:28.000 --> 10:33.000
+und welche Umwälzungen passieren eigentlich in dieser Zeit.
+
+10:33.000 --> 10:35.200
+Blockchain gibt es jetzt seit 13 Jahren.
+
+10:35.200 --> 10:37.400
+Ethereum seit, ich glaube, neun.
+
+10:37.400 --> 10:40.600
+Das ist jetzt so die flexiblere Blockchain, die ich so merken konnte.
+
+10:40.600 --> 10:42.800
+Und in der Zeit gibt es immer noch keine Cases.
+
+10:42.800 --> 10:47.200
+Es wird immer ganz viel in der Zukunft wird und es wird und später.
+
+10:47.200 --> 10:50.000
+Aber realistischerweise passiert damit nichts.
+
+10:50.000 --> 10:55.200
+Das ist aus der technischen Sicht so, ja, das ist irgendwie niedliches Spielzeug.
+
+10:55.200 --> 10:57.600
+Für so einen ganz speziellen Use-Case kann man das auch einsetzen.
+
+10:57.600 --> 11:01.200
+Aber eigentlich, wenn wir jetzt mal so wie Erwachsene miteinander reden,
+
+11:01.200 --> 11:05.400
+okay, wir haben ein echtes Problem in der Welt, das wir lösen wollen,
+
+11:05.400 --> 11:07.800
+dann ergibt diese Technologie eigentlich nie Sinn.
+
+11:07.800 --> 11:11.800
+Weil wir haben ganz selten die Situation, dass wir eine Datenbank zwischen Leuten,
+
+11:11.800 --> 11:15.000
+die sich nicht vertrauen können und wollen, bauen müssen.
+
+11:15.000 --> 11:21.800
+Weil in den meisten Situationen gibt es halt eine Vertrauensbeziehung zu entweder einer Struktur.
+
+11:21.800 --> 11:24.000
+Also es gibt irgendwie, wenn ich mit einer Behörde interagiere,
+
+11:24.000 --> 11:26.400
+dann ich kann jetzt die Behörde doof finden,
+
+11:26.400 --> 11:28.600
+aber es gibt da irgendein Level von Vertrauensbeziehung,
+
+11:28.600 --> 11:31.200
+insbesondere in westlichen Demokratien zu dieser Behörde.
+
+11:31.200 --> 11:35.200
+Oder wenn ich bei einer Firma was kaufe, kann ich die doof finden und was auch immer.
+
+11:35.200 --> 11:39.000
+Aber offensichtlich vertraue ich ihr genug, dass ich von ihr was kaufen möchte.
+
+11:39.000 --> 11:44.000
+Also gibt da in irgendeiner Form etwas, was eigentlich erlauben würde,
+
+11:44.000 --> 11:45.400
+immer zu sagen, wir bauen das anders.
+
+11:45.400 --> 11:48.400
+Ich bin jetzt aber nicht der Einzige und nicht der Erste, der auf diese Idee kommt.
+
+11:48.400 --> 11:55.000
+Also die australische Regierung hat schon 2017 eine Studie bei der australischen Digital Agentur
+
+11:55.000 --> 11:58.800
+in Auftrag gegeben, sagt, okay, klopft mal alles, was wir in Australien wirtschaftlich machen, ab
+
+11:58.800 --> 12:01.600
+und sagt uns, wo Blockchain die Lösung ist.
+
+12:01.600 --> 12:05.800
+Wo diese Agentur auskam, ist so, ja, du kannst halt schon bestimmte Sachen damit machen,
+
+12:05.800 --> 12:10.200
+aber du kannst es halt auch immer besser, billiger und robuster mit was anderem machen.
+
+12:10.200 --> 12:13.800
+Deshalb ist halt, aber wir haben das Narrativ da so umgekehrt in diesem Kontext.
+
+12:13.800 --> 12:17.200
+Es wird halt nicht gesagt, okay, wir haben ein Problem und hier ist Blockchain die beste Lösung.
+
+12:17.200 --> 12:20.600
+Es wird gesagt, wir haben Blockchain und man kann das mit einer Blockchain machen.
+
+12:20.600 --> 12:22.200
+Aber das ist halt nicht seriöses Arbeiten.
+
+12:22.200 --> 12:26.000
+Seriöse Arbeit ist zu sagen, okay, das Problem wollen wir lösen, wir machen das am besten.
+
+12:26.000 --> 12:29.800
+Mit welchen Seiteneffekten, mit welchen negativen und positiven Effekten.
+
+12:29.800 --> 12:31.400
+Das ist aus der technischen Ebene.
+
+12:31.400 --> 12:36.400
+Also es ist ein technisches Spielzeug, was komplett überhypt ist, mit allen möglichen Versprechungen übergossen würde.
+
+12:36.400 --> 12:40.200
+Aber als Ingenieur würde man sagen, ja, wenn du das machen willst, dann mach das doch so.
+
+12:40.200 --> 12:47.000
+Dann brauchst du nicht so viel Strom wie ein kleiner Staat, sondern du kannst es auf einem Raspberry Pi abfackeln, so ungefähr.
+
+12:47.000 --> 12:49.800
+Schlimmer finde ich allerdings persönlich wirklich diese politische Ebene,
+
+12:49.800 --> 12:54.600
+weil was sich da gesammelt hat in diesem in diesem Becken eben aufgrund dieser Ideen,
+
+12:54.600 --> 12:57.800
+es muss vertrauenslos sein, Vertrauen ist negativ.
+
+12:57.800 --> 12:59.800
+Es darf nicht zensierbar sein durch den Staat.
+
+12:59.800 --> 13:01.400
+Also für sie ist halt ein staatlicher Eingriff.
+
+13:01.400 --> 13:06.200
+Sie haben eine Zensur und eben nicht, oh demokratische Staaten greifen manchmal ein,
+
+13:06.200 --> 13:09.600
+weil das demokratisch legitimiert ist und wir als Gesellschaft das wollen.
+
+13:09.600 --> 13:10.600
+Es ist immer Zensur.
+
+13:10.600 --> 13:13.200
+Und wenn man halt in dieser Welt anfängt, Dinge zu bauen,
+
+13:13.200 --> 13:16.800
+dann baut man politisch sehr häufig etwas problematische Systeme auf.
+
+13:16.800 --> 13:18.000
+Und das genau ist, was wir da sehen.
+
+13:18.000 --> 13:22.200
+Für Bitcoin hat es David Columbia, ein Wissenschaftler aus den USA, mal schön nachgezeichnet,
+
+13:22.200 --> 13:26.400
+in seinem Buch The Politics of Bitcoin, Software as Right-Wing Extremism,
+
+13:26.400 --> 13:31.600
+wie sehr die Ideen, die zur Entwicklung von Bitcoin, damit zur Entwicklung des Blockchain geführt haben,
+
+13:31.600 --> 13:39.600
+halt eigentlich rechtslibertäre, häufig antisemitische und häufig auch borderline faschistische Ideen sind,
+
+13:39.600 --> 13:41.400
+die da umgesetzt werden sollen.
+
+13:41.400 --> 13:45.000
+Es sind halt, es wird nie gesagt, die Juden sind immer schuld an allem und so weiter.
+
+13:45.000 --> 13:48.800
+Aber immer, wenn auf Personen referenziert wird, wegen der man Blockchains braucht,
+
+13:48.800 --> 13:51.600
+denen man nicht vertrauen kann, haben die zufällig jüdische Nachnamen.
+
+13:51.600 --> 13:54.400
+Es sind einfach so ein bisschen hässliche, hässliche Verbindungen.
+
+13:54.400 --> 14:00.000
+Deshalb sammelte sich halt in dieser Suppe auch eine spezielle Subkultur aus Menschen,
+
+14:00.000 --> 14:02.200
+die das dann weiter vorangetrieben hat.
+
+14:02.200 --> 14:04.200
+Es wurde natürlich danach ein bisschen popularisiert,
+
+14:04.200 --> 14:09.000
+also durch Ethereum ist auch mehr möglich drauf, mehr Leute haben sich da getummelt
+
+14:09.000 --> 14:13.200
+und es ist jetzt auch keine komplett politisch homogene Gruppe, die da operiert.
+
+14:13.200 --> 14:16.800
+Das ist jetzt nicht eine Kaderschmiede und eine Partei, die da gemeinsam sowas tut.
+
+14:16.800 --> 14:23.000
+Es gibt auch Leute, die aus einer, nach meinem Verständnis, etwas verstrahlten linken Perspektive
+
+14:23.000 --> 14:24.800
+darauf Dinge tun wollen.
+
+14:24.800 --> 14:28.000
+Aber was man halt schon sieht, ist, diese Idee zu glauben,
+
+14:28.000 --> 14:32.400
+erstens, alle Probleme, die wir haben in der Welt, lassen sich lösen,
+
+14:32.400 --> 14:38.800
+wenn man einfach nur eine Datenbank findet, in der man das Digitalisat zweifelsfrei speichern kann.
+
+14:38.800 --> 14:43.200
+Schon das ist absurd, weil viele Dinge sind eben nicht
+
+14:43.200 --> 14:46.000
+einfach nachweisbar auf die eine oder andere Art und Weise,
+
+14:46.000 --> 14:48.400
+sondern das ist politische Diskurs, das ist Streit.
+
+14:48.400 --> 14:49.600
+Da geht es um Interessen vertreten.
+
+14:49.600 --> 14:52.600
+Da gibt es nicht richtig und falsch, sondern, naja, Leute wollen unterschiedliche Sachen
+
+14:52.600 --> 14:54.600
+und müssen das irgendwie miteinander aushandeln.
+
+14:54.600 --> 14:57.200
+Und da jetzt eine Technologie zu bauen und zu sagen, naja, wir bauen halt was
+
+14:57.200 --> 14:59.600
+und da steht halt eine Wahrheit drin und das ist halt wie es ist,
+
+14:59.600 --> 15:02.000
+ist natürlich auch schon ein extrem gewalttätiger Ansatz,
+
+15:02.000 --> 15:04.400
+der eben auch gar nicht mehr, wenn es da drin steht, ist es halt so.
+
+15:04.400 --> 15:08.600
+Und dann kannst du halt sagen, aber meine Rechte wurden hier verletzt, gibt es halt nicht.
+
+15:08.600 --> 15:11.000
+Politischer Diskurs soll halt abgeschafft werden.
+
+15:11.000 --> 15:14.600
+Und das sieht man auch in dieser Idee, halt alles über sogenannte Smart Contracts,
+
+15:14.600 --> 15:19.400
+durch Code, alle Regeln abzubilden, weil ja die Regeln, die wir so haben, Gesetze,
+
+15:19.400 --> 15:24.400
+das ist ja alles Willkür, entscheidet dann irgendein Richter oder sonst was, was man darf und nicht darf.
+
+15:24.400 --> 15:27.400
+Und Facebook entscheidet willkürlich, was moderiert wird und nicht.
+
+15:27.400 --> 15:31.600
+Und ich will jetzt gar nicht Facebooks Moderationspolitik für Kommentare besonders loben und so.
+
+15:31.600 --> 15:35.400
+Aber zu sagen, naja, wir machen einfach Code, der das entscheidet,
+
+15:35.400 --> 15:38.000
+ist halt auch schon eine, das ist schon nicht mehr apolitisch.
+
+15:38.000 --> 15:40.000
+Die sagt gern, das ist antipolitisch, was sie da tun.
+
+15:40.000 --> 15:44.800
+Sie wollen nämlich politischen Diskurs und diesen Kampf von Werten
+
+15:44.800 --> 15:47.600
+und diesen Struggle von Interessen, den wollen sie halt abschaffen.
+
+15:47.600 --> 15:50.400
+Der ist ihnen zu lästig, die Leute sollen nicht mehr diskutieren dürfen,
+
+15:50.600 --> 15:54.600
+sondern irgendjemand schreibt halt Code und der wird da deployed und der läuft.
+
+15:54.600 --> 15:57.600
+Was natürlich aus der Sicht, wenn man selber die Person ist,
+
+15:57.600 --> 16:00.000
+die im Zweifel dieses Smart Contracts schreibt, das sind ja Leute wie ich,
+
+16:00.000 --> 16:03.000
+die haben so Informatikausbildung, die können dann Smart Contracts schreiben.
+
+16:03.000 --> 16:05.600
+Das gibt ihnen natürlich extreme Macht.
+
+16:05.600 --> 16:08.000
+Aber das, was sie halt in vielen Stellen als Willkür wahrnehmen
+
+16:08.000 --> 16:12.400
+und auch argumentieren würden, hier guck mal, das Recht wird ja gar nicht auf alle gleich angewendet.
+
+16:12.400 --> 16:16.000
+Es ist ja eigentlich müsste das Recht ja immer gleich sein.
+
+16:16.000 --> 16:19.600
+Das stimmt aber ja gar nicht. Also das ist gar nicht unsere politische Überzeugung.
+
+16:19.600 --> 16:24.400
+Ich sage immer westliche Demokratie, ich lebe halt in Deutschland.
+
+16:24.400 --> 16:26.200
+Natürlich wenden wir das Recht unterschiedlich an.
+
+16:26.200 --> 16:31.200
+Es macht halt einen Unterschied, wenn du im Supermarkt irgendwie was zu essen klaust,
+
+16:31.200 --> 16:33.400
+ob du das machst, weil du keine Kohle hast,
+
+16:33.400 --> 16:36.200
+oder ob du das aus Langeweile machst, weil du ein kleines Kind bist,
+
+16:36.200 --> 16:39.600
+oder ob du das als Erwachsener machst, der damit Profit erwirtschaften möchte.
+
+16:39.600 --> 16:42.000
+Das sind sehr, sehr unterschiedliche...
+
+16:42.000 --> 16:44.200
+Das Recht, sag du mal, ist ein Diebstahl, muss jetzt bestraft werden.
+
+16:44.200 --> 16:47.600
+Aber natürlich macht das einen Unterschied, was der Kontext dieses Ganzen ist.
+
+16:47.600 --> 16:50.000
+Und natürlich lässt sich das nicht durch Code abbilden.
+
+16:50.000 --> 16:54.000
+Okay, wie viel Strafe muss die Person jetzt kriegen, oder ist das legitim, was da an der Stelle passiert?
+
+16:54.000 --> 16:57.800
+Das sind halt politische Entscheidungen, die da irgendwie abgewickelt werden müssen.
+
+16:57.800 --> 17:01.000
+Und dafür sind aber natürlich Smart Contracts und so kleine Codeschnipsel,
+
+17:01.000 --> 17:04.200
+die einfach nur so durchrechnen, ja, okay, das ist jetzt das überhaupt nicht geeignet.
+
+17:04.200 --> 17:11.200
+Aber das Weltbild dieser Leute, was sie halt durch Technologie verfestigen wollen
+
+17:11.200 --> 17:14.200
+und ja auch als neue Infrastruktur ins ganze Netz schieben wollen
+
+17:14.200 --> 17:17.000
+und damit eben auch einen Großteil unserer Lebensrealität schieben wollen,
+
+17:17.000 --> 17:22.400
+ist dieses ganze Minderheitenschutz und politische Diskurs, das muss weg.
+
+17:22.400 --> 17:26.000
+Es gibt einfach Code und der läuft und das so muss das sein.
+
+17:26.000 --> 17:28.800
+Und die Leute, die halt den Code schreiben können, die entscheiden das halt.
+
+17:28.800 --> 17:32.600
+Und die anderen sollen halt have fun staying poor,
+
+17:32.600 --> 17:37.000
+sollen halt damit leben, dass sie halt nur noch Opfer und so das Ganze sind.
+
+17:37.000 --> 17:39.600
+Und das ist natürlich jetzt auch ein sehr Extremfall.
+
+17:39.600 --> 17:42.000
+Wenn man gerade sich so die extremen Bitcoiner anguckt,
+
+17:42.000 --> 17:44.600
+wie die so sprechen über ihre Zukunftsvision, wo wollen die hin?
+
+17:44.600 --> 17:47.800
+Die Zukunftsvision ist da ja, es gibt ja kein Geld mehr, also kein richtiges mehr,
+
+17:47.800 --> 17:52.400
+was wir so Euro, Schweizer Franken, Dollar, was man sich vorstellen kann,
+
+17:52.400 --> 17:54.400
+sondern es gibt nur noch Bitcoin.
+
+17:54.400 --> 17:56.800
+Und weil sie ja früh dran sind und schon Bitcoin haben,
+
+17:56.800 --> 18:00.000
+müssen alle anderen sich ja bei ihnen immer Bitcoin leihen.
+
+18:00.000 --> 18:02.200
+Das heißt, sie werden halt die neue herrschende Klasse,
+
+18:02.200 --> 18:05.400
+weil sie halt dieses knappe Asset haben und alle anderen sind ihnen unterworfen
+
+18:05.400 --> 18:08.400
+und müssen sich halt ihnen unterordnen, ihrem Willen unterordnen.
+
+18:08.400 --> 18:12.800
+Das ist ja das verhältnismäßig explizit formulierte Sichtweise.
+
+18:12.800 --> 18:16.200
+Und mir ist unklar, wie man das nicht als eine rechte,
+
+18:16.200 --> 18:18.800
+wenn nicht gar faschistische Denke wahrnehmen kann.
+
+18:18.800 --> 18:24.400
+Das ist halt eine ganz klare Strategie der Unterdrückung von den Großteilen der Bevölkerung.
+
+18:24.400 --> 18:28.000
+Und das jetzt als positive Utopie, weil halt der Staat nicht mehr eingreifen kann
+
+18:28.000 --> 18:30.600
+und vielleicht Geld umverteilen könnte gesehen.
+
+18:30.600 --> 18:33.800
+Deshalb ist das eigentlich meine Hauptkritik.
+
+18:33.800 --> 18:40.000
+Das ist gar nicht so, dass jede Person das so am tiefsten Grunde ihres Herzens so glaubt.
+
+18:40.000 --> 18:41.000
+Die hasst er auch.
+
+18:41.000 --> 18:46.000
+Du hast da auch Rechtsradikale, die sich damit finanzieren oder eben auch
+
+18:46.000 --> 18:50.400
+insbesondere ökonomisch halt komplett rechte Ideologien von der Stadt darf überhaupt nicht eingreifen.
+
+18:50.400 --> 18:52.400
+Das Einzige, was der Staat vielleicht noch dafür sicherstellen darf,
+
+18:52.400 --> 18:55.800
+dass es einen Markt gibt und alles andere darf der überhaupt nicht regulieren.
+
+18:55.800 --> 18:57.000
+Die hast du auch.
+
+18:57.000 --> 19:02.200
+Aber in vielen Stellen gibt es da einfach auch so extrem viel Unreflektiertheit,
+
+19:02.200 --> 19:04.600
+die dann aber genau diesen Ideen Vorschub leistet.
+
+19:04.600 --> 19:08.400
+Man sieht halt nicht, was man da sich auch mit in den Rucksack gesteckt hat.
+
+19:08.400 --> 19:11.400
+Es wird halt gesagt, okay, wir bauen da jetzt dezentrale Datenbanken,
+
+19:11.400 --> 19:14.000
+nicht mehr wie bei Facebook, sondern alle können mitmachen.
+
+19:14.000 --> 19:18.400
+Dann wird gesagt, das sei demokratisierend, weil diese Worte gleichgesetzt werden,
+
+19:18.400 --> 19:22.400
+wobei das eine ist ein technisches Architekturprinzip und das andere ist ein politischer Wert.
+
+19:22.400 --> 19:25.800
+Das sind schon konzeptionell offensichtlich andere Dinge.
+
+19:25.800 --> 19:30.400
+Und dann sagen wir dir, ja, aber das ist doch demokratisierend, was wir da tun,
+
+19:30.400 --> 19:35.600
+ohne zu verstehen, ja, aber was du da tust, ist die Grundlage unserer Demokratie,
+
+19:35.600 --> 19:40.600
+unserer politischen Diskussion und überhaupt deiner Mitbestimmung an der Welt zu unterminieren
+
+19:40.600 --> 19:43.200
+und dir eigentlich die Möglichkeit zu nehmen, an der Stelle mitzusprechen,
+
+19:43.200 --> 19:47.000
+weil du kannst eben nicht mehr, selbst wenn es nur Wahlen sind, eingreifen.
+
+19:47.000 --> 19:48.400
+Weil, nee, Wahlen gibt es nicht mehr.
+
+19:48.400 --> 19:50.400
+Es wird halt abgestimmt, wer am meisten Token hat.
+
+19:50.400 --> 19:54.600
+Also ich habe tausend Token, du hast einen Token, dann können wir mal abstimmen
+
+19:54.600 --> 19:57.800
+und ganz demokratisch festlegen, wie es jetzt weitergeht.
+
+19:57.800 --> 20:02.800
+Und deshalb spreche ich halt auch so laut und so viel darüber,
+
+20:02.800 --> 20:08.200
+weil eben genau diese Widersprüche, also es wird über Demokratisierung gesprochen,
+
+20:08.200 --> 20:11.000
+aber es wird ein System gebaut, was nicht demokratisch ist,
+
+20:11.000 --> 20:17.800
+sondern was, wenn im besten Fall noch plutokratisch ist, das ist mir so wichtig, das aufzuzeigen.
+
+20:17.800 --> 20:21.200
+Und das ist neben der Tatsache, dass das schlechte Technologie ist, die nicht skaliert.
+
+20:21.200 --> 20:24.200
+Okay, whatever, wir haben auch andere schlechte Technologie.
+
+20:24.200 --> 20:25.600
+Da müsste man sich jetzt nicht so aufregen.
+
+20:25.600 --> 20:27.600
+Das ist ein bisschen doof, aber okay.
+
+20:27.600 --> 20:34.600
+Aber diese politische Realität, die da als Infrastrukturschicht ins ganze Web gelegt werden soll,
+
+20:34.600 --> 20:38.600
+und das ist ja diese, es gibt diesen Begriff des Web 3, der in dieser Szene verwendet wird,
+
+20:38.600 --> 20:44.600
+sie wollen halt wirklich das Internet, was wir alle benutzen, ändern und zwar radikal ändern.
+
+20:44.600 --> 20:51.600
+Sodass diese Ideologien, die sie haben, Code is Law, alles ist nur noch eine Transaktion zwischen Personen.
+
+20:51.600 --> 20:56.600
+Es gibt eigentlich nur noch einen großen Markt und alles, was Menschen miteinander tun, ist Markt und Handel.
+
+20:56.600 --> 21:01.600
+Und alles, was eben nicht digitalisierbar ist oder was auf politischen Diskurs basiert, findet halt nicht mehr statt,
+
+21:01.600 --> 21:03.600
+gibt es halt nicht mehr.
+
+21:03.600 --> 21:06.600
+Das ist nach meiner Wahrnehmung sehr gefährlich.
+
+21:06.600 --> 21:11.600
+Natürlich schaffen die es nicht, alle Demokratien jetzt durch ihre technische Infrastruktur abzuwickeln,
+
+21:11.600 --> 21:16.600
+aber sie leisten halt Ideologie einen Vorschub und sie machen an Stellen was kaputt.
+
+21:16.600 --> 21:21.600
+Und sie normalisieren halt ein Handeln, was dann auch politisch wieder wirksam wird.
+
+21:21.600 --> 21:24.600
+Weil wenn man irgendwann sagt, okay, wir haben doch da in der Technik sehen wir auch,
+
+21:24.600 --> 21:27.600
+alles ist nur eine Transaktion, so haben wir jetzt das Internet umgebaut,
+
+21:27.600 --> 21:30.600
+dann ist es auch einfacher für die reale Welt zu argumentieren und für die physische Welt,
+
+21:30.600 --> 21:33.600
+das ist jetzt ja auch real, für die physische Welt zu argumentieren.
+
+21:33.600 --> 21:36.600
+Guck mal, dann ist hier abwärts machen wir hier auch alles nur noch transaktional.
+
+21:36.600 --> 21:41.600
+Ab jetzt kriegst du halt deinen Token zum Wählen und das ist ab jetzt Politik.
+
+21:41.600 --> 21:46.600
+Und deshalb ist das, glaube ich, ein sehr gefährlicher Pfad, der sich da bildet
+
+21:46.600 --> 21:50.600
+und bei dem man jetzt frühzeitig dafür sorgen muss, dass der wieder zuwächst
+
+21:50.600 --> 21:54.600
+und für uns wieder auf die Straße begeben und mal gucken, wo es dann hingeht.
+
+21:54.600 --> 21:59.600
+Es ist schon eine Weile her, dass ich selber auch so ein bisschen genauer mal mir
+
+21:59.600 --> 22:02.600
+diese verschiedenen Pfade, die da beschritten werden, angeguckt habe.
+
+22:02.600 --> 22:05.600
+Insofern wird mich auch so ein bisschen nochmal interessieren,
+
+22:05.600 --> 22:07.600
+was ist denn aktuell der Stand der Dinge?
+
+22:07.600 --> 22:11.600
+Also ich habe schon mitgekriegt am Rande, dass auf jeden Fall es jetzt auch wirklich
+
+22:11.600 --> 22:16.600
+konzertierte Bestrebungen gibt, zum Beispiel Lobbying zu betreiben
+
+22:16.600 --> 22:18.600
+im US-amerikanischen Kongress und so weiter.
+
+22:18.600 --> 22:23.600
+Also es wird sozusagen schon sowas wie, wenn man so will, eine nächste Phase eingeläutet,
+
+22:23.600 --> 22:31.600
+die auch dezidiert eigentlich versucht, eine eben politische Agenda dann doch eben voranzutreiben.
+
+22:31.600 --> 22:36.600
+Und wie gesagt, die Zeit, in der ich das ein bisschen genauer beobachtet habe,
+
+22:36.600 --> 22:38.600
+ist schon ein paar Jahre verstrichen.
+
+22:38.600 --> 22:42.600
+Insofern würde mich interessieren, hast du da in Bezug auf zum Beispiel eben
+
+22:42.600 --> 22:46.600
+dieses Vorantreiben der politischen Agenda so ein bisschen Updates,
+
+22:46.600 --> 22:48.600
+was da derzeit der Stand der Dinge ist?
+
+22:48.600 --> 22:53.600
+Sam Bankman Freed, dem eine der großen Exchanges gehört,
+
+22:53.600 --> 22:59.600
+FDX heißt die, und er gilt auch als einer der Vordenker oder der Brainiacs dieser Krypto-Szene,
+
+22:59.600 --> 23:03.600
+so Sam Bankman Freed ist a big deal, auch wenn er noch sehr jung ist.
+
+23:03.600 --> 23:07.600
+Der sagt zum Beispiel, dass er jetzt in den nächsten Wahlen in den USA,
+
+23:07.600 --> 23:11.600
+also da sind ja gerade Midterms, da wird so die halben Parlamente neu besetzt.
+
+23:12.600 --> 23:16.600
+Und auch in den Wahlen danach, da wird ja neuer Präsident gewählt und so weiter.
+
+23:16.600 --> 23:19.600
+Er will eine Milliarde Dollar ausgeben an Spenden.
+
+23:19.600 --> 23:21.600
+Eine Milliarde.
+
+23:21.600 --> 23:26.600
+Damit kann man sich schon eine ganze Menge, damit kann man eine ganze Menge Wahlkämpfe irgendwo gewinnen.
+
+23:26.600 --> 23:28.600
+In den USA korreliert das jetzt sehr stark.
+
+23:28.600 --> 23:31.600
+Also erreiche ich Leute, schaffe ich es, dass sie wählen und so weiter.
+
+23:31.600 --> 23:34.600
+Und er ist nicht der Einzige, der da viel, viel Geld auskippt.
+
+23:34.600 --> 23:37.600
+Und jetzt kann man sagen, gut, das ist ja auch sein demokratisches Recht,
+
+23:37.600 --> 23:40.600
+alle dürfen spenden, das ist ja in den USA so konstruiert.
+
+23:40.600 --> 23:43.600
+Das ist die beste Demokratie, die man kaufen kann.
+
+23:43.600 --> 23:48.600
+Aber das ist ja nicht nur auf die USA beschränkt,
+
+23:48.600 --> 23:52.600
+sondern wir sehen natürlich auch Lobbying in Deutschland, in Europa.
+
+23:52.600 --> 23:54.600
+Das funktioniert ein bisschen anders auf einer anderen Ebene,
+
+23:54.600 --> 23:56.600
+weil es nicht so direkt funktioniert mit Spenden.
+
+23:56.600 --> 23:59.600
+Aber es wird halt hier sehr viel über dieses Zukunfts-Narrativ gemacht.
+
+23:59.600 --> 24:01.600
+Und das ist Technologie, da musst du dabei sein.
+
+24:01.600 --> 24:05.600
+Wir sehen, dass Gruppierungen, die eigentlich kritisch sein müssten,
+
+24:05.600 --> 24:09.600
+wie zum Beispiel Academia, an vielen Stellen nichts dazu sagt oder wenig dazu sagt,
+
+24:09.600 --> 24:13.600
+weil man halt hofft, damit kann man sich halt seine Professur doch nochmal rausschälen.
+
+24:13.600 --> 24:16.600
+Und wie mal Blockchain-Professur, weil die anderen Professuren sind ja alle schon belegt.
+
+24:16.600 --> 24:20.600
+Die KI-Professuren sind jetzt alle neu verteilt, die sind alle 40, die leben noch lange.
+
+24:20.600 --> 24:24.600
+Also baust du dir halt ein neues Ding, sag dir ja Blockchain, dann machen wir das.
+
+24:24.600 --> 24:26.600
+Das müssen wir jetzt untersuchen, weil das so wichtig ist.
+
+24:26.600 --> 24:30.600
+Wo du, wenn du drauf guckst, Blockchain, das ist eine Linked-List mit einem Kult.
+
+24:30.600 --> 24:32.600
+Da braucht man nicht viele Untersuchungen.
+
+24:32.600 --> 24:36.600
+Aber damit kann man natürlich an der Stelle auch, und das ist natürlich politisch tätig sein,
+
+24:36.600 --> 24:41.600
+also zu sagen, ich schaffe eine Technologie, die durchaus formend auf eine Gesellschaft einwirken kann,
+
+24:41.600 --> 24:45.600
+auf die fundamentalen Glaubenssätze einer Gesellschaft,
+
+24:45.600 --> 24:50.600
+weil sie strukturiert wie bestimmte ökonomische und eben auch soziale Prozesse ablaufen.
+
+24:50.600 --> 24:53.600
+Wenn ich schaffe, dass ich da bestimmte kritische Stimmen ausschalte
+
+24:53.600 --> 24:57.600
+oder ihnen zumindest einen incentiviere, sich nicht kritisch zu positionieren,
+
+24:57.600 --> 25:00.600
+um eventuell noch Fördergeld zu bekommen.
+
+25:00.600 --> 25:04.600
+Wenn ich Leuten, die Technik nicht verstehen, aber die halt in der Politik sitzen und Entscheidungen versagen,
+
+25:04.600 --> 25:09.600
+dann kann man sagen, das musst du machen, weil Arbeitsplätze oder weil damit geht dann Digitalisierung ganz einfach.
+
+25:09.600 --> 25:16.600
+Das sehen wir halt extrem stark auch im deutschen und auch im europäischen Sektor,
+
+25:16.600 --> 25:22.600
+weil einfach in diesem Bereich sehr, sehr viel Geld herumschwimmt immer noch.
+
+25:22.600 --> 25:25.600
+Man weiß nie so genau wie viel, also die Summen, die da mal stehen, das ist alles wert,
+
+25:25.600 --> 25:31.600
+das sind komplett aufgeblasen und nicht real, aber es ist schon Geld da, die haben schon Geld eingesammelt.
+
+25:31.600 --> 25:34.600
+Und damit kann man halt schon sehr tätig werden. Man kann halt einen Lobbyisten bezahlen,
+
+25:34.600 --> 25:38.600
+der dann auch in Brüssel sitzt und den Leuten einen erzählt, bitte schreibt immer Blockchain mit rein,
+
+25:38.600 --> 25:41.600
+wenn es um Ausschreibung geht, bitte etabliert.
+
+25:41.600 --> 25:45.600
+Im Koalitionsvertrag der Bundesregierung, der aktuellen Bundesregierung in Deutschland,
+
+25:45.600 --> 25:50.600
+der Ampelkoalition, steht drin, dass das Grundbuch bitte auf eine Blockchain geschoben werden muss.
+
+25:50.600 --> 25:52.600
+Das hat die FDP reingeschrieben.
+
+25:52.600 --> 26:00.600
+Koalitionsverträge sind immer so ein bisschen whatever, aber da geht es gar nicht um, ob die diese Runde machen.
+
+26:00.600 --> 26:02.600
+Jemand hat es geschafft, dass es drin steht.
+
+26:02.600 --> 26:06.600
+Wahrscheinlich war es Frank Scheffler von der FDP, der sich so als der Schutzheilige der Blockchain in Deutschland sieht,
+
+26:06.600 --> 26:08.600
+aber das macht ja was.
+
+26:08.600 --> 26:13.600
+Am Ende, irgendwann musst du halt diese blöde Blockchain überall reinbauen, weil es halt im Förderantrag steht.
+
+26:13.600 --> 26:18.600
+Und dann irgendwann ist es normal, dass alles über diese automatisierten Smart Contracts laufen muss,
+
+26:18.600 --> 26:23.600
+was halt immer bedeutet, man hat kein Andu mehr, man hat eben diese ganzen Checks and Balances,
+
+26:23.600 --> 26:29.600
+die über Jahrzehnte, Jahrhunderte gebaut wurden, werden halt an der Stelle versucht zu unterlaufen.
+
+26:29.600 --> 26:31.600
+Regulierung wird versucht zu unterlaufen.
+
+26:31.600 --> 26:37.600
+Als ich 2018 im Bundestag war als Gutachter zum Thema Blockchain im Ausschuss Digital Agenda,
+
+26:37.600 --> 26:45.600
+da forderten halt die Blockchain Lobbyisten, dass sie, sie nannten das regulative Sandboxes haben müssten
+
+26:45.600 --> 26:47.600
+für Blockchain-Projekte.
+
+26:47.600 --> 26:49.600
+Was das bedeutet, sind rechtsfreie Räume.
+
+26:49.600 --> 26:54.600
+Bei denen aufgefallen ist, dass die DSGVO ist halt hässlich, das hat halt Grundrechtslevel.
+
+26:55.600 --> 27:00.600
+Also darf man gar keine personenbezogenen Daten in eine Datenbank schreiben, die, wo man nicht löschen kann,
+
+27:00.600 --> 27:02.600
+weil es gibt ein Löschrecht.
+
+27:02.600 --> 27:06.600
+Also sagten sie, könntet ihr bitte diese Grundrechte für Blockchain aushebeln, weil das geht bei uns nicht.
+
+27:06.600 --> 27:09.600
+Aber wir müssen damit spielen dürfen.
+
+27:09.600 --> 27:16.600
+Und das sind halt, das wurde auch, da wurde damals noch die Große Koalition, also die schwarz-rote Koalition in Deutschland,
+
+27:16.600 --> 27:19.600
+das wurde alles so, ja, ja, müssen wir mal gucken, wie wir das dann so machen.
+
+27:19.600 --> 27:24.600
+Und das sehen wir halt auch so, nicht auf so einer krassen Ebene in Deutschland, aber wir sehen das halt auch schon.
+
+27:24.600 --> 27:29.600
+Also da wird halt jemand mit weiter, wird so ein Blockchain-Campus mit einem zweistelligen Millionenbetrag
+
+27:29.600 --> 27:31.600
+so von der Bundesregierung gefördert.
+
+27:31.600 --> 27:35.600
+Aber wenn es darum geht, den Leuten irgendwie für die Gaspreise unter die Arme zu greifen, ist keine Kohle da.
+
+27:35.600 --> 27:41.600
+Da ist halt auch so ein bisschen, da wird so ein bisschen absurde Technologieförderung, Förderung betrieben.
+
+27:42.600 --> 27:49.600
+Ich sah es interessant, aber gestern dieses, natürlich haben viele dieser großen Crypto-Exchanges,
+
+27:49.600 --> 27:54.600
+Sam Bank und Freed, denen geht es vor allen Dingen darum, dass eben nicht kryptoreguliert wird.
+
+27:54.600 --> 27:58.600
+Dass das Ding nicht plötzlich wie Aktien behandelt wird, mit allen Transparenzpflichten und so weiter.
+
+27:58.600 --> 28:01.600
+Das will er halt verhindern, er will das, oh, das ist das ganz anderes.
+
+28:01.600 --> 28:06.600
+Deshalb, deshalb sponsert er halt irgendwelche Politikerinnen und schickt die halt in die Bahn.
+
+28:06.600 --> 28:10.600
+Okay, das ist, ich verstehe das, ich finde es nicht richtig, aber ich verstehe, warum er das tut.
+
+28:10.600 --> 28:13.600
+Aber auch da wieder, da satteln sich halt Leute drauf.
+
+28:13.600 --> 28:18.600
+Ich sah gestern ein Interview mit Curtis Yavin, den Namen, wenn man den nicht kennt,
+
+28:18.600 --> 28:21.600
+tritt auch manchmal auf als Minnicious Mold Bug.
+
+28:21.600 --> 28:28.600
+Und er ist im Prinzip der Gründer der Neoreactionaries, des Dark Web, des Intellectual Dark Web in den USA.
+
+28:28.600 --> 28:33.600
+Er argumentiert gegen Demokratie, er argumentiert für Monarchie.
+
+28:33.600 --> 28:37.600
+Und er sagt, die einzige Möglichkeit, also Menschen haben nicht alle gleiche Rechte,
+
+28:37.600 --> 28:40.600
+Menschen sind noch nicht gleich und es sind noch nicht alle Rassen gleich gut.
+
+28:40.600 --> 28:44.600
+Und es gibt sehr klar bestimmte Rassen, die jetzt am König auswählen müssen, der ab jetzt das ganze Ding steuern muss.
+
+28:44.600 --> 28:50.600
+Der sagt auch, super, dass da Kohle ausgekippt wird für genau diese Systeme, die wir brauchen.
+
+28:50.600 --> 28:56.600
+Das heißt, er ist halt sehr anknüpfungsfähig für eben auch insbesondere die neue Rechte in den USA.
+
+28:56.600 --> 29:00.600
+Die haben selber vielleicht die Kohle gar nicht, um sie reinzukippen, sind aber sehr dankbar,
+
+29:00.600 --> 29:06.600
+dass über diesen Pfad auch Ideen, die sie eh schon verfolgen, plötzlich hochfähig gemacht werden.
+
+29:06.600 --> 29:11.600
+Und das sehen wir. Ich habe vor allem jetzt die US-Welt und Europa im Blick.
+
+29:11.600 --> 29:16.600
+Aber wir sehen auch, wie zum Beispiel in Afrika plötzlich bei irgendwelchen Staaten
+
+29:16.600 --> 29:22.600
+Bitcoin als offizielles Zahlungsmittel neben den anderen offiziellen Zahlungsmitteln zugelassen wird.
+
+29:22.600 --> 29:27.600
+Und man sich fragt, warum? Also ihr habt für die Hälfte eurer Bevölkerung keinen Strom.
+
+29:27.600 --> 29:34.600
+Und vorher kommt halt jemand von einem großen Exchange rein, spricht halt mit Politikern und plötzlich wird das Ding der Legal Tender.
+
+29:34.600 --> 29:40.600
+Warum? Das sind schon einfach interessante Bewegungen, weil man halt so viel Geld hat
+
+29:40.600 --> 29:45.600
+und Geld macht einen halt relevant in diesen Spaces, die man einfach tun kann.
+
+29:45.600 --> 29:54.600
+Jetzt hast du viel gesprochen eben über eine bestimmte Seite oder ein bestimmtes Segment dieser Szene, sage ich mal.
+
+29:54.600 --> 30:00.600
+Und auch eben vielleicht so einen ideologischen Bodensatz könnte man vielleicht auch sagen.
+
+30:00.600 --> 30:05.600
+Aber es gibt eben innerhalb dieses Raumes ja nicht nur diese zynischen Spekulanten,
+
+30:05.600 --> 30:12.600
+die rechtslibertär Verbremden und Kryptofaschisten, die FOMO-Kids und die solutionistischen Technik-Deterministen,
+
+30:12.600 --> 30:18.600
+sondern es gibt eben auch, wenngleich das eine kleine Nisch ist, zugegeben, ja.
+
+30:18.600 --> 30:26.600
+Aber es gibt tatsächlich auch solche, die dann aufrichtig nach, sagen wir mal, wünschenswerten systemischen Alternativen suchen
+
+30:26.600 --> 30:30.600
+und eben auch meinen, zum Beispiel mit sogenannten DAOs, die du ja schon erwähnt hattest,
+
+30:30.600 --> 30:35.600
+die Decentralized Autonomous Organizations, solche Alternativen auch in die Welt bringen zu können.
+
+30:35.600 --> 30:42.600
+Und das hat manchmal so ein bisschen eine komische oder vielleicht auch ein bisschen tragische Note, könnte man sagen,
+
+30:42.600 --> 30:48.600
+wenn da Leute versuchen, den Postkapitalismus in der Ethereum-Blockchain umzusetzen.
+
+30:48.600 --> 30:54.600
+Aber ich finde es trotzdem wichtig, dass man eben, dass man eigentlich diese soziotechnische Imagination,
+
+30:54.600 --> 30:58.600
+die da eben auch mit im Spiel ist, dass man die ernst nimmt, ja.
+
+30:58.600 --> 31:05.600
+Also, dass man sich auch dieses Bedürfnis anguckt, das sich dadurch artikuliert und eben dieses ernst nimmt, ja.
+
+31:05.600 --> 31:10.600
+Und jetzt kann man hingehen und diesem Imaginären zugrunde liegenden Prämissen kritisieren.
+
+31:10.600 --> 31:12.600
+Und das sollte man auch, ganz wichtig.
+
+31:12.600 --> 31:17.600
+Aber es geht eben dann auch, finde ich, um die Anschlussfrage, die dann eigentlich danach kommt.
+
+31:17.600 --> 31:20.600
+Was gibt es denn für Alternativen?
+
+31:20.600 --> 31:25.600
+Also was ist positiv gewendet, dann ein Angebot, was man dem zur Hand geben kann,
+
+31:25.600 --> 31:29.600
+wohin sich dieses Bedürfnis eben auch kanalisieren kann?
+
+31:29.600 --> 31:32.600
+Also man könnte das vielleicht so ein bisschen auf den Punkt gebracht,
+
+31:32.600 --> 31:36.600
+dann auch auf die auf dich jetzt personalisierte Frage vielleicht bringen.
+
+31:37.600 --> 31:43.600
+Was sind denn zum Beispiel soziotechnische Imaginationen, zu denen du Ja sagen würdest?
+
+31:43.600 --> 31:47.600
+Ja, daraus sind in der Hinsicht wirklich ein schönes Beispiel.
+
+31:47.600 --> 31:52.600
+Weil ja, es gibt absoluter ÜberzeugungstäterInnen, die da alles Mögliche versuchen.
+
+31:52.600 --> 32:00.600
+Und an vielen Stellen ist ja sogar die Problemanalyse, die vielen dieser Web3 FürsprecherInnen zugrunde liegt,
+
+32:00.600 --> 32:03.600
+die sie zugrunde legt, ist ja richtig.
+
+32:03.600 --> 32:06.600
+Das Web, das wir jetzt haben, ist zentralisiert.
+
+32:06.600 --> 32:11.600
+Also Facebook hat den Social Graph, Google hat den Search Graph, Amazon hat den Shopping Graph.
+
+32:11.600 --> 32:16.600
+Alle haben so ihr Ding abgesteckt und am Ende entscheiden die halt da drin, was passiert.
+
+32:16.600 --> 32:20.600
+Und wenn dann was anderes hochkommt, wird es halt gekauft und einverleibt an der Stelle.
+
+32:20.600 --> 32:25.600
+Also das ist ja offensichtlich ein Problem, was wir haben und dem auch sehr offensichtlich
+
+32:25.600 --> 32:29.600
+sich die Staaten scheinbar sehr machtlos gegenüber sehen.
+
+32:29.600 --> 32:33.600
+Ich sehe da sehr wenig an kreativen Umgang damit.
+
+32:33.600 --> 32:35.600
+Das wird dann vielleicht noch beklagt und so weiter.
+
+32:35.600 --> 32:37.600
+Und dann sagt man, wir hätten gerne europäisches Facebook.
+
+32:37.600 --> 32:41.600
+Aber was das soll, kann einem auch keiner so richtig sagen.
+
+32:41.600 --> 32:46.600
+Oder wie das eine bessere Lösung wäre oder wie das nachhaltig das Problem ist.
+
+32:46.600 --> 32:50.600
+Genauso wie auch diese Frage, okay, könnte das nicht eine Möglichkeit sein,
+
+32:50.600 --> 32:54.600
+die sich KünstlerInnen oder andere Dinge finanzieren können, die sich sonst nicht finanzieren?
+
+32:54.600 --> 32:56.600
+Das ist ja alles durchaus legitim.
+
+32:56.600 --> 32:58.600
+Diese Probleme, die benannt werden, sind richtig.
+
+32:58.600 --> 33:01.600
+Und an die müssen wir ran, auf jeden Fall.
+
+33:01.600 --> 33:05.600
+Auch wenn gesagt wird, dass viele Dinge eben nicht demokratisch genug sind.
+
+33:05.600 --> 33:11.600
+Wenn sowas wie, wer alter Mann, sei jetzt Facebook als Beispiel,
+
+33:11.600 --> 33:14.600
+heute sind die Leute wahrscheinlich auf Instagram, Facebook, was ja Meta gehört,
+
+33:14.600 --> 33:16.600
+von da ist es doch same shit.
+
+33:16.600 --> 33:18.600
+Die Tatsache, dass halt diese sozialen Plattformen, die wir nutzen,
+
+33:18.600 --> 33:24.600
+dass es da eben keine demokratische Teilhabe gibt, obwohl die eben nicht irgendeine Firma sind,
+
+33:24.600 --> 33:29.600
+zu der ich, wenn ich jetzt Schuhe kaufe, kann ich mir von 1.000 Firmen Schuhe kaufen.
+
+33:29.600 --> 33:32.600
+Und wenn die eine mir nicht passt, dann hält man das dann kein Problem.
+
+33:32.600 --> 33:33.600
+Das kann ich ja nicht machen.
+
+33:33.600 --> 33:35.600
+Also ich kann zu Twitter gehen oder ich kann halt nichts machen.
+
+33:35.600 --> 33:38.600
+Ja, Mastodon und mit drei Nerds reden.
+
+33:38.600 --> 33:40.600
+Oder ich kann zu Facebook gehen, wo halt alle sind.
+
+33:40.600 --> 33:43.600
+Oder ich baue halt mir da auch irgendwas anderes auf, wo halt kein Schwein ist.
+
+33:43.600 --> 33:46.600
+Die Tatsache, dass wir da halt so wenig Attentive haben, sorgt halt dafür,
+
+33:46.600 --> 33:50.600
+dass wir da politisch eingreifen müssen.
+
+33:50.600 --> 33:53.600
+Aber da, im Prinzip zeigt sich da schon mein unterschiedlicher Zugang.
+
+33:53.600 --> 33:54.600
+Für mich ist das nicht ein Wirk.
+
+33:54.600 --> 33:56.600
+Wir finden da jetzt keine Wundertechnologie,
+
+33:56.600 --> 33:59.600
+selbst wenn Blockchains so wunderhafte Eigenschaften hätten,
+
+33:59.600 --> 34:01.600
+wie das es ihnen gerne zugeschrieben wird.
+
+34:01.600 --> 34:03.600
+Und ich erhobe es gerne nochmal.
+
+34:03.600 --> 34:04.600
+Das haben sie nicht.
+
+34:04.600 --> 34:07.600
+Das ist technisch auch nicht advanced shit, was da passiert.
+
+34:07.600 --> 34:09.600
+Das ist wirklich trivialer Kram.
+
+34:09.600 --> 34:14.600
+Man kann eine Blockchain in 300 Zeilen Python schreiben und das ist faktisch äquivalent.
+
+34:14.600 --> 34:17.600
+Selbst wenn es diese Technologie gäbe, ist das nicht der Pfad.
+
+34:17.600 --> 34:20.600
+Weil wir haben ja die letzten, ja, man kann Jahrzehnte sagen,
+
+34:20.600 --> 34:23.600
+haben wir extrem viel Technologie ausgekippt.
+
+34:23.600 --> 34:25.600
+Wir haben gesagt, wie macht es das Internet?
+
+34:25.600 --> 34:26.600
+Dann haben wir das aufgemacht.
+
+34:26.600 --> 34:29.600
+Es wurde ja sogar sehr bewusst entschieden, ja, wir machen das kommerziell.
+
+34:29.600 --> 34:32.600
+Das war ja zu Beginn auch eine offene Frage.
+
+34:32.600 --> 34:35.600
+Lässt man eine kommerzielle Entität und privatisiert alles?
+
+34:35.600 --> 34:38.600
+Kommerzielle Entitäten zu und privatisiert alles?
+
+34:38.600 --> 34:39.600
+Oder will man das anders organisieren?
+
+34:39.600 --> 34:40.600
+Man hat sich sehr bewusst entschieden,
+
+34:40.600 --> 34:45.600
+nee, das soll marktbasiert, privatisiert, kommerziell sein.
+
+34:45.600 --> 34:49.600
+Und dann hat man da ja alle Leute, alle konnten halt alles ausprobieren.
+
+34:49.600 --> 34:52.600
+Und merkt da mal diese Tendenz zu Zentralisierung.
+
+34:52.600 --> 34:53.600
+Das wusste schon Adam Smith.
+
+34:53.600 --> 34:55.600
+Das hat man da jetzt auch gesehen.
+
+34:55.600 --> 34:57.600
+Alles hat sich halt zentralisiert.
+
+34:57.600 --> 34:59.600
+Wir haben also diesen Ansatz, wir kippen jetzt in Technologie,
+
+34:59.600 --> 35:02.600
+die auch vielleicht interessante, vielleicht auch tolle Eigenschaften hat,
+
+35:02.600 --> 35:04.600
+wie das Internet kam und alle dachten so,
+
+35:04.600 --> 35:07.600
+ich kann mit Leuten überall auf der Welt in Echtzeit sprechen.
+
+35:07.600 --> 35:12.600
+Ich kann Musik, alle Musik der Welt ist in meinem Napster vorhanden.
+
+35:12.600 --> 35:14.600
+Oder heute in Spotify oder wie auch immer.
+
+35:14.600 --> 35:20.600
+Diese krassen technischen Möglichkeiten, die aufgespannt wurden,
+
+35:20.600 --> 35:22.600
+das Spiel haben wir jetzt gerade gemacht.
+
+35:22.600 --> 35:24.600
+Und wir haben dabei aber immer vergessen,
+
+35:24.600 --> 35:26.600
+so diese politische Ebene mitzuziehen.
+
+35:26.600 --> 35:30.600
+Also du sagst ja gerade sozio-technische Imagineries.
+
+35:30.600 --> 35:33.600
+Wir haben den Sozio-Teil, haben wir nicht gemacht,
+
+35:33.600 --> 35:35.600
+haben gedacht, das löst sich schon irgendwie.
+
+35:35.600 --> 35:37.600
+Wir haben Technik und die ist cool.
+
+35:37.600 --> 35:39.600
+Heute häufig sogar etwas weniger cool,
+
+35:39.600 --> 35:42.600
+weil irgendwie so richtig interessante Dinge sieht man auch eigentlich,
+
+35:42.600 --> 35:43.600
+finde ich, sehr wenig.
+
+35:43.600 --> 35:45.600
+Also das meiste, was technisch rauskommt,
+
+35:45.600 --> 35:47.600
+ist ja gut größerer Bildschirm, dickerer Prozesse.
+
+35:47.600 --> 35:50.600
+Aber dass man wirklich nochmal geflasht ist von irgendwas,
+
+35:50.600 --> 35:52.600
+hat es jetzt auch lange nicht gegeben.
+
+35:52.600 --> 35:56.600
+Aber die Imagineries, die ich aufnehmen würde aus diesem Web3-Narrativ
+
+35:56.600 --> 35:59.600
+oder da jetzt irgendwelche Technik mitnehmen zu wollen, ist zu sagen,
+
+35:59.600 --> 36:05.600
+ja, wir haben massive Demokratisierungsdefizite in diesen Plattformen.
+
+36:05.600 --> 36:10.600
+Diese Dinge einfach so marktbasiert durch irgendwelche Firmen abwickeln zu lassen,
+
+36:10.600 --> 36:12.600
+ist offensichtlich nicht der richtige Weg.
+
+36:12.600 --> 36:17.600
+Das führt, selbst wenn man mit Monopolen kein Problem hätte,
+
+36:17.600 --> 36:23.600
+hat man dann immer das Problem, wenn man Monopolisten hat,
+
+36:23.600 --> 36:27.600
+dann hat man damit auch quasi eine private Polizei eingeführt,
+
+36:27.600 --> 36:29.600
+weil die muss ja dann anfangen, die Rechte durchzusetzen.
+
+36:29.600 --> 36:32.600
+Aber welche und wie und was ist, wenn die sich widersprechen?
+
+36:32.600 --> 36:34.600
+Wessen Rechtsstatus gilt denn dann?
+
+36:34.600 --> 36:38.600
+Im Zweifelsfall sagt Facebook, ja, wir sind US-Firma, US-Rechte gelten für uns,
+
+36:38.600 --> 36:40.600
+aber es ist ja gar nicht immer unsere Wertvorstellung.
+
+36:40.600 --> 36:42.600
+Wir in Deutschland haben ja zum Beispiel,
+
+36:42.600 --> 36:46.600
+das Leugnis des Holocausts ist für uns nicht Meinungsfreiheit.
+
+36:46.600 --> 36:49.600
+In den USA, do whatever, alles fine.
+
+36:49.600 --> 36:54.600
+Auch mit dieser Diversität auch von unseren Communities umzugehen,
+
+36:54.600 --> 36:56.600
+werden wir halt nicht über monopolisierte Plattformen
+
+36:56.600 --> 37:00.600
+in der Hand von ein paar profitorientierten Unternehmen schaffen.
+
+37:00.600 --> 37:02.600
+Und da knüpft sich sogar ein bisschen die Verbindung zu Beginn,
+
+37:02.600 --> 37:04.600
+als ich sagte, das Digital ist halt so eine schöne Möglichkeit,
+
+37:04.600 --> 37:08.600
+so die Vielfalt von uns selbst zu erkunden und auszuprobieren.
+
+37:08.600 --> 37:12.600
+Wir haben ja auch so eine Diversität in unseren Communities,
+
+37:12.600 --> 37:15.600
+in den Rechtsvorstellungen, in den Normen, die wir haben.
+
+37:15.600 --> 37:17.600
+Also das Plakativste ist natürlich,
+
+37:17.600 --> 37:20.600
+in Deutschland ist ein Foto von einer stillenden Frau,
+
+37:20.600 --> 37:22.600
+ja, das ist halt eine stillende Frau, die füttert ihr Kind.
+
+37:22.600 --> 37:23.600
+Das ist halt normal.
+
+37:23.600 --> 37:25.600
+In den USA ist das stark sexualisiert und da darf man nicht zeigen,
+
+37:25.600 --> 37:27.600
+da ist eine Brust drauf.
+
+37:27.600 --> 37:31.600
+Ein anderer Fall, den ich da in der Hinsicht ganz interessiert,
+
+37:31.600 --> 37:35.600
+ich sprach mal mit einem Maori aus Neuseeland und der sagte,
+
+37:35.600 --> 37:38.600
+also dieses europäische Verständnis von Daten,
+
+37:38.600 --> 37:41.600
+deine Daten sind dein Eigentum und du musst einwilligen,
+
+37:41.600 --> 37:42.600
+damit man was damit tut.
+
+37:42.600 --> 37:44.600
+Da war für ihn komplett absurd.
+
+37:44.600 --> 37:47.600
+Er sagte, nein, zum Beispiel mein genetischer Code,
+
+37:47.600 --> 37:50.600
+der gehört mir gar nicht, der gehört meinem Stamm,
+
+37:50.600 --> 37:52.600
+weil das ist meine Verbindung zur Historie,
+
+37:52.600 --> 37:54.600
+das ist die Geschichte unseres Stammes,
+
+37:54.600 --> 37:56.600
+die sich auch in meinem Code ausdrückt
+
+37:56.600 --> 37:58.600
+und in dem Code meiner Kinder ausdrücken wird.
+
+37:58.600 --> 38:00.600
+Ich kann da gar nicht einwilligen,
+
+38:00.600 --> 38:02.600
+ich habe überhaupt nicht das Recht dazu,
+
+38:02.600 --> 38:06.600
+weil das betrifft ja alle meine Vorfahren und die Gesamt-Community.
+
+38:06.600 --> 38:10.600
+Also einfach diese unterschiedlichen Wahrnehmungen auf die Welt,
+
+38:10.600 --> 38:13.600
+die drücken wir im Moment digital überhaupt nicht aus.
+
+38:13.600 --> 38:18.600
+Wir haben da so diesen westlich stark US geprägten Stiefel,
+
+38:18.600 --> 38:20.600
+so digitalisieren wir alles.
+
+38:20.600 --> 38:22.600
+Manchmal darf man dann für Europa oder China
+
+38:22.600 --> 38:25.600
+bachten auch manchmal noch eine eigene Suppe, so ein bisschen.
+
+38:25.600 --> 38:29.600
+Aber eigentlich haben wir genau das überhaupt nicht mitgenommen.
+
+38:29.600 --> 38:31.600
+Und da haben wir das auch nicht begriffen als,
+
+38:31.600 --> 38:34.600
+das ist ein Wert und das ist auch etwas,
+
+38:34.600 --> 38:36.600
+das ist erstens zutiefst menschliches,
+
+38:36.600 --> 38:39.600
+das ist zweitens etwas zutiefst erhaltenwertes
+
+38:39.600 --> 38:42.600
+und das ist drittens auch etwas zutiefst bereicherndes,
+
+38:42.600 --> 38:46.600
+dass wir sowas eigentlich da auch abbilden können.
+
+38:46.600 --> 38:48.600
+Wir haben nicht überlegt, wie wir das tun können.
+
+38:48.600 --> 38:52.600
+Wie baut man denn ein globales soziales Netzwerk,
+
+38:52.600 --> 38:55.600
+in dem aber bestimmte Communities vielleicht bestimmte Dinge
+
+38:55.600 --> 38:57.600
+eben nicht zulassen, die andere zulassen wollen,
+
+38:57.600 --> 39:00.600
+aber trotzdem in irgendeiner Form kommunizierbar bleiben.
+
+39:00.600 --> 39:03.600
+Weil ich kann sagen, die machen halt ihr eigenes Social Network.
+
+39:03.600 --> 39:07.600
+So Christian Mingel, da kannst du halt radikale Christen daten.
+
+39:07.600 --> 39:10.600
+Klar kannst du das machen und alle bauen sich so ihre kleine Festung,
+
+39:10.600 --> 39:13.600
+aber das ist ja nicht, wie wir als eine sich digital vernetzt
+
+39:13.600 --> 39:15.600
+und globalisierende Gesellschaft umgehen wollen.
+
+39:15.600 --> 39:18.600
+Und es ist besonders, wenn wir sehen, dass die Challenges, die wir haben,
+
+39:18.600 --> 39:20.600
+die lassen sich ja nicht mehr in Kleingruppen
+
+39:20.600 --> 39:22.600
+oder auf Nationalstaatsebene lösen.
+
+39:22.600 --> 39:24.600
+Climate Change, da können jetzt die Staaten Wettbewerb machen,
+
+39:24.600 --> 39:26.600
+aber das funktioniert halt nicht.
+
+39:26.600 --> 39:30.600
+Das ist ein globales Problem, dass eine Handvoll Staaten,
+
+39:30.600 --> 39:34.600
+inklusive der Staaten, in denen wir beide leben, viel Teil dran hatten.
+
+39:34.600 --> 39:37.600
+Viele andere haben da nichts beigetragen.
+
+39:37.600 --> 39:39.600
+Aber das müssen wir halt jetzt auch global lösen.
+
+39:39.600 --> 39:42.600
+Und deshalb ist ja das Zerrupfen der Menschheit wieder
+
+39:42.600 --> 39:45.600
+in kleine Stämme, die nicht miteinander reden.
+
+39:45.600 --> 39:46.600
+Das gibt keinen Sinn.
+
+39:46.600 --> 39:48.600
+Aber wie können wir trotzdem Communities die Möglichkeit geben,
+
+39:48.600 --> 39:50.600
+ihren Charakter nicht zu verlieren?
+
+39:50.600 --> 39:52.600
+Das ist, finde ich, eine super interessante Frage.
+
+39:52.600 --> 39:55.600
+Und natürlich die Dow-Leute behaupten, dass sie da auch irgendwie aktiv sind.
+
+39:55.600 --> 39:57.600
+Diesen sind sie aber eigentlich jetzt nicht so stark,
+
+39:57.600 --> 40:00.600
+weil da geht es auch immer nur um Tokens und Voting.
+
+40:00.600 --> 40:04.600
+Aber das ist ein bisschen eine zugrunde liegende Idee, die da drin ist.
+
+40:04.600 --> 40:09.600
+Also solche Formen von Zusammenarbeit klingt jetzt falsch,
+
+40:09.600 --> 40:12.600
+aber von Zusammenleben und miteinander interagieren,
+
+40:12.600 --> 40:16.600
+abbildbar zu machen und auch nicht als skurriles Nischenprojekt,
+
+40:16.600 --> 40:19.600
+sondern wirklich zu sagen, okay, die digitalen Infrastrukturen,
+
+40:19.600 --> 40:23.600
+die zum Beispiel soziale Netzwerke strukturieren, müssen das zulassen.
+
+40:23.600 --> 40:26.600
+Und vielleicht ist es halt eben da auch die Frage,
+
+40:26.600 --> 40:30.600
+ob eben die grundlegende Struktur von so etwas wie einem Facebook,
+
+40:30.600 --> 40:32.600
+vielleicht darf die einfach keiner Firma gehören,
+
+40:32.600 --> 40:34.600
+und vielleicht muss sie sogar dezentral sein.
+
+40:34.600 --> 40:39.600
+Also es gibt gerade ja auch mehrere Vorschläge.
+
+40:39.600 --> 40:42.600
+Es gibt ein aktuelles Buch von Ben Tarnow, heißt er, glaube ich,
+
+40:42.600 --> 40:45.600
+das sich auch damit beschäftigt, wusstet um jetzt zu sagen,
+
+40:45.600 --> 40:48.600
+hey, vielleicht ergibt es Sinn, dass man auch das Internet,
+
+40:48.600 --> 40:50.600
+was ein globales, digitales Ding ist,
+
+40:50.600 --> 40:53.600
+ein bisschen an die lokalen Communities koppelt und sagt,
+
+40:53.600 --> 40:56.600
+okay, es gibt Protokolle, wie soziale Netzwerke funktionieren,
+
+40:56.600 --> 41:00.600
+alle können mit allen sprechen, aber dein Storage wird zum Beispiel
+
+41:00.600 --> 41:02.600
+von deiner Stadt angeboten.
+
+41:02.600 --> 41:04.600
+Also ich wohne in Berlin, Berlin würde mir halt quasi
+
+41:04.600 --> 41:06.600
+mein Berlin-Facebook anbieten.
+
+41:06.600 --> 41:08.600
+Ich habe einen Ansprechpartner vor Ort, und was kaputt ist,
+
+41:08.600 --> 41:11.600
+da wird auch der regulative Rahmen irgendwie gesteckt.
+
+41:11.600 --> 41:14.600
+Ich kann trotzdem mit jedem überall auf der Welt Daten austauschen,
+
+41:14.600 --> 41:18.600
+aber es gibt in irgendeiner Form so eine Verankerung auch in meiner lokalen Community,
+
+41:18.600 --> 41:23.600
+die mir erlaubt, bestimmte mir wichtige lokale Regeln irgendwie auszudrücken,
+
+41:23.600 --> 41:25.600
+ohne mich abzuschließen von allem anderem.
+
+41:25.600 --> 41:29.600
+Und das ist, glaube ich, eine Frage, die man ernsthaft debattieren muss
+
+41:29.600 --> 41:32.600
+und da auch Vorschläge ausarbeiten muss, die jetzt nicht nur
+
+41:32.600 --> 41:35.600
+von der Hand von Techniker sagen, guck mal, wir haben eine Schnittstelle hier geschaffen,
+
+41:35.600 --> 41:38.600
+bei der aber niemand, ja auch Facebook hat ja kein Interesse dran,
+
+41:38.600 --> 41:41.600
+dass andere Leute da andocken können irgendwie.
+
+41:41.600 --> 41:44.600
+Die wollen halt das Monopol haben, also wusst man da politisch,
+
+41:45.600 --> 41:49.600
+vielleicht dürft ihr halt den Social Graph nicht haben,
+
+41:49.600 --> 41:52.600
+vielleicht brauchen wir eine andere Organisationsform,
+
+41:52.600 --> 41:56.600
+wie sowas organisiert wird, und ihr könnt auch eine Anwendung darauf anbieten,
+
+41:56.600 --> 41:59.600
+die der Newsfeed ist oder was auch immer ihr anbieten wollt.
+
+41:59.600 --> 42:05.600
+Ich glaube, das sind Denkrichtungen, die einige Leute, glaube ich, versuchen,
+
+42:05.600 --> 42:08.600
+mit daraus umzusetzen oder damit zu experimentieren,
+
+42:08.600 --> 42:12.600
+aber dabei wird einfach der, das ist auch das, was ich gerade beschrieben habe,
+
+42:12.600 --> 42:15.600
+klar ist das auch ein bisschen technische Herausforderung,
+
+42:15.600 --> 42:18.600
+eine Schnittstelle zu definieren, das zu implementieren,
+
+42:18.600 --> 42:21.600
+aber die Herausforderung ist zu sagen, okay, was sind die politischen Werte,
+
+42:21.600 --> 42:24.600
+die wir ausdrücken wollen und wie finden wir dann einen Konsens darüber,
+
+42:24.600 --> 42:27.600
+wie funktioniert Governance von so einer globalen Struktur,
+
+42:27.600 --> 42:30.600
+die sich ja auch weiterentwickeln soll, die soll ja nicht jetzt einmal hingekippt werden
+
+42:30.600 --> 42:33.600
+und dann für immer so sein, aber wie funktioniert es denn,
+
+42:33.600 --> 42:36.600
+dass man da Weiterentwicklungen durchführt, die nicht wieder
+
+42:36.600 --> 42:39.600
+Ausschlüsse erzeugen, die nicht wieder für Leute nicht ertragbar sind
+
+42:39.600 --> 42:42.600
+oder die nicht wieder Leuten ihre Rechte abschneiden.
+
+42:42.600 --> 42:47.600
+Und diese Form von Demokratisierung, von eben auch Technologieentwicklung
+
+42:47.600 --> 42:53.600
+ist, glaube ich, der wichtigste Aspekt an der Stelle.
+
+42:53.600 --> 42:54.600
+Und den kann man überall anwenden.
+
+42:54.600 --> 42:58.600
+Also ich habe jetzt Facebook oder Social Networks als ein Beispiel rausgeholt,
+
+42:58.600 --> 43:02.600
+aber das stellt sich ja in jedem anderen technischen Kontext auch.
+
+43:02.600 --> 43:04.600
+Also keine Ahnung, darfst du das wie Amazon geben?
+
+43:04.600 --> 43:05.600
+Okay, wie funktioniert denn das dann?
+
+43:05.600 --> 43:08.600
+Vielleicht hat ja die Tatsache, dass es eine Plattform gibt,
+
+43:08.600 --> 43:10.600
+bei der ich Dinge kaufen kann.
+
+43:10.600 --> 43:11.600
+Das hat auch einen Wert.
+
+43:11.600 --> 43:15.600
+Also Menschen kaufen auch deshalb viel bei Amazon, weil sie wissen, okay,
+
+43:15.600 --> 43:16.600
+wie kriegen die das hin?
+
+43:16.600 --> 43:19.600
+Ich habe Vertrauen zu dieser Plattform, die liefern.
+
+43:19.600 --> 43:23.600
+Ich weiß wahrscheinlich auch, dass die Arbeitsbedingungen in den Warehouses
+
+43:23.600 --> 43:24.600
+eine Katastrophe sind.
+
+43:24.600 --> 43:28.600
+Aber am Ende müssen die Leute auch immer eine Entscheidung treffen,
+
+43:28.600 --> 43:33.600
+was kann ich denn irgendwie, wie kann ich mein Leben halbwegs sicher abwickeln,
+
+43:33.600 --> 43:37.600
+halbwegs in der Zeit, die mir zur Verfügung steht, Dinge abwickeln?
+
+43:37.600 --> 43:42.600
+Und das Wichtigste an der Stelle, und das ist jetzt zu Beginn nicht erwähnt,
+
+43:42.600 --> 43:44.600
+aber ich nenne mich ja auch gerne Neoludit.
+
+43:44.600 --> 43:48.600
+Und die Luditen haben ja immer ein sehr schlechtes Standing.
+
+43:48.600 --> 43:51.600
+Die hassen nur Technik, die wollen alle Technik kaputt hauen,
+
+43:51.600 --> 43:53.600
+weil sie verstehen sie nicht und sind also doof.
+
+43:53.600 --> 43:58.600
+Aber eigentlich ist das der wichtigste Glaube, den Luditen schon immer hatten
+
+43:58.600 --> 44:01.600
+und die Neoluditen jetzt auch wieder sehr stark aufnehmen,
+
+44:01.600 --> 44:03.600
+zu sagen, man kann zur Technologie auch Nein sagen.
+
+44:03.600 --> 44:06.600
+Man darf auch sagen, das wollen wir nicht.
+
+44:06.600 --> 44:09.600
+Man muss nicht sagen, ja, aber das wird halt eh entwickelt.
+
+44:09.600 --> 44:11.600
+Man kann sagen, nein, wir machen das nicht.
+
+44:11.600 --> 44:14.600
+Wir verbieten, dass das passiert, wir setzen uns dagegen ein,
+
+44:14.600 --> 44:17.600
+wir machen einfach einen Strich und sagen, das ist die falsche Richtung,
+
+44:17.600 --> 44:19.600
+das ist der falsche Pfad.
+
+44:19.600 --> 44:22.600
+Wir haben es vielleicht sogar ausprobiert, haben gesehen, das ist nicht richtig.
+
+44:22.600 --> 44:26.600
+Wir haben jetzt gesagt, dass das Netz alles privatisieren, alles private,
+
+44:26.600 --> 44:29.600
+komplett marktwirtschaftlich profitorientiert unternehmen.
+
+44:30.600 --> 44:32.600
+Not the way for everything.
+
+44:32.600 --> 44:35.600
+Also zurückrudern, wie können wir das neu aufsetzen,
+
+44:35.600 --> 44:39.600
+auf eine Art und Weise, die eben uns als Einzelpersonen, uns als Communities
+
+44:39.600 --> 44:42.600
+irgendwie gerechter wird.
+
+44:42.600 --> 44:48.600
+Dazu muss man sich ein bisschen von diesem Technologie-Primat lösen,
+
+44:48.600 --> 44:52.600
+zu glauben, wenn das jemand baut, dann muss das auch so sein.
+
+44:52.600 --> 44:55.600
+Dann kann man vielleicht noch mal mit denen reden, vielleicht machen sie
+
+44:55.600 --> 45:00.600
+noch netterweise etwas ein bisschen anders, aus PR-Gründen oder weil sie es
+
+45:00.600 --> 45:02.600
+wirklich richtig finden.
+
+45:02.600 --> 45:06.600
+Dann muss man sagen, nein, die imaginaries, die sozio-technischen imaginaries,
+
+45:06.600 --> 45:11.600
+mit denen wir jetzt umgehen müssen, sind halt hart politisch zu erkämpfen.
+
+45:11.600 --> 45:16.600
+Das sind eben nicht Implementierungsvorschläge oder Patches an irgendwas,
+
+45:16.600 --> 45:22.600
+sondern das ist sehr harte Arbeit, bei der man sich auch mit Leuten unterhalten muss
+
+45:22.600 --> 45:25.600
+und denen die Augen gucken muss, die man eigentlich nicht mag.
+
+45:25.600 --> 45:32.600
+Also mir macht das ja auch keinen Spaß, mich mit Ultrakonservativen
+
+45:32.600 --> 45:34.600
+auseinandersetzen zu müssen.
+
+45:34.600 --> 45:36.600
+Das ist nicht meine Weltsicht, ich funktioniere so nicht.
+
+45:36.600 --> 45:41.600
+Okay, aber wenn man sowas bauen möchte, dann muss man halt drüber reden, okay,
+
+45:41.600 --> 45:48.600
+keine Ahnung, ihr wollt ein Netz, in dem Nackthalt nicht erlaubt sein darf
+
+45:48.600 --> 45:50.600
+für eure Community.
+
+45:51.600 --> 45:54.600
+Okay, verstehen wir, ihr wollt bestimmte Dinge irgendwie regeln,
+
+45:54.600 --> 45:57.600
+wie können wir das dann auf eine für alle faire Art und Weise bauen,
+
+45:57.600 --> 46:01.600
+sodass wir eben auch nicht nur jetzt noch kleine zensierte von einer Handvoll
+
+46:01.600 --> 46:06.600
+leutenkontrollierte Mini-Baronien bauen, in denen dann irgendwelche Warlords
+
+46:06.600 --> 46:09.600
+quasi über ihre kleinen Stämme regieren.
+
+46:09.600 --> 46:15.600
+Und das sind die großen Fragen gerade, auf die ich jetzt auch,
+
+46:15.600 --> 46:18.600
+ich hätte jetzt gerne eine fertige Antwort so, in 5 Minuten runtergenudelt,
+
+46:18.600 --> 46:24.600
+ich habe die leider nicht, aber das ist das, wo man, glaube ich,
+
+46:24.600 --> 46:28.600
+ein paar Leute aus diesem Krypto- und Web3-Umfeld mitnehmen kann,
+
+46:28.600 --> 46:31.600
+wo man sagt, okay, wir lassen jetzt mal diesen Technikkult und Blockchain-Shit,
+
+46:31.600 --> 46:34.600
+wir lassen es aber weg, und wir reden auch nochmal drüber,
+
+46:34.600 --> 46:37.600
+ob Dezentralisierung und Demokratie wirklich dasselbe sind,
+
+46:37.600 --> 46:40.600
+Spoiler, sind sie nicht.
+
+46:40.600 --> 46:42.600
+Und dann lassen wir jetzt mal an die echten Probleme gehen,
+
+46:42.600 --> 46:44.600
+lassen wir wirklich drüber reden, was sind denn die nächsten Schritte,
+
+46:44.600 --> 46:47.600
+was ist das, was wir als erstes irgendwie umbauen wollen.
+
+46:47.600 --> 46:50.600
+Und ich habe gar kein Problem, nur zu sagen, man muss im Netz Dinge radikal ändern.
+
+46:50.600 --> 46:53.600
+Absolut. Sollte man.
+
+46:53.600 --> 46:56.600
+Aber wie machen wir das auf eine Art und Weise,
+
+46:56.600 --> 47:00.600
+die nicht wie deine handvollen Nerds in Berlin oder sonst wo bauen,
+
+47:00.600 --> 47:04.600
+jetzt irgendein Casino, in dem man zufällig auch Blogposts absetzen kann.
+
+47:04.600 --> 47:07.600
+Das ist ja nicht das, was Sinn ergibt für uns.
+
+47:07.600 --> 47:11.600
+Ja, viele Fragen, also viele offene Fragen auch.
+
+47:11.600 --> 47:14.600
+Und natürlich würde mich das total interessieren,
+
+47:14.600 --> 47:18.600
+da jetzt quasi noch weiter hineinzugehen in die Frage,
+
+47:18.600 --> 47:21.600
+wie denn Antworten auf all das aussehen könnten,
+
+47:21.600 --> 47:23.600
+was du da gerade beschrieben hast.
+
+47:23.600 --> 47:26.600
+Du hast ja schon angedeutet, dass das so einfach nicht ist.
+
+47:26.600 --> 47:30.600
+Und du leider das bis zum gewissen Grad natürlich auch nicht liefern kannst.
+
+47:30.600 --> 47:33.600
+Ja, sondern man eben sich vielleicht auch über die Problemlage erst nochmal
+
+47:33.600 --> 47:36.600
+verständigen muss, um von da aus dann gemeinsam eben auch vielleicht
+
+47:36.600 --> 47:39.600
+andere Pfade zu beschreiten.
+
+47:39.600 --> 47:42.600
+Aber so ein paar Sachen kann man auf jeden Fall, glaube ich,
+
+47:42.600 --> 47:45.600
+nochmal sich angucken jetzt hier in unserem Gespräch.
+
+47:45.600 --> 47:49.600
+Eines davon wäre zum Beispiel die Frage der Legitimationsgrundlage,
+
+47:49.600 --> 47:54.600
+weil also du hattest jetzt am Anfang des Gesprächs in Bezug auf die Frage
+
+47:54.600 --> 47:57.600
+der Legitimationsgrundlage für bestimmte Formen des Vertrauens
+
+47:57.600 --> 48:02.600
+immer mal wieder Bürokratien oder staatliche Institutionen und so weiter angeführt,
+
+48:02.600 --> 48:06.600
+auf die man sich innerhalb der, so wie sie jetzt strukturiert sind,
+
+48:06.600 --> 48:09.600
+Gesellschaften eben ja verlassen könne und so.
+
+48:09.600 --> 48:13.600
+Aber es ist ja genau der Ort, an dem eine bestimmte Kritik
+
+48:13.600 --> 48:16.600
+von dieser Seite kommend ansetzt.
+
+48:16.600 --> 48:19.600
+Also dass sozusagen dem eben nicht so sei und so weiter und so fort.
+
+48:19.600 --> 48:24.600
+Du hattest jetzt im weiteren Verlauf des Gesprächs auch bestimmte Demokratiedefizite
+
+48:24.600 --> 48:30.600
+ausgewiesen, die vielleicht solchen Argumenten dann auch Vorschub leisten können
+
+48:30.600 --> 48:34.600
+oder wo man auch einfach berechtigterweise sagen muss,
+
+48:34.600 --> 48:36.600
+dass das bis zum gewissen Grad nachvollziehbar ist.
+
+48:36.600 --> 48:39.600
+Also es gibt Demokratiedefizite, sagen wir es so,
+
+48:39.600 --> 48:41.600
+dass es nicht von der Hand zu weisen.
+
+48:41.600 --> 48:45.600
+Und jetzt zuletzt in deiner Antwort, als du jetzt auf das Modell von Ben Tarnow
+
+48:45.600 --> 48:49.600
+eben verwiesen hast, dass ich mir auf jeden Fall mal angucken muss,
+
+48:49.600 --> 48:53.600
+bist du eben auf die regionale Ebene gegangen, hast dann Berlin genommen
+
+48:53.600 --> 48:55.600
+und auch dort, wenn ich dich jetzt nicht falsch verstanden habe,
+
+48:55.600 --> 48:57.600
+die Stadt Berlin dann hergenommen.
+
+48:57.600 --> 49:00.600
+Und ich nehme an, eben Stadt ist nicht nur der geographische Raum,
+
+49:00.600 --> 49:04.600
+sondern eben auch die regulative Instanz.
+
+49:04.600 --> 49:05.600
+Die politische Organisation.
+
+49:05.600 --> 49:09.600
+Genau, die politische Organisation Berlin als Stadt sozusagen.
+
+49:09.600 --> 49:12.600
+Und das würde mich jetzt nochmal interessieren,
+
+49:12.600 --> 49:16.600
+weil das wäre, glaube ich, ein Layer, bei dem,
+
+49:16.600 --> 49:19.600
+wenn man jetzt sich überlegt, wie schafft man es,
+
+49:19.600 --> 49:23.600
+da Leute auch mit ins Boot zu holen auf der einen Seite
+
+49:23.600 --> 49:26.600
+und auch bestimmte Fragestellungen, die eben berechtigterweise
+
+49:26.600 --> 49:31.600
+oder Kritikpunkte, die berechtigterweise aus dieser Richtung kommen, mit aufzunehmen,
+
+49:31.600 --> 49:36.600
+ist, glaube ich, die Frage der Legitimationsgrundlage dann einfach nochmal eine relevante.
+
+49:36.600 --> 49:41.600
+Und das, um das jetzt nochmal zu eskalieren in eine größere Skalierungsebene,
+
+49:41.600 --> 49:46.600
+geht es ja dann wiederum auch zu beantworten auf einer weltweiten Ebene potenziell.
+
+49:46.600 --> 49:50.600
+Also wenn du sagst, wir wollen eigentlich technologische Infrastrukturen,
+
+49:50.600 --> 49:55.600
+die in der Lage sind, sowohl die Gesamtheit der Menschheit zu vernetzen,
+
+49:55.600 --> 50:01.600
+als auch, sagen wir mal, individuelle Vielfalt zu respektieren und abbilden zu können,
+
+50:01.600 --> 50:05.600
+dann sind wir ja wieder bei der Frage der Legitimation in einem Terrain,
+
+50:05.600 --> 50:07.600
+das unglaublich schwer zu beantworten ist.
+
+50:07.600 --> 50:11.600
+Und mich würde beides interessieren, also sowohl, wie man das eben auf einer,
+
+50:11.600 --> 50:15.600
+erstmal vielleicht auch lokal gedachten Ebene denken kann,
+
+50:15.600 --> 50:21.600
+jenseits davon sofort zu dieverholten in eine staatliche Legitimation,
+
+50:21.600 --> 50:25.600
+als auch die bei der Frage der Skalierbarkeit ansetzende Frage,
+
+50:25.600 --> 50:30.600
+wie sowas dann auf einer weltweiten Ebene gedacht werden könnte.
+
+50:30.600 --> 50:35.600
+Wenn ich sagte, also Parnow sagte, deine Stadt hostet das für dich so,
+
+50:35.600 --> 50:39.600
+das muss jetzt auch nicht immer nur ein, okay, es gibt jetzt den Beamten,
+
+50:39.600 --> 50:43.600
+der streichelt den Server jeden Morgen warm oder sowas, sondern natürlich kann man,
+
+50:43.600 --> 50:46.600
+es gibt ja auch die Wehrsorgungsform, es kann eine Genossenschaft sein,
+
+50:46.600 --> 50:51.600
+man will ja jetzt auch nicht etwas, was so direkt irgendwelchen potenziell
+
+50:51.600 --> 50:54.600
+auch bestechbaren Politikern unterstellt ist, die dann Dinge tun.
+
+50:54.600 --> 50:57.600
+Also das ist ja auch wieder ein Thema, wo man diese Infrastrukturen
+
+50:57.600 --> 51:02.600
+natürlich auch soweit unabhängig eben auch von vielleicht Wahlergebnissen
+
+51:02.600 --> 51:06.600
+machen möchte, von kurzfristigen Eingriffen, um eventuell Wahlergebnisse
+
+51:06.600 --> 51:08.600
+zu beeinflussen oder sowas, frei machen möchte.
+
+51:08.600 --> 51:11.600
+Aber auch dafür, wir haben, ich spreche jetzt wenig wenig,
+
+51:11.600 --> 51:14.600
+wir sagen natürlich viel über Deutschland, weil ich kenne die Strukturen besser,
+
+51:14.600 --> 51:18.600
+es gibt aber ja hier auch schon unabhängige Strukturen, die aber zum Beispiel
+
+51:18.600 --> 51:23.600
+finanziert werden aus einer staatlichen Quelle, also zum Beispiel der,
+
+51:23.600 --> 51:27.600
+sowohl die Landes- als auch der Bundesbeauftragte für Datenschutz
+
+51:27.600 --> 51:31.600
+und Informationsfreiheit in Deutschland ist nicht weisungsabhängig,
+
+51:31.600 --> 51:36.600
+wird aber bezahlt vom Staat. Aber eigentlich überwacht die Person eher,
+
+51:36.600 --> 51:41.600
+auch mit staatliches Handeln. Oder wie, es gibt Genossenschaften,
+
+51:41.600 --> 51:44.600
+es gibt diverse Modelle, wie man sowas abbilden kann,
+
+51:44.600 --> 51:47.600
+um dann eine Organisationsform zu finden.
+
+51:47.600 --> 51:50.600
+Vielleicht findet man sogar noch eine bessere neue und sagt, wir bauen es jetzt so auf.
+
+51:50.600 --> 51:53.600
+Was ich charmant an dieser lokalen Verordnung finde,
+
+51:53.600 --> 51:57.600
+der mit im Gründungsmythos des Internets in dieser etwas unsäglichen
+
+51:57.600 --> 52:01.600
+The Declaration of the Independence of Cyberspace,
+
+52:01.600 --> 52:04.600
+die John Perry Barlow, ich glaube 94, geschrieben hat,
+
+52:04.600 --> 52:07.600
+war gesagt, hier, das Internet ist ein komplett neuer Raum,
+
+52:07.600 --> 52:11.600
+ihr Staaten, ihr ganzen Bestehen, ich habe da nichts zu sagen,
+
+52:11.600 --> 52:14.600
+the new space of the mind, sagte er glaube ich so,
+
+52:14.600 --> 52:17.600
+the new home of the mind.
+
+52:17.600 --> 52:20.600
+Ich glaube, das hat so einen ganz komischen Brainwarm gesetzt,
+
+52:20.600 --> 52:24.600
+wo man ja auch immer nur noch, man will immer noch auf dieser global abstrakten Ebene operieren.
+
+52:24.600 --> 52:27.600
+Und das hat halt häufig das Problem, dass man dann dazu tendiert,
+
+52:27.600 --> 52:29.600
+diese eine Lösung für alle zu bauen.
+
+52:29.600 --> 52:33.600
+Wir bauen jetzt das eine und da können Menschen jetzt drin miteinander sprechen.
+
+52:33.600 --> 52:36.600
+Aber ob das so ist, wie alle Menschen miteinander reden,
+
+52:36.600 --> 52:39.600
+darüber diskutiert man nicht, man macht ja die Plattform für alle.
+
+52:39.600 --> 52:42.600
+Und es sind ja alle, die man selber, deshalb passt das dann schon irgendwie.
+
+52:42.600 --> 52:45.600
+Und der Code ist open source und dann ist ja sowieso alles cool.
+
+52:45.600 --> 52:50.600
+Ich mag die Idee der lokalen Verankerung,
+
+52:50.600 --> 52:54.600
+weil es erstens in irgendeiner Form eine Vertrauensbasis gibt
+
+52:54.600 --> 52:56.600
+oder man sie auch gut aufbauen kann.
+
+52:56.600 --> 52:58.600
+Also so eine Organisation, die eben sowas hostet,
+
+52:58.600 --> 53:00.600
+die kann halt sehr einfach ansprechbar sein.
+
+53:00.600 --> 53:03.600
+Also wenn man jetzt ein Problem hat mit Facebook, wo etwas passiert,
+
+53:03.600 --> 53:07.600
+versucht dann mal jemanden, versucht dann eine Antwort von einem Menschen zu bekommen,
+
+53:07.600 --> 53:11.600
+irgendwie, zu irgendwas, selbst wenn du Journalist oder Journalistin bist
+
+53:11.600 --> 53:15.600
+und eine richtige Nachfrage hast, versucht eine Antwort zu bekommen von einem Menschen.
+
+53:15.600 --> 53:17.600
+Es ist nicht trivial.
+
+53:17.600 --> 53:20.600
+Das Problem hat man natürlich bei einer lokalen Verankerung nicht.
+
+53:20.600 --> 53:22.600
+Man kann eben auch andere Leute mitnehmen.
+
+53:22.600 --> 53:26.600
+Man kann ganz anders an Outreach betreiben und sagen, okay,
+
+53:26.600 --> 53:31.600
+die eine gute Zeit machen das dann teilweise die Enkel und Enkelinnen,
+
+53:31.600 --> 53:34.600
+die dann irgendwie ihren Großeltern, die vielleicht alleine noch irgendwo wohnen,
+
+53:34.600 --> 53:37.600
+dann sagen, okay, du kannst WhatsAppen und können damit manchmal chatten und so weiter.
+
+53:37.600 --> 53:39.600
+Aber das natürlich immer nur auf so einer individuellen Ebene.
+
+53:39.600 --> 53:43.600
+Du hast halt Glück, wenn du Enkel und Enkelinnen hast oder Kinder, die das für dich tun.
+
+53:43.600 --> 53:50.600
+Wenn das halt in irgendeiner Form in der lokalen Community als Community-Aufgabe begriffenes Ding ist,
+
+53:50.600 --> 53:52.600
+gibt es vielleicht auch nochmal einen anderen Outreach.
+
+53:52.600 --> 53:55.600
+Dann wird halt gesagt, okay, wir wissen ja, wer hier in der Stadt wohnt
+
+53:55.600 --> 54:00.600
+und wir checken einfach mal bei den Leuten ein, ob sie das kennen, ob das für sie einen Wert hat.
+
+54:00.600 --> 54:03.600
+Das ist halt was, was man natürlich global skaliert nicht hinkriegt.
+
+54:03.600 --> 54:04.600
+Da ist es absolut zu denken.
+
+54:04.600 --> 54:07.600
+Wenn man das aber auf einer kleineren Ebene denkt, ist das schon sehr viel realistischer.
+
+54:07.600 --> 54:10.600
+Da weiß man zumindest auch, okay, gibt es halt vielleicht Gruppen,
+
+54:10.600 --> 54:15.600
+die besondere Bedürfnisse haben, mit denen man, wenn man seinen Teil konfiguriert, mal sprechen möchte.
+
+54:15.600 --> 54:18.600
+Gibt es Gruppen, die man besonders schützen möchte?
+
+54:18.600 --> 54:23.600
+Gibt es Gruppen, die keinen Zugang haben aufgrund von Bildung, aufgrund von Zugang zu Ressourcen?
+
+54:23.600 --> 54:27.600
+Kann man denen vielleicht eben auch die materiellen Ressourcen bereitstellen,
+
+54:27.600 --> 54:29.600
+um überhaupt teilhaben zu können?
+
+54:29.600 --> 54:34.600
+Dann kann man immer schon sagen, ja, alle können TikTok Influencer und Stars werden.
+
+54:34.600 --> 54:37.600
+Natürlich mittlerweile Handys sind so billig geworden, dass viele eins haben,
+
+54:37.600 --> 54:39.600
+aber es haben eben doch nicht alle eins.
+
+54:39.600 --> 54:45.600
+Oder Zugang zu verlässlichem Internet, weil WLAN nicht überall ist und der Vertrag zu teuer ist.
+
+54:45.600 --> 54:47.600
+Vielleicht haben wir doch die Skills einfach nicht.
+
+54:47.600 --> 54:49.600
+Vielleicht können sie gerade WhatsApp bedienen und das war's.
+
+54:49.600 --> 54:51.600
+Oder gerade Facebook bedienen und das war's.
+
+54:51.600 --> 54:54.600
+Vielleicht ist an der Stelle auch einfach noch viel Arbeit notwendig,
+
+54:54.600 --> 54:59.600
+die man eben besser an der lokalen Ebene lösen kann und wo man auch besser miteinander sprechen kann.
+
+54:59.600 --> 55:02.600
+Es ist halt auch einfacher zu sagen, dieser, nennen wir es jetzt mal Pod,
+
+55:02.600 --> 55:05.600
+den irgendwie in irgendeiner Form eine Community aufsitzt.
+
+55:05.600 --> 55:08.600
+Ich habe jetzt Stadt Berlin gesagt, man könnte es natürlich auch sagen, ein Bezirk macht.
+
+55:08.600 --> 55:09.600
+Oder wer auch immer.
+
+55:09.600 --> 55:11.600
+Wenn es eine Struktur gibt, wie man miteinander sprechen kann,
+
+55:11.600 --> 55:14.600
+ist es ja am Ende egal, wer es hostet.
+
+55:14.600 --> 55:20.600
+Kann man dafür dann zum Beispiel so etwas wie einen Benutzerinnenrat aufsetzen?
+
+55:20.600 --> 55:22.600
+Und das kann ich global sehr schlecht.
+
+55:22.600 --> 55:24.600
+Wen soll ich denn da jetzt wählen?
+
+55:24.600 --> 55:26.600
+Da stehen jetzt 100 Leute zur Wahl.
+
+55:26.600 --> 55:30.600
+Alle aus Ländern, in denen ich noch nie war, mit denen ich nicht sprechen kann, weil die meine Sprache nicht sprechen.
+
+55:30.600 --> 55:32.600
+Was sind das für eine Wahl?
+
+55:32.600 --> 55:36.600
+Oder habe ich jetzt aus jedem Land anhand der Bevölkerung anteilig irgendwie Leute?
+
+55:36.600 --> 55:39.600
+Dann habe ich ein Grebium mit 5.000 Leuten.
+
+55:39.600 --> 55:41.600
+Das ist auch nicht beschlussfähig in irgendeiner sinnvollen Form.
+
+55:41.600 --> 55:43.600
+Das ist ja so ein pro forma Ding.
+
+55:43.600 --> 55:46.600
+Auf einer kleineren Community-Ebene kann ich aber bestimmt Entscheidungen sehr viel einfacher treffen.
+
+55:46.600 --> 55:50.600
+Da kann ich sagen, okay, ich wähle Leute aus meinem Umfeld, über den ich ernsthaft vertraue.
+
+55:51.600 --> 55:54.600
+Und die versuchen, mir Gehör zu verschaffen.
+
+55:54.600 --> 55:58.600
+Und vielleicht auf der Ebene, die wählen dann vielleicht die Vertreter auf einer höheren Ebene.
+
+55:58.600 --> 56:05.600
+Also Dezentralität auch da einfach aufzunehmen, kann man schon an der Stelle machen, aber als politisches Konstrukt.
+
+56:05.600 --> 56:09.600
+Also es gibt ja bei diesem Begriff, den man in der Schule immer durchkam,
+
+56:09.600 --> 56:15.600
+diese Subsidiarität zu sagen, man soll halt Entscheidungen da möglichst weit unten treffen.
+
+56:15.600 --> 56:18.600
+Da, wo es die Leute betrifft, die damit zu tun haben.
+
+56:18.600 --> 56:21.600
+Die können halt sagen, was sie brauchen und wollen.
+
+56:21.600 --> 56:26.600
+Und nicht bottom down irgendwelche Entscheidungen so auf die Leute herunterregen zu lassen, mit denen sie sich jetzt beschäftigen müssen.
+
+56:26.600 --> 56:33.600
+Und ich glaube, dass das als Ansatz für eine Demokratisierung von so zentralen Infrastrukturen des Digitalen,
+
+56:33.600 --> 56:39.600
+da ist natürlich diese ganze soziale Interaktionslogik ein ganz wichtiger Baustein davon,
+
+56:40.600 --> 56:49.600
+dass das ein Weg ist, Teilhabe von Menschen wirklich auch machbar zu machen.
+
+56:49.600 --> 56:55.600
+Weil der andere Ansatz, wo man dann immer diese globalen Visionen hat und immer von oben so auf der abstrakten Ebene,
+
+56:55.600 --> 56:58.600
+dann wird man eben genau diese Vielfalt nicht abbilden.
+
+56:58.600 --> 57:01.600
+Auch egal wie man sind, das muss ja gar nicht, wir alle haben immer bei uns.
+
+57:01.600 --> 57:05.600
+Und natürlich kennen wir auch unsere Lebensrealität und die Lebensrealität der anderen immer viel weniger.
+
+57:05.600 --> 57:11.600
+Aber egal wie man ein Projekt zusammenbaut, man wird eben nicht, man wird nie alles abgedeckt haben.
+
+57:11.600 --> 57:21.600
+Wenn man es aber bottom up eher bauen lässt und das auch als einen sehr, sehr klar als einen gemeinsamen konstruktiven Prozess der Menschheit sieht und begleitet.
+
+57:21.600 --> 57:23.600
+Und auch bei in der Leute natürlich kriegste.
+
+57:23.600 --> 57:26.600
+Natürlich macht El Salvador da unter seinem Diktator nicht mit.
+
+57:26.600 --> 57:28.600
+Das ist mir auch klar.
+
+57:28.600 --> 57:30.600
+Aber gut, man muss halt irgendwo anfangen.
+
+57:31.600 --> 57:33.600
+Das ist so ein bisschen wie das Argument.
+
+57:33.600 --> 57:35.600
+Nukleares Armament.
+
+57:35.600 --> 57:38.600
+Ja, gut, einer muss halt anfangen.
+
+57:38.600 --> 57:41.600
+Wenn du nicht alle dazu kriegst, dann musst du vielleicht einfach sagen, ich höre jetzt auf damit.
+
+57:41.600 --> 57:46.600
+Das ist ja, man kann ja auch einfach alleine sagen, dann höre ich mit dem Scheiß erstmal auf und zeige, dass es auch geht.
+
+57:46.600 --> 57:52.600
+Das heißt, man könnte an der Stelle schon auch eine Alternative zu eben dem bestehenden Modell, die ja auch nicht global entschieden wurden,
+
+57:52.600 --> 57:56.600
+sondern wo einfach, wo es halt gesagt wird, macht halt was ihr wollt im Internet und dann passt es schon.
+
+57:57.600 --> 58:03.600
+Dazu eine Alternative aufzubauen, ganz bewusst extrem politisch aufzubauen, extrem auf Mitbestimmung gesetzt,
+
+58:03.600 --> 58:11.600
+extrem darauf gesetzt, dass man eben nicht einem Fortschrittsglaube so, wenn man das machen kann, dann macht das auch einer.
+
+58:11.600 --> 58:15.600
+Dann muss es auch gemacht werden, sondern ganz klar mit Community sprechen, was wollt ihr?
+
+58:15.600 --> 58:17.600
+Warum macht ihr das eigentlich?
+
+58:17.600 --> 58:19.600
+Warum haben wir Social Media?
+
+58:19.600 --> 58:25.600
+Und wenn die Antwort nicht mehr ist, um euch Werbung irgendwie in die Augen zu drücken, dann kommt wahrscheinlich auch was anderes raus.
+
+58:25.600 --> 58:27.600
+Dann kommen auch andere Strukturen raus.
+
+58:27.600 --> 58:31.600
+Und das geht halt, glaube ich, nur über so eine lokale Verortung.
+
+58:32.600 --> 58:35.600
+Zwei Fragen, die sich da sofort anschließen.
+
+58:35.600 --> 58:40.600
+Also zum einen, wie ist die Schnittstelle dann zu denken zwischen dem Besonderen und dem Allgemeinen?
+
+58:40.600 --> 58:44.600
+Also innerhalb dessen, wie du das jetzt gerade gezeichnet hast.
+
+58:44.600 --> 58:51.600
+Und als zweite Frage dann, inwiefern die Rückbindung zum Lokalen dann nicht eigentlich zwingend in Widerstreit geraten muss
+
+58:51.600 --> 58:56.600
+zu dem Vorteil, den du ganz zu Beginn des Gesprächs benannt hast, als du das Furry-Beispiel genommen hast.
+
+58:56.600 --> 59:01.600
+Weil die Furries sitzen eben nicht alle in Hintertupfingen in Bayern zusammen,
+
+59:01.600 --> 59:04.600
+sondern da sitzt einer hier, einer dort, eine dort, einer da.
+
+59:04.600 --> 59:10.600
+Und zwar sehr weit verteilt, nicht lokal sozusagen zueinander zu bringen.
+
+59:10.600 --> 59:12.600
+Das ist ja sozusagen der Witz und der Benefit.
+
+59:12.600 --> 59:14.600
+Das hat es dir ja richtigerweise ausgewiesen.
+
+59:14.600 --> 59:19.600
+Wenn man jetzt die Strukturen wiederum geografisch lokal rückbindet,
+
+59:19.600 --> 59:27.600
+dann kommt man ja eigentlich in eine Situation, in der eben die konservativ-christliche Community, sagen wir jetzt mal,
+
+59:27.600 --> 59:34.600
+die eben nicht damit okay ist, das Brüste irgendwie zu sehen sind auf dem Social Media Pick oder so was,
+
+59:36.600 --> 59:40.600
+ob man das jetzt teilt oder nicht, also gut findet oder nicht,
+
+59:40.600 --> 59:46.600
+dass die eben quasi nicht die Handlungsmacht haben, zu sagen,
+
+59:46.600 --> 59:51.600
+okay, aber in unserer Instanz ist jetzt das Zeigen von Brüsten beim Stillen von Kindern eben nicht erlaubt,
+
+59:51.600 --> 59:55.600
+weil sie eben nicht lokal, obwohl bei denen muss ich mich jetzt eigentlich korrigieren,
+
+59:55.600 --> 01:00:00.600
+bei den christlichen Fundamentalisten könnte es durchaus sein, dass die alle lokal an einem Ort hocken,
+
+01:00:00.600 --> 01:00:04.600
+weil sie irgendwie eine Art von Sekte gegründet haben, aber egal.
+
+01:00:04.600 --> 01:00:09.600
+Also bleiben wir beim Furry-Beispiel oder so was, die sitzen definitiv nicht alle irgendwie an einem Ort
+
+01:00:09.600 --> 01:00:15.600
+und haben deswegen dann sozusagen auch nicht die Möglichkeit, eine Instanz zu haben,
+
+01:00:15.600 --> 01:00:18.600
+die in dieser Form quasi dann lokal rückgebunden ist,
+
+01:00:18.600 --> 01:00:22.600
+wo man dann über Formen der Föderation sich eben verständigen kann
+
+01:00:22.600 --> 01:00:25.600
+und dadurch dann auch dieser Zugriff quasi kollektiv gelöst werden kann.
+
+01:00:25.600 --> 01:00:28.600
+Das heißt, da gibt es so ein bisschen einen Widerstreit zwischen dem Wunsch,
+
+01:00:28.600 --> 01:00:33.600
+auf einer politischen Ebene das lokal rückzubinden und dadurch eine Kontrolle zu ermöglichen
+
+01:00:33.600 --> 01:00:40.600
+und dem, was dieser Technologie inhärent ist, nämlich der Möglichkeit der Vernetzung über das Lokale hinaus.
+
+01:00:40.600 --> 01:00:43.600
+Es geht ja auch nicht nur immer um harte Kontrolle an der Stelle.
+
+01:00:43.600 --> 01:00:47.600
+Also natürlich kannst du, viele unserer Normen sind ja auch nicht hart kontrolliert,
+
+01:00:47.600 --> 01:00:51.600
+sondern die sind halt über Einkünfte und bestimmte Communities sind sich einig, dass sie das gut finden,
+
+01:00:51.600 --> 01:00:57.600
+dass man sich so verhält. Ohne jetzt zu sagen, dass das für alles grundsätzlich so funktioniert,
+
+01:00:57.600 --> 01:01:02.600
+aber zu sagen, na ja, du hast einen Rechtsrahmen, auf den du dich auch verlässt ja in einer gewissen Art und Weise.
+
+01:01:02.600 --> 01:01:06.600
+Du sagst, das ist wie Dinge sind, keine Ahnung, ich habe bestimmte Menschenrechte,
+
+01:01:06.600 --> 01:01:10.600
+die werden auch von irgendwem enforced, wenn es wichtig ist.
+
+01:01:10.600 --> 01:01:14.600
+Man darf mich auf der Straße nicht überfallen und mich nicht beleidigen und so weiter.
+
+01:01:14.600 --> 01:01:18.600
+Ich kann jemanden anrufen, der sich um mich kümmert, wenn da was passiert, zu sagen,
+
+01:01:18.600 --> 01:01:25.600
+okay, wir haben einen Pod und in einem bestimmten Bereich garantieren wir dir die Einhaltung dieser Szenarien.
+
+01:01:25.600 --> 01:01:28.600
+Heißt ja nicht, du darfst nur darin sein.
+
+01:01:28.600 --> 01:01:31.600
+Das ist ja so ein bisschen wie, ich will nicht sagen Kiddie Pool und der Erwachsenen Pool,
+
+01:01:31.600 --> 01:01:36.600
+aber zumindest den Leuten die Möglichkeit, du kannst auch woanders hingehen
+
+01:01:36.600 --> 01:01:40.600
+oder mit Leuten aus anderen Bereichen sprechen.
+
+01:01:40.600 --> 01:01:43.600
+Die wird aber in einer Form klar gemacht, was das bedeutet.
+
+01:01:43.600 --> 01:01:46.600
+Okay, du verlässt jetzt gerade diesen Rechtsrahmen.
+
+01:01:46.600 --> 01:01:50.600
+Ihr baut hier gerade gemeinsam einen neuen Rechts, einen neuen Raum auf,
+
+01:01:50.600 --> 01:01:55.600
+in dem ihr vielleicht miteinander aushandeln müsst, wie hier diese Regeln sind oder was hier gültig ist.
+
+01:01:55.600 --> 01:01:58.600
+Natürlich würden christliche FundamentalistInnen immer sagen,
+
+01:01:58.600 --> 01:02:01.600
+nee, wir müssen das halt hart kontrollieren, das darf nicht möglich sein.
+
+01:02:02.600 --> 01:02:06.600
+Aber wenn wir das aus einer, wenn wir es mal als Utopie formulieren wollen,
+
+01:02:06.600 --> 01:02:12.600
+würden wir dann sagen, naja, wir garantieren dir über die lokale Anbindung erstens Zugang und eine gewisse Sicherheit um dich.
+
+01:02:12.600 --> 01:02:16.600
+Gerade wenn du zum Beispiel noch jünger bist und dich vielleicht noch nicht so erfahren bist,
+
+01:02:16.600 --> 01:02:19.600
+wir haben einen gewissen Schutzraum für dich.
+
+01:02:19.600 --> 01:02:23.600
+Und unter bestimmten, vielleicht wenn du ein gewisses Alter hast oder keine Ahnung,
+
+01:02:23.600 --> 01:02:27.600
+Nachwarnung kannst du das halt verlassen, wenn du das willst.
+
+01:02:27.600 --> 01:02:32.600
+Und ohne dass das andere sehen, dass du das tust oder dass du jetzt gebrannt mag bist als jemand,
+
+01:02:32.600 --> 01:02:36.600
+der zu anderen Furries auf der Welt Kontakt hatte,
+
+01:02:36.600 --> 01:02:42.600
+sondern eher zu sagen, okay, wir versuchen ein bisschen diesen Wildwest aus dem Glepp zu nehmen.
+
+01:02:42.600 --> 01:02:44.600
+So, ja, anything goes.
+
+01:02:44.600 --> 01:02:46.600
+Das ist ja gerade, was im Glepppreis so ist, so anything goes.
+
+01:02:46.600 --> 01:02:50.600
+Wenn du auf eine falsche Linke geklickt hast und alle den Token sind weg, sind die halt weg, hast du Pech gehabt.
+
+01:02:50.600 --> 01:02:54.600
+Da genau im Gegenentwurf zu stehen und zu sagen, wir garantieren dir Zugang
+
+01:02:54.600 --> 01:02:59.600
+und wir garantieren dir auch die Umsetzung der Rechte, an die du gewohnt bist und die dir auch wichtig sind
+
+01:02:59.600 --> 01:03:02.600
+und deiner Werte, die dir auch wichtig sind.
+
+01:03:02.600 --> 01:03:05.600
+Wir bieten dir auch eine Infrastruktur, mit allen anderen auf der Welt zu sprechen,
+
+01:03:05.600 --> 01:03:09.600
+die in dieser Plattform irgendwie unterwegs sind.
+
+01:03:09.600 --> 01:03:12.600
+Wir geben dir aber auch Bescheid, was das bedeutet.
+
+01:03:12.600 --> 01:03:16.600
+Und deshalb kann halt auch für dich halt sagen, ich bin feind damit, mir macht das nichts.
+
+01:03:16.600 --> 01:03:19.600
+Ich will gar nicht gewarnt werden vor bestimmten Sachen.
+
+01:03:19.600 --> 01:03:21.600
+Das kann man dann vielleicht von mir aus einstellen.
+
+01:03:21.600 --> 01:03:26.600
+Wir müssen jetzt nicht bei UI-Feinheiten reden, aber einfach Leuten bewusst zu machen, was passiert.
+
+01:03:26.600 --> 01:03:32.600
+Und nicht diese Illusion von, wir sind ja alle das globale Dorf und alle sind gleich, alles funktioniert gleich.
+
+01:03:32.600 --> 01:03:35.600
+Tut es aber ja gar nicht, weil wir leben ja in unterschiedlichen Orten.
+
+01:03:35.600 --> 01:03:40.600
+Die materielle Welt hat ja auch auf unser Erleben des Digitalen einen massiven Einfluss.
+
+01:03:40.600 --> 01:03:46.600
+Also, wenn du wo wohnst, wo du halt nur Edge hast, dann fühlst du das Internet ganz anders, als wenn du an einer Standleitung wohnst.
+
+01:03:46.600 --> 01:03:50.600
+Das ist einfach eine extrem unterschiedliche Wahrnehmung.
+
+01:03:50.600 --> 01:03:53.600
+Wir tun immer so, wenn du da am Internet bist, ist ja alles gleich.
+
+01:03:53.600 --> 01:03:55.600
+Ist es aber nicht.
+
+01:03:55.600 --> 01:04:04.600
+Und an der Stelle einfach die Regionalität und die Behaftetheit zum Materialien, die das Internet auch immer hat.
+
+01:04:04.600 --> 01:04:08.600
+Also ist ja auch schon die Frage, wer ist im Internet eigentlich relevant?
+
+01:04:08.600 --> 01:04:10.600
+Ist ja regional.
+
+01:04:10.600 --> 01:04:15.600
+Also, deutsche YouTube-Influencer sind ja nirgendwo außer in Deutschland relevant.
+
+01:04:15.600 --> 01:04:18.600
+Die sprechen halt auf Deutsch irgendwelches Zeug.
+
+01:04:18.600 --> 01:04:21.600
+Jetzt könnte man sagen, die sind auf YouTube, die haben solche Follower, kann man weltweit vergleichen.
+
+01:04:21.600 --> 01:04:24.600
+Das ist aber eine falsche, das sagt nichts.
+
+01:04:24.600 --> 01:04:28.600
+Jemand, Millionen Follower in Deutschland sind was anderes als eine Million Follower in den USA.
+
+01:04:28.600 --> 01:04:32.600
+Sind doch was anderes als eine Million Follower in Südafrika.
+
+01:04:32.600 --> 01:04:38.600
+Von daher, wir haben da eigentlich eh schon diese lokalen Overlays auf diesem Plattform, die existieren.
+
+01:04:38.600 --> 01:04:42.600
+Die sind nur nie sichtbar oder benutzbar.
+
+01:04:42.600 --> 01:04:45.600
+Man kann mit denen auch nichts tun, aber man kann sie ja sichtbar machen.
+
+01:04:45.600 --> 01:04:53.600
+Man kann sagen, okay, diese Lokalität, die irgendwie an dir hängt, das ist kein Zwang, der dich klein halten soll.
+
+01:04:53.600 --> 01:05:02.600
+Das soll dein Sprungbrett sein, um dir zu erlauben, dich so zu öffnen oder so mit der Welt zu intergieren, wie sich das für dich gut anfühlt.
+
+01:05:02.600 --> 01:05:09.600
+Und es wird Leute geben, die auch jetzt so im Internet mit allen Wassern gewaschen sind, die werden sagen, komm, let's go, wir machen alles.
+
+01:05:09.600 --> 01:05:13.600
+Und es wird aber vielleicht auch Leute geben, die sagen, okay, ich tasse mich da jetzt mal so rein.
+
+01:05:13.600 --> 01:05:21.600
+Ich bin bisher nur Facebook und meine drei Gruppen gewohnt mit meinen Enkeln und mit meinem, keine Ahnung, meinen Ortskreis und wie auch immer so.
+
+01:05:21.600 --> 01:05:23.600
+Das benutze ich und den Rest finde ich irgendwie auch so ein bisschen scary.
+
+01:05:23.600 --> 01:05:26.600
+Vielleicht auch bei Amazon nochmal was irgendwie.
+
+01:05:26.600 --> 01:05:28.600
+Aber ich beschäftige mich mit dem Internet nicht.
+
+01:05:28.600 --> 01:05:33.600
+Und jetzt zu sagen, du musst keine Sorge haben, du wirst dich betrogen.
+
+01:05:33.600 --> 01:05:39.600
+Wir schaffen hier Möglichkeiten für dich auch überhaupt zu erkunden, diese Vielfalt.
+
+01:05:39.600 --> 01:05:45.600
+Natürlich, wenn wir selber uns ein Internet zusammenbauen, dann sehen wir halt das Internet, was wir sehen.
+
+01:05:45.600 --> 01:05:51.600
+Wenn ich so durcheinander denke, mein Vater hat das Internet, was ich ihm zusammengestöpselt habe.
+
+01:05:51.600 --> 01:05:54.600
+Ich habe ihm gesagt, hier, das ist jetzt dein Mail-Account, damit kannst du e-mailen.
+
+01:05:54.600 --> 01:05:56.600
+Das ist dein Browser.
+
+01:05:56.600 --> 01:06:01.600
+Wenn das Internet kaputt ist, weiß ich, dass er aus Versehen das Icon vom Browser irgendwo hin geschoben hat, das es nicht mehr findet.
+
+01:06:01.600 --> 01:06:03.600
+Das ist so die Realität da.
+
+01:06:03.600 --> 01:06:05.600
+Das muss aber nicht so sein.
+
+01:06:05.600 --> 01:06:10.600
+Genau diese lokale Beschränkung, die auf so einem Vertrauen und Bezug zu Menschen basiert,
+
+01:06:10.600 --> 01:06:16.600
+die kann eben sogar ein Enabler sein, zu sagen, guck mal, das ist eine andere Community.
+
+01:06:16.600 --> 01:06:20.600
+Mein Vater kommt aus Franken.
+
+01:06:20.600 --> 01:06:27.600
+Er wohnt ja in der norddeutschen Tiefebene, wo die ganzen Bauern wohnen und Plattdeutsch sprechen.
+
+01:06:27.600 --> 01:06:33.600
+Der hat irgendwann mal den Heimatverein dieses Dorfes, in dem er da wohnt, mit in seine Heimat genommen.
+
+01:06:34.600 --> 01:06:36.600
+Das gibt es halt in Norddeutschland nicht.
+
+01:06:36.600 --> 01:06:38.600
+Das ist der Kulturschock natürlich.
+
+01:06:38.600 --> 01:06:42.600
+Man ist immer noch in Deutschland, der Kulturschock ist nicht riesig, aber es ist schon anders.
+
+01:06:42.600 --> 01:06:46.600
+Und das ist auch eine Möglichkeit, die diese lokale Anbindung einem erlauben kann.
+
+01:06:46.600 --> 01:06:50.600
+Diese Form von begleiteter Tour ins Digitale.
+
+01:06:50.600 --> 01:06:55.600
+Mit Leuten, die du kennst, denen du vertraust, denen du auch auf der Straße begegnest.
+
+01:06:55.600 --> 01:06:58.600
+Die nicht anonyme, irgendjemand macht da irgendwas mit mir.
+
+01:06:58.600 --> 01:07:00.600
+On the Internet, no one knows you're a dog.
+
+01:07:00.600 --> 01:07:04.600
+Das ist ganz gut zu wissen, du bist ein Hund, du kannst mich beschützen, dann gehen wir zusammen los.
+
+01:07:04.600 --> 01:07:12.600
+Diese Communities, die wir haben, die einige Menschen hoffentlich in ihrem Leben haben,
+
+01:07:12.600 --> 01:07:18.600
+die können ja bereichernd sein und helfen, genau Vielfalt zu erkunden.
+
+01:07:18.600 --> 01:07:25.600
+Die Tatsache, dass die Nachbarn aus Ländern kommen, in denen man noch nie war.
+
+01:07:25.600 --> 01:07:30.600
+Dann laden die zum Essen ein und man kommt über das Essen ins Gespräch, wie die aufgewachsen sind.
+
+01:07:30.600 --> 01:07:33.600
+Und überhaupt diese Form von Erfahrung.
+
+01:07:33.600 --> 01:07:35.600
+Das ist ja was, wo man jetzt gerade auch nicht hingesteuert wird.
+
+01:07:35.600 --> 01:07:38.600
+Wenn ich mir jetzt auf Facebook-Account klicke, dann werden mir sieben Leute vorgeschlagen,
+
+01:07:38.600 --> 01:07:39.600
+wenn ich zur Schule gegangen bin.
+
+01:07:39.600 --> 01:07:44.600
+Mit denen habe ich heute eine null gemeinsame Realität.
+
+01:07:44.600 --> 01:07:47.600
+Ich lebe da nicht, wo die leben.
+
+01:07:47.600 --> 01:07:50.600
+Ich habe auch gar keinen Bauernhof.
+
+01:07:50.600 --> 01:07:53.600
+Das wäre dann so eine Welt, da könnte ich versuchen, mir noch ein paar andere Bubbles.
+
+01:07:53.600 --> 01:07:56.600
+Aber natürlich ist man super eng eingeschnitten.
+
+01:07:56.600 --> 01:08:03.600
+Das beschränkt einen ja auch selber, weil es viel schwerer ist, neue Dinge zu erkunden und neue Dinge wahrzunehmen.
+
+01:08:03.600 --> 01:08:07.600
+Niemand guckt zufällig, was ist der größte Suchbegriff bei YouPorn gerade.
+
+01:08:07.600 --> 01:08:09.600
+Ich suche da auch mal nach und gucke mal, was passiert.
+
+01:08:09.600 --> 01:08:10.600
+Das würde man nicht tun.
+
+01:08:10.600 --> 01:08:15.600
+Aber zu sehen, hier gibt es eine Person, der ich vertraue und der zeigt mir einfach mal andere Teile.
+
+01:08:15.600 --> 01:08:19.600
+Das wird natürlich nicht mit wildem Furryporn als erstes kommen,
+
+01:08:19.600 --> 01:08:22.600
+aber zumindest zeigt er mir Dinge, die ich bisher nie gesehen hatte.
+
+01:08:22.600 --> 01:08:25.600
+Vielleicht finde ich die dann auch gar nicht toll, muss ich ja auch nicht.
+
+01:08:25.600 --> 01:08:29.600
+Aber ich kann das als sehr bereichernd wahrnehmen.
+
+01:08:29.600 --> 01:08:35.600
+Diese lokale Verankerung gar nicht als Kontrolle im Sinne von Beschränkungen,
+
+01:08:35.600 --> 01:08:39.600
+sondern eher, man fängt erst im Niedrigen an zu schwimmen.
+
+01:08:39.600 --> 01:08:44.600
+Oder wie sagt man immer, man muss erst krabbeln lernen und dann kann man gehen lernen und dann kann man rennen.
+
+01:08:44.600 --> 01:08:46.600
+Das ist so die Reihenfolge, die man gehen muss.
+
+01:08:46.600 --> 01:08:52.600
+Und ich glaube, diese lokale Verortung kann einem da eine ganze Menge entgegenkommen.
+
+01:08:52.600 --> 01:08:54.600
+Und ich meine das gar nicht nur im Sinne von Technikkompetenz.
+
+01:08:54.600 --> 01:08:59.600
+Ich meine das auch im Sinne von einfach, sich Erfahrungen öffnen, die man sonst vielleicht nicht gemacht hätte,
+
+01:08:59.600 --> 01:09:01.600
+weil man sagt, das interessiert mich doch nicht.
+
+01:09:01.600 --> 01:09:05.600
+Was interessieren mich südamerikanische Tänze?
+
+01:09:05.600 --> 01:09:08.600
+Blöd, aber vielleicht muss man in Kontakt kommen.
+
+01:09:08.600 --> 01:09:12.600
+Eigentlich ist das doch ganz cool, was da passiert oder irgendwas, was daneben passiert, zufällig ist geil.
+
+01:09:12.600 --> 01:09:15.600
+Vielleicht findet man das tanzen doof, aber die Mucke ist super.
+
+01:09:15.600 --> 01:09:23.600
+Also diese Form von der Exploration der globalen Menschheit in der Art, wie sie ist.
+
+01:09:23.600 --> 01:09:25.600
+Ich meine, warum reisen wir irgendwo hin?
+
+01:09:25.600 --> 01:09:27.600
+Wir könnten uns ja auch einfach ein Bildband irgendwo angucken.
+
+01:09:27.600 --> 01:09:31.600
+Aber es ist was anderes da zu sein und zu merken, dass der Vibe an einem anderen Ort anders ist,
+
+01:09:31.600 --> 01:09:35.600
+dass die Leute anders miteinander umgehen, dass Dinge anders funktionieren.
+
+01:09:35.600 --> 01:09:41.600
+Wenn du in bestimmten Ländern, das Normales ist abends, und zehn noch die Kids mit bei der Party rumrennen.
+
+01:09:41.600 --> 01:09:43.600
+Und in anderen Ländern ist das ganz unüblich.
+
+01:09:43.600 --> 01:09:47.600
+Aber diese Unterschiedlichkeit zu erfahren, funktioniert in Mitteln häufig ja nicht so gut,
+
+01:09:47.600 --> 01:09:49.600
+weil wir diese genormten Sichten haben.
+
+01:09:49.600 --> 01:09:52.600
+Der Facebook-Account in Deutschland ist der Facebook-Account in den USA,
+
+01:09:52.600 --> 01:09:57.600
+ist der Facebook-Account in Südkorea, ist der Facebook-Account in Neuseeland.
+
+01:09:57.600 --> 01:10:03.600
+Aber zu sagen, nein, ich kann irgendwie ein bisschen erfahren, wie unterschiedlich ihr denkt.
+
+01:10:03.600 --> 01:10:05.600
+Und ich muss das nicht übernehmen, aber vielleicht ist da ein Puls drin.
+
+01:10:05.600 --> 01:10:10.600
+Ich könnte mir das als großen Mehrwert vorstellen.
+
+01:10:11.600 --> 01:10:13.600
+Ja, interessant.
+
+01:10:13.600 --> 01:10:19.600
+Also ich würde fast meinen, ehrlich gesagt, dass dir der Kritikpunkt oder die Nachfrage
+
+01:10:19.600 --> 01:10:26.600
+oder der Konflikt in Bezug auf die lokale Verankerung trotzdem noch erhalten bleibt, ehrlich gesagt.
+
+01:10:26.600 --> 01:10:30.600
+Also weil du auch ein bisschen changierst in den Beschreibungen.
+
+01:10:30.600 --> 01:10:35.600
+Weil ja eben dieser Gedanke der Community, wenn man so will,
+
+01:10:35.600 --> 01:10:37.600
+eben nicht immer deckungsgleich ist mit dem Lokalen.
+
+01:10:37.600 --> 01:10:41.600
+In der Erzählung, wie du es jetzt quasi versucht hast, schmackhaft zu machen,
+
+01:10:41.600 --> 01:10:46.600
+quasi setzt du es sozusagen als deckungsgleich und sagst, okay, wir haben hier eine Lokalität.
+
+01:10:46.600 --> 01:10:55.600
+Und diese Lokalität hat mir eine Vielfalt zu präsentieren, die ich jetzt vielleicht gar nicht so gut kennenlerne,
+
+01:10:55.600 --> 01:11:01.600
+weil das sozusagen nicht der Definitionsrahmen ist, über den dieses Einführen in dem Fall in das Netz sozusagen passiert,
+
+01:11:01.600 --> 01:11:03.600
+sondern es gibt eben andere Strukturen.
+
+01:11:03.600 --> 01:11:09.600
+Und wenn ich das jetzt nicht falsch verstehe, dann sagst du ja, indem du für lokale Instanzen plädierst,
+
+01:11:09.600 --> 01:11:16.600
+erzeugt man auch eine Art von eben geschütztem Raum, wenn man so will, in den ich zunächst sozusagen eingeführt werde
+
+01:11:16.600 --> 01:11:23.600
+und über den ich dann perspektivisch auch hinausgehen kann, aber mit quasi einem Konsent, wenn man so will.
+
+01:11:23.600 --> 01:11:25.600
+Ja, so habe ich dich jetzt verstanden. Ja.
+
+01:11:25.600 --> 01:11:29.600
+Und aber dann, ja, Konsent ist immer so ein rechtliches Ding, aber auch mit einem Bewusstsein,
+
+01:11:30.600 --> 01:11:36.600
+Genau, aber jetzt mal unabhängig von der Frage, wie man jetzt quasi diesen Gang vom einen ins andere,
+
+01:11:36.600 --> 01:11:40.600
+vom Besonderen ins Übergeordnete oder vom Lokalen ins Weltweite, wenn man so will,
+
+01:11:40.600 --> 01:11:47.600
+wie man das jetzt gestaltet, setzt es trotzdem ja eben quasi diese Gemeinschaft deckungsgleich mit dem Lokalen.
+
+01:11:47.600 --> 01:11:52.600
+Und eben wie gesagt, ich würde mal meinen, das war quasi der Punkt, den ich versucht hatte herauszustellen,
+
+01:11:52.600 --> 01:12:01.600
+das bleibt dann trotzdem noch quasi die Kritik erhalten, dass dieses, dass das nicht immer deckungsgleich sein muss.
+
+01:12:01.600 --> 01:12:04.600
+Es muss ja nicht die einzige Community sein, in der man Teil ist.
+
+01:12:04.600 --> 01:12:11.600
+Also die Öffnung nach außen bedeutet ja auch eben zu sagen, okay, aber mich interessieren halt die globalen Kryptokritiker,
+
+01:12:11.600 --> 01:12:15.600
+die gar nicht alle in Berlin leben. So, hier gibt es gar nicht so viele.
+
+01:12:15.600 --> 01:12:20.600
+Da baut sich natürlich auch eine Community auf, aber eine Community muss ja nicht immer einen eigenen Pott haben.
+
+01:12:20.600 --> 01:12:23.600
+Also die Frage ist immer nur, wer stellt denn die Infrastruktur bereit?
+
+01:12:23.600 --> 01:12:27.600
+Also auch heute, du könntest deinen eigenen Mastodon-Server betreiben, aber wer kann das?
+
+01:12:27.600 --> 01:12:36.600
+Wer hat das? Eine Stadt hat potenziell die Ressourcen, das bereitstellen zu können auf eine sichere und robuste Art und Weise.
+
+01:12:36.600 --> 01:12:40.600
+Das heißt nicht, dass du nur da drin gefangen bist und dann vielleicht nur mit den Leuten sprechen darfst,
+
+01:12:40.600 --> 01:12:43.600
+vielleicht mal eine Mail an jemand anderen schicken, sondern das ist eher so,
+
+01:12:43.600 --> 01:12:49.600
+das ist eher so, die hosten deinen Account für dich und den Nicht-Schwimmer-Bereich.
+
+01:12:49.600 --> 01:12:54.600
+Und in Deutschland gibt es eine Plattform, die ist nebenan, wo man so quasi mit seinen Nachbarn sich irgendwie verknuppern kann.
+
+01:12:54.600 --> 01:13:00.600
+Und so, ich habe Eier über und fahre in den Urlaub, will die eine haben, so ein bisschen das.
+
+01:13:00.600 --> 01:13:04.600
+Aber das große Netz ist auch da, das wird auch von dir nicht versteckt oder so weiter.
+
+01:13:04.600 --> 01:13:09.600
+Es wird dir nur quasi die, du musst nicht selber irgendwas hosten, du musst auch weniger Infrastruktur haben.
+
+01:13:09.600 --> 01:13:12.600
+Du kannst dich auch darauf verlassen, dass das gewartet und halbwegs sicher ist, was da passiert.
+
+01:13:12.600 --> 01:13:18.600
+Und du hast Ansprechpartner, die dich schützenden Missbrauch gibt oder wenn jemand versucht, deinen Account zu hacken oder sowas.
+
+01:13:18.600 --> 01:13:23.600
+Aber das soll halt nicht heißen, dass du nicht Communities zwischen diesen Pods erzeugen kannst.
+
+01:13:23.600 --> 01:13:27.600
+Das wäre ja absurd, das würde ja das Interim komplett unterlaufen.
+
+01:13:27.600 --> 01:13:30.600
+Man muss ja auch gar nicht nur einen Account haben, von mir ist halt noch mehrere.
+
+01:13:30.600 --> 01:13:35.600
+Aber wenn jetzt sagt, okay, eine Person hätte nur einen Account, wir wollen, dass eine Person nur einen Account hat, was gar nicht so sein muss,
+
+01:13:35.600 --> 01:13:41.600
+dann ist es für mich ein Vorteil zu sagen, wir haben da eine lokale Anbindung, um Unterstützung zu bekommen, wenn man sie braucht.
+
+01:13:41.600 --> 01:13:45.600
+Im Zweifelsfall könnte man sogar wählen, woanders einen zu machen.
+
+01:13:45.600 --> 01:13:47.600
+Mir geht es ja gar nicht darum, du musst es lokal machen.
+
+01:13:47.600 --> 01:13:53.600
+Ich finde das Angebot gut, weil es eben Governance verständlicher macht.
+
+01:13:53.600 --> 01:13:58.600
+Jetzt könnten natürlich auch Leute, die sich eh schon kennen, also viele meiner Freunde wohnen überall auf der Welt verteilt.
+
+01:13:58.600 --> 01:14:00.600
+Jetzt könnte ich sagen, ich will aber einen Pod mit denen haben.
+
+01:14:00.600 --> 01:14:05.600
+Wir machen das einfach, ich kann das selber oder ich kenne Leute, die das können, wir hosten das für uns selber.
+
+01:14:05.600 --> 01:14:08.600
+Das sichert unsere Identität ab.
+
+01:14:08.600 --> 01:14:10.600
+Wir sind uns auch einig, wie wir das konfigurieren.
+
+01:14:10.600 --> 01:14:15.600
+Wir sind uns auch einig, wie wir da Governance betreiben und uns in dieses System integrieren, ist das ja auch fein.
+
+01:14:15.600 --> 01:14:21.600
+Nur ich finde es gut, das als Aufgabe einer öffentlichen Daseinsvorsorge zu haben.
+
+01:14:21.600 --> 01:14:27.600
+Zu sagen, du hast ein Anrecht darauf, daran teilzuhaben, in einem Bereich, den du rechtlich verstehen kannst,
+
+01:14:27.600 --> 01:14:30.600
+bei dem auch jemand deine Rechte durchfechtet für dich.
+
+01:14:30.600 --> 01:14:35.600
+Es gibt eine Polizeiabteilung, die sich dann beschäftigt, dich dazu zu schützen, wenn du das möchtest.
+
+01:14:35.600 --> 01:14:40.600
+Das heißt nicht, dass das genauso wie du nicht darauf eingeschränkt, du musst das auch nicht benutzen.
+
+01:14:40.600 --> 01:14:42.600
+Aber es ist ein Angebot an dich.
+
+01:14:42.600 --> 01:14:47.600
+Das soll jetzt auch kein, das ist jetzt deine rechtliche Identität sein und damit kannst du dich jetzt ausweisen.
+
+01:14:47.600 --> 01:14:48.600
+Das ist nicht der Punkt.
+
+01:14:48.600 --> 01:14:52.600
+Es geht mir nicht darum, jetzt Digitalisierungsprozesse der öffentliche Verwaltung damit zu machen.
+
+01:14:52.600 --> 01:14:53.600
+Das ist nicht der Punkt.
+
+01:14:53.600 --> 01:15:04.600
+Du sollst Zugang haben, ohne dass du entweder irgendeinem Nerd, wenn du jetzt gerade zu Mastodon gehst,
+
+01:15:04.600 --> 01:15:09.600
+das ist jetzt ein verteilter Twitter-Alternativ Open Source, dann kannst du halt zu mastodon.social gehen.
+
+01:15:09.600 --> 01:15:13.600
+Das betreibt halt der Typ, der das Projekt leitet.
+
+01:15:13.600 --> 01:15:16.600
+Okay, kannst du sagen, den vertraue ich, weil der ist nett.
+
+01:15:16.600 --> 01:15:18.600
+Oder du gehst zu irgendeinem anderen Server.
+
+01:15:18.600 --> 01:15:21.600
+Keine Ahnung, wer die hostet, musst du denen halt vertrauen.
+
+01:15:21.600 --> 01:15:27.600
+Ich glaube, für sowas, wenn wir das begreifen als eine essentielle Infrastruktur des Digitalen,
+
+01:15:27.600 --> 01:15:35.600
+dann ist es potenziell attraktiv auch anzubieten, dass, und es muss, wie gesagt, gar nicht staatlich sein,
+
+01:15:35.600 --> 01:15:39.600
+aber dass in irgendeiner Form eine Community fundet, von mir aus durch Steuergelder, wie auch immer,
+
+01:15:39.600 --> 01:15:42.600
+wo du nicht, wenn du kein Geld hast, bist du nicht ausgeschlossen.
+
+01:15:42.600 --> 01:15:44.600
+Du hast einfach Recht darauf, deinen Account zu bekommen.
+
+01:15:44.600 --> 01:15:49.600
+Und der funktioniert gut und der funktioniert für alles, wenn du das möchtest.
+
+01:15:49.600 --> 01:15:52.600
+Du musstest nicht. Und das muss nicht der Einzige sein.
+
+01:15:52.600 --> 01:15:55.600
+Und ich glaube, das kann wertvoll sein.
+
+01:15:55.600 --> 01:15:59.600
+Und ich glaube, das erlaubt das Ausgestalten.
+
+01:15:59.600 --> 01:16:06.600
+Vielleicht werden natürlich bestimmte Pots, werden, sagen wir, politisch oder in den hierarchischen Entscheidungsprozessen vielleicht höher gewertet als andere.
+
+01:16:06.600 --> 01:16:11.600
+Also vielleicht gibt es da so eine Mechanik wie, okay, die in irgendeiner Form öffentlich abgesicherten oder so weiter
+
+01:16:12.600 --> 01:16:18.600
+sind in so Stimmenrechtsprozesse besser eingebunden als irgendjemand zieht irgendwo irgendwelche Pots hoch,
+
+01:16:18.600 --> 01:16:21.600
+weil dann hast du natürlich das Problem, ich erzeuge jetzt eine Million Pots,
+
+01:16:21.600 --> 01:16:25.600
+damit ich eine Million Stimmen in den höheren Wertungsebenen habe.
+
+01:16:25.600 --> 01:16:34.600
+Aber ich glaube, dass man an der Stelle sich dadurch gerade auch für diese Fragen von hierarchischer Governance,
+
+01:16:34.600 --> 01:16:37.600
+sich eben gut auf bestehende Strukturen stützen kann.
+
+01:16:38.600 --> 01:16:41.600
+Und ich will nicht sagen, dass die EU hat auch extreme Demokratiedefizite.
+
+01:16:41.600 --> 01:16:43.600
+Das ist jetzt auch ein klarer zu sagen.
+
+01:16:43.600 --> 01:16:50.600
+Okay, man hat in Deutschland so, ich habe mein Bezirk und dann habe ich die Stadt oder das Land quasi, das Land Berlin.
+
+01:16:50.600 --> 01:16:54.600
+Dann habe ich die Bundesrepublik, dann habe ich Europa.
+
+01:16:54.600 --> 01:16:57.600
+Das funktioniert, soll ja auf einer ähnlichen Ebene funktionieren.
+
+01:16:57.600 --> 01:17:03.600
+Es gibt so eine hierarchische Abbildung von Partizipation.
+
+01:17:03.600 --> 01:17:08.600
+Und das parallel zu machen, sorgt glaube ich auch, sorgt erstens dafür, dass wir wissen, wie es geht.
+
+01:17:08.600 --> 01:17:13.600
+Wir haben Erfahrungen damit, wie man es tut, wie man solche Organisationen stemmt.
+
+01:17:13.600 --> 01:17:16.600
+Und es sorgt auch für ein gewisses Vertrauen, weil man es versteht.
+
+01:17:16.600 --> 01:17:22.600
+Es ist nicht an irgendjemand, da gibt es noch eben komisches mathematisches Votingverfahren und irgendwelche Keys.
+
+01:17:22.600 --> 01:17:23.600
+Und dann kommt am Ende was raus.
+
+01:17:23.600 --> 01:17:24.600
+Und nee, ich verstehe das.
+
+01:17:24.600 --> 01:17:27.600
+Ich habe die Leute gewählt, die sind hingegangen, die haben abgestimmt.
+
+01:17:27.600 --> 01:17:28.600
+Ich sehe das Ergebnis, wie die abgestimmt haben.
+
+01:17:28.600 --> 01:17:30.600
+Das passiert da jetzt an der Stelle.
+
+01:17:30.600 --> 01:17:33.600
+Und wenn es mir nicht passt, dann kann ich mir immer noch meinen Freunden einen anderen Pot bauen.
+
+01:17:33.600 --> 01:17:35.600
+Und dann benutze ich den halt als meine Hauptidentität.
+
+01:17:35.600 --> 01:17:38.600
+Und die andere benutze ich vielleicht nur für irgendwas anderes.
+
+01:17:38.600 --> 01:17:42.600
+Deshalb sehe ich das gar nicht so beschränkend an.
+
+01:17:42.600 --> 01:17:45.600
+Aber vielleicht habe ich es davor einfach nicht so besonders gut erklärt.
+
+01:17:45.600 --> 01:17:53.600
+Nee, ich glaube, das Ding ist, dass bei mir vor allem diese einhegende Charakter, das was du als Nichtschwimmerbereich bezeichnest,
+
+01:17:53.600 --> 01:17:56.600
+das ist, glaube ich, das, wo es sich bei mir am ehesten stößt.
+
+01:17:56.600 --> 01:18:05.600
+Weil ich glaube, das ist kein Zufall, dass da bei mir dann sofort zum einen Android- oder iOS-Assoziationen aufkommen oder der Play Store.
+
+01:18:05.600 --> 01:18:12.600
+Also wo man sagt, ja, aber das liefert ja auch die Sicherheit, dass du einfach alles jetzt installieren kannst.
+
+01:18:12.600 --> 01:18:15.600
+Ja, und klar, natürlich, das stimmt auf der einen Seite.
+
+01:18:15.600 --> 01:18:22.600
+Gleichzeitig erzeugt es natürlich eine extreme Macht, wenn ich quasi die oder der bin, die darüber entscheiden kann,
+
+01:18:22.600 --> 01:18:26.600
+was, sagen wir, ein Nichtschwimmerbereich ist und wie der ausgestaltet ist.
+
+01:18:26.600 --> 01:18:33.600
+Also die eine Assoziation geht in die Richtung, ja, und die andere Assoziation geht in Richtung Great Firewall von den Chinesen sozusagen.
+
+01:18:33.600 --> 01:18:39.600
+Also und das ist vielleicht kein Zufall, dass das halt beides aufpoppt, wenn es um diese Frage geht,
+
+01:18:39.600 --> 01:18:45.600
+wie jetzt sowas wie dieser Nichtschwimmerbereich quasi gedacht werden kann oder was da vielleicht auch als Kritik ansetzt.
+
+01:18:45.600 --> 01:18:49.600
+Da ist auf jeden Fall, da ist auf jeden Fall eine große Gefahr in diesem ganzen Bereich,
+
+01:18:49.600 --> 01:18:54.600
+dass das in so eine patriarchale, okay, jetzt müssen wir den Leuten so auf die Finger klopfen, was sie da tun dürfen.
+
+01:18:54.600 --> 01:19:01.600
+Dafür ist halt diese Idee der Governance und eben auch der, das Ganze eben nicht da sein.
+
+01:19:01.600 --> 01:19:04.600
+Wir müssen das Internet jetzt einhegen durch diese Strategie.
+
+01:19:04.600 --> 01:19:09.600
+Das ist es nicht, sondern es geht darum, eigentlich den Zugang möglich zu machen.
+
+01:19:09.600 --> 01:19:15.600
+Eigentlich eher ein, in gewisser Weise ist es das Umkippen dieses Freiheitsbegriffs.
+
+01:19:15.600 --> 01:19:17.600
+Das Internet gerade ist dieser negative Freiheitsbegriff.
+
+01:19:17.600 --> 01:19:20.600
+So du bist frei von Beschränkungen, kannst ja machen, was du willst.
+
+01:19:20.600 --> 01:19:22.600
+Und das ist aber ja exklusiv.
+
+01:19:22.600 --> 01:19:25.600
+Das bedeutet halt, du hast auch die Ressourcen, du hast die Ausbildung, kannst das machen.
+
+01:19:25.600 --> 01:19:27.600
+Hin zu einem eher positiven Freiheitsbegriff.
+
+01:19:27.600 --> 01:19:33.600
+Wir enable dich, um da so teilzuhaben, wie es für dich auch bereichernd sein kann.
+
+01:19:33.600 --> 01:19:36.600
+Und das ist wie nichts auf der Welt risikofrei.
+
+01:19:36.600 --> 01:19:39.600
+Und das kann halt sich auch in eine negative Richtung entwickeln.
+
+01:19:39.600 --> 01:19:42.600
+Und da muss man auch immer wieder nachkorrigieren und sehen, ob das noch richtig funktioniert.
+
+01:19:42.600 --> 01:19:46.600
+Ob es noch den Vorgezeichen Idealen und Werten entspricht.
+
+01:19:46.600 --> 01:19:54.600
+Oder ob man sich da vielleicht auch mal zu weit in Richtung von Kontrolle, Restriktion oder Bevormundung.
+
+01:19:54.600 --> 01:19:55.600
+Wie auch immer man das so sehen kann.
+
+01:19:55.600 --> 01:19:57.600
+Ob man sich dahin bewegt hat, dann muss man natürlich zurückrudern.
+
+01:19:57.600 --> 01:19:59.600
+Und sonst, ja, okay. Nein, wir.
+
+01:19:59.600 --> 01:20:08.600
+Und genauso wie wir, ich habe mir vorhin schon mal erwähnt, es gibt ja in Deutschland den Bundesbeauftragten für Datenschutz und Informationsfreiheit.
+
+01:20:08.600 --> 01:20:10.600
+Das ist ja nicht nur ein Verbieter.
+
+01:20:10.600 --> 01:20:13.600
+So Datenschutz, der dürfte nichts machen, sondern der soll sich in Ordnung kümmern.
+
+01:20:13.600 --> 01:20:16.600
+Nein, der Staat soll eigentlich viele Informationen freigeben.
+
+01:20:16.600 --> 01:20:17.600
+Er soll das.
+
+01:20:17.600 --> 01:20:19.600
+Er soll Leuten dadurch Möglichkeiten aufmachen.
+
+01:20:19.600 --> 01:20:25.600
+Und das wäre halt so eine Rolle, die eben auch diese Plattformentwicklung, glaube ich, mitmachen müssen.
+
+01:20:25.600 --> 01:20:27.600
+Ja, wir haben Werte, die dich hiermit verbinden.
+
+01:20:27.600 --> 01:20:33.600
+Und das ist nicht klein zu machen, sondern die Größe des Internets zugänglich zu machen für Menschen.
+
+01:20:33.600 --> 01:20:36.600
+Und das ist schwierig, natürlich.
+
+01:20:36.600 --> 01:20:41.600
+Es kann auch sehr schnell hässlich werden, aber wir sind ja Optimisten.
+
+01:20:41.600 --> 01:20:45.600
+Ja, das alleine wird wahrscheinlich nicht reichen.
+
+01:20:45.600 --> 01:20:49.600
+Aber ja, ich würde vielleicht gerne noch, bevor wir sagen, kein Ende einbiegen,
+
+01:20:49.600 --> 01:20:54.600
+würde mich noch interessieren, wie du das vielleicht auch strategisch denken würdest.
+
+01:20:54.600 --> 01:21:02.600
+Also in Bezug auf diese Krypto Szene merkt man ja oder also an der Krypto Szene, sagen wir es vielleicht so,
+
+01:21:03.600 --> 01:21:11.600
+merkt man ja auch, wie extrem einflussreich und von Bedeutung das Narrativ einfach ist.
+
+01:21:11.600 --> 01:21:17.600
+Also du hast ja jetzt eigentlich in deiner Kritik mehrmals auch darauf hingewiesen,
+
+01:21:17.600 --> 01:21:24.600
+wie wenig tatsächlich verwendbare Infrastruktur und Technologie es gibt, die jetzt irgendwie Blockchains nutzt.
+
+01:21:24.600 --> 01:21:31.600
+Das heißt, ein Großteil des Erfolges, den diese Technologiebündel ja irgendwie einfach
+
+01:21:31.600 --> 01:21:34.600
+auch im Sinne der öffentlichen Aufmerksamkeit ausweisen können,
+
+01:21:34.600 --> 01:21:38.600
+beruht hauptsächlich eigentlich auch auf narrativen Elementen,
+
+01:21:38.600 --> 01:21:43.600
+auf dem Erzeugen, dem erfolgreichen Verbreiten dieser sozio-technischen Imagination.
+
+01:21:43.600 --> 01:21:47.600
+Jetzt würde mich interessieren im Bezug auf Alternativen, wenn Sie sagen,
+
+01:21:47.600 --> 01:21:52.600
+was sind die wirklich auch einfach mal mit einer strategischen Brille aufgesetzt?
+
+01:21:52.600 --> 01:21:58.600
+Was sind die Wege, mit denen man eben diese alternativen sozio-technischen Imaginationen
+
+01:21:58.600 --> 01:22:01.600
+erfolgreich popularisieren kann?
+
+01:22:01.600 --> 01:22:06.600
+Eine meiner Hauptkritiker in diesem ganzen Web3-Narrativ ist ja auch häufig,
+
+01:22:06.600 --> 01:22:08.600
+dass es so, es ist ja immer so ein Zukunfts-Narrativ.
+
+01:22:08.600 --> 01:22:13.600
+Jetzt ist das alles shit, aber in einem Jahr ist es gut oder anderthalb Jahre.
+
+01:22:13.600 --> 01:22:17.600
+Und ich erwähne jetzt zu Beginn mal schon mal die Luditen.
+
+01:22:17.600 --> 01:22:20.600
+Und ein Historiker hat mal sehr schön geschrieben,
+
+01:22:20.600 --> 01:22:25.600
+die Luditen waren die letzte Gruppe, die Technologie im Jetzt betrachtet hat,
+
+01:22:25.600 --> 01:22:28.600
+die nicht immer drüber geredet haben, was das später alles kann,
+
+01:22:28.600 --> 01:22:30.600
+und ja gut, jetzt, wir müssen da durch, und dann ist alles gut.
+
+01:22:30.600 --> 01:22:32.600
+Nee, was macht das Jetzt?
+
+01:22:32.600 --> 01:22:36.600
+Die haben diese Webstühle zerhauen, weil die ihnen Jetzt das Leben schlecht gemacht haben,
+
+01:22:36.600 --> 01:22:38.600
+weil die dafür gesorgt haben, dass die Kinder arbeiten mussten
+
+01:22:38.600 --> 01:22:40.600
+und sie kein Geld mehr hatten und so weiter.
+
+01:22:40.600 --> 01:22:44.600
+Von daher geht es gar nicht so um die großen Tech-Imaginationen,
+
+01:22:44.600 --> 01:22:46.600
+die man jetzt sich da machen kann.
+
+01:22:46.600 --> 01:22:50.600
+Mir geht es vielmehr darum, ein bisschen mehr zurückzukommen zu dem Jetzt.
+
+01:22:50.600 --> 01:22:54.600
+Weil Versprechung, was in einem Jahr, in zehn Jahren alles toll ist,
+
+01:22:54.600 --> 01:22:58.600
+und Quantencomputer und was auch immer, säckeweise.
+
+01:22:58.600 --> 01:23:03.600
+Und es ist alles so wenig belastbar und so wenig materiell nützlich,
+
+01:23:03.600 --> 01:23:09.600
+wie irgendwelche Behauptungen, dass KI das Klima schon retten wird.
+
+01:23:09.600 --> 01:23:13.600
+Für mich haben häufig diese sehr zukunftsgerichteten Imaginationen
+
+01:23:13.600 --> 01:23:16.600
+so eine Funktion von Denialism.
+
+01:23:16.600 --> 01:23:20.600
+Man sieht das ganz stark, ich weiß nicht, wie es in anderen Ländern ist,
+
+01:23:20.600 --> 01:23:22.600
+man sieht das in Deutschland ganz stark im Bereich Climate Change.
+
+01:23:22.600 --> 01:23:26.600
+Wenn man da sich anguckt, was zum Beispiel diese gelbe Regierungspartei,
+
+01:23:26.600 --> 01:23:30.600
+die FDP, nicht Ferengi, man verwechselt die leicht.
+
+01:23:30.600 --> 01:23:34.600
+Was die so sagen, dann ist das immer in der Zukunft so.
+
+01:23:34.600 --> 01:23:38.600
+Ja, ist jetzt schon scheiße, aber in fünf Jahren haben wir KI,
+
+01:23:38.600 --> 01:23:40.600
+die steuert dann alles so, dass das alles sicher ist.
+
+01:23:40.600 --> 01:23:45.600
+Oder in x Jahren haben wir grün Wasserstoff und dann geht das alles.
+
+01:23:45.600 --> 01:23:48.600
+Und das ist halt eine Form, die erlaubt, sich nicht mit dem Jetzt zu beschäftigen.
+
+01:23:48.600 --> 01:23:51.600
+Das sieht man auch bei dieser gerade in der Tech-Szene
+
+01:23:51.600 --> 01:23:55.600
+und bei den Start-up-Leuten so beliebten Long-Termism-Philosophie.
+
+01:23:55.600 --> 01:23:58.600
+Wir müssen nicht die Leute jetzt retten, sondern wir müssen uns Gedanken machen,
+
+01:23:58.600 --> 01:24:02.600
+wie die Milliarden und zig Billionen Menschen, die der Zukunft existieren könnten,
+
+01:24:02.600 --> 01:24:05.600
+wie deren Leben gut sein könnte.
+
+01:24:05.600 --> 01:24:07.600
+Das ist aber nicht meine Perspektive.
+
+01:24:07.600 --> 01:24:10.600
+Also ich will nicht sagen, dass mich die nicht interessieren.
+
+01:24:10.600 --> 01:24:14.600
+Aber wichtiger sind die Leute, die es jetzt gibt und die Probleme, die es jetzt gibt.
+
+01:24:14.600 --> 01:24:19.600
+Von daher geht es für mich viel mehr darum, gar nicht so in einem großen...
+
+01:24:19.600 --> 01:24:24.600
+Wir haben, glaube ich, viele Jahre, wenn ich auch Jahrzehnte im ganzen Digital-Diskurs damit verbracht,
+
+01:24:24.600 --> 01:24:29.600
+uns wundersame Visionen über The Home of Mind zu machen.
+
+01:24:29.600 --> 01:24:32.600
+Mir geht es jetzt viel mehr darum zu sagen, können wir das alles, was wir da jetzt haben,
+
+01:24:32.600 --> 01:24:36.600
+mal verankern an dem, was ist und wie unsere Leben sind.
+
+01:24:36.600 --> 01:24:38.600
+Und die Probleme, die das erzeugt.
+
+01:24:38.600 --> 01:24:42.600
+Also häufig entsteht ja aus einer halbwegs korrekten Problembeschreibung schon mal...
+
+01:24:42.600 --> 01:24:45.600
+Idealerweise spannen die schon für ein bisschen engeren Lösungsraum auf,
+
+01:24:45.600 --> 01:24:48.600
+in dem man dann mal verhandeln kann, was man tun will.
+
+01:24:48.600 --> 01:24:50.600
+Die positive Wendung, die man da jetzt nehmen kann, ist,
+
+01:24:50.600 --> 01:24:53.600
+Technologie als etwas aus dem Jetzt zu begreifen.
+
+01:24:53.600 --> 01:24:57.600
+Technologie als etwas zu verhandeln, was Jetzt unser Leben beeinflusst,
+
+01:24:57.600 --> 01:25:00.600
+was wir Jetzt gestalten wollen und nicht später.
+
+01:25:00.600 --> 01:25:03.600
+Und nicht, wir warten jetzt noch mal fünf Jahre, wir warten jetzt noch mal zehn Jahre usw.
+
+01:25:03.600 --> 01:25:08.600
+Sondern zu sagen, okay, wir wollen das gute Leben jetzt.
+
+01:25:08.600 --> 01:25:13.600
+Also ich will auch, dass mein Sohn gutes Leben hat in zehn Jahren, 20, 30, hoffentlich 80 Jahren.
+
+01:25:13.600 --> 01:25:17.600
+Aber wir können halt nicht immer alles verzögern.
+
+01:25:17.600 --> 01:25:20.600
+Und diese... Natürlich braucht man auch, wieso man hin will.
+
+01:25:20.600 --> 01:25:25.600
+Ich habe ja gerade auch über Utopäen gesprochen, die man haben kann.
+
+01:25:25.600 --> 01:25:31.600
+Aber ich glaube, wir haben da eigentlich fast zu sehr den Schwerpunkt draufgelegt in den letzten Jahren.
+
+01:25:31.600 --> 01:25:38.600
+Wir haben manchmal das Jetzt vergessen und bewerten das Jetzt gar nicht mehr als wichtig.
+
+01:25:38.600 --> 01:25:41.600
+Also jetzt so, man kann dasselbe auch noch mal über die Vergangenheit sagen,
+
+01:25:41.600 --> 01:25:43.600
+die wir auch manchmal ein bisschen zu stark ignorieren,
+
+01:25:43.600 --> 01:25:46.600
+sagen, aber vielleicht gab es diese Diskussion schon mal.
+
+01:25:46.600 --> 01:25:51.600
+Aber gerade auch das Jetzt, Climate Change ist Jetzt.
+
+01:25:51.600 --> 01:25:54.600
+Ich sitze hier in einem kochenden Büro in Berlin, das ist Jetzt.
+
+01:25:54.600 --> 01:25:57.600
+Da braucht man nicht so überreden, was das bald tut.
+
+01:25:58.600 --> 01:26:01.600
+Das Monopolproblem von Facebook, das haben wir Jetzt.
+
+01:26:01.600 --> 01:26:05.600
+Dass da jemand jetzt Technologie rumspielen kann und dann in fünf Jahren noch mal draufgucken, das hilft mir nicht.
+
+01:26:05.600 --> 01:26:07.600
+Ich möchte Jetzt eine politische Lösung haben.
+
+01:26:07.600 --> 01:26:10.600
+Ich möchte Jetzt den Diskurs führen darüber, was man da tun kann.
+
+01:26:10.600 --> 01:26:15.600
+Und ob man jetzt sagt, wir enteignen das oder wir zerschlagen das oder wir bauen eine parallele Infrastruktur, was auch immer.
+
+01:26:15.600 --> 01:26:20.600
+Man kann ja an alles rangehen, aber man muss sich, glaube ich...
+
+01:26:20.600 --> 01:26:24.600
+Das heißt nicht, dass man nicht über die Zukunft nachdenken muss, weil nur dann ist man natürlich handlungsfähig.
+
+01:26:24.600 --> 01:26:27.600
+Man muss schon irgendwo sagen, welche grobe Richtung will ich denn?
+
+01:26:27.600 --> 01:26:31.600
+Was sind meine Werte, die ich habe, die mir wirklich auch was bedeuten, für die ich bereit bin zu kämpfen,
+
+01:26:31.600 --> 01:26:35.600
+für die ich bereit bin, vielleicht auch andere Dinge zurücktreten zu lassen.
+
+01:26:35.600 --> 01:26:39.600
+Wir alle haben ganz viele Werte, aber wir bewerten die ja nicht gleich.
+
+01:26:39.600 --> 01:26:41.600
+Einigen Leuten ist das Fairness ein sehr wichtiger.
+
+01:26:41.600 --> 01:26:44.600
+Wir alle würden sagen, Fairness ist wichtig, aber einiges ist sehr wichtig als anderen.
+
+01:26:44.600 --> 01:26:52.600
+Einigen Leuten ist die eigene Bequemlichkeit wichtiger und anderen Leuten ist es nicht so wichtig.
+
+01:26:52.600 --> 01:27:04.600
+Diese Form von einer groben Marschrichtung, klar braucht man die, aber dieses Leben in diesen gerade technischen Imaginationen
+
+01:27:04.600 --> 01:27:10.600
+blockiert uns, glaube ich, dabei manchmal das Jetzt zu verhandeln.
+
+01:27:10.600 --> 01:27:18.600
+Weil es ist sehr, sehr einfach darüber zu reden, wie es wäre, wenn ein Computer einfach Chips in der Wand eingebaut
+
+01:27:18.600 --> 01:27:25.600
+und dein Handy kommuniziert mit denen und alles macht Processing für dich, alles ist ambient, Strom ist in der Luft
+
+01:27:25.600 --> 01:27:30.600
+und der Internet ist für alle da und es gibt ein bedingungsloses Grundeinkommen und wie wäre die Welt.
+
+01:27:30.600 --> 01:27:33.600
+Das kann man auch darüber nachdenken, das ist auch cool.
+
+01:27:33.600 --> 01:27:39.600
+Aber ich glaube, wir haben gerade so dringende Probleme, dass das nicht der Fokus sein kann.
+
+01:27:39.600 --> 01:27:44.600
+Das kann eine Superergänzung sein, das kann einem helfen, so eine Richtung zu gehen und sagen,
+
+01:27:44.600 --> 01:27:49.600
+das stimmt, wenn nicht mehr an den Bullshit-Jobs arbeiten, das ist schon cool, das wollen wir eigentlich schon haben.
+
+01:27:49.600 --> 01:27:56.600
+Aber für jetzt müssen wir, glaube ich, viel darüber reden, was sind denn jetzt die materiellen Probleme der Welt,
+
+01:27:56.600 --> 01:28:01.600
+was sind die Dinge, an die wir jetzt dran wollen, immer unter der Maßgabe der, das sind ja auch immer politische Werte,
+
+01:28:01.600 --> 01:28:04.600
+also zu sagen, ich will ein bedingungsloses Grundeinkommen, das ist ein politischer Wert,
+
+01:28:04.600 --> 01:28:10.600
+der was mit positiver Freiheit und mit Menschenwürde zu tun hat, aber das auf der Ebene zu verhandeln,
+
+01:28:10.600 --> 01:28:15.600
+der gibt, glaube ich, gerade weniger Sinn, als zu sagen, was brauchen wir jetzt gerade, was ist der nächste Schritt.
+
+01:28:15.600 --> 01:28:18.600
+Deshalb sind meine Zukunftsvisionen häufig sehr klein.
+
+01:28:18.600 --> 01:28:23.600
+Also für mich ist es wirklich eher, ich gucke mal so vor mich und da liegt schon genug Shit rum
+
+01:28:23.600 --> 01:28:28.600
+und dann die fünf Kilometer, die räumen wir auch dann noch auf, wenn wir dahin kommen,
+
+01:28:28.600 --> 01:28:32.600
+aber jetzt gerade, weil gerade einfach viele Entscheidungen getroffen werden.
+
+01:28:32.600 --> 01:28:37.600
+Also deshalb bin ich bei diesem Web3-Thema so laut, weil ich mir gewisse Sorge habe,
+
+01:28:38.600 --> 01:28:44.600
+dass da Entscheidungen getroffen werden in eine problematische Richtung oder dass noch mehr Leute viel Geld verlieren,
+
+01:28:44.600 --> 01:28:47.600
+wie auch immer, aber das ist auch ein Jetzt-Thema.
+
+01:28:47.600 --> 01:28:52.600
+Die Gruppe spricht immer darüber, sei das in zehn Jahren irgendwie dann relevant und wir bauen ja alle eine Infrastruktur.
+
+01:28:52.600 --> 01:28:57.600
+Für mich ist es halt ein Jetzt-Thema, wo man jetzt quasi politisch einschreiten muss.
+
+01:28:57.600 --> 01:29:02.600
+Und das ist für mich gar keine Vision, mit der ich mich da auseinandersetze,
+
+01:29:02.600 --> 01:29:06.600
+weil ich das an der Stelle für gar nicht so ergiebig halte.
+
+01:29:06.600 --> 01:29:08.600
+Ich glaube, das ist die Antwort.
+
+01:29:08.600 --> 01:29:12.600
+Und das mit dem Jetzt, also das ist jetzt für mich auch interessant,
+
+01:29:12.600 --> 01:29:18.600
+weil ich habe vor kurzem mit Andrea Vetter eine Folge aufgezeichnet zu Technologie und Degrowth.
+
+01:29:18.600 --> 01:29:22.600
+Und die hat diese Frage des Jetzt einfach auch nochmal ganz konkret
+
+01:29:22.600 --> 01:29:26.600
+auf die jetzt schon vorhandenen technologischen Infrastrukturen bezogen und hat,
+
+01:29:26.600 --> 01:29:30.600
+und das so lese ich dich auch, verstehe ich dich auch, hat darauf hingewiesen,
+
+01:29:30.600 --> 01:29:33.600
+dass es natürlich auch einfach relevant ist, sich nochmal zu fragen,
+
+01:29:33.600 --> 01:29:39.600
+wie können die jetzt schon vorhandenen Technologien in einer anderen Art und Weise genutzt werden,
+
+01:29:39.600 --> 01:29:44.600
+anstatt sozusagen permanent immer wieder neue, neue, neue, neue zu bauen sozusagen?
+
+01:29:44.600 --> 01:29:45.600
+Genau.
+
+01:29:45.600 --> 01:29:50.600
+Also das fand ich, wir müssen, wir brauchen keine Innovation, um der Innovation will.
+
+01:29:50.600 --> 01:29:55.600
+Es gibt dieses wundervolle Buch von Lee Vinzel und ich vergesse seinen Partner immer,
+
+01:29:56.600 --> 01:30:00.600
+The Innovation Delusion, indem er das halt als Innovation Theater benennt.
+
+01:30:00.600 --> 01:30:03.600
+Du musst immer innovativ sein, Innovation produzieren.
+
+01:30:03.600 --> 01:30:07.600
+Es geht gar nicht darum, ob das materiell etwas verbessert im Vergleich zum Status quo.
+
+01:30:07.600 --> 01:30:11.600
+Du musst aber innovativ sein, weil es ein Wert in sich ist in unserer Gesellschaft heute.
+
+01:30:11.600 --> 01:30:13.600
+Und das ist definitiv ein Problem.
+
+01:30:13.600 --> 01:30:17.600
+Und dann, dann, man sieht das manchmal, wenn dann so ganz irritiert gesehen wird,
+
+01:30:17.600 --> 01:30:20.600
+dass bestimmte, bestimmte Naturvölker, die man eh immer schon abgewertet hat,
+
+01:30:20.600 --> 01:30:24.600
+bestimmte Probleme schon lange vor uns gelöst haben und wussten, wie man eine Kreislaufwirtschaft baut
+
+01:30:24.600 --> 01:30:25.600
+und all diese Geschichten.
+
+01:30:25.600 --> 01:30:27.600
+Ja, das ist alles da.
+
+01:30:27.600 --> 01:30:30.600
+Du musst halt auch mal mit den Leuten reden, die wissen, was sie da tun.
+
+01:30:30.600 --> 01:30:34.600
+Das ist nicht innovativ, aber das löst halt Probleme.
+
+01:30:34.600 --> 01:30:42.600
+Und jetzt hast du eben in der Antwort auf die Strategiefrage so vehement das jetzt herausgestellt,
+
+01:30:42.600 --> 01:30:50.600
+was ein bisschen natürlich die Abschlussfrage, die ich einem jeden Gast stelle, so ein bisschen vorfärbt.
+
+01:30:50.600 --> 01:30:56.600
+Denn ich frage eine jede, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+
+01:30:56.600 --> 01:30:58.600
+Das ist eine sehr gute Frage.
+
+01:30:58.600 --> 01:31:01.600
+Ich komme aus Norddeutschland, da ist ein positives Denken mal sehr schwierig.
+
+01:31:01.600 --> 01:31:05.600
+Wir sind ja grundsätzlich missmutig und schlecht.
+
+01:31:05.600 --> 01:31:12.600
+Ich glaube, was mich sehr freudig stimmt im Blick auf die Zukunft
+
+01:31:12.600 --> 01:31:17.600
+und so kritisch ich vielen Dingen gegenüberstehe, ich bin ja ein großer Fan des Digitalen und des Internet.
+
+01:31:17.600 --> 01:31:22.600
+Ich finde das ja wirklich die beste Sache, die seit vielen, vielen hundert Jahren erfunden wurde.
+
+01:31:22.600 --> 01:31:28.600
+Weil was mich sehr, sehr positiv stimmt, ist, wie sehr es uns Menschen erlaubt,
+
+01:31:28.600 --> 01:31:32.600
+das was ich zu Beginn mit der Struktur des Digitalen selbst erwähnte,
+
+01:31:32.600 --> 01:31:39.600
+wie sehr ich das überall sehe, wie Menschen begreifen, wie groß sie sein können
+
+01:31:39.600 --> 01:31:45.600
+und was sie alles sein können und wie sie neue Verbindungen zu anderen Menschen finden können.
+
+01:31:45.600 --> 01:31:51.600
+Und ich glaube, dass bei allen Mengen, die es haben, die digitalen Infrastrukturen, die wir haben,
+
+01:31:51.600 --> 01:31:54.600
+da schon viel gemacht haben und ich glaube, dass da noch viel, viel mehr passiert,
+
+01:31:54.600 --> 01:32:01.600
+wenn ich sehe, wie sich Communities auf TikTok, auf YouTube und sonst wo bilden
+
+01:32:01.600 --> 01:32:08.600
+und ein extrem offener, leider nicht immer, aber innerhalb dieser Communities
+
+01:32:08.600 --> 01:32:14.600
+häufig ein extrem offener und stützender Prozess läuft, der in einer Welt,
+
+01:32:14.600 --> 01:32:20.600
+in der sonst ganz viel, jeder gegen jeden und wir müssen uns jetzt, wir müssen alle Profit erwätschaften
+
+01:32:20.600 --> 01:32:23.600
+und wir müssen alle die anderen übervorteilen, dass daneben aber Dinge passieren,
+
+01:32:23.600 --> 01:32:29.600
+wo Menschen, die paar Kröten, die sie haben, noch irgendwelchen KünstlerInnen in den Hut werfen,
+
+01:32:29.600 --> 01:32:32.600
+weil sie einfach geil finden, dass die tolle Kunst für die Community machen
+
+01:32:32.600 --> 01:32:37.600
+und sich da einfach eine Form fahren. Das ist jetzt keine strukturierte Gegenbewegung
+
+01:32:37.600 --> 01:32:42.600
+gegen die Übel des Kapitalismus, aber sie zeigen, dass das David Graeber mal sagte,
+
+01:32:42.600 --> 01:32:48.600
+man lebt nie in einem vollen Kommunismus, man lebt auch nie in einem vollen Kapitalismus.
+
+01:32:48.600 --> 01:32:51.600
+Wir leben aber die meiste Zeit eigentlich in sehr kommunistischen Welten.
+
+01:32:51.600 --> 01:32:54.600
+Unsere Familien sind eigentlich so, unsere Freundschaften sind so.
+
+01:32:54.600 --> 01:32:57.600
+Ganz viele unserer sozialen Beziehungen funktionieren so, nur plötzlich,
+
+01:32:57.600 --> 01:33:01.600
+sobald wir rausgehen und Geld verdienen müssen, dann ist alles so transaktional.
+
+01:33:01.600 --> 01:33:08.600
+Ich finde, dass sich das an vielen Stellen ganz stark wieder zeigt, dass das wieder entdeckt wird.
+
+01:33:08.600 --> 01:33:13.600
+Und ich meine, es gibt eine politische Linke, die sich da vielleicht nochmal wieder formiert
+
+01:33:13.600 --> 01:33:17.600
+und die noch neue Ideen auskramt, sondern das Leute ganz materiell in ihrem Alltag begreifen,
+
+01:33:17.600 --> 01:33:24.600
+dass die Welt nicht so sein muss. Mark Fischer sagte mal, es ist nicht schwerer vorzustellen,
+
+01:33:24.600 --> 01:33:29.600
+dass das Ende des Kapitalismus, und es ist schwer vorzustellen, aber Leute machen das schon.
+
+01:33:29.600 --> 01:33:34.600
+Und wir sehen, dass da auch gerade dieses Community-Building, was das Digitale uns erlaubt,
+
+01:33:34.600 --> 01:33:38.600
+ein wichtiger Schritt dahin ist, zu sagen, weißt du was, fuck all of this,
+
+01:33:38.600 --> 01:33:41.600
+dann machen wir halt unseren eigenen Shit hier für uns.
+
+01:33:41.600 --> 01:33:44.600
+Und zumindest in unserem kleinen Bereich muss das nicht so sein.
+
+01:33:44.600 --> 01:33:48.600
+Ich glaube, Leute werden da viele Dinge erfahren, die man früher,
+
+01:33:48.600 --> 01:33:51.600
+da gab es ein paar Leute, die sich da mal in der Kommune zusammengefunden haben
+
+01:33:51.600 --> 01:33:54.600
+und die ein anderes Lebensmodell erfahren konnten in einem Aspekt ihres Lebens.
+
+01:33:54.600 --> 01:33:57.600
+Das war aber das Skalierte halt für nix.
+
+01:33:57.600 --> 01:34:00.600
+Ich glaube, es ist für viele Leute heute sehr viel einfacher,
+
+01:34:00.600 --> 01:34:04.600
+jenseits von Erfahrungen zu machen, du musst alle übervorteilen,
+
+01:34:04.600 --> 01:34:07.600
+du musst alle übertöpeln, und das geht nur um Profit.
+
+01:34:07.600 --> 01:34:11.600
+Und ich mache das hoffnungsvoll, weil ich glaube, wenn man das erlebt,
+
+01:34:11.600 --> 01:34:15.600
+dann weiß man, dass die Welt besser sein könnte, als sie jetzt ist.
+
+01:34:16.600 --> 01:34:20.600
+Wunderbar, Tante, das war ja ein ganz ausgezeichnetes Schlusswort.
+
+01:34:20.600 --> 01:34:22.600
+Vielen Dank für dieses Gespräch.
+
+01:34:22.600 --> 01:34:24.600
+Danke fürs Einladen, es hat mich sehr gefreut.
+
+01:34:28.600 --> 01:34:30.600
+Das war Future Histories für heute.
+
+01:34:30.600 --> 01:34:32.600
+Vielen Dank fürs Zuhören.
+
+01:34:32.600 --> 01:34:37.600
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+01:34:37.600 --> 01:34:41.600
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories
+
+01:34:41.600 --> 01:34:43.600
+oder im eigenen Subreddit.
+
+01:34:43.600 --> 01:34:49.600
+Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren,
+
+01:34:49.600 --> 01:34:53.600
+sondern auch auf YouTube, wo ihr neben den Episoden dann auch
+
+01:34:53.600 --> 01:34:58.600
+Kurzvideos zu Kernbegriffen einzelner Episoden findet.
+
+01:34:58.600 --> 01:35:03.600
+Schreibt mir gerne unter jan at futurehistories.today.
+
+01:35:03.600 --> 01:35:07.600
+Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise.
+
+01:35:07.600 --> 01:35:10.600
+Wenn ihr Future Histories unterstützen wollt,
+
+01:35:10.600 --> 01:35:14.600
+dann könnt ihr das auf patreon.com schrägstrich Future Histories
+
+01:35:14.600 --> 01:35:17.600
+oder auch via Spende auf unserer Homepage.
+
+01:35:17.600 --> 01:35:20.600
+Future Histories ist eine Produktion von MetaLapses,
+
+01:35:20.600 --> 01:35:23.600
+zu finden auf meta-lapses.net.
+
+01:35:23.600 --> 01:35:26.600
+Bis zum nächsten Mal, ich freue mich.
+
