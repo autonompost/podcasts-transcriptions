@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E26_-_Phil
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft4.0 #HomoOeconomicus #DigitalSocialism #Kybernetik #Cybernetics #Algorithmen #digitalerKapitalismus #AlgorithmischesRegieren #MMT #ModernMonetaryTheory #Interview #PhilippStaab #Suhrkamp #ProprietäreMärkte #ÖkonomieDerUnknappheit #HU #Plattform #Plattformkapitalismus #SäkulareStagnation #proprietäreMärkte
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft40 #HomoOeconomicus #DigitalSocialism #Kybernetik #Cybernetics #Algorithmen #digitalerKapitalismus #AlgorithmischesRegieren #MMT #ModernMonetaryTheory #Interview #PhilippStaab #Suhrkamp #ProprietäreMärkte #ÖkonomieDerUnknappheit #HU #Plattform #Plattformkapitalismus #SäkulareStagnation #proprietäreMärkte

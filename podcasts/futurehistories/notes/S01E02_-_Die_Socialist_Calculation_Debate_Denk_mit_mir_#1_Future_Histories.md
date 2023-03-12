@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E02_-_Die_
 
 Episode Keywords:
 
-#FutureHistories #JanGroos #Zukunft #Gesellschaft #SocialistCalculationDebate - [Download](https://www.podbean.com/site/EpisodeDownload/PBBA11568ZDV4 "Download")
+#FutureHistories #JanGroos #Zukunft #Gesellschaft #SocialistCalculationDebate 

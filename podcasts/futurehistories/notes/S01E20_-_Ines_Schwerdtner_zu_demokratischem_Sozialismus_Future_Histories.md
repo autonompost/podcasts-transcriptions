@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E20_-_Ines
 
 Episode Keywords:
 
-#FutureHistories #Podcast #InesSchwerdtner #DemokratischerSozialismus #Jacobin #AxelHonneth #JanGroos #Interview #Novara #AaronBastani #AhsSarkar #FullyAutomatedLuxuryCommunism #Sozialismus #DeutscheWohnen&Coenteignen
+#FutureHistories #Podcast #InesSchwerdtner #DemokratischerSozialismus #Jacobin #AxelHonneth #JanGroos #Interview #Novara #AaronBastani #AhsSarkar #FullyAutomatedLuxuryCommunism #Sozialismus #DeutscheWohnenCoEnteignen

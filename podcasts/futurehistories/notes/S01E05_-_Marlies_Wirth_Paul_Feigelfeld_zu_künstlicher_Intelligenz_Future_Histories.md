@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E05_-_Marl
 
 Episode Keywords:
 
-#MarliesWirth #PaulFeigelfeld #JanGroos #Zukunft #KünstlicheIntelligenz #KI #K.I. #A.I. #ArtificiaIntelligence #UncannyValues #GenerativeAdversarialNetwork #GAN #Digitalisierung #MaschinellesLernen #MachineLearning #Algorithmen
+#MarliesWirth #PaulFeigelfeld #JanGroos #Zukunft #KünstlicheIntelligenz #KI #ArtificiaIntelligence #UncannyValues #GenerativeAdversarialNetwork #GAN #Digitalisierung #MaschinellesLernen #MachineLearning #Algorithmen

@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E24_-_Feli
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft4.0 #Algorithmen #ContactTracing #Corona #Covid-19 #FelixStalder #UBS #UniversalBasicServices #Neoliberalismus #Bewegungsdaten #Handydaten #Pandemie #SARS #Tracking #Panoptikum #Überwachung #Genossenschaften
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft40 #Algorithmen #ContactTracing #Corona #Covid-19 #FelixStalder #UBS #UniversalBasicServices #Neoliberalismus #Bewegungsdaten #Handydaten #Pandemie #SARS #Tracking #Panoptikum #Überwachung #Genossenschaften

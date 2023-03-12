@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E43_-_Adri
 
 Episode Keywords:
 
-#FutureHistories #Podcast #AdrianDaub #WasDasValleyDenkenNennt #SiliconValley #Disruption #disruptiv #VoicesFromTheValley #Interview #Society #Demokratie #DigitalerKapitalismus #Schumpeter #Sozialismus #Kapitalismus #Section230 #CalifornianIdeology #IdeologicalEchoChamber #WhatTechCallsThinking #TechUtopismus #ElonMusk #Moira Weigel #Proposition22 #Kalifornien #Uber #TechKonzerne #JamesDamore #GoogleMemo
+#FutureHistories #Podcast #AdrianDaub #WasDasValleyDenkenNennt #SiliconValley #Disruption #disruptiv #VoicesFromTheValley #Interview #Society #Demokratie #DigitalerKapitalismus #Schumpeter #Sozialismus #Kapitalismus #Section230 #CalifornianIdeology #IdeologicalEchoChamber #WhatTechCallsThinking #TechUtopismus #ElonMusk #MoiraWeigel #Proposition22 #Kalifornien #Uber #TechKonzerne #JamesDamore #GoogleMemo
