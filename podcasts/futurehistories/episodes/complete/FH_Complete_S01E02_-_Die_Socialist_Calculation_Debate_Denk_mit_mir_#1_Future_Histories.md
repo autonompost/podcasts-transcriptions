@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FutureHistories #JanGroos #Zukunft #Gesellschaft #SocialistCalculationDebate - [Download](https://www.podbean.com/site/EpisodeDownload/PBBA11568ZDV4 "Download")
+#FutureHistories #JanGroos #Zukunft #Gesellschaft #SocialistCalculationDebate 

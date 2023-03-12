@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#SiljaGraupe #PluraleÖkonomik #CusanusHochschule #Cusanus #Gemeinsinn #Wirtschaft #Ökonomik #PluraleÖkonomik #Sozioökonomik #Wirtschaftswissenschaften #HeterodoxeÖkonomie #AlternativeWirtschaft #Gesellschaftsgestaltung #Solidarität #Volkswirtschaftslehre #WalterÖtsch #Mythos Markt #Common #Commoning #Commonismus #Planwirtschaft #DigitalerSozialismus #DigitalePlanwirtschaft #Kapitalismus #Kapital #DigitalSocialism #Planungsdebatte #Liberalismus #Markt #Hayek #Neoliberalismus #Neoklassik #Economist4Future
+#SiljaGraupe #PluraleÖkonomik #CusanusHochschule #Cusanus #Gemeinsinn #Wirtschaft #Ökonomik #PluraleÖkonomik #Sozioökonomik #Wirtschaftswissenschaften #HeterodoxeÖkonomie #AlternativeWirtschaft #Gesellschaftsgestaltung #Solidarität #Volkswirtschaftslehre #WalterÖtsch #MythosMarkt #Common #Commoning #Commonismus #Planwirtschaft #DigitalerSozialismus #DigitalePlanwirtschaft #Kapitalismus #Kapital #DigitalSocialism #Planungsdebatte #Liberalismus #Markt #Hayek #Neoliberalismus #Neoklassik #Economist4Future

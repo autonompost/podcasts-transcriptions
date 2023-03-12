@@ -4,4 +4,4 @@ Welcome to Future Histories. My name is Jan Groos and it is my great pleasure to
 
 Episode Keywords:
 
-#FutureHistories #Podcast #AaronBenanav #JanGroos #Interview #Automation #AutomationAndTheFutureOfWork #FullEmployment #AWorldWithoutWork #ServiceWorkInThePandemicEconomy #UBS #UBI #UniversalBasicIncome #UniversalBasicServices #BGE #BedingungslosesGrundeinkommen #Arbeitspolitik #Planwirtschaft #Society #Democracy #Communism #Planarchy #SocialistCalculationDebate #Hayek #Marx #KarlMarx #PlanningDebate #DigitalSocialism #Socialism #PlannedEconomy #AssociationalSocialism#DemocraticPlanning #FutureHistoriesInternational
+#FutureHistories #Podcast #AaronBenanav #JanGroos #Interview #Automation #AutomationAndTheFutureOfWork #FullEmployment #AWorldWithoutWork #ServiceWorkInThePandemicEconomy #UBS #UBI #UniversalBasicIncome #UniversalBasicServices #BGE #BedingungslosesGrundeinkommen #Arbeitspolitik #Planwirtschaft #Society #Democracy #Communism #Planarchy #SocialistCalculationDebate #Hayek #Marx #KarlMarx #PlanningDebate #DigitalSocialism #Socialism #PlannedEconomy #AssociationalSocialism #DemocraticPlanning #FutureHistoriesInternational

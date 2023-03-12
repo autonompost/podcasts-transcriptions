@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FrederikeKaltheuner #Datensouveränität #Data #ArtificialIntelligence #KI #KünstlicheIntelligenz #SnakeOil #DatenGerechtigkeit #Datafizierung #A.I. #K.I. #NeuronaleNetze #DeepLearning #DigitalerKapitalismus #DasRegierenDerAlgorithmen #AlgorithmischesRegieren #Technokratie #DasRegierenDerAlgorithmen
+#FrederikeKaltheuner #Datensouveränität #Data #ArtificialIntelligence #KI #KünstlicheIntelligenz #SnakeOil #DatenGerechtigkeit #Datafizierung #AI #NeuronaleNetze #DeepLearning #DigitalerKapitalismus #DasRegierenDerAlgorithmen #AlgorithmischesRegieren #Technokratie #DasRegierenDerAlgorithmen

@@ -88,4 +88,4 @@ oder auf Reddit [https://www.reddit.com/r/FutureHistories/](https://www.reddit.c
 
 Episode Keywords:
 
-#FutureHistories, #Podcast, #InesSchwerdtner, #DemokratischerSozialismus, #Jacobin, #AxelHonneth, #JanGroos, #Interview, #Novara, #AaronBastani, #AhsSarkar, #FullyAutomatedLuxuryCommunism, #Sozialismus, #DeutscheWohnen&Coenteignen
+#FutureHistories, #Podcast, #InesSchwerdtner, #DemokratischerSozialismus, #Jacobin, #AxelHonneth, #JanGroos, #Interview, #Novara, #AaronBastani, #AhsSarkar, #FullyAutomatedLuxuryCommunism, #Sozialismus, #DeutscheWohnenCoEnteignen 

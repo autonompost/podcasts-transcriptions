@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FutureHistories #Podcast #InesSchwerdtner #DemokratischerSozialismus #Jacobin #AxelHonneth #JanGroos #Interview #Novara #AaronBastani #AhsSarkar #FullyAutomatedLuxuryCommunism #Sozialismus #DeutscheWohnen&Coenteignen
+#FutureHistories #Podcast #InesSchwerdtner #DemokratischerSozialismus #Jacobin #AxelHonneth #JanGroos #Interview #Novara #AaronBastani #AhsSarkar #FullyAutomatedLuxuryCommunism #Sozialismus #DeutscheWohnenCoEnteignen 
