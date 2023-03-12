@@ -21,6 +21,7 @@ TODO
 
 If you are [Obsidian](https://obsidian.md) User and want to use the plugin [obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes) you will find ready to use notes with embedded Metadata for this plugin.
 
+- [ ] fix a unclear problem with loading the .srt files without having to redit the metadata block. see [transcript does not automatically show when creating audio-notes from a template](https://github.com/jjmaldonis/obsidian-audio-notes/issues/24)
 - [ ] TODO create a script that lets you replace the path inside the audio notes
 
 
