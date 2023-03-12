@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E38-Ulrike_Herrmann_zu_kapitalistischer_Planwirtschaft_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E37_-_Eva_von_Redecker_zur_Revolution_für_das_Leben_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E38_-_Ulrike_Herrmann_zu_kapitalistischer_Planwirtschaft_Future_Histories.md]]
 
 
 Episode Keywords:

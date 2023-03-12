@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E54-Urs_Staheli_zu_Entnetzung_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E53_-_Kalle_Kunkel_zu_Herrschaftstechnologien_in_der_Krise_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E54_-_Urs_Stäheli_zu_Entnetzung_Future_Histories.md]]
 
 
 Episode Keywords:

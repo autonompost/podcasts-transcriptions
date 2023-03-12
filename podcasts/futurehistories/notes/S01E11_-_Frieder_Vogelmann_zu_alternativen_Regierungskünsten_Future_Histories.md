@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E11-Frieder_Vogelmann_zu_alternativen_Regierungskunsten_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E10_-_Philipp_Frey_zu_Zukünften_der_Automatisierung_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E11_-_Frieder_Vogelmann_zu_alternativen_Regierungskünsten_Future_Histories.md]]
 
 
 Episode Keywords:

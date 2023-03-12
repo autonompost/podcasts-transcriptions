@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E42-Moira_Weigel_on_Palantir,_Tech-Nationalism_and_Aggression_in_the_Life-World_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E41_-_Florian_Irgmaier_zu_libertärem_Paternalismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E42_-_Moira_Weigel_on_Palantir,_Tech-Nationalism_Aggression_in_the_Life-World_Future_Histories.md]]
 
 
 Episode Keywords:

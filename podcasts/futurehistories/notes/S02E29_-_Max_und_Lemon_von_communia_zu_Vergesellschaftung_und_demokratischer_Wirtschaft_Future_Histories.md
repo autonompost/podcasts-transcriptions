@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E29-Max_und_Lemon_von_communia_zu_Vergesellschaftung_und_demokratischer_Wirtschaft_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E28_-_Marcus_Meindel_zum_Global_Commoning_System_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E29_-_Max_und_Lemon_von_communia_zu_Vergesellschaftung_und_demokratischer_Wirtschaft_Future_Histories.md]]
 
 
 Episode Keywords:

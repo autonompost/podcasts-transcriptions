@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E17-Robert_Seyfert_zu_algorithmischer_Sozialitat_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E16_-_Lea_Ypi_on_Freedom_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E17_-_Robert_Seyfert_zu_algorithmischer_Sozialität_Future_Histories.md]]
 
 
 Episode Keywords:

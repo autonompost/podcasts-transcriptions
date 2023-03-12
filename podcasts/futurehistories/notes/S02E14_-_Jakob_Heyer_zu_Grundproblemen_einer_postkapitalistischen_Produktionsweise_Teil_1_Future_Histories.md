@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E14-Jakob_Heyer_zu_Grundproblemen_einer_postkapitalistischen_Produktionsweise_Teil_1_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E13_-_Tine_Haubner_und_Silke_van_Dyk_zu_Community-Kapitalismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E14_-_Jakob_Heyer_zu_Grundproblemen_einer_postkapitalistischen_Produktionsweise_Teil_1_Future_Histories.md]]
 
 
 Episode Keywords:

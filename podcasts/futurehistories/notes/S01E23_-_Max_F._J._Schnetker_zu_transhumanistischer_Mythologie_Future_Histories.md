@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E23-Max_F._J._Schnetker_zu_transhumanistischer_Mythologie_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E22_-_Anna-Verena_Nosthoff_und_Felix_Maschewski_zu_digitaler_Verführung,_sozialer_Kontrolle_und_der_Gesellschaft_der_Wearables_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E23_-_Max_F._J._Schnetker_zu_transhumanistischer_Mythologie_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E02-Frederike_Kaltheuner_zu_Datafizierung_und_A.I._Snake_Oil_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E01_-_Katharina_Hoppe_zur_Kraft_der_Revision_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E02_-_Frederike_Kaltheuner_zu_Datafizierung_und_A.I._Snake_Oil_Future_Histories.md]]
 
 
 Episode Keywords:

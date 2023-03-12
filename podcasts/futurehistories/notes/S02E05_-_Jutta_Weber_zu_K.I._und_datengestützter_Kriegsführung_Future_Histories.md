@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E05-Jutta_Weber_zu_K.I._und_datengestutzter_Kriegsfuhrung_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E04_-_Vincent_August_zu_technologischem_Regieren_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E05_-_Jutta_Weber_zu_K.I._und_datengestützter_Kriegsführung_Future_Histories.md]]
 
 
 Episode Keywords:

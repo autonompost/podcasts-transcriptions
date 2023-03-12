@@ -16,7 +16,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E03-Armen_Avanessian_zu_Akzelerationismus_and_Ethnofuturismen_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E02_-_Die_Socialist_Calculation_Debate_Denk_mit_mir_#1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E03_-_Armen_Avanessian_zu_Akzelerationismus_Ethnofuturismen_Future_Histories.md]]
 
 
 Episode Keywords:

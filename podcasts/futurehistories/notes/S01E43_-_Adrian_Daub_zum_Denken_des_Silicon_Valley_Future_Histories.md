@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E43-Adrian_Daub_zum_Denken_des_Silicon_Valley_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E42_-_Moira_Weigel_on_Palantir,_Tech-Nationalism_Aggression_in_the_Life-World_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E43_-_Adrian_Daub_zum_Denken_des_Silicon_Valley_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E13-Tine_Haubner_und_Silke_van_Dyk_zu_Community-Kapitalismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E12_-_Friederike_Habermann_zu_Tauschlogik_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E13_-_Tine_Haubner_und_Silke_van_Dyk_zu_Community-Kapitalismus_Future_Histories.md]]
 
 
 Episode Keywords:

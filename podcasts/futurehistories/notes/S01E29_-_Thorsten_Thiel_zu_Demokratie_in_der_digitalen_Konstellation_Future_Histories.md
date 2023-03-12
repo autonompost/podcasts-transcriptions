@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E29-Thorsten_Thiel_zu_Demokratie_in_der_digitalen_Konstellation_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E28_-_Joanna_Pope_zu_Degrowth_Akzelerationismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E29_-_Thorsten_Thiel_zu_Demokratie_in_der_digitalen_Konstellation_Future_Histories.md]]
 
 
 Episode Keywords:

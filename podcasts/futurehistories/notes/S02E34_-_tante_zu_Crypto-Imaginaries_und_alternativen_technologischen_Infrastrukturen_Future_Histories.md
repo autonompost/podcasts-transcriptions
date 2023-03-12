@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E34-tante_zu_Crypto-Imaginaries_und_alternativen_technologischen_Infrastrukturen_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E33_-_Pat_Devine_on_Negotiated_Coordination_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E34_-_tante_zu_Crypto-Imaginaries_und_alternativen_technologischen_Infrastrukturen_Future_Histories.md]]
 
 
 Episode Keywords:

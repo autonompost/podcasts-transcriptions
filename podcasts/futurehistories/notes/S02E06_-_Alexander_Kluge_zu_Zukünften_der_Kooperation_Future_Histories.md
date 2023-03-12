@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E06-Alexander_Kluge_zu_Zukunften_der_Kooperation_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E05_-_Jutta_Weber_zu_K.I._und_datengestützter_Kriegsführung_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E06_-_Alexander_Kluge_zu_Zukünften_der_Kooperation_Future_Histories.md]]
 
 
 Episode Keywords:

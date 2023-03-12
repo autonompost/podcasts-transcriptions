@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E59-Joscha_Wullweber_zu_Zentralbankkapitalismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E58_-_Jasper_Bernes_on_Planning_and_Anarchy_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E59_-_Joscha_Wullweber_zu_Zentralbankkapitalismus_Future_Histories.md]]
 
 
 Episode Keywords:

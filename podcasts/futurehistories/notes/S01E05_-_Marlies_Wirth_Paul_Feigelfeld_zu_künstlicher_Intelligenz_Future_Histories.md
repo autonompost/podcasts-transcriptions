@@ -17,7 +17,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E05-Marlies_Wirth_and_Paul_Feigelfeld_zu_kunstlicher_Intelligenz_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E04_-_Felix_Stalder_zu_Machtausübung_durch_Algorithmen_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E05_-_Marlies_Wirth_Paul_Feigelfeld_zu_künstlicher_Intelligenz_Future_Histories.md]]
 
 
 Episode Keywords:

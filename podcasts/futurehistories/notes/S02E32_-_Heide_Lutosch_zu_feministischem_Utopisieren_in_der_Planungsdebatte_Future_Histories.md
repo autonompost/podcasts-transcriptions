@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E32-Heide_Lutosch_zu_feministischem_Utopisieren_in_der_Planungsdebatte_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E31_-_Thomas_Swann_on_Anarchist_Cybernetics_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E32_-_Heide_Lutosch_zu_feministischem_Utopisieren_in_der_Planungsdebatte_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E08-Jakob_Kapeller_zu_pluraler_Okonomik_Teil_2_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E07_-_Jakob_Kapeller_zu_pluraler_Ökonomik_Teil_1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E08_-_Jakob_Kapeller_zu_pluraler_Ökonomik_Teil_2_Future_Histories.md]]
 
 
 Episode Keywords:

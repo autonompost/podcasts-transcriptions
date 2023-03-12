@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E12-Daniel_Loick_zu_Anarchismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E11_-_Frieder_Vogelmann_zu_alternativen_Regierungskünsten_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E12_-_Daniel_Loick_zu_Anarchismus_Future_Histories.md]]
 
 
 Episode Keywords:

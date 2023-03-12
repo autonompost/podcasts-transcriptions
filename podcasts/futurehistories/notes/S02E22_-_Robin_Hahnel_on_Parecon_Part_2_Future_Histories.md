@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E22-Robin_Hahnel_on_Parecon_Part_2_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E21_-_Robin_Hahnel_on_Parecon_Part1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E22_-_Robin_Hahnel_on_Parecon_Part_2_Future_Histories.md]]
 
 
 Episode Keywords:

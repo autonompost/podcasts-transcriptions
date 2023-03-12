@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E40-Maurice_Hofgen_zur_Jobgarantie,_MMT_und_dem_Mythos_Geldknappheit_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E39_-_Jens_Schröter_zur_Gesellschaft_nach_dem_Geld_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E40_-_Maurice_Höfgen_zur_Jobgarantie,_MMT_und_dem_Mythos_Geldknappheit_Future_Histories.md]]
 
 
 Episode Keywords:

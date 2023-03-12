@@ -16,7 +16,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E02-Die_Socialist_Calculation_Debate_Denk_mit_mir_1_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E01_-_Benjamin_Seibel_zu_Kybernetik_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E02_-_Die_Socialist_Calculation_Debate_Denk_mit_mir_#1_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E36-Thomas_Lemke_zum_Regieren_der_Dinge_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E35_-_Cara_Röhner_zu_Gemeinwirtschaft_und_der_Solidarität_im_Recht_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E36_-_Thomas_Lemke_zum_Regieren_der_Dinge_Future_Histories.md]]
 
 
 Episode Keywords:

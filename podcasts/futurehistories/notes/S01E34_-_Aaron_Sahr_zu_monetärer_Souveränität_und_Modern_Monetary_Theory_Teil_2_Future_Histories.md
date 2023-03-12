@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E34-Aaron_Sahr_zu_monetarer_Souveranitat_und_Modern_Monetary_Theory_Teil_2_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E33_-_Aaron_Sahr_zu_monetärer_Souveränität_und_Modern_Monetary_Theory_Teil_1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E34_-_Aaron_Sahr_zu_monetärer_Souveränität_und_Modern_Monetary_Theory_Teil_2_Future_Histories.md]]
 
 
 Episode Keywords:

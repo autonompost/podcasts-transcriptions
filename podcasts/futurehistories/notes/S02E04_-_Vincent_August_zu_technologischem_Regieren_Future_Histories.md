@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E04-Vincent_August_zu_technologischem_Regieren_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E03_-_Ute_Tellmann_zu_Ökonomie_als_Kultur_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E04_-_Vincent_August_zu_technologischem_Regieren_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E41-Florian_Irgmaier_zu_libertarem_Paternalismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E40_-_Maurice_Höfgen_zur_Jobgarantie,_MMT_und_dem_Mythos_Geldknappheit_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E41_-_Florian_Irgmaier_zu_libertärem_Paternalismus_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E19-Jan_Philipp_Dapprich_zu_sozialistischer_Planwirtschaft_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E18_-_Simon_Schaupp_zu_Kybernetik_und_radikaler_Demokratie_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E19_-_Jan_Philipp_Dapprich_zu_sozialistischer_Planwirtschaft_Future_Histories.md]]
 
 
 Episode Keywords:

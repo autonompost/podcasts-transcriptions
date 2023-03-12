@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E25-Bini_Adamczak_zu_Beziehungsweisen_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E24_-_Gabriel_Kuhn_zu_anarchistischer_Regierungskunst_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E25_-_Bini_Adamczak_zu_Beziehungsweisen_Future_Histories.md]]
 
 
 Episode Keywords:

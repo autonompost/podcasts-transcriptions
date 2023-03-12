@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E28-Joanna_Pope_zu_Degrowth_and_Akzelerationismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E27_-_Dime_Punishment_Panel_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E28_-_Joanna_Pope_zu_Degrowth_Akzelerationismus_Future_Histories.md]]
 
 
 Episode Keywords:

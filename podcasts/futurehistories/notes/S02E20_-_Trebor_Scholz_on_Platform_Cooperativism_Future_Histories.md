@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E20-Trebor_Scholz_on_Platform_Cooperativism_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E19_-_David_Laibman_on_Multilevel_Democratic_Iterative_Coordination_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E20_-_Trebor_Scholz_on_Platform_Cooperativism_Future_Histories.md]]
 
 
 Episode Keywords:

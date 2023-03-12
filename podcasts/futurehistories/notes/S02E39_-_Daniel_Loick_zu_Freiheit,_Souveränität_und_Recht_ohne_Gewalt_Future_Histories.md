@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E39-Daniel_Loick_zu_Freiheit,_Souveranitat_und_Recht_ohne_Gewalt_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E38_-_Eva_von_Redecker_zu_Bleibefreiheit_und_demokratischer_Planung_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E39_-_Daniel_Loick_zu_Freiheit,_Souveränität_und_Recht_ohne_Gewalt_Future_Histories.md]]
 
 
 Episode Keywords:

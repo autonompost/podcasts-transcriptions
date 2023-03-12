@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E07-Simon_Schaupp_zu_Technopolitik_von_unten_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E06_-_Alexander_Kluge_zu_Zukünften_der_Kooperation_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E07_-_Simon_Schaupp_zu_Technopolitik_von_unten_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E12-Friederike_Habermann_zu_Tauschlogik_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E11_-_James_Muldoon_on_Platform_Socialism_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E12_-_Friederike_Habermann_zu_Tauschlogik_Future_Histories.md]]
 
 
 Episode Keywords:

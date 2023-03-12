@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E49-Sabine_Nuss_zu_Eigentum_Teil_2_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E48_-_Sabine_Nuss_zu_Eigentum_Teil_1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E49_-_Sabine_Nuss_zu_Eigentum_Teil_2_Future_Histories.md]]
 
 
 Episode Keywords:

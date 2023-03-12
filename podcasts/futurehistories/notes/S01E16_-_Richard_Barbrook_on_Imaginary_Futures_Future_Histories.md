@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E16-Richard_Barbrook_on_Imaginary_Futures_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E15_-_Rouzbeh_Taheri_zu_Enteignung,_Vergesellschaftung_demokratischem_Sozialismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E16_-_Richard_Barbrook_on_Imaginary_Futures_Future_Histories.md]]
 
 
 Episode Keywords:

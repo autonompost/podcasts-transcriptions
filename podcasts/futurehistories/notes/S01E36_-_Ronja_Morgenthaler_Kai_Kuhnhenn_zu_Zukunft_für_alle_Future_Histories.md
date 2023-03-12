@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E36-Ronja_Morgenthaler_and_Kai_Kuhnhenn_zu_Zukunft_fur_alle_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E35_-_Jeffrey_Sachs_on_Economics_Beyond_GDP_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E36_-_Ronja_Morgenthaler_Kai_Kuhnhenn_zu_Zukunft_für_alle_Future_Histories.md]]
 
 
 Episode Keywords:

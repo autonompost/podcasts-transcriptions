@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E11-James_Muldoon_on_Platform_Socialism_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E10_-_Aaron_Benanav_on_Associational_Socialism_and_Democratic_Planning_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E11_-_James_Muldoon_on_Platform_Socialism_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E10-Aaron_Benanav_on_Associational_Socialism_and_Democratic_Planning_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E09_-_Isabella_M._Weber_zu_Chinas_drittem_Weg_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E10_-_Aaron_Benanav_on_Associational_Socialism_and_Democratic_Planning_Future_Histories.md]]
 
 
 Episode Keywords:

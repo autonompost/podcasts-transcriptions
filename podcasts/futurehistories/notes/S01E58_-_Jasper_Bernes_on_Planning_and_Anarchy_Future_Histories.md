@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E58-Jasper_Bernes_on_Planning_and_Anarchy_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E57_-_Silja_Graupe_zu_alternativen_politischen_Ökonomien_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E58_-_Jasper_Bernes_on_Planning_and_Anarchy_Future_Histories.md]]
 
 
 Episode Keywords:

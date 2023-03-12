@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E28-Marcus_Meindel_zum_Global_Commoning_System_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E27_-_Nick_Dyer-Witheford_on_Biocommunism_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E28_-_Marcus_Meindel_zum_Global_Commoning_System_Future_Histories.md]]
 
 
 Episode Keywords:

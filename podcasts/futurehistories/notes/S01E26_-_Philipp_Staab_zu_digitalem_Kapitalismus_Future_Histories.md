@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E26-Philipp_Staab_zu_digitalem_Kapitalismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E25_-_Joseph_Vogl_zur_Krise_des_Regierens_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E26_-_Philipp_Staab_zu_digitalem_Kapitalismus_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E35-Cara_Rohner_zu_Gemeinwirtschaft_und_der_Solidaritat_im_Recht_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E34_-_tante_zu_Crypto-Imaginaries_und_alternativen_technologischen_Infrastrukturen_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E35_-_Cara_Röhner_zu_Gemeinwirtschaft_und_der_Solidarität_im_Recht_Future_Histories.md]]
 
 
 Episode Keywords:

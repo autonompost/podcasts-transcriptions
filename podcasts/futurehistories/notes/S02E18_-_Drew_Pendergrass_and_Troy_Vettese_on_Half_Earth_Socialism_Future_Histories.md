@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E18-Drew_Pendergrass_and_Troy_Vettese_on_Half_Earth_Socialism_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E17_-_Robert_Seyfert_zu_algorithmischer_Sozialität_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E18_-_Drew_Pendergrass_and_Troy_Vettese_on_Half_Earth_Socialism_Future_Histories.md]]
 
 
 Episode Keywords:

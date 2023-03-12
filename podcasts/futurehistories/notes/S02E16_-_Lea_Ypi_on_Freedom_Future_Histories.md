@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E16-Lea_Ypi_on_Freedom_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E15_-_Jakob_Heyer_zu_Grundproblemen_einer_postkapitalistischen_Produktionsweise_Teil_2_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E16_-_Lea_Ypi_on_Freedom_Future_Histories.md]]
 
 
 Episode Keywords:

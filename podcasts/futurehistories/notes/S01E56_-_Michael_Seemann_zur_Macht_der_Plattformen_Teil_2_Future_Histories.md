@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E56-Michael_Seemann_zur_Macht_der_Plattformen_Teil_2_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E55_-_Michael_Seemann_zur_Macht_der_Plattformen_Teil_1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E56_-_Michael_Seemann_zur_Macht_der_Plattformen_Teil_2_Future_Histories.md]]
 
 
 Episode Keywords:

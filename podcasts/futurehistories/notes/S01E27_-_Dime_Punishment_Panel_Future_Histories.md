@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E27-Dime_and_Punishment_Panel_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E26_-_Philipp_Staab_zu_digitalem_Kapitalismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E27_-_Dime_Punishment_Panel_Future_Histories.md]]
 
 
 Episode Keywords:

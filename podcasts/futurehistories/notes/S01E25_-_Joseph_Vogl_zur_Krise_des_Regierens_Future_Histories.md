@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E25-Joseph_Vogl_zur_Krise_des_Regierens_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E24_-_Felix_Stalder_zur_politischen_Dimension_von_Covid-19,_Bewegungsdaten_Contact_Tracing_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E25_-_Joseph_Vogl_zur_Krise_des_Regierens_Future_Histories.md]]
 
 
 Episode Keywords:

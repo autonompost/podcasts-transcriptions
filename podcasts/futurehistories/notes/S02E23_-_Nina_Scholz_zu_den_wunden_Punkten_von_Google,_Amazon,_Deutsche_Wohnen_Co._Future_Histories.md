@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E23-Nina_Scholz_zu_den_wunden_Punkten_von_Google,_Amazon,_Deutsche_Wohnen_and_Co._Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E22_-_Robin_Hahnel_on_Parecon_Part_2_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E23_-_Nina_Scholz_zu_den_wunden_Punkten_von_Google,_Amazon,_Deutsche_Wohnen_Co._Future_Histories.md]]
 
 
 Episode Keywords:

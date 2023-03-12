@@ -16,7 +16,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E04-Felix_Stalder_zu_Machtausubung_durch_Algorithmen_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E03_-_Armen_Avanessian_zu_Akzelerationismus_Ethnofuturismen_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E04_-_Felix_Stalder_zu_Machtausübung_durch_Algorithmen_Future_Histories.md]]
 
 
 Episode Keywords:

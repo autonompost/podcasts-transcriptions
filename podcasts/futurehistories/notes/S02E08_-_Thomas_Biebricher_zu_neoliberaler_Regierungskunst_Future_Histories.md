@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E08-Thomas_Biebricher_zu_neoliberaler_Regierungskunst_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E07_-_Simon_Schaupp_zu_Technopolitik_von_unten_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E08_-_Thomas_Biebricher_zu_neoliberaler_Regierungskunst_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E37-Eva_von_Redecker_zur_Revolution_fur_das_Leben_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E36_-_Ronja_Morgenthaler_Kai_Kuhnhenn_zu_Zukunft_für_alle_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E37_-_Eva_von_Redecker_zur_Revolution_für_das_Leben_Future_Histories.md]]
 
 
 Episode Keywords:

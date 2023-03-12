@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E39-Jens_Schroter_zur_Gesellschaft_nach_dem_Geld_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E38_-_Ulrike_Herrmann_zu_kapitalistischer_Planwirtschaft_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E39_-_Jens_Schröter_zur_Gesellschaft_nach_dem_Geld_Future_Histories.md]]
 
 
 Episode Keywords:

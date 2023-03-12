@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E13-Julia_Grillmayr_zu_Transhumanismus,_Posthumanismus_and_Kompost_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E12_-_Daniel_Loick_zu_Anarchismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E13_-_Julia_Grillmayr_zu_Transhumanismus,_Posthumanismus_Kompost_Future_Histories.md]]
 
 
 Episode Keywords:

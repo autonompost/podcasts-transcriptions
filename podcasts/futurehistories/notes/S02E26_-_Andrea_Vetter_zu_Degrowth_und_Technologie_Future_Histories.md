@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E26-Andrea_Vetter_zu_Degrowth_und_Technologie_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E25_-_Bini_Adamczak_zu_Beziehungsweisen_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E26_-_Andrea_Vetter_zu_Degrowth_und_Technologie_Future_Histories.md]]
 
 
 Episode Keywords:

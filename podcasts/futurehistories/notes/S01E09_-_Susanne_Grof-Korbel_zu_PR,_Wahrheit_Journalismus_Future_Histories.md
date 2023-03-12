@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E09-Susanne_Grof-Korbel_zu_PR,_Wahrheit_and_Journalismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E08_-_Jakob_Kapeller_zu_pluraler_Ökonomik_Teil_2_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E09_-_Susanne_Grof-Korbel_zu_PR,_Wahrheit_Journalismus_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E31-Thomas_Swann_on_Anarchist_Cybernetics_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E30_-_Philipp_Staab_zu_Anpassung_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E31_-_Thomas_Swann_on_Anarchist_Cybernetics_Future_Histories.md]]
 
 
 Episode Keywords:

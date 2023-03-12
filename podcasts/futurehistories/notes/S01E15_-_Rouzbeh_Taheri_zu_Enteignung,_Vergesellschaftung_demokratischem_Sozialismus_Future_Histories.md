@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E15-Rouzbeh_Taheri_zu_Enteignung,_Vergesellschaftung_and_demokratischem_Sozialismus_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E14_-_Harald_Welzer_zu_Kapitalismus,_Planwirtschaft_liberaler_Demokratie_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E15_-_Rouzbeh_Taheri_zu_Enteignung,_Vergesellschaftung_demokratischem_Sozialismus_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E46-Rahel_Suss_zu_Demokratie_und_Zukunft_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E45_-_Benjamin_Bratton_on_Synthetic_Catallaxies,_Platforms_of_Platforms_Red_Futurism_part_22_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E46_-_Rahel_Süß_zu_Demokratie_und_Zukunft_Future_Histories.md]]
 
 
 Episode Keywords:

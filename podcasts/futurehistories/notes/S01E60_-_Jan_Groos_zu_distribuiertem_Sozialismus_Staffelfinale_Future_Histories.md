@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E60-Jan_Groos_zu_distribuiertem_Sozialismus_Staffelfinale_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E59_-_Joscha_Wullweber_zu_Zentralbankkapitalismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E60_-_Jan_Groos_zu_distribuiertem_Sozialismus_Staffelfinale_Future_Histories.md]]
 
 
 Episode Keywords:

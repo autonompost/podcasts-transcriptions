@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E38-Eva_von_Redecker_zu_Bleibefreiheit_und_demokratischer_Planung_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E37_-_Shintaro_Miyazaki_zum_Tanzen_der_Digitalität_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E38_-_Eva_von_Redecker_zu_Bleibefreiheit_und_demokratischer_Planung_Future_Histories.md]]
 
 
 Episode Keywords:

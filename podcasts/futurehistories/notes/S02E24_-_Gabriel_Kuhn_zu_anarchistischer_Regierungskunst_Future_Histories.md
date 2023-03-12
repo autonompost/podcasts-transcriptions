@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E24-Gabriel_Kuhn_zu_anarchistischer_Regierungskunst_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E23_-_Nina_Scholz_zu_den_wunden_Punkten_von_Google,_Amazon,_Deutsche_Wohnen_Co._Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E24_-_Gabriel_Kuhn_zu_anarchistischer_Regierungskunst_Future_Histories.md]]
 
 
 Episode Keywords:

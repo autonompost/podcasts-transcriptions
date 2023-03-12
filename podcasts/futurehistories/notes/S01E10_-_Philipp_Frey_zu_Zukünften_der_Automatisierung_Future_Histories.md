@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E10-Philipp_Frey_zu_Zukunften_der_Automatisierung_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E09_-_Susanne_Grof-Korbel_zu_PR,_Wahrheit_Journalismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E10_-_Philipp_Frey_zu_Zukünften_der_Automatisierung_Future_Histories.md]]
 
 
 Episode Keywords:

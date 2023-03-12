@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E01-Katharina_Hoppe_zur_Kraft_der_Revision_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E60_-_Jan_Groos_zu_distribuiertem_Sozialismus_Staffelfinale_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E01_-_Katharina_Hoppe_zur_Kraft_der_Revision_Future_Histories.md]]
 
 
 Episode Keywords:

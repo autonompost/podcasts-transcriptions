@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E52-Max_Koch_zur_politischen_Okonomie_des_Degrowth_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E51_-_Timo_Daum_zur_unsichtbaren_Hand_des_Plans_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E52_-_Max_Koch_zur_politischen_Ökonomie_des_Degrowth_Future_Histories.md]]
 
 
 Episode Keywords:

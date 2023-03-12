@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E41-Antoinette_Rouvroy_on_Algorithmic_Governmentality_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E40_-_Raul_Zelik_zu_grünem_Sozialismus_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E41_-_Antoinette_Rouvroy_on_Algorithmic_Governmentality_Future_Histories.md]]
 
 
 Episode Keywords:

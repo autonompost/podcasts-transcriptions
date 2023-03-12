@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E27-Nick_Dyer-Witheford_on_Biocommunism_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E26_-_Andrea_Vetter_zu_Degrowth_und_Technologie_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E27_-_Nick_Dyer-Witheford_on_Biocommunism_Future_Histories.md]]
 
 
 Episode Keywords:

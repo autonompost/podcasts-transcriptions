@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S02E09-Isabella_M._Weber_zu_Chinas_drittem_Weg_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E08_-_Thomas_Biebricher_zu_neoliberaler_Regierungskunst_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E09_-_Isabella_M._Weber_zu_Chinas_drittem_Weg_Future_Histories.md]]
 
 
 Episode Keywords:

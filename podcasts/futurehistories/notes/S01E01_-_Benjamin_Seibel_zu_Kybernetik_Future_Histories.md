@@ -16,7 +16,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E01-Benjamin_Seibel_zu_Kybernetik_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E01_-_Benjamin_Seibel_zu_Kybernetik_Future_Histories.md]]
 
 
 Episode Keywords:

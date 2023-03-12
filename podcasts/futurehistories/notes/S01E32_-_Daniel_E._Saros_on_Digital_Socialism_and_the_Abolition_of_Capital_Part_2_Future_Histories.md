@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E32-Daniel_E._Saros_on_Digital_Socialism_and_the_Abolition_of_Capital_Part_2_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E31_-_Daniel_E._Saros_on_Digital_Socialism_and_the_Abolition_of_Capital_Part_1_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E32_-_Daniel_E._Saros_on_Digital_Socialism_and_the_Abolition_of_Capital_Part_2_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E07-Jakob_Kapeller_zu_pluraler_Okonomik_Teil_1_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E06_-_Jaya_Klara_Brekke_on_the_Political_in_Blockchain_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E07_-_Jakob_Kapeller_zu_pluraler_Ökonomik_Teil_1_Future_Histories.md]]
 
 
 Episode Keywords:

@@ -11,7 +11,7 @@ liveUpdate: true
 ---
 
 Shownotes: [[podcasts/futurehistories/episodes/S01E57-Silja_Graupe_zu_alternativen_politischen_Okonomien_Future_Histories.md]]
-Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E56_-_Michael_Seemann_zur_Macht_der_Plattformen_Teil_2_Future_Histories.md]]
+Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E57_-_Silja_Graupe_zu_alternativen_politischen_Ökonomien_Future_Histories.md]]
 
 
 Episode Keywords:
