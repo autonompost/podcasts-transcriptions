@@ -1,0 +1,677 @@
+start	end	text
+0	4800	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+4800	9680	Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, dass ihr wieder dabei seid. Heute
+9680	15160	spreche ich mit Felix Stahlder über Formen technopolitischer Machtausübung. Die aufmerksame
+15160	21240	Hörerin, der aufmerksame Hörer dieses Podcasts, wird sich da fragen, Jan, was ist los? In Folge 0
+21240	25920	hast du uns doch erklärt, dass es immer abwechselnd ein Interview und eine Denk-mit-mir-Folge gibt.
+25920	30840	Letzte Folge war Amanda Vanessian zu Gast, also eine Interviewfolge. Das heißt, es müsste jetzt
+30840	36000	eine Denk-mit-mir-Folge kommen. Da habt ihr vollkommen recht, aber ich breche quasi bei
+36000	42120	erster Gelegenheit aus diesem Schema aus, denn ich habe gemerkt, es gibt einfach zu viele Interviews,
+42120	47840	die ich gerne führen möchte und auf der anderen Seite reicht es vollkommen, wenn ich in unregelmäßigen
+47840	53520	Abständen dann eine größere Denk-mit-mir-Folge mache. Das heißt, es gibt mehr Interviews und
+53520	60360	ich werde dann auch einfach vor den jeweiligen Interviewfolgen, Updates, Neuigkeiten, kleinere
+60360	65280	Pferden und so weiter kommunizieren, wie zum Beispiel den Input von Seiten der Association
+65280	70560	for the Design of History, über die ich auf ein Buch mit dem Titel The People's Republic of
+70560	76560	Walmart gestoßen bin oder den neuen Artikel von Evgeny Morozov in der New Left Review,
+76560	82760	auf den mich der User Ed Guy Philosopher aufmerksam gemacht hat, mit dem Titel Digital Socialism,
+82760	89160	beides very much on topic zur zweiten Folge von Future Histories zum Thema Socialist Calculation
+89160	94760	Debate. Ich mache die Links in die Shownotizen, wirklich sehr interessantes Material und ich
+94760	99800	werde hier definitiv in Future Histories auch weiterhin die Socialist Calculation Debate in
+99800	105040	ihrer zeitgenössischen Ausprägung weiterverfolgen. Ich glaube, dass das ein sehr zentrales Thema ist.
+105040	110480	In der heutigen Folge, im Gespräch mit Felix Stahl, da wird das Thema übrigens auch gestreift. Das
+110480	114760	Interview wurde aufgezeichnet irgendwann Anfang des Jahres, ich weiß nicht mehr genau, aber da
+114760	119560	hatte ich auf jeden Fall den Artikel von Evgeny Morozov noch nicht gelesen. Das Thema wird uns
+119560	124560	also auf jeden Fall erhalten bleiben. Viel Spaß beim Interview und wenn ihr mehr über den Podcast
+124560	130840	erfahren wollt, dann geht auf www.futurehistories.today, da gibt es einiges an Zusatzmaterial. Lasst mich
+130840	135680	wissen, was ihr zu dem Ganzen denkt, auf Twitter unter Hashtag Future Histories oder auf Reddit.
+135680	141920	Da gab es zum Beispiel auch schon sehr spannenden Input zum Thema Kybernetik vom User, ich glaube,
+141920	148080	er hieß Bjarne. Danke dafür Bjarne. Also auf Reddit, zum Beispiel in unserem Subreddit oder
+148080	153720	ganz klassisch per Mail unter future underscore histories at protonmail.com. Und wenn ihr den
+153720	159400	Podcast darüber hinaus unterstützen wollt, dann schaut doch auf patreon.com schrägstrich Future
+159400	169040	Histories vorbei. Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer
+169040	173880	Vorstellung von Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Felix Stahlder als
+173880	179200	Gast begrüßen zu dürfen. Felix ist Kultur- und Medienwissenschaftler und Professor für digitale
+179200	184400	Kultur und Theorien der Vernetzung an der Züricher Hochschule der Künste. Herzlich Willkommen Felix.
+184400	190200	Hallo Jan. Im heutigen Gespräch geht es um formentechnologische Machtausübung im Allgemeinen
+190200	195080	und im Speziellen um die Frage der Machtausübung durch Algorithmen. Vorweg also mal die grundsätzliche
+195080	200000	Frage, was ist ein Algorithmus und welche unterschiedlichen Formen von Algorithmen gibt es?
+200000	210600	In der allgemeinsten Form ist ein Algorithmus eine Serie von Handlungsanweisungen, um einen Input in
+210600	218600	einen Output zu überführen, um ein Problem im allgemeinen Sinne zu lösen. Das Wesentliche am
+218600	224920	Algorithmus in dieser ganz allgemeinen Definition ist, dass diese Handlungsschritte eindeutig
+224920	231960	beschreibbar sind und dass es eine endliche Anzahl von Handlungsschritten hat. In dem Sinne
+231960	238320	könnte man schon fast die Gebrauchsanleitung, die einem Ikea-Möbel beiliegt, als einen Art
+238320	247760	Algorithmus bezeichnen. Es ist eine Serie von Schritten, die möglichst eindeutig beschrieben
+247760	253680	sind. Deshalb nimmt man eine formale Sprache. Im Falle des Ikea-Beipackzettels sind das
+253680	262000	Pictogramme, die ein Input, also die Serie von Brettern, die man kauft, in ein Output,
+262000	267800	beispielsweise ein Tisch oder ein Regal verwandeln. Die ausführende Maschine sozusagen sind wir
+267800	278360	selber, die diesen Schritten folgen. Damit eine Maschine tatsächlich diese Schritte ausführen
+278360	283840	kann, müssen sie eindeutig beschrieben sein. Auch ein Pictogramm ist nie ganz eindeutig,
+283840	287880	wir kennen das. Probleme beim Aufbauen gibt es immer, weil es unklar ist, was man jetzt
+287880	300000	machen muss. Deshalb sind die meisten Algorithmen in Mathematik geschrieben, damit es keine Frage
+300000	305160	der Interpretation der Schritte mehr gibt. Und dann, wenn diese Schritte interpretationsfrei
+305160	312120	beschrieben sind, kann eine Maschine sie auch ausführen. In diesem Sinne gibt es Algorithmen
+312120	319560	eigentlich schon so lange, wie es Computer gibt. Im Grunde ist es kein Unterschied zwischen
+319560	326600	einem Algorithmus und einem Programm in einem Computer, der ja auch einen Input in ein Output
+326600	332960	überführt, in einer Serie von definierten Schritten. Was jetzt heute aber neu ist, dass
+332960	343440	diese Algorithmen, diese programmierbaren Schritte auf neue Klassen von Problemen angewandt werden
+343440	350360	können und damit Dinge automatisiert werden können, also Problemlösungen automatisiert
+350360	357280	werden können, die bis vor sehr kurzer Zeit noch nicht automatisiert werden konnten. Und
+357280	364640	darum sprechen wir heute von Algorithmen, weil sie jetzt neu auftauchen in einer Serie von
+364640	372520	Situationen, wo sie bisher noch nicht aufgetaucht sind und damit die Grenze neu definiert wird,
+372520	378840	was lässt sich von einer Maschine erledigen und was ist eine Fähigkeit, die genuin menschlich
+378840	386040	ist. Und welche Formen von Algorithmen ergeben sich denn jetzt durch technologischen Fortschritt?
+386040	395280	Also ich denke da auch an selbstlernende Systeme und dergleichen? Zunächst sind zwei Voraussetzungen
+395280	400040	oder eigentlich drei Voraussetzungen mussten zusammenkommen, um diese Welle von Algorithmen,
+400040	408120	die sozusagen in den letzten fünf, zehn Jahren sozusagen in alle Bereiche der Gesellschaft
+408120	416240	und des Lebens eingedrungen sind, möglich zu machen. Das Erste ist die Computing Power,
+416240	423680	also die Rechenleistung von Computern ist enorm gewachsen und gleichzeitig sind die
+423680	431600	Preise sehr billig geworden. Das ist ein klassisches Moore's Law, alle 18 Monate verdoppelt sich
+431600	442200	die Rechenleistung bei gleichbreitendem Preis. Das Zweite ist, dass über das Internet enorm
+442200	450120	viele Daten jetzt zur Verfügung stehen, Millionen und abermillionen von Bildern, ganz viele
+450120	457000	Textdaten, ganz viele Bewegungsdaten, die man analysieren kann, ganz viele Videos und
+457000	463440	Sprachdaten und so weiter. Das heißt, wir haben jetzt sehr große Mengen an Daten, mit
+463440	473680	denen wir diese Algorithmen entwickeln können. Und das Dritte ist, dass es eine Serie von
+473680	482440	konzeptuellen Durchbrüchen gab, also neue Innovationen auf dem Bereich der Algorithmusentwicklung,
+482440	488960	oder der Computerwissenschaften, die es jetzt erlauben, ganz andere und komplexere Algorithmen
+488960	497760	zu schreiben. Und das hat dazu geführt, dass sozusagen ein neuer Idee entstanden ist,
+497760	504040	eine neue Praxis oder eine Idee hat sich durchgesetzt, sagen wir so, wie wir Algorithmen konstruieren.
+504040	514960	Quasi die ersten Ideen der künstlichen Intelligenz in den 1960er- und 1970er-Jahren gingen von
+514960	521840	sogenannten Experten-Systemen aus. Das heißt, eine Idee, dass man menschliche Wissen oder
+521840	528320	zumindest in einer Experten-Domäne, deshalb der Name, so weit formulisieren kann, dass
+528320	534120	man es auf eine Maschine übertragen kann. Also beispielsweise man macht Kategorien,
+534120	540680	ein Baum ist eine Pflanze, viele Bäume sind ein Wald, und so kann man ein logisches System
+540680	551280	von Zusammenhängen generieren. Das hat funktioniert in sehr engen Bereichen, deshalb diese Experten-Systeme,
+551280	555800	die gibt es eigentlich seit den 1970er-Jahren, war aber sehr limitiert, weil es eben nicht
+555800	564560	möglich war, diese Ontologien, diese Kategorien-Systeme, widerspruchsfrei und interpretationsfrei
+564560	572080	zu generieren. Und was jetzt passiert ist, ist, dass ein anderer Ansatz sozusagen sich
+572080	577840	durchgesetzt hat, der geht überhaupt nicht mehr um Kategorien-Systeme, sondern hier
+577840	586640	geht es rein um statistische Auffälligkeiten. Es geht nicht mehr darum, einen Gegenstand
+586640	592120	zu verstehen, sondern nur noch Korrelationen zwischen verschiedenen statistischen Merkmalen
+592120	600400	zu bestimmen. Beispielsweise Übersetzungsprogramme, die wurden früher versucht zu schreiben,
+600400	606920	indem man versucht, eben so eine Art eine Struktur der Sprache zu finden und die dann
+606920	612240	von einer Sprache in die andere zu übersetzen, das ist vollkommen aufgegeben worden. Und
+612240	618840	jetzt heute geht es nur noch um Statistik. Also Übersetzungsprogramme werden heute geschrieben,
+618840	627080	indem sehr, sehr viel Text, von dem man weiß, dass sozusagen eine adäquate Übersetzung
+627080	636000	besteht, beispielsweise aus der gesamten Publikationsbereich der UN, der Vereinten Nationen, die ja sehr,
+636000	641200	sehr vielsprachig sind. Auch die Publikationen der europäischen Gemeinschaft sind ganz,
+641200	648240	ganz wichtig, als ein Korpus von Mehrsprachigkeit. Und diese werden jetzt einfach statistisch
+648240	653960	analysiert. Wenn im Deutschen das Wort x steht, dann ist eine so und so Wahrscheinlichkeit,
+653960	660560	dass nachher das Wort y und z folgt. Und im Englischen ist es dann so und so und daraus
+660560	668440	wird Übersetzung gemacht. Und das ist nur möglich mit sehr großen Datenmengen und
+668440	676760	sehr starken Computerrechenleistungen und eben spezifischen Modellen, wie so etwas dann
+676760	682840	gerechnet werden kann. Und das ist der Grund, warum wir heute plötzlich Algorithmen, also
+682840	688120	automatische Entscheidungssysteme in Bereichen sehen, wo man bis vor sehr, sehr kurzer Zeit
+688120	693320	dachte, so was ist eine Maschine nicht fähig zu tun. Bilderkennung und ähnliche Dinge
+693320	700680	sind da vielleicht am bekanntesten. Und wie wird jetzt mit diesen gesteigerten
+700680	706440	Fähigkeiten, auch eben durch die Strategieänderungen mitunter, wie wird über Algorithmen Macht
+706440	711920	ausgeübt? Es gibt verschiedene Arten, wie Algorithmen
+711920	722200	Teil einer Struktur von Macht und Machtausübung sind. Vielleicht ist es wichtig zu unterscheiden
+722200	730200	zwischen verschiedenen Begriffen, was ein Algorithmus ist. Ein Algorithmus in den Computerwissenschaften
+730200	736680	ist tatsächlich nur der ausführbare Code, also die Serie von Schritten, die ein Computer
+736680	743920	ausführen kann. Das hat kein Vorher und kein Nachher. In einer umfassenden vielleicht so
+743920	750720	soziologischen oder politischen Analyse eines Algorithmus muss man ihn sehen als ein Teil
+750720	758080	einer Entscheidungskette. Der ist nie autonom. So etwas wie autonome Technologie kann es
+758080	763880	nicht geben, sondern es ist eingebettet in eine Serie von Entscheidungen, die ein paar
+763880	768960	davon werden von Menschen gemacht und ein paar von diesen Entscheidungen werden von
+768960	775320	Maschinen gemacht. Aber es ist immer eingebettet. Das heißt, man kann sich zunächst einmal
+775320	784520	fragen, auf welche Probleme wird ein Algorithmus ausgerichtet? Was ist ein Problem, das ich
+784520	791600	lösen will mit Hilfe der Technologie? Das ist der erste grundsätzlich sozusagen politische
+791600	798880	Aspekt, der immer sozusagen institutionell entschieden wird. Das entscheidet nie der
+798880	806960	Algorithmus selber, wofür er entwickelt werden soll. Also wenn das Ziel meines Algorithmus
+806960	817040	ist, die Grenze oder die Zahl sozusagen der Kredite, die nicht zurückgezahlt werden,
+817040	824120	zu senken, dann ist das eine ganz spezifische Ausrichtung. Und dann konstruiere ich den
+824120	829560	entsprechend. Das ist das erste. Also was ist das Problem überhaupt? Das zweite ist
+829560	842120	dann, wie wird dieses Problem operationalisiert? Weil selten lässt sich ein soziales Problem
+842120	849840	oder ein Ziel, das aus einem Businessplan kommt, direkt sozusagen quantifizieren. Sondern
+849840	860240	man muss dann anfangen, ein Modell zu konstruieren. Das sagt, für die Frage, die ich beantworten
+860240	866200	will, sind diese und diese Punkte relevant und alles andere ist nicht relevant. Und damit
+866200	874920	wird ein Modell konstruiert. Oft ist es auch so, dass das, was man eigentlich messen will,
+874920	880160	gar nicht direkt messbar ist, weil es zu diffus ist, weil es zu kompliziert ist, weil es zu
+880160	887680	verteilt ist. Und dann macht man einen sogenannten Proxy. Also man definiert einen Wert, der
+887680	895400	für etwas anderes steht. Beispielsweise, wenn ich messen will, wie gut ein Kind lernt,
+895400	902440	das ist ein sehr komplexes Thema. Was ist denn das eigentlich? Was heißt Lernen? Was
+902440	908120	ist das relativ zu anderen Dingen? Das kann ich nicht messen. Also füge ich einen Proxy
+908120	913600	ein, einen standardisierten Test. Und dann kann ich sagen, okay, das Kind hat neun von
+913600	921680	zehn Fragen richtig beantwortet. Dann habe ich eine Zahl. Und somit werden eine Serie
+921680	928680	von Entscheidungen getroffen, wie ich ein Problem konstruiere, was ich überhaupt als
+928680	934800	ein lösbares oder für mich relevantes Problem entscheide. Und damit sind natürlich immer
+934800	942880	gewisse Interessen derjenigen, die diese Probleme oder diese Fragen dann entscheiden, sind verbunden
+942880	950520	mit den Agenten und den Plänen und den Ideen, die diese Akteure haben. Und diese wird jetzt
+950520	957800	in Technologie eingeschrieben, von der dann gesagt wird, sie sei autonom. Und damit verschwinden
+957800	964880	diese Ideen und diese Setzungen, die an ganz vielen Stellen gemacht werden. Es gibt noch
+964880	971200	weitere Stellen, wo diese Setzungen gemacht werden. Die verschwinden und am Schluss kommt
+971200	978760	eine angeblich objektives Ergebnis raus. Dieses Kind hat neun von zehn Fragen beantwortet,
+978760	983680	der andere hat nur sieben von zehn Fragen beantwortet. Und das sagt uns doch was, wer
+983680	985480	besser und wer schlechter ist.
+985480	990680	Also das ist ja im Grunde dann ein Ansatzpunkt, wo man sagt, okay, es ist schon die Art, wie
+990680	996440	auf die Dinge geschaut wird, an der eigentlich in erster Instanz auch Macht ausgeübt wird,
+996440	1001560	indem Weichenstellungen vorgenommen werden, indem eben Entscheidungen darüber getroffen
+1001560	1007480	werden, was ist das Problem und wie wird es gelöst. Darüber hinaus gibt es ja dann auch,
+1007480	1011320	und das ist sicher dann ein Folgeproblem, sag ich mal in Anführungsstrichen, gibt es
+1011320	1018680	ja bestimmte Architekturen, die zum Beispiel auch algorithmisch bedingt sind, denen wir
+1018680	1024240	tagtäglich ausgeliefert sind. Also die sozialen Medien, in denen uns eine Welt konstituiert
+1024240	1032120	wird durch den Algorithmus oder Google Maps oder sowas, was uns eine bestimmte Fahrtrichtung
+1032120	1035720	oder einen Fahrplan empfiehlt und wir den wahrscheinlich in den meisten Fällen dann
+1035720	1041040	auch wählen werden und so weiter und so fort. Also das heißt, es gibt quasi in einer ganz
+1041040	1047840	pragmatischen Art und Weise eine Formung unserer Umwelt durch Algorithmen. Was mich interessiert
+1047840	1053440	ist auch, sagen, eine Frage der sich verschiebenen politischen Souveränität. Es ist tatsächlich
+1053440	1058640	so, dass ja politische Souveränität von solchen Konstrukten wie dem Nationalstaat
+1058640	1064000	oder sowas sich tendenziell wegverlagert hin zu anderen Formen des Regierens, unter
+1064000	1068040	anderem eben des algorithmischen Regierens. Und wie ist da deine Einschätzung, wer sind
+1068040	1072920	die Hauptakteure, das ist vielleicht noch am einfachsten zu beantworten, aber was ist
+1072920	1079920	vielleicht auch der dahinterliegende Gedanke des politischen Regierens an sich, der diesen
+1079920	1080920	Formen innewohnt?
+1080920	1088320	Also die Macht, die ausgeübt wird, die ist, wie wir gesprochen haben, einerseits auf der
+1088320	1093960	Ebene der Problemlösung oder der Problemdefinition und dann der Modellierung, um es zu lösen.
+1093960	1103400	Es werden hier ganz viele Sätze gemacht. Und auf der anderen Seite sozusagen, auf der Nutzerseite
+1103400	1109000	haben wir dann den Fall, dass wir auch im besten Fall, also es geht nicht darum, ob der Algorithmus
+1109000	1113160	stimmt oder nicht, nehmen wir mal an, der stimmt und der ist auch sozusagen mit einer
+1113160	1121240	höheren Absicht gemacht, haben wir das Problem, dass dann gewisse Weltsichten plötzlich
+1121240	1128200	sehr stark werden. Also der Teil der Welt, der sozusagen algorithmisch berechnet werden
+1128200	1136200	kann, der wird uns zugänglich gemacht. Und andere Arten, andere Bereiche der Welt, die
+1136200	1142800	sozusagen so nicht erfasst werden können, werden dann plötzlich schwieriger sichtbar.
+1142800	1148240	Die werden entwertet, wenn das andere sozusagen ins Zentrum gerückt wird. Und das ist auch
+1148240	1160880	etwas, das eine Weltsicht formt und das sozusagen implizite, nicht quantifizierbare Wissen sozusagen
+1160880	1166840	immer schwieriger oder immer prekärer macht. Also beispielsweise Google Maps, wir haben
+1166840	1171200	eine Vorstellung, wie wir von A nach B fahren wollen, aber Google Maps sagt uns, wir sollen
+1171200	1179360	ihn woanders durchfahren. Dann haben wir natürlich die Frage, wem trauen wir jetzt? Und außer
+1179360	1189640	in Orten, wo wir sehr, sehr gut, sehr, sehr genau wissen und sehr, sehr zeitnah auch wissen,
+1189640	1194760	wie die Straßenverhältnisse sind, werden wir wahrscheinlich Google Maps trauen, weil
+1194760	1201120	es Echtzeitdaten einbauen kann und so weiter und so fort. Und oft sind wir damit gut beraten,
+1201120	1205880	also es ist gar keine Kritik daran. Aber es heißt einfach, dass sozusagen eine Form des
+1205880	1215720	Wissens durch eine andere Form des Wissens sozusagen überschrieben wird. Und damit beginnt
+1215720	1220880	auch sozusagen unsere Sicht auf die Welt. Nicht nur wird die Welt gemacht, sondern wie
+1220880	1227560	erleben wir uns in der Welt, wie agieren wir in der Welt, wird geändert. Und die Akteure
+1227560	1234000	sind eigentlich diejenigen Institutionen, die über die Voraussetzungen verfügen, um
+1234000	1242800	überhaupt im großen Stil Algorithmen in ihre Entscheidungsprozesse einbauen zu können.
+1242800	1247920	Das heißt, sind diejenigen, die über große Datenmengen verfügen, um überhaupt Algorithmen
+1247920	1252640	trainieren zu können und dann anwenden zu können, sind diejenigen, die über große
+1252640	1262600	Rechenkapazitäten verfügen und sind diejenigen, die dann nachher auch über ein Output verfügen,
+1262600	1267840	der es ihnen erlaubt, aufgrund dieser Entscheidungen auch handeln zu können. Also beispielsweise
+1267840	1273680	uns dann bei Google Maps eine Karte anzuzeigen oder Suchergebnisse anzuzeigen. Also diese
+1273680	1281840	drei Voraussetzungen beschreibt die Gruppe derjenigen, die überhaupt fähig sind auf
+1281840	1286400	diese Art und Weise zu handeln. Und damit ist eigentlich relativ klar beschrieben, wer
+1286400	1292080	das ist. Es sind große Institutionen, für einzelne ist das quasi unmöglich auf diesem
+1292080	1298960	Feld zu handeln. Es sind große Institutionen, die über sehr viele Daten verfügen und die
+1298960	1303640	entsprechende Handlungsmöglichkeiten haben, um mit dem Wissen, das sozusagen generiert
+1303640	1308400	wird, dann auch tatsächlich Handeln in der Welt zu verändern.
+1308400	1317280	Und diese Asymmetrie der Ressourcen letztlich ja auch, die ist ja nicht so ohne Weiteres
+1317280	1323600	zu überwinden, oder, würde ich mal denken. Das heißt aber auch, dass alle Handelnden,
+1323600	1331160	die ähnliche, also die positiven Seiten dieser Entwicklung nutzen wollen, aber in einer
+1331160	1338480	Form, die eben, ich weiß nicht, wie man das dann benennt, weniger gängelnd oder weniger
+1338480	1343040	durch einen libertären Paternalismus geprägt sind. Wenn Leute das quasi anders nutzen
+1343040	1348240	wollen, dann sind sie eigentlich per se immer schon im Hintertreffen, oder? Ist das zunächst
+1348240	1351160	mal, stimmt das, weil das wäre ja schon mal fatal eigentlich?
+1351160	1364120	Für die absolute Mehrheit der Nutzer, im Grunde für alle Nutzer, stellen diese Systeme
+1364120	1372440	eine Take-it-or-leave-it-Situation dar. Wenn ich Facebook nutzen will, dann nutze ich es
+1372440	1379120	mit allem, was dort ist. Ich kann nur sagen, ja, ich lasse mich einfach sein, oder nein,
+1379120	1385480	ich lasse mich nicht einfach sein. Das ist aber in ganz vielen Situationen gar keine
+1385480	1392320	richtige Wahl mehr, weil gewisse Dinge, um am heutigen Leben teilnehmen zu können, vorausgesetzt
+1392320	1398920	werden, weil das sozusagen das neue Normal ist. Das machen alle. Es ist ungewöhnlich,
+1398920	1406600	daran nicht teilzunehmen, und wenn man das nicht hat, dann kriegt man Probleme mit der
+1406600	1413880	Aktion. In ganz vielen Beispielen ist das so. Es gibt ganz viele Dinge, die wir brauchen,
+1413880	1421680	um am Leben teilzunehmen. Wir brauchen zum Beispiel eine Adresse. Und wenn man keine
+1421680	1428480	Adresse hat, beispielsweise wenn man wohnungslos ist, dann kann man sich um keine Wohnung bewerben,
+1428480	1431480	dann kann man sich um keine Stelle bewerben, dann kann man sich um ganz viele Dinge nicht
+1431480	1438840	bewerben. Das heißt, wir brauchen all diese Dinge und eben auch Zugang zu diesen Systemen
+1438840	1447440	und Nutzung dieser Systeme, um überhaupt uns in der Gegenwart am Leben teilzunehmen zu
+1447440	1454960	können. Das sind dann aber, wie gesagt, Entscheidungen, die alles oder nichts sind. Entweder nehme
+1454960	1460480	ich Facebook, wie es ist, oder ich bleibe außen vor, was für die meisten keine Option
+1460480	1466200	ist. Und es ist ja auch nicht so, dass diese Dienste und sozusagen diese algorithmische
+1466200	1472280	Unterstützung einfach nur negativ ist. Die sind ja gewachsen und entstanden, weil es
+1472280	1478800	ein Problem gab, zum Beispiel mit der Menge an Informationen, die wir bewältigen müssen
+1478800	1484240	in einer Gesellschaft, die halt immer informationsintensiv und immer komplexer wird. Und da brauchen
+1484240	1491320	wir neue Werkzeuge dazu und diese algorithmischen Filters in dem Fall oder diese Möglichkeiten,
+1491320	1498200	eben sehr große Bildmengen durchzuschauen nach Bildinhalten und nicht nur nach Bildbeschreibungen,
+1498200	1504080	das ist etwas, das genuin nützlich ist. Das heißt, für die meisten Personen ist, für
+1504080	1511120	die meisten Nutzer ist der unmittelbare Mehrwert durch die Nutzung gegeben und der soll auch
+1511120	1516600	nicht abgestritten werden. Aber es wird halt mit dieser Alles-oder-Nichts-Proposition werden
+1516600	1523640	auch Dinge eingehandelt, dass man sich eben in einer Umgebung bewegt, die man kaum durchblicken
+1523640	1530280	kann, wo man überhaupt nicht sieht, was sozusagen hinter den Kulissen stattfindet und die aber
+1530280	1535920	von einer einzelnen Identität, von einem Akteur, sagen wir jetzt in dem Fall Facebook
+1535920	1545640	oder Google oder der Suchmaschine für Flugzeugtickets oder was auch immer vollständig kontrolliert
+1545640	1551600	wird. Das heißt, wenn diese sich entscheiden, jetzt wollen wir lieber X statt Y zeigen,
+1551600	1557240	dann ist das einfach so und als Nutzer hat man keinen Einfluss darauf, oft merkt man
+1557240	1563280	das auch gar nicht. Und da entsteht natürlich ein extremes Machtgefälle zwischen der einen
+1563280	1569040	Seite, die die Parameter kontrollieren kann und der anderen Seite, der Nutzerseite, die
+1569040	1576000	dann sozusagen in dieser Welt sich zurechtfinden muss, im positiven, im negativen Sinn, wo
+1576000	1584440	aber kaum eine Feedback-Möglichkeit, kaum eine Einflussmöglichkeit ist, kaum eine Entscheidungsmöglichkeit
+1584440	1590800	ist der Nutzer, Nutzerinnen, wie sie dann diese Parameter konstruiert hätten. Das liegt
+1590800	1598120	vollkommen in der Hand dieser relativ kleinen Anzahl von Akteure, die hier diese neuen Systeme,
+1598120	1604800	in denen wir dann letztendlich leben, halt konstruiert und immer auch so konstruiert,
+1604800	1609880	dass der Raum, der dadurch entsteht, das Problem sozusagen, das sie lösen wollen,
+1609880	1617480	eines ist, das ihnen nützt. Und wie würden Alternativen aussehen, die versuchen das anders
+1617480	1621560	zu gestalten, wo also die einzelnen User und das sehe ich so ein bisschen als den Kernpunkt,
+1621560	1628080	auf den du dann auch eben ansprichst, wo die einzelnen User eben die Möglichkeit haben,
+1628080	1635560	an Entscheidungsprozessen, höher gelegenen Entscheidungsprozessen zu partizipieren. Also
+1635560	1638800	zum einen, wie müsste man das angehen und ist das überhaupt jetzt noch möglich, wo
+1638800	1645200	schon eine solch große Plattform Macht etabliert worden ist, dass im Grunde die jegliche Konkurrenz
+1645200	1652400	schon immer vor dem Problem steht, dass ein breiter Teil des Kuchens quasi schon vergeben ist?
+1652400	1662200	Ich glaube, es gibt zwei oder mindestens zwei verschiedene Arten der Ansätze, wie man da
+1662200	1670200	agieren könnte. Das sind jeweils kollektive Ansätze. Ich glaube, das individuelles Verhalten,
+1670200	1674800	ich kann jetzt mein Verhalten auf Facebook ein bisschen so oder anders ausrichten. Grundsätzlich
+1674800	1679680	kann ich an der Struktur nichts ändern. Also die individuelle Handlungsebene, die ja immer
+1679680	1689200	so in den Vordergrund gesetzt wird, ist hier sehr, sehr beschränkt. Eine Handlungsebene
+1689200	1698360	ist Transparenz zu schaffen, dass man weiß, was passiert, dass man weiß, wie ausgewählt
+1698360	1706000	wird und da gibt es verschiedene Ansätze dazu. Der eine Ansatz, der beispielsweise die Datenschutzgrundverordnung
+1706000	1713040	verfolgt, ist, dass es jetzt neu in Recht eingeführt wird, eine sozusagen relevante
+1713040	1719200	Auskunft zu bekommen, wie ein Algorithmus funktioniert bzw. wie ein Entscheid zustande
+1719200	1727000	gekommen ist. Das ist jetzt noch kein Algorithmentiff im Sinne einer Audit, eines Codes, sondern
+1727000	1735400	das ist vielleicht eher wie auf einer Lebensmittelpackung, die Zutaten stehen, wo man sehen kann, wie
+1735400	1742000	viel Zucker enthält etwas oder andere Dinge, wie viele Stabilisatoren sind in einer Schokolade
+1742000	1747960	drin und Ähnliches. Das ist noch nicht das Rezept, nachdem dieses Lebensmittel hergestellt
+1747960	1754720	wurde, aber es gibt mir eine gute Vorstellung davon, was es ist, was ich jetzt esse. Es
+1754720	1760320	gibt mir einen Ansatz einer Vorstellung davon und das versucht die Datenschutzgrundverordnung
+1760320	1764760	so etwas einzuführen, dass man Recht hat zu sehen, wie ein Entscheid zustande gekommen
+1764760	1775440	ist. Die andere Art Transparenz zu schaffen, die mir eigentlich fast die Wichtigere erscheint,
+1775440	1783240	ist, dass man Vergleichbarkeit generiert, weil wenn ich jetzt auf Facebook gehe oder auf
+1783240	1793240	eine Google-Suche mache, habe ich keine Möglichkeit zu sehen, was ich nicht sehe. Ich sehe nur
+1793240	1799360	ein Resultat und das Resultat hat eine gewisse Glaubwürdigkeit, hat eine gewisse Nützlichkeit.
+1799360	1804680	Ich gehe auf Google, suche etwas und finde etwas, das ungefähr dem entspricht, was ich
+1804680	1810920	denke finden zu können, weil es natürlich auch meinen Erwartungshorizont mit in die
+1810920	1821000	Auswertung einnimmt. Ich gehe auf Facebook und sehe eine Auswahl von Meldungen von Leuten,
+1821000	1828120	die ich kenne, aber ich kann nicht wissen, was ich nicht sehe. Eine Möglichkeit hier
+1828120	1838480	Transparenz zu schaffen, wäre, verschiedene Algorithmen, verschiedene Filter in dem Fall,
+1838480	1844200	verschiedene Suchstrategien vergleichbar zu machen. Wenn ich so suche, kommt das, wenn
+1844200	1852120	ich so suche, kommt das. Schon nur, wenn ich wählen könnte, will ich die Personalisierung
+1852120	1858920	anstellen oder ausstellen oder vielleicht auch wählen könnte, will ich meine eigene
+1858920	1865480	Personalisierung oder die einer anderen Person. Da würde ich plötzlich sehen, aha, unter
+1865480	1870480	dem kommt ja auch das, unter dem anderen und ich sehe jetzt plötzlich Dinge, die ich sonst
+1870480	1877000	nicht sehen würde. Und das ist, glaube ich, diese Vergleichbarkeit des Outputs ist umso
+1877000	1884480	wichtiger, weil diese Algorithmen ja vollkommen intransparent sind. Sie sind einerseits intransparent
+1884480	1893040	aus Gründen der Geschäftsgeheimnisse, andererseits sind sie intransparent, weil sie sich dauernd
+1893040	1904200	ändern. Die werden teilweise vorhand nachjustiert. Facebook sagt, die wollen jetzt weniger, sozusagen
+1904200	1909160	kommerziell hergestellte News haben, sondern mehr sozusagen von deinen Freunden und dann
+1909160	1913560	ändern sie die Algorithmen, weil sie ihr Geschäftsmodell oder ihre Ausrichtung ein bisschen ändern.
+1913560	1922120	Das ist das eine. Das heißt, wir sind mit Outputs einer Maschine konfrontiert, die sich
+1922120	1928160	dauernd ändert. In einer stabilen Maschine, in einer klassischen Blackbox, kann ich mit
+1928160	1933240	der Zeit erahnen, wie die innen funktioniert, weil ich sehe, wenn ich x reindehne, dann
+1933240	1938320	kommt y und wenn ich z reindehne, dann kommt a. Das ist okay, gut, das macht wahrscheinlich
+1938320	1943560	dieses oder jenes. Aber diese neuen Algorithmen, die sind hochdynamisch. Das heißt, wenn
+1943560	1952040	ich zweimal dasselbe reingebe, kommt nicht dasselbe raus. Das heißt, ich habe noch viel
+1952040	1960320	weniger Möglichkeit zu verstehen, was da passiert. Ich kann das nur nehmen, wie es kommt. Wenn
+1960320	1964800	ich es aber vergleichen kann, dann verstehe ich zwar immer noch nicht, was innen passiert,
+1964800	1969880	aber ich sehe, dass es verschiedene Möglichkeiten gibt, das Problem zu lösen und dass vielleicht
+1969880	1974560	eine besser ist als die andere oder eine nützlicher ist als die andere. Das heißt, die Frage,
+1974560	1978960	wie ich hier Vergleichbarkeit schaffen kann, also Vergleichbarkeit zwischen verschiedenen
+1978960	1986400	algorithmischen Strategien scheint mir sehr, sehr relevant zu sein, um Transparenz zu schaffen,
+1986400	1991880	die eben weitergeht wie nur eine Liste von, ja, wir berücksichtigen Alter, Wohnort und
+1991880	2003200	sozusagen Einkommen im Filter, den wir konstruieren. Transparenz ist so die eine Richtung, das
+2003200	2009720	wird beides nur gehen, die Datenschutzgrundverordnung hat da angefangen, wir beides nur gehen mit
+2009720	2014280	staatlicher Regulierung, die sowas vorschreibt, weil das natürlich nicht im Interesse des
+2014280	2020440	Anbieters ist. Interesse des Anbieters ist sozusagen, ihre eigenen Entscheidungen quasi
+2020440	2027160	unsichtbar zu machen und damit aus jeder Kritik, aus jeder Kollektivitätskontrolle, aus jeder
+2027160	2033880	politischen Verhandlung zu entfernen. Das ist der eine Teil. Und der andere Teil ist sicher,
+2033880	2045360	eine gewisse Regelung, gewisse Grenzen einzuführen, was ein Algorithmus darf, was er kann, können
+2045360	2052960	sein muss und wie die Verantwortlichkeit für Entscheidungen konstruiert ist. Also beispielsweise
+2052960	2061480	wenn ein Algorithmus eine Fehlentscheidung macht, dann kann ich niemanden zur sozusagen
+2061480	2067960	Verantwortung ziehen. Weil wer ist es? Ist es die Stelle, die ihn einsetzt? Ist es die
+2067960	2073120	Stelle, die ihn geschrieben hat? Ist es sozusagen, ist es überhaupt ein Fehlentscheid oder ist
+2073120	2080480	es sozusagen nur ein personalisierter Entscheid und so weiter. Und damit kreieren wir eine
+2080480	2091320	Serie von sehr problematischen Anreizen. Beispielsweise, wenn mein Ziel ist, die Rate derjenigen zu
+2091320	2099800	senken, die, beispielsweise ich bin Versicherer, ich biete Autoversicherungen an und ich will
+2099800	2107800	diejenigen nicht versichern oder die teurer versichern, die mit größerer Wahrscheinlichkeit
+2107800	2114400	einen Unfall machen. Das ist klassisches Versicherungsmathematik. Aber wenn ich jetzt
+2114400	2121880	sage, okay, ich habe jetzt einen neuen Algorithmus, der mir das macht, damit kann ich sozusagen,
+2121880	2135120	aus irgendeiner Population habe ich 100 richtige Identifikationen, also Leute, die tatsächlich
+2135120	2143000	höhere Wahrscheinlichkeit haben. Ich habe aber auch 30 Folgen drin. Leute, die sozusagen
+2143000	2148960	jetzt ungerechtfertigt entweder die Dienstleistung nicht bekommen oder sie zu einem höheren
+2148960	2154360	Preis bekommen, dann macht sich das aus einer betriebswirtschaftlichen Rechnung Sinn. Ich
+2154360	2168080	habe mich immer noch um 70 Fälle verbessert. Aus der Sichtweise des Nutzers, der ist dann
+2168080	2173240	plötzlich mit dem System konfrontiert, dass er aus seiner Perspektive, aus ihrer Perspektive
+2173240	2179160	vollkommen willkürlich entscheidet. Ich will mit dem Fehlentscheid konfrontiert und ich
+2179160	2183280	kann nichts dagegen machen, weil sozusagen für den Anbieter es ist egal. Und ich weiß
+2183280	2187600	ja nicht mal genau, woher der kommt. Ich kann ja nicht mal sicher sagen, dass das ein Fehlentscheid
+2187600	2199000	ist. Und hier denke ich, ist es wichtig, dass auch die Frage der Verantwortung und das heißt
+2199000	2206920	in einem ökonomischen Sinn auch der Schadenersatz so geregelt wird, dass diese Anreize anders
+2206920	2213920	funktionieren. Dass es eben ein schlechter Algorithmus ist, der 30 Leute fälschlicherweise
+2213920	2219280	aussortiert, aber 100 richtig identifiziert, dass die Rechnung einfach nicht mehr funktioniert.
+2219280	2225760	Das wäre sozusagen der zweite oder der dritte Punkt. Das erste ist Transparenz, der zweite
+2225760	2236480	ist sozusagen eine Begrenzung dessen, was erlaubt ist. Und das dritte ist Frage nach
+2236480	2241880	den Konsequenzen, die einklagbar sein müssen und die mit Schadenersatz verbunden sein müssen,
+2241880	2242880	weil sonst sind sie irrelevant.
+2242880	2249140	Da gibt es jetzt ein paar Anschlussfragen, die sich mir stellen. Zum einen ganz konkret
+2249140	2256840	in Bezug auf die ja eigentlich künstliche Limitierung der Algorithmen auf Algorithmen,
+2256840	2262360	die eigentlich letztlich vollständig nachvollziehbar bleiben. Ist es nicht so, dass diese Grenze
+2262360	2266560	jetzt schon überschritten worden ist? Also gibt es nicht schon längst Algorithmen, die
+2266560	2272400	eigentlich von Menschen selbst im Grunde nicht mehr nachvollziehbar sind, weil eigentlich
+2272400	2279440	Algorithmen Algorithmen trainieren und dann sagen am Ende einer für den Menschen im Grunde
+2279440	2285640	allein schon aus kognitiven Fähigkeiten, also aus der Begrenzung der kognitiven Fähigkeiten
+2285640	2292120	heraus, dass es dann eigentlich nicht mehr nachvollziehbar ist? Und ist es dann, scheint
+2292120	2293360	es realistisch für dich?
+2293360	2301400	Das hat wiederum zu tun mit der Frage, was ein Algorithmus ist.
+2301400	2311000	Wenn ich sage, ein Algorithmus ist eine Serie von kodierten Schritten und das fängt sozusagen
+2311000	2316240	mit der ersten Zeile des Codes an und hört auf mit der letzten Zeile des Codes, dann
+2316240	2324820	ist es tatsächlich so, dass wir mit ganz vielen Algorithmen zu tun haben, die wir nicht mehr
+2324820	2333040	lesen können. Und wenn wir sie endlich gelesen haben und vielleicht auch verstanden hätten,
+2333040	2337840	falls das noch geht, dann stimmt das, was wir verstanden haben, schon nicht mehr, weil
+2337840	2343160	der Algorithmus sich selber immer weiterentwickelt. Das heißt, wir haben auf der Ebene des Codes
+2343160	2353900	tatsächlich die Situation, dass wir vieles nicht mehr verstehen. Aber wenn wir etwas
+2353900	2360280	erweiterten Begriff des Algorithmus nehmen, dann ist ein Algorithmus eben immer eingebettet
+2360280	2368840	in ein institutionelles Gefüge, der einerseits das Problem definiert und andererseits die
+2368840	2375280	Lösung definiert. Also was ist eine gute Lösung? Was der Algorithmus dann macht, ist
+2375280	2385720	einen Weg zu finden von Problem zur Lösung. Aber wir können einen Algorithmus nicht trainieren,
+2385720	2392480	wenn wir nicht eine Vorstellung haben von der Lösung. Also wir wollen einen Gesichtserkennungsalgorithmus
+2392480	2399440	definieren, der eine Person erkennt, die auf einem Video ist und das gegen eine Datenbank
+2399440	2412960	von gespeicherten Passfotos abgleicht. Dann müssen wir zuerst eine Serie von Videos haben,
+2412960	2420200	wo wir wissen, wer drauf ist und sagen, schau, das ist so, das ist so, das ist so. Und dann
+2420200	2426160	können wir anfangen, den Algorithmus zu trainieren. Das heißt, auch wenn wir vielleicht nicht
+2426160	2432640	mehr wissen, den Code nicht mehr lesen können, wissen wir immer noch, wie ist das Problem
+2432640	2439600	definiert und was ist die Lösung. Das heißt, wir können dann auf der Ebene des Schrittes
+2439600	2448520	vorher und nachher immer noch eine Analyse dieses Algorithmus machen, jetzt weniger als
+2448520	2456040	ein technisches Artefakt, sondern als ein institutionelles Artefakt. Was für eine Entscheidungskette
+2456040	2466280	wird hier gemacht und ist die kompatibel mit Dingen, die wir in der Gesellschaft hochhalten,
+2466280	2475040	Antidiskriminierung, sozusagen Preistransparenz, was es danach immer ist und um was es konkret
+2475040	2482520	geht. Aber wir können diese rein technische Intransparenz, kann man sozusagen begegnen,
+2482520	2487960	indem man eine institutionelle Analyse macht, die diesen Algorithmus ja erst hervorbringt,
+2487960	2492920	diesen Algorithmus sozusagen laufen lässt, die auch laufend korrigiert, ob er immer noch
+2492920	2500040	aufs Ziel hingeht und wenn nicht, Adaptionen macht, damit er genau auf das Ziel ist. Das
+2500040	2506360	heißt, solange wir das Problem und das Ziel, also das Problem und die Lösung kennen, müssen
+2506360	2514240	wir gar nicht so genau wissen, ob die Schritte, die gemacht werden, um von A nach B zu kommen,
+2514240	2515240	wie die aussehen.
+2515240	2519760	Auch nicht für das, was du eben angesprochen hattest, also für die Frage zum Beispiel
+2519760	2524520	einer rechtlichen Verantwortlichkeit für getroffene Entscheidungen. Das wäre, glaube
+2524520	2528760	ich, der erste Aspekt, der sich mir stellt. Und die zweite Frage wäre, vor, ich glaube,
+2528760	2536320	einem Jahr oder anderthalb gab es ja dieses relativ Publicity-trechtige, die so eine Presse
+2536320	2542240	Sendung, wo, glaube ich, Deep Mind darauf trainiert worden ist, so Old-School-Arcade-Games
+2542240	2549600	zu erlernen ohne jegliche Zieldefinierung. Weil sie noch nicht mal, glaube ich, soweit
+2549600	2553160	ich mich erinnern kann, als ich das gelesen hatte, noch nicht mal gesagt worden ist, es
+2553160	2558360	handelt sich um ein Spiel, noch gesagt worden ist, erlerne dieses Spiel, sondern, so habe
+2558360	2562760	ich es zumindest verstanden, dass es einfach nur zueinander gesetzt worden ist und dann
+2562760	2569800	auf Basis dessen dann die günstliche Intelligenz sowohl das Spiel erlernt hat und eine Meisterschaft
+2569800	2573360	darin erlangt hat, die jedes menschliche Tun bei weitem übertrifft.
+2573360	2581680	Also Spiele haben ja in sich eine ganz klare Lösung drin. Also mach Punkte, next level,
+2581680	2589600	sei schneller. Und Spiele sind eigentlich sehr gut, um sie zu lernen, weil es man eben
+2589600	2596160	dann sagen kann, okay, der eine algorithmische Strategie, die hat 7350 Punkte geschafft und
+2596160	2602160	die andere algorithmische Strategie hat 7480 Punkte geschafft. Also ist klar, zwei ist
+2602160	2608240	besser als eins, wir fahren dort weiter. Von dem her ist auch da natürlich eine Lösung
+2608240	2610760	ist drinnen. Aber Sie haben noch nicht mal dem Algorithmus
+2610760	2616280	gesagt, dass es sich um ein Spiel handelt. Ich glaube, das war so ein bisschen der Punkt,
+2616280	2620520	worauf Sie hinweisen wollen, weil das sozusagen ein Spiel an sich gut erlernt werden kann,
+2620520	2626320	weil es eben ja mit quantifizierbaren Parametern arbeitet. Das hätte jetzt nicht so verwundert.
+2626320	2632760	Ich glaube, was betont worden war, war wirklich der Aspekt, dass vorher, also dass diese Zielmaßgabe
+2632760	2637120	eben nicht gesetzt wurde, glaube ich. Da müsste man sich eben im Detail anschauen.
+2637120	2644240	Also ein Training kann nicht funktionieren ohne Ziel, weil man immer, gerade diese Selbstlernen
+2644240	2650560	Algorithmen sind ja iterativ. Sie sind in Feedback schlafen, immer wieder zehntausende,
+2650560	2657480	hunderttausende, millionenfach. Und was passiert ist, also wie das funktioniert, ist, dass man
+2657480	2664960	beginnt mit sehr primitiven Lösungsstrategien und schaut dann, wie nah sind Sie am Ziel.
+2664960	2673360	Und diejenige, die näher ist, die nimmt man, macht ganz viele Variationen, schaut, welches näher,
+2673360	2678760	dann nimmt man die, die am nächsten ist, macht ganz viele Variationen davon und so weiter.
+2678760	2683520	Das heißt, ganz ohne eine Zielstrategie kann so ein Lernprozess nicht funktionieren.
+2683520	2689920	Von dem her ist die Frage, auf welcher Abstraktionsebene macht man das Spiel. Also macht man diese
+2689920	2698160	Lernprozesse. Vielleicht heißt es jetzt in dem Fall noch, lerne selber die Regeln des Spiels und
+2698160	2709400	dann wird gut darin. Die Zielvorgabe ist abstrakt. Aber jetzt sozusagen, wenn der Algorithmus zuerst
+2709400	2714840	entscheiden muss, will ich überhaupt das Spiel spielen, dann wird das nicht gehen, weil er dann
+2714840	2719840	nicht weiß, was er lernen soll. Das heißt, Algorithmen sind eigentlich immer, auch nach wie vor,
+2719840	2735680	sehr eng im Sinne dieser Lösungsfindung auf und vor definiertes Problem. Generelle künstliche
+2735680	2743080	Intelligenz, die sozusagen diesen Range von Problemen lösen kann, wie das menschliche
+2743080	2751040	Intelligenz ist, ist nach allem, was ich weiß, noch sehr, sehr weit weg. Wir können eben sehr,
+2751040	2759040	sehr gut was trainieren, um Gesicht zu erkennen in Bildern. Aber das ist was fundamental anderes,
+2759040	2767680	wie ein Algorithmus, der weiß, wie ich im Roboter eine weiche Traumate aufgreife,
+2767680	2774120	ohne sie zu zerdrücken. Das sind fundamental andere Algorithmen, die sich auch nicht einfach
+2774120	2783040	verbinden lassen. Von dem her glaube ich, dieses Zielgerichtete ist ganz, ganz entscheidend. Und
+2783040	2791080	ohne das gibt es meines Wissens nach so gut wie nichts oder gar nichts, dass man tatsächlich als
+2791080	2803160	Lernend betrachten könnte. Der erste Teil war, ob die Frage der rechtlichen Verantwortung auch
+2803160	2810120	damit beantwortet ist, dass man sagt, wir wissen noch um einen Anfang und um ein Ziel. Und über
+2810120	2816440	die Setzung dieser Parameter können wir quasi auch eine von mir aus Einklagbarkeit erstellen,
+2816440	2820200	wenn jetzt zum Beispiel, wie du das bei der Versicherung gesagt hast, die 30 Leute dann zu
+2820200	2824920	Unrecht einen höheren Beitrag zahlen oder so. Die Frage ist, was müssen die dann ja auch liefern
+2824920	2830840	als Beweisführung oder liegt die Pflicht zur Beweisführung dann bei der Versicherung? Das
+2830840	2840480	wäre ja zum Beispiel logisch. Das wäre die Frage. Also beispielsweise, wenn man ein
+2840480	2850080	Antidiskriminierungsverbot nimmt und dann gibt es einen, jemand wird angehalten, von der Polizei
+2850080	2856480	eingekontrolliert und die reist nach einer Diskriminierungsklage ein und sagt, ich bin
+2856480	2866720	hier nur kontrolliert worden, weil ich eine dunkle Hautfarbe habe. Dann würde jetzt der
+2866720	2873000	Polizist ja gefragt, nachher um das zu entscheiden, ob das jetzt tatsächlich ein diskriminierender
+2873000	2879600	Handler war oder nicht. Er sagt, warum hast du diese Person kontrolliert? Und dann sagt er vielleicht,
+2879600	2886760	ja ich hatte hier den Auftrag, jede zehnte Person, die an dieser Ecke vorbeigeht, zu kontrollieren.
+2886760	2894440	Das war mein Auftrag, den habe ich ausgeführt, das war die zehnte Person, fertig, oder? Und dann
+2894440	2904400	wäre sozusagen die Frage der inneren Motivation des Polizisten, wäre eigentlich auch relativ egal.
+2904400	2911120	Das wäre sozusagen der Code, den wir auch nicht ganz verstehen, warum hat er das jetzt gemacht.
+2911120	2917480	Wäre relativ egal, weil er in einem ganz klaren regelgebundenen Ablaufsystem drin war. Und dann
+2917480	2924680	könnte man aber sozusagen die nächste Frage stellen, warum wurde diese Art von Kontrolle an dieser Ecke
+2924680	2933720	durchgeführt? Ist es nicht klar, dass an dieser Ecke nur sozusagen, weil das eine Gegend ist,
+2933720	2938920	die und die Gruppe von Personen vorbeikommt. Dann wäre aber die Verantwortung sozusagen,
+2938920	2946760	ob das jetzt ein Racial Profiling ist, nicht mehr beim einzelnen Polizisten, sondern sozusagen
+2946760	2954440	eine Ebene höher beim Einsatzleiter gesagt, geh dorthin. Und insofern kann man das schon
+2954440	2967480	auf dieser institutionellen Ebene, wer definiert das Problem und wer macht sowohl das Problem und
+2967480	2974560	die Lösung definieren. Und dann die Frage, ob diese Problemdefinition und diese Lösungsstrategie
+2974560	2982760	diskriminierend waren, muss dann halt im Einzelfall entschieden werden. Das können wir aber heute
+2982760	2988720	sozusagen in anderen Bereichen ja auch machen. Und die Frage ist da nur nicht, oh Gott, wir haben da
+2988720	2994280	eine Million Fälle, die wir dann plötzlich jeden Tag entscheiden müssen, sondern nur, was ist der
+2994280	3004200	Preis dafür, wenn Diskriminierung festgestellt wird und lohnt sich jetzt für den Anbieter,
+3004200	3010200	das Risiko, diesen Preis zahlen zu müssen, wenn Diskriminierung festgestellt wird. Das ist eine
+3010200	3016160	betriebswirtschaftliche Überlegung. Und da muss diese Ausgestaltung der Verantwortung nach der
+3016160	3023280	möglichen Schadenersatzforderungen entsprechend gestaltet sein. Das wäre sagen ein Lösungsvorschlag,
+3023280	3030120	wie du es jetzt gerade sagst, dass wir halt quasi ein Regelwerk erschaffen für Fälle der
+3030120	3033720	Diskriminierung und wie dann vorgegangen wird. Aber das kann dann immer noch heißen, dass der
+3033720	3041400	Versicherer oder die Versichererin selbst, also die Firma jetzt, selbst das intern gar nicht
+3041400	3048120	nachvollziehen kann eventuell, oder? Weil zum Beispiel der Algorithmus sich selbst trainiert hat und
+3048120	3054440	innerhalb des Trainings darauf gekommen ist, dass ja bestimmte ZIP-Codes, bestimmte Postleitzahlen
+3054440	3060560	irgendwie zu günstigeren Ergebnissen führen für die Versicherung. Aber ohne dass der Algorithmus
+3060560	3066480	das jetzt wusste, sind das halt dann Postleitzahlen, in denen mehrheitlich Leute mit zum Beispiel
+3066480	3071240	Migrationshintergrund leben und so weiter und so fort. Also das könnte dann immer noch passieren,
+3071240	3081680	oder? Das könnte immer noch passieren, aber dann ist es halt klassisches Compliance einer Firma,
+3081680	3092120	halt darauf ein Auge zu werfen. Im Grunde ist ein Algorithmus nichts anderes, wie automatisiert
+3092120	3097640	die Arbeit von potenziell sehr vielen Leuten. Mit Mitteln, die Menschen nicht zur Verfügung
+3097640	3104680	stünden in dem Fall dann auch, oder? Ja, es ist eine Automatisierung halt. Und wenn man es jetzt
+3104680	3113240	aber sozusagen zurück übersetzt in sehr viele Leute, dann kann man ja auch nicht sagen, der CEO
+3113240	3119560	einer Firma kann ja unmöglich wissen, was alle 100.000 Angestellten machen. Wie kann der verantwortlich
+3119560	3124720	sein für das, was die Firma macht? Ist er aber. Ja, das wollte ich auch gar nicht. Also ich wollte
+3124720	3129160	nicht sagen, dass die Firma deswegen nicht mehr... Nein, nein, ich sage nur, nur weil das in einer
+3129160	3135200	anderen Materialität, in einer anderen Sprache ist, eine Sprache, die tatsächlich oft schwierig zu
+3135200	3143960	verstehen ist und teilweise sozusagen in Echtzeit nicht verständlich ist für niemanden, heißt ja
+3143960	3151120	nicht, dass diese klassischen Themen der Verantwortung, der sozusagen Rechtssicherheit und
+3151120	3159200	weiß ich nicht was, nicht mehr gelten. Es ist einfach ein Versuch, sich dieser Verantwortung zu
+3159200	3165160	entziehen, indem man sagt, ja, das sind Maschinen. Google sagt, das ist ja immer nur ein Algorithmus,
+3165160	3169040	wir sind nicht verantwortlich für die Suchresultate. Tatsächlich sind sie natürlich verantwortlich
+3169040	3175560	für die Suchresultate, weil sie verantwortlich für den Algorithmus sind und tatsächlich die
+3175560	3182880	Suchresultate so gestalten, dass es innerhalb ihres Businessmodells richtig ist. Vielleicht gehen wir
+3182880	3190800	mal zur Ebene der gesellschaftspolitischen Entwürfe, weil da ist es ja schon so, dass die
+3190800	3199200	ungeheure Effizienz, die ja durchaus entsteht durch die Verfügbarkeit dieser großen Datenmengen und
+3199200	3204320	die entsprechende Rechenleistung, die eben nicht jedem Akteur zur Verfügung steht, sondern nur
+3204320	3214480	wenigen, dass die eine Convenience, eine Bequemlichkeit in der alltäglichen Interaktion
+3214480	3219720	mit den jeweiligen Produkten erzeugt, die unglaublich verführerisch ist. Also eben Google Maps ist
+3219720	3224880	wirklich also in den allermeisten Fällen unglaublich praktisch, unglaublich gut, auch
+3224880	3232680	einfach und dem zu widerstehen gelingt den wenigsten. Wenn man das jetzt umlegt auf eine
+3232680	3237800	größere gesellschaftspolitische Vision von Zukunft, jetzt mal ganz grob gesprochen, ja,
+3237800	3246320	was siehst du für Entwürfe von Zukunft, die es schaffen, diesem Bequemlichkeitsangebot,
+3246320	3255880	das da ja im Raume steht, zu widerstehen? Ich würde das nicht als ein Bequemlichkeitsangebot
+3255880	3266360	bezeichnen und deshalb sozusagen die Frage, dem Zuckerl zu widerstehen, glaube ich, ist eine
+3266360	3271320	falsche Art, darüber zu denken. Ich glaube, das sind Angebote, die uns erlauben, eine sehr,
+3271320	3278360	sehr viel komplexere Welt zu navigieren. Nehmen wir Google Maps. Wir reisen alle viel mehr. Wir
+3278360	3287480	sind alle viel mehr an Orten, an denen wir uns nicht gut auskennen. Und jetzt ist natürlich
+3287480	3295160	Google Maps sehr, sehr gut, um sich an den Orten, wo ich mich nicht gut auskenne, von A nach B zu
+3295160	3303000	finden. Und dass wir es oft in diesen Situationen sind, ist eine Funktion eines veränderten Lebens.
+3303000	3313320	Ich will wissen, was für ein Angebot gibt es, um von A nach B zu fliegen. Da ist die Komplexität
+3313320	3320640	sozusagen des Marktes so gross, dass ich überhaupt nicht fähig bin, mich zu orientieren, ohne die
+3320640	3329720	Hilfe von Plattformen, die diese Angebote sozusagen aggregieren und vergleichbar machen. Für sehr,
+3329720	3339040	sehr viele Probleme, wie optimiere ich den Verkehr in der Stadt? Brauche ich sehr große Datenmengen,
+3339040	3345840	um einen anderen Blick darauf zu bekommen? Wie können wir vielleicht komplex auch über
+3345840	3353000	Energiekreisläufe da nachdenken und entsprechend unser Wirtschaftssystem reorganisieren? Brauchen
+3353000	3358480	wir sehr, sehr komplexe Modelle, die auf sehr, sehr großen Datenmengen generieren? Insofern sind diese
+3358480	3366560	sozusagen algorithmischen Dienstleistungen, die uns erlauben, die Welt anders zu sehen,
+3366560	3372800	notwendig, weil wir brauchen ein anderes Bild der Welt. Auf ganz, ganz vielen Gründen. Nichts
+3372800	3380680	zuletzt eben aus Klimaschutzgründen. Aber wir leben halt auch in einer Welt, die dynamisch ist,
+3380680	3388760	die sehr groß ist, weil wir uns sehr weit bewegen und entsprechend brauchen wir Hilfsmittel, um uns
+3388760	3398480	zu orientieren. Von dem her würde ich das nicht als sozusagen etwas sehen, dass das jetzt nur
+3398480	3405160	Bequemlichkeit ist. Es hat das schon auch, wie wir schon darüber gesprochen haben, diese eine Art,
+3405160	3409240	sich zu orientieren, jetzt bei Google Maps beispielsweise, die ersetzt zunehmend auch
+3409240	3414400	andere Arten, sich zu orientieren. Das heißt, man wird danach sozusagen von diesem neuen Normal bis
+3414400	3421120	zu einem gewissen Grad abhängig. Aber das heißt einfach, wir werden abhängig als Gesellschaft von
+3421120	3426600	den Werkzeugen, mit denen die Gesellschaft gebaut ist. Das war eigentlich schon immer so. Das Problem
+3426600	3437000	kommt jetzt daher, dass wir diese Hilfsmittel, die uns erlauben sozusagen die Welt zu sehen in
+3437000	3442920	einer Art und Weise, wie sie unserem Verhalten in der Welt entspricht, die bekommen wir im Rahmen
+3442920	3451760	eines Paketes. Und dieses Paket sagt, wir geben dir das Tool, aber du hast überhaupt keine Möglichkeit
+3451760	3459280	zu sehen, wie wir dich über dieses Tool beeinflussen können. Wie wir dich steuern können,
+3459280	3467160	was du siehst und wie du dich bewegst. Wir wissen nicht, wie Google Maps, das ist noch
+3467160	3472320	ein relativ nachvollziehbares Beispiel, weil es tatsächlich in der Stadt ist und ich kann mich
+3472320	3476000	dadurch bewegen und sehen, ah, ich hätte auch anders gehen können. Aber wir wissen nicht,
+3476000	3486560	wie es an der Route zustande kommt. Und man kann sich einfach vorstellen, wie beispielsweise ein
+3486560	3492160	Staat, Google sagt, wir wollen aber nicht, dass zu viel Verkehr an dieser Ecke vorbeigeht,
+3492160	3499200	weil die ist sensitiv. Und dann werden wir nie die Route an dieser Ecke bekommen und wir wissen
+3499200	3505320	nicht, warum. Und da liegt das Problem. Das Problem, dass diese Tools, wir brauchen die,
+3505320	3512920	die sind positiv, die erlauben uns sozusagen in der Gegenwart zu leben. Und sehr, sehr komplexe
+3512920	3517760	Probleme, die wir haben, die ja nicht einfach sozusagen von diesen Tools gemacht wurden,
+3517760	3524200	sondern die bestehen ja. Vielleicht besser anzugehen wie ohne diese Tools. Aber sie sind
+3524200	3536280	gefasst in einer sozusagen politisch-ökonomischen Institution, die keine Regeln akzeptieren will,
+3536280	3542920	also demokratische Fassungen und sozusagen die, die diese Macht, die damit zusammenhängt,
+3542920	3552240	vollkommen intransparent verwaltet. Und da keinerlei Möglichkeiten sind, von den demokratischen,
+3552240	3559960	oder schwachen Möglichkeiten bisher nur, von den demokratisch verfassten Willensbekundungen,
+3559960	3567960	da gewisse Regeln einzuführen, gewisse Beschränkungen einzuführen, gewisse Entwicklungslinien
+3567960	3573600	zu präferieren und andere sozusagen abzuklemmen. Da habe ich mich vielleicht dann eben auch zu
+3573600	3577160	ungenau ausgedrückt, weil ich meinte nämlich auch gar nicht unbedingt, dass mit dem Zucker,
+3577160	3584680	dass man, oder eigentlich gar nicht mit dem Zucker, dass man eben auf diese positiven Effekte der
+3584680	3591440	Zugänglichmachung von Welt und so weiter, die ja Algorithmen und Technologie im Allgemeinen auch
+3591440	3598680	leisten kann, dass man davon absehen solle, sondern ich frage mich, wie kann auch eine
+3598680	3606920	Vorstellung von Zukunft aussehen, die eben diesem letztlich ja auch politisch-ökonomischen Geflecht,
+3606920	3612040	was sich da herausschält und was auch eine gewisse Dominanz erlangt eben auf einer
+3612040	3618040	politisch-gesellschaftlichen Ebene? Wie kann man Visionen von Zukunft, oder was für Visionen von
+3618040	3627120	Zukunft gibt es, die eine andere, nicht offenere oder demokratisch verfasstere Struktur verfolgen?
+3627120	3633320	Also gibt es Alternativen und wie schauen die aus? Also was im Moment relativ breit diskutiert wird,
+3633320	3639520	als es beginnt zu diskutieren zu werden, ist der Begriff der technologischen Souveränität. Und was
+3639520	3646880	das bedeutet, ist, dass man die Technologien, und das beinhaltet auch die Daten, die diese
+3646880	3657640	Technologien brauchen, in den Bereich bringt, in dem die demokratische Willensbildung derjenigen,
+3657640	3665200	die von diesen Technologien betroffen sind, stattfindet. Das Problem heute, das sogar auf
+3665200	3673560	der Ebene der EU besteht, ist, dass die großen Technologieanbieter schlecht greifbar sind. Die
+3673560	3679160	sagen, ja, wir sind amerikanisches Recht, oder wenn wir in Europa sind, sind sie irgendwie in
+3679160	3686040	Irland. Und das macht es beispielsweise jetzt einer Stadt wie Wien. Es ist schwierig, von Airbnb
+3686040	3693440	Daten zu bekommen, um hier die Gesetze durchzusetzen, was Abgaben auf Mietwohnungen und so weiter
+3693440	3702880	besteht. Und hier ist der Versuch zu sagen, wir wollen eigentlich, dass diejenigen, die jetzt
+3702880	3711040	unsere Stadt sozusagen mit Daten erfassen und mit Technologie verändern, innerhalb der Stadt und
+3711040	3718800	ihrer politischen Institutionen angesiedelt sind. Das heißt, es wäre jetzt ein Versuch,
+3718800	3729360	eine Politik, die sagt, wir müssen wegkommen von diesen zentralisierten Lösungen, die irgendwo im
+3729360	3734560	Ausland schwer zu erreichen, sozusagen durch die politischen Institutionen, die demokratisch
+3734560	3741680	verankert sind, angesiedelt sind. Sondern wir wollen die eigentlich schauen, dass die in unserem
+3741680	3751120	sozusagen politischen Gehäuse agieren. Und da sind aktuell die Städte am weitesten. Amsterdam,
+3751120	3759360	Berlin, Barcelona, New York, also auch in den USA, wo das sehr stark diskutiert wird. Die Frage,
+3759360	3768560	wie können wir den Einfluss der demokratisch legitimierten Institution und der demokratisch
+3768560	3774720	legitimierten Macht wieder stärken auf diesen Bereich? Und da haben wir im Moment halt das
+3774720	3782400	Problem, dass diese beiden sozusagen Geografien vollkommen auseinandergehen. Und die Idee der
+3782400	3788120	technologischen Souveränität wäre, diese Geografien wieder aufeinanderzubringen. Aber nicht,
+3788120	3793400	indem man sagt, gut, wir brauchen jetzt die globale Internetregierung, das war sozusagen die Idee der
+3793400	3799720	90er- und 2000er-Jahre. Sondern, dass man sagt, nein, wir müssen das wieder zurückbinden an einen
+3799720	3808280	tatsächlichen Ort, in dem quasi demokratische Politik stattfindet. Und das war jetzt in dem
+3808280	3813880	konkreten Fall dann jeweils die Stadt. Das würde heißen, Airbnb kann sich eben nicht darauf
+3813880	3820080	ausreden, na, wir haben eigentlich mit Wien gar nichts zu tun. Sondern wir sitzen in Irland, das ist
+3820080	3826480	eigentlich eine amerikanische Firma. Sondern, man müsste sagen, gut, wenn die in Wien agieren
+3826480	3833360	wollen, dann müssen sie halt tatsächlich gewisse Regeln hier akzeptieren und sich sozusagen dieser
+3833360	3840360	demokratischen Willensbildung, die hier stattfindet, beugen beispielsweise, als man sagt, dürfen jetzt
+3840360	3847120	Privatwohnungen vermietet werden, was sind die Steuern, die da drauf kommen, etc. Das ist aber
+3847120	3854720	sozusagen eine politische Auseinandersetzung. Auf der einen Seite gewisse demokratische Institutionen,
+3854720	3861360	auf der anderen Seite sehr mächtige Akteure, ja nicht nur Internetakteure, sondern auch andere,
+3861360	3870440	die eigentlich sich immer stärker versuchen, aus dieser demokratischen Kontrolle zu verabschieden.
+3870440	3875200	Und das ist eine klassische politische Auseinandersetzung. Und die Akteure sind aber
+3875200	3880200	tatsächlich dann, also die Hauptakteure, sage ich mal, sind tatsächlich wieder quasi die zwei. Also
+3880200	3888320	die Alternative ist, oder sagen, die Kontrollinstanz oder die Hilfsinstanz, nach der dann gerufen wird,
+3888320	3893960	in Anführungsstrichen, ist dann eine staatliche. Tendenziell, ist das so? Letztlich ist es immer
+3893960	3901240	eine staatliche, weil die staatliche setzt den gesetzlichen Rahmen. Der gesetzliche Rahmen kann
+3901240	3911840	durchaus so gemacht werden, dass er auch andere Akteure stärkt. Aber der Rahmen sozusagen,
+3911840	3919240	solange es auf Gesetzen beruht, ist immer der Staat. Beispielsweise als Teil dieser Idee der
+3919240	3926640	technologischen Souveränität gibt es auch die Idee, dass man die Daten, die zum Beispiel in einem
+3926640	3933200	intelligenten Verkehrssystem anfallen oder die in einer Stadt anfallen, ganz allgemein nicht mehr
+3933200	3940800	als Privateigentum versteht, sei das meine eigenen persönlichen Daten oder der Firma,
+3940800	3948240	sondern eigentlich sagt, das ist ein gemeinschaftliches. Das gehört sozusagen
+3948240	3957680	allen in der Stadt. Also Daten sind eine neue Form von Cummins. Und dann könnte man Regeln
+3957680	3962880	erstellen, wie diese Daten genutzt werden können. Ich könnte beispielsweise sagen,
+3962880	3970480	alle in der Stadt ansässigen Akteure, Firmen und NGOs oder auch Bürgerinitiativen haben freien
+3970480	3976880	Zugang zu diesen Daten, also immer im datenschutzrechtlichen Rahmen, aber haben
+3976880	3984480	freien Zugang und können darauf sozusagen in Services neue Angebote entwickeln. Und Akteure
+3984480	3995160	aus einem nationalen Rahmen, die haben unter gewissen Auflagen Zugang, beispielsweise müssen
+3995160	4002240	dafür zahlen. Und globale Akteure, die haben nochmal unter anderen Bedingungen Zugang,
+4002240	4008000	müssen noch mehr dafür zahlen. Da hätte man so ein abgestuftes System, wo man sagen kann,
+4008000	4021760	das Ziel dieser Regelung ist es, lokale Akteure zu stärken. Und so ein Rahmen muss zumindest auf
+4021760	4028880	der staatlichen Ebene gemacht werden, dass eine Institution ermächtigt wird, sozusagen damit
+4028880	4034200	beauftragt wird, so einen Rahmen, eine Datenschutzbehörde oder eine Datenkommensbehörde
+4034200	4039600	oder ein Datenkommensnetzwerk oder was denn das immer für eine institutionelle Form ist. Aber
+4039600	4043880	die muss damit beauftragt werden, so einen Rahmen auszuarbeiten und durchzusetzen.
+4043880	4050440	Und gibt es weiterreichende Vorstellungen von Zukunft, wo die Lösungen nicht so
+4050440	4057680	particular sind? Also man sagt, okay, es gibt quasi für ein bestehendes Problem eine Insellösung,
+4057680	4063440	die nach Prinzipien funktioniert, die wir unterstützenswerter finden, sondern kennst
+4063440	4068800	du Entwürfe, also auch Entwürfe von gesellschaftspolitischen Ordnungssystemen,
+4068800	4076280	die weder auf Staat als Ordnungsinstanz noch auf Markt als Ordnungsinstanz basieren,
+4076280	4082280	wobei man ja eigentlich die beiden auch fix zusammen denken müsste. Kennst du da Entwürfe?
+4082280	4098040	So in der Größe nicht, aber es ist natürlich ein jetzt schon lang und ein sich verstärkender
+4098040	4103040	Auseinandersetzung zwischen drei Gruppen von Akteuren, staatlichen Akteuren,
+4103040	4108280	marktorientierten Akteuren und zivilgesellschaftlichen Akteuren, also NGOs jetzt im breitesten Sinne,
+4108280	4116560	die ja immer mehr auch öffentliche Aufgaben mit übernehmen können und das teilweise auch tun.
+4116560	4125520	Und dieser Sektor ist sicher einer der durch neue technologische Möglichkeiten der Organisation
+4125520	4134840	und der Kommunikation und des Abbaus auch von diesen teilweise extrem in Institutionen gefangenen
+4134840	4143480	Wissensmonopolen sich besser organisieren kann. Und da ist eine große Auseinandersetzung,
+4143480	4151400	welcher Bereich soll wie geregelt werden und da gibt es natürlich auch einzelne Beispiele dafür,
+4151400	4157720	wo man sagt, beispielsweise der Energieversorger, der lokale Energieversorger, der soll nicht mehr
+4157720	4164320	quasi privatwirtschaftlich ausgerichtet werden, sondern eine Art gemeinwirtschaftlich ausgerichtet
+4164320	4168560	werden. Und dann so diese ganze Bewegung der Rekommunalisierung der Energienetze,
+4168560	4172080	die ja beispielsweise in Hamburg durch als erfolgreich war, in Berlin ist sie gescheitert,
+4172080	4177760	aber war auch sehr populär, aber ist dann am Quorum der Abstimmung gescheitert. Also da gibt
+4177760	4185160	schon Ideen, wie diese drei Bereiche neu miteinander verknüpft werden können und wie dieses wachsende
+4185160	4193080	sozusagen Organisationspotenzial der Zivilgesellschaft besser auch eingebunden werden kann,
+4193080	4199960	indem eben auch die demokratischen Entscheidungsmöglichkeiten, Mitbestimmungsmöglichkeiten
+4199960	4205160	ausgebaut werden. Aber ich glaube, es ist nicht ein entweder-oder. Es ist nicht Markt oder Staat.
+4205160	4211480	Also die libertäre Utopie, die wird das immer bleiben, eine Utopie. Es ist klar sozusagen,
+4211480	4218360	die vollkommen staatliche Planung ist auch nicht sozusagen die Vision, die man möchte,
+4218360	4226760	aber das Ausverhandeln im besten Sinne, wie diese drei Sachen zueinanderstehen können,
+4226760	4232640	ich glaube, da ist sehr, sehr viel Bewegung drin. Jetzt basiert ja oder ist die dominante
+4232640	4238480	Erzählung der politischen Ökonomie heutzutage immer noch basierend auf der Effizienz der Märkte,
+4238480	4245800	der angeblichen, die in letzter Instanz ja auch sozusagen sagt über die Preisbildung und könne
+4245800	4251880	quasi eine höchstmögliche Allokation von Mitteln erlangt werden, weil sonst kein anderes System in
+4251880	4259480	der Lage wäre, ein so vollständiges Wissen über den ja so komplexen Markt zu erlangen,
+4259480	4263160	wie es eben Märkte können, weil die dezentral organisiert sind, jeder einzelne Käufer und
+4263160	4268240	Verkäufer da quasi seinen Informationsinput reingibt. Wo kommt man hin, wenn man sich dann
+4268240	4274400	fragt, ob diese Erzählung, die ja auf einer Effizienz basiert, ob die in Zukunft noch
+4274400	4281080	haltbar sein wird? Und da denke ich zum einen an Algorithmic Pricing, was ja schon quasi auch
+4281080	4289440	andere Faktoren als nur den Preis alleine mit einbezieht, um zu einer Basis des Warentauschs
+4289440	4295440	zu kommen letztlich, zum einen in die Richtung gedacht und eben auch, ob es sowas gibt, wie eine
+4295440	4300560	kybernetische Planwirtschaft in Zeiten ihrer technischen Machbarkeit, um das ein bisschen
+4300560	4313960	polemisch zuzuspitzen. Ich glaube, was wir sehen, ist, dass die erhöhte Fähigkeit der nicht
+4313960	4322720	marktorientierten Akteure, sich zu organisieren und Outputs zu generieren, dass die gewissen
+4322720	4335360	Tätigkeiten, die vorher nur im Markt organisiert waren und entsprechend sozusagen auf Preis
+4335360	4344320	orientiert waren, anders zu organisieren und damit ein anderer Kalkulus mit ins Spiel kommt.
+4344320	4356920	Also klar, beispielsweise ist es denkbar und wird auch experimentiert, verschiedene dezentrale
+4356920	4364400	Energieversorgungssysteme miteinander so zu koppeln, dass Produzenten direkt miteinander
+4364400	4370680	Energie tauschen können in einer Nachbarschaft oder in einer Region. Ganz ohne Preise involviert
+4370680	4376880	dann letztlich? Da sind schon auch Preise involviert, aber der Preis ist nicht mehr nur die einzige
+4376880	4385560	sozusagen Kindzahl, die relevant ist, sondern kommen eben auch andere Qualitäten wie Selbstversorgung,
+4385560	4395520	wie Nachhaltigkeit und so weiter und so fort mit rein. Und der Preis ist eigentlich nur eine Art
+4395520	4411480	Rechengröße, um Austauschverhältnisse sozusagen verifizieren zu können. Ich habe jetzt für so
+4411480	4419360	viel Strom von dir bezogen und du hast so viel Strom von mir bezogen. Das kommt darauf raus,
+4419360	4426680	dass am Ende des Monats ich noch so viel Geld von dir kriege, aber das lassen wir auf dem Konto,
+4426680	4432600	weil im nächsten Monat ist es vielleicht umgekehrt und so tauschen wir vielleicht langfristig Dinge
+4432600	4440600	miteinander aus, wo kaum je sozusagen der Geld tatsächlich transferiert wird. Aber es
+4440600	4445280	ist natürlich eine Accounting-Ebene, ist nach wie vor aha, du hast jetzt so viel Strom von mir
+4445280	4452040	bezogen, ich habe so viel Strom von dir bezogen. Also da ist schon denkbar, etwas zu machen,
+4452040	4459680	das eben nach anderen Kriterien passiert, das ist eher zivilgesellschaftlich passiert,
+4459680	4465360	die eine komplexere, mehrdimensionale Idee haben von dem, was sie machen und der Preis,
+4465360	4471680	der ist da mit drin, aber er ist nicht mehr das einzige dominierende Element, was am Schluss nur
+4471680	4479640	noch darum geht, was steht in der Quartalsrechnung unten beim Total. Und von einer quasi Neubelebung
+4479640	4486920	planwirtschaftlicher, staatlicher Strukturen im Zuge neu zur Verfügung stehender technologischer
+4486920	4494720	Mittel, da gibt es keine Entwürfe, von denen du wüsstest? Nein, ich habe gesagt, es ist ja schwierig,
+4494720	4501640	weil der Staat die ganze Zeit schon plant und gewisse Dinge sozusagen alloziert. Jetzt wollen
+4501640	4510800	wir hier eine Autobahn bauen und nicht dort und so und so viel. Also man kann es gut vorstellen,
+4510800	4520400	dass das im Rahmen eines Klimaregimes irgendwie entschieden werden muss, wer kriegt welche
+4520400	4529240	sozusagen Verschmutzungsrechte oder wie allozieren, wie die Verschmutzung, die wir bieten können,
+4529240	4536800	die wir uns leisten können, so ökologisch in der Gesellschaft. Und das einfach über einen Markt
+4536800	4545920	zu machen für CO2-Ausstoß, das ist ja bis jetzt grandios gescheitert. Aber dass der Staat,
+4545920	4552720	irgendwo man sagt, oder eine öffentliche Stelle, irgendwo man sagt, mit unseren Klimazielen ist
+4552720	4559080	nur noch so und so viel Stahl-Output oder Aluminium-Output oder Verkehr denkbar. Und
+4559080	4567680	jetzt müssen wir das anders organisieren. Das ist schon denkbar. Aber das ist auch so ein
+4567680	4577400	Selbstverständnis dessen, was der Staat macht, der sich immer stärker nur noch als eine Entität
+4577400	4583840	sieht, die Rahmenbedingungen für Märkte herstellt. Da sind wir einfach extrem weit davon entfernt.
+4583840	4589880	Von dem her habe ich das Gefühl, dass diese komplexeren Planungsideen eigentlich eher über
+4589880	4597440	die Zivilgesellschaft kommen, wie über den Staat. Der Staat, seine Aufgabe wäre es dann,
+4597440	4605480	den Rahmen herzustellen, damit auch sozusagen nicht marktorientierte Akteure da agieren können. Und
+4605480	4610000	auch da sind wir noch sehr, sehr weit weg davon. Vielleicht noch als ein Schlusswort. Ich ende
+4610000	4615560	gerne auf eine positive Note. Deshalb die Frage, wenn du dir Zukunft vorstellst, was stimmt dich
+4615560	4621600	freudig? Ja, ich glaube, die Fähigkeit der Gesellschaft, mit Komplexität umzugehen und
+4621600	4628680	damit mit Vielfalt, die nimmt zu. Auch wenn viele Akteure damit Probleme haben und quasi
+4628680	4636960	dagegen arbeiten, leben wir in einer vielfältigeren Welt. Und wir brauchen Mittel, und das sind oft
+4636960	4641800	auch technologische Mittel, um mit dieser Vielfalt umgehen zu können. Sei das eine kulturelle
+4641800	4647480	Vielfalt, aber auch eine Vielfalt von Akteuren, dass es Menschen, Tiere, Pflanzen, Wettersystemen
+4647480	4655480	und so weiter sind. Und das finde ich grundsätzlich eine positive Entwicklung. Wunderbar. Felix,
+4655480	4666320	vielen Dank für das Gespräch. Gerne. Das war Future Histories für heute. Vielen Dank fürs
+4666320	4673480	Zuhören. Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today. Diskutiert mit
+4673480	4679040	auf Twitter unter dem Hashtag Future Histories oder auf Reddit. Lasst mich wissen, was ihr zu
+4679040	4683800	dem Ganzen denkt und wie euch diese Folge hier gefallen hat. Unbedingt gut bewerten auf allen
+4683800	4688880	Podcast-Plattformen, die ihr nutzt. Für unsere Patreon-Unterstützerinnen und Unterstützer gibt
+4688880	4694720	es auf www.patreon.com schräg Strich Future Histories vieles an Zusatzmaterial. Ich lese
+4694720	4698960	zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt. Da könnt ihr also
+4698960	4725960	auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.

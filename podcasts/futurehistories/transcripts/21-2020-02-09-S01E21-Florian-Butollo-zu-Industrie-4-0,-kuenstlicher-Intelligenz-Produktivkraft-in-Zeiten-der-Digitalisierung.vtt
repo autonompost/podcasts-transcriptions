@@ -1,0 +1,1883 @@
+WEBVTT
+
+00:00.000 --> 00:04.800
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen
+
+00:04.800 --> 00:10.440
+von Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Florian Butollo begrüßen zu
+
+00:10.440 --> 00:16.640
+dürfen. Florian ist Forschungsgruppenleiter am Berliner Weizenbaum-Institut. Seine Forschungsgruppe
+
+00:16.640 --> 00:22.320
+trägt den klingenden Titel Arbeiten in hochautomatisierten digital-hybriden Prozessen.
+
+00:22.320 --> 00:28.320
+Er hat kürzlich einen Sammelband herausgebracht mit dem Titel Marx und die Roboter und er ist
+
+00:28.320 --> 00:33.400
+Mitglied in der Enquete-Kommission des Deutschen Bundestages zum Thema künstliche Intelligenz.
+
+00:33.400 --> 00:40.000
+Über all das werden wir heute auch sprechen, aber vorher noch kurz ein paar Ankündigungen
+
+00:40.000 --> 00:46.280
+in eigener Sache. Zum einen darf ich Dank aussprechen. Vielen, vielen Dank an Timo
+
+00:46.280 --> 00:52.120
+für die Unterstützung bei Patreon. Ebenso an den User oder die Userin, ich weiß es nicht,
+
+00:52.120 --> 00:58.080
+mit dem Pseudonym afish. Auch dir vielen Dank für die Unterstützung bei Patreon. Ich weiß,
+
+00:58.080 --> 01:05.160
+es ist wirklich sehr zu schätzen. Und zwei Termine. Am 26.2. werde ich am Weizenbaum-Institut in
+
+01:05.160 --> 01:10.800
+Berlin, wo ich derzeit Research Fellow bin, eine Panel-Discussion veranstalten. Kommt dahin. Das
+
+01:10.800 --> 01:17.120
+wird absolut super. Um 18 Uhr am 26.2. im Weizenbaum-Institut für die vernetzte Gesellschaft.
+
+01:17.120 --> 01:23.360
+Das werden diskutieren Benjamin Seibel, Jair Clarabrecke, ich und noch ein dritter Gast,
+
+01:23.360 --> 01:28.320
+von dem ich die Bestätigung noch nicht ganz fix habe und deswegen ich das hier jetzt noch
+
+01:28.320 --> 01:33.880
+nicht verkünden kann. Das Thema lautet Cryptoeconomics als Menschenregierungskunst.
+
+01:33.880 --> 01:42.680
+Und direkt am nächsten Tag, am 27.2.2020 habe ich die große Freude, ein Gespräch moderieren
+
+01:42.680 --> 01:47.600
+zu dürfen zwischen einer befreundeten Künstlerin Anna Witt und meinem heutigen Gast Florian
+
+01:47.600 --> 01:52.560
+Botollo. Anna hatte mich nämlich gefragt, ob ich vielleicht einen Wissenschaftler wüsste,
+
+01:52.560 --> 02:00.600
+der zu dem Thema ihrer aktuellen Arbeit forscht. Und das lautet der Just-Automatisierung und die
+
+02:00.600 --> 02:07.280
+Utopie vom Ende der Arbeit. Da musste ich natürlich sofort an Florian denken und so kam das ganze
+
+02:07.280 --> 02:15.600
+zustande. Ich freue mich also sehr, am 27.2.2020 euch alle in der Galerie Tanja Wagner zu sehen,
+
+02:15.920 --> 02:20.960
+wo ein Gespräch stattfinden wird, das sicher auch super interessant und spannend wird. Ich glaube,
+
+02:20.960 --> 02:25.080
+es fängt an um 19 Uhr. Das weiß ich aber noch nicht so genau fix. Da müsstet ihr vielleicht
+
+02:25.080 --> 02:30.600
+auch noch mal auf der Homepage von der Galerie Tanja Wagner schauen. Wenn euch Future Histories
+
+02:30.600 --> 02:35.320
+gefällt, dann erzählt es doch bitte einem Freund oder einer Freundin, von dem ihr glaubt,
+
+02:35.320 --> 02:41.120
+dass ihr oder ihm dieser Podcast hier auch gefallen könnte. Jetzt aber viel Spaß bei
+
+02:41.200 --> 02:51.560
+der heutigen Folge mit Florian Botollo. Herzlich willkommen, Florian.
+
+02:51.560 --> 02:54.600
+Danke, Hallo Jan. Florian, wir wollen versuchen in unserem
+
+02:54.600 --> 02:59.680
+Gespräch heute zwei Themenfelder abzudecken. Das erste wird bei Weitem den größeren Teil ausmachen
+
+02:59.680 --> 03:04.880
+und man könnte es unter dem Titel Produktivkraft in Zeiten der Digitalisierung zusammenfassen.
+
+03:04.880 --> 03:10.480
+Das zweite Themenfeld ist meinem Wunsch geschuldet, etwas hinter die Kulissen dieser Enquete-Kommission
+
+03:10.480 --> 03:15.600
+zu gucken. Ich hätte also im Ausklang des Gesprächs dann gerne noch alles Insider wissen,
+
+03:15.600 --> 03:21.560
+die juicy Details, allen Gossip und natürlich auch alle fachlich relevanten Informationen aus
+
+03:21.560 --> 03:28.080
+der KI-Enquete-Kommission. Ich steige grundsätzlich ganz gerne mit Definitionsfragen ein, so auch heute,
+
+03:28.080 --> 03:33.720
+was verstehst du unter Produktivkraft und warum ist sie für dich eine geeignete Perspektive der
+
+03:33.720 --> 03:39.400
+Betrachtung von zeitgenössischen gesellschaftlichen Veränderungen und ihrem Verhältnis zu Technologie.
+
+03:39.400 --> 03:46.480
+Unter Produktivkraft verstehe ich alle gesellschaftlichen Mittel, die Natur zu
+
+03:46.480 --> 03:53.080
+bearbeiten und dadurch Reichtümer zu erschöpfen, menschliche Möglichkeiten zu erweitern und es
+
+03:53.080 --> 03:57.120
+umfasst eben technische Mittel, aber nicht nur. Das sind auch Formen der Arbeitsteilung,
+
+03:57.120 --> 04:03.160
+ist auch der allgemeine Bildungsstand, eine Gesellschaftsformation und daraus leitet
+
+04:03.160 --> 04:09.440
+sich sozusagen ab, was potenziell alles gemacht werden könnte in materieller Hinsicht,
+
+04:09.440 --> 04:14.760
+wie sozusagen Wohlstand geschaffen werden kann, aber auch die Natur bearbeitet werden kann. Das
+
+04:14.760 --> 04:20.920
+ist sozusagen die eine Seite. Bei Marx ist es durchaus so, dass der Begriff doppeldeutig ist.
+
+04:20.920 --> 04:24.880
+Also es gibt die Bedeutung, von der ich gerade erzählt habe, diese allgemeine, allgemeine
+
+04:24.880 --> 04:29.840
+soziotechnische Potenzial kann man sagen zur Bearbeitung der Welt. Es gibt aber auch einen
+
+04:29.840 --> 04:34.320
+engeren Begriff, der dann eher dem entspricht, was man heutzutage die Arbeitsproduktivität
+
+04:34.320 --> 04:43.400
+nennt, also der konkrete Aufwand, der nötig ist, um einen bestimmten Ertrag zu bestimmen. Und dann
+
+04:43.400 --> 04:47.800
+wird es kompliziert, weil das eine ist nicht dasselbe wie das andere. Was wir im Moment haben,
+
+04:47.800 --> 04:53.440
+gesellschaftlich gesehen, ist, dass die Produktivkräfte als Potenzial immer weiter zunehmen,
+
+04:53.440 --> 04:59.800
+die theoretischen Möglichkeiten, Reichtum zu erzeugen, ins unermessliche fast steigen,
+
+04:59.800 --> 05:04.080
+und gleichzeitig die Produktivitätsentwicklung flach ist, das eigentlich immer weniger zum
+
+05:04.080 --> 05:08.480
+Einsatz kommt. Und mit dem Paradox beschäftige ich mich. Darum geht es auch viel in dem Buch,
+
+05:08.480 --> 05:14.520
+Marx und die Roboter. Bevor wir uns dieser Frage genauer widmen, warum das so ist,
+
+05:14.520 --> 05:19.800
+also warum das so auseinanderklafft, vielleicht noch ganz kurz, Produktivkraft ist wahrscheinlich
+
+05:19.800 --> 05:24.040
+natürlich der weniger geläufige Begriff, aber ich finde es trotzdem auch vielleicht noch mal ganz
+
+05:24.040 --> 05:32.200
+wichtig. Wie definierst du Digitalisierung? Digitalisierung definiere ich als eigentlich
+
+05:32.200 --> 05:36.920
+digitale Verdopplung der Welt. Das ist die ganz abstrakte Herangehensweise. Es gibt auch den
+
+05:36.920 --> 05:42.560
+verwandten Begriff der Informatisierung, der eigentlich besser passt, der davon ausgeht,
+
+05:42.560 --> 05:46.840
+dass es das eigentlich schon sehr lange gibt. Also schon die doppelte Buchführung ist so was wie
+
+05:46.840 --> 05:53.640
+eine Verdopplung der digitalen Welt, der Abbildung in Zahlen. Und das setzt sich sozusagen immer
+
+05:53.640 --> 06:00.000
+weiter fort bis hin zu dem Prozess, dass wir eben heute Bilder, Soundbites und so weiter und so fort
+
+06:00.000 --> 06:08.600
+oder Geräusche abbilden können in Bites und Zahlen. Und das ist sozusagen ein schleichender,
+
+06:08.600 --> 06:13.320
+ein laufender Prozess. Daran aufsetzen muss man natürlich fragen, was ist jetzt neu? Wann
+
+06:13.320 --> 06:19.120
+sind sozusagen epochale Entwicklungen, die noch mal die Digitalisierung oder Phasen der
+
+06:19.120 --> 06:25.400
+Digitalisierung ausdrücken? Und da sind am gängigsten natürlich die Erfindungen des Computers,
+
+06:25.400 --> 06:30.840
+dann des PCs als Massenprodukt, die Erfindungen des Internets und heute des Internets der Dinge.
+
+06:30.840 --> 06:36.680
+Also wenn man gegenwärtig eine Diskussion um Digitalisierung und Arbeit führt, dann ist es
+
+06:36.680 --> 06:41.120
+eigentlich eine sehr schwamme, begriffliche Formulierung, weil die kann man schon seit vielen
+
+06:41.120 --> 06:45.920
+Jahrzehnten führen. Die Frage ist, was ist eigentlich heute neu? Wo kommt tatsächlich was
+
+06:45.920 --> 06:52.760
+Neues zum Tragen? Und das ist gar nicht so leicht zu beantworten oft, weil im öffentlichen Diskurs
+
+06:52.760 --> 06:58.800
+schnell Revolutionen deklariert werden. Bei näherem Hinsicht man doch sehr stark differenzieren muss,
+
+06:58.800 --> 07:03.280
+was ist jetzt wirklich qualitativ neu und wo setzen sich bestehende Pfade industrieller
+
+07:03.280 --> 07:09.800
+Organisationen und des Technikeinsatzes im Grunde fort. Das also war auch ziemlich genau das,
+
+07:09.800 --> 07:14.720
+was ich so schön fand an eurer Betrachtung eigentlich, dass ihr diesen Produktivkraftbegriff
+
+07:14.720 --> 07:20.120
+verwendet, um wirklich mal das auch abzuklopfen. Wie viel ist denn an diesen Versprechen konkret
+
+07:20.120 --> 07:28.680
+dran und was ist vielleicht einfach nur Hype und eventuell auch interessensgeleitete Augenwischerei
+
+07:28.680 --> 07:37.560
+könnte man auch sagen. Diese Frage des Neuen ist eben ein Aspekt, den ihr in einem Paper behandelt
+
+07:37.560 --> 07:49.920
+und zwar du und Patrizia De Paivo Larreiro. Das Paper trägt den Titel Technik-Utopien und
+
+07:49.920 --> 07:55.040
+säkulare Stagnation der Kapitalismus als Treiber und Schranke des Digitalen und da steckt es ja
+
+07:55.040 --> 07:59.400
+auch schon so ein bisschen drin. Auf der einen Seite Treiber, auf der anderen Seite eben auch
+
+07:59.400 --> 08:06.080
+Schranke des Digitalen. Also es geht um die Frage, inwiefern eigentlich das Profit streben und die
+
+08:06.080 --> 08:11.960
+permanente Ausrichtung am Profit streben, inwiefern das nicht eigentlich verhindert,
+
+08:11.960 --> 08:17.680
+dass diese vollen, also die Potenziale voll ausgenutzt werden, die in so was wie einer
+
+08:17.680 --> 08:23.840
+fortschreitenden Digitalisierung eigentlich lägen. Warum ist das so? Warum verhindert der
+
+08:23.840 --> 08:29.520
+Kapitalismus und dieses Profit streben die Ausschöpfung dieses Potenzial? Denn das gängige
+
+08:29.520 --> 08:35.040
+Narrativ versucht uns ja allen weis zu machen, dass der Kapitalismus gerade das erzeugen würde,
+
+08:35.040 --> 08:43.080
+dass er gerade Erfindungsreichtum und und so weiter hervorbrächte. Es ist ja beides so. Also wir sagen
+
+08:43.080 --> 08:48.520
+nicht nur, dass es nicht so ist, aber es ist eben wichtig zu verstehen, dass es nicht so ist. Zunächst,
+
+08:48.520 --> 08:53.560
+um das noch mal zu unterstreichen, warum das wichtig ist, also uns wird gegenwärtig eigentlich der
+
+08:53.560 --> 08:58.160
+politische Diskurs verschiebt sich mal mehr in die Zukunft. Also wir hatten die Finanzkrise 2008,
+
+08:58.160 --> 09:01.880
+2009, da war irgendwie die Stimmung, der Kapitalismus kann nicht weiter überleben,
+
+09:01.880 --> 09:06.440
+das Ganze ist irgendwie hat sich totgelaufen. Und jetzt haben wir eine Phase und auch eine Antwort
+
+09:06.440 --> 09:12.400
+diskursiv darauf, die sagt, in der Zukunft wird alles besser. Es wird alles produktiver,
+
+09:12.400 --> 09:18.280
+es wird mehr Wachstum geben und das ist für die Beschäftigten auch wunderbar. Wenn man den Diskurs
+
+09:18.280 --> 09:22.360
+um Arbeit 4.0 ein bisschen verfolgt, hat man das Gefühl, das ist eigentlich nur die Rede von
+
+09:22.360 --> 09:26.920
+höherwertiger Tätigkeit und Entlastung, von körperlicher Anstrengung und so weiter und so
+
+09:26.920 --> 09:31.520
+fort. Stichwort Enquete, ich bin gerade heute am Text gesessen, der eben genau diese Mythen
+
+09:31.520 --> 09:37.680
+pflegt. Und das ist unkritisch und blauäugig, weil jetzt gerade mal in Bezug auf die Wachstumsversprechen,
+
+09:37.680 --> 09:42.960
+die jetzt schon seit Jahren kursieren und das 3.4.0 ist jetzt, der Begriff ist jetzt neun Jahre alt.
+
+09:42.960 --> 09:48.040
+Es wurde gesagt, das führt zu jährlichen Produktivitätssteigerungen von bis zu zwei
+
+09:48.040 --> 09:54.280
+Prozent und so weiter. Guck dir mal die Daten an aktuell. Also wir haben de facto einen Rückgang
+
+09:54.320 --> 10:00.080
+wirtschaftlicher Leistungsfähigkeit, wir haben weltweiten Stagnationen auf den Märkten, aber
+
+10:00.080 --> 10:08.520
+auch sehr flache Wachstumsentwicklungen. So und warum ist das so? Die zentrale These ist zunächst
+
+10:08.520 --> 10:14.120
+mal und das sagt einem auch im Grunde der Produktivkraftbegriff, wenn man richtig versteht,
+
+10:14.120 --> 10:19.600
+Unternehmen setzen Technologien nicht um ihre Selbstwillen ein, weil die einfach auf Technik
+
+10:19.600 --> 10:26.360
+stehen, sondern sie wollen ja da was rauskriegen dabei. Das heißt, der Maßstab dafür, was gemacht
+
+10:26.360 --> 10:31.600
+wird, ist nicht nur das, was theoretisch denkbar ist und technisch machbar ist, sondern eine ganz
+
+10:31.600 --> 10:37.800
+konkrete Kosten-Nutzen-Rechnung. Kann ich einen Prozess wirklich effektiver organisieren? Rechtfertigt
+
+10:37.800 --> 10:42.800
+diese Einsparung in den Ausgaben, dann tatsächlich auch die Investitionen, die ich brauche, um das zu
+
+10:42.800 --> 10:48.760
+machen. Investition inklusive Ausbildung der Beschäftigten, inklusive der Bugs und Fehler,
+
+10:48.760 --> 10:53.880
+die auftreten in solchen hochautomatisierten Prozessen. Und das ist eben ein Suchprozess im
+
+10:53.880 --> 11:00.320
+Moment. Das ist keineswegs eine Revolution, wo offensichtlich KI und Automatisierung alles
+
+11:00.320 --> 11:05.280
+besser kann, sondern in manchen Bereichen ist es der Fall, in anderen noch nicht, in anderen
+
+11:05.280 --> 11:10.720
+vielleicht nie. Und das ist erstmal die ganz grundsätzliche Perspektive. Erstens. Zweitens
+
+11:10.720 --> 11:16.480
+ist das große Problem ja die Stagnation in der Nachfrage, makroökonomisch gesehen. Also
+
+11:16.480 --> 11:21.720
+der Blick auf die neue Technik, der nur die technischen Möglichkeiten anguckt und auch nur
+
+11:21.720 --> 11:27.920
+der Blick, der sozusagen sagt Produktivkraftentwicklung als potenzielle Einsparung für das Kapital,
+
+11:27.920 --> 11:34.520
+der vernachlässigt die ganzen wirtschaftlichen Kreisläufe, die Sphäre der Zirkulation, die bei
+
+11:34.520 --> 11:39.600
+Marx erst im Band zwei und drei vorkommen sozusagen. Die Krisen, die Zirkulation. Marx behandelt im
+
+11:39.600 --> 11:49.440
+Band eins die Frage der Produktivkraft und tut eigentlich so, als ob Unternehmen nur für sich
+
+11:49.440 --> 11:53.960
+selbst existieren würden. Also der ganze Kontext, dass sie konkurrieren mit anderen Unternehmen,
+
+11:53.960 --> 11:59.840
+dass sie abhängig sind von der gesamtwirtschaftlichen effektiven Nachfrage, kommt da eben nicht vor,
+
+11:59.840 --> 12:05.800
+aber in der Realwirtschaft schon. Das heißt, wenn wir jetzt in einer Situation leben, wo die
+
+12:05.800 --> 12:10.840
+Nachfrage strukturell begrenzt ist und Unternehmen immer weiter ihre Produktivität aufblähen wollen,
+
+12:10.840 --> 12:15.880
+dann klafft das eine und das andere immer weiter auseinander. Und deswegen funktioniert das nicht.
+
+12:15.880 --> 12:21.800
+Das ist sozusagen der Hauptgrund. Wenn wir jetzt eine Situation hätten, in der die Nachfrage massiv
+
+12:21.800 --> 12:27.240
+expandiert, zum Beispiel weil Reichtum gerechter verteilt wird, dann wäre es sehr wohl denkbar,
+
+12:27.240 --> 12:33.200
+dass sich Investitionen der Unternehmen viel mehr lohnen, weil der Absatz gesichert ist und sie
+
+12:33.200 --> 12:37.840
+somit mehr Einnahmen machen. Da das nicht der Fall ist, bremst das das Tempo der technischen
+
+12:37.840 --> 12:42.040
+Entwicklung, weil diese ganzen Investitionen unter dem Vorbehalt stehen, dass die Produkte
+
+12:42.040 --> 12:48.160
+überhaupt an einen Mann gebracht werden können oder die Frau. Das ist interessant, weil das hieße ja
+
+12:48.160 --> 12:55.920
+jetzt noch nicht. Also das setzt an einem anderen Punkt an. Das sagt er jetzt eben, es gibt nicht
+
+12:55.920 --> 13:01.160
+genug Kaufkraft, weil die Vermögen zu ungleich verteilt sind. Deswegen können diese Produkte
+
+13:01.160 --> 13:06.600
+nicht abgesetzt werden. An einem anderen Punkt im Text und so wie ich auch die Logik verstanden
+
+13:06.600 --> 13:14.440
+habe, gibt es ja noch eine andere Ebene, wo man sagt, es gibt aber einen Gebrauchswert der
+
+13:14.440 --> 13:21.320
+Dinge. Also was für Technologien könnte man erzeugen, die uns alle helfen in irgendeiner
+
+13:21.320 --> 13:26.080
+Form. Und die sind nicht deckungsgleich mit den Technologien, die potenziell irgendwann mal
+
+13:26.080 --> 13:32.160
+Profit abwerfen. Es gibt eine Menge an, also bei Pharma zum Beispiel ist das ja immer wieder
+
+13:32.160 --> 13:37.280
+Thema, dass irgendwelche Forschung von den Pharma-Konzernen nicht betrieben wird, obwohl sie für
+
+13:37.280 --> 13:42.640
+uns alle total hilfreich richtig wichtig und gut wäre. Aber es steckt ja kein Profit drin und
+
+13:42.640 --> 13:47.120
+deswegen passiert das nicht. Also da klafft ja dann zusätzlich auch noch mal was auseinander,
+
+13:47.120 --> 13:54.360
+das nicht über diesen Zuwachs an Kaufkraft oder sowas kompensiert werden könnte. Also da steckt,
+
+13:54.360 --> 14:00.000
+da schlummert eigentlich noch mal ein anderes strukturelles Problem, oder? Ja, wenn ich das
+
+14:00.000 --> 14:09.760
+richtig verstehe, schon. Also es ist so, als Potenzial haben sich die Produktivkräfte sehr
+
+14:09.760 --> 14:16.680
+stark entwickelt. Also man könnte jetzt auf Basis des Internets der Dinge vieles rationaler planen
+
+14:16.680 --> 14:23.200
+auch oder dezentrale Planung von Ökonomien voranzutreiben, die eben nicht mehr zentralistisch
+
+14:23.240 --> 14:32.320
+funktioniert, sondern auf Mikrobasis sozusagen die effektivste Kopplung von Nachfrage und Angebot
+
+14:32.320 --> 14:36.200
+und sowas organisiert. Das ist alles möglich mit diesen Technologien. Auch Plattformen,
+
+14:36.200 --> 14:41.960
+digitale Arbeitsplattformen, die in der linken Debatte zurecht kritisiert werden und nur aus
+
+14:41.960 --> 14:47.800
+der Perspektive gesehen werden, könnte ein sehr effektiver Weg sein, dass Leute einfach ihre
+
+14:47.800 --> 14:52.040
+Fähigkeiten anbieten für die verschiedensten Tätigkeiten. Also Marx hat mal irgendwie dieses
+
+14:52.040 --> 14:59.440
+berühmte Zitat gebracht von, er geht irgendwie morgens jagen, abends fischen, danach philosophieren
+
+14:59.440 --> 15:03.320
+und ich weiß nicht, was er sonst noch macht. Und eigentlich, das ist bisher undenkbar,
+
+15:03.320 --> 15:07.120
+aber so über digitale Plattformen konnte man sich solche Möglichkeiten vorstellen,
+
+15:07.120 --> 15:11.080
+dass tatsächlich Leute in verschiedene Arbeitsverhältnisse flexibel eingebunden werden,
+
+15:11.080 --> 15:16.400
+wenn sie eben nicht von dieser Precarität betroffen sind, die es unter kapitalistischen
+
+15:17.360 --> 15:24.520
+Also von dem her, Wachstum der Produktivkräfte findet statt. Aber wenn die kapitalistischen
+
+15:24.520 --> 15:31.520
+Verwertungsmöglichkeiten für solche Potenziale letztendlich nicht ausreichend da sind, das heißt,
+
+15:31.520 --> 15:36.120
+wenn Unternehmen das nicht zu Geld machen werden, werden sie tendenziell auch nicht da rein
+
+15:36.120 --> 15:41.560
+investieren, diese Möglichkeiten weiter auszubauen. Das heißt, es wird immer mehr zum Potenzial und
+
+15:41.560 --> 15:48.600
+immer weniger real. Mehr noch, Unternehmen würden in Pfade investieren, die aus gesellschaftlicher
+
+15:48.600 --> 15:53.560
+Sicht eher sinnlos sind. Vorschlag-Algorithmen im E-Commerce zum Beispiel überhaupt, die ganze
+
+15:53.560 --> 16:00.640
+Energie, die in den E-Commerce fließt und in Online-Versandhandel usw. reflektiert ja gerade,
+
+16:00.640 --> 16:06.520
+dass die Konsumentenmärkte immer umkämpfter sind und immer enger werden. KI-Entwicklung hat einen
+
+16:06.520 --> 16:12.560
+extremen Schwerpunkt darauf, die Vorlieben von Menschen im Vorhinein schon zu kennen, um den
+
+16:12.560 --> 16:16.800
+Absatz darauf auszurichten, dass es in gesellschaftlicher Hinsicht Unsinn oder zumindest
+
+16:16.800 --> 16:23.800
+hat nicht die Priorität, dass es verdient, dass da dermaßen viel Geld reinfließt, anstatt dass es
+
+16:23.800 --> 16:28.520
+in gesellschaftlich sinnvollere Anwendungen fließt usw. Also da sehe ich zahlreiche
+
+16:28.520 --> 16:33.160
+Blockaden, die einfach bedeuten, die abstrakten Potenzialen in der Technik werden nicht ausgeschöpft
+
+16:33.160 --> 16:37.280
+und deswegen werden sie aber auch nicht so weiterentwickelt, wie es im gesellschaftlichen
+
+16:37.280 --> 16:43.880
+Sinn sinnhaft wäre. Das heißt, die ganze Innovationsausrichtung geht eigentlich im Moment
+
+16:43.880 --> 16:49.200
+in eine falsche Richtung, was sich auch festmacht an einem Silicon Valley Start-Up Modell, was
+
+16:49.200 --> 16:55.000
+letztendlich, sage ich immer, eigentlich nicht die wirklichen Bisonäre belohnen, sondern die
+
+16:55.000 --> 16:59.960
+Goldgräber, die am besten versprechen können, dass man mit einer Idee wahnsinnig viel Geld macht und
+
+16:59.960 --> 17:06.240
+das ist eben im kapitalistischen Kontext jetzt vor allen Dingen so, indem man auf Geschäftsmodelle
+
+17:06.240 --> 17:12.800
+setzt, die bestehende Märkte untergraben durch digitale Plattformen, durch bestimmte
+
+17:12.800 --> 17:19.320
+Geschäftsmodelle, die eigentlich eher darauf aus sind, bestehende Märkte zu erobern, als tatsächlich
+
+17:19.320 --> 17:27.080
+was produktiv zu leisten. Wie kommt man jetzt dann dahin, dass man all diese Kräfte, die da wären,
+
+17:27.080 --> 17:33.880
+um uns allen zu helfen, dass man die umlenkt in eine produktivere Richtung, wo Gelder es da
+
+17:33.880 --> 17:40.280
+anzusetzen? Ja, das ist eine große Frage. Also die ist deswegen groß, weil ich glaube, dass letztendlich
+
+17:40.280 --> 17:48.720
+wir in einer Phase leben, in der der Kapitalismus tatsächlich einen Teil seines Impetus verliert und
+
+17:48.720 --> 17:55.000
+sich in immer größere Widersprüche verstrickt. Das heißt, ich denke, dass letztendlich eine
+
+17:55.000 --> 18:00.880
+Umstellung des Systems auf eins, das nicht mehr auf privaten Profitinteressen basiert, sondern auf
+
+18:00.880 --> 18:07.840
+gesellschaftlichen Prioritäten notwendig ist und das geht nicht, ohne dass man große Teile des
+
+18:07.840 --> 18:12.000
+produktiven Kapitals vergesellschaftet. So insofern bin ich da ganz traditionell unterwegs,
+
+18:12.000 --> 18:18.480
+realpolitisch natürlich weit weg von Umsetzungschancen. Deswegen, als ein Mittelweg,
+
+18:18.480 --> 18:24.680
+der in der aktuellen Debatte wichtig ist, sehe ich das, was, also jetzt gerade mit Blick auf
+
+18:24.680 --> 18:28.280
+Klimawandel und die zivilisatorischen Herausforderungen, vor denen wir stehen,
+
+18:28.280 --> 18:35.200
+sehe ich das, was missionsgetriebene Innovationspolitik genannt wird. Das heißt,
+
+18:35.200 --> 18:40.200
+der Staat muss viel Geld in die Hand nehmen, Stichwort schwarze Null, also nicht schwarze
+
+18:40.200 --> 18:46.280
+Null, sondern Milliardenkapazitäten, um visionäre Projekte aufzusetzen, die bedeuten, dass
+
+18:46.280 --> 18:51.720
+Innovationsanreize in eine progressive Richtung gehen und nicht einfach dahin, wo das meiste Kapital
+
+18:51.720 --> 18:57.200
+von privaten Investoren ausgeschüttet wird. Historisches Vorbild in Anführungszeichen ist
+
+18:57.200 --> 19:03.080
+die Mondlandung. Vorbild deswegen, weil die gesamte Mikroelektronik, die wir heute kennen,
+
+19:03.080 --> 19:09.680
+ohne die Mondlandung oder die militärische Nutzung von Computern überhaupt nicht denkbar ist. Also
+
+19:09.680 --> 19:17.400
+die NASA hat, wie waren die Zahlen, ich glaube bis zu vier Prozent des US-Bundeshaushalts gefressen
+
+19:17.400 --> 19:25.360
+in den 60er Jahren, 60 Prozent aller Technologieinvestitionen in dieser Zeit oder,
+
+19:25.360 --> 19:30.440
+nee, ich muss die Zahl nochmal nachschauen. Können wir verlinken, unten in der Beschreibung. Genau,
+
+19:30.440 --> 19:35.960
+können wir verlinken. Also es ist absurd, wie stark eigentlich die ganze Förderung von
+
+19:35.960 --> 19:40.440
+Schlüsseltechnologien in dieser Phase staatlich gefördert wurde, weil das Militärhalten ein
+
+19:40.440 --> 19:45.320
+legitimer staatlicher Zweck war im Kalten Krieg. Ohne das wäre Silicon Valley nicht entstanden,
+
+19:45.480 --> 19:49.960
+in dieser Form. Silicon Valley ist eine Konkursmasse dieser staatlichen Förderung,
+
+19:49.960 --> 19:56.840
+die dann letztendlich sich in Privatkapitalist-Manier neu organisiert. Und das vor Augen ist es
+
+19:56.840 --> 20:01.440
+unverantwortlich, jetzt einfach nur auf Start-ups zu setzen und zu sagen, ja ja, die werden das schon
+
+20:01.440 --> 20:06.800
+machen, die beste Idee wird sich durchsetzen, weil ganz einfach das bedeutet, dass die gesamte
+
+20:06.800 --> 20:13.920
+geistige Energie dieser Generation sozusagen in möglichst effektive Verwertungsformen gegossen
+
+20:13.920 --> 20:19.320
+wird, die eben das nacheifern, was wir jetzt mit den Riesen des Silicon Valley kennen,
+
+20:19.320 --> 20:24.800
+die gesellschaftlich zwar Nutzen haben in dem Sinn, dass wir Suchanfragen haben und bequemer
+
+20:24.800 --> 20:29.800
+Waren bestellen können, aber gesellschaftlich gesehen eben nicht keinen großen Fortschritt
+
+20:29.800 --> 20:34.480
+darstellen. Und wir brauchen so eine Energie für ökologische Veränderungen, für eine
+
+20:34.480 --> 20:38.840
+sozial-ökologische Transformation. Das ist sozusagen das politische Ticket, auf dem ich
+
+20:38.840 --> 20:44.840
+in der Enquete-Kommission noch unterwegs bin. Und das ist ja auch der Versuch, dass in ein
+
+20:44.840 --> 20:52.680
+realpolitisches, vielleicht auch kurz bis mittelfristig umsetzbare Politik zu formulieren,
+
+20:52.680 --> 20:59.640
+quasi, bevor wir zu den etwas weiterreichenden Imaginationen von Zukunft kommen. Vielleicht noch,
+
+20:59.640 --> 21:05.320
+weil du angesprochen hattest, dass der Kalte Krieg eben auch eine Legitimationsfolie eigentlich
+
+21:05.320 --> 21:11.800
+geboten hat, um diese enormen Investitionen zu rechtfertigen. Was wäre denn heute diese
+
+21:11.800 --> 21:16.560
+Legitimationsfolie? Man denkt wahrscheinlich mal an die Frage der Ökologie als erstes,
+
+21:16.560 --> 21:22.640
+die auch sehr konsenztauglich ist. Siehst du da Möglichkeiten, dass man über diesen Anker
+
+21:22.640 --> 21:32.760
+eine solche massive Investitions-State investiert? Also es ist so, es gibt zwei Legitimationsfolien,
+
+21:32.760 --> 21:37.200
+die eine ist problematisch und die andere ist progressiv. Die problematische heißt Konkurrenz
+
+21:37.200 --> 21:44.920
+zu China und den USA. Und das ist eine Logik, die letztendlich vernachlässigt, dass Deutschland und
+
+21:44.920 --> 21:51.120
+Europa genauso Treiber dieses Konkurrenzkampfes sind. Also es ist in der globalen Konkurrenz immer so,
+
+21:51.120 --> 21:56.000
+dass irgendwer argumentiert, hinterher zu sein und irgendwer argumentiert, voran zu sein, aber nicht
+
+21:56.000 --> 22:00.360
+mehr lange. Und das ist genau die Konstellation. Insofern treten alle aufs Gas und sagen so viel
+
+22:00.360 --> 22:05.360
+KI wie möglich. Und das wird den ökologischen Kollaps befördern, weil KI eine Technologie ist,
+
+22:05.360 --> 22:11.320
+die erstens im Anwendungszweck nicht immer sinnvoll ist. Das heißt, wenn ich jetzt gerade an
+
+22:11.320 --> 22:17.240
+E-Commerce denke und an Firmen, die immer mehr Waren-Zirkulation fördern und globale Bestellungen
+
+22:17.240 --> 22:22.240
+und Lieferaufkommen und so weiter, ist das einfach konkret ökologisch schädlich. Aber zum anderen
+
+22:22.240 --> 22:28.800
+ist es so, dass der technologische Pfad des maschinellen Lernens bedeutet, dass eben riesige
+
+22:28.800 --> 22:35.360
+Datenmengen prozessiert werden, was enormen Stromverbrauch mit sich bringt. Also man sagt auch,
+
+22:35.360 --> 22:41.840
+beziehungsweise es heißt, Streaming ist das neue Fliegen, KI ist auch das neue Fliegen, weil ganz
+
+22:41.840 --> 22:48.000
+einfach CO2, die CO2-Bilanz katastrophal ist, was immer mehr publik wird, aber noch nicht so
+
+22:48.000 --> 22:52.760
+richtig durchgesickert ist. Das heißt, eine Logik, die sagt so viel KI wie möglich und das machen
+
+22:52.760 --> 22:58.520
+alle großen Blöcke, wird uns noch nie an den Abgrund bringen. Das ist völlig klar. Die andere
+
+22:58.520 --> 23:04.000
+Logik ist eben genau dasselbe Thema und ich glaube, dass mit der globalen Klimabewegung,
+
+23:04.000 --> 23:09.680
+beziehungsweise Bewegung zur Aufhalten des Klimawandels, ich weiß gar nicht, wie die
+
+23:09.680 --> 23:14.840
+offiziell heißt, tatsächlich sich die Koordinatensysteme politisch verschieben
+
+23:14.840 --> 23:22.880
+können, weil Maßnahmen und Vorstellungen, die vor wenigen Jahren noch als irreal und utopisch
+
+23:22.880 --> 23:26.840
+gegolten haben, plötzlich praktische Relevanz kriegen können, einfach weil die Ordnung,
+
+23:26.840 --> 23:31.000
+so wie sie jetzt ist, jeden Tag beweist, dass sie unfähig ist, dieses Problem in den Griff zu
+
+23:31.000 --> 23:36.560
+kriegen. Und insofern denke ich, dass da ein Legitimationsspielraum entsteht. Für mich ist
+
+23:36.560 --> 23:42.120
+halt wichtig, dass das auch ein Bottom-up-Prozess ist und nicht nur einer der Funktionseliten in
+
+23:42.120 --> 23:48.320
+den führenden Staaten, dass tatsächlich sozusagen eine gesellschaftliche Delibration stattfindet,
+
+23:48.320 --> 23:53.920
+was für Ziele und was für Wege eingeschlagen werden sollten. Und das bringt uns eigentlich
+
+23:54.080 --> 23:59.720
+dann auch schon zu der etwas weiter reichenden sozio-technischen Imagination, wenn man will.
+
+23:59.720 --> 24:06.120
+In Marx und die Roboter gibt es einen Aufsatz zur Steuerungswende von Simon Schaub und Georg
+
+24:06.120 --> 24:10.920
+Jochum. Simon war ja auch schon hier bei Future Histories zu Gast. Das war eine sehr interessante
+
+24:10.920 --> 24:18.400
+Folge. Und eines der Argumente, die Simon ja vorbringt, ist das Formen der Planwirtschaft.
+
+24:18.400 --> 24:25.880
+Dann ist es dann vielleicht eher radikaldemokratische Wirtschaftsdemokratie eigentlich,
+
+24:25.880 --> 24:31.600
+dass die besser in der Lage sein könnten, eben diese Probleme, also Probleme wie den
+
+24:31.600 --> 24:38.840
+drohenden Klimawandel, besser in der Lage wären, diese zu lösen. Einfach, weil es konkret bessere
+
+24:38.840 --> 24:45.680
+Möglichkeiten der Steuerung gäbe. Das wäre allerdings natürlich ein durchaus makropolitisches Projekt.
+
+24:45.680 --> 24:57.960
+Siehst du Wege, wie man ein solches Projekt sukzessive erstmal vielleicht in den Köpfen
+
+24:57.960 --> 25:03.240
+der Leute und dann in gelebter Praxis nach und nach implementieren könnte? Ist das was,
+
+25:03.240 --> 25:08.240
+womit du dich auseinandersetzt? Es ist deswegen eine schwierige Frage,
+
+25:08.240 --> 25:13.120
+weil ich glaube, als Vorstellung gibt es schon Anknopfungspunkte, als politische
+
+25:13.200 --> 25:24.080
+Praxis bisher eher weniger. Also ich glaube, dass das in dieser Form realpolitisch schwierig ist.
+
+25:24.080 --> 25:30.640
+Also was funktioniert, ist natürlich die Forderung nach einer neuen Form von Industriepolitik. Die
+
+25:30.640 --> 25:35.040
+ist jetzt sozusagen Mainstream geworden, was interessanter ist, weil sozusagen nach dem
+
+25:35.040 --> 25:41.240
+Neoliberalismus oder im Neoliberalismus, den ich irgendwie jetzt nicht für beendet halte,
+
+25:41.240 --> 25:46.000
+der aber trotzdem immer gesagt wird, es ist ein antistaatliches Projekt, jetzt eben auch aus so
+
+25:46.000 --> 25:54.960
+einem Konkurrenzdenken, Europa versus China, USA und so gesagt wird, wir brauchen eine strategische
+
+25:54.960 --> 25:59.440
+Industriepolitik. Wenn man eine strategische Industriepolitik braucht, dann kann man natürlich
+
+25:59.440 --> 26:03.320
+fragen, nach welchen Prioritäten wird die organisiert und dann kann man solche Projekte
+
+26:03.320 --> 26:06.800
+lancieren, wie ich sie beschrieben habe, mit einer missionsbasierten Industriepolitik,
+
+26:06.800 --> 26:14.680
+die gesellschaftliche Prioritäten setzt. Das schon, aber nach wie vor ist die Situation so,
+
+26:14.680 --> 26:19.880
+dass die Vergötterung des Marktes gerade im Kontext dieser Digitalisierungsdebatte hohe Wellen
+
+26:19.880 --> 26:25.200
+schlägt und es für das Effizienteste gehalten wird. Ich sehe ein paar Punkte, wo das aufbrechen kann.
+
+26:25.200 --> 26:32.000
+Das ist zum einen die Diskussion um, das ist jetzt sehr speziell, aber um das industrielle Internet
+
+26:32.000 --> 26:40.960
+im industriellen Bereich gerade, wo die Logik eigentlich darauf rausläuft, dass man Daten teilen
+
+26:40.960 --> 26:47.120
+muss, um sie für alle nutzbar zu machen. Das heißt, das ist eine Logik, die im Grunde das private
+
+26:47.120 --> 26:54.960
+Einzelinteresse koppelt an den gemeinsamen Fortschritt oder die Vorteile, die das kooperative,
+
+26:55.640 --> 27:02.400
+genossenschaftliche, wenn man so will, rangehen, fördert, wo zumindest die Logik der
+
+27:02.400 --> 27:08.600
+einzelbetrieblichen Konkurrenz ein Stück weit aufgebrochen wird. Real ist es ein Haifischbecken,
+
+27:08.600 --> 27:12.880
+wo jeder versucht dann die Profite wieder rauszuziehen, aber es sind sozusagen Punkte,
+
+27:12.880 --> 27:17.680
+wo man merkt eigentlich das, was Marx gemeint hat mit, es gibt Widerspruch zwischen privater
+
+27:17.680 --> 27:23.200
+Aneignung und gesellschaftlicher Produktion, der immer radikaler wird. Das ist der Fall. Es muss
+
+27:23.520 --> 27:28.240
+immer mehr kooperiert werden in der Ökonomie, um erfolgreich zu sein, während trotzdem die
+
+27:28.240 --> 27:33.840
+Gewinne im Moment privat angeeignet werden. Da gibt es so ein paar Punkte, wo man sagen kann,
+
+27:33.840 --> 27:40.840
+also aus der Logik der Technik selbst, ähnlich wie beim Internet mit der Wikipedia, ist es so,
+
+27:40.840 --> 27:47.160
+dass logisch ist, dass die Freie Kooperation der privaten Organisationen von Einzelprozessen
+
+27:47.160 --> 27:51.960
+überlegen ist. Und im gesellschaftlichen Sinn, wie gesagt, also ich glaube, dass die Debatte um
+
+27:51.960 --> 27:56.720
+Klimawandel, die Debatten aufreißt, wie eine rationalere Form des Wirtschaftens aussieht.
+
+27:56.720 --> 28:01.680
+Und da sind genau die Ideen, die Simon Schaub formuliert, sehr spannend, weil die Technik für
+
+28:01.680 --> 28:07.280
+eine dynamischere Selbstorganisation eigentlich von Prozessen eingesetzt werden kann. Und das
+
+28:07.280 --> 28:13.240
+ganze Problem der technischen Machbarkeit, einer Abstimmung der produktiven Apparate,
+
+28:13.240 --> 28:18.840
+sage ich mal, auf gesellschaftliche Bedürfnisse, eigentlich keins mehr sein müsste. Es gibt auch
+
+28:18.840 --> 28:23.880
+ein spannendes Buch jetzt, The People's Republic of Amazon, die genau das argumentiert,
+
+28:23.880 --> 28:30.000
+dass Amazon eigentlich auch schon plant im großen Umfang und das technisch gesehen super funktioniert.
+
+28:30.000 --> 28:36.080
+Die Frage ist also weniger das Thema, das ewige Thema, das nach dem Zusammenbruch des Stalinismus
+
+28:36.080 --> 28:41.880
+immer die Frage war, ob jetzt die Planung in sich scheitert und das ein Problem von staatlicher
+
+28:41.880 --> 28:46.760
+Dominanz und so weiter da zwangsläufig drin ändert. Das ist schon längst nicht mehr so. Das ist in
+
+28:46.760 --> 28:52.920
+privatkapitalistischen Konzernen funktioniert die Planung perfekt auf Grundlage technischer
+
+28:52.920 --> 28:58.320
+Mittel. Die Frage ist einzig und allein, wären sie ausgerichtet an gesellschaftlichen Bedürfnissen
+
+28:58.320 --> 29:03.960
+oder nicht? Und das ist Ende des Tages eine Machtfrage, wer die Prioritäten dafür festlegt,
+
+29:03.960 --> 29:11.640
+wie solche ökonomischen Systeme funktionieren. Ja, da schließt sich dann eigentlich für mich eine
+
+29:11.640 --> 29:17.240
+Frage an, worauf gilt es da noch zu achten, weil ich teile diese Argumentationslinie total. Also
+
+29:17.240 --> 29:21.520
+die kam auch hier bei Future Histories immer und immer und immer wieder vor. Also auch diese Frage
+
+29:21.520 --> 29:28.480
+ganz konkret, gibt es ein funktionierendes Narrativ, was auch dem Markt als scheinbaren
+
+29:28.480 --> 29:33.760
+Effizienz-Champion quasi entgegengehalten werden kann? Und da kommt natürlich dann eben so was wie
+
+29:33.760 --> 29:38.480
+eine kybernetische Planwirtschaft in Zeiten ihrer technologischen Machbarkeit irgendwie auf den Plan.
+
+29:38.800 --> 29:47.280
+Aber ich frage mich dann trotzdem noch, nämlich ähnlich wie du bei den kapitalistischen
+
+29:47.280 --> 29:52.040
+Produktivkräften hingehst und sagst, na ja, aber warte mal, da schauen wir jetzt noch mal
+
+29:52.040 --> 29:57.720
+genauer. Da gibt es Probleme bei der Implementierung, da gibt es Probleme bei der Komodifizierung beim
+
+29:57.720 --> 30:01.760
+Overengineering und diese Sachen, die ihr da an dem Paper auch adressiert. Also ihr macht das
+
+30:01.760 --> 30:06.240
+sehr schön, dass ihr da eigentlich ein bisschen hinter die Kulisse guckt und dann mal so rein
+
+30:06.240 --> 30:11.560
+piekst an den Stellen, die irgendwie so neureigig Punkte sind. Und ich glaube, ähnliches müsste
+
+30:11.560 --> 30:17.760
+man dann auch bei diesem The People's Republic of Walmart Gedanken machen, also bei der Frage
+
+30:17.760 --> 30:23.760
+nach der kybernetischen Planwirtschaft. Wo genau sind denn dann die Punkte, bei denen wir aufpassen
+
+30:23.760 --> 30:28.520
+müssen, dass wir nicht in die gleichen Fallstrecke hineingeraten, die jetzt im kybernetischen
+
+30:28.520 --> 30:33.520
+Kapitalismus schon da sind? Also ganz konkret bei den Daten zum Beispiel ist das, finde ich,
+
+30:33.520 --> 30:38.440
+so ein bisschen handfest. Wie gehen wir denn jetzt dann um mit diesen Datenbeständen, die
+
+30:38.440 --> 30:45.240
+allesamt irgendwie gefärbt sind, die aus einer Produktionslogik stammen, die ja schon andere
+
+30:45.240 --> 30:51.080
+Eigeninteressen eingeschrieben haben und so weiter und so fort. Also das fände ich zum Beispiel eine
+
+30:51.080 --> 30:59.880
+spannende Arbeit, um mal zu gucken, okay, was müsste man denn da auch ehrlicherweise irgendwie,
+
+30:59.880 --> 31:06.960
+wenn man quasi selben Mittel auf sich anwendet, was müsste man da bedenken? Ja, finde ich einen total
+
+31:06.960 --> 31:11.680
+guten Gedanken und weiterführend. Also ich glaube halt nicht, dass die Daten gefärbt sind per se,
+
+31:11.680 --> 31:19.160
+sondern es gibt befallend, also die zentrale Frage ist natürlich, die des Datenschutzes, genau wie
+
+31:19.160 --> 31:26.040
+im privaten Bereich jetzt sozusagen, wo es untrennbar verbunden ist, dass du, wenn du
+
+31:26.040 --> 31:31.240
+Prozessdaten aufnimmst, auch Beschäftigendaten aufnimmst. Da wird zwar immer gesagt, das ist
+
+31:31.240 --> 31:35.760
+nicht so und das kann man irgendwie trennen und aggregieren oder so, aber de facto kann man aus
+
+31:35.760 --> 31:40.120
+so aggregierten Daten auch ganz schön viel über Arbeitsleistung und so was rauslesen. Also das heißt,
+
+31:40.120 --> 31:46.280
+die Frage der Überwachung und wer kann diese Daten missbrauchen, wird genauso relevant sein,
+
+31:46.280 --> 31:52.720
+wenn man das jetzt irgendwie im progressiven Sinn einsetzt, wie auch im gegenwärtigen Sinn, wo man
+
+31:52.720 --> 31:56.440
+auch vielleicht, also wo es eine Abwägung ist, ob man verschiedene Sachen auch macht, die technisch
+
+31:56.440 --> 32:02.280
+möglich sind. Auf der anderen Seite ist natürlich so, also zu der Färbung der Daten, da steckt ein
+
+32:02.280 --> 32:07.240
+bisschen der Gedankengang drin, wenn ich den richtig rauslese, die Frage, die alte Frage,
+
+32:07.240 --> 32:12.000
+die immer wieder diskutiert wurde im marxistischen Kontext, nämlich ob man fordistische Produktion
+
+32:12.000 --> 32:16.760
+übernehmen kann für progressive Ziele und so weiter, wo es zu Recht eine Kritik daran gibt. Ich
+
+32:16.760 --> 32:21.720
+glaube Lenin hat das irgendwann mal geschrieben, dass man Kommunismus eben Fordismus plus
+
+32:21.720 --> 32:30.480
+Elektrifizierung ist oder so irgendwas, was auch ein bisschen verwalhorn wird, aber egal. Da ist es
+
+32:30.480 --> 32:36.520
+also so, die Logik der Kybernetik liegt ja gerade nicht so, dass du zentral ein System setzt und
+
+32:36.520 --> 32:41.720
+dem müssen sich die Teile dann anpassen, sondern die Logik der Kybernetik ist, dass die Teile sich
+
+32:41.720 --> 32:47.240
+verändern und das System sich dynamisch anpasst. Das heißt, wenn man dezentrale Entscheidungsfindungen
+
+32:47.240 --> 32:52.520
+hat in Betrieben, über wie man Sachen organisiert, wie die Arbeitsleistung verausgabt wird oder sonst
+
+32:52.520 --> 32:58.560
+irgendwas, ja oder in Büros muss ich nicht immer an die Industrie mit Kettenfett denken oder so,
+
+32:58.560 --> 33:05.600
+im Büros demokratische Elemente eingeführt werden und Menschen viel selbstbestimmter arbeiten,
+
+33:05.600 --> 33:10.680
+als wir es uns heute auch nur vorstellen können, dann ist das durchaus möglich in diesem System
+
+33:10.680 --> 33:17.440
+und es muss eben, es gibt gegenseitige Abstimmungsprozesse auf der operativen Ebene,
+
+33:17.440 --> 33:23.280
+so dass das Zusammenwirken der einzelnen Teile in so einem System funktioniert und dann gibt es
+
+33:23.280 --> 33:28.000
+natürlich nach wie vor politische Prozesse, wo im größeren gesellschaftlichen Maßstab diskutiert
+
+33:28.000 --> 33:34.520
+wird, wie viel und zu welchen Zwecken Arbeitsleistung eingesetzt wird und wie das gerecht verteilt
+
+33:34.520 --> 33:38.440
+werden kann und so weiter und so fort. Das nimmt einem kein System ab, da kann man vielleicht irgendwelche
+
+33:38.440 --> 33:45.280
+Voting-Tools in was nehmen, was weiß ich ja, aber besser ist es immer, wenn Leute sich treffen und
+
+33:45.280 --> 33:52.800
+diskutieren aus meiner Sicht. Genau, insofern ja, also die Fragen sind total richtig, aber es ist
+
+33:52.800 --> 33:59.640
+eben eine andere Debatte, als wenn man so einen starren industriellen Organismus übernimmt,
+
+33:59.640 --> 34:05.960
+wie es jetzt beim Fordismus ist, wo das System sozusagen gegossen ist in Fließbänder und die
+
+34:05.960 --> 34:11.600
+letztendlich die Arbeit dem unterworfen ist, sondern im Prozess kubernetescher Aushandlung
+
+34:11.600 --> 34:16.840
+sind die Feedback-Prozesse viel wichtiger, viel dynamischer und deswegen auch demokratisch
+
+34:16.840 --> 34:23.440
+gestaltbar. Also es ist nicht so, als die Technik sich über den Menschen stellt. Ja, auf jeden Fall,
+
+34:23.440 --> 34:29.880
+also ich stimme da ja total zu, dass sie potenziell demokratisch gestaltbar wären. Ich
+
+34:29.880 --> 34:34.240
+würde vielleicht noch anfügen und das ist jetzt kein Widerspruch zu dem, was du gesagt hast,
+
+34:34.240 --> 34:40.240
+dass sie auf jeden Fall auch kapitalistisch gestaltbar sind. Also im sehr kubernetescher
+
+34:40.240 --> 34:46.080
+Kapitalismus sozusagen, da wird ja dann genau diese Logik der Feedback-Schleifen,
+
+34:46.080 --> 34:51.240
+der permanenten Optimierung, des agilen Managements, wie auch immer, wird ja dann
+
+34:51.240 --> 35:00.200
+in ganz nahtlos eingebunden in die profitorientierte Produktionslogik. Ich mag noch eine Sache
+
+35:00.200 --> 35:04.600
+nachfragen, weil ich das nicht ganz verstanden hatte vorhin. Da hattest du in Bezug auf das
+
+35:04.600 --> 35:09.680
+industrielle Internet gemeint, dass dort inherent in der Logik eingeschrieben wäre,
+
+35:09.680 --> 35:15.600
+dass man gezwungen sei, seine Daten zu teilen und es dadurch dann profitieren könne von diesem
+
+35:15.600 --> 35:21.760
+Prinzip, von dieser Logik. Soweit ich das bisher verstanden hatte, kam es mir so vor,
+
+35:21.760 --> 35:28.880
+als ob eigentlich derzeit das noch in so einer Art von Verteilungskampf irgendwie,
+
+35:29.360 --> 35:35.320
+dass das noch der aktuelle Status sei, wo aber trotzdem die verschiedenen großen Player,
+
+35:35.320 --> 35:41.960
+Siemens oder irgendwelche großen Agrarfirmen alle versuchen, ihre eigenen Plattformen zu
+
+35:41.960 --> 35:46.920
+installieren, die dann aber geschlossen sind, so wie das ja auch bei Facebook oder so ist,
+
+35:46.920 --> 35:52.080
+dass es eben gerade keine Anschlussstellen, keine APIs gibt, sodass man irgendwie hübsch
+
+35:52.080 --> 35:56.280
+dann zwischen den Plattformen springen kann, was für den User super wäre, aber für die natürlich
+
+35:56.320 --> 36:01.200
+dann nicht von Interesse. Also ich hatte immer das Gefühl, die kämpfen jetzt erst mal aus,
+
+36:01.200 --> 36:06.840
+wer denn da der dominante Player in diesem Segment wird, um dann doch wieder nur so eine
+
+36:06.840 --> 36:14.040
+Netzwerkeffektlogik und Plattform-Dominanz-Monopolstellung zu erzeugen oder so.
+
+36:14.040 --> 36:20.560
+Ja, also ja, wir kämpfen alle um Dominanz und alle kämpfen mit dem Problem, dass die Unternehmen die
+
+36:20.560 --> 36:26.600
+Daten nicht rausrücken wollen, weil Unternehmen halt, also Unternehmensdaten sind halt was anderes
+
+36:26.600 --> 36:31.720
+als die Daten, die wir als Konsumenten den Facebook ständig schenken und so. Also Unternehmen gehen
+
+36:31.720 --> 36:35.480
+da anders damit um, die schmeißen den nicht in der Gegend rum, sondern die sind da höchst sensibel
+
+36:35.480 --> 36:40.800
+darauf, weil es halt Geschäftsgeheimnisse sind und deswegen sagen eigentlich alle Plattformen,
+
+36:40.800 --> 36:45.760
+egal ob sie jetzt proprietär sind oder nicht, dass die Daten letztendlich beim Unternehmen bleiben
+
+36:45.760 --> 36:49.400
+und die Kontrolle darüber beim Unternehmen bleibt, weil wenn sie es nicht machen würden,
+
+36:49.400 --> 36:54.440
+dann würden sie gar nicht existieren können sozusagen. Das ist der Grundwiderspruch und
+
+36:54.440 --> 36:58.960
+deswegen sagen auch alle Plattformen, sie sind offen in ihren Schnittstellen und sie sind offen
+
+36:58.960 --> 37:04.880
+als Programmier, also beziehungsweise sind letztendlich haben Open Source Elemente und
+
+37:04.880 --> 37:10.720
+funktionieren eigentlich so, dass es offene App-Environments gibt, wo verschiedene Anbieter
+
+37:10.720 --> 37:17.480
+eben Apps zur Verfügung stellen können und die Plattform Gleitzeiganschluss fähig sind,
+
+37:17.480 --> 37:21.640
+dann alle möglichen Maschinentypen und so weiter und so fort, weil die Industrielandschaft halt
+
+37:21.640 --> 37:25.360
+total schreckig ist und kein Unternehmen jetzt irgendwie nur Siemens rumstehen hat oder so was,
+
+37:25.360 --> 37:31.520
+sondern ganz verschiedene Automaten. Das heißt, die müssen erstens relativ offen sein und zweitens,
+
+37:31.520 --> 37:36.280
+also gibt es jetzt gerade die Debatte, ob diese proprietären Modelle, wie sie von Siemens
+
+37:36.280 --> 37:40.160
+lanciert wurden, von Bosch, von Trumpf und so weiter, ob die überhaupt funktionieren,
+
+37:40.160 --> 37:44.080
+weil die so stark an einen Hersteller gebunden sind. Musst du nicht Allianzen aufbauen,
+
+37:44.480 --> 37:50.800
+um eben herstellerübergreifend so was wie Praxisstandards zu definieren und je dominanter
+
+37:50.800 --> 37:57.080
+dann diese Allianz ist zumindest, desto mehr wird es dann de facto Standard, der schon wieder Macht
+
+37:57.080 --> 38:02.240
+und Einfluss repräsentiert, aber der eben auch zu genossenschaftlichen Ansätzen führen kann,
+
+38:02.240 --> 38:06.840
+wo einfach verschiedene Anbieter, ich meine es ist ein komisches Wort Genossenschaft in dem Sinn,
+
+38:06.840 --> 38:10.720
+weil es sind große Unternehmen, die daran beteiligt sind, die sich aber trotzdem erstmal
+
+38:10.720 --> 38:15.280
+zusammenschließen, sagen, wenn wir die Daten zusammenschmeißen und die experimentell teilen,
+
+38:15.280 --> 38:20.640
+ja auch mit Widerrufsrechten und so weiter, einer komplizierten Daten Governance, dann haben wir
+
+38:20.640 --> 38:24.040
+einen bestimmten Kuchen und dann müssen wir darüber entscheiden, wie wir den verteilen.
+
+38:24.040 --> 38:28.480
+Das ist aber eine Abmachung, die eigentlich nicht auf dem Markt gelöst wird, sondern durch
+
+38:28.480 --> 38:35.680
+die dementsprechend, wie die Verhandlungsmacht ist oder der jeweilige Beitrag bemessen wird und so.
+
+38:35.680 --> 38:44.200
+Und das sind alles Sachen, wo es dann eben dazu führt, dass nur ein geteiltes Vorgehen tatsächlich
+
+38:44.200 --> 38:49.160
+Erfolg bringen kann, also wo selbst die Konkurrenten in eine gewisse Kooperation gezwungen werden.
+
+38:49.160 --> 38:53.880
+Und zweitens, vor allen Dingen ist es ebenso, ich meine, worum geht es beim Industrial Internet?
+
+38:53.880 --> 38:59.080
+Die Unternehmen erheben ständig Daten durch die ganzen tollen Industrie 4.0 Tools, die sie
+
+38:59.080 --> 39:05.040
+angeschafft haben oder auch nicht. Bisher haben sie relativ wenig damit machen können. Das heißt,
+
+39:05.040 --> 39:10.200
+sie brauchen Angebote, wie du diese Datenanalyse machst und das tatsächlich zu
+
+39:10.200 --> 39:15.800
+Geschäftserträgen führst. Und das ist sozusagen das Business, auf das die Plattformen spezialisiert
+
+39:15.800 --> 39:19.600
+sind. Problem ist nur, wenn du nur einen Datensatz von einem Unternehmen hast, da kannst du damit
+
+39:19.600 --> 39:26.440
+relativ wenig machen. Das heißt, du musst schon die Daten teilen und eben dieses private Eigentum,
+
+39:26.440 --> 39:31.120
+wenn man so will, an Daten, das dir und den Unternehmen vorschwebt, überwinden, damit
+
+39:31.120 --> 39:36.960
+Unternehmen überhaupt diese Produktivitätsgewinne realisieren können, von denen viele Versprechungen
+
+39:36.960 --> 39:44.120
+existieren, sage ich mal vorsichtig. Und das ist eine Sache, wo man schon sagen muss, okay,
+
+39:44.120 --> 39:49.600
+das ist diese Art von Data Sharing läuft eigentlich in der kapitalistischen Logik zuwider und ist
+
+39:49.600 --> 39:55.280
+schwer in diesem Kontext zu handeln. Das ist die Eigentumsverhältnisse, die eigentlich diese
+
+39:55.280 --> 40:00.880
+rationalere Entwicklung ein Stück weit blockieren. Vielleicht auch nicht. Wir werden sehen, wie die
+
+40:00.880 --> 40:06.480
+Geschichte ausgeht, aber das ist sozusagen das Kardinalproblem, an dem die gerade alle basteln
+
+40:06.480 --> 40:10.080
+und nach Lösungen versuchen, weil im Moment funktioniert es noch nicht so richtig.
+
+40:10.080 --> 40:18.080
+Das heißt auch, wenn man dieser Logik folgen würde, dann könnte man sich ja vorstellen,
+
+40:18.080 --> 40:22.320
+zum Beispiel Kooperativen. Ich habe neulich, glaube ich, mal irgendwo gelesen von einer,
+
+40:22.320 --> 40:26.680
+ich glaube es war französisch oder spanisch, aber ich glaube französische Kooperative,
+
+40:26.680 --> 40:31.120
+die irgendwie angefangen hat mit Fahrradreifen oder sowas und die sind mittlerweile anscheinend ein
+
+40:31.120 --> 40:36.440
+weltumspannendes Konglomerat von verschiedensten Firmen, aber immer noch genossenschaftlich
+
+40:36.440 --> 40:44.840
+organisiert. Wenn tatsächlich sagen, dass Kooperative das auch durchaus effektivere
+
+40:44.840 --> 40:53.480
+Prinzip sein kann innerhalb einer solchen Logik, dann wäre ja eine Möglichkeit, wie man auch
+
+40:53.480 --> 40:58.440
+sukzessive vielleicht es in einem gesamtgesellschaftlichen Kontext dahin bringen
+
+40:58.440 --> 41:04.240
+kann, dass man Best Practice Modelle macht, dass man mal Firmen hat, die wirklich größer
+
+41:04.240 --> 41:08.440
+sind, nicht nur so ein mittelständischer Betrieb oder sowas, sondern wirklich größere Firmen,
+
+41:08.440 --> 41:16.560
+die versuchen als Kooperativen auf Basis einer wirklich fundamental anderen Herangehensweise an
+
+41:16.560 --> 41:23.440
+die Frage der Digitalisierung erfolgreich ihre Geschäftspraxis betreiben und eben etwaig dadurch
+
+41:23.440 --> 41:28.160
+erfolgreich, weil sie genau nicht dieses Konkurrenzprinzip verfolgen, sondern ein
+
+41:28.160 --> 41:37.520
+kooperatives Prinzip verfolgen. Kennst du da Beispiele? Beispiele? Oh man, Mondragon ist oft
+
+41:37.520 --> 41:43.480
+in der Diskussion an größeren Genossenschaften. Das ist ein spanisches Unternehmen. Ich muss sagen,
+
+41:43.480 --> 41:46.840
+da bin ich ein bisschen blank bei der Frage. Vielleicht ist es eben Mondragon gewesen,
+
+41:46.840 --> 41:53.560
+warum ich es gelesen habe. Es gibt Ansätze, die interessant sind. Es gibt jetzt auch eine
+
+41:53.560 --> 41:59.040
+Supermarktkooperative in Berlin. Es kommt aus New York, da ist gerade ein Film in Kinos gewesen,
+
+41:59.040 --> 42:09.960
+eine Doku, die einfach von lokalen Bauern sourcen und das aber im großen Stil machen und eben auf
+
+42:09.960 --> 42:15.240
+Basis von Genossenschaftsmodellen, in denen auch die Mitglieder drei Stunden pro Woche, glaube ich,
+
+42:15.240 --> 42:19.680
+arbeiten in so einem Supermarkt. Das auf die Beine stellen und das wahnsinnig erfolgreich ist,
+
+42:19.680 --> 42:26.120
+weil das einfach die Leute wollen so was. Die wollen regionalere Produkte. In den Supermärkten
+
+42:26.120 --> 42:31.760
+gibt es das nicht so richtig. Der reguläre Bio-Supermarkt ist relativ teuer. Die schaffen
+
+42:31.760 --> 42:37.560
+das, glaube ich, da doch relativ günstig zu sein oder zumindest auch für die Mitglieder
+
+42:37.560 --> 42:41.680
+Vergünstigungen zur Verfügung zu stellen, dafür, dass sie sich engagieren. Klar,
+
+42:41.760 --> 42:48.640
+das kann funktionieren. Die Schwierigkeit ist halt immer, es lebt vom Idealismus der Teilnehmer,
+
+42:48.640 --> 42:55.320
+die da ihr Geld reinstecken und dafür relativ wenig wiedersehen. Also die Frage ist, wo kommt
+
+42:55.320 --> 43:03.440
+das Investitionskapital her und wirft es letztendlich Erträge ab? Und es sind Modelle,
+
+43:03.440 --> 43:08.440
+die auch einen Schrumpfen oder einen Steady-State ertragen können, ohne dass sie irgendwie
+
+43:08.440 --> 43:12.960
+auseinanderfliegen. Das ist immer die größere Frage, weil bei regulären Genossenschaften das
+
+43:12.960 --> 43:17.200
+Problem ist, dass sie trotzdem auch in diesen umkämpften Märkten halt ein Player sind und wenn
+
+43:17.200 --> 43:22.760
+sie dann irgendwie nicht wachsen, dann also die kapitalistische Logik überträgt sich quasi über
+
+43:22.760 --> 43:27.240
+einen Konkurrenzmechanismus ein Stück weit in sie selbst rein. Aber ich glaube eigentlich,
+
+43:27.240 --> 43:33.480
+dass da relativ viel möglich ist. Die Schwierigkeit ist grundsätzlich bei allen diesen
+
+43:33.480 --> 43:39.080
+postkapitalistischen Versuchen, dass die Spielräume jenseits des Marktes, die existieren,
+
+43:39.080 --> 43:43.800
+meiner Einschätzung nach, historisch trotzdem zurückgegangen sind. Es wird immer gesagt,
+
+43:43.800 --> 43:48.280
+jetzt poppen überall diese postkapitalistischen Projekte hoch und ich denke mir nur, schau dir mal
+
+43:48.280 --> 43:54.240
+Berlin vor 30 Jahren an, das war ein postkapitalistisches Projekt, wo Leute fast ohne Geld
+
+43:54.240 --> 43:58.960
+gelebt haben und die Buden nichts gekostet haben und die halt den ganzen Tag Kunstprojekte gemacht
+
+43:58.960 --> 44:03.440
+haben und einfach fünf bis zehn Jahre ihnen der Arbeitsmarkt auch mal egal ist. Wenn man es mit
+
+44:03.440 --> 44:09.280
+heute vergleicht, wo einfach erstens die Mieten in den Himmel schießen, die Leute nur an ihre
+
+44:09.280 --> 44:14.600
+Karriere denken, weil sie Angst haben, tatsächlich Angst getrieben sind, das nie bringen würden,
+
+44:14.600 --> 44:19.520
+mal für zwei, drei Jahre wirklich auszusetzen, dann frage ich mich mal, in welcher Welt die
+
+44:19.520 --> 44:24.800
+Leute leben, die diese postkapitalistischen Sphären überall aufpoppen sehen. Also da bin ich auf der
+
+44:24.840 --> 44:29.280
+Ebene relativ skeptisch, aber es gibt eben beide Seiten. Wie gesagt, Genossenschaften an sich
+
+44:29.280 --> 44:36.400
+können schon ein Modell sein, das ein Stück weit funktioniert, aber der Zwang zur Kommodifizierung
+
+44:36.400 --> 44:44.960
+in dieser Gesellschaft ist so groß wie nie zuvor. Ja, tragisch muss man sagen. Tragisch. Da komme
+
+44:44.960 --> 44:50.960
+ich dann nochmal auf was zurück, was du so relativ am Anfang gesagt hast, nämlich dass das Narrativ
+
+44:50.960 --> 44:57.760
+des Marktes als super effiziente Allokationsmaschine für knappe Ressourcen, dass das ungebrochen stark
+
+44:57.760 --> 45:08.560
+sei und quasi sogar noch stärker würde. Ein Punkt, um zu den möglichen Alternativen zu kommen,
+
+45:08.560 --> 45:13.640
+eine Aufgabe, die man auf jeden Fall leisten muss auf dem Weg dahin, ist glaube ich, dieses Narrativ
+
+45:13.640 --> 45:20.320
+zu brechen. Also das Narrativ des Marktes als Wundermaschine. Ich hatte eigentlich immer,
+
+45:20.320 --> 45:25.440
+und ich gehöre dann insofern absolut in diese Bubble, die du gerade beschrieben hast von Leuten,
+
+45:25.440 --> 45:29.120
+die sich irgendwas selbst erzählen wollen, ich hatte immer das Gefühl, dass gerade dieses
+
+45:29.120 --> 45:34.120
+Narrativ vom Markt eigentlich eben nicht mehr so in der Lage ist zu überzeugen, wie es einstmals
+
+45:34.120 --> 45:40.400
+war. Also dass auch der Neoliberalismus als ein Narrativ, wenn nicht überwunden, so doch
+
+45:40.400 --> 45:47.440
+taumelnd ist. Also dass das eigentlich nicht mehr so recht ziehen mag und dass deswegen dann auch eben
+
+45:47.440 --> 45:53.360
+so Fluchtmechanismus Richtung Protektionismus und nationalstaatliche Abkapselung und sowas,
+
+45:53.360 --> 45:59.240
+dann hat verstärkt wieder ein Fahrtwind gewinnen. Warum meinst du, dass das ungebrochen ist,
+
+45:59.240 --> 46:05.040
+dieses Narrativ des Marktes? Nee, ich meine nicht, dass es ungebrochen ist, da habe ich mich
+
+46:05.040 --> 46:10.840
+ungenau ausgedrückt. Also ich glaube, es wurde massiv beschädigt durch die Finanzkrise. Es hat
+
+46:10.840 --> 46:23.760
+dann ein Wiederaufleben erlebt, was paradox ist durch den relativ glimpflichen Ausgang der
+
+46:23.760 --> 46:28.880
+Finanzkrise, der zwar bestätigt hat, dass es massive Staatsinterventionen gibt, aber trotzdem
+
+46:28.880 --> 46:35.480
+irgendwie paradoxerweise dazu geführt hat, dass die grundlegenden Parameter dessen, dass so eine
+
+46:35.480 --> 46:41.280
+marktgetriebene Allokation richtig ist, nicht in Frage gestellt wurden. Also zumindest aus Sicht
+
+46:41.280 --> 46:48.720
+der Eliten sei sagen wir jetzt mal so. Und das Digitalisierungsnarrativ ist natürlich ein massiver
+
+46:48.720 --> 46:55.840
+Landgewinn im Moment ideologisch für die Idee, dass der Markt alles besser macht. Und das macht
+
+46:55.840 --> 47:01.120
+sich eben fest an dieser Mystifizierung des Silicon Valley, das toll ist natürlich in der
+
+47:01.120 --> 47:06.160
+Innovationskraft, aber nur deswegen toll ist, weil der Staat irgendwann mal die Basisinvestitionen
+
+47:06.160 --> 47:11.120
+und vor allem die riskanten Basisinvestitionen hingestellt hat. Das ist sehr interessant an
+
+47:11.120 --> 47:17.600
+Marianne Mazzucatos Buch, das Kapital des Staates heißt es auf Deutsch, das eben das Argument bringt,
+
+47:17.600 --> 47:23.960
+das ich vorher erzählt habe, wie die Digitaltechnologien letztendlich auf Militärforschung
+
+47:23.960 --> 47:29.680
+zurückgehen im Wesentlichen. Und sie sagt halt, im Grunde der Staat hat die riskanten Investitionen
+
+47:29.680 --> 47:36.800
+getätigt und die Start-ups schaffen jetzt eigentlich das ab und investieren auch in Risiken,
+
+47:36.800 --> 47:40.840
+aber nicht in die fundamentalen Risiken, wo der technologische Pfad noch überhaupt nicht klar
+
+47:40.840 --> 47:45.480
+war und überhaupt nicht klar war, ob eine Mikrochip-Entwicklung irgendwann mal was abwerfen
+
+47:45.480 --> 47:50.840
+würde oder sonst irgendwas. Und jetzt wo es klar ist, sozusagen geht es eher um die Geschäftsmodelle,
+
+47:50.840 --> 47:58.240
+um daraus Cash zu machen. Und anyway, ich schweife ab, also der Mythos hängt sehr stark am Silicon
+
+47:58.240 --> 48:04.320
+Valley an dem Machern des Silicon Valley, die eben das Geld in die Hand nehmen, weil der Markt das
+
+48:04.320 --> 48:10.360
+belohnt letztendlich das Risiko und so. Und das sehe ich relativ stark im Elitendiskurs. Inwieweit
+
+48:10.360 --> 48:16.360
+das verfängt, das ist widersprüchlich. Also ich glaube, solange das nicht wirklich herausgefordert
+
+48:16.360 --> 48:22.720
+wird durch starke Bewegungen auch, die einen grundsätzlichen Einspruch dazu formulieren,
+
+48:22.720 --> 48:27.920
+bleibt das relativ intakt, obwohl ganz viele Menschen merken, dass grundsätzlich was nicht
+
+48:27.920 --> 48:32.800
+stimmt. Aber sozusagen, also gut, ist es ausformuliert, schwierig zu sagen. Es gibt doch immer,
+
+48:32.800 --> 48:38.600
+ich glaube, die Alnsbach-Umfrage, die sagt, also in der abgefragt wird, inwieweit die Leute glauben,
+
+48:38.600 --> 48:42.480
+dass die Marktwirtschaft funktioniert, wo die Werte seit Jahren zurückgehen. Und ich glaube,
+
+48:42.480 --> 48:47.920
+also unglaublich niedrig sind in der letzten Fassung, müsste man auch nachschlagen und anhängen an
+
+48:47.920 --> 48:53.920
+eurem Blog. Aber da verschiebt sich natürlich schon was. Und das ist jetzt ein relativ kontinuierlicher
+
+48:54.040 --> 48:58.440
+Prozess, dass Leute merken, irgendwie kann es nicht so weitergehen, wie es gerade ist.
+
+48:58.440 --> 49:09.160
+Und ein Teil deiner Arbeit daran, dieses Narrativ anzukratzen und bröcklich brüchig werden zu
+
+49:09.160 --> 49:16.120
+lassen, ein Teil dieser Arbeit machst du auch in der Enquete-Kommission des Deutschen Bundestages
+
+49:16.120 --> 49:23.520
+zu Künstlicher Intelligenz. Denn auch da gibt es einige Mythen einzureißen und hinter den
+
+49:24.440 --> 49:30.480
+Vorhang zu schauen. Worum geht es da bei der Enquete-Kommission? Die Enquete-Kommission,
+
+49:30.480 --> 49:33.600
+also eine Enquete-Kommission grundsätzlich ist eine Kommission, die vom Parlament
+
+49:33.600 --> 49:38.840
+eingerufen wird, also nicht von der Regierung, sondern vom gesamten Parlament. Wo die Denke
+
+49:38.840 --> 49:45.640
+dahinter ist, es gibt Fragen, die sind so fundamental, entweder einfach weil sie die
+
+49:45.640 --> 49:50.560
+Gesellschaft so stark beeinflussen oder weil sie ethisch und sonst irgendwie Bedeutung haben,
+
+49:50.640 --> 49:56.640
+dass sie im Tagesgeschäft des Bundestags nicht wirklich behandelt werden können und die meisten
+
+49:56.640 --> 50:02.120
+Abgeordneten auch nicht wirklich das Wissen haben, sich dazu zu positionieren. Und deswegen wird
+
+50:02.120 --> 50:05.680
+so eine Kommission eingerufen, die besteht zur Hälfte als Abgeordneten und zur Hälfte aus
+
+50:05.680 --> 50:12.200
+externen Sachverständigen, davon bin ich eben einer, insgesamt 38 Leute. Und die diskutieren
+
+50:12.200 --> 50:17.040
+über zwei oder drei Jahre, in unserem Fall zwei Jahre, eins dieser Themen von gesellschaftlicher
+
+50:17.040 --> 50:23.760
+Relevanz und das ist eben künstliche Intelligenz. Und genau, in dem Rahmen wird eben ein Bericht
+
+50:23.760 --> 50:30.240
+erarbeitet im Konsens, in dem dann letztendlich Handlungsempfehlungen drin stehen, wie man mit
+
+50:30.240 --> 50:36.400
+diesem Thema umzugehen hat, die empfehlenden Charakter für den Bundestag haben. Real ist es so,
+
+50:36.400 --> 50:43.360
+wie weit das die Meinung im Bundestag verschiebt, weiß ich nicht. Möglicherweise hat es einen
+
+50:43.360 --> 50:46.640
+Effekt auf die gesellschaftliche Debatte, in die man einen oder anderen Punkt dann macht.
+
+50:46.640 --> 50:50.920
+Hervorgestochen ist jetzt die Formulierung im Konsens.
+
+50:50.920 --> 50:51.440
+Richtig.
+
+50:51.440 --> 50:57.760
+Also wie ist die Kommission besetzt? Wie viele Vertreter der Wirtschaft sind unter denen,
+
+50:57.760 --> 50:59.960
+die nicht aus dem Parlament kommen?
+
+50:59.960 --> 51:07.680
+Sie ist so besetzt, dass das nach dem Schlüssel aufgeteilt ist, wie die Parteien im Bundestag
+
+51:07.680 --> 51:14.160
+vertreten sind. Das heißt, die Abgeordneten sind analog zur Zahl der Abgeordneten repräsentativ.
+
+51:14.160 --> 51:22.360
+Also das heißt, keine Ahnung, bei 20 Abgeordneten sind wahrscheinlich 500 CDU und 4 von der SPD und
+
+51:22.360 --> 51:27.040
+so weiter und so fort. Na, vier schon nicht mehr. Egal. Ich habe die genauen Zahlen nicht im Kopf.
+
+51:27.040 --> 51:35.280
+Und die wählen jeweils Sachverständige ihre Fasson aus. Und das bedeutet, wir haben schon
+
+51:35.360 --> 51:41.760
+einen relativ hohen Lobbyisten-Anteil. Auf beiden Seiten kann man sagen. Ich meine,
+
+51:41.760 --> 51:46.560
+jemand, der im progressiven Sinn da interveniert, ist ja auch ein Lobbyist für irgendwie die gute
+
+51:46.560 --> 51:50.880
+Sache. So könnte man mich vielleicht auch beschreiben. Habe ich noch nie gemacht. Das ist ja eine Premiere,
+
+51:50.880 --> 51:56.280
+aber so kann man es sehen. Aber wir haben natürlich dabei Unternehmensverbände,
+
+51:56.280 --> 52:03.720
+Unternehmensvertreterinnen und so weiter und so fort. Und von der Zusammensetzung ist es dann
+
+52:03.720 --> 52:08.640
+doch relativ klar, dass bei FDP und CDU dann hauptsächlich die Vertreterunternehmen sitzen
+
+52:08.640 --> 52:14.360
+und bei SPD, Grünen und der Linken eben mehr Wissenschaft, Verbände, Gewerkschaften und so
+
+52:14.360 --> 52:23.160
+weiter. Und gehen dann die Wirtschaftsvertreter da auch dann ganz offensiv irgendwie mit konkreten
+
+52:23.160 --> 52:33.240
+Politiken und Forderungen hinein? Oder muss man da noch so einen Schleier des Erkenntnisinteresses
+
+52:33.560 --> 52:38.840
+vortäuschen? Wie läuft das? Es ist beides. Also das macht es auch nicht einfach. Wenn du da mal
+
+52:38.840 --> 52:44.720
+drin arbeitest, merkst du, die Leute sind nicht nur Charaktermasken ihrer jeweiligen Funktion. Du
+
+52:44.720 --> 52:48.200
+kannst schon mit denen reden. Also es war erstmal überraschend, wie viel ich da auch durchgebracht
+
+52:48.200 --> 52:54.320
+habe in einem ein oder anderen Bericht. Und gleichzeitig gibt es dann Manöver. Also Manöver,
+
+52:54.320 --> 53:02.760
+die bedeuten, bei der Lyrik kann man viel bewegen. Wenn es um die Handlungsempfehlungen geht,
+
+53:02.760 --> 53:09.840
+kann man wenig bewegen. In der Projektgruppe Arbeit haben wir eine relativ starke Intervention von
+
+53:09.840 --> 53:14.720
+Arbeitgeberverbänden, die Arbeitszeitregelungen aufzuweichen, was eigentlich sachlich gar nicht
+
+53:14.720 --> 53:19.360
+wirklich was mit KI zu tun hat. Haben wir auch herausgestellt, wird trotzdem immer wieder versucht.
+
+53:19.360 --> 53:23.560
+Und solche Sachen gibt es auf jeden Fall. Also man muss sich davon verabschieden, dass es jetzt
+
+53:23.560 --> 53:27.920
+einfach ein Raum ist, in dem 38 Leute versuchen, sich eine Meinung zu bilden. Aber interessant ist
+
+53:27.920 --> 53:33.440
+halt, dass diesen Charakter schon durchaus auch hat, dass man ernsthafte Diskussionen führt und
+
+53:33.440 --> 53:41.240
+mit Argumenten da bestimmte Punkte machen kann. Trotzdem ist aus meiner Sicht, ja das, was zu
+
+53:41.240 --> 53:45.560
+erwarten ist, ein hegemonialer Konsens mit Gramsci gesprochen. Also es bedeutet ganz einfach, dass
+
+53:45.560 --> 53:51.440
+Ziele der Eliten sich verbinden mit progressiven Zielen und einmal umgerührt werden. Und dann kann
+
+53:51.440 --> 53:56.920
+sich jeder aussuchen, was er gut findet so ungefähr. Aber es ändert sich nichts dadurch. Deswegen
+
+53:57.080 --> 54:04.040
+haben Sondervoten eine große Bedeutung. Das heißt, dass Minderheitsfraktionen einfach ihr Votum an
+
+54:04.040 --> 54:09.800
+dem Bericht anheften können und das eben als eine Gegenmeinung dann in die Diskussion bringen
+
+54:09.800 --> 54:13.960
+können. Wie sehr das dann wahrgenommen wird, weiß man nicht. Aber das ist eben auch eine Frage,
+
+54:13.960 --> 54:21.040
+das dann publik zu machen und darauf aufmerksam zu machen, dass da Dissens gibt. Das ist aber
+
+54:21.040 --> 54:26.120
+interessant, dass man dazu angehalten ist, im Konsens zu arbeiten. Also es ist zumindest ein
+
+54:26.120 --> 54:31.080
+Foul, wenn man von Anfang an versucht, irgendwie dagegen zu zacken. Man soll schon in den
+
+54:31.080 --> 54:36.040
+Formulierungen versuchen, darauf zu achten, dass sich da alle einigermaßen wiederfinden können.
+
+54:36.040 --> 54:40.280
+Interessant. Und was sind denn da so die Formulierungen? Also ganz konkret fände
+
+54:40.280 --> 54:44.640
+ich ja schon mal interessant. Also was ist denn da die gebräuchliche Definition von künstlicher
+
+54:44.640 --> 54:51.800
+Intelligenz? Oh, da gab es eine wochenlange Debatte darum. Wir haben versucht, uns das
+
+54:51.800 --> 54:57.520
+einfach zu machen mit Verweis auf die EU High-Level Expert Group, was eben so ein ähnliches Gremium
+
+54:57.520 --> 55:07.760
+auf Kommissionsebene ist, also EU-Regierungsebene, die eine Definition gemacht haben. Und wie war
+
+55:07.760 --> 55:13.160
+das? Also es geht aus von, also es konzentriert, es sagt, künstliche Intelligenz sind letztendlich
+
+55:13.160 --> 55:17.440
+verschiedenartige Software-Systeme, die oft verbunden sind mit Hardware-Systemen,
+
+55:17.440 --> 55:25.680
+deren aktuelle Fassung vor allen Dingen auf maschinelles Lernen abzielt. Und also deswegen
+
+55:25.680 --> 55:29.240
+eigentlich auch jetzt diese Kommission, weil wenn es einfach um künstliche Intelligenz geht,
+
+55:29.240 --> 55:32.360
+dann hätte man es jetzt auch in den 70er-Jahren machen können. Da gab es das auch schon in
+
+55:32.360 --> 55:37.560
+irgendeiner Form. Aber der Grund, warum das eben abhebt im Moment, ist einfach der neue Pfad des
+
+55:37.560 --> 55:43.600
+maschinellen Lernens. So und das beschreibt dann, was maschinelles Lernen ist und geht dann auch
+
+55:43.600 --> 55:47.760
+darauf ein, dass damit ein paar grundsätzliche Probleme verbunden sind, nämlich die Frage der,
+
+55:47.760 --> 55:53.520
+also Fragen, die Urteilskraft betreffend, der Transparenz betreffend, den Datenschutz
+
+55:53.520 --> 56:02.000
+betreffend. Und das ist sozusagen ungefähr die pragmatische Definition desselben. Es wird auch
+
+56:02.000 --> 56:07.960
+die Analogie zur menschlichen Intelligenz verwendet, allerdings vermutlich mit einem
+
+56:07.960 --> 56:14.840
+reflexiven Element darin, dass der Vergleich halt auch hinkt. Also das kann man schon machen. Es
+
+56:14.840 --> 56:21.760
+sind ja auch KI-Forscher in der Enquete-Kommission und so, die da auch ein sehr realistisches Bild
+
+56:21.760 --> 56:26.560
+auf die Möglichkeiten und Grenzen haben. Das ist jetzt nicht ein Gremium, wo man irgendwie die
+
+56:26.560 --> 56:32.680
+Singularitätstheoretiker und irgendwelche Spinner rumspringen sieht, sondern es sind Leute,
+
+56:32.680 --> 56:39.520
+die oft in sehr pragmatischen Anwendungsprojekten arbeiten und zwar irgendwie auch diese Technik,
+
+56:39.520 --> 56:45.000
+diesen technologischen Pfad promoten, aber dann auch sehr offen argumentieren, wo sie Grenzen
+
+56:45.000 --> 56:50.840
+kennen. Beziehungsweise es gibt ja auch eine gewisse Heterodoxie in der KI-Forschung, dass es Leute
+
+56:50.840 --> 56:57.320
+gibt, die eher maschinelles Lernen mäßig drauf sind und Leute, die Experten-Systeme favorisieren
+
+56:57.320 --> 57:03.160
+und andere favorisieren Hybridesysteme und so weiter. Also da ist eine Debatte am Laufen und
+
+57:03.160 --> 57:08.440
+da kann man auch viel lernen. Da gibt es sicher noch ganz ganz viel drüber zu sprechen, aber das
+
+57:08.440 --> 57:13.400
+wäre dann nochmal eine zweite weitere Folge, würde ich sagen. Vielleicht noch, was würdest du dir
+
+57:13.400 --> 57:25.120
+wünschen als Ausgang dieser Enquete-Kommission? Ich würde mir wünschen, dass erstens der Bericht
+
+57:25.120 --> 57:33.480
+tatsächlich eine ausgewogene rationale Position wiedergibt. Das heißt erstens, dass keine
+
+57:33.480 --> 57:42.400
+bescheuerten Wachstumsprognosen und so Mythen gepflegt werden, die einfach mehr verklären,
+
+57:42.400 --> 57:50.440
+als dass sie förderlich sind. Zweitens, dass das nicht ein weiteres Dokument ist, dass im Geiste
+
+57:50.440 --> 57:57.360
+der deutschen Standortinteressen Wachstum als Selbstzweck huldigt. Das ist uns nicht gelungen,
+
+57:57.360 --> 58:01.600
+das zu machen, aber zum Teil gelungen. Also sowohl die Wachstumsaussichten als auch diese
+
+58:01.600 --> 58:06.620
+Standortdenken haben wir deutlich abgemildert. Zum dritten, dass nicht irgendwelche Utopien in
+
+58:06.620 --> 58:16.480
+Bezug auf Arbeit gefröhnt wird, die die Meilen weit an der Realität vorbeigehen, wie KI derzeit
+
+58:16.480 --> 58:23.120
+eingesetzt wird. Das in Bezug auf den Gesamtbericht sozusagen und in Bezug auf ein Minderheitsvotum,
+
+58:23.120 --> 58:29.760
+dass wir schaffen, eine kritische Position zu popularisieren, die tatsächlich ein Bezugspunkt
+
+58:29.760 --> 58:37.880
+in dieser Diskussion sein kann für Leute, die merken, dass da irgendwie viel heiße Luft
+
+58:37.880 --> 58:42.880
+geplaudert wird und das gesellschaftlich auch problematisch ist. Das wären sozusagen die
+
+58:42.880 --> 58:49.120
+Maximalziele, sage ich mal. Mehr kann man auch nicht machen mit so was. Als Experte in so einem
+
+58:49.120 --> 58:56.960
+Gremium schmeißt du da so einen gesellschaftlichen Diskurs um, so läuft es leider nicht. Aber es ist
+
+58:56.960 --> 59:07.360
+halt ein Teil davon, von einer formierenden technikkritischen, also im Sinn von Kritik am
+
+59:07.360 --> 59:12.640
+Technikfetischismus und am blinden Glauben an die Technik, sich formierenden gesellschaftlichen
+
+59:12.640 --> 59:17.200
+Strömungen, wo das Weizmaum-Institut, wo wir hier sind, ja auch ein Teil davon ist, das aufzubauen
+
+59:17.200 --> 59:23.320
+und gegenüber so einem naiven Technikoptimismus nüchterne und wissenschaftlich fundierte
+
+59:23.320 --> 59:29.720
+Einschätzungen zu formulieren. Und es ist ja auch wirklich dann ein super Ding, auf das man verweisen
+
+59:29.720 --> 59:35.160
+kann in der Diskussion. Also wenn ihr dann den Appendix gemacht habt, der das auch wirklich zu
+
+59:35.160 --> 59:40.720
+Papier bringt, dann ist das ja ein sehr durch offizielle Würden irgendwie gehultigtes Dokument,
+
+59:40.720 --> 59:45.640
+auf das man dann auch permanent verweisen kann im Diskurs. Zu Papier bringen muss man es halt noch.
+
+59:45.640 --> 59:53.760
+Als allerletztes Florian frage ich immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+
+59:53.760 --> 01:00:08.640
+Mich stimmt freudig das ich glaube, dass wir einen Umbruch überleben über die Klimafrage,
+
+01:00:08.880 --> 01:00:17.760
+dass viele Leute sich mehr wünschen als das was im Moment uns gegeben wird und dass ich daran glaube,
+
+01:00:17.760 --> 01:00:23.960
+dass Menschen sich selbst organisieren können, um das auch zu realisieren, dass die reichhaltigen
+
+01:00:23.960 --> 01:00:28.200
+Mittel, die es gibt in der Gesellschaftsleben, besser zu machen und zwar nicht nur im materiellen
+
+01:00:28.200 --> 01:00:32.880
+Sinn, sondern im menschlichen Sinne, dass die auch genutzt werden können.
+
+01:00:32.880 --> 01:00:35.720
+Wunderbar. Florian, vielen Dank für das Gespräch.
+
+01:00:35.720 --> 01:00:36.480
+Ich habe zu danken.
+
+01:00:38.640 --> 01:00:47.520
+Das war Future Histories für heute. Vielen Dank fürs Zuhören. Show Notizen und vieles
+
+01:00:47.520 --> 01:00:53.560
+mehr findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+
+01:00:53.560 --> 01:00:59.280
+Future Histories oder auf Reddit. Lasst mich wissen was ihr zu dem ganzen denkt und wie euch
+
+01:00:59.280 --> 01:01:04.520
+diese Folge hier gefallen hat. Unbedingt gut bewerten auf allen Podcast Plattformen die ihr
+
+01:01:04.520 --> 01:01:09.480
+nutzt. Für unsere Patreon Unterstützerinnen und Unterstützer gibt es auf www.patreon.com
+
+01:01:09.480 --> 01:01:14.400
+schrägstrich Future Histories vieles an Zusatzmaterial. Ich lese zum Beispiel jeden
+
+01:01:14.400 --> 01:01:18.360
+Monat einen Text ein, der zum jeweiligen Thema passt. Da könnt ihr also auch vorbeischauen.
+
+01:01:18.360 --> 01:01:21.280
+Bis zum nächsten Mal. Ich freue mich.
+

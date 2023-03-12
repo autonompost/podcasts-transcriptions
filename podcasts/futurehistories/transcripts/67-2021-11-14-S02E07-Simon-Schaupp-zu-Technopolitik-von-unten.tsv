@@ -1,0 +1,775 @@
+start	end	text
+0	5080	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+5080	10960	Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute erneut Simon Schaub in Future
+10960	16640	Histories begrüßen zu dürfen. Simon war bereits in Folge 18 zu Gast, damals zum Thema
+16640	23320	Kybernetik und radikale Demokratie. Eine überaus interessante Folge, wie ich finde. Und nachdem ich
+23320	29240	Simons Arbeit insgesamt spannend finde, ich erinnere da zum Beispiel an seinen gemeinsam mit Georg
+29240	35560	Jochum verfasstes Buchkapitel zur Steuerungswende, war ich sofort interessiert, als kürzlich Simons
+35560	41120	neues Buch erschienen ist. Es trägt den Titel Technopolitik von unten, Algorithmische
+41120	48440	Arbeitssteuerung und kybernetische Proletarisierung. Simon ist übrigens auch Mitglied im Z, dem Zentrum
+48440	53240	für Emanzipatorische Technikforschung, deren Arbeit ich euch an dieser Stelle hier insgesamt
+53600	59960	sehr ans Herz legen möchte. In Folge 10, da durfte ich bereits ein weiteres Mitglied des Z begrüßen,
+59960	67320	nämlich Philipp Frei, damals zum Thema Zukunft der Automatisierung. Und bevor es jetzt losgeht mit
+67320	73080	dem Gespräch zu Simons neuem Buch, darf ich noch zwei Dinge tun. Ich darf Fabian, Carmen,
+73080	79480	Christine und Elfriede für ihre Spende danken und Hendrik, Markus und Julian ganz herzlich als
+79480	85240	Unterstützer bei Patreon begrüßen. Und ich darf einen überaus freudigen Aufruf starten,
+85240	91120	denn es hat mich vor kurzem Dirk kontaktiert, ein Hörer, der das Projekt Future Histories gerne
+91120	95680	jenseits der Geldform unterstützen würde und sich hierfür eines Projektes angenommen hat,
+95680	100800	das für Future Histories ein wirklich substanzieller Zugewinn ist, nämlich die
+100800	107160	Transkription der Episoden. Das macht Future Histories nicht nur durchsuchbar und zitierbar,
+107160	112840	sondern auch in vollem Umfang zugänglich für gehörlose Menschen. Das ist ein absolut
+112840	117600	fantastisches Projekt, das Dirk da angestoßen hat. Und weil er das natürlich nicht alleine
+117600	122760	leisten kann, möchte ich euch hiermit in größtmöglicher Dankbarkeit bitten, euch diesem
+122760	128880	Vorhaben unterstützend anzuschließen. Die finanzielle Unterstützung via Patreon oder Spende,
+128880	135160	die ist eine ganz wichtige Hilfe, die Future Histories mitträgt. Aber nicht jede und jeder
+135160	140840	hat die Möglichkeit, dies zu tun. Wenn ihr also Future Histories jenseits des Geldes unterstützen
+140840	148240	wollt, dann ist eine Mitarbeit an der Transkription ein ganz großartiger Weg, dies zu tun. Ihr findet
+148240	154000	in den Show Notes ein kurzes FAQ, das eine Erstorientierung dazu bietet, wie ihr einen
+154000	159720	Beitrag leisten könnt zu dieser Transkriptionsarbeit. Ihr findet in den Show Notes ebenfalls eine
+159720	167320	E-Mail-Adresse, unter der ihr euch melden könnt, und die lautet transcription.futurehistories.today. Und
+167320	174880	jetzt wünsche ich euch viel Freude mit der heutigen Episode mit Simon Schaub zu Technopolitik von unten.
+174880	185640	Herzlich willkommen, Simon. Vielen Dank, Jan. Ich freue mich wirklich sehr, wieder hier sein
+185640	191360	zu dürfen. Das tue ich auch. Wirklich schön, dass du wieder da bist. Vielleicht breiten wir
+191360	196160	für die Hörerinnen und Hörer einmal kurz die Szenerie etwas aus. Du hast da nämlich für die
+196160	201000	Untersuchungen in deinem Buch nicht nur ein interessantes Thema gewählt, die algorithmische
+201000	205520	Arbeitssteuerung, sondern du hattest auch einen sehr spannenden Zugang, finde ich. Du hast nämlich
+205520	211800	im Rahmen deiner teilnehmenden Beobachtung selbst in Betrieben gearbeitet, die stark auf algorithmische
+211880	216600	Arbeitssteuerung setzen. Vielleicht magst du uns zunächst mal einen Überblick verschaffen. Was hast
+216600	222040	du da untersucht und wie hast du es untersucht? Ja, gerne. Also algorithmische Arbeitssteuerung
+222040	229280	kann man grob fassen als die Koordination und Evaluation von Arbeitshandeln. Und das ist auf
+229280	234040	ganz vielen unterschiedlichen Ebenen angesiedelt. Also das kann wirklich Mikrosteuerung von einzelnen
+234040	239440	Arbeitsschritten mit sogenannten Variables sein, die dann Beschäftigte am Körper tragen. Es können
+239440	244840	aber auch ganze unternehmensumfassende Systeme sein. Das sind dann sogenannte Enterprise Resource
+244840	248840	Planning Systems. Und da habe ich aber eben immer nur die Teile untersucht, die dann auch wirklich
+248840	255240	das Arbeiten betreffen, weil es gibt natürlich viele andere Ressourcen in Unternehmen auch. Und
+255240	259960	ich habe eben die algorithmische Arbeitssteuerung untersucht und das in Industrie und Logistik.
+259960	266680	Spezifisch auch noch in der Lieferlogistik in plattformvermittelten Lieferunternehmen. Ich
+266680	271960	habe da am Anfang angefangen, Interviews zu führen mit Managern, Gewerkschafterinnen und
+271960	278000	Beschäftigten, die in Unternehmen arbeiten, die solche Technologien einsetzen oder gerade
+278000	284560	implementieren. Und da habe ich ganz viele Visionen gehört, was die alles zuvor haben und wie das dann
+284560	291240	alles so aussehen wird. Und mir schien es aber immer mehr fragwürdig, ob das dann wirklich alles
+291240	298040	auch so sich abspielt, wie das da erzählt wird. Zumal ich auch mit der Empirie angefangen habe,
+298040	303080	als gerade dieser Industrie 4.0 Hype noch irgendwie so am brodeln war. Und da wurden wirklich die
+303080	308160	utopischsten Dinge ausgebreitet, die dann irgendwie alle plötzlich möglich sein sollten mit der
+308160	312880	algorithmischen Arbeitssteuerung oder der Digitalisierung im Allgemeinen. Und ich habe
+312880	319000	dann beschlossen, dass ich das gerne auch mal wirklich aus der Innenperspektive erforschen
+319000	325680	möchte und habe dann teilnehmende Beobachtungen gemacht in zwei Unternehmen. In einem
+325680	331720	Elektroindustrieunternehmen habe ich an der Montagelinie gearbeitet und bei einem Lieferdienst
+331720	336800	für Essen habe ich als Fahrradkurier gearbeitet. Insgesamt habe ich das sechs Monate lang gemacht.
+336800	345640	Und das hat sich wirklich als sehr fruchtbarer Zugang erwiesen, weil gerade in der auch kritischen
+345880	351760	Digitalisierungsforschung wird sich eigentlich fast ausschließlich auf Managementstrategien
+351760	357080	bezogen, also auf irgendwelche Vorhaben von Managern, die oft auch noch gar nicht realisiert
+357080	363600	sind, aber in irgendwelchen Hochglanzbroschüren und offiziellen Dokumenten sehr einfach natürlich
+363600	366960	auf die Forschung zugänglich sind oder oft werden auch einfach Interviews geführt, wie ich es ja
+366960	372760	auch gemacht habe. Und das führt aber zu einer strukturellen Überbewertung von diesen Managementstrategien
+373520	380680	meines Erachtens nach. Also weil da immer eben wirklich die weitreichendsten Visionen gesponnen
+380680	387400	werden, was dann alles passiert, irgendwie wie man dann prädiktiv irgendwelche Pakete zum Kunden
+387400	391400	schickt, bevor der überhaupt weiß, dass er sie will und so weiter und so fort, dass quasi keine
+392400	399160	Kontrolllücke mehr besteht, dass das sogenannte Prinzipal-Agent-Problem quasi für immer gelöst
+399160	405560	ist durch die Digitalisierung und so weiter und so fort. Und all das ist halt einfach de facto nicht
+405560	409960	der Fall, muss man ganz nüchtern sagen, weil Technologie, wir kennen das aus unserem Alltag
+409960	415120	eigentlich ja alle, eigentlich nie so funktioniert, wie wir es gerne hätten. Das ist das eine und das
+415120	421800	andere ist aber auch, dass es sich hierbei um ein Feld von Technologieimplementierung handelt, was
+421800	426360	inherent sehr stark konfliktbeladen ist, weil es sich, und da werden wir bestimmt gleich noch mehr
+426360	431600	drüber sprechen, oft um einen Technologie-Einsatz handelt, der zum Nachteil von Beschäftigten ist.
+431600	438000	Das ist ja auch in der Forschung quasi mittlerweile schon einigermaßen Konsens. Und da muss man
+438000	441440	natürlich davon ausgehen, dass auch die Beschäftigten sich irgendwie strategisch
+441440	447080	dazu verhalten, was da passiert und nicht einfach nur passive Opfer sind. Und auch schon allein
+447080	451440	deswegen quasi ist es unwahrscheinlich, dass sich das einfach alles so reibungslos vollstreckt,
+451440	458160	wie das irgendwelche Manager sich vorstellen. Das sind alles Gründe, warum man die Digitalisierung
+458160	463960	und insbesondere eben so umstrittene Technologien eben auch wirklich ethnographisch untersuchen,
+463960	468960	die Deutschen. Und das habe ich gemacht. Im Fokus deiner Untersuchungen stehen dabei zwei
+468960	473920	Prozesse. Den einen, den nennst du kybernetische Proletarisierung und der andere, der bildet den
+473920	479000	Titel deines Buches, nämlich Technopolitik von unten. Wir werden beide ganz sicher besprechen
+479080	484600	innerhalb unseres heutigen Interviews. Aber lass uns mit dem letzteren anfangen. Was verstehst du
+484600	491440	unter Technopolitik von unten? Also vielleicht erst mal Technopolitik und dann von unten.
+491440	496480	Technopolitik hört sich vielleicht erst mal komisch an. Ja, denkt man vielleicht, warum
+496480	501280	sagt der nicht einfach Technikpolitik? Das ist ja der übliche Begriff. Das ist aber was,
+501280	507360	wovon ich mich wirklich abgrenzen möchte. Also Technikpolitik ist, wenn man das nachschlägt,
+508200	513080	einfach ein Politikressort staatlicher Politik. Das ist in den meisten Fällen in
+513080	518320	einem Wirtschaftsministerium angelegt und das ist quasi der Politikbereich, der um die Regulierung
+518320	524840	von Technologie geht. Und das ist ein Teil von Technopolitik, aber Technopolitik erschöpft sich
+524840	532280	darin nicht. Sondern was der Begriff der Technopolitik unterstreichen soll, ist, dass Technologie selbst
+532280	538400	quasi inhärent politisch ist. Es geht dann quasi um eine Politik im Modus der Technologie. Also
+538400	546880	sozusagen sowohl das, was durch die Technologie getan wird, also quasi das Organisieren von Arbeit
+546880	551840	in meinem Fall, ist ja ein hochpolitischer Prozess, als auch die Aushandlungen, die dazu
+551840	556520	führen, dass das auf diese und nicht auf irgendeine andere Weise dann quasi implementiert wird,
+556520	561960	ist auch hochpolitisch. Und zwar auf ganz vielen verschiedenen Ebenen haben wir es damit Aushandlungen
+561960	570280	zu tun. Und was ich wichtig finde, ist, dass das wirklich gerade bei Algorithmen und also bei
+570280	575440	digitalen Technologien nochmal dezidiert ausgeflackt wird als eine politische Arena.
+575440	581800	Bei Algorithmen ja Organisationstechnologien sind, die legen bestimmte Regeln fest, die dann
+581800	587000	automatisch ausgeführt werden und so weiter. Und gerade wenn es dabei darum geht, Arbeit auf eine
+587000	592480	bestimmte Weise zu organisieren, ist es eben wichtig zu sehen, dass das Regeln sind, die sind
+592480	596360	vergleichbar mit Managementanweisungen oder wenn man es irgendwie auf eine staatliche Ebene
+596360	600600	übertragen will, vielleicht sogar mit Gesetzen. Und bei den beiden letztgenannten haben wir überhaupt
+600600	604440	gar kein Problem damit, das als politisch zu sehen. Es ist völlig klar, da geht es um Widerstreiten,
+604440	610160	Interessen, da wird irgendwas ausgehandelt und am Ende gewinnen meistens Leute und andere verlieren
+610160	615920	irgendwie oder setzen sich Kompromisse durch. Und bei Technologien, insbesondere bei Algorithmen,
+616000	621320	ist das oft nicht der Fall. Da wird das so quasi als irgendwie neutrale, fast schon Naturgewalt
+621320	627000	oft verstanden, die sich einfach aufgrund von einer technischen Machbarkeitslogik oder so
+627000	632600	vollstreckt. Und das ist was, was ich kritisieren möchte mit dem Begriff. Und da scheint mir der
+632600	639680	Begriff der Technopolitik eben ein sinnvoller Begriff. Und ich habe vorher schon gesagt, dass
+639680	645720	der sich auf verschiedene Ebenen bezieht. Das ist auch nochmal recht wichtig, weil sich das bei mir
+645720	652360	dann eben arbeitsbezogen nochmal unterscheidet, vielleicht auch von der Aushandlung anderer
+652360	657960	Technologien, die vielleicht eher in Privaten eingesetzt werden und so weiter. Und ich habe da
+657960	665400	in Anlehnung an die Theorie der Produktionspolitik, die von Michael Boravoy ausgearbeitet wurde,
+665400	674360	einen Analyserahmen der Technopolitik entwickelt, der eben sich auf drei sogenannte Arenen bezieht,
+674360	679320	in denen verschiedene Aushandlungslogiken sich vollziehen und verschiedene Akteure
+679320	685800	verschiedene Dinge aushandeln. Da ist zunächst mal die Regulationsarena. Das wäre quasi das,
+685800	690200	was noch am nächsten an der sogenannten Technikpolitik dran wäre, nämlich quasi
+690200	698880	die Regulierung von Technikentwicklung und Technikeinsatz. Und das sind meistens staatliche
+698880	704800	Akteure, aber auch Unternehmensverbände und Werkschaften, die dort verhandeln. In meinem
+704800	712720	Fall war das jetzt in Bezug auf die algorithmische Arbeitssteuerung ganz stark verbunden in Deutschland
+712720	719160	mit dieser sogenannten Industrie 4.0-Initiative. Das ist, um es nochmal kurz in Erinnerung zu rufen,
+719160	726160	ein staatliches Förderprogramm gewesen in Deutschland, was die Digitalisierung der
+726160	731440	Industrie vorantreiben sollte. Und da wurde quasi viel Geld reingesteckt, aber es war vor allem
+731440	736960	auch eine Propaganda-Initiative, die das einfach propagieren sollte. Und der strategische Clou
+736960	743400	daran war eben, dass man versucht hat, das konsensual durchzusetzen, indem man eben von
+743400	749520	Anfang an auch die Gewerkschaften an diesem Programm beteiligt hat. Das heißt, diese Industrie
+749520	755320	4.0-Programmatik, die auch dann institutionalisiert wurde in der sogenannten Plattform Industrie 4.0,
+755320	762840	das mittlerweile eine staatliche Institution ist, dass dieses ganze Konglomerat quasi eine
+762840	769720	korporatistische Form der industriellen Beziehung ist. Und das ist ganz interessant, weil es quasi
+769720	775040	allgemein auch in der Forschungsliteratur zu Arbeitsbeziehungen und so weiter immer wieder
+775040	780440	gerade angemerkt wird, dass der Korporatismus einen Niedergang begriffen ist, er hat Formen
+780440	787240	der Sozialpartnerschaft weichen und stattdessen unilaterale Alleingänge der Arbeitgeberseite
+787240	794000	folgen, Precarisierungsinitiativen und so weiter. Und hier haben wir es aber eben mit einer themenspezifischen
+794000	800240	Ausnahme zu tun, wo wirklich dieser Konsens sehr stark betont wird und die Gewerkschaften eben quasi
+800240	805600	von Anfang an damit einbezogen werden. Das heißt, die haben das im Industriebereich selbst sehr stark
+805600	812080	auch mit propagiert und haben deswegen aber auch eben in begrenztem Maße Mitbestimmungsrechte,
+812080	819960	was da dann praktisch passiert. Ganz anders sieht es in dem zweiten von mir untersuchten Bereich aus,
+819960	825320	in der Lieferlogistik. Da ist quasi von Korporatismus oder überhaupt Sozialpartnerschaft
+825320	831240	quasi keine Spur, weil wir es da zu tun haben mit sehr gewerkschaftsfeindlichen Unternehmen. Ja,
+831480	840440	man kennt das von den Online-Versandhandelsgrößen oder von diesen Essenslieferdiensten,
+840440	845360	die ja auch oft in den Medien sind, dafür, dass dort die Beschäftigten schlecht behandelt werden
+845360	851560	und streiken und so weiter. Und da gibt es wirklich auch öffentliche Ansagen, dass man mit
+851560	855240	Gewerkschaften nichts zu tun haben will, dass man Betriebsräte ablehnt. Und das ist quasi die
+855240	860800	Haltung. Deswegen entwickelt sich da von Gewerkschaftsseite eine antagonistischere
+860800	868920	Technopolitik, die auf eine partizipativere Mobilisierung abzielt, aber auch von der
+868920	873720	Strategie her konfrontativer ist und eben gar nicht erst quasi da ansetzt, gemeinsam mit den
+873720	879920	Unternehmen irgendwelche Maßnahmen sich auszudenken, sondern eben wirklich die
+879920	887400	Beschäftigteninteressen auch in Gegnerschaft zum Management durchzusetzen. Und das ist in ganz
+887400	895040	Europa hauptsächlich von Basis-Gewerkschaften vertreten gewesen, lange Zeit. Das ist ganz
+895040	900200	interessant. Also bei all diesen Lieferdiensten und so weiter auch im Online-Versandhandel haben
+900200	904920	wir wirklich eine starke Dominanz von sonst wirklich sehr marginalen Basis-Gewerkschaften,
+904920	912520	die oft eine radikalere Gewerkschaftspolitik vorantreiben und auch sonst eine andere Strategie
+912520	918440	verfolgen, stärker auf Medienkampagnen setzen und so weiter. Und dann gibt es einen Entwicklungsschritt,
+918440	923760	wo viele von diesen Basis-Gewerkschaftinitiativen auch Erfolg hatten, also auch viel eben in den
+923760	929160	Medien waren und dadurch stark wahrgenommen wurden. Und infolgedessen haben sich auch einige größere
+929160	935400	Gewerkschaften diesen Feld angenommen, was sie vorher quasi als unorganisierbar verstanden haben.
+935400	943480	Und quasi in dieser Arena sozusagen von Staat, Arbeitgeber, Gewerkschaften und so weiter vollzieht
+943480	950680	sich eben diese Regulation von Technologie. Also da wird ganz viel ausgehandelt, was quasi überhaupt
+950680	957080	erlaubt ist, was nicht. Ein ganz wichtiger Punkt ist der Datenschutz. Das spielt dann auch für die
+957080	961960	weitere Implementierung von algorithmischer Arbeitssteuerung eine große Rolle, dass es eben
+961960	967240	mit der europäischen Datenschutzgrundverordnung, aber auch mit anderen spezifischeren Regulierungen
+967240	975360	sehr starke, sehr enge Grenzen gibt gegenüber dem, was man eigentlich klassischerweise so in der
+975360	980040	kritischen Digitalisierungsforschung verfolgt, nämlich der Überwachung. Also es wird ja dann oft
+980040	986080	vom Überwachungskapitalismus gesprochen oder die Big Brother Szenarien und so weiter quasi
+986560	992720	beschrieben, in denen einzelne Beschäftigte überwacht werden, dann werden die profiliert und dann
+992720	997480	gibt es Repressionen, wenn die irgendwas Unerwünschtes machen und so weiter. Und das ist aber zumindest
+997480	1003160	in Europa aufgrund dieser gesetzlichen Vorgaben nur sehr schwer möglich, weil dem einfach sehr
+1003160	1007840	enge Grenzen gesetzt sind. Und das ist dann wiederum wichtig auch für die Art der Technologien, die
+1007840	1013560	dann implementiert werden. Und da kommen wir dann zur nächsten Arena, nämlich der Implementierungsarena.
+1014040	1020800	Das ist quasi der Bereich der Technopolitik, der sich erstmal in den Betrieben abspielt, wo jetzt
+1020800	1026760	im deutschen Produktionsmodell typischerweise Management und Betriebsrat miteinander verhandeln.
+1026760	1032120	Also ich sage typischerweise nicht, dass das quasi der häufigste Fall ist. Wie wir wissen,
+1032120	1036600	geht auch die Betriebsratsabdeckung immer weiter zurück. Aber das ist quasi das, wie es sich
+1036600	1042640	sozusagen vorgestellt wird. Und in den Unternehmen, die ich untersucht habe, war das auch zumindest
+1042720	1047440	teilweise der Fall, dass quasi diese beiden Parteien sich gegenüberstehen, Management und
+1047440	1052280	Betriebsrat. Und in Deutschland haben die Betriebsräte auch relativ weitgehende
+1052280	1058120	Mitbestimmungsrechte, wenn es um die Implementierung von Technologien geht, die prinzipiell die
+1058120	1064520	Arbeitsorganisation verändern. Und das tun Digitaltechnologien quasi fast immer. Deswegen haben
+1064520	1071400	Betriebsräte da auch einen recht großen Hebel. Und ich nenne jetzt einfach mal ein Beispiel über
+1071480	1076120	so eine Aushandlung. Wir können dann nachher nochmal detaillierter diskutieren, aber jetzt
+1076120	1081960	einfach mal um diese Aushandlungslogik begreiflich zu machen, war bei einem Industrieunternehmen,
+1081960	1087680	das ich untersucht habe, quasi die Frage, was man für Technologien implementiert, um individuelle
+1087680	1094280	Arbeitsschritte und individuelle WerkerInnen effizienter zu steuern. Und da ging es dann
+1094280	1098080	eben vor dem Hintergrund, dass quasi diese klassische Überwachung nicht möglich war,
+1098240	1105480	ging es dann darum, dort Systeme zu implementieren, die quasi fast schon geschlossene Datenkreisläufe
+1105480	1111760	darstellen, also wo quasi aus dem Arbeitsprozess Daten erhoben werden, die dann aber nicht an die
+1111760	1116760	Vorgesetzten geleitet werden, sondern direkt zurückgeleitet werden an die Werker in Form von
+1116760	1122800	unmittelbaren Feedbacks, aufgrund derer dann der Arbeitsprozess optimiert werden soll, meistens
+1122800	1130160	beschleunigt werden soll. Ein Beispiel war da ein sogenannter Smarter Handschuh, der quasi in
+1130160	1136400	allen Fingergliedern so Sensorik hat und dann vibriert, wenn unerwünschte Bewegungen erfolgen.
+1136400	1144080	Das ist was, was der Betriebsrat dann als Fortschritt gegenüber der klassischen Überwachung
+1144080	1151640	begriffen hat, weil da eben quasi nur diese sogenannte Selbstorganisation der Arbeitsoptimierung
+1151640	1156600	dann vorhanden war, also dass quasi die Beschäftigten selbst dafür verantwortlich sind,
+1156600	1163120	die Feedbacks zu befolgen und halt ihre Arbeit effizienter zu gestalten. Das wäre quasi das,
+1163120	1166680	was dann in dieser Implementierungsarena stattfindet und dann haben wir es eben noch
+1166680	1170400	mit dem, was ich auch am Anfang noch betont habe zu tun, nämlich der tatsächlichen Verwendung
+1170400	1174200	von Technologie, die sich oft dann nochmal unterscheidet von dem, was sich Management
+1174200	1179280	oder Betriebsrat so vorstellen. Deswegen ist die dritte Arena die Arena der Aneignung der
+1179280	1185880	Technologie. Da geht es sowohl um kulturelle Bezüge auf die Technologie, die sich quasi in
+1185880	1190560	den Organisationen herausbilden, aber auch um die materielle Nutzung und den Umgang mit
+1190560	1195480	diesen Technologien. Und da gibt es eben tatsächlich überraschend viel Widerstand
+1195480	1200520	gegenüber solchen Kontrolltechnologien, wie auch diesen beschriebenen sogenannten smarten
+1200520	1204840	Handschuh. Das hat mich tatsächlich in der Forschung schon stark überrascht, also das
+1204840	1209840	auch in den Industriebetrieben, die ich untersucht habe, wo man das jetzt vielleicht eher nicht
+1209840	1218040	erwarten würde, sich relativ viel ungehorsam dann geregt hat. Und das hat angefangen quasi
+1218040	1224440	mit einer kulturellen Ablehnung dieser Technologien. Also die wurden quasi regelmäßig verspottet und
+1224440	1231680	quasi als ineffizient oder despotisch dargestellt. Aber es ging auch um eine tatsächliche Umnutzung,
+1231680	1236400	also dass die Technologien quasi entgegen der Implementierungsintention eingesetzt wurden. Oder
+1236400	1241280	es gab auch Sabotageakte, wo dann Technologien tatsächlich einfach im Arbeitsprozess immer wieder
+1241280	1247600	kaputt gegangen sind. Und das war zum Beispiel auch bei der Implementierung dieses Handschuhs der
+1247600	1252600	Fall. Wir erinnern uns, der Betriebsrat hat das durchgebunden, auch durchaus mit arbeitspolitischen
+1252600	1257480	Überlegungen im Hintergrund. Aber unter den Beschäftigten selbst hat das quasi regelrechte
+1257480	1262800	Empörung hervorgerufen, weil die sich gefühlt haben, wie Roboter, die quasi einfach jetzt durch
+1262800	1268920	haptische Feedbacks mechanisch irgendwie eingestellt werden sollen, irgendwelche Dinge zu tun. Und das
+1268920	1274840	läuft quasi dann nicht mal mehr über eine kognitive Auseinandersetzung, sondern quasi wie so, die haben
+1274840	1278400	das immer wie so als Elektroschocks quasi paraphrasiert, wo man dann quasi körperlich
+1278400	1284160	schon so konditioniert wird wie so ein Pavlovscher Hund. Hat für viel Empörung gesorgt und für
+1284160	1288160	verschiedenste Formen von Widerstand, die dann tatsächlich dazu geführt haben, dass dieses ganze
+1288160	1294600	Implementierungsprojekt abgebrochen werden musste und man sich eben davon verabschiedet hat. Und das
+1294600	1299320	ist auch schon gleichzeitig ein Beispiel dafür, dass eben diese verschiedenen Arenen nicht einfach
+1299320	1304760	hermetisch abgeriegelt sind. Also da herrschen verschiedene Aushandlungslogiken, das ja, aber es
+1304760	1310680	bestehen halt Wechselbeziehungen zwischen diesen Arenen. Also hier haben wir eben den Fall, dass
+1310680	1317560	eben das Resultat der Aushandlung in der Aneignungsarena dann zurückwirkt in die
+1317560	1322880	Implementierungsarena und dann quasi zu einem Abbruch dieses Implementierungsvorhabens führt
+1322880	1329280	und zur Adaption von anderen Implementierungsvorhaben. Ja, das ist quasi die Illustration dieses
+1329280	1334720	Analyserahmens, den ich da entwickelt habe. Ja, sehr schön. Den finde ich wirklich durchaus sehr
+1334720	1339240	hilfreich, muss ich sagen. Denn man sieht, finde ich auch, schon eigentlich die andere Richtung
+1339240	1343920	angelegt, weil ja zum Beispiel die von dir angesprochene Datenschutz-Grundverordnung und
+1343920	1351000	die Tatsache, dass man auf Basis dessen eben nicht diese massive Surveillance-Apparatur anlegen kann,
+1351000	1356920	wie sie quasi fantasiert wird, dass das dann eigentlich dazu führt, dass man eben zu
+1356920	1363960	kybernetischen Formen der Selbstdisziplinierung eigentlich dann zugreift. Ja, also dass das
+1363960	1368560	eigentlich dann ja diese Arena der Regulierung wiederum dann ja auch eine andere Form der
+1368560	1374760	Implementierung nach sich zieht, was wiederum dann andere Formen der Aneignung, der subversiven
+1374760	1380120	Aneignung oder des Ablehnens und so weiter eigentlich nach sich zieht. Also das ist alles
+1380120	1385400	sehr schön nachzuverfolgen und du hast das jetzt eigentlich an mehreren Stellen, finde ich, schon
+1385400	1391320	durchscheinen lassen. Ein weiterer für dich sehr, sehr zentraler und wichtiger Punkt, den du in
+1391320	1397960	deinem Buch untersuchst, ist das, was du kybernetische Proletarisierung nennst. Das kybernetische hast du
+1397960	1403120	jetzt schon ein paar Mal eben gesagt durchklingen lassen, aber was verstehst du unter kybernetischer
+1403120	1411720	Proletarisierung? Da muss ich ein bisschen ausholen, weil sich das abgrenzt von anderen Prognosen zur
+1411720	1418160	Zukunft der Arbeit und zur Einschätzung von technologischer Veränderung, insbesondere zu
+1418160	1422960	diesem Automatisierungshype, den wir in den letzten Jahren irgendwie sowohl medial als auch
+1422960	1429200	in den Wissenschaften beobachten konnten. Es gab verschiedene Studien, die modellbasiert
+1429200	1436560	vorausberechnet haben, dass demnächst irgendwie die Hälfte oder ein Drittel oder wie auch immer,
+1436560	1441480	es wurde dann immer eine sehr spezifische Zahl von Jobs angegeben, die dann in naher Zukunft
+1441480	1447000	völlig obsolet werden und dann haben wir es mit technologischer Arbeitslosigkeit zu tun und so
+1447000	1452840	weiter. Das ist so ein Zukunftsszenario, was irgendwie wirklich ganz viel diskutiert wurde
+1452840	1459360	und wir haben gerade bei der Corona-Pandemie jetzt auch eine Neuauflage dessen, wo auch mit
+1459360	1466160	ähnlichen Methoden berechnet wird, wie viele Jobs in Zukunft wegfallen werden. Auch hier haben wir
+1466160	1473840	es mit wirklich extrem technikdeterministischen Annahmen zu tun. Also es gibt zum Beispiel eine
+1473840	1481320	recht viel zitierte Studie, die einfach so vorgegangen ist, dass man sich anschaut, welche Jobs
+1481320	1486520	einerseits Routineaufgaben beinhalten, weil man Routineaufgaben für leichter automatisierbar
+1486520	1493440	hält und andererseits aber die nahe körperliche Co-Präsenz beinhaltet und damit ein hohes
+1493440	1500080	Infektionsrisiko bieten. Und das hat man quasi zusammengerechnet und dann extrapoliert und
+1500080	1505280	daraus einfach berechnet, wie viele Jobs in Zukunft automatisiert werden, einfach weil das
+1505280	1511560	technisch und quasi epidemiologisch Sinn macht. Und das sind aber wirklich Methoden, die mir fast
+1511560	1518160	schon auf abstruse Weise technikdeterministisch erscheinen, weil natürlich klarerweise am Ende
+1518160	1525120	nicht darüber entscheidet, welche Technologie implementiert wird. Die Fragen, ob das technisch
+1525120	1529480	machbar ist oder ob das irgendwie epidemiologisch Sinn macht, sondern einzig und allein ob das
+1529480	1534440	profitabel ist oder nicht. Also es gibt immer wieder Ausnahmen, insbesondere wenn es irgendwelche
+1534440	1540600	spezifischen Regulationen gibt, aber das ist die generelle Implementierungslogik, der gefolgt wird.
+1540600	1549080	Und das ist auch der Grund, warum eben die ökonomische Empirie tatsächlich diesen Zuwachs
+1549080	1554280	an Automatisierung überhaupt nicht hergibt, im Gegenteil. Wir können empirisch beobachten,
+1554280	1561040	dass seit der sogenannten Ölkrise Mitte der 70er Jahre wir es zu tun haben mit einem Rückgang
+1561040	1567360	der Investitionsquoten. Das heißt also, die Profite, die gemacht werden in Unternehmen,
+1567360	1573000	werden immer weniger in den Ausbau von Produktionsinfrastrukturen rückinvestiert,
+1573000	1579120	sondern immer weiter quasi aus den Unternehmen rausgezogen. Natürlich ist dann die Frage,
+1579120	1583120	was passiert mit dem Geld oder mit dem Kapital dann, weil wenn man es einfach nur quasi aus
+1583160	1587800	der Verwertung rauszieht, vermehrt es sich ja nicht mehr, dann hat man ein Problem. Und die Antwort
+1587800	1596640	darauf war dann insbesondere in den 90er Jahren, aber quasi in diesem gesamten Prozess seit der
+1596640	1601160	Mitte der 70er in zunehmender Weise die Finanzalisierung, dass das Geld aus den Unternehmen
+1601160	1608160	abgezogen wurde und stattdessen in Finanzmärkte gesteckt wurde, wo man eben sich profitablere
+1608160	1616760	Gewinne versprochen hat und eben vor allem quasi das Kapital nicht langfristig fixiert war in
+1616760	1624680	Stellen, wo man nicht sicher sein konnte, ob es wirklich dauerhaft Profite abwirft, weil man
+1624680	1631400	zum Beispiel angesichts von global sinkenden Lohnquoten und so weiter immer weiter unsicher
+1631400	1637640	darüber war, ob die Industrieprodukte und so weiter überhaupt in Zukunft noch Abnehmer finden.
+1637760	1642040	Selbst wenn quasi die gegenwärtigen Gewinne hoch sind, war man dabei immer im Zweifeln.
+1642040	1646560	So wir haben es also zu tun mit einer Situation der Finanzalisierung. Kapital wird aus den
+1646560	1651120	Unternehmen abgezogen und in die Finanzmärkte gesteckt. Und das ist natürlich über ein
+1651120	1658320	Problem, weil dann die Unternehmen ihrerseits quasi in einem Profitabilitätsdilemma sind. Wenn
+1658320	1661640	die Produktionsinfrastruktur veraltet und so weiter, dann kann man auch dort die
+1661640	1666960	Profitabilität nicht steigern, dann gibt es kein Wachstum, was ja bekanntlich aber sein muss in
+1667360	1671160	kapitalistischen Unternehmen. Deswegen kann man das so nicht stehen lassen. Das ist quasi
+1671160	1679040	eine krisenhafte Entwicklung für Produktionsunternehmen. Und meine These ist jetzt,
+1679040	1687000	dass man eben anstatt einer Investition in materielle Produktionsinfrastruktur und zum
+1687000	1694480	Beispiel avancierte Robotik einen Trend hat zur Investition in eben Software und insbesondere
+1694480	1700560	algorithmische Arbeitssteuerung. Das kann man auch an ökonomischen Daten ganz schön ablesen.
+1700560	1706680	Also wir haben es generell mit einem Absinken der Investitionsquoten zu tun. Aber innerhalb
+1706680	1712360	dieser Investitionsquoten kann man ganz schön nachvollziehen, dass das sogenannte immaterielle
+1712360	1718400	Kapital, das wird auch als Intangibles bezeichnet, immer weiter an Bedeutung zunimmt. Da fallen
+1718400	1721840	verschiedene Dinge darunter, unter anderem auch Patente und so weiter. Aber ein ganz großer
+1721880	1727720	Anteil ist eben Software und Organisationsinnovationen, sowas wie Lean Production und
+1727720	1735560	so weiter. Das ist quasi, was unter diesen sogenannten Intangible Assets quasi subsumiert
+1735560	1741160	wird. Und wir haben es mit einem kontinuierlichen Bedeutungszugewinn zu tun. Und seit der
+1741160	1748320	Finanzkrise ist es sogar so, dass in den USA und in der EU der Anteil des immateriellen Kapitals
+1748320	1755880	denjenigen des materiellen übersteigt. Also das heißt, die Quote hat das materielle Kapital
+1755880	1761880	überholt und der Abstand wird immer größer. Jetzt, was bedeutet das für die Arbeit? Das ist ja
+1761880	1769440	das, was für unseren Kontext jetzt von besonderem Interesse ist und für die Technologie. Da kann
+1769440	1778280	man eben sehen, dass diese Idee der vollautomatisierten Fabriken quasi fast nie realisiert wird. Und
+1778280	1786080	wenn dann nur in irgendwelchen Pilotprojekten, die dann quasi zum Vorzeigen hauptsächlich da
+1786080	1791080	sind. Aber was sozusagen in der Masse passiert, ist fast schon das Gegenteil von dieser
+1791080	1796800	Vollautomatisierung und einer entsprechenden technologischen Arbeitslosigkeit. Nämlich das
+1796800	1804680	Entstehen von neuen, extrem arbeitsintensiven Branchen, die tatsächlich ausschließlich dadurch
+1804680	1808320	möglich sind, dass es eben diese algorithmische Arbeitssteuerung gibt. Ohne die algorithmische
+1808320	1814440	Arbeitssteuerung wären die so überhaupt nicht möglich. Beispiele dafür sind die schon
+1814440	1821600	angesprochenen Lieferdienste, die so funktionieren, dass Kuriere, ohne jemals ihre Vorgesetzten getroffen
+1821600	1827240	zu haben, per App quasi durch die Städte gesteuert werden. Teilweise sitzt das Management sogar auf
+1827240	1832240	einem anderen Kontinent. Das ist was, was überhaupt nicht möglich wäre, ohne eine algorithmische
+1832240	1838600	Arbeitssteuerung. Aber auch die Tätigkeit in der Logistik zu einem ganz großen Teil, also sowohl
+1838600	1846640	von Intralogistik in großen Warenlagern, als auch von klassischer Logistik im Warentransport beruht
+1846640	1852520	heutzutage fast immer darauf, dass diese Personen ferngesteuert werden algorithmisch. Und das sind
+1852520	1859040	aber Tätigkeiten, die eben wirklich überhaupt nicht irgendwie diesen Produktivitätsgrad von
+1859920	1866800	einem Industriearbeiter aufweisen, der mit extremen komplexen Robotern arbeitet, sondern die quasi,
+1866800	1871840	wenn man das jetzt technisch sieht, einen extremen Produktivitätsrückschritt darstellen. Also es
+1871840	1875680	geht um Fahrradkuriere, die quasi allein mit ihrer Muskelkraft irgendwelche Dinge durch die Stadt
+1875680	1882560	bewegen. Also es ist sogar gegenüber dem Pizzalieferanten auf dem Moped quasi einen
+1882560	1888560	Produktivitätsrückschritt. Und wir haben es eben hier mit wirklich ganz klassischer körperlicher
+1888560	1896160	Arbeit zu tun und extrem viel davon. So viel, dass oft schon die Arbeitsmärkte rund um diese
+1896160	1900760	Unternehmen quasi abgegrast sind, zumindest in diesem Niedriglohnsektor, der quasi dafür
+1900760	1906640	relevant ist. Und die Unternehmen sich immer neue Sachen einfallen lassen, um weiter an billige
+1906640	1912880	Arbeitskraft zu kommen. Und da kommt eben jetzt auch nochmal die algorithmische Arbeitssteuerung
+1912880	1918760	ins Spiel, weil das, was ich als kybernetische Proletarisierung beschrieben habe, quasi da in
+1918760	1928960	Zyklen zu einer Abwertung von Arbeit beiträgt und damit wiederum quasi die weitere Reintegration von
+1928960	1935200	menschlicher Arbeit in die Produktionsprozesse zu einer attraktiven Alternative zur Automatisierung
+1935200	1941600	macht. Und die erste Phase davon, die quasi mit der algorithmischen Arbeitssteuerung zu tun hat,
+1941600	1947840	kann als dequalifizierte Flexibilisierung beschrieben werden. Also wir haben es bei
+1947840	1957480	diesen Technologien meistens mit Formen von Arbeitsanweisungen zu tun, die quasi extrem
+1957480	1964080	detailliert und simpel sind. Also zum Beispiel in dem Industrieunternehmen, wo ich gearbeitet
+1964080	1969880	habe an der Montagelinie, da werden schon recht komplexe Geräte hergestellt. Und ich habe selbst
+1970200	1975000	keine Erfahrungen in der Industriearbeit und wurde dann an so eine Montagelinie gesetzt und
+1975000	1981960	sollte Dinge zusammenbauen, für die davor Facharbeiterinnen angestellt waren. Und das
+1981960	1987040	sollte ermöglicht werden durch die algorithmische Arbeitssteuerung, in dem Fall durch ein Display,
+1987040	1993880	was mit Bildern und auch ein bisschen Text jeden Arbeitsschritt extrem detailliert illustriert.
+1993880	1998760	Und jedes Mal, wenn man das dann gemacht hat, muss man auf Bestätigen klicken, dass man das gemacht
+1998760	2005000	hat, sodass quasi auch da wenig Abweichungspotenzial besteht, sondern das auch kontrolliert werden kann.
+2005000	2010600	Das ist natürlich eine Dequalifizierung, kann man sich ja vorstellen, wenn jetzt quasi der
+2010600	2017200	Facharbeiter gar nicht mehr notwendig ist, um diese Sachen zu bauen, dann ist natürlich
+2017200	2021360	es attraktiver, ungelernte Arbeitskräfte einzustellen, die natürlich viel billiger sind.
+2021360	2028520	Es bleibt aber nicht einfach bei dieser reinen Dequalifizierung, die quasi schon die klassische
+2028520	2034640	Diagnose in der Industriesozialogie ist zur Rationalisierung von Industriearbeit, sondern was
+2034640	2039240	eben die algorithmische Arbeitssteuerung erlaubt, ist eben vor allem eine Flexibilisierung. Das heißt,
+2039240	2049080	die Produkte, die da hergestellt werden, können extrem schnell ausgetauscht werden. Also man kann
+2049080	2055960	quasi heute das eine Produkt herstellen und morgen das andere, ohne den Leuten ganz kompliziert
+2055960	2059520	erklären zu müssen, was sie jetzt machen müssen, was für Arbeitsprozesse sie jetzt haben und so
+2059520	2064200	weiter. Das wäre quasi ohne algorithmische Arbeitssteuerung völlig unökonomisch und durch
+2064200	2070280	die algorithmische Arbeitssteuerung ist das eben jetzt sinnvoll machbar, dass man sehr schnell auf
+2070280	2075800	Marktschwankungen realisiert, dass man kleinere Losgrößen produzieren kann, weil man eben die
+2075800	2081520	Beschäftigten ganz schnell quasi in andere Arbeitsprozesse einsetzen kann. Man kann sie auch
+2081520	2087680	einfacher quasi im Unternehmen verschieben, einfach wenn irgendwo quasi Personalmangel ist,
+2087680	2090720	können die Leute einfach verschoben werden. Das ist auch in den Unternehmen passiert,
+2090720	2097840	die ich untersucht habe. Und man kann auch quasi einfacher externe Arbeitskraft dazu buchen,
+2097840	2105240	die quasi dann von externen, oft prekär Beschäftigten durch algorithmische
+2105240	2110560	Arbeitssteuerung ermöglicht wird. Also das ist das, was ich als dequalifizierte Flexibilisierung
+2110560	2116320	geschrieben habe. Dann haben wir es mit einer kybernetischen Verdichtung von Arbeit zu tun. Das
+2116320	2122920	habe ich schon jetzt an verschiedenen Beispielen kurz erwähnt. Das sind diese Feedback-Schleifen,
+2122920	2128200	wie dieser Handschuh, aber auch das Display, was ich gerade erwähnt habe. Das ist nämlich nicht
+2128200	2134080	nur dazu da, genau zu erklären, was ich machen soll, sondern jeder Arbeitsschritt wird auch auf
+2134080	2139840	die Zehntelsekunde getrackt, wie schnell das geht, wie man den erledigt hat. Und dann war es so,
+2139840	2145080	dass ich habe dann zum Beispiel einmal einen Teil nicht gefunden, was ich verbauen sollte,
+2145080	2148960	und dadurch ist meine Bearbeitungszeit sehr gestiegen. Und dann sagt das System sofort,
+2148960	2154680	du bist unterhalb deiner Durchschnittsgeschwindigkeit, bekommt man dann angezeigt. Und
+2154680	2159000	wohlgemerkt eben nicht der Vorgesetzte, der davor durch die Fabrik patrouilliert ist, sondern ich
+2159000	2164480	selbst. Und dann sollte ich aufgrund dessen mich selbst anpassen und wieder schneller arbeiten. Das
+2164480	2170400	ist die Logik. Und da geht es quasi immer darum, dass eben sogenannte Todzeiten eliminiert werden
+2170400	2177040	und die Arbeit verdichtet wird. In einem anderen Fall, in einem Industrieunternehmen klingt das
+2177040	2184000	sogar so weit, dass eine automatisierte Produktionsanlage insoweit digitalisiert wurde,
+2184000	2189320	dass sie den Auslastungsgrad der menschlichen Arbeit gemessen hat. Und wenn diese Auslastung
+2189320	2195760	unter 80 Prozent fiel, hat die Maschine quasi den menschlichen Arbeitskräften automatisch weitere
+2195760	2202720	Tätigkeiten zugewiesen. Also hier auch wirklich eine Arbeitsverdichtung im sehr wortwörtlichen
+2202720	2212280	Sinn. Dann die nächste Phase der kybernetischen Proletarisierung wäre dann, dass auf Grundlage
+2212280	2217440	dieser ganzen Daten, die in diesen beiden vorhergehenden Prozessen erhoben werden,
+2217440	2224240	teilweise, das Ausmaß ist davon noch nicht so ganz abschätzbar, aber teilweise dann eben
+2224240	2232040	automatisierte Systeme implementiert werden, die auf der Datengrundlage der Beschäftigten
+2232040	2237480	quasi programmiert werden und dann deren Aufgaben übernehmen. Zum Beispiel in einem Unternehmen war
+2237480	2245600	es so, dass die Intralogistiker quasi getrackt wurden, deren Wege durch die Fabrik und auf
+2245600	2251160	Grundlage dieser Daten danach eine KI programmiert wurde, die selbstfahrende Systeme quasi ermöglicht
+2251160	2258200	hat. Und der Clou dabei ist, das bedeutet, dass die Beschäftigten ja quasi an ihrer eigenen
+2258200	2265680	Überflüssigmachung teilhaben. Also Teil der Aufgabe der Beschäftigten, wenn man so will, des
+2265680	2270520	kybernetischen Proletariats ist es, sich selbst überflüssig zu machen. Zum Beispiel eben die
+2270520	2275680	Facharbeiter in dieser Fabrik, die ich vorher angesprochen habe, die wurden selbst angewiesen,
+2275680	2281920	diese Bauanleitungen eben zu programmieren und einzupflegen quasi in diese Arbeitssteuerungssysteme.
+2281920	2292160	Und so sind sie quasi Teil dieses Verdrängungsprozesses von Arbeit. Und während diese
+2292160	2298600	drei Phasen der kybernetischen Proletarisierung eben auf die qualitative und quantitative
+2298680	2303880	Verdrängung von menschlicher Arbeit aus dem Produktionsprozess abzielen, geht es dann eben
+2303880	2310240	immer wieder darum, neue Arbeit und eben wichtigerweise abgewertete Arbeit wieder in
+2310240	2317840	die Produktionsprozesse zu integrieren, indem man eben neue Dinge einführt, wie zum Beispiel
+2317840	2323000	eben diese Lieferdienste und so weiter, die dann wieder viel Arbeit brauchen, aber billiger sind
+2323000	2328800	eben als Dinge, die man mit extrem teuren Produktionsinfrastrukturen herstellen muss.
+2328800	2334680	Wir haben es also zu tun mit einem Prozess, der nicht nur eine Verlagerung von Arbeit darstellt,
+2334680	2341600	sondern immer eine Abwertung von Arbeit. Also das ist jetzt vielleicht etwas kontrovers auch
+2341600	2348600	innerhalb der arbeitssoziologischen Debatte, aber zumindest in den Prozessen, die ich untersucht
+2348600	2355120	habe, wo es eben um relativ einfache manuelle Arbeit geht, ist es nicht einfach irgendwie eine
+2355120	2360480	Verlagerung und upskilligen, sondern man hat es quasi mit einem Prozess zu tun, der explizit
+2360480	2366920	darauf abzielt, teure Arbeit durch billigere Arbeit zu ersetzen. Und ich habe da schon angedeutet,
+2366920	2371640	dass das oft dann an Grenzen der Arbeitsmärkte stößt, dass dann oft einfach sich keine Menschen
+2371640	2378560	mehr finden, die billig sind, eben diese Dinge zu tun für den Lohn, der dafür in Aussicht steht.
+2378560	2385040	Und deswegen ist ein wichtiges strategisches Ziel, was viele ManagerInnen, mit denen ich gesprochen
+2385040	2392080	habe, formulieren, auch explizit, ist, migrantische ArbeiterInnen stärker einzubinden. Und zwar
+2392080	2398800	explizit durch diese algorithmische Arbeitssteuerung, weil nämlich diese Systeme quasi sehr simpel
+2398800	2402440	einfach sprachlich konfigurierbar sind. Das heißt, die Leute müssen kein Deutsch mehr sprechen,
+2402440	2408240	sondern man kann das quasi auf prinzipiell jede beliebige Sprache programmieren oder
+2408240	2414400	sogar in einem noch extremeren Schritt einfach nur noch mit Bildelementen darstellen. Also das
+2414400	2418760	gab es auch in den Fällen, die ich untersucht habe, dass es quasi nur noch per Piktogramm quasi
+2418760	2426920	diese Steuerung stattgefunden hat. Und das führt dazu, dass in vielen dieser Unternehmen, wo eben
+2426920	2431840	diese kypanetische Proletarisierung weit vorangeschritten ist, eben ein extrem hoher
+2431840	2437760	Anteil von Migrantinnen arbeitet. Also in einem der Warenlager, die ich untersucht habe, waren das
+2437760	2445000	70 Prozent, wurden mir zumindest gesagt. Und im Extremfall sind das auch noch Geflüchtete,
+2445000	2452160	die quasi noch einen prekären Aufenthaltsstatus haben, wo zum Beispiel in manchen Fällen sogar
+2452160	2458160	der Aufenthaltsstatus an die Arbeit gekoppelt ist. Das heißt also der Anreiz, sich eben auch an diese
+2458160	2462800	ganzen Kontrolleinstrumente zu halten und quasi die Selbstoptimierungsimperative zu befolgen,
+2462800	2470560	ist da natürlich wesentlich höher. Was bedeutet, dass die Migrationsregulation und dass dieses
+2470560	2475120	kypanetische Kontrollregime quasi ineinandergreifen und es eben nicht einfach nur ein technischer
+2475120	2480480	Prozess ist, sondern das sind Prozesse, die eben wirklich ganz viele verschiedene politische
+2480480	2489600	Arenen und Aushandlungsprozesse miteinander verknüpfen. Ja, das war jetzt die lange Version
+2489600	2493640	der kypanetischen Proletarisierung. Ich hoffe, dass das so einigermaßen nachvollziehbar war.
+2493640	2498080	Ich glaube schon. Ich finde, das ist sehr gut nachvollziehbar und unglaublich spannend,
+2498080	2502600	muss ich sagen. Es ist aber nicht nur spannend, sondern es ist auch ein bisschen ernüchternd. Und
+2502600	2512680	ich muss sagen, dass du ja in dem Buch eben als ein Ziel verfolgst, auszuweisen, dass es eben nicht
+2512680	2519600	diese Formen des Durchregierens gibt, wo quasi irgendeine manageriale Fantasie dann eins zu eins
+2519600	2523720	quasi umgesetzt werden kann im Betrieb und so weiter. Und dass du ausweisen willst, es gibt
+2523720	2529840	dort Handlungsspielraum, es gibt dort eben der Politisierung der Technologie und das teile ich
+2529840	2535280	natürlich vollkommen, gerade diese Frage der Politisierung von Technologien. Gleichzeitig ist
+2535280	2541960	es so, dass immer wieder im Buch, wenn du dann so kleine Beispiele gibst dafür, wie solche Formen
+2541960	2549480	der Aneignung denn aussehen können, ich immer wieder mal auch so leicht ernüchternd denken musste,
+2549480	2558560	naja, okay, das ist jetzt also nicht nur defensiv, sondern so klein als erkämpftes,
+2558720	2564200	ein Moment des Verschnaufens innerhalb einer algorithmisch getakteten Selbstdisziplinierung.
+2564200	2569880	Also das ist dann sozusagen quasi schon etwas, was erkämpft worden ist, was du auf der einen
+2569880	2575960	Seite natürlich richtigerweise ausweist als sozusagen ein Ort der Divianz. Gleichzeitig ist
+2575960	2582040	es aber ebenso verschwindend gering, der Spielraum, der da aufgezeigt wird, dass man so denkt, oh mein
+2582040	2589360	Gott, das ist jetzt sozusagen noch nicht der große Wurf, sag ich mal, das gilt quasi zum einen für
+2589360	2595000	solche Momente des Verschnaufens, aber auch zum Beispiel für den Humor, den du immer mal wieder
+2595000	2600240	quasi ausweist, auch als eine Form des subversiven Umgangs mit der eigenen Situation innerhalb der
+2600240	2606000	Betriebe. Also ich hatte beim Lesen des Buches auf der einen Seite eben diese Momente, wo ich
+2606000	2614160	dachte, okay, puh, das ist sozusagen jetzt eben sehr stark defensiv und noch nicht hoffnungsvoll
+2614160	2618640	stimmend, sag ich mal. Auf der anderen Seite hast du auch ganz vehement darauf hingewiesen,
+2618640	2626720	dass diese enge Verzahnung, die du ja schon angesprochen hast, dieses ganz eng getaktete,
+2626720	2633840	die Lean Production und so weiter, dass das eigentlich auch wieder andere Verwundbarkeiten
+2634000	2640720	auf Seiten der Technopolitik von oben eigentlich mit sich bringt und damit natürlich auch wieder
+2640720	2646440	Machtchancen auf Seiten der Beschäftigten. Vielleicht könntest du uns da noch mal ein
+2646440	2652720	Beispiel geben für solche Achilles-Fersen der Technopolitik von oben. Du nennst es ein
+2652720	2657760	Schimmer der Möglichkeit eines Kristallationspunktes neuer Klassenkonflikte. Vielleicht könntest du
+2657760	2662320	uns dafür ein Beispiel geben und auch ein bisschen darauf eingehen, was es bräuchte,
+2662320	2668760	um diese Macht wirklich effektiv nutzen zu können. Ja, also du hast natürlich recht. Vieles von dem,
+2668760	2675200	was ich beschreibe, ist wirklich auf einer stark mikroorientierten Ebene angesiedelt,
+2675200	2680560	aber ich würde gerne noch mal erklären, warum mir das richtig erscheint. Also einerseits ist es
+2680560	2685920	einfach wichtig, überhaupt festzustellen, dass eben diese Digitalisierungsvorhaben Konflikte
+2685920	2690880	verursachen. Das ist einfach in einem Großteil der Forschung überhaupt nicht abgebildet. Also
+2690880	2694240	oft wird anerkannt, dass das zum Nachteil der Beschäftigten ist, dass es Überwachung gibt,
+2694240	2699080	Arbeitsverdichtung etc. Aber oft erscheinen eben die Beschäftigten als passive Opfer dessen und
+2699080	2703680	werden quasi als strategische Akteure gar nicht in Betracht gezogen. Und das ist das, was ich
+2703680	2710000	versuche zu betonen. Und dann ist es aber auch wichtig zu sehen, dass eben die großen Konflikte
+2710000	2715080	und so weiter und die kollektive Handlungsfähigkeit nicht einfach aus dem Nichts vom Himmel fallen,
+2715080	2720360	sondern dass die Voraussetzungen haben. Und das ist das, was ich versucht habe nachzuzeichnen,
+2720360	2726640	insbesondere auch, indem ich eben angeschaut habe, wie eigentlich die Organisationskulturen in den
+2726640	2730880	Betrieben aussehen. Also ich habe das dann als Technokulturen bezeichnet, also quasi diejenigen
+2730880	2738480	kulturellen Äußerungen, die sich eben auf die Technologie im Arbeitsprozess beziehen. Und da
+2738480	2744520	ist es eben wichtig, dass die Interpretationen und diese geradezu euphorischen Zuschreibungen,
+2744520	2749960	die vom Management kommen und die ja auch wirklich mit sehr großem Nachdruck und auch
+2749960	2754080	mit viel Geld, was da rein investiert wird, vertreten werden und diese ganzen Blitzerfassaden,
+2754080	2759480	dass die eben in den allermeisten Fällen völlig anders bei den Beschäftigten ankommen. Also das
+2759480	2764240	ist quasi nie so, dass das einfach ungebrochen übernommen und geglaubt wird, sondern in allen
+2764240	2770320	Fällen ist den Beschäftigten, die ich untersucht habe, klar gewesen, dass es sich um Kontrolltechnologien
+2770960	2776640	handelt und dass das oft zu ihrem Nachteil ist, was da passiert und dass es eben nicht einfach nur
+2776640	2782880	um Selbstorganisierung und Autonomie geht und so weiter. Und das ist eben auch was, also auch für
+2782880	2788000	mich persönlich im Forschungsprozess war das wichtig, weil ich eben reingegangen bin mit so
+2788000	2793960	einer, ja, an Foucault geschulten Perspektive. Ich habe davor auch so Self-Tracking im privaten
+2793960	2801040	Bereich untersucht, wo quasi Personen ihre private Lebensführung irgendwie auf Grundlage von digitalen
+2801040	2805760	Daten optimieren und das ist quasi so, als hätte Foucault das selbst erfunden. Und dann bin ich
+2805760	2812440	damit mit diesem Wissen quasi in die Betriebe gegangen und hatte eigentlich vor, zu untersuchen,
+2812440	2818320	wie sich diese Selbstoptimierung dort vollzieht und war dann eben doch recht überrascht, dass
+2818320	2825600	eben gerade nicht so eine Subjektivierung in Form von einem Selbstunternehmertum der Normalfall
+2825600	2830680	ist, sondern dass eben zu einem extrem starken Bruch kommt zwischen den Interpretationen und das
+2830680	2838040	scheint mir doch sehr wichtig zu sein, ja, auch in der Debatte darum. Und weil du nach konkreten
+2838040	2848000	Beispielen gefragt hast. Eine Sache, die sich konkret im Arbeitsprozess manifestiert ist,
+2848000	2854120	dass diese kybernetische Kontrolle, die ich beschrieben habe, natürlich auch viele Lücken
+2854120	2860360	lässt, ja, also die zielt darauf ab, dass das mittlere Management automatisiert wird. In der
+2860360	2864400	einen Fabrik, die ich untersucht habe, die ich schon erwähnt habe, wo quasi die Maschinen gebaut
+2864400	2870120	wurden, war es konkret so, dass während meiner teilnehmenden Beobachtung eine Management-Ebene
+2870120	2874320	wegrationalisiert wurde und durch so ein algorithmisches Arbeitssteuerungssystem ersetzt
+2874320	2880920	wurde. Und das hat natürlich Effekte, weil das heißt, dass du keinen Vorgesetzten mehr hast,
+2880920	2885400	der beobachtet, was du machst. Das heißt jetzt nicht, dass dann irgendwie die große
+2885400	2890880	Autonomie herrscht, weil natürlich dieser Selbstoptimierungsimperativ, obwohl er oft
+2890880	2896520	gebrochen wird, aber immer noch da ist und das durchaus teilweise zu Atomisierung auch führt,
+2896520	2900800	wenn man quasi keine Konfrontation mit einem Vorgesetzten hat, sondern dass sich quasi irgendwie
+2900800	2907720	als ein objektiver technischer Prozess darstellt. Aber es führt eben auch zu neuen Spielräumen. Und
+2907720	2911920	zum Beispiel dazu, dass die Menschen viel mehr kommunizieren können bei der Arbeit. Also in
+2911920	2917720	dieser einen Fabrik war das zum Beispiel verboten zu sprechen während der Arbeit. Und das wurde
+2917720	2921400	immer gemacht, auch schon während der menschliche Vorgesetzte durch die Reihen patrouilliert ist.
+2921400	2924760	Aber man muss es dann kurz unterbrechen, wenn der halt da war und dann konnte man immer nur
+2924760	2931400	kleine Gespräche führen. Und als der weg war, wurde das leichter. Noch zugespitzt da ist das
+2931400	2936200	bei den Fahrradkurieren. Die haben ja quasi nie Kontakt zu ihren menschlichen Vorgesetzten und
+2936200	2941280	werden nur durch ihre Apps gesteuert. Und da hatte das unter anderem auch den Effekt, dass die sich
+2941280	2947040	quasi während ihrer Arbeit, wenn sie gerade keinen Auftrag hatten, zusammengesetzt haben an
+2947040	2952960	bestimmten Punkten, die von der App quasi angelegt wurden, dass sie dort hingehen sollen, wenn sie
+2952960	2956840	gerade keinen Auftrag haben und dann dort die Arbeitszeit selbst dazu genutzt haben, sich zu
+2956840	2962480	organisieren und auszutauschen. Und das ist eben was, was zeigt, es geht hier eben nicht einfach nur
+2962480	2967480	um eine Atomisierung und lückenlose Kontrolle, sondern es entstehen hier neue Möglichkeitenräume,
+2967480	2973520	die so in einem Unternehmen, was sonst mit menschlichen Vorgesetzten operiert und eben auf
+2973520	2979160	eine starke Co-Präsenz von der Management-Ebene und der Ausführungsebene angelegt ist, was da nicht
+2979160	2985240	der Fall ist. Und normalerweise müsste man sich eben außerhalb der Arbeitszeit treffen, irgendwie
+2985240	2989880	schon eine Basisgruppe haben, mit der man dann ähnliche Arbeitsprobleme bespricht, eine Gewerkschaft
+2989880	2994000	und so weiter. Und hier ist eben die Möglichkeit quasi einfach während der Arbeit, sich ohne
+2994000	2999240	Hemmungen auszukotzen und sich zu organisieren. Das halte ich für wichtig, auch wenn es oft
+2999280	3007320	irgendwie ganz klein scheint. Und konkret sieht man ja auch, dass sich in diesen Branchen, wo
+3007320	3012680	diese kybernetische Proletarisierung besonders weit fortgeschritten ist, in dieser sogenannten
+3012680	3018640	digitalen Ökonomie oder Plattformökonomie, die Konflikte häufen. Also es ist ja nicht so, dass
+3018640	3024160	da einfach nur quasi alle atomisiert vor sich hinarbeiten, sondern es gibt schon auch
+3024160	3029760	quantitative Untersuchungen, die wirklich zum Beispiel anhand der an Streiks verlorenen
+3029760	3035880	Arbeitstage ganz klar zeigen können, dass die Konfliktintensität in diesen Branchen viel höher
+3035880	3042720	ist als in den sogenannten analogen Branchen. Das heißt, da tut sich wirklich was. Und mir
+3042720	3047800	scheint das auch damit zu tun zu haben, dass die technologische Organisation der Arbeit selbst
+3047800	3056040	eben ein sehr großes Konfliktpotenzial in sich birgt. Nochmal ein Beispiel für eine größer
+3056040	3062680	angelegte Offensive, die so eine Verwundbarkeit auch von digitalen Infrastrukturen ausgenutzt hat,
+3062680	3073000	ist ein Streik bei Audi in Ungarn, in dem Motorenwerk dort, wo eben nur ein Teil quasi
+3073000	3081600	der Autos hergestellt wird. Und da haben die Beschäftigten gestreikt. Und aufgrund der digitalen
+3081600	3088720	Rationalisierung der Lieferketten hat man eben davor eine extreme Verdichtung der Lieferketten
+3088720	3093560	gehabt. Das heißt, alle Puffer wurden eliminiert. Man hatte davor ja schon die sogenannte Bean
+3093560	3099120	Production, wo das auch schon Programm war. Aber durch die digitale Analyse dieser Lieferprozesse
+3099120	3104360	ist es quasi noch um ein Vielfaches gesteigert worden. Und das hat dazu geführt, dass quasi
+3104360	3111240	sofort, als die in Streik gegangen sind, in einem Großteil der Autoindustrie in Zentraleuropa quasi
+3111240	3117160	die Werke stillstanden. Sofort. Und das hat dann dazu geführt, dass die Beschäftigten in dem Werk,
+3117160	3122280	wo sie gestreikt haben, innerhalb von kürzester Zeit, innerhalb von einer Woche war das, glaube
+3122280	3128480	ich, 18 Prozent Lohnerhöhung durchsetzen konnten und noch einige andere Dinge. Also da sieht man
+3128480	3135600	quasi, dass diese Infrastrukturen durchaus verwundbar sind und eben diese Effizienzgewinne
+3135600	3144480	durchaus auch eben mit Kosten einhergehen können, wenn sie eben auf entsprechende Weise lahmgelegt
+3144480	3151480	werden. Das heißt aber nicht, dass ich behaupten will, dass quasi allein schon die reine Existenz
+3151960	3158960	von solchen Nadelöhern und so weiter jetzt dazu führt, dass das quasi die Beschäftigten macht,
+3158960	3165880	unendlich steigt und man quasi alles durchsetzen könnte. Sondern die Basis ist eben immer die
+3165880	3172520	Organisierung der Beschäftigten und der Wille, überhaupt so was zu machen. Das ist ja schon
+3172520	3178080	ein drastischer Schritt auch. Und dazu ist es eben wichtig, auch diese Mikroprozesse und eben die
+3178080	3182760	Fragen von Solidarisierung im Arbeitsprozess und so weiter untersuchen zu können, weil das eben
+3182760	3187240	nicht einfach nur technische Potenziale sind, also weder auf der Managementseite noch auf der Seite
+3187240	3191560	der Beschäftigten, sondern das sind eben soziale Aushandlungen. Das ist mir eben wichtig, da zu
+3191560	3198480	unterstreichen. Und was ich auch total interessant fand, war, dass du ja auch eigentlich auf die
+3198480	3203640	Kehrseite dieser, also in dem Fall positive Kehrseite eigentlich der algorithmischen
+3203640	3209760	Rationalisierung hinweist. Insofern, als dass ja die Arbeitswelten der Arbeiterinnen zum Beispiel
+3209760	3217840	im Fahrradkurierdienst sich ja hier wie dort gleichen. Also ein Fahrradkurier in Lüneburg,
+3217840	3225400	der hat quasi ähnlichen Arbeitsbedingungen ausgesetzt wie jemand in London und somit bietet sich
+3225400	3229120	natürlich dann auch auf einer organisatorischen Möglichkeit, weil du die ja gerade angesprochen
+3229440	3234040	hast, als quasi die Basis von allem mehr oder minder, öffnet sich ja auch da wieder eigentlich
+3234040	3239520	ein Fenster, wo man sagen kann, okay, diese Arbeitswelten, die erzeugen eine geteilte Realität,
+3239520	3244920	auf der man dann organisationstechnisch auch wieder aufbauen kann. Ja, das ist ganz wichtig.
+3244920	3249520	Und das ist auch super, dass du das erwähnst, weil das ist nämlich auch ein Spezifikum dieser
+3249520	3257880	sogenannten Plattformbranche, dass dort sehr viel internationale Organisierungen stattfinden von
+3257880	3263520	Beschäftigten. Also in klassischen Industriebranchen und auch in den meisten anderen Branchen hat man
+3263520	3270120	ja quasi einen strukturell angelegten Nationalismus auch von Gewerkschaften, die oft ja versuchen,
+3270120	3274200	einheimische Arbeitsplätze gegenüber der internationalen Konkurrenz zu verteidigen.
+3274200	3280920	Und das ist hier überhaupt nicht so, sondern man hat quasi in beiden Plattformunternehmen,
+3280920	3284360	die ich untersucht habe und auch noch in vielen anderen, von denen ich es so mitbekommen habe,
+3284360	3291840	immer eine international angelegte Organisierung. Also man hat zum Beispiel bei dem Online-Versandtender,
+3291840	3296000	den ich untersucht habe, auf der Ebene der Beschäftigten, also nicht auf der Ebene von
+3296000	3300040	Gewerkschaftsfunktionären, sondern auf der Ebene der Beschäftigten einen kontinuierlichen
+3300040	3306600	Zusammenschluss von Beschäftigten, die sich immer wieder auch treffen, um internationale
+3306600	3313560	Strategien für Arbeitskämpfe und so weiter sich zurechtzulegen, zu diskutieren und sich auszutauschen.
+3313560	3318120	Und das ist natürlich wichtig bei solchen Unternehmen, die auch selbst international agieren,
+3318120	3323840	weil da oft auch in Reaktion auf Streiks dann zum Beispiel die Produktion einfach ganz schnell
+3323840	3330680	verleihert werden kann und so weiter. Da geht es dann auch darum, dass Streiks synchronisiert werden
+3330680	3335640	und so weiter. Das ist ein wichtiges Element. Bei den Fahrradkurieren, das ist auch der Fall,
+3335640	3343080	die haben sich auch international organisiert, eben weil die Arbeitsbedingungen nicht nur ähnlich,
+3343080	3349000	sondern wirklich identisch sind. Also es gibt quasi auch, wenn man das vergleicht mit anderen
+3349000	3355080	transnational operierenden Unternehmen, gibt es normalerweise schon lokale Spezifika, wie das
+3355080	3358560	alles funktioniert, allein schon aufgrund kultureller Unterschiede und so weiter. Aber
+3358560	3364480	einer der quasi Effizienzversprechen der algorithmischen Arbeitssteuerung ist ja gerade,
+3364480	3372800	dass du quasi diese Dinge völlig ohne größere Kosten beliebig skalieren kannst. Also du kannst
+3373120	3381920	mit demselben Start-up in Freiburg und in Singapur auf identische Weise den Arbeitsprozess
+3381920	3388600	organisieren und kannst das sogar im Endeffekt mit demselben Managementpersonal machen. Und das
+3388600	3395120	bedeutet aber natürlich auch, dass es weniger schwierig ist, sich in die Situation von Kolleginnen
+3395120	3401800	in Singapur hineinzuversetzen, weil die eben einen identischen Arbeitsprozess haben. Die machen
+3401800	3408000	genau dasselbe wie wir hier und das erleichtert eben überhaupt sozusagen auf einer kulturellen
+3408000	3413800	Ebene, so eine internationale Solidarisierung extrem. Und das wiederum verleiht vielen von
+3413800	3418720	diesen Arbeitskämpfen eben auch einen wesentlich emanzipatorischeren Charakter als so klassischen
+3418720	3423840	Abwehr- und Lohnverhandlungskämpfen, wie wir es sonst so von Gewerkschaftspolitik kennen.
+3423840	3430160	Weil man auch da dann eben auf der Abwehrseite quasi eine Skalierbarkeit hat,
+3430720	3435080	das ist schon wirklich spannend. Muss man sagen, vielleicht machen wir einen kurzen Shoutout. Gibt
+3435080	3441720	es irgendwie eine Kollektion von interessanten Organisationen und Zusammenschlüssen, die man
+3441720	3446920	da nennen kann? Vielleicht hört ihr jemand zu, der quasi betroffen ist und dem oder der das
+3446920	3452120	helfen kann. Also die Tech-Workers-Coalition fällt mir auf jeden Fall ein. Die V hattest du ja auch
+3452120	3459640	im Buch mehrmals erwähnt im Bezug auf Organizing im Bereich eben prekärer Arbeitsverhältnisse,
+3460120	3466360	gibt es vielleicht irgendwelche Organisationen, denen man sich beim Bedarf quasi dazu wenden kann?
+3466360	3472280	Ja genau, die angesprochenen Basis-Gewerkschaften. Das ist eben wirklich interessant, dass das nicht
+3472280	3476280	nur in Deutschland, sondern in ganz Europa wirklich konsistent so ist, dass diese Branchen
+3476280	3481400	hauptsächlich von Basis-Gewerkschaften organisiert werden, wo man sich auch gut solidarisch einbringen
+3481400	3486520	kann. Also auch wenn man da nicht selbst arbeitet. Ich weiß nicht, ob das sinnvoll ist, die alle
+3486520	3494920	aufzuzählen. In England sind das die Independent Workers of Great Britain, in Italien ist das die
+3494920	3503040	ZECO-Bus und da gibt es quasi in jedem europäischen Land die Basis-Gewerkschaften. In Deutschland ist
+3503040	3510760	es die FAU, die da eben auch meiner Meinung nach recht gute Arbeit machen. Die von dir genannte
+3510760	3517720	Techworker Coalition bezieht sich eben mehr auf die Ebene der Beschäftigten, die diese Systeme
+3517720	3523200	selbst programmieren. Das ist auch ganz interessant, weil die sich dann eben, wenn die dort organisiert
+3523200	3529080	sind, oft auch mit Streiks oder Arbeitskämpfen von ausführenden Beschäftigten solidarisieren und
+3529080	3535120	auch natürlich noch mal potenziell zumindest eine ganz andere Macht hätten, quasi die gesamte digitale
+3535120	3542160	Infrastruktur auch von heute auf morgen stillzulegen. Aber da ist natürlich die ideologische
+3542160	3546720	Integration und auch die Löhne sind da viel höher und deswegen ist die Wahrscheinlichkeit,
+3546720	3551200	dass das passiert, erst mal eher gering. Aber es ist zumindest schon mal bemerkenswert, dass es dort
+3551200	3559640	so eine Organisation gibt. Was es auch noch gibt, ist bei Amazon zum Beispiel ganz konkret die Amazon
+3559640	3567360	Workers International, die sich auch oft in Deutschland treffen, in verschiedenen Amazon-Standorten
+3567360	3577000	und sich auch über ihre Unterstützung freuen. Es gibt das Gorillaz Worker Collective. Gorillaz ist
+3577000	3586440	ein Lieferunternehmen, was kein fertiges Essen, sondern quasi Supermarktwaren ausliefert und das
+3586440	3590840	haben vielleicht einige mitbekommen, die sind gerade im wilden Streik, was auch eben noch mal ein
+3590840	3598840	Beispiel für die Zuspitzung dieser Arbeitskämpfe ist und freuen sich deswegen auch über finanzielle
+3598840	3605400	Unterstützung ihrer Streikkasse oder auch über Unterstützung an den Streikposten, wenn in der
+3605400	3612440	Stadt lebt, wo es Gorillaz gibt. Ja, es gibt noch viele andere Initiativen, aber das ist vielleicht
+3612520	3618120	erst mal eine kleine Auswahl, die jetzt momentan auch aktuell ist. Das geht jetzt noch mal ein
+3618120	3622040	bisschen ein kleines Stück zurück, aber ich fand es trotzdem noch einen interessanten und wichtigen
+3622040	3628960	Aspekt auch in Bezug auf diese spezifische Form der kybernetischen Selbstdisziplinierung innerhalb
+3628960	3634000	der Unternehmen, die du beschrieben hast. Ich fand es sehr auffällig oder zumindest schien es mir so,
+3634000	3641920	als ob du in dem Buch auch auf eine Art in Bezug auf die Frage, inwiefern das jetzt quasi sich
+3642680	3649960	übersetzt oder nicht diese Management-Fantasien, dass eigentlich diejenigen, die diese Form der
+3649960	3654640	kybernetisierung am meisten verinnerlichen, dass die eigentlich, also jetzt auf der
+3654640	3659200	Arbeiterinnenseite, dass die eigentlich dann auch die sind, die am meisten leiden und das im Grunde
+3659200	3665680	eigentlich als eine Art des Takeaways oder als ein Ratschlag vielleicht auch für Arbeiterinnen und
+3665800	3672000	Arbeiter, die dem ausgesetzt sind, eigentlich ja dann auf jeden Fall mal wäre, bitte das nicht
+3672000	3677160	ernst nehmen, weil sonst tut es euch nicht gut. Ja, und das wissen die Leute selber auch. Also das
+3677160	3682920	merkt jeder auch körperlich. Also das ist wirklich auch ein sehr interessanter Aspekt der
+3682920	3689600	ethnographischen Forschung, die ich gemacht habe, dass quasi in allen Fällen die Voraussetzung dafür,
+3689600	3695760	diese Arbeitsprozesse über eine längere Zeit so durchzuhalten, war, diese Selbstkontrolle oder
+3695760	3701600	Selbstoptimierung auf eine gewisse Weise zu verlernen, aktiv. Das hat quasi konsistent
+3701600	3706880	einen ähnlichen Verlauf angenommen, nämlich so, dass die Leute, wenn sie angefangen haben,
+3706880	3710400	in so einem Job zu arbeiten, das alles extrem ernst genommen haben. Oft gibt es dann da auch
+3710400	3713600	irgendwelche Boni, wenn man besonders schnell ist, man wird auch immer mit seinen Kolleginnen
+3713600	3718440	und Kollegen verglichen und so weiter und dann gibt es so Rankings und was weiß ich alles. Oft
+3718440	3724800	ist das aber völlig unrealistisch, die Vorgaben, die es dort gibt und vor allem führt es extrem
+3724800	3729640	schnell zu einer drastischen Erschöpfung. Also die Leute berichten davon, dass sie nachts noch davon
+3729640	3735960	träumen, Regale einzusortieren, dass die Fahrradkurriere sind körperlich völlig fertig,
+3735960	3742560	ihre Fahrräder gehen kaputt und so weiter. Also das ist quasi nicht machbar, sich endlos zu steigern.
+3742560	3750360	Es ist ja klar, als biologische Lebewesen haben wir andere Gesetzmäßigkeiten als quasi das
+3750360	3755400	endlose Wachstum des Kapitalismus. Das ist einfach nicht vereinbar und das merkt man körperlich,
+3755400	3761320	wenn man in diesen Bereichen arbeitet. Deswegen ist es ganz interessant, dass konsistent quasi
+3761320	3766560	die Leute irgendwann anfangen, auf eine gewisse Weise diese Feedbacks zu ignorieren und einfach
+3766560	3770320	ihr Ding zu machen. Was übrigens auch ganz interessant ist, ist, dass sich aus dieser
+3770400	3778000	kubanetischen Kontrolllogik ja auch eine sehr interessante Form von Bummelstreik ergeben kann,
+3778000	3784640	weil nämlich die Vorgaben ja nicht mehr quasi einfach einheitlich berechnet und an alle
+3784640	3789040	gleichermaßen angelegt werden, sondern die Vorgaben selbst emigrieren ja aus dem Tracking des
+3789040	3792920	Arbeitsprozesses. Das heißt, wenn Beschäftigte sich darauf einigen können, einfach mal einen
+3792920	3797760	Gang runterzuschalten, dann wird sich das auch sofort auf die Vorgaben niederschlagen. Und das
+3797760	3804320	ist auch passiert teilweise in Betrieben, die ich untersucht habe. Genau, aber was auch wichtig ist,
+3804320	3809760	ist, dass es eben manchmal Leute gibt, die das sich nicht leisten können, das einfach zu
+3809760	3814240	ignorieren. Und das ist in den von mir untersuchten Betrieben, sind das immer Migranten gewesen,
+3814240	3821720	insbesondere Flüchtlinge, wo eben einfach die externe Motivation quasi alles möglichst genau
+3821840	3828720	so zu machen, wie es das Management vorsieht, einfach um ein Vielfaches größer ist als bei
+3828720	3834840	Leuten, die die lokale Staatsbürgerschaft haben. Deswegen ist das auch oft dann sehr leichtfertig
+3834840	3839960	gesagt, dass man das einfach ignorieren kann. Aber für viele eröffnet sich dieser Spielraum eben
+3839960	3846440	nicht. Und da findet die Organisierung oder Solidarisierung dann oft eher auch außerhalb
+3846640	3853160	der Arbeit statt, also bei kulturellen Events und so weiter, weil eben innerhalb der Arbeit einfach
+3853160	3859280	die Angst zu groß ist, gerade wenn zum Beispiel der Aufenthaltsstatus auch an der Arbeit dranhängt.
+3859280	3866160	Da hast du vollkommen recht. Also ignorieren ist keine Lösung, sozusagen keine letztgültige. Und
+3866160	3873880	insofern, lass uns doch vielleicht noch einbiegen in Zukunft jenseits der reinen Defensive. Du
+3873920	3878800	hattest es jetzt schon angesprochen. Es ist eigentlich so, dass innerhalb eines
+3878800	3887200	kapitalistischen Zwangs zur Profitmaximierung eigentlich eine wünschenswerte Techniknutzung
+3887200	3894880	strukturell unterbunden wird. Das heißt aber auch, dass, wenn man sich jetzt eben Zukunft jenseits
+3894880	3901280	dieses Profitzwanges vorstellt, man ja auch Technologien und Formen der Techniknutzung
+3901280	3907480	imaginieren könnte, die eben sehr wohl in unser aller Interesse lägen. Vielleicht können wir in
+3907480	3911200	dieser Richtung noch mal schauen, welche Veränderungen bräuchte es denn auf der Ebene
+3911200	3917400	der Technologien selbst und auch auf der Ebene der Kontexte ihrer Nutzung, ihrer Implementierung,
+3917400	3924320	um zu wahrhaft emanzipatorischer Techniknutzung zu kommen, die dann auch eben weit über nur reine
+3924320	3930280	Abwehr eigentlich hinausgeht. Ich fange einfach mal im Kleinen an und würde das dann steigern,
+3930280	3938280	sozusagen in dem Level der Forderungen. Im Kleinen kann man sehen, dass quasi keiner oder
+3938280	3944240	keine der Beschäftigten, mit denen ich gesprochen habe, im klassischen Sinn Technikkritikerin ist.
+3944240	3949320	Also da geht es nie darum zu sagen, Technik ist allgemein das Übel der Menschheit und wir sind
+3949320	3954240	sozusagen geknechtet, weil es Digitalisierung gibt oder sowas. Diese Position ist mir nie begegnet,
+3954240	3961360	das ist ja auch interessant. Sondern es wird eben immer quasi als ein Aushandlungsfeld begriffen
+3961360	3968360	und zum Beispiel in dem Unternehmen, wo der smarte Handschuh und Datenbrillen am Widerstand der
+3968360	3973280	Beschäftigten gescheitert ist, haben die Beschäftigten sich aktiv dafür eingesetzt,
+3973280	3977800	andere Technologien zu bekommen, die sie gerne wollten, die ihnen auch versprochen wurden,
+3977800	3984160	weil die auch zu diesem Industrie 4.0 Paket dazugehören. Ein interessantes, auch schön
+3984160	3991240	futuristisches Beispiel sind diese sogenannten Exoskelette. Das sind quasi Metallstangen,
+3991240	3996920	die am Körper außen angebracht werden, die Gelenke haben und so weiter und die Bewegungen
+3996920	4001920	unterstützen können und die aber auch fixierbar sind in der bestimmten Position. Und die
+4001920	4008320	Beschäftigten dort mussten oft in unbequemen Positionen arbeiten und da hilft es dann,
+4008320	4012240	wenn man sich dann selbst in dieser Position entspannen kann, wenn man das da quasi fixiert.
+4012240	4018080	Und während die smarten Handschuhe und so weiter sofort implementiert wurden, kamen diese
+4018080	4023640	Exoskelette aber nie. Und da wurde dann gesagt, ja, das ist halt wieder ein Beispiel dafür,
+4023640	4027800	dass quasi die Dinge, die wirklich entlasten würden, und da gibt es ja viele Beispiele,
+4028400	4033040	wo Technologie wirklich entlastend sein könnte, dass die eben nicht eingesetzt werden, weil es
+4033040	4038840	eben nicht unmittelbar die Profitabilität der Produktion steigert, aber was eben wünschenswert
+4038840	4043560	ist, gerade wenn man es mit schwerer körperlicher Arbeit zu tun hat. Zum Beispiel bei den
+4043560	4050560	Fahrradkurieren ist die Forderung, E-Bikes zu bekommen, anstatt der eigenen Schrotträder,
+4050560	4054920	die wirklich kurz vorm Auseinanderfallen sind, weil man einfach kein Geld hat, um sich ein
+4054920	4062680	vernünftiges Fahrrad zu kaufen. Das wäre auf einer kleinen Ebene. Wenn man sich die Ebene der
+4062680	4068520	Technikgestaltung der algorithmischen Arbeitssteuerung selbst anschaut, könnte man auch eine
+4068520	4075640	immanente Kritik quasi daran formulieren, nämlich, dass das eigentlich gar keine richtige
+4075640	4081240	Kybernetisierung ist, was da stattfindet, weil es quasi nie eine wirkliche Feedback basierte
+4081240	4085440	Selbstorganisierung ist, sondern die Selbstorganisierung immer in vorgegebenen
+4085440	4089880	Bahnen verlaufen muss, nämlich in Optimierungsbahnen. Da geht es immer darum, dass eben die
+4089880	4094320	sogenannten Torzeiten eliminiert werden, dass alles immer schneller geht und so weiter. Das heißt,
+4094320	4098760	es ist, wenn überhaupt eine Selbstorganisierung, dann eine sehr stark kontrollierte Selbstorganisation.
+4098760	4105440	Und man könnte hier einfach argumentieren, dass man sagt, okay, wir nehmen, unterstützen diese
+4105440	4110600	Feedbacks, aber wir verbinden das eben mit einer wirklichen Selbstorganisierung, dass wir eben
+4110600	4117040	wirklich auch Gestaltungskompetenz über unsere Arbeitsprozesse bekommen und eben auch das so
+4117040	4122720	gestalten können, dass es eben mit unserer körperlichen und geistigen Unversehrtheit kompatibel
+4122720	4128000	ist und vielleicht sogar unserem Wohlbefinden zuträglich ist, was man sich eigentlich hoffen
+4128000	4133680	würde, von einer Arbeit, mit der man einen Großteil seines Lebens verbringt. Und da ist
+4133680	4139120	ein wichtiger Aspekt, das ist nochmal ein neuer Punkt jetzt, das Verhältnis von Arbeitsintensivierung
+4139680	4148600	zu Arbeitsreduzierung. Weil technologischer Fortschritt geht ja oft mit Produktivitätsgewinnen einher.
+4148600	4154960	Das heißt, es können mehr Waren in derselben Zeit hergestellt werden. Und da ist natürlich die Frage,
+4154960	4159600	wem nutzt das dann im Endeffekt? Heißt das einfach, man arbeitet immer schneller und kann dann mehr
+4159600	4164600	Dinge in derselben Zeit oder in kürzerer Zeit produzieren? Oder schafft man es, das umzumünzen?
+4164600	4171200	Und da habe ich auch eben in der Forschung, die ich da in einem Industriebetrieb durchgeführt
+4171200	4178480	habe, ein interessantes Beispiel dafür beobachten und begleiten können, wo es unter anderem auch
+4178480	4183960	um diese Technologie ging, die ich vorher erwähnt habe, wo dann quasi der menschlichen Arbeitskraft
+4183960	4188840	bei ungenügender Auslastung noch ein weiterer Job zugewiesen wurde und so weiter. Und es wurden
+4188840	4194080	noch andere Dinge implementiert, die alle auf so eine Verdichtung hinausliefen. Und das hat man
+4194080	4198840	in diesem Fall eben erkannt frühzeitig und gesagt, okay, es geht hier offensichtlich darum,
+4198840	4208000	dass wir mehr arbeiten sollen. Und wir stimmen dem nur zu, wenn es im Gegenzug ein Mehr an freier
+4208000	4213520	Zeit gibt. Und dann hat man sich eben auf zusätzliche Urlaubstage geeignet in einem
+4213520	4219120	Haustarifvertrag. Das ist zum Beispiel eine vorbildliche Technopolitik von unten, die
+4219120	4225520	zukunftsweisend ist. Weil Arbeitszeitverkürzung natürlich unmittelbar auch für den Beschäftigten
+4225520	4233000	zuträglich ist. Man ist weniger gestresst, hat mehr Zeit für sein echtes Leben und aber auch
+4233000	4239080	gesellschaftlich sinnvoll ist. Weil sozusagen Arbeitsmärkten, die von einer starken Ungleichheit,
+4239080	4243800	von Überbeschäftigung und Unterbeschäftigung geprägt sind, kann eine Arbeitszeitverkürzung
+4243800	4249640	natürlich dazu führen, dass die Arbeitszeit gesellschaftlich gerechter verteilt wird. Es
+4249640	4255440	ist aber auch ökologisch eine extrem sinnvolle Maßnahme, quasi die Arbeitszeit absolut zu
+4255440	4263520	reduzieren, weil das sich auch direkt auf die CO2-Emissionen und so weiter auswirkt. Also
+4263520	4268600	Arbeitszeitverkürzung halte ich für einen extrem wichtigen technopolitischen Punkt. Ein weiterer
+4268600	4274440	Punkt, ein bisschen auf einer Makro-Ebene, einer Regulationsebene, wäre eine Demokratisierung
+4274440	4282400	der Innovationspolitik. Also wir haben es gerade mit einer staatlichen Förderung von Innovation
+4282400	4289320	zu tun in allen früh industrialisierten Ländern, wo sehr viel Geld da hinein gebuttert wird,
+4289320	4294520	dass Technologien entwickelt werden, die einzig unter Leinen der Effizienzsteigerung und der
+4294520	4299920	Profitmaximierung dienen. Deutschland ist da ein besonders drastischer Fall. Also wir haben hier
+4299920	4309280	die Fraunhofer-Institute, die sehr, sehr viel Geld und in vielen Fällen staatliches Geld dafür
+4309280	4314240	verwenden, konkrete Technologien zu entwickeln, die dann in Betrieben angewandt werden. Ich habe
+4314240	4320880	auch einen so einen Prozess begleiten können, wo von einem Fraunhofer-Institut ein Tool entwickelt
+4320880	4325520	wurde, was die Schichtplanung automatisieren sollte, wo es darum ging, dass quasi Mitarbeitende
+4325520	4330200	profitiert werden und dann automatisch, wenn sie irgendwo gebraucht werden, irgendwo zugewiesen
+4330200	4333680	werden. Und da freut sich natürlich jeder Manager, weil das natürlich, kann man sich denken,
+4333680	4339840	sehr gut dazu geeignet ist, auch mehr Leiharbeit einzubinden etc. und Prekarisierung voranzutreiben.
+4339840	4346080	Und ich würde sagen, wir haben es hier mit staatlichem Geld zu tun, zumindest teilweise
+4346080	4350800	staatlichen Institutionen. Die muss sofort demokratischer Kontrolle unterzogen werden
+4350800	4358600	und alle Dinge, die dort entwickelt werden, müssen durch irgendeine Art von Ethikprüfung durch,
+4358600	4363600	die dafür sorgt, dass es keine staatlich geförderte technische Innovation gibt,
+4363600	4369680	die nicht soziale und ökologische Ziele fördert. Ja, also das wäre sozusagen wirklich ein
+4369680	4375720	realpolitischer Punkt, der mir aber unglaublich wichtig scheint, weil eben Technologie, wie wir
+4375720	4380120	jetzt diskutiert haben, wirklich inherent politisch ist und auch viel unseres Alltagslebens
+4380120	4385480	strukturiert und aber unglaublich unterdemokratisiert ist, weil das quasi alles sich einfach nur in
+4385480	4391800	so einer Machbarkeitslogik vollzieht. Ja, und da muss Demokratisierung auf unterschiedlichen Ebenen her.
+4391800	4400000	Ah, jetzt habe ich kurz noch eine Pause eingesetzt, weil ich dachte, es kommt noch das Moonshot-Projekt.
+4400000	4406280	Gibt es ein Moonshot-Projekt, Simon? Maximale Forderung. Was ist jenseits der Defensive,
+4406280	4411880	jenseits des wir wollen auch mitspielen? Ja, also die maximale Forderung ist das,
+4411880	4418840	was wir in unserem letzten Gespräch diskutiert haben, nämlich die demokratische Planung von
+4418840	4425440	wirtschaftlichen Aktivitäten. Und das ist was, wofür einige der Technologien, die wir hier
+4425440	4431480	diskutiert haben, auch nützlich sein können. Also dann eher auf einem Makro-Maßstab, wo man
+4431480	4444320	ohne größere, zumindest technische Probleme die Produktion nicht mehr über Geld-Inputs steuern
+4444320	4450240	könnte und quasi einfach nur das produziert würde, was kaufkräftige Nachfrage findet,
+4450240	4455320	sondern quasi die Produktion unmittelbar an Bedürfnisse, an menschliche Bedürfnisse
+4455320	4463440	einerseits zu koppeln und andererseits aber auch an biologische Grenzen und an ökologische Grenzen,
+4463440	4468440	also an die Frage zum Beispiel, wie viel wollen wir gesellschaftlich überhaupt arbeiten? In wie
+4468440	4476040	weit können wir unsere Ressourcen vernutzen und so weiter? Und das ließe sich demokratisch
+4476040	4485280	festlegen und dann diese sich quasi mit einer digital unterstützten Planung ein
+4485280	4496120	arbeitsteiliges Wirtschaftsmodell realisieren, was gleichermaßen demokratisch, nachhaltig und eben
+4496120	4502680	aber nicht einfach primitivistisch ist, auf eher Ebene irgendwie von jede Kommune macht irgendwie
+4502680	4510960	ihr Ding, sondern es wäre trotzdem möglich, eben Arbeitsteilung und überregionale Koordination zu
+4510960	4519440	ermöglichen, die nicht quasi top-down realisiert wird, sondern in einer dann hoffentlich realen,
+4519440	4525440	kybernetisch unterstützten Selbstorganisation. Wunderbar. Simon, das ist doch ein absolut
+4525920	4533440	würdiges Moonshot-Projekt für ein Gespräch innerhalb von Future Histories. Simon, am Ende frage ich
+4533440	4543480	immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig? Also ehrlich gesagt stimmt
+4543480	4551360	mich gerade noch weniger freudig als bei unserem letzten Gespräch. Ja, insbesondere auch in meiner
+4551360	4557640	neuen Rolle als Vater denke ich mir schon oft, oh shit, so in was für eine Welt habe ich da ein
+4557640	4563440	Kind reingesetzt? Ja, also ich finde, es sieht tatsächlich derzeit sehr düster aus. Und der
+4563440	4571240	einzige Hoffnungsschimmer, der sich für mich ergibt, also angesichts von sich drastisch
+4571240	4579520	beschleunender ökologischer Krise, recht zurück und quasi, ja man muss eigentlich schon sagen,
+4579680	4587480	Realitätsverweigerung der sogenannten Realpolitik, sind soziale Bewegungen. Und da gab es ja in der
+4587480	4594360	letzten Zeit auch einige Wellen von Bewegungen, die auch zugenommen haben, wie die Black Lives
+4594360	4600360	Matter Bewegung oder die Klimabewegung, auf die ich meine Hoffnung setzen würde. Und es bleibt zu
+4600360	4610720	hoffen, dass diese Welten größer werden und diesen ganzen zerstörerischen Mist noch wegspülen,
+4610720	4617880	bevor es zu spät ist. Simon, das wollen wir ganz unbedingt hoffen. Vielen Dank für das Gespräch.
+4617880	4620440	Danke dir, es war sehr spannend, Jan.
+4620440	4632200	Das war Future Histories für heute. Vielen Dank fürs Zuhören. Shownotizen und vieles
+4632200	4638800	mehr findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+4638800	4644240	Future Histories oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen
+4644240	4650720	großen Podcastplattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den
+4650720	4656440	Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne
+4656440	4662800	unter jan at futurehistories.today. Ich freue mich immer sehr über interessante Rückmeldungen
+4662800	4668280	und Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf
+4668360	4675760	patreon.com-futurehistories oder auch via Spende auf unserer Homepage. Future Histories ist eine
+4675760	4683520	Produktion von MetaLapses zu finden auf meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.

@@ -1,0 +1,1205 @@
+WEBVTT
+
+00:00.000 --> 00:07.000
+Welcome to Future Histories. My name is Jan Groos and I am very pleased to welcome Moira Weigel as today's guest.
+
+00:07.000 --> 00:12.000
+Moira is an author, researcher and co-founder of Logic magazine.
+
+00:12.000 --> 00:21.000
+She currently holds a position as a socio-technical security researcher with the independent research organization Data Society
+
+00:21.000 --> 00:29.000
+and will take up a position as an assistant professor of communication studies at Northwestern University in Boston next year.
+
+00:29.000 --> 00:36.000
+There are so many interesting works by Moira that we will unfortunately not be able to cover them all today.
+
+00:36.000 --> 00:42.000
+Her book, Labor of Love, The Invention of Dating, has been published in 2016.
+
+00:42.000 --> 00:49.000
+And her most recent book, which she wrote together with Ben Tarnoff, is called Voices from the Valley.
+
+00:49.000 --> 00:53.000
+Tech workers talk about what they do and how they do it.
+
+00:53.000 --> 00:58.000
+However, today's interview is going to be about another work from Moira's rich oeuvre.
+
+00:58.000 --> 01:05.000
+The essay Palantir goes to Frankfurt School and I'm very excited to talk about it with Moira today.
+
+01:05.000 --> 01:11.000
+But before we start, I'd like to thank Fabian, Adrian and Carmen for their donations.
+
+01:11.000 --> 01:15.000
+And I would like to welcome Christine as a patron of Future Histories.
+
+01:15.000 --> 01:17.000
+Thanks a thousand times.
+
+01:17.000 --> 01:27.000
+And now please enjoy today's episode with Moira Weigel about Palantir, tech nationalism and aggression in the life world.
+
+01:32.000 --> 01:34.000
+Welcome, Moira.
+
+01:34.000 --> 01:36.000
+Thank you so much for having me.
+
+01:36.000 --> 01:41.000
+And I should say the book about dating, if anyone's interested, is out in German, actually.
+
+01:41.000 --> 01:45.000
+It's called Dating eine Kulturgeschichte in Germany.
+
+01:45.000 --> 01:48.000
+But anyway, thank you so much for having me.
+
+01:48.000 --> 01:54.000
+Moira, I got hooked as soon as I saw that your essay was about the ideological roots of Palantir.
+
+01:54.000 --> 01:56.000
+But not everybody knows this company.
+
+01:56.000 --> 02:02.000
+Maybe you could start by describing what Palantir is and what they do.
+
+02:02.000 --> 02:03.000
+Yeah, absolutely.
+
+02:03.000 --> 02:11.000
+So Palantir is a software company, an enterprise software company that specializes in big data analytics.
+
+02:11.000 --> 02:21.000
+And so what that means effectively is that they develop software for large organizations like the US Department of Defense, for example,
+
+02:21.000 --> 02:32.000
+but also for banks and large businesses to help them interpret their data, control who accesses data, how, visualize it, and so on.
+
+02:32.000 --> 02:34.000
+There are three big parts of the business.
+
+02:34.000 --> 02:41.000
+One is called Palantir Gotham, and that mostly works on defense, government contracts, counterterrorism.
+
+02:41.000 --> 02:48.000
+One part is called Palantir Metropolis, and they work with hedge funds and banks and businesses.
+
+02:48.000 --> 02:56.000
+And one part is called Palantir Foundry, which is used by other corporations like Airbus, for instance.
+
+02:56.000 --> 02:58.000
+There's so much more to say about it.
+
+02:58.000 --> 03:03.000
+You know, it's founded by Peter Thiel, Alex Karp, Joe Lonsdale, and Stephen Cohen,
+
+03:03.000 --> 03:12.000
+this group that comes out of Stanford and was sort of connected through what's sometimes called the PayPal mafia, the company PayPal.
+
+03:12.000 --> 03:20.000
+In the early 2000s, it's founded in 2003 and gets its first big funding from Incutel,
+
+03:20.000 --> 03:26.000
+which is the counterintelligence agency, CIA's venture capital arm in the United States.
+
+03:26.000 --> 03:31.000
+So it's founded in this moment of the beginning of the war on terror in the United States.
+
+03:31.000 --> 03:36.000
+But anyway, I'll wait and answer whatever questions you have about it.
+
+03:36.000 --> 03:42.000
+But the reason I say all this is I think it's important to understand about them that they're an enterprise software company.
+
+03:42.000 --> 03:51.000
+They are not a company like Google or Facebook, whose business model is to gather data about individuals and develop ads and predictions.
+
+03:51.000 --> 03:58.000
+They are a company that wins large contracts from large organizations to interpret data partly through humans.
+
+03:58.000 --> 04:00.000
+It's not all automatic.
+
+04:00.000 --> 04:07.000
+And so I think I say that because I think that difference is very important to their ideology and to the kind of power they represent.
+
+04:07.000 --> 04:15.000
+And I think it's it's a difference that has gotten lost in in some of the media coverage of Palantir in the past.
+
+04:15.000 --> 04:20.000
+So I'm happy to say more about it. But that's that's my broad overview of what Palantir is.
+
+04:20.000 --> 04:26.000
+In your essay, you closely analyze Alex C. Carp's dissertation Aggression in der Lebenswelt.
+
+04:26.000 --> 04:29.000
+Alex Carp is the CEO of Palantir.
+
+04:29.000 --> 04:36.000
+And I would like to read a small section from the dissertation you also quoted in your essay on Palantir.
+
+04:36.000 --> 04:44.000
+So the quote goes, This work began with the observation that many statements have the effect of relieving unconscious drives,
+
+04:44.000 --> 04:50.000
+not in spite, but because of the fact that they are blatantly irrational.
+
+04:50.000 --> 04:53.000
+That sounds highly relevant for our societies today, I think.
+
+04:53.000 --> 05:00.000
+What is Carp's dissertation about and why is it relevant to an understanding of algorithmic governmentality?
+
+05:00.000 --> 05:03.000
+It's a really rich question that you ask.
+
+05:03.000 --> 05:08.000
+And I just I want to say sort of two quick things before I dive into it.
+
+05:08.000 --> 05:13.000
+I think, you know, I study, I'm trained in studying philosophy and the history of ideas.
+
+05:13.000 --> 05:17.000
+And we all like to think philosophy and the history of ideas matters a lot.
+
+05:17.000 --> 05:26.000
+Right. But I think I just want to say I think this question of how Carp specific philosophy or Peter Thiel specific philosophy
+
+05:26.000 --> 05:31.000
+actually comes into play in a company like Palantir is is complexly mediated.
+
+05:31.000 --> 05:36.000
+I mean, of course. But I think there's something I worry about in my own work, frankly.
+
+05:36.000 --> 05:45.000
+I worry about this as I as I do what I do, where there's such strong myths of genius in Silicon Valley,
+
+05:45.000 --> 05:52.000
+this idea that these sort of genius men just come and and, you know, manifest their ideas
+
+05:52.000 --> 05:55.000
+and these totally new and futuristic kinds of software.
+
+05:55.000 --> 05:59.000
+And I think that's a myth. I think there's it's important to consider the possibility
+
+05:59.000 --> 06:04.000
+that Carp was just like Peter's friend who was around when it was time to make this company.
+
+06:04.000 --> 06:08.000
+And and it used software and procedures from PayPal.
+
+06:08.000 --> 06:14.000
+But it's like there was some stuff that worked at PayPal and there was all this money going into counterterrorism in the U.S. government.
+
+06:14.000 --> 06:17.000
+I say all this to to check.
+
+06:17.000 --> 06:26.000
+I don't want to overstate the importance of his philosophy, which I think if folks happen to have watched any of the marketing materials
+
+06:27.000 --> 06:32.000
+that Palantir puts out around there around there going public, which happened in September 2020,
+
+06:32.000 --> 06:40.000
+that is a kind of advertising ploy that they use him for quite a lot, that he's the philosopher, you know, the sort of deep thinker.
+
+06:40.000 --> 06:46.000
+And and to put it kindly, I think there are good reasons he didn't go into academia.
+
+06:46.000 --> 06:54.000
+But but I think so I did all that to say I think there's this complicated and really fascinating question of like,
+
+06:55.000 --> 06:57.000
+how do ideas get translated into technologies?
+
+06:57.000 --> 07:00.000
+And it's not a direct not a direct process.
+
+07:00.000 --> 07:09.000
+And I think we can think, too, about the technical like how ideas come to shape how actual technologies are deployed.
+
+07:09.000 --> 07:16.000
+And we can think, too, about kinds of organizational practices within the firm and what sort of the sociology of the firm
+
+07:16.000 --> 07:21.000
+and how that might or might not be influenced by things that the founders believe.
+
+07:21.000 --> 07:28.000
+But I think at a very broad level, one thing that was initially interesting to me about the dissertation or grab my attention
+
+07:28.000 --> 07:34.000
+is that it seems like almost too close and almost shockingly close analog for what the company does.
+
+07:34.000 --> 07:45.000
+Right. The dissertation uses this concept of jargon from Adorno to ask how, you know, again, really oversimplifying.
+
+07:45.000 --> 07:52.000
+But Adorno has this reading of Heidegger's language where he says that an existentialist language broadly where Adorno says
+
+07:52.000 --> 08:02.000
+these kinds of terms that are that are popular in existentialist language like dwelling and home and being are actually a kind of mystification.
+
+08:02.000 --> 08:11.000
+And what is hidden in those terms is are all these realities of modern domination and violence and exploitation.
+
+08:11.000 --> 08:18.000
+And so for it to pick just one example for Adorno, when Heidegger talks about dwelling and dwelling and being
+
+08:18.000 --> 08:28.000
+and the sort of precarity of being for Adorno says, you know, this is a mystification of the fact, and I'm simplifying,
+
+08:28.000 --> 08:35.000
+but it's sometimes useful to simplify Adorno, that in a modern society, you know, all kinds of people are at risk of being homeless
+
+08:35.000 --> 08:43.000
+and precarious and losing their homes, losing their jobs, being actually exposed to to second nature, if not nature.
+
+08:43.000 --> 08:54.000
+And and Heidegger's language sort of wraps this up in a in a misty sheen and makes it seem like some sort of spiritual transhistorical unchangeable thing.
+
+08:54.000 --> 08:57.000
+Right. So Adorno has this analysis of language.
+
+08:58.000 --> 09:08.000
+Karp wants to take this concept and say, how can we look at specific language acts and see, take them apart,
+
+09:08.000 --> 09:15.000
+see how language works in particular instances to find not realities of social domination,
+
+09:15.000 --> 09:23.000
+you know, what Adorno would call objective forms of social domination, but rather unconscious aggression that people can't admit.
+
+09:23.000 --> 09:30.000
+The case study that Karp uses for this, which may be more known to a German speaking audience,
+
+09:30.000 --> 09:37.000
+is the speech that Martin Weiser gave in 1996 in Frankfurt when he got the prize of the German book trade,
+
+09:37.000 --> 09:44.000
+which is this famous or notorious speech where Martin Weiser says, in short, you know,
+
+09:44.000 --> 09:49.000
+all of you listeners expect me to get up and apologize for the Holocaust, but I'm not going to.
+
+09:49.000 --> 09:53.000
+And this is kind of sanctimonious and insincere.
+
+09:53.000 --> 09:59.000
+And I think he calls it the Holocaust pletigo or something that there are these pressures to be sort of preachers of disaster.
+
+09:59.000 --> 10:01.000
+And I'm not going to do it.
+
+10:01.000 --> 10:09.000
+And this, of course, is a famous episode in the cultural history of Germany in the 1990s and debates about political correctness and historical memory.
+
+10:09.000 --> 10:21.000
+But Karp wants to take this language act and ask what kinds of unconscious aggression or violence are expressed in this language act.
+
+10:21.000 --> 10:29.000
+We might say it's maybe not that subtle, actually, but Karp does a reading of Weiser where he says,
+
+10:29.000 --> 10:39.000
+you know, we can follow the linguistic moves he makes about his speech and see how his language expresses an unconscious aggression,
+
+10:39.000 --> 10:47.000
+you know, an anger at being made guilty, collectively guilty, having to remember the Holocaust publicly that he can't say directly.
+
+10:47.000 --> 10:50.000
+He says indirectly through these ways.
+
+10:50.000 --> 10:55.000
+And one thing that's amazing about it is Karp then steps back and makes no normative assessment of this at all.
+
+10:55.000 --> 10:57.000
+He just leaves it. He sort of says, well done.
+
+10:57.000 --> 11:00.000
+It was a good, an effective piece of jargon.
+
+11:00.000 --> 11:05.000
+But I think so what's quite interesting inside this is a very long answers.
+
+11:05.000 --> 11:15.000
+But what's quite interesting is that when I first look at it, at this dissertation, I think this is almost too perfect as like an analogy to what the work of data analytics is.
+
+11:15.000 --> 11:26.000
+Right. Like what Palantir does is analyzes these or builds software to analyze and make sense of all this dispersed data that purports to reveal.
+
+11:27.000 --> 11:39.000
+Dangers of terrorism or, you know, much more banal things for their corporate clients like, you know, which airplane door is going to have a problem with it coming out of this factory, something like that.
+
+11:39.000 --> 11:43.000
+But the majority of their business, at least until recently, has been for government.
+
+11:44.000 --> 11:58.000
+So we can say, you know, what the company does is analyze large data sets and actually, in a sense, try to build diagnostic tools that make visible different aspects of relationships within data.
+
+11:58.000 --> 12:08.000
+So to the extent that we can think of big data as a kind of unconscious, which I think is its own philosophically complicated question, which we can get into.
+
+12:08.000 --> 12:17.000
+But I think that there is a kind of suggestive resonance or analogy between between the dissertation and the work Palantir does.
+
+12:17.000 --> 12:30.000
+And if his dissertation basically is saying, you know, all social groups are formed through unconscious violence, looking at jargon lets us see how if we wanted to be reductive, we could say Palantir assumes, you know, the world is
+
+12:30.000 --> 12:41.000
+driven by terrorism and kinds of violence. That's a fact. And this company is going to build tools to let the U.S. Department of Defense see how and that's a simplification.
+
+12:41.000 --> 12:49.000
+But I do think that there is a striking analogy between that academic work and then what the company actually does.
+
+12:49.000 --> 13:00.000
+I think the question that I was asking myself is, is there a fundamental difference in how it is being done in Palantir than how it is being done with Google?
+
+13:00.000 --> 13:16.000
+Because they just to pick some other huge company, you know, because in the way that that Alex Karp is trying to present himself in the public sphere, he's always acting as if they are doing these things differently and that the others are, you know, kind of harshly
+
+13:16.000 --> 13:26.000
+going over this nuances of how you should actually handle data and what you can actually understand through the analysis of data.
+
+13:26.000 --> 13:33.000
+And I mean, in the way he's presenting himself, he's acting as if they are kind of doing it fundamentally different.
+
+13:33.000 --> 13:49.000
+But as just as far as I understood it from the information that I got, I kind of got the impression that they are more or less kind of acting in a similar way when it comes to the presumed production of truth.
+
+13:50.000 --> 13:53.000
+Yeah, that's a great, a great question.
+
+13:53.000 --> 13:57.000
+I think there's both an empirical and a philosophical question.
+
+13:57.000 --> 14:04.000
+And your question, I will start with the empirical and see if I can work out to the philosophical.
+
+14:04.000 --> 14:10.000
+So I think there actually are very important differences between Google and Palantir.
+
+14:10.000 --> 14:15.000
+And I think since a theme of this, this program is hegemony and power.
+
+14:15.000 --> 14:27.000
+I'm keen to talk about them because I think it's something that's not very well understood, but it's going to be really important to understandings for techno power going forward.
+
+14:27.000 --> 14:32.000
+We can think of the business model, you know, to be very vulgar materialist about it.
+
+14:32.000 --> 14:34.000
+Let's think of the business model.
+
+14:34.000 --> 14:36.000
+How does Google make money?
+
+14:36.000 --> 14:44.000
+Google mostly makes money through search and keywords and through advertising through targeted advertising.
+
+14:44.000 --> 15:03.000
+And so what Google does for the most part is that, you know, what they are incentivized to do through their business model is to collect as much information as possible about individual users so that, you know,
+
+15:03.000 --> 15:12.000
+They predict very specifically when I search for baby diapers, you know, that this is the kind of baby diaper I want and I will buy it or something.
+
+15:12.000 --> 15:14.000
+You know, this is the ad tech model.
+
+15:14.000 --> 15:17.000
+There's a whole other question of how good ad tech actually is.
+
+15:17.000 --> 15:21.000
+I've just published a book through Logic magazine.
+
+15:21.000 --> 15:23.000
+Not that I wrote that Tim Huang wrote.
+
+15:23.000 --> 15:29.000
+Someone else wrote called, in fact, I have it right here, but I guess it's a podcast, so no one can actually see me.
+
+15:29.000 --> 15:45.000
+Call the subprime attention crisis, which is by someone who used to work at Google and is arguing that actually the value of the attention that companies like Facebook and Google sell has been hugely inflated and is going to crash and cause systemic economic problems like the housing
+
+15:45.000 --> 15:57.000
+But so the Google business model is premised on and incentivizes Google's gathering as much information as possible about us as individuals and about other matters.
+
+15:57.000 --> 16:02.000
+We think about, you know, Facebook to Facebook is obsessed with what they call time spent.
+
+16:02.000 --> 16:10.000
+They're incentivized to keep everyone in their application for as long as possible so they can gather as much data as possible to spin into these ad tech products.
+
+16:10.000 --> 16:23.000
+I don't have the figures ready to mine, but like 90 to 100% of their revenue I want to say like 97% of Google's revenue is still ad tech, even though they do all these other things now too.
+
+16:23.000 --> 16:26.000
+Palantir is a very different business model.
+
+16:26.000 --> 16:33.000
+That's not how Palantir makes money, gathering information about individuals and selling it to other other people.
+
+16:33.000 --> 16:51.000
+Palantir makes money because they go, let's say, to the US military and say to the US military, look, you have at this point, nearly 20 years of, I'm making this up, I don't know if this is a real example, but 20 years of camera footage of all these places in Iraq and Afghanistan that you invaded.
+
+16:51.000 --> 16:54.000
+You have all this battlefield data.
+
+16:54.000 --> 16:59.000
+It's a mess. It's not cleaned up. It's not able to be interpreted very easily.
+
+16:59.000 --> 17:14.000
+And so what we're going to do for, I think their most recent contract with the US military is something like $850 million over 10 years, is we are going to work with you, and we will send engineers like consultants to work with you, to build the best of the best of the best.
+
+17:14.000 --> 17:30.000
+The US military is something like $850 million over 10 years, is we are going to work with you, and we will send engineers like consultants to work with you, to build software systems for your company that help you make sense of that data.
+
+17:30.000 --> 17:33.000
+That's what Palantir does. That's how they make their money.
+
+17:34.000 --> 17:49.000
+There was this debate I saw among many investors about whether they were overvalued because actually their products rely on a lot of human labor, like a lot of what they're selling are these, what they call forward deployed engineers who go to work with a particular company.
+
+17:49.000 --> 18:08.000
+So, and this is a fundamentally different business model, and it creates different incentives. And it's also why, you know, if listeners have paid some more detailed attention to Palantir, CARP and others around Palantir often make this big deal about how they care about privacy and they care about civil liberties.
+
+18:08.000 --> 18:18.000
+And again, I think that's something when people who, for good reasons, do not spend as much time thinking about Palantir as I do, say sort of like, what are they talking about?
+
+18:18.000 --> 18:29.000
+That's real. That's not a lie. They don't. Their business model isn't to know everything about me so that they can sell, you know, a diaper company the chance to sell me diapers.
+
+18:29.000 --> 18:41.000
+Their business model is to build, so sell to large enterprises, the tools that, or governments, the tools that those large entities will use to interpret all the data they have.
+
+18:41.000 --> 18:57.000
+And this is a very different model. And so I think, and then I'll stop going on, but I think part of why Palantir, Amazon is also very interesting to me in this way, and I'm writing about Amazon a bit at the present.
+
+18:57.000 --> 19:03.000
+But I think that Palantir represents this other mode of techno power.
+
+19:03.000 --> 19:18.000
+I've been playing with calling it ontological power, where, you know, we now have, in contrast to when I started Logic magazine and started working on this, there's actually now quite a lot of public tech criticism.
+
+19:18.000 --> 19:23.000
+You know, we have had Shoshana Zuboff's book Surveillance Capitalism.
+
+19:23.000 --> 19:39.000
+We have a lot more public awareness and critique, I think, of how companies may be infringed on individual privacy, how they may be, you know, the way Shoshana Zuboff describes it, interfere with our free will.
+
+19:39.000 --> 19:55.000
+What Palantir does is not the same as that. And it represents this other form of power that is no less threatening, I would say more threatening, but where they will build the ways that government agencies communicate with each other and share data and so on.
+
+19:55.000 --> 20:07.000
+I think it's also important to see this because I think it helps us start to understand why their philosophy, ideology, culture is so different from a company like Google.
+
+20:07.000 --> 20:17.000
+If the way you make money is that you let everyone in the world, except in the PRC, except in the People's Republic of China, although they'd love to be there, I'm sure.
+
+20:17.000 --> 20:32.000
+But if you let everyone in the world use your search platform and then build ad tools based on the data you gather about them to sell to people who sell them products, you don't have a strong ideology.
+
+20:32.000 --> 20:51.000
+You can make money off of everyone. Maybe I want to buy a socialist book. Maybe my neighbor wants to buy a neo-fascist book. It doesn't matter to Google. You can have this very sort of libertarian open philosophy and culture, which Google historically has had, changing a bit now that they're trying to get into cloud and defense contracts, which I think is important.
+
+20:51.000 --> 21:11.000
+But Palantir is not doing that. They're selling to very large clients, corporate clients, government clients, and what they're selling is different. And once I think you see that, once I could see that after doing more research on them, the things that had bewildered me about how culturally different they were from companies like Google and Facebook start to make more sense.
+
+21:11.000 --> 21:31.000
+They have a material basis based on the business model and based on the form of power they represent. And there's a good reason why they seem to represent something different from the Californian ideology, sort of libertarian open liberal libertarian consensus that I think historically we've associated with Silicon Valley. They're very different.
+
+21:31.000 --> 21:56.000
+In what I understand as algorithmic governmentality, there's a certain way of trying to extrapolate from the behavior of others, your behavior, for example. So the assumption is that through collecting enough data on people who have similar past behaviors than you do, they're trying to extrapolate a possible future of Moira.
+
+21:57.000 --> 22:17.000
+Within this action, there's a transition from prediction to prescription, actually, because based on the assumptions that are made, then their architectures are built based on this assumption. And it might be totally incorrect, you know, because the past of others is not Moira's future.
+
+22:18.000 --> 22:27.000
+It might be self-fulfilling, you know, if you can't get a loan and then she goes further into debt, so her credit score is worse and worse, it will get harder to get a loan.
+
+22:27.000 --> 22:56.000
+Absolutely, exactly. And there's a, and I think that's it's a specific epistemology of how to approach the idea of data. And I'm wondering whether this is being shared at Palantir as well, because, and I'm asking this because they are acting as if they are handling things differently, not only when it comes to the question of privacy, not only when it comes to the business model, which
+
+22:56.000 --> 23:23.000
+is not collecting these huge amounts of data. But to me, it seemed when I was researching the topic a bit, you know, in preparation for this episode, to me, it seemed as if what Alex Carp actually is trying to say is that those people, they don't understand what data actually is. And when they are acting in the way we just talked about this specific idea of
+
+23:23.000 --> 23:41.000
+governmentality, they are getting things wrong. Yeah. And I'm asking myself, what is he saying then? What is he saying? Is he saying that they are having a different approach and a different epistemological approach on how to handle data within Palantir? And that's actually a big question.
+
+23:41.000 --> 24:07.000
+And it's totally related to the dissertation, I guess, in some way, because there's this kind of behaviorist idea within the dissertation that people do actually not know themselves correctly, and that their behavior is telling more about them and that the drives that are within them are so subconscious that they are not actually able to be aware of it.
+
+24:07.000 --> 24:18.000
+And that through the correlation within the data, you might be able to see the form and that the form is actually the message.
+
+24:19.000 --> 24:38.000
+I certainly see the connection to the dissertation, and I'm trying to think about how it connects to Palantir about what kind of attitude is it toward data to assume that certain kind of inferences can be made and that they are descriptive as opposed to prescriptive.
+
+24:38.000 --> 24:54.000
+You know, I think I talk about in my article, this idea which others like Cathy O'Neill and Wendy Choon have written about, but this idea that machine learning can only replicate the past is a pretty familiar idea, right?
+
+24:54.000 --> 25:04.000
+Because any machine learning algorithm is trained on existing data sets and how you train the algorithm to be right, as you see, did it reproduce the past results from this data set we have?
+
+25:04.000 --> 25:24.000
+This is why, to use an example that I like to use with engineering students, when I speak to them, I sometimes ask, how would you design a non-racist predictive policing algorithm or really any kind of algorithm having to do with policing in the United States?
+
+25:24.000 --> 25:38.000
+And often, you know, they think about it like, oh, well, could you use this? Could you exclude this and control it? And the point of the exercise is to show, in my view, there is no way you possibly could because everything about any data in the United States is
+
+25:38.000 --> 25:48.000
+riven by the history of chattel slavery and economic inequality and so on and so forth. There's no data you could use to train something to predict a different future.
+
+25:48.000 --> 26:04.000
+Wendy Choon, the theorist of technology, has this line I like where she says, what if we looked at machine learning systems the way we look at climate change models? Not like they're predicting something true, but that they're predicting something we want to prevent.
+
+26:04.000 --> 26:13.000
+You know, this is like a bad thing about the past. We don't want to replicate. So I think you're phrasing, and this is very interesting in the context of Karp's dissertation.
+
+26:13.000 --> 26:28.000
+I talk about this a bit in my piece because the dissertation suggests, actually, or at least Adorno's reading of jargon suggests a critique of precisely this kind of decontextualization, right?
+
+26:28.000 --> 26:47.000
+So, you know, if Adorno's talking in a rather different context, but if he says, you know, dwelling has this meaning for Heidegger, but it's been totally abstracted from the context of people losing their homes and being homeless.
+
+26:47.000 --> 27:00.000
+And therefore it sort of mystifies the way Heidegger talks about dwelling, mystifies and spiritualizes this fact, which is actually about the history of human oppression and exploitation.
+
+27:00.000 --> 27:10.000
+I think we could see some really interesting analogies to the way machine learning and algorithmic governmentality might work.
+
+27:10.000 --> 27:19.000
+There are some interesting experiments I want to mention in trying to do something closer to what Wendy Choon is talking about.
+
+27:19.000 --> 27:35.000
+I think, for instance, suggesting what if you took a predictive policing algorithm, but then instead of using it to say, oh, you should police these people more heavily, used it to say, oh, you need more social services here.
+
+27:35.000 --> 27:38.000
+You know, to allocate resources for redistribution or something.
+
+27:38.000 --> 27:40.000
+This is just speculative.
+
+27:40.000 --> 27:47.000
+But I think, so the analogy, if Adorno says about Heidegger, he takes this concept and decontextualizes it and spiritualizes it.
+
+27:47.000 --> 27:53.000
+We could say that's what forms of algorithmic governmentality do with the data they're built on, right?
+
+27:53.000 --> 28:18.000
+They're built on, say, a particular history of structural racism in the US and decontextualized from that become sort of an engine for predicting who is more likely to commit a crime or something in a way that makes that seem as if it's just true and reliable and not connected to these very specific histories of oppression and exploitation.
+
+28:18.000 --> 28:30.000
+In terms of how closely that relates to the work Palantir does, to be quite honest, I think this is a question I'm still trying to answer in some of my research because they've done work with police departments.
+
+28:30.000 --> 28:49.000
+And there's a horrifying, when you were making a joke earlier, Jan, about someone else's past predicting Moira's future, I was thinking of this horrifying interview that some Palantir representative gave in 2015 about their predictive policing program in New Orleans.
+
+28:49.000 --> 29:12.000
+And a critic, it was on national public radio in the United States, NPR, and a critic pointed out the kinds of predictive analytics you're using are well known to disproportionately lead to policing of Black people and Hispanic people and poor people.
+
+29:12.000 --> 29:22.000
+And isn't that a problem? And this spokeswoman, whose name I'm forgetting, said, well, as long as your cousin isn't a drug dealer, you'll be fine.
+
+29:22.000 --> 29:30.000
+Which was amazing to me to have someone say that on public radio, as long as your cousin isn't a drug dealer, you'll be fine.
+
+29:30.000 --> 29:38.000
+And so a very different idea of innocence and guilt and justice and will than the US legal system is supposed to operate with.
+
+29:38.000 --> 29:53.000
+And so I think there is evidence that they have done some work historically that corresponds to the kind of epistemology of data we're talking about.
+
+29:53.000 --> 30:09.000
+But I do, as I understand it, think that a lot of their business is not so much about building these tools of prediction as building means of interpretation for large entities.
+
+30:09.000 --> 30:18.000
+And what kind of epistemology that involves is a really interesting question that I want to think more about, right?
+
+30:18.000 --> 30:27.000
+Because it involves all kinds of assumptions about what data matters, about what is connected to what, who should be able to access what.
+
+30:27.000 --> 30:36.000
+I used earlier the example of immigration authorities accessing health data, like what parts of government should be able to speak to one another.
+
+30:36.000 --> 30:42.000
+But my first reaction is that it may be a bit different than that algorithmic governmentality.
+
+30:42.000 --> 30:47.000
+It may be more about the power to set standards and set terms.
+
+30:47.000 --> 30:56.000
+I'm thinking now of James C. Scott's famous book Seeing Like a State, but it's like, you know, who gets to set how the state sees people's data?
+
+30:56.000 --> 31:02.000
+Seems like maybe it introduces a slightly different problematic, but that's something I'm still thinking through very much.
+
+31:02.000 --> 31:05.000
+So that's a provisional answer.
+
+31:05.000 --> 31:12.000
+Let's dig a little deeper into these alt-right tech liaisons.
+
+31:12.000 --> 31:16.000
+Maybe for our listeners, just some general information.
+
+31:16.000 --> 31:32.000
+In general, the Silicon Valley is thought to be kind of more liberal, and the programming and software developers scene is more or less seen as liberal, libertarian, or maybe even anarchist leaning.
+
+31:32.000 --> 31:34.000
+And we will maybe come back to this later.
+
+31:34.000 --> 31:43.000
+But there are also other tendencies, like the so-called neo-reactionaries, which formed around a software developer with the pseudonym Menchus Mobock.
+
+31:43.000 --> 31:53.000
+His real name is Curtis Jarvin, and Jarvin's neo-reactionary world of thought has also been taken up by the philosopher Nick Land, for example,
+
+31:53.000 --> 32:04.000
+who in turn will be known to many people through his work on accelerationism or the CCRU, the Cybernetic Culture Research Unit, which he co-founded in the 1990s.
+
+32:04.000 --> 32:17.000
+And then there is Peter Thiel, you already mentioned him, co-founder of PayPal and also co-founder of Palantir, and a prominent figure in the right-wing conservative, in this case, ultra-libertarian camp.
+
+32:17.000 --> 32:29.000
+Peter Thiel, for his part, was one of the few who backed Donald Trump when he was running for president in 2016, and subsequently also advised him at least for a time.
+
+32:29.000 --> 32:37.000
+And Menchus Mobock, he was a guest of Peter Thiel on the election evening 2016 to view the election results.
+
+32:37.000 --> 32:47.000
+So there are very short distances between radical reactionary positions such as those of Mobock and central positions of power.
+
+32:47.000 --> 32:55.000
+What kind of worldview is this so-called neo-reactionary dark enlightenment, and what influence does it have in the tech industry?
+
+32:55.000 --> 33:13.000
+It's a great question, and I'm so glad you mentioned that Curtis Yarvin and Peter Thiel watched the election together because it was a friend of mine, Joe Bernstein, who first reported that in 2017 when he got access to all these Breitbart emails, and I thought that was a delicious find.
+
+33:13.000 --> 33:33.000
+And all of the things that he dug up, interestingly, just to add to it, I remember one of the other emails that this reporter got from Breitbart was an email afterwards between Milo Yiannopoulos and Menchus Mobock, Curtis Yarvin, where Milo was saying, well, Peter Thiel isn't that enlightened, right?
+
+33:33.000 --> 33:41.000
+He's not that far, right? And Curtis Yarvin said, oh no, you'd be surprised, he's more enlightened than you'd think, just plays it very close, just is very careful about it.
+
+33:41.000 --> 33:59.000
+And I'll add just one more fun fact, which is that when the New Yorker journalist Andrew Marantz went to the deplorable, which was this big party for the alt-right thrown at the Trump inauguration in January 2017, Peter Thiel was apparently there just being very quiet and not socializing in the background.
+
+33:59.000 --> 34:08.000
+So it's a funny scene in Andrew's book where he runs into Peter Thiel at the deplorable and tries to talk to him and Peter Thiel sort of vanishes and avoids him.
+
+34:09.000 --> 34:19.000
+I think these social networks are complex and it's an area I'm still doing research in.
+
+34:19.000 --> 34:25.000
+I think it's hard to generalize because there are a lot of different ideologies floating around.
+
+34:25.000 --> 34:47.000
+And my macroscopic view is that, you know, since roughly the 1990s, if there was this kind of liberal-libertarian consensus that maybe reflected a certain neoliberal hegemony or compromise, which, you know, we saw throughout U.S. politics, the third way, Democratic, Republican, getting along.
+
+34:48.000 --> 34:57.000
+Sort of cultural liberalism, economic, old-fashioned liberalism, compromise that Richard Barber, who you've had on, I'm sure can speak to better than I will.
+
+34:57.000 --> 35:03.000
+That since 2016, we've seen a kind of crap up of this common sense in the United States.
+
+35:03.000 --> 35:07.000
+And I think a lot of different formations are coming out of that.
+
+35:07.000 --> 35:22.000
+And it's not entirely clear, especially under a Biden administration or whatever strange era we're entering now, preferable to another Trump administration, but nonetheless, strange era, in my view, we're entering how that will play out.
+
+35:22.000 --> 35:51.000
+I think that there's a very strong, I don't know whether to call it elitist, monarchist kind of tendency that someone like Mentis Moebuck represents that takes, again, from critical theory aspects of the critique of liberal modernity, but rather than saying, as, for instance, Habermas does, that then the project of philosophy has to be to help achieve democracy, you know, achieve liberal democracy.
+
+35:51.000 --> 36:01.000
+A promise of it that's never been achieved, instead just takes the critique and says, and this is why modernity and liberal democracy are bankrupt projects.
+
+36:01.000 --> 36:10.000
+I think that there is a strong tendency and one could be philosophical about it.
+
+36:10.000 --> 36:21.000
+You know, there are these Leo Strauss reading groups among venture capitalists in Silicon Valley where they read Strauss and talk about Plato and the Republic of Philosopher Kings.
+
+36:21.000 --> 36:32.000
+You know, I think one could be, and Thiel has a version of this in his reading of Girard, you know, in terms of how the powerful visionaries will always be treated as scapegoats and so on.
+
+36:32.000 --> 36:37.000
+I think that one can go to a lot of philosophy and talk about their ideas.
+
+36:37.000 --> 36:46.000
+One could also, you know, say these are a bunch of mostly white male engineers who think they know what to do and shouldn't have to listen to anyone else.
+
+36:46.000 --> 36:51.000
+I sometimes question how much philosophy we need to explain the worldview.
+
+36:51.000 --> 37:04.000
+But I think, yeah, there are, there's certainly a lot of social proximity between the Thiel Founders Fund Network and these sort of right wing networks in the tech industry.
+
+37:04.000 --> 37:11.000
+A number of sort of prominent figures have turned out to be software engineers or come from that world.
+
+37:11.000 --> 37:15.000
+I think, yeah, that's interesting.
+
+37:15.000 --> 37:21.000
+I think there's this question about Thiel that's come up specifically and about his nationalism.
+
+37:21.000 --> 37:24.000
+You know, what's his name?
+
+37:24.000 --> 37:40.000
+Lucky Palmer, who started Oculus and left, he left Facebook basically over, I forget what the company officially said, but afterwards Lucky Palmer said publicly, you know, it was because they were angry that I was an open Trump supporter and I left.
+
+37:40.000 --> 37:43.000
+He has called it tech nationalism.
+
+37:43.000 --> 37:46.000
+There's a new kind of tech conservatism or tech nationalism.
+
+37:46.000 --> 38:03.000
+I think given Peter Thiel's public support of Trump and the funding he's put into campaigns like those of Chris Kobach, who's a very anti-immigration politician in Kansas and the United States, and the ways he sort of placed people in the White House.
+
+38:03.000 --> 38:16.000
+He placed this chief technical technology officer, CTO, in the White House, that there's been this question of like, well, how does nationalism fit with that kind of libertarianism, which is supposedly anti-statist and anti-government?
+
+38:16.000 --> 38:38.000
+I think the idea that corporations should take over government is actually pretty consistent with this kind of libertarianism and pretty consistent with the sort of monarchist view of someone like mold bug that, you know, the state is failing and you need these engineers who are more competent or sort of philosopher king types to take it over.
+
+38:38.000 --> 38:49.000
+So I think it's actually maybe less contradictory than it appears on its surface, but I do think there's this new nationalist emphasis or has been under the Trump administration.
+
+38:49.000 --> 38:55.000
+Again, what will happen under the Biden administration will be interesting to see.
+
+38:55.000 --> 39:01.000
+I think my prediction is that it won't make that much difference actually to their business.
+
+39:02.000 --> 39:07.000
+But maybe in terms of ideological tone or how they talk about it, it'll be different.
+
+39:07.000 --> 39:09.000
+I don't know. Yeah.
+
+39:09.000 --> 39:11.000
+But there's certainly lots of proximity.
+
+39:11.000 --> 39:19.000
+And I think a similar partial appropriation of critical theories, critique of modernity, is a continuity with the Karp thesis.
+
+39:19.000 --> 39:23.000
+I've gone on way too long as usual, so sorry.
+
+39:24.000 --> 39:42.000
+Ultimately, I'm interested in the various ideological shades of these questions because I think there's actually quite obviously a new competition of meta narratives, you know, the spot that has been taken by neoliberal variants of different sorts.
+
+39:42.000 --> 39:53.000
+It's quite open now because I mean, of course, now we have Biden and it seems as if a neoliberal approach kind of again got their way somehow.
+
+39:53.000 --> 40:04.000
+But I don't think that like in the medium and long run, it is a narrative that is still convincing to the majority so that there is an open spot in terms of meta narratives.
+
+40:04.000 --> 40:18.000
+And that's why I'm also interested in the way that Palantir, Karp and Thiel and others like that try to present themselves as if they have a different kind of meta narrative, also for people in the tech industry specifically.
+
+40:18.000 --> 40:29.000
+And we already have given much space to this reactionary and near reactionary positions, which I think is important because there are many dangers arising there.
+
+40:30.000 --> 40:34.000
+But I think it's also important to look to different positions.
+
+40:34.000 --> 40:39.000
+And that is actually what you're doing with Ben Tarnoff in Voices from the Valley.
+
+40:39.000 --> 40:43.000
+And I have to say I didn't yet read it. I didn't have the time to read it.
+
+40:43.000 --> 40:51.000
+I only listened to interviews with Ben and you and I'm highly excited about the book and I'm very much looking forward to reading it.
+
+40:51.000 --> 40:59.000
+What other positions have you encountered in your work on the book, perhaps especially with regard to this open question of meta narratives?
+
+40:59.000 --> 41:04.000
+It's absolutely this moment of new openings for opening for new meta narratives.
+
+41:04.000 --> 41:08.000
+And we're seeing those on the left and the right and somewhere between.
+
+41:08.000 --> 41:18.000
+And I think also it's important for me as a materialist anyway to attend to what this has to do with changes in the technology and in the business of Silicon Valley.
+
+41:18.000 --> 41:21.000
+Silicon Valley started as a government project, right?
+
+41:21.000 --> 41:24.000
+It was funded by the US military in the beginning.
+
+41:24.000 --> 41:30.000
+It went through this process of privatization and deregulation in the 1990s.
+
+41:31.000 --> 41:38.000
+In that moment of neoliberal consensus forming, if we want to call it that.
+
+41:38.000 --> 41:41.000
+But it may be entering another phase.
+
+41:41.000 --> 41:49.000
+And I think with the rise of new machine learning technologies and particularly new cloud computing technologies,
+
+41:49.000 --> 41:57.000
+the sort of competition for the large government contracts that the client Palantir has may represent a new iteration technologically
+
+41:57.000 --> 42:00.000
+and in terms of business model as well as ideologically.
+
+42:00.000 --> 42:03.000
+And of course, ideology is always tied up in these matters.
+
+42:03.000 --> 42:15.000
+And I think I say this just because I think this battle of meta narratives is often reported on in the media about Silicon Valley or has been reported on as a kind of culture war.
+
+42:15.000 --> 42:19.000
+You know, it's like, oh, these are just different things people think at these companies.
+
+42:19.000 --> 42:26.000
+And I think that it's actually really important to keep paying attention to how it interacts with the business and the technology.
+
+42:26.000 --> 42:30.000
+So to take and then I will answer the question about socialism and more optimistic alternatives.
+
+42:30.000 --> 42:38.000
+But to take a more current example, Amazon recently brought onto its board Keith Alexander,
+
+42:38.000 --> 42:48.000
+who was an architect of the National Security Administration, architect of the spying, you know, global spying that that Edward Snowden revealed in 2013.
+
+42:49.000 --> 42:58.000
+And there is a faction within, you know, this is very clearly, in my view, a bid by Amazon to win more government contracts.
+
+42:58.000 --> 43:02.000
+They lost this cloud computing contract to Microsoft a year or two ago.
+
+43:02.000 --> 43:08.000
+So hiring the chief NSA guy is a bid to try to win those government contracts.
+
+43:08.000 --> 43:17.000
+There is a battle about it happening within Amazon because some engineers are very who are more sort of libertarian digital rights privacy type.
+
+43:17.000 --> 43:25.000
+People are pissed that the sort of most famous guy, most famous for spying on the entire world is is now on their board of directors.
+
+43:25.000 --> 43:36.000
+But this isn't just a matter of competing beliefs, although it is that it also is making it a lot harder for Amazon Web Services to do business in Europe,
+
+43:36.000 --> 43:48.000
+where there's the general data protection regulation and there's just been this new lawsuit knocking down Privacy Shield, which was an old privacy framework for managing data sovereignty and privacy in Europe.
+
+43:48.000 --> 43:59.000
+So it's one of these cases where it is the advent of cloud computing, you know, the growth of cloud computing and these new virtualization technologies creates new business opportunities or the client for that is the state.
+
+43:59.000 --> 44:06.000
+The client for that isn't the individual user who is the user of Google search or Facebook.
+
+44:06.000 --> 44:12.000
+That kind of technology lies on large enterprise customers to make its money.
+
+44:12.000 --> 44:17.000
+And you see this extensively political or cultural clash where you have some people in Amazon.
+
+44:17.000 --> 44:22.000
+A lot of people in Amazon used to work in the military and police who say, you know, maybe they're patriotic.
+
+44:22.000 --> 44:26.000
+And then you have people saying how terrible to have someone who's a famous spy.
+
+44:26.000 --> 44:35.000
+And that looks like a culture where but it is also fundamentally wrapped up in these business questions about whether how they're going to sell cloud to the US or the rest of the world.
+
+44:35.000 --> 44:37.000
+And so that's just a random example.
+
+44:37.000 --> 44:48.000
+But I think as we think about these new meta narratives, it's also really important to always keep in mind how they link up with the state of technologies and how they link up with the business opportunities.
+
+44:48.000 --> 45:10.000
+Similarly, in Google, if we look at these worker struggles or sort of high profile conflicts that happened in the past few years, for instance, over Project Maven, which was a contract to provide a vision recognition software to the US military that some engineers and others within the company objected to.
+
+45:10.000 --> 45:12.000
+And there was sort of a public struggle over this.
+
+45:12.000 --> 45:15.000
+And Google did not end up competing for that contract.
+
+45:15.000 --> 45:20.000
+This was often reported as a kind of culture war between liberal Silicon Valley and more national Silicon Valley.
+
+45:20.000 --> 45:30.000
+But it's fundamentally tied up with how Google is going to continue to find new ways to make money off of all the data they have and ways they know how to read and manage data.
+
+45:30.000 --> 45:39.000
+So all that to say, I just always want to reemphasize that these meta narratives are very tied to business and to, you know, ideology is material.
+
+45:39.000 --> 46:04.000
+But that said, I think as much attention as the neo reaction and the right wing folks have drawn, there also has been, and I sort of alluded to it indirectly there, a lot of left wing organizing and activity within Silicon Valley in the past four or five years, not solely in reaction to the election of Trump, but certainly catalyzed by the election of Trump.
+
+46:04.000 --> 46:16.000
+But it's quite striking, you know, often for many reasons when we hear about Silicon Valley in the media, what we're really hearing about is the ownership class of Silicon Valley, the CEOs of Silicon Valley.
+
+46:16.000 --> 46:20.000
+They're the only ones who are allowed to talk to the press most of the time.
+
+46:20.000 --> 46:26.000
+And but actually Silicon Valley is made up of a bunch of different kinds of people.
+
+46:26.000 --> 46:36.000
+And one, and a lot of them like young people in the United States in general are left of center sort of left even of the neoliberal consensus and one statistic.
+
+46:36.000 --> 46:45.000
+I like to cite, which Ben Tarnoff, who I did this book with, wrote about back in 2016 is that more.
+
+46:45.000 --> 46:52.000
+Let me put this the right way of the top organizations by number of employees who donated to Bernie Sanders.
+
+46:52.000 --> 46:57.000
+So employers were the largest number of employees donated to Bernie Sanders.
+
+46:57.000 --> 47:00.000
+The top five were all tech companies and the nurses union.
+
+47:00.000 --> 47:03.000
+So his nurses and then software engineers.
+
+47:03.000 --> 47:07.000
+And I think that represents a real thing.
+
+47:07.000 --> 47:08.000
+And part of it's about age.
+
+47:08.000 --> 47:13.000
+You know, the tech industry is young and young people in this country tend to be tend to be more left.
+
+47:13.000 --> 47:17.000
+But I also think there's room.
+
+47:17.000 --> 47:28.000
+I think there are these laughter and energies in the tech industry to that logic magazine and my new book have tried to tap into and document and show to people because it's so rarely shows up in the press.
+
+47:28.000 --> 47:34.000
+And and that we can it's interesting to think too about how those connect to new technological possibilities.
+
+47:34.000 --> 47:37.000
+I mean, I personally actually don't think this is a perfect answer.
+
+47:37.000 --> 47:42.000
+But some people say, you know, Amazon has a perfect planned economy, just nationalize it.
+
+47:42.000 --> 47:45.000
+You know, it's not it's not an inevitability.
+
+47:45.000 --> 47:47.000
+I don't think that that's a serious idea necessarily.
+
+47:47.000 --> 47:56.000
+But but there are all kinds of potentialities and possibilities in these technologies and the scale at which they they draw people together.
+
+47:57.000 --> 48:04.000
+And it's not a given that they lead to a handful of tech emperors running everything.
+
+48:04.000 --> 48:08.000
+So our book talks to ordinary people in the tech industry about different experiences.
+
+48:08.000 --> 48:10.000
+And I could certainly say more about that.
+
+48:10.000 --> 48:14.000
+But I already talked quite long enough in answer to that question.
+
+48:14.000 --> 48:21.000
+What I find incredibly exciting is the newly found self-confidence of tech workers as a key industry.
+
+48:21.000 --> 48:30.000
+And the sociopolitical power and ability that arises from from this fact, how can this power be activated and for what?
+
+48:31.000 --> 48:33.000
+It's a good question.
+
+48:33.000 --> 48:44.000
+You know, through Logic magazine, somewhat in my new book, and then through the magazine over the years, we've really tried to document some of these different political actions by tech workers.
+
+48:44.000 --> 48:52.000
+And this term tech worker in English is itself a kind of polemical term, right?
+
+48:52.000 --> 48:58.000
+Historically, the industry has been very segregated or separated by different skill levels.
+
+48:58.000 --> 49:03.000
+There's been this strong ideology that highly paid workers in the tech industry aren't really workers.
+
+49:03.000 --> 49:09.000
+You know, they're creatives, creatives, knowledge workers doing their knowledge thing.
+
+49:10.000 --> 49:21.000
+And and, you know, don't mind the thousands of people working in the cafeteria or on the campus or indeed, you know, in in customer support who make this all run.
+
+49:21.000 --> 49:28.000
+I think so this term tech worker itself has a kind of polemical aim, which is to say everyone who works in technology is a tech worker.
+
+49:28.000 --> 49:30.000
+They can have material interests in common.
+
+49:30.000 --> 49:39.000
+It really came out of this organization called Tech Workers Coalition founded in the Bay Area in 2014.
+
+49:39.000 --> 49:44.000
+And it was, at least to my knowledge, that's and I'm pretty sure it's correct.
+
+49:44.000 --> 49:48.000
+That's the sort of first time that a lot of people use use this term.
+
+49:48.000 --> 49:53.000
+It's an organization co founded by a former cafeteria worker and an engineer.
+
+49:53.000 --> 50:07.000
+And from the very beginning, a big part of their ethos is about bringing together sort of higher paid tech workers and the people who are usually thought of tech workers with all the other folks whose whose labor makes it possible.
+
+50:07.000 --> 50:09.000
+And there was a lot of knowledge sharing.
+
+50:09.000 --> 50:27.000
+I think the blue collar workers tended to have a lot more experience in agitation and organization than the engineers did and unionizing campaigns for those workers, which happened in Silicon Valley in 2015, 2016, 2017 at Cisco, Facebook, IBM, some other big companies.
+
+50:27.000 --> 50:30.000
+There were unions for the for the blue collar staff.
+
+50:30.000 --> 50:36.000
+That was a really big learning experience, I think, for a lot of the engineers.
+
+50:36.000 --> 50:41.000
+I think that it's it's a new kind of consciousness that can go in all kinds of directions.
+
+50:41.000 --> 50:52.000
+One early thing we saw after the Trump election and actually the very first Tech Workers Coalition protest I ever went to was at Palantir headquarters.
+
+50:52.000 --> 51:00.000
+I was there to write about it, not as a protester, but was at Palantir headquarters in Palo Alto the day before the Trump inauguration.
+
+51:00.000 --> 51:05.000
+So I guess that was January 20th, 2017, I think.
+
+51:05.000 --> 51:22.000
+One concern that a lot of tech workers, engineers expressed, was concerned about being made to gather and use data or building products that would be used to police and harass people in ways that they did not support and did not intend.
+
+51:22.000 --> 51:39.000
+So for instance, at that Palantir protest, people spoke about this idea of a Muslim database, which Trump had been talking about on the campaign trail and Palantir's possible complicity in building such a database.
+
+51:39.000 --> 51:45.000
+I think one thing that's been very interesting to watch is that, you know, engineering work is so modular generally.
+
+51:45.000 --> 51:50.000
+It's like engineers work on these very little pieces of software that plug into these very big systems.
+
+51:50.000 --> 52:03.000
+And I think, and I don't mean this as a criticism at all, but I think in that kind of work system, it's very easy to kind of lose sight of what the bigger picture is, or it's very easy for a worker not to know what the bigger picture is.
+
+52:03.000 --> 52:13.000
+But I think that, A, having this threat of Trump using these tools to political ends that people didn't want was politicizing.
+
+52:13.000 --> 52:26.000
+And I think also, and person after person I talked to, talked about this specific meeting that happened between Trump and the tech CEOs, and that happened on December 9th, 2016, and Peter Thiel arranged it.
+
+52:26.000 --> 52:38.000
+But person after person I talked to separately brought up these photographs that came out of this meeting, and these photographs of their liberal bosses sort of going to kiss up to Trump after he was elected.
+
+52:38.000 --> 52:49.000
+And I think that, as silly as it might sound, sort of just this awareness that it's like they were workers in a business, and those businesses were going to comply with who was in power.
+
+52:49.000 --> 53:03.000
+And there's all this ideology about engineers as creative workers who aren't really like workers, they're doing their own thing, but actually, at the end of their day, their bosses would say, no, you're going to make that, that they were actually workers.
+
+53:03.000 --> 53:08.000
+I think the election of Trump had sort of a catalyzing effect on that in all sorts of ways.
+
+53:08.000 --> 53:15.000
+And I mentioned earlier the protests at Google, there were these actions at Google, even before the Google walkout about sexual harassment.
+
+53:15.000 --> 53:28.000
+There were these actions around Project Maiden, which was this vision recognition software in development, potentially for the military didn't happen, and then Project Dragonfly, which was a censored Chinese search engine.
+
+53:28.000 --> 53:34.000
+And there have been a lot of other actions like that against specific projects at tech firms.
+
+53:34.000 --> 53:38.000
+So I think there are a lot of directions it can go. That's one way it's gone.
+
+53:38.000 --> 53:47.000
+I think another key insight, at least at the beginning of that movement, was that engineers realized they could use their sort of privileged position to advocate for certain things.
+
+53:47.000 --> 53:56.000
+I think Google has shut down on it a lot since then, but I used to hear people say, you know, how many engineers did it take to shut down Google search for a day? Not that many.
+
+53:56.000 --> 54:06.000
+They're like a trillion searches a day. You know, if you think about like a dock worker, like where the points of leverage and economy are, it's actually not very many people right there.
+
+54:06.000 --> 54:11.000
+So anyway, yeah, those are some thoughts on it. I think that it's evolved in different directions and will continue to.
+
+54:11.000 --> 54:22.000
+I think what COVID means for it is a really open question because, of course, yeah, it's had a lot of implications. People aren't on their campuses anymore. More work is remote.
+
+54:22.000 --> 54:31.000
+I think it's possible it'll lead to permanent sort of de-skilling of even certain technical jobs or outsourcing of that at a more rapid pace.
+
+54:31.000 --> 54:37.000
+But yeah, there's been a lot of new activity in that area since 2016, for sure.
+
+54:37.000 --> 54:45.000
+Maura, there's a last question that I ask everybody who's on the show. If you think about the future, what makes you joyful?
+
+54:45.000 --> 54:50.000
+Ah, what makes me joyful about the future?
+
+54:50.000 --> 55:10.000
+I think, you know, I think in my personal life, I could have my own answers. I think looking at the political scene, I think that this sort of crack up of a neoliberal hegemony that was in many ways harmful and felt constricting.
+
+55:10.000 --> 55:18.000
+And that's happened since 2016 has opened up a lot of new possibilities. And some of those are frightening and bad.
+
+55:18.000 --> 55:29.000
+But some of those are really promising and exciting. And so I think with a measured kind of optimism, because I don't want to play down all the suffering and sort of frightening things that have happened.
+
+55:29.000 --> 55:42.000
+I think that looking at young people, including tech workers, but also including, you know, young climate strikers and sort of these young feminist activists and so on.
+
+55:42.000 --> 55:50.000
+Looking at those folks and how they're using technological tools or when they work in the industry, building new kinds of tools.
+
+55:50.000 --> 56:01.000
+These are things that make me feel optimistic, if I'm having to be optimistic. I'm very pessimistic all the time.
+
+56:01.000 --> 56:13.000
+But yeah, those are things that make me feel joyful, as well as the thought of whenever it is we get to be in large rooms for a dance party or a bookstore reading.
+
+56:13.000 --> 56:24.000
+Again, I have dreams about going to a bookstore full of people to hear someone read. So yeah, those are some things that make me feel joyful.
+
+56:24.000 --> 56:29.000
+Nice. Moira, thanks a lot for being part of Future Histories.
+
+56:29.000 --> 56:36.000
+Yeah, thanks for having me. This was fun.
+
+56:36.000 --> 56:43.000
+That was our show for today. If you want to know more about Future Histories, please visit futurehistories.today.
+
+56:43.000 --> 56:54.000
+You can support Future Histories at Patreon. For this, go to patreon.com slash future histories and let me know what you think about this episode and the show in general.
+
+56:54.000 --> 57:06.000
+For this, use Twitter, hashtag Future Histories or Reddit or send me an email to future underscore histories at protonmail.com.
+
+57:06.000 --> 57:07.000
+See you next time.
+

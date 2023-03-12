@@ -1,0 +1,590 @@
+start	end	text
+0	6000	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen von Zukunft.
+6000	11000	Mein Name ist Jan Groß und ich freue mich sehr, heute Timo Daum begrüßen zu dürfen.
+11000	15000	Timo ist Autor, Dozent und Vortragender. Von ihm stammen die Bücher.
+15000	22000	Das Kapital sind wir zur Kritik der digitalen Ökonomie, die künstliche Intelligenz des Kapitals
+22000	29000	und ganz frisch erschienen und mit Sabine Nuss gemeinsam herausgegeben, die unsichtbare Hand des Plans.
+29000	36000	Ein großartiger Sammelband, der, wie es in der Einleitung heißt, anknüpfend an die Renaissance
+36000	41000	der sozialistischen Planungsdebatte, eine Planungsdebatte 2.0, voranbringen möchte.
+41000	46000	Und wie es der Zufall will, ist das auch ein Anliegen dieses Podcasts hier.
+46000	51000	Ihr werdet es vielleicht schon mitbekommen haben. Sogar ein recht zentrales Anliegen.
+51000	56000	Und so kommt es, dass die Show Notes zur heutigen Episode auch sehr umfassend ausgefallen sind.
+56000	62000	Es werden im Gespräch auch einige Personen erwähnt, die ich schon bei Future Histories begrüßen durfte.
+62000	69000	Wer also heute zum ersten Mal in Future Histories reinhört und gefallen hat an der Thematik des heutigen Gesprächs,
+69000	75000	dem sei gesagt, dass es dadurch aus ein paar Schätze in den Show Notes zu holen gibt.
+75000	82000	Bevor es jetzt losgeht, möchte ich noch Marte, Matthias und Felix als Patreon-Unterstützer begrüßen.
+82000	85000	Und ich danke Matthias und Fabian für ihre Spenden.
+85000	91000	Euch allen danke ich fürs Zuhören und wünsche viel Freude mit der heutigen Episode Future Histories
+91000	96000	mit Timo Daum zur unsichtbaren Hand des Plans.
+102000	104000	Herzlich willkommen, Timo.
+104000	109000	Ja, Jan, vielen Dank. Ich freue mich sehr, hier zu sein und in so einer ganz illustren Runde
+109000	114000	an dieser Planwirtschaftsdebatte so ein bisschen weiter stricken zu können mit dir heute.
+114000	117000	Sehr schön. Das freut mich auch wirklich sehr.
+117000	121000	Zunächst mal Full Disclosure. Die meisten Zuhörerinnen und Zuhörer werden es vielleicht schon wissen.
+121000	126000	Ich habe die große Freude, in eurem Sammelband auch mit einem Text vertreten zu sein.
+126000	130000	Ich bin aber nicht nur deshalb von diesem Buch wirklich begeistert, sondern vor allem deshalb,
+130000	135000	weil ich überzeugt bin, dass die dann besprochenen Themen einfach verhandelt gehören.
+136000	140000	Und zwar genau jetzt. Das Thema Planwirtschaft, das zieht sich ja wie ein roter Faden
+140000	142000	durch die Suchbewegung dieses Podcasts hier.
+142000	146000	Und wir wollen heute eben versuchen entlang dieser Auseinandersetzung mit eurem Buch
+146000	149000	auch ein paar lose Enden vielleicht da aufzugreifen.
+149000	154000	Aber zunächst mal die Frage, was hat dich denn dazu bewegt, dieses Buch zu machen?
+154000	159000	Ja, also die Idee für dieses Buch stammt tatsächlich von mir.
+159000	166000	Und die gehrte schon so ein bisschen im Laufe des Jahres 2019.
+166000	170000	Da bin ich gestolpert über einen sehr guten Text von Yevgeny Morozov,
+170000	173000	der diese Planungsdebatte noch mal ein bisschen aufgegriffen hat.
+173000	178000	Digitaler Sozialismus, den hast du, glaube ich, auch schon gewürdigt hier in deinem Podcast.
+178000	188000	Dann habe ich das CyberSyn Projekt in Chile, dieser Versuch, die sozialistische Ökonomie zu steuern mit Computern.
+188000	196000	Ist mir noch mal begegnet, auch über Anna Verena Nostov und Felix Maschewski,
+196000	201000	die auch Co-Autoren sind von dem Band.
+201000	206000	Ich habe mich ganz viel mit Stafford Beer beschäftigt, eine ganz schillernde Figur aus der Kybernetik,
+206000	212000	der einerseits mit zu den Begründern der Kybernetik gehört, dann aber auch in Chile.
+212000	215000	Also geflüchtet ist praktisch aus dem Westen nach Chile.
+215000	219000	Weil nach Chile dort der Chef praktisch dieses CyberSyn-Projekts war.
+219000	224000	Ich habe mich sehr viel mit dem beschäftigt für mein letztes Buch, Agiler Kapitalismus.
+224000	228000	Da ging es um eigentlich zunächst mal was ganz anderes, nämlich agile Methoden
+228000	237000	und wie der Kapitalismus diese Revolution in der Softwarebranche rekuperiert, sich aneignet.
+237000	242000	Und da spielt tatsächlich Kybernetik und die Verwirklichung von bestimmten kybernetischen Idealen
+242000	248000	vielleicht im gegenwärtigen Business, Office und Programmierkontext eine Rolle.
+248000	253000	Also es gab da sehr viel, da war aber schon ganz viel im Vorfeld.
+253000	256000	Und dann war ich eine Woche in China.
+256000	260000	Und in China, das hat mich, das geht wahrscheinlich vielen Leuten so, die nach China kommen,
+260000	267000	erst mal umgehauen, was da für eine, ich sag mal, digital kapitalistische Dynamik stattfindet.
+267000	276000	Und das gekoppelt mit einer, ja, immer noch staatlich gelenkten planwirtschaftlichen Perspektive.
+276000	283000	Also in China hat ja von seinem Selbstverständnis her, befindet sich in der Primary Stage of Socialism,
+283000	285000	also in der Vorstufe des Sozialismus.
+285000	289000	Und das hat dann so ein bisschen den Ausschlag gegeben, auch so ein Workshop, bei dem ich da war,
+289000	293000	bei dem ich eingeladen war, von der Rosa-Luxemburg-Schriftung da zu sprechen.
+293000	297000	Daraus ist dann letztendlich dieses Projekt geworden, was den Arbeitstitel hatte,
+297000	301000	Take Back Control, Planwirtschaft im digitalen Kapitalismus.
+301000	305000	Und das habe ich dann bei Sabine, die ich ja sehr, sehr schätze
+305000	311000	und die auch schon tolle Arbeit macht, da beim Dienstverlag, eher so ein bisschen salopp fallen lassen,
+311000	315000	als müsste man mal machen und treibt mich gerade um.
+315000	319000	Und sie kam dann ruckzuck zurück mit, ja, wollen wir machen und so.
+319000	322000	So weit zur Vorgeschichte von dem Projekt.
+322000	326000	Sehr schön. Freut mich sehr, dass das zustande gekommen ist, muss ich sagen.
+326000	330000	Bevor ihr in der Einleitung des Buches dann zur Vorstellung der einzelnen Beiträge übergeht,
+330000	334000	da zeichnet ihr nochmal den Horizont dessen, was es denn da zu beantworten gilt,
+334000	339000	wenn man sich diesen Fragen widmet, die dieser Sammelband behandelt.
+339000	342000	Ich lese das mal vor, Zitat Anfang.
+342000	346000	Wie aber könnte dann eine Alternative zum digitalen Kapitalismus aussehen?
+346000	350000	Wie eine Alternative, in der der Markt ersetzt wäre durch ein soziales Arrangement,
+350000	356000	das kybernetische Steuerungsprozesse nutzt, um möglichst ressourcenschonend und arbeitssparend zu produzieren?
+356000	361000	Wie eine Alternative, in der die Veränderung der Eigentumsformen flankiert wird
+361000	366000	durch eine gesellschaftliche Produktion und Konsumtion, die keine Waren mehr produziert?
+366000	370000	Wie eine Alternative, die die Ambivalenz der digitalen Technologien
+370000	375000	nicht als technologische, sondern als politische Herausforderung begreift?
+375000	376000	Zitat Ende.
+376000	382000	Ihr stellt dann im Satz darauf direkt fest, dass der Sammelband für diese Fragen keine fertigen Antworten liefert.
+382000	387000	Und ich lese das mal als eine durchaus berechtigte Vorsicht.
+387000	390000	Man könnte vielleicht sagen, eine prozessuale Vorsicht
+390000	395000	oder eine Vorsicht, die diesen Gedanken des prozessualen Rechnung trägt.
+395000	399000	Aber gleichzeitig würde ich auch sagen, gehören diese Dinge ja durchaus beantwortet,
+399000	402000	ob früh oder lang oder zumindest mal vorläufig.
+402000	408000	Weil das ist ja im Grunde eigentlich die Leerstelle, die es zumindest meiner Meinung nach auch zu bespielen gilt.
+408000	412000	Du hast dich im Zuge der Herstellung dieses Buches dann jetzt ja intensiv mit diesen Fragen
+412000	415000	und auch unterschiedlichsten Positionen auseinandergesetzt.
+415000	421000	Welches sind denn deiner Meinung nach die entscheidenden Pfeile, an denen es da anzusetzen gilt?
+421000	427000	Ja, also zunächst mal antworte ich jetzt so ein bisschen aus, doch glaube ich nochmal ausweichend.
+427000	432000	Also wir haben in dem Band tatsächlich uns, so würde ich das sehen,
+432000	435000	schwerpunktmäßig mit einer Bestandsaufnahme beschäftigt.
+435000	441000	Man könnte so sagen, These, dass der digitale Kapitalismus, wie wir ihn jetzt haben,
+441000	446000	selber eigentlich Planwirtschaft betreibt, über weite Strecken.
+446000	454000	Und damit gibt es einige Texte von Dominik Pietro und dann der von Sun Wei über China,
+454000	457000	über China und noch ein paar andere, die sich genau mit dieser Realität beschäftigen
+457000	463000	und mit dieser eigentlich verblüffenden Erkenntnis, dass vielleicht diese alte Dichotomie
+463000	470000	und dieser alte Gegensatz von Planwirtschaft versus Marktwirtschaft, der identifiziert wurde,
+470000	474000	mehr oder weniger gleich, mehr oder weniger synonym verwendet wurde mit der Entgegensetzung
+474000	483000	Kapitalismus, Sozialismus, dass der auf den Prüfstand gehört, dass der zunehmend fragwürdig geworden ist.
+483000	489000	Also wenn ein turbokapitalistisches Land wie China, zumindest in bestimmten Aspekten, sagt,
+489000	495000	wir machen aber Sozialismus, wir haben nach wie vor fünf Jahrespläne und planen von oben nach unten durch.
+495000	505000	Wenn kapitalistische Unternehmen wie Walmart, Amazon, aber auch Baidu überall auf der Welt sagen,
+505000	510000	ja, wir, also berühmtes Zitat, was wir in der Einleitung auch zitieren von Jack Ma,
+510000	516000	der sagt, ja, mit Big Data und Algorithmen können wir die Planwirtschaft realisieren
+516000	520000	und die unsichtbare Hand, und daher kommt auch die Inspiration für den Titel,
+520000	525000	die unsichtbare Hand des Marktes hinter uns lassen und daraus haben wir dann gemacht,
+525000	528000	ersetzen durch die unsichtbare Hand des Plans.
+528000	536000	Also Bestandsaufnahme und tatsächlich dieser Blick, diese Analyse und Kritik des gegenwärtigen,
+536000	542000	planerisch agierenden kybernetischen Kapitalismus, also kybernetischer Kapitalismus stand, glaube ich,
+542000	549000	von Simon Schaub oder zumindest im deutschen Sprachraum, der, glaube ich, das muss ich jetzt mal erwähnen,
+549000	553000	an der Stelle im Vorgängerband Marks und die Roboter einen Text geschrieben hat,
+553000	559000	der auch durchaus zu Inspirationen gehört für diesen Band, also an den wir tatsächlich so ein bisschen anknüpfen oder so.
+559000	565000	Das ist wirklich der Link zum vorigen Band, den Sabine Lohs ja auch mit herausgegeben hat
+565000	570000	und der ja auch fantastische Beiträge vereint hat.
+570000	572000	So, jetzt habe ich so ein bisschen den Faden verloren.
+572000	574000	Ach genau, ich bin beim Thema Bestandsaufnahme.
+574000	578000	Also das eine Drittel dieses Bandes ist tatsächlich die Bestandsaufnahme
+578000	583000	und ein Drittel, das war wirklich nötig, so eine gewisse Retrospektive.
+583000	588000	Also da beschäftigen wir uns nochmal mit dem großen Kybernetiker der DDR, Georg Claus.
+588000	595000	Tom Strohschneider hat einen vorrangigen Artikel abgeliefert, der das sozusagen historisch nochmal nachzeichnet.
+595000	600000	Wir schauen, wie viel Planung steckt denn in Marks in einem Artikel.
+600000	604000	Also es gibt schon auch so eine Retrospektive und so einen Blick in die Geschichte
+604000	611000	und eine Rekapitulation vom General-Intellect-Begriff und auch der klassischen sozialistischen Planungsdebatte.
+611000	617000	Und darauf zieht jetzt eigentlich deine Frage. Der dritte Teil, der ist so ein bisschen prospektiv vielleicht.
+617000	625000	Der ist so ein bisschen so ein Ausblick und das geht ja auch in die Richtung vielleicht des roten Fadens hier von deinem Podcast.
+625000	632000	Was denn, wie sieht denn, oder aus meiner Perspektive könnte die Frage für diesen dritten Teil lauten,
+632000	642000	wie sieht denn ein Sozialismus oder eine, ich setze mal anders, wie sieht eine freie Gesellschaft,
+642000	651000	die den Kapitalismus überwindet, aus, wenn Planwirtschaft, also vernünftige Planung statt blinder Markt,
+651000	659000	Datenbasierte Vorausschau statt Konkurrenz und Wettbewerb.
+659000	668000	Also was ja traditionelle Standards waren, sagen wir mal, der linken sozialistischen oder auch kommunistischen Bewegung gegen den anarchischen Kapitalismus
+668000	674000	mit seinen Krisen, seinen Kriegen, seiner Überproduktion und Unterproduktion und Hunger und Reichtum und so weiter.
+674000	684000	Wenn dieses Argument, wir machen vernünftige Planwirtschaft, wir planen die Ökonomie, wegfällt,
+684000	689000	uns aus der Hand geschlagen wird von einem Kapitalismus, der sagt, wir planen doch schon,
+689000	694000	wir planen doch hervorragend mit den besten Programmierinnen und Programmierern, den besten Algorithmen der Welt.
+695000	704000	Wir haben doch den Digital Boardroom, also dieses Bild des Management, das über alle Zahlen verfügt,
+704000	713000	das alle bis ins kleinste Informationen verfügt und daraus nur, wenn nötig eingreift und ein praktisch kubernetesches System am Laufen erhält.
+713000	721000	Das sind schon, es gibt übrigens ein Produkt von SAP, also der größten Business Software Firma der Welt,
+721000	728000	das heißt tatsächlich Digital Boardroom und das verkaufen die an das Management mit genau, also mit Terminologien, mit Bildern,
+728000	735000	die tatsächlich erinnern an die Zentrale von Cybersyn im späten Chile.
+735000	739000	Das ist also praktisch so eine Art Sozialismus des Management, wenn man so will.
+739000	748000	Also wir sehen, was wollen wir dann noch anders machen, wenn doch die Digitalkonzerne sogar schon vorher wissen,
+748000	757000	also optimieren, wie sie Logistik machen, alle Daten bis ins kleinste zur Verfügung haben, um ihre Entscheidungen zu treffen
+757000	763000	und sogar das so unvorhersehbare Konsumentenverhalten vorausschauen können.
+763000	768000	Und dann lass uns doch da noch ein bisschen tiefer eintauchen, weil das finde ich einen total berechtigten Punkt,
+768000	775000	eben was wollen wir dann anders machen, das bezieht sich ja nämlich auch auf diese immer wieder gepushte Erzählung,
+775000	782000	man müsse doch eigentlich sich nur die digitalen Infrastrukturen aneignen und das sage ich jetzt bewusst natürlich ein bisschen polemisch.
+782000	789000	Man müsse sich das nur aneignen und sagen anderen Zielen unterorten und damit sei dann die Sache quasi geritzt.
+789000	792000	Das ist wie gesagt absichtlich ein bisschen polemisch.
+792000	804000	Aber dass dem eben nicht so ist, sondern dass da sagen ja in den technologischen Infrastrukturen schon die Logiken einer kapitalistischen Ausbeutung eigentlich eingeschrieben sind,
+804000	813000	das ist was, was in eurem Buch auch immer wieder eigentlich hervorscheint und dass es eben nicht geht, die Dinge da einfach eins zu eins umzulegen.
+813000	824000	Das bedeutet auch, dass also in einem alternativen kybernetischen Arrangement nicht so ohne weiteres diese technologischen Infrastrukturen übernommen werden könnten,
+824000	827000	die der digitale Kapitalismus eben hervorgebracht hat.
+827000	834000	Aber wie müssten denn dann technologische Infrastrukturen im Allgemeinen und vielleicht auch Daten im Speziellen,
+834000	842000	weil das ist was, was du immer wieder mal auch in deinen Vorträgen ansprichst, die Rolle, die zentrale Rolle von Daten im digitalen Kapitalismus.
+842000	851000	Wie müsste man anders mit diesen Dingen umgehen, damit sie eben dann auch alternativen Zielen dienen könnten,
+851000	860000	ohne sozusagen die eingeschriebenen ja auch Ausbeutungsstrukturen und so weiter sagen mitzuschleifen?
+860000	867000	Also was, was, was gilt es zu bedenken und auch zu tun jenseits der der bloßen Aneignung?
+867000	874000	Ja, super Frage, da würde ich jetzt gerne auch erstmal nochmal mit einer historischen Parallele antworten.
+874000	883000	Der klassische Sozialismus zu Zeiten der Industrialisierung im 19. und zum Beginn des 20. Jahrhunderts,
+883000	892000	der machte ja den Vorschlag, wir enteignen, also wir jagen die Kapitalisten davon,
+892000	898000	also am besten kann man das ganz blumig immer bei Lenin lesen, also wir jagen die Schmarotzer davon,
+898000	905000	also die Klasse, heute würde man sagen die Jeff Bezos und Zuckerbergs und wie sie alle heißen, die jagen wir davon.
+905000	911000	Und die Maschinerie, die sie uns dann hinterlassen haben, die können wir einfach eins zu eins übernehmen
+911000	917000	und der Kopf wird praktisch ersetzt durch ein Arbeiterrat. Und das hört sich heute sehr krude an,
+917000	924000	aber das ist tatsächlich die Vorstellung, wenn Lenin die deutsche Post, die Wilhelminische Post lobt praktisch
+924000	933000	als Paradebeispiel für einen eigentlich schon realisierten Sozialismus, wo man nur noch das Management austauschen muss oder so.
+933000	941000	Und da sieht man dieses riesige Problem, dass da die Formen, in denen so eine Dybbografie agiert,
+941000	948000	und wenn ich das jetzt übertreibe auf den Kapitalismus insgesamt, die Form, die die Gegenstände annehmen,
+949000	956000	nämlich die wahren Formen insbesondere, die gerät bei einem solchen Sozialismuskonzept total aus dem Blick.
+956000	964000	Und das führt dann dazu, dass man den Taylorismus, die Arbeitsteilung, die große Maschinerie mit ihrer Umweltzerstörung
+964000	971000	und dem Raubbau auch an die Gesundheit der Arbeiter oder so, die gerät dann völlig aus dem Blick.
+971000	978000	Und ich glaube, dass wir an so eine Tradition, die das viel radikaler kritisiert,
+978000	985000	also die die Industrie und die Fabrik nicht nur kritisiert, weil sie dem Chef gehört und der Chef Profit macht,
+985000	994000	sondern weil sie in sich intrinsisch, also eine Infrastruktur ist, die zur Ausbeutung und zur Erniedrigung des Menschen konzipiert ist, gedacht ist,
+995000	1005000	dass wir das stärker in den Blick bekommen. Und ich glaube, dass wir heute in der digitalen Welt eine ähnliche Entwicklung vielleicht durchmachen.
+1005000	1010000	Also wir müssen aufpassen, dass wir nicht so eine Art digitalen Sozialismus propagieren,
+1010000	1015000	der bedeutet, wir müssen doch eigentlich die Plattformen, Amazon und wie sie alle heißen, einfach nur enteignen.
+1015000	1019000	Also so leninistisch. Also wir jagen Jeff Bezos davon.
+1019000	1026000	Und dann haben wir doch eigentlich das eine perfekte Vorhersage, Technologie, Maschinerie und so weiter, die wir einfach nur so übernehmen können,
+1026000	1033000	weil also nicht nur, dass wir ja alle wissen, dass die Arbeiterinnen und Arbeiter bei Amazon keine gute Zeit haben.
+1033000	1038000	Das wollen wir denen nicht zumuten, dass das einfach so weitergeht, wenn wir den Laden übernehmen.
+1038000	1044000	Aber es geht noch viel tiefer. Also du hast das schon gesagt, also den Infrastrukturen ist die Ausbeutung,
+1044000	1049000	die sind diese falschen Verhältnisse ja zutiefst eingeschrieben.
+1049000	1055000	Und ein ganz wichtiger Punkt ist, denke ich, ist die Form, die auch die Produkte annehmen.
+1055000	1063000	Also das ist die Warenform. Also in dem Moment, wo wir anfangen zu kalkulieren, Preise zu berechnen,
+1063000	1071000	Handel zu treiben, die Dinge zu messen, zu quantifizieren, entsprechend der abstrakten Arbeit, die in drin steckt oder so,
+1071000	1077000	dann stecken wir schon kniettief eigentlich in der Warenlogik oder so,
+1077000	1081000	die uns letztendlich zwangsläufig auch dann zur Kapitallogik führt.
+1081000	1092000	Und vielleicht noch einen Satz. Also es gibt viele Versuche, die, sagen wir mal, sich auf das organisatorische fokussieren.
+1092000	1098000	Also ich denke jetzt an Cockshut, Cottrell zum Beispiel, die sagen, hier können wir nicht mit Computern dieses und jenes planen,
+1098000	1105000	die sich mit dem Aspekt der Bewältigung von vielen Informationen, die verarbeitet werden müssen,
+1105000	1112000	um ein planerisches Ergebnis in einer Nationalökonomie oder einem Unternehmen zu bekommen, die sich darauf fokussieren
+1112000	1118000	und dabei völlig den Formcharakter aus dem Blick bekommen.
+1118000	1125000	Deshalb dann zum Beispiel, ich habe das hier gerade notiert, also auch bei Savos zum Beispiel,
+1125000	1135000	den du ja hier sehr schön analysiert hast in deinem Beitrag oder so, da wird dann von Arbeitern und Produktionspunkten gesprochen.
+1135000	1143000	Und ganz klar bei Cockshut, Cottrell ist es so, da spürt man dieses Arbeitsregime, diese Arbeitspflicht,
+1143000	1151000	den Arbeitszwang, die Arbeitsmessung, was wir auch von der DDR noch kennen, diese Arbeitspflicht für alle.
+1151000	1157000	Das ist da zwischen den Zeilen explizit, das ist explizit da drin oder so.
+1157000	1161000	Und das ist nicht emanzipatorisch und da müssen wir höchst aufpassen für die.
+1161000	1170000	Absolut, da würde ich total zustimmen. Und das ist ja zum Beispiel auch was, wo ich dann den Beitrag von Stefan Meretz und Simon Sutter-Lüthi,
+1171000	1175000	ich weiß nicht, ob du das kennst, das Buch, der Stefan war auch in Future History schon zu Gast,
+1175000	1180000	den fand ich da total wertvoll in dieser Hinsicht, weil die einfach ganz klar sagen,
+1180000	1187000	nein, ein wirklich eben emanzipatorischer Vorschlag, der muss auf auch einer radikalen Freiwilligkeit eigentlich beruhen.
+1187000	1194000	Und sobald im Grunde dieses Element der Arbeitspflicht eingeführt wird, wie du es ja jetzt eigentlich auch sagst,
+1194000	1203000	fängt man sich damit einfach so massiv viele Folgeprobleme ein, die eigentlich bestimmte Logiken, die man nicht mitschleppen will,
+1203000	1207000	eigentlich reproduzieren, dass das einfach wirklich der falsche Weg ist.
+1207000	1215000	Du hast jetzt also schon eigentlich einen sehr grundsätzlichen Aspekt angesprochen, an den man ansetzen kann,
+1215000	1219000	wenn man denn alternative technologische Infrastrukturen denken will.
+1220000	1226000	Das ist, sagen wir jetzt, relativ abstrakt dann auch, dass man sich von der wahren Form verabschieden sollte.
+1226000	1230000	Kennst du konkrete Beispiele, die du für sehr gelungen hältst?
+1230000	1233000	Und auch speziell, mich interessiert dieser Umgang mit den Daten,
+1233000	1240000	also weil du das, wie gesagt, in deinen Vorträgen auch immer mal wieder anbringst als so eine zentrale Frage, die Daten.
+1240000	1246000	Und weil es mir immer wieder im Ohr klingt, wie zum einen der Benjamin Breton im Interview dann sagt,
+1246000	1253000	wir haben die falschen Daten, Paul Feiglfeld hat das auch schon mal angesprochen in einem Interview für Future Histories.
+1253000	1262000	Mich interessiert das wirklich, wie man auch auf so einer ganz konkreten Ebene diese Dinge dann anders angehen kann.
+1262000	1269000	Ich kenne, in Barcelona gibt es das Projekt von Francesca Bria und Evgeny Morozov,
+1269000	1282000	wo sie auch versuchen, in so Prototypen andere digitale Infrastrukturen eigentlich zu entwerfen, zu denken und zu erproben.
+1282000	1290000	Fallen dir Beispiele ein, in denen du das Gefühl hast, dass eine Praxis jenseits der wahren Form in digitalen Infrastrukturen,
+1290000	1296000	die dann auch skalierbar sind, beispielhaft und für dich sehr erfolgreich umgesetzt worden sind?
+1296000	1306000	Ja, also weil du jetzt gerade Benjamin Breton erwähnt hast, den ich für einen sehr interessanten Beitrag geleistet,
+1306000	1315000	für das, was man Infrastructure Studies nennen könnte, der auch übrigens ganz ähnlich wie Ned Rossiter oder so,
+1315000	1320000	der auch einen Text bei uns hat, der sich auch mit weltweiter Logistik beschäftigt, das ist ganz interessant.
+1320000	1326000	Logistik, also Containerschiffe, wir haben jetzt gerade diesen Fall, dass ein Containerschiff quer liegt im Suez-Kanal
+1326000	1332000	und damit die gesamte Weltwirtschaft, also das war fast wie Covid die Auswirkung.
+1332000	1341000	Also Logistik im Digitalen und im Haptischen oder so sind auch mittlerweile, also nähern sich immer stärker an und werden auch ähnlich analysiert, ähnlich gesehen.
+1341000	1344000	Und da finde ich Benjamin Breton zum Beispiel echt super.
+1344000	1350000	Und das führt mich jetzt zu einer etwas kautzigen Antwort, aber trotzdem denke ich eine passende.
+1350000	1356000	Und zwar die Antwort für ein gelungenes Beispiel für eine digitale Infrastruktur, einen digitalen Code,
+1356000	1362000	der nicht wahrenförmig ist, der skalierbar ist und den wir einfach so übernehmen können, ist TCPIP.
+1364000	1370000	Transmission Control Protocol schrägstrich Internet Protocol ist, viele werden es ja vielleicht auch wissen,
+1370000	1373000	eine der Grundlagen der Funktionsweise des Internets.
+1373000	1381000	Und das ist, sagen wir mal, ein Protokoll, also für diejenigen, die jetzt nicht Informatikerinnen und Informatiker sind,
+1381000	1389000	im Sinne von eher so Protokoll wie bei einem Staatsbesuch als Protokoll von einer Sitzung,
+1389000	1394000	also nicht ein Aufschreiben von dem, was passiert ist, ein Protokollieren von dem, was passiert ist,
+1394000	1397000	sondern ein Set an Regeln, wie Kommunikation stattfindet.
+1397000	1404000	Also TCPIP reguliert praktisch, wie Datenpakete im Internet adressiert und transportiert werden.
+1404000	1408000	Und dieses Adressieren und Transportieren, ich bin jetzt mitten in der Informatik-Vorlesung,
+1408000	1416000	also Adressierung, also wo muss das Paket hin und wie wird es weitergeleitet,
+1416000	1421000	also das sind die zwei großen Probleme, die in jedem Netzwerk, bei jedem Transport,
+1421000	1426000	auch beim Containerschiff oder so, sind das die beiden großen Fragen, die gelöst werden sollen.
+1426000	1435000	Und die Lösung von TCPIP ist, TCPIP ist offen, das heißt, alle können sehen, wie es funktioniert.
+1435000	1444000	Es ist dezentral, also das sind gute Ideen des Internets, die noch aus der kalten Kriegsphase kommen.
+1445000	1453000	Und es ist praktisch radikaldemokratisch, weil alle Pakete sind gleich und es ist skalierbar.
+1453000	1464000	Das heißt, das Prinzip muss nicht geändert werden, wenn einer, 10.000, 100.000, 100.000 Millionen beteiligte Pakete und so weiter dabei sind.
+1464000	1471000	Und ich finde, dieses TCPIP oder so, das ist nicht verändert worden, seit es Anfang der 70er-Jahren entwickelt worden ist,
+1471000	1477000	das ist so geschickt gebaut, dass es tatsächlich im Gegenteil immer besser wird.
+1477000	1482000	Je mehr Server im Internet dazukommen, desto besser funktioniert dieses Prinzip,
+1482000	1489000	dass eben dieser Paket-Transport, der halt auch Engstellen um Schiffen kann, automatisiert etc.
+1489000	1493000	Und ich glaube, Benjamin Bratton macht ja ganz ähnliche Sachen.
+1493000	1506000	Er schaut sich ja zum Beispiel diese 7-Level-Kommunikation vom ISO-Standard an und identifiziert das mit gesellschaftlichen Ebenen oder so.
+1506000	1514000	Ich finde, dass TCPIP ein hervorragendes Beispiel ist, mit dem man, weil es schon mal ganz einfach so ein Argument wie,
+1514000	1519000	wir brauchen dieses klassische Mises-Argument, wir brauchen den Markt, ansonsten wissen wir nicht.
+1520000	1528000	Das sind Dimensionen, die TCPIP bewältigt oder so, die enorm sind, die vor allem viele Größenordnung
+1528000	1532000	das übersteigen, was deren Erfinder sich wirklich vorstellen konnten.
+1532000	1537000	Insofern würde ich sagen, eine ganz kurze Antwort wäre das Internet.
+1537000	1542000	Das ist eine Antwort auf eine solche Infrastruktur, die wir Mediengänger glaube ich einfach so übernehmen können.
+1542000	1547000	Und vielleicht noch eine Antwort auf die Frage, wie sehen denn diese Daten aus, die wir brauchen können?
+1549000	1555000	Eigentlich macht es eine sehr einfache Gegenüberstellung.
+1555000	1564000	Also die Daten, die den digitalen Kapitalismus interessieren, seien es Google oder auch ein privater Unternehmen wie Uber
+1564000	1570000	zum Beispiel im Verkehrssektor oder eine Bank, ein Unternehmen, das Transaktionen verkauft etc.
+1570000	1575000	Das sind immer möglichst personally identifiable information.
+1575000	1580000	Also das sind Informationen, die verknüpft sind mit einem Namen, einer Person, einer Kreditkartennummer.
+1580000	1583000	Das ist das, was wirklich interessant ist oder so.
+1583000	1590000	Das ist ein Kunde oder eine Kundin, dieses Profil ist bares Geld wert.
+1590000	1601000	Jede Information, die damit verbunden werden kann oder so, die kann bei der nächsten Transaktion in bare Münze verwandelt werden.
+1601000	1610000	Ganz anders ist es mit Informationen, die aus öffentlichem Interesse generiert werden.
+1610000	1619000	Wenn ich an so etwas denke wie Verkehrsströme, also wie viele Menschen wollen wo lang gehen oder wo lang fahren.
+1619000	1623000	Wer braucht eine Impfung? Wer hat noch keine Impfung?
+1623000	1634000	Das sind Informationen, in denen die Kreditkartennummer und das Geschlecht der jeweiligen Person in den allermeisten Fällen irrelevant ist.
+1634000	1639000	Das heißt, das ist so ein bisschen eine Faustregel.
+1639000	1644000	Gerade weil wir in Deutschland ja sehr oft sagen, Daten, Datenschutz, persönliche Daten.
+1645000	1653000	Ich glaube, 90 Prozent aller Daten, die im Verkehrsbereich, also die Kommunen zum Beispiel mit denen hantieren, oder 95 Prozent,
+1653000	1658000	haben nichts mit der Person zu tun oder so.
+1658000	1669000	Ist zum Beispiel so etwas wie, wo steht eine Ampel oder wo kann man parken oder wie viele Menschen fahren auf dieser Straße.
+1669000	1679000	Und das gibt uns schon mal so einen Hinweis darauf, dass wir eigentlich einen Großteil der Daten, die wir brauchen, anonymisieren können.
+1679000	1687000	Und deshalb im Umkehrschluss denke ich, wenn wir an so eine kommunistische Datenzukunft denken und Daten als Produktivkraft denken,
+1687000	1694000	nicht im Sinne des privaten Profits, sondern des Nutzens für alle, müssen wir einerseits uns viel weniger Sorgen machen,
+1694000	1700000	weil die können größtenteils anonym sein. Zweitens müssen wir glaube ich viel, viel freigiebiger sein mit diesen Daten.
+1700000	1704000	Das ist eine wirklich sehr angenehme, konkrete Antwort.
+1704000	1709000	Da ziehe ich jetzt dann ein bisschen eine Frage von weiter hinten eigentlich nach vorne,
+1709000	1717000	weil ich darf daraus jetzt eigentlich auch ablesen, dass du im Grunde auch nicht per se irgendetwas dagegen hättest,
+1717000	1722000	dass digitale Technologien jetzt eben eigentlich Umwelt werden.
+1722000	1728000	Also in der letzten Folge habe ich mit Katharina Block und Sascha Dickel gesprochen über posthumane Ordnungen.
+1728000	1733000	Und das geht ja in eine ähnliche Richtung. Ich persönlich hätte ja auch überhaupt gar kein Problem,
+1733000	1740000	damit das digitale oder technologische Ökologien sich da herausbilden und sie es eher als problematisch,
+1740000	1746000	in welcher spezifischen Art und Weise sie sich jetzt gerade als, Benjamin Breton spricht da von
+1746000	1751000	accidental megastructures of planetary scale computation herausbilden.
+1751000	1755000	Also diese spezifische Art, die das jetzt annimmt, finde ich persönlich als problematisch,
+1755000	1762000	aber würde auch eigentlich dahingehend argumentieren zu sagen, es könnte ja andere Formen, andere Technosphären,
+1762000	1768000	kann man da auch sagen, geben, die in ganz anderer Art und Weise strukturiert sind
+1768000	1776000	und die eben vielmehr letztlich an der Bedürfnisbefriedigung einer jeden und eines jeden orientiert sind.
+1776000	1786000	Darf ich da herauslesen, dass du im Grunde eigentlich auch nichts dagegen hast, dass es diesen massiven Anwachs an Daten
+1786000	1795000	und ja auch der Erhebung unserer aller Handlungen sozusagen, dass du nichts dagegen hast, dass es das gibt,
+1795000	1803000	sondern dass es auf die spezifische Form ankommt, in der das erhoben wird und für welche Zwecke es dann in weiterer Folge eingesetzt wird.
+1803000	1811000	Ja, da hast du mich absolut richtig verstanden und auch hier würde ich gerne mit kleinen historischen Parallelen nochmal antworten,
+1811000	1817000	das zu verdeutlichen. Ich habe mich ja bei meinem Beschäftigen mit dem digitalen Kapitalismus in den letzten Jahren
+1817000	1823000	von der Leitfrage leiten lassen, was würde Karl Marx über Facebook denken oder über unsere heutige digitale Welt
+1823000	1829000	und wunderbar illustriert ist diese Haltung von einer Illustration, die auch eines meiner Bücher ziert,
+1829000	1835000	die die Illustratorin Suzanne Massutte congenial angefertigt hat, nämlich Karl Marx, der ein Selfie macht.
+1835000	1840000	Und bei Karl Marx kann man diese Ambivalenz nachlesen, also er ist wirklich, ich schreibe das irgendwo auch,
+1840000	1846000	er ist ein großer Fan des Kapitalismus für seine technologische Innovationsfähigkeit, für seine Dynamik,
+1846000	1859000	für diesen Muff unter den Talaren von vor tausend Jahren wegzufegen und diese wahnsinnige Dynamik anzustrengen.
+1859000	1866000	Und gleichzeitig ist er natürlich der größte Kritiker dieses gewaltsamen Prozesses oder so.
+1866000	1871000	Und ich finde, dass diese Haltung auch gegenüber dem digitalen Kapitalismus und seinen Schöpfungen,
+1871000	1876000	seinen Technologien und seinen Glücksversprechen und Verheißungen und teilweise auch, muss man sagen,
+1876000	1883000	erfüllten Versprechen, dass wir diese gleiche Haltung an den Tag legen können eigentlich.
+1883000	1891000	Und ich halte gar nichts davon, sagen wir mal, das Digitale gegen das Analoge auszuspielen,
+1891000	1897000	also zu sagen, wir brauchen doch den ganzen Kram nicht und ich habe kein Smartphone
+1897000	1904000	und die wollen doch alle nur unsere Daten. Das ist für mich Maschinenstürmerei,
+1904000	1908000	das ist für mich letztendlich reaktionäre, rückwärtsgewandte Kritik, das ist so wie,
+1908000	1917000	ich will zurück zur klappenden Mühle am rauschenden Bach, weil mir die Fabrik das Kapitalismus nicht gefällt.
+1917000	1922000	Also ich will damit nichts, ich habe mich ja schon ausdrücklich dagegengesprochen,
+1922000	1926000	einfach nur die digitalen Technologien zu übernehmen, so wie sie sind.
+1926000	1936000	Aber die grundlegende, also die Electrifizierung zum Beispiel, die wollen wir nicht zurücknehmen.
+1936000	1944000	Und die Digitalisierung und die Datafizierung und die Algorithmisierung so allgemein als wirklich neue Produktivkräfte,
+1944000	1950000	die sollten wir im Gegenteil befreien von ihren Limitationen, von ihren Begrenzungen.
+1950000	1955000	Und ich finde, was wir gerade in der linken oder so noch nicht wirklich verstanden haben,
+1955000	1963000	ist, dass Daten und Algorithmen tatsächlich die Rohstoffe und die Maschinen unseres Zeitalters sind.
+1963000	1970000	Also wir kennen die Exzesse und kennen die Skurrilitäten und die Speerspitze des digitalen Kapitalismus
+1970000	1975000	und kritisieren die auch zurecht für vielfältige, also für den Überwachungsaspekt,
+1975000	1983000	wir haben Amazon schon angesprochen, den Überwachungsaspekt bei der Arbeit und Tellurisierung 2.0
+1983000	1990000	und viele viele Aspekte, die kritisierenswert sind, neue Selbstständigkeit, neues Prekariat auf Plattformen und so weiter.
+1990000	1998000	Aber das befreiende Potenzial, dass wir praktisch gar nicht mehr so sehr an das Material Hand anlegen müssen,
+1998000	2005000	also arbeiten müssen und den Stahl und das Holz bearbeiten, sondern als Menschheit sage ich jetzt mal,
+2005000	2011000	zusehends immer mehr uns mit Informationen produzieren, beschäftigen können.
+2011000	2017000	Also William Flusser hat das, ich zitiere das immer sehr sehr gerne wunderbar formuliert,
+2017000	2021000	hat gesagt, arbeiten, also das mit der Hand arbeiten, ist eigentlich Gegenstände informieren,
+2021000	2026000	also Gegenständen mehr Informationen in eine Form geben und so.
+2026000	2032000	Und damit hat er das Arbeiten am Gegenstand als Sonderfall von Informieren,
+2032000	2040000	Sans-Fras, Informieren allgemein auch historisch oder so verortet, das finde ich nach wie vor eine der schönsten Erkenntnisse eigentlich.
+2040000	2052000	Und wir sind, also das Kapital ist praktisch der Enabler dieser zu dieser algorithmischen Daten basierten informatisierten Zukunft
+2052000	2057000	oder so, die wir praktisch noch befreien müssen, so sehe ich das.
+2057000	2065000	Das heißt, wir brauchen auf der einen Seite eben diesen Befreiungsprozess, der die eigentlichen Potenzialitäten dann erst freisetzen wird.
+2065000	2071000	Im Buch wird aber dann darüber hinaus auch zu Recht dann immer wieder darauf hingewiesen,
+2071000	2078000	dass es eben nicht nur andere Technologien bedarf, um glaubwürdige Alternativen zum digitalen Kapitalismus in die Welt zu bringen,
+2078000	2081000	sondern dass es eben auch anderer Politiken braucht.
+2081000	2089000	Und wir haben jetzt schon festgestellt, dass sich die Politiken dann eben in weiterer Folge natürlich auch einschreiben in die Technologien.
+2089000	2096000	Was glaubst du, wo gilt es da als allererstes anzusetzen bei dieser Frage anderer Politiken,
+2096000	2100000	die dann in weiterer Instanz eben auch andere Technologien informieren können?
+2101000	2111000	Also ich finde, dass wir, dass wir jetzt gerade zu dieser Thematik, also wie sieht eigentlich eine Politik aus
+2111000	2120000	oder wie sieht so eine Art Datengauvernance von links aus, haben wir, finde ich, zwei sehr, also fast schon poetische Beiträge.
+2120000	2124000	Einmal von Ned Rossiter und Ret Loewink, Rauschen versus Kontrolle.
+2124000	2129000	Und ein Sozialismus ohne Cyber-Fetischismus von Cesar Andueles aus Spanien.
+2129000	2133000	Also da freue ich mich auch, dass wir so ein bisschen international auch geworden sind.
+2133000	2141000	Und also gerade bei Cesar Andueles oder so, der ja, sagen wir mal, ein, also viele werden ihn vielleicht kennen.
+2141000	2143000	Der hat auch auf Deutsch schon veröffentlicht.
+2143000	2147000	Es gibt einen Band, mindestens einen Band im Surkampfverlag, Kanaienkapitalismus.
+2147000	2152000	Und er wendet sich gegen den, gegen den Soluzionismus.
+2152000	2156000	Soluzionismus ist ein Begriff, den hat, glaube ich, Evgeny Morozov eingeführt,
+2156000	2163000	als in seiner Weiterentwicklung der Kritik der Californischen Ideologie von Barbrooke und Cameron aus den 90ern,
+2163000	2168000	also als Spezifikum der Ideologie des digitalen Kapitalismus,
+2168000	2177000	diese Zuversicht, diese Sicherheit, dass jedes gesellschaftliche Problem, überhaupt jedes Problem,
+2177000	2184000	gelöst werden könne durch, indem man ganz viele Ingenieure, meistens männlich gedacht, darauf ansetzt.
+2184000	2197000	Also technische Lösungen, gute Leute, ganz viel Rechnerpower ist die Blaupause oder die Generallösung für alle Probleme.
+2197000	2199000	Das bezeichnet Morozov hier als Soluzionismus.
+2199000	2204000	Und Andueles warnt vor einem Soluzionismus von links.
+2204000	2220000	Also er warnt tatsächlich davor, bestimmte Mechanismen, bestimmte Kalküle von Big Data, von Optimierung, von dem Feedback,
+2220000	2230000	dem Rückwärtseinschleifen von User-Antworten, also wo es ja fantastische Beispiele gibt aus dem Bereich des digitalen Kapitalismus,
+2231000	2236000	wie das praktisch produktiv gemacht wird für die Optimierung von Geschäftsmodellen etc.
+2236000	2243000	Er warnt davor, und Andueles warnt davor, diesen Optimierungslogiken ins Netz zu gehen.
+2243000	2254000	Und insbesondere bei Red Loading und bei Rossiter, die machen eigentlich sowas Ähnliches weniger in der politischen Sphäre als so ein bisschen in Social Media
+2254000	2262000	und denunzieren auch so ein bisschen dieses Optimieren von Echo-Kammern und von Followern und sowas.
+2262000	2267000	Also beide waren oder alle drei waren eigentlich davor, nicht in diese Falle zu tappen.
+2267000	2272000	Und das fand ich jetzt persönlich sehr, sehr lehrreich, muss ich sagen.
+2272000	2284000	Und ich habe diese Warnung vor dem in die Falle gehen, vor dem nicht erkennen, dass bestimmte Mechanismen, bestimmte Infrastruktur oder so
+2284000	2288000	schon die Gewaltverhältnisse eingeschrieben haben oder so.
+2288000	2298000	Das habe ich bei den beiden gelernt, dass das auch bei Social Media und auch bei politischen Entscheidungsprozessen zu erkennen,
+2298000	2303000	also ein bisschen alerter zu sein. Also Stichwort digitale Demokratie.
+2303000	2311000	Also können wir nicht mehr Volksbefragungen, wenn ich es jetzt mal mache, vermittelt über digitale Technologien.
+2311000	2315000	Und dann können die Wählerinnen und Wähler sofort ihr Feedback geben und sofort ihre Meinung sagen.
+2315000	2320000	Und dann koppeln wir das zurück und dann kriegen wir ganz schnell fast so eine agile Politik und so weiter.
+2321000	2323000	Und da sagt er halt Vorsicht, Moment mal.
+2323000	2336000	Also da übernehmen wir so eine Business-Optimierungslogik oder so im Bereich politischer Entscheidungsfindung.
+2336000	2339000	Und er spricht dann, spricht sich für Deliberation aus.
+2339000	2346000	Ich glaube, so haben wir das im Original auch gelassen, dieses Wort, was im Spanischen, im Englischen auch sehr gut funktioniert.
+2346000	2353000	Also Debatte, Erörterung statt technische Lösungen, die das Wahlergebnis ausspucken.
+2353000	2355000	Ja, sehr guter Punkt.
+2355000	2362000	Das ist etwas, was ich auch dann im Gespräch mit Rahel Süß in der Folge zur radikaler Demokratie sehr aufschlussreich fand.
+2362000	2365000	Und das hat Rendueles eben, finde ich, da auch gut adressiert,
+2365000	2372000	dass nämlich es ja nicht nur darum geht, eben Meinung 1, 2, 3, 4, 5, 6, 7, 8 zu erheben.
+2372000	2378000	Und das ist quasi dann das Gesamtergebnis, sondern das im Gegenteil eigentlich ja, sagen,
+2378000	2387000	ein kollektives Erarbeiten von Entscheidungen zusammen und nicht ein Nadieren von Einzelmeinungen eigentlich the way to go wäre.
+2387000	2392000	Und das, wenn man eben meint, man könne jetzt digitale Technologien einfach nur zum Erheben dieser Einzelmeinungen nutzen.
+2392000	2396000	Und das sei dann schon emanzipatorisch, dass das eben ein Trugschluss ist.
+2396000	2401000	Und weil wir jetzt heute hier auch den Sammelband eben mitbesprechen,
+2401000	2405000	habe ich hier ein wunderschönes Zitat auch gerade parat von Rendueles.
+2405000	2411000	Und das lese ich jetzt einfach mal vor, weil die Zuhörerinnen und Zuhörer sollen ja ein bisschen ein Geschmack für das Buch bekommen.
+2411000	2413000	Das passt nämlich jetzt hier ganz schön.
+2413000	2420000	Da lautet es nämlich, das sozialistische Dilemma par excellence, das nicht einfach als gelöst vorausgesetzt werden kann, ist,
+2420000	2424000	ob die demokratische politische Debatte auf kontingente Weise etablieren kann,
+2424000	2431000	wie viel Markt, Plan oder Reziprozität eine komplexe, vielfältige und aufgeklärte Gesellschaft benötigt.
+2431000	2437000	Dieses Problem hat selbstverständlich auch technische Aspekte, aber in erster Linie ist es politischer Natur
+2437000	2442000	und hat weniger mit der Frage zu tun, mit welchem Mechanismus individuelle Wünsche zusammengefügt werden,
+2442000	2447000	als damit, wie diese Präferenzen kollektiv entwickelt werden.
+2447000	2455000	Das, also Zitatende, das fasst, finde ich, sehr schön eigentlich, das zusammen, was du jetzt gerade gesagt hast.
+2455000	2463000	Was ich auch super fand an dem Text von Rendueles war, dass er dann eigentlich auch weitergeht mit einer durchaus offenen Selbstkritik
+2463000	2471000	in Bezug auf diese deliberativen Prozesse, weil er nämlich dann auch offen und ehrlich, und das finde ich wichtig, muss ich sagen, feststellt,
+2471000	2478000	es wird nicht leicht. Also deliberative Politiken sind auch immer wieder mühsam. Sie brauchen Zeit.
+2478000	2486000	Sie brauchen vor allem auch gesellschaftliche Strukturen, die in ihren Grundfesten eigentlich schon, oder festen ist eigentlich dann falsch,
+2486000	2494000	in ihrer grundsätzlichen Anlage mit daran arbeiten, diese deliberativen Prozesse mit hervorzubringen,
+2494000	2504000	was dann natürlich auch jeden Wunsch nach einer schnellen Lösung, der ja sowieso natürlich absurd ist, aber noch mehr ad absurdum führt,
+2504000	2509000	weil wir müssen uns, glaube ich, darauf einstellen, das sind Dinge, die brauchen Zeit und müssen erlernt werden.
+2509000	2517000	Ja, das ist vielleicht keine Grundfest, sondern eine Grundflüssigkeit, die teilweise, und ich meine, Zitatende Rendueles ist natürlich
+2517000	2522000	Beteiligter und Kenner der spanischen Politik, und da sehen wir in den letzten Jahrzehnten ja tatsächlich auch beide Extreme.
+2522000	2530000	Also einmal eine wahnsinnige Dynamik, die sehr viel Macht entwickeln kann, sehr schnell, sehr klug auch skalierbar,
+2530000	2537000	um mal so einen digitalen Kapitalismusbegriff dafür zu verwenden sein kann, die dann aber doch tragischerweise wieder
+2537000	2545000	in klassische, fast schon stalinistische Auseinandersetzungen und Freund-Feind-Schematar- und Selbstverfleischungsprozesse münden kann auch.
+2545000	2552000	Also da hat er vollkommen recht oder so, das ist alles andere als ein Patentrezept, das ist ein mühsamer Weg.
+2552000	2558000	Ich habe in der Vorbereitung unseres heutigen Gesprächs in die Future-Histories-Episode mit Ulrike Herrmann
+2558000	2563000	zu kapitalistischer Planwirtschaft reingehört, und mich wird deine Meinung zu diesem Thema wirklich sehr interessieren.
+2563000	2572000	Du setzt dich in deinem Text für den aktuellen Sammelband ja mit dem chinesischen Modell eines digital getriebenen Plattformkapitalismus,
+2572000	2579000	in dem Fall eigentlich staatliche Prägung, auseinander. Und man hat im Zuge der Corona-Pandemie bereits gemerkt, finde ich,
+2579000	2586000	wie innerhalb der politischen Eliten sogenannter westlicher Länder mit Verweis auf die Effizienz des chinesischen Systems
+2586000	2594000	in Sachen Pandemiebekämpfung da bereits Schneisen gelegt wurden, die in Richtung einer zunehmenden Akzeptanz
+2594000	2598000	staatskapitalistischer und auch überwachungspolitischer Modelle deuten, finde ich.
+2598000	2604000	Und ich habe im Gespräch mit deiner Mit-Herausgeberin Sabine Nuss schon mal die Vermutung geäußert, dass ich glaube,
+2604000	2611000	es könnte mittel- bis langfristig auf Seiten der kapitalistisch orientierten MachthaberInnen die Ideologie vom Markt
+2611000	2618000	dann eigentlich als Bauernopfer dienen, um sich auf einen ausgeprägten Staatskapitalismus zu einigen in weiterer Folge.
+2618000	2624000	Und du nennst das mit Verweis auf Philipp Stab und Florian Butollo in deinem Beitrag für den Sammelband
+2624000	2632000	dann auch Staatskapitalismus 3.0. Wie schätzt du die gesellschaftspolitische Großwetterlage in dieser Hinsicht denn ein,
+2632000	2638000	nämlich auch und gerade in Bezug auf die Frage, inwiefern das chinesische Modell für die nächste Runde der Erneuerung
+2638000	2645000	des Kapitalismus so eine Art Speerspitze darstellt? Und César Rendueles, den wir eben auch schon hatten,
+2645000	2650000	der bringt das in seinem Beitrag zum Buch sehr schön auf den Punkt, der schreibt nämlich, Zitat,
+2650000	2658000	Eine autoritäre Lösung des neoliberalen Niedergangs ist sehr viel wahrscheinlicher geworden. Wie siehst du das?
+2658000	2665000	Sehr interessante Thematik und auch hier erlaube ich mir zur Antwort mit einer historischen Parallele.
+2665000	2669000	Ich habe nämlich in den Recherchen für das Buch, ich wusste das gar nicht, einen Aspekt,
+2669000	2674000	der für mich Kybernetik entdeckt oder der mir völlig unbekannt war, nämlich ich habe das irgendwo genannt,
+2675000	2680000	und zwar die Situation nach dem Ende des Zweiten Weltkriegs war praktisch die,
+2680000	2688000	dass der Kapitalismus weltweit auf dem Rückmarsch war. Die Sowjetunion, China, Stalin hat Hitler Deutschland besiegt,
+2688000	2700000	also riesige Länder, die keine Krisen mehr produziert haben, Vollbeschäftigung, also so zumindest das etwas grobe Bild.
+2700000	2706000	Das kann man sich heute gar nicht mehr vorstellen, wie auch ideologisch in der Defensive der Kapitalismus
+2706000	2709000	als für den Faschismus verantwortlich und so weiter gewesen ist.
+2709000	2717000	Und auch die Verfechter des freien Marktes wie Mises von Hayek und so weiter waren eigentlich in der Defensive.
+2717000	2723000	Und da kam ab einem gewissen Zeitpunkt die Kybernetik als neue Metawissenschaft von Steuerung und Kontrolle
+2723000	2733000	eigentlich völlig gerade recht und löste tatsächlich so ein bisschen auch in den Diskursen den freien Markt
+2733000	2738000	und den Liberalismus so ein bisschen ab. Und die Kybernetik war praktisch in einer gewissen Zeit,
+2738000	2745000	auch als Reaktion auf den Sputnik-Schock oder so, dieses Halt, wir hier im Westen mit unserer Freiheit und Demokratie,
+2745000	2750000	wir heimals die Kybernetik, wir sind genauso vernünftig und Feedback kontrolliert und so weiter,
+2750000	2756000	wie die sozialistische Planwirtschaft. Also wir haben es dann in einer Situation gehabt historisch,
+2756000	2766000	wo der Westen in der Defensive war praktisch und der vernünftigen Planwirtschaft dem Sozialismus etwas entgegensetzen musste.
+2766000	2773000	Die Geschichte hat sich dann ganz anders entwickelt, 1989 ist der Sozialismus zerbrochen, der Rest ist Geschichte.
+2773000	2776000	Aber ich würde tatsächlich sagen, und jetzt komme ich zu beantworten deiner Frage,
+2776000	2780000	dass wir uns heute vielleicht in einer ganz ähnlichen Situation befinden.
+2780000	2787000	Nämlich eine Situation in der, und die Pandemie hat das wirklich tatsächlich sehr, sehr stark, sehr, sehr verstärkt.
+2787000	2791000	Wir haben es tatsächlich heute mit einer Systemalternative zu tun.
+2791000	2799000	Also China stellt sich da als planwirtschaftlicher Sozialismus mit chinesischen Charakteristika,
+2799000	2807000	als ein Land, das es geschafft hat, seine gesamte Bevölkerung aus der Armut zu befreien,
+2807000	2814000	das eine technologische Marschrichtung vorgeben kann, das die Pandemie erfolgreich besiegt hat.
+2814000	2821000	Und wohlgemerkt, ich mache mich jetzt nicht zum Anwalt dieser Rhetorik oder so,
+2822000	2830000	aber wir haben es mit dieser Konstellation zu tun, eine neue Bipolarität zwischen dem chinesischen Realsozialismus,
+2830000	2839000	dem sehr digitalen Realsozialismus, könnte man sagen, und dem freien Westen, der irgendwie dem etwas entgegensetzen muss.
+2839000	2845000	Und tatsächlich könnte man wirklich sagen, dass diese 30 Jahre seit dem Niedergang der Sowjetunion,
+2845000	2853000	in der der Systemfeind weggebrochen ist, dann so ersetzt worden ist durch die Terroristen und durch den Islam vielleicht,
+2853000	2864000	vielleicht steuern wir jetzt wieder in eine Phase, in der es so eine ähnliche Systemkonstellation gibt zwischen Sozialismus und Kapitalismus, sage ich jetzt mal,
+2864000	2870000	in der auch der Kapitalismus ein Stück weit in der Defensive ist, weil er sagen muss,
+2870000	2882000	ja, beim Thema Pandemie, Impfstoffe, Testen und so weiter ist der freie Markt vielleicht nicht das ideale Allokationsinstrument.
+2882000	2889000	Und ganz stimmt das natürlich nicht, weil ganz Asien, auch dazu zählt Neuseeland zum Beispiel,
+2889000	2894000	und viele asiatische Länder oder so haben es viel besser organisiert.
+2894000	2901000	Das hat sicher vielfältige Gründe, das ist jetzt eine sehr grobe These, aber ich finde es erstmal ganz fruchtbar zu sagen,
+2901000	2911000	okay, die Marktradikalität, der Neoliberalismus ist tatsächlich in der Defensive.
+2911000	2917000	Und das kann uns erstmal nur recht sein, also egal aus welcher Richtung er unter Druck steht.
+2918000	2925000	Und ich würde tatsächlich sagen, dass sich jetzt ein Raum öffnet, in dem wir als Linke sagen können,
+2925000	2937000	dass also Public Services und vorausschauende Planung ist nicht so unvernünftig, wie man es uns immer verkauft hat in den letzten Jahren.
+2937000	2942000	Und wir müssen uns jetzt nicht gleich zu den Fürsprechern chinesischer Politik machen oder so,
+2942000	2951000	aber dieses Spannungsfeld ausnutzen für eine neue Debatte, da bin ich tatsächlich auch ein bisschen zuversichtlich oder so,
+2951000	2954000	dass da jetzt ein Möglichkeitenraum entsteht oder so.
+2954000	2963000	Das ist total interessant, dass du das jetzt so framesst, weil für mich wäre ja da gar nicht unbedingt ein Systemwiderstreit
+2963000	2975000	im Sinne von auf der einen Seite eben, sagen wir mal, liberaler Kapitalismus und auf der anderen Seite eben dann Staatssozialismus nach dem Modell von China,
+2975000	2984000	sondern ich würde ja eher dazu tendieren, das chinesische Modell auch einer kapitalistischen Logik zuzurechnen in letzter Instanz sozusagen
+2984000	2997000	und hätte das Gefühl, dass das überhaupt nicht jetzt dann von den westlich orientierten Eliten dann abgelehnt wird im Sinne von,
+2997000	3006000	das ist ja ein anderes in Anführungsstrichen sozialistisches System, das ist quasi unser Gegner, sondern dass im Gegenteil, das eigentlich eher emuliert werden wird,
+3006000	3021000	also dass man sagt, okay, diese Form von Staatskapitalismus, so würde ich nämlich jetzt dann das chinesische System doch auch eher denken als jetzt unbedingt als tatsächlichen real gelebten Sozialismus,
+3021000	3033000	das ist etwas, was zielführender ist in Bezug auf zum einen den Erhalt des Kapitalismus und vordergründig zumindest auch, wenn es darum geht,
+3033000	3042000	halt bestimmte kollektiv zu adressierende Probleme zu bewältigen, wie Klimawandel und sagen die ökologischen Probleme,
+3042000	3050000	also ich hätte eigentlich eher das Gefühl, dass das begrüßt wird, ja, also dass natürlich auf der einen Seite quasi das neoliberale Narrativ einem Ende zugeht,
+3050000	3059000	aber das eigentlich, das nicht mündet in einem systemischen Wettstreit zwischen in Anführungsstrichen dem Westen und quasi dem chinesischen Modell,
+3059000	3066000	sondern dass das eigentlich eher bereitwillig aufgenommen wird und hin zu eben einer klassisch kapitalistischen Planwirtschaft
+3066000	3073000	und Ulrike Herrmann hat das zum Beispiel dann in dem Gespräch halt verglichen mit der Kriegswirtschaft in Großbritannien, das fand ich sehr aufschlussreich,
+3073000	3082000	wo es eben auch schon Konstellationen gab, in denen der stark, ganz stark quasi die Produktionsseite mitbestimmt hat,
+3082000	3091000	also ganz konkret vorgegeben, was produziert werden soll, dass aber die eigentlichen Produktionsmittel immer noch in privater Hand waren
+3091000	3099000	und solche Konstellationen, könnte ich mir vorstellen, werden dann das sein, auf was ich sagen, eine kapitalistisch orientierte,
+3099000	3108000	ja, wie sagt man da, Elite, finde ich irgendwie ein schwieriges Wort, aber auf was man sich da einigen können wird, hätte ich ehrlich gesagt das Gefühl, ja.
+3108000	3117000	Ja, ich verstehe, was du meinst, also das ist sicher, das ist Ulrike Herrmanns Punkt und darauf zielte auch so ein bisschen deine Frage
+3117000	3126000	und ich will diesen Aspekt auch gar nicht leugnen, also dass westliche Länder sagen, ach, wir schneiden uns da ein Stück was von ab,
+3126000	3135000	von dem chinesischen Überwachungskapitalismus oder so, aber ich habe tatsächlich, und das ist bei mir jetzt wirklich nur so eine explorative These,
+3135000	3145000	also was ist, wenn wir das ein Stück weit mal für bare Münze nehmen, dass die chinesische Führung sagt, wir sind aber Sozialismus
+3145000	3154000	und tatsächlich hört man in China sehr viele Stimmen, die sagen, ne, es geht nicht um China versus USA, sondern es geht um Sozialismus versus Kapitalismus
+3154000	3164000	und wenn man das ein Stück weit mal als These zulässt, dann, und das dann auch vergleicht mit der historischen Parallele,
+3164000	3176000	dann würde ich sagen, bewegt tatsächlich die Panik oder die Angst vor dem attraktiven Gegenmodell, dass China jetzt zurzeit für den Westen tatsächlich darstellt.
+3176000	3188000	Ich kann mir durchaus vorstellen, dass das, also die Rhetorik, was Chinas Überholen der USA angeht, also die USA ist zum Beispiel die größten zum Krieg oder die größte Bedrohung ist,
+3188000	3199000	China überholt uns und nicht, ach, China macht Überwachungskapitalismus und Unterdrückung und da können wir uns vielleicht die eine oder andere Anleihe nehmen.
+3199000	3208000	Also, und eine Sache möchte ich jetzt aber nochmal betonen, also ich betrachte den real existierenden Sozialismus, also Vietnam und DDR etc.
+3208000	3220000	tatsächlich als interkapitalistischen Parallelweg und Sozialismus nicht als empathischen, positiv besetzten Gegenmodell,
+3220000	3229000	sondern sozusagen mal als Variante auf der gleichen Basis von abstrakter Arbeit, Arbeitszwang, Profit und so weiter und so fort.
+3229000	3243000	Und da würde ich, so würde ich den chinesischen Sozialismus auch sehen, also ganz bestimmt nicht als Advent einer kommenden befreiten Gesellschaft oder so, als Sonderweg vielleicht.
+3243000	3253000	Und das Spannende ist aber, dass dieser Sonderweg, anders als der real existierende industrielle Sozialismus, Amerikanismus, also das Gramsci mal genannt,
+3253000	3267000	der irgendwann gescheitert ist, sieht es bei China so aus, als hätten die vielleicht tatsächlich die besseren Karten, als wäre tatsächlich deren digitale Planwirtschaft letztendlich wettbewerbsfähig sogar
+3267000	3274000	und innovativer und produktiver als das westliche Pendant.
+3274000	3290000	Und da würde sich die Geschichte an dem Punkt nicht wiederholen mit einem Zusammenbruch des digitalen Real Sozialismus und chinesischer Prägung, sondern im Gegenteil mit deren Erstarken oder deren Sieg sogar.
+3290000	3293000	Aber das ist sehr spekulativ.
+3293000	3313000	Aber ich fand das jetzt eine super Einschränkung oder einen super Nachschub, den du da gerade gegeben hast, dass du eigentlich, dass diese Form von Sozialismus dann eben nicht als diese empathische Befreiungsbewegung oder die eigentliche Bewegung quasi ansehen würdest,
+3313000	3329000	sondern eigentlich nur als eine Art von Spiegelung, da würde ich ja total zustimmen, dass da quasi der digitale Kapitalismus gespiegelt wird mit in dem Fall eben auch eine Art staatssozialistischen Vorzeichen sozusagen.
+3329000	3355000	Ja, aber wenn wir dann schon bei diesen Labels sind und also wie würdest du denn dann das benennen, dass erfolgreich die also erfolgreich eigentlich andere Bewegungsgesetze jenseits zum Beispiel auch der wahren Form und so weiter eingeführt hat und tatsächlich eine Form von befreienden Charakter, einen immer separatorischen Charakter trägt?
+3355000	3361000	Also ich würde ganz klassisch mit so Leuten wie Slavoj Žižek oder so vom Kommunismus reden.
+3361000	3383000	Ich würde jetzt aber gerne noch eine kleine Ergänzung machen und zwar diese, also den digitalen Sozialismus à la China, also um das richtig einzuordnen als hässlichen kleinen Bruder, so hat glaube ich Robert Kurz mal den Realsozialismus genannt, das Kapitalismus.
+3383000	3407000	Und hier Lee Phillips und Michael Roswarski, die dieses Buch geschrieben haben, People's Republic of Wal-Mart und Wal-Mart und Amazon unterstellen, sie seien planerische kapitalistische Unternehmen und so weiter, die haben auch, sagen auch an einer Stelle Wal-Mart and the Soviet Union, the two twins in undemocratic planning.
+3407000	3415000	Also Wal-Mart und die Sowjetunion als die zwei Geschwister der undemokratischen Planung, also die haben, die treffen das genau an der Stelle.
+3415000	3432000	Also das finde ich sehr, sehr schön, wunderschön, das Zitat. Und so, also mit diesem Zitat können wir uns auch davon abgrenzen, von diesem, wir können es undemokratische Planung nennen, was wir da in der sozialistischen oder in der kapitalistischen Variante vorfinden.
+3432000	3458000	Sehr schön. Gehen wir vielleicht noch auf ein Thema, das zwar auch schon immer mal wieder in verschiedenen Folgen von mir angesprochen worden ist, aber ich habe das Gefühl, es tut gut, das vielleicht einmal mehr als einmal weniger anzusprechen, weil es einfach eines der gängigen Narrative, eine der gängigen Imaginationen derzeit ist, die im populären Bereich zumindest jetzt sich anschicken.
+3459000	3485000	Zum Beispiel sowas wie klassische neoliberale Erzählungen auch mit abzulösen auf eine Art. Auch wenn die Corona-Pandemie aktuell als starker Treiber der Entwicklung hin zu mehr kapitalistischer Planwirtschaft eben auftritt, würde ich vermuten, dass die ökologische Krise letztlich dann doch das Hauptargument darstellen wird, mit Hilfe dessen sich diese neuen Formen staatskapitalistischer Prägung legitimieren wollen.
+3485000	3506000	Die Grünen, die bringen sich in Deutschland da jetzt ja auch schon in Stellung, um mit der CDU eigentlich zu koalieren, eine Allianz zu bilden. Und allgemein wird das Narrativ vom in Anführungsstrichen grünen Wachstum als Rechtfertigung dafür gepusht, warum an den fundamentalen kapitalistischen Bewegungsprinzipien eben gerade nicht gerüttelt wird.
+3507000	3514000	Vielleicht kannst du ein bisschen deine Einschätzung dazu geben, was es denn auf sich hat mit dem sogenannten grünen Wachstum.
+3515000	3534000	Ja, also ich sag mal so, der Green New Deal, also der Versuch, den Klimawandel zu stoppen, die Wachstumsspirale, den Kapitalismus zu erhalten, aber alles nachhaltig, also sprich so, dass wir als Menschheit in 50 Jahren hier auch auf der Erde leben können,
+3534000	3559000	also dem müssen wir eigentlich die Daumen drücken. Also wir müssen hoffen, dass er gewinnt gegen, sagen wir mal, einen, der das Ganze leugnet, gegen einen fossilen Kapitalismus, der sagt, nach uns die Sintflut, Donald Trump, Martin Winterkorn, Andy Scheuer und so weiter stehen für diesen alten Kapitalismus.
+3559000	3582000	Und das durchaus im Bewusstsein, dass es um eine Perpetuierung des Kapitalismus geht und dass das vielleicht ein bisschen auf den Versuch ist, die Quadratur des Kreises, aber angesichts der tatsächlich Schwäche irgendeiner Alternative weltweit bleibt es uns praktisch nur zu hoffen, dass wenn man es an Personen festmacht,
+3582000	3602000	Joe Biden, Xi Jinping und Ursula von der Leyen mit ihren Green New Deals es irgendwie schaffen, die Klimaerwärmung auf zwei Grad zu reduzieren und wir alle hier demnächst 50 Millionen Elektroautos in Deutschland haben anstatt 50 Millionen Dieselfahrzeuge.
+3602000	3627000	Und ich betone, also ich sehe schon an deiner Reaktion, du denkst jetzt, das kann er jetzt nicht ernst meinen, das ist tatsächlich das kleinere Übel und ich habe gerade beim Thema Auto und Verkehr oder so wirklich in den letzten Jahren genug Auseinandersetzungen gehabt mit Leuten, die sagen, ja, aber das Elektroauto kann ja auch nicht die Lösung sein und dann können wir doch gleich beim Dieselauto bleiben unterm Strich.
+3627000	3643000	Also ich drücke diesen grünen Kapitalismus tatsächlich die Daumen, das ist sozusagen das Mindeste und ich hoffe aber natürlich, dass es uns gelingt, auch den zu überwinden, auch den auf eine Spur zu bringen, sich wirklich vom Wachstum verabschieden zu müssen.
+3643000	3658000	Aber im Moment ist es so, ich weiß nicht, also der größte, es gibt noch einen Kommentar dazu, also der größte Treiber in Deutschland in Richtung weg vom Diesel hin zu Elektroautos ist tatsächlich Tesla gewesen.
+3658000	3675000	Ich meine, Tesla ist ein privat kapitalistisches Unternehmen, die sündhaft teure Sportwagen herstellen, also es ist unökologisch, was man sich vorstellen kann, aber auf der Skala, auf der wir uns hier bewegen, Stichwort Dieselskandal, doch temporär ein Bündnispartner.
+3675000	3689000	Das ist vielleicht illustriert vielleicht, wie katastrophal unsere Situation hier eigentlich ist. Aber vielleicht noch einen etwas interessanteren oder vielleicht einen positiven Punkt zu dieser Frage Öko Kapitalismus, so hast du das hier beschrieben.
+3689000	3697000	Es gibt von Andreas Malm das Buch Fossil Capital, also fossiler Kapitalismus, was ich sehr empfehlenswert finde.
+3697000	3720000	Da zeichnet er nach, wie der wie das Kapital praktisch die fossilen Brennstoffe für sich entdeckt hat als Möglichkeit, sich tatsächlich von sowas wie Nachhaltigkeit und den Ressourcen, die vor Ort sind, zu emanzipieren, die auch Energie zu vollkommen zu kommunizieren und Weltmarkt fähig zu machen.
+3720000	3728000	Und eine seiner Thesen in dieser wunderbaren Analyse des fossilen Kapitalismus ist, dass wir da nur rauskommen mit einer Planwirtschaft.
+3728000	3739000	Also er sagt, wenn ich ihn richtig verstanden habe, der Klimawandel ist so dringend, dass da nur eine weltweite Planwirtschaft eigentlich uns wieder rausführt.
+3739000	3749000	Also diese diese Prinzipien, Marktprinzipien mit CO2 Zertifikate handeln oder so, dafür ist es zu spät, das wird nicht das wird nicht hinhauen.
+3749000	3761000	Das finde ich eine sehr spannende These. Und das könnte tatsächlich sein, dass wir auf so eine Art Öko Staatskapitalismus oder tatsächlich hinsteuern.
+3761000	3766000	Spannende Geschichte, aber ich weiß es nicht.
+3766000	3770000	Ja, also ich glaube definitiv, dass wir darauf hinsteuern, ehrlich gesagt.
+3770000	3776000	Und ich befürchte halt vielleicht ein bisschen im Gegensatz zu deinen Ausführungen zum geringeren Übel sozusagen.
+3776000	3783000	Ich befürchte, dass es eben genau gar keine Lösung tatsächlich darstellt, sondern dass es im Grunde mehr oder minder ein Feigenblatt ist,
+3783000	3792000	was versucht eigentlich zu ermöglichen, dass, wie gesagt, an den Grundfesten der Bewegungslogik eigentlich eben nicht gerüttelt wird.
+3792000	3804000	Und ich musste nur so lachen, weil du eben Joe Biden, Ursula von der Leyen und Xi Jinping als das Bild dir als Hoffnungsträger zu sehen,
+3804000	3806000	das streut sich in mir einfach so viel.
+3806000	3810000	Ja, das ist irgendwie nicht I cannot compute it.
+3810000	3814000	Aber deswegen musste ich nur so ein bisschen lachen.
+3814000	3818000	Aber ich habe verstanden, du meinst nur als geringeres Übel, oder?
+3818000	3820000	Genau, da geht es uns beiden gleich.
+3820000	3824000	In mir sträubt sich auch alles, wenn ich dieses Bild aufmache.
+3824000	3830000	Aber es illustriert, denke ich, wie desperate wir eigentlich sind oder so.
+3830000	3838000	Also wie wenig tatsächliche Gegenalternativen wir in dieser Pandemie, Klimawandel oder so.
+3838000	3844000	Das müsste eigentlich eine Situation sein, in der man sagt, das ist die Chance von so etwas wie einer tatsächlichen revolutionären Bewegung.
+3844000	3846000	Das ist fast schon eine revolutionäre Situation oder so.
+3846000	3855000	Aber wir sind so schwach, was die Alternativen angeht oder so, dass wenn Xi Jinping sagt, wir bauen statt 1000 neue Kohlekraftwerke nur 500 oder so,
+3855000	3859000	die ganze Ökobewegung applaudiert oder so. Das ist wirklich ein bisschen traurig auch.
+3859000	3863000	Und aber vielleicht als Abschluss dann doch noch die Frage, wo würdest du denn,
+3863000	3873000	also auch wenn du feststellst, dass es deiner Meinung nach eben zu wenig ausgearbeitetes Potenzial gibt im Sinne der Alternative,
+3873000	3879000	was wäre denn dann trotzdem die Alternative, auf die du am meisten Hoffnung setzt?
+3885000	3887000	Die Pause können wir hinterher rausschneiden.
+3887000	3889000	Nein, die ist total aussagekräftig.
+3889000	3901000	Ich weiß nicht, ich antworte mal so. Ich habe ja Physik studiert, ich bin ja Physiker.
+3901000	3913000	Und gleichzeitig jemand, der diesen Begriff des Fortschritts oder so durchaus sehr kritisch sieht.
+3913000	3919000	Also da hat die Linke ja auch historisch eine Entwicklung vollzogen oder so.
+3919000	3926000	Von das komplett positiv zu besetzen bis hin zu Chernobyl zu sagen, hier sozialistisches Atomkraftwerk ist gut.
+3926000	3931000	Und seit Chernobyl gibt es einfach diesen Erkenntnisprozess, dass man das grundsätzlich hinterfragt.
+3931000	3939000	Und trotzdem ist es so, dass es, denke ich, eine historische Achse gibt oder so.
+3939000	3942000	Also die Zeit läuft einfach nur in eine Richtung.
+3942000	3947000	Und das bedeutet, Sachen, die erfunden worden sind, Sachen, die schon mal gedacht worden sind,
+3947000	3950000	die schon mal ausprobiert worden sind, die können wir nicht wieder löschen.
+3950000	3954000	Also in unserer heutigen Zeit gehen Informationen kaum verloren.
+3954000	3962000	Das heißt, dass das Wissen der Welt, Wikipedia hat ja gerade 20 Jahre jetzt Jubiläum, das Wissen der Welt wächst.
+3962000	3966000	Und diese Akkumulation ist erst mal per se gut.
+3966000	3973000	Und hinter dieses Level von Erkenntnis kann auch nicht zurückgefallen werden.
+3973000	3977000	Und diese Kurve steigt, denke ich, exponentiell an.
+3977000	3983000	Und das finde ich spannend, das finde ich auch hoffnungsvoll.
+3983000	3988000	Weil wir heute in wenigen Jahren Entwicklungen stattfinden, die sonst Jahrzehnte gedauert haben.
+3988000	3991000	Und deshalb kann es auch plötzlich ganz schnell gehen.
+3991000	3997000	Also es ist jetzt vielleicht sehr allgemein, aber ich finde tatsächlich diese Akkumulation des Wissens der Welt
+3997000	4001000	und ich finde, die Pandemie hat noch mal ganz klar gezeigt, also wir waren jetzt in der Entwicklung,
+4001000	4006000	also wir als Menschheit, in der Entschlüsselung des Genoms, in der Entwicklung eines Impfstoffs,
+4006000	4012000	in dem weltweiten Teilen von Informationen über diese Pandemie oder so,
+4012000	4015000	ungefähr eine Größenordnung schneller als vor zehn Jahren.
+4016000	4024000	Und das ist also bei allen Mastendeals und nationalen Politikern und Disparitäten und Ungerechtigkeit oder so
+4024000	4030000	eine Zahl, also ein Faktum oder so, das einfach in die richtige Richtung geht.
+4030000	4036000	Sehr schön. Das nimmt jetzt natürlich dann schon in gewisser Weise meine Abschlussfrage vorweg,
+4036000	4044000	die ich einem jeden einer jeden stelle, nämlich Timo, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+4045000	4048000	Ach, ich dachte eigentlich, das war jetzt schon die Antwort auf die Frage.
+4048000	4053000	Das war, würde ich mal sagen, so eine Art, also mein persönliches accelerationistisches Statement,
+4053000	4059000	also Geschwindigkeit und Beschleunigung ist gut, wenn es um das Wissen der Welt geht.
+4059000	4068000	Und dieses, also andere haben das schon mal General Intellect genannt und als zukünftige Produktivkraft Number One ausgemacht.
+4068000	4070000	Und dem würde ich mich anschließen.
+4070000	4073000	Wunderbar. Timo, vielen Dank für das Gespräch.
+4073000	4074000	Gerne.
+4079000	4081000	Das war Future Histories für heute.
+4081000	4083000	Vielen Dank fürs Zuhören.
+4083000	4088000	Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+4088000	4094000	Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder auf Reddit.
+4094000	4098000	Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+4098000	4102000	Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+4102000	4110000	Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com-futurehistories vieles an Zusatzmaterial.
+4110000	4114000	Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.

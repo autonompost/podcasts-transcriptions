@@ -1,0 +1,1637 @@
+WEBVTT
+
+00:00.000 --> 00:05.600
+Herzlich Willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:05.600 --> 00:09.700
+Mein Name ist Jan Groß und mein heutiger Gast ist Simon Schaub.
+
+00:09.700 --> 00:17.500
+Simon forscht an der Universität Basel zum Verhältnis von Selbstorganisation und Kontrolle in der Industrie 4.0
+
+00:17.500 --> 00:22.700
+und ist Mitglied des Z, des Zentrums für Emanzipatorische Technikforschung.
+
+00:22.700 --> 00:26.800
+Ich hatte schon einmal die Freude, einen Gast vom Z begrüßen zu dürfen.
+
+00:26.800 --> 00:32.400
+In Folge 10, da war Philipp Frei zu Gast und wir haben über Zukunft der Automatisierung gesprochen.
+
+00:32.400 --> 00:35.700
+Ich kann euch diese Folge nur wärmstens ans Herz legen.
+
+00:35.700 --> 00:41.500
+Heute geht es um Kybernetik und Wirtschaftsdemokratie. Das klingt dann zum Beispiel so.
+
+00:41.500 --> 00:44.900
+Wirtschaftsdemokratie hat immer drei Elemente.
+
+00:44.900 --> 00:54.000
+Das erste Element ist, dass prinzipiell davon aufgegangen wird, dass alle Menschen dieselben Anreste darauf haben,
+
+00:54.200 --> 00:57.700
+ihre Bedürfnisse zu befriedigen. Das ist im Kapitalismus nicht gegeben,
+
+00:57.700 --> 01:03.900
+sondern befriedigt werden prinzipiell nur kaufkräftige Bedürfnisse, seien sie auch noch so abwegig,
+
+01:03.900 --> 01:10.900
+während andere existenzielle Bedürfnisse, die aber keine Kaufkraft aufweisen, sozusagen nicht befriedigt werden können.
+
+01:10.900 --> 01:16.000
+Das wäre das erste Kriterium. Das zweite Kriterium wäre, dass alle Menschen,
+
+01:16.000 --> 01:21.800
+dass davon ausgegangen wird, dass alle Menschen, die in Arbeit sind, das Recht darauf haben,
+
+01:21.800 --> 01:24.600
+in gleicher Weise darüber mitzubestimmen, wie sie arbeiten möchten.
+
+01:24.600 --> 01:30.400
+Auch das ist ja bekanntlich gegenwärtig nicht der Fall, sondern wir müssen uns eben
+
+01:30.400 --> 01:38.600
+den abstrusesten Kontrollregimes unterwerfen und sozusagen es gibt immer mehr Burnouts
+
+01:38.600 --> 01:44.200
+aufgrund von immer weiter wachsenden Leistungsanforderungen und so weiter.
+
+01:44.200 --> 01:54.200
+Und das dritte Element wäre dann ein globales, dass alle Menschen gleichermaßen ein Anrecht darauf haben,
+
+01:54.200 --> 02:00.200
+weiter in einer Welt leben zu können, die eben nicht geprägt ist von Umweltkatastrophen,
+
+02:00.200 --> 02:05.700
+Seuchen und so weiter, also sozusagen ein Anrecht auf die Unversehrtheit des Planeten.
+
+02:05.700 --> 02:11.200
+Wenn euch Future Histories gefällt, dann erzählt es doch mit einem Freund oder einer Freundin,
+
+02:11.200 --> 02:15.200
+von dem ihr glaubt, dass ihr oder ihm Future Histories vielleicht auch gefallen könnte.
+
+02:15.200 --> 02:19.200
+Viel Spaß bei der heutigen Folge mit Simon Schaub.
+
+02:25.200 --> 02:27.200
+Herzlich willkommen Simon.
+
+02:27.200 --> 02:29.200
+Dankeschön.
+
+02:29.200 --> 02:34.200
+Einer der Themenschwerpunkte dieser Staffel von Future Histories, der lautet Herrschaft 4.0
+
+02:34.200 --> 02:38.200
+und da hört man ja auch schon so eine gewisse Nähe zu deinem derzeitigen Forschungsgebiet
+
+02:38.200 --> 02:42.200
+Selbstorganisation und Kontrolle in der Industrie 4.0 heraus.
+
+02:42.200 --> 02:49.200
+Herrschaft 4.0 verweist aber auch noch auf ein anderes Thema, mit dem ich mich viel in diesem Podcast hier befasse.
+
+02:49.200 --> 02:53.200
+Eigentlich von Anfang an kann man sagen, ein Thema, das ich auch unglaublich wichtig finde
+
+02:53.200 --> 02:59.200
+für den Versuch des Verstehens unserer technopolitischen Gemengenlage, nämlich die Kybernetik.
+
+02:59.200 --> 03:02.200
+In Folge 1, da ging es schon einmal explizit um die Kybernetik
+
+03:02.200 --> 03:05.200
+und ich habe damals Benjamin Seibel die Definitionsfrage gestellt,
+
+03:05.200 --> 03:07.200
+ich möchte sie gerne auch dir stellen.
+
+03:07.200 --> 03:09.200
+Was ist Kybernetik?
+
+03:11.200 --> 03:19.200
+Also Kybernetik ist im ursprünglichen Wortsinne eine Universalwissenschaft von Kommunikation und Kontrolle.
+
+03:19.200 --> 03:24.200
+So wurde es von dem Begründer der modernen Kybernetik Norbert Wiener definiert.
+
+03:24.200 --> 03:30.200
+Und das ist ein ganz interessantes Crossover aus allen möglichen Disziplinen.
+
+03:30.200 --> 03:36.200
+Also es hat angefangen mit einem sehr technischen Paradigma, wo Norbert Wiener beauftragt wurde,
+
+03:36.200 --> 03:43.200
+eine quasi automatisierte Flugabwehrkanone zu entwickeln für die Engländer im Zweiten Weltkrieg,
+
+03:43.200 --> 03:46.200
+um besser Nazi-Bomber abschießen zu können.
+
+03:46.200 --> 03:54.200
+Und da hat er ein Feedback-System entwickelt, wo man quasi die Bewegungsmuster der Flugzeuge eingespeist hat
+
+03:54.200 --> 03:57.200
+und sich daraufhin die Kanone automatisch ausrichten sollte,
+
+03:57.200 --> 04:03.200
+einschließlich der vorausberechneten Ausweichmanöver der Nazi-Bomber.
+
+04:03.200 --> 04:07.200
+Und das war quasi eine technische Entwicklungsaufgabe.
+
+04:07.200 --> 04:09.200
+Und davon war Norbert Wiener dann so begeistert,
+
+04:09.200 --> 04:15.200
+dass er daraus eine Universaltheorie zur Erklärung der ganzen Welt entwickelt hat.
+
+04:15.200 --> 04:18.200
+Und die hat danach nichts weniger als den Anspruch gehabt,
+
+04:19.200 --> 04:27.200
+quasi mit einer einzigen Theorie alle Vorgänge auf der Welt sowohl von Lebewesen wie Menschen und Tieren
+
+04:27.200 --> 04:32.200
+als auch von Maschinen erklären zu können und auf Grundlage dieser Erklärung
+
+04:32.200 --> 04:38.200
+auch eine Steuerungstheorie zu entwickeln, wie diese verschiedenen Systeme effizient gesteuert werden können.
+
+04:38.200 --> 04:46.200
+Das hört sich jetzt für unsere sehr sozusagen spezialisierten Wissenschaftsverständnisse etwas abgefahren an.
+
+04:46.200 --> 04:51.200
+Da kamen auch ziemlich viele abstruse Ideen heraus aus diesem Konglomerat,
+
+04:51.200 --> 04:54.200
+was sich dann als Kybernetik verstanden hat.
+
+04:54.200 --> 04:56.200
+Aber das war sozusagen der Ursprung.
+
+04:56.200 --> 05:01.200
+Und in unserem heutigen digitalisierten Zeitalter,
+
+05:01.200 --> 05:06.200
+wo wir überall quasi digitale Technologie haben in allen möglichen Lebensbereichen,
+
+05:06.200 --> 05:13.200
+würde ich sagen, entwickelt sich das fast wieder hin in Richtung so eines universalistischen Steuerungsanspruch,
+
+05:13.200 --> 05:17.200
+von dem wir heutzutage auch von einer Art Neo-Kybernetik sprechen können.
+
+05:17.200 --> 05:24.200
+Du hast in dem wirklich sehr interessanten Sammelband Radikale Demokratie Theorie einen Beitrag.
+
+05:24.200 --> 05:31.200
+Und da beschreibst du im Grunde so zwei unterschiedliche Formen von Radikalität in Bezug auf Kybernetik.
+
+05:31.200 --> 05:35.200
+Auf der einen Seite gibt es eine Spielart der Kybernetik,
+
+05:35.200 --> 05:40.200
+die im Grunde auf der radikalen Leugnung des politischen Fuß
+
+05:40.200 --> 05:43.200
+und dann auf eine Form des mathematischen Regierens hinausläuft,
+
+05:43.200 --> 05:48.200
+die glaubt, man könne mithilfe von Big Data nun an einen Punkt kommen,
+
+05:48.200 --> 05:54.200
+bei dem man per Berechnung quasi in Anführungsstrichen objektiv korrekte Politik betreiben kann.
+
+05:54.200 --> 05:57.200
+Das ist quasi diese eine Seite der Radikalität,
+
+05:57.200 --> 06:03.200
+also der, sagen wir mal, radikal-kapitalistischen Kybernetik vielleicht auch, kann man sagen.
+
+06:03.200 --> 06:10.200
+Du argumentierst dann aber darauf hin, dass es eigentlich auch noch eine andere Form von radikaler Kybernetik geben könnte,
+
+06:10.200 --> 06:16.200
+die ist in einer anderen Hinsicht radikal, nämlich radikal-demokratisch im Sinne der Selbstorganisationen.
+
+06:16.200 --> 06:21.200
+Kannst du uns vielleicht diese beiden sehr unterschiedlichen Zugänge zur Kybernetik etwas erläutern?
+
+06:21.200 --> 06:23.200
+Ja, das kann ich versuchen.
+
+06:23.200 --> 06:26.200
+Also diese beiden unterschiedlichen Zugänge,
+
+06:26.200 --> 06:31.200
+ich habe das dann den Zugang über Selbstkontrolle und den Zugang über Selbstorganisation genannt,
+
+06:31.200 --> 06:36.200
+was die gemeinsam haben, ist eigentlich eine gemeinsame Souveränitätskritik.
+
+06:36.200 --> 06:44.200
+Also schon die Gründerväter der Kybernetik haben ihre Steuerungstheorie wesentlich aus einer Kritik
+
+06:44.200 --> 06:49.200
+an hierarchischen und deterministischen Steuerungsmodellen entwickelt.
+
+06:49.200 --> 06:53.200
+Und zwar haben die gesagt, wenn wir jetzt mal Organisationen nehmen,
+
+06:53.200 --> 06:56.200
+die haben Ähnliches auch über Maschinenformulite, dabei lassen wir die erstmal jetzt beiseite.
+
+06:56.200 --> 07:01.200
+Wenn wir Organisationen nehmen, ist es allein aus Effizienzgründen ein Problem,
+
+07:01.200 --> 07:05.200
+wenn wir quasi einen Souverän haben an der Spitze der Organisation.
+
+07:05.200 --> 07:08.200
+Das ist im Kapitalismus dann meistens der Manager,
+
+07:08.200 --> 07:14.200
+der irgendwie autokratisch alles zu bestimmen versucht, was dort passieren soll.
+
+07:14.200 --> 07:19.200
+Also der legt sozusagen alles fest, was dort geschieht.
+
+07:19.200 --> 07:26.200
+Und der Rest der Organisationsstruktur ist dann dazu da, das tatsächliche Handeln des Systems,
+
+07:26.200 --> 07:31.200
+also der Organisation, möglichst eng an den Willen des Souveräns zu koppeln.
+
+07:31.200 --> 07:35.200
+Und da sagen die Kybernetiker eben, ja das ist ineffizient,
+
+07:35.200 --> 07:40.200
+also nicht gar nicht aus moralischen Gründen irgendwie aufgrund von den Problematiken,
+
+07:40.200 --> 07:44.200
+die Herrschaft so mit sich bringt, sondern das ist einfach aus Effizienzgründen problematisch,
+
+07:44.200 --> 07:52.200
+weil eigentlich die Level von Organisationen, die möglichst nah an ihren praktischen Tätigkeitsbereich dran sind,
+
+07:52.200 --> 07:56.200
+über diesen jeweils eigenen Bereich eben am meisten wissen
+
+07:56.200 --> 08:02.200
+und auch sich am besten darüber verständigen können, ob es sachliche Veränderungen in diesem Bereich gibt,
+
+08:02.200 --> 08:09.200
+die anderartige Behandlungen erfordern, als das vielleicht vom Souverän vorgegeben wurde.
+
+08:09.200 --> 08:18.200
+Und dann wurde eben gesagt, deswegen müsste man eine eher dezentralisierte Version der Entscheidungsfindung implementieren,
+
+08:18.200 --> 08:25.200
+aber eben auch nicht sozusagen völlige unorganisierte Willkür, wo alle das machen, worauf sie gerade Lust haben,
+
+08:25.200 --> 08:32.200
+sondern quasi ein wesentlich auf dem Feedback Prinzip basiertes Steuerungsmodell,
+
+08:32.200 --> 08:41.200
+wo also Daten erhoben werden aus den zu steuernden Systemen und die dann wieder zurückgeleitet werden
+
+08:41.200 --> 08:49.200
+und sich das System dann auf Grundlage dieser Daten organisieren soll, aber die Feedbacks eben dafür sorgen sollen,
+
+08:49.200 --> 08:52.200
+dass das zurückgekoppelt wird an die Steuerungsziele.
+
+08:52.200 --> 08:58.200
+Das hört sich jetzt irgendwie alles etwas abstrakt an, aber das ist eben das Prinzip,
+
+08:58.200 --> 09:05.200
+was ich am Anfang mit der Flugabwehrkanone schon erwähnt hatte, dass also Daten erhoben werden
+
+09:05.200 --> 09:13.200
+über die Bewegung der Flugzeuge, die werden dann zurückgeleitet in das System, also die Kanone,
+
+09:13.200 --> 09:18.200
+und die richtet sich dann entsprechend auf. Und so ähnlich hat man sich das dann auch für Organisationen vorgestellt.
+
+09:18.200 --> 09:24.200
+Und dann gibt es quasi eine Aufspaltung in zwei verschiedene Richtungen.
+
+09:24.200 --> 09:28.200
+Einmal, und das ist dann tatsächlich die dominante Richtung geworden,
+
+09:28.200 --> 09:33.200
+eben die Richtung, die hauptsächlich die Effizienz hervorhebt,
+
+09:33.200 --> 09:41.200
+und das ist dann die kybernetische Managementlehre, die eben hauptsächlich auf Selbstoptimierung aufbaut.
+
+09:41.200 --> 09:47.200
+Also die haben quasi den Tailorismus als Rationalisierungsparadigma kritisiert,
+
+09:47.200 --> 09:55.200
+weil der Tailorismus quasi für Organisationen und Unternehmen standardisierte Effizienzkriterien,
+
+09:55.200 --> 10:00.200
+Zielvorgaben vorgibt, also wie das der klassische Souverän auch machen würde.
+
+10:00.200 --> 10:05.200
+Der wird dann berechnet, wie bestimmte Abläufe funktionieren müssen, damit sie am möglichst effizientesten sind.
+
+10:05.200 --> 10:10.200
+Und das müssen dann alle einhalten. Und da hat man dann eben gesagt, nein, das ist eben viel besser,
+
+10:10.200 --> 10:16.200
+wenn man den Untergebenen quasi Entscheidungsbielräume lässt und ihnen nur die Ziele vorgibt
+
+10:16.200 --> 10:20.200
+und sie quasi auf einen permanenten Optimierungskurs bringt.
+
+10:20.200 --> 10:27.200
+Und das ist dann die Idee der Selbstkontrolle und Selbstoptimierung in dieser Richtung gewesen,
+
+10:27.200 --> 10:32.200
+dass man quasi den Unternehmensteilen, den Organisationsteilen, also dann Personen
+
+10:32.200 --> 10:36.200
+immer wieder Feedbacks zu ihren konkreten Handlungen gibt
+
+10:36.200 --> 10:40.200
+und sie auf dieser Grundlage ihr Handeln optimieren lässt.
+
+10:40.200 --> 10:44.200
+Aber die Ziele dessen sind immer schon sozusagen vordefiniert.
+
+10:44.200 --> 10:52.200
+Und dann gibt es die andere kybernetische Tradition, die eben das Selbstorganisationsprinzip mehr in den Fokus rückt,
+
+10:52.200 --> 10:57.200
+wo quasi gesagt wird, nein, das ist eigentlich keine konsequente Kybernetisierung,
+
+10:57.200 --> 11:03.200
+wenn am Ende doch die Ziele, auf die sich alles zu bewegen soll, vorgegeben sind,
+
+11:03.200 --> 11:08.200
+sondern wir müssen quasi eine radikale Form der Selbstorganisation wählen,
+
+11:08.200 --> 11:19.200
+indem die Betroffenen quasi deliberativ auch über die Ziele des Systems oder der Organisation mitbestimmen können.
+
+11:19.200 --> 11:21.200
+Das ist jetzt auf einer sehr abstrakten Ebene.
+
+11:21.200 --> 11:25.200
+Vielleicht können wir nachher in verschiedenen konkreteren Beispielen nochmal darauf zurückkommen,
+
+11:25.200 --> 11:27.200
+was das dann eigentlich konkret bedeutet.
+
+11:27.200 --> 11:35.200
+Ja, oder vielleicht gib doch einfach mal ein Beispiel für eine Form von radikaldemokratischer Kybernetik,
+
+11:35.200 --> 11:42.200
+die vielleicht auch mal ausprobiert worden ist oder in einem praktischen Projekt angedacht worden ist.
+
+11:42.200 --> 11:48.200
+Zum Beispiel das Project CyberSyn gäbe es da ja wahrscheinlich als ein Beispiel, oder?
+
+11:48.200 --> 11:50.200
+Das fällt schon in diese Kategorie für dich auch?
+
+11:50.200 --> 11:52.200
+Genau, das fällt in diese Kategorie.
+
+11:52.200 --> 11:55.200
+Also ich glaube, das habt ihr in dem Podcast ja auch schon besprochen.
+
+11:55.200 --> 12:05.200
+Das war eben die Idee, in Chile unter Salvador Allende eine demokratisch selbstorganisierte Planwirtschaft zu etablieren.
+
+12:05.200 --> 12:10.200
+Also da war die politische Situation eben eine Koalition aus verschiedenen linken Kräften,
+
+12:10.200 --> 12:15.200
+die eben keine zentralistische Planwirtschaft nach dem sowjetischen Modell haben wollten,
+
+12:15.200 --> 12:20.200
+oder zumindest konnten sich darauf nicht einigen. Einige in der Koalition wollten das schon.
+
+12:20.200 --> 12:23.200
+Aber es gab eben auch noch eher anti-Autoritärekräfte.
+
+12:23.200 --> 12:27.200
+Und deswegen hat man dann den Kybernetiker Stefford Bier eingeflogen,
+
+12:27.200 --> 12:35.200
+der dann quasi dort die Infrastruktur für eine kybernetische Planwirtschaft etablieren sollte.
+
+12:35.200 --> 12:41.200
+Und das sollte, grob gesagt, so funktionieren, dass auf der Ebene der Fabriken,
+
+12:41.200 --> 12:47.200
+die quasi sozusagen die zentralsten Fabriken im Land waren, immer wieder täglich,
+
+12:47.200 --> 12:52.200
+also gar nicht so viel, wie wir uns das sozusagen heute unter voll digitalisierten Bedingungen vorstellen,
+
+12:52.200 --> 13:00.200
+dass täglich immer wieder Produktionsdaten erhoben werden und die in einen zentralen Rechner fließen sollten
+
+13:00.200 --> 13:07.200
+im Wirtschaftsministerium in Santiago de Chile und dort dann quasi zusammengerechnet werden sollten
+
+13:07.200 --> 13:12.200
+und quasi nach volkswirtschaftlichen Maßstäben befragt werden sollten.
+
+13:13.200 --> 13:17.200
+Also da wurde dann immer gefragt, wenn wir die Fabriken jetzt so weiter produzieren lassen,
+
+13:17.200 --> 13:20.200
+wie sie jetzt gerade produzieren, geht das dann volkswirtschaftlich auf?
+
+13:20.200 --> 13:23.200
+Können wir dann alle Bedürfnisse decken? Und wenn das nicht der Fall war,
+
+13:23.200 --> 13:26.200
+sollten eben Feedbacks zurückgegeben werden an die einzelnen Fabriken,
+
+13:26.200 --> 13:30.200
+wo gesagt wurde, das passt so nicht, bitte passt euren Plan an.
+
+13:30.200 --> 13:33.200
+Aber eben keine dirigistische Anweisung, wo dann schon mit gesagt wird,
+
+13:33.200 --> 13:37.200
+ihr müsst das und das machen, sonst wird der Fünfjahresplan nicht erfüllt,
+
+13:37.200 --> 13:41.200
+sondern quasi dieses Selbstorganisationsprinzip stand da im Zentrum.
+
+13:41.200 --> 13:45.200
+Das ist das, was technisch schon implementiert wurde und was geplant war,
+
+13:45.200 --> 13:50.200
+war darüber hinaus auch die Produktion sozusagen direkt aus dem Konsum heraus
+
+13:50.200 --> 13:57.200
+emergieren zu lassen, also dass quasi an Güterabgabestellen oder Läden
+
+13:57.200 --> 14:02.200
+direkt erhoben werden soll, was für Güter konsumiert wurden
+
+14:02.200 --> 14:09.200
+und dass das dann aggregiert wird und daraus quasi direkt die Produktionsaufgaben abgeleitet werden.
+
+14:09.200 --> 14:16.200
+Und das überwindet eben das Dilemma, was sich frühere sozialistische Regierungen
+
+14:16.200 --> 14:21.200
+immer sozusagen stellen mussten, nämlich dass man irgendwie im Vorhinein
+
+14:21.200 --> 14:26.200
+eben typischerweise im Fünfjahresmaßstab planen musste, jetzt wie viele Jeans
+
+14:26.200 --> 14:30.200
+und wie viele Schoko-Osterhasen die Bevölkerung brauchen wird
+
+14:30.200 --> 14:32.200
+und das im Normalfall eben nicht aufging.
+
+14:32.200 --> 14:36.200
+Das ist eben das, was dann die Liberalen dem Sozialismus vorgeworfen kann,
+
+14:37.200 --> 14:40.200
+dass Sozialismus nicht funktionieren könne, weil er nicht rechnen kann,
+
+14:40.200 --> 14:45.200
+weil er eben nicht über die Marktinformationen verfüge darüber, was dann gebraucht wird.
+
+14:45.200 --> 14:51.200
+Und da hat man dann eben mit diesem System sozusagen den letzten Beweis geliefert,
+
+14:51.200 --> 14:57.200
+dass es eben doch Möglichkeiten gibt, sogar auch effizienter als Preise
+
+14:57.200 --> 15:01.200
+darüber zu bestimmen, was eigentlich benötigt wird, was konsumiert wird
+
+15:01.200 --> 15:04.200
+und dann die Produktion direkt daran koppeln.
+
+15:04.200 --> 15:07.200
+Und eben die Bedürfnisse in den Vordergrund zu stellen
+
+15:07.200 --> 15:12.200
+und nicht einfach nur die Verkaufbarkeit und die kaufkräftige Nachfrage
+
+15:12.200 --> 15:16.200
+als einziges ausschlaggebendes Kriterium hinzunehmen.
+
+15:16.200 --> 15:21.200
+Ja, die Bedürftigkeit und die Bedürfnisse der Menschen ins Zentrum stellen,
+
+15:21.200 --> 15:25.200
+das wäre ja eigentlich was, wo man denken würde, das ist ein No-Braner,
+
+15:25.200 --> 15:28.200
+aber leider passiert vieles nicht innerhalb dieser Logik.
+
+15:29.200 --> 15:34.200
+Du hast mit Georg Jochum zusammen ein Paper geschrieben
+
+15:34.200 --> 15:37.200
+mit dem Titel Steuerungswende.
+
+15:37.200 --> 15:42.200
+Das schließt eigentlich ziemlich direkt an diese Fragestellung an, kann man sagen.
+
+15:42.200 --> 15:45.200
+Weil ihr euch da, finde ich, auch die Frage stellt,
+
+15:45.200 --> 15:48.200
+was bedeutet das denn in der heutigen Zeit?
+
+15:48.200 --> 15:54.200
+Also dieses Projekt ist ja unvollendet geblieben von Stafford Beer in Chile
+
+15:54.200 --> 15:56.200
+unter Alliende, weil es den Putsch gab.
+
+15:56.200 --> 16:01.200
+Und unter den heutigen technologischen Bedingungen,
+
+16:01.200 --> 16:06.200
+das ist auch ein roter Faden, der sich durch diesen Podcast hier zieht,
+
+16:06.200 --> 16:11.200
+unter den heutigen technologischen Bedingungen stellt sich wirklich noch mal manifest
+
+16:11.200 --> 16:16.200
+die Frage, ob es nicht so etwas geben könnte wie eine kybernetische Planwirtschaft
+
+16:16.200 --> 16:18.200
+in Zeiten ihrer technischen Machbarkeit.
+
+16:18.200 --> 16:23.200
+Was versteht ihr unter Steuerungswende und warum braucht es eine solche Transformation?
+
+16:23.200 --> 16:32.200
+Also wir unterscheiden da erstmal zwischen einer objektiv bereits gegebenen Dimension
+
+16:32.200 --> 16:37.200
+und dann einer Dimension, die man als konkrete Utopie bezeichnen könnte.
+
+16:37.200 --> 16:41.200
+Und der Begriff der Steuerungswende ist eigentlich eher eine Normative,
+
+16:41.200 --> 16:44.200
+der sich auf diese konkrete Utopie bezieht.
+
+16:44.200 --> 16:49.200
+Aber dem liegt tatsächlich eine technologische und politisch-ökonomische Entwicklung zugrunde,
+
+16:49.200 --> 16:51.200
+aus der sich das eben ableiten lässt.
+
+16:51.200 --> 16:56.200
+Und die lässt sich kurz gesagt so zusammenfassen, dass wir eigentlich,
+
+16:56.200 --> 17:00.200
+auch wenn die mediale Debatte manchmal anderes vermuten lässt,
+
+17:00.200 --> 17:08.200
+derzeit in der technologischen Entwicklung ist eigentlich weniger mit einem großen Automatisierungsschub zu tun haben,
+
+17:08.200 --> 17:14.200
+als viel mehr mit größeren Innovationen in der Prozessleuerung.
+
+17:14.200 --> 17:24.200
+Das hat einfach damit zu tun, dass global gesehen fast die Wachstumsraten so gering sind,
+
+17:24.200 --> 17:30.200
+dass sich die Investition in avancierte Robotik und Automatisierungstechnologie kaum lohnt.
+
+17:30.200 --> 17:36.200
+Also das ist in den meisten entwickelten Ökonomien gerade so,
+
+17:36.200 --> 17:41.200
+dass man irgendwie einen Rückkehr eher zu billiger Arbeitskraft hat.
+
+17:42.200 --> 17:46.200
+In Deutschland ist das auch ganz stark verbunden, da redet man nicht gerne drüber,
+
+17:46.200 --> 17:52.200
+aber gerade mit den Technologien, die eben mit dieser sogenannten Industrie 4.0 verbunden werden,
+
+17:52.200 --> 17:56.200
+also digitale Arbeitssteuerung, wird ganz stark die Hoffnung verbunden,
+
+17:56.200 --> 18:03.200
+dass man damit einfach ungelernte Arbeitskräfte in Form als hochqualifizierte Produktionskontexte einbinden kann
+
+18:03.200 --> 18:14.200
+und dass das eben wesentlich flexibler ist als das Kapital in permanente Produktionsinfrastruktur wie Robotik zu investieren,
+
+18:14.200 --> 18:19.200
+wo es dann fixiert ist. Und wenn man es eben in menschliche Arbeitskraft investiert,
+
+18:19.200 --> 18:23.200
+ist das eben erstens wesentlich billiger und zweitens kann man die einfach schnell wieder entlassen,
+
+18:23.200 --> 18:27.200
+wenn es gerade dann Absatzprobleme gibt bei den produzierten Unternehmen.
+
+18:28.200 --> 18:36.200
+Und daraus ergibt sich eben eine Investition, die viel mehr in die Richtung einer Rationalisierung von Prozessabläufen geht.
+
+18:36.200 --> 18:42.200
+Und das lässt sich mit digitalen Mitteln sehr gut bewerkstelligen.
+
+18:42.200 --> 18:51.200
+Und da gibt es sozusagen zwei Innovationsgrundlagen. Das eine ist, dass es mittlerweile möglich ist,
+
+18:51.200 --> 19:00.200
+sehr, sehr billig digitale Sensorik herzustellen. Also es ist möglich, in alle möglichen Produktionsmittel digitale Sensorik einzubauen
+
+19:00.200 --> 19:07.200
+und so genau zu erheben, was in bestimmten Produktionsabläufen und Arbeitsabläufen passiert.
+
+19:07.200 --> 19:12.200
+Also das ist eigentlich das, was der Kubernetes immer gefehlt hat. Die wollten ja auch immer sozusagen Daten erheben
+
+19:12.200 --> 19:20.200
+und auf Grundlage dieser Daten Feedback geben, aber hatten einfach nicht die Mittel quasi aus den Organisationen genügend Daten zu erheben.
+
+19:20.200 --> 19:27.200
+Und das ändert sich jetzt technisch, weil man eben durch diese digitale Sensorik die Möglichkeit hat, alles Mögliche zu tracken.
+
+19:27.200 --> 19:37.200
+Und dann wiederum werden diese Daten aber nicht einfach klassisch zur Überwachung genutzt, sondern dann zurückgeleitet,
+
+19:37.200 --> 19:45.200
+zum Beispiel eben dann an Beschäftigte, damit denen die sozusagen Optimierungsfeedbacks gegeben werden können.
+
+19:46.200 --> 19:55.200
+Ein sehr radikales Beispiel davon auf der individuellen Ebene, was ich auch soziologisch untersuchen durfte, ist quasi,
+
+19:55.200 --> 19:59.200
+da mussten Beschäftigte Handschuhe tragen, die in allen Fingergliedern Sensoren hatten,
+
+19:59.200 --> 20:06.200
+dann überwacht haben, was die Leute bei ihrer Arbeit gemacht haben. Und immer wenn sie eine unerwünschte Bewegung gemacht haben,
+
+20:06.200 --> 20:13.200
+hat das vibriert die ganze Hand. Also das ist quasi wie so eine kybernetische Konditionierung mit unmittelbarem Feedback.
+
+20:13.200 --> 20:20.200
+Und das sollte aber dann eben auch die Leute dazu incentivieren, quasi immer effektivere Bewegungsabläufe zu erfinden.
+
+20:20.200 --> 20:30.200
+Das gibt es jetzt quasi auf individueller Ebene, aber dasselbe kybernetische Prinzip wird eben auch auf Organisationsebene angewandt.
+
+20:30.200 --> 20:37.200
+Es gibt ja schon lange die sogenannte Enterprise Resource Planning Software, das ist sowas wie SAP,
+
+20:37.200 --> 20:45.200
+wo sozusagen alle Unternehmensressourcen hineinlaufen und dann berechnet werden kann, wie die Ressourcen am besten zugewiesen werden können.
+
+20:45.200 --> 20:54.200
+Und das ist jetzt im Zuge der neueren technischen Innovationen des sogenannten Internets der Dinge eben möglich,
+
+20:54.200 --> 21:00.200
+das zu koppeln an alle anderen Datenquellen, allen möglichen Produktionsmitteln und so weiter,
+
+21:00.200 --> 21:07.200
+sodass man quasi dann Feedback Loops in verschiedene Richtungen entwickeln kann,
+
+21:07.200 --> 21:16.200
+sodass wenn sich eben an einer Produktionsstelle eine Verzögerung ergibt oder irgendwelche neuen Faktoren auftauchen,
+
+21:16.200 --> 21:24.200
+dass das dann quasi auch direkt in die Planungsebene einfließen kann und sich dann automatisch nach diesem Selbstorganisationsprinzip dort die Planung anpasst.
+
+21:25.200 --> 21:35.200
+Ja, also das wäre jetzt dieses sozusagen aktualisierte neokybernetische Prinzip, was wir mit der aktuellen digitalen Technologie haben.
+
+21:35.200 --> 21:41.200
+Das erst mal kurz zur objektiven Grundlage. Es hört sich jetzt erst mal noch nicht sehr emanzipatorisch an.
+
+21:41.200 --> 21:43.200
+Nein, nicht wirklich.
+
+21:43.200 --> 21:52.200
+Wenn ich hier quasi dauernd anvibriert werde bei der Arbeit, ist es eher die gezielte Eliminierung menschlicher Reflexivität.
+
+21:52.200 --> 21:59.200
+Also ich werde quasi behandelt wie der Pavlovsche Hund, wo quasi über die Selbstoptimierung nicht mal mehr nachgedacht wird,
+
+21:59.200 --> 22:05.200
+sondern das quasi versucht wird, schon in die Intuition irgendwie einzubrennen mit solchen haptischen Feedbacks.
+
+22:05.200 --> 22:15.200
+Aber wir würden eben sagen, dass das auch Möglichkeiten mit sich bringt, also dieses kybernetische Prinzip von Feedback basierter Selbstorganisation,
+
+22:15.200 --> 22:26.200
+dass das eben Möglichkeiten mit sich bringt, auch tatsächlich Ökonomie und Produktion an vernünftige demokratische Maßstäbe zu koppeln.
+
+22:26.200 --> 22:31.200
+Und das ist was, was heutzutage wichtiger ist als je zuvor.
+
+22:31.200 --> 22:39.200
+Also wir haben es zu tun mit einer Klimakatastrophe, wo wir immer noch glauben,
+
+22:39.200 --> 22:44.200
+wir könnten irgendwie die globale Erwärmung auf 1,5 Grad beschränken.
+
+22:44.200 --> 22:51.200
+Aber eigentlich alle Wissenschaftler, die sich damit seriös beschäftigen, sagen, der Zug ist schon längst abgefahren.
+
+22:51.200 --> 22:58.200
+Also es geht quasi wirklich existenziell um das Überleben der Menschheit.
+
+22:58.200 --> 23:09.200
+Und da ist einfach sozusagen die Marktsteuerung scheinbar nicht fähig, hier eine Form der Produktion zu etablieren,
+
+23:09.200 --> 23:13.200
+die solche systemischen objektiven Grenzen systematisch berücksichtigt.
+
+23:13.200 --> 23:26.200
+Und deswegen, sagen Georg Jochum und ich in diesem Artikel, bräuchte man eigentlich eine Form von demokratischer ökonomischer Planung.
+
+23:26.200 --> 23:33.200
+Und das wäre eben möglich auf einer Grundlage von Digitaltechnologie, die wir jetzt gerade haben,
+
+23:33.200 --> 23:42.200
+eben indem man einfach erfasst, a, was gibt es für Bedürfnisse, b, was gibt es für ökologische Grenzen,
+
+23:42.200 --> 23:47.200
+die uns sozusagen einfach unsere Welt, unsere Ökosysteme setzen.
+
+23:47.200 --> 23:56.200
+Und dann, was gibt es für Vermöglichkeiten, diese Bedürfnisse in diesen gegebenen Grenzen zu erfüllen
+
+23:56.200 --> 24:02.200
+und sozusagen das dann permanent sich aktualisieren, demokratisch planen zu können.
+
+24:02.200 --> 24:07.200
+Das ist quasi die Idee, die da dahinter steckt.
+
+24:07.200 --> 24:17.200
+Das ist interessant. Das heißt also, es wird schon auch argumentiert, dass es mindestens genauso effizient ist
+
+24:17.200 --> 24:25.200
+in der Lösung der Frage der Verteilung von Ressourcen auf eine Art.
+
+24:25.200 --> 24:33.200
+Aber zusätzlich darüber hinaus auch noch den Vorteil hat, dass man eigentlich bestimmte Wertvorstellungen,
+
+24:33.200 --> 24:40.200
+wenn man so will, wie zum Beispiel eben der Schutz der Natur, also unserer Lebensbasis quasi,
+
+24:40.200 --> 24:46.200
+dass man das quasi in die Architektur der Systematik mit einbauen kann, oder?
+
+24:46.200 --> 24:52.200
+Genau, das ist die Idee. Also die Idee ist eine radikale Demokratisierung der Ökonomie.
+
+24:52.200 --> 24:56.200
+Da steht das Technologische jetzt nicht im Zentrum. Also wir sind keine Technikdeterministen.
+
+24:56.200 --> 25:04.200
+Wir glauben nicht, dass quasi die technologische Entwicklung uns automatisch in Richtung einer kybernetischen Demokratie führt.
+
+25:04.200 --> 25:09.200
+Im Gegenteil. Wir glauben, dass das ein dezidiert politischer Prozess ist.
+
+25:09.200 --> 25:19.200
+Aber wir glauben eben, dass man sozusagen, wenn man nicht einfach nur Produktionen auf rein lokalem Maßstab haben möchte,
+
+25:19.200 --> 25:23.200
+wo quasi Dorfgemeinschaften Subzistenzwirtschaft betreiben.
+
+25:23.200 --> 25:32.200
+Das wäre ja die Alternative sozusagen, wenn wir die kapitalistische Überproduktion ökologisch nicht mehr weiterführen können.
+
+25:32.200 --> 25:41.200
+Dann sehen ja viele Alternative sozusagen eine Rückkehr in quasi feudale Zeiten oder irgendwelche Stammesgesellschaften.
+
+25:41.200 --> 25:44.200
+Das scheint unrealistisch, würde ich mal sagen.
+
+25:44.200 --> 25:48.200
+Ja, weiß ich nicht. Zumindest nicht wünschenswert.
+
+25:48.200 --> 25:57.200
+Weil das heißt ja sozusagen, dass wir auch auf alle Fortschritte der Medizin und so weiter verzichten müssten
+
+25:57.200 --> 26:02.200
+und dann quasi wieder nur die körperlich Fittesten überleben können.
+
+26:02.200 --> 26:09.200
+Und natürlich würde es dazu führen, dass uns alle möglichen Annehmlichkeiten verloren gehen.
+
+26:10.200 --> 26:18.200
+Und unsere Idee ist eben, man sollte das einfach nicht von vorneherein festlegen,
+
+26:18.200 --> 26:26.200
+auf welchem Stand sozusagen das Luxus wir uns noch bewegen können in Zukunft.
+
+26:26.200 --> 26:31.200
+Klar ist, dass wir sozusagen drastische Einschnitte benötigen.
+
+26:32.200 --> 26:45.200
+Wenn man die offiziellen Klimadaten zugrunde legt und sagt, man hat sozusagen ein jährliches Emissionsbudget von 800 Millionen Tonnen CO2
+
+26:45.200 --> 26:49.200
+und man sagt gleichzeitig, alle Menschen haben das Recht auf gleich viel Umweltverbrauch,
+
+26:49.200 --> 26:55.200
+dann müsste man jetzt beispielsweise in Deutschland den CO2-Ausstoß auf weniger als ein Viertel reduzieren.
+
+26:55.200 --> 27:00.200
+Und das geht nicht mit einem irgendwie vollautomatisierten Luxuskommunismus
+
+27:00.200 --> 27:09.200
+und genauso wenig mit einem sozusagen verschwenderischen, überproduzierenden digitalen Kapitalismus.
+
+27:09.200 --> 27:19.200
+Sondern was wir sagen würden, wäre, man müsste eben ein Steuerungssystem sich ins Zentrum stellen,
+
+27:19.200 --> 27:25.200
+das ökologische Grenzen systematisch berücksichtigen kann. Und das Preissystem kann das eben nicht.
+
+27:25.200 --> 27:31.200
+Weil sich Unternehmen natürliche Ressourcen weitgehend kostenlos aneignen können
+
+27:31.200 --> 27:37.200
+und dann mit diesen Ressourcen innerhalb von einem strukturellen Wachstumszwang wirtschaften müssen.
+
+27:37.200 --> 27:45.200
+Das führt systematisch dazu, dass Wachstum nur auf Grundlage von Umweltzerstörung zu haben ist.
+
+27:45.200 --> 27:52.200
+Und der Vorschlag, den wir jetzt unterbreiten würden, wäre nein, man müsste sich davon abkehren,
+
+27:52.200 --> 27:57.200
+auch wenn es jetzt radikal klingt, aber wahrscheinlich bleibt uns einfach nichts anderes übrig,
+
+27:57.200 --> 28:06.200
+als zu sagen, man muss wirklich konsequent alle Produktionen an die objektiven Grenzen unseres Ökosystems koppeln.
+
+28:06.200 --> 28:12.200
+Und das ist eben nur auf Grundlage von tatsächlich umfassender Datenerhebung möglich,
+
+28:12.200 --> 28:15.200
+die uns so eine digitale Infrastruktur ermöglichen würde.
+
+28:16.200 --> 28:23.200
+Wenn man das Ganze radikal demokratisch gestalten will und jetzt mal unabhängig von der Frage,
+
+28:23.200 --> 28:30.200
+wie man dieses sich einbringen dann im Einzelfall gestaltet, wie man das organisiert,
+
+28:30.200 --> 28:35.200
+welche technologischen Infrastrukturen man dafür entwickelt und so weiter,
+
+28:35.200 --> 28:41.200
+wird ja auf der einen Seite, sagst du zu Recht quasi, wenn man das so verteilen will,
+
+28:41.200 --> 28:45.200
+dass das irgendwie auch nur anehrend gerecht ist, dann bedeutet das massive Einschnitte.
+
+28:45.200 --> 28:55.200
+Wenn man jetzt aber ein System hat, in dem auf einer wirklich radikal demokratischen Basis die Leute gefragt sind,
+
+28:55.200 --> 29:02.200
+das zu gestalten, dann steht man ja vor dem Problem, dass wahrscheinlich eine Mehrheit der Menschen,
+
+29:02.200 --> 29:09.200
+die da gefragt ist, das durchzusetzen, individuell vielleicht gar kein Interesse daran hat,
+
+29:09.200 --> 29:17.200
+das konkret umzusetzen. Also diese Ziele, die du jetzt benannt hast, zum Beispiel im Sinne der Klimafrage.
+
+29:17.200 --> 29:23.200
+Ja gut, ich meine, das stellt sich natürlich bei jedem politischen System, diese Frage.
+
+29:23.200 --> 29:33.200
+Also das ist ja jetzt auch schon so, dass wir sozusagen wissen, auch die Reichen werden sozusagen leiden,
+
+29:33.200 --> 29:38.200
+wenn wir weiter so wirtschaften. Ja, also sozusagen jetzt nicht nur die Superreichen,
+
+29:38.200 --> 29:43.200
+sondern sozusagen die Menschen im globalen Norden gehören ja sozusagen jetzt weltweit gesehen
+
+29:43.200 --> 29:52.200
+auch zu den Gewinnern eines destruktiven Kapitalismus. Aber es gibt da natürlich verschiedene Hoffnungen.
+
+29:52.200 --> 29:57.200
+Also einmal wäre die Hoffnung einfach in die Vernunft der Menschen einzusehen,
+
+29:57.200 --> 30:07.200
+dass es sozusagen für alle in die Katastrophe führt, wenn man weiter einfach nur sinnloses Wachstum
+
+30:07.200 --> 30:20.200
+als oberste ökonomische Prämisse herannimmt. Und die andere Seite ist natürlich, dass es auch eine Machtfrage ist.
+
+30:20.200 --> 30:27.200
+Ja, also da mache ich mir gar keine Illusionen. Also sozusagen vollständig freiwillig Privilegien abgeben,
+
+30:27.200 --> 30:34.200
+machen eher wenige Menschen. Aber da müsste man eben sagen, da braucht es dann einfach Macht von unten.
+
+30:34.200 --> 30:40.200
+Und deswegen betone ich dieses Demokratieelement ja auch so stark. Da geht es nicht darum,
+
+30:40.200 --> 30:46.200
+dass irgendwie irgendeine Regierungselite sich irgendeinen neuen Plan für die Verwaltung der Welt überlegt,
+
+30:46.200 --> 30:57.200
+sondern das geht darum, dass Macht von unten aufgebaut wird, die quasi eine vernünftigere Einrichtung der Wirtschaft auch erzwingen kann.
+
+30:57.200 --> 31:07.200
+Beziehungsweise was ich ja ganz wichtig finde in diesem ganzen Themenkomplex der Wirtschaftsdemokratisierung eigentlich ist,
+
+31:07.200 --> 31:20.200
+es steht ja nicht nur diese eine Frage dann im Raum, die du jetzt als auch eine Form des Verzichts dargestellt hast,
+
+31:20.200 --> 31:28.200
+sondern was ja auf der anderen Seite dem in einem absolut positiven Sinne gegenüber steht, ist ja nicht auch nicht nur zum einen diese Partizipation,
+
+31:28.200 --> 31:37.200
+also diese Teilhabe an dem Prozess, sondern was ja daran auch gekoppelt wäre, soweit ich das zumindest verstanden habe,
+
+31:37.200 --> 31:47.200
+ist eine grundsätzlich anders geartete Ausrichtung, die am Menschen orientiert ist und an den Bedürfnissen der Menschen orientiert ist.
+
+31:47.200 --> 31:57.200
+Das heißt ja auch, dass das zum Beispiel in einen Umbau der Arbeitswelt einfließt im Bezug auf die Rahmenbedingungen des Arbeitens selbst.
+
+31:57.200 --> 32:07.200
+Also wie ist der Arbeitsplatz gestaltet, wie viele Stunden muss überhaupt gearbeitet werden, um einen Lebensunterhalt zu verdienen,
+
+32:07.200 --> 32:10.200
+von dem man dann auch ein gutes Leben haben kann und so weiter und so fort.
+
+32:10.200 --> 32:18.200
+Also wenn man von Wirtschaftsdemokratie spricht, dann spricht man ja auch von diesen Dingen, die in jeder Hinsicht für die Menschen
+
+32:18.200 --> 32:21.200
+und auf die Bedürfnisse der Menschen ausgerichtet ist.
+
+32:21.200 --> 32:29.200
+Und da gibt es ja auch Bereiche, in denen du forscht, die sich zum Beispiel mit dieser Frage der Arbeitsplatzgestaltung auseinandersetzen,
+
+32:29.200 --> 32:41.200
+wo wiederum natürlich heutzutage ja die dragonische Seite der strikt kapitalistisch orientierten Kybernetik zum Zuge kommt.
+
+32:41.200 --> 32:52.200
+Gibt es da vielleicht noch den Spin zur Frage wäre, gibt es da abseits dieser von dir ja auch schon kurz beschriebenen
+
+32:52.200 --> 33:02.200
+draconischen Kontrollmechanismen auch Formen wie solcherlei Logiken, also kybernetische Logiken,
+
+33:02.200 --> 33:09.200
+in einer positiven der Arbeiterinnen und dem Arbeiter zugutekommenden Form eingesetzt werden können?
+
+33:09.200 --> 33:14.200
+Ja, gibt es. Also ich würde erstmal noch kurz prinzipiell was zu Wirtschaftsdemokratie sagen wollen,
+
+33:14.200 --> 33:19.200
+damit das klar ist, was ich darunter verstehe und dann zu deiner zweiten Frage.
+
+33:19.200 --> 33:26.200
+Also ich glaube, es ist wichtig, sich zu vergegenwärtigen. Wirtschaftsdemokratie hat immer drei Elemente.
+
+33:26.200 --> 33:35.200
+Das erste Element ist, dass prinzipiell davon aufgegangen wird, dass alle Menschen dieselben Anrechte darauf haben,
+
+33:35.200 --> 33:38.200
+ihre Bedürfnisse zu befriedigen. Das ist im Kapitalismus nicht gegeben,
+
+33:38.200 --> 33:45.200
+sondern befriedigt werden prinzipiell nur kaufkräftige Bedürfnisse, seien sie auch noch so abwegig,
+
+33:45.200 --> 33:52.200
+während andere existenzielle Bedürfnisse, die aber keine Kaufkraft aufweisen, sozusagen nicht befriedigt werden können.
+
+33:52.200 --> 33:58.200
+Das wäre das erste Kriterium. Das zweite Kriterium wäre, dass alle Menschen, dass davon ausgegangen wird,
+
+33:58.200 --> 34:04.200
+dass alle Menschen, die in Arbeit sind, das Recht darauf haben, in gleicher Weise darüber mitzubestimmen,
+
+34:04.200 --> 34:09.200
+wie sie arbeiten möchten. Auch das ist ja bekanntlich gegenwärtig nicht der Fall,
+
+34:09.200 --> 34:19.200
+sondern wir müssen uns eben den abstrusesten Kontrollregimes unterwerfen und sozusagen es gibt immer mehr Burnouts
+
+34:19.200 --> 34:25.200
+aufgrund von immer weiter wachsenden Leistungsanforderungen und so weiter.
+
+34:25.200 --> 34:35.200
+Und das dritte Element wäre dann ein globales, dass alle Menschen gleichermaßen ein Anrecht darauf haben,
+
+34:35.200 --> 34:42.200
+weiter in einer Welt leben zu können, die eben nicht geprägt ist von Umweltkatastrophen, Seuchen und so weiter,
+
+34:42.200 --> 34:51.200
+also sozusagen ein Anrecht auf die Unversehrtheit des Planeten. Also diese drei Elemente von Konsumproduktion
+
+34:51.200 --> 34:59.200
+und unversehrter Lebenswelt, das sind für mich die zentralen Kriterien anhand derer sich eigentlich
+
+34:59.200 --> 35:06.200
+sozusagen ein gutes Wirtschaften bemessen lassen muss. Und wenn wir das zugrunde legen,
+
+35:06.200 --> 35:12.200
+schneidet eigentlich so einen Marktfundamentalismus ziemlich schlecht ab. Und das ist auch sozusagen,
+
+35:13.200 --> 35:23.200
+das kommt auch immer weiter durch, auch wenn es sozusagen viele Trägheitskräfte gibt der Selbsterhaltung dieses Systems,
+
+35:23.200 --> 35:27.200
+weil das sozusagen einmal in Gang gebracht ist und sich dann natürlich auch weitgehend verselbstständigt,
+
+35:27.200 --> 35:33.200
+nicht nur auf der operativen materiellen Ebene, sondern auch ideologisch verselbstständigt,
+
+35:33.200 --> 35:38.200
+sodass es dann uns oft scheint, als gäbe es keine Alternativen. Aber die gibt es ja.
+
+35:38.200 --> 35:42.200
+Und da gibt es zum Beispiel, um jetzt eben auf den zweiten Teil deiner Frage zu kommen,
+
+35:42.200 --> 35:49.200
+gibt es dann Experimente, die sich zum Beispiel auf der Grundlage der Wirtschaftstheorie von Elinor Ostrom,
+
+35:49.200 --> 35:58.200
+das war eine Theoretikerin, die sich mit der gemeinschaftlichen Verwaltung von Gemeineigentum beschäftigt hat.
+
+35:58.200 --> 36:04.200
+Und das war aber in den 90er Jahren, wo die hat sie quasi den Nobelpreis dafür bekommen, dass sie nachgewiesen hat,
+
+36:04.200 --> 36:11.200
+dass Gemeinschaftseigentum und gemeinschaftliche Ressourcenverwaltung in vielen Fällen sozusagen effizienter
+
+36:11.200 --> 36:16.200
+und nachhaltiger funktioniert als privatwirtschaftliche Verwaltung.
+
+36:16.200 --> 36:24.200
+Und da hat man dann in einem Experiment jetzt zum Beispiel in England haben, das zwei Informatiker und Philosophen ausprobiert,
+
+36:24.200 --> 36:31.200
+das zugrunde zu legen, sozusagen eine Commons-basierte Wirtschaft, sozusagen in einem experimentellen Szenario,
+
+36:31.200 --> 36:39.200
+wo man quasi einem Dorf verschiedene gemeinschaftlich sozusagen verwaltete Güter zur Verfügung gestellt hat.
+
+36:39.200 --> 36:45.200
+Und da hat man dann das versucht, auf eine digitale Infrastruktur aufzubauen.
+
+36:45.200 --> 36:51.200
+Und denen quasi wie so eine Art Facebook der Ressourcen zur Verfügung zu stellen,
+
+36:51.200 --> 37:00.200
+wo verschiedene Bedürfnisse gepostet werden konnten und aber auch die vorhandenen Ressourcen aufgelistet waren.
+
+37:00.200 --> 37:10.200
+Und dann die Personen, die sich eben dort in diesem Dorf befanden, verschiedene Verteilungsregeln abstimmen konnten.
+
+37:10.200 --> 37:16.200
+Das wurde dann digital auf dieser Facebook ähnlichen Plattform abgestimmt.
+
+37:16.200 --> 37:23.200
+Und der Witz ist eben, dass es dann eben nur darum ging, sich über Verteilungsregeln zu verständigen.
+
+37:23.200 --> 37:29.200
+Die wurden dann quasi algorithmisch einprogrammiert und wurden dann automatisch ausgeführt.
+
+37:29.200 --> 37:34.200
+Und das wäre eben auch ein Vorteil einer digital unterstützten Demokratie,
+
+37:34.200 --> 37:43.200
+dass man eben heutzutage nicht mehr mit den immensen Aufmerksamkeitskosten einer Basisdemokratie rechnen müsste,
+
+37:43.200 --> 37:49.200
+wo man quasi alle Zeit nur noch in endlosen Besprechungen und Diskussionen verbringen müsste,
+
+37:49.200 --> 37:53.200
+sondern quasi einfach sich darauf konzentrieren könnte,
+
+37:54.200 --> 37:59.200
+wirklich grundlegende Regeln und Verteilungsfragen zu diskutieren
+
+37:59.200 --> 38:07.200
+und alle möglichen anderen sozusagen operativen Ausführungsebenen relativ weitgehend dann automatisiert werden könnten.
+
+38:07.200 --> 38:13.200
+Das lag eben diesem Experiment zugrunde, was dann auch relativ gut gelaufen ist
+
+38:13.200 --> 38:22.200
+und es dann sozusagen auch in Bedingungen von Ressourcenknappheit zu einer relativ nachhaltigen Ressourcenverwaltung kam,
+
+38:22.200 --> 38:28.200
+bei der eben auch nicht einfach alle dann dieselben Ressourcen zugewiesen bekommen.
+
+38:28.200 --> 38:33.200
+Wir müssen ja auch unterschiedliche Dinge produziert werden, Menschen haben unterschiedliche Bedürfnisse usw.
+
+38:33.200 --> 38:40.200
+Und es wurde in diesem Experiment aber eben geschafft, dass sich diese Gemeinschaft irgendwie innerhalb kurzer Zeit so eingependelt hat,
+
+38:40.200 --> 38:47.200
+dass sie quasi mit diesen Ressourcen und sich ergebenden Veränderungen relativ effizient wirtschaften konnte.
+
+38:47.200 --> 38:54.200
+Sehr spannend, super, sehr schön, dass es da so ein tangible, handfestes Beispiel zu gibt.
+
+38:54.200 --> 38:59.200
+Ich hätte auf der Makroebene dieses Prinzip noch eine Nachfrage.
+
+38:59.200 --> 39:09.200
+Also du meintest ja auf eine Art auch, dass quasi im Schoße des Kapitalismus jetzt hier gerade Produktivkräfte heranwachsen,
+
+39:09.200 --> 39:17.200
+eigentlich Steuerungskräfte, wie ihr sie auch in diesem Paper nennt, heranwachsen, die im Grunde ja zweckentfremdet werden könnten
+
+39:17.200 --> 39:25.200
+für solche Formen auch einer gemeinschaftlichen, basisdemokratischen Form von Planwirtschaft.
+
+39:25.200 --> 39:35.200
+Worauf gilt es da zu achten, wenn man hinuntergeht zur Basis, also zu den Daten?
+
+39:35.200 --> 39:47.200
+Weil ja Daten nicht neutral sind, sondern immer auch schon Färbungen, Biases, also Vorurteile usw. in sich tragen.
+
+39:47.200 --> 39:57.200
+Was gilt es da zu beachten, wenn man diese Strukturen in einer anderen Art und Weise nutzen möchte?
+
+39:57.200 --> 40:00.200
+Ganz genau, ja, das ist ein wichtiger Hinweis.
+
+40:01.200 --> 40:09.200
+Also uns ist auf jeden Fall wichtig zu betonen, dass sich sozusagen so eine Demokratisierung der Wirtschaft
+
+40:09.200 --> 40:13.200
+nicht aus einer technischen Logik ergeben wird.
+
+40:13.200 --> 40:18.200
+Es gibt sozusagen technologische Entwicklungen, die eine demokratische Verwaltung
+
+40:18.200 --> 40:23.200
+und eine nachhaltige Verwaltung von Ressourcen einfacher machen würden.
+
+40:23.200 --> 40:33.200
+Aber sozusagen der Wechsel dorthin und die politischen Prozesse dorthin sind eben dezidiert politische und keine technischen Prozesse.
+
+40:33.200 --> 40:39.200
+Das heißt, die zentrale Frage, die sich eigentlich stellt, ist, kann man die Technologie,
+
+40:39.200 --> 40:44.200
+und das muss man sich bei jeder einzelnen Technologie sozusagen, die man untersucht, wieder neu fragen,
+
+40:44.200 --> 40:52.200
+kann man das der Logik des Marktfundamentalismus und des Wachstumszwangs entreißen?
+
+40:52.200 --> 41:00.200
+Und da gibt es eben einige Technologien, die vielleicht sozusagen leichter angeeignet werden können.
+
+41:00.200 --> 41:08.200
+Bei anderen ist das schwieriger, aber im Grunde muss man sagen, dass die meisten Technologien eben so geschaffen werden,
+
+41:08.200 --> 41:12.200
+dass sie eben den gegenwärtigen sozialen Verhältnissen angemessen sind.
+
+41:12.200 --> 41:18.200
+Und das heißt auch, dass sie jetzt zum Beispiel, wenn wir uns über die kubanetischen Steuerungs-
+
+41:18.200 --> 41:23.200
+scheinbaren Selbstorganisationstechnologien fragen müssen, wenn wir uns das anschauen, müssen wir uns immer fragen,
+
+41:23.200 --> 41:31.200
+ist das nicht irgendwie darauf angelegt, dass am Ende doch irgendwie die Ziele,
+
+41:31.200 --> 41:37.200
+auf deren Grundlage diese Steuerung funktioniert, doch irgendwie zentralistisch vorgegeben werden?
+
+41:37.200 --> 41:43.200
+Ist das doch nicht autoritärer, als es zunächst scheint? Das sind ganz wichtige Fragen.
+
+41:43.200 --> 41:49.200
+Und da scheint es aber wichtig, sich das einfach irgendwie unaufgeregt zu fragen
+
+41:49.200 --> 41:54.200
+und nicht immer a priori festlegen zu wollen, dass man nicht quasi hingeht und sagt,
+
+41:54.200 --> 42:04.200
+entweder die Technologie wird uns jetzt befreien und uns in das vollautomatisierte Schlaraffenland bringen,
+
+42:04.200 --> 42:12.200
+oder solche Unterjochungsszenarien, dass quasi die Technologie sich verselbstständigt und zum Gegner der Menschheit wird
+
+42:12.200 --> 42:20.200
+und wir deswegen möglichst wieder zum Faustkeil als Maximum des Technologischen zurückkehren müssten.
+
+42:20.200 --> 42:27.200
+Ich würde sagen, das sind beides Formen des Technikfetichismus, wo also quasi der Technologie
+
+42:27.200 --> 42:36.200
+wie eine Art eigener politischer Wille zugeschrieben wird. Und das verstellt eben den Blick darauf,
+
+42:36.200 --> 42:43.200
+dass Technologie eben in den allermeisten Fällen Ausdruck der gegebenen sozialen Verhältnisse ist
+
+42:43.200 --> 42:51.200
+und deswegen auch immer ein Feld von Machtkämpfen ist. Und das heißt eben, das ist immer geprägt
+
+42:51.200 --> 42:56.200
+von bestehenden Herrschaftsverhältnissen und weist aber auch in vielen Fällen über diese hinaus.
+
+42:56.200 --> 43:01.200
+Und da ist eben diese kybernetische Logik ein Paradebeispiel dafür.
+
+43:01.200 --> 43:08.200
+Also die erweist sich eben unter marktradikalen Vorzeichen als ein sehr effizientes Steuerungsmedium,
+
+43:08.200 --> 43:13.200
+weil es eben sehr einfach ermöglicht, eine permanente Selbstoptimierung zu implementieren.
+
+43:13.200 --> 43:21.200
+Aber sie weist eben auch darüber hinaus, in dem sie genutzt werden könnte, um Ressourcen demokratisch zu verwalten.
+
+43:21.200 --> 43:23.200
+Das ist quasi einfach die Punchline, sozusagen.
+
+43:23.200 --> 43:34.200
+Ja, sehr schön. Eine, sagen wir mal, Radikalisierung der vorherigen Frage wäre vielleicht noch etwas, das...
+
+43:34.200 --> 43:43.200
+Es gibt so ein... vielleicht kennst du das? Es gibt so ein Theorie-Battle, kann man sagen, zwischen Erich Hörl und Dieter Meersch.
+
+43:43.200 --> 43:49.200
+Die haben mal ein Streitgespräch geführt zum Thema Kybernetik. Kennst du das zufällig?
+
+43:49.200 --> 43:53.200
+Nein, das kann ich nur jedem wärmstens empfehlen, muss ich sagen.
+
+43:53.200 --> 43:57.200
+Ich mach dann mal den Link hier, also in die Shownotizen von dieser Folge auch.
+
+43:57.200 --> 44:05.200
+Und soweit ich mich erinnern kann, vertritt der Dieter Meersch da die Position,
+
+44:05.200 --> 44:14.200
+dass man eigentlich immer schon zwingend, wenn man sich einem kybernetischen Denken bedient,
+
+44:14.200 --> 44:19.200
+in einer Art Reduktionismus gefangen ist, der letztlich eigentlich alles einer,
+
+44:19.200 --> 44:23.200
+ich glaube, er sagt mathematischen Logik unterwirft.
+
+44:23.200 --> 44:36.200
+Und er ist da sehr vehement da drin zu sagen, ja, aber glaubt ja nicht, dass ihr das quasi in einem emanzipatorischen Gestus verwenden könntet.
+
+44:36.200 --> 44:42.200
+Also insofern wird er vielleicht jetzt auch gegen das argumentieren, was du gerade meintest, das weiß ich nicht genau,
+
+44:42.200 --> 44:44.200
+aber so klingt es für mich zumindest, ja.
+
+44:44.200 --> 44:54.200
+Also glaubt ja nicht, dass ihr das nutzen könntet, ohne dass ihr dieser Logik,
+
+44:54.200 --> 45:02.200
+dieser inherenten mathematischen Logik ausgesetzt seid und mit einschreibt quasi.
+
+45:02.200 --> 45:04.200
+Also der fährt da so ein bisschen ziemlich drüber.
+
+45:04.200 --> 45:12.200
+Der ist auch, glaube ich, eher in diesem technikpessimistischen Lager anzuverorten quasi.
+
+45:12.200 --> 45:17.200
+Und jetzt weiß ich nicht genau, ob ich die Gegenperspektive, ich glaube, der Erich Hörl sagt,
+
+45:17.200 --> 45:22.200
+dann bringt dem gegenüber so ein Begriff der Ökologienstellung,
+
+45:22.200 --> 45:29.200
+wo er im Grunde diese Form der technokapitalistischen Kybernetik schon immer auch nur als ein Teil
+
+45:29.200 --> 45:35.200
+dieser Gesamtökologie fasst, die dann natürlich keine natürliche Ökologie ist,
+
+45:35.200 --> 45:46.200
+sondern immer schon ein Beziehungsgeflecht von sowohl technischen als auch biologischen, geologischen Elementen und so weiter.
+
+45:46.200 --> 45:57.200
+Und dann natürlich diese klassische Naturkulturtrennung gar nicht mehr relevant ist für dieses Denken in Ökologien, in Technologien.
+
+45:57.200 --> 46:03.200
+Da gibt es ja auch diesen Begriff der Technosphäre, der, glaube ich, im Zuge eines Projektes,
+
+46:03.200 --> 46:05.200
+das Haus der Kultur in der Welt geprägt worden ist.
+
+46:05.200 --> 46:13.200
+Wie siehst du das? Also diese quasi Fundamentalopposition, die sagt, ja, okay, aber hey Leute,
+
+46:13.200 --> 46:24.200
+sobald ihr mit kybernetischen Modellen arbeitet, ist da zwingend quasi ein technologischer
+
+46:24.200 --> 46:30.200
+oder mathematischer Reduktionismus eingeschrieben, dem ihr nicht entkommen könnt, ob ihr wollt oder nicht.
+
+46:30.200 --> 46:34.200
+Ist das wirklich ein Teil der Debatte?
+
+46:34.200 --> 46:40.200
+Ja, auf jeden Fall. Und das ist natürlich so, dass dem ein Reduktionismus eingeschrieben ist.
+
+46:40.200 --> 46:43.200
+Aber ich sehe darin ehrlich gesagt kein großes Problem.
+
+46:43.200 --> 46:45.200
+Das hört sich jetzt vielleicht etwas provokant an.
+
+46:45.200 --> 46:51.200
+Aber also sozusagen Mathematik ist nicht einfach prinzipiell problematisch.
+
+46:51.200 --> 46:57.200
+Und auch quantitative Vernunft scheint mir auch nicht prinzipiell problematisch.
+
+46:57.200 --> 47:05.200
+Diese Kritiklinie, die quasi das schon als letztgültige Defamierung eines jeden Ansatzes durchgehen lässt,
+
+47:05.200 --> 47:13.200
+bezieht sich ja meistens auf sozusagen eine Schule der kritischen Theorie und eine Kritik der instrumentellen Vernunft,
+
+47:13.200 --> 47:21.200
+die quasi aufgezeigt hat, dass nicht nur in der ökonomischen Sphäre, sondern in unserem ganzen Denken
+
+47:21.200 --> 47:29.200
+sich mit der Durchsetzung einer quantitativen Rationalität, einem quantitativen Zugriff auf die ganze Welt
+
+47:29.200 --> 47:36.200
+quasi eine Art Ökonomismus durchsetzt. Und das steckt da meistens dahinter.
+
+47:36.200 --> 47:42.200
+Aber das war ja sozusagen immer schon auch unter dem Label der Dialektik der Aufklärung gefasst
+
+47:42.200 --> 47:48.200
+und war auch schon in der kritischen Theorie niemals so gemeint, dass man einfach nur sagen muss,
+
+47:48.200 --> 47:52.200
+ja, das ist doch Mathematik. Und damit ist dann die Diskussion schon beendet sozusagen.
+
+47:52.200 --> 48:00.200
+Weil das wäre ja quasi anti-Aufklärerisch. Da müsste man dann sagen, wenn wir quasi auf alle Abstraktion verzichten wollen
+
+48:00.200 --> 48:09.200
+und auf alle Reduktion von Komplexität, dann würde uns wirklich nur übrig bleiben, in Stammesgesellschaften zu leben.
+
+48:09.200 --> 48:15.200
+Weil dann müssten wir quasi jegliche Koordination in Face-to-Face-Interaktionen austragen.
+
+48:15.200 --> 48:18.200
+Und es könnte gar keine Vermittlung mehr geben.
+
+48:18.200 --> 48:21.200
+Anarcho-Primitivismus heißt das dann, glaube ich, gell?
+
+48:21.200 --> 48:26.200
+Genau, ja. Das würde ich jetzt nicht allen vorwerfen wollen, die das sozusagen als Kritik vorbringen.
+
+48:26.200 --> 48:32.200
+Weil natürlich muss man aufpassen sozusagen, dass man nicht einfach in eine komplett verwaltete Welt hineinrutscht.
+
+48:32.200 --> 48:37.200
+Das sehe ich schon auch. Aber ich würde sagen, dass Mathematik da kein prinzipielles Problem darstellt.
+
+48:37.200 --> 48:39.200
+Ich glaube, ja, Entschuldigung.
+
+48:39.200 --> 48:48.200
+Und dass wir eben irgendetwas brauchen, um uns zu koordinieren und auch in komplexeren Zusammenhängen zu koordinieren,
+
+48:48.200 --> 48:51.200
+insbesondere wenn es um Produktionszusammenhänge geht.
+
+48:52.200 --> 48:59.200
+Und da scheint mir tatsächlich sozusagen eine Kommunikation auch in Zahlen unausweichlich.
+
+48:59.200 --> 49:01.200
+Und da sehe ich auch kein Problem drin.
+
+49:01.200 --> 49:07.200
+Das Problem entsteht natürlich nur dann, wenn quasi diese Zahlen immer nach oben streben müssen.
+
+49:07.200 --> 49:14.200
+Und das ist ja in einer wachstumsförmigen kapitalistischen Ökonomie der Fall.
+
+49:14.200 --> 49:16.200
+Und das ist ja das eigentliche Problem.
+
+49:16.200 --> 49:20.200
+Nicht, dass wir die Welt in Zahlen transformieren, sondern dass wir die Welt in Zahlen transformieren,
+
+49:20.200 --> 49:28.200
+mit dem Zweck, den größten möglichen Profit aus allem herauszuschlagen und dabei alles andere um uns herum zu zerstören.
+
+49:28.200 --> 49:33.200
+Und da ist nicht die Mathematik daran schuld, sondern sozusagen dieser Marktradikalismus und der Wachstums.
+
+49:33.200 --> 49:39.200
+Wobei es da, also ich stimme dir vollkommen zu, wobei es da, glaube ich, sogar noch einen Schritt weiter zu differenzieren gilt,
+
+49:39.200 --> 49:42.200
+weil, also du hast natürlich vollkommen recht.
+
+49:42.200 --> 49:46.200
+Und ich habe da vielleicht dann jetzt auch den Dieter Meersch nur unzureichend wiedergegeben,
+
+49:46.200 --> 49:54.200
+weil was er nämlich, glaube ich, sagen will ist oder worauf er natürlich und das auch zurecht abzielt, ist dieses Denken in Totalitäten.
+
+49:54.200 --> 50:04.200
+Also das quasi, und das findet man ja zum Beispiel in der von dir ja schon skizzierten kapitalistischen Ausfärbung der Kybernetik sehr oft.
+
+50:04.200 --> 50:10.200
+Ja, Alex, wie heißt der Alex Pentland, den sprichst du ja auch in einem Text von dir an.
+
+50:10.200 --> 50:21.200
+Das findet man da ja sehr oft, dieses Denken in Totalitäten in dem Sinne, als das gemeint wird, als könne so etwas wie die Kybernetik eben alles abbilden oder die Digitalisierung alles abbilden.
+
+50:21.200 --> 50:27.200
+Und das ist, glaube ich, das, wo der Meersch dann sagt, na Moment, es gibt immer das Nicht-Abbildbare.
+
+50:27.200 --> 50:32.200
+Und das kehrt ihr damit irgendwie unter den Teppich, wenn ihr so agiert und so denkt.
+
+50:32.200 --> 50:46.200
+Und aber wenn man jetzt wiederum das dann dem eine Gegenposition gegenhalten wollen würde, dann könnte man ja sagen, na ja, aber ich würde jetzt sagen, so jemand wie du zum Beispiel, Simon, der ist sich dessen ja durchaus bewusst.
+
+50:46.200 --> 50:57.200
+Also du bist ja bewusst darüber, dass nicht alles in Nullen und Einsen abgebildet werden kann und dass diese Binarität nicht in der Lage ist, eben die gesamte Welt darzustellen.
+
+50:57.200 --> 51:06.200
+Und würde es das ja und sagen, lässt dieses Bewusstsein über diesen Umstand auch in dein Denken, in dein Handeln, in dein Reflektieren einfließen.
+
+51:06.200 --> 51:15.200
+Und dann ist es ja auch wieder nicht mehr diese Form der Totalität eigentlich, die der Meersch, finde ich, dann wiederum zu Recht kritisiert, würde ich sagen, oder?
+
+51:15.200 --> 51:22.200
+Ja, ja. Also was auf jeden Fall wichtig ist, ist zu differenzieren zwischen einer mathematischen Logik und einer politischen Logik.
+
+51:22.200 --> 51:31.200
+Das scheint mir wirklich ganz essentiell wichtig zu sein, auch im Unterschied zu einer kapitalistischen Kybernetik.
+
+51:31.200 --> 51:45.200
+Also gerade der angesprochene Alex Pentland, der schlägt ja vor, quasi die ganze Welt per Big Data Governance zu verwalten, um überall sozusagen das Effizienteste mögliche herauszuholen.
+
+51:45.200 --> 51:50.200
+Und er ist ja der Sozialdemokrat, ja, also der will sozusagen jetzt gar nichts Böses.
+
+51:50.200 --> 51:54.200
+Auch manche Sozialdemokraten wollen Böses.
+
+51:54.200 --> 52:04.200
+Ja, aber man muss ihm jetzt gar nicht unterstellen, dass er sozusagen da irgendeinen bösen Masterplan hinterkommt.
+
+52:04.200 --> 52:11.200
+Der möchte wirklich, dass einfach die bestehenden Ressourcen möglichst effizient verteilt werden.
+
+52:12.200 --> 52:17.200
+Und das Interessante ist aber, dass er dann das immer gegenüberstellt gegen eine politische Logik.
+
+52:17.200 --> 52:26.200
+Er sagt dann, ja, was wir jetzt haben, da sind dann immer so Politiker, die debattieren dann herum, haben irgendwie alle ihre Ideologien und das ist alles ineffizient.
+
+52:26.200 --> 52:38.200
+Und was wir jetzt brauchen, ist einfach, dass alles in sozusagen Big Data Formeln erfasst wird und dann bei jedem Problem, bei jedem sozialen Problem, die mathematisch korrekte Lösung berechnet wird.
+
+52:38.200 --> 52:45.200
+Und das ist natürlich sozusagen wirklich, ja, Kot geworden, eine Ideologie.
+
+52:45.200 --> 52:54.200
+Also wenn man sich sozusagen solche Systeme installiert, die quasi davon ausgehen, wir haben es hier gar nicht mit politischen Problemen zu tun,
+
+52:54.200 --> 53:01.200
+sondern es gibt für jedes soziale Dilemma, für jedes soziale Problem eine mathematisch korrekte Lösung,
+
+53:01.200 --> 53:07.200
+dann brennt man natürlich völlig aus, dass bei den allermeisten politischen Entscheidungen es immer Gewinner und Verlierer gibt.
+
+53:07.200 --> 53:12.200
+Das heißt, eine Entscheidung ist immer gut für die einen und damit geht meistens einher, dass es schlecht für irgendjemand anderen ist.
+
+53:12.200 --> 53:20.200
+Und das heißt, da geht es nicht darum, ob das korrekt ist oder nicht, sondern es geht einfach darum, für wen das sozusagen vorteilhaft ist.
+
+53:20.200 --> 53:26.200
+Und das ist was, was sozusagen wirklich essentiell wichtig ist zu bedenken.
+
+53:26.200 --> 53:33.200
+Und ich glaube nicht, dass man es sozusagen bei allen Entscheidungen so einrichten kann, dass sozusagen es allen recht ist,
+
+53:34.200 --> 53:42.200
+weil eben sozusagen eine sozial-ökologische Transformation ganz wesentlich auch mit einem massiven Abbau von Privilegien zu tun haben wird.
+
+53:42.200 --> 53:51.200
+Aber man braucht eben einen ganz klar demokratischen und eben nicht automatisierten Deliberationsprozess darüber, was wollen wir eigentlich?
+
+53:51.200 --> 53:58.200
+Und das ist keine mathematische Frage, sondern da geht es dann wirklich darum, dass wir als Gesellschaften,
+
+53:58.200 --> 54:07.200
+ich meine damit nicht eine einzige Weltgesellschaft, sondern das kann durchaus auch fragmentiert sein, dass wir uns darüber klaren werden,
+
+54:07.200 --> 54:11.200
+nach welchen Prämissen wollen wir eigentlich wirtschaften?
+
+54:11.200 --> 54:17.200
+Und wie weit sind wir bereit, auch sozusagen Ökosysteme auszubeuten, Arbeit auszubeuten und so weiter?
+
+54:17.200 --> 54:20.200
+Das kann sozusagen kein Algorithmus für uns entscheiden.
+
+54:21.200 --> 54:28.200
+Wunderbar. Simon, das freut mich sehr, dass du und das Zentrum für Emanzipatorische Technikforschung,
+
+54:28.200 --> 54:41.200
+dass ihr darauf hinarbeitet, diesen sehr, sehr wichtigen politischen Konflikt auch in dieses Feld der technikphilosophischen und techniksoziologischen Auseinandersetzung zu tragen.
+
+54:41.200 --> 54:46.200
+Ich frage als letztes immer, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+
+54:47.200 --> 54:58.200
+Puh, das finde ich etwas schwierig. Ich muss sagen, ich bin momentan leider kein Optimist.
+
+54:58.200 --> 55:05.200
+Wenn ich mir sozusagen die schon angesprochene Klimakatastrophe anschaue und die überall aufziehenden Faschismen,
+
+55:05.200 --> 55:11.200
+dann weiß ich nicht, was mich da so richtig freudig stimmt.
+
+55:11.200 --> 55:21.200
+Aber andererseits könnte man auch sagen, aus dieser Situation ergibt sich eigentlich für alle vernünftig denkenden Menschen, dass die Zeit der Lippenbekenntnisse vorbei ist.
+
+55:21.200 --> 55:29.200
+Also es reicht nicht mehr einfach irgendwie jetzt allgemein kritisch daherzureden, sondern es geht jetzt wirklich um Tacheles.
+
+55:29.200 --> 55:37.200
+Es geht darum, schaffen wir es noch, das Ruder rumzureißen und wie können wir unseren eigenen Beitrag dazu leisten,
+
+55:37.200 --> 55:44.200
+dass wir es eben nicht mit einer Zukunft zu tun haben, wo die ganze Welt verseucht ist und wir von faschistischen Banden regiert werden.
+
+55:44.200 --> 55:54.200
+Und ich habe das Gefühl, dass das vielen Menschen klar wird und dass deswegen irgendwie auch so eine Art von Wachrütteln stattfindet.
+
+55:54.200 --> 56:02.200
+In den verschiedensten Ecken der Welt brodelt es ja gerade ziemlich, entstehen viele emanzipatorische Bewegungen,
+
+56:03.200 --> 56:12.200
+von der Klimabewegung zu sozialen Bewegungen in Chile und sonst überall irgendwie auf der Welt ist ja gerade da viel in Bewegung.
+
+56:12.200 --> 56:22.200
+Und das ist das, worauf ich meine Hoffnung setzen würde und was mich vielleicht milde optimistisch werden lässt in meinen glücklichen Momenten.
+
+56:22.200 --> 56:26.200
+Simon, vielen Dank für das Gespräch.
+
+56:26.200 --> 56:28.200
+Danke dir, Jan.
+
+56:33.200 --> 56:35.200
+Das war Future Histories für heute.
+
+56:35.200 --> 56:37.200
+Vielen Dank fürs Zuhören.
+
+56:37.200 --> 56:42.200
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+56:42.200 --> 56:48.200
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder auf Reddit.
+
+56:48.200 --> 56:52.200
+Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+
+56:52.200 --> 56:56.200
+Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+
+56:56.200 --> 57:04.200
+Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com-futurehistories vieles an Zusatzmaterial.
+
+57:04.200 --> 57:08.200
+Ich lese zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt.
+
+57:08.200 --> 57:13.200
+Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.
+

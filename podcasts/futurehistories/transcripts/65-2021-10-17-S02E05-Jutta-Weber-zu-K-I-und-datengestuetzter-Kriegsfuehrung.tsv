@@ -1,0 +1,680 @@
+start	end	text
+0	6280	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+6280	11600	Mein Name ist Jan Groß und ich freue mich sehr, heute Jutta Weber begrüßen zu dürfen.
+11600	18080	Sie ist Professorin für Mediensozialogie an der Universität Paderborn und forscht unter anderem
+18080	22440	zu künstlicher Intelligenz und datengesteuerter Kriegsführung.
+22440	29800	Bevor es losgeht, möchte ich noch Andrea ganz herzlich in der Gemeinschaft der Patreon-Unterstützerinnen und Unterstützer begrüßen.
+30000	34480	Und Dirk für die Erhöhung seiner Patreon-Unterstützung danken.
+34480	37960	Ebenso vielen Dank an Fabian für deine Spende.
+37960	42800	Und an dieser Stelle möchte ich nochmal darauf hinweisen, wenn ihr Future Histories unterstützen wollt,
+42800	49640	dann könnt ihr das natürlich auf Patreon, wie ihr gerade gehört habt, aber man kann natürlich auch eine einzelne Spende machen.
+49640	54920	Und wenn ihr die finanziellen Möglichkeiten nicht habt, sowas zu tun, dann ist das überhaupt kein Problem.
+55000	60240	Ich freue mich auch sehr, wenn ihr Future Histories einfach einem Freund oder einer Freundin empfehlt,
+60240	65760	von der ihr glaubt, dass ihr oder ihm Future Histories vielleicht auch gefallen könnte.
+65760	71800	Vielen Dank dafür und viel Freude mit der heutigen Episode Future Histories mit Jutta Weber
+71800	75920	zu künstlicher Intelligenz und datengestützter Kriegsführung.
+81960	84280	Herzlich willkommen, Jutta.
+84280	86800	Hallo Jan, ich freue mich sehr, hier zu sein.
+86800	88600	Ich freue mich auch sehr.
+88600	91800	Jutta, wir wollen im heutigen Gespräch zwei Dinge versuchen.
+91800	96920	Wir wollen versuchen, zwei Felder einzufangen, mit denen du dich intensiv befasst hast
+96920	100000	und die auch aufs engste Miteinander verwoben sind.
+100000	105000	Zunächst wollen wir uns den erkenntnistheoretischen Grundlagen künstlicher Intelligenz zuwenden,
+105000	112080	um uns dann anhand des sehr konkreten Praxisbeispiels datengestützter Kriegsführung anzusehen,
+112120	116720	inwiefern maschinelles Lernen in Kombination mit sehr großen Datenbanken eigentlich auch
+116720	122680	eine spezifische Form der Wissensproduktion darstellt und damit auch eine spezifische
+122680	125400	Produktion von Welt mit sich bringt eigentlich.
+125400	131080	Aber einsteigen würde ich dann doch gerne mit einer Definitionsfrage, nämlich wie definierst
+131080	132720	du künstliche Intelligenz?
+135040	136360	Das ist sehr lustig.
+136360	139080	Wir arbeiten gerade, und jetzt mache ich einen kleinen Bogen.
+139080	145400	Wir arbeiten gerade in einem kleinen Forschungsprojekt, das heißt Scoring Society.
+145400	149600	Und da geht es eben auch um Praktiken von Scoring, Rating, Ranking.
+149600	154680	Und da werden wir vielleicht noch mal bei der Frage der datengeschützten Kriegsführung
+154680	155920	darauf zurückkommen.
+155920	162160	Und da habe ich meinen Kollegen gefragt, der Maschinenlearner ist, was denn für ihn
+162160	164400	künstliche Intelligenz sei.
+164400	167040	Und dann hat er die Hände über den Kopf zusammengeschlagen.
+167040	168880	Das ist eine ganz schreckliche Frage.
+168920	171840	Weil es gäbe 1000 Antworten darauf.
+171840	176480	Und eigentlich hat sich das natürlich jetzt in der Informatik vielleicht noch mal anders
+176480	181480	als in kulturtheoretischen Kontexten es auch sozusagen keine Einigung darauf gibt.
+181480	187200	Weil ich glaube, in der Informatik haben wir dann schon mehr gemeinsame Definitionen und
+187200	192880	Verständnisse, als wir das vielleicht in dem Kulturwissen oder Sozialwissenschaften haben.
+193200	199800	Ich glaube, ich könnte das eher historisch vielleicht begründen, weil ich glaube, es
+199800	205640	gibt da nicht eine Definition und es gibt ja auch verschiedene Anwendungsbereiche, die
+205640	209520	umstritten sind, ob die jetzt künstliche Intelligenz sind oder nicht.
+209520	214720	Oder wenn sie zum Beispiel Daten getrieben sind, wie wir das jetzt mit Big Data und
+214720	219760	Maschinenlearning haben, wird das eigentlich automatisch zu künstlicher Intelligenz
+219800	225520	gerechnet. Aber ich muss an einen der ersten Roboter, der Shakey hieß, das sind wir, ich
+225520	231960	glaube, im MIT weiß ich nicht mehr genau der sechziger Jahre, wo so eine wackelnde Box
+231960	233600	durch den Raum gefahren ist.
+233600	241680	Das war halt zu dieser Zeit auch sozusagen der höchste Stand oder das, was man damals
+241680	248360	unter künstlicher Intelligenz verstand, wo man sehr aufgeregt war und was eben der Versuch
+248840	257240	war, zum Beispiel gewisse symbolische Ordnungen in einer Maschine einzubauen und die dazu
+257240	264400	zu bewegen, bestimmte Abläufe dann auch in Kombination vielleicht selbsttätig zu unternehmen.
+264400	270960	Aber wie gesagt, zwischen einem Shakey aus den sechziger, siebziger Jahren und was wir
+270960	276440	heute mit Daten getriebenen Lösungen, zum Beispiel in der Kriegsführung, aber auch anderswo
+276440	280920	von Google-Suchmaschine und so haben, ist natürlich ein wahnsinnig breites Spektrum.
+282120	288760	Das heißt jetzt so was wie maschinelles Lernen, das wird einfach dann subsummiert unter
+288760	290280	künstliche Intelligenz auch.
+290840	296280	Ja, ich vermute, da bin ich jetzt aber nicht die Expertin für, dass in der Geschichte des
+296280	301520	maschinellen Lernens, also maschinelles Lernen nicht schon immer als Teil der künstlichen
+301520	307400	Intelligenz wahrgenommen wurde, weil maschinelles Lernen, habe ich wiederum gelernt, ist
+307400	314040	glaube ich mindestens 50 Jahre alt, bekommt aber eigentlich erst in den letzten 10, 15 Jahren
+314040	320240	so einen richtigen Drive, also sodass wir jetzt auch wahrnehmen, was maschinelles Lernen,
+321080	325920	was man damit alles machen kann und dass das eben auch in unseren Alltagspraktiken zunehmend
+326040	332360	zentrale Rolle spielt und das hat natürlich auch mit neuen Formen von Datenbanken und
+332360	338000	erstmal primär mit Big Data zu tun, dass man das in der Weise natürlich auch so gut
+338000	345120	umsetzen konnte und natürlich auch mit der gesteigerten Rechnerkapazität von Computern
+345120	352400	sicherlich auch und damit zum Beispiel auch in Echtzeit oder fast Echtzeit spannende
+352400	359240	Anwendungen auf maschinelles Lernen basiert machen kann. Der Klassiker ist glaube ich immer
+359240	367240	die Suchmaschine, die dann da ins Feld geführt wird. Interessant. Das heißt, maschinelles Lernen
+367240	373320	wurde nicht schon immer unter künstlicher Intelligenz subsummiert, wird aber heute zumindest
+373320	380640	mal in Teilen auch darunter gefasst, oder? Ja, eben das mit dem Darunterfassen ist ja eine ganz
+380640	387320	schwierige Sache, weil ich versuche gerade mir ein Beispiel auszudenken, weil es wären ja jetzt
+387320	397720	zum Beispiel wäre ja eine Frage, ob ferngesteuerte Roboter sind die Teil von künstlicher Intelligenz.
+397720	411040	Also die sind, also die müssen sozusagen nicht selber ihre eigene Software optimieren,
+411040	417280	das wäre jetzt zum Beispiel so ein advanced, also ein fortgeschrittenes Verständnis von
+417280	426640	künstlicher Intelligenz, Selbstoptimierung von Algorithmen. Aber natürlich galt in den 60er,
+426760	433240	70er Jahren, was ich vorhin meinte, so ein klassisch, also in dieser alten Logik der symbolischen KI,
+433240	440360	wo man versucht hat zu einem Rechner möglichst viel Wissen in seinen Gehirn, also auf der
+440360	446160	Festplatte zu speichern, was dann sozusagen Schritt für Schritt abgearbeitet wurde,
+446160	452400	fiel da auch unter künstliche Intelligenz. Und viele fassen das auch heute noch, also für viele
+452400	458160	Leute ist ja ein Roboter automatisch Teil von künstlicher Intelligenz, der aber, wenn er sozusagen
+458160	465320	top down seine Programme abarbeitet und ferngesteuert wird, für manche eben nicht zur künstlichen
+465320	471440	Intelligenz zählt, weil eben diese Selbstoptimierungs- und Selbstlernstrategien fehlen.
+471440	477120	Ich glaube, das wäre vielleicht hilfreich für die Hörerinnen und Hörer, das auch noch mal
+477120	483080	klarzumachen, weil du jetzt eben die Frühphase der KI auch angesprochen hast, wo einfach auch
+483080	488760	wirklich noch ein anderes Paradigma im Grunde vorgeherrscht hat, wo also man noch glaubte,
+488760	496160	man könne eben auf Basis von Kategorien sozusagen, in dem Fall Roboter in Anführungsstrichen,
+496160	506080	eine große Menge an Wissen sozusagen einpflanzen und demgegenüber stehen, sagen, andere Zugänge,
+506080	511720	die du auch in deinen Arbeiten beschreibst, wie zum Beispiel genetische Algorithmen, die eben in
+511720	517440	der Lage sind, dann selbstlernende Mechanismen herauszubilden. Vielleicht kannst du noch mal
+517440	522160	diesen Unterschied ein bisschen klar machen und inwiefern das auch einfach wirklich ein
+522160	529200	Paradigmenwechsel darstellt. Wobei, also ich versuche das jetzt erst mal zu differenzieren,
+529200	534320	wobei man auch da sagen muss, dass es schon sehr früh Ansätze dafür gibt, dass die sich aber
+534400	540120	primär heute durchsetzen. Man hat früher eigentlich klassisch zwischen symbolischer
+540120	546160	und konnektionistischer KI, teilweise auch Kybernetik, also konnektionistische KI und
+546160	551600	Kybernetik sind teilweise eng verwandt, unterschieden und vielleicht würde ich heute,
+551600	556160	kann man eigentlich auch noch eine dritte Unterscheidung einführen, die datengetriebene
+556160	564080	KI. Aber fangen wir erstmal mit der symbolischen KI an. Man hat ja immer mit Vorbildern oder
+564080	569600	Ideen, wie menschliche Intelligenz funktioniert, gearbeitet. Sieht man dann ein bisschen an den
+569600	577520	Ergebnissen, wie es strukturiert wird. Und da war die Idee, Symbole sind wichtig und das war
+577520	587960	ja auch sehr stark mathematisch logisch orientiert. Diese symbolische KI, dass sozusagen ein in dem
+588040	594800	Zusammenhang dann Datengehirn oder Computergehirn symbolisch diese Abläufe, zum Beispiel Abläufe
+594800	601160	berechnet. Also wie muss der Roboter von A nach B durch einen Raum laufen? Das wäre eins. Oder
+601160	607840	vielleicht für ältere unter dem Podcast-Hörer Experten-Systeme waren eine große Hoffnung in
+607840	614840	den 70er Jahren, kommen teilweise heute wieder, heißen dann anders. Aber das war ja auch die Idee,
+615040	620280	man kann diese künstlichen intelligenten Systeme, also bitte immer in Anführungsstrichen,
+620280	628720	soweit mit Wissen füttern, dass die Funktionen von Menschen übernehmen kann. Also damals war die
+628720	635880	große Hoffnung, zum Beispiel ärztliche Experten-Systeme zu schaffen, denen man
+635880	641840	Basisinformationen eingibt und die dann eine Diagnose erstellen können. So Ideen kommen immer
+641840	648280	wieder. In den 70er Jahren ist man damit gescheitert, aber diese Form von künstlicher Intelligenz
+648280	658440	basierte eben auf so einer symbolisch-rational-kognitiven Vorstellung von künstlicher
+658440	663760	Intelligenz. Ich komme immer wieder auf die Roboter, weil ich mich damit mehr beschäftigt
+663760	671120	habe und was dann ganz schön zu sehen war in den 70er und 80er Jahren, dass diese symbolische KI
+671200	677160	einfach nicht gut funktioniert hat. Also die Roboter, der Shakey, von dem ich gesprochen habe,
+677160	683320	der hat halt, um zum Beispiel einen Raum zu durchfahren, das war so eine wackelige Kiste
+683320	689680	auf vier Rädern, irgendwie über eine Stunde gebraucht, weil der immer wieder Schritt für Schritt
+689680	696000	ein Stück vorgefahren ist, dann versucht hat sozusagen die ganze Umgebung abzuscannen,
+696000	701600	um wieder neu zu berechnen, was er jetzt tun muss. Also wirklich dieses, wie wir uns vielleicht
+701600	708920	heute noch einen Algorithmus vorstellen, dass das eben wie so ein Kochrezept ein Schritt nach dem
+708920	715320	anderen wird vorgegeben, der top down abgearbeitet wird und diese Folge bleibt auch immer so. Dann
+715320	724680	haben die Robotiker festgestellt, dass damit vielleicht materialere und in Umwelten agierende
+724680	731800	Systeme mit dieser Logik nicht wirklich vorankommen und dagegen gab es, der ist schon älter, diese
+731800	737920	konnektionistische KI, die aber auch große Verwandtschaft mit der Kybernetik hat, also da
+737920	746760	sind teilweise ähnliche Ansätze bzw. das geht auch ineinander über und die haben in der Robotik dann
+746760	754440	in den 80er Jahren zunehmend Bedeutung gewonnen, also Leute wie Rodney Brooks, weiß ich nicht,
+754440	760720	ob das manchen was sagt, der ist dann mit seinen Robotern relativ bekannt geworden und das Motto
+760720	770280	war fast, cheap and out of control und das klingt natürlich erstmal extrem weird, aber fast war zum
+770280	776960	Beispiel wirklich ein Punkt, weil nämlich dieses, dass das stundenlang dauert, bis so ein Roboter
+776960	782960	sich in der Umgebung bewegt und eine Umgebung, die damals sogar noch eingegrenzt war, das war
+782960	789920	ja ein Raum oder ein Labor, wir sprechen noch gar nicht davon, dass Roboter sich frei in der Umwelt
+789920	796440	bewegen sollen, was ja noch mal eine ganz andere Herausforderung von Navigation, Wahrnehmung und so
+796440	806600	weiter ist. So und da war dann und diese heißen fast cheap and out of control, weil die weniger
+806600	813880	aufwendig gebaut, also cheap weniger aufwendig gebaut waren, weil die mehr auf Interaktion mit
+813880	821720	der Umwelt gesetzt haben, das heißt man hat Sachen ausprobiert und dann geguckt und versucht zu sehen,
+821720	829160	wie was tut der Roboter, wenn er da irgendwo lang fährt, wenn er gegen einen Gegenstand stößt und
+829160	835240	hat versucht die dann zum Beispiel so zu bauen, dass die dann automatisch wenden und dann in eine
+835240	840720	andere Richtung fahren, also dass die so eine Vorstellung, also so ein Konzept von Trial and
+840720	846200	Error hat man ausprobiert und dass sie gleichzeitig aber, das ist dann so ein paar Jahre später,
+846200	854240	das war vielleicht nicht gleich ganz am Anfang, sozusagen versuchen diese Strategien, bei Menschen
+854240	860280	würde man sagen zu erinnern, wieder in Anführungsstriche, aber dass diese Strategien
+860280	866040	erstmal glaube ich am Anfang von Hand implementiert wurden, dass die einmal zur Verbesserung,
+866040	872560	zur Optimierung des Roboterverhaltens beigetragen haben und das war, das haben sie teilweise auch
+872560	878840	selber so genannt, das nannte man dann Behavior Based Robotics, also verhaltenbasierte Robotik oder
+878840	887320	Biologically Inspired Robotics, also man guckt so ein bisschen auf das Verhalten von jetzt keinen
+888280	895760	hochorganisierten Säugetieren oder den Menschen, sondern man guckt zum Beispiel darauf, wie
+895760	908120	funktionieren Ameisen oder ähnliche Tiere, um da aus diesen Bewegungsmustern Vorbilder für eine
+908120	914840	andere Form von Programmierung von diesen Robotern zu gewinnen und das ist eben nicht mehr symbolisch,
+915280	923000	also auf so einer Symbolverarbeitung basiert das nicht, sondern auf so genannten biologischen,
+923000	930760	aber vor allem verhaltensbasierten Einsichten oder Regeln muss man mal sagen. Das geht jetzt aber
+930760	935960	noch einen Schritt weiter, weil das hast du vorhin noch ins Spiel gebracht Jan, das war ja die Frage
+935960	944600	nach den genetischen Algorithmen und das schließt genau an diese Idee von Trial und Error an, dass
+944600	952480	man selbst Algorithmen optimieren kann durch Rumprobieren, sage ich jetzt mal flapsig und das
+952480	960240	ist eigentlich auch eine ganz spannende Geschichte, das fängt in den 90er, 1990er Jahren an, als Vater
+960240	969200	in Anführungsstrichen wieder gilt John Holland, der diese Algorithmen erfunden hat und da ist die
+969200	976360	Idee, dass man auch nicht mehr top down die optimale Lösung für ein Problem sozusagen durch
+976360	984280	Überlegen oder Ausrechnen, also symbolische Operationen findet, sondern dass man einen ersten
+984280	991560	Versuch für eine Lösung formuliert, also um ein Beispiel zu geben, der Klassiker ist immer, man
+991560	998800	hat 7x beliebige Zahlen und man versucht der Maschine beizubringen, die nach ihrer Größe
+998800	1009320	zu trainieren, in einer richtigen Reihenfolge zu sortieren, nicht zu trainieren und das auf dem
+1009320	1015480	möglichst, früher war es der möglichst eleganteste Weg, heute ist es oft eher der schnellste Weg,
+1015480	1019600	also die Mathematiker, wenn die das klassisch von Hand gemacht haben, die haben sich immer eher
+1019600	1025120	bei die, für die Eleganz der Lösung, also natürlich auch für die Schnelligkeit, aber auch für die
+1025120	1032000	Eleganz der Lösung interessiert und jetzt geht es aber darum, die schnellsten und den kürzesten
+1032000	1041080	Weg zu finden. Und dann probiert man aus und genetische Algorithmen heißen die, weil man dann mit
+1041080	1049360	zwei oder andersrum, weil man den Algorithmus nimmt, meistens in zwei Teile auseinander nimmt, die ein
+1049360	1057680	klein wenig variiert, das ausprobiert, wie diese Lösung funktioniert und dann nimmt man 10% der
+1057680	1065400	besten Lösung, um daraus wieder die Algorithmen etwas zu variieren, also deshalb genetische
+1065400	1071840	Algorithmus, das da sozusagen an der DNA des Algorithmus geschraubt wird, indem man den Algorithmus
+1071840	1077800	immer wieder ein klein wenig verändert oder auch beste Lösungen miteinander kreuzt und guckt,
+1077800	1084720	was dabei rauskommt. Das ist insofern interessant, man kann je nachdem, es ist schon auch eine Kunst,
+1084720	1090280	dann diesen Algorithmus zu konfigurieren, das fällt in der Geschichte meistens weg, aber was
+1090280	1097880	dabei rauskommt, ist, dass oft 90% Chunk rauskommt oder vielleicht auch 99%, dass man dabei aber auch
+1097880	1104040	sehr gute Lösungen findet und bei dieser und das ist so ein Grund und so ein Grundnarrativ von
+1104040	1111440	diesen genetischen, der Erfindung der genetischen Algorithmen, wo man sagt, dass da oft schon erste
+1111440	1118280	Implementationen von diesen Algorithmen zu sehr, sehr guten Ergebnissen geführt hat, also zum
+1118280	1122840	Beispiel bei dieser Reihenfolge der sieben Zahlen oder vielleicht sind es auch nur fünf klassisch,
+1122840	1129120	was auch immer so ein Wettbewerb unter Mathematikerinnen war, mit dieser neuen,
+1129120	1136280	mit diesem neuen Ansatz von genetischen Algorithmen die zweitbeste Möglichkeit jemals gefunden wurde,
+1136280	1142680	indem man immer wieder, also die schlechten Lösungen wegwirft, die guten Lösungen variiert
+1142680	1149200	und dann sich versucht sozusagen dem Ziel anzunähern, ohne eigentlich genau zu wissen,
+1149200	1158840	was man tut. Also wirklich ein Optimierungsverfahren, aber kein rational-kognitives Verfahren,
+1158840	1167040	um zu verstehen, wie man zur besten Lösung kommt, sondern indem man immer, also ein wenig bessere
+1167040	1174000	Lösungen ausprobiert und miteinander kreuzt, um bessere Ergebnisse zu erzielen, was letztendlich
+1174000	1181480	ja auch bedeutet, dass man nie zu der besten Lösung kommen wird, wie wir das oft ja rational-kognitiv
+1181480	1188840	versuchen, sondern das sozusagen ein Annäherungsprozess bleibt. Also irgendwann muss ich auch die Maschine
+1188840	1194480	stoppen und sagen, mit der Lösung bin ich zufrieden, das scheint mir ein gutes Ergebnis zu sein,
+1194480	1201840	aber es ist nie die Lösung, was offensichtlich auch oft oder am Anfang sehr stark auch zu
+1201840	1208600	Irritationen geführt hat, weil das natürlich nicht unbedingt das klassisch rational-kognitive
+1208600	1216920	Vorgehen ist, um ein Problem zu lösen, also mit dieser Annäherungslogik zu arbeiten. Und das kann
+1216920	1222120	man dann eben auch in Roboter implementieren, die dann sozusagen aus ihrem eigenen Verhalten
+1222120	1230000	lernen sollen und dann zu sehen, ah, dazu muss ich immer Parameter vorgeben, also was ist
+1230080	1237360	ein gelungenes Verhalten. Das ist ganz wichtig, aber wo dann der Roboter sozusagen selber
+1237360	1243440	abgleichen kann, also heute gibt es da ganz banale Lösungen, um es einfacher zu machen,
+1243440	1254240	wenn bei VW an Fließband Fensterscheiben ins Auto eingebaut werden, dann schaut sich der Roboter,
+1254280	1260520	schaut sich wieder in Anführungsstrichen, dann rechnet der Roboter aus, in welchem Bogen er optimal
+1260520	1267600	sozusagen die Bewegung ausführen kann, um möglichst exakt und in möglichst schneller Zeit das Fenster
+1267600	1273440	da einzusetzen und dann guckt er sich diese verschiedenen Bewegungen immer wieder an und
+1273440	1282160	löst dann aufgrund dieses Optimierungsalgorithmus, wählt er dann genau die Variante aus, die am
+1282160	1287280	schnellsten oder auch am besten, also wie er das Fenster am besten einpassen konnte,
+1287280	1293840	selbsttätig aus, um das in Zukunft immer weiter zu optimieren. Das haben wir schon im Alltag heute
+1293840	1302040	ganz häufig, aber das war halt in den 70er, 80er, 90er Jahren was, was auch zur Verbesserung,
+1302040	1309120	Besserung von Robotern, aber auch von anderen Verfahren geführt hat. Und was sich, du hast ja
+1309120	1314200	gesagt, es geht auch um die Wissensordnung, also man hat ja sehr lange an dieser symbolischen,
+1314200	1322600	rational-kognitiven Idee festgehalten, wo ich argumentieren würde, dass sich heute diese
+1322600	1331000	konnektionistische oder auch kubernetesche KI, die mit diesen Verfahren von Trial and Error,
+1331000	1336760	von Rumprobieren, von Tinkering arbeiten, dass die sich heute zunehmend durchsetzt. Und ich finde
+1336800	1343400	das auch insofern spannend, weil das natürlich zumindest in so einem Alltagsverstand, wie wir
+1343400	1351720	uns Natur- und Technikwissenschaften vorstellen, wie die arbeiten, nämlich rational-kognitiv,
+1351720	1358320	und nicht indem sie irgendwie rumbasteln, eigentlich gar nicht zusammenpasst. Das heißt,
+1358320	1363440	bei den Ingenieuren passt es natürlich schon, aber bei den Naturwissenschaften und bei der
+1363440	1368640	Mathematik vielleicht nicht. Und der Unterschied, denn auch Ingenieure haben und Ingenieurinnen
+1368640	1376160	früher viel mit Tinkering und Rumprobieren gearbeitet. Ich muss sagen, nur Daniel Düsentrieb oder
+1376160	1384320	sowas, jetzt rede ich von Alltagsverständnis. Aber das war kein systematisiertes Trial and Error,
+1384320	1391520	also dass das jetzt auch mit großen Rechenkapazitäten immer wieder durchgespielt werden
+1391520	1397760	kann, um Prozesse zu optimieren. Aber ohne dass man genau weiß, wie man die optimiert,
+1397760	1404960	sondern eigentlich brutal force, in dem man das gut durchrechnen kann, mit großen Datenmengen und
+1404960	1410880	schnellen Maschinen auch zu sehr, sehr guten Ergebnissen kommt. Das finde ich hochspannend.
+1410880	1416240	Und witzigerweise hindert es ja auch dann nicht daran, dass am Ende, obwohl man eigentlich ein
+1416240	1423120	komplett anderes Paradigma verfolgt hat, dass man am Ende dann trotzdem das alte Siegel drauf
+1423120	1432680	klatscht. Also im Grunde die veraltete Behauptung von Objektivität. Das wird ja dann gerne am Ende
+1432680	1438520	dann doch wieder behauptet, aber es ist eigentlich ein anderes Paradigma, dem man vorher gefolgt war,
+1438520	1444560	im Grunde. Das ist jetzt nur so eine Seitennotiz. Ja, aber das ist total spannend, das finde ich
+1444640	1453440	auch. Also es wird halt im Ex-Post dann wieder rationalisiert. Zur Ehrenrettung, also es ist
+1453440	1461120	beides, so wie du sagst, dass man was als objektiv reklamiert, wo man starke Zweifel haben muss. Wobei
+1461120	1466640	man natürlich da auch über den alten Ansatz, da könnte man auch noch mal Fragen stellen. Auf
+1466640	1471040	der anderen Seite, was man natürlich auch macht und das habe ich vielleicht vorhin vergessen,
+1471200	1478120	man versucht natürlich schon auch draus zu lernen, indem man dann praktisch Post-Processing sich die
+1478120	1484120	Ergebnisse hinterher anguckt, um zu verstehen, was da passiert ist. Aber das tut man nur teilweise,
+1484120	1490320	weil und das ist auch interessant, weil das waren die Anfänge und heute würde ich reklamieren,
+1490320	1496920	dass das auch immer weniger interessiert eigentlich, wie das funktioniert, sondern
+1496920	1503680	dass irgendwie, dass das, also dass es funktioniert, der wichtige Punkt ist. Was schon,
+1503680	1512720	wenn wir uns selber als eine Kultur, also die sich für kognitive Leistungen und Verstehen und so,
+1512720	1519000	also sich dadurch auszeichnet, es schon erstaunlich ist, dass man mehr und mehr auf den Punkt geht,
+1519000	1526760	Hauptsache es funktioniert, egal wie. Wobei das ja, muss man sagen, eigentlich der Methode
+1526760	1534120	inherent ist, nicht? Also sie werfen ja eigentlich von Beginn an, sagen die, hast du ja schon gesagt,
+1534120	1540120	die Behauptung der einen richtigen Lösung über Bord, ja und dann endet man ja eigentlich dort,
+1540120	1548320	dass im Grunde das Ziel in Anführungsstrichen ein gutes Funktionieren oder ein ausreichendes
+1548320	1553120	Funktionieren nur im Grunde darstellt, nicht? Also insofern ist es wieder auf eine Art konsequent,
+1553120	1559880	finde ich, muss man sagen. Aber also ich finde, dass jetzt sehr schön eigentlich auch diese
+1559880	1567360	erkenntnistheoretische Verschiebung eingefangen, also im Grunde eine Wegbewegung von dem Gedanken
+1567360	1575960	einer Repräsentation von Welt hin zu etwas, was eben dann jetzt immer mehr auch verwendet wird,
+1575960	1585280	um Formen der vornehmlichen Prädiktion, also der Voraussage von Welt eigentlich zu erzeugen,
+1585280	1590080	beziehungsweise zu behaupten, muss man ja eigentlich sagen. Und auch der eben dann
+1590080	1595200	leider damit verbundenen präemptiven Logik, die sich da preisterweise dann einfach daraus
+1595200	1600360	ableitet, ja. Vielleicht kannst du uns diesen einen Aspekt, der dann ja im Grunde noch mal
+1600360	1605200	einen Schritt weitergeht eigentlich, vielleicht kannst du uns diesen Aspekt noch mal ein bisschen
+1605200	1611320	näherbringen und warum der aus dieser spezifischen, du nennst es ja Technorationalität,
+1611320	1617880	sich eigentlich auf eine Art auch logisch ergibt. Also wie hängt das zusammen? Diese in
+1617880	1626560	Anführungsstrichen neuere Formen des Zugangs, den du eben als Technorationalität beschreibst und
+1626560	1633800	der eigentlich auch eine Form von kybernetischer Logik eigentlich darstellt. Also vielleicht
+1633800	1639680	kannst du uns beschreiben, inwiefern das dann eigentlich auch endet in diesen Verfahren der
+1639680	1649760	Prädiktion und der präemptiven Logik? Ja, also da sage ich jetzt vielleicht nachher noch was zu,
+1649760	1654920	weil ja, ich habe das natürlich jetzt im Bereich der Technowissenschaften versucht nachzuvollziehen,
+1654920	1659600	was vielleicht, aber da können wir nachher vielleicht noch drauf kommen, noch mal mir
+1659600	1664680	auch wichtig ist, die entsteht natürlich nicht im leeren Raum. Es wäre natürlich auch noch mal
+1664680	1672760	spannend zu fragen, mit was für Weltsichten oder Verständnis von Welt diese Logik verbunden ist,
+1672760	1678200	denn es ist ja auch nicht von ungefähr, dass sich so eine Logik durchsetzt. Das sage ich deshalb,
+1678200	1686640	weil gerade diese präemptive Logik zum Beispiel im Bereich des Sicherheitsbereichs und im Bereich
+1686640	1692120	des Militärs natürlich sehr wichtig ist und da korrespondiert auch was miteinander. Das ist
+1692120	1698720	sozusagen nicht die reine Technorationalität, aber womit diese Technorationalität sehr stark
+1698720	1706720	verbunden ist, meiner Meinung nach, ist, dass es auch eine Bewegung weg von Kausalität, also erkennen,
+1706720	1715400	warum, was passiert, wie es passiert, hin in den Bereich der Korrelation verschiebt. Also viele
+1715400	1719680	Leute reden auch jetzt in einem erkenntesteoretischen Rahmen heute von einem
+1719680	1725520	Korrelationsparadigma. Also es geht eben weniger darum, zu verstehen, warum was passiert,
+1725520	1732960	sondern Korrelation, wenn man es runter bricht, könnte man sagen, in der Vergangenheit haben wir
+1732960	1738440	immer wieder einen bestimmten Zusammenhang festgestellt, deshalb gehen wir davon aus,
+1738440	1745380	dass das auch in der Zukunft so passieren wird. Das funktioniert in vielen Zusammenhängen. Ich
+1745380	1749860	könnte jetzt böse sagen, auf eine Art machen wir das jeden Morgen oder Abend, wenn wir sagen,
+1749860	1753540	na ja, gestern ist die Sonne irgendwann aufgegangen, gehen wir davon aus, dass die
+1753540	1759540	morgen auch aufgeht. Das ist aber keine klassisch naturwissenschaftlich technische Erklärung,
+1759540	1764980	warum die Sonne aufgeht. Das heißt, wir arbeiten mit einer Erfahrung und projizieren die in die
+1764980	1776500	Zukunft. Und weiß ich nicht, es gibt banale Beispiele, man könnte sagen, in der Terrorabwehr,
+1776500	1781940	aber in vielen anderen Sachen auch, wo man sagt, wenn nicht nur Terrorabwehr,
+1781940	1789100	Buchempfehlungen oder Produktempfehlungen von Amazon oder was immer wir uns vorstellen,
+1789100	1798500	diese Person hat gerne folgende Produkte gekauft und dann habe ich eine andere Person. Also dann
+1798500	1802540	versuche ich erst mal das Muster festzustellen, für welche Produkte interessiert sich diese
+1802540	1809380	Person. Und wenn ich dann eine andere Person habe, die Teile dieses Musters erfüllen,
+1809380	1814820	empfehle ich denen was Ähnliches. Und das ist eigentlich was ganz Ähnliches, dass man sozusagen
+1815140	1822140	aus vergangenen Erfahrungen, Befunden in die Zukunft projiziert, dass es wieder in
+1822140	1830260	ähnlicher Weise stattfinden wird. Und dieses Verfahren ist sehr weit verbreitet von Predictive
+1830260	1843180	Policing bis Produktempfehlungen bis datengestützte Kriegsführung, Terrorismus. Also das haben wir in
+1843260	1849220	ganz, ganz vielen Bereichen unterdessen, dass man mit dieser Korrelationslogik und eben nicht
+1849220	1860060	mit der kausalen Logik arbeitet. Und präemptiv, ganz deutlich ist es natürlich im Sicherheitsbereich,
+1860060	1868540	weil man da zum Beispiel Gefahren erkennen will und versucht schon im Vorab zu bestimmen, wer ist,
+1869220	1873580	in der deutschen Logik würde man zum Beispiel sagen, wer ist ein Gefährder. Also ich möchte
+1873580	1882100	erkennen, welche sind für den Staat oder in dem Fall für den Staat gefährliche Personen,
+1882100	1891380	die man beobachten sollte. Und das versucht man, indem man eben bestimmte Muster extrahiert,
+1891380	1897460	was macht einen Gefährder aus, um das dann zum Beispiel durch Datenbanken laufen zu lassen,
+1897580	1904260	um solche Personen in einer kriminalistischen Datenbank zu finden und dann auf die zum
+1904260	1912180	Beispiel meine Aufmerksamkeit zu lenken. Und ich glaube, das passiert unterdessen in den
+1912180	1918780	unterschiedlichsten Bereichen. Also mit so einer präemptiven Logik auch zu arbeiten,
+1918900	1927180	das kann man ja auch. Ich versuche gerade noch ein anderes Beispiel zu finden, unter anderem
+1927180	1935860	bei Bewerbungsgesprächen. Menschen, die, ja das ist schwierig, weil es sind oft gar keine Muster,
+1935860	1939660	weil manchmal sind es auch nur Annahmen. Also unterdessen guckt man ja zum Beispiel,
+1939660	1947060	ich weiß es zumindest für die USA gerne, wenn man Menschen einstellt, ob die Kredite
+1947100	1953180	ordentlich zurückgezahlt haben, um dann sozusagen aus diesem Proxy zu schließen oder aus dieser
+1953180	1958580	Eigenschaft daraus zu schließen, ob jemand zum Beispiel in Zukunft ein guter Mitarbeiter
+1958580	1964220	sein wird. Da ist es jetzt gar nicht so eine präemptive Logik, sondern ich gucke mir bestimmte
+1964220	1970100	Kategorien an, die ich als relevant bestimme. Manchmal sind es aber auch Muster. Also manchmal
+1970100	1975340	guckt man dann auch, was haben wir in der Vergangenheit gesehen, was für Eigenschaften
+1975340	1982460	machen einen guten Mitarbeiter aus und nach diesen, diese Kategorien lege ich zugrunde für einen
+1982460	1986860	zukünftigen Mitarbeiter. Das heißt, ich gucke mir nicht den Mitarbeiter an und versuche mir ein
+1986860	1991420	Bild von diesem Menschen zu machen, um mir dann zu überlegen, ob der jetzt zum Beispiel gut in ein
+1991420	1998980	Team passt, sondern was früher gut war, wird auch in der Zukunft gut sein. Was natürlich teilweise
+1998980	2006700	dramatische Konsequenzen hat, weil das eigentlich die Wiederholung des immer gleichen im schlimmsten
+2006700	2012700	Falle bedeuten kann. Also wir haben jetzt auch noch so ein anderes Forschungsprojekt, aber da
+2012700	2019380	geht es zum Beispiel auch um diese, gibt es um Software, wie man beim Hiring, wie sagt man
+2019380	2026820	im Deutschen, wie man beim Einstellungsverfahren, genau bei Bewerbungsgesprächen, wie man Leute
+2026820	2034100	bestimmt und da ist es mehrfach aufgetreten, dass man einfach ein Profiling der eigenen
+2034100	2041380	Mitarbeiter, die man für gut befunden hat, daraus die Kategorien extrahiert hat für die zukünftigen
+2041380	2048580	Mitarbeiter und Mitarbeiterinnen. Was natürlich nicht zufällig, es gab ein Skandal um so einen
+2048580	2055820	Algorithmus von Amazon, der dann einfach weiße Männer präferiert hat, weil in diesem Zusammenhang
+2056500	2061460	primär weiße Männer gearbeitet haben oder als Manager gearbeitet haben und das waren dann
+2061460	2066740	Kategorien, die auch in Zukunft bestimmt hat, wer wird denn ein guter Manager sein. Da kann man
+2066740	2073540	ganz einfach daran sehen, wie problematisch sozusagen solche Formen von Korrelationen sind,
+2073540	2078660	die dann eben auch zu Bias oder Diskriminierung führen, weil man gar nicht darüber nachdenkt,
+2078660	2082580	dass das eben zur Reproduktion des schon Vorhandenen führt.
+2082580	2091780	Und ein Beispiel, was total mustergültig, könnte man sagen, eigentlich diese präemptive Logik eben
+2091780	2097700	auch eingeschrieben hat und mit dem du dich sehr intensiv auch befasst, ist eben die datengestützte
+2097700	2105900	Kriegsführung und da gibt es etwas, das nennt sich die Disposition Matrix, die kannte ich bisher noch
+2105900	2112900	nicht. Das ist eine im Grunde Todesliste in Form von einer Datenbank der US-Regierung. Vielleicht
+2112900	2118980	kannst du uns anhand dieses sehr konkreten Beispiels auch nochmal erläutern, wie da eigentlich diese
+2118980	2125220	von dir beschriebenen Wissensregime und auch Anwendungslogiken zum Einsatz kommen.
+2125220	2130660	Ich kann das natürlich immer nur unter Vorbehalt, also ja, ich habe mich damit beschäftigt, ich
+2130660	2136780	fand das auch sehr spannend, aber ich könnte jetzt, und das ist mir eigentlich auch eine
+2136780	2143260	Herzensangelegenheit, es gibt ganz wenig in diesem Feld an Forschung und das liegt natürlich daran,
+2143260	2147980	dass es ein extrem schwer zugänglicher Bereich ist. Es liegt auch daran, dass viele nicht über
+2147980	2155980	diesen Bereich forschen wollen, ich mache immer so ein bisschen kleine Witze, weil ich fühle mich
+2156100	2158540	Du bist jetzt auf einer Liste drauf, wahrscheinlich deswegen.
+2158540	2166140	Ja, also auch das, das weiß man nicht, das sind natürlich dann auch paranoische, das ist schon
+2166140	2171900	länger her, als ich nach San Francisco geflogen bin und mein Visum beantragt habe und normalerweise
+2171900	2177500	kriegt man dieses Visum sofort und beim, ich habe das Visum bekommen, aber es hat glaube ich 24
+2177500	2182460	oder 48 Stunden gedauert und ich habe mich natürlich schon gefragt, sind da irgendwelche
+2182460	2189620	falschen Stichwörter hochgepoppt, als man in der Suchmaschine nach Frau Prof. Dr. Jutta Weber
+2189620	2195020	gesucht hat, nämlich sowas wie Terror und Tötungsliste und ähnliches, das fragt man sich
+2195020	2198780	natürlich auch, aber man wird es natürlich auch nie raus, also im Normalfall wird man es
+2198780	2203740	nicht rausfinden, aber es ist halt interessant, weil ich fühle mich ja der Disziplin der Science
+2203740	2211860	and Technology Studies zugehörig, die unter anderem gerade mit kritischem Blick auf das Militär in den
+2211860	2218740	60er, 70er Jahren losgelaufen sind. Wir über die Drohnenkriege jetzt wieder ein bisschen mehr
+2218740	2225140	Forschung haben, aber dieser, dieses Feld natürlich auch sehr brach liegt unter anderem,
+2225140	2231140	weil halt auch empirische Forschung in dem Feld schwierig ist. Das heißt, was ich da über diese
+2231140	2237300	Disposition Matrix, die du gerade ins Spiel gebracht hast, herausgefunden habe, ist natürlich nur
+2237420	2243300	Dokumenten gestützt. Es gibt vielleicht ein paar Leute, die eine große Nähe zum weißen Haus haben,
+2243300	2248700	die vielleicht auch noch die eine oder andere Person befragen können. Ich konnte das nicht,
+2248700	2256740	aber was mir schon sehr, also nicht plausibel, aber was aus diesen Dokumenten, die ich dazu
+2256740	2263860	gefunden habe, hervorging, war, dass man schon in diesen Drohnenkriegen und wir reden jetzt noch
+2264060	2273780	von den ferngesteuerten Drohnen. Unterdessen gibt es ja auch Bemühungen, die autonome Drohnen zu
+2273780	2282300	entwickeln oder einzusetzen, weiß man nicht. Da gibt es ja zwei Varianten in diesem Drohnenkrieg.
+2282300	2291700	Das eine war, dass die Piloten bzw. die Beobachter manchen Menschen, auf die sie angesetzt wurden,
+2291860	2298820	sehr lange gefolgt sind und genauer geguckt haben, was die tun. Und das andere ist,
+2298820	2303580	dass es, also eigentlich so gesehen, fast drei Varianten. Das eine ist, manchmal wurde auch
+2303580	2311820	Verdacht nach dem Motto, hier ist ein in Vaziristan zum Beispiel, da sind Männer, die sind jung und
+2311820	2317100	es sieht so aus, als ob sie Waffen in den Händen tragen, war manchmal auch schon ausreichend,
+2317580	2324420	um eine Rakete von einer Drohne abzufeuern. Aber es gibt offensichtlich Tötungslisten,
+2324420	2332580	was ich dann selber auch erst rausgefunden habe. Die gab es früher, das ist vielleicht auch nochmal
+2332580	2338420	interessant, offensichtlich bei den verschiedenen Geheimdiensten und beim Militär, die dann
+2338420	2344420	irgendwann zusammengeführt worden sind. Und auch das halte ich für keinen Zufall, weil
+2344420	2354860	Machine Learning und diese Big Data Logik natürlich am besten funktioniert, je größer mein Datenbestand,
+2354860	2363180	mein Dataset ist. Das heißt, es kann dafür auch politische Gründe geben, warum man diese
+2363180	2369100	Tötungslisten irgendwann zusammengeführt hat vom Militär und von den Geheimdiensten. Aber es gibt
+2369100	2374500	sicherlich auch einen technischen Grund dafür, nämlich diese Datenbank mit ihren Informationen zu
+2374500	2380940	vergrößern, um sozusagen nochmal genauer nach spezifischen Mustern suchen zu können,
+2380940	2389780	was einen Terroristen oder eine Terroristin, in dem Fall meistens einen Terroristen, ausmacht. Und
+2389780	2396900	dabei sind aber, also es gab ein paar Dokumente, die zum Beispiel von Edward Snowden geleakt
+2396900	2405980	worden sind, an denen man das sehen konnte, teilweise sehr basale Profile von Terroristen
+2405980	2412220	erstellt worden. Also das eine ist, es gibt keine offizielle Definition der US-amerikanischen
+2412220	2418860	Regierung, was einen Terroristen ausmacht. Es gibt nur sehr vage Beschreibungen und man hat
+2418940	2424020	sich dann letztendlich, und da kommt das Verhalten wieder, von dem wir vorhin gesprochen haben,
+2424020	2433060	auf sehr basale Verhaltensmuster spezifiziert. Also zum Beispiel, um zurückzukehren zum Drohnenkrieg
+2433060	2440220	im Pakistan, wer reist bestimmte Routen in Vaziristan, um dann daraus zu schließen,
+2440620	2449180	dass es da Kontakte zu Aufständischen zum Beispiel gibt. Also was dann wieder zu einer
+2449180	2458740	Definition von Terrorist oder Telefonkontakte, die vorhanden sind. Also es ist bestimmt nicht
+2458740	2466460	sehr positiv, wenn man in seinem Handy Telefonnummern von Terroristen hat, die man schon getötet oder
+2466460	2472300	die gefangen worden sind oder die eben auch schon auf einer Liste stehen, weil man dann sehr simpel
+2472300	2476580	daraus geschlossen hat, na ja, wenn diese Telefonnummern wieder in dem Handy von dieser
+2476580	2482700	Person vorkommen, dann ist es sehr wahrscheinlich, dass die sich auch in diesen terroristischen
+2482700	2490020	Kontexten bewegt, dass die Person aber vielleicht einfach nur ein alter Schulfreund ist oder der
+2490020	2496620	Onkel oder was auch immer, ist möglicherweise dabei nicht immer abgeglichen worden. Aber
+2496620	2504860	eben über diese Erstellung von diesen Mustern hat man dann versucht, ja, Listen festzulegen,
+2504860	2514020	wer mögliche Ziele für diese Drohnenangriffe sein können und sozusagen eine Hierarchie der
+2514020	2521220	Most Wanted Terrorists festzulegen, die dann auch teilweise noch diskutiert worden sind. Es gab,
+2521220	2528780	sagt man, ich kann ja immer nur sagen, sagt man, was ich aus den Dokumenten rauslesen konnte,
+2528780	2535780	Bloody Tuesdays, wo es dann mit PowerPoint Präsentationen, wir reden jetzt von der Ära
+2535780	2543500	Obama, als ich das recherchiert habe, dann diskutiert hat aufgrund dieser Profile, welche
+2543500	2550740	die interessantesten Terroristen sind, derer man versucht habhaft zu werden und gerade unter Obama
+2550740	2556580	ist man ja dann dazu übergegangen, nicht mehr mit Boots on the ground zu versuchen, dieser Menschen
+2556580	2564340	habhaft zu werden, sondern sie einfach qua Rakete von der Drohne abgeschossen zu eliminieren,
+2565300	2569180	eliminieren klingt immer so harmlos, sie umzubringen, sie zu töten.
+2569180	2574540	Also als ich das gelesen habe bei dir in dem Paper, hatte ich ganz stark das Gefühl,
+2574540	2585100	dass das im Grunde, also bis zu einem gewissen Grad einfach auch auf eine Produktion von Bedrohung
+2585100	2591340	hinausläuft, weil ja genau die Logik, die du beschrieben hast, die ja letztlich auch immer
+2591340	2597300	in sich trägt, dass man eigentlich gerne mehr Daten hätte, um noch mehr Netzwerkanalyse zu
+2597300	2603500	machen, noch mehr Datenpunkte miteinander zu verbinden, dass diese Logik ja unabgeschlossen
+2603500	2609780	ist, also du hattest ja schon gesagt, es gibt nicht irgendwann dann ein okay, hier ist jetzt das richtige
+2609780	2614100	Ergebnis oder sowas, sondern es ist unabgeschlossen, also das heißt, es können immer mehr Daten
+2614100	2619500	eigentlich eingespeist werden und es sollen auch immer mehr Daten eingespeist werden und dadurch,
+2619500	2626580	dass man aber immer mehr Daten einspeist, werden dann natürlich auch immer mehr potenzielle
+2626580	2635340	Verbindungen eigentlich erzeugt und dadurch eigentlich im Grunde ja auch eine unabgeschlossene
+2635340	2641180	Bedrohung produziert. Also inwiefern hat man es da eigentlich dann letztlich mit einer Form von
+2641180	2646940	sichselbsterzeugendem System zu tun? Das ist auf jeden Fall so, ich erinnere jetzt nicht
+2646940	2655460	mehr auswendig die Zahlen, aber es gibt ja auch Datenbanken in den USA, wo diese Terroristen,
+2655460	2661860	oder es sind eben nicht Terroristen, das möglicherweise des Terrorismus verdächtigen
+2661860	2668860	und das geht in die Zehn- und Hunderttausende, also was da an Personen abgelegt sind in diesen
+2668860	2675260	Datenbanken, als zumindest verdächtige Personen und das ist genau das, was du beschrieben hast,
+2675260	2684180	weil man sammelt immer mehr Daten, damit findet man auch immer mehr Leute, die zumindest partiell in
+2684180	2692700	diese Muster reinpassen und damit scheint natürlich auch die Bedrohung immer größer zu werden und das
+2692700	2700380	ist ja auch eine Logik, die ganz schlecht sozusagen ex negativo abgeglichen werden kann. Also wie kann
+2700380	2707060	man denn feststellen, dass jetzt jemand da unbegründeterweise in dieser Datenbank landet,
+2707060	2714380	das versucht man auch großteils nicht, teilweise wo es dann, es ist nicht lustig, aber wo es dann
+2714380	2719260	sehr deutlich wurde, weil über diese Tötungslisten hast du ja auch gesagt, dir war das noch nicht
+2719260	2724700	bekannt, spricht natürlich kaum jemand, aber wo es natürlich aufgefallen ist, war es bei diesen
+2724700	2730180	No-Fly-Lists, die es ja in den USA auch gibt, nämlich Menschen, die nicht mit dem Flugzeug fliegen
+2730180	2736260	dürfen, weil sie eben als potenzielle, in Deutschland würde man eben sagen, potenzielle Gefährder
+2736260	2743420	gelten und da Menschen ausgeschlossen worden sind aufgrund von simpler Namenverwechslungen und
+2743420	2751820	andere mehr, wo es dann aufgefallen ist, wer alles in dieser No-Fly-Liste gelandet ist und diesen
+2751820	2758020	Menschen es teilweise Monate oder Jahre gekostet hat, bis die durchgesetzt haben, dass sie von dieser
+2758020	2764940	Liste gestrichen werden. Also auch da ganz schwierig, was bedeutet das, wenn man solche
+2764940	2774460	Listen anlegt, wer überprüft überhaupt noch, wie sinnvoll oder wie zutreffend sozusagen diese
+2774460	2783140	Einträge sind und gleichzeitig hat es natürlich auch eine immanente Logik, immer mehr Daten sammeln
+2783140	2789940	zu wollen, um diese Muster zu optimieren. Das ist auf jeden Fall so. Wir haben jetzt ja einige
+2789940	2798460	absolut problematische Aspekte an dieser Form des Zugangs, auch an dieser Produktion, spezifischen
+2798460	2805900	Formen von Produktion von Wissen ja jetzt schon besprochen. Gleichzeitig ist es ja auch nicht so,
+2805900	2811460	dass eben maschinelles Lernen nicht auch tatsächlich hilfreich sein könnte. Also du hast es ja auch
+2811460	2818260	gesagt, es gibt ja, du hattest das Beispiel des Sortierens unsortierter Zahlen rein und so. Also
+2818260	2826460	es ist ja so, dass es durchaus auch Anwendungsfälle gibt, in denen das eine total valide, vielleicht
+2826540	2834020	unproblematische Form des Zugangs sein könnte. Wie kann man das unterscheiden und oder wie könnte
+2834020	2840740	eine Nutzung oder auch eine Umformung etwaig solche Verfahren aussehen, solche Verfahren und
+2840740	2847220	solche Technologien aussehen, damit sie eben nicht in diese Fettnäpfchen der Technorationalität
+2847220	2853620	hinein treten? Na ja, ich glaube aus der Technorationalität selber kommt es nicht
+2853620	2859300	raus. Also da würde ich sagen, aber das heißt ja, wie du richtig gesagt hast, nicht per se,
+2859300	2864140	dass alle Anwendungen von übel sind. Das will ich damit überhaupt nicht sagen. Wir haben ja
+2864140	2871700	jetzt wirklich extreme Beispiele diskutiert. Ich glaube, es sind jetzt zwei Punkte. Die eine
+2871700	2879500	Frage ist, wie kann man größere Katastrophen, also jetzt im Fall der Tötungslisten, muss man
+2879500	2886900	einfach sagen, da sind Menschen getötet worden, die zu Unrecht auf dieser Liste standen. Ich glaube,
+2886900	2893420	das weiß man heute. Oder man hat es noch rechtzeitig gemerkt, es gab eben dieses eine Beispiel. Also
+2893420	2900380	nicht nur eins, aber eins wurde auch bekannt durch ein Leak von Edward Snowden, wo man gesehen hat,
+2900380	2906740	dass ein Journalist ganz weit oben in Vaziristan auf der Tötungsliste stand, weil der sich eben
+2906740	2913620	mit Al-Qaeda und anderen Personen unterhalten hat. Und deshalb ist er die gleichen Routen entlang
+2913620	2920740	gereist. Oder was sie auch gemapt haben, waren Wi-Fi-Netzwerke. Also wo hat sich ein Handy
+2920740	2927820	eingeloggt? Und das waren dann halt Kontexte, die nicht erwünscht waren. Und deshalb stand dieser
+2927820	2933420	Mann ganz oben auf der Tötungsliste. Da war aber ein Journalist und war sozusagen einer der wenigen,
+2933420	2940300	der sich dann auch mit den Aufständischen oder den Terroristen, wie immer man es benennen will,
+2940300	2946300	sich unterhalten hat, was durchaus positiv war, auch für die Berichterstattung, um da auch wieder
+2946300	2952620	einen Dialog in Gang zu bringen, hat den Menschen aber höchst gefährdet. Also das ist das extreme
+2952620	2959340	Beispiel und es gibt eben auch positive, jede Menge positive Beispiele auch von Machine Learning.
+2959340	2968740	Da würde ich sagen, das sind jetzt, was jetzt eine große Diskussion war, ist immer, wie ist es mit
+2968740	2977500	Diskriminierung? Wie ist es mit Bias? Wie kann man das verhindern? Und ich glaube, da hat man noch
+2977500	2984220	keine wirkliche gute Antwort gefunden. Also es gibt jetzt zum einen viele Versuche, was ich
+2984220	2990620	spannend finde, in der Informatik selbst, diese Algorithmen im Machine Learning, also zum Beispiel
+2990620	3001780	so Ranking-Algorithmen zu verbessern. Aber das ist natürlich ein ganz schwieriges Feld, weil zum
+3001780	3007940	einen versucht man eben, diese Algorithmen zu verbessern. Man müsste die eigentlich politisch,
+3007940	3015860	juristisch, sozial einhegen. Es gibt auch eine laute Forderung nach so, ich glaube man im deutschen
+3015860	3021980	Auditing, also einer gewissen Überwachung oder Prüfung von diesen Algorithmen und vor allem
+3021980	3029900	von den Effekten der Algorithmen. Da hat man aber eigentlich auch noch keine zuverlässigen und vor
+3029900	3035060	allem rechtsverbindliche Verfahren entwickelt. Also das hat ja sich mit so einer Geschwindigkeit
+3035540	3045300	entwickelt, wo dann die verschiedenen von Verwaltung, Regierung, Justizialität und so weiter,
+3045300	3050180	dem natürlich auch immer hinterher hinken, aber wo es eigentlich dringend nötig ist,
+3050180	3057220	solche Algorithmen, also manche reden von dem Altü für Algorithmen, aber ich glaube auch das
+3057220	3063060	alleine reicht noch nicht aus, weil es sind nicht nur die Algorithmen, es sind auch die Daten. Und
+3063060	3068580	wenn ich mich mit Maschinenlearnern, meistens sind es Maschinenlearner, nicht so viele
+3068580	3075500	Maschinenlearnerinnen unterhalte, habe ich auch den Eindruck, dass zum Beispiel kaum geprüft wird,
+3075500	3083700	wie kommt man zu diesen Daten, wer hat die Kategorien dafür festgelegt, was in diesem
+3083700	3089540	Datentool zum Beispiel drin ist, also welche Features, also welche Eigenschaften werden
+3089540	3096260	abgefragt und welche nicht. Und das sagt ja schon ganz viel darüber aus, was überhaupt für Muster
+3096260	3101380	gefunden und nicht gefunden werden können. Ich hatte ja vorhin so ein ganz kleines Beispiel wie
+3101380	3108820	mit diesen Managern, also wenn ich jetzt von einer bestimmten Firma nur die Manager auf
+3108820	3116140	ihre Eigenschaft, also versuche das zu zu profilen und das dann in einer Datenbank abzulegen und es
+3116140	3121180	waren halt nur weiße Männer, dann weiß ich auch, dass in Zukunft alle, die dagegen dieses Profil
+3121180	3129780	abgeglichen werden, die weißen Männer priorisiert werden. Aber das liegt dann nicht unbedingt an
+3129780	3137060	dem Algorithmus, das kann auch sozusagen an meinem Datenset liegen, dass das passiert. Und das nächste
+3137060	3141740	und das ist dann vielleicht noch das dritte und das führt dann vielleicht zu weit, aber gleichzeitig
+3141740	3148780	werden ja diese Fragestellungen, die in diesem Machine Learning drinstecken, also wie finde ich
+3148780	3157100	jetzt die besten Treffer für die Suchmaschine oder wie finde ich die besten geeigneten Menschen für
+3157100	3163900	eine Aufgabe oder was immer man sich da jetzt vorstellt, dass ich das ja in irgendeiner Weise
+3163900	3169820	modellieren muss, diese Fragestellungen, die kann ich ja nicht so eben mal in einen Algorithmus
+3169820	3177220	implementieren und ich habe einen Kollegen Maschinen Lerner gefragt, habe ich gesagt, gibt es da
+3177220	3184860	verbindliche Regeln der Modellierung? Dann hat er gesagt, nee, das ist mehr so eine Kunst, aber also er
+3184860	3191020	würde nicht sagen, dass es dafür wirklich feststehende Regeln gibt, wie man sowas modelliert und es
+3191020	3196740	gibt halt auch sehr wenig Supervision, wie man bestimmte Fragestellungen in sozusagen diese
+3196740	3203020	algorithmische Logik übersetzt. Also da wäre ganz viel zu tun und da ist es nicht damit getan,
+3203020	3211260	einfach nur einen Algorithmus zu verbessern, den man des Bias oder der Diskriminierung überführt
+3211260	3216940	hat. Das ist glaube ich ein ganz schwieriges und sehr komplexes Feld und wo man glaube ich
+3216940	3222340	gleichzeitig eben nicht nur Informatiker und Informatikerinnen fragen muss, sondern auch
+3222340	3229660	Soziologinnen, Medienwissenschaftler, also Menschen, die in den Sozial- und Kulturwissenschaften zu
+3229660	3234860	Hause sind, mit denen man da eigentlich kooperieren müsste, um zu verstehen, was in dem Feld passiert,
+3234860	3244180	um auch größere Havarenen zu vermeiden. Ich meine, ich finde am Beispiel dieser Disposition
+3244180	3251460	Matrix kann man eigentlich ganz schön auch sehen, dass da ja nicht nur es sich darauf
+3251460	3256100	reduzieren lässt, dass man das irgendwie ein bisschen verbessern müsste. Also dass da jetzt
+3256100	3263380	irgendwie nur, keine Ahnung was, man die Fehler nimmt und dann den Algorithmus entlang der Analyse
+3263380	3268580	dieser Fehler halt verbessert, sondern dass ja eigentlich in erster Instanz schon die Art und
+3268580	3273580	Weise, wie man dem Problem begegnet, einfach hoch problematisch ist, weil wie wir eben schon
+3273580	3279740	besprochen hatten, man im Grunde die Bedrohung ja mit produziert, indem man vorgibt, sie eliminieren
+3279740	3287140	zu wollen. Und dieses Zusammenspiel, das ist ja schon eigentlich etwas, was es also definitiv zu
+3287140	3293860	vermeiden gilt. Und dann stellt sich mir halt anschließend irgendwie die Frage, okay, es ist
+3293860	3301060	vielleicht so, dass einfach in bestimmten Feldern diese Form des Zugangs grundsätzlich nicht
+3301060	3307460	eingesetzt werden sollte. Und wie kann man entlang dieser Fragestellungen Entscheidungen treffen?
+3307460	3313020	Also gerade auch, weil ja, wie wir auch vorhin schon festgestellt hatten, immer wieder dann
+3313020	3321980	diese Figuren der Scheinobjektivität und sowas angeführt werden, um so zu tun, als sei diese Form
+3321980	3327420	des Zugangs eigentlich anderen überlegen, weil sie ja angeblich objektiv sei. Also,
+3327420	3334180	genau, ja. Also irgendwie würde mich noch interessieren, wie man das unterscheiden kann,
+3334180	3337500	also wo man das einsetzen sollte und wo eben vielleicht grundsätzlich nicht.
+3337500	3344260	Ja, ich glaube, es ist schwierig, eindeutige Regeln für alle Kontexte zu formulieren. Aber
+3344260	3348340	ich bin glaube ich da ganz deiner Meinung, es gibt Bereiche, wo man überhaupt nicht auf die Idee
+3348340	3354020	kommen sollte, sie einzusetzen. Oder wenn man es dann mal ansatzweise versucht, bitte nicht
+3354020	3358620	mein Tötungslisten, also jetzt gehen wir mal einen Schritt zurück. Wir hatten einen Kollegen,
+3358620	3364340	das fand ich ganz schön, das für den Bereich Predictive Policing erzählt, wo es ja ähnliche
+3364340	3371260	Versuche gibt, wie kann ich den Täter finden, bevor er was getan hat, also den Verbrecher finden
+3371260	3378100	oder die Verbrecherin, bevor sie was getan hat. Und es da Versuche gab, jetzt muss ich versuchen,
+3378100	3382660	weil ich mich da aktuell gar nicht viel mit beschäftige, aber ich glaube in Baden-Württemberg
+3382660	3389420	war das Baden-Württemberg. Ich meine ja, ist ein solches Programm einfach mal auch evaluiert
+3389420	3397660	worden. Also damit fängt es ja schon ganz häufig an, das haben wir ja auch in Deutschland im Kontext
+3397660	3405060	von Geheimdiensten, dass man immer mehr bestimmte Zugriffe, Horten von Daten einfordert, aber
+3405060	3410380	eigentlich kaum evaluiert wird, was denn damit gewonnen ist. Also eigentlich müsste man ja sagen,
+3410620	3415780	also wenn jetzt hier, eigentlich dürfen sie sowieso keine Datenvorratsspeicherung machen,
+3415780	3420580	aber es wird immer wieder damit argumentiert, auch wenn dann das Verfassungsgericht sich dagegen
+3420580	3427420	wieder entscheidet und man sie wieder Gesetze umstricken muss, aber selten eigentlich nie Belege
+3427420	3435100	vorgelegt werden, die beweisen, dass der Zugang zu Unmengen von Daten, nämlich von ganzen
+3435100	3443340	Bevölkerungen wirklich dazu geführt hat, bestimmte Probleme zu lösen, sondern das wird
+3443340	3448820	ja immer nur behauptet. Also man könnte wirklich mit sowas Banalem erstmal anfangen, dass es
+3448820	3454900	dazu gilt, Belege vorzulegen und bei dieser Evaluierung von Predictive Policing-Programmen
+3454900	3461260	ist wohl auch schon rausgekommen, das war in Baden-Württemberg, dass sie nicht wirklich
+3461500	3465900	hilfreich waren und da hat man das dann auch eingestellt. Also das würde man sich ja eigentlich
+3465900	3473500	wünschen. Man stellt nur fest, dass dieser, ich muss noch was sagen, der Aberglauben an die
+3473500	3481780	Objektivität und die Hoffnung darauf einfach und vielleicht auch langfristig kostengünstiger als
+3481780	3486780	wenn man Menschen einstellt, wobei das auch das nicht immer stimmt, weil man da ganz viele
+3486860	3494220	Folgenkosten komplett unterschätzt, hofft schnell Probleme lösen zu können und schnell Erfolge
+3494220	3499620	vorzuzeigen zu können und da würde ich jetzt wirklich erst mal wirklich sowas
+3499620	3509580	Altenmodisches wie Evaluation einfordern wollen und ich denke bei anderen Fragen, nämlich in
+3509580	3514780	welchen Bereichen wollen wir solche Systeme überhaupt einsetzen? Ich denke es werden noch
+3514780	3522060	viele Fehler, Diskriminierungen und Bias, all das wird weiterhin passieren, aber ich glaube man
+3522060	3533180	braucht einfach eine größere Aufmerksamkeit dafür und wie man das jetzt wirklich langfristig lösen
+3533180	3540780	kann, weil oft ist eben die Technik schneller als die Behörden oder die Justiz. Ich musste noch mal
+3540780	3547700	an das Beispiel Einstellungsverfahren denken, wo eben das heute zum Beispiel Social-Media-Profile
+3547700	3557980	abgesucht werden, um Informationen über Bewerbungskandidatinnen zu erlangen, sowas müsste
+3557980	3564180	verboten werden, aber gleichzeitig ist, also was gehen die privaten Äußerungen von Menschen über,
+3564180	3570380	weiß ich nicht, ihr Lieblingsgetränk bis was auch immer man sich vorstellen kann, was geht es den
+3570380	3577100	zukünftigen Arbeitgeber an? Meiner Meinung nach geht ihnen das gar nichts an, also dass man diese
+3577100	3584500	Verbindungen von Persönlichkeitsprofilen, Social Media, dass man das auch mal generell da klare
+3584500	3591220	Spielregeln formulieren müsste und da haben wir natürlich auch, und das muss man dazu sagen, auch
+3591220	3599060	eine sehr sehr zögerliche Politik, die da eigentlich nicht eingreifen will, weil das natürlich auch ein
+3599060	3605540	hochkomplexes und sehr schwieriges Feld ist und dann natürlich und nicht nur das, sondern auch da
+3605540	3612580	vermutlich in größerem Stil Lobbyarbeit von den unterschiedlichsten Seiten betrieben wird, um das
+3612580	3618660	auch zu verhindern. Und auf der Ebene des Paradigmas, das wird mich noch interessieren,
+3618660	3623620	weil du in den Texten immer mal wieder eben dieses klassische mathematisch naturwissenschaftliche
+3623620	3629620	Paradigma hernimmst, um es als eigentlich Kontrastfolie, würde ich sagen, zu verwenden,
+3629620	3635580	um dem gegenüber die Technorationalität abzugrenzen, ja, also einfach um aufzuzeigen,
+3635580	3644220	inwiefern dort, wie du es ja gesagt hast, diese Korrelationsdogmatik, wenn man so will,
+3644220	3649180	eigentlich vorherrscht. Also wenn man jetzt diese beiden Dinge nimmt, ja, und es gibt eine
+3649180	3654660	berechtigte Kritik an beidem, also ich mag nur hervorheben, wir also, gerade die feministischen
+3654660	3660980	WissenschaftlerInnen aus den Science and Technology Studies haben ja immer schon eigentlich auch diese
+3660980	3665180	höchst problematischen Aspekte des klassischen mathematischen naturwissenschaftlichen Paradigmas
+3665180	3671020	hervorgehoben, ja, und zwar absolut zu Recht. Das heißt, wir haben jetzt hier zwei Paradigmen
+3671020	3679780	eigentlich, die gleichermaßen ja problematisch sind, sage ich mal vorsichtig, müsste man da
+3679780	3684340	jetzt nicht eigentlich dann auch auf dieser Ebene auch ansetzen und sagen, okay, es reicht
+3684340	3694340	nicht eben durch Einhegungsgesetze und so weiter jetzt zu versuchen, dieser Technorationalität
+3694340	3698500	irgendwie Schranken zu setzen, was sicher wichtig ist, also da bin ich auf keinen Fall dagegen,
+3699180	3705260	das ist ein Aspekt, aber gelte es nicht dann auch auf der Ebene des Paradigmas anzusetzen und sich
+3705260	3712020	zu fragen, okay, wo kommt man denn hin, wenn man jetzt auch über diese Technorationalität hinaus
+3712020	3719660	will und vielleicht um sozusagen einen ersten Ansatz aus deinen Texten herauszunehmen, den ich
+3719660	3724580	zumindest so verstanden habe, du hast da eine Formulierung von Human Machine Learning, wo du
+3724580	3729340	eigentlich ja schon so ein bisschen wie so eine Richtung andeutest, dass man eigentlich anfängt,
+3729340	3734380	sich einzugestehen, okay, der Mensch, der da immer so rausnegiert wird, wo immer so getan wird,
+3734380	3739060	als gäbe es zum Beispiel das Post-Processing nicht und so weiter und so fort, wenn man an
+3739060	3746980	all diesen Stellen, wo er eh schon immer da war, wenn man anfängt, das wieder bewusster auch mit
+3746980	3753380	hineinzunehmen, ohne dabei so zu tun, als sei das jetzt eben ein in Anführungsstrichen souveränes
+3753380	3759500	Individuum, wie irgendwie im klassischen Humanismus oder so, also vielleicht würde sich da quasi ein
+3759500	3768940	neues hybrides Paradigma auftun oder hast du da Ansätze, die es vielleicht weiter zu ergründen
+3768940	3775220	gibt? Das hast du super schön zusammengefasst, Jan, aber ich weiß nicht, ob ich dafür schon
+3775220	3780940	wirklich gute Lösungen habe, weil ich fand das ja auch sehr schön, diesen einen Aufsatz,
+3781180	3786820	der Human Machine Learning hast, da hast du mich danach gefragt, habe ich dir ja auch geschickt und
+3786820	3794180	da habe ich ja mehr so kursorische Beispiele, als dass ich schon wirklich grundlegende Linien
+3794180	3799700	ziehen könnte. Das ist, glaube ich, mehr so eine Arbeit für die Zukunft, aber auf jeden Fall,
+3799700	3805460	glaube ich, ist es mir ganz wichtig, deutlich zu machen, dass es, meine Kollegin Lucy Satchman
+3805460	3812740	nennt es immer Human Machine Assemblage, dass es sozusagen keine Maschinen ohne Menschen gibt und
+3812740	3820620	dass da immer auch menschliche Arbeit und menschliche Werte, Normen in diesen Maschinen drin
+3820620	3825260	stecken und das wird natürlich und da ist so völlig recht komplett negiert, wenn man da von
+3825260	3832860	so einer maschinellen Objektivität spricht, also die ist wirklich absurd, weil es dünkt ja so,
+3832860	3837420	als würden die Maschinen vom Himmel fallen und würden die sich jetzt alles selber berechnen,
+3837420	3844940	nein, wir legen die Kategorien fest, wir legen die Fragen fest, wir legen fest,
+3844940	3851780	in welche Richtung das Ganze gehen soll, also das ist ganz zutiefst implementiert,
+3851780	3859180	wie wir gute Wege finden können. Das deutlicher zu machen ist, glaube ich, noch eine offene Frage,
+3859180	3867220	aber vielleicht nochmal, und das hat mit dem, was du zuvor gesagt hast, zu tun, es ist natürlich
+3867220	3872020	auch wahnsinnig schwer, wie stellt man die Wissensordnung seiner eigenen Zeit in Frage.
+3872020	3878380	Ich würde jetzt mal sagen, da hat sich, das ist jetzt gemein, ich schätze Michel Foucault sehr,
+3878380	3883260	aber der hat sich halt auf der einen Seite, naja, er hat auch über die eigene Zeit gesprochen,
+3883260	3888700	aber es ist natürlich immer einfacher rückwärts zu gucken und zu sagen, was machte diese
+3888700	3893820	Wissensordnung aus und vielleicht wird uns jetzt die alte Wissensordnung mit der Kausalität da
+3893820	3900300	manchmal auch deutlicher, als sie uns früher war, weil, was mich auch interessiert, ist natürlich
+3900300	3907540	die Frage, auf was antwortet diese Wissens-, unsere heutige Wissensordnung auch, weil die
+3907540	3916060	Kausalität hat vor einem Hintergrund operiert, einer Welt, die von Gesetzen durchdrungen ist,
+3916060	3923420	also einer natürlichen Welt, die von Gesetzen durchdrungen ist und heute hat man immer mehr den
+3923420	3929980	Eindruck, dass man in so einem Bereich des Theorielosen eigentlich operiert, also dass
+3929980	3939260	man nicht mehr darauf vertraut, dass es hier grundlegende Strukturen und Funktionalitäten
+3939260	3945740	in der Welt gibt und immer so ad hoc praktisch Lösungen findet und dafür ist eben dieses
+3945740	3953220	Korrelationsparadigma sehr gut, also indem man eben alte Muster in die Zukunft projiziert.
+3953220	3961380	Das Human Machine Learning, was ich jetzt so genannt habe, ganz absichtlich, um den Human
+3961380	3968620	Factor im Machine Learning deutlich zu machen, das bewegt sich natürlich auch noch mal auf so einer
+3968620	3974620	anderen Ebene, das ist nicht primär eine erkenntnistheoretische, sondern eher in so einer
+3974620	3983780	Herovation-Denkschiene, wollte ich jetzt schon fast sagen, auch der Einmischung und das ist
+3983780	3989380	vielleicht, das ist dann, glaube ich, eher eine politische Ebene, was heißt, was muss eigentlich
+3989380	3996020	passieren, dass es deutlicher wird, dass es diese enge Verflochtenheit und jetzt nicht wie in den
+3996020	4003460	Science-Fiction-Filmen, die Cyborgs, wie sehr wir in diese sozio-technischen Praktiken involviert
+4003460	4011220	sind, aber auf sehr unterschiedliche Weise, wir sind ja nicht alle in gleicher Weise eingebunden,
+4011220	4019940	wer konfiguriert hier was, wie sind hier Machtverhältnisse, die diese, auch diese
+4019940	4027740	Human Machine Assemblages, also diese Gefüge von Mensch und Maschine konfigurieren und wie können
+4027740	4033740	wir uns einmischen und das habe ich ja an einem Beispiel aus einer schönen kleinen Novelle,
+4033740	4040820	ja, Novelle-Erzählung von Cory Doctorow, wo sich jemand, der sich eigentlich kaum mit Technik
+4040820	4046700	auskannte, aus so einem existenziellen, lebenspraktischen Zusammenhang mit so einem,
+4046980	4053460	mit den Problemen des Internet of Things zum Beispiel auseinandersetzt, weil plötzlich der
+4053460	4059420	Toaster nicht mehr funktioniert, weil die Firma bankrott gegangen ist, die diese Toaster herstellt
+4059420	4066340	und man aber nur diese ganzen Maschinen benutzen kann, indem man die richtigen Produkte auch,
+4066340	4071900	also weil die Produkte, also der Toast ist für den Toaster oder das Waschpulver ist für die
+4071900	4077780	Spülmaschine konfiguriert und das dann alles nicht mehr funktioniert, bzw. wie kann man die
+4077780	4084140	Maschinen hacken, damit man die auch mit anderen Toast, der günstiger ist, benutzen kann, bis hin
+4084140	4094020	wie kann man Aufzüge in großen Hochhäusern konfigurieren, umkonfigurieren, das in der
+4094020	4100180	Geschichte ist es eben so, dass auf der Vorderseite die reichen Leute wohnen, die immer den Vortritt
+4100180	4105500	haben in dem Aufzug und die Leute, die auf der Rückseite in den Sozialwohnungen wohnen,
+4105500	4109860	immer warten müssen, bis der Aufzug frei ist, damit sie ihn überhaupt benutzen können, was
+4109860	4115660	nicht lustig ist, wenn man im 15. Stock zum Beispiel wohnt und man da sozusagen technische
+4115660	4121140	Kompetenzen auch erlernt, aber das sind glaube ich sehr unterschiedliche Ebenen, weil das eine ist
+4121140	4129660	eine politische Ebene, wo man deutlicher machen müsste, dass es hier auch um Machtverhältnisse
+4129660	4137260	gibt, die es zu ändern gilt, weil nur bestimmte Menschen sehr stark involviert sind in die
+4137260	4143540	Konfiguration von Technik und ihrer Benutzung, aber auf der anderen Ebene finde ich auch ganz
+4143540	4149860	stark, wir reden ja immer von den Digital Natives, aber wenn ich meine Studierenden sehe, oft das
+4149860	4155900	Gefühl habe, bestimmte technische Kompetenzen auch ganz stark fehlen, also die sind tausendmal
+4155900	4164460	perfekter darin, TikTok, Instagram oder sonst irgendwas zu nutzen, aber zum Beispiel wirklich
+4164460	4172100	grundlegendere Zusammenhänge von technischen Netzwerken wollte ich jetzt schon mal ganz
+4172100	4179100	klassisch sagen, zu begreifen, so ein Wissen wird viel zu wenig in der Schule und auch in der
+4179100	4187420	Universität vermittelt und auch so ein do it yourself im Sinne von, wie kann ich mir damit
+4187420	4193660	weiterhelfen oder wie kann ich mir technische Kompetenzen beibringen und vielleicht auch,
+4193660	4198060	ich meine das jetzt gar nicht in so einem Black Hat Logik, aber auch um bestimmte technische
+4198060	4203020	Zusammenhänge hacken zu können, nämlich in meinem eigenen Sinne, also das ist natürlich dann eine
+4203020	4208100	individuelle Logik und dann haben wir aber noch eine gesellschaftliche Logik und wie man die da
+4208100	4213620	noch mal zusammenführen kann, ist dann noch mal ein ganz schwieriges Problem, aber da würde ich
+4213620	4222060	jetzt erstmal glaube ich ansetzen und um eben dieses ewige endlose Rhetorik der Objektivität
+4222060	4232100	von Maschinen oder auch der Objektivität dieser technowissenschaftlichen Logik grundsätzlich zu
+4232100	4237540	hinterfragen, ist glaube ich vor allem wichtig, weil ich immer wieder erschüttert bin, wie sehr
+4237540	4244580	auch so eine technokratische Logik in den Köpfen vieler Menschen verankert ist, also wie
+4244580	4250260	selbstverständlich das ist daran zu glauben, dass man, also ich denke ich sage nur noch ein Beispiel
+4250260	4256260	Klimawandel, wo immer wieder von bestimmten Leuten angeführt wird, ja wir werden Technologien
+4256260	4261900	entwickeln, um das Problem des Klimawandels zu lösen, da muss ich mal lachen und sagen, ja das
+4261900	4267220	hat man schon damals bei den Atomkraftwerken gesagt, wir werden schon irgendwann, das waren in
+4267220	4274740	siebziger Jahren, also 50 Jahre her, Möglichkeiten finden, um den Atommüll sicher zu lagern, wir
+4274740	4280860	wissen bis heute nicht so genau, wie wir das tun sollen und haben da ein riesen Problem, also der
+4280860	4287100	Glauben an die Technik wird schon irgendwann richten oder sie kann auch alles lösen, Evgeny Morozov hat
+4287100	4296300	das ja auch mal schön als Technosolutionism benannt, also und diese Logik ist einfach noch
+4296380	4301820	sehr weit verbreitet und ich würde mir sehr wünschen, dass ich da eben mehr die Logik von
+4301820	4306620	Human Machine Learning, also wir lernen von den Maschinen, aber wir müssen auch wirklich wissen,
+4306620	4312540	was die Maschinen da tun und wie wir sie anders konfigurieren, das ist eigentlich der wichtigere
+4312540	4321260	Schritt, dass wir dahin kommen, um den Satz zu Ende zu machen. Jutta, ich frage am Ende eines
+4321340	4326340	jeden Gesprächs immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+4326340	4335860	Das ist ja bei kritischen Kritikern eine schwierige Frage, also was mich erstmal freudig stimmt,
+4335860	4344020	ist, dass ich in den letzten paar Jahren, wenigen Jahren, viel mehr kritische Fragen von meinen
+4344020	4352620	Studierenden zu hören bekomme, als in den letzten 20 Jahren davor und das hat was mit dem Human
+4352620	4364460	Machine Learning zu tun, also was da an Neugierde entsteht. Fällt mir noch was ein, was mich freudig
+4364460	4374740	stimmt. Es ist nach und in einer Pandemie schwer zu sagen, weil in der Pandemie hatte ich ganz
+4374740	4380380	naiverweise kurz die Hoffnung, dass sich politisch möglicherweise in diesem Lande was bewegt, aber
+4380380	4387860	diese Hoffnung hat sich sehr schnell wieder gelegt leider. Von daher lasse ich das glaube ich mal
+4387860	4393740	offen, aber ich finde ja auch schon dieses, ja das gehört vielleicht auch dazu, auch Klimabewegung,
+4393860	4403020	dass die jungen Leute viele Dinge, und da ist ja auch der Technosolutionism zugange bei dieser
+4403020	4409100	Diskussion um den Klimawandel, dass da wieder viel in Frage gestellt wird oder Extinction Rebellion,
+4409100	4413980	dass da eigentlich ganz spannende Sachen passieren, auch auf so einer, nicht banal,
+4413980	4420340	aber auf einer politischen Ebene, denn das Human Machine Learning wird nicht einfach nur aufgrund
+4420620	4426860	von anderen Lehrprogrammen in Schulen oder Universitäten einsetzen, sondern das muss man
+4426860	4432260	sich auch, das muss eingefordert werden und das muss erkämpft werden, weil da gibt es viele
+4432260	4439540	Lobbys, die kein Interesse daran haben, dass die Mehrheit der Menschen dieses Human Machine
+4439540	4447460	Learning lernt und auch umsetzt. Wunderbar, Jutta, vielen Dank für das Gespräch. Vielen
+4447460	4457620	Dank an dich, Jan, für die schönen Fragen. Das war Future Histories für heute. Vielen
+4457620	4464380	Dank fürs Zuhören, Shownotizen und vieles mehr findet ihr auf www.futurehistories.today.
+4464380	4471220	Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit. Ihr
+4471220	4476100	könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren,
+4476260	4482500	sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen
+4482500	4488940	einzelner Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich freue
+4488940	4495220	mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen
+4495220	4501580	wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf
+4501620	4507300	unserer Homepage. Future Histories ist eine Produktion von MetaLapses zu finden auf
+4507300	4512340	meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.

@@ -1,0 +1,602 @@
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen von Zukunft.
+Mein Name ist Jan Groß und ich spreche heute mit Marlies Wirth und Paul Feigelfeld über künstliche Intelligenz.
+Die beiden haben zusammen die Ausstellung Uncanny Values Künstliche Intelligenz und Duko ratiert,
+die derzeit im Wiener Museum für angewahnte Kunst läuft und dort noch bis zum 6. Oktober 2019 zu sehen sein wird.
+Wundert euch nicht, ich werde während des Interviews einmal auf eine andere Audioquelle umsteigen,
+da es einen technischen Ausfall gab. Zum Glück gab es das B-Mikrofon,
+sodass ihr in dem Genuss des vollen Interviews mit den beiden kommen könnt
+und ich werde im weiteren Verlauf dann auch wieder zur ursprünglichen Audioquelle zurückkehren können.
+Es war mal wieder ein ausgesprochen interessantes Gespräch für mich mit Perlen wie diesen hier.
+In Wirklichkeit aber müssen wir uns vielleicht eben auch damit anfreunden und dann anfangen auf der Basis zu arbeiten, dass wir Arschlöcher sind.
+Und dass keine Technologie das richten wird.
+Lasst mich wissen, was ihr zu dem ganzen denkt, zum Beispiel auf Twitter unter Hashtag Future Histories
+oder in unserem Subreddit oder per Mail unter future-histories-at-protonmail.com
+Und wenn ihr den Podcast darüber hinaus unterstützen wollt, dann könnt ihr das auf Patreon unter www.patreon.com-future-histories.
+Herzlich willkommen Marlies und Paul.
+Danke für die Einladung.
+Hallo Jan.
+Fangen wir mal mit der Definitionsfrage an. Was ist künstliche Intelligenz?
+Es ist eine ziemlich schwierige Frage. Ich glaube, künstliche Intelligenz ist ein sehr weiter und sehr ehreführender Begriff,
+den es schon sehr, sehr lange gibt, der vielleicht zeitweise besser umschrieben wäre mit Maschinenintelligenz oder maschinischer, technischer Intelligenz,
+aber als Forschungsgebiet sich aufteilt in verschiedene Techniken- und Methodengebiete.
+Also es ist ein Begriff, der jetzt nicht unbedingt einen Zustand beschreibt.
+Es gibt keine künstliche Intelligenz in dem Sinn, sondern einen Komplex von verschiedenen Techniken des Verstehen und Lernens,
+die durch verschiedene Algorithmen und andere Methoden der Berechnung vollzogen werden können.
+Und welche sind die derzeit am häufigsten angewandten Techniken in Bezug auf künstliche Intelligenz?
+Seit ein paar Jahren geistert dieser Begriff Deep Learning durch die Gegend, der sich irrsinnig gut anhört,
+deswegen auch, glaube ich, so beliebt ist, allerdings das Problem mit sich bringt, dass er in seiner Tiefe auch sehr schwer nachvollziehbar ist.
+Diese Tiefe hat allerdings überhaupt nichts mit Tiefsinnigkeit zu tun, sondern hat einfach damit zu tun,
+dass im Prinzip mehrere neuronale Netzwerke, mit denen versucht wird, irgendwie Neuronen im menschlichen Gehirn nachzuäffen,
+aufeinander geschichtet werden und dabei eine bestimmte Fähigkeit trainiert wird, nämlich in die Tiefe, also vertikal.
+Das heißt, dieses Wissen, das hier produziert wird, ist eins, das sich überhaupt nicht irgendwie horizontal und vertikal vernetzt
+und besonders allgemein oder universell wäre, sondern dann zum Beispiel, und da gehen diese Anwendungsgebiete momentan hin,
+eine Sache besonders gut kann, in der Regel schon weitaus besser und schneller als Menschen.
+Das kann sein, Bilderkennung im medizinischen Bereich, weil zum Beispiel so ein Deep Learning-System schon dreieinhalb Milliarden Bilder
+von menschlichen Augen gesehen hat und deswegen sehr gut darin ist, grauen Start zu erkennen,
+viel mehr Bilder als ein menschlicher Arzt, das in seiner Lebzeit je kann, dafür aber nicht in der Lage ist, irgendwas anderes zu tun.
+Das wäre so eine Technik, die die letzten Jahre in aller Munde war.
+Da gab es dann eben auch AlphaGo, das berühmte Go-Programm von Google, oder Deep Dream, das ist alles im selben Methodenbereich.
+Und momentan sprechen alle von den sogenannten ganz Generative Adversarial Networks, die verantwortlich zeichnen für Deepfakes,
+wo sich ja derzeit die Ereignisse jeden Tag, jede Stunde überschlagen, was solche Generative Adversarial Networks sind.
+Zwei Netzwerke, die sozusagen miteinander gegeneinander lernen, in der Lage sind zu produzieren.
+Das heißt, das fing an damit, dass man versucht hat, bestimmte Ähnlichkeiten herzustellen oder herauszukitzeln aus solchen Bilddatenbanken zum Beispiel.
+Also man gibt dem Ding so und so viele Bilder als Training-Datenbank und sagt dann, zeige mir was Neues,
+verstärke nicht bestimmte Bildmerkmale, sondern mach mir zum Beispiel ein völlig neues Gesicht. Das war dann so das erste, was es gab,
+diese berühmte Webseite This Person Does Not Exist.
+Dann gab es die Porn-Deepfakes, wo man in der Lage war, eben fotorealistisch und zwar im Bewegtbild Gesichter von Prominenten auf Pornodarstellerinnen drauf zu montieren.
+Das Ganze hat sich dann weiter ausgedehnt in die Politik und so weiter und ist ja mittlerweile ein gesellschaftspolitisches Thema geworden,
+weil natürlich mittlerweile, und das ist gut so, die Risiken, die das Ganze mit sich bringt für die Manipulation im öffentlichen Raum,
+im öffentlichen Bewusstsein, den Leuten langsam bewusst werden.
+Wir kommen definitiv dann noch später zu den verschiedenen Anwendungsfeldern, aber mich würde noch interessieren,
+du hast jetzt von neuronalen Netzen gesprochen, die in sogar der anderen Herangehensweise dann quasi gegeneinander antreten.
+Nur damit ich das verstehen kann, basiert das grundsätzlich immer noch darauf, dass es quasi eine große Masse an Daten gibt,
+dass die auf bestimmte Strukturähnlichkeiten analysiert wird und dass der Anteil der künstlichen Intelligenz oder das Intelligente an dem Ganzen
+eigentlich darin basiert, dass man sozusagen in Bezug auf diese Mustererkennung sich selbst trainierende Algorithmen hat,
+also die quasi ganz viele verschiedene Methoden versuchen, also Wege versuchen, bei manchen erfolgreich sind,
+dann den Weg weitergehen, wieder ganz viele verschiedene Versuche und so weiter und so fort.
+Also ist das immer noch die grundsätzlichste Herangehensweise?
+Im Grunde genommen ja, so funktioniert das.
+Also wir haben und deswegen befinden wir uns momentan an diesem Punkt, der sich sozusagen technikgeschichtlich entwickelt hat,
+nachdem wir lange Zeit im sogenannten Winter of AI gefroren haben, gepaart mit Smartphone-Technologie
+ab ungefähr Mitte der 2000er, 2007 Einführung des iPhones, mit Big Data und dem wahnsinnigen Aufkommen von Daten als Ressourcen
+und der steigenden Möglichkeit und Kapazität von Prozessoren das Ganze zu verarbeiten,
+hat sich jetzt sozusagen eine Kontingente, ein Moment ergeben, wo das funktionieren kann.
+Plus es hat einen Infrastrukturwandel stattgefunden.
+Die großen Konzerne haben allesamt innerhalb der letzten zehn Jahre angefangen, ihre inneren Methoden so weit umzuändern,
+dass alles, was da an Daten prozessiert wird, zu einem Teil auch benutzt wird, um weiter an Methoden des Machine-Learnings
+und der künstlichen Intelligenz zu arbeiten.
+Das heißt, jeder Facebook-Post, jeder Instagram-Post, jede Google-Suche und so weiter wird auch dahingehend ausgewertet
+oder zu Trainingszwecken eingesetzt, um verschiedenste Systeme, das kann eben alles sein, von Spracherkennung,
+Bilderkennung, jede Form von Prediction und so weiter zu trainieren.
+Was allerdings nicht außer Acht zu lassen ist, ist, dass es in dem Ganzen immer noch und auch weiterhin
+einen sehr großen Anteil menschlicher Arbeit gibt, der zum Teil kaschiert wird.
+Das ist ganz interessant, dass dadurch, dass es auch ein verkaufs-, wie sagt man, ein Unique Selling Point ist,
+für viele Firmen zu sagen, wir benutzen Machine-Learning, dass viele sich das auf die Fahnen schreiben,
+in Wirklichkeit aber irgendwo in Bangladesch sich 500 Leute in einem Call-Center oder sonst wo für Microlabor bezahlen,
+die dann so eine Anfrage erkennen, die überhaupt nicht von Machine-Learning beantwortet wird oder sonst was,
+sondern in Wirklichkeit von irgendjemandem, der dafür unterhalb jeder Armutsgrenze bezahlt wird.
+Eine letzte Frage muss ich noch dazu stellen, wo ist der Punkt, an dem man dann eigentlich von Intelligenz spricht,
+oder ab wann fängt man an, von Intelligenz zu sprechen, weil auf eine Art, und ich habe so das Gefühl,
+mir fehlt da wie so ein Puzzlestück oder so, habe ich das Gefühl, dass es sich da jetzt primär immer noch
+um wie so eine avanciertere Brute-Force-Methode handelt, also wo quasi eigentlich mit einer großen Rechenleistung
+einfach eine große Vielfalt ausgetestet wird und manches funktioniert und manches nicht.
+Auf der anderen Seite gibt es ja dann so Phantasmen der Emulation von menschlichen Gehirnen,
+wo dann ja auch viele Aufladungen mit einhergehen in Bezug auf eine Menschenähnlichkeit.
+Wie soll dieser Schritt vollzogen werden, von dem einen hin zu diesem idealisierten anderen?
+Ist ja ein Paradoxerschild, eindeutig, also es ist sozusagen die Henne-AI-Frage,
+weil wir nicht wissen, wie unser Hirn so richtig funktioniert, also was sollen wir dann um Himmels willen emulieren oder simulieren?
+Ne, also wir wissen nicht, wie Intelligenz funktioniert, also die Definitionen von Intelligenz,
+an denen hier gearbeitet wird, mit denen hier operiert wird, die ganze Zeit sind ein ganzes Spektrum verschiedener Bereiche auch dessen
+und natürlich kommt da auch viel an sozusagen menschlichen Ängsten und so weiter,
+deswegen auch in der Ausstellung der Begriff, der an Kenningens, der Unheimlichkeit so im Zentrum steht,
+wie wir damit umgehen, also irgendwie wollen wir ja auch gar nicht, dass das überhaupt passiert,
+weil wir auch Angst haben davor, was dann mit uns passieren könnte,
+aber einerseits ist es eben so ein strange loop, wo man denkt, wir müssen erst selber verstehen, wie wir verstehen,
+um eine künstliche Intelligenz produzieren zu können, gleichzeitig müssten wir eine künstliche Intelligenz implementieren, um uns verstehen zu können.
+So dreht sich das, wie dieser Schritt oder dieser Schritt, der sich schlussendlich vollziehen werden, weiß ich nicht,
+mir scheint wichtig vor allem, glaube ich, dass man so ein bisschen von diesem pre-kopernikanischen Standpunkt abkommt,
+das hat Benjamin Weitem ganz gut beschrieben in einem Text, dass er so ein bisschen vermutet oder wir zumindest in Erregung ziehen sollten,
+dass wir uns, was unsere Konzeptionen von menschlichen Geist, von Intelligenz, der Art und Weise, der Wirklichkeit und so weiter funktioniert,
+weiter an einem Punkt befinden, der kurz zu einer koperikanischen Runde steht, so wie man damals auch davon ausgegangen ist über Millenia,
+dass es ein, sagen wir jetzt zum Beispiel, geozentrisches Weltbild gibt und das war in Stein gemeißelt, dass wir jetzt sagen,
+wir sind der Messstein für das, was Intelligenz ist, ohne dabei zu wissen, was Intelligenz ausmacht, genau,
+aus der schwaligen Definition darüber, dass wir lernfähig sind, verschiedene Fähigkeiten miteinander verbinden können und so weiter.
+Und das finde ich eigentlich einen guten Ausblick, dass man sagt, und ich glaube sozusagen, also ganz salopp gesagt,
+wir müssen uns vielleicht ein bisschen locker machen bei dem Ganzen, ohne dabei zu sehr jetzt einerseits zum Beispiel
+in einer Technologiebranche zu folgen, die da natürlich höchst affirmativ, aber mit ganz eindeutigem Monetarisierungs- und Profitgedanken rangeht
+oder eine Regierungsinstitution, die da eindeutig natürlich angeht mit dem Interesse an Kontrolle und so weiter, zu sehen, die Arme zu spinnen.
+Ihr breitet in der Ausstellung ja eine ganze Palette von Bereichen aus, in denen künstliche Intelligenz auch heute schon Einfluss auf unser aller Leben hat.
+Das geht dann von Wirtschaft und Politik über Gesundheit und Forschung ein bisschen in Bereiche,
+in denen man es vielleicht an sich nicht so vermuten würde, wie Spiritualität, Sex oder Liebe.
+Kannst du uns ein paar Beispiele geben, inwiefern künstliche Intelligenz unseren Alltag heute schon beeinflusst?
+Ja, vielleicht auch noch kurz zu diesem Thema Intelligenz generell, wo ja immer von Gehirn ausgegangen wird
+und den Menschen natürlich auch eine wahnsinnige körperliche Intelligenz besitzen, die manchen vergessen wird.
+Die Art, wie wir lernen, Kulturtechnik, wie wir lernen, sind ja auch bestimmt von unserem physischen Sein und von unserem Zusammenleben als Gesellschaft.
+Da sind wir am Rande zu den Themen. Es ist natürlich wichtig, dass man sich überlegt, dass diese Begriffe natürlich Menschenbegriffe sind und künstliche Intelligenz zwar reinspielt,
+aber per se keine interessanten Themen hat. Was Gefühle betrifft, sind wir da natürlich weit entfernt.
+Wir haben allerdings versucht, mit einem schon genannten GAN, einem Generative Artificial Network, auch neue Emotionen darzustellen in dieser Ausstellung,
+mit dem AI-Emoji, den AI-Generated Emojis, die von Fossil Studio mit uns entwickelt wurden und versuchen, mit uns jetzt zu kommunizieren.
+Im Bereich der Politikgesundheit wurden auch schon Beispiele genannt, natürlich die Deepfakes, die sind auch konkrete Anwendungsbeispiele, die uns auch gefährlich werden,
+die Bots, die quasi meinungsbildend einwirken in sozialen Medien, die verwält werden, um verschiedenste Ansichten zu verstärken und zu verbreiten,
+ein Ausmaß, das normale User, menschliche User einzuschreiben würden. Im Gesundheitsbereich natürlich medizinische Einsatzgebiete,
+die wieder leider gekoppelt sind an nationale AI-Strategien, wie beispielsweise in Singapur zur Bekämpfung von Diabetes Typ 2, was ja per se mal positiv klingt,
+man kann das sehr gut mittlerweile erkennen mit Qualitsystemen, andererseits ist man sofort in einem regigen System gekoppelt,
+in dem Gesundheitsdaten gegen einen verwendet werden und man keinen Versicherungsschutz mehr erhält, weil man bereits als gefährdete Person eingestellt wird,
+bis hin zu Spiritualität natürlich, das ist so ein neuartigem Glauben, wo Menschen jetzt anstatt einer höheren Gewalt im Sinne einer kirchlichen,
+gottähnlichen Gestalt jetzt glauben, dass KI uns retten kann, unseren Planeten retten kann, bessere, klügere, weisere Entscheidungen treffen kann als der Mensch,
+und das ist natürlich fragwürdig, weil die Daten, die wir zur Verfügung stellen für diese Lernsysteme, immer noch von einer Geschichte geprägt sind,
+die jenseits von einer sogenannten Gerechtigkeit oder sozialen gleichen Verteilung stattgefunden hat und bis heute natürlich hier problematisch ist,
+wenn wir uns anschauen, dass beispielsweise in der Schweiz das Frauenwahlrecht auch erst vor 30 Jahren implementiert wurde,
+möchte man nicht wissen, welche Daten diese Maschinen eigentlich lernen, welche Relevanz, welche Personen in der Gesellschaft und unserem Zusammenleben einnehmen.
+Das darf man natürlich nicht aus der Augen lassen, wenn man sich anschaut, wie KI-Systeme auf welcher Basis sie Entscheidungen haben.
+Da sprichst du ein ganz wichtiges Thema an, das Thema der Daten, denn zumindest so wie ich das verstanden habe, liefern diese Daten letztlich eigentlich den Rohstoff,
+auf dem sagen, all dieses Lernen ja basiert und entgegen einer so weit verbreiteten Meinung einer scheinbaren Objektivität von Daten ist es keinesfalls so, dass die neutral wären.
+Könnt ihr da vielleicht noch ein bisschen uns das genauer näherbringen, welche Rolle spielen Daten in Bezug auf künstliche Intelligenz und welche Auswirkungen hat das?
+Ja, das ist natürlich klar, die Frage ist immer, neutral kann kaum etwas sein auf der Welt, jede unserer Entscheidungen, auch von uns Menschen,
+ist eigentlich subjektiv von unseren eigenen Zielen und Motivationen geprägt, wenn man sich anschaut, wer stellt diese Daten zur Verfügung und warum,
+kommt man eigentlich sehr schnell drauf, dass es in der Hand von einigen wenigen großen Konzernen ist, die aufgrund vorhandener Ressourcen und finanzieller Mittel jetzt in der Lage sind,
+etwas weiter zu entwickeln als vielleicht kleinere unabhängige Forschungsinstitutionen, die es aber Gott sei Dank mehr und mehr gibt und da gibt es jetzt diesen netten Begriff King Gaffa,
+Google, Amazon, Facebook, Apple, den wir ja wie die Basalen immer noch die anderen darbringen und zwar unbezahlt, dafür diese Systeme nutzen, die uns diese mächtige Instanz zur Verfügung stellt.
+Und die Frage ist, mit welchem Ziel werden diese Daten verarbeitet und manchmal werden Ziele vorgeschützt, die haben Muskeln oder im Hintergrund geht es eigentlich,
+wie Paul vorhin schon erwähnt hat, warum das Machine Learning betrieben werden kann, mit beispielsweise hunderten, tausenden Profilbildern von Usern auf sozialen Medien zum Beispiel,
+an denen Gesichtserkennung, Emotionserkennung etc. betrieben wird, trainiert wird und was mit den Daten weitergemacht wird.
+Und da entsteht natürlich auch aufgrund der Sachlage, dass diese ganzen genannten Großkonzerne zwar supranational operieren,
+aber eigentlich aus den westlichen, amerikanischen Realms stammen, dass diese Daten nurmals neutral sein können und dass sie auch gar nicht dafür eingesetzt werden,
+beispielsweise soziale Ungleichheit zu minimieren, sondern im Gegenteil, diese Clou da noch verdreht.
+Also wir sind da glaube ich noch, um das noch zu ergänzen oder noch zu eskalieren, in seiner ganz eigenartigen Produktions- und Verarbeitungs-Kybernetik drin,
+die damit zu tun hat, dass einerseits die Produktion dieser Daten eine ist, die völlig anders funktioniert wie noch vor einigen Jahrzehnten oder sogar nur Jahren.
+Das lässt sich sehr schön nachvollziehen an Facebook zum Beispiel.
+Also sagen wir so, ich glaube Big Data fing an in einem Moment, wenn eine Ressource geschaffen wurde, ohne dass man wusste, was man damit machen soll.
+Es war wie Öl finden ohne ein Konzept davon haben, dass man das irgendwie verbrennen kann oder einen Motor bauen kann.
+Und das hat dann relativ schnell funktioniert und die Plattformen, die dann entstanden sind, sind tatsächlich vergleichbar Ölplattformen,
+die da sozusagen irgendwas geschafft haben anzuzapfen, irgendwelche sentimentalen Sedimente, die in uns dran sind
+und diese herauszufunden, indem sie jedem die Möglichkeit geben, da sozusagen zumindest das auszuschütten,
+haben das Ganze aber dann so weit schon raffiniert, also es ist so perfekt aufgebaut, dass wir nicht nur die Daten produzieren,
+sondern auch schon sozusagen die Raffinerie mitgestalten.
+Das war ursprünglich mal nur ein Like, Facebook hat dann angefangen sozusagen diese Emotionen, die man hat zu reagieren, schon zu verfeinern.
+Das heißt, wir haben die Daten schon so weit voraufbereitet für die, dass es schon natürlich einiges an Arbeit gestarrt hat,
+wie man diese Daten dann weiter zu klassifizieren hat.
+Dann hat man eben gesehen im Rahmen des Arabischen Frühlings und der sogenannten Twitter-Revolutionen und so weiter,
+da auch der Jump-Fall seit 2016, was für einen massiven Impact das hat und was es für massive Manipulationsmöglichkeiten geben wird.
+Und ich glaube, das war ein interessanter Moment für die guten Leute von Twitter, Facebook und Co, die dann da standen und das Gefühl hatten,
+Moment, was passiert denn hier eigentlich? Wir haben eigentlich gedacht, wir machen da was relativ harmloses, lustiges,
+vielleicht ein bisschen machistisches oder sonst was im Fall von Facebook und plötzlich haben wir so einen globalen Impact
+und wir haben irrsinnige Ressource in der Hand. Es gibt diese berühmten Records von Mark Zuckerberg, der ja noch ganz jung ist,
+wo er dann sagt, I don't know why people give me this, they're fucking stupid.
+Und ich glaube, so funktioniert im Ende diese ganze Industrie. Also da ist was entstanden.
+Das heißt, einerseits sind schon die Plattformen, wo das produziert wird, wie diese Algorithmen dort funktionieren,
+wie sie sozusagen kompartmentalisieren innerhalb dieser Kulturgruppen und so weiter, bringen eine Bias mit sich,
+provozieren und eskalieren bestimmte Biases dann noch weiter, plus dann natürlich die Schritte.
+Es gibt nicht irgendwie drohe Daten und dann werden sie irgendwo, kommen sie einer Bias an, sondern wir befinden uns in einem totalen Dickicht von Bias.
+Das ist zeitweise schwer nachzuvollziehen. Es gibt da, sozusagen Manifestationen des Ganzen, die relativ auf der Hand liegen.
+So was, was wir kennen aus der Presse mittlerweile, wie, keine Ahnung, ein selbstfahrendes Auto erkennt Afroamerikaner nicht
+und überfährt ihn deswegen, weil es einfach nicht darauf trainiert ist.
+Wir müssen aber, glaube ich, und das wird interessant in den nächsten Jahren, da noch viel, viel feiner werden
+in der Erforschung des Ganzen und in der Ausarbeitung des Ganzen, weil wir da, glaube ich, da kommt ein Haufen Scheiße auf uns zu,
+ganz salopp gesagt noch. Das wird richtig schlimm. Und da kommen, da sind viele Konsequenzen noch drin,
+die wir noch überhaupt nicht abschätzen können. Und das vielleicht, um jetzt den Bogen zurückzumachen zu den Themen,
+die wir versucht haben in der Ausstellung anzusprechen und den Künstlern, die wir ausgewählt haben,
+das sind so die ersten Schritte zu zeigen, nicht nur was kann künstliche Intelligenz, sondern wie funktioniert es,
+was sind die Mechanismen, die dahinter stattfinden, weil das Moment kann so ist, dass wir zwar ein bisschen Angst haben davor,
+aber im Endeffekt ist es gerade ein bisschen ein Kuriositätenkabinett. Also die Hälfte davon ist gar nicht echt,
+da sitzen irgendwo irgendwelche armen Programmierer und armen Kreuzunternehmer, die das Ganze in Wirklichkeit echt menschlich machen.
+Die andere Hälfte ist Brot und Spiele, das spielt dann Go und macht irgendwelche lustigen Sachen und erzeugt irgendwelche funky Bilder
+oder kann irgendwelche Musik komponieren. Aber das Ausmaß dessen und die Tatsache, dass das bereits dabei ist,
+unsere Zivilisation und zwar überall auf der Welt umzukrempeln, ist noch nicht so richtig angekommen, glaube ich.
+Und das wäre interessant, da anzufangen und daran zu arbeiten.
+Und um in Bezug auf die Daten noch mal ein bisschen nachzuhaken, es gibt auf der einen Seite so etwas wie eine
+in Anführungsstrichen eine Verschmutzung der Daten mit den Biases, die unsere Gesellschaft hat und die sich natürlich
+dann in die Daten übertragen. Und das wäre mal ein grundsätzliches Problem, das ihr angesprochen habt.
+Und dann darüber hinaus frage ich mich, inwiefern es ein strukturelles Problem gibt, das immer erhalten bleiben wird,
+weil quasi ein Übersetzungsproblem besteht. Also weil Daten an sich in Information verwandelt werden und dadurch
+eine Auslassung passiert, die auch nicht kaschiert werden kann, die auch nicht überbrückt werden kann,
+weil sie auf einer strukturellen Ebene passiert.
+Ja, also wie Madis gesagt hat, kann ich noch mal unterstützen, es gibt da keine Neutralität und es gibt keine Rotafen.
+Das hat es nie gegeben. Es gibt diese komische Nähe davon, dass Daten in irgendeiner Art und Weise,
+dass sie nichts heraus entstehen und dann neutral und pristine und sauber daherkommen
+und wir sie dann erst wieder schmutzig machen. Nein, wir haben die Daten gemacht.
+Es ist genauso wie Erdöl aus Knochen ist. Alles das trägt bereits eine Geschichte in sich.
+Und ab dem Zeitpunkt, wo es entsteht, über den Zeitpunkt, wie es seinen Weg irgendwo hinfindet
+und was dann draus gemacht wird, gibt es, das meine ich vor allem, diesen Dickigkeit aus Biases.
+Ich würde sagen, in jedem Schritt gibt es Übersetzungen, wie du gesagt hast, Handlungen,
+Übertragungshandlungen, dementsprechend überall Interpretationen und Auslegungen,
+überall technische Standards vor allem, die damit arbeiten
+und überall dementsprechend irgendwelche Unvollständigkeiten, irgendwelche Überbleibsel und Reste,
+Verschmutzungen, wie auch immer man das nennen möchte.
+Ich finde es ganz gut, Verschmutzungen gefällt mir, dass man sozusagen tainted data hat irgendwie,
+weil das tatsächlich der Fall ist. Und ich glaube, wir müssen so darüber nachdenken,
+dass es im Prinzip, es ist wie eine ökologische Ressource auch.
+Es ist wie ein Wasser oder so und dementsprechend ist es ein Komplex,
+ein molekularer Komplex aus verschiedensten Reinheiten und Verunreinigungen,
+je nachdem, wo so ein Fluss irgendwie herkommt und wie der hinfließt und wo er durchfließt.
+Und der kann schneller sein, langsamer sein. Also ich glaube, man kann sich diese Metaphern
+durchaus bedienen, sollte man auch, um eben nicht diesen Unterschied zu machen zwischen
+Daten sind irgendwas, was sich in einem rein technischen und dementsprechend irgendwie unnatürlichen Bereich abspielt
+und dem natürlichen Bereich, weil das alles hat eine Materialität auch.
+Das hinterlässt auch, abgesehen von sozusagen sozialen, kulturellen Spuren, auch tatsächlich ökologische Spuren.
+Vielleicht können wir in aller Klarheit noch einmal festhalten, dass wir ausschließlich
+patriarchal und kolonial geprägte Daten zur Verfügung haben zum heutigen Zeitpunkt im Jahr 2019.
+Nämlich global und das ist eigentlich etwas, dessen sich wenige Menschen bewusst sind.
+Und wir immer davon sprechen, wann künstlich-intelligent self-aware wird.
+Ich frage mich manchmal, wann wir es endlich werden.
+Weil ich glaube, dass immer noch eine umgeblichere Inklarheit darüber besteht,
+ja, es hat sich doch schon etwas gebessert und es ist so gewichst, schon anders als in den 60er Jahren.
+Achtung, ja, es ist immer noch, wir leben, wir fahren auf den selben Schienen, die da gelegt wurden,
+vor hunderten von Jahren und natürlich kann so etwas nicht von heute auf morgen sich ändern.
+Und das ist, glaube ich, ein Bewusstsein, dass man sich gerade in unserer Generation vielleicht immer wieder vor Augen führen sollte,
+die Anfang 20-jährigen jetzt haben das noch viel mehr im Bewusstsein, finde ich, im täglichen Gebrauch.
+Dass man sagt, ja, natürlich dürfen Frauen uns wehren oder verdienen gleich viel,
+aber wir leben trotzdem immer noch in materialen Strukturen und Dettos, was das Koloniale betrifft.
+Wir haben nicht denselben Respekt für den globalen Süden, den wir vorgeben zu haben.
+Und das betrifft sowohl die labor force, die Ressourcen als auch natürlich die Umgang mit Daten.
+Absolut.
+Die nächste Frage, die ich mir genutiert hätte, wäre gewesen,
+wie artikuliert sich das Politische im Feld der künstlichen Intelligenz?
+Wir haben da jetzt schon einiges angesprochen, mir fällt aber noch was ein, was mich auch sehr interessiert,
+und zwar dann die Verbindung zwischen dem sogenannten Nudging und Formen algorithmischen Regierens.
+Also, dass dann Entscheidungsarchitekturen auch durch künstliche Intelligenz unterfüttert uns bestimmte, sagen wir mal, Ratschläge geben,
+suggerieren, was die bessere Entscheidung sei und damit ein Möglichkeitenhorizont konstituieren eigentlich.
+Und das ist ja auch eine ganz manifeste Art Macht auszuüben, eine algorithmische Form des Regierens.
+Könnt ihr vielleicht ein bisschen spezifizieren, wie diese Form von Macht ausgeübt wird, wo und durch wen?
+Zuallererst gesagt, das hat es früher auch schon gegeben, dafür braucht man keine künstliche Intelligenz,
+sondern einfach nur Medien, und zwar technische Medien genauso wie publizistische Medien,
+die Art und Weise, wie Bevölkerungen und Entscheidungen in der Masse sich manifestieren.
+Also, es gab keine künstliche Intelligenz und wir hatten trotzdem Nazis.
+Jetzt gibt es künstliche Intelligenz und wir haben noch mehr Nazis.
+Deswegen, da würde ich mir gerne großen Aufnahmen machen, in dem Sinn, dass es etwas besser macht, eher schlechter vielleicht,
+aber mein Point being, glaube ich, das zu sagen, es gibt immer schon eine Art von Kodefinition dessen,
+was politische Realitäten sind, wie sie sich entwickeln und wo sie hingehen sollen,
+da werden bestimmte Sachen benutzt, wie sich Meinungen bilden und so weiter.
+Das ist heute mit Formen von, ich würde nicht sagen künstlichen Intelligenz,
+aber maschinell oder algorithmisch begünstigter Meinungsbildung, sicherlich individualisierter.
+Das ist, glaube ich, der Punkt, der sich geändert hat.
+Das entgegen dieser Aussage von Facebook, that it's connecting people, das genau das Gegenteil macht,
+nämlich die Leute sehr, sehr genau zu individuieren, zu vereinzelt und soweit sozusagen einzeln angreifbar und sprechbar zu machen,
+als Kunden, als politische Subjekte und so weiter, weil man nicht mehr laut in die Masse hinausschreiben muss,
+sondern jeden einzelnen ziemlich genau und ziemlich fein dargelegt auf sein Profil hin,
+das sich eben entwickelt hat in kubernetescher Koexistenz, wie wir unsere Profile selber pflegen und natürlich anlegen und sagen,
+ich bin genau diese Person, das ist mein individueller Standpunkt,
+dementsprechend kann mir dann genau die richtige Empfehlung, egal ob das für einen NP3-PR ist oder für eine Wahlentscheidung, gegeben werden.
+Also das hat sich geändert, deswegen nageht mir auch ein interessanter Begriff,
+man braucht keinen Fortschritt mehr, um Leute dazu zu bringen, irgendwie eine bestimmte Sache zu wählen,
+sondern es reicht, sie ganz leicht in die Rippen zu stoßen, every now and then.
+Idealerweise ist es so, dass sie es gar nicht merken.
+Aber wie gesagt, so hat Politik und Propaganda und technische Medien immer schon funktioniert.
+Ein Schlüsselbegriff, zu dem angesprochen ist, das ist der Begriff des Konsumenten,
+und der überspannt jetzt Wirtschaft und Politik gleichermaßen, wie du schon gesagt hast.
+Der Konsument konsumiert nicht nur Waren und Daten und Informationen, sondern er konsumiert auch politische Meinungen,
+es wird ihm dargereicht, wie das neueste Sonderangebot quasi,
+es wird ihm suggeriert, dass die Ware, die er da konsumieren wird oder wählen wird,
+das finde ich jetzt mit dem Vokabular austauschbar, sein Leben verbessern wird,
+plötzlich ihm das geben wird, ohne dass er sich immer gesehen hat, so wie das Kauf eines neuen Produkts,
+und tatsächlich wird dieses Versprechen auch nicht eingelöst, und so funktioniert natürlich Populismus.
+Und das spielt mit den Konsumenten, und gerade auf den Online-Medien, sozialen Medien sind vielleicht auch Prosumenten,
+die produzieren gleichermaßen den Wahnsinn, der wieder zurückverkauft wird,
+verkauft quasi auch gleichermaßen selbst, wir gestalten ihn mit,
+und da geht es jetzt wirklich an, vorsichtig zu werden, auch im ökologischen Hinblick,
+auf unsere planetarische Gesundheit und den Klimawandel und dessen Auswirkungen,
+warum eigentlich müssen wir permanent konsumieren oder prosumieren,
+wenn nicht auch eine andere Art von Existenz- und Daseinsberechtigung,
+und können uns diese vielleicht wieder mehr widmen,
+weil wir jetzt die Kurve vielleicht schon an den Peak-Point erreicht haben,
+und es langsam Zeit wird, zurückzukehren auf eine Ebene, die nicht so von Konsum getrieben ist, in jeglicher Ansicht.
+Das wäre schön.
+Ein herer Wunsch, ich weiß.
+Ja, ja, aber eine, wo du ja nicht allein bist.
+Was mir noch einfällt, ist natürlich, dass es wahnsinnig spannend ist, jetzt schon,
+und immer spannender wird in Zukunft, zu schauen, wie sich überhaupt politische,
+und ökonomische, und zivilisatorische Landschaften verschieben,
+und auch die Akteure und Agenten darin verschieben, wenn man sich anschaut, was passiert ist.
+Nehmen wir Mark Zuckerberg als Beispiel, eine momentan sehr angefährende Deposition und Person,
+der ein de facto Staatschef ist, also der hat 2,5 Milliarden, was auch immer.
+Wir können nicht genau sagen, was es ist.
+Also der Typus, was ein Bürger ist, was ein Konsument ist, was ein User ist,
+oder zu welchen Anteilen diese Komponenten jeweils sozusagen uns ausmachen,
+verschiebt sich gerade massiv. Wir wissen es gar nicht ganz genau, was los ist.
+Es gibt da Entitäten, die agieren, wie mal es vorhin auch schon gesagt wird, supranational,
+das heißt die Konzepte von Nationen und so weiter werden sich auch zum Überdenken aufgeben in Zukunft.
+Mark Zuckerberg ist nicht zufällig, sage ich jetzt mal, mit einer Chinesin verheiratet
+und wird dort empfangen wie ein Staatschef, beziehungsweise bietet,
+zum Beispiel aus Facebook heraus entwickelte weaponized Technologien zur Überwachung und Datenauswirkung
+an den Chinesen an, weil das riesige Ressourcen sind, die da auf ihn warten.
+Und es gab diese mehr, nach der Trump-Wahl, kurze Zeit ging das Gerücht um,
+dass Zuckerberg sich interessieren würde vielleicht zu kandidieren 2020 für eine Wahl,
+weil er einen Move gemacht hat, der der klassische Move ist für früher Präsidentschaftskandidaten,
+nämlich alle Staaten, alle Bundesstaaten in Amerika besuchen und dort so Town Hall Meetings zu machen.
+Also was ich sagen wollte, ist, dass, glaube ich, deine interessante Generation gerade sehr viel Macht
+in die Hand bekommt, wo sie zeitweise noch nicht genau wissen, was sie damit tun.
+Ich glaube nicht, dass Leute wie Mark Zuckerberg und so weiter gerade großes Interesse haben,
+direkt in die Politik zu gehen, sondern eher dabei zuschauen gerade so ein bisschen in Ord vielleicht,
+hoffentlich, was wiederum die Technologien, die sie in die Welt gebracht haben,
+da gerade für Schaden anrichten oder für Auswirkungen haben.
+Im weiteren Verlauf über die nächsten Jahrzehnte wären die sicherlich aber interessant.
+Also ich glaube, diese Generationen, die alle jetzt zwischen 30 und 40 sind,
+die eben unsere nächsten paar Jahrzehnte bestimmen werden, die muss man sich genau anschauen.
+Da waren halt einerseits junge Populisten wie Sebastian Kurz hier
+und andererseits Leute wie Zuckerberg auf der anderen Seite.
+Und irgendwie ist es massiv, was da gerade passiert, aber zeitweise noch irgendwie hat man das Gefühl,
+dass da doch schwer abschätzbare Folgen wieder bei rauskommen.
+Und das heißt, neben der ganzen Frage, was eine abstrakte Entität wie KI, die es jetzt in dem Sinn ja noch
+nicht so gibt, in der Art und Weise, dann vielleicht möglicherweise die Welt beherrscht,
+ich glaube, das müssen wir dann schon wie verschiedene künstliche Intelligenzen im Zusammenspiel mit
+den Leuten, die sie implementieren und die sie nutzen, dann also wie diese Interaktionen aussehen können,
+das wird interessant sein zu beachten. Nicht so sehr obiz-pestig, also die Angst vor der Singularität
+in irgendeiner Form von Skynet-Terminator-Szenario ist, glaube ich, eher unnötig.
+Können wir das vielleicht noch ein bisschen genauer skizzieren, welche Möglichkeiten des politischen
+sich da auftun, also im Guten wie im Schlechten, also das, denn die Gefahren haben wir jetzt schon
+einigermaßen skizziert, vielleicht noch nicht ganz in Bezug auf die Zukunftsszenarien, aber was kann man denn
+für politische Möglichkeiten skizzieren, zukünftige, die man vielleicht begrüßenswerter fände.
+Mir fällt da zum Beispiel ein Artikel ein, der vor kurzem erschienen ist von Evgeny Mosorov,
+der ist betitelt Digital Socialism und da ist dann eine Headline zum Beispiel
+Socialize the Means of Feedback Production, wo quasi anerkannt wird, es gibt diese Machteffekte,
+die auch auf Daten basieren, aber wir würden gut daran tun, die sagen, in anderen Händen,
+vielleicht in Form von Open AI oder Open Data oder als Commons organisiert, quasi anders zu nutzen.
+Es gibt irrsinnig viele Bereiche, also ich glaube, es trifft auf alle Bereiche zu und es wird sich
+überall irgendwie äußern, es gibt wahnsinnige Potenziale dafür, was sich politisch umsetzen ließe
+mit KI, also es gibt, denke ich, allein was Bürokratie und Verwaltung angeht, also oftmals
+gerne eher weniger betrachtete Aspekte von Politik und Alltagsinteraktion mit Politik angeht,
+denke ich, da wird sich sehr, sehr viel tun und it's gonna be boring as hell, aber es gibt
+jetzt schon genug algorithmisierte Systeme, die beispielsweise, keine Ahnung,
+sich mit Strafzetteln auseinandersetzen oder sonst was und auf diesem Gebiet wird man
+dann auch noch lernen müssen, damit umzugehen, was da passiert, wenn einfach, sozusagen,
+Massen von Interaktionen, die natürlich einfach Effekte haben, die dann, also sowohl direkte
+als auch Ripple-Effekte in dem weiteren politischen Apparat, der ein großer Komplexer ist,
+passieren wird, dann wird die Frage sein, wie immer bei solchen Sachen, kui bono,
+also wem geben wir welche Handlungsspielräume und Instrumente in die Hand, um irgendwas damit
+zu machen, wie nehmen wir als Zivilgesellschaft an solchen Entscheidungsprozessen teil, es gibt
+jetzt schon, äußerst ist es sozusagen höchste Eisenbahn, dass man als politisches Subjekt und
+als Zivilgesellschaft sich bei Wahlen und so weiter auch dahingehend orientiert, was
+für Digitalprogramme die jeweiligen Regierungen fahren. Hier in Österreich wurde eins
+implementiert von der letzten Regierung, dass an, sozusagen, Macht- und Kontrollausübung
+Großbritannien und den USA in nichts nachsteht, aber es schaut keiner hin, weil wir immer
+noch das Gefühl haben, das geht uns nichts an und Politik und Technologie haben irgendwie
+nichts miteinander zu tun. Das ändert sich gerade langsam, graduell, da gab es dann eben
+Skandale mit Cambridge Analytica und so weiter und so fort, aber das ist, glaube ich, die
+Hauptaufgabe, die uns da bevorstellt ist, also Bildung im Allgemeinen sowieso, um ein
+Bewusstsein zu schaffen dafür, wie, zumindest dass es Mechanismen gibt, man muss nämlich
+jeden Mechanismus auch an Detail verstehen, aber den meisten Leuten ist nicht mal klar,
+oder uns als Gesellschaft, dass bestimmte Sachen überhaupt passieren. Also da ist Transparenz
+gefragt und zwar nicht Transparenz mit dem Vektor, dass sozusagen aus Regierung und Industrie
+die Gesellschaft transparent wird, sondern umgekehrt, dass für die Gesellschaft Regierungen
+und Industrien transparent werden und dann im weiteren Sinne ganz konkret politische
+Bildung und die Tatsache, dass das dann, also ich freue mich auf die ersten wirklichen
+Politiker und Parteien, die mit dem Ganzen ernsthaft umgehen und anfangen, an Gesellschaften
+und Regierungsmodellen zu basteln, die das ernsthaft in Betracht ziehen, was da angeht,
+weil das ist bis jetzt höchstens als wirtschaftlicher Faktor interessant, dass dann eine neoliberale
+Politik begünstigt wird, aber im Hinblick darauf, was es mit unserem ganz normalen alltäglichen
+Leben tut, bis hin zu mit unseren Seelen im weitesten Sinne, also was es an psychischen
+Erscheinungen auch mit sich bringt für eine kulturelle Seele, wie auch für die Individuen,
+wie das die Leute fertig macht. Niemand denkt darüber nach, was es jetzt an Mental Health
+Statistiken gibt, die ganz eindeutig belegen, wie krank viele dieser Plattformen und Technologien
+machen, wie sehr sie ausbreiten und so weiter. Und das sind langsam so Realitäten, die ein
+bisschen bewusst werden und wo man, glaube ich, sozusagen, wo jeder eine Verantwortung
+hat, daran mitzuarbeiten, diese Sachen klarer herauszuarbeiten und herauszufinden, was zu
+tun ist, jeder für sich. Und die Ausstellung, die wir gemacht haben, ist, also ohne jetzt,
+wir haben keine Lösungsansätze, aber es war zumindest der Versuch zu sagen, das ist der
+klarste Blick, den wir gerade in der Lage sind, auf diese Situation zu werfen, mit den
+Mitteln, die wir haben, als Wissenschaftler, Kurator und Künstler, als Institution, wie
+das Museum, und zu sagen, this is what we have.
+Ich glaube, um auf die Frage auch noch einzugehen an der Wirtschaft und der Commons, wem gehört
+Technologie, wem gehören Entscheidungsprozesse, da ist wirklich ein Umdenken gefragt, um nochmal
+zurückzukommen auf den Begriff des Konsumenten. Momentan bestehen ja politische Programme
+vorwiegend darin, uns zu suggerieren, das Wichtigste sei es, dem Staatshaushalt die Kasse
+auf Null zu bringen, einzusparen, Steuern zu sparen, neue Arbeitsplätze zu schaffen,
+niemand hinterfragt aber, ob das System nicht per se krank ist, und da wird uns auch künstliche
+Intelligenz per se nicht helfen können dabei, solange die Frage nicht geklärt ist, was
+wir als Commons bezeichnen, solange es Diskussionen darüber gibt, Trinkwasser zu privatisieren,
+Fernsehstationen etc., sämtliche staatlich organisierten Strukturen eigentlich, ist das
+ein großes Problem, und da ist die Frage auch der Technologie selber, in welchen Hand
+ist das eben, ist es wirklich sinnvoll eine nationale AI-Strategie zu haben, wie das ja
+viele Länder schon vorlegen, wie das auch Österreich eben anstrebt, oder ist es sinnvoll,
+das supranational zu lösen, ist es dann aber wieder sinnvoll, dass es in der Hand von Konzernen
+ist, die wieder sich aus dem Wirtschaftssystem in einer Weise herausnehmen, wir sind ja supranational,
+wir zahlen keine Steuern auf dem Grund und Boden, auf dem wir Ressourcen und Arbeitskraft
+nutzen, wir machen aber Einnahmen, die wir dann aber nicht der Allgemeinheit zugutestellen,
+die Frage ist, sollte Facebook ein Commons sein zum Beispiel, sollte man da als Mr.
+Zuckerberg mal sagen, ich habe das gegründet und jetzt gebe ich es quasi in die Hand einer
+zentralisierten Gemeinschaft, die es vielleicht anstatt monopolisiert gemeinsam regiert, ist
+das überhaupt möglich, sind wir überhaupt in der Lage dazu eine wirkliche Demokratie
+oder Gemeinschaft zu sein, die auf Basis von Commons und Commoning zusammenlebt, oder sind
+wir über die Jahrhunderte zu sehr geprägt von Besitzdenken und es sind meine Daten,
+meine Waren, meine Information, mein Geld, mein Wirtschaftsstandort, oder ist es tatsächlich
+möglich, dass wir jetzt auch dank diesen Technologien und dank der Erkenntnis, die wir aus diesen
+Daten, die wir jetzt zuhauf auch analysieren können endlich, vielleicht einmal Schlüsse
+ziehen, die wir zum größeren Wohl verwenden?
+Ja, die Frage ist wirklich, ob wir, vielleicht liegt es einfach an uns, vielleicht liegt
+es einfach an, das ist immer dieses Ding, das jetzt, also in einer Technologie, die
+wir sozusagen, in die wir so eine Größe hineinprojizieren und die wir gerade so hochskalieren,
+da wir es hineinprojizieren, dass es eine Anwesenheit vielleicht gegen uns oder für
+uns tut, in Wirklichkeit aber müssen wir uns vielleicht eben auch damit anfreunden und
+dann anfangen, auf der Basis zu arbeiten, dass wir Arschlöcher sind und dass keine
+Technologie das richten wird.
+Da sind wir, finde ich, an einem interessanten Punkt angekommen und auf eine Art schlägt
+das den Bogen zu einem Thema, was du am Anfang angesprochen hattest, Paul, und was ich überlegt
+hatte, ob ich es noch ansprechen soll oder nicht, aber nachdem du es quasi aufgebracht
+hast, spreche ich es jetzt an, du hast es, glaube ich, als eine der, eine neue kopernikanische
+Kränkungen angesprochen und ich finde, es steht auch im Zusammenhang zu dem, was du
+angesprochen hast, Marlis, nämlich in Bezug auf die Systemfrage.
+Ich persönlich glaube, die Systemfrage muss in aller Behemenz gestellt werden und diskutiert
+werden, weil es so eine Art von Asynchronität gibt, in der wir auf der einen Seite so Strukturen
+haben, die einfach in keiner Form mehr zeitgemäß sind und gleichzeitig aber regiert werden
+durch Methoden, die schon ganz selbstverständlich von anderen Prämissen ausgehen, sage ich
+mal.
+Fange ich vorne an.
+Welche Einsichten ergeben sich aus den Entwicklungen innerhalb des Feldes der künstlichen Intelligenz
+in Bezug auf das Konzept des freien Willens?
+Gute Frage.
+Ist eine Frage, die sich jetzt gerade wieder massiv stellt darin, wo sich aber wahnsinnig
+eine historische und medienhistorische und kulturhistorische Entwicklung nachvollziehen
+lässt, die was damit zu tun hat, die im Prinzip losgeht und das haben wir in der Ausstellung
+versucht auch ein bisschen zu zeigen in seiner Art Genealogie, die wir sources and devices
+genannt haben, der Mediengeschichte der künstlichen Intelligenz, die davon ausgeht, dass zu sagen,
+erstens ab dem Zeitpunkt, wo wir anfangen, irgendwie irgendwelche Formen von externen
+Agenten, kleine Mediensteinchen oder sonst was zu benutzen, um zu denken, als Hilfsmittel
+eigentlich schon von künstlicher Intelligenz gesprochen werden könnte.
+Andererseits etwas im Zentrum steht von irgendwie jedem menschlichen Unterfangen zu einer Entwicklung,
+was sich kaum geändert hat über die Jahrtausende, nämlich die Zukunft.
+Es geht uns immer darum, voraus zu sagen, was passiert und wie wir das machen, daran
+entwickeln sich unsere Techniken und dementsprechend da entsteht auch eine Feedback-Steife mit
+dem freien Willen, das heißt zuallererst machen wir Orakel.
+Wir sehen, dass es gibt irgendwelche Sachen passieren, wir versuchen Sinn daraus zu machen
+und versuchen uns zu erklären, warum das passiert und erfinden aber kargokultartig
+irgendeine Technik, die dafür vielleicht gar nichts zu tun hat.
+Also ich lese im Kaffeesatz oder in den Eingeweiden von Tieren oder so und sage, deswegen wird
+das Wetter morgen schlecht.
+Danach entstehen die ersten Formen von Pattern Recognition und die ersten Modelle, die das
+Ganze mathematisch zum Beispiel oder geometrisch besser abbilden können, das heißt die Naturbeschau
+funktioniert so, dass ich sage, ich erkenne, Sonne geht auf, Sonne geht unter, Sternbilder
+wiederholen sich, Ebbe und Flut und so weiter und daraus entwickeln sich erste Instrumente
+dafür, wie zum Beispiel Alphabete und Zahlensysteme.
+Daraus entwickelt sich der Grundgedanke der Permutation, dass ich sage, ich habe ohne
+endlich viele Zustände irgendwo, ich kann sie aber mit endlichen Mitteln darstellen
+und dementsprechend einfangen.
+Als nächstes entsteht daraus zum ersten Mal wirklich eine mathematische Technik der
+Vorhersage, das ist im 17. Jahrhundert erst, also noch gar nicht lange her im Vergleich
+zu dem, was davor passiert ist, in zwei, drei, viertausend Jahren in Form der Infinitisimalrechnung
+von Leibniz oder auch von Newton.
+Das heißt, da hat man zum ersten Mal eine mathematische Technik entwickelt, basierend
+auf der vorhergegangenen, mit der es möglich ist, tatsächlich in die Zukunft zu schauen,
+hätte man vorausgesetzt, man hätte Rechengeschwindigkeiten, die schneller sind als unser eigenes Gehirn.
+Das gibt es zu der Zeit natürlich auch noch nicht.
+Leibniz wünscht sich famously ein Heer von Mathematikern und baut ja dann erste Rechenmaschinen,
+die aber natürlich noch keine Differenzialgleichungen können, sondern nur für Speziesrechnungen.
+Und macht aber entwickelt plötzlich etwas, was in der Lage ist, den Flux der Natur einzufangen
+und aber auch vorauszusagen, was passieren wird.
+Und das ganze Dispositiv der Berechenbarkeit.
+Und damit zum ersten Mal auch der Idee des freien Willens kommt heraus, weil er sagt,
+es kann sowas eigentlich gar nicht geben.
+Wenn ich genug Parameter habe und die richtigen Methoden habe, kann ich aus einem vergangenen
+und einem Ist-Zustand immer die Zukunft vorher berechnen.
+Leibniz täten das aus auf die Diplomatie und sagt, wenn sich zwei streiten, kann man hingehen
+und sagen, meine Herren, es muss überhaupt keinen Streit gehen, Kalkulemos rechnen wir.
+Und das ist eine der sozusagen Urszenen einer Kultur, die sich bis heute auch weiterhin vorzieht.
+Weil nichts anderes tun diese Maschinen die ganze Zeit, als bestimmte Zustände auf einer bestimmten Datenbasis
+und Methodenbasis zu analysieren und zu entscheiden, was passiert als nächstes.
+Der Unterschied ist, dass ich im Englischen kann man das schön machen.
+Was sich da getan hat, ist, dass es nicht mehr um Prediction geht, sondern um Production.
+Also was sich verschoben hat, ist, dass wir nicht mehr nur davon sprechen,
+dass wir finally in der Lage sind, Zukunft vorherzusagen, was wichtig ist in jederlei Hinsicht
+für Klimaentwicklungen, Wetter und so weiter.
+Und eben immer schon kulturgeschichtlich wichtig war für jede Zivilisation.
+Es ist wichtig zu überlegen, wie das Wetter wird, weil sonst geht einfach mal die Ernte kaputt.
+Also es geht hier nicht darum, den Oracle nur zu machen, sondern das ganz handfeste pragmatische Gründe.
+Was sich verschoben hat in dem Zeitpunkt, wo die Rechenkapazität die Methoden überholt hat,
+also wo es tatsächlich das, was Leibniz sich gewünscht hat,
+nämlich ich führte ganz viele Parameter, ganz viel Daten irgendwo rein
+und mit diesen relativ einfachen Methoden bin ich dann in der Lage,
+einfach wirklich Jahre oder Jahrhunderte in die Zukunft zu rechnen,
+ist, dass wir aus der Vorhersage zur Herstellung von Wirklichkeiten gewechselt haben.
+Das Beispiel, das ich dabei am schönsten finde und wo sich ein Wendepunkt ergeben hat,
+ich habe leider vergessen welches Jahr das war, als der isländische Vulkan ausgebrochen ist
+und den ich nicht aussprechen kann, der dafür gesorgt hat, dass der Flugverkehr global auf dem Boden blieb.
+Wegen besagter Aschewolke, die da da war.
+Diese Aschewolke gab es nur als Berechnung erst mal.
+Das heißt, es wurde basierend auf einem Komplex von Berechnungsmodellen,
+zuerst über die Ausbreitung dieser Aschewolke,
+anhand allmöglicher Geodaten und Klimadaten und Winddaten und so weiter berechnet,
+wie groß ist sie, wie ist sie beschaffen, wo breitet sie sich wahrscheinlich aus,
+weiterhin angeschlossen an den Komplex von Versicherungen und so weiter,
+die überlegt haben, wie viel würde uns das theoretisch kosten, das alles auf dem Boden zu behalten,
+wie viel würde es uns kosten, wenn jetzt sieben Flugzeuge tatsächlich abstürzen,
+deswegen bis hin zu dem Individuum und dem Todesfall eines einzelnen Fluggasses.
+Und dann beschlossen wurde, das ist die Entscheidung,
+da wurde eine globale Wirklichkeit kreiert, basierend rein auf einer Berechnung,
+nicht auf einer Evidenz, die einzige Evidenz war, dass klar war, dieser Vulkan ist tatsächlich ausgebrochen,
+aber die Entscheidung ist getroffen, die tatsächliche Messung der Aschepartikel in der Luft hat erst nach der Stadt gefunden.
+Das scheint mir als zumindest eine Instanz eines Wendepunkts dessen, was das angeht, ganz wichtig
+und daran, finde ich, lässt sich auch schön nachvollziehen, was es mit freiem Willen auf sich hat.
+Ich denke, was uns menschlich macht, ist, dass wir glauben, dass wir freien Willen haben.
+Ich glaube sehr stark an die Kontingenz und die Unvollständigkeit
+und nicht komplette Nachvollziehbarkeit aller Prozesse.
+Ich glaube aber, dass das freie Wille oder nicht freie Wille keine binäre Frage ist,
+sondern eher die Frage ist, wie viel freier Wille.
+Das heißt, es gibt sicherlich irgendwo was, wo wir als menschliche Akteure
+und alles, was uns ergibt als lakanianisches Reales, genug Rauschen erzeugt.
+Dieses Rauschen ist dann der freie Wille, wo irgendwas passieren kann,
+wo ich vielleicht denke, ich kann eine Entscheidung mit treffen.
+Aber die ganzen anderen Parameter, die da reinfließen,
+alle Entscheidungen, die dem Ganzen vorhergegangen sind,
+und alle jedes halbe Grad im Temperaturunterschied draußen,
+wird irgendwie einen Einfluss darauf haben, was passiert.
+Ich glaube auch, dass wir natürlich nicht alleine entscheiden, frei oder nicht frei.
+Wir sind ja umgeben von Wesenheiten, von Dingen, von zunehmend auch smarten, intelligenten Dingen.
+Aber auch in der Vergangenheit ist der Einfluss darauf, welchen Weg ich einschlage,
+auch schon als Teilzeitmensch, mag vielleicht inspiriert sein, nicht durch freien Willen,
+sondern ich sehe in der Ferne etwas, was mich interessiert, uns gehe den anderen Weg.
+Und das zeichnet uns ja auch aus.
+Also ich würde mir sagen, der Begriff der Vorstellungskraft oder auch Kreativität
+ist ja auch noch etwas, was uns Menschen momentan mal,
+was wir gerne als Alleinstellungsmerkmal für uns beanspruchen, sagen wir mal so.
+Wir sagen, was machen wir damit?
+Und wir haben das Potenzial, uns etwas vorzustellen und es manchmal auch zu erreichen.
+Und diese Entscheidungsprozesse, wie wäre es, man stellt sich vor,
+ich könnte das Feuer nicht nur dann haben, wenn der Blitz einschlägt,
+sondern ich könnte es selbst erzeugen.
+Oder ich könnte nicht nur einen guten Stein finden,
+sondern ich könnte mir selbst ein Werkzeug erschaffen.
+Also diese Idee der Einflussnahme ergibt sich auch manchmal durch Zufälle, denke ich,
+und durch diese Umwege, oder wie du sagst, die die Kontingenz macht.
+Na ja, aber es ist eine Herstellung von Wirklichkeit.
+Natürlich, eine Herstellung von Wirklichkeit.
+Exactly, that's what we do. Und natürlich haben wir uns auch die künstliche Intelligenz hergeträumt
+und jetzt erforschen wir ein Spiel, kommt mir immer so vor ein bisschen noch damit, was eigentlich passiert.
+Und die Vorstellungskraft reicht im Moment zumindest bei mir
+und vielen Menschen nicht aus, uns vorzustellen, was da noch kommen kann.
+Also dass man sagt, es gibt dann diese ganze Science-Fiction-Idee der Singularity oder so.
+Aber eigentlich kann es ja auch in eine ganz andere Richtung gehen.
+Also das fände ich ja spannender, wenn diese Art Prognosen, die da getätigt wurden,
+über mehrere Jahrzehnte eigentlich nicht eintreffen, sondern etwas ganz anderes passiert.
+Vielleicht abschließend wenden wir uns ganz konkret der Frage der Zukunft zu.
+Es wurde ja schon angesprochen, eben Werkzeuge haben schon immer auch daran gearbeitet,
+sagen Wirklichkeit herzustellen. Ihr sprecht es in der Ausstellung an.
+Vielleicht lese ich einfach mal kurz das Zitat vor, denn es ergänzt sich mit einem anderen kurzen Zitat, das ich gefunden habe.
+Ihr schreibt in der Ausstellung, durch die Erkennung von Sprache und Bildern, die Verarbeitung von Daten
+und die algorithmische Analyse von Verhaltensmustern durch künstliche Intelligenz
+rückt die Bestimmung einer Zukunft in den Fokus, die nicht mehr vorhergesagt, sondern hergestellt wird.
+Und dem mag ich jetzt was beistehen, was ich vor kurzem gelesen habe in einem Interview mit Antoinette Rouvois.
+Und die hat gesagt, wer den Raum der Potentialität beherrscht, wird der Herrscher der Welt.
+Das heißt, wir sind wieder angekommen bei der Frage der Machtkonfiguration.
+Aber in Bezug auf die Frage, inwiefern diese technologischen Möglichkeiten dazu beitragen,
+eine Bandbreite von Zukunft eigentlich viel mehr zu verengen, als dass sie die erweitern, wie es oft postuliert wird.
+Wahrscheinlich ist beides möglich, aber…
+Also total gut, ich muss dem Ganzen noch ein Zitat folgen lassen, nämlich von Carl Schmid.
+Souveränes wäre, wer über den Ausnahmezustand entscheidet.
+Agamben hat das in seinem Buch Homo Saka auf die Biopolitik bezogen und über die Entscheidung auf Leben und Tod.
+Ich glaube, wir sollten es aussehen, eben sie sehen es den Raum der Potentialität, nennen wir es Fiktion.
+Souveränes wäre, wer über die Fiktion entscheidet und wie die funktioniert.
+Und ich denke, dass wir da sozusagen in diesen Bereich angekommen sind, wo natürlich all diese verschiedenen Politiken,
+die Potentialität der Politik, die Biopolitik, die Geopolitik oder die Fiktiopolitik,
+sozusagen die Auslegungshoheit und Produktionshoheit darüber, was Wirklichkeit ist und was nicht,
+im Zeitalter von Deepfakes und Zeitalter heißt in dem Fall ein paar Wochen.
+Eine ist die, die tatsächlich darüber entscheidet, wem die Zukunft gehört gerade.
+Wir sind absolut on Topic zum Subtitel des Podcasts, der Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+Wenn ich das richtig verstehe, Paul, plädierst du also auch, dass Sie sich mehr mit Narrativen von Zukunft auseinanderzusetzen
+als Formen des Politischen?
+Ja, mit Narrativen von Zukunft, aber eben vor allem auch mit den Mechanismen und Infrastrukturen,
+auf denen diese Narrative produziert werden.
+Also ich glaube, es ist wichtig, sich nicht nur anzuschauen, wer macht die Geschichten, wie schauen die Geschichten aus,
+sondern unter was für Bedingungen und zwar in jeder Hinsicht.
+Also politische Bedingungen, technologische Bedingungen, ökologische Bedingungen passieren
+und werden diese Narrative geschrieben. Wer sind die Autoren, die in der Regel eben nicht nur, wie Malis auch mehrfach schon gesagt hat,
+vorhin nur Menschen sind, sondern das Schreibwerkzeug schreibt dann den Gedanken mit.
+So ist das immer schon gewesen. Und lustigerweise umso mehr Schreibwerkzeug wir haben, und es wird immer mehr,
+umso weniger scheint uns das bewusst zu sein, dass diese Technologien, die wir hier rund um uns herum haben,
+das ist irgendwie geschickt gemacht worden. Ich weiß nicht, wer das gemacht hat,
+ob die Technologien das selber gemacht haben, dass sie sich immer unsichtbarer machen.
+Und dass man immer mehr das Gefühl hat, wir werden immer menschlicher, umso technologischer wir werden.
+Das ist ein ganz komischer Move, der da passiert. Und ich glaube, das ist die große Aufgabe,
+ist ein bisschen dem einen Widerstand entgegenzusetzen und weiterhin daran zu arbeiten, dass sichtbar wird und bleibt,
+wie die Sachen funktionieren. Also den Blick hinter den Vorhang werfen und zu merken,
+dass Wizard of Oz in Wirklichkeit einfach ein Medienkünstler ist.
+Wunderbar. Ich frage zum Abschluss immer noch, wenn ihr euch Zukunft vorstellt, was stimmt euch freudig?
+Mein Urlaub.
+Marlies, Paul, vielen Dank für das Gespräch.
+Vielen Dank.
+Das war Future Histories für heute. Vielen Dank fürs Zuhören.
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder auf Reddit.
+Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com-futurehistories
+vieles an Zusatzmaterial. Ich lese zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt.
+Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.

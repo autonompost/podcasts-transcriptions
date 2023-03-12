@@ -1,0 +1,2258 @@
+WEBVTT
+
+00:00.000 --> 00:08.000
+Welcome to Future Histories. My name is Jan Gross and it is my great pleasure to welcome James Muldoon in today's episode.
+
+00:08.000 --> 00:12.000
+James is a senior lecturer at the University of Exeter.
+
+00:12.000 --> 00:17.000
+He is a leading autonomy digital at the British think tank Autonomy,
+
+00:17.000 --> 00:24.000
+and he is the author of Platform Socialism, How to Reclaim Our Digital Futures from Big Tech.
+
+00:24.000 --> 00:27.000
+A quick note towards my German listeners.
+
+00:27.000 --> 00:37.000
+This is the second English episode in a row, which is highly unusual since Future Histories is a predominantly German language podcast.
+
+00:37.000 --> 00:43.000
+Normally, I try to have not more than every 10th episode or so in English,
+
+00:43.000 --> 00:49.000
+but this was simply too perfect and so I couldn't resist because last episode,
+
+00:49.000 --> 00:58.000
+I had the pleasure of welcoming Aaron Bannonoff to talk about associational socialism and democratic planning.
+
+00:58.000 --> 01:02.000
+And today's episode couldn't be a better follow up.
+
+01:02.000 --> 01:09.000
+James thinking on Platform Socialism presents some very concrete ideas on how we could build alternative infrastructures
+
+01:09.000 --> 01:17.000
+that aim at fulfilling all of our needs in a much better way than the capitalist variants of today.
+
+01:17.000 --> 01:22.000
+Before we start, I'd like to thank Lucas and Fabian for their kind donations.
+
+01:22.000 --> 01:27.000
+And I would like to point all of you to the collaborative transcription effort
+
+01:27.000 --> 01:32.000
+that is trying to make future histories accessible for people who are deaf.
+
+01:32.000 --> 01:36.000
+And by doing so, also making the content searchable.
+
+01:36.000 --> 01:38.000
+This is absolutely brilliant.
+
+01:38.000 --> 01:42.000
+And my warmest thanks go out to everybody involved.
+
+01:42.000 --> 01:47.000
+You'll find a contact mail in the show notes so you can join in the effort too.
+
+01:47.000 --> 01:48.000
+Many thanks.
+
+01:48.000 --> 01:54.000
+And now please enjoy today's episode with James Muldoon on Platform Socialism.
+
+02:00.000 --> 02:01.000
+Welcome, James.
+
+02:01.000 --> 02:02.000
+It's great to be here.
+
+02:02.000 --> 02:03.000
+Thanks for having me.
+
+02:03.000 --> 02:04.000
+It's a pleasure.
+
+02:04.000 --> 02:07.000
+James, let's start with some definitions.
+
+02:07.000 --> 02:09.000
+How do you define platforms?
+
+02:09.000 --> 02:11.000
+How do you define socialism?
+
+02:11.000 --> 02:15.000
+And finally, what is platform socialism?
+
+02:15.000 --> 02:18.000
+Okay, well, that's a really great place to start.
+
+02:18.000 --> 02:25.000
+I think the best thing is to start with how platforms tend to operate in a capitalist economy.
+
+02:25.000 --> 02:31.000
+So I think at their core, most digital platforms are what I would call value capture devices.
+
+02:31.000 --> 02:38.000
+They exist to appropriate in some way the value creating activities of those who use them.
+
+02:38.000 --> 02:43.000
+So in a platform business, the company isn't necessarily going to sell you a good or a service.
+
+02:43.000 --> 02:49.000
+They're going to position themselves as a middleman who gets paid every time a transaction
+
+02:49.000 --> 02:54.000
+or something takes place on the platform, either through data or a direct fee.
+
+02:54.000 --> 02:56.000
+So, of course, there are exceptions to this.
+
+02:56.000 --> 03:00.000
+You have things like Amazon Web Services that are just kind of selling you a service.
+
+03:00.000 --> 03:04.000
+You have companies like Apple that are just selling you consumer products.
+
+03:04.000 --> 03:10.000
+But the real power of platforms comes when they can act as this gatekeeper
+
+03:10.000 --> 03:14.000
+and charge people for connecting with each other to rent accommodation,
+
+03:14.000 --> 03:17.000
+I don't know, to order food, to hail a ride.
+
+03:17.000 --> 03:21.000
+That's, I think, when you start to see this exponential increase in profits.
+
+03:21.000 --> 03:28.000
+So the ambition of lots of these really big global platforms is to expand
+
+03:28.000 --> 03:32.000
+until they can become the very infrastructure upon which we live our lives.
+
+03:33.000 --> 03:39.000
+And as we spend more of our time online and as more of our lives become digitized,
+
+03:39.000 --> 03:43.000
+these platforms simply become the social infrastructure of everyday life.
+
+03:43.000 --> 03:47.000
+So every time we do anything, the platform takes a cut.
+
+03:47.000 --> 03:53.000
+And so if you look at Facebook's recent turn to the metaverse as an example,
+
+03:53.000 --> 03:59.000
+you can really see that the platform or this platform has these world building ambitions.
+
+03:59.000 --> 04:03.000
+The whole idea of the metaverse is that there would be this hybrid online
+
+04:03.000 --> 04:07.000
+and offline world that would be corporate owned and controlled
+
+04:07.000 --> 04:11.000
+and that everything you do in this world could potentially be monetized.
+
+04:11.000 --> 04:16.000
+So Facebook, which is now meta, doesn't want to be like simply an option
+
+04:16.000 --> 04:19.000
+or a service that you choose.
+
+04:19.000 --> 04:23.000
+They want to own the world within which choices are made available to you.
+
+04:23.000 --> 04:26.000
+They don't want to just sell an advertising product.
+
+04:26.000 --> 04:30.000
+They want to find new ways to monetize everything that you do online.
+
+04:30.000 --> 04:35.000
+So if you want to be more precise, like talking about platforms,
+
+04:35.000 --> 04:41.000
+you do have to admit that platform can incorporate a whole variety of different business models.
+
+04:41.000 --> 04:45.000
+So you have advertising platforms like Google and the old Facebook
+
+04:45.000 --> 04:47.000
+that are primarily just selling advertising products.
+
+04:47.000 --> 04:51.000
+You have transaction platforms like Uber and Deliveroo and others.
+
+04:52.000 --> 04:56.000
+You have streaming platforms, cultural production platforms,
+
+04:56.000 --> 04:59.000
+but there are some similarities in how they operate.
+
+04:59.000 --> 05:04.000
+And I think all of it is about how you capture value from the platform.
+
+05:04.000 --> 05:06.000
+I think this is what's really essential.
+
+05:06.000 --> 05:11.000
+What you might say, well, don't many of these platforms actually create value?
+
+05:11.000 --> 05:15.000
+Many of them are very popular with customers.
+
+05:15.000 --> 05:20.000
+Some of them provide really useful and convenient services that people quite like.
+
+05:20.000 --> 05:23.000
+I think this is also true to an extent.
+
+05:23.000 --> 05:28.000
+So one of the benefits of transaction platforms like Uber, for example,
+
+05:28.000 --> 05:31.000
+is that they make it easier for people to find service providers
+
+05:31.000 --> 05:34.000
+and for service providers to find clients.
+
+05:34.000 --> 05:39.000
+And they actually do solve a lot of trust problems through some of the rating systems.
+
+05:39.000 --> 05:45.000
+So you can say that the platform does add value by bringing these people together in this way.
+
+05:45.000 --> 05:49.000
+And I think this is one of the aspects of digital platforms
+
+05:49.000 --> 05:53.000
+that I think we can harness for more socially useful ends
+
+05:53.000 --> 05:58.000
+because the goal of platform companies is going to be to make more money
+
+05:58.000 --> 06:03.000
+by positioning themselves as these obligatory passing points in social networks.
+
+06:03.000 --> 06:07.000
+And I think you need to ask, well, where's the true source of the value?
+
+06:07.000 --> 06:14.000
+Is it a relatively simple bit of technology that connects us or is it our activity, our labor?
+
+06:14.000 --> 06:16.000
+And I think here's the point, right?
+
+06:16.000 --> 06:21.000
+Because platforms, insofar as they operate within this capitalist framework,
+
+06:21.000 --> 06:26.000
+are essentially parasitic on our activity, on our social lives.
+
+06:26.000 --> 06:30.000
+They have value capture mechanisms because ultimately it's the communities
+
+06:30.000 --> 06:36.000
+and the community's activity that's creating the majority of the value for them.
+
+06:36.000 --> 06:39.000
+And how do you define socialism?
+
+06:39.000 --> 06:43.000
+So for me, I mean, and the tradition that I come from,
+
+06:43.000 --> 06:47.000
+I understand socialism as the struggle for freedom.
+
+06:47.000 --> 06:53.000
+So freedom is the kind of, and I think that is kind of the kind of classic definition.
+
+06:53.000 --> 06:58.000
+It's about liberating people, or rather it's about people liberating themselves
+
+06:58.000 --> 07:01.000
+from the main sources of domination under capitalism,
+
+07:01.000 --> 07:06.000
+which tend to stem from an unequal distribution of resources
+
+07:06.000 --> 07:10.000
+and people's lack of control over their work, over their lives,
+
+07:10.000 --> 07:14.000
+precisely because they don't have access to these.
+
+07:14.000 --> 07:17.000
+So socialism as a movement, as a political project,
+
+07:17.000 --> 07:24.000
+is about how we could expand people's freedom by institutionalizing, you know,
+
+07:24.000 --> 07:27.000
+forms of economic security, access to resources,
+
+07:27.000 --> 07:32.000
+and obviously very importantly about establishing democratic controls
+
+07:32.000 --> 07:36.000
+over workplaces and over economic institutions.
+
+07:36.000 --> 07:41.000
+So I think capitalism offers a certain illusion of this freedom,
+
+07:41.000 --> 07:45.000
+but it turns out to be a kind of freedom that's only really available
+
+07:45.000 --> 07:47.000
+to a very small group of people.
+
+07:47.000 --> 07:50.000
+And I think the promise there is that, you know, if you work hard,
+
+07:50.000 --> 07:56.000
+if you are successful in your life, you can have access to this small elite group.
+
+07:56.000 --> 08:00.000
+But the problem is this leaves most of us relatively powerless,
+
+08:00.000 --> 08:04.000
+subject to the whims of bad bosses and, you know,
+
+08:04.000 --> 08:08.000
+impersonal market forces that dictate a lot of things about our lives.
+
+08:08.000 --> 08:14.000
+So when I think of socialism, it's both something like incredibly boring
+
+08:14.000 --> 08:16.000
+and mundane, but also very exciting.
+
+08:16.000 --> 08:20.000
+I think it has this boring side, which is just about, you know,
+
+08:20.000 --> 08:25.000
+a socialist society is one that should be providing adequate resources
+
+08:25.000 --> 08:27.000
+for people to live a dignified life.
+
+08:27.000 --> 08:30.000
+You know, people should have access to housing, to health care,
+
+08:30.000 --> 08:34.000
+to job opportunities, to really well-functioning public services,
+
+08:34.000 --> 08:36.000
+to culture and art.
+
+08:36.000 --> 08:41.000
+I think this is really the bare minimum for what we should be struggling for,
+
+08:41.000 --> 08:44.000
+you know, the basic program of something like a social democracy.
+
+08:44.000 --> 08:48.000
+But for me, the exciting part of it is also what happens after this,
+
+08:48.000 --> 08:51.000
+what happens when people have that feeling of security.
+
+08:51.000 --> 08:54.000
+They feel like they can participate in their society.
+
+08:54.000 --> 08:59.000
+They can play an active role in shaping some of the main social institutions
+
+08:59.000 --> 09:01.000
+in which they participate.
+
+09:01.000 --> 09:05.000
+And so the goal isn't just about getting food on the table.
+
+09:05.000 --> 09:09.000
+It's about enabling people to flourish, to live their best lives
+
+09:09.000 --> 09:11.000
+and to do really amazing things.
+
+09:11.000 --> 09:15.000
+So I think socialism should also be about creativity and excitement
+
+09:15.000 --> 09:18.000
+and new projects and learning new things about the world.
+
+09:18.000 --> 09:21.000
+And I think that's kind of like that idea of human flourishing
+
+09:21.000 --> 09:26.000
+on top of those kind of necessities is also really important.
+
+09:26.000 --> 09:30.000
+And I think mostly we don't get to talk about that side of things
+
+09:30.000 --> 09:34.000
+because most of us are, you know, understandably caught up
+
+09:34.000 --> 09:39.000
+in some of the daily struggles against the worst excesses of capitalism.
+
+09:39.000 --> 09:44.000
+But when we talk about socialism as establishing some kind of social control
+
+09:44.000 --> 09:48.000
+or social ownership over economic production,
+
+09:48.000 --> 09:51.000
+so over businesses and workplaces, I think this,
+
+09:51.000 --> 09:56.000
+we need to understand this as a means or as a pathway to enhancing our freedom.
+
+09:56.000 --> 10:04.000
+It's the best way, you know, socialists argue to organize economic and social power
+
+10:04.000 --> 10:09.000
+in a manner that avoids, you know, oligarchy and forms of capitalist domination.
+
+10:09.000 --> 10:14.000
+So, yeah, social ownership over what Marxists would traditionally call
+
+10:14.000 --> 10:18.000
+the means of production is about establishing a way for workers
+
+10:18.000 --> 10:22.000
+to have a direct say in how their workplaces are organized,
+
+10:22.000 --> 10:26.000
+but also about having forms of democratic accountability
+
+10:26.000 --> 10:30.000
+over important decisions about the investment of resources
+
+10:30.000 --> 10:33.000
+and how resources are best allocated.
+
+10:33.000 --> 10:37.000
+So I think it's about balancing the needs of the community,
+
+10:37.000 --> 10:40.000
+having these democratic controls over work,
+
+10:40.000 --> 10:45.000
+and balancing these with the larger discussions about how to invest scarce resources.
+
+10:45.000 --> 10:49.000
+Okay, so now we have a definition of socialism.
+
+10:49.000 --> 10:52.000
+We have a definition of platforms.
+
+10:52.000 --> 10:55.000
+James, what is platform socialism?
+
+10:55.000 --> 10:59.000
+Platform socialism is a project for reinventing the internet
+
+10:59.000 --> 11:02.000
+and reimagining how digital platforms could operate.
+
+11:02.000 --> 11:08.000
+So it's about finding alternative ways to own and govern the organizations
+
+11:08.000 --> 11:14.000
+that run digital platforms, particularly those that play such an essential role in our daily lives.
+
+11:14.000 --> 11:21.000
+And what I really want to emphasize with platform socialism is this idea of imagination and invention,
+
+11:21.000 --> 11:26.000
+because I think one of the saddest parts of our relationship with digital technology today
+
+11:26.000 --> 11:32.000
+is that we often assume that there's only one way that the digital economy could be organized,
+
+11:32.000 --> 11:36.000
+that there's a kind of technological determinism coming from big tech,
+
+11:37.000 --> 11:40.000
+that tell us that this is how the tech operates.
+
+11:40.000 --> 11:44.000
+This is the kind of social realities it must create.
+
+11:44.000 --> 11:50.000
+Platform companies like Uber often tell us that if workers want the flexibility of working when they want,
+
+11:50.000 --> 11:55.000
+then they have to accept the low pay, the insecurity, the precarity.
+
+11:55.000 --> 11:57.000
+But one thing doesn't necessitate the other.
+
+11:57.000 --> 12:01.000
+And I think technology is designed to achieve certain goals.
+
+12:01.000 --> 12:07.000
+And we have to see it as embedded within broader socio-technical systems.
+
+12:07.000 --> 12:13.000
+There are things that platforms and other forms of digital technology can do that are genuinely useful.
+
+12:13.000 --> 12:19.000
+I think we can use things like the matchmaking services, some of the logistics operations,
+
+12:19.000 --> 12:25.000
+without necessarily having this exploitative system that also degrades working conditions.
+
+12:25.000 --> 12:28.000
+And so with this book, Platform Socialism,
+
+12:28.000 --> 12:33.000
+what I'm interested in is trying to expand our collective imagination for what could be possible.
+
+12:33.000 --> 12:37.000
+It's about drawing on histories of technology and politics,
+
+12:37.000 --> 12:43.000
+but also looking at a range of contemporary prototypes and examples for how we could transform the digital economy.
+
+12:43.000 --> 12:48.000
+So I think to do this and to have this project, we need an exciting vision.
+
+12:48.000 --> 12:52.000
+We want to know what the world would look like with a better use of technology.
+
+12:52.000 --> 13:01.000
+I don't think it's enough to simply dig our feet in and say no and refuse all of the latest inventions and ideas from the tech world.
+
+13:01.000 --> 13:11.000
+I think we should be skeptical for sure, because most of the ideas are genuinely designed to be quite exploitative in how they operate.
+
+13:11.000 --> 13:19.000
+But at the same time, I don't think we should let this skepticism degenerate into this just generalized cynicism
+
+13:20.000 --> 13:29.000
+that assumes that we could never do any better, that our only response is one of refusal rather than appropriation or reinvention.
+
+13:29.000 --> 13:38.000
+And when you think about some of the most transformative visions for what 2030, 2040 and beyond is going to look like,
+
+13:38.000 --> 13:47.000
+ideas like the metaverse, virtual reality, all the stuff that's floating around at the moment, Web3, all the crypto blockchain stuff.
+
+13:47.000 --> 13:51.000
+I mean, a lot of these visions and ideas are deeply flawed.
+
+13:51.000 --> 13:59.000
+But I think there isn't really a very clear alternative for what the left think 2030 and 2040 should look like.
+
+13:59.000 --> 14:05.000
+What should take their place? What is the left's big idea, either for the Internet or for digital platforms?
+
+14:05.000 --> 14:11.000
+I think if you look back at every really successful, transformative leftist project,
+
+14:11.000 --> 14:18.000
+these projects have come to power on the basis of a radical reimagining of how society should be organized.
+
+14:18.000 --> 14:23.000
+I think the most successful ones offer this really inspiring vision and a bold agenda.
+
+14:23.000 --> 14:29.000
+Things like universal suffrage, health care, abolitionism, racial equality.
+
+14:29.000 --> 14:37.000
+These ideas were about creating this new common sense, a new kind of baseline for how we think the world should be organized.
+
+14:38.000 --> 14:43.000
+And so platform socialism, it's about a struggle and it's about questions of control.
+
+14:43.000 --> 14:51.000
+So not just what we achieve, but who gets to decide who has the power, who has control over these visions?
+
+14:51.000 --> 14:57.000
+Because at the moment, it's just a bunch of tech executives and a handful of their designers.
+
+14:57.000 --> 15:05.000
+And I think what we really need is communities themselves to have a much greater say in how new tech products are designed,
+
+15:05.000 --> 15:09.000
+how they're going to be functioning in workplaces, in communities.
+
+15:09.000 --> 15:14.000
+And I think this requires new kinds of institutions to facilitate these processes.
+
+15:15.000 --> 15:18.000
+Awesome. I really love it, I have to say.
+
+15:18.000 --> 15:25.000
+And I absolutely share this sentiment that we need new ideas of possible futures.
+
+15:25.000 --> 15:31.000
+I mean, the subtitle of Future Histories in German is Der Podcast zur Erweiterung unserer Vorstellung von Zukunft,
+
+15:31.000 --> 15:40.000
+which is kind of the podcast for the enlargement of our idea of the future, which is a messy translation, but something like that.
+
+15:40.000 --> 15:48.000
+So I really, really enjoyed this part of your book specifically and the way that you kind of give us not only the ideas,
+
+15:48.000 --> 15:53.000
+long-term ideas, but also concrete ideas of how to approach it in the here and now.
+
+15:53.000 --> 15:56.000
+So you kind of have it both.
+
+15:56.000 --> 16:03.000
+But before we dive deeper into your proposal or the different proposals actually that you bring forward,
+
+16:03.000 --> 16:07.000
+let's take a look why we need platform socialism in the first place.
+
+16:07.000 --> 16:13.000
+I mean, you sketched some of the reasons why we indeed need it already in the answer you gave before.
+
+16:13.000 --> 16:25.000
+But there's a specific term, a phrase that you bring forward that tries to capture the capitalization of our social relations through digital platforms.
+
+16:25.000 --> 16:29.000
+And you call it data commodity fetishism.
+
+16:29.000 --> 16:42.000
+And I think this was a very good starting point for understanding why the structures that we do have right now are absolutely not suited to bring about the futures that you just described.
+
+16:42.000 --> 16:52.000
+So could you explain to us what you mean by data commodity fetishism and why you think that this is more of a continuation of capitalist dynamics
+
+16:52.000 --> 16:57.000
+and not an epochal shift in the commodification of human life?
+
+16:57.000 --> 17:05.000
+Because sometimes now critics try to frame it as if the way that platforms are operating,
+
+17:05.000 --> 17:16.000
+the digital capitalist economy is operating as if this was a complete shift or break in the way that capital as such is functioning.
+
+17:16.000 --> 17:21.000
+Yeah. So there's a lot there. Let's try and break it down and take it one step at a time.
+
+17:21.000 --> 17:25.000
+I'll get to this phrase data commodity fetishism in just a sec.
+
+17:25.000 --> 17:35.000
+So I think the key for me is thinking about before you start talking about data relations, I think you need to put it in a much longer term perspective.
+
+17:35.000 --> 17:45.000
+And I think seeing how current forms of digital capitalism have developed out of a much longer trajectory is really important for understanding what's going on.
+
+17:45.000 --> 17:53.000
+Because I think a lot of the time when we think about this, we're too accustomed to thinking in terms of these radical breaks and ruptures
+
+17:53.000 --> 17:59.000
+that tends to discount the long continuities that are occurring.
+
+17:59.000 --> 18:08.000
+Now, as capitalism develops and more people start to engage in the pursuit of profit and capitalist markets spread around the world,
+
+18:09.000 --> 18:17.000
+what that causes is a continual revolution in the production process and in how technology is used in that process,
+
+18:17.000 --> 18:28.000
+from textile workshops to factories and larger production plants, we're constantly, as Mike said, revolutionizing how we go about producing profit.
+
+18:28.000 --> 18:39.000
+And so the real shift that some of these digital platforms enable, particularly in the 2010s, but kind of starting from the early 2000s,
+
+18:39.000 --> 18:54.000
+is to enable us to live more of our lives online and to create this framework through which our social lives and our activities can be commodified through data relations.
+
+18:54.000 --> 19:06.000
+And so I think this is really important because when you look at how the capitalist class is trying to generate profits at this time,
+
+19:06.000 --> 19:21.000
+what the technology really opens up is a capacity to expand capitalist markets, to shift into ever more fine-grained aspects of our social lives.
+
+19:21.000 --> 19:30.000
+So platform businesses are constantly striving for these new frontiers of profits, ways they can further integrate their services and what they do into our lives.
+
+19:30.000 --> 19:39.000
+So all of these previously non-monetized transactions now are able to fall within this larger sphere of data extraction.
+
+19:39.000 --> 19:46.000
+And so it's really about, for these platform companies, about creating the infrastructure that will facilitate this
+
+19:47.000 --> 19:53.000
+so that they can kind of own the digital infrastructure of 21st century social life.
+
+19:53.000 --> 20:04.000
+And so these platforms start to insert themselves in as middlemen, kind of financializing everyday interactions and finding ways to commodify things that we do,
+
+20:04.000 --> 20:09.000
+from seeing a friend to chatting to family, going for a run.
+
+20:09.000 --> 20:20.000
+All of this data and geolocation points can be fed into a system that is able to analyze all of the details and kind of package them in various ways for advertisers
+
+20:20.000 --> 20:31.000
+as just another data point on a consumer profile that they have of you as like an 18 to 35 year old, blah, blah, blah.
+
+20:32.000 --> 20:44.000
+And I think this process really reflects the history of capitalism as capturing a progressively greater extent of human life as a form of market commodity.
+
+20:44.000 --> 20:59.000
+And so I think you can really see a historical parallel between the original process of kind of like of the capitalist market spreading and these new forms of enclosing digital commons.
+
+20:59.000 --> 21:15.000
+And so this term data commodity fetishism, I think is really important because what the term means is it's trying to point to the way that we have a perception of certain digital relationships between people
+
+21:15.000 --> 21:26.000
+as having their value based not on the social relationships themselves, but on the data they produce, that we tend to see data as a thing out there, that we understand it.
+
+21:26.000 --> 21:31.000
+And this phrase data is the new oil is so common.
+
+21:31.000 --> 21:43.000
+And this way of thinking about it as a kind of natural resource, I think, allows us to mystify the true source of its value and its kind of origins in human activity.
+
+21:43.000 --> 21:48.000
+So the more time we spend online, the more our lives can be appropriated.
+
+21:49.000 --> 21:56.000
+But data, we often think, is this kind of unclaimed good that exists out there on the Internet.
+
+21:56.000 --> 22:07.000
+And it's just this empty space that, you know, the Zuckerbergs of the world can assert their rights over as this, you know, something that's just out there that's kind of free.
+
+22:07.000 --> 22:20.000
+And I think when we started establishing norms over how these digital platforms operate, people didn't tend to see this as something important or something that they could have any proprietary rights over.
+
+22:20.000 --> 22:36.000
+And I think this really enabled this kind of initial generation of millennials during the 2000s to establish all these really unfavorable norms over who owns and controls data in digital spaces.
+
+22:36.000 --> 22:52.000
+So I think what's really at stake here is trying to reclaim some of that ownership, governance, control over this data, the true source of which really lies in our social activity.
+
+22:52.000 --> 23:09.000
+And, you know, I think you can really see a kind of strong autonomous Marxism, so the kind of Italian Marxists of the 1970s framework here in that there's this kind of like social activity going on, you know, a lot of it online.
+
+23:09.000 --> 23:19.000
+And it's a kind of capitalist class that comes to kind of tame that and to capture it and to find new ways of appropriating it for profit.
+
+23:19.000 --> 23:28.000
+I mean, you already touched upon it a bit right now with the Italian autonomists, but you bring in a specific word for that as well.
+
+23:28.000 --> 23:36.000
+And you call it user-generated profit. Could you maybe describe to us a bit this specific logic of exploitation?
+
+23:36.000 --> 23:48.000
+What are the similarities between this new form of exploitation, which you call user-generated profit, and the forms of exploitation that are more quote unquote classical?
+
+23:48.000 --> 23:54.000
+So in the book, I ask a question, are social media users exploited?
+
+23:54.000 --> 23:59.000
+And I think they are, but not in the typical way that we're used to talking about exploitation.
+
+23:59.000 --> 24:09.000
+So I think for a Marxist, workers are exploited because they're forced to work to survive, and part of the produce of their labor is taken by their employers as profit.
+
+24:09.000 --> 24:17.000
+And that's what, you know, Marxists would call surplus value, the difference between the wage you're given and the value you're producing through your labor.
+
+24:17.000 --> 24:25.000
+So when you think about, let's take Facebook as an example, Facebook users don't get a wage and you couldn't really describe what they're doing as work, right?
+
+24:25.000 --> 24:27.000
+Traditionally understood, it's not labor.
+
+24:27.000 --> 24:40.000
+So what I do is I return to this debate that was happening in the kind of late 1990s and early 2000s about cultural production in the digital economy and this idea of free labor.
+
+24:40.000 --> 24:54.000
+So there was an Italian theorist called Tiziana Terranova, who argued that internet users are producing content and are therefore engaged in a value creating activity that we could call free labor.
+
+24:54.000 --> 25:05.000
+So it's a way, you know, a first step towards trying to integrate these new forms of cultural production into a kind of Marxist framework for understanding what was going on.
+
+25:05.000 --> 25:16.000
+So, you know, companies like AOL, you know, this is a long time ago now, were finding ways to basically make money off communities of users.
+
+25:16.000 --> 25:21.000
+So internet users produce content and the companies found ways to make profit from it.
+
+25:22.000 --> 25:37.000
+And what I argue in the book is that it doesn't really make sense to see these forms of cultural production, particularly the kind of average activities of a social media user through the lens of labor and Marxist theory of exploitation.
+
+25:37.000 --> 25:39.000
+It's not really work.
+
+25:39.000 --> 25:40.000
+People aren't forced to work.
+
+25:40.000 --> 25:42.000
+They aren't controlled in the same way.
+
+25:42.000 --> 25:45.000
+There isn't the same element of coercion.
+
+25:45.000 --> 25:51.000
+You're not forced, you know, for your very survival to spend eight hours of your day on Facebook.
+
+25:51.000 --> 25:55.000
+But I think we can still see this relationship as exploitative.
+
+25:55.000 --> 25:59.000
+But we need a kind of new way of understanding how this happens.
+
+25:59.000 --> 26:03.000
+And this is why I thought of this term user generated profit.
+
+26:03.000 --> 26:14.000
+So in the advertising model of digital capitalism, users freely give up their data that companies then harvest to generate billions of dollars in ad revenue.
+
+26:14.000 --> 26:16.000
+And so how is this exploitation?
+
+26:16.000 --> 26:22.000
+Well, to exploit someone is to take unfair advantage of them and use them in some way for your benefit.
+
+26:22.000 --> 26:34.000
+So Facebook and some of these other social media companies have organized this like digital pyramid scheme in which most of us are paid in likes and Facebook gets all the profits.
+
+26:34.000 --> 26:42.000
+So you can see Facebook as this kind of paradigmatic model of an extractive business that is literally feeding off its community of users.
+
+26:42.000 --> 26:54.000
+And I think the key to understanding why this is exploitative is to look at the structural power asymmetries between the platform owners and investors on the one hand and their users on the other.
+
+26:54.000 --> 27:00.000
+And I already mentioned this term in the enclosure of the digital commons.
+
+27:00.000 --> 27:24.000
+And I think there is an important historical analogy here between the early process of the kind of 16th, 17th century where you had landlords and colonists enclosing plots of land and privatizing it, taking it from the commons and what started to happen on the internet in the 90s and 2000s.
+
+27:24.000 --> 27:44.000
+And we could say that Facebook and other even earlier internet companies, and I mentioned AOL, found ways to commodify a digital commons, to enclose it and to take these new communities that were forming online and basically find ways to generate profit from the communities.
+
+27:44.000 --> 27:49.000
+And I think it's important to know that Facebook didn't invent online communities.
+
+27:49.000 --> 27:52.000
+They didn't invent message boards or social networks.
+
+27:52.000 --> 28:00.000
+It was a relatively simple piece of software that kind of appeared on the scene at a moment when the ideas time had come.
+
+28:00.000 --> 28:02.000
+There were others that were doing the exact same thing.
+
+28:03.000 --> 28:09.000
+One of his old business associates kind of sued him for stealing his idea purportedly.
+
+28:09.000 --> 28:23.000
+But this whole business model is about value being generated by a social collective, which is appropriated by a largely unproductive group of owners and investors who are benefiting from the user's activity.
+
+28:23.000 --> 28:30.000
+And hence the term user generated profit to describe how this kind of exploitation works.
+
+28:30.000 --> 28:51.000
+And I think before we get to the constructive part of how alternatives could look like, it's still important to stay a little bit more in the realm of critique, because I really like the way in which you point out the essential flaws in Shoshana Zuboff's line of argument in the age of surveillance capitalism.
+
+28:51.000 --> 29:01.000
+And since it is an incredibly influential take on the topic of data and I mean, of course, surveillance capitalism is in itself now a standing term.
+
+29:01.000 --> 29:09.000
+Could you explain why surveillance capitalism fails to actually address the core problems that you just described?
+
+29:09.000 --> 29:22.000
+Yeah, so Zuboff's The Age of Surveillance Capitalism, I think, did a really amazing job when it came out of selling itself to broad sections of the left as a critique of digital capitalism.
+
+29:22.000 --> 29:28.000
+And you'll hear many people talking about surveillance capitalism, you know, and really taking up that framework.
+
+29:28.000 --> 29:40.000
+But I think what really flew under the radar was the fact that this wasn't really a critique of capitalism at all, but really a plea ultimately for a kind of softer, more gentle kind of capitalism.
+
+29:40.000 --> 29:43.000
+It's a critique of surveillance technology.
+
+29:43.000 --> 29:59.000
+But I think what it fails to see is how the very logic of companies like Facebook and Google is, as we've been saying, in fact, a continuation of a logic of extraction and commodification, which is inherent in capitalism itself.
+
+29:59.000 --> 30:09.000
+So surveillance capitalism is just capitalism with some new toys, not some kind of weird aberration of a kind of capitalism gone wrong or gone rogue.
+
+30:09.000 --> 30:24.000
+But, you know, credit where credit's due, I think what the book does really well is give you quite an accurate sociological description of what we could call the advertising platform model, where platforms attract users through offering these tools and software that people
+
+30:24.000 --> 30:32.000
+like, and then collecting data based on people's use of the platform to create these targeted advertising products to sell to businesses.
+
+30:32.000 --> 30:41.000
+And I think it does this very well. I think it really does a great job of showing how this developed at Google and then how it spread to Facebook and other other companies.
+
+30:41.000 --> 30:48.000
+What it doesn't do as well is really situating this within broader trends of capitalist development.
+
+30:48.000 --> 30:59.000
+So rather than, you know, seeing this as a continuation of the expansion of capitalist markets and the pursuit of profit and this kind of new way in which companies could could extract value from users.
+
+30:59.000 --> 31:07.000
+You know, Google's activities are kind of put down to this surveillance imperative, which is like a self-reinforcing drive.
+
+31:07.000 --> 31:13.000
+People have to surveil for surveillance's sake to collect data for, yeah, for its own end, basically.
+
+31:13.000 --> 31:24.000
+And I think this this kind of way of operating is then depicted as some kind of rogue mutation of capitalism that, you know, ultimately could potentially be redirected.
+
+31:24.000 --> 31:42.000
+I mean, Zuboff isn't that big on solutions or proposals, but ultimately she, you know, there is this this specter of what she calls an advocacy oriented capitalism that is kind of lurking in the background in which businesses are trying to satisfy consumer demand.
+
+31:42.000 --> 31:45.000
+They're trying to develop better products.
+
+31:45.000 --> 31:56.000
+And there's this kind of virtuous cycle between businesses satisfying the consumer and consumers, you know, getting what they want out of the transaction.
+
+31:56.000 --> 32:05.000
+And I think something else that doesn't get really picked up on that much with Zuboff's framework is that it's only really describing one very particular type of platform.
+
+32:05.000 --> 32:11.000
+So this advertising model doesn't really have much to say about all of these other aspects of the digital economy.
+
+32:11.000 --> 32:17.000
+So, you know, is is a company like Uber within the surveillance capitalism paradigm?
+
+32:17.000 --> 32:23.000
+I mean, they're collecting data off, you know, their workers and customers.
+
+32:23.000 --> 32:28.000
+They're not selling advertising products or at least it's not the main source of their revenue.
+
+32:28.000 --> 32:32.000
+So to what extent does that kind of fit within the picture?
+
+32:32.000 --> 32:43.000
+And I think the real danger here is that when we use the surveillance capitalism framework to talk about these issues, I think we obscure the fact that this is capitalism kind of operating as it should.
+
+32:43.000 --> 32:59.000
+And as it always has expanding the logic of the market, expanding the capitalization of human life rather than than some kind of freak exception that we could kind of roll back the clock on.
+
+32:59.000 --> 33:11.000
+So I think what technology of social media platforms and transaction platforms allows is for these forms of commodification to sink even deeper into everyday life.
+
+33:11.000 --> 33:22.000
+And I think we really have to understand that this is kind of has been the plan all along, that this is just capitalism doing what it should do.
+
+33:23.000 --> 33:42.000
+And I think it's simply really important that if you encounter like proposals within the mainstream left, that you look towards how far they actually allow themselves to go in within the analysis and whether or not they allow themselves to ask if this is actually the case.
+
+33:42.000 --> 33:57.000
+What you just described that capitalism is in this sense working as it should and that this analysis will lead you to basically the question how to address the problems that we see on a more fundamental level.
+
+33:57.000 --> 34:08.000
+And there are some proposals on the mainstream left that are quite popular that still do not really take on this question in a serious way.
+
+34:08.000 --> 34:19.000
+And some of the examples for this are the so-called new deal on data or, for example, boycott of big tech or breaking up big tech.
+
+34:19.000 --> 34:22.000
+But still, this is not enough, you say.
+
+34:22.000 --> 34:29.000
+Why do these proposals also fall short of making a really fundamental difference in the end?
+
+34:29.000 --> 34:37.000
+Yeah, I think one of the main points I'm trying to get across to the book is that most of our current responses within mainstream discourse are insufficient.
+
+34:38.000 --> 34:43.000
+Or don't deal with what I think are the main problems of ownership and control.
+
+34:43.000 --> 34:46.000
+So let me take two dominant approaches as examples.
+
+34:46.000 --> 34:51.000
+I'll talk about like a tech humanist response and this anti-monopoly agenda, which is so big.
+
+34:51.000 --> 34:57.000
+So I think the first is more prominent in like everyday discourse when people are talking about technology in their everyday lives.
+
+34:57.000 --> 35:06.000
+And the second one is kind of more prominent at like a governmental level, thinking about how states and regulatory bodies should react to big tech.
+
+35:06.000 --> 35:16.000
+So the first, the humanist critique tells us that we're being psychologically manipulated by big tech, that we're like rats in the cage,
+
+35:16.000 --> 35:22.000
+we're automatons that have been programmed by these soft nudges that social media platforms can give us.
+
+35:22.000 --> 35:32.000
+So think of like the example of the tech insider turned critic Tristan Harris, this guy who was one of the stars of the Netflix show The Social Dilemma,
+
+35:32.000 --> 35:41.000
+who was a previous employee in one of the big tech companies and talks about how our brains are being hijacked.
+
+35:41.000 --> 35:50.000
+And I think this is really one important angle and one important way in which people are used to talking about the problems of big tech and technology.
+
+35:50.000 --> 36:01.000
+Because the underlying point here is that our human autonomy is under threat, that somehow these companies are finding ways to circumvent our ability to make rational choices.
+
+36:01.000 --> 36:06.000
+I think this really came across in the Netflix show, which also featured Zuboff, right?
+
+36:06.000 --> 36:11.000
+I think there is a kind of very humanist critique to her framework as well.
+
+36:11.000 --> 36:21.000
+And I think the problem with this kind of way of looking at things is that ultimately it tends to be reduced to more ethical and humane uses of technology
+
+36:21.000 --> 36:29.000
+that doesn't really identify the structural factors for why companies develop these technologies in the first place.
+
+36:29.000 --> 36:38.000
+And I think a lot of the solutions that end up getting offered are framed in terms of you should turn off your social media platform.
+
+36:38.000 --> 36:44.000
+You should use it less. You should exercise your consumer choice. We should try and get companies to do better.
+
+36:44.000 --> 36:58.000
+We need more ethical CEOs. And often those calling for these changes are doing so from within the exact same mindset and worldview of the companies that caused the problems in the first place.
+
+36:58.000 --> 37:11.000
+It's often people deep within the tech industry who probably played a role in inventing a lot of these things, looking for a late career change, who want to kind of start their own NGO or think tank.
+
+37:11.000 --> 37:18.000
+And so I think the humanist critique also avoids talking about really important economic questions.
+
+37:18.000 --> 37:23.000
+Who owns the platforms? Who gets to control them? How are users exploited?
+
+37:23.000 --> 37:38.000
+And so I think there's this real individualizing aspect to this kind of humanist critique that ultimately tends to move towards this individual choice paradigm.
+
+37:38.000 --> 37:47.000
+And so, yeah, I think that that is quite limited in how we need to talk about the problem of technology and tech companies.
+
+37:47.000 --> 37:54.000
+The second critique I have a lot more time for, the anti-monopoly critique.
+
+37:54.000 --> 38:07.000
+And people who are kind of working within this paradigm think that we need tighter regulations for big tech, particularly the kind of anti-competitive practices that big tech companies engage in.
+
+38:07.000 --> 38:16.000
+So when they act as gatekeepers, when they form these big conglomerates and try and control digital markets in various ways.
+
+38:16.000 --> 38:24.000
+And I think the anti-monopoly critic thinks that the tech companies are squeezing out the little guys.
+
+38:24.000 --> 38:29.000
+And the aim here is to kind of restore competition to the tech sector.
+
+38:29.000 --> 38:40.000
+And if, you know, for example, the UK's Competition and Markets Authority recently blocked Metta's acquisition of Giphy.
+
+38:40.000 --> 38:47.000
+And we can also see in Europe, the EU just voted to pass the Digital Markets Act, which, you know, is coming into force.
+
+38:47.000 --> 38:53.000
+And there's also just worldwide, there's, I think, like over 70 anti-trust cases against big tech.
+
+38:53.000 --> 38:56.000
+So it's a really big agenda.
+
+38:56.000 --> 39:02.000
+And I think, you know, this has a lot of merit to it, like tech companies clearly do need more regulation.
+
+39:02.000 --> 39:05.000
+They do need more oversight.
+
+39:05.000 --> 39:08.000
+Some of them are too big and too powerful, right?
+
+39:08.000 --> 39:20.000
+But I think one of the problems with really focusing on this idea of like breaking up big tech is that if you did break up the conglomerates, it wouldn't necessarily be a good thing for users or for us.
+
+39:20.000 --> 39:25.000
+You know, what would happen if there were like 10 different Facebooks?
+
+39:25.000 --> 39:28.000
+They'd probably not be interoperable.
+
+39:28.000 --> 39:33.000
+It's not really the same as like utilities companies who have to kind of compete for your service.
+
+39:33.000 --> 39:37.000
+The whole point of a social network, right, is that it's international in its scope.
+
+39:37.000 --> 39:45.000
+You don't want like a Midwestern Facebook versus like, you know, Australian Facebook and for them to have difficulty communicating.
+
+39:45.000 --> 40:00.000
+But I think the other and more important issue is that even if you do separate these big tech companies into separate smaller companies, they're still going to be structurally incentivized to operate in a very similar manner.
+
+40:00.000 --> 40:05.000
+Because the problem isn't that their CEO is unethical, although they may be.
+
+40:05.000 --> 40:19.000
+The problem is that it's a for-profit business that within the digital economy is incentivized to use the digital infrastructure to maximize user engagement and to prioritize the profits of the company above other considerations.
+
+40:19.000 --> 40:29.000
+And I think these kind of structural incentives and how the markets operate really needs to be put front and center.
+
+40:29.000 --> 40:35.000
+And so there is, but as I said, there is a kind of positive aspect of this anti-monopoly agenda.
+
+40:35.000 --> 40:43.000
+I think we should support the kinds of regulations and lawsuits that are being brought against big tech.
+
+40:43.000 --> 40:56.000
+But I think you do need to kind of clearly separate the point at which there can be a certain strategic alliance with, you know, largely with liberals on these issues and where that alliance begins to break down.
+
+40:56.000 --> 41:02.000
+Because the end goal for us on the left isn't it's not about restoring competition in markets.
+
+41:02.000 --> 41:13.000
+It's about reversing the commodification and privatization of the Internet and creating more spaces of social ownership, more spaces for democracy and for economic democracy.
+
+41:13.000 --> 41:26.000
+And so when you turn to these ideas of like a new deal on data, you know, people are talking about the need to create more individual property rights around people's personal data.
+
+41:26.000 --> 41:42.000
+And I think the problem with this approach is that there's a real risk here of entrenching, you know, a model which is only beginning to take shape while simultaneously making it more difficult to introduce any kind of other social alternatives.
+
+41:42.000 --> 42:01.000
+So when you think about proposals for like, for example, for data dividends, you know, an individual who uses some kind of tech software should be reimbursed, you know, a few cents or a few pennies for every photo they upload or every piece of data that the company can profit from.
+
+42:01.000 --> 42:09.000
+I think these proposals for data dividends, well, firstly, they don't do anything to contest the corporation's right to harvest the data in the first place.
+
+42:09.000 --> 42:15.000
+It's like, well, you know, the data harvesting is going to take place. You do want to be paid a few cents or don't you?
+
+42:16.000 --> 42:35.000
+And I think what the risk here is that it creates this new revenue stream for individuals and that it pushes us further into this world in which every thought we have, every emotion we express online is kind of partially oriented towards who might buy it on a data market.
+
+42:35.000 --> 42:44.000
+And I think that is a kind of world that we're seeing more and more with like influences and, you know, creators on platforms.
+
+42:44.000 --> 42:55.000
+And I'm not sure it's one that is particularly appealing or one that we want to, you know, to work towards that it's, again, it's an individual, individualized approach to the problems.
+
+42:55.000 --> 42:59.000
+It's not pushing towards forms of collective or social control over what's happening.
+
+42:59.000 --> 43:04.000
+It's not pushing or creating any new forms of solidarity between people.
+
+43:04.000 --> 43:23.000
+And you're just going to see the same inequalities emerge and it's going to reinforce existing inequalities, you know, between users in the global south and users in the global north whose data and whose value to the companies is going to be very different.
+
+43:23.000 --> 43:39.000
+Right. So I think the user, so the revenue that users generate for companies like Facebook in North America is like 10 times the kind of value and revenue they generate for the company in places like, you know, South Asia.
+
+43:39.000 --> 43:43.000
+So it's huge inequalities that might open up there as well.
+
+43:44.000 --> 43:49.000
+Yeah, so we definitely do need structural alternatives.
+
+43:49.000 --> 43:53.000
+So let's move on from the critique to the more interesting stuff.
+
+43:53.000 --> 44:06.000
+So the question of how platform socialism could actually be organized is, of course, a huge one when it comes to the fundamental principles of platform socialism.
+
+44:07.000 --> 44:08.000
+And I quote you here.
+
+44:21.000 --> 44:32.000
+This is really interesting to me because all too often people nowadays tend to present some version of the strong state as if it was a desirable alternative.
+
+44:32.000 --> 44:43.000
+I do not think so, but you use the work of GDH Cole and Otto Neurath as inspiration to think about a guilt socialism of the digital economy.
+
+44:43.000 --> 44:51.000
+What is the basic organizational structure and what are the core principles you derive from these authors?
+
+44:51.000 --> 44:58.000
+Maybe let's start with Cole's libertarian socialist perspective and then move on to Neurath.
+
+44:58.000 --> 45:02.000
+What does GDH Cole's thinking bring to the table?
+
+45:02.000 --> 45:07.000
+So, yeah, I do have a chapter called Guild Socialism for the Digital Economy.
+
+45:07.000 --> 45:17.000
+It's meant to be kind of like a joke because guilt socialism is like this, like very seemingly antiquated, like forgotten idea on the left.
+
+45:17.000 --> 45:25.000
+And to think that it would kind of have a way of talking to people interested in the digital economy, you know, some people might doubt that.
+
+45:25.000 --> 45:35.000
+But one of the main contributions of the book is to revive the ideas of GDH Cole and the guild socialists as a way for us to rethink certain aspects of digital platforms.
+
+45:35.000 --> 45:47.000
+And there's a chapter based on Cole and Neurath's work, which tries to set out how we could democratize platforms and foster new forms of decentralized government.
+
+45:47.000 --> 45:57.000
+So Cole was a guild socialist who joined the Fabian Society, which is a British socialist organization that was founded in the 1880s.
+
+45:57.000 --> 46:02.000
+And it kind of helped found the British Labour Party.
+
+46:02.000 --> 46:11.000
+But Cole became a critic of the Fabian's tendency to think more in terms of like top down and state led forms of nationalization.
+
+46:11.000 --> 46:23.000
+And I think, you know, Cole's critique of the Fabian Society and of kind of like the British Labour movement at the time is that he thought that there wasn't enough room for workplace democracy,
+
+46:23.000 --> 46:29.000
+for forms of local decision making and self-government at the level of the workplace.
+
+46:29.000 --> 46:34.000
+So he kind of becomes this critic of status forms of socialism.
+
+46:34.000 --> 46:44.000
+And, you know, the guild socialists and the Fabians engage in these really, you know, fierce debates in the kind of 1910s and 20s.
+
+46:44.000 --> 46:49.000
+Because Cole thought that, you know, you can't just have top down forms of nationalization.
+
+46:49.000 --> 46:55.000
+You don't want to just replace capitalist owners with distant bureaucrats, right?
+
+46:55.000 --> 47:02.000
+So guild socialism emerges during the First World War and kind of has a brief moment in the 1920s.
+
+47:02.000 --> 47:10.000
+And essentially what it is, is like a more decentralized and federalist alternative within British socialism.
+
+47:10.000 --> 47:17.000
+So the kind of main current of British socialism has usually been quite a centralized form of socialism.
+
+47:17.000 --> 47:26.000
+And Cole develops this critique of the Fabians that we could call it an associational socialism, for lack of a better word.
+
+47:26.000 --> 47:32.000
+I know that's a bit of a mouthful. I think in the book, I actually call it an associational democracy.
+
+47:32.000 --> 47:35.000
+But basically, it's this kind of critique of the Fabians.
+
+47:35.000 --> 47:47.000
+And really what it's about is that for Cole, all major institutions and associations from like firms and workplaces to universities and cultural institutions,
+
+47:47.000 --> 47:51.000
+all of these should have an internal democratic structure.
+
+47:51.000 --> 48:01.000
+So they should also all have processes through which individuals can have the ability to both elect representatives and have a direct say in how they're operated.
+
+48:01.000 --> 48:14.000
+So it's about trying to expand the principles of democracy from like what he saw as a very narrow political sphere to a much broader application of these principles to other institutions in social life.
+
+48:14.000 --> 48:22.000
+So he wanted a much more participatory society, you know, in which the role of the state is vastly diminished.
+
+48:22.000 --> 48:35.000
+It's very reduced and a kind of series of producer and consumer and municipal associations are jointly responsible for coordinating different aspects of social life.
+
+48:35.000 --> 48:44.000
+So the state kind of gets demoted. It's made as kind of one insert, one coordinating agency in a larger ensemble.
+
+48:44.000 --> 48:51.000
+And this larger ensemble is kind of in, you know, is constituted by internally democratic associations.
+
+48:51.000 --> 49:00.000
+So the state or the coordinating body, he begins to call the national commune, you know, using the language of the Paris Commune.
+
+49:00.000 --> 49:06.000
+And he really starts to think about how do you create a more participatory democratic society?
+
+49:06.000 --> 49:10.000
+How do you distribute these new forms of governance to these different institutions?
+
+49:10.000 --> 49:16.000
+And the real aim of all of this is about giving individuals more control over how their lives operate.
+
+49:16.000 --> 49:27.000
+It's about finding new forms of arrangements to take that control back and try and decentralize and devolve power in various ways.
+
+49:27.000 --> 49:31.000
+So I think we can, you know, to start with, how does this relate to digital platforms?
+
+49:31.000 --> 49:40.000
+Well, I think we can think of platforms as bringing together these kinds of communities and associations that make up social life.
+
+49:40.000 --> 49:47.000
+And of course, there's a diverse range of communities, so they have to be owned and governed in different ways.
+
+49:47.000 --> 49:57.000
+But I think the underlying principle here that we can take from coal and apply to the digital economy is thinking about how do we make these communities more democratic?
+
+49:57.000 --> 50:04.000
+And I think what guild theory really points us towards is a focus on the functions performed by each platform.
+
+50:04.000 --> 50:12.000
+So we have to tailor the democratic structures to reflect the functions the platform performs.
+
+50:12.000 --> 50:15.000
+I think that's the starting point.
+
+50:15.000 --> 50:17.000
+Could you maybe give an example?
+
+50:17.000 --> 50:25.000
+Because, I mean, there's a whole range of ways that one could think about what democratic actually means.
+
+50:25.000 --> 50:36.000
+So maybe could you give us an example where the way in which the specific association is organized is derived from its specific function?
+
+50:36.000 --> 50:43.000
+Because I think this is a very interesting way to phrase it and kind of intuitively makes sense somehow.
+
+50:43.000 --> 50:55.000
+But still, it's not within my imaginative reach immediately to have an understanding of how this could look like in very concrete terms.
+
+50:55.000 --> 51:00.000
+Yeah, well, I think you need to look at a few different questions, right?
+
+51:00.000 --> 51:04.000
+And there's going to be a few different things that come in here.
+
+51:04.000 --> 51:12.000
+But one of them is like the level that the platform would need to operate based on the kind of community that it has, right?
+
+51:12.000 --> 51:16.000
+Is it a community that is locally and geographically bound?
+
+51:16.000 --> 51:24.000
+Is it, for example, like a bike courier service that necessarily is only going to serve people within biking distance?
+
+51:24.000 --> 51:34.000
+Or is it an international social network, which necessarily is going to require a community that expands beyond the bounds of the nation state?
+
+51:34.000 --> 51:38.000
+So I think there is one question here of like the level that it operates on.
+
+51:38.000 --> 51:46.000
+There's a second question of the kind of services or the kind of business that the platform offers.
+
+51:46.000 --> 51:56.000
+So is it a platform marketplace where service providers are trying to locate clients and vice versa?
+
+51:56.000 --> 52:01.000
+Or is it, for example, like an Internet search engine?
+
+52:02.000 --> 52:06.000
+So different platforms perform different functions.
+
+52:06.000 --> 52:18.000
+And I think we need to tailor the kinds of democratic structures to reflect both the level at which it could operate and the different functions that it performs.
+
+52:18.000 --> 52:22.000
+And what I try to do in the book is give concrete examples.
+
+52:22.000 --> 52:26.000
+So, for example, there's like, you know, a ride hail app.
+
+52:26.000 --> 52:29.000
+There's a kind of short term accommodation service.
+
+52:29.000 --> 52:37.000
+There's like a socialist search engine and really try and, you know, give some details to how this this might operate.
+
+52:37.000 --> 52:47.000
+And, you know, drawing from Cole, again, I want to move to kind of questions, you know, trying to set up a framework for thinking about these questions of ownership and control.
+
+52:47.000 --> 52:54.000
+What I really take from Cole is this pluralist approach to democratic platform governance.
+
+52:54.000 --> 53:02.000
+So when we're thinking about how would platforms be owned and operated, I don't think there's any single model.
+
+53:02.000 --> 53:12.000
+Right. So I think when when guild socialism tells us to look to the function that the community performs, I think this necessarily leads us to thinking about like,
+
+53:12.000 --> 53:28.000
+how do we cultivate an ecosystem of alternative social ownership models, you know, that stretch from the kind of local level of the small scale worker cooperatives to a kind of larger community, to municipal owned services,
+
+53:28.000 --> 53:40.000
+right up to the kind of national and international levels, because I think that allows us to then look at these different kinds of models for how platforms could be operated
+
+53:40.000 --> 53:43.000
+and not try to have a one size fits all.
+
+53:43.000 --> 54:00.000
+And so when you're thinking about this pluralist approach to democratic platform governance, I think there's some really good lessons from the, for example, the socialization debates that occurred in Germany around the time of the German Revolution and a bit before and after.
+
+54:00.000 --> 54:13.000
+And I think reading these debates helps us to first of all, to identify two equally undesirable options for how to democratize platforms and then to help us think about what the specific models could look like.
+
+54:13.000 --> 54:18.000
+So firstly, let's talk about what the, you know, the undesirable options are.
+
+54:18.000 --> 54:26.000
+I think the first undesirable option is, you know, what Cole identifies as these top down managerial forms of nationalization.
+
+54:26.000 --> 54:31.000
+You know, and during when the pandemic first started, people were like, oh, we need to nationalize Amazon.
+
+54:31.000 --> 54:41.000
+We need to nationalize, you know, these digital infrastructure and these kinds of big picture nationalization projects are really what dominated the 20th century.
+
+54:41.000 --> 54:46.000
+And I think when people think of socialism, they naturally think of big state owned industries.
+
+54:46.000 --> 54:50.000
+And I think there's a good reason why their mind turns to that.
+
+54:50.000 --> 54:57.000
+But for Cole, the problem with some of these efforts is that they didn't guarantee greater worker participation.
+
+54:57.000 --> 55:01.000
+They don't give you necessarily forms of workplace democracy.
+
+55:01.000 --> 55:07.000
+And they don't always entail kind of new forms of local decision making.
+
+55:07.000 --> 55:15.000
+So workers having control over how their workplaces are organized, having a lot of these functions devolve to a more local level.
+
+55:15.000 --> 55:31.000
+And so I think that's a big weakness when we conceive of socialism exclusively in terms of nationalization, which I think, you know, maybe there will be nationalized industries or organizations, but I don't think that's the end point of the discussion.
+
+55:31.000 --> 55:42.000
+And the second option that I think is also, you know, going too far in the other direction is when we think about socialism as just turning workplaces directly over to their workers.
+
+55:42.000 --> 55:46.000
+And this is an idea that is associated with some forms of syndicalism.
+
+55:46.000 --> 55:49.000
+And I think there are two main problems here.
+
+55:49.000 --> 55:55.000
+And the first is with inequalities that would emerge between different industries and workplaces, right?
+
+55:55.000 --> 56:07.000
+Because some workers, like if you're at Google and, you know, however many employees are at Google adopt the kind of direct control over the whole organization,
+
+56:07.000 --> 56:14.000
+they're going to have a lot more power than, for example, someone working at like a bike courier service in their local neighborhood.
+
+56:14.000 --> 56:30.000
+And what the fear was in these socialization debates is that, you know, this would encourage workers or give some workers the possibility of kind of like exploiting others and using their greater power to kind of achieve their own ends.
+
+56:30.000 --> 56:47.000
+But I think there's a second issue that wasn't as prominent in the debates, but I think is probably even more important, which is the inequalities that would emerge between those engaged in full-time paid work and others who did maybe unpaid voluntary or care work, right?
+
+56:47.000 --> 56:57.000
+Because I think the more you locate political power at the level of the workplace, the more these kinds of exclusions tend to crop up.
+
+56:57.000 --> 57:04.000
+And then this kind of workerist vision of the early 20th century wasn't very good at accounting for these kinds of problems.
+
+57:04.000 --> 57:07.000
+They're not particularly good on questions of gender.
+
+57:07.000 --> 57:18.000
+They're not particularly good on, for example, unemployed people at the time and how they would be facilitated within these kinds of councils.
+
+57:18.000 --> 57:20.000
+So I think there's a big problem there.
+
+57:20.000 --> 57:41.000
+And some of the better theoretical responses to this socialization dilemma involve combining, you know, forms of local democracy and decision making with broader coordinating institutions that also operated at like a higher level, at like a regional level and a national level.
+
+57:41.000 --> 57:50.000
+And these kinds of more pyramidal structures is what started to get developed by some of the Austrian Marxists.
+
+57:50.000 --> 57:56.000
+So people like Otto Bauer and get adopted by, you know, many of the Germans.
+
+57:56.000 --> 58:02.000
+So like Karl Kautsky, who's one of the leading theorists of German social democracy in the early 20th century.
+
+58:02.000 --> 58:13.000
+I think this is where you get to these proposals that start to look like a kind of federal structure with functions performed at different levels of the hierarchy.
+
+58:13.000 --> 58:22.000
+And I think if we think about what the digital economy could look like, you know, let's start at the local level.
+
+58:22.000 --> 58:31.000
+It would probably start with smaller and medium firms being owned by their workers, having these, you know, what's sometimes called platform cooperatives.
+
+58:31.000 --> 58:40.000
+So if you think of examples like on demand courier services or domestic workers and care workers, perhaps some of these could be run by workers.
+
+58:40.000 --> 58:54.000
+Right. So that that could be an adequate starting point for certain types of digital businesses, you know, ones that don't require many overheads that might not require a huge amount of investment in digital infrastructure.
+
+58:54.000 --> 58:59.000
+I think the starting point for digital platforms could be these work around businesses, but that couldn't be the end of the discussion.
+
+58:59.000 --> 59:09.000
+Right. So I think firstly, you could have structures set up for municipal associations to support these services and these businesses.
+
+59:09.000 --> 59:14.000
+So that might want to give them things like access to spaces, to office space.
+
+59:14.000 --> 59:22.000
+They might have access to like loans or training programs or some kind of support services that might help them.
+
+59:22.000 --> 59:31.000
+But then you'd also see the need for larger platforms and larger organizations to be run by different types of organizations.
+
+59:31.000 --> 59:39.000
+And this is where I think you start to think about the function that the platform performs and the level of capital and investment that would be required to do it.
+
+59:39.000 --> 59:47.000
+So when you think of something like a ride hail app, it's very difficult for a small workers' co-op to run something like this.
+
+59:47.000 --> 01:00:03.000
+Right. If you think of like a huge citywide short term rental service, these start to be the kind of things, these projects that are kind of probably because of their function, better run by a municipality or city association.
+
+01:00:04.000 --> 01:00:12.000
+Organizations that have a budget to provide the infrastructure that have a kind of more stable governance structure.
+
+01:00:12.000 --> 01:00:25.000
+And it's about thinking about what forms of social ownership within this ecosystem that we've been discussing are best suited to the particular service that the platform's providing.
+
+01:00:25.000 --> 01:00:40.000
+I think one more important point about digital platforms, you know, you're talking about concrete examples, is that unlike more traditional forms of community that are kind of typically geographically bound, it's like a local neighborhood or something,
+
+01:00:40.000 --> 01:00:48.000
+digital platforms have this unique attribute of bringing together very diverse communities, right, sometimes from across the world.
+
+01:00:48.000 --> 01:00:58.000
+And also communities that sometimes have very opposing interests, you know, they bring together like consumers and producers, clients and service providers.
+
+01:00:58.000 --> 01:01:05.000
+And, you know, sometimes there are these opposing interests in how the platform should be operated, right.
+
+01:01:05.000 --> 01:01:19.000
+And I think platforms like this could benefit from what's called like a multi-stakeholder governance, where different parts of the community have a percentage share in the governance of the organization.
+
+01:01:19.000 --> 01:01:40.000
+So to give you one concrete example, an organization like Resonate, which is a platform that does stream to own music, now what they do is they divide their governance between artists, listeners and workers who kind of have a 45-35-20 split in the governance of the organization.
+
+01:01:40.000 --> 01:01:51.000
+And this type of multi-stakeholder governance is kind of quite suited to digital platforms because of the kinds of communities they bring together.
+
+01:01:51.000 --> 01:01:58.000
+And it could potentially enable diverse communities to have a say in how a platform is operated.
+
+01:01:58.000 --> 01:02:03.000
+You did a pretty good job in describing the subsidiarity principle in place.
+
+01:02:03.000 --> 01:02:12.000
+And this really helps to imagine how there could be a what you call ecosystem of different levels and approaches.
+
+01:02:12.000 --> 01:02:24.000
+Otto Neurath proposed a specific type of participatory planning that you use to inspire your thinking about how this could be approached.
+
+01:02:24.000 --> 01:02:35.000
+Could you maybe explain to us some of the elements you find useful in his work and how a planning process in associational socialism might actually look like?
+
+01:02:35.000 --> 01:02:40.000
+Yeah, so Otto Neurath was an Austrian philosopher and economist.
+
+01:02:40.000 --> 01:02:43.000
+And he's also ran during a kind of similar time to Kohl, right?
+
+01:02:43.000 --> 01:02:46.000
+So in the early 20th century, right up to the Second World War.
+
+01:02:46.000 --> 01:02:50.000
+And he's one of the participants in the socialist calculation debate.
+
+01:02:51.000 --> 01:03:00.000
+It was actually his ideas around socialization that prompted Ludwig von Mises to write his critical reply, which really kicked things off.
+
+01:03:00.000 --> 01:03:10.000
+Neurath is a person that I think can really teach us a lot about questions of planning and the importance of democracy to that.
+
+01:03:10.000 --> 01:03:15.000
+So Neurath is an admirer of Kohl and the Guild of Socialists.
+
+01:03:15.000 --> 01:03:20.000
+He is inspired by their ideas around associational socialism.
+
+01:03:20.000 --> 01:03:30.000
+And what Neurath really wanted to add to the picture was this emphasis on the importance of democratic planning for how a socialist economy could be organized.
+
+01:03:30.000 --> 01:03:42.000
+And we can turn to Neurath to think about how we might tackle some of these big picture system level challenges that we face, things like climate change, you know, response to global pandemics, this kind of thing.
+
+01:03:43.000 --> 01:03:56.000
+And so Neurath thought that the private ownership of capital or what we could call production goods, so goods that are going kind of into the production process to produce new consumer products,
+
+01:03:56.000 --> 01:04:02.000
+how these capital goods should be changed to a form of social ownership.
+
+01:04:02.000 --> 01:04:16.000
+And so what he's really after is to create a kind of democratic process for how we allocate resources, you know, at a societal level and invest in long term infrastructure and projects.
+
+01:04:16.000 --> 01:04:24.000
+So he didn't think that this should be something that should be left to kind of private operators, to billionaires and, you know, entrepreneurs.
+
+01:04:24.000 --> 01:04:31.000
+His point was that it's not just about establishing internally democratic organizations.
+
+01:04:31.000 --> 01:04:39.000
+We also need to start turning our attention to much larger questions of long term industrial and economic strategy.
+
+01:04:39.000 --> 01:04:49.000
+So his real project was to think about how these ideas and how these issues could be subjected to processes of deliberation.
+
+01:04:49.000 --> 01:04:59.000
+So we as a society need to discuss what is the best, you know, broad brush stroke allocation of very scarce resources.
+
+01:04:59.000 --> 01:05:09.000
+He didn't think this should just be left up to the chaos of the market or to the self-interested maneuvers of billionaires.
+
+01:05:09.000 --> 01:05:18.000
+And I think that it's a really overlooked part of, you know, important debate that's happened within the 20th century.
+
+01:05:18.000 --> 01:05:31.000
+And his contribution here is to point out that economic planning and the kind of function of markets is not simply about optimizing for efficiency in production.
+
+01:05:32.000 --> 01:05:39.000
+So when you read some of the neoclassical economists within this debate and, you know, ideas that are still kind of quite popular today,
+
+01:05:39.000 --> 01:05:45.000
+you get the idea that, you know, these kinds of economic questions are really not political questions at all.
+
+01:05:45.000 --> 01:05:50.000
+It's just about how we could achieve some kind of Pareto efficiency.
+
+01:05:50.000 --> 01:05:55.000
+So how can we achieve a kind of optimally allocated set of resources?
+
+01:05:56.000 --> 01:06:03.000
+And I think what Neurat really makes clear is that this kind of framework, when we talk about the economy in these terms,
+
+01:06:03.000 --> 01:06:13.000
+really disregards the fact that when we're allocating resources, we're making qualitative decisions about the kind of society we want to live in.
+
+01:06:13.000 --> 01:06:15.000
+You know, it's not just about efficiency.
+
+01:06:15.000 --> 01:06:24.000
+It's about genuine political decisions about living in this or that type of society, about what kinds of investments we want to make.
+
+01:06:24.000 --> 01:06:27.000
+Do we want to, you know, care for the elderly?
+
+01:06:27.000 --> 01:06:31.000
+Do we want to make sure that we have a planet we can live on in 50 years time?
+
+01:06:31.000 --> 01:06:35.000
+And these are irreducible to simple questions of efficiency.
+
+01:06:35.000 --> 01:06:45.000
+I think this is one of Neurat's main points, because he imagines an economic plan and the process of planning as creating a kind of blueprint
+
+01:06:45.000 --> 01:06:52.000
+or vision for a particular way of life and a particular kind of society we want in the future.
+
+01:06:52.000 --> 01:06:58.000
+So that's one really important aspect of his ideas that we can kind of return to today.
+
+01:06:58.000 --> 01:07:10.000
+And what he offers is this idea that, well, we need to establish new kinds of institutions that would allow us as a society to have deliberations on
+
+01:07:10.000 --> 01:07:20.000
+in order so that we could make conscious decisions about investment and about which kinds of economy, which kinds of sectors in the economy we want to grow.
+
+01:07:20.000 --> 01:07:23.000
+And where do we want to invest our money?
+
+01:07:23.000 --> 01:07:35.000
+And I think the only way to kind of do this is to start talking about quite radical things, to start talking about how large capital funds could be expropriated,
+
+01:07:35.000 --> 01:07:41.000
+to start talking about the fact that maybe we can't have billionaires in this kind of society.
+
+01:07:41.000 --> 01:07:53.000
+Maybe the large pools of capital and the large resources that we have need to be within democratic control, that we as a society should have processes to decide on this.
+
+01:07:53.000 --> 01:08:01.000
+And it shouldn't just be down to a handful of people to dictate to everyone else what kind of future we want to live in.
+
+01:08:01.000 --> 01:08:13.000
+And so this idea of platform socialism is really about thinking about how we can start to develop these kinds of processes and these kinds of institutions
+
+01:08:13.000 --> 01:08:20.000
+that will partly take into account the new kind of technical means that we have available to us, right?
+
+01:08:20.000 --> 01:08:22.000
+But I think there is an important point here, right?
+
+01:08:22.000 --> 01:08:29.000
+Because once again, just like Cole, Neurat also sees himself as a pluralist socialist.
+
+01:08:29.000 --> 01:08:40.000
+And so I think it's important to point out that he didn't see the kind of project of socialism as kind of molding everything to a single plan.
+
+01:08:40.000 --> 01:08:48.000
+When he talks about a plan or processes of planning and how plans could be created, this really is a kind of democratic and deliberative process.
+
+01:08:48.000 --> 01:09:00.000
+And I think you can distinguish some of Neurat's ideas, which might be more similar to what we could call like indicative planning from the kinds of centralized planning that were undertaken in the Soviet Union.
+
+01:09:00.000 --> 01:09:10.000
+And so I think Neurat is really clear that there needs to be a degree of tolerance and flexibility in how different parts of the economy are going to achieve these targets.
+
+01:09:10.000 --> 01:09:16.000
+It's really about trying to think about what kind of big picture targets we're going to make.
+
+01:09:16.000 --> 01:09:27.000
+What kinds of directions do we want to be moving in rather than everyone basically getting a sheet of paper of how they need to act in the next five years from some kind of central authority?
+
+01:09:27.000 --> 01:09:37.000
+So I think there are ways of kind of even opening Neurat's ideas themselves up to new forms of participatory processes, right?
+
+01:09:37.000 --> 01:09:55.000
+To new forms of decentralized forms of planning that we might be able to come up with, because I think even Neurat himself is kind of like, you know, a little bit taken up within this like early 20th century kind of quite centralized project of a kind of modernist mindset.
+
+01:09:55.000 --> 01:10:07.000
+And so I, in the book, talk about, you know, new forms of participatory planning that might look a bit more decentralized and a bit more similar to some of the things that Cole had in mind.
+
+01:10:08.000 --> 01:10:24.000
+But let's dig a little deeper there, because I think there's still, I mean, it's pretty easy to imagine these large scale infrastructure projects to be democratized.
+
+01:10:24.000 --> 01:10:43.000
+In some way, because this is a very, these are very concrete types of proposals that are put out there and deliberative process could be achieved in which you try to come to decisions in a way that is like broadly emancipatory.
+
+01:10:43.000 --> 01:11:03.000
+But I mean, there still is a lack of describing a mechanism that kind of tries to address the more meso level organization, the coordination between the different associations, the questions of how certain goods are actually allocated, how resources are allocated within these economies.
+
+01:11:03.000 --> 01:11:21.000
+Because, I mean, when you talk about Hayek in the book at the end of discussing the socialist calculation debate, you state that digital platforms make it easier than ever before to examine new ways of distributing resources through democratic methods, end quote.
+
+01:11:21.000 --> 01:11:28.000
+And I think this is obviously true, and we have to build up on this, but also it's kind of vague.
+
+01:11:28.000 --> 01:11:41.000
+So, I mean, there needs to be some kind of digital infrastructure in place, but this is only achievable by imagining an inherent principle.
+
+01:11:41.000 --> 01:12:10.000
+And it doesn't have to be one principle, but it has to be an idea of how this task of organizing the different semi-autonomous associations within societies, how to organize those between each other, between meso, micro and macro level and the different questions that go along with these huge tasks and questions.
+
+01:12:10.000 --> 01:12:24.000
+So I kind of understand the hint towards Neurath in terms of, okay, we need to have democratic structures all the way up and down and left and right, so to speak.
+
+01:12:24.000 --> 01:12:50.000
+So this is something that I absolutely share, but it still leaves open a lot of questions in terms of how economic planning could be approached in concrete terms beyond these large scale infrastructure projects, for example, and beyond the idea of having cooperatives on a smaller or middle or large scale.
+
+01:12:50.000 --> 01:13:10.000
+Because cooperatives, as you rightly point out at some point in the book, are still forced to compete with each other if they are organized within a political economy that still has markets, for example, or capital for that matter.
+
+01:13:10.000 --> 01:13:23.000
+Yeah, I think you're absolutely right. It's like one of the big problems is how do you connect the kind of lower local level with this big picture stuff? And it is a really important question. It's a really big problem.
+
+01:13:23.000 --> 01:13:41.000
+I think the answer lies for this kind of system in kind of forms of negotiated coordination that would take place between federal bodies. And I think it's kind of like it's necessarily going to be a bit of a messy process.
+
+01:13:41.000 --> 01:13:50.000
+But I think we can talk a little bit about what that might look like. You seem to be after some kind of concrete description of what those mechanisms might be.
+
+01:13:50.000 --> 01:14:04.000
+I think Hayek is an important interlocutor here because he really shines the spotlight on the purported benefits of markets in being able to communicate information very quickly through the price mechanism.
+
+01:14:04.000 --> 01:14:17.000
+For him, the great thing about markets is that you can instantly know something that's happened in, I don't know, in Bangladesh because of a change in the price of some kind of production good.
+
+01:14:17.000 --> 01:14:27.000
+You will then adjust your kind of activities accordingly. And I think one of his main criticisms of planning, and for him planning is centralized planning, right? That's just part of his definition.
+
+01:14:27.000 --> 01:14:31.000
+He thinks planning has to be centralized planning by a central body.
+
+01:14:31.000 --> 01:14:52.000
+One of his criticisms is that a single planning authority is never going to be able to have the kind of knowledge needed to constantly make all of these on the spot, on the ground decisions because it's not able to work in the ways of the wonders of the market in his eyes.
+
+01:14:52.000 --> 01:15:08.000
+So what do we do with this problem of how to communicate information? How do we ensure that the kinds of planning decisions that we're making and the deliberations we're having are properly informed by the kind of up-to-date knowledge on the ground?
+
+01:15:08.000 --> 01:15:26.000
+And I think when I mentioned that platforms enable new possibilities in this regard, I think digital platforms and the kind of big data revolution have quite altered the position and allow us to come at some of these problems from a slightly different angle, right?
+
+01:15:26.000 --> 01:15:40.000
+Because one of the biggest problems for the kind of, you know, neoclassical people engaged in the first debate on the socialist calculation debate is how do you balance consumer demand with supply, right?
+
+01:15:40.000 --> 01:15:50.000
+It's like they see it as a big equation. Now, I don't think that's the best or the only way to see it, but there is a kind of ways in which we could approach this problem, right?
+
+01:15:50.000 --> 01:15:55.000
+So Cole and Neurath's idea is that there would be these economic cycles.
+
+01:15:55.000 --> 01:16:10.000
+And so this is particularly, you know, drawing from Cole's idea of these associations that are kind of like, you know, producer associations, consumer associations, and that the consumer councils or associations can draw up consumption plans.
+
+01:16:10.000 --> 01:16:20.000
+You know, they can kind of take stock of what kind of demand there might be, and they can draw up budgets or draw up kind of balance sheets for what they think consumers will need.
+
+01:16:20.000 --> 01:16:25.000
+Now, you can imagine this taking place at like a kind of local and a regional level, right?
+
+01:16:25.000 --> 01:16:36.000
+And I did say that there's a kind of element of messiness to this, but I think that's kind of the only way you could think about doing this in a kind of democratic way.
+
+01:16:36.000 --> 01:16:51.000
+And that these kinds of budgets would have to be balanced or they'd have to be matched by an account from producer organizations for what kind, you know, based on the technology that was available and the supply of raw materials, what kind of products could be produced.
+
+01:16:51.000 --> 01:17:04.000
+Now, you know, in the early 20th century, it's very difficult to imagine how an entire national economy could do this in any feasible fashion.
+
+01:17:04.000 --> 01:17:15.000
+But if you imagine a website like Amazon, for example, or just, you know, a more general catalogue of goods and the capacity that we now have, the computational capacity,
+
+01:17:15.000 --> 01:17:28.000
+both to automatically update these kinds of spreadsheets and to kind of predict consumption needs to forecast what kind of factors will be at play, you know, in six or 12 months time.
+
+01:17:28.000 --> 01:17:37.000
+Suddenly, a lot of the restrictions on gathering knowledge about consumer preferences don't end up seeming so insurmountable.
+
+01:17:38.000 --> 01:17:47.000
+So there's this increased calculative capacity, which I think leads, you know, a lot of people to start returning to some of these questions of planning, right?
+
+01:17:47.000 --> 01:17:54.000
+So you've got that book, The People's Republic of Walmart, by Lee Phillips and Michael Orasvorsky.
+
+01:17:54.000 --> 01:17:59.000
+And, you know, people are saying, say, well, can we have these new processes of planning in the age of big data?
+
+01:17:59.000 --> 01:18:03.000
+And Evgeny Morozov also has a nice essay on this.
+
+01:18:03.000 --> 01:18:12.000
+And I think, you know, some of the some of the computational questions are now a kind of it's a different set of problems for us.
+
+01:18:12.000 --> 01:18:18.000
+But I think what the real challenge is that remains is how do you do this in a democratic way?
+
+01:18:18.000 --> 01:18:25.000
+Right. Because as Noirat kind of shows, it's not just about optimizing the allocation of resources.
+
+01:18:25.000 --> 01:18:30.000
+We also need to think about the big picture questions of the kinds of societies we want to live in.
+
+01:18:30.000 --> 01:18:35.000
+We want people to have a genuine say over those questions.
+
+01:18:35.000 --> 01:18:44.000
+And so when you think of the kind of local regional councils, you know, the possibility that these could be guided by a kind of indicative plan,
+
+01:18:44.000 --> 01:18:54.000
+while still allowing some kind of autonomy to make decisions for the people within those organizations,
+
+01:18:54.000 --> 01:19:03.000
+I return again and again to this idea of a kind of federal model, one that doesn't try to centralize power too much at the top,
+
+01:19:03.000 --> 01:19:10.000
+but does allow for some kind of unifying around these, you know, some of these questions.
+
+01:19:10.000 --> 01:19:17.000
+And I think that it's, you know, perhaps too early to tell what the precise institutional structure would look like.
+
+01:19:17.000 --> 01:19:25.000
+But I think we need to start thinking more about it and talking more about what kinds of processes might be involved.
+
+01:19:25.000 --> 01:19:42.000
+And I think I wasn't paying enough attention when you were describing who will be drawing up these plans that will inform like the consumption plans that you talked about.
+
+01:19:42.000 --> 01:19:47.000
+Those were like regional committees.
+
+01:19:47.000 --> 01:19:54.000
+Yes, I think when you're thinking about the two sides of the equation, right, like the consumption and production, at least in Cole's theory,
+
+01:19:54.000 --> 01:19:59.000
+he envisioned that there would be consumer councils and producer councils.
+
+01:19:59.000 --> 01:20:01.000
+Obviously, there'd be some overlap there, right?
+
+01:20:01.000 --> 01:20:07.000
+Because, you know, a worker within a particular organization is also going to have consumption needs,
+
+01:20:07.000 --> 01:20:20.000
+but that there would be these two different types of councils and that these would also be involved in these forms of negotiated coordination with what Cole called the national commune,
+
+01:20:20.000 --> 01:20:25.000
+but a kind of like higher institution that was involved in helping them.
+
+01:20:25.000 --> 01:20:30.000
+I mean, in his words, it's helping them balance the budgets, right, in these economic cycles.
+
+01:20:30.000 --> 01:20:35.000
+And we can think of that in how that might operate in the age of big data.
+
+01:20:35.000 --> 01:20:39.000
+But that's the general gist of the idea.
+
+01:20:39.000 --> 01:20:40.000
+All right.
+
+01:20:40.000 --> 01:20:53.000
+And I think at least for me, one of the huge questions that was somehow the elephant in the room is the question of which kind of political economy are we talking about?
+
+01:20:53.000 --> 01:20:57.000
+You call your proposal platform socialism.
+
+01:20:57.000 --> 01:21:15.000
+And at one point you state a genuinely emancipatory economy with democratic control over investment worker owned firms and other forms of cooperative associations would not need to completely abolish private property or markets.
+
+01:21:15.000 --> 01:21:27.000
+And this was highly interesting to me, I have to say, because it kind of suggests that what you are describing might actually be some sort of radical social democracy rather than socialism.
+
+01:21:27.000 --> 01:21:35.000
+At least if the abolition of private property of the means of production is a defining feature of socialism.
+
+01:21:35.000 --> 01:21:45.000
+Also, if there are markets, the term market socialism comes into mind with all the problems inherent in this concept, at least in my understanding.
+
+01:21:45.000 --> 01:21:53.000
+Now, I do understand, as you argued in this interview over and over again, that you promote a pluralism and I love it.
+
+01:21:53.000 --> 01:21:57.000
+It's a very good approach, I guess, to promote pluralism.
+
+01:21:57.000 --> 01:22:11.000
+But I still ask myself whether or not there is an inherent danger of falling back into a rule of capital if there still is private property and markets.
+
+01:22:11.000 --> 01:22:16.000
+Yes, I think you're right to question what we might mean here by pluralism.
+
+01:22:16.000 --> 01:22:29.000
+And a skeptic might ask, is platform socialism actually just a kind of unstable form of social democracy in which capitalist power would remain dominant?
+
+01:22:29.000 --> 01:22:34.000
+And I think the first thing to note is that there's no pure form of anything, right?
+
+01:22:34.000 --> 01:22:45.000
+Whether it's free market capitalism or market socialism or whatever, everything in practice is some kind of messy hybrid with different contradictory elements that kind of make it up.
+
+01:22:45.000 --> 01:22:55.000
+And so I think it's important to note that when I say something wouldn't be abolished, that doesn't necessarily mean that would be allowed to dominate, right?
+
+01:22:55.000 --> 01:23:00.000
+So let's think about how any kind of transition might take place.
+
+01:23:00.000 --> 01:23:13.000
+When we're thinking about a transition to a different way of organizing the economy, it's going to necessarily go through a period in which there are going to be competing logics for how economic power is exercised.
+
+01:23:13.000 --> 01:23:18.000
+You know, just like the messy transition from feudalism to capitalism, right?
+
+01:23:18.000 --> 01:23:25.000
+So elements of capitalism might remain in new hybrid configurations.
+
+01:23:25.000 --> 01:23:38.000
+But the idea ultimately is that the logic of profit making and capitalist accumulation is going to gradually become subordinated to the need for democratic control over economic production.
+
+01:23:39.000 --> 01:23:52.000
+So, you know, when I think about platform socialism, it's about the growth of a network of democratically run organizations where citizens are going to be able to exercise direct control over this production.
+
+01:23:52.000 --> 01:23:59.000
+And so this idea of pluralism is kind of, I guess it's like a safety valve in a way.
+
+01:23:59.000 --> 01:24:02.000
+It's like it's allowing for pockets of resistance.
+
+01:24:02.000 --> 01:24:17.000
+It's allowing for pockets of different ways of doing things, while still trying to hold on to a kind of hegemonic project of organizing society in a particular way that promotes social justice.
+
+01:24:17.000 --> 01:24:26.000
+And so I think that's why I have this kind of, you know, I also I kind of flirt with perhaps the idea of a kind of mixed economy.
+
+01:24:26.000 --> 01:24:35.000
+When we hear that phrase mixed economy, we're used to thinking about economies in which the private ownership dominates over the public.
+
+01:24:35.000 --> 01:24:39.000
+But there's no necessary reason why that has to be the case in all mixed economies, right?
+
+01:24:39.000 --> 01:24:53.000
+We can have a mixed economy in which the cooperative and the public is the major form of ownership and productive activity in which there are small pockets of private ownership, maybe small and medium enterprises.
+
+01:24:53.000 --> 01:25:02.000
+And there have been kind of, you know, historical examples of this happening in terms of this is kind of the private property in terms of the markets.
+
+01:25:02.000 --> 01:25:08.000
+So one question is, I think we can quickly differentiate between markets in production goods.
+
+01:25:08.000 --> 01:25:13.000
+So these intermediary goods that kind of go into consumer products and markets and consumption goods.
+
+01:25:13.000 --> 01:25:30.000
+So it's more than possible to kind of have, you know, have some kind of consumer choice and job choice and some of these kinds of things without necessarily enabling capitalists to have control over people's labor and control over investment, right?
+
+01:25:31.000 --> 01:25:45.000
+Because the most important thing you want is to have democratic control over production goods, over the kinds of allocation of resources and investment decisions that are being made by the billionaires, by the investment firms and so on.
+
+01:25:45.000 --> 01:25:48.000
+And I think that's really the kind of core question, right?
+
+01:25:48.000 --> 01:25:55.000
+Because enabling a certain degree of consumer markets, I mean, you might, you know, there might be forms of socialism that don't have that.
+
+01:25:55.000 --> 01:26:08.000
+And, you know, I think that's probably Marx and Engel's original idea was not to have any kind of markets, but they're not necessarily the same thing as having a privatized market for production goods, right?
+
+01:26:08.000 --> 01:26:10.000
+So there are some differences there.
+
+01:26:10.000 --> 01:26:17.000
+I probably don't want to get into the market socialism debate just because there are so many different forms of market socialism.
+
+01:26:17.000 --> 01:26:41.000
+I think it's just really about trying to emphasize that the transition to forms of social ownership over productive assets is really about trying to find ways for this, you know, to reverse these processes of commodification and privatization, to establish forms of democracy and accountability over how resources are allocated.
+
+01:26:41.000 --> 01:26:47.000
+It's for me hard to get an idea of how this would actually work out.
+
+01:26:47.000 --> 01:26:57.000
+I mean, I do absolutely understand the argument that within the transformational period, there of course will always be some form of hybrid.
+
+01:26:57.000 --> 01:27:14.000
+But still, the question remains whether or not certain principles within capitalism will still be fundamental principles of societal organization within what you call platform socialism.
+
+01:27:14.000 --> 01:27:26.000
+For example, if you have cooperatives within capitalism, those cooperatives are still forced to compete with each other for profit.
+
+01:27:26.000 --> 01:27:51.000
+And if this as a basic principle is still in place, then you will certainly inherit many, many, many of the problems that go along with it, even though you do have a certainly better setup than your usual for-profit corporation that has no democratic structuring within the workplace at all.
+
+01:27:51.000 --> 01:28:07.000
+So this, of course, is a very beneficial trade-off, but still it remains to be somewhat lacking a truly different functional logic within the basic premises of how these things are organized.
+
+01:28:07.000 --> 01:28:36.000
+So what I'm asking myself is that if you allow markets and capital as such to exist within what you call platform socialism, that these structural principles of exploitation of for-profit organization and so on, that they will still develop a great deal of destructive force.
+
+01:28:36.000 --> 01:28:50.000
+And are likely not something that really works as a coexistence because, I mean, if this worked out, we probably had it already.
+
+01:28:50.000 --> 01:29:19.000
+I mean, in the social democratic way of framing political economy, this is the basic principle that you just stated, that there would be some form of possibility to reign in the power of these conglomerates of capital as such, and that you can come to a place where the alternative logic is powerful enough to be dominant.
+
+01:29:19.000 --> 01:29:23.000
+But this is not how it plays out in reality.
+
+01:29:23.000 --> 01:29:35.000
+In reality, you had these so-called golden years, which were not golden for most of the people and maybe a little bit golden for some of social democracy after the Second World War.
+
+01:29:35.000 --> 01:29:49.000
+But this was also in the context of the Cold War, where they had to give some kind of trade-offs in order to not have people go over to communist ideals in masses.
+
+01:29:49.000 --> 01:30:12.000
+So I do not think that this idea of coexistence really works out for the benefit of all of us and that there is a certain danger inherent in remaining these organizational principles of capital to be left untouched.
+
+01:30:12.000 --> 01:30:16.000
+Do you want me to respond to that?
+
+01:30:16.000 --> 01:30:20.000
+Yes, please. It's not really a question in that sense.
+
+01:30:20.000 --> 01:30:33.000
+It's just that I'm not sure if this is really going far enough, because I really share the way that you dissect the critics.
+
+01:30:33.000 --> 01:30:50.000
+You always get to a point where you actually show them how it is really important to ask the question of property and within the proposals you give, you do provide this idea of alternative structuring of property.
+
+01:30:50.000 --> 01:31:07.000
+But when it comes to this question of alternative political economy, like in a more general sense and a more encompassing sense, I'm not sure if the ideas that you sketch are actually going far enough.
+
+01:31:07.000 --> 01:31:14.000
+So I think I partly disagree with your characterization of the system I describe in platform socialism.
+
+01:31:14.000 --> 01:31:17.000
+So I think I share your concerns.
+
+01:31:17.000 --> 01:31:19.000
+I share your concerns.
+
+01:31:19.000 --> 01:31:24.000
+On the one hand, you will have critics saying the proposal is too utopian.
+
+01:31:24.000 --> 01:31:27.000
+It's too far removed from our existing reality.
+
+01:31:27.000 --> 01:31:33.000
+Nothing like that has ever been achieved and therefore nothing like that will ever be achieved.
+
+01:31:33.000 --> 01:31:38.000
+And then on the other hand, you might have critics that say you're still talking about money.
+
+01:31:38.000 --> 01:31:41.000
+You're still talking about consumer goods.
+
+01:31:41.000 --> 01:31:55.000
+This is not what Marx and Engels described, right, that they talk about a moneyless, seemingly marketless economy in which there's just kind of social production to meet people's needs.
+
+01:31:55.000 --> 01:32:11.000
+So I think on this particular problem of this unstable hybrid, I don't think it's quite the case that the solution I propose is this socialism and capitalism unhappily coexisting together.
+
+01:32:11.000 --> 01:32:19.000
+When I say that there wouldn't be a market in production goods, there would be democratic control over investment.
+
+01:32:19.000 --> 01:32:26.000
+That removes the predominant power of capitalists in my view.
+
+01:32:26.000 --> 01:32:50.000
+And when you don't have the power to command labor, when you don't have the power for most sectors of the economy, for the largest industries, for the kind of investment, finance, industrial production, all these big sectors, the economic and social power you can exercise is going to be vastly diminished.
+
+01:32:50.000 --> 01:32:56.000
+Think of something like the new economic policy in Russia, right, in kind of like early 1920s.
+
+01:32:56.000 --> 01:33:03.000
+You know, there's a degree of private enterprise which is kind of tolerated, but that does not mean it's dominating.
+
+01:33:03.000 --> 01:33:11.000
+That does not mean it is, you know, it is like about to overtake the principle of social ownership, for example.
+
+01:33:11.000 --> 01:33:20.000
+Now, I don't think, you know, unlike some recent commentaries, I don't think 1910s and 20s Russia is necessarily the best example for us to return to.
+
+01:33:20.000 --> 01:33:25.000
+I think I'm much more kind of like social democrat at heart.
+
+01:33:25.000 --> 01:33:35.000
+So I can see that, and you know, I think I do have a kind of a small social democrat on one of my shoulders and a kind of small federalist anarchist on the other shoulder.
+
+01:33:35.000 --> 01:33:36.000
+And they both say things to me.
+
+01:33:36.000 --> 01:33:41.000
+So I will acknowledge that there are kind of tensions there.
+
+01:33:41.000 --> 01:33:55.000
+And I also think that there isn't necessarily one concrete system that I propose in the book, right, like I try to give a kind of choice space within which we might start to develop certain ideas.
+
+01:33:55.000 --> 01:34:09.000
+So I don't know if I would call it an institutional model as much as a kind of a strategic discussion about the kinds of systems that we might want to start to develop or move towards.
+
+01:34:09.000 --> 01:34:23.000
+But I'm not I'm not sure I agree that it's like it's necessarily susceptible to this critique that it's an unstable mix of capitalism, socialism, because I think as soon as you start talking about democratic control over investment production goods, I think.
+
+01:34:23.000 --> 01:34:39.000
+Even if there are spaces of tolerance for slightly different ways of organizing things, the hegemonic position is still one that I think enables a kind of adjust kind of scenario to occur.
+
+01:34:39.000 --> 01:34:51.000
+Would there still be, to make it a bit concrete, would there still be like large masses of capital in the hands of some, because then you immediately run into problems like the capital strike?
+
+01:34:51.000 --> 01:34:58.000
+Yeah, no, I don't. So to be clear, no, that's not what I have in mind. So there is a little section you would recall socializing capital funds.
+
+01:34:58.000 --> 01:35:05.000
+And really, I mean, I've thought that the problem with this would be that it went too far, right? Like you're talking about expropriating billionaires.
+
+01:35:05.000 --> 01:35:19.000
+I'm like, should I be writing this? Is this really something that? But I think you absolutely have to do that, right? Because that's why social democracy ultimately has always fallen back on itself because the threat of capital strikes.
+
+01:35:19.000 --> 01:35:31.000
+And every time you see radical elements of social democracy pushing at the edges of socialism, pushing at the edges of economic democracy, you see threatened or actual capital strikes.
+
+01:35:31.000 --> 01:35:40.000
+You know, with the Meidner Plan, with the kind of some of the Mitterrand stuff in France in the 80s, it never works because capital always grinds things to a halt.
+
+01:35:40.000 --> 01:35:51.000
+So I think I mean, I thought it was it was like way out there. So I'm surprised. But I guess this is probably the podcast that I would be challenged from an even more leftist position.
+
+01:35:51.000 --> 01:36:02.000
+I mean, to be clear, I absolutely do not think that you're too utopian because you're absolutely brilliant in giving us the concrete examples on how we could approach these things.
+
+01:36:02.000 --> 01:36:12.000
+And for me, most of them are within the realm of transformation. So I do not fall into the camp of people that might say this is too utopian.
+
+01:36:12.000 --> 01:36:25.000
+And I neither fall into the camp of people who say this is like not as Marx intended because we are talking about how this might work in the here and now and how we would love to play things out in the most ideal scenario.
+
+01:36:25.000 --> 01:36:32.000
+So if I'm not an artist, it's not about orthodoxy. So so this is not of any importance to me.
+
+01:36:32.000 --> 01:36:47.000
+But what I do think is that some of the proposals that you put out there will run into problems if they do not go far enough in abolishing,
+
+01:36:47.000 --> 01:37:06.000
+for example, markets and abolishing any like for profit principle as a basic logic within the organizational structure of how things work out and within this broader ecology of political economy.
+
+01:37:06.000 --> 01:37:15.000
+And I think that's just simply something that we will have to figure out maybe either along the way or in discussions just like that.
+
+01:37:15.000 --> 01:37:27.000
+Because as I understand it, platform socialism, as you describe it, is not intended to be a description of a complete political economies or something like that.
+
+01:37:27.000 --> 01:37:32.000
+Yeah, sure. I can see where you're coming from. I can see the concern.
+
+01:37:32.000 --> 01:37:39.000
+I also think the focus of the theory is that that kind of mezzo level of organizations, how organizations would work.
+
+01:37:40.000 --> 01:37:45.000
+It's also about giving concrete descriptions of actual services, how they would occur.
+
+01:37:45.000 --> 01:37:53.000
+And so, yeah, there's there's obviously still room room to maneuver at the kind of, you know, big picture level as well.
+
+01:37:53.000 --> 01:38:04.000
+Because ultimately, when I wanted to describe platform socialism, I wanted to focus on the digital economy as a kind of example of the kind of vanguard in many respects of capitalism.
+
+01:38:04.000 --> 01:38:09.000
+An example of the kind of industries and the kind of organizations that we might want to tackle.
+
+01:38:09.000 --> 01:38:19.000
+So, yeah, it's not a kind of like academics account of the entire theoretical framework of every economic principle, how it would all operate, right?
+
+01:38:19.000 --> 01:38:23.000
+Like it's a text for a general audience.
+
+01:38:23.000 --> 01:38:40.000
+And so I try and, you know, draw the right balance between, you know, not boring the reader to death with like every every organizational principle, but still trying to give enough flesh on the bones to make people feel like this is actually something that could work.
+
+01:38:40.000 --> 01:38:47.000
+My last question that I share with everybody is if you think about the future, what makes you joyful?
+
+01:38:47.000 --> 01:38:49.000
+What makes me joyful?
+
+01:38:49.000 --> 01:39:01.000
+Well, I think one of the things about platform socialism for me and the process of writing the book is trying to break with this like really generalized cynicism that that our era has particularly towards technology.
+
+01:39:01.000 --> 01:39:07.000
+I think we need to be able to imagine a future in which we liberate technology from capitalism.
+
+01:39:07.000 --> 01:39:27.000
+And part of this is about creating our own imaginary and our own spaces in which people can experiment with technology and find new ways of relating to it and building it and developing it and tinkering with it outside of the Silicon Valley mindset that everything has to be about creating a startup, having a public listing and making billions of dollars.
+
+01:39:27.000 --> 01:39:39.000
+So, I don't know, one thing I'm excited about is the potential for, you know, these new experiments that are going on around us and what they could bring in the next decade and the kinds of communities they could support.
+
+01:39:39.000 --> 01:39:55.000
+Because, as I said before, socialism is a struggle for freedom and it's ultimately about allowing us to kind of live our best lives, to flourish and to produce amazing art and culture and to have new projects.
+
+01:39:55.000 --> 01:40:04.000
+And I really think that that's kind of part of this inventive, innovative spirit of platform capitalism.
+
+01:40:04.000 --> 01:40:09.000
+James, thank you so much for taking the time and being a part of Future Histories.
+
+01:40:09.000 --> 01:40:11.000
+Great. Thanks so much, Jan.
+
+01:40:16.000 --> 01:40:31.000
+That was our show for today. Thanks a lot for listening. If you want to support Future Histories, you can do so on Patreon or you can just simply tell a friend that you heard of the show and that he or she might like it as well.
+
+01:40:31.000 --> 01:40:34.000
+Have a good time and hear you in two weeks.
+

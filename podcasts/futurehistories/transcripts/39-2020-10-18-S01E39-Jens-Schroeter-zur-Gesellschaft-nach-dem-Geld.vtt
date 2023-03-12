@@ -1,0 +1,3629 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:06.000 --> 00:11.000
+Mein Name ist Jan Groß und ich freue mich sehr heute Jens Schröter begrüßen zu dürfen.
+
+00:11.000 --> 00:16.000
+Jens ist Professor für Medienkulturwissenschaft an der Universität Bonn
+
+00:16.000 --> 00:21.000
+und einer der Sprecherinnen des Forschungsprojektes Die Gesellschaft nach dem Geld.
+
+00:21.000 --> 00:24.000
+Dieses Forschungsprojekt finde ich überaus spannend
+
+00:24.000 --> 00:28.000
+und Jens bearbeitet in seiner Forschung auch tatsächlich viele von den Themen,
+
+00:28.000 --> 00:31.000
+die auch mich begleiten und interessieren.
+
+00:31.000 --> 00:35.000
+Es sieht also alles danach aus, als wäre dies heute nicht die letzte Folge
+
+00:35.000 --> 00:38.000
+mit Gästen aus dem Projekt Die Gesellschaft nach dem Geld.
+
+00:38.000 --> 00:43.000
+Denn ich merke auch, dass ich unglaublich große Lücken habe
+
+00:43.000 --> 00:48.000
+in der Auseinandersetzung mit dem weiten Feld der Commons-Theorie und Praxis.
+
+00:48.000 --> 00:53.000
+Das will ich unbedingt ändern und werde mich demnächst dann auch als ersten Schritt
+
+00:53.000 --> 00:58.000
+dem Buch Kapitalismus aufheben von Stefan Mehretz und Simon Sütterly zuwenden.
+
+00:58.000 --> 01:01.000
+Das kommt heute im Gespräch auch mehrfach vor.
+
+01:01.000 --> 01:06.000
+Die kostenfreie Vollversion dieses Buches habe ich euch auch in den Show-Notizen verlinkt,
+
+01:06.000 --> 01:08.000
+also to be continued.
+
+01:08.000 --> 01:13.000
+Und die heutige Folge ist auch in anderer Form anschlussfähig,
+
+01:13.000 --> 01:17.000
+denn ich darf mit großer Freude einen Sammelband ankündigen,
+
+01:17.000 --> 01:20.000
+in dem sowohl Jens als auch ich vertreten sind.
+
+01:20.000 --> 01:24.000
+Unser heutiges Gespräch basiert eigentlich auf diesen Beiträgen.
+
+01:24.000 --> 01:26.000
+Dieser Sammelband trägt den Titel
+
+01:26.000 --> 01:32.000
+Die unsichtbare Hand des Plans Koordination und Kalkül im digitalen Kapitalismus
+
+01:32.000 --> 01:36.000
+und darüber hinaus und wird im kommenden Jahr herausgegeben
+
+01:36.000 --> 01:40.000
+von Timo Daum und Sabine Nuss im Dietz Verlag erscheinen.
+
+01:40.000 --> 01:44.000
+Ganz sicher werdet ihr dazu noch so manches von mir hören,
+
+01:44.000 --> 01:46.000
+denn ich glaube, das wird ein ganz großartiges Buch
+
+01:46.000 --> 01:49.000
+und ich freue mich unglaublich darin vertreten zu sein.
+
+01:49.000 --> 01:52.000
+Also auch da to be continued.
+
+01:52.000 --> 01:54.000
+Und ich möchte noch aus ganzem Herzen
+
+01:54.000 --> 02:01.000
+Karle, Max und Kilian in der Gemeinschaft der Future Histories Patroninnen und Patronen begrüßen.
+
+02:01.000 --> 02:03.000
+Vielen, vielen Dank für eure Unterstützung
+
+02:03.000 --> 02:06.000
+und vielen Dank auch an Bernhard für deine großzügige Spende.
+
+02:06.000 --> 02:09.000
+Das alles hilft wirklich ungemein.
+
+02:09.000 --> 02:14.000
+Aber jetzt viel Freude mit der heutigen Episode mit Jens Schröter
+
+02:14.000 --> 02:17.000
+zur Gesellschaft nach dem Geld.
+
+02:19.000 --> 02:23.000
+Herzlich willkommen, Jens.
+
+02:23.000 --> 02:25.000
+Hallo, Jan.
+
+02:25.000 --> 02:29.000
+Ich muss sagen, euer Forschungsprojekt hat mich sofort absolut angesprochen,
+
+02:29.000 --> 02:32.000
+als ich davon gehört habe, denn es versammelt sehr viele Themen,
+
+02:32.000 --> 02:34.000
+die mich überaus interessieren.
+
+02:34.000 --> 02:37.000
+Und ihr erprobt einen ungewöhnlichen methodischen Zugang,
+
+02:37.000 --> 02:41.000
+nämlich eine Simulation auf Basis des sogenannten Agent-Based Modeling.
+
+02:41.000 --> 02:45.000
+Worum geht es in die Gesellschaft nach dem Geld?
+
+02:45.000 --> 02:51.000
+Ja, also man muss dazu sagen, das ist sozusagen jetzt die zweite Phase des Projekts.
+
+02:51.000 --> 02:57.000
+Die erste Phase, die begonnen hat, quasi im 1. Januar 2016 damals in zwei Jahren lief,
+
+02:57.000 --> 03:01.000
+war gewissermaßen die theoretische Phase.
+
+03:01.000 --> 03:04.000
+Wir haben uns da zusammengefunden, also Leute aus der Medientheorie,
+
+03:04.000 --> 03:10.000
+aus der Commonstheorie, aus der Soziologie, aus den heterodoxen Wirtschaftswissenschaften
+
+03:11.000 --> 03:16.000
+und haben erst mal Texte diskutiert, Konzepte diskutiert, eben auch die Bücher gemacht
+
+03:16.000 --> 03:20.000
+und das war gewissermaßen die Vorbereitungsphase.
+
+03:20.000 --> 03:25.000
+Und dann kam etwas überraschend die Möglichkeit auf, das war ursprünglich gar nicht angedacht,
+
+03:25.000 --> 03:27.000
+eine Fortsetzung zu beantragen.
+
+03:27.000 --> 03:34.000
+Und da kamen wir dann auf die Idee zu versuchen, wenn wir schon mit gesellschaftlichen Modellen
+
+03:34.000 --> 03:39.000
+oder besser gesagt Modellen von Gesellschaft oder anderen Ökonomien herumarbeiten,
+
+03:39.000 --> 03:45.000
+ob man nicht die Mittel, die auch tatsächlich von bestimmten Bereichen der Soziologie,
+
+03:45.000 --> 03:50.000
+aber auch der Wirtschaftswissenschaften eingesetzt werden, nämlich Computersimulationen,
+
+03:50.000 --> 04:00.000
+mal nutzt, um zu versuchen, eine, sagen wir mal, nicht monetäre, nicht auf Geld basierte Ökonomie zu simulieren.
+
+04:00.000 --> 04:05.000
+Für sowas gibt es wenig Muster und im Grunde ist die Arbeit, die wir jetzt machen,
+
+04:05.000 --> 04:09.000
+herauszufinden, wie man eine solche Simulation baut.
+
+04:09.000 --> 04:13.000
+Ich glaube nicht, dass da am Ende irgendwie eine Blaupause herauskommt, wie man sowas macht,
+
+04:13.000 --> 04:17.000
+sondern denke bei unserem Projekt wird das auch unterschiedlich eingeschätzt.
+
+04:17.000 --> 04:21.000
+Wir haben sehr viele verschiedene Stimmen im Projekt, aber ich würde sagen,
+
+04:21.000 --> 04:27.000
+der Weg dahin ist das interessante, weil das einen zwingt, sich sehr viele Gedanken zu machen,
+
+04:27.000 --> 04:32.000
+sehr konkret darüber, wie bestimmte Mechanismen anders funktionieren können
+
+04:33.000 --> 04:36.000
+und auf diese Art und Weise ist man auch gezwungen,
+
+04:36.000 --> 04:43.000
+die eigenen theoretischen Vorstellungen auch einfach auf den Prüfstand zu stellen.
+
+04:43.000 --> 04:46.000
+Es gibt dann viele kontroverse Diskussionen und ich muss sagen,
+
+04:46.000 --> 04:50.000
+diese Diskussionen gehören zu dem Interessantesten, was ich je gemacht habe.
+
+04:50.000 --> 04:56.000
+Ich glaube, das klingt jetzt vielleicht blöd, aber ich glaube, der Weg ist das Ziel.
+
+04:56.000 --> 05:00.000
+Großartig. Also da würde ich gerne noch ein bisschen weiter nachspüren.
+
+05:00.000 --> 05:06.000
+Du hast es schon angedeutet, ihr habt sehr viele verschiedene Disziplinen versammelt da in dem Projekt.
+
+05:06.000 --> 05:13.000
+Was sind denn so die Themenfelder, die Debatten, die am meisten sich aufheizen?
+
+05:13.000 --> 05:17.000
+Also was sind so die Bruchlinien, wo die verschiedenen Perspektiven aufeinandertreffen
+
+05:17.000 --> 05:19.000
+und man sich vielleicht auch mal nicht versteht?
+
+05:19.000 --> 05:22.000
+Ja, also das gibt es natürlich immer wieder in dem Projekt.
+
+05:22.000 --> 05:26.000
+Das war in der ersten Phase teilweise auch ziemlich kontrovers.
+
+05:26.000 --> 05:31.000
+Das hingen auch damit zusammen, dass wir in der ersten Phase mehrere externe Gäste hatten,
+
+05:31.000 --> 05:36.000
+die ihre Position mit eingebracht haben und da gab es eben sehr verschiedene Auffassungen.
+
+05:36.000 --> 05:40.000
+Es gab Leute aus der Wertkritik, wir hatten einen marxistischen Ökonom dabei,
+
+05:40.000 --> 05:44.000
+wir hatten Stefan Heidenreich dabei, der ja auch dieses Buch,
+
+05:44.000 --> 05:50.000
+Geld durchgestrichen für eine postmonitäre oder nonmonitäre Ökonomie gemacht hat
+
+05:50.000 --> 05:54.000
+und da gab es dann halt sehr unterschiedliche Auffassungen zum Teil.
+
+05:54.000 --> 06:00.000
+Also was immer wieder auftaucht, also was eine Frage, die zum Beispiel in der ersten Phase
+
+06:00.000 --> 06:04.000
+immer wieder aufgetaucht ist, war die Frage nach dem Menschenbild.
+
+06:04.000 --> 06:07.000
+Das war eine Kontroverse, die wir dann auch in unserem Buch abgebildet haben,
+
+06:07.000 --> 06:16.000
+weil so die Frage auftauchte, ist die Annahme einer Gesellschaft,
+
+06:16.000 --> 06:20.000
+einer möglichen Gesellschaft, die nicht das Medium Geld als Tauschmittel braucht
+
+06:20.000 --> 06:25.000
+und die damit möglicherweise auch von Tauschrelationen als solchen sich entfernen muss,
+
+06:25.000 --> 06:29.000
+impliziert die nicht bestimmte Annahmen über menschliches Verhalten
+
+06:29.000 --> 06:35.000
+und das hat zu Kontroversen geführt. Was auch immer wieder eine Kontroverse ist,
+
+06:35.000 --> 06:39.000
+vielleicht ist Kontroverse auch zu stark gesagt, aber ein Thema, was wir diskutieren,
+
+06:39.000 --> 06:44.000
+ist die Rolle der Frage nach dem Fluss von Informationen,
+
+06:44.000 --> 06:49.000
+weil ich als jemand, der aus der Medientheorie kommt, ich halte natürlich das für
+
+06:49.000 --> 06:56.000
+sehr zentral und ich finde halt, dass ich durch die historische sozialistische Kalkulationsdebatte,
+
+06:56.000 --> 07:00.000
+in der das ein zentrales Motiv war, auch bestätigt werde.
+
+07:00.000 --> 07:04.000
+Andere Leute finden das nicht so wesentlich und fragen dann zum Beispiel eher nach dem,
+
+07:04.000 --> 07:09.000
+das ist zum Beispiel zur Commons-Fraktion, die fragt dann eher nach den Inklusionsbedingungen,
+
+07:09.000 --> 07:14.000
+die solche Gesellschaftsformen bereitstellen können. Das ist ja auch wichtig und so,
+
+07:14.000 --> 07:19.000
+aber da ist immer die Frage, mir fehlt dann zum Beispiel immer dieser Punkt,
+
+07:19.000 --> 07:26.000
+wie wird eigentlich sichergestellt, dass wer wann was weiß, was wie produziert und wie verteilt werden muss.
+
+07:26.000 --> 07:30.000
+Darauf wird natürlich auch eingegangen, aber das ist so ein neuralgischer Punkt,
+
+07:30.000 --> 07:33.000
+an dem wir immer weiter diskutieren zum Beispiel.
+
+07:33.000 --> 07:38.000
+Ja, das finde ich ganz großartig, denn das ist absolut auch ein Feld,
+
+07:38.000 --> 07:41.000
+das ich mit einiger Obsession beackere, muss ich sagen,
+
+07:41.000 --> 07:48.000
+und was immer wieder in diesem Podcast hier auch auf die eine oder andere Art vorkommt.
+
+07:48.000 --> 07:52.000
+Wir haben beide die Freude, einen Beitrag für ein Buch im Dietz-Verlag,
+
+07:52.000 --> 07:55.000
+ein Sammelband im Dietz-Verlag beisteuern zu dürfen.
+
+07:55.000 --> 08:00.000
+Auf eine Art hatte ich sogar das Gefühl fast, dass wir da aus unterschiedlichen Richtungen
+
+08:00.000 --> 08:03.000
+vielleicht zu ähnlichen Schlüssen kommen.
+
+08:03.000 --> 08:07.000
+Was du vorschlägst oder was du behandelst in dem Beitrag,
+
+08:07.000 --> 08:12.000
+ist ein Brückenschlag zwischen dieser Socialist Calculation Debate 2.0,
+
+08:12.000 --> 08:15.000
+nennen wir es mal, und der Commons-Debatte.
+
+08:15.000 --> 08:17.000
+Und ich glaube, das ist ungemein wichtig.
+
+08:17.000 --> 08:20.000
+Ich merke das auch immer wieder in den Interviews, die ich hier führe.
+
+08:20.000 --> 08:24.000
+Zuletzt hatte ich eine Folge mit Ronja Morgenthaler und Kai Kuhnhörn
+
+08:24.000 --> 08:31.000
+vom Konzeptwerk Neue Ökonomie, die eben eher ja aus so einer Degrowth- und Commons-Ecke kommen.
+
+08:31.000 --> 08:35.000
+Und habe da auch gemerkt, dass ich dieses Bedürfnis habe, wie du es gerade artikuliert hast,
+
+08:35.000 --> 08:42.000
+dass es da eine Leerstelle gibt, die eben in dem Denken über Commons vielleicht noch nicht ganz abgedeckt ist.
+
+08:42.000 --> 08:44.000
+Machen wir das mal Schritt für Schritt.
+
+08:44.000 --> 08:50.000
+Vielleicht kannst du uns noch mal kurz zusammenfassen, worum geht es denn in der Debatte
+
+08:50.000 --> 08:53.000
+rund um die Socialist Calculation Debate?
+
+08:53.000 --> 08:59.000
+Ja, also diese Debatte ist kompliziert und lang und detailliert, aber man kann vielleicht sagen,
+
+08:59.000 --> 09:06.000
+die begann ungefähr in den 20er-Jahren mit der Frage, ob eine sozialistische Ökonomie möglich ist.
+
+09:06.000 --> 09:11.000
+Wobei, was man genau darunter versteht, durchaus unklar ist, denn zum Beispiel
+
+09:11.000 --> 09:16.000
+die anfängliche Kritik von Mises richtete sich gegen Vorneurath.
+
+09:16.000 --> 09:22.000
+Und Vorneurath hat so eine Art Naturalplanungsmodell ohne Preise vorgestellt.
+
+09:22.000 --> 09:27.000
+Und das hatte auch Wurzeln in der Münchner Räterepublik und so.
+
+09:27.000 --> 09:34.000
+Und Mises hat argumentiert, dass man ohne Preise nicht rational planen kann.
+
+09:34.000 --> 09:38.000
+Man weiß nicht, welcher Produktionsweg effizient ist und welcher nicht.
+
+09:38.000 --> 09:43.000
+Und das müsse unweigerlich zu ungeheurer Maßen an Ineffizienz und Verschleuderung führen.
+
+09:43.000 --> 09:50.000
+Und insofern ich tatsächlich auch der Meinung bin, dass Effizienz nicht bloß eine Krankheit des Kapitalismus ist,
+
+09:50.000 --> 09:56.000
+sondern für jede ökonomische Organisation in der einen oder anderen Weise.
+
+09:56.000 --> 10:01.000
+Das heißt nicht, dass man Effizienz nur misst daran, wie viel Profit macht das zum Beispiel,
+
+10:01.000 --> 10:06.000
+sondern das kann ja auch heißen, wie sorge ich dafür, dass es möglichst wenig Dreck macht oder so.
+
+10:06.000 --> 10:11.000
+Aber dass sowas wie eine Effizienz für jede Art von ökonomischer Organisation notwendig ist,
+
+10:11.000 --> 10:15.000
+insofern finde ich dieses Argument erst mal nachvollziehbar.
+
+10:15.000 --> 10:19.000
+Und danach hat sich diese Debatte aber etwas gewandelt, weil diese Kritik von Mises
+
+10:19.000 --> 10:24.000
+wurde sehr ernst genommen auf der Linken und man hat gesagt, gut, vielleicht geht es nicht ohne Preise.
+
+10:24.000 --> 10:32.000
+Und dann tendierte das auf der Seite der Verteidigerinnen des Sozialismus eher Richtung Marktsozialismus.
+
+10:32.000 --> 10:35.000
+Man hat gesagt, okay, okay, wir brauchen also Preise.
+
+10:35.000 --> 10:40.000
+Das heißt aber nicht, dass man sozusagen die Preise, die vielleicht partiell an Märkten ermittelt worden sind,
+
+10:40.000 --> 10:46.000
+nicht durch verschiedene Formen der Planung anders lenkt, sodass man bestimmte negative Effekte vermeidet.
+
+10:46.000 --> 10:52.000
+Soweit so gut. Das sah dann auch so aus, als ob gewissermaßen diese Leute, die interessanterweise,
+
+10:52.000 --> 10:56.000
+also gerade die Leute von links kommen, aus so einer Art neoklassischen Framework gekommen sind.
+
+10:56.000 --> 11:00.000
+Das sah so aus, als ob die die Debatte gewonnen hätte. Und dann kommt Hayek.
+
+11:00.000 --> 11:05.000
+Und Hayek greift das Argument von Mises noch mal auf, aber verändert und radikalisiert das.
+
+11:05.000 --> 11:11.000
+Da geht es nämlich nicht mehr um die Frage oder nicht mehr allein, ob man noch rational wirtschaften kann,
+
+11:11.000 --> 11:19.000
+wenn man keine Preise hat oder ob dieses Wirtschaften zu komplex ist, um es dem zentralen Planning Board zu überlassen.
+
+11:20.000 --> 11:24.000
+Da könnte man ja argumentieren, wenn man eine modernere Computer hat, kann man das doch wieder machen,
+
+11:24.000 --> 11:29.000
+wie das zum Beispiel Cockshot heute macht. Hayeks Argument ist aber ganz anders.
+
+11:29.000 --> 11:37.000
+Es ist mindestens so, dass er argumentiert, wir kommen gar nicht an die Daten, die wir brauchen, um diese Planung durchzuführen.
+
+11:37.000 --> 11:45.000
+Der Punkt ist, dass der Markt in der Lage ist, dass dezentral verteilte und situierte und implizite vor allen Dingen wissen,
+
+11:45.000 --> 11:50.000
+dass an verschiedenen Stellen in der Gesellschaft vorhanden ist, gewissermaßen dezentral zu aktualisieren,
+
+11:50.000 --> 11:55.000
+im Vergleich das interessanterweise, das interessiert mich natürlich als Medienwissenschaftler, mit einem Kommunikationssystem,
+
+11:55.000 --> 12:03.000
+mit dem Telefonnetz. Und dieses Argument ist tiefgreifender, weil es sozusagen nicht dem Punkt aufgewürft,
+
+12:03.000 --> 12:09.000
+die Ökonomie ist zu komplex, okay, wir können das nicht berechnen, die Daten sind da, aber wir können es nicht berechnen,
+
+12:10.000 --> 12:17.000
+sondern Hayek bestreitet, dass wir diese Daten überhaupt bekommen können. Wenn wir die nicht bekommen können,
+
+12:17.000 --> 12:22.000
+dann können wir auch nicht planen. Und dann ist es auch wurscht, wie toll unsere Computer sind.
+
+12:22.000 --> 12:29.000
+Da können wir die tollsten Quantencomputer haben, wenn wir die Daten gar nicht kriegen oder zu spät oder verzerrt,
+
+12:29.000 --> 12:34.000
+dann war es das mit der Planung. Und deswegen, dieses Argument muss man sehr ernst nehmen.
+
+12:35.000 --> 12:38.000
+Das ist übrigens, wie ich finde, ein sehr interessantes medientheoretisches Argument,
+
+12:38.000 --> 12:44.000
+aber en la lettre, lange bevor es so viel Medientheorie überhaupt gab, ist das ein sehr interessantes medientheoretisches Argument,
+
+12:44.000 --> 12:54.000
+was auf die Frage der Verfügbarkeit, Bearbeitbarkeit und Explizierbarkeit von Wissen hinausläuft.
+
+12:54.000 --> 12:59.000
+Und dieses Argument muss man sehr ernst nehmen. Und meines Erachtens kann man heutzutage,
+
+12:59.000 --> 13:06.000
+wenn man sich an Entwürfe alternativer Ökonomien macht, die über das Lokale hinausgehen,
+
+13:06.000 --> 13:11.000
+kann man nicht vermeiden, sich diesen kritischen Argumenten zu stellen.
+
+13:11.000 --> 13:14.000
+Wenn man das nicht tut, macht man sich lächerlich. Das ist meine Auffassung.
+
+13:14.000 --> 13:18.000
+Und es gibt ja jede Menge Literatur dazu. Also Burczak hat dieses Buch geschrieben,
+
+13:18.000 --> 13:25.000
+Socialism after Hayek zum Beispiel. Es gibt eine riesen Auseinandersetzung darüber,
+
+13:25.000 --> 13:30.000
+riesige theoretische Auseinandersetzung. Im Grunde ist diese sozialistische Kalkulationsdebatte nie abgerissen.
+
+13:30.000 --> 13:36.000
+Die ist nur in den Hintergrund getreten, weil spätestens seit 1990 schien es offensichtlich,
+
+13:36.000 --> 13:40.000
+dass der Sozialismus abgewirtschaftet hat und Hayek und Mieses Recht haben.
+
+13:40.000 --> 13:46.000
+Aber in den letzten Jahren ist durch die offensichtlichen Probleme, die der Kapitalismus aufwirft
+
+13:46.000 --> 13:52.000
+und eben auch durch neue Rechnertechnologien und Netzwerktechnologien ist die Frage neu aufgekommen.
+
+13:52.000 --> 13:58.000
+Und ich glaube auch nicht, dass man eine neue Ökonomie bloß durch neue Technik auf die Beine stellen kann.
+
+13:58.000 --> 14:04.000
+Aber ich glaube auch umgekehrt nicht, dass es nur an Goodwill und der Organisation liegt.
+
+14:04.000 --> 14:12.000
+Man muss sich schon was einfallen lassen, um die Frage nach Steuerungsmechanismen usw. plausibel zu beantworten.
+
+14:12.000 --> 14:16.000
+Sonst wird man immer ridiculisiert werden von den Hayekianern.
+
+14:17.000 --> 14:23.000
+Ja, überaus spannend. Und wir werden später dann noch auf einen sehr konkreten Vorschlag zu sprechen kommen,
+
+14:23.000 --> 14:29.000
+der dieses Verschieben hin zu einem Informationsproblem auch schon im Titel trägt,
+
+14:29.000 --> 14:33.000
+nämlich den von Daniel Iseros, Information Technology and Socialist Construction.
+
+14:33.000 --> 14:36.000
+Da bin ich schon sehr gespannt auf deine Meinung.
+
+14:36.000 --> 14:42.000
+Bevor wir das machen, winden wir uns mal dem zweiten größeren Strang postkapitalistischen Denkens zu,
+
+14:42.000 --> 14:48.000
+den du da eben noch anführst. Das ist die Commons-Debatte.
+
+14:48.000 --> 14:54.000
+Worum handelt es sich dabei und was bringt Sie ein in ein Denken über Alternativen,
+
+14:54.000 --> 14:59.000
+das im Rahmen der Socialist Calculation Debate 2.0 vielleicht auch zu wenig Beachtung findet?
+
+14:59.000 --> 15:04.000
+Also zunächst mal muss ich sagen, dass es Leute gibt, die beruflicher sind, darüber zu reden als ich.
+
+15:04.000 --> 15:08.000
+Ich meine, ich weiß das halt aus unserem Projekt, aber ich weiß, dass du hier auch noch eine Sendung mit
+
+15:08.000 --> 15:12.000
+Stefan Meretz und so machen willst. Die kennen sich dann noch viel besser aus.
+
+15:12.000 --> 15:17.000
+Aber was ich darüber weiß, ist Folgendes.
+
+15:17.000 --> 15:24.000
+Also das ist tatsächlich ein Strang, der ganz eigenständig im Grunde sich entwickelt hat zunächst,
+
+15:24.000 --> 15:27.000
+obwohl es da auch unterschiedliche Verbindungen gibt.
+
+15:27.000 --> 15:35.000
+Und es gibt dieses berühmte Aufsatz von Gareth Hardin von 1968 The Tragedy of the Commons.
+
+15:35.000 --> 15:40.000
+Und da geht es im Grunde, ich vereinfache jetzt stark das Beispiel, naja, es gibt eine Wiese
+
+15:40.000 --> 15:47.000
+und verschiedene Bäuerinnen und Bauern bewirtschaften die Wiese und schicken da ihre Herde zum Beiden drauf.
+
+15:47.000 --> 15:51.000
+Und Hardin nimmt ziemlich explizit an, das steht auch an dem Paper,
+
+15:51.000 --> 15:56.000
+dass die Bäuerinnen und Bauern sich wie die klassischen Nutzenmaximierer an Märkten benehmen.
+
+15:56.000 --> 16:03.000
+Also alles für mich. Und wenn sich alle Bäuerinnen und Bauern so verhalten, ist die Wiese bald im Eimer.
+
+16:03.000 --> 16:07.000
+Und niemand hat mehr was davon. Und das wird, ich vereinfache jetzt sträglich,
+
+16:07.000 --> 16:11.000
+aber das wird dann als Argument verwendet, gemeinsame Nutzung von Ressourcen, das klappt nicht. Punkt.
+
+16:11.000 --> 16:16.000
+Das Problem liegt natürlich offenkundig in der Annahme, dass die Leute, die gemeinsam in der Wiese sich verhalten,
+
+16:16.000 --> 16:20.000
+sich benehmen, als wären sie an dem Markt als Nutzenmaximierer.
+
+16:20.000 --> 16:29.000
+Und Elinor Ostrom, die 2009 übrigens als erste Frau den sogenannten Nobelpreis der Wirtschaftswissenschaft bekommen hat,
+
+16:29.000 --> 16:36.000
+hat in Governing the Commons, diesem berühmten Buch von 1990 gezeigt, mit historischer Forschung, mit Feldforschung,
+
+16:36.000 --> 16:42.000
+mit theoretischen Erwägungen, dass diese Annahme von Hardin deswegen falsch ist, weil bei allen existierenden
+
+16:42.000 --> 16:49.000
+und funktionierenden, teilweise im Jahrhunderte funktionierenden Allmenden, Commons, der Trick ist,
+
+16:49.000 --> 16:54.000
+dass die Leute miteinander kommunizieren. Die reden miteinander. Die setzen sich vorher zusammen und sagen,
+
+16:54.000 --> 16:59.000
+hört mal, wenn wir jetzt alle unser Vieh dahinschicken, ist die Wiese bald kaputt, so geht das aber nicht.
+
+16:59.000 --> 17:05.000
+Was machen wir denn da? Und dann einigt man sich auf bestimmte Regeln und setzt vielleicht Sanktionsmechanismen
+
+17:05.000 --> 17:11.000
+in Kraft gegenüber den Leuten, die sich nicht an die Regeln halten und so weiter und zieht da, dann geht es nämlich doch.
+
+17:11.000 --> 17:22.000
+Und solche Lösungen, die lokal, kommunikativ, Ressourcen verwalten, hat Ostrom gezeigt, sind funktionsfähiger als Markt- oder Staatslösungen.
+
+17:22.000 --> 17:31.000
+So, und das heißt, wir haben was in der Hand, was zeigt das, so was wie eine gemeinsame, kommunikative Nutzung von Ressourcen,
+
+17:31.000 --> 17:37.000
+es muss ja auch nicht nur die Nutzung von Ressourcen sein, aber Fort Jury könnte auch die Produktion von irgendwas sein,
+
+17:37.000 --> 17:45.000
+dass das im Prinzip möglich ist. Und das macht irgendwie den Appeal dieses Buches aus, wobei, Klammer auf,
+
+17:45.000 --> 17:51.000
+und jetzt kommt ein erster Link zur sozialistischen Kalkulationsdebatte, Ostrom nie die Idee hatte,
+
+17:51.000 --> 17:59.000
+was vorzuschlagen, was an die Stelle des Marktes oder des Kapitalismus tritt. Die kommt nämlich selber aus der österreichischen Schule, von Hayek her.
+
+17:59.000 --> 18:09.000
+Denn Hayeks Betonung der lokalen, dezentralen Organisation, die er auf den Markt bezogen hat, das ist im Grunde dieselbe Idee, die hinter den Commons steht.
+
+18:09.000 --> 18:17.000
+Ja, also das heißt, die Commons-Debatte, also dieser Strang der Commons-Debatte, Ostrom, kommt tatsächlich selber aus der österreichischen Schule,
+
+18:17.000 --> 18:27.000
+was eine gewisse Ironie dieser ganzen Geschichte ist. Aber anyway, also die Commons-Debatte geht davon aus, dass es möglich ist,
+
+18:27.000 --> 18:36.000
+und da gibt es gute Gründe dafür, dass sowas wie eine kommunikative Organisation, lokaler Nutzung von Ressourcen, Produktion und so notwendig ist.
+
+18:36.000 --> 18:44.000
+Ostrom hat das damals gemacht, weil man halt auch gesehen hat, dass Märkte großflächig Verheerungen anrichten können,
+
+18:44.000 --> 18:52.000
+dass das Lösungsmechanismen sind, die sich Leute überlegt haben. Die Frage, die sich jetzt so ein bisschen stellt und die sich in den letzten Jahren gestellt hat,
+
+18:52.000 --> 19:00.000
+ist dieses Prinzip verallgemeinerbar über das Lokale hinaus. Denn die Beispiele von Ostrom sind ja alle lokal.
+
+19:00.000 --> 19:10.000
+Also Leute setzen sich an den Tisch zusammen und reden über ihre Weide. Jetzt, wenn man sich jetzt eine, sagen wir mal, global verteilte Produktion von Computern überlegt.
+
+19:11.000 --> 19:18.000
+Also da stellt sich als erstes die Frage, wie soll das funktionieren? Wie soll diese Kommunikation gelöst, wie soll das kommunikativ gelöst werden?
+
+19:18.000 --> 19:25.000
+In ab einer gewissen Zahl von Leuten, da muss man nicht mal annehmen, dass die Leute sich nicht vertragen und die ganze Zeit miteinander streiten.
+
+19:25.000 --> 19:32.000
+Rein zeitlich wird die Komplexität so hoch der kommunikativen Lösung, dass das nicht mehr bewältigt werden kann.
+
+19:32.000 --> 19:38.000
+Mein Lieblingsbeispiel ist immer, wenn man globale Probleme hat, da würde, sagen wir mal, sieben Milliarden Leute in einen riesen Stadion setzen,
+
+19:38.000 --> 19:43.000
+da muss jeder nur zehn Sekunden reden und das verwendet die For Seven, das dauert dann noch 2.500 Jahre.
+
+19:43.000 --> 19:51.000
+Das heißt, selbst wenn alle guten Willens sind, ist das nicht zu machen, weil das einfach zu komplex ist.
+
+19:51.000 --> 19:59.000
+Und da kommen dann die Hayekianer wieder ins Bild und sagen, ja, told you so, deswegen gibt es ja Preissignale.
+
+19:59.000 --> 20:05.000
+Da wird immer in der Commons-Debatte, also Stefan zum Beispiel und Simon in ihrem Buch kritisieren auch zurecht,
+
+20:05.000 --> 20:10.000
+Preissignale sind ja so eindimensional, das ist ja nur so eine quantitative Zahl.
+
+20:10.000 --> 20:16.000
+Und da gehen ja so viele Informationen beiunter, die man eigentlich wissen wollte oder bräuchte über Bedürfnisse.
+
+20:16.000 --> 20:23.000
+Da würden die Hayekianer sagen, genau, das ist genau deren Stärke, dass es nur eine Zahl ist, weil es so arm ist, funktioniert das.
+
+20:23.000 --> 20:27.000
+Das ist nicht das Problem da dran, sondern die Stärke.
+
+20:27.000 --> 20:33.000
+Und auch wenn ich die Kritik an der Verabsolutierung von Preissignalen richtig finde,
+
+20:33.000 --> 20:37.000
+weil selbst im Kapitalismus sind Preissignale nicht nur die einzigen Kommunikationssignale,
+
+20:37.000 --> 20:43.000
+wir können ja auch so miteinander reden und es gibt andere Informationen und so,
+
+20:43.000 --> 20:50.000
+ist dieses Argument nicht ganz von der Hand zu weisen, dass ab einer gewissen Komplexität braucht man irgendwelche Vereinfachungsmechanismen
+
+20:50.000 --> 20:55.000
+oder Komplexitätsreduktionsmechanismen, sonst ist das überhaupt nicht mehr steuerbar.
+
+20:55.000 --> 21:02.000
+Und Preise mögen ein furchtbar reduktionistisches Modell sein,
+
+21:02.000 --> 21:08.000
+aber es ist eins, was gerade aufgrund seines Reduktionismus funktioniert.
+
+21:08.000 --> 21:10.000
+Und dieses Einmachen muss man, glaube ich, ernst nehmen.
+
+21:10.000 --> 21:13.000
+Also man muss, glaube ich, ernst nehmen, was dahintersteht.
+
+21:13.000 --> 21:18.000
+Das ist nicht bloß eine ideologische Verteidigung des Markts, auch wenn es so manchmal daherkommt und vielleicht auch so gemeint war.
+
+21:18.000 --> 21:24.000
+Das hat einen wahren Kern in der Komplexität- und Informationstheorie und das muss man, glaube ich, ernst nehmen.
+
+21:24.000 --> 21:32.000
+Und die Commons-Debatte bzw. jetzt dieses Buch von Meritz und Suttar Lüthi,
+
+21:32.000 --> 21:39.000
+die schlagen ja dann schon auch verschiedene Strategien vor, wie man diesem Problem eigentlich begegnen könnte.
+
+21:39.000 --> 21:45.000
+Und du, in deinem Text gestattetest du das so entlang von drei Themenpunkten,
+
+21:45.000 --> 21:50.000
+der Stigmergie, der Frage der Planung und dann schließlich der Metacommons.
+
+21:50.000 --> 21:53.000
+Vielleicht können wir das auch mal eins nach dem anderen durchgehen.
+
+21:53.000 --> 21:59.000
+Das sollen alles drei Mechanismen, also bei der Planung ist eher das etwas, was du dann sozusagen da noch mit einbringst.
+
+21:59.000 --> 22:05.000
+Aber die Stigmergie und die Metacommons sind ja ganz konkret Angebote, die sie da in ihrem Buch anscheinend machen,
+
+22:05.000 --> 22:13.000
+um diesen Problemen der großflächigen Koordination vielleicht auch begegnen zu können innerhalb einer Commons-basierten Organisation.
+
+22:13.000 --> 22:16.000
+Worum handelt es sich da? Was ist Stigmergie zum Beispiel?
+
+22:16.000 --> 22:19.000
+Ja, also wie gesagt, auch da gibt es berufendere als mich.
+
+22:19.000 --> 22:21.000
+Wer soll dir Stefan am besten nochmal ganz genau erklären?
+
+22:21.000 --> 22:29.000
+Aber zunächst mal möchte ich sagen, dass ich den Vorschlag, den Stefan und Sie man in dem Buch machen, diese Begriffe einzuführen,
+
+22:29.000 --> 22:34.000
+und das ist ja auch ein bisschen älter, das hat Stefan schon früher gemacht, das finde ich sehr gut.
+
+22:34.000 --> 22:39.000
+Ich finde das sehr gut und sehr wichtig, weil das nämlich genau dieses Problem adressiert,
+
+22:39.000 --> 22:47.000
+dass man irgendwie erklären muss, wie diese Koordination eigentlich vonstatten gehen soll,
+
+22:47.000 --> 22:53.000
+denn natürlich wissen die beiden auch sehr genau, dass es nicht mehr reicht zu sagen, na ja,
+
+22:53.000 --> 22:56.000
+dann reden die Menschen mal miteinander und dann klappt das schon und so.
+
+22:56.000 --> 23:02.000
+Das wäre schön, wenn das so wäre, aber muss ich halt auch immer, ich sage es nochmal, klar machen,
+
+23:02.000 --> 23:08.000
+dass das auch gewisser Anthropozentrismus ist, wenn man glaubt, man muss noch miteinander reden und dann klappt das,
+
+23:08.000 --> 23:13.000
+weil Komplexität ist etwas, das einfach auch die Menschen übersteigt, deswegen ist sie ja komplex
+
+23:13.000 --> 23:22.000
+und deswegen ist es halt auch notwendig, sich darüber Gedanken zu machen, dass selbst wenn alle alles gutwillig wären
+
+23:22.000 --> 23:29.000
+und alle wollten, es trotzdem Barrieren gibt, die man irgendwie lösen muss, überwinden muss und die es Stück mehr gibt.
+
+23:29.000 --> 23:34.000
+Also, wenn ich das richtig verstehe, ist die Idee im Grunde die, dass lokal Zeichen hinterlassen werden,
+
+23:34.000 --> 23:41.000
+Stückmata, also Zeichen hinterlassen werden, die sozusagen anderen mitteilen, was zu tun ist.
+
+23:41.000 --> 23:48.000
+Ganz vereinfacht gesagt, also das Beispiel, was gerne benutzt wird, ist der rote Link bei Wikipedia,
+
+23:48.000 --> 23:54.000
+dass wir sehen können, aha, da fehlt noch was, das ist eine Aufforderung oder nicht eine Aufforderung,
+
+23:54.000 --> 24:02.000
+das ist ein Angebot an mich zu sagen, willst du nicht vielleicht oder irgendjemand anders diesen fehlenden Teil des Artikels ergänzen?
+
+24:02.000 --> 24:06.000
+Und wenn ich das machen will, kann ich das machen und man kann argumentieren,
+
+24:06.000 --> 24:10.000
+wenn man nur genug Leute hat, findet sich immer jemand, der das macht.
+
+24:10.000 --> 24:16.000
+So, und jetzt hochgerechnet ist die Idee, die das sozusagen lokal Zeichen hinterlassen werden,
+
+24:16.000 --> 24:24.000
+was hier zum Beispiel noch zu tun ist und dann finden sich Leute, die das tun, das ist die Idee.
+
+24:24.000 --> 24:31.000
+Zumal da Stefan und Simon in ihrem Buch übrigens noch radikaler als Ostschirm auf radikale Freiwilligkeit setzen.
+
+24:31.000 --> 24:37.000
+Es gibt keine Sanktionsmechanismen. Das finde ich erstmal von Freiheit zu Peel natürlich toll.
+
+24:37.000 --> 24:44.000
+Das ist, wie man sich denken kann, natürlich auch mal problembehaftet, aber zunächst mal finde ich das erstrebenswert und gut.
+
+24:44.000 --> 24:52.000
+Aber die Idee ist sozusagen, wenn es nur genug Leute gibt, findet sich immer jemand, der oder die auf das Zeichen reagiert.
+
+24:52.000 --> 24:59.000
+Interessant dabei ist, dass das natürlich ein Organisationsmodell ist, was Märkten durchaus nicht unähnlich ist.
+
+24:59.000 --> 25:03.000
+Also das ist Märkten näher als zentraler Planung.
+
+25:03.000 --> 25:08.000
+Weil in Märkten, das schreibt sich auch selber, funktioniert das ja nicht anders.
+
+25:08.000 --> 25:14.000
+Preissignale sind ja auch stückmärkische Signale, die sozusagen sagen, wenn plötzlich von irgendwas,
+
+25:14.000 --> 25:21.000
+was weiß ich, von irgendeiner Dienstleistung der Preis nach oben geht, ist das ein Signal an alle, das wird gebraucht.
+
+25:21.000 --> 25:27.000
+Und bitte, wenn ihr Lust habt, gründet schnell ein Unternehmen und bietet diese Dienstleistung an.
+
+25:27.000 --> 25:33.000
+Es lohnt sich. Also sozusagen diese Preissignale sind auch stückmärkische Signale,
+
+25:33.000 --> 25:39.000
+die motivieren, einen Mangel, der irgendwo auftritt, zu beheben, weil es eben teuer wird.
+
+25:39.000 --> 25:43.000
+Und dadurch lohnt es sich, Arbeit und Energie da reinzustecken.
+
+25:43.000 --> 25:53.000
+Und das finde ich ganz interessant, weil die Vorstellung der stückmärkischen Organisation ist im Grunde der Organisation an Märkten durchaus verwandt.
+
+25:53.000 --> 25:57.000
+Ich glaube eben, die Signale werden als komplexer gedacht.
+
+25:57.000 --> 26:01.000
+Sie sollen die Bedürfnisse vermitteln und nicht nur dieses quantitative Preissignal.
+
+26:01.000 --> 26:03.000
+Sie sollen komplexer sein.
+
+26:03.000 --> 26:10.000
+Und offensichtlich ist das auch so gedacht, dass es weniger über Konkurrenz gedacht wird, sondern über Kooperation.
+
+26:10.000 --> 26:13.000
+Das wirft natürlich wieder eine ganze Reihe von Folgefragen auf.
+
+26:13.000 --> 26:18.000
+Bezieht sich die Stückmärgie auf die Art und Weise, wie sich Menschen zu Commons organisieren?
+
+26:18.000 --> 26:24.000
+Oder sind es Signale, die Commons signalisieren, was sie zu tun haben?
+
+26:24.000 --> 26:26.000
+Oder beides?
+
+26:26.000 --> 26:33.000
+Und ist es wirklich so, dass wenn das eine dezentrale, flache Organisation ist, im Grunde wie der Markt,
+
+26:33.000 --> 26:39.000
+oder der idealgedachte Markt, de facto hat man natürlich Monopole und sowas oder Oligopole,
+
+26:39.000 --> 26:46.000
+wenn das so gedacht ist, ist das wirklich vermeidbar, dass es zu sowas wie Konkurrenz kommt?
+
+26:47.000 --> 26:51.000
+Und wenn ja, vielleicht ist das ja auch nichts Schlimmes, ein gewisses Maß an Konkurrenz,
+
+26:51.000 --> 26:58.000
+wie verhindert man, dass das sozusagen zum gesellschaftlichen Leitbild wird, wie es jetzt ist?
+
+26:58.000 --> 27:02.000
+Wir sehen uns jetzt ja alle sozusagen als Mini-Unternehmen, die gegeneinander konkurrieren,
+
+27:02.000 --> 27:07.000
+mit allen auch sozialen und psychischen Effekten, die das hat.
+
+27:07.000 --> 27:10.000
+Das wirft eine ganze Reihe von interessanten Anschlussfragen auf.
+
+27:10.000 --> 27:13.000
+Und jetzt bin ich dem Buch auch sehr dankbar, dass sie das gemacht haben,
+
+27:13.000 --> 27:15.000
+weil das ist, finde ich, eine extrem wichtige Debatte.
+
+27:15.000 --> 27:21.000
+Interessant ist halt, jetzt zum zweiten Punkt zu kommen, dass an einer anderen Stelle
+
+27:21.000 --> 27:25.000
+und auch an anderen Texten von Stefan und an anderen Stellen der Commons-Debatte
+
+27:25.000 --> 27:28.000
+zusätzlich der Begriff des Metacommons eingeführt wird.
+
+27:28.000 --> 27:33.000
+Manchmal auch der Hub genannt, das fällt auf das Wort des Koordinationscommons.
+
+27:33.000 --> 27:35.000
+Und das ist natürlich eine interessante Frage.
+
+27:35.000 --> 27:40.000
+Also wenn offenbar die Stückmergie ein zentrales Organisationsprinzip ist,
+
+27:41.000 --> 27:48.000
+was über Zeichen arbeitet, dazu kommt noch, dass Stefan und Simon anmerken,
+
+27:48.000 --> 27:51.000
+dass wenn es zu Konflikten kommt, müsste wieder zu einer direkten,
+
+27:51.000 --> 27:54.000
+weniger hinweisbasierten Vermittlung übergegangen werden.
+
+27:54.000 --> 27:57.000
+Auch das ist ein komplizierter Punkt.
+
+27:57.000 --> 28:05.000
+Aber wenn das sozusagen über die Stigmerie läuft, wozu genau braucht man dann Metacommons?
+
+28:05.000 --> 28:08.000
+Was ist deren Funktion? Wie verhalten die sich dazu?
+
+28:08.000 --> 28:10.000
+Also wenn man sich vorstellt, das sind sozusagen Commons,
+
+28:10.000 --> 28:14.000
+die anderen Commons helfen, sich zu organisieren koordinativ,
+
+28:14.000 --> 28:19.000
+dann ist natürlich die Frage, wie verhält sich das wieder zum Problem der Planung?
+
+28:19.000 --> 28:23.000
+Weil wenn man Metacommons hätte oder Koordinationscommons hätte,
+
+28:23.000 --> 28:26.000
+die zum Beispiel, wie das an einer Stelle in dem Buch thematisiert wird,
+
+28:26.000 --> 28:30.000
+in einer Region helfen, die Stahlproduktion zu koordinieren,
+
+28:30.000 --> 28:33.000
+dann stellt sich natürlich die Frage, ob es sich auf der nächst höheren Ebene
+
+28:34.000 --> 28:37.000
+wie der Metacommons braucht, die alle Metacommons,
+
+28:37.000 --> 28:40.000
+die alle Metacommons eine Ebene unter ihnen koordinieren,
+
+28:40.000 --> 28:43.000
+also Metacommons so rum.
+
+28:43.000 --> 28:45.000
+Und wenn man das zu Ende denkt, bekommt man eine Kaskade,
+
+28:45.000 --> 28:48.000
+an deren Spitze dann doch wieder so eine Art Planning Board steht.
+
+28:48.000 --> 28:51.000
+Und vielleicht aus guten Gründen auch.
+
+28:51.000 --> 28:54.000
+Also zentrale Planung hat ja einen schlechten Ruf,
+
+28:54.000 --> 29:00.000
+aber vielleicht ist die Lösung zumindest globaler Probleme
+
+29:01.000 --> 29:04.000
+und zur Koordination globaler Produktionsketten,
+
+29:04.000 --> 29:06.000
+auch wenn wir im Moment uns kaum vorstellen könnten,
+
+29:06.000 --> 29:10.000
+wie sowas eingerichtet werden sollte, dann doch unverzichtbar.
+
+29:10.000 --> 29:12.000
+Ja, das ist interessant, dass du das sagst,
+
+29:12.000 --> 29:15.000
+weil nämlich für mich schon das immer wieder mal so wirkt,
+
+29:15.000 --> 29:19.000
+als ob ein fundamentales Problem an diesen Überlegungen
+
+29:19.000 --> 29:21.000
+rund um das Commanding und sowas ist,
+
+29:21.000 --> 29:25.000
+dass da so ausschließlich auf Dezentralität beharrt wird
+
+29:25.000 --> 29:29.000
+und dass quasi alles, was mit einer Form der Zentralität zu tun hat,
+
+29:29.000 --> 29:33.000
+dann irgendwie wie so stigmatisiert wird, kommt mir vor oder so.
+
+29:33.000 --> 29:36.000
+Und ich wäre ja dafür eigentlich, diese beiden Zugänge zu vermählen
+
+29:36.000 --> 29:39.000
+und eher zu einer Idee zu kommen,
+
+29:39.000 --> 29:43.000
+die man dann vielleicht als eine Form von distribuierter
+
+29:43.000 --> 29:46.000
+gesellschaftlicher Organisation bezeichnen könnte,
+
+29:46.000 --> 29:49.000
+wo halt eben diese Verteiltheit im Vordergrund steht
+
+29:49.000 --> 29:54.000
+und die ist in manchen Situationen besser über dezentrale Mechanismen angegangen.
+
+29:54.000 --> 29:58.000
+Und es braucht aber, glaube ich, doch durchaus auch immer mal wieder
+
+29:58.000 --> 30:01.000
+zentrale Elemente, die ja dann quasi checks and balances,
+
+30:01.000 --> 30:04.000
+in Anführungsstrichen, haben können,
+
+30:04.000 --> 30:08.000
+dass man verhindert, dass mit einer zentralen Organisationsform
+
+30:08.000 --> 30:12.000
+auch gleichzeitig eine zentrale Machtinstanz dann irgendwie entsteht.
+
+30:12.000 --> 30:17.000
+Also da gäbe es ja auch unterschiedliche Ebenen zu dieser Frage, finde ich.
+
+30:19.000 --> 30:22.000
+Ja, das ist halt ein ganz schwieriges Problem,
+
+30:22.000 --> 30:25.000
+weil also die zentrale Planung hat aus, wie ich finde,
+
+30:25.000 --> 30:29.000
+auch durchaus verständlichen Gründen kein gutes Image.
+
+30:29.000 --> 30:33.000
+Das eine ist, dass also historisch sich gezeigt hat,
+
+30:33.000 --> 30:37.000
+dass solche Strukturen sehr schwerfällig reagieren.
+
+30:37.000 --> 30:41.000
+Und wenn sie dann Sanktionsmechanismen einführen,
+
+30:41.000 --> 30:45.000
+wie das zum Beispiel in der zentralen Planung der Fall war,
+
+30:45.000 --> 30:49.000
+dass wenn die Pläne nach unten nicht eingehalten wird, wird man sanktioniert,
+
+30:49.000 --> 30:52.000
+fangen irgendwann die unteren Ebenen an, die Planzahlen zu fälschen,
+
+30:52.000 --> 30:55.000
+um keinen Ärger zu kriegen, was früher oder später dazu führt,
+
+30:55.000 --> 30:58.000
+dass die zentrale Planung mit vollkomfiktiven Zahlen hantiert.
+
+30:58.000 --> 31:01.000
+Und das wird dann wieder nach unten durchgegeben, wieder nach oben.
+
+31:01.000 --> 31:05.000
+Man kann sich ausrechnen, dass nach ein paar Zyklen ein komplett verzerrtes,
+
+31:05.000 --> 31:09.000
+chaotisches Bild besteht und das zu komplett verzerrten
+
+31:09.000 --> 31:12.000
+und chaotischen Allokationen führt, und genau das ist passiert.
+
+31:12.000 --> 31:14.000
+Also jetzt mal auch sehr vereinfacht.
+
+31:14.000 --> 31:19.000
+Und das ist halt ein Problem, was sehr ernst ist.
+
+31:19.000 --> 31:21.000
+Denn eine zentrale Planung,
+
+31:21.000 --> 31:26.000
+die die Durchsetzung der von ihr formulierten Planziele
+
+31:26.000 --> 31:29.000
+nicht irgendwie sanktioniert, ist schlichtweg überflüssig.
+
+31:29.000 --> 31:32.000
+Denn es muss ja irgendwie, nehmen wir mal an,
+
+31:32.000 --> 31:35.000
+man hat eine zentrale Planung, die kann ja noch so demokratisch sein
+
+31:35.000 --> 31:37.000
+und noch so transparent.
+
+31:37.000 --> 31:40.000
+Die beschließt dann irgendwas, wir müssen das und das und das machen.
+
+31:40.000 --> 31:43.000
+Und dann muss das aber auch so gemacht werden.
+
+31:43.000 --> 31:45.000
+Sonst ist der ganze Plan sinnlos.
+
+31:45.000 --> 31:48.000
+Und das heißt, dann gibt man das weiter nach unten,
+
+31:48.000 --> 31:49.000
+mach das doch bitte.
+
+31:49.000 --> 31:51.000
+Und wenn man nicht annimmt, dass die Leute
+
+31:51.000 --> 31:53.000
+alle ein fortgeschrittenes Bewusstsein haben
+
+31:53.000 --> 31:55.000
+und freiwillig alles genau richtig machen,
+
+31:55.000 --> 31:56.000
+was schon deswegen nicht funktioniert,
+
+31:56.000 --> 31:59.000
+weil lokal eben dann doch immer irgendwie alles anders ist,
+
+31:59.000 --> 32:02.000
+weil dann die lokalen Bedingungen, da hatte Hayek schon recht,
+
+32:02.000 --> 32:03.000
+weil dann die lokalen Bedingungen
+
+32:03.000 --> 32:06.000
+immer irgendwelche unerwarteten Schwierigkeiten in den Weg legen
+
+32:06.000 --> 32:10.000
+und dann regnet es plötzlich drei Tage und was weiß ich.
+
+32:10.000 --> 32:13.000
+Dann wird das nicht so umgesetzt wie geplant
+
+32:13.000 --> 32:15.000
+und dann gerät der ganze Plan durcheinander.
+
+32:15.000 --> 32:18.000
+Das ist wie mit so Fahrplänen von der Deutschen Bahn,
+
+32:18.000 --> 32:22.000
+wenn irgendwo was verspätet ist, ist plötzlich überall alles verspätet.
+
+32:22.000 --> 32:25.000
+Und deswegen, das ist schon ein ernsthaftes Problem.
+
+32:25.000 --> 32:30.000
+Also eine Zentralplanung muss irgendwie,
+
+32:30.000 --> 32:35.000
+und sei es noch so freundlich und nett und demokratisch,
+
+32:35.000 --> 32:36.000
+muss irgendwie darauf dringen,
+
+32:36.000 --> 32:39.000
+dass ihre Planziele auch eingehalten werden.
+
+32:39.000 --> 32:42.000
+Und wenn das nicht gelingt,
+
+32:42.000 --> 32:46.000
+dann bricht totales Durcheinander aus.
+
+32:46.000 --> 32:50.000
+Und wenn man dann anfängt, das autoritär zu machen mit Gewalt,
+
+32:50.000 --> 32:51.000
+sonst der Motto, wir waren jetzt nett
+
+32:51.000 --> 32:53.000
+und ihr haltet euch alle nicht an den Kram,
+
+32:53.000 --> 32:54.000
+jetzt machen wir es mit Gewalt,
+
+32:54.000 --> 32:56.000
+dann passiert genau das, was,
+
+32:56.000 --> 32:58.000
+also abgesehen davon, dass das zu bedenklichen,
+
+32:58.000 --> 33:00.000
+diktatorischen Strukturen führt,
+
+33:00.000 --> 33:01.000
+passiert genau das, was passiert.
+
+33:01.000 --> 33:04.000
+Die Leute fangen an zu lügen und erfinden die Planzahlen.
+
+33:04.000 --> 33:06.000
+Und dann gerät alles total aus dem Tritt.
+
+33:06.000 --> 33:09.000
+Und deswegen, ich sehe auch ein,
+
+33:09.000 --> 33:11.000
+ich bin auch deiner Meinung,
+
+33:11.000 --> 33:16.000
+dass für bestimmte regionale, globale Produktionsketten,
+
+33:16.000 --> 33:19.000
+aber auch Probleme wie die Klimaerwärmung,
+
+33:19.000 --> 33:21.000
+man sich das schlechterdings kaum vorstellen kann,
+
+33:21.000 --> 33:24.000
+ohne gewisse zentrale Steuerungsmechanismen,
+
+33:24.000 --> 33:26.000
+die wir jetzt ja auch dringend bräuchten auf der Erde.
+
+33:26.000 --> 33:28.000
+Jetzt wird alles über Märkte geredet, alles lokal,
+
+33:28.000 --> 33:29.000
+alle konkurrieren miteinander,
+
+33:29.000 --> 33:32.000
+und die Klimaerwärmung streitet munter vorwärts.
+
+33:32.000 --> 33:34.000
+Also Märkte können das offenbar auch nicht,
+
+33:34.000 --> 33:36.000
+wegen ihrer Dezentralität.
+
+33:36.000 --> 33:38.000
+Also müsste man das zentral regeln.
+
+33:38.000 --> 33:39.000
+Aber wie macht man das,
+
+33:39.000 --> 33:43.000
+ohne dass das entweder in die Diktatur und damit unweigerlich
+
+33:43.000 --> 33:48.000
+und oder in krass Verzerrung des Planungsmechanismus führt?
+
+33:48.000 --> 33:51.000
+Also das ist absolut nicht trivial.
+
+33:51.000 --> 33:54.000
+Ja, also ich stimme dir vollkommen zu, muss ich sagen.
+
+33:54.000 --> 33:56.000
+Und ich wollte auch in keinster Weise sagen,
+
+33:56.000 --> 33:59.000
+da jetzt mich für zentrale Planwirtschaft aussprechen,
+
+33:59.000 --> 34:03.000
+denn ich habe genau diese Bedenken, die du da artikulierst, genauso.
+
+34:03.000 --> 34:06.000
+Und es gibt einen konkreten Vorschlag,
+
+34:06.000 --> 34:09.000
+der finde ich zumindest eigentlich ganz gut versucht,
+
+34:09.000 --> 34:15.000
+dass diese beiden Zugänge der Zentralität und der Dezentralität
+
+34:15.000 --> 34:18.000
+miteinander zu vermählen.
+
+34:18.000 --> 34:25.000
+Und ich möchte da vielleicht ein, also einführen in diese Frage jetzt
+
+34:25.000 --> 34:29.000
+mit einem Zitat aus eurem Buch Postminitär Denken.
+
+34:29.000 --> 34:31.000
+Und da schreibst du, die Frage ist,
+
+34:31.000 --> 34:34.000
+können digitale Medien genutzt werden, um Alternative, sagen wir,
+
+34:34.000 --> 34:36.000
+Strukturen oder Mechanismen aufzubauen,
+
+34:36.000 --> 34:39.000
+die jene Koordinationsleistung ersetzen,
+
+34:39.000 --> 34:42.000
+die gegenwärtig Geld und Markt erbringen?
+
+34:42.000 --> 34:44.000
+Ich würde sagen, die Antwort lautet ja.
+
+34:44.000 --> 34:49.000
+Und am überzeugendsten finde ich eben den Vorschlag von Daniel E. Saros.
+
+34:49.000 --> 34:52.000
+Ich habe sein Buch Information Technology and Socialist Construction
+
+34:52.000 --> 34:54.000
+mit größtem Interesse gelesen
+
+34:54.000 --> 34:58.000
+und daraufhin ein sehr ausführliches Interview mit ihm geführt.
+
+34:58.000 --> 35:03.000
+Ich verweise die Hörerinnen und Hörer hier an Folgen 31 und 32.
+
+35:03.000 --> 35:05.000
+Wie findest du denn seinen Vorschlag?
+
+35:05.000 --> 35:06.000
+Weil ich habe das Gefühl,
+
+35:06.000 --> 35:08.000
+er adressiert eigentlich genau diesen Punkt,
+
+35:08.000 --> 35:10.000
+über den wir gerade gesprochen haben.
+
+35:10.000 --> 35:12.000
+Also ich finde es auch ein sehr interessantes Buch.
+
+35:12.000 --> 35:14.000
+Und ich finde es auch sehr mutig,
+
+35:14.000 --> 35:19.000
+sich heute so detailliert aus dem Fenster zu läden mit einem Modell.
+
+35:19.000 --> 35:25.000
+Was ich daran sehr zu schätzen, schätzenswert finde,
+
+35:25.000 --> 35:29.000
+ist im Grunde, dass Daniel Saros tatsächlich, wie du sagst,
+
+35:29.000 --> 35:32.000
+versucht, nach einem Durchgang
+
+35:32.000 --> 35:35.000
+durch die sozialistische Kalkulationsdebatte
+
+35:35.000 --> 35:38.000
+und auch den Problemen zentraler Planung,
+
+35:38.000 --> 35:40.000
+ein Modell zu entwickeln,
+
+35:40.000 --> 35:45.000
+das diese Schwierigkeiten versucht zu umgehen.
+
+35:45.000 --> 35:49.000
+Indem er sozusagen dezentrale Elemente
+
+35:49.000 --> 35:54.000
+mit stärker zentralisierenden Elementen verbindet.
+
+35:54.000 --> 35:57.000
+Und ich glaube, oder was man vielleicht sagen kann,
+
+35:57.000 --> 36:00.000
+die entscheidende Zentralisierung ist ja der General Catalog.
+
+36:00.000 --> 36:03.000
+Das ist ja sozusagen das zentrale Organ.
+
+36:03.000 --> 36:07.000
+Das Interessante ist, das ist ja im Grunde so was wie der zentrale Plan.
+
+36:07.000 --> 36:09.000
+Das ist im Grunde der Catalog,
+
+36:09.000 --> 36:13.000
+ist sozusagen der Ort, an dem das Wissen zusammengetragen wird
+
+36:13.000 --> 36:15.000
+und die Bedürfnisse zusammengetragen werden.
+
+36:15.000 --> 36:18.000
+Und man sozusagen einen Überblick bekommen kann,
+
+36:18.000 --> 36:22.000
+kann idealerweise darüber, was gebraucht wird
+
+36:22.000 --> 36:24.000
+und was wie hergestellt werden kann.
+
+36:24.000 --> 36:26.000
+Also die Idee ist im Grunde,
+
+36:26.000 --> 36:29.000
+das durch so eine Art zentrale Datenbank zu lösen.
+
+36:29.000 --> 36:31.000
+Das ist ja im Grunde die Idee,
+
+36:31.000 --> 36:34.000
+auf die alle zugreifen können von allen Seiten.
+
+36:34.000 --> 36:36.000
+Ich meine, da gibt es immer noch Fragen,
+
+36:36.000 --> 36:38.000
+die mir unklar sind.
+
+36:38.000 --> 36:41.000
+Ich meine, so ein Catalog wird schnell unübersichtlich.
+
+36:41.000 --> 36:44.000
+Also wenn da Milliarden von Einträgen drin sind,
+
+36:44.000 --> 36:48.000
+dann sitzt man da und weiß nicht, wo man suchen soll.
+
+36:48.000 --> 36:52.000
+Das wirft wieder neue Komplexitätsprobleme auf.
+
+36:52.000 --> 36:56.000
+Aber im Grunde ist das erst mal, glaube ich, eine ganz gute Idee,
+
+36:56.000 --> 36:59.000
+weil es gibt zwar einen zentralen Ort,
+
+36:59.000 --> 37:04.000
+an dem das Wissen gesammelt wird und an dem es vermittelt wird,
+
+37:04.000 --> 37:07.000
+aber es gibt kein zentrales Planning Board,
+
+37:07.000 --> 37:10.000
+sondern im Grunde sind alle das Planning Board.
+
+37:10.000 --> 37:12.000
+Das Wissen wird dezentral gesammelt
+
+37:12.000 --> 37:14.000
+und an einem Ort zusammengetragen
+
+37:14.000 --> 37:18.000
+und von da aus wird wiederum die Produktion und Distribution gesteuert.
+
+37:18.000 --> 37:21.000
+Also komplexitätstheoretisch ist das interessant,
+
+37:21.000 --> 37:26.000
+weil es versucht, die Zentralisierung des Wissensortes
+
+37:26.000 --> 37:29.000
+mit der Dezentralisierung des Zugriffs zu verbinden.
+
+37:29.000 --> 37:34.000
+Wie gesagt, das dürfte erneut erhebliche Komplexitätsprobleme auslösen.
+
+37:34.000 --> 37:36.000
+Stell dir mal so einen General Catalog vor,
+
+37:36.000 --> 37:39.000
+wo in jeder Sekunde Millionen von Leuten darauf zugreifen
+
+37:39.000 --> 37:42.000
+und die Daten verändern, das Angebot verändert.
+
+37:42.000 --> 37:44.000
+Wie willst du da noch Überblick verhalten?
+
+37:44.000 --> 37:47.000
+Vielleicht habe ich es auch überlesen in dem Buch,
+
+37:47.000 --> 37:49.000
+aber da wäre mir schon noch klar eine Frage,
+
+37:49.000 --> 37:54.000
+wie man sozusagen da in diesem Wissensgewirbel den Überblick behält.
+
+37:54.000 --> 37:58.000
+Das ist mir noch nicht so ganz klar,
+
+37:58.000 --> 38:05.000
+wie sozusagen die Komplexität dieses Kataloges wieder beherrschbar gemacht wird.
+
+38:06.000 --> 38:09.000
+Da kann ich mir schon Verfahren zu vorstellen.
+
+38:09.000 --> 38:12.000
+Und es gibt ja auch jetzt bei Amazon den Marketplace,
+
+38:12.000 --> 38:15.000
+wo ja Leute in der Lage sind, ihre Angebote hineinzustellen.
+
+38:15.000 --> 38:18.000
+Also das ist natürlich jetzt noch nicht komplett
+
+38:18.000 --> 38:20.000
+die gesamte Weltökonomie umspannend oder so,
+
+38:20.000 --> 38:24.000
+aber they're trying, sage ich mal.
+
+38:26.000 --> 38:31.000
+Du hattest jetzt gesagt, der General Catalog in dem Modell von
+
+38:31.000 --> 38:34.000
+Daniel Iseros wäre im Grunde ja dieses zentrale Planungsbord
+
+38:34.000 --> 38:40.000
+auf einer logischen Ebene, also eigentlich als Kommunikationsgateway,
+
+38:40.000 --> 38:43.000
+sozusagen, dass die verschiedenen, also die Bedürfniskommunikation
+
+38:43.000 --> 38:45.000
+mit der Produktionsebene verbindet.
+
+38:45.000 --> 38:51.000
+Aber man hat eben diesen dezentrale Informationssammlungsmechanismus immer noch,
+
+38:51.000 --> 38:54.000
+was ja gerade genau auf diesen Punkt von Hayek eingeht,
+
+38:54.000 --> 38:58.000
+dass man in der Lage sein sollte, das implizite und situierte Wissen
+
+38:58.000 --> 39:00.000
+eben auch einfangen zu können.
+
+39:00.000 --> 39:04.000
+Was da ein, ja, also insgesamt in diesem Denken darüber
+
+39:04.000 --> 39:06.000
+ein ganz wichtiges Element darstellt, finde ich,
+
+39:06.000 --> 39:10.000
+ist diese Frage von ex ante und ex post Produktion.
+
+39:10.000 --> 39:12.000
+Vielleicht kannst du das nochmal kurz erläutern,
+
+39:12.000 --> 39:15.000
+weil wir heutzutage in der Marktwirtschaft eigentlich erst,
+
+39:15.000 --> 39:18.000
+also erstmal produzieren und danach muss man quasi gucken,
+
+39:18.000 --> 39:20.000
+wie man es an den Mann und die Frau bringt.
+
+39:20.000 --> 39:24.000
+Und also der Vorschlag von Daniel Iseros und auch viele andere
+
+39:24.000 --> 39:26.000
+basieren eben auf einer ex ante Produktion,
+
+39:26.000 --> 39:28.000
+wo man vorher das erhebt.
+
+39:28.000 --> 39:31.000
+Warum hat das so einen besonderen Stellenwert deiner Meinung nach?
+
+39:31.000 --> 39:35.000
+Also man muss vielleicht nochmal sagen, das ist also zum Beispiel schon
+
+39:35.000 --> 39:38.000
+beim von Marx im Kapital formuliert worden, ganz ausdrücklich,
+
+39:38.000 --> 39:42.000
+dass die kapitalistische Produktion eine getrennte Privatproduktion ist.
+
+39:42.000 --> 39:45.000
+Das hängt jetzt mit vielen anderen Größen zusammen,
+
+39:45.000 --> 39:48.000
+mit der Frage des Privatbesitzes an Produktionsmitteln und so weiter.
+
+39:48.000 --> 39:52.000
+Aber es läuft so, man hat Produktionsmittel,
+
+39:52.000 --> 39:54.000
+ich bin Kapitalist und habe Produktionsmittel
+
+39:54.000 --> 39:57.000
+und beschäftige Arbeiterinnen und Arbeiter.
+
+39:57.000 --> 40:02.000
+Und dann stelle ich was her und dann gucke ich auf den Markt,
+
+40:02.000 --> 40:05.000
+ob das, was ich herstelle, sich realisieren lässt.
+
+40:05.000 --> 40:07.000
+Ganz vereinfacht gesagt.
+
+40:07.000 --> 40:11.000
+Also die Vermittlung über die Produktion findet nach der Produktion statt.
+
+40:11.000 --> 40:14.000
+Ex post, deswegen ex post Koordination.
+
+40:14.000 --> 40:17.000
+Es stimmt auch im Kapitalismus nicht ganz,
+
+40:17.000 --> 40:20.000
+weil sowas wie Marktforschung zum Beispiel ist nichts anderes
+
+40:20.000 --> 40:24.000
+als die Einführung von ex ante Elementen in die ex post Produktion.
+
+40:24.000 --> 40:26.000
+Denn heute würde keine Unternehmerin,
+
+40:26.000 --> 40:29.000
+kein Unternehmer, der einigermaßen bei Verstand ist,
+
+40:29.000 --> 40:32.000
+einfach auf blau hinein irgendwo eine Fabrik hochziehen,
+
+40:32.000 --> 40:34.000
+mal gucken, ob das funktioniert.
+
+40:34.000 --> 40:36.000
+Sondern würde vorher ganz genau versuchen.
+
+40:36.000 --> 40:38.000
+Gibt es überhaupt einen Bedarf dafür?
+
+40:38.000 --> 40:40.000
+Wollen die Leute meinen Krempel haben?
+
+40:40.000 --> 40:42.000
+Ist der Platz, wo ich die Fabrik instelle?
+
+40:42.000 --> 40:44.000
+Hab ich da genug Infrastruktur?
+
+40:44.000 --> 40:47.000
+Und ist die Ausbildung der Arbeiterinnen und Arbeiter gut genug?
+
+40:47.000 --> 40:51.000
+Also es gibt schon im Kapitalismus jede Menge ex ante Elemente,
+
+40:51.000 --> 40:54.000
+wie auch, das muss man vielleicht auch nochmal ganz deutlich sagen,
+
+40:54.000 --> 40:57.000
+die scharfe Gegenüberstellung von Markt und Plan.
+
+40:57.000 --> 41:00.000
+Das hat im Grunde, das hat im Grunde noch nie gestimmt.
+
+41:00.000 --> 41:03.000
+Weil Marktwirtschaften enthalten immer starke Planungselemente.
+
+41:03.000 --> 41:06.000
+Jede Familie plant, was kann ich mir leisten?
+
+41:06.000 --> 41:08.000
+Wie viel Geld habe ich?
+
+41:08.000 --> 41:11.000
+Jedes Unternehmen plant, jede Universität plant.
+
+41:11.000 --> 41:14.000
+Und umgekehrt gibt es natürlich auch in,
+
+41:14.000 --> 41:18.000
+selbst in den starsten Planwirtschaften gab es mindestens Schattenmärkte.
+
+41:18.000 --> 41:20.000
+Also das heißt, diese Organisationen haben immer,
+
+41:20.000 --> 41:23.000
+Organisationsformen haben immer nebeneinander bestanden.
+
+41:23.000 --> 41:25.000
+Es gibt verschiedene Konfigurationen.
+
+41:25.000 --> 41:27.000
+Und das scheint doch offenbar notwendig zu sein.
+
+41:27.000 --> 41:31.000
+Also das muss man nur mal sagen, um auf dieser kalten Kriegssichotomie,
+
+41:31.000 --> 41:34.000
+ex post, ex ante Planmarkt auch mal rauszukommen.
+
+41:34.000 --> 41:36.000
+Weil das de facto wahrscheinlich nicht stimmt, dass das,
+
+41:36.000 --> 41:39.000
+also es stimmt, nein, es stimmt de facto nicht,
+
+41:39.000 --> 41:42.000
+dass das so stark, dass man das so stark gegeneinander setzt.
+
+41:42.000 --> 41:44.000
+Das hat noch nie gestimmt.
+
+41:44.000 --> 41:48.000
+So, also ex post ist, ich produziere und koordiniere, idealter,
+
+41:48.000 --> 41:51.000
+ich produziere und dann wird am Markt geguckt,
+
+41:51.000 --> 41:55.000
+dass die verschiedenen Einzelproduktionen koordiniert werden können sozusagen.
+
+41:55.000 --> 42:00.000
+Ex ante ist, kann man sich jetzt denken, man redet vorher miteinander.
+
+42:00.000 --> 42:04.000
+Also das im Grunde, wo die Marktforschung schon auf dem halben Weg dahin ist.
+
+42:04.000 --> 42:08.000
+Man redet vorher miteinander und versucht vorher herauszufinden,
+
+42:08.000 --> 42:12.000
+was gebraucht wird und produziert dann das, was gebraucht wird.
+
+42:12.000 --> 42:16.000
+So, das ist die Idee im Idealfall.
+
+42:16.000 --> 42:20.000
+Das kann man immer sich gut an irgendwelchen Robinsonaden veranschaulichen.
+
+42:20.000 --> 42:24.000
+Es ist, wenn man jetzt noch mal eine Ökonomie mit nur drei Leuten hätte,
+
+42:24.000 --> 42:28.000
+der eine macht X, der andere Y, der Z, dann können die erst mal drauf losproduzieren
+
+42:28.000 --> 42:30.000
+und treffen sich dann auf dem Marktplatz und gucken,
+
+42:30.000 --> 42:32.000
+brauchen die anderen meinen Kram überhaupt?
+
+42:32.000 --> 42:35.000
+Und wenn sie dann herausfinden, die brauchen die gar nicht, dann war das schlecht.
+
+42:35.000 --> 42:38.000
+Hab alles umsonst produziert, Ressourcen umsonst vergeudet, Energie,
+
+42:38.000 --> 42:42.000
+also setzen sie sich vorher in der Dorfkneipe zusammen, redet miteinander,
+
+42:42.000 --> 42:46.000
+was wollten ihr und ach so, ihr wollt das so haben, ach ich hätte das jetzt ganz anders gemacht,
+
+42:46.000 --> 42:49.000
+dann wunderbar, gut, dass ich es weiß und dann macht man es eben so.
+
+42:49.000 --> 42:53.000
+Wie die anderen das wollen und dann wird genau das hergestellt, was gebraucht wird.
+
+42:53.000 --> 42:57.000
+Idealerweise, Stichpunkt Ökologie, gibt es dann auch keinen Schwund
+
+42:57.000 --> 42:59.000
+und nichts, was umsonst produziert worden ist,
+
+42:59.000 --> 43:02.000
+weil ja alles, das nur produziert worden ist, was gebraucht worden ist.
+
+43:02.000 --> 43:06.000
+Klingt super, aber das Problem ist genau,
+
+43:06.000 --> 43:10.000
+mit drei Leuten oder fünf oder zehn oder hundert kann man sich das ganz gut vorstellen,
+
+43:10.000 --> 43:14.000
+bei sehr komplexen großen Zusammenhängen, wo es nicht nur um Güter geht,
+
+43:14.000 --> 43:18.000
+die ich lokal herstellen kann, sondern so was wie ein Computer,
+
+43:18.000 --> 43:22.000
+wo Millionen von Leuten dranhängen, von denen manche irgendwo in,
+
+43:22.000 --> 43:25.000
+was weiß ich wo, im globalen Süden irgendwo eine Schraube herstellen,
+
+43:25.000 --> 43:28.000
+von der die gar nicht wissen, dass die später in so einen Computer kommt,
+
+43:28.000 --> 43:30.000
+da wird das furchtbar kompliziert.
+
+43:30.000 --> 43:34.000
+Da tauchen dann wieder all diese Wissens- und Informationsprobleme auf,
+
+43:34.000 --> 43:37.000
+die die österreichische Schule stark gemacht hat.
+
+43:37.000 --> 43:42.000
+Deswegen, die Idee der exantre Koordination ist gut, schon aus ökologischen Gründen,
+
+43:42.000 --> 43:44.000
+ist das eine vernünftige Idee,
+
+43:44.000 --> 43:48.000
+aber sie muss eben mit diesen Wissensproblemen klarkommen.
+
+43:48.000 --> 43:52.000
+Ich halte das nicht für unmöglich, denn natürlich kann man auch
+
+43:52.000 --> 43:55.000
+in größerem Maßstab miteinander kommunizieren,
+
+43:55.000 --> 43:58.000
+man muss sich dafür nur geschickte Mechanismen einverlassen.
+
+43:58.000 --> 44:00.000
+Vielleicht ist aber ein General Catalog,
+
+44:00.000 --> 44:03.000
+also im Grunde so eine Art zentralisierter Marktplatz,
+
+44:03.000 --> 44:07.000
+keine so schlechte Idee, das zu machen.
+
+44:07.000 --> 44:09.000
+Das müsste man wahrscheinlich noch genauer theoretisch
+
+44:09.000 --> 44:13.000
+und vielleicht auch in Simulationen mal ausprobieren.
+
+44:13.000 --> 44:16.000
+Apropos Simulationen, ich habe mir gedacht,
+
+44:16.000 --> 44:18.000
+es ist gut, dass du das jetzt nochmal ansprichst,
+
+44:18.000 --> 44:20.000
+weil ich habe mir eigentlich eine Mental Note,
+
+44:20.000 --> 44:22.000
+aber keine physische Note gemacht,
+
+44:22.000 --> 44:24.000
+dass ich euch unbedingt vorschlagen möchte,
+
+44:24.000 --> 44:28.000
+dass ihr in eurer Simulation einmal das Modell von Daniel E. Saros versucht,
+
+44:28.000 --> 44:31.000
+durchzuspielen, weil ich mich ja in der Auseinandersetzung
+
+44:31.000 --> 44:33.000
+mit seinem Vorschlag schon auch gefragt habe.
+
+44:33.000 --> 44:41.000
+Er hat ja schon gewisse Vorstellungen von Equilibria im Sinne,
+
+44:41.000 --> 44:45.000
+wo er meint, aha, okay, da würde sich dann
+
+44:45.000 --> 44:50.000
+über iterative Anpassungsprozesse und über dieses Credit System
+
+44:50.000 --> 44:54.000
+auf der einen Seite und die Produktionspoints
+
+44:54.000 --> 44:56.000
+auf der anderen, würde sich dann nach und nach
+
+44:56.000 --> 44:59.000
+wie so ein, ja, schon auf eine Art ein Gleichgewicht
+
+44:59.000 --> 45:01.000
+in Anführungsstrichen, sage ich mal,
+
+45:01.000 --> 45:03.000
+ein bisschen vorsichtig einstellen.
+
+45:03.000 --> 45:05.000
+Also er hat da schon bis zu einem gewissen Grad,
+
+45:05.000 --> 45:08.000
+es steckt dann natürlich auch ein Leap of Faith drin,
+
+45:08.000 --> 45:11.000
+dass sich bestimmte Mechanismen, die im Kapitalismus
+
+45:11.000 --> 45:13.000
+sich ja durchaus auch einstellen,
+
+45:13.000 --> 45:16.000
+aber halt eben auf Basis anderer Bewegungsgesetze,
+
+45:16.000 --> 45:20.000
+wenn man so will, dass sich die dort dann auch einstellen würden.
+
+45:20.000 --> 45:22.000
+Und da wäre ja ganz interessant,
+
+45:22.000 --> 45:27.000
+ob man das in einer solchen Simulation etwaig dem nachfühlen könnte,
+
+45:27.000 --> 45:31.000
+ob das denn, ja, standhält oder nicht,
+
+45:31.000 --> 45:34.000
+wenngleich das damit natürlich nicht abschließend geklärt werden kann.
+
+45:34.000 --> 45:36.000
+Aber wenn man schon Simulationen macht,
+
+45:36.000 --> 45:38.000
+würde mich zumindest sehr interessieren,
+
+45:38.000 --> 45:41.000
+dass man von diesem Modell auch eine Simulation macht.
+
+45:41.000 --> 45:45.000
+Also das kann ich mir als ganz hervorragendes Forschungsprojekt vorstellen.
+
+45:45.000 --> 45:48.000
+Das müsste nur, glaube ich, noch mal ein eigenes Forschungsprojekt sein,
+
+45:48.000 --> 45:51.000
+denn was ich jetzt auch gelernt habe in der Zusammenarbeit
+
+45:51.000 --> 45:53.000
+mit den Kolleginnen und Kollegen aus Wien,
+
+45:53.000 --> 45:57.000
+ist, dass das einfach enorm schwierig ist, so eine Simulation zu machen.
+
+45:57.000 --> 45:59.000
+Weil das ist auch das Gute daran,
+
+45:59.000 --> 46:03.000
+man kann viel reden über ökonomische Modelle,
+
+46:03.000 --> 46:06.000
+wenn man das dann umsetzen muss, in so einer Art,
+
+46:06.000 --> 46:09.000
+oder will, in so einer Art von Ensemble,
+
+46:09.000 --> 46:11.000
+von Agenten, die sich irgendwie verhalten,
+
+46:11.000 --> 46:16.000
+von Constraints, von Rahmenbedingungen usw., Parametern,
+
+46:16.000 --> 46:19.000
+dann muss man plötzlich an ganz viele Details denken,
+
+46:19.000 --> 46:21.000
+die man vorher überhaupt nicht im Blick hatte,
+
+46:21.000 --> 46:24.000
+und es wird ganz schnell irrsinnig kompliziert.
+
+46:24.000 --> 46:27.000
+Und dazu kommt noch der Rechenaufwand usw.
+
+46:27.000 --> 46:31.000
+Also das ist sehr viel komplizierter, als man sich das denkt.
+
+46:31.000 --> 46:33.000
+Und ich möchte an dieser Stelle eine Bewunderung
+
+46:33.000 --> 46:35.000
+und einen Wertschätzen für meine Kolleginnen und Kollegen
+
+46:35.000 --> 46:38.000
+in Wien aussprechen, die sich da wirklich detailliert
+
+46:38.000 --> 46:41.000
+und sorgfältig drum bemühen.
+
+46:41.000 --> 46:46.000
+Und sagen wir es mal so, wir sind gerade eben dabei,
+
+46:46.000 --> 46:50.000
+ausgehend von den kommenstheoretischen Erörterungen
+
+46:50.000 --> 46:54.000
+ein Modell zu entwickeln, und damit müssen wir jetzt auch erst mal,
+
+46:54.000 --> 46:56.000
+das müssen wir jetzt auch erst mal so lassen,
+
+46:56.000 --> 46:59.000
+weil das können wir jetzt nicht noch ein anderes Modell einsetzen.
+
+46:59.000 --> 47:02.000
+Aber grundsätzlich halte ich das für eine interessante Idee,
+
+47:02.000 --> 47:05.000
+zu versuchen, die Dynamiken eines solchen Vorschlags,
+
+47:05.000 --> 47:10.000
+wie dem von Daniel Saros, in einem Simulationsmodell zu testen,
+
+47:10.000 --> 47:14.000
+weil das ist ja durchaus auch was, ich will das nochmal betonen,
+
+47:14.000 --> 47:18.000
+also das kann man ja auch technizistisch finden,
+
+47:18.000 --> 47:22.000
+dass wir mit Simulationen arbeiten, aber eine der Ideen ist auch,
+
+47:22.000 --> 47:25.000
+ich meine, das ist nun mal eine Technologie, mit der auch
+
+47:25.000 --> 47:28.000
+herrschende Ökonomiken arbeiten, Wirtschaftswissenschaften arbeiten,
+
+47:28.000 --> 47:35.000
+und warum sollten wir diesen Ansätzen, die ja auch ihre Berechtigung haben und so,
+
+47:35.000 --> 47:37.000
+aber einfach diese Instrumente überlassen?
+
+47:37.000 --> 47:39.000
+Ich meine, es wäre ja schon wichtig, dass, sagen wir mal,
+
+47:39.000 --> 47:44.000
+eine kritische Position sich auf der Höhe des technologischen,
+
+47:44.000 --> 47:49.000
+epistemologischen und modelltheoretischen Verstandes bewegen,
+
+47:49.000 --> 47:54.000
+um zu versuchen, ihre Überlegungen umzusetzen.
+
+47:54.000 --> 47:56.000
+Das halte ich schon für wichtig.
+
+47:57.000 --> 48:02.000
+Und wie gesagt, ich habe den Eindruck, dass wir eine Menge aus diesem Versuch lernen,
+
+48:02.000 --> 48:07.000
+nur aus dem Versuch lernen, unsere gesellschaftstheoretischen Überlegungen,
+
+48:07.000 --> 48:12.000
+so heterogen die anyway sind, in so ein Modell zu übersetzen.
+
+48:12.000 --> 48:14.000
+Da lernt man eine ganz große Menge draus.
+
+48:14.000 --> 48:17.000
+Und wie gesagt, selbst wenn da am Ende kein, ich glaube nicht,
+
+48:17.000 --> 48:20.000
+dass da irgendeine Blaupause für irgendwas rauskommt,
+
+48:20.000 --> 48:22.000
+weiß ich auch gar nicht mal, ob ich das würde wollen,
+
+48:22.000 --> 48:25.000
+selbst wenn das ginge, aber auf dem Weg dahin,
+
+48:25.000 --> 48:29.000
+einfach, dass man unablässig reflektiert über die eigenen,
+
+48:29.000 --> 48:32.000
+auch impliziten und verschwiegenden Vorannahmen
+
+48:32.000 --> 48:35.000
+seiner eigenen ökonomischen Vorstellungen,
+
+48:35.000 --> 48:38.000
+über viele auch scheinbar nur technische Probleme,
+
+48:38.000 --> 48:40.000
+über die man nie nachgedacht hat,
+
+48:40.000 --> 48:43.000
+die aber gravierende Folgen haben können dafür,
+
+48:43.000 --> 48:46.000
+ob sowas funktioniert und wie das funktioniert.
+
+48:46.000 --> 48:50.000
+Also da finde ich, täte, sagen wir mal diffus gesagt, die Linke,
+
+48:50.000 --> 48:57.000
+gut daran, sich stärker durchaus auf dieses Werkzeugrepertoire,
+
+48:57.000 --> 49:02.000
+das ja existiert einzulassen, um zu versuchen,
+
+49:02.000 --> 49:06.000
+ihre Vorstellungen genauer zu durchdenken
+
+49:06.000 --> 49:09.000
+und dadurch die ganze Sache auch substanzieller zu machen.
+
+49:09.000 --> 49:13.000
+Sonst ist man diesem herrschenden, sagen wir mal,
+
+49:13.000 --> 49:16.000
+technizistisch orientierten ökonomischen Block,
+
+49:16.000 --> 49:18.000
+der dann immer sagt, wir haben hier unsere Modelle
+
+49:18.000 --> 49:25.000
+mit unseren DSGE, Dynamic Stochastic General Equilibrium Modelle
+
+49:25.000 --> 49:29.000
+und das zeigt leider eindeutig, dass Märkteparete optimale sind.
+
+49:29.000 --> 49:31.000
+Das ist mathematisch bewiesen,
+
+49:31.000 --> 49:34.000
+dass Märkte die optimale Organisationsform sind.
+
+49:34.000 --> 49:37.000
+Ihr vergeudet eure Zeit, lasst es.
+
+49:37.000 --> 49:40.000
+Und diesen Leuten kann man nur etwas entgegensetzen,
+
+49:40.000 --> 49:43.000
+wenn man versucht auf demselben, glaube ich,
+
+49:43.000 --> 49:45.000
+vielleicht nicht auf demselben,
+
+49:45.000 --> 49:48.000
+zumindest da nicht zurückzuscheuen von solchen Verfahren
+
+49:48.000 --> 49:49.000
+und zumindest zu versuchen.
+
+49:49.000 --> 49:51.000
+Ich meine, vielleicht kommt am Ende auch raus,
+
+49:51.000 --> 49:52.000
+war das für die Katz?
+
+49:52.000 --> 49:55.000
+Ich meine, das muss man ehrlicherweise sagen, kann ja auch sein.
+
+49:55.000 --> 49:59.000
+Aber so be it, ich meine, das ist auch eine Erkenntnis.
+
+49:59.000 --> 50:00.000
+Absolut, das sehe ich genauso.
+
+50:00.000 --> 50:02.000
+Also ich glaube, dass die Auseinandersetzung
+
+50:02.000 --> 50:05.000
+mit dieser Technologie, dieser Simulationstechnologie
+
+50:05.000 --> 50:10.000
+so oder so einen wertvollen Benefit erbringt.
+
+50:10.000 --> 50:11.000
+Glaube ich auch.
+
+50:11.000 --> 50:13.000
+Ich würde gerne nochmal zu dieser Frage
+
+50:13.000 --> 50:16.000
+des Effizienzgedankens zurückkehren.
+
+50:16.000 --> 50:24.000
+Und zwar auch konkreter im Bezug auf die Überwindung des Geldes.
+
+50:24.000 --> 50:27.000
+Also euer Projekt heißt ja die Gesellschaft nach dem Geld.
+
+50:27.000 --> 50:29.000
+Geld ist aber auch eine Unit of Account.
+
+50:29.000 --> 50:35.000
+Also Geld ist auch eine Zähleinheit, die dazu dient.
+
+50:35.000 --> 50:37.000
+Das ist ja dann auch eine Argumentationslinie
+
+50:37.000 --> 50:40.000
+der Österreichischen Schule der Nationalökonomie,
+
+50:40.000 --> 50:43.000
+die auch dazu dient, zu vergleichen,
+
+50:43.000 --> 50:50.000
+welcher Produktionstechnik denn jetzt besser ist als die andere.
+
+50:50.000 --> 50:53.000
+Und wenngleich, du hattest es natürlich auch schon angesprochen,
+
+50:53.000 --> 50:55.000
+dass es jetzt überhaupt nicht darum geht,
+
+50:55.000 --> 50:58.000
+einen kapitalistischen Effizienzgedanken irgendwie zu kopieren
+
+50:58.000 --> 51:04.000
+und diese profitorientierte Logik da jetzt in irgendwelche alternativen Modelle
+
+51:04.000 --> 51:08.000
+quasi über diesen Weg dann wieder einfließen zu lassen.
+
+51:08.000 --> 51:11.000
+Betont du auch, dass eine Gesellschaft nach dem Geld
+
+51:11.000 --> 51:14.000
+keine Gesellschaft nach der Quantifizierung ist.
+
+51:14.000 --> 51:18.000
+Wie kann man mit diesem Problem umgehen?
+
+51:18.000 --> 51:22.000
+Also das ist eine sehr schwierige Frage.
+
+51:22.000 --> 51:26.000
+Was mir zunächst unbestreitbar erscheint,
+
+51:26.000 --> 51:30.000
+ist, dass auch eine postkapitalistische Ökonomie
+
+51:30.000 --> 51:36.000
+mit sowas wie Messung und Quantifizierung arbeiten muss.
+
+51:36.000 --> 51:39.000
+Ich muss ja zum Beispiel, nehmen wir mal an,
+
+51:39.000 --> 51:43.000
+ich habe eine Brötchenbackeinheit,
+
+51:43.000 --> 51:45.000
+wir müssen das jetzt nicht Commons nennen,
+
+51:45.000 --> 51:48.000
+aber eine Brötchenbackeinheit.
+
+51:48.000 --> 51:50.000
+Und was brauche ich? Ich brauche unter anderem Mehl.
+
+51:50.000 --> 51:53.000
+Und dann werde ich ja der Mehlproduktionseinheit
+
+51:53.000 --> 51:56.000
+oder irgendeiner Mehlproduktionseinheit sagen müssen,
+
+51:56.000 --> 51:57.000
+wie viel Mehl ich haben will.
+
+51:57.000 --> 51:59.000
+Ich kann ja nicht einfach sagen, ich will Mehl.
+
+51:59.000 --> 52:01.000
+Nein, dann kommen die da mit einem Teelöffel Mehl an.
+
+52:01.000 --> 52:03.000
+Da habe ich herzlich wenig davon.
+
+52:03.000 --> 52:05.000
+Da kann ich nämlich keine Brötchen backen.
+
+52:05.000 --> 52:07.000
+Oder mit 10.000 Tonnen.
+
+52:07.000 --> 52:11.000
+Ich brauche davon irgendwie 100 Kilogramm eine Brötchenbacke,
+
+52:11.000 --> 52:15.000
+die anderen 1.000 Tonnen verfaulen im Hof.
+
+52:15.000 --> 52:17.000
+Und woanders können keine Brötchen gebacken werden,
+
+52:17.000 --> 52:18.000
+weil das Mehl bei mir vergammelt.
+
+52:18.000 --> 52:20.000
+Also das kann ja irgendwie nicht...
+
+52:20.000 --> 52:24.000
+Also an diesem robinsonatenhaften Beispiel
+
+52:24.000 --> 52:27.000
+kann man sehen, dass irgendwie sowas wie eine Quantifizierung,
+
+52:27.000 --> 52:30.000
+Maßeinheiten, dass man irgendwie festlegen muss,
+
+52:30.000 --> 52:33.000
+von wie viel gebraucht wird, an welchem Ort,
+
+52:33.000 --> 52:35.000
+dass das fundamentale Relevanz hat.
+
+52:37.000 --> 52:38.000
+Und dann ist eben...
+
+52:38.000 --> 52:40.000
+Also das kann man glaube ich erst mal feststellen.
+
+52:40.000 --> 52:42.000
+Damit ist man schon auf dem Weg zu dem,
+
+52:42.000 --> 52:45.000
+was eben Mises angegriffen hat an von Neurath.
+
+52:45.000 --> 52:47.000
+Sowas wie Naturalplanung.
+
+52:47.000 --> 52:48.000
+Dass man sich überlebt, klar,
+
+52:48.000 --> 52:50.000
+wir müssen irgendwie mit Einheiten hantieren.
+
+52:50.000 --> 52:54.000
+Und wir müssen sicherstellen, dass zum Beispiel
+
+52:54.000 --> 52:57.000
+jede Einheit die Mengen der Güter hat,
+
+52:57.000 --> 52:59.000
+die sie braucht, um zu produzieren.
+
+52:59.000 --> 53:01.000
+Jetzt ist der Einwand, vereinfacht gesagt,
+
+53:01.000 --> 53:03.000
+von Mises gegen von Neurath der gewesen,
+
+53:03.000 --> 53:05.000
+wenn wir aber keinen Maßstab haben,
+
+53:05.000 --> 53:09.000
+diese unterschiedlichen Güter abstrakt aufeinander zu beziehen,
+
+53:09.000 --> 53:13.000
+können wir nicht sozusagen bemessen,
+
+53:13.000 --> 53:16.000
+welcher Aufwand es wert ist,
+
+53:16.000 --> 53:19.000
+welche Mengen von Gütern für was zu produzieren.
+
+53:19.000 --> 53:21.000
+Und dann droht die Gefahr,
+
+53:21.000 --> 53:24.000
+dass vollkommen sinnlos Güter produziert werden
+
+53:24.000 --> 53:27.000
+oder Rohstoffe für Güter produziert werden.
+
+53:27.000 --> 53:30.000
+Und dann woanders die Ressourcen, die Energie,
+
+53:30.000 --> 53:33.000
+die Leute oder Rohstoffe eben fehlen,
+
+53:33.000 --> 53:35.000
+um das zu produzieren, was vielleicht nötig ist.
+
+53:35.000 --> 53:37.000
+Dann wird in einer Ecke werden plötzlich
+
+53:37.000 --> 53:39.000
+Berge von Mehl produziert.
+
+53:39.000 --> 53:41.000
+Und woanders können die Leute kein Brot essen,
+
+53:41.000 --> 53:43.000
+weil da das Mehl fehlt.
+
+53:43.000 --> 53:48.000
+Und das ist kein von der Hand zu weisender Einwand,
+
+53:48.000 --> 53:52.000
+dass Effizienz in dem Sinne nicht bedeutet Profitabilität,
+
+53:52.000 --> 53:56.000
+im Sinne der Akkumulation von abstraktem Wert,
+
+53:56.000 --> 53:59.000
+sondern dass Effizienz zunächst bedeutet,
+
+53:59.000 --> 54:03.000
+dass eine Produktion, ja, und jetzt wird es natürlich schwammig,
+
+54:03.000 --> 54:07.000
+dass eine Produktion vernünftig oder rational organisiert ist,
+
+54:07.000 --> 54:11.000
+was bei Wegfall des Profitmotives nicht heißt profitabel,
+
+54:11.000 --> 54:13.000
+nicht heißt muss profitabel,
+
+54:13.000 --> 54:17.000
+sondern vielleicht auch so was heißen könnte wie ökologisch sinnvoll.
+
+54:17.000 --> 54:19.000
+Ja, das könnte es auch heißen,
+
+54:19.000 --> 54:22.000
+nur dann müsste man sich überlegen, was sind die Kriterien dafür?
+
+54:22.000 --> 54:24.000
+Denn das müsste irgendwie als Marker
+
+54:24.000 --> 54:26.000
+den Produkten auch anhaften.
+
+54:26.000 --> 54:28.000
+Wir würden es dann vielleicht nicht preisenden,
+
+54:28.000 --> 54:34.000
+sondern ein ökologisches Stück mergisches Signal könnte man,
+
+54:34.000 --> 54:36.000
+das klingt ein bisschen holprig, aber sowas.
+
+54:36.000 --> 54:41.000
+Das müsste irgendwie transparent werden im Produktionsprozess,
+
+54:41.000 --> 54:47.000
+welches Maß sinnvoll ist.
+
+54:47.000 --> 54:50.000
+Ja, das muss irgendwie geregelt werden.
+
+54:50.000 --> 54:52.000
+Und wenn man es nicht über Preise tut,
+
+54:52.000 --> 54:53.000
+wobei man sogar bestreiten kann,
+
+54:53.000 --> 54:56.000
+dass Preise dafür ein wirklich gutes Kriterium sind, ja,
+
+54:56.000 --> 55:01.000
+sie sind eins, aber wenn man so unsere Produktion sieht,
+
+55:01.000 --> 55:03.000
+den Klimawandel, den Plastikmüll,
+
+55:03.000 --> 55:06.000
+die Hälfte des Essens wird weggeschmissen und so,
+
+55:06.000 --> 55:09.000
+und da noch die Instabilitäten,
+
+55:09.000 --> 55:11.000
+die mit der Kapitalakkumulation einhergehen,
+
+55:11.000 --> 55:14.000
+also die wackelnden Finanzmärkte und so,
+
+55:14.000 --> 55:17.000
+also ob das so toll funktioniert darüber,
+
+55:17.000 --> 55:19.000
+kann man sich wirklich ernsthaft den Kopf zerbrechen.
+
+55:19.000 --> 55:22.000
+Das ist ja auch der gute Grund, warum wir hier sitzen.
+
+55:22.000 --> 55:27.000
+Aber also Effizienz ist nichts per se Böses.
+
+55:27.000 --> 55:30.000
+Effizienz muss man trennen von Profitabilität.
+
+55:30.000 --> 55:31.000
+Da geht es eher um die Frage,
+
+55:31.000 --> 55:33.000
+wie kann man mit den Mitteln, die man hat,
+
+55:33.000 --> 55:35.000
+eine Produktion organisieren,
+
+55:35.000 --> 55:38.000
+die in der Lage ist, möglichst viele Bedürfnisse zu befriedigen.
+
+55:38.000 --> 55:41.000
+Also im Grunde die klassisch ökonomische Frage immer noch.
+
+55:41.000 --> 55:45.000
+Ja, ich weiß, das mögen viele Leute nicht so gerne hören,
+
+55:45.000 --> 55:46.000
+ich eigentlich auch nicht,
+
+55:46.000 --> 55:49.000
+ich weiß, Knappheit ist auch was Konstruiertes, okay,
+
+55:49.000 --> 55:52.000
+und das sieht man ja besonders im Bereich der immateriellen Digitalgüter,
+
+55:52.000 --> 55:54.000
+wie Knappheit konstruiert wird, alles klar.
+
+55:54.000 --> 55:56.000
+Aber es ist trotzdem so,
+
+55:56.000 --> 56:00.000
+dass bestimmte Güter nicht beliebig und beliebigen Übermaß vorhanden sind,
+
+56:00.000 --> 56:03.000
+dann regnet es mal, zwei Jahre nicht,
+
+56:03.000 --> 56:05.000
+dann gibt es plötzlich weniger Getreide,
+
+56:05.000 --> 56:07.000
+und dann muss man trotzdem sehen, wie man damit zu ranbekommt.
+
+56:07.000 --> 56:09.000
+Also diese Frage ist ja real.
+
+56:09.000 --> 56:11.000
+Also da muss man sich überlegen, wie organisiert man das?
+
+56:11.000 --> 56:14.000
+Und Preise sind ein Weg, das zu tun,
+
+56:14.000 --> 56:17.000
+wenn es zwei Jahre nicht regnet, wird das Getreide teurer,
+
+56:17.000 --> 56:19.000
+was dann zunächst den Folge hat,
+
+56:19.000 --> 56:21.000
+dass die Leute, die weniger Geld haben, warum auch immer,
+
+56:21.000 --> 56:23.000
+plötzlich sich kein Brot mehr kaufen können,
+
+56:23.000 --> 56:25.000
+das ist ja ein super Ergebnis,
+
+56:25.000 --> 56:27.000
+oder man muss das irgendwie anders organisieren,
+
+56:27.000 --> 56:32.000
+aber so zu tun, als würde mit dem Postkapitalismus
+
+56:32.000 --> 56:35.000
+automatisch die Abundanz anbrechen,
+
+56:35.000 --> 56:38.000
+ja, das halte ich für eine Illusion.
+
+56:38.000 --> 56:40.000
+Das ist eher umgekehrt so.
+
+56:40.000 --> 56:42.000
+Wenn man aus irgendwelchen Gründen in der Lage wäre,
+
+56:42.000 --> 56:45.000
+Abundanz herzustellen, ohne die ökologischen Verheerungen,
+
+56:45.000 --> 56:48.000
+dann wäre es leicht zum Postkapitalismus zu kommen.
+
+56:48.000 --> 56:51.000
+Stichwort Replikator, Star Trek, 3D-Druck.
+
+56:51.000 --> 56:56.000
+Aber als Abgesehen von den ökologischen Problemen,
+
+56:56.000 --> 56:58.000
+da muss ja irgendwo die Energie für her,
+
+56:58.000 --> 57:00.000
+und wo bleibt der Müll hin und so,
+
+57:00.000 --> 57:04.000
+ist das unerreichbar offensichtlich, diese Abundanz,
+
+57:04.000 --> 57:09.000
+bis auf weiteres, und es besteht weiterhin der Punkt,
+
+57:09.000 --> 57:11.000
+dass es nur endlich viele Ressourcen gibt
+
+57:11.000 --> 57:13.000
+auf einer endlichen kugelförmigen Erde,
+
+57:13.000 --> 57:17.000
+und das heißt, muss irgendwie geklärt werden,
+
+57:17.000 --> 57:19.000
+wie das organisiert wird,
+
+57:19.000 --> 57:22.000
+und dass das sicher besser organisiert werden kann als jetzt,
+
+57:22.000 --> 57:24.000
+daran habe ich keinen Zweifel,
+
+57:24.000 --> 57:27.000
+denn die Ergebnisse, siehe Klimawandel und so weiter,
+
+57:27.000 --> 57:29.000
+sind ja doch eher bescheiden.
+
+57:29.000 --> 57:32.000
+Aber das muss man irgendwie im Blick haben,
+
+57:32.000 --> 57:35.000
+man kann nicht sagen, Quantifizierung spielt keine Rolle.
+
+57:35.000 --> 57:37.000
+Aber wenn man dann quantifiziert,
+
+57:37.000 --> 57:39.000
+wenn man Einheiten in Quantitäten tauscht,
+
+57:39.000 --> 57:41.000
+und dann wird früher oder später
+
+57:41.000 --> 57:43.000
+wieder die Frage nach der Vergleichbarkeit
+
+57:43.000 --> 57:45.000
+zwischen diesen Quantitäten auftauchen.
+
+57:45.000 --> 57:47.000
+Und damit ist man schon direkt auf dem Weg
+
+57:47.000 --> 57:50.000
+zur Frage nach dem allgemeinen Äquivalent.
+
+57:50.000 --> 57:53.000
+Deswegen gab es bei uns in dem Gesellschaft am Geld
+
+57:53.000 --> 57:56.000
+auch eine Diskussion, vielleicht ist die Frage gar nicht
+
+57:56.000 --> 57:58.000
+die nach dem Geld,
+
+57:58.000 --> 58:01.000
+also eigentlich müsste es ja sowieso nach dem Kapital
+
+58:01.000 --> 58:03.000
+wahrscheinlich heißen, aber nicht nach dem Geld,
+
+58:03.000 --> 58:05.000
+sondern vielleicht auch anderes Geld.
+
+58:05.000 --> 58:09.000
+Ja, also andere Arten von Einheiten, mit denen man rechnet,
+
+58:09.000 --> 58:11.000
+die man zum Beispiel nicht akkumulieren kann,
+
+58:11.000 --> 58:14.000
+also dass die Kapitalakkumulation verhindert wird,
+
+58:14.000 --> 58:16.000
+oder die verfallen,
+
+58:18.000 --> 58:19.000
+oder sowas.
+
+58:19.000 --> 58:22.000
+Also, dass es vielleicht sowas braucht wie allgemeine Äquivalente,
+
+58:22.000 --> 58:25.000
+die aber nicht dieselbe Form haben,
+
+58:25.000 --> 58:28.000
+wie das allgemeine Äquivalent, was wir jetzt haben.
+
+58:28.000 --> 58:30.000
+Und bei uns in der Simulation zum Beispiel,
+
+58:30.000 --> 58:32.000
+der Cummins Ökonomie ist auch aufgetaucht,
+
+58:32.000 --> 58:35.000
+dass wir tatsächlich jetzt anfangen mit sowas wie Arbeitszeit,
+
+58:35.000 --> 58:37.000
+Quanten oder Energiequanten zu rechnen,
+
+58:37.000 --> 58:40.000
+weil wir irgendwie solche Maßstäbe brauchen.
+
+58:42.000 --> 58:44.000
+Und das ist ein sehr ernstes Problem,
+
+58:44.000 --> 58:46.000
+aber das heißt nicht, dass ein Postkapitalismus unmöglich ist.
+
+58:46.000 --> 58:48.000
+Das heißt zunächst mal nur,
+
+58:48.000 --> 58:50.000
+dass man sich sehr genau Gedanken machen muss
+
+58:50.000 --> 58:53.000
+über die Art und Weise, wie verschiedene Produktionsformen
+
+58:53.000 --> 58:55.000
+und Güterklassen und Gütermengen und so weiter
+
+58:55.000 --> 58:57.000
+aufeinander bezogen werden können.
+
+58:57.000 --> 58:59.000
+Das ist alles.
+
+58:59.000 --> 59:02.000
+Und es klingt einfach, ist es aber nicht.
+
+59:02.000 --> 59:04.000
+Sehr interessant.
+
+59:04.000 --> 59:07.000
+Wie stehen denn da die eher aus der Cummins-Ecke
+
+59:07.000 --> 59:10.000
+kommenden Teilnehmerinnen des Forschungsprojektes dazu?
+
+59:10.000 --> 59:12.000
+Weil das wäre ja eigentlich etwas,
+
+59:12.000 --> 59:14.000
+wo ich immer das Gefühl hatte,
+
+59:14.000 --> 59:17.000
+dass man da im Cummins-Bereich sich verscheut,
+
+59:17.000 --> 59:19.000
+quasi diese Feststellung zu machen,
+
+59:19.000 --> 59:21.000
+die du gerade getätigt hast,
+
+59:21.000 --> 59:24.000
+und dass man da eher sich so ein bisschen ausflüchtet
+
+59:24.000 --> 59:26.000
+auf ein diffuses, na ja,
+
+59:26.000 --> 59:30.000
+das wird schon in einer kooperativen Gesellschaft
+
+59:30.000 --> 59:32.000
+sich dann anders ergeben.
+
+59:32.000 --> 59:35.000
+Sag ich jetzt mal extra ein bisschen polemisch formuliert,
+
+59:35.000 --> 59:38.000
+weswegen ja dann die Frage der Antropologie wieder so interessant ist,
+
+59:38.000 --> 59:41.000
+die du am Anfang ja auch mal kurz angesprochen hattest,
+
+59:41.000 --> 59:43.000
+zu der wir vielleicht dann auch noch kommen.
+
+59:43.000 --> 59:46.000
+Aber wie stehen die Cummins-orientierten Teilnehmerinnen
+
+59:46.000 --> 59:49.000
+zu dieser Frage der, wie hattest du das jetzt gesagt, Arbeitsquanten?
+
+59:49.000 --> 59:52.000
+Eine Zeitquanten, also Zeitaufwand.
+
+59:52.000 --> 59:54.000
+Das ist noch allgemeiner gehalten,
+
+59:54.000 --> 59:56.000
+wenn ich das jetzt richtig im Kopf habe.
+
+59:56.000 --> 01:00:01.000
+Also man muss sagen, dass die Idee der Einführung von Zeitquanten,
+
+01:00:01.000 --> 01:00:05.000
+sozusagen benötigt der Produktiv- und Reproduktivzeit,
+
+01:00:05.000 --> 01:00:07.000
+die bei uns im Modell sind,
+
+01:00:07.000 --> 01:00:10.000
+das kommt also aus der Ecke der Cummins-Seite.
+
+01:00:10.000 --> 01:00:14.000
+Man hat dort gesehen, dass es irgendwie nötig ist,
+
+01:00:14.000 --> 01:00:16.000
+das sozusagen einzuführen.
+
+01:00:16.000 --> 01:00:19.000
+Und das ist insofern natürlich interessant,
+
+01:00:19.000 --> 01:00:24.000
+weil Zeit ist natürlich der denkbar abstrakteste Maßstab.
+
+01:00:24.000 --> 01:00:26.000
+Das berührt natürlich auch die Frage nach der Arbeit,
+
+01:00:26.000 --> 01:00:28.000
+die Frage nach der Arbeitszeit.
+
+01:00:28.000 --> 01:00:31.000
+Also Produktivzeit ist ja im Grunde, kann man übersetzen in Arbeitszeit.
+
+01:00:31.000 --> 01:00:35.000
+Und mithin ist diese Zeiteinheit auch eine Arbeitseinheit.
+
+01:00:35.000 --> 01:00:39.000
+Ja, eine Arbeitszeitrechnung in gewisser Weise.
+
+01:00:39.000 --> 01:00:42.000
+Marx hat ja bekanntlich gesagt, Ökonomie der Zeit,
+
+01:00:42.000 --> 01:00:45.000
+darin löst sich jede Ökonomie auf.
+
+01:00:46.000 --> 01:00:51.000
+Also da taucht diese Frage der Vergleichbarkeit wieder auf,
+
+01:00:51.000 --> 01:00:54.000
+denn man könnte dann ja sagen, dass verschiedene Güter,
+
+01:00:54.000 --> 01:00:57.000
+die zirkulieren in der Cumminsökonomie,
+
+01:00:57.000 --> 01:01:01.000
+irgendwie zum Beispiel über Zeiteinheiten bemessen werden.
+
+01:01:01.000 --> 01:01:05.000
+Also mein ganz praktisch gesprochenen Gut,
+
+01:01:05.000 --> 01:01:07.000
+was sehr viel mehr Zeit zur Herstellung braucht,
+
+01:01:07.000 --> 01:01:13.000
+ist eben in demselben Zeitraum nur in kleineren Quantitäten verfügbar.
+
+01:01:13.000 --> 01:01:16.000
+Oder man musste sozusagen mehrere Cummins,
+
+01:01:16.000 --> 01:01:18.000
+zum Beispiel die Metacommins vernetzen,
+
+01:01:18.000 --> 01:01:21.000
+um dieselbe Menge in derselben Zeit herzustellen oder so.
+
+01:01:21.000 --> 01:01:23.000
+Also dadurch werden natürlich solche Maßstäbe,
+
+01:01:23.000 --> 01:01:26.000
+Vergleichbarkeitsmaßstäbe hergestellt.
+
+01:01:26.000 --> 01:01:31.000
+Und das scheint mir auch notwendig zu sein,
+
+01:01:31.000 --> 01:01:37.000
+zumindest solange der Bereich der phantasmatischen Abundanz,
+
+01:01:37.000 --> 01:01:42.000
+in der alles zu viel vorhanden ist, im Prinzip nicht erreicht ist.
+
+01:01:42.000 --> 01:01:45.000
+Dann bräuchte man natürlich solche Maßstäbe nicht mehr.
+
+01:01:45.000 --> 01:01:50.000
+Und was ich in der Cummins-Debatte so weit ich die kenne,
+
+01:01:50.000 --> 01:01:53.000
+aber auch da würde ich mal die berufeneren Leute fragen,
+
+01:01:53.000 --> 01:01:56.000
+einerseits schätze ich es natürlich,
+
+01:01:56.000 --> 01:02:04.000
+auch dieser utopische Zug zu sagen, wir fangen erst gar nicht an,
+
+01:02:04.000 --> 01:02:08.000
+oder in erster Linie jetzt wieder so kleinkariert herumzumachen
+
+01:02:08.000 --> 01:02:11.000
+mit Arbeitszeitquanten, sondern wollen sofort klarstellen,
+
+01:02:11.000 --> 01:02:16.000
+es muss eine absolute Freiwilligkeit geben für diese Selbstorganisation.
+
+01:02:16.000 --> 01:02:22.000
+Aber die Organisation von Ökonomien ist zumindest eine gewisse Zeit lang
+
+01:02:22.000 --> 01:02:25.000
+mindestens darauf, glaube ich, verwiesen,
+
+01:02:25.000 --> 01:02:30.000
+dass man eine solche Aufeinanderbeziehbarkeit von Maßstäben herstellt.
+
+01:02:30.000 --> 01:02:33.000
+Also was du für ein Unit of Account genannt hast,
+
+01:02:33.000 --> 01:02:36.000
+bedeutet ja im Grunde nichts anderes, als dass es einen Maßstab gibt.
+
+01:02:36.000 --> 01:02:40.000
+Das heißt nicht, dass man diesen Maßstab akkumulieren muss,
+
+01:02:40.000 --> 01:02:43.000
+dass dessen Herstellung dann Selbstzweck der Gesellschaft wird,
+
+01:02:43.000 --> 01:02:46.000
+wie das im Kapitalismus ist, aber Maßstäbe muss es geben.
+
+01:02:46.000 --> 01:02:50.000
+Weil sonst, glaube ich, schwierig ist zu steuern,
+
+01:02:50.000 --> 01:02:53.000
+oder auch einfach sich...
+
+01:02:53.000 --> 01:02:56.000
+Steuern klingt schon wieder so nach Zentralplanung.
+
+01:02:56.000 --> 01:02:59.000
+Selbst wenn man sich basal kommunikativ einigen will,
+
+01:02:59.000 --> 01:03:03.000
+über was man machen will, dann kann man natürlich immer noch sagen,
+
+01:03:03.000 --> 01:03:06.000
+ach, egal wie ineffizient das ist, wir wollen das jetzt.
+
+01:03:06.000 --> 01:03:09.000
+Wir wollen jetzt eine riesige lila Pyramide bauen.
+
+01:03:09.000 --> 01:03:12.000
+Das bedeutet, dass wir jahrelang kein Brot mehr haben.
+
+01:03:12.000 --> 01:03:15.000
+Das kann man natürlich beschließen. Okay, okay.
+
+01:03:15.000 --> 01:03:18.000
+Also wenn man das möchte, kann man das machen.
+
+01:03:18.000 --> 01:03:22.000
+Und gut, die Frage ist halt, ob das so eine gute Idee ist.
+
+01:03:22.000 --> 01:03:25.000
+Und ob das auf Dauer nicht dazu führt,
+
+01:03:25.000 --> 01:03:30.000
+dass das entsprechende ökonomische Modell an Attraktivität verliert,
+
+01:03:30.000 --> 01:03:33.000
+wenn sozusagen keine Mechanismen eingebaut sind, die sicherstellen,
+
+01:03:33.000 --> 01:03:38.000
+dass gewisse von allen geteilte Bedürfnisse auch noch erfüllt werden können,
+
+01:03:38.000 --> 01:03:42.000
+weil eben mangels Maßstäben unglaublich viele Ressourcen
+
+01:03:42.000 --> 01:03:45.000
+in irgendwelche vollkommen verrückten Projekte ablaufen,
+
+01:03:52.000 --> 01:03:55.000
+die die Versorgungslage gefährden.
+
+01:03:55.000 --> 01:03:58.000
+Ich meine, so gesehen sieht der Kapitalismus halt auch nicht gut aus,
+
+01:03:58.000 --> 01:04:01.000
+bei allen tollen Preismechanismen und Konkurrenz.
+
+01:04:01.000 --> 01:04:04.000
+Ich meine, es gibt vollkommen verrückte Weltraumprojekte.
+
+01:04:04.000 --> 01:04:07.000
+Also nichts, dass ich fast gegen hätte. Ich finde das alles ganz faszinierend.
+
+01:04:07.000 --> 01:04:10.000
+Aber wo anders fällt, in den Schulen fällt der Putz von der Wand.
+
+01:04:10.000 --> 01:04:16.000
+Also da scheint mir die Allokation auch nicht gerade wirklich so optimal bedürfnisorientiert zu sein.
+
+01:04:16.000 --> 01:04:20.000
+Die Profitmaximierung, man kann so argumentieren,
+
+01:04:20.000 --> 01:04:24.000
+dass Profitmaximierung ein Weg ist der Bedürfniserfüllung,
+
+01:04:24.000 --> 01:04:28.000
+in dem es eben sich lohnt, Bedürfnisse zu erfüllen, wo sie auftreten.
+
+01:04:28.000 --> 01:04:31.000
+Auf der anderen Seite kann man ebenfalls zeigen,
+
+01:04:31.000 --> 01:04:35.000
+dass natürlich Bedürfnisse nicht immer zahlungsfähige Bedürfnisse sind
+
+01:04:35.000 --> 01:04:38.000
+und das aufgrund der Verknappung durch das Geld
+
+01:04:38.000 --> 01:04:42.000
+plötzlich ist oder im Laufe der Zeit zu krassen Verzerrungen kommt,
+
+01:04:42.000 --> 01:04:47.000
+wo Bedürfnisse nicht erfüllt werden,
+
+01:04:47.000 --> 01:04:51.000
+wenn andernorts irgendwelche megalomanischen Projekte aus dem Boden gestampft werden.
+
+01:04:51.000 --> 01:04:55.000
+Und das scheint mir gerade ein abschreckendes Beispiel dafür zu sein,
+
+01:04:55.000 --> 01:04:59.000
+dass diese Art von Maßstaben, wie er eingesetzt wird, nicht besonders gut funktioniert.
+
+01:04:59.000 --> 01:05:02.000
+Das ist aber kein Argument gegen den Maßstab,
+
+01:05:02.000 --> 01:05:06.000
+weil ohne Maßstab hat man dasselbe Problem genauso oder vielleicht sogar noch schlimmer.
+
+01:05:06.000 --> 01:05:08.000
+Man braucht irgendwie einen anderen Maßstab.
+
+01:05:08.000 --> 01:05:10.000
+Das heißt nicht unbedingt, dass man anderes Geld braucht.
+
+01:05:10.000 --> 01:05:12.000
+Das könnten auch Zeiteinheiten sein oder irgendwas anderes.
+
+01:05:12.000 --> 01:05:17.000
+Aber irgendwie muss man, das muss auf Messbarkeit bezogen bleiben.
+
+01:05:17.000 --> 01:05:21.000
+Deswegen hat er auch schlaut argumentiert, dass Marx ein großer Messtheoretiker ist.
+
+01:05:21.000 --> 01:05:23.000
+Es geht um Messung.
+
+01:05:23.000 --> 01:05:27.000
+Das ist etwas sehr Wichtiges, um zu verstehen, wie Ökonomien funktionieren meines Erachtens.
+
+01:05:28.000 --> 01:05:33.000
+Und anschließend finde ich schon noch die Frage nach den Anthropologien,
+
+01:05:33.000 --> 01:05:35.000
+die eben in das Ganze eingeschrieben sind.
+
+01:05:35.000 --> 01:05:37.000
+Du hattest jetzt angesprochen,
+
+01:05:37.000 --> 01:05:42.000
+dass die aus der Kommenstheorie kommenden TeilnehmerInnen eures Forschungsprojektes
+
+01:05:42.000 --> 01:05:46.000
+im Grunde wie so einen Leap of Faith machen und sagen,
+
+01:05:46.000 --> 01:05:56.000
+okay, nein, wir springen sofort in einen, ja, was bei Daniel D. Saros dann eben sagen,
+
+01:05:56.000 --> 01:05:59.000
+der Kommunismus wäre im Gegensatz zum Sozialismus.
+
+01:05:59.000 --> 01:06:02.000
+Die kommensorientierten Leute würden das wahrscheinlich anders nennen.
+
+01:06:02.000 --> 01:06:04.000
+Aber wir springen quasi gleich in einen Mechanismus,
+
+01:06:04.000 --> 01:06:08.000
+der eben auf radikaler Freiwilligkeit basiert.
+
+01:06:10.000 --> 01:06:15.000
+Ich fand bei dem Konzept von Saros das eigentlich gerade interessant
+
+01:06:15.000 --> 01:06:18.000
+und gut, dass er da wie so einen Mehrstufenplan vorschlägt,
+
+01:06:18.000 --> 01:06:22.000
+weil er sagt, okay, nein, am Anfang braucht es eben schon noch Mechanismen,
+
+01:06:22.000 --> 01:06:27.000
+die auch vielleicht dann eben diesen Sanktionen bei Ostrum nicht unähnlich sind,
+
+01:06:27.000 --> 01:06:33.000
+weil man eben auch noch nicht es mit den Menschen zu tun hat,
+
+01:06:33.000 --> 01:06:38.000
+die in dieser Form von kooperativer Gesellschaft aufgewachsen sind.
+
+01:06:38.000 --> 01:06:43.000
+Also inwiefern, würdest du sagen, setzen die kommensorientierten Herangehensweisen
+
+01:06:43.000 --> 01:06:50.000
+da vielleicht eben auch schon eine Anthropologie voraus oder einen Menschen voraus,
+
+01:06:50.000 --> 01:06:52.000
+sage ich jetzt mal, vielleicht ein bisschen überspitzt,
+
+01:06:52.000 --> 01:06:58.000
+der vielleicht dann auch einer idealisierten Vorstellung entspricht?
+
+01:06:59.000 --> 01:07:05.000
+Also zumindest Stefan Mehretz und Simon Sütterly,
+
+01:07:05.000 --> 01:07:07.000
+die kann man im Vorwurf eigentlich nicht machen,
+
+01:07:07.000 --> 01:07:12.000
+weil das Modell, das sie entwerfen, ja sehr klar darauf abhebt,
+
+01:07:12.000 --> 01:07:18.000
+dass sie argumentieren, dass gesellschaftliche Bedingungen geschaffen werden müssen,
+
+01:07:18.000 --> 01:07:25.000
+die es für Menschen effizient machen, sich inklusiv zu verhalten, statt exklusiv.
+
+01:07:25.000 --> 01:07:29.000
+Also sie gehen nicht davon aus, dass Menschen per se inklusiv sind,
+
+01:07:29.000 --> 01:07:32.000
+sondern sie argumentieren ja und auch nicht zu Unrecht,
+
+01:07:32.000 --> 01:07:37.000
+das ist in Märkten, deren grundlegende Theorie ja darauf basiert,
+
+01:07:37.000 --> 01:07:39.000
+ich vereinfache jetzt wieder sträflich,
+
+01:07:39.000 --> 01:07:45.000
+dass die Maximierung von Eigennutz zum besten Nutz aller führt,
+
+01:07:45.000 --> 01:07:48.000
+dass wenn so ein Modell einer Gesellschaft schon zugrunde liegt
+
+01:07:48.000 --> 01:07:51.000
+und dann auch zur Not mit Nudging und so weiter erzogen werden soll,
+
+01:07:51.000 --> 01:07:55.000
+dass sich dann alle egoistisch verhalten, ach wie überraschend, ja,
+
+01:07:55.000 --> 01:08:00.000
+und an Märkten muss man sich egoistisch verhalten,
+
+01:08:00.000 --> 01:08:04.000
+das geht mal unter, früher oder später, das ist einfach so, in der Konkurrenz,
+
+01:08:04.000 --> 01:08:09.000
+das ist einfach so und daraus kann man zumindest ableiten,
+
+01:08:09.000 --> 01:08:13.000
+dass es unter anderen gesellschaftlichen Bedingungen sein könnte,
+
+01:08:13.000 --> 01:08:14.000
+dass Menschen sich anders verhalten.
+
+01:08:14.000 --> 01:08:17.000
+Man kann auch argumentieren, und das ist ja das klassische Argument
+
+01:08:17.000 --> 01:08:20.000
+der Verteidigerinnen des Kapitalismus,
+
+01:08:20.000 --> 01:08:24.000
+dass diese Marktuntersuchung ist, weil Menschen nun mal egoistisch sind,
+
+01:08:24.000 --> 01:08:27.000
+ja und das letzte Wort darüber ist noch nicht gesprochen,
+
+01:08:27.000 --> 01:08:30.000
+ich meine, es gibt offensichtlich auch altruistische Verhaltensweise,
+
+01:08:30.000 --> 01:08:33.000
+kooperative Verhaltensweise, auch im Kapitalismus,
+
+01:08:33.000 --> 01:08:36.000
+deswegen scheint es mir wahrscheinlicher zu sein,
+
+01:08:36.000 --> 01:08:41.000
+dass Menschen sich unter anderen Bedingungen auch anders verhalten würden,
+
+01:08:41.000 --> 01:08:44.000
+das heißt nicht, dass es nicht auch weiterhin Egoismen gäbe,
+
+01:08:44.000 --> 01:08:47.000
+das hat ja Robert Kurz mal so schön auf den Punkt gebracht,
+
+01:08:47.000 --> 01:08:50.000
+auch nach dem Kapitalismus wird es noch Arschlöcher geben,
+
+01:08:50.000 --> 01:08:55.000
+aber dass zumindest die Tendenz für das Verhalten eine andere ist.
+
+01:08:55.000 --> 01:08:58.000
+Also das kann man, glaube ich, Stefan und Simon nicht vorwerfen,
+
+01:08:58.000 --> 01:09:00.000
+dass sie da ein idealistisches Bild vorhaben,
+
+01:09:00.000 --> 01:09:02.000
+das scheint mir sehr realistisch zu sein, zu denken,
+
+01:09:02.000 --> 01:09:04.000
+wenn man ein anderes Verhalten nahelegt,
+
+01:09:04.000 --> 01:09:07.000
+dass dann Menschen sich auch so verhalten werden,
+
+01:09:07.000 --> 01:09:10.000
+oder zumindest partiell so verhalten werden, oder tendenziell.
+
+01:09:10.000 --> 01:09:14.000
+Deswegen kann man ihnen das, glaube ich, nicht vorwerfen.
+
+01:09:14.000 --> 01:09:21.000
+Grundsätzlich habe ich einerseits, das ist bei mir so ein bisschen gespalten,
+
+01:09:21.000 --> 01:09:23.000
+einerseits habe ich Probleme mit Anthropologien,
+
+01:09:23.000 --> 01:09:26.000
+also mit der Annahme, dass die Menschen so oder so sind,
+
+01:09:26.000 --> 01:09:29.000
+seien sie nun gut oder schlecht oder auch nur neutral,
+
+01:09:29.000 --> 01:09:36.000
+weil ich glaube, dass sehr viele Dinge nicht nur am Menschen,
+
+01:09:36.000 --> 01:09:40.000
+sondern über unsere Welt historisch und kulturell gewachsen sind,
+
+01:09:40.000 --> 01:09:43.000
+um mal das vielumstrittene Wort konstruiert zu vermeiden,
+
+01:09:43.000 --> 01:09:46.000
+weil das immer so klingt, als ob das jemand konstruiert.
+
+01:09:46.000 --> 01:09:50.000
+Und insofern, wenn man auch interkulturelle Vergleiche macht
+
+01:09:50.000 --> 01:09:52.000
+oder historische Vergleiche macht, sieht man,
+
+01:09:52.000 --> 01:09:55.000
+dass Menschen sich zu anderen Zeiten komplett anders verhalten haben
+
+01:09:55.000 --> 01:09:59.000
+oder andere Sitten hatten oder Gebräuche hatten, die uns total fremd sind.
+
+01:09:59.000 --> 01:10:02.000
+Also insofern würde ich mich tendenziell auf der Seite
+
+01:10:02.000 --> 01:10:04.000
+eher den Leuten zurecht, die sagen würden,
+
+01:10:04.000 --> 01:10:07.000
+wahrscheinlich würden unter anderen Bedingungen
+
+01:10:07.000 --> 01:10:09.000
+Menschen sich anders verhalten.
+
+01:10:09.000 --> 01:10:14.000
+Es gibt kein, zumindest stark ausgeprägtes Wesen des Menschen an sich.
+
+01:10:14.000 --> 01:10:17.000
+Auf der anderen Seite wäre ich sehr skeptisch gegenüber Ansätzen,
+
+01:10:17.000 --> 01:10:20.000
+die sagen, na ja, da werden wir die Menschen schon irgendwie umerziehen und so.
+
+01:10:20.000 --> 01:10:22.000
+Wir wissen alle, wohin das geführt hat.
+
+01:10:22.000 --> 01:10:25.000
+Das ist kein gangbarer Weg.
+
+01:10:25.000 --> 01:10:29.000
+Das ist unmenschlich und führt in die Katastrophe.
+
+01:10:29.000 --> 01:10:34.000
+Deswegen, das einzige, was ich, glaube ich, sagen könnte, ist,
+
+01:10:34.000 --> 01:10:37.000
+dass ich hoffe, dass unter anderen Bedingungen
+
+01:10:37.000 --> 01:10:41.000
+Menschen sich zumindest partiell anders verhalten als heute.
+
+01:10:41.000 --> 01:10:44.000
+Die schwierige Frage ist offensichtlich, wie man dann dahin kommt,
+
+01:10:44.000 --> 01:10:46.000
+weil das ja ein Hand- und Eilproblem ist.
+
+01:10:46.000 --> 01:10:49.000
+Man bräuchte vielleicht für andere Institutionen Menschen,
+
+01:10:49.000 --> 01:10:51.000
+die sich anders verhalten.
+
+01:10:51.000 --> 01:10:55.000
+Aber damit die sich anders verhalten, müssen die Institutionen anders sein.
+
+01:10:55.000 --> 01:10:56.000
+Und nun?
+
+01:10:56.000 --> 01:10:58.000
+Ich meine, der einzige Weg, den ich sehe, ist,
+
+01:10:58.000 --> 01:11:01.000
+dass man über die Institutionen in Organisationsform geht
+
+01:11:01.000 --> 01:11:05.000
+und die partiell ändert.
+
+01:11:05.000 --> 01:11:08.000
+Und das ist ja auch was, was so ein bisschen in dem Commons
+
+01:11:08.000 --> 01:11:12.000
+theoretischen Ansatz, soweit ich die kenne, verfolgt wird.
+
+01:11:12.000 --> 01:11:15.000
+Also es gibt da ja, glaube ich, soweit ich sehen kann,
+
+01:11:15.000 --> 01:11:18.000
+kein, sagen wir mal, Transformationsmodell.
+
+01:11:18.000 --> 01:11:22.000
+Wobei ich sagen möchte, Transformation ist im Grunde nicht der Gegenstand unseres Projektes.
+
+01:11:22.000 --> 01:11:26.000
+Das haben wir bewusst ausgeklammert, weil das nochmal ein ganz eigenes Problem ist.
+
+01:11:26.000 --> 01:11:29.000
+Aber was ich, glaube ich, sagen kann, ist,
+
+01:11:29.000 --> 01:11:33.000
+weiß ich jetzt nicht, ob ich für die Commons sollte oder unser Projekt sprechen kann,
+
+01:11:33.000 --> 01:11:36.000
+dass wir, glaube ich, nicht der Auffassung sind,
+
+01:11:36.000 --> 01:11:39.000
+dass so was wie eine Revolution
+
+01:11:39.000 --> 01:11:41.000
+ein funktionsfähiges Modell ist.
+
+01:11:41.000 --> 01:11:44.000
+Weil, also zumindest nicht in dem Sinne, wie man das historisch kennt,
+
+01:11:44.000 --> 01:11:47.000
+als leninistisches Modell, das irgendeine Weise avantgart,
+
+01:11:47.000 --> 01:11:51.000
+die Macht übernimmt und dann vorübergehend leider, leider alle Gewaltmittel einsetzen muss
+
+01:11:51.000 --> 01:11:54.000
+und die Gesellschaft zu ändern, das kann nicht funktionieren meines Erachtens.
+
+01:11:54.000 --> 01:11:56.000
+Und es hat ja auch nicht funktioniert.
+
+01:11:56.000 --> 01:11:59.000
+Und das ist auch vom Ansatz her schon komplett falsch gedacht,
+
+01:11:59.000 --> 01:12:02.000
+meines Erachtens, die Commons-Idee.
+
+01:12:02.000 --> 01:12:05.000
+Und deswegen die Sache mit dem Lieb sozusagen ist ja eigentlich eher die,
+
+01:12:05.000 --> 01:12:09.000
+dass das Schritt für Schritt so eine Commons-Organisation
+
+01:12:09.000 --> 01:12:14.000
+wie so eine Art Schimmelpilz sich ausbreitet
+
+01:12:14.000 --> 01:12:18.000
+und langsam aber sicher immer mehr Menschen herausgehen
+
+01:12:18.000 --> 01:12:23.000
+aus der Markt- und kapitalorientierten Produktion.
+
+01:12:23.000 --> 01:12:27.000
+Das ähnelt gewissermaßen anarchistischen Graswurzelmodellen, glaube ich,
+
+01:12:27.000 --> 01:12:32.000
+mehr als irgendwelchen leninistischen Revolutionsmodellen.
+
+01:12:32.000 --> 01:12:35.000
+Und das scheint mir auch die einzige Option zu sein, ganz ehrlich.
+
+01:12:35.000 --> 01:12:37.000
+Also ich glaube überhaupt nicht mehr daran,
+
+01:12:37.000 --> 01:12:42.000
+dass mit irgendwelchen gewaltsamen Umstürzen irgendwas erreicht werden kann,
+
+01:12:42.000 --> 01:12:45.000
+wenn man Gewalt einsetzt, um irgendeine Herrschaftsform,
+
+01:12:45.000 --> 01:12:49.000
+sei es auch nur vorübergehend, zu stabilisieren, ist Gewalt legitimiert
+
+01:12:49.000 --> 01:12:52.000
+und dann wird sie auch für jede weitere Gelegenheit eingesetzt werden.
+
+01:12:52.000 --> 01:12:54.000
+Und wir haben gesehen, wohin das geführt hat.
+
+01:12:54.000 --> 01:12:56.000
+Das kann nicht funktionieren.
+
+01:12:56.000 --> 01:13:02.000
+Die andere Frage ist, ob solche Graswurzelrevolutionären Modelle funktionieren,
+
+01:13:02.000 --> 01:13:04.000
+weil das ja bedeutet, dass am Anfang irgendjemand anfangen muss.
+
+01:13:04.000 --> 01:13:10.000
+Und diese ersten Stücke sind natürlich in einer schwierigen Umgebung.
+
+01:13:10.000 --> 01:13:13.000
+Und selbst wenn das auf Nationalstaatsebene wäre,
+
+01:13:13.000 --> 01:13:16.000
+wäre das immer noch eine schwierige Umgebung.
+
+01:13:16.000 --> 01:13:21.000
+Und man kann daraus der Schluss ziehen, dass es überhaupt nicht geht.
+
+01:13:21.000 --> 01:13:23.000
+Ja, das wäre auch noch eine Möglichkeit.
+
+01:13:23.000 --> 01:13:25.000
+Es gibt überhaupt keinen Weg.
+
+01:13:25.000 --> 01:13:28.000
+Jetzt gewollt sozusagen aus dem Kapitalismus
+
+01:13:28.000 --> 01:13:31.000
+in eine postkapitalistische Formation zu kommen,
+
+01:13:31.000 --> 01:13:33.000
+weil man entweder lokal anfangen muss,
+
+01:13:33.000 --> 01:13:35.000
+und das ist jederzeit von Auslöschung bedroht,
+
+01:13:35.000 --> 01:13:38.000
+oder man muss es global machen, das geht nur gewaltsam.
+
+01:13:38.000 --> 01:13:41.000
+Und das ist auch kein Weg.
+
+01:13:41.000 --> 01:13:47.000
+Und also bliebe dann nur noch darauf zu vertrauen,
+
+01:13:47.000 --> 01:13:53.000
+dass Evolutionäre sich die richtigen Institutionen durchsetzen, sozusagen,
+
+01:13:53.000 --> 01:13:57.000
+indem man mit theoretischer Diskussion und tollen Podcasts wie diesem hier,
+
+01:13:57.000 --> 01:14:02.000
+also deinem Podcast, Future-Stories, Informationen darüber verstreut.
+
+01:14:02.000 --> 01:14:04.000
+Es tut mir leid, dass das so resignativ klingt,
+
+01:14:04.000 --> 01:14:06.000
+aber ich bin anzwischen sehr skeptisch geworden,
+
+01:14:06.000 --> 01:14:08.000
+was solche Möglichkeiten anbetrifft.
+
+01:14:08.000 --> 01:14:10.000
+Unsere Aufgabe ist sich erst mal darin,
+
+01:14:10.000 --> 01:14:13.000
+dass wir darüber überhaupt diese Nachdenken wieder eröffnen,
+
+01:14:13.000 --> 01:14:19.000
+dass alternative Ökonomien möglicherweise überhaupt möglich sind.
+
+01:14:19.000 --> 01:14:22.000
+Damit wäre ja schon viel gewonnen,
+
+01:14:22.000 --> 01:14:25.000
+also wenn so eine Diskussion wieder aufkommen könnte.
+
+01:14:25.000 --> 01:14:29.000
+Dass es überhaupt möglich ist, über andere Organisationsformen nachzudenken.
+
+01:14:29.000 --> 01:14:34.000
+Was sich dann daraus ergibt, das ist eine ganz andere und schwierige Frage.
+
+01:14:34.000 --> 01:14:38.000
+Da schließt sich jetzt ausgezeichnet meine Abschlussfrage an.
+
+01:14:38.000 --> 01:14:43.000
+Jens, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+
+01:14:43.000 --> 01:14:47.000
+Was stimmt mich freudig? Also, mich stimmt freudig…
+
+01:14:47.000 --> 01:14:52.000
+Ja, man müsste ja unterscheiden, die private und die sozusagen politische Zukunft.
+
+01:14:52.000 --> 01:14:55.000
+Aber um die private, da gibt es viele, dass mich freudig stimmt,
+
+01:14:55.000 --> 01:15:00.000
+aber wenn es um die politische Zukunft geht, würde ich sagen,
+
+01:15:00.000 --> 01:15:03.000
+also die Tatsache, dass solche Gespräche geführt werden,
+
+01:15:03.000 --> 01:15:08.000
+dass es viele Versuche gibt, von vielen Richtungen darüber nachzudenken,
+
+01:15:08.000 --> 01:15:13.000
+wie man Dinge anders machen kann, das stimmt mich freudig.
+
+01:15:13.000 --> 01:15:17.000
+Auch wenn ich hoffe, dass es nicht zu spät ist angesichts des Klimawandels.
+
+01:15:17.000 --> 01:15:20.000
+Wunderbar. Jens, vielen Dank für das Gespräch.
+
+01:15:20.000 --> 01:15:22.000
+Vielen Dank, Jens.
+
+01:15:23.000 --> 01:15:27.000
+Das war Future Histories für heute.
+
+01:15:27.000 --> 01:15:29.000
+Vielen Dank fürs Zuhören.
+
+01:15:29.000 --> 01:15:34.000
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+01:15:34.000 --> 01:15:40.000
+Diskutiert mit auf Twitter unter dem Hashtag futurehistories oder auf Reddit.
+
+01:15:40.000 --> 01:15:44.000
+Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+
+01:15:44.000 --> 01:15:48.000
+Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+
+01:15:48.000 --> 01:15:53.000
+Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com
+
+01:15:53.000 --> 01:15:56.000
+Schrägstrich Future Histories. Vieles an Zusatzmaterial.
+
+01:15:56.000 --> 01:16:01.000
+Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.
+

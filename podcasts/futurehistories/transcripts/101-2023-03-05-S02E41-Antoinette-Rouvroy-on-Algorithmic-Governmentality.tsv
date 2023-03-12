@@ -1,0 +1,536 @@
+start	end	text
+0	5640	Welcome to Future Histories, my name is Jan Gross and it is my great pleasure to welcome
+5640	9000	Antoinette Rovois in today's episode.
+9000	13760	It's a Future Histories live episode that you are about to hear, meaning it has been
+13760	19680	recorded in front of an audience, in this case, in the context of the workshop Biological
+19680	25820	Life and Political Cybernetics that took place in December 22 in Vienna.
+25820	32460	And I want to thank the organizers Anna Verena-Nosthoff, Eugenia Stamboljeff and Vessel Reyes for
+32460	36640	the possibility to take part in this, it has been great, thanks a lot.
+36640	42140	And I am happy to announce that this is not a single workshop, but a series of workshops
+42140	48140	on the topic of political cybernetics and that I myself will organize an instance of
+48140	54620	this series at Kiel University as part of the research project Governing Algorithms.
+55280	58480	I'll definitely keep you updated on that.
+58480	64820	I also want to send a quick shout out to the Critical Data Lab, which I'm also affiliated
+64820	71560	to and which was, through Anna Verena-Nosthoff, also involved in the organization of the Political
+71560	74400	Cybernetics Workshop in Vienna.
+74400	78720	Many thanks to everybody involved in general, it has been a pleasure.
+78720	84480	Before we start, I would like to welcome Manchu and Dahlia as patrons of Future Histories
+84480	90240	and I want to thank Fabian, Lucas and Karl for their kind donations.
+90240	97240	And now, please enjoy today's episode with Antoinette Rovois on Algorithmic Governmentality.
+102740	107280	Welcome to Future Histories, my name is Jan Gross and it is my great pleasure to welcome
+107280	110340	Antoinette Rovois in today's episode.
+110340	115960	She is a permanent research associate at the Belgian National Fund for Scientific Research
+115960	120560	and a researcher and professor at the University of Namur in Belgium.
+120560	126360	Her work centers around evolving normativities at the interface of legal theory, philosophy
+126360	132280	and science and technology studies using, for course, insights on questions of government.
+132280	137060	She has developed an analytic framework called Algorithmic Governmentality, which we will
+137060	139420	explore in today's conversation.
+139500	140620	Welcome Antoinette.
+140620	141620	Thank you.
+141620	142620	Thank you for having me.
+142620	144120	It's a great pleasure.
+144120	148080	Let's maybe start with a broad definition for people who are not familiar with your
+148080	149080	work.
+149080	150080	What is algorithmic governmentality?
+150080	159880	Well, I must first say that my intention with that concept or that notion or that non-concept
+159880	166540	rather of algorithmic governmentality has never been to find the right epochal ladder
+166540	169280	for something like a social totality.
+169280	175740	If I speak of governmentality, it is precisely in order to avoid delimiting the social as
+175740	176740	a totality.
+176740	184220	I don't speak of algorithmic society any more than of a surveillance society.
+184220	189840	Algorithmic governmentality does not, in the sense that I use the term, designate a particular
+189840	196580	mode of government which would have more or less replaced or been juxtaposited to the
+196640	202160	forms of sovereignty, pastorate, discipline, normalization, control and so on that Foucault
+202160	206920	and in fact, Foucault himself did not consider that sovereignty, surveillance, discipline,
+206920	213260	control and so on corresponded to a strict chronologic periodization.
+213260	217920	It was not for him a series in which the elements follow one another.
+217920	224660	It is rather a complex edifice in which the center of gravity shifts in the systems of
+224760	231440	correlations between legality, discipline, security, control and I would add with Felix
+231440	240240	Guattari integration and I would add with a lot of you, with most of you, recursivity.
+240240	244160	These shift at the core of governmental rationalities.
+244160	251460	The way I try to inherit of the non-concept of governmentality from Foucault is I must
+251460	259800	concede right away quite unfaithful, at least partially, to the original meaning ascribed
+259800	265760	to the term by Michel Foucault in the series of lectures he held at the Collège de France
+265760	275640	in 1978 and 1973 and I would say that because since I wrote about algorithmic governmentality
+275720	284520	first, it was a long, long time ago, my own thinking has evolved and I have come to understand
+284520	291620	that in fact algorithmic governmentality or algorithmic capitalism was not a mode of ordering
+291620	292620	of the world.
+292620	301580	It is not a mode of organization, but it's rather a tactic or a system of disorganization
+301620	311520	of organized and strategic disruption, which is highly profitable to the ones who Mackenzie
+311520	314520	work called the vectorialist class.
+314520	323080	But of course, we are all part of this and I will try to develop that a little bit later.
+323080	331720	So I refer to, also I must say right away that I refer to governmentality mainly as
+331720	338560	a methodological perspective that orients our attention away from the classical invariance
+338560	344020	of political science, the state, institutions, the subjects.
+344020	350100	From a governmentality perspective, the state, institutions, the subjects are not presupposed
+350180	352480	or pre-existent to governmentality.
+352480	356220	They are rather it's byproducts.
+356220	368380	So governmentality allows me to try to diagnose or to produce a kind of clinics or analytics
+368380	375140	of a series of semiotic, epistemic, normative, strategic, anthropological, ethical shifts
+375180	381600	in the processes or techniques of signification, that is production of meaning, in techniques
+381600	385940	of power or domination and in techniques of the self.
+385940	393020	Foucault's notion of governmentality or what he calls governmental rationality, which corresponds
+393020	399160	in this sense to what, for example, Castoriadis calls the imaginary institution of society
+399180	408200	is above all, for me, a way of making consistent, of articulating, of showing the entanglement
+408200	415840	in each era of a set of techniques of signification, meaning making, techniques of production,
+415840	420120	techniques of power and techniques of self.
+420120	429080	This being said, what I have as a target are indeed the new effects of reliability or credibility
+430000	441000	in the post-truth era where we are, as is often said, the unprecedented effects of power
+441000	449800	or operationality without authority, and therefore responsibility, or the force without law,
+449800	456680	and an individualization or molecularization and deterritorialization without subjects.
+456680	463040	Therefore, I speak with others of inhuman biopolitics, the instrumental unit of power
+463040	472800	being not anymore the population, individuals, or the bodies, but only meaningless data.
+472800	479520	So this being said about governmentality, now, why algorithmic governmentality?
+479520	486480	My algorithmic governmentality with my colleague Thomas Berns, we had in mind a kind of hypothesis
+487280	493320	a hypothesis of a government of the social world based on the algorithmic meaning automatic
+493320	501120	processing of the massive data proliferating from our behaviors by behaviors, I understand
+501120	508400	all the interactions we have with the environment, relationships, interactions, trajectories,
+508400	509740	and so on.
+509740	517620	So processing of massive data proliferating from our behaviors rather than on politics,
+517620	522860	law, social norms, in a multitude of sectors of activity and government.
+522860	530540	We therefore call algorithmic government or algorithmic governmentality a mode of government
+530540	537100	which is productive not of norms, neither of standards or rules, which in fact fails
+537180	544100	to adjudicate and which is fed essentially by raw data, by which I mean,
+544100	549500	intrapersonal and significant but quantifiable signals.
+550740	557380	Also, algorithmic governmentality operates by anticipatory configurations of possibilities
+557380	565620	through anticipatory optimization of environments rather than by regulation, permission, prohibition,
+565620	566340	and so on.
+567260	576060	But as I will tell, no, my current thought about it is rather that, in fact, it's not
+576060	588060	even trying to govern anything, it's rather trying to render power absolutely agile, able
+588060	595420	to be resilient to any kind of transformation, any kind of emergence.
+595420	604620	So that's really the speculative term that algorithmic governmentality marks.
+606540	613420	So we have also defined in some of our papers algorithmic governmentality very broadly
+614140	621660	as a certain type of normative or apolitical rationality founded or grounded on the automated
+621660	627740	collection, aggregation, and analysis of big data so as to model, anticipate, and
+627740	630700	preemptively affect possible behaviors.
+632140	640060	So, of course, when reading and rereading Foucault and Deleuze, I realized it was not
+640060	642140	very, very original.
+642140	651260	In fact, already in 1979, Foucault announced this on the horizon of liberal governmentality
+651980	659100	what appears is not at all the idea or the project of an exhaustively disciplinary society
+659100	665260	in which the legal network, enclosing individuals, would be related and extended from within
+665260	670860	by, let us say, normative mechanisms, nor is it a society in which the mechanisms of
+670860	676460	general normalization and exclusion of the non-normalizable would be required.
+677100	683420	On the contrary, on the horizon is the image or the idea or theme of a society in which
+683420	688700	there would be optimization of systems of difference, in which the field would be left open
+688700	694940	to auxiliary processes, in which there would be tolerance for minority individuals and
+694940	699900	practices, in which there would be action not on the players of the game but on the
+699900	704860	rules of the game, and finally, in which there would be intervention not on the type of
+704860	711740	internal subjugation of individuals but intervention of an environmental type.
+713420	719180	In the next lesson, Foucault reminded of the heterodox definition of economics given by
+719180	727020	Gary Baker, the science of systematicity of responses to environmental variations, a
+727020	732540	definition Foucault told us which can perfectly include the behavioral techniques that had been
+732540	740540	promoted in particular by Skinner about whom Foucault also writes that he was hostile to the
+740540	747580	use of statistics, that he considers that individual behaviors must be studied, which presupposes
+747580	753660	that we control the environment in which we place the subject and that we define measures
+753660	761420	of response which are informative. When a subject moves in his environment, some of his behaviors
+761420	767900	produce detectable changes in the environment, the reinforcement contingencies. The operant
+767900	774460	response is a class of responses defined by the consequences they have for the subject and issued
+774460	779660	in a given situation without being causally dependent on a stimulus in the situation.
+779660	787100	That's really the kind of data behaviorism that I have tried to describe, in which in fact
+787100	793340	insights replace knowledge and in fact it completely disturbs that the idea that
+795180	802540	Foucault had that in fact power is always based and co-produced with knowledge.
+802540	808780	Here the conjunction of knowledge and power is completely exploded. There is no need for
+808860	817260	knowledge to govern and it's even the opposite. It's a way through which contingency and
+817260	827980	non-knowledge and ignorance become the target of speculative and leveraging strategies.
+827980	840620	So we are not exactly in the situation described by Foucault. Why? Of course we perceive all that
+840620	849740	modulation that we have left modernist way of government and so on, but I would say we are
+849740	859660	even further than what he anticipated in 79. Why is it? Because in fact there is no action
+859660	863900	on the rules of the game or if there are actions on the rules of the game,
+864700	872940	these rules are not even any more detectable or subjectively recognizable by the players.
+872940	880060	Why is that? Because in algorithmic governmentality what we notice is that even
+880060	888300	metrics against which behaviors or performances are evaluated, ranked, scored and so on,
+889340	895740	metrics have become increasingly plastic. They are not fixed. They are not knowable in advance.
+895820	904780	They are moving and evolving according to the behaviors of all others. What that means is
+904780	913420	that we are not any more confronted with the kind of subject produced by algorithmic governmentality
+913420	921740	is completely at odds with the notion of the homo hemoconomicus described by Gary Becker,
+922220	934620	the homo economicus who had to invest rationally in his own human capital by being able to
+934620	946060	anticipate what kind of returns his investment would grant him. No, people never know how they
+946060	956380	will be evaluated and the metrics are so moving that in fact we can have the impression that this
+956380	965820	shift from modernist normativity towards recursive plasticity of abnormativity,
+966300	978060	that cybernetic mode of government, it can appear really emancipatory but it is paid,
+978860	987900	it is at the cost of transforming individuals into people who are completely addicted
+987900	995100	to credit so they have to find credit to gain attention, to gain audience, to be
+995100	1004780	noticed, it means to occupy a node in the network. So in fact it's a kind of anomaly,
+1004780	1014380	that's the reason why in beginning to respond too long to your question, I said it's a system
+1014380	1023980	of disorganization. It's a system of disorganization because it fragments all subjectively and
+1023980	1034220	collectively recognizable forms into pure decontextualized signals which are re-aggregated
+1034220	1043580	at an industrial scale which is not personal nor collective nor nothing, which are pure speculative
+1043580	1052700	in which pure speculative spaces are created, speculative spaces of opportunities and risks.
+1054060	1059580	I have the impression that I have transformed this discussion into a monologue so don't
+1059580	1068380	hesitate to interrupt me if you wish. Well I'll just wait until you have finished making your
+1068380	1076300	point so that's all right with me. Okay so maybe in order to give some
+1076300	1088700	consistency, some materiality to what I'm saying here, I guess just a few examples.
+1089340	1095660	For example there is a new system of employee monitoring developed by Amazon in its warehouse
+1095660	1103020	and in the vehicle of their delivery drivers. In the online presentation Amazon presents the
+1103020	1109180	monitoring system as humanizing the interaction transportation companies have with their drivers
+1109180	1117020	to enhance driving performance. Indeed what matters in this humanization is to enable
+1117020	1123580	artificial intelligence systems to better understand or rather better act as if they
+1123580	1130380	understood the humans in their interactions with their environment. Of course what matters to
+1130380	1136620	Amazon is not at all understanding or legibility of each individual employee, their motivations,
+1136620	1143420	their intentions or the singularity of their experiences. In fact individual warehouse
+1143420	1150380	workers are eminently substituable or replaceable anyway. It is not their singularity that Amazon
+1150380	1157660	has an interest in nor is Amazon primarily interested in acquiring knowledge about the
+1157660	1164540	productivity of the workforce in general but rather it's interested in rendering individual
+1164540	1170940	workers every move computable in a data behaviorist paradigm. This is the kind of
+1170940	1176300	data behaviorism allowing humanization of interactions contemplated by Amazon.
+1177980	1184620	To humanize in this discourse means to scale power down to the molecular level,
+1185100	1191820	to leverage particularities not singularities but particularities. Conveniently from the
+1191820	1199900	perspective of a neoliberal management these particularities escape both subjective identification,
+1199900	1203420	recognition and collective perception and discussion.
+1205820	1211260	It is of course as I said not the singularity of individual experiences that are of interest to
+1211260	1217500	Amazon nor the regularities observed in the workforce population but rather the mostly
+1217500	1224060	subliminal particularities of behavioral responses to environmental stimuli. The individual and
+1224060	1232380	collective trade unionist and so on subjects how they may or may not acknowledge experiences
+1232380	1239820	their own and so on do not matter at all. They disappear from powers gaze. Singular and collective
+1239820	1246220	experiences drastically fall in value and power operates on the mode of machining enslavement
+1246220	1254220	rather than social subjection. So enabling everything to be connected to communicate
+1254220	1261660	or synchronize with everything else in almost real time the computational term appears to
+1261660	1268540	disqualify all kinds of representations including predictions based on statistical representations
+1268540	1274540	which never pretend to be adequate to the world but merely to provide approximative representations
+1274540	1282780	of it with an objective of neutrality. All these even statistical representations are felt as
+1282780	1291820	anarchisms sorry archaisms in favor of a post-representational recursive paradigm of
+1291900	1299100	disintermediated access to the digital real in high resolution which is also a high dissolution
+1299660	1306620	at the pre-semiotic stage emancipated from the symbolic order from the tyranny of the signifier
+1306620	1315740	from the imperialism of language itself. So and I will end maybe my attempt to
+1316540	1320860	to not define algorithmic or neutrality by this I would say that
+1322940	1329020	the aim but I will maybe later further explain this the aim is not so much to manage or influence
+1329020	1335500	the individuals and groups but to render power absolutely agile capable of leveraging the
+1335500	1341660	contingency of individual and collective behaviors whereas data drivenness attest to the replacement
+1341660	1350060	of both the commodity form and currency by assets all that matters is the convertibility
+1350060	1357820	of contingent data into speculative assets so the hallmark of power in algorithmic regime
+1357820	1365260	is not so much that it would look at us spy on us but rather that it literally bypass the visual
+1365260	1373100	epistem the phenomenological perceptual systems of recognition of qualification of judgment of
+1373100	1379420	categories in favors of systems of recursive computation as a consequence algorithmic
+1379420	1385260	governmentality is quite indifferent to what is present to what appears consistent and real to
+1385260	1391740	our ordinary senses as it shifts towards the forward-looking detection of contingent patterns
+1391740	1398540	as novel latent speculative spaces which are in no way subjectively or collectively recognizable
+1399660	1410300	so yes maybe I don't know if this fits as a broad indication of
+1411180	1418780	what algorithmic governmentality is about as a problem. Yes well let me jump in I would be
+1418780	1425180	interested at this point in in two things one would be that in one of your texts at some point
+1425180	1431660	you coming from this critique of algorithmic governmentality you continue to argue for a
+1431660	1437260	quote-unquote return to reality so I would be interested actually what you mean by reality in
+1437260	1443420	this case so what is it coming from this critique that you try to bring forward maybe as a I don't
+1443420	1449020	know how to call it then counter ontology I don't know maybe so maybe you could state what you mean
+1449020	1453980	with reality in this case this is one of the the questions that I have and the other one would be
+1453980	1459980	that when reading the texts from time to time I was asking myself whether or not these descriptions
+1459980	1465980	that you give of algorithmic governmentality I got the impression that they do absolutely fit
+1466620	1473740	for some form of imaginary of algorithmic governing but that if we look at the
+1474620	1482940	actual practice that this is not really an adequate description of how things are really
+1482940	1490380	going going down and one example for this would be this phrase of raw data is an oxymoron and you
+1490380	1496060	yourself state that the people who are actually working with these technologies are very much
+1496060	1502700	aware that there that there are so many hands reaching into the algorithm that there is always
+1502700	1508780	a co-production between the algorithm and the the humans who are working with it so that there is
+1508780	1515580	not actually this place of perfection that you kind of describe when talking about algorithmic
+1515580	1521980	governmentality who seems to be omnipotent when hearing about the critique and of course it's
+1521980	1528700	powerful but it's not omnipotent and it didn't yet succeed in getting rid of the human I would say so
+1528700	1534620	there is already this aspect of interpretation there's already this aspect of entanglement
+1534620	1543260	there's already this aspect of human co-production always in place already in capitalist cybernetics
+1543260	1547020	as well yes of course I hear what you say but I
+1549260	1554860	I think that that's the most maybe the most difficult thing to to to to transmit
+1556940	1563740	in fact what I say what I speak about what I speak about and I speak about it in my text as well
+1564460	1571260	it it's a technical ideology it's a technical ideology of big data it means that what I speak
+1571260	1579740	about is the kind of pretension but a pretension that even you know the designers of the of the
+1579740	1587980	technology data scientists and so on they they are not naive realists they they know they know that
+1587980	1595420	in fact big data doesn't mean exhaustivity that automatization or or algorithm don't
+1595820	1605420	mean doesn't mean objectivity that non-selectivity or less obvious selectivity
+1605420	1614140	doesn't mean impartiality and so on I think in fact and and that's the reason also why I
+1615500	1624300	I refer to problematization the basic question I ask to myself first is is why is you know the
+1625420	1632380	turning to algorithm and ambient intelligence artificial intelligence big data and so so on
+1632380	1636940	why are these solutions presented as solutions without
+1639420	1646380	and appearing as something absolutely obvious whereas they are presented by solution as solutions
+1646380	1652140	but the kind of problem to which they are presented as a solution against which which they are
+1652140	1661340	presented as solutions is never clearly stated and my my perception is that it is precisely
+1661340	1674780	because in our society we we have a hatred for averages we all want to be unique and recognized
+1674780	1681980	as unique we don't want to be part of a category anymore we want we all we all want personalization
+1681980	1690780	and so on means that in fact there is a radical crisis of representation and by this I mean
+1691980	1697820	not only the perception that all kinds of representations through which we perceive the
+1697820	1705580	world is misleading is ideological is is politically suspect and so on it's not that
+1706540	1716700	I think that there is behind this success of the algorithmic turn there is a kind of mystic
+1716700	1724140	a mystic of immanence a mystic or a belief that it is in it would be possible at last
+1724860	1731580	to touch rationally on the world and the things in themselves it is very close to the
+1731740	1739740	speculative turn and the speculative realism in philosophy that's the reason why I'm writing
+1739740	1748460	was about algorithmic realism but it's it's very it's of course absolutely absolutely
+1749260	1759180	ideological of course the human is everywhere the human is in the it's the human who who designs or
+1759180	1766940	who inscribes the the objective function the objective function of the algorithm
+1766940	1776380	what is it it is the it's the indication of or the cost function it indicates what has to be
+1776380	1780460	what has to be maximized what has to be minimized what has to be
+1780940	1790860	optimized of course that objective function is nothing but the the formalization of the
+1790860	1798140	sectoral sectorial interest or the sectorial logic of of the actor who's using the algorithm
+1798140	1805500	so there there is there is a human there there is the human of course in social reality itself
+1805500	1809420	and the mere fact the mere transcription of social reality of social
+1810780	1817260	into into digital data which appear as facts I speak of a new kind of facticity
+1817260	1823500	the simple transformation of reality of that reality social reality complex and so on into
+1824140	1826540	data doesn't purge doesn't
+1830700	1838300	expurgate that reality from all the domination the repose of domination relation over dominations
+1838300	1845420	and so on in fact as you say data raw data don't exist it it's not only that raw data is always
+1846300	1849500	of course it is it's a it's a patient work of
+1852380	1859980	of this indexization anonymization and so on producing raw data is a is a hard work
+1859980	1869500	but it's not it's not only that it's also that producing raw data is organizing the amnesia
+1869500	1874620	of data with regard to their the condition of their production that's the reason why it's
+1874620	1880540	I say it's a it's ideological it hides its own conditions of of production so
+1885020	1892860	so it's not that I in the question you you sent me I read that I don't only criticize the concept
+1892860	1899180	of a truth founded in probability I I never I I never criticized the concept of a truth
+1899180	1905100	founded in probability because following Foucault for me truth the notion of truth
+1906060	1913900	is always the result of truth regimes truth regime it's truth is always produced it's something that
+1913900	1922140	is added to the world it's nothing nothing that you can find in the world and that's the also you
+1922140	1931340	know the the false promise of of big data or the idea of the ideology of the technical ideology of
+1931340	1939260	big data is the idea that knowledge shouldn't have to be produced anymore that it can be discovered
+1939260	1945500	in the data that it's always already imminent in the data and provided you use the right algorithm
+1945500	1954380	you will you you you will find or knowledge will or truth will will arise spontaneously
+1955340	1959900	that's exactly that kind of naive realism that I'm combating
+1961660	1967820	the as as strongly as I can and you find that that same kind of naive realism
+1968780	1978780	in a lot of of techno-critics who really work on on the idea of rendering algorithms
+1979340	1985180	fair accountable transparent and so on meaning that they want to correct the algorithms with
+1985180	1992860	the idea of with the idea that if algorithms are fair are just are you know are accountable and so
+1992860	2002780	on then we will have a perfect access an objective access to what is you know without human
+2002780	2012060	intermediation that's that this that's really mad that's the madness because I think first of all
+2012060	2017580	there are several reasons of course the first obvious reason is that the notion of just the
+2017580	2024220	notions notions such as justice or concepts such as justice fairness and so on are dialectical
+2024220	2031580	concepts dialectical concepts are not easily formalizable into what george school nicolas
+2031580	2041020	george school again call uh uh uh arithmo uh arithmomorphic concepts arithmomorphic concepts
+2041020	2048620	in george school against uh uh uh civilization are concepts which are exactly what you know
+2048620	2055580	the result of an optimizations of an algorithmic optimization is you know just one result yes or
+2055580	2062460	not that's algorithm that's sure you know you don't have to discuss but justice is not something like
+2063340	2070140	it's really dialectical it means that it's it is a concept um which has a
+2071180	2077340	which is distinct of course but not discretizable not discretizable
+2078620	2088700	and that's that that's hugely important maybe i can yes i will read you i i had that um that
+2088700	2095580	passage of a george school george school again uh and for george school again the the the
+2095580	2102060	arithmomorphic character of a concept is linked to the fact that there is a definitive discrete
+2102060	2108780	border between what this and what is not what it is not what it is and what it is not the possibility
+2108780	2115340	of defining a big univocal relation between a set of concepts and a numerical scale makes it
+2115340	2120620	possible for example to attest to the arithmomorphic character of the concept in this set
+2122460	2130380	um but but there are another kind other another world of concept which are all the concepts that
+2130380	2140860	we we human use as we are uh uh because we are not inhuman and those not inhuman concepts are all
+2141500	2153420	are all uh dialectical i think so um so for for reality uh i think it was a misunderstanding
+2154540	2161900	there was a misunderstanding there uh if i the reality i i don't i don't remember having written
+2161900	2167900	that but uh if i help you for a return to reality the kind of reality i would like to return to
+2167900	2178300	is the reality that is added to the world added by our own collective productions of meaning so
+2178300	2187100	um that's the dialectical reality i i would uh i would argue for there are a series of conditions
+2187100	2194060	for this kind of additional uh additional uh reality to to occur
+2195660	2203740	and the first conditions are special and temporal we need scenes to discuss about
+2203740	2211900	dialectical concepts uh but maybe i go too too far in my answers i don't know if if it
+2212540	2219180	fits what you had in mind well if it was merely a misunderstanding you think then we could continue
+2219740	2224540	to other questions and i would just maybe to clear something up and since we are here on
+2224540	2232300	in the workshop on um cybernetic politics i just wanted to ask if i maybe understood it wrong
+2232940	2239180	right now in your answer when you pointed towards a kind of naive realism which is kind of close to
+2239180	2245260	speculative realism which you say is an kind of this naive realism is an aspect of algorithmic
+2245260	2251740	governmentality as well as of some of the critics i'm actually wondering because i always thought
+2251740	2259980	that cybernetics actually does not really care about ontology in this sense but is absolutely
+2259980	2267020	fine with something that would be called a probable truth so it's not about really kind of trying to
+2267020	2274140	unveil some kind of essence i always thought that this is absolutely not a logic found within the
+2274140	2282060	cybernetic paradigm but as i said instead it would totally be fine with a version that simply works
+2282060	2288060	or works better than the other one so this is what i meant with a truth founded in probability
+2288060	2293660	and i would say that this is really a fundamental difference so i was wondering if you think that
+2293660	2299820	algorithmic governmentality is in this respect different from cybernetics or why you say that
+2299820	2306540	they are trying to kind of get to the to the real because i always thought it's not about that
+2307100	2313820	no indeed it's not about that i think we have to understand quite clearly the epistemic ambition
+2313820	2322460	or strategic ambitions behind these machines as when they are used in a capitalist context
+2323420	2329020	of course in fact with the advent of big data and machine learning
+2330380	2339340	emergencies are detected in real time in a nanomic complex and purely metric digital space purely
+2339340	2346300	which is the result of an abstraction but also of all kinds of of production of raw data as you as
+2346300	2355100	you said which is compression and so on so but but which is purely metric which is a space which
+2355100	2363900	is envisaged that's not from the topological angle of continuity and stability but from the time
+2363900	2372700	based angle of contingency instability and continuously recons reconducted crisis
+2374220	2382060	as a host exo adams explaining one of his paper so in that context what we have to understand
+2382700	2390860	is that data doesn't don't function as as signs there they don't function as signifiers
+2391660	2399660	for for something rather they function as pure differences or deferments of meaning
+2400300	2409340	that are never given in their completion so to explain that a little bit i have i have to i think
+2409340	2415420	go back to a comparison between um what for example adolf ketley
+2416140	2422860	concept or the order between the deterministic metaphysics that for example adolf ketley
+2423820	2430540	heads when founding or participating to the to the foundation of statistics and what happens
+2432540	2439660	in machine learning the speculative ambitions of machine learning i think are really at odd
+2439660	2446460	with the mid 19th century of ambitions of studying studying social physics like adolf ketley
+2447020	2453100	whose project was to study men in his various degrees of aggregation from the individual state
+2453100	2460220	to the highest state of combination which includes the whole of humanity on the contrary algorithmic
+2460220	2468700	governmentality radically embraces uncertainty incommensurability contingency it it also attests
+2468700	2475980	to a new mode of preemptive intervention which is no longer legitimated or justified as the ability
+2475980	2483660	to act on the basis of precise knowledge of the future but on the contrary as an invincible
+2483660	2492300	certainty as to what must be done in the absence of such certainty as martin conings says quite
+2492300	2497740	clearly in capital and time so and the temporalities of course recursive which
+2497740	2506780	changed everything so um in fact it's a dynamic mode where continuous learning where continuous
+2506780	2513500	learning and production of reliability without truth including truth about people's behaviors
+2513500	2519740	replace the production of temporary truth and their justifiability verifiability contestability
+2520620	2527340	i would say what relates algorithmic governmentality also to cybernetic is of course the
+2527340	2534140	overcoming of the notion that that of the of the separation of calculation and things
+2534140	2544220	of of contents and matter and so on it resets a new kind new ontology but which is completely
+2544940	2551420	disarticulated from from the notion of of of a human subject
+2552700	2559260	so i don't know if it responds to you to your question i'm sure it does somehow definitely
+2559260	2565260	um i would be interested because i think you have described a lot of your critique already i would
+2565260	2573420	be interested in what you argue for actually so i would be interested in what is your proposition
+2573420	2580060	what would you bring in against algorithmic governmentality well um i i think of course
+2581420	2590220	my posture here is more descriptive of something uh which is uh which is which amounts to
+2590220	2598860	capitalism on capitalism and neoliberalism realism on algorithmic steroids i know it's
+2598860	2607020	not fashionable to say that uh but i think we would need uh maybe a constitutional moment
+2607020	2614940	a moment uh well a moment wherein we think about a concept what is a constitution a constitution
+2614940	2623100	is a text by which the present the people who are present and who sign the constitution limit
+2623100	2629100	their own power they limit their own power they promise a little bit like you know
+2630620	2638940	charged nature with that task of producing an animal who can promise and keep its promise
+2639660	2647420	constitution does that in fact it it forces those who sign to consider
+2648380	2656940	a lot of things which are irreducible to the mere optimization of the current situation or the state
+2656940	2665980	of state of facts uh it allow for the consideration uh a political constitution allow for the
+2665980	2675820	consideration of those who have not yet left any digital trace that can be enrolled in the calculation
+2676380	2685100	of the optimal it means that it allows to preserve the space and time which would not
+2685100	2693820	be preoccupied by the bulimic appetites by those who have been granted including by algorithmic
+2693820	2700380	algorithmic systems granted with the force without law which allows them to transform
+2701100	2708140	the virtual the not yet there the possibilities into into surplus value
+2709180	2719980	so it's it's uh i think we have to find ways to enforce uh new uh a new intelligence of
+2719980	2728140	limits a new intelligence of limits because uh this intelligence of limits which life itself
+2728140	2737980	has very well as a kangelem has shown us that normativity of life itself but we have to to
+2739180	2745100	to to find that there are several kinds of because i'm a lawyer by so i maybe i'm a bit
+2745100	2752860	distorted as all lawyers but i'm distorted uh uh and i try to go back to my own discipline you know
+2752860	2761580	as a as a safe island um but we have instruments uh the constitution we have the notion of
+2761580	2767340	institution what is an institution it's all that algorithmic governmentality tries to um
+2768940	2776940	to render obsolete in fact um the notion of according to david yume uh the role of institutions
+2776940	2786700	is in fact to force the agents you me uh elon musk uh donald trump everyone to force people
+2787340	2796300	to transcend the partiality of their natural sympathies you know um david yume was not for
+2796300	2803660	the social contract because he among other reasons he thought the problem of our society of society
+2803660	2809900	is not the egoism of individuals in fact people are not egoistic because they can sacrifice
+2809900	2816140	themselves for for the the ones they care for for their children and so on the problem is the
+2816140	2825340	partiality of these natural sympathies and only institutions can force people to refrain uh from
+2825340	2832860	their uh impulsion or compulsion to optimize that is to to to take the most they can of the present
+2832860	2839660	and of the future and of everything that is that is there and only only institution can force them
+2840540	2847340	to consider what is not already there for them to consume in fact so we we need that we need that
+2848860	2854140	no we need to rethink the role of kind of institutions and but fast because we don't
+2854140	2865660	have much time in front of systems in fact that push everyone uh towards self-optimization and
+2865660	2871020	consumption of of everything that's what i said at the beginning algorithmic
+2871020	2876860	governmentality is a way of fragmenting all collectives immunizing i would say capitalism
+2876860	2886060	against all and every form that should and and would in fact interrupt its flaws that is the
+2886060	2896780	world the material world and its limits the social the social the collective it fragments the
+2896780	2905020	collective it's a it's a high resolution which is also a high dissolution and life itself in fact
+2905020	2914060	life itself with with its own uh negantropic regulations that i i really believe that
+2914060	2921580	nick land was right when he said that there is a common teleology between cybernetics and capitalism
+2921580	2929180	and that terrible uh teleology is really necropolitic i believe so that that's the
+2929180	2942220	reason why we urgently need to reconcile with the notion that uh anyway we have to invent
+2942220	2947100	the forms including the political forms the institutional forms the constitutional forms
+2947820	2954540	which uh institute our life in common and alain supior had it right when he said the
+2954540	2960860	anthropologic function of law is to articulate together the different facets of human being
+2960860	2970300	these facets being the physiological the symbolic and the social if we agree to translate or to
+2970300	2979740	consider that all these different facets or layers are transcriber or reducible into
+2980620	2989340	reducible to pure flaws of of digital computable data and that this is enough for us to to to
+2990220	2997900	to govern ourselves i think we do a big mistake i think i would have to kind of dig a little
+2997900	3006220	deeper into this answer because um i guess it's not as simple as simply reverting back to like
+3006220	3013900	the law as it was the uh sovereign as it was the individual as it was so if we want to find
+3013900	3020060	answers to this as you frame it kind of assault of algorithmic governmentality then first of all we
+3020060	3026220	would have to ask are they the the proper tools in terms of are they adequate for the task and then
+3026220	3031180	of course i think we had we would have to rethink them because i mean they are not innocent in
+3031180	3037500	themselves the law is not innocent the the the liberal subject for sure is not innocent and so
+3037500	3044220	on so i would like to know at some point maybe this would be a good good example at some point
+3044220	3052220	you state that you think that actually we would have to stick with the fictional individual
+3052220	3058460	because it's kind of operationable it serves a purpose and that we need this purpose and
+3058460	3063580	while knowing that it is a fiction we still need it and i was wondering how far you would go with
+3063580	3070060	these things because i think it's kind of a play with fire but maybe positively speaking it's
+3070060	3075660	staying with the trouble in terms of done a hero way but i would be interested um whether or not
+3075660	3080620	we would have to kind of rethink these elements that you bring forward against algorithmic
+3080620	3087580	governmentality yes i think my response will be much simpler than your answer
+3088300	3095820	i'm afraid but i must state what's a subject for me what's the form subject for me the form subject
+3095820	3105260	is the content is void subjects are processes in constant overcoming of themselves subjects are
+3105260	3111340	becomeings there are processes of individuation processes of subjectivation and so on so
+3111980	3119020	notion of subject is eminently dynamic so i'm not nostalgic at all of the subject conceived as the
+3120060	3126540	as the liberalism conceived it as its fundamental unit unitary master of its own intentionality
+3127180	3132460	separated from others and so on not at all my notion of the subject is completely different and
+3132460	3139820	i have come to consider that the subject the role that the subject plays the subject is a point of
+3139820	3146860	view it's nothing else than a point of view so the world needs the subjects because the subject
+3146860	3154140	is the point of view from which objects may appear despite their ontological indetermination
+3154780	3164620	um as barad and so on uh would say and at the same time subjects need objects because also
+3164620	3172460	objects reflect their own position so it's a it's really a notion of the subject as um
+3173980	3183420	both as power subject as power of individuation or as a potentiality of individuation has never
+3183420	3190060	completely enclosed in any present but it's a process that is lived and experienced and
+3190060	3195980	constructed and deconstructed all the time over time over always over time so my notion of the
+3195980	3205020	subject is a heterochronic notion it's absolutely heterochronic that's the reason why uh the uh
+3205740	3213340	absorption in in the pure vortex of real time of everything by algorithmic governmentality
+3213340	3221180	is absolutely inhuman it's not habitable because we we are we are over time so that notion of the
+3221180	3228780	subject i think the subject like an actor it is because i'm a lawyer the notion of person persona
+3228780	3237660	person is the mask it's a mask that people put on their face when they have to act uh on a stage
+3237660	3243980	on a stage but also on the stage of the of the of a judicial court for example
+3244940	3254940	the notion the person is is inseparable from all the kinds of editorializations
+3255580	3264460	that we perform all the time but we are we are nothing else we are nothing else than these
+3264460	3272220	editorializations there is no subject without a form the form is the subject so that's the reason
+3272220	3277980	why the legal subject for example is is a functional fiction it's something that the law needs
+3278860	3286940	but it's but but the law knows that it's a fiction it's a place it's a location from which
+3287500	3295580	to make one's situation or the situation of the people who share an existential experience of
+3295580	3304860	discrimination for example together being a person before the law is being able to give account
+3305900	3316540	of injustice felt injustice felt problems to in fact it's a way of mattering and of determining
+3316540	3324780	or contributing to the definition of what matters what's a problem and what needs solution so it's
+3324780	3334380	quite pragmatic i would say but not only it's not only pragmatic i think it's also in a way ontologic
+3334380	3340700	but it's an ontology which is absolutely non-essentialist before asking my last
+3340700	3346860	question i would love to go to a place where we have been today in this workshop already
+3347420	3351980	i'm very much interested in this question of alternative arts of government and there's this
+3351980	3359340	famous quote by fukuh which i read out today earlier already and the quote goes what
+3359340	3363820	governmentality is possible as a strictly intrinsically and autonomously socialist
+3363820	3370220	governmentality in any case we know only that if there is a really socialist governmentality
+3370220	3376460	then it is not hidden within socialism and its texts it cannot be deduced from them it must be
+3376460	3384060	invented and quote and as i understand it your critique is a critique of algorithmic governmentality
+3384060	3390780	as a techno capitalist governmentality and not all of it will necessarily apply for other uses of
+3390780	3397180	these technologies in other contexts so maybe let's turn to the the question of construction again
+3397180	3403260	to the question of alternative in a positive sense what could this invention of desirable
+3403260	3409900	alternative governmentalities look like well i completely rejoined you when saying that you
+3409900	3417500	know and that's the the virtue of problematization is is to avoid technological determinism or you
+3417500	3427020	know today technologies are the ideal uh how you say scapegoat all the problems are
+3428300	3435340	we project all our problems on technologies it's because of of social networks that democracy is
+3435340	3443660	dysfunctional it's because of no no it's much broader than that uh of course so i i think
+3443660	3451900	there's no fatality in the fact that these uh technologies today are used in order to
+3451900	3460700	to boost uh capitalism and to accelerate uh to accelerate uh towards uh towards apocalysm
+3460700	3467180	apocalypse by apocalypse i mean precisely not the end of the world but the the end of the end of
+3467260	3478060	capitalism in fact um the smartness the smartness of these technologies is precisely
+3479180	3486700	that's uh through big data and machine learning we can become
+3488940	3496060	aware we can see regularities of the world which are only observable on on huge numbers
+3496860	3503660	so it's a question of scale so in fact what they produce also what they can produce are alternative
+3503660	3512060	maps of the world and of events which can be very interesting for i give you an example there are a
+3512060	3520780	lot of discussions today about the possibility the legitimacy or the opportunity of using
+3520780	3529740	algorithmic systems in in the judicial uh in the judicial system algorithmic decision making
+3530620	3540780	as to help judges for example and so on to take decisions um in fact what would be interesting
+3540780	3548540	what is interesting is that big data analytics allow for example to give to to to give to the
+3548540	3556140	judges a mirror of how the law functions you know it can give it can give very precious
+3556140	3563820	informations about the state of the law as it is practiced what kind of decisions are taken and so
+3563820	3575180	on so as a as a we can look at ourselves in big data and it gives us an image a certain image
+3575180	3581660	which is not deprived of a point of view because algorithms have point of view
+3582380	3588220	uh point the point of view of an algorithm i would say it's its objective function it depends of oh
+3588220	3594940	how the algorithm has been constructed and so on it depends on what kind of sensors are used to
+3594940	3601260	collect the data what kind of data are considered noise and what kind of data are considered signals
+3601260	3609020	and so on so there are point of view but it can allow us to be uh alerted
+3610700	3617020	about specificities or singularities of the world that we would not or of our
+3617020	3624220	or of our own behaviors that we would not notice otherwise so it can increase our intelligence
+3624220	3633100	instead of depriving us from intelligence the risk being of course that we overestimate the
+3633820	3642300	objectivity the scientificity of these productions no they are not more scientific not more objective
+3642300	3648700	than human judgment it's just that the world is looked at from a different perspective
+3648700	3654780	when looked at from the perspective of an algorithm we have to know about all the
+3654780	3661420	biases the basis of the humans but the basis of the algorithms as well and there are a lot there
+3661420	3667980	are a lot and and they're difficult to to detect sometimes because for example the distinction
+3667980	3674860	between uh what is a signal and what is noise is not decided by an institution in algorithmic
+3674860	3686220	governmentality it's it is just uh it is set it is that distinction is set in a in a way which is
+3687580	3694860	undergenius to the the socio-mediatic reality so it's evolving all the time so it's quite
+3694860	3700700	difficult to know exactly what the point of view of the algorithm is and that's the difficulty
+3700700	3708300	that's the difficulty but that difficulty is quite interesting in itself because it it it instills
+3709420	3716860	it instills trouble if we are if we keep attentive to these difficulties
+3718300	3723820	so that's the reason why i i don't meditate for algorithmic transparency for example which is
+3724780	3731820	it's a complete stupidity from my perspective not only it's unattainable because the the
+3731820	3739260	inductive logic is not even easily translatable into into a linear language understandable by
+3739260	3752620	the humans but but it would be really attenuating the enchanting alien logic or the enchanting
+3752620	3761980	view from somewhere else which we really need in order to to to boost our imagination also so i
+3761980	3770940	think it it can if algorithmic systems can de-automatize our own thinking that would be
+3771660	3778940	quite great okay in order to have some time for open discussion i will ask my last question
+3778940	3783500	question which is always if you think about the future what makes you joyful
+3784060	3791100	that's maybe the hardest one for the moment if i think about the future what makes me
+3791100	3798540	joyful i think maybe but i'm not the the first one to say that uh that that impression that
+3799900	3807420	the apocalypse has already arisen and that we are what remains i think slavosh dzek said that
+3807420	3813100	and i find that a nice logic because you know if you think that the catastrophe the absolute
+3813100	3821340	catastrophe has already arisen which is not impossible in fact then we have nothing left
+3821340	3833820	to lose you know except that we we now have to organize ourselves to um to become to become
+3833820	3843420	human to become human to to stop behaving like inhuman persons and there is much work i think
+3844300	3852540	to attain to that non-inhumanity i prefer to speak of non-inhuman uh because it's less
+3852540	3860860	segregative than affirming a human essence but i really like that double uh double negation i
+3860860	3868220	think it's that double negations are are really uh are really interesting and really dialectical
+3868220	3876620	and there may be the core of of of what makes us human that ability you know it's also zizek who
+3876620	3885100	said that and i agree with him uh what you know what an artificial intelligence will never never
+3885580	3892300	understand is the difference between uh coffee without cream and coffee without milk
+3894060	3900220	but we can we understand there is a difference because we are affected differently by the lack
+3900220	3907660	of cream or the lack of milk depending of our tastes um so that's what we have to preserve
+3907660	3915980	i think and that's that's that's dialectic that's dialectics and i think uh well that's one thing
+3915980	3923420	that makes me happy another thing that makes me happy uh or even joyful is are of course my my
+3923420	3936060	kids whom i i find so so intelligent and so marvelous and yes that's it i guess
+3937020	3940540	okay antonette thank you so much for being part of future histories
+3940540	3943180	thank you thank you for your patience and your attention
+3943260	3954140	that was our show for today thanks a lot for listening if you want to support future histories
+3954140	3961580	you can do so on patreon for this visit patreon.com slash future histories or you can simply tell a
+3961580	3967660	friend that you like the show and that he she or they might like it as well thanks a lot and
+3967660	3969340	hear you in two weeks

@@ -1,0 +1,1210 @@
+start	end	text
+0	6000	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+6000	11000	Mein Name ist Jan Groß und ich freue mich sehr heute Jens Schröter begrüßen zu dürfen.
+11000	16000	Jens ist Professor für Medienkulturwissenschaft an der Universität Bonn
+16000	21000	und einer der Sprecherinnen des Forschungsprojektes Die Gesellschaft nach dem Geld.
+21000	24000	Dieses Forschungsprojekt finde ich überaus spannend
+24000	28000	und Jens bearbeitet in seiner Forschung auch tatsächlich viele von den Themen,
+28000	31000	die auch mich begleiten und interessieren.
+31000	35000	Es sieht also alles danach aus, als wäre dies heute nicht die letzte Folge
+35000	38000	mit Gästen aus dem Projekt Die Gesellschaft nach dem Geld.
+38000	43000	Denn ich merke auch, dass ich unglaublich große Lücken habe
+43000	48000	in der Auseinandersetzung mit dem weiten Feld der Commons-Theorie und Praxis.
+48000	53000	Das will ich unbedingt ändern und werde mich demnächst dann auch als ersten Schritt
+53000	58000	dem Buch Kapitalismus aufheben von Stefan Mehretz und Simon Sütterly zuwenden.
+58000	61000	Das kommt heute im Gespräch auch mehrfach vor.
+61000	66000	Die kostenfreie Vollversion dieses Buches habe ich euch auch in den Show-Notizen verlinkt,
+66000	68000	also to be continued.
+68000	73000	Und die heutige Folge ist auch in anderer Form anschlussfähig,
+73000	77000	denn ich darf mit großer Freude einen Sammelband ankündigen,
+77000	80000	in dem sowohl Jens als auch ich vertreten sind.
+80000	84000	Unser heutiges Gespräch basiert eigentlich auf diesen Beiträgen.
+84000	86000	Dieser Sammelband trägt den Titel
+86000	92000	Die unsichtbare Hand des Plans Koordination und Kalkül im digitalen Kapitalismus
+92000	96000	und darüber hinaus und wird im kommenden Jahr herausgegeben
+96000	100000	von Timo Daum und Sabine Nuss im Dietz Verlag erscheinen.
+100000	104000	Ganz sicher werdet ihr dazu noch so manches von mir hören,
+104000	106000	denn ich glaube, das wird ein ganz großartiges Buch
+106000	109000	und ich freue mich unglaublich darin vertreten zu sein.
+109000	112000	Also auch da to be continued.
+112000	114000	Und ich möchte noch aus ganzem Herzen
+114000	121000	Karle, Max und Kilian in der Gemeinschaft der Future Histories Patroninnen und Patronen begrüßen.
+121000	123000	Vielen, vielen Dank für eure Unterstützung
+123000	126000	und vielen Dank auch an Bernhard für deine großzügige Spende.
+126000	129000	Das alles hilft wirklich ungemein.
+129000	134000	Aber jetzt viel Freude mit der heutigen Episode mit Jens Schröter
+134000	137000	zur Gesellschaft nach dem Geld.
+139000	143000	Herzlich willkommen, Jens.
+143000	145000	Hallo, Jan.
+145000	149000	Ich muss sagen, euer Forschungsprojekt hat mich sofort absolut angesprochen,
+149000	152000	als ich davon gehört habe, denn es versammelt sehr viele Themen,
+152000	154000	die mich überaus interessieren.
+154000	157000	Und ihr erprobt einen ungewöhnlichen methodischen Zugang,
+157000	161000	nämlich eine Simulation auf Basis des sogenannten Agent-Based Modeling.
+161000	165000	Worum geht es in die Gesellschaft nach dem Geld?
+165000	171000	Ja, also man muss dazu sagen, das ist sozusagen jetzt die zweite Phase des Projekts.
+171000	177000	Die erste Phase, die begonnen hat, quasi im 1. Januar 2016 damals in zwei Jahren lief,
+177000	181000	war gewissermaßen die theoretische Phase.
+181000	184000	Wir haben uns da zusammengefunden, also Leute aus der Medientheorie,
+184000	190000	aus der Commonstheorie, aus der Soziologie, aus den heterodoxen Wirtschaftswissenschaften
+191000	196000	und haben erst mal Texte diskutiert, Konzepte diskutiert, eben auch die Bücher gemacht
+196000	200000	und das war gewissermaßen die Vorbereitungsphase.
+200000	205000	Und dann kam etwas überraschend die Möglichkeit auf, das war ursprünglich gar nicht angedacht,
+205000	207000	eine Fortsetzung zu beantragen.
+207000	214000	Und da kamen wir dann auf die Idee zu versuchen, wenn wir schon mit gesellschaftlichen Modellen
+214000	219000	oder besser gesagt Modellen von Gesellschaft oder anderen Ökonomien herumarbeiten,
+219000	225000	ob man nicht die Mittel, die auch tatsächlich von bestimmten Bereichen der Soziologie,
+225000	230000	aber auch der Wirtschaftswissenschaften eingesetzt werden, nämlich Computersimulationen,
+230000	240000	mal nutzt, um zu versuchen, eine, sagen wir mal, nicht monetäre, nicht auf Geld basierte Ökonomie zu simulieren.
+240000	245000	Für sowas gibt es wenig Muster und im Grunde ist die Arbeit, die wir jetzt machen,
+245000	249000	herauszufinden, wie man eine solche Simulation baut.
+249000	253000	Ich glaube nicht, dass da am Ende irgendwie eine Blaupause herauskommt, wie man sowas macht,
+253000	257000	sondern denke bei unserem Projekt wird das auch unterschiedlich eingeschätzt.
+257000	261000	Wir haben sehr viele verschiedene Stimmen im Projekt, aber ich würde sagen,
+261000	267000	der Weg dahin ist das interessante, weil das einen zwingt, sich sehr viele Gedanken zu machen,
+267000	272000	sehr konkret darüber, wie bestimmte Mechanismen anders funktionieren können
+273000	276000	und auf diese Art und Weise ist man auch gezwungen,
+276000	283000	die eigenen theoretischen Vorstellungen auch einfach auf den Prüfstand zu stellen.
+283000	286000	Es gibt dann viele kontroverse Diskussionen und ich muss sagen,
+286000	290000	diese Diskussionen gehören zu dem Interessantesten, was ich je gemacht habe.
+290000	296000	Ich glaube, das klingt jetzt vielleicht blöd, aber ich glaube, der Weg ist das Ziel.
+296000	300000	Großartig. Also da würde ich gerne noch ein bisschen weiter nachspüren.
+300000	306000	Du hast es schon angedeutet, ihr habt sehr viele verschiedene Disziplinen versammelt da in dem Projekt.
+306000	313000	Was sind denn so die Themenfelder, die Debatten, die am meisten sich aufheizen?
+313000	317000	Also was sind so die Bruchlinien, wo die verschiedenen Perspektiven aufeinandertreffen
+317000	319000	und man sich vielleicht auch mal nicht versteht?
+319000	322000	Ja, also das gibt es natürlich immer wieder in dem Projekt.
+322000	326000	Das war in der ersten Phase teilweise auch ziemlich kontrovers.
+326000	331000	Das hingen auch damit zusammen, dass wir in der ersten Phase mehrere externe Gäste hatten,
+331000	336000	die ihre Position mit eingebracht haben und da gab es eben sehr verschiedene Auffassungen.
+336000	340000	Es gab Leute aus der Wertkritik, wir hatten einen marxistischen Ökonom dabei,
+340000	344000	wir hatten Stefan Heidenreich dabei, der ja auch dieses Buch,
+344000	350000	Geld durchgestrichen für eine postmonitäre oder nonmonitäre Ökonomie gemacht hat
+350000	354000	und da gab es dann halt sehr unterschiedliche Auffassungen zum Teil.
+354000	360000	Also was immer wieder auftaucht, also was eine Frage, die zum Beispiel in der ersten Phase
+360000	364000	immer wieder aufgetaucht ist, war die Frage nach dem Menschenbild.
+364000	367000	Das war eine Kontroverse, die wir dann auch in unserem Buch abgebildet haben,
+367000	376000	weil so die Frage auftauchte, ist die Annahme einer Gesellschaft,
+376000	380000	einer möglichen Gesellschaft, die nicht das Medium Geld als Tauschmittel braucht
+380000	385000	und die damit möglicherweise auch von Tauschrelationen als solchen sich entfernen muss,
+385000	389000	impliziert die nicht bestimmte Annahmen über menschliches Verhalten
+389000	395000	und das hat zu Kontroversen geführt. Was auch immer wieder eine Kontroverse ist,
+395000	399000	vielleicht ist Kontroverse auch zu stark gesagt, aber ein Thema, was wir diskutieren,
+399000	404000	ist die Rolle der Frage nach dem Fluss von Informationen,
+404000	409000	weil ich als jemand, der aus der Medientheorie kommt, ich halte natürlich das für
+409000	416000	sehr zentral und ich finde halt, dass ich durch die historische sozialistische Kalkulationsdebatte,
+416000	420000	in der das ein zentrales Motiv war, auch bestätigt werde.
+420000	424000	Andere Leute finden das nicht so wesentlich und fragen dann zum Beispiel eher nach dem,
+424000	429000	das ist zum Beispiel zur Commons-Fraktion, die fragt dann eher nach den Inklusionsbedingungen,
+429000	434000	die solche Gesellschaftsformen bereitstellen können. Das ist ja auch wichtig und so,
+434000	439000	aber da ist immer die Frage, mir fehlt dann zum Beispiel immer dieser Punkt,
+439000	446000	wie wird eigentlich sichergestellt, dass wer wann was weiß, was wie produziert und wie verteilt werden muss.
+446000	450000	Darauf wird natürlich auch eingegangen, aber das ist so ein neuralgischer Punkt,
+450000	453000	an dem wir immer weiter diskutieren zum Beispiel.
+453000	458000	Ja, das finde ich ganz großartig, denn das ist absolut auch ein Feld,
+458000	461000	das ich mit einiger Obsession beackere, muss ich sagen,
+461000	468000	und was immer wieder in diesem Podcast hier auch auf die eine oder andere Art vorkommt.
+468000	472000	Wir haben beide die Freude, einen Beitrag für ein Buch im Dietz-Verlag,
+472000	475000	ein Sammelband im Dietz-Verlag beisteuern zu dürfen.
+475000	480000	Auf eine Art hatte ich sogar das Gefühl fast, dass wir da aus unterschiedlichen Richtungen
+480000	483000	vielleicht zu ähnlichen Schlüssen kommen.
+483000	487000	Was du vorschlägst oder was du behandelst in dem Beitrag,
+487000	492000	ist ein Brückenschlag zwischen dieser Socialist Calculation Debate 2.0,
+492000	495000	nennen wir es mal, und der Commons-Debatte.
+495000	497000	Und ich glaube, das ist ungemein wichtig.
+497000	500000	Ich merke das auch immer wieder in den Interviews, die ich hier führe.
+500000	504000	Zuletzt hatte ich eine Folge mit Ronja Morgenthaler und Kai Kuhnhörn
+504000	511000	vom Konzeptwerk Neue Ökonomie, die eben eher ja aus so einer Degrowth- und Commons-Ecke kommen.
+511000	515000	Und habe da auch gemerkt, dass ich dieses Bedürfnis habe, wie du es gerade artikuliert hast,
+515000	522000	dass es da eine Leerstelle gibt, die eben in dem Denken über Commons vielleicht noch nicht ganz abgedeckt ist.
+522000	524000	Machen wir das mal Schritt für Schritt.
+524000	530000	Vielleicht kannst du uns noch mal kurz zusammenfassen, worum geht es denn in der Debatte
+530000	533000	rund um die Socialist Calculation Debate?
+533000	539000	Ja, also diese Debatte ist kompliziert und lang und detailliert, aber man kann vielleicht sagen,
+539000	546000	die begann ungefähr in den 20er-Jahren mit der Frage, ob eine sozialistische Ökonomie möglich ist.
+546000	551000	Wobei, was man genau darunter versteht, durchaus unklar ist, denn zum Beispiel
+551000	556000	die anfängliche Kritik von Mises richtete sich gegen Vorneurath.
+556000	562000	Und Vorneurath hat so eine Art Naturalplanungsmodell ohne Preise vorgestellt.
+562000	567000	Und das hatte auch Wurzeln in der Münchner Räterepublik und so.
+567000	574000	Und Mises hat argumentiert, dass man ohne Preise nicht rational planen kann.
+574000	578000	Man weiß nicht, welcher Produktionsweg effizient ist und welcher nicht.
+578000	583000	Und das müsse unweigerlich zu ungeheurer Maßen an Ineffizienz und Verschleuderung führen.
+583000	590000	Und insofern ich tatsächlich auch der Meinung bin, dass Effizienz nicht bloß eine Krankheit des Kapitalismus ist,
+590000	596000	sondern für jede ökonomische Organisation in der einen oder anderen Weise.
+596000	601000	Das heißt nicht, dass man Effizienz nur misst daran, wie viel Profit macht das zum Beispiel,
+601000	606000	sondern das kann ja auch heißen, wie sorge ich dafür, dass es möglichst wenig Dreck macht oder so.
+606000	611000	Aber dass sowas wie eine Effizienz für jede Art von ökonomischer Organisation notwendig ist,
+611000	615000	insofern finde ich dieses Argument erst mal nachvollziehbar.
+615000	619000	Und danach hat sich diese Debatte aber etwas gewandelt, weil diese Kritik von Mises
+619000	624000	wurde sehr ernst genommen auf der Linken und man hat gesagt, gut, vielleicht geht es nicht ohne Preise.
+624000	632000	Und dann tendierte das auf der Seite der Verteidigerinnen des Sozialismus eher Richtung Marktsozialismus.
+632000	635000	Man hat gesagt, okay, okay, wir brauchen also Preise.
+635000	640000	Das heißt aber nicht, dass man sozusagen die Preise, die vielleicht partiell an Märkten ermittelt worden sind,
+640000	646000	nicht durch verschiedene Formen der Planung anders lenkt, sodass man bestimmte negative Effekte vermeidet.
+646000	652000	Soweit so gut. Das sah dann auch so aus, als ob gewissermaßen diese Leute, die interessanterweise,
+652000	656000	also gerade die Leute von links kommen, aus so einer Art neoklassischen Framework gekommen sind.
+656000	660000	Das sah so aus, als ob die die Debatte gewonnen hätte. Und dann kommt Hayek.
+660000	665000	Und Hayek greift das Argument von Mises noch mal auf, aber verändert und radikalisiert das.
+665000	671000	Da geht es nämlich nicht mehr um die Frage oder nicht mehr allein, ob man noch rational wirtschaften kann,
+671000	679000	wenn man keine Preise hat oder ob dieses Wirtschaften zu komplex ist, um es dem zentralen Planning Board zu überlassen.
+680000	684000	Da könnte man ja argumentieren, wenn man eine modernere Computer hat, kann man das doch wieder machen,
+684000	689000	wie das zum Beispiel Cockshot heute macht. Hayeks Argument ist aber ganz anders.
+689000	697000	Es ist mindestens so, dass er argumentiert, wir kommen gar nicht an die Daten, die wir brauchen, um diese Planung durchzuführen.
+697000	705000	Der Punkt ist, dass der Markt in der Lage ist, dass dezentral verteilte und situierte und implizite vor allen Dingen wissen,
+705000	710000	dass an verschiedenen Stellen in der Gesellschaft vorhanden ist, gewissermaßen dezentral zu aktualisieren,
+710000	715000	im Vergleich das interessanterweise, das interessiert mich natürlich als Medienwissenschaftler, mit einem Kommunikationssystem,
+715000	723000	mit dem Telefonnetz. Und dieses Argument ist tiefgreifender, weil es sozusagen nicht dem Punkt aufgewürft,
+723000	729000	die Ökonomie ist zu komplex, okay, wir können das nicht berechnen, die Daten sind da, aber wir können es nicht berechnen,
+730000	737000	sondern Hayek bestreitet, dass wir diese Daten überhaupt bekommen können. Wenn wir die nicht bekommen können,
+737000	742000	dann können wir auch nicht planen. Und dann ist es auch wurscht, wie toll unsere Computer sind.
+742000	749000	Da können wir die tollsten Quantencomputer haben, wenn wir die Daten gar nicht kriegen oder zu spät oder verzerrt,
+749000	754000	dann war es das mit der Planung. Und deswegen, dieses Argument muss man sehr ernst nehmen.
+755000	758000	Das ist übrigens, wie ich finde, ein sehr interessantes medientheoretisches Argument,
+758000	764000	aber en la lettre, lange bevor es so viel Medientheorie überhaupt gab, ist das ein sehr interessantes medientheoretisches Argument,
+764000	774000	was auf die Frage der Verfügbarkeit, Bearbeitbarkeit und Explizierbarkeit von Wissen hinausläuft.
+774000	779000	Und dieses Argument muss man sehr ernst nehmen. Und meines Erachtens kann man heutzutage,
+779000	786000	wenn man sich an Entwürfe alternativer Ökonomien macht, die über das Lokale hinausgehen,
+786000	791000	kann man nicht vermeiden, sich diesen kritischen Argumenten zu stellen.
+791000	794000	Wenn man das nicht tut, macht man sich lächerlich. Das ist meine Auffassung.
+794000	798000	Und es gibt ja jede Menge Literatur dazu. Also Burczak hat dieses Buch geschrieben,
+798000	805000	Socialism after Hayek zum Beispiel. Es gibt eine riesen Auseinandersetzung darüber,
+805000	810000	riesige theoretische Auseinandersetzung. Im Grunde ist diese sozialistische Kalkulationsdebatte nie abgerissen.
+810000	816000	Die ist nur in den Hintergrund getreten, weil spätestens seit 1990 schien es offensichtlich,
+816000	820000	dass der Sozialismus abgewirtschaftet hat und Hayek und Mieses Recht haben.
+820000	826000	Aber in den letzten Jahren ist durch die offensichtlichen Probleme, die der Kapitalismus aufwirft
+826000	832000	und eben auch durch neue Rechnertechnologien und Netzwerktechnologien ist die Frage neu aufgekommen.
+832000	838000	Und ich glaube auch nicht, dass man eine neue Ökonomie bloß durch neue Technik auf die Beine stellen kann.
+838000	844000	Aber ich glaube auch umgekehrt nicht, dass es nur an Goodwill und der Organisation liegt.
+844000	852000	Man muss sich schon was einfallen lassen, um die Frage nach Steuerungsmechanismen usw. plausibel zu beantworten.
+852000	856000	Sonst wird man immer ridiculisiert werden von den Hayekianern.
+857000	863000	Ja, überaus spannend. Und wir werden später dann noch auf einen sehr konkreten Vorschlag zu sprechen kommen,
+863000	869000	der dieses Verschieben hin zu einem Informationsproblem auch schon im Titel trägt,
+869000	873000	nämlich den von Daniel Iseros, Information Technology and Socialist Construction.
+873000	876000	Da bin ich schon sehr gespannt auf deine Meinung.
+876000	882000	Bevor wir das machen, winden wir uns mal dem zweiten größeren Strang postkapitalistischen Denkens zu,
+882000	888000	den du da eben noch anführst. Das ist die Commons-Debatte.
+888000	894000	Worum handelt es sich dabei und was bringt Sie ein in ein Denken über Alternativen,
+894000	899000	das im Rahmen der Socialist Calculation Debate 2.0 vielleicht auch zu wenig Beachtung findet?
+899000	904000	Also zunächst mal muss ich sagen, dass es Leute gibt, die beruflicher sind, darüber zu reden als ich.
+904000	908000	Ich meine, ich weiß das halt aus unserem Projekt, aber ich weiß, dass du hier auch noch eine Sendung mit
+908000	912000	Stefan Meretz und so machen willst. Die kennen sich dann noch viel besser aus.
+912000	917000	Aber was ich darüber weiß, ist Folgendes.
+917000	924000	Also das ist tatsächlich ein Strang, der ganz eigenständig im Grunde sich entwickelt hat zunächst,
+924000	927000	obwohl es da auch unterschiedliche Verbindungen gibt.
+927000	935000	Und es gibt dieses berühmte Aufsatz von Gareth Hardin von 1968 The Tragedy of the Commons.
+935000	940000	Und da geht es im Grunde, ich vereinfache jetzt stark das Beispiel, naja, es gibt eine Wiese
+940000	947000	und verschiedene Bäuerinnen und Bauern bewirtschaften die Wiese und schicken da ihre Herde zum Beiden drauf.
+947000	951000	Und Hardin nimmt ziemlich explizit an, das steht auch an dem Paper,
+951000	956000	dass die Bäuerinnen und Bauern sich wie die klassischen Nutzenmaximierer an Märkten benehmen.
+956000	963000	Also alles für mich. Und wenn sich alle Bäuerinnen und Bauern so verhalten, ist die Wiese bald im Eimer.
+963000	967000	Und niemand hat mehr was davon. Und das wird, ich vereinfache jetzt sträglich,
+967000	971000	aber das wird dann als Argument verwendet, gemeinsame Nutzung von Ressourcen, das klappt nicht. Punkt.
+971000	976000	Das Problem liegt natürlich offenkundig in der Annahme, dass die Leute, die gemeinsam in der Wiese sich verhalten,
+976000	980000	sich benehmen, als wären sie an dem Markt als Nutzenmaximierer.
+980000	989000	Und Elinor Ostrom, die 2009 übrigens als erste Frau den sogenannten Nobelpreis der Wirtschaftswissenschaft bekommen hat,
+989000	996000	hat in Governing the Commons, diesem berühmten Buch von 1990 gezeigt, mit historischer Forschung, mit Feldforschung,
+996000	1002000	mit theoretischen Erwägungen, dass diese Annahme von Hardin deswegen falsch ist, weil bei allen existierenden
+1002000	1009000	und funktionierenden, teilweise im Jahrhunderte funktionierenden Allmenden, Commons, der Trick ist,
+1009000	1014000	dass die Leute miteinander kommunizieren. Die reden miteinander. Die setzen sich vorher zusammen und sagen,
+1014000	1019000	hört mal, wenn wir jetzt alle unser Vieh dahinschicken, ist die Wiese bald kaputt, so geht das aber nicht.
+1019000	1025000	Was machen wir denn da? Und dann einigt man sich auf bestimmte Regeln und setzt vielleicht Sanktionsmechanismen
+1025000	1031000	in Kraft gegenüber den Leuten, die sich nicht an die Regeln halten und so weiter und zieht da, dann geht es nämlich doch.
+1031000	1042000	Und solche Lösungen, die lokal, kommunikativ, Ressourcen verwalten, hat Ostrom gezeigt, sind funktionsfähiger als Markt- oder Staatslösungen.
+1042000	1051000	So, und das heißt, wir haben was in der Hand, was zeigt das, so was wie eine gemeinsame, kommunikative Nutzung von Ressourcen,
+1051000	1057000	es muss ja auch nicht nur die Nutzung von Ressourcen sein, aber Fort Jury könnte auch die Produktion von irgendwas sein,
+1057000	1065000	dass das im Prinzip möglich ist. Und das macht irgendwie den Appeal dieses Buches aus, wobei, Klammer auf,
+1065000	1071000	und jetzt kommt ein erster Link zur sozialistischen Kalkulationsdebatte, Ostrom nie die Idee hatte,
+1071000	1079000	was vorzuschlagen, was an die Stelle des Marktes oder des Kapitalismus tritt. Die kommt nämlich selber aus der österreichischen Schule, von Hayek her.
+1079000	1089000	Denn Hayeks Betonung der lokalen, dezentralen Organisation, die er auf den Markt bezogen hat, das ist im Grunde dieselbe Idee, die hinter den Commons steht.
+1089000	1097000	Ja, also das heißt, die Commons-Debatte, also dieser Strang der Commons-Debatte, Ostrom, kommt tatsächlich selber aus der österreichischen Schule,
+1097000	1107000	was eine gewisse Ironie dieser ganzen Geschichte ist. Aber anyway, also die Commons-Debatte geht davon aus, dass es möglich ist,
+1107000	1116000	und da gibt es gute Gründe dafür, dass sowas wie eine kommunikative Organisation, lokaler Nutzung von Ressourcen, Produktion und so notwendig ist.
+1116000	1124000	Ostrom hat das damals gemacht, weil man halt auch gesehen hat, dass Märkte großflächig Verheerungen anrichten können,
+1124000	1132000	dass das Lösungsmechanismen sind, die sich Leute überlegt haben. Die Frage, die sich jetzt so ein bisschen stellt und die sich in den letzten Jahren gestellt hat,
+1132000	1140000	ist dieses Prinzip verallgemeinerbar über das Lokale hinaus. Denn die Beispiele von Ostrom sind ja alle lokal.
+1140000	1150000	Also Leute setzen sich an den Tisch zusammen und reden über ihre Weide. Jetzt, wenn man sich jetzt eine, sagen wir mal, global verteilte Produktion von Computern überlegt.
+1151000	1158000	Also da stellt sich als erstes die Frage, wie soll das funktionieren? Wie soll diese Kommunikation gelöst, wie soll das kommunikativ gelöst werden?
+1158000	1165000	In ab einer gewissen Zahl von Leuten, da muss man nicht mal annehmen, dass die Leute sich nicht vertragen und die ganze Zeit miteinander streiten.
+1165000	1172000	Rein zeitlich wird die Komplexität so hoch der kommunikativen Lösung, dass das nicht mehr bewältigt werden kann.
+1172000	1178000	Mein Lieblingsbeispiel ist immer, wenn man globale Probleme hat, da würde, sagen wir mal, sieben Milliarden Leute in einen riesen Stadion setzen,
+1178000	1183000	da muss jeder nur zehn Sekunden reden und das verwendet die For Seven, das dauert dann noch 2.500 Jahre.
+1183000	1191000	Das heißt, selbst wenn alle guten Willens sind, ist das nicht zu machen, weil das einfach zu komplex ist.
+1191000	1199000	Und da kommen dann die Hayekianer wieder ins Bild und sagen, ja, told you so, deswegen gibt es ja Preissignale.
+1199000	1205000	Da wird immer in der Commons-Debatte, also Stefan zum Beispiel und Simon in ihrem Buch kritisieren auch zurecht,
+1205000	1210000	Preissignale sind ja so eindimensional, das ist ja nur so eine quantitative Zahl.
+1210000	1216000	Und da gehen ja so viele Informationen beiunter, die man eigentlich wissen wollte oder bräuchte über Bedürfnisse.
+1216000	1223000	Da würden die Hayekianer sagen, genau, das ist genau deren Stärke, dass es nur eine Zahl ist, weil es so arm ist, funktioniert das.
+1223000	1227000	Das ist nicht das Problem da dran, sondern die Stärke.
+1227000	1233000	Und auch wenn ich die Kritik an der Verabsolutierung von Preissignalen richtig finde,
+1233000	1237000	weil selbst im Kapitalismus sind Preissignale nicht nur die einzigen Kommunikationssignale,
+1237000	1243000	wir können ja auch so miteinander reden und es gibt andere Informationen und so,
+1243000	1250000	ist dieses Argument nicht ganz von der Hand zu weisen, dass ab einer gewissen Komplexität braucht man irgendwelche Vereinfachungsmechanismen
+1250000	1255000	oder Komplexitätsreduktionsmechanismen, sonst ist das überhaupt nicht mehr steuerbar.
+1255000	1262000	Und Preise mögen ein furchtbar reduktionistisches Modell sein,
+1262000	1268000	aber es ist eins, was gerade aufgrund seines Reduktionismus funktioniert.
+1268000	1270000	Und dieses Einmachen muss man, glaube ich, ernst nehmen.
+1270000	1273000	Also man muss, glaube ich, ernst nehmen, was dahintersteht.
+1273000	1278000	Das ist nicht bloß eine ideologische Verteidigung des Markts, auch wenn es so manchmal daherkommt und vielleicht auch so gemeint war.
+1278000	1284000	Das hat einen wahren Kern in der Komplexität- und Informationstheorie und das muss man, glaube ich, ernst nehmen.
+1284000	1292000	Und die Commons-Debatte bzw. jetzt dieses Buch von Meritz und Suttar Lüthi,
+1292000	1299000	die schlagen ja dann schon auch verschiedene Strategien vor, wie man diesem Problem eigentlich begegnen könnte.
+1299000	1305000	Und du, in deinem Text gestattetest du das so entlang von drei Themenpunkten,
+1305000	1310000	der Stigmergie, der Frage der Planung und dann schließlich der Metacommons.
+1310000	1313000	Vielleicht können wir das auch mal eins nach dem anderen durchgehen.
+1313000	1319000	Das sollen alles drei Mechanismen, also bei der Planung ist eher das etwas, was du dann sozusagen da noch mit einbringst.
+1319000	1325000	Aber die Stigmergie und die Metacommons sind ja ganz konkret Angebote, die sie da in ihrem Buch anscheinend machen,
+1325000	1333000	um diesen Problemen der großflächigen Koordination vielleicht auch begegnen zu können innerhalb einer Commons-basierten Organisation.
+1333000	1336000	Worum handelt es sich da? Was ist Stigmergie zum Beispiel?
+1336000	1339000	Ja, also wie gesagt, auch da gibt es berufendere als mich.
+1339000	1341000	Wer soll dir Stefan am besten nochmal ganz genau erklären?
+1341000	1349000	Aber zunächst mal möchte ich sagen, dass ich den Vorschlag, den Stefan und Sie man in dem Buch machen, diese Begriffe einzuführen,
+1349000	1354000	und das ist ja auch ein bisschen älter, das hat Stefan schon früher gemacht, das finde ich sehr gut.
+1354000	1359000	Ich finde das sehr gut und sehr wichtig, weil das nämlich genau dieses Problem adressiert,
+1359000	1367000	dass man irgendwie erklären muss, wie diese Koordination eigentlich vonstatten gehen soll,
+1367000	1373000	denn natürlich wissen die beiden auch sehr genau, dass es nicht mehr reicht zu sagen, na ja,
+1373000	1376000	dann reden die Menschen mal miteinander und dann klappt das schon und so.
+1376000	1382000	Das wäre schön, wenn das so wäre, aber muss ich halt auch immer, ich sage es nochmal, klar machen,
+1382000	1388000	dass das auch gewisser Anthropozentrismus ist, wenn man glaubt, man muss noch miteinander reden und dann klappt das,
+1388000	1393000	weil Komplexität ist etwas, das einfach auch die Menschen übersteigt, deswegen ist sie ja komplex
+1393000	1402000	und deswegen ist es halt auch notwendig, sich darüber Gedanken zu machen, dass selbst wenn alle alles gutwillig wären
+1402000	1409000	und alle wollten, es trotzdem Barrieren gibt, die man irgendwie lösen muss, überwinden muss und die es Stück mehr gibt.
+1409000	1414000	Also, wenn ich das richtig verstehe, ist die Idee im Grunde die, dass lokal Zeichen hinterlassen werden,
+1414000	1421000	Stückmata, also Zeichen hinterlassen werden, die sozusagen anderen mitteilen, was zu tun ist.
+1421000	1428000	Ganz vereinfacht gesagt, also das Beispiel, was gerne benutzt wird, ist der rote Link bei Wikipedia,
+1428000	1434000	dass wir sehen können, aha, da fehlt noch was, das ist eine Aufforderung oder nicht eine Aufforderung,
+1434000	1442000	das ist ein Angebot an mich zu sagen, willst du nicht vielleicht oder irgendjemand anders diesen fehlenden Teil des Artikels ergänzen?
+1442000	1446000	Und wenn ich das machen will, kann ich das machen und man kann argumentieren,
+1446000	1450000	wenn man nur genug Leute hat, findet sich immer jemand, der das macht.
+1450000	1456000	So, und jetzt hochgerechnet ist die Idee, die das sozusagen lokal Zeichen hinterlassen werden,
+1456000	1464000	was hier zum Beispiel noch zu tun ist und dann finden sich Leute, die das tun, das ist die Idee.
+1464000	1471000	Zumal da Stefan und Simon in ihrem Buch übrigens noch radikaler als Ostschirm auf radikale Freiwilligkeit setzen.
+1471000	1477000	Es gibt keine Sanktionsmechanismen. Das finde ich erstmal von Freiheit zu Peel natürlich toll.
+1477000	1484000	Das ist, wie man sich denken kann, natürlich auch mal problembehaftet, aber zunächst mal finde ich das erstrebenswert und gut.
+1484000	1492000	Aber die Idee ist sozusagen, wenn es nur genug Leute gibt, findet sich immer jemand, der oder die auf das Zeichen reagiert.
+1492000	1499000	Interessant dabei ist, dass das natürlich ein Organisationsmodell ist, was Märkten durchaus nicht unähnlich ist.
+1499000	1503000	Also das ist Märkten näher als zentraler Planung.
+1503000	1508000	Weil in Märkten, das schreibt sich auch selber, funktioniert das ja nicht anders.
+1508000	1514000	Preissignale sind ja auch stückmärkische Signale, die sozusagen sagen, wenn plötzlich von irgendwas,
+1514000	1521000	was weiß ich, von irgendeiner Dienstleistung der Preis nach oben geht, ist das ein Signal an alle, das wird gebraucht.
+1521000	1527000	Und bitte, wenn ihr Lust habt, gründet schnell ein Unternehmen und bietet diese Dienstleistung an.
+1527000	1533000	Es lohnt sich. Also sozusagen diese Preissignale sind auch stückmärkische Signale,
+1533000	1539000	die motivieren, einen Mangel, der irgendwo auftritt, zu beheben, weil es eben teuer wird.
+1539000	1543000	Und dadurch lohnt es sich, Arbeit und Energie da reinzustecken.
+1543000	1553000	Und das finde ich ganz interessant, weil die Vorstellung der stückmärkischen Organisation ist im Grunde der Organisation an Märkten durchaus verwandt.
+1553000	1557000	Ich glaube eben, die Signale werden als komplexer gedacht.
+1557000	1561000	Sie sollen die Bedürfnisse vermitteln und nicht nur dieses quantitative Preissignal.
+1561000	1563000	Sie sollen komplexer sein.
+1563000	1570000	Und offensichtlich ist das auch so gedacht, dass es weniger über Konkurrenz gedacht wird, sondern über Kooperation.
+1570000	1573000	Das wirft natürlich wieder eine ganze Reihe von Folgefragen auf.
+1573000	1578000	Bezieht sich die Stückmärgie auf die Art und Weise, wie sich Menschen zu Commons organisieren?
+1578000	1584000	Oder sind es Signale, die Commons signalisieren, was sie zu tun haben?
+1584000	1586000	Oder beides?
+1586000	1593000	Und ist es wirklich so, dass wenn das eine dezentrale, flache Organisation ist, im Grunde wie der Markt,
+1593000	1599000	oder der idealgedachte Markt, de facto hat man natürlich Monopole und sowas oder Oligopole,
+1599000	1606000	wenn das so gedacht ist, ist das wirklich vermeidbar, dass es zu sowas wie Konkurrenz kommt?
+1607000	1611000	Und wenn ja, vielleicht ist das ja auch nichts Schlimmes, ein gewisses Maß an Konkurrenz,
+1611000	1618000	wie verhindert man, dass das sozusagen zum gesellschaftlichen Leitbild wird, wie es jetzt ist?
+1618000	1622000	Wir sehen uns jetzt ja alle sozusagen als Mini-Unternehmen, die gegeneinander konkurrieren,
+1622000	1627000	mit allen auch sozialen und psychischen Effekten, die das hat.
+1627000	1630000	Das wirft eine ganze Reihe von interessanten Anschlussfragen auf.
+1630000	1633000	Und jetzt bin ich dem Buch auch sehr dankbar, dass sie das gemacht haben,
+1633000	1635000	weil das ist, finde ich, eine extrem wichtige Debatte.
+1635000	1641000	Interessant ist halt, jetzt zum zweiten Punkt zu kommen, dass an einer anderen Stelle
+1641000	1645000	und auch an anderen Texten von Stefan und an anderen Stellen der Commons-Debatte
+1645000	1648000	zusätzlich der Begriff des Metacommons eingeführt wird.
+1648000	1653000	Manchmal auch der Hub genannt, das fällt auf das Wort des Koordinationscommons.
+1653000	1655000	Und das ist natürlich eine interessante Frage.
+1655000	1660000	Also wenn offenbar die Stückmergie ein zentrales Organisationsprinzip ist,
+1661000	1668000	was über Zeichen arbeitet, dazu kommt noch, dass Stefan und Simon anmerken,
+1668000	1671000	dass wenn es zu Konflikten kommt, müsste wieder zu einer direkten,
+1671000	1674000	weniger hinweisbasierten Vermittlung übergegangen werden.
+1674000	1677000	Auch das ist ein komplizierter Punkt.
+1677000	1685000	Aber wenn das sozusagen über die Stigmerie läuft, wozu genau braucht man dann Metacommons?
+1685000	1688000	Was ist deren Funktion? Wie verhalten die sich dazu?
+1688000	1690000	Also wenn man sich vorstellt, das sind sozusagen Commons,
+1690000	1694000	die anderen Commons helfen, sich zu organisieren koordinativ,
+1694000	1699000	dann ist natürlich die Frage, wie verhält sich das wieder zum Problem der Planung?
+1699000	1703000	Weil wenn man Metacommons hätte oder Koordinationscommons hätte,
+1703000	1706000	die zum Beispiel, wie das an einer Stelle in dem Buch thematisiert wird,
+1706000	1710000	in einer Region helfen, die Stahlproduktion zu koordinieren,
+1710000	1713000	dann stellt sich natürlich die Frage, ob es sich auf der nächst höheren Ebene
+1714000	1717000	wie der Metacommons braucht, die alle Metacommons,
+1717000	1720000	die alle Metacommons eine Ebene unter ihnen koordinieren,
+1720000	1723000	also Metacommons so rum.
+1723000	1725000	Und wenn man das zu Ende denkt, bekommt man eine Kaskade,
+1725000	1728000	an deren Spitze dann doch wieder so eine Art Planning Board steht.
+1728000	1731000	Und vielleicht aus guten Gründen auch.
+1731000	1734000	Also zentrale Planung hat ja einen schlechten Ruf,
+1734000	1740000	aber vielleicht ist die Lösung zumindest globaler Probleme
+1741000	1744000	und zur Koordination globaler Produktionsketten,
+1744000	1746000	auch wenn wir im Moment uns kaum vorstellen könnten,
+1746000	1750000	wie sowas eingerichtet werden sollte, dann doch unverzichtbar.
+1750000	1752000	Ja, das ist interessant, dass du das sagst,
+1752000	1755000	weil nämlich für mich schon das immer wieder mal so wirkt,
+1755000	1759000	als ob ein fundamentales Problem an diesen Überlegungen
+1759000	1761000	rund um das Commanding und sowas ist,
+1761000	1765000	dass da so ausschließlich auf Dezentralität beharrt wird
+1765000	1769000	und dass quasi alles, was mit einer Form der Zentralität zu tun hat,
+1769000	1773000	dann irgendwie wie so stigmatisiert wird, kommt mir vor oder so.
+1773000	1776000	Und ich wäre ja dafür eigentlich, diese beiden Zugänge zu vermählen
+1776000	1779000	und eher zu einer Idee zu kommen,
+1779000	1783000	die man dann vielleicht als eine Form von distribuierter
+1783000	1786000	gesellschaftlicher Organisation bezeichnen könnte,
+1786000	1789000	wo halt eben diese Verteiltheit im Vordergrund steht
+1789000	1794000	und die ist in manchen Situationen besser über dezentrale Mechanismen angegangen.
+1794000	1798000	Und es braucht aber, glaube ich, doch durchaus auch immer mal wieder
+1798000	1801000	zentrale Elemente, die ja dann quasi checks and balances,
+1801000	1804000	in Anführungsstrichen, haben können,
+1804000	1808000	dass man verhindert, dass mit einer zentralen Organisationsform
+1808000	1812000	auch gleichzeitig eine zentrale Machtinstanz dann irgendwie entsteht.
+1812000	1817000	Also da gäbe es ja auch unterschiedliche Ebenen zu dieser Frage, finde ich.
+1819000	1822000	Ja, das ist halt ein ganz schwieriges Problem,
+1822000	1825000	weil also die zentrale Planung hat aus, wie ich finde,
+1825000	1829000	auch durchaus verständlichen Gründen kein gutes Image.
+1829000	1833000	Das eine ist, dass also historisch sich gezeigt hat,
+1833000	1837000	dass solche Strukturen sehr schwerfällig reagieren.
+1837000	1841000	Und wenn sie dann Sanktionsmechanismen einführen,
+1841000	1845000	wie das zum Beispiel in der zentralen Planung der Fall war,
+1845000	1849000	dass wenn die Pläne nach unten nicht eingehalten wird, wird man sanktioniert,
+1849000	1852000	fangen irgendwann die unteren Ebenen an, die Planzahlen zu fälschen,
+1852000	1855000	um keinen Ärger zu kriegen, was früher oder später dazu führt,
+1855000	1858000	dass die zentrale Planung mit vollkomfiktiven Zahlen hantiert.
+1858000	1861000	Und das wird dann wieder nach unten durchgegeben, wieder nach oben.
+1861000	1865000	Man kann sich ausrechnen, dass nach ein paar Zyklen ein komplett verzerrtes,
+1865000	1869000	chaotisches Bild besteht und das zu komplett verzerrten
+1869000	1872000	und chaotischen Allokationen führt, und genau das ist passiert.
+1872000	1874000	Also jetzt mal auch sehr vereinfacht.
+1874000	1879000	Und das ist halt ein Problem, was sehr ernst ist.
+1879000	1881000	Denn eine zentrale Planung,
+1881000	1886000	die die Durchsetzung der von ihr formulierten Planziele
+1886000	1889000	nicht irgendwie sanktioniert, ist schlichtweg überflüssig.
+1889000	1892000	Denn es muss ja irgendwie, nehmen wir mal an,
+1892000	1895000	man hat eine zentrale Planung, die kann ja noch so demokratisch sein
+1895000	1897000	und noch so transparent.
+1897000	1900000	Die beschließt dann irgendwas, wir müssen das und das und das machen.
+1900000	1903000	Und dann muss das aber auch so gemacht werden.
+1903000	1905000	Sonst ist der ganze Plan sinnlos.
+1905000	1908000	Und das heißt, dann gibt man das weiter nach unten,
+1908000	1909000	mach das doch bitte.
+1909000	1911000	Und wenn man nicht annimmt, dass die Leute
+1911000	1913000	alle ein fortgeschrittenes Bewusstsein haben
+1913000	1915000	und freiwillig alles genau richtig machen,
+1915000	1916000	was schon deswegen nicht funktioniert,
+1916000	1919000	weil lokal eben dann doch immer irgendwie alles anders ist,
+1919000	1922000	weil dann die lokalen Bedingungen, da hatte Hayek schon recht,
+1922000	1923000	weil dann die lokalen Bedingungen
+1923000	1926000	immer irgendwelche unerwarteten Schwierigkeiten in den Weg legen
+1926000	1930000	und dann regnet es plötzlich drei Tage und was weiß ich.
+1930000	1933000	Dann wird das nicht so umgesetzt wie geplant
+1933000	1935000	und dann gerät der ganze Plan durcheinander.
+1935000	1938000	Das ist wie mit so Fahrplänen von der Deutschen Bahn,
+1938000	1942000	wenn irgendwo was verspätet ist, ist plötzlich überall alles verspätet.
+1942000	1945000	Und deswegen, das ist schon ein ernsthaftes Problem.
+1945000	1950000	Also eine Zentralplanung muss irgendwie,
+1950000	1955000	und sei es noch so freundlich und nett und demokratisch,
+1955000	1956000	muss irgendwie darauf dringen,
+1956000	1959000	dass ihre Planziele auch eingehalten werden.
+1959000	1962000	Und wenn das nicht gelingt,
+1962000	1966000	dann bricht totales Durcheinander aus.
+1966000	1970000	Und wenn man dann anfängt, das autoritär zu machen mit Gewalt,
+1970000	1971000	sonst der Motto, wir waren jetzt nett
+1971000	1973000	und ihr haltet euch alle nicht an den Kram,
+1973000	1974000	jetzt machen wir es mit Gewalt,
+1974000	1976000	dann passiert genau das, was,
+1976000	1978000	also abgesehen davon, dass das zu bedenklichen,
+1978000	1980000	diktatorischen Strukturen führt,
+1980000	1981000	passiert genau das, was passiert.
+1981000	1984000	Die Leute fangen an zu lügen und erfinden die Planzahlen.
+1984000	1986000	Und dann gerät alles total aus dem Tritt.
+1986000	1989000	Und deswegen, ich sehe auch ein,
+1989000	1991000	ich bin auch deiner Meinung,
+1991000	1996000	dass für bestimmte regionale, globale Produktionsketten,
+1996000	1999000	aber auch Probleme wie die Klimaerwärmung,
+1999000	2001000	man sich das schlechterdings kaum vorstellen kann,
+2001000	2004000	ohne gewisse zentrale Steuerungsmechanismen,
+2004000	2006000	die wir jetzt ja auch dringend bräuchten auf der Erde.
+2006000	2008000	Jetzt wird alles über Märkte geredet, alles lokal,
+2008000	2009000	alle konkurrieren miteinander,
+2009000	2012000	und die Klimaerwärmung streitet munter vorwärts.
+2012000	2014000	Also Märkte können das offenbar auch nicht,
+2014000	2016000	wegen ihrer Dezentralität.
+2016000	2018000	Also müsste man das zentral regeln.
+2018000	2019000	Aber wie macht man das,
+2019000	2023000	ohne dass das entweder in die Diktatur und damit unweigerlich
+2023000	2028000	und oder in krass Verzerrung des Planungsmechanismus führt?
+2028000	2031000	Also das ist absolut nicht trivial.
+2031000	2034000	Ja, also ich stimme dir vollkommen zu, muss ich sagen.
+2034000	2036000	Und ich wollte auch in keinster Weise sagen,
+2036000	2039000	da jetzt mich für zentrale Planwirtschaft aussprechen,
+2039000	2043000	denn ich habe genau diese Bedenken, die du da artikulierst, genauso.
+2043000	2046000	Und es gibt einen konkreten Vorschlag,
+2046000	2049000	der finde ich zumindest eigentlich ganz gut versucht,
+2049000	2055000	dass diese beiden Zugänge der Zentralität und der Dezentralität
+2055000	2058000	miteinander zu vermählen.
+2058000	2065000	Und ich möchte da vielleicht ein, also einführen in diese Frage jetzt
+2065000	2069000	mit einem Zitat aus eurem Buch Postminitär Denken.
+2069000	2071000	Und da schreibst du, die Frage ist,
+2071000	2074000	können digitale Medien genutzt werden, um Alternative, sagen wir,
+2074000	2076000	Strukturen oder Mechanismen aufzubauen,
+2076000	2079000	die jene Koordinationsleistung ersetzen,
+2079000	2082000	die gegenwärtig Geld und Markt erbringen?
+2082000	2084000	Ich würde sagen, die Antwort lautet ja.
+2084000	2089000	Und am überzeugendsten finde ich eben den Vorschlag von Daniel E. Saros.
+2089000	2092000	Ich habe sein Buch Information Technology and Socialist Construction
+2092000	2094000	mit größtem Interesse gelesen
+2094000	2098000	und daraufhin ein sehr ausführliches Interview mit ihm geführt.
+2098000	2103000	Ich verweise die Hörerinnen und Hörer hier an Folgen 31 und 32.
+2103000	2105000	Wie findest du denn seinen Vorschlag?
+2105000	2106000	Weil ich habe das Gefühl,
+2106000	2108000	er adressiert eigentlich genau diesen Punkt,
+2108000	2110000	über den wir gerade gesprochen haben.
+2110000	2112000	Also ich finde es auch ein sehr interessantes Buch.
+2112000	2114000	Und ich finde es auch sehr mutig,
+2114000	2119000	sich heute so detailliert aus dem Fenster zu läden mit einem Modell.
+2119000	2125000	Was ich daran sehr zu schätzen, schätzenswert finde,
+2125000	2129000	ist im Grunde, dass Daniel Saros tatsächlich, wie du sagst,
+2129000	2132000	versucht, nach einem Durchgang
+2132000	2135000	durch die sozialistische Kalkulationsdebatte
+2135000	2138000	und auch den Problemen zentraler Planung,
+2138000	2140000	ein Modell zu entwickeln,
+2140000	2145000	das diese Schwierigkeiten versucht zu umgehen.
+2145000	2149000	Indem er sozusagen dezentrale Elemente
+2149000	2154000	mit stärker zentralisierenden Elementen verbindet.
+2154000	2157000	Und ich glaube, oder was man vielleicht sagen kann,
+2157000	2160000	die entscheidende Zentralisierung ist ja der General Catalog.
+2160000	2163000	Das ist ja sozusagen das zentrale Organ.
+2163000	2167000	Das Interessante ist, das ist ja im Grunde so was wie der zentrale Plan.
+2167000	2169000	Das ist im Grunde der Catalog,
+2169000	2173000	ist sozusagen der Ort, an dem das Wissen zusammengetragen wird
+2173000	2175000	und die Bedürfnisse zusammengetragen werden.
+2175000	2178000	Und man sozusagen einen Überblick bekommen kann,
+2178000	2182000	kann idealerweise darüber, was gebraucht wird
+2182000	2184000	und was wie hergestellt werden kann.
+2184000	2186000	Also die Idee ist im Grunde,
+2186000	2189000	das durch so eine Art zentrale Datenbank zu lösen.
+2189000	2191000	Das ist ja im Grunde die Idee,
+2191000	2194000	auf die alle zugreifen können von allen Seiten.
+2194000	2196000	Ich meine, da gibt es immer noch Fragen,
+2196000	2198000	die mir unklar sind.
+2198000	2201000	Ich meine, so ein Catalog wird schnell unübersichtlich.
+2201000	2204000	Also wenn da Milliarden von Einträgen drin sind,
+2204000	2208000	dann sitzt man da und weiß nicht, wo man suchen soll.
+2208000	2212000	Das wirft wieder neue Komplexitätsprobleme auf.
+2212000	2216000	Aber im Grunde ist das erst mal, glaube ich, eine ganz gute Idee,
+2216000	2219000	weil es gibt zwar einen zentralen Ort,
+2219000	2224000	an dem das Wissen gesammelt wird und an dem es vermittelt wird,
+2224000	2227000	aber es gibt kein zentrales Planning Board,
+2227000	2230000	sondern im Grunde sind alle das Planning Board.
+2230000	2232000	Das Wissen wird dezentral gesammelt
+2232000	2234000	und an einem Ort zusammengetragen
+2234000	2238000	und von da aus wird wiederum die Produktion und Distribution gesteuert.
+2238000	2241000	Also komplexitätstheoretisch ist das interessant,
+2241000	2246000	weil es versucht, die Zentralisierung des Wissensortes
+2246000	2249000	mit der Dezentralisierung des Zugriffs zu verbinden.
+2249000	2254000	Wie gesagt, das dürfte erneut erhebliche Komplexitätsprobleme auslösen.
+2254000	2256000	Stell dir mal so einen General Catalog vor,
+2256000	2259000	wo in jeder Sekunde Millionen von Leuten darauf zugreifen
+2259000	2262000	und die Daten verändern, das Angebot verändert.
+2262000	2264000	Wie willst du da noch Überblick verhalten?
+2264000	2267000	Vielleicht habe ich es auch überlesen in dem Buch,
+2267000	2269000	aber da wäre mir schon noch klar eine Frage,
+2269000	2274000	wie man sozusagen da in diesem Wissensgewirbel den Überblick behält.
+2274000	2278000	Das ist mir noch nicht so ganz klar,
+2278000	2285000	wie sozusagen die Komplexität dieses Kataloges wieder beherrschbar gemacht wird.
+2286000	2289000	Da kann ich mir schon Verfahren zu vorstellen.
+2289000	2292000	Und es gibt ja auch jetzt bei Amazon den Marketplace,
+2292000	2295000	wo ja Leute in der Lage sind, ihre Angebote hineinzustellen.
+2295000	2298000	Also das ist natürlich jetzt noch nicht komplett
+2298000	2300000	die gesamte Weltökonomie umspannend oder so,
+2300000	2304000	aber they're trying, sage ich mal.
+2306000	2311000	Du hattest jetzt gesagt, der General Catalog in dem Modell von
+2311000	2314000	Daniel Iseros wäre im Grunde ja dieses zentrale Planungsbord
+2314000	2320000	auf einer logischen Ebene, also eigentlich als Kommunikationsgateway,
+2320000	2323000	sozusagen, dass die verschiedenen, also die Bedürfniskommunikation
+2323000	2325000	mit der Produktionsebene verbindet.
+2325000	2331000	Aber man hat eben diesen dezentrale Informationssammlungsmechanismus immer noch,
+2331000	2334000	was ja gerade genau auf diesen Punkt von Hayek eingeht,
+2334000	2338000	dass man in der Lage sein sollte, das implizite und situierte Wissen
+2338000	2340000	eben auch einfangen zu können.
+2340000	2344000	Was da ein, ja, also insgesamt in diesem Denken darüber
+2344000	2346000	ein ganz wichtiges Element darstellt, finde ich,
+2346000	2350000	ist diese Frage von ex ante und ex post Produktion.
+2350000	2352000	Vielleicht kannst du das nochmal kurz erläutern,
+2352000	2355000	weil wir heutzutage in der Marktwirtschaft eigentlich erst,
+2355000	2358000	also erstmal produzieren und danach muss man quasi gucken,
+2358000	2360000	wie man es an den Mann und die Frau bringt.
+2360000	2364000	Und also der Vorschlag von Daniel Iseros und auch viele andere
+2364000	2366000	basieren eben auf einer ex ante Produktion,
+2366000	2368000	wo man vorher das erhebt.
+2368000	2371000	Warum hat das so einen besonderen Stellenwert deiner Meinung nach?
+2371000	2375000	Also man muss vielleicht nochmal sagen, das ist also zum Beispiel schon
+2375000	2378000	beim von Marx im Kapital formuliert worden, ganz ausdrücklich,
+2378000	2382000	dass die kapitalistische Produktion eine getrennte Privatproduktion ist.
+2382000	2385000	Das hängt jetzt mit vielen anderen Größen zusammen,
+2385000	2388000	mit der Frage des Privatbesitzes an Produktionsmitteln und so weiter.
+2388000	2392000	Aber es läuft so, man hat Produktionsmittel,
+2392000	2394000	ich bin Kapitalist und habe Produktionsmittel
+2394000	2397000	und beschäftige Arbeiterinnen und Arbeiter.
+2397000	2402000	Und dann stelle ich was her und dann gucke ich auf den Markt,
+2402000	2405000	ob das, was ich herstelle, sich realisieren lässt.
+2405000	2407000	Ganz vereinfacht gesagt.
+2407000	2411000	Also die Vermittlung über die Produktion findet nach der Produktion statt.
+2411000	2414000	Ex post, deswegen ex post Koordination.
+2414000	2417000	Es stimmt auch im Kapitalismus nicht ganz,
+2417000	2420000	weil sowas wie Marktforschung zum Beispiel ist nichts anderes
+2420000	2424000	als die Einführung von ex ante Elementen in die ex post Produktion.
+2424000	2426000	Denn heute würde keine Unternehmerin,
+2426000	2429000	kein Unternehmer, der einigermaßen bei Verstand ist,
+2429000	2432000	einfach auf blau hinein irgendwo eine Fabrik hochziehen,
+2432000	2434000	mal gucken, ob das funktioniert.
+2434000	2436000	Sondern würde vorher ganz genau versuchen.
+2436000	2438000	Gibt es überhaupt einen Bedarf dafür?
+2438000	2440000	Wollen die Leute meinen Krempel haben?
+2440000	2442000	Ist der Platz, wo ich die Fabrik instelle?
+2442000	2444000	Hab ich da genug Infrastruktur?
+2444000	2447000	Und ist die Ausbildung der Arbeiterinnen und Arbeiter gut genug?
+2447000	2451000	Also es gibt schon im Kapitalismus jede Menge ex ante Elemente,
+2451000	2454000	wie auch, das muss man vielleicht auch nochmal ganz deutlich sagen,
+2454000	2457000	die scharfe Gegenüberstellung von Markt und Plan.
+2457000	2460000	Das hat im Grunde, das hat im Grunde noch nie gestimmt.
+2460000	2463000	Weil Marktwirtschaften enthalten immer starke Planungselemente.
+2463000	2466000	Jede Familie plant, was kann ich mir leisten?
+2466000	2468000	Wie viel Geld habe ich?
+2468000	2471000	Jedes Unternehmen plant, jede Universität plant.
+2471000	2474000	Und umgekehrt gibt es natürlich auch in,
+2474000	2478000	selbst in den starsten Planwirtschaften gab es mindestens Schattenmärkte.
+2478000	2480000	Also das heißt, diese Organisationen haben immer,
+2480000	2483000	Organisationsformen haben immer nebeneinander bestanden.
+2483000	2485000	Es gibt verschiedene Konfigurationen.
+2485000	2487000	Und das scheint doch offenbar notwendig zu sein.
+2487000	2491000	Also das muss man nur mal sagen, um auf dieser kalten Kriegssichotomie,
+2491000	2494000	ex post, ex ante Planmarkt auch mal rauszukommen.
+2494000	2496000	Weil das de facto wahrscheinlich nicht stimmt, dass das,
+2496000	2499000	also es stimmt, nein, es stimmt de facto nicht,
+2499000	2502000	dass das so stark, dass man das so stark gegeneinander setzt.
+2502000	2504000	Das hat noch nie gestimmt.
+2504000	2508000	So, also ex post ist, ich produziere und koordiniere, idealter,
+2508000	2511000	ich produziere und dann wird am Markt geguckt,
+2511000	2515000	dass die verschiedenen Einzelproduktionen koordiniert werden können sozusagen.
+2515000	2520000	Ex ante ist, kann man sich jetzt denken, man redet vorher miteinander.
+2520000	2524000	Also das im Grunde, wo die Marktforschung schon auf dem halben Weg dahin ist.
+2524000	2528000	Man redet vorher miteinander und versucht vorher herauszufinden,
+2528000	2532000	was gebraucht wird und produziert dann das, was gebraucht wird.
+2532000	2536000	So, das ist die Idee im Idealfall.
+2536000	2540000	Das kann man immer sich gut an irgendwelchen Robinsonaden veranschaulichen.
+2540000	2544000	Es ist, wenn man jetzt noch mal eine Ökonomie mit nur drei Leuten hätte,
+2544000	2548000	der eine macht X, der andere Y, der Z, dann können die erst mal drauf losproduzieren
+2548000	2550000	und treffen sich dann auf dem Marktplatz und gucken,
+2550000	2552000	brauchen die anderen meinen Kram überhaupt?
+2552000	2555000	Und wenn sie dann herausfinden, die brauchen die gar nicht, dann war das schlecht.
+2555000	2558000	Hab alles umsonst produziert, Ressourcen umsonst vergeudet, Energie,
+2558000	2562000	also setzen sie sich vorher in der Dorfkneipe zusammen, redet miteinander,
+2562000	2566000	was wollten ihr und ach so, ihr wollt das so haben, ach ich hätte das jetzt ganz anders gemacht,
+2566000	2569000	dann wunderbar, gut, dass ich es weiß und dann macht man es eben so.
+2569000	2573000	Wie die anderen das wollen und dann wird genau das hergestellt, was gebraucht wird.
+2573000	2577000	Idealerweise, Stichpunkt Ökologie, gibt es dann auch keinen Schwund
+2577000	2579000	und nichts, was umsonst produziert worden ist,
+2579000	2582000	weil ja alles, das nur produziert worden ist, was gebraucht worden ist.
+2582000	2586000	Klingt super, aber das Problem ist genau,
+2586000	2590000	mit drei Leuten oder fünf oder zehn oder hundert kann man sich das ganz gut vorstellen,
+2590000	2594000	bei sehr komplexen großen Zusammenhängen, wo es nicht nur um Güter geht,
+2594000	2598000	die ich lokal herstellen kann, sondern so was wie ein Computer,
+2598000	2602000	wo Millionen von Leuten dranhängen, von denen manche irgendwo in,
+2602000	2605000	was weiß ich wo, im globalen Süden irgendwo eine Schraube herstellen,
+2605000	2608000	von der die gar nicht wissen, dass die später in so einen Computer kommt,
+2608000	2610000	da wird das furchtbar kompliziert.
+2610000	2614000	Da tauchen dann wieder all diese Wissens- und Informationsprobleme auf,
+2614000	2617000	die die österreichische Schule stark gemacht hat.
+2617000	2622000	Deswegen, die Idee der exantre Koordination ist gut, schon aus ökologischen Gründen,
+2622000	2624000	ist das eine vernünftige Idee,
+2624000	2628000	aber sie muss eben mit diesen Wissensproblemen klarkommen.
+2628000	2632000	Ich halte das nicht für unmöglich, denn natürlich kann man auch
+2632000	2635000	in größerem Maßstab miteinander kommunizieren,
+2635000	2638000	man muss sich dafür nur geschickte Mechanismen einverlassen.
+2638000	2640000	Vielleicht ist aber ein General Catalog,
+2640000	2643000	also im Grunde so eine Art zentralisierter Marktplatz,
+2643000	2647000	keine so schlechte Idee, das zu machen.
+2647000	2649000	Das müsste man wahrscheinlich noch genauer theoretisch
+2649000	2653000	und vielleicht auch in Simulationen mal ausprobieren.
+2653000	2656000	Apropos Simulationen, ich habe mir gedacht,
+2656000	2658000	es ist gut, dass du das jetzt nochmal ansprichst,
+2658000	2660000	weil ich habe mir eigentlich eine Mental Note,
+2660000	2662000	aber keine physische Note gemacht,
+2662000	2664000	dass ich euch unbedingt vorschlagen möchte,
+2664000	2668000	dass ihr in eurer Simulation einmal das Modell von Daniel E. Saros versucht,
+2668000	2671000	durchzuspielen, weil ich mich ja in der Auseinandersetzung
+2671000	2673000	mit seinem Vorschlag schon auch gefragt habe.
+2673000	2681000	Er hat ja schon gewisse Vorstellungen von Equilibria im Sinne,
+2681000	2685000	wo er meint, aha, okay, da würde sich dann
+2685000	2690000	über iterative Anpassungsprozesse und über dieses Credit System
+2690000	2694000	auf der einen Seite und die Produktionspoints
+2694000	2696000	auf der anderen, würde sich dann nach und nach
+2696000	2699000	wie so ein, ja, schon auf eine Art ein Gleichgewicht
+2699000	2701000	in Anführungsstrichen, sage ich mal,
+2701000	2703000	ein bisschen vorsichtig einstellen.
+2703000	2705000	Also er hat da schon bis zu einem gewissen Grad,
+2705000	2708000	es steckt dann natürlich auch ein Leap of Faith drin,
+2708000	2711000	dass sich bestimmte Mechanismen, die im Kapitalismus
+2711000	2713000	sich ja durchaus auch einstellen,
+2713000	2716000	aber halt eben auf Basis anderer Bewegungsgesetze,
+2716000	2720000	wenn man so will, dass sich die dort dann auch einstellen würden.
+2720000	2722000	Und da wäre ja ganz interessant,
+2722000	2727000	ob man das in einer solchen Simulation etwaig dem nachfühlen könnte,
+2727000	2731000	ob das denn, ja, standhält oder nicht,
+2731000	2734000	wenngleich das damit natürlich nicht abschließend geklärt werden kann.
+2734000	2736000	Aber wenn man schon Simulationen macht,
+2736000	2738000	würde mich zumindest sehr interessieren,
+2738000	2741000	dass man von diesem Modell auch eine Simulation macht.
+2741000	2745000	Also das kann ich mir als ganz hervorragendes Forschungsprojekt vorstellen.
+2745000	2748000	Das müsste nur, glaube ich, noch mal ein eigenes Forschungsprojekt sein,
+2748000	2751000	denn was ich jetzt auch gelernt habe in der Zusammenarbeit
+2751000	2753000	mit den Kolleginnen und Kollegen aus Wien,
+2753000	2757000	ist, dass das einfach enorm schwierig ist, so eine Simulation zu machen.
+2757000	2759000	Weil das ist auch das Gute daran,
+2759000	2763000	man kann viel reden über ökonomische Modelle,
+2763000	2766000	wenn man das dann umsetzen muss, in so einer Art,
+2766000	2769000	oder will, in so einer Art von Ensemble,
+2769000	2771000	von Agenten, die sich irgendwie verhalten,
+2771000	2776000	von Constraints, von Rahmenbedingungen usw., Parametern,
+2776000	2779000	dann muss man plötzlich an ganz viele Details denken,
+2779000	2781000	die man vorher überhaupt nicht im Blick hatte,
+2781000	2784000	und es wird ganz schnell irrsinnig kompliziert.
+2784000	2787000	Und dazu kommt noch der Rechenaufwand usw.
+2787000	2791000	Also das ist sehr viel komplizierter, als man sich das denkt.
+2791000	2793000	Und ich möchte an dieser Stelle eine Bewunderung
+2793000	2795000	und einen Wertschätzen für meine Kolleginnen und Kollegen
+2795000	2798000	in Wien aussprechen, die sich da wirklich detailliert
+2798000	2801000	und sorgfältig drum bemühen.
+2801000	2806000	Und sagen wir es mal so, wir sind gerade eben dabei,
+2806000	2810000	ausgehend von den kommenstheoretischen Erörterungen
+2810000	2814000	ein Modell zu entwickeln, und damit müssen wir jetzt auch erst mal,
+2814000	2816000	das müssen wir jetzt auch erst mal so lassen,
+2816000	2819000	weil das können wir jetzt nicht noch ein anderes Modell einsetzen.
+2819000	2822000	Aber grundsätzlich halte ich das für eine interessante Idee,
+2822000	2825000	zu versuchen, die Dynamiken eines solchen Vorschlags,
+2825000	2830000	wie dem von Daniel Saros, in einem Simulationsmodell zu testen,
+2830000	2834000	weil das ist ja durchaus auch was, ich will das nochmal betonen,
+2834000	2838000	also das kann man ja auch technizistisch finden,
+2838000	2842000	dass wir mit Simulationen arbeiten, aber eine der Ideen ist auch,
+2842000	2845000	ich meine, das ist nun mal eine Technologie, mit der auch
+2845000	2848000	herrschende Ökonomiken arbeiten, Wirtschaftswissenschaften arbeiten,
+2848000	2855000	und warum sollten wir diesen Ansätzen, die ja auch ihre Berechtigung haben und so,
+2855000	2857000	aber einfach diese Instrumente überlassen?
+2857000	2859000	Ich meine, es wäre ja schon wichtig, dass, sagen wir mal,
+2859000	2864000	eine kritische Position sich auf der Höhe des technologischen,
+2864000	2869000	epistemologischen und modelltheoretischen Verstandes bewegen,
+2869000	2874000	um zu versuchen, ihre Überlegungen umzusetzen.
+2874000	2876000	Das halte ich schon für wichtig.
+2877000	2882000	Und wie gesagt, ich habe den Eindruck, dass wir eine Menge aus diesem Versuch lernen,
+2882000	2887000	nur aus dem Versuch lernen, unsere gesellschaftstheoretischen Überlegungen,
+2887000	2892000	so heterogen die anyway sind, in so ein Modell zu übersetzen.
+2892000	2894000	Da lernt man eine ganz große Menge draus.
+2894000	2897000	Und wie gesagt, selbst wenn da am Ende kein, ich glaube nicht,
+2897000	2900000	dass da irgendeine Blaupause für irgendwas rauskommt,
+2900000	2902000	weiß ich auch gar nicht mal, ob ich das würde wollen,
+2902000	2905000	selbst wenn das ginge, aber auf dem Weg dahin,
+2905000	2909000	einfach, dass man unablässig reflektiert über die eigenen,
+2909000	2912000	auch impliziten und verschwiegenden Vorannahmen
+2912000	2915000	seiner eigenen ökonomischen Vorstellungen,
+2915000	2918000	über viele auch scheinbar nur technische Probleme,
+2918000	2920000	über die man nie nachgedacht hat,
+2920000	2923000	die aber gravierende Folgen haben können dafür,
+2923000	2926000	ob sowas funktioniert und wie das funktioniert.
+2926000	2930000	Also da finde ich, täte, sagen wir mal diffus gesagt, die Linke,
+2930000	2937000	gut daran, sich stärker durchaus auf dieses Werkzeugrepertoire,
+2937000	2942000	das ja existiert einzulassen, um zu versuchen,
+2942000	2946000	ihre Vorstellungen genauer zu durchdenken
+2946000	2949000	und dadurch die ganze Sache auch substanzieller zu machen.
+2949000	2953000	Sonst ist man diesem herrschenden, sagen wir mal,
+2953000	2956000	technizistisch orientierten ökonomischen Block,
+2956000	2958000	der dann immer sagt, wir haben hier unsere Modelle
+2958000	2965000	mit unseren DSGE, Dynamic Stochastic General Equilibrium Modelle
+2965000	2969000	und das zeigt leider eindeutig, dass Märkteparete optimale sind.
+2969000	2971000	Das ist mathematisch bewiesen,
+2971000	2974000	dass Märkte die optimale Organisationsform sind.
+2974000	2977000	Ihr vergeudet eure Zeit, lasst es.
+2977000	2980000	Und diesen Leuten kann man nur etwas entgegensetzen,
+2980000	2983000	wenn man versucht auf demselben, glaube ich,
+2983000	2985000	vielleicht nicht auf demselben,
+2985000	2988000	zumindest da nicht zurückzuscheuen von solchen Verfahren
+2988000	2989000	und zumindest zu versuchen.
+2989000	2991000	Ich meine, vielleicht kommt am Ende auch raus,
+2991000	2992000	war das für die Katz?
+2992000	2995000	Ich meine, das muss man ehrlicherweise sagen, kann ja auch sein.
+2995000	2999000	Aber so be it, ich meine, das ist auch eine Erkenntnis.
+2999000	3000000	Absolut, das sehe ich genauso.
+3000000	3002000	Also ich glaube, dass die Auseinandersetzung
+3002000	3005000	mit dieser Technologie, dieser Simulationstechnologie
+3005000	3010000	so oder so einen wertvollen Benefit erbringt.
+3010000	3011000	Glaube ich auch.
+3011000	3013000	Ich würde gerne nochmal zu dieser Frage
+3013000	3016000	des Effizienzgedankens zurückkehren.
+3016000	3024000	Und zwar auch konkreter im Bezug auf die Überwindung des Geldes.
+3024000	3027000	Also euer Projekt heißt ja die Gesellschaft nach dem Geld.
+3027000	3029000	Geld ist aber auch eine Unit of Account.
+3029000	3035000	Also Geld ist auch eine Zähleinheit, die dazu dient.
+3035000	3037000	Das ist ja dann auch eine Argumentationslinie
+3037000	3040000	der Österreichischen Schule der Nationalökonomie,
+3040000	3043000	die auch dazu dient, zu vergleichen,
+3043000	3050000	welcher Produktionstechnik denn jetzt besser ist als die andere.
+3050000	3053000	Und wenngleich, du hattest es natürlich auch schon angesprochen,
+3053000	3055000	dass es jetzt überhaupt nicht darum geht,
+3055000	3058000	einen kapitalistischen Effizienzgedanken irgendwie zu kopieren
+3058000	3064000	und diese profitorientierte Logik da jetzt in irgendwelche alternativen Modelle
+3064000	3068000	quasi über diesen Weg dann wieder einfließen zu lassen.
+3068000	3071000	Betont du auch, dass eine Gesellschaft nach dem Geld
+3071000	3074000	keine Gesellschaft nach der Quantifizierung ist.
+3074000	3078000	Wie kann man mit diesem Problem umgehen?
+3078000	3082000	Also das ist eine sehr schwierige Frage.
+3082000	3086000	Was mir zunächst unbestreitbar erscheint,
+3086000	3090000	ist, dass auch eine postkapitalistische Ökonomie
+3090000	3096000	mit sowas wie Messung und Quantifizierung arbeiten muss.
+3096000	3099000	Ich muss ja zum Beispiel, nehmen wir mal an,
+3099000	3103000	ich habe eine Brötchenbackeinheit,
+3103000	3105000	wir müssen das jetzt nicht Commons nennen,
+3105000	3108000	aber eine Brötchenbackeinheit.
+3108000	3110000	Und was brauche ich? Ich brauche unter anderem Mehl.
+3110000	3113000	Und dann werde ich ja der Mehlproduktionseinheit
+3113000	3116000	oder irgendeiner Mehlproduktionseinheit sagen müssen,
+3116000	3117000	wie viel Mehl ich haben will.
+3117000	3119000	Ich kann ja nicht einfach sagen, ich will Mehl.
+3119000	3121000	Nein, dann kommen die da mit einem Teelöffel Mehl an.
+3121000	3123000	Da habe ich herzlich wenig davon.
+3123000	3125000	Da kann ich nämlich keine Brötchen backen.
+3125000	3127000	Oder mit 10.000 Tonnen.
+3127000	3131000	Ich brauche davon irgendwie 100 Kilogramm eine Brötchenbacke,
+3131000	3135000	die anderen 1.000 Tonnen verfaulen im Hof.
+3135000	3137000	Und woanders können keine Brötchen gebacken werden,
+3137000	3138000	weil das Mehl bei mir vergammelt.
+3138000	3140000	Also das kann ja irgendwie nicht...
+3140000	3144000	Also an diesem robinsonatenhaften Beispiel
+3144000	3147000	kann man sehen, dass irgendwie sowas wie eine Quantifizierung,
+3147000	3150000	Maßeinheiten, dass man irgendwie festlegen muss,
+3150000	3153000	von wie viel gebraucht wird, an welchem Ort,
+3153000	3155000	dass das fundamentale Relevanz hat.
+3157000	3158000	Und dann ist eben...
+3158000	3160000	Also das kann man glaube ich erst mal feststellen.
+3160000	3162000	Damit ist man schon auf dem Weg zu dem,
+3162000	3165000	was eben Mises angegriffen hat an von Neurath.
+3165000	3167000	Sowas wie Naturalplanung.
+3167000	3168000	Dass man sich überlebt, klar,
+3168000	3170000	wir müssen irgendwie mit Einheiten hantieren.
+3170000	3174000	Und wir müssen sicherstellen, dass zum Beispiel
+3174000	3177000	jede Einheit die Mengen der Güter hat,
+3177000	3179000	die sie braucht, um zu produzieren.
+3179000	3181000	Jetzt ist der Einwand, vereinfacht gesagt,
+3181000	3183000	von Mises gegen von Neurath der gewesen,
+3183000	3185000	wenn wir aber keinen Maßstab haben,
+3185000	3189000	diese unterschiedlichen Güter abstrakt aufeinander zu beziehen,
+3189000	3193000	können wir nicht sozusagen bemessen,
+3193000	3196000	welcher Aufwand es wert ist,
+3196000	3199000	welche Mengen von Gütern für was zu produzieren.
+3199000	3201000	Und dann droht die Gefahr,
+3201000	3204000	dass vollkommen sinnlos Güter produziert werden
+3204000	3207000	oder Rohstoffe für Güter produziert werden.
+3207000	3210000	Und dann woanders die Ressourcen, die Energie,
+3210000	3213000	die Leute oder Rohstoffe eben fehlen,
+3213000	3215000	um das zu produzieren, was vielleicht nötig ist.
+3215000	3217000	Dann wird in einer Ecke werden plötzlich
+3217000	3219000	Berge von Mehl produziert.
+3219000	3221000	Und woanders können die Leute kein Brot essen,
+3221000	3223000	weil da das Mehl fehlt.
+3223000	3228000	Und das ist kein von der Hand zu weisender Einwand,
+3228000	3232000	dass Effizienz in dem Sinne nicht bedeutet Profitabilität,
+3232000	3236000	im Sinne der Akkumulation von abstraktem Wert,
+3236000	3239000	sondern dass Effizienz zunächst bedeutet,
+3239000	3243000	dass eine Produktion, ja, und jetzt wird es natürlich schwammig,
+3243000	3247000	dass eine Produktion vernünftig oder rational organisiert ist,
+3247000	3251000	was bei Wegfall des Profitmotives nicht heißt profitabel,
+3251000	3253000	nicht heißt muss profitabel,
+3253000	3257000	sondern vielleicht auch so was heißen könnte wie ökologisch sinnvoll.
+3257000	3259000	Ja, das könnte es auch heißen,
+3259000	3262000	nur dann müsste man sich überlegen, was sind die Kriterien dafür?
+3262000	3264000	Denn das müsste irgendwie als Marker
+3264000	3266000	den Produkten auch anhaften.
+3266000	3268000	Wir würden es dann vielleicht nicht preisenden,
+3268000	3274000	sondern ein ökologisches Stück mergisches Signal könnte man,
+3274000	3276000	das klingt ein bisschen holprig, aber sowas.
+3276000	3281000	Das müsste irgendwie transparent werden im Produktionsprozess,
+3281000	3287000	welches Maß sinnvoll ist.
+3287000	3290000	Ja, das muss irgendwie geregelt werden.
+3290000	3292000	Und wenn man es nicht über Preise tut,
+3292000	3293000	wobei man sogar bestreiten kann,
+3293000	3296000	dass Preise dafür ein wirklich gutes Kriterium sind, ja,
+3296000	3301000	sie sind eins, aber wenn man so unsere Produktion sieht,
+3301000	3303000	den Klimawandel, den Plastikmüll,
+3303000	3306000	die Hälfte des Essens wird weggeschmissen und so,
+3306000	3309000	und da noch die Instabilitäten,
+3309000	3311000	die mit der Kapitalakkumulation einhergehen,
+3311000	3314000	also die wackelnden Finanzmärkte und so,
+3314000	3317000	also ob das so toll funktioniert darüber,
+3317000	3319000	kann man sich wirklich ernsthaft den Kopf zerbrechen.
+3319000	3322000	Das ist ja auch der gute Grund, warum wir hier sitzen.
+3322000	3327000	Aber also Effizienz ist nichts per se Böses.
+3327000	3330000	Effizienz muss man trennen von Profitabilität.
+3330000	3331000	Da geht es eher um die Frage,
+3331000	3333000	wie kann man mit den Mitteln, die man hat,
+3333000	3335000	eine Produktion organisieren,
+3335000	3338000	die in der Lage ist, möglichst viele Bedürfnisse zu befriedigen.
+3338000	3341000	Also im Grunde die klassisch ökonomische Frage immer noch.
+3341000	3345000	Ja, ich weiß, das mögen viele Leute nicht so gerne hören,
+3345000	3346000	ich eigentlich auch nicht,
+3346000	3349000	ich weiß, Knappheit ist auch was Konstruiertes, okay,
+3349000	3352000	und das sieht man ja besonders im Bereich der immateriellen Digitalgüter,
+3352000	3354000	wie Knappheit konstruiert wird, alles klar.
+3354000	3356000	Aber es ist trotzdem so,
+3356000	3360000	dass bestimmte Güter nicht beliebig und beliebigen Übermaß vorhanden sind,
+3360000	3363000	dann regnet es mal, zwei Jahre nicht,
+3363000	3365000	dann gibt es plötzlich weniger Getreide,
+3365000	3367000	und dann muss man trotzdem sehen, wie man damit zu ranbekommt.
+3367000	3369000	Also diese Frage ist ja real.
+3369000	3371000	Also da muss man sich überlegen, wie organisiert man das?
+3371000	3374000	Und Preise sind ein Weg, das zu tun,
+3374000	3377000	wenn es zwei Jahre nicht regnet, wird das Getreide teurer,
+3377000	3379000	was dann zunächst den Folge hat,
+3379000	3381000	dass die Leute, die weniger Geld haben, warum auch immer,
+3381000	3383000	plötzlich sich kein Brot mehr kaufen können,
+3383000	3385000	das ist ja ein super Ergebnis,
+3385000	3387000	oder man muss das irgendwie anders organisieren,
+3387000	3392000	aber so zu tun, als würde mit dem Postkapitalismus
+3392000	3395000	automatisch die Abundanz anbrechen,
+3395000	3398000	ja, das halte ich für eine Illusion.
+3398000	3400000	Das ist eher umgekehrt so.
+3400000	3402000	Wenn man aus irgendwelchen Gründen in der Lage wäre,
+3402000	3405000	Abundanz herzustellen, ohne die ökologischen Verheerungen,
+3405000	3408000	dann wäre es leicht zum Postkapitalismus zu kommen.
+3408000	3411000	Stichwort Replikator, Star Trek, 3D-Druck.
+3411000	3416000	Aber als Abgesehen von den ökologischen Problemen,
+3416000	3418000	da muss ja irgendwo die Energie für her,
+3418000	3420000	und wo bleibt der Müll hin und so,
+3420000	3424000	ist das unerreichbar offensichtlich, diese Abundanz,
+3424000	3429000	bis auf weiteres, und es besteht weiterhin der Punkt,
+3429000	3431000	dass es nur endlich viele Ressourcen gibt
+3431000	3433000	auf einer endlichen kugelförmigen Erde,
+3433000	3437000	und das heißt, muss irgendwie geklärt werden,
+3437000	3439000	wie das organisiert wird,
+3439000	3442000	und dass das sicher besser organisiert werden kann als jetzt,
+3442000	3444000	daran habe ich keinen Zweifel,
+3444000	3447000	denn die Ergebnisse, siehe Klimawandel und so weiter,
+3447000	3449000	sind ja doch eher bescheiden.
+3449000	3452000	Aber das muss man irgendwie im Blick haben,
+3452000	3455000	man kann nicht sagen, Quantifizierung spielt keine Rolle.
+3455000	3457000	Aber wenn man dann quantifiziert,
+3457000	3459000	wenn man Einheiten in Quantitäten tauscht,
+3459000	3461000	und dann wird früher oder später
+3461000	3463000	wieder die Frage nach der Vergleichbarkeit
+3463000	3465000	zwischen diesen Quantitäten auftauchen.
+3465000	3467000	Und damit ist man schon direkt auf dem Weg
+3467000	3470000	zur Frage nach dem allgemeinen Äquivalent.
+3470000	3473000	Deswegen gab es bei uns in dem Gesellschaft am Geld
+3473000	3476000	auch eine Diskussion, vielleicht ist die Frage gar nicht
+3476000	3478000	die nach dem Geld,
+3478000	3481000	also eigentlich müsste es ja sowieso nach dem Kapital
+3481000	3483000	wahrscheinlich heißen, aber nicht nach dem Geld,
+3483000	3485000	sondern vielleicht auch anderes Geld.
+3485000	3489000	Ja, also andere Arten von Einheiten, mit denen man rechnet,
+3489000	3491000	die man zum Beispiel nicht akkumulieren kann,
+3491000	3494000	also dass die Kapitalakkumulation verhindert wird,
+3494000	3496000	oder die verfallen,
+3498000	3499000	oder sowas.
+3499000	3502000	Also, dass es vielleicht sowas braucht wie allgemeine Äquivalente,
+3502000	3505000	die aber nicht dieselbe Form haben,
+3505000	3508000	wie das allgemeine Äquivalent, was wir jetzt haben.
+3508000	3510000	Und bei uns in der Simulation zum Beispiel,
+3510000	3512000	der Cummins Ökonomie ist auch aufgetaucht,
+3512000	3515000	dass wir tatsächlich jetzt anfangen mit sowas wie Arbeitszeit,
+3515000	3517000	Quanten oder Energiequanten zu rechnen,
+3517000	3520000	weil wir irgendwie solche Maßstäbe brauchen.
+3522000	3524000	Und das ist ein sehr ernstes Problem,
+3524000	3526000	aber das heißt nicht, dass ein Postkapitalismus unmöglich ist.
+3526000	3528000	Das heißt zunächst mal nur,
+3528000	3530000	dass man sich sehr genau Gedanken machen muss
+3530000	3533000	über die Art und Weise, wie verschiedene Produktionsformen
+3533000	3535000	und Güterklassen und Gütermengen und so weiter
+3535000	3537000	aufeinander bezogen werden können.
+3537000	3539000	Das ist alles.
+3539000	3542000	Und es klingt einfach, ist es aber nicht.
+3542000	3544000	Sehr interessant.
+3544000	3547000	Wie stehen denn da die eher aus der Cummins-Ecke
+3547000	3550000	kommenden Teilnehmerinnen des Forschungsprojektes dazu?
+3550000	3552000	Weil das wäre ja eigentlich etwas,
+3552000	3554000	wo ich immer das Gefühl hatte,
+3554000	3557000	dass man da im Cummins-Bereich sich verscheut,
+3557000	3559000	quasi diese Feststellung zu machen,
+3559000	3561000	die du gerade getätigt hast,
+3561000	3564000	und dass man da eher sich so ein bisschen ausflüchtet
+3564000	3566000	auf ein diffuses, na ja,
+3566000	3570000	das wird schon in einer kooperativen Gesellschaft
+3570000	3572000	sich dann anders ergeben.
+3572000	3575000	Sag ich jetzt mal extra ein bisschen polemisch formuliert,
+3575000	3578000	weswegen ja dann die Frage der Antropologie wieder so interessant ist,
+3578000	3581000	die du am Anfang ja auch mal kurz angesprochen hattest,
+3581000	3583000	zu der wir vielleicht dann auch noch kommen.
+3583000	3586000	Aber wie stehen die Cummins-orientierten Teilnehmerinnen
+3586000	3589000	zu dieser Frage der, wie hattest du das jetzt gesagt, Arbeitsquanten?
+3589000	3592000	Eine Zeitquanten, also Zeitaufwand.
+3592000	3594000	Das ist noch allgemeiner gehalten,
+3594000	3596000	wenn ich das jetzt richtig im Kopf habe.
+3596000	3601000	Also man muss sagen, dass die Idee der Einführung von Zeitquanten,
+3601000	3605000	sozusagen benötigt der Produktiv- und Reproduktivzeit,
+3605000	3607000	die bei uns im Modell sind,
+3607000	3610000	das kommt also aus der Ecke der Cummins-Seite.
+3610000	3614000	Man hat dort gesehen, dass es irgendwie nötig ist,
+3614000	3616000	das sozusagen einzuführen.
+3616000	3619000	Und das ist insofern natürlich interessant,
+3619000	3624000	weil Zeit ist natürlich der denkbar abstrakteste Maßstab.
+3624000	3626000	Das berührt natürlich auch die Frage nach der Arbeit,
+3626000	3628000	die Frage nach der Arbeitszeit.
+3628000	3631000	Also Produktivzeit ist ja im Grunde, kann man übersetzen in Arbeitszeit.
+3631000	3635000	Und mithin ist diese Zeiteinheit auch eine Arbeitseinheit.
+3635000	3639000	Ja, eine Arbeitszeitrechnung in gewisser Weise.
+3639000	3642000	Marx hat ja bekanntlich gesagt, Ökonomie der Zeit,
+3642000	3645000	darin löst sich jede Ökonomie auf.
+3646000	3651000	Also da taucht diese Frage der Vergleichbarkeit wieder auf,
+3651000	3654000	denn man könnte dann ja sagen, dass verschiedene Güter,
+3654000	3657000	die zirkulieren in der Cumminsökonomie,
+3657000	3661000	irgendwie zum Beispiel über Zeiteinheiten bemessen werden.
+3661000	3665000	Also mein ganz praktisch gesprochenen Gut,
+3665000	3667000	was sehr viel mehr Zeit zur Herstellung braucht,
+3667000	3673000	ist eben in demselben Zeitraum nur in kleineren Quantitäten verfügbar.
+3673000	3676000	Oder man musste sozusagen mehrere Cummins,
+3676000	3678000	zum Beispiel die Metacommins vernetzen,
+3678000	3681000	um dieselbe Menge in derselben Zeit herzustellen oder so.
+3681000	3683000	Also dadurch werden natürlich solche Maßstäbe,
+3683000	3686000	Vergleichbarkeitsmaßstäbe hergestellt.
+3686000	3691000	Und das scheint mir auch notwendig zu sein,
+3691000	3697000	zumindest solange der Bereich der phantasmatischen Abundanz,
+3697000	3702000	in der alles zu viel vorhanden ist, im Prinzip nicht erreicht ist.
+3702000	3705000	Dann bräuchte man natürlich solche Maßstäbe nicht mehr.
+3705000	3710000	Und was ich in der Cummins-Debatte so weit ich die kenne,
+3710000	3713000	aber auch da würde ich mal die berufeneren Leute fragen,
+3713000	3716000	einerseits schätze ich es natürlich,
+3716000	3724000	auch dieser utopische Zug zu sagen, wir fangen erst gar nicht an,
+3724000	3728000	oder in erster Linie jetzt wieder so kleinkariert herumzumachen
+3728000	3731000	mit Arbeitszeitquanten, sondern wollen sofort klarstellen,
+3731000	3736000	es muss eine absolute Freiwilligkeit geben für diese Selbstorganisation.
+3736000	3742000	Aber die Organisation von Ökonomien ist zumindest eine gewisse Zeit lang
+3742000	3745000	mindestens darauf, glaube ich, verwiesen,
+3745000	3750000	dass man eine solche Aufeinanderbeziehbarkeit von Maßstäben herstellt.
+3750000	3753000	Also was du für ein Unit of Account genannt hast,
+3753000	3756000	bedeutet ja im Grunde nichts anderes, als dass es einen Maßstab gibt.
+3756000	3760000	Das heißt nicht, dass man diesen Maßstab akkumulieren muss,
+3760000	3763000	dass dessen Herstellung dann Selbstzweck der Gesellschaft wird,
+3763000	3766000	wie das im Kapitalismus ist, aber Maßstäbe muss es geben.
+3766000	3770000	Weil sonst, glaube ich, schwierig ist zu steuern,
+3770000	3773000	oder auch einfach sich...
+3773000	3776000	Steuern klingt schon wieder so nach Zentralplanung.
+3776000	3779000	Selbst wenn man sich basal kommunikativ einigen will,
+3779000	3783000	über was man machen will, dann kann man natürlich immer noch sagen,
+3783000	3786000	ach, egal wie ineffizient das ist, wir wollen das jetzt.
+3786000	3789000	Wir wollen jetzt eine riesige lila Pyramide bauen.
+3789000	3792000	Das bedeutet, dass wir jahrelang kein Brot mehr haben.
+3792000	3795000	Das kann man natürlich beschließen. Okay, okay.
+3795000	3798000	Also wenn man das möchte, kann man das machen.
+3798000	3802000	Und gut, die Frage ist halt, ob das so eine gute Idee ist.
+3802000	3805000	Und ob das auf Dauer nicht dazu führt,
+3805000	3810000	dass das entsprechende ökonomische Modell an Attraktivität verliert,
+3810000	3813000	wenn sozusagen keine Mechanismen eingebaut sind, die sicherstellen,
+3813000	3818000	dass gewisse von allen geteilte Bedürfnisse auch noch erfüllt werden können,
+3818000	3822000	weil eben mangels Maßstäben unglaublich viele Ressourcen
+3822000	3825000	in irgendwelche vollkommen verrückten Projekte ablaufen,
+3832000	3835000	die die Versorgungslage gefährden.
+3835000	3838000	Ich meine, so gesehen sieht der Kapitalismus halt auch nicht gut aus,
+3838000	3841000	bei allen tollen Preismechanismen und Konkurrenz.
+3841000	3844000	Ich meine, es gibt vollkommen verrückte Weltraumprojekte.
+3844000	3847000	Also nichts, dass ich fast gegen hätte. Ich finde das alles ganz faszinierend.
+3847000	3850000	Aber wo anders fällt, in den Schulen fällt der Putz von der Wand.
+3850000	3856000	Also da scheint mir die Allokation auch nicht gerade wirklich so optimal bedürfnisorientiert zu sein.
+3856000	3860000	Die Profitmaximierung, man kann so argumentieren,
+3860000	3864000	dass Profitmaximierung ein Weg ist der Bedürfniserfüllung,
+3864000	3868000	in dem es eben sich lohnt, Bedürfnisse zu erfüllen, wo sie auftreten.
+3868000	3871000	Auf der anderen Seite kann man ebenfalls zeigen,
+3871000	3875000	dass natürlich Bedürfnisse nicht immer zahlungsfähige Bedürfnisse sind
+3875000	3878000	und das aufgrund der Verknappung durch das Geld
+3878000	3882000	plötzlich ist oder im Laufe der Zeit zu krassen Verzerrungen kommt,
+3882000	3887000	wo Bedürfnisse nicht erfüllt werden,
+3887000	3891000	wenn andernorts irgendwelche megalomanischen Projekte aus dem Boden gestampft werden.
+3891000	3895000	Und das scheint mir gerade ein abschreckendes Beispiel dafür zu sein,
+3895000	3899000	dass diese Art von Maßstaben, wie er eingesetzt wird, nicht besonders gut funktioniert.
+3899000	3902000	Das ist aber kein Argument gegen den Maßstab,
+3902000	3906000	weil ohne Maßstab hat man dasselbe Problem genauso oder vielleicht sogar noch schlimmer.
+3906000	3908000	Man braucht irgendwie einen anderen Maßstab.
+3908000	3910000	Das heißt nicht unbedingt, dass man anderes Geld braucht.
+3910000	3912000	Das könnten auch Zeiteinheiten sein oder irgendwas anderes.
+3912000	3917000	Aber irgendwie muss man, das muss auf Messbarkeit bezogen bleiben.
+3917000	3921000	Deswegen hat er auch schlaut argumentiert, dass Marx ein großer Messtheoretiker ist.
+3921000	3923000	Es geht um Messung.
+3923000	3927000	Das ist etwas sehr Wichtiges, um zu verstehen, wie Ökonomien funktionieren meines Erachtens.
+3928000	3933000	Und anschließend finde ich schon noch die Frage nach den Anthropologien,
+3933000	3935000	die eben in das Ganze eingeschrieben sind.
+3935000	3937000	Du hattest jetzt angesprochen,
+3937000	3942000	dass die aus der Kommenstheorie kommenden TeilnehmerInnen eures Forschungsprojektes
+3942000	3946000	im Grunde wie so einen Leap of Faith machen und sagen,
+3946000	3956000	okay, nein, wir springen sofort in einen, ja, was bei Daniel D. Saros dann eben sagen,
+3956000	3959000	der Kommunismus wäre im Gegensatz zum Sozialismus.
+3959000	3962000	Die kommensorientierten Leute würden das wahrscheinlich anders nennen.
+3962000	3964000	Aber wir springen quasi gleich in einen Mechanismus,
+3964000	3968000	der eben auf radikaler Freiwilligkeit basiert.
+3970000	3975000	Ich fand bei dem Konzept von Saros das eigentlich gerade interessant
+3975000	3978000	und gut, dass er da wie so einen Mehrstufenplan vorschlägt,
+3978000	3982000	weil er sagt, okay, nein, am Anfang braucht es eben schon noch Mechanismen,
+3982000	3987000	die auch vielleicht dann eben diesen Sanktionen bei Ostrum nicht unähnlich sind,
+3987000	3993000	weil man eben auch noch nicht es mit den Menschen zu tun hat,
+3993000	3998000	die in dieser Form von kooperativer Gesellschaft aufgewachsen sind.
+3998000	4003000	Also inwiefern, würdest du sagen, setzen die kommensorientierten Herangehensweisen
+4003000	4010000	da vielleicht eben auch schon eine Anthropologie voraus oder einen Menschen voraus,
+4010000	4012000	sage ich jetzt mal, vielleicht ein bisschen überspitzt,
+4012000	4018000	der vielleicht dann auch einer idealisierten Vorstellung entspricht?
+4019000	4025000	Also zumindest Stefan Mehretz und Simon Sütterly,
+4025000	4027000	die kann man im Vorwurf eigentlich nicht machen,
+4027000	4032000	weil das Modell, das sie entwerfen, ja sehr klar darauf abhebt,
+4032000	4038000	dass sie argumentieren, dass gesellschaftliche Bedingungen geschaffen werden müssen,
+4038000	4045000	die es für Menschen effizient machen, sich inklusiv zu verhalten, statt exklusiv.
+4045000	4049000	Also sie gehen nicht davon aus, dass Menschen per se inklusiv sind,
+4049000	4052000	sondern sie argumentieren ja und auch nicht zu Unrecht,
+4052000	4057000	das ist in Märkten, deren grundlegende Theorie ja darauf basiert,
+4057000	4059000	ich vereinfache jetzt wieder sträflich,
+4059000	4065000	dass die Maximierung von Eigennutz zum besten Nutz aller führt,
+4065000	4068000	dass wenn so ein Modell einer Gesellschaft schon zugrunde liegt
+4068000	4071000	und dann auch zur Not mit Nudging und so weiter erzogen werden soll,
+4071000	4075000	dass sich dann alle egoistisch verhalten, ach wie überraschend, ja,
+4075000	4080000	und an Märkten muss man sich egoistisch verhalten,
+4080000	4084000	das geht mal unter, früher oder später, das ist einfach so, in der Konkurrenz,
+4084000	4089000	das ist einfach so und daraus kann man zumindest ableiten,
+4089000	4093000	dass es unter anderen gesellschaftlichen Bedingungen sein könnte,
+4093000	4094000	dass Menschen sich anders verhalten.
+4094000	4097000	Man kann auch argumentieren, und das ist ja das klassische Argument
+4097000	4100000	der Verteidigerinnen des Kapitalismus,
+4100000	4104000	dass diese Marktuntersuchung ist, weil Menschen nun mal egoistisch sind,
+4104000	4107000	ja und das letzte Wort darüber ist noch nicht gesprochen,
+4107000	4110000	ich meine, es gibt offensichtlich auch altruistische Verhaltensweise,
+4110000	4113000	kooperative Verhaltensweise, auch im Kapitalismus,
+4113000	4116000	deswegen scheint es mir wahrscheinlicher zu sein,
+4116000	4121000	dass Menschen sich unter anderen Bedingungen auch anders verhalten würden,
+4121000	4124000	das heißt nicht, dass es nicht auch weiterhin Egoismen gäbe,
+4124000	4127000	das hat ja Robert Kurz mal so schön auf den Punkt gebracht,
+4127000	4130000	auch nach dem Kapitalismus wird es noch Arschlöcher geben,
+4130000	4135000	aber dass zumindest die Tendenz für das Verhalten eine andere ist.
+4135000	4138000	Also das kann man, glaube ich, Stefan und Simon nicht vorwerfen,
+4138000	4140000	dass sie da ein idealistisches Bild vorhaben,
+4140000	4142000	das scheint mir sehr realistisch zu sein, zu denken,
+4142000	4144000	wenn man ein anderes Verhalten nahelegt,
+4144000	4147000	dass dann Menschen sich auch so verhalten werden,
+4147000	4150000	oder zumindest partiell so verhalten werden, oder tendenziell.
+4150000	4154000	Deswegen kann man ihnen das, glaube ich, nicht vorwerfen.
+4154000	4161000	Grundsätzlich habe ich einerseits, das ist bei mir so ein bisschen gespalten,
+4161000	4163000	einerseits habe ich Probleme mit Anthropologien,
+4163000	4166000	also mit der Annahme, dass die Menschen so oder so sind,
+4166000	4169000	seien sie nun gut oder schlecht oder auch nur neutral,
+4169000	4176000	weil ich glaube, dass sehr viele Dinge nicht nur am Menschen,
+4176000	4180000	sondern über unsere Welt historisch und kulturell gewachsen sind,
+4180000	4183000	um mal das vielumstrittene Wort konstruiert zu vermeiden,
+4183000	4186000	weil das immer so klingt, als ob das jemand konstruiert.
+4186000	4190000	Und insofern, wenn man auch interkulturelle Vergleiche macht
+4190000	4192000	oder historische Vergleiche macht, sieht man,
+4192000	4195000	dass Menschen sich zu anderen Zeiten komplett anders verhalten haben
+4195000	4199000	oder andere Sitten hatten oder Gebräuche hatten, die uns total fremd sind.
+4199000	4202000	Also insofern würde ich mich tendenziell auf der Seite
+4202000	4204000	eher den Leuten zurecht, die sagen würden,
+4204000	4207000	wahrscheinlich würden unter anderen Bedingungen
+4207000	4209000	Menschen sich anders verhalten.
+4209000	4214000	Es gibt kein, zumindest stark ausgeprägtes Wesen des Menschen an sich.
+4214000	4217000	Auf der anderen Seite wäre ich sehr skeptisch gegenüber Ansätzen,
+4217000	4220000	die sagen, na ja, da werden wir die Menschen schon irgendwie umerziehen und so.
+4220000	4222000	Wir wissen alle, wohin das geführt hat.
+4222000	4225000	Das ist kein gangbarer Weg.
+4225000	4229000	Das ist unmenschlich und führt in die Katastrophe.
+4229000	4234000	Deswegen, das einzige, was ich, glaube ich, sagen könnte, ist,
+4234000	4237000	dass ich hoffe, dass unter anderen Bedingungen
+4237000	4241000	Menschen sich zumindest partiell anders verhalten als heute.
+4241000	4244000	Die schwierige Frage ist offensichtlich, wie man dann dahin kommt,
+4244000	4246000	weil das ja ein Hand- und Eilproblem ist.
+4246000	4249000	Man bräuchte vielleicht für andere Institutionen Menschen,
+4249000	4251000	die sich anders verhalten.
+4251000	4255000	Aber damit die sich anders verhalten, müssen die Institutionen anders sein.
+4255000	4256000	Und nun?
+4256000	4258000	Ich meine, der einzige Weg, den ich sehe, ist,
+4258000	4261000	dass man über die Institutionen in Organisationsform geht
+4261000	4265000	und die partiell ändert.
+4265000	4268000	Und das ist ja auch was, was so ein bisschen in dem Commons
+4268000	4272000	theoretischen Ansatz, soweit ich die kenne, verfolgt wird.
+4272000	4275000	Also es gibt da ja, glaube ich, soweit ich sehen kann,
+4275000	4278000	kein, sagen wir mal, Transformationsmodell.
+4278000	4282000	Wobei ich sagen möchte, Transformation ist im Grunde nicht der Gegenstand unseres Projektes.
+4282000	4286000	Das haben wir bewusst ausgeklammert, weil das nochmal ein ganz eigenes Problem ist.
+4286000	4289000	Aber was ich, glaube ich, sagen kann, ist,
+4289000	4293000	weiß ich jetzt nicht, ob ich für die Commons sollte oder unser Projekt sprechen kann,
+4293000	4296000	dass wir, glaube ich, nicht der Auffassung sind,
+4296000	4299000	dass so was wie eine Revolution
+4299000	4301000	ein funktionsfähiges Modell ist.
+4301000	4304000	Weil, also zumindest nicht in dem Sinne, wie man das historisch kennt,
+4304000	4307000	als leninistisches Modell, das irgendeine Weise avantgart,
+4307000	4311000	die Macht übernimmt und dann vorübergehend leider, leider alle Gewaltmittel einsetzen muss
+4311000	4314000	und die Gesellschaft zu ändern, das kann nicht funktionieren meines Erachtens.
+4314000	4316000	Und es hat ja auch nicht funktioniert.
+4316000	4319000	Und das ist auch vom Ansatz her schon komplett falsch gedacht,
+4319000	4322000	meines Erachtens, die Commons-Idee.
+4322000	4325000	Und deswegen die Sache mit dem Lieb sozusagen ist ja eigentlich eher die,
+4325000	4329000	dass das Schritt für Schritt so eine Commons-Organisation
+4329000	4334000	wie so eine Art Schimmelpilz sich ausbreitet
+4334000	4338000	und langsam aber sicher immer mehr Menschen herausgehen
+4338000	4343000	aus der Markt- und kapitalorientierten Produktion.
+4343000	4347000	Das ähnelt gewissermaßen anarchistischen Graswurzelmodellen, glaube ich,
+4347000	4352000	mehr als irgendwelchen leninistischen Revolutionsmodellen.
+4352000	4355000	Und das scheint mir auch die einzige Option zu sein, ganz ehrlich.
+4355000	4357000	Also ich glaube überhaupt nicht mehr daran,
+4357000	4362000	dass mit irgendwelchen gewaltsamen Umstürzen irgendwas erreicht werden kann,
+4362000	4365000	wenn man Gewalt einsetzt, um irgendeine Herrschaftsform,
+4365000	4369000	sei es auch nur vorübergehend, zu stabilisieren, ist Gewalt legitimiert
+4369000	4372000	und dann wird sie auch für jede weitere Gelegenheit eingesetzt werden.
+4372000	4374000	Und wir haben gesehen, wohin das geführt hat.
+4374000	4376000	Das kann nicht funktionieren.
+4376000	4382000	Die andere Frage ist, ob solche Graswurzelrevolutionären Modelle funktionieren,
+4382000	4384000	weil das ja bedeutet, dass am Anfang irgendjemand anfangen muss.
+4384000	4390000	Und diese ersten Stücke sind natürlich in einer schwierigen Umgebung.
+4390000	4393000	Und selbst wenn das auf Nationalstaatsebene wäre,
+4393000	4396000	wäre das immer noch eine schwierige Umgebung.
+4396000	4401000	Und man kann daraus der Schluss ziehen, dass es überhaupt nicht geht.
+4401000	4403000	Ja, das wäre auch noch eine Möglichkeit.
+4403000	4405000	Es gibt überhaupt keinen Weg.
+4405000	4408000	Jetzt gewollt sozusagen aus dem Kapitalismus
+4408000	4411000	in eine postkapitalistische Formation zu kommen,
+4411000	4413000	weil man entweder lokal anfangen muss,
+4413000	4415000	und das ist jederzeit von Auslöschung bedroht,
+4415000	4418000	oder man muss es global machen, das geht nur gewaltsam.
+4418000	4421000	Und das ist auch kein Weg.
+4421000	4427000	Und also bliebe dann nur noch darauf zu vertrauen,
+4427000	4433000	dass Evolutionäre sich die richtigen Institutionen durchsetzen, sozusagen,
+4433000	4437000	indem man mit theoretischer Diskussion und tollen Podcasts wie diesem hier,
+4437000	4442000	also deinem Podcast, Future-Stories, Informationen darüber verstreut.
+4442000	4444000	Es tut mir leid, dass das so resignativ klingt,
+4444000	4446000	aber ich bin anzwischen sehr skeptisch geworden,
+4446000	4448000	was solche Möglichkeiten anbetrifft.
+4448000	4450000	Unsere Aufgabe ist sich erst mal darin,
+4450000	4453000	dass wir darüber überhaupt diese Nachdenken wieder eröffnen,
+4453000	4459000	dass alternative Ökonomien möglicherweise überhaupt möglich sind.
+4459000	4462000	Damit wäre ja schon viel gewonnen,
+4462000	4465000	also wenn so eine Diskussion wieder aufkommen könnte.
+4465000	4469000	Dass es überhaupt möglich ist, über andere Organisationsformen nachzudenken.
+4469000	4474000	Was sich dann daraus ergibt, das ist eine ganz andere und schwierige Frage.
+4474000	4478000	Da schließt sich jetzt ausgezeichnet meine Abschlussfrage an.
+4478000	4483000	Jens, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+4483000	4487000	Was stimmt mich freudig? Also, mich stimmt freudig…
+4487000	4492000	Ja, man müsste ja unterscheiden, die private und die sozusagen politische Zukunft.
+4492000	4495000	Aber um die private, da gibt es viele, dass mich freudig stimmt,
+4495000	4500000	aber wenn es um die politische Zukunft geht, würde ich sagen,
+4500000	4503000	also die Tatsache, dass solche Gespräche geführt werden,
+4503000	4508000	dass es viele Versuche gibt, von vielen Richtungen darüber nachzudenken,
+4508000	4513000	wie man Dinge anders machen kann, das stimmt mich freudig.
+4513000	4517000	Auch wenn ich hoffe, dass es nicht zu spät ist angesichts des Klimawandels.
+4517000	4520000	Wunderbar. Jens, vielen Dank für das Gespräch.
+4520000	4522000	Vielen Dank, Jens.
+4523000	4527000	Das war Future Histories für heute.
+4527000	4529000	Vielen Dank fürs Zuhören.
+4529000	4534000	Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+4534000	4540000	Diskutiert mit auf Twitter unter dem Hashtag futurehistories oder auf Reddit.
+4540000	4544000	Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+4544000	4548000	Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+4548000	4553000	Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com
+4553000	4556000	Schrägstrich Future Histories. Vieles an Zusatzmaterial.
+4556000	4561000	Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.

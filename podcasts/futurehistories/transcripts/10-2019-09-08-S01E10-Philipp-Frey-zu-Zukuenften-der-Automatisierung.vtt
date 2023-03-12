@@ -1,0 +1,1751 @@
+WEBVTT
+
+00:00.000 --> 00:05.460
+Herzlich Willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:05.460 --> 00:10.920
+Mein Name ist Jan Groß und ich spreche heute mit Philipp Frei über Zukunft der Automatisierung.
+
+00:10.920 --> 00:16.620
+Philipp ist Mitarbeiter am Carzower Institut für Technikfolgen abschätzen und Systemanalyse
+
+00:16.620 --> 00:21.260
+und Vorstandsmitglied des Zentrums für Emanzipatorische Technikforschung,
+
+00:21.260 --> 00:27.160
+einem neuen und hochinteressanten Thinktank, der sich technopolitischen Fragestellungen widmet.
+
+00:27.160 --> 00:33.880
+Ihr findet den Link zu ihrer Homepage in den Shownotizen und wenn dort alle so kompetent und sympathisch sind wie Philipp,
+
+00:33.880 --> 00:36.760
+dann muss das ein ganz großartiger Verein sein.
+
+00:36.760 --> 00:43.880
+An dieser Stelle also herzliche Grüße an alle beim Z, beim Zentrum für Emanzipatorische Technikforschung.
+
+00:43.880 --> 00:49.240
+Das Gespräch mit Philipp hat mir sehr große Freude bereitet und es war eine Fülle von Themen dabei,
+
+00:49.240 --> 00:54.320
+die für diesen Podcast hier von größtem Interesse sind. Das klingt dann zum Beispiel so.
+
+00:54.440 --> 01:02.240
+Nehmen wir doch mal die dominante technpolitische Debatte der letzten Jahre in Deutschland, diese Industrie für Null.
+
+01:02.240 --> 01:08.120
+Und da ist es ja tatsächlich so, da gab es viel Debatte darüber, aber die grundlegenden Orientierungen
+
+01:08.120 --> 01:15.480
+waren vorausgesetzt. Also in den Papieren kannst du immer lesen, ja ja, die Chinesen holen auf und überhaupt mit der Fertigung und so.
+
+01:15.480 --> 01:23.480
+Wir müssen unsere Weltmarktanteile verteidigen und das heißt dann vielleicht noch nicht irgendwie die deutsche Industrie zukunftsfähig machen oder irgendwie sowas.
+
+01:23.480 --> 01:28.840
+So und es geht ganz klar um das Hauen und Stechen innerhalb dieser Produktionsweise.
+
+01:28.840 --> 01:35.440
+Und solange man so tut, als wäre die einzige Debatte, die man hinsichtlich technologischer Innovation führen kann,
+
+01:35.440 --> 01:41.680
+wie man die Konkurrenzfähigkeit erhöht, schneidet man extrem viel ab.
+
+01:41.680 --> 01:47.960
+Und deswegen scheint es mir auch so wichtig zu sein, also Hegemonie drückt sich ja auch darin aus, dass die Leute sich gar nichts anderes vorstellen können.
+
+01:48.000 --> 01:52.520
+Und ich glaube, das muss jetzt mal so Schritt für Schritt abgetragen werden irgendwie.
+
+01:52.520 --> 01:58.600
+Ja, und da muss auch der Horizont geöffnet werden, eben um zu zeigen, auch ruhig eben einen gewissen eutropischen Überschuss.
+
+01:58.600 --> 02:02.240
+Leute, also worum werdet ihr betrogen?
+
+02:02.240 --> 02:10.520
+Ihr findet alle Folgen von Future Histories auf www.futurehistories.today und auf praktisch allen großen Podcast Plattformen.
+
+02:10.520 --> 02:14.280
+Folgt dem Podcast auf Twitter unter atfuturehpodcast.
+
+02:14.280 --> 02:22.160
+Und wenn ihr könnt und wollt, dann unterstützt das Projekt auch auf Patreon unter patreon.com schrägstrich Future Histories.
+
+02:22.160 --> 02:26.000
+Ich wünsche euch viel Spaß beim Interview mit Philipp Frei.
+
+02:31.360 --> 02:33.840
+Herzlich willkommen, Philipp Frei.
+
+02:33.840 --> 02:35.640
+Hallo, vielen Dank für die Einladung.
+
+02:35.640 --> 02:38.000
+Sehr gerne, ich freue mich, dass du da bist.
+
+02:38.040 --> 02:42.360
+Für viele ist es eine Art von Verheißung, für andere ist es ein Schreckgespenst.
+
+02:42.360 --> 02:43.960
+Kannst du uns das eingangs mal definieren?
+
+02:43.960 --> 02:46.000
+Was ist Automatisierung?
+
+02:46.000 --> 02:51.760
+Automatisierung bezeichnet einfach den Umstand, dass Getikheiten, die früher von Menschen ausgeübt wurden,
+
+02:51.760 --> 02:56.480
+jetzt von technischen Artifakten, also zum Beispiel von Robotern oder im Dienstleistungssektor,
+
+02:56.480 --> 03:00.480
+zum Beispiel von künstlicher Intelligenz oder Algorithmen, durchgeführt werden sozusagen.
+
+03:00.480 --> 03:05.520
+Also insofern ist rekurrierte Automatisierungsbegriff natürlich auch eine sehr lange Debatte,
+
+03:05.520 --> 03:12.400
+weil diese Debatte von Substitutionen menschlicher Arbeit durch Technik leuchte eigentlich seit dem 19. Jahrhundert.
+
+03:12.400 --> 03:17.200
+Und dieser Automationsbegriff wurde dann eigentlich geprägt in der Mitte des 20. Jahrhunderts im Ford-Konzern,
+
+03:17.200 --> 03:23.240
+wo es dann erst mal darum ging, wirklich die industrielle Massenproduktion sozusagen zu organisieren.
+
+03:23.240 --> 03:26.360
+Und das wurde auch gerahmt durch die Einführung neuer Technologien.
+
+03:26.360 --> 03:32.000
+Und welche sind die technologischen Entwicklungen, die die aktuelle Automatisierungsdebatte anfeuern?
+
+03:32.000 --> 03:34.320
+Also was ist deren technologische Basis?
+
+03:34.360 --> 03:40.680
+Ja, also meistens wird da auf Weiterentwicklungen auf dem Gebiet der Robotik verwiesen.
+
+03:40.680 --> 03:45.800
+Robotik scheint mir auch wirklich so die Leittechnologie im Feld der Automatisierung.
+
+03:45.800 --> 03:50.480
+Da geht es dann insbesondere darum, klassische Robotik, so wie wir das kennen, irgendwie.
+
+03:50.480 --> 03:55.680
+In den letzten Jahrzehnten sind ja vor allem Industrieroboter, die dann auch getrennt gehalten werden müssen
+
+03:55.680 --> 04:01.480
+von den menschlichen Arbeitern, die in solchen riesigen Käfigen sitzen und so weiter.
+
+04:01.520 --> 04:05.320
+Und da erhofft man sich jetzt große Fortschritte in der Richtung,
+
+04:05.320 --> 04:08.440
+dass die Zusammenarbeit zwischen Menschen und Maschinen immer enger wird,
+
+04:08.440 --> 04:15.440
+dass die Roboter eben auch aus den Käfigen können und dass die Roboter auch im Preis immer weiter fallen.
+
+04:15.440 --> 04:18.400
+Also dass einfach die Kosten sinken, diese Technik anzuwenden.
+
+04:18.400 --> 04:20.640
+Das ist so die eine Seite der Debatte.
+
+04:20.640 --> 04:28.120
+Und die andere Seite der Debatte bezieht sich dann vor allem auf Weiterentwicklungen auf dem Gebiet der künstlichen Intelligenzforschung.
+
+04:28.120 --> 04:38.320
+Also dass dann auch kognitive Tätigkeiten, also quasi geistige Arbeiten von Technik verrichtet werden können zukünftig.
+
+04:38.320 --> 04:41.040
+Das sind so die zwei Leittechnologien in dem Feld.
+
+04:41.040 --> 04:47.040
+Du sprichst in einem deiner Texte einen aktuellen und sehr einflussreichen Beitrag zur Automatisierungsdebatte an.
+
+04:47.040 --> 04:53.200
+Eine Studie aus dem Jahr 2013 von Carl Benedict Frei und Michael A. Osborne, die trägt den Titel
+
+04:53.200 --> 04:57.920
+The Future of Employment, How Susceptible Are Jobs to Computerization?
+
+04:57.920 --> 05:01.880
+Und die Studie, die ist wahrscheinlich auch unter anderem so bekannt geworden,
+
+05:01.880 --> 05:05.160
+weil sie irgendwie so eine medienwirksame Zahl hingeknallt hat.
+
+05:05.160 --> 05:15.840
+47 Prozent der US-amerikanischen Arbeitsplätze können in den kommenden Jahren mit hoher Wahrscheinlichkeit dann technisch automatisiert werden.
+
+05:15.840 --> 05:18.040
+Wie sind die Autoren zu dieser Zahl gekommen?
+
+05:18.040 --> 05:22.640
+Ja, also erst mal, ich glaube, die Wichtigkeit dieser Studie ist echt kaum zu überschätzen.
+
+05:22.640 --> 05:26.240
+Also das war wirklich für die neue Automationsdebatte der Startschuss.
+
+05:26.240 --> 05:38.240
+Und im Prinzip, was die Autoren gemacht haben, war, sie haben Experteninterviews durchgeführt und die Forschungsliteratur eben auf dem Gebiet der Robotik und der Künstliche Intelligenzforschung sich angeschaut.
+
+05:38.240 --> 05:42.840
+Und da haben sie versucht, sogenannte Engineering Bottlenecks zu identifizieren.
+
+05:42.840 --> 05:50.600
+Also Dinge, von denen sie meinen, dass es in den nächsten Jahrzehnten technisch schwierig sein wird, sie zu automatisieren.
+
+05:50.640 --> 05:58.280
+Also da ging es dann zum Beispiel um solche Sachen wie Empathie, soziale Intelligenz, aber auch ein besonderes Fingerspitzengefühl.
+
+05:58.280 --> 06:09.000
+Und dann haben sie auf eine Datenbank zurückgegriffen, die es im US-amerikanischen Raum gibt, das ONET, die auch für Arbeitsforschung wirklich weithin bekannt ist,
+
+06:09.000 --> 06:16.320
+weil sie einfach sehr detailreich eine ungeheure Anzahl von Berufen auflistet und die Tätigkeiten, die damit assoziiert sind.
+
+06:16.320 --> 06:21.000
+Also wie stellt sich so ein Arbeitstraktor da, was braucht man für ein Skillset, was macht man da für Handgriffe?
+
+06:21.000 --> 06:23.080
+Also es geht bis in die Handgriffe rein.
+
+06:23.080 --> 06:37.080
+Und dann haben sie automatisiert evaluieren lassen, wie stark einzelne Berufsberufe da von Tätigkeiten geprägt werden, von denen sie meinen, dass sie technisch schwierig zu automatisieren werden.
+
+06:37.080 --> 06:44.640
+Und sie sind dann davon ausgegangen, alle Tätigkeiten, die nicht jetzt zum Beispiel einer besonderen Empathie oder so bedürfen, die wären verhältnismäßig leicht zu automatisieren.
+
+06:45.120 --> 06:51.520
+Und dann kam sie am Ende zu einer Einschätzung, wie quasi diese Berufe zusammengesetzt sind.
+
+06:51.520 --> 06:58.040
+Also wenn man zum Beispiel einen Beruf hätte, der den ganzen Tag nur denselben Handgriff durchführt und dieser Handgriff bedarf keiner besonderen Fingerfertigkeit,
+
+06:58.040 --> 07:01.560
+dann wäre die Automationswahrscheinlichkeit sozusagen 100 Prozent gewesen.
+
+07:01.560 --> 07:15.280
+Und wenn man jetzt jemanden hätte, wie also zum Beispiel sehr niedrig gerankt sind, dann so zum Beispiel soziale Berufe wie Therapie oder also genau, wo man stark eben soziale Kompetenzen bedarf.
+
+07:15.280 --> 07:28.520
+Und die Einschätzung war dann eben alle Berufe, die über 70 Prozent Tätigkeiten haben, die leicht zu automatisieren sein sollten in den nächsten Jahrzehnten, die werden eben ausgeflackt mit hohe Wahrscheinlichkeit von Automatisierung.
+
+07:28.520 --> 07:32.800
+Und so kam sie dann für den US-amerikanischen Arbeitsmarkt auf 47 Prozent erstellen.
+
+07:32.800 --> 07:40.360
+Und das war wirklich so, das ging auch durch die Vermittlung groß rauf und runter und war so der Startschuss jetzt noch mal für die Debatte in den letzten Jahren.
+
+07:40.800 --> 07:48.440
+Vielleicht bevor wir uns dann sagen, den möglichen Implikation einer solchen, also weitreichenden Automatisierung zuwenden, vielleicht noch kurz.
+
+07:48.440 --> 07:51.600
+Es gibt ja Leute, die sagen, na, das stimmt alles nicht.
+
+07:51.640 --> 07:57.560
+Das ist so eine Art von technologisch bedingter Produktivitätssteigerung, die hat es auch früher schon gegeben.
+
+07:57.560 --> 08:04.120
+Und auch damals sei es nicht zu einem Kollaps der Arbeitswelt, geschweige denn das Kapitalismus, gekommen.
+
+08:04.120 --> 08:06.600
+Und das wäre jetzt diesmal auch nicht anders.
+
+08:06.600 --> 08:12.120
+Und die Arbeitnehmerinnen und Arbeitnehmer, die müssten sich halt jetzt dann andere Fertigkeiten antrainieren.
+
+08:12.120 --> 08:19.000
+Und es würden in anderen Bereichen eben dann Arbeits-, also bezahlte Arbeit auch hinzukommen.
+
+08:19.400 --> 08:22.240
+Und das sei quasi einfach ein ganz normaler Prozess.
+
+08:22.240 --> 08:29.880
+Früher wären das dann irgendwie, sag ich mal jetzt, überspitzt die Kutscher gewesen, die jetzt dann irgendwie zu Taxifahrern werden.
+
+08:29.880 --> 08:35.120
+Und heute sind es halt dann Fließbandarbeiter, die irgendwie, was weiß ich, zum IT-Techniker umschulen oder so.
+
+08:35.120 --> 08:36.520
+Wie siehst du das?
+
+08:36.520 --> 08:38.640
+Ja, also erst mal muss man sagen, tatsächlich ist das so.
+
+08:38.640 --> 08:45.040
+Also der Befund ist richtig zu sagen, es hat ja immer wieder technologische Umwälzungen gegeben.
+
+08:45.080 --> 08:52.560
+Also seit Marx ist das ja eine typische Charakterisierung der kapitalistischen Produktionsweise, dass da ständig eine Umwälzung stattfindet.
+
+08:52.560 --> 08:55.680
+Schumpel hat das ja dann auch abgegriffen.
+
+08:55.680 --> 08:58.840
+Also insoweit ist dem natürlich zuzustimmen.
+
+08:58.840 --> 09:04.400
+Auch wenn man sich historisch das anschaut, es gab ja eine extreme sektorale Verschiebung.
+
+09:04.400 --> 09:10.800
+Also früher hatten wir die absolute Mehrheit der Bevölkerung, die in der Landwirtschaft tätig war.
+
+09:10.800 --> 09:15.920
+Und es hat sich dann hin und so graduell verschoben in Richtung industrielle Fertigung.
+
+09:15.920 --> 09:23.720
+Und mittlerweile sind in allen entwickelten Ländern die Dienstleistungstätigkeiten eigentlich tonangebend.
+
+09:23.720 --> 09:29.240
+Und so gesehen muss man natürlich sagen, ja, da gab es immer wieder große Transformation der Arbeitsmärkte.
+
+09:29.240 --> 09:36.360
+Und insofern kann man vielleicht hoffen, dass in Zukunft auch wieder alles in Anführungszeichen gut geht.
+
+09:36.360 --> 09:41.520
+Ein ganz einfaches Gegenargument wäre zu sagen, naja, die Induktionsbasis ist doch recht bescheiden.
+
+09:41.520 --> 09:49.000
+Also wenn man zum Beispiel diese deutsche Gerede von Industrie für Null ernst nimmt, also als gäbe es da eine vierte industrielle Revolution, wird der ja postuliert.
+
+09:49.000 --> 09:56.320
+Dann müsste man sagen, okay, also man hatte bisher drei große industrielle Umbrüche und daraus schließt man schon, dass es in Zukunft nie schiefgehen kann.
+
+09:56.320 --> 10:00.360
+Das wäre, wenn man drei weiße Schwäne gesehen hat, irgendwie eine schlechte Idee wahrscheinlich.
+
+10:00.360 --> 10:03.840
+Also das ist so die eine Seite der Debatte.
+
+10:03.840 --> 10:13.480
+Und die andere Seite, und die es mir besonders wichtig ist, also selbst wenn man davon ausgeht, dass die kapitalistische Produktionsweise eine extrem anpassungsfähige ist und auch davon ausgeht,
+
+10:13.480 --> 10:16.000
+in langer Frist würde sich das schon einpendeln.
+
+10:16.000 --> 10:26.560
+Also auch wie gesagt, die Induktionsbasis ist ja gar nicht so groß, aber okay, selbst wenn man davon ausgehen würde, das sagt ja wenig darüber aus, wie viel Elend und Leid in der Zwischenzeit passiert
+
+10:26.560 --> 10:32.880
+und auch wie viel politische Instabilität und also kurz, wie viele Katastrophen man sich in der Zwischenzeit einhandelt.
+
+10:32.920 --> 10:41.920
+Also von John Maynard Keynes gibt es da eine schöne Anmerkung, der gemeint hat, na ja, es gibt so Ökonomen, die sagen, auf lange Sicht pendelt sich schon alles ein und der Markt wird es regeln.
+
+10:41.920 --> 10:44.840
+Na ja, auf lange Sicht sind wir auch alle tot.
+
+10:44.840 --> 10:47.320
+Und was ist denn mit dem Leben, das dazwischen passiert?
+
+10:47.320 --> 10:55.320
+Und also insofern scheint mir dieses Argument der Reihe nicht hilfreich, wenn es darum geht, sich zu fragen, wie verhält man sich zur Automatisierung?
+
+10:55.320 --> 10:59.840
+Das ist, um sich irgendwie zu beruhigen, dass man das Thema irgendwie zur Seite schieben kann.
+
+10:59.840 --> 11:04.840
+Aber es ist eigentlich keine gute Information für zum Beispiel Policymaking zu diesem Thema.
+
+11:04.840 --> 11:12.480
+Und als letztes noch, also tatsächlich ist es so, dass wegfallende Arbeitsplätze mehr als ersetzt wurden in der Vergangenheit.
+
+11:12.480 --> 11:16.280
+Aber man muss sich auch vielleicht nochmal überlegen, vor welchem Hintergrund das geschah.
+
+11:16.280 --> 11:24.960
+Also zum Beispiel die Entwicklung der Produktivität nach dem Zweiten Weltkrieg hatte den erfolgreichen Effekt dieser Massenprosperität,
+
+11:24.960 --> 11:28.720
+also was man in Deutschland so Wirtschaftswunder nennt und so weiter.
+
+11:28.720 --> 11:34.600
+Und dass halt jetzt wirklich der Konsum, also zum Beispiel auch der Besitz von einem Auto auf breite Basis gestellt wurde,
+
+11:34.600 --> 11:39.520
+Fernseher und Kühlschränke haben Einzug gehalten im Privathaushalt und so weiter.
+
+11:39.520 --> 11:45.160
+Also kurz auf die steigende Produktivität wurde reagiert durch eine Ausdehnung des Konsums.
+
+11:45.160 --> 11:48.280
+Und da kann man sich dann in der heutigen Zeit schon fragen.
+
+11:48.280 --> 11:54.840
+Also mir begegnet das zum Beispiel immer wieder, dass gesagt wird, ja klar, Automatisierung, gerade Riesenthema und so.
+
+11:55.440 --> 12:03.680
+Aber schauen Sie sich an, wir hatten hier an diesem Standort irgendwie 2000 Mitarbeiter vor 30 Jahren, haben so und so viele Waren pro Tag gefertigt.
+
+12:03.680 --> 12:08.480
+Jetzt haben wir immer noch 2000 Mitarbeiter und fertigen halt doppelt, dreimal, viermal so viele Waren.
+
+12:08.480 --> 12:14.000
+Und dann ist die implizite Idee hinter dem Argument ist natürlich, naja, und wenn die Produktivität weiter steigert,
+
+12:14.000 --> 12:18.880
+dann ja gut, dann produzieren wir halt nochmal zweimal, dreimal, viermal so viele Waren.
+
+12:18.880 --> 12:23.160
+Und wie weit das zum Beispiel ökologisch aufgeht, die Rechnung, das wäre dann nochmal eine andere Frage.
+
+12:23.240 --> 12:30.520
+Also so gesehen muss man dann glaube ich schon sagen, so ganz einfach kann man es jetzt nicht machen mit der Frage der Automatisierung.
+
+12:30.520 --> 12:32.200
+Da würde ich gerne noch was nachfragen.
+
+12:32.200 --> 12:38.000
+Und zwar, also du hattest jetzt gerade in deiner Antwort ja ökologische Grenzen angeführt.
+
+12:38.000 --> 12:45.240
+Also dass einfach die Art und Weise, wie wir Wirtschaft betreiben, wie wir leben, dass die dann so zerstörerisch ist,
+
+12:45.240 --> 12:53.000
+dass eine weitere Expansion innerhalb dieser Logik einfach auch in die Katastrophe führt.
+
+12:53.000 --> 12:56.720
+Und das ist ja auch derzeit wirklich ein sehr, sehr zentrales Thema.
+
+12:56.720 --> 13:03.320
+Auf der anderen Seite gibt es aber in einem deiner Texte noch eine Feststellung, zu der ich dich noch was fragen wollte.
+
+13:03.320 --> 13:13.040
+Und zwar schreibst du dort, dass eigentlich die Art und Weise, wie der Kapitalismus bisher funktioniert hat durch die Erschließung neuer Märkte,
+
+13:13.040 --> 13:16.120
+dass das eigentlich auch bestimmte Grenzen erreicht hat.
+
+13:16.120 --> 13:17.200
+Ist das denn wirklich so?
+
+13:17.200 --> 13:24.560
+Weil ich mich nämlich frage, eigentlich ist das ja dann gerade eher dabei, sich immer weitere Bereiche zu erschließen.
+
+13:24.560 --> 13:32.480
+Also wenn man daran denkt, dass unsere sozialen Interaktionen mittlerweile schon zu einer Ware umgeformt worden sind,
+
+13:32.480 --> 13:42.680
+dann hat man doch eigentlich eher das Gefühl, dass der Kapitalismus sich immer weitere Felder erarbeitet, in die er seine Marktlogiken einbauen kann.
+
+13:42.680 --> 13:44.200
+Siehst du da ein Ende erreicht?
+
+13:45.520 --> 13:50.280
+Ja, also nicht dank für die Möglichkeit zur Klarstellung.
+
+13:50.280 --> 13:53.360
+Also nicht, ich stelle es ja auch als Frage sozusagen.
+
+13:53.360 --> 13:55.400
+Ich würde sagen nicht definitiv.
+
+13:55.400 --> 13:58.480
+Also es ist nicht unvorstellbar, dass da weiteres stattfindet.
+
+13:58.480 --> 14:03.320
+Also diese Frage, die ich da aufwöchte, also rekurriert ja eben auf dieses Moment,
+
+14:03.320 --> 14:09.520
+dass Automatisierung und steigende Produktivität eben kein Problem ist, solange es eine Elastizität der Nachfrage gibt.
+
+14:09.520 --> 14:16.040
+Und selbstverständlich, also man kennt ja diese ganzen Debatten über die Social Media und Daten sind das neue Öl und so weiter.
+
+14:16.040 --> 14:22.160
+Und dann gibt es irgendwelches Rauen, dass wenn es den Brexit gibt und ein Freihandelsabkommen mit den USA,
+
+14:22.160 --> 14:28.280
+ob dann der National Health Service auf einmal halt irgendwie umgewandelt wird, so einen privatwirtschaftlichen Bereich,
+
+14:28.280 --> 14:36.600
+was ja dann auch eine riesen Möglichkeit wäre, da irgendwie Kapital reinfließen zu lassen und eine Akkommission zu stoßen und auch global betrachtet.
+
+14:36.640 --> 14:42.120
+Klar, also wenn man sich anschaut, zum Beispiel die Entwicklung in China mit dieser entstehenden globalen Mittelschicht,
+
+14:42.120 --> 14:49.200
+obwohl ja doch eine Konsumorientierung ganz stark ist, muss man schon sagen, okay, also sicher, es gibt immer noch Potenziale.
+
+14:49.200 --> 14:54.480
+Und der Kapitalismus ist auch seit je angewiesen, immer neue Märkte zu erschließen.
+
+14:54.480 --> 14:58.440
+Die Frage wäre halt eben nur, wie lange kann man das noch treiben, bis es an Grenzen stößt.
+
+14:58.440 --> 15:04.120
+Und die Grenzen wären dann halt einerseits eben wie schon Angriffe und Planetare.
+
+15:04.120 --> 15:06.760
+Und andererseits dann aber auch halt politische.
+
+15:06.760 --> 15:16.000
+Also man kann sich ja zum Beispiel fragen, ob das normativ so wünschenswert ist, dass Wasserversorgung oder Gesundheitsversorgung und auch gute Teile des Wohnungsmarktes und so weiter,
+
+15:16.000 --> 15:22.160
+dass die Marktdynamiken überlassen werden und ob das wirklich im Interesse der Bevölkerung ist.
+
+15:22.160 --> 15:28.240
+Aber ich wollte jetzt nicht sagen, dass das völlig unmöglich ist, sozusagen, da versuchen noch mal eine Verjüngungskur anzustoßen.
+
+15:28.240 --> 15:35.880
+Die Frage wäre eher, in welchem Maße ist das möglich und wie wünschenswert ist das?
+
+15:35.880 --> 15:39.800
+Jaja, also bei zweiterem würde ich ja sowieso total zustimmen.
+
+15:39.800 --> 15:45.000
+Also das war jetzt auch überhaupt gar nicht das, wo ich mich jetzt irgendwie gewundert hätte,
+
+15:45.000 --> 15:49.840
+weil ich finde das ja absolut wünschenswerter, sagen, Alternativen zu finden.
+
+15:49.840 --> 15:56.160
+Aber innerhalb einer also inherent kapitalistischen Argumentationslogik hätte ich jetzt persönlich das Gefühl,
+
+15:56.200 --> 16:00.720
+dass es da dann leider in Anführungsstrichen noch viel Raum nach oben gibt,
+
+16:00.720 --> 16:06.280
+nämlich tatsächlich auch physisch nach oben, wenn man sich so was vorstellt wie Asteroid-Mining,
+
+16:06.280 --> 16:11.400
+also das Erschließen von neuen Ressourcen außerhalb der Erde.
+
+16:11.400 --> 16:13.440
+Ja, das steht ja dann auch noch irgendwann an.
+
+16:13.440 --> 16:15.520
+Insofern gäbe es da quasi noch Spielraum.
+
+16:15.520 --> 16:22.840
+Aber nehmen wir mal an und sagen, es kommt zu dieser weitreichenden Automatisierung der Arbeitswelt
+
+16:22.840 --> 16:29.760
+und dann die die Seite, die sagt, ja, das hat es ja schon immer gegeben und da werden halt neue Jobs entstehen.
+
+16:29.760 --> 16:38.240
+Die hat nicht recht, weil, was weiß ich, nicht genügend neue Jobs, mit denen man auch, von denen man auch leben kann, einfach nachkommen.
+
+16:38.240 --> 16:39.920
+Dann entsteht ja ein Problem.
+
+16:39.920 --> 16:45.440
+Also du umreißt da in deinem Text oder gehst mal von zwei zentralen Problematiken aus.
+
+16:45.440 --> 16:54.800
+Die erste ist, dass das althergebrachte Formen der sozialen Kämpfe unterminiert.
+
+16:54.800 --> 17:00.280
+Also du hast da so einen Spruch, alle Räder stehen still, wenn dein starker Arm es will.
+
+17:00.280 --> 17:05.840
+Das ist anscheinend so ein alter Arbeiterspruch, der dann irgendwie offensichtlich nicht mehr so ganz funktioniert.
+
+17:05.840 --> 17:12.360
+Weil wenn, sagen meine Arbeitskraft, eigentlich letztlich vom Kapitalismus nicht mehr gebraucht wird als Mensch,
+
+17:12.400 --> 17:21.840
+dann verlier ich da auch das Druckmittel auf das Kapital, weil die einfach sagen können, ja, okay, wenn du halt nicht arbeiten willst, dann lass es halt.
+
+17:21.840 --> 17:28.560
+Wir haben halt genug Arbeitskräfte und Roboter, die das Zeug erledigen, was wir wollen, das erledigt wird.
+
+17:28.560 --> 17:30.080
+Das ist quasi der eine Punkt.
+
+17:30.080 --> 17:38.680
+Und auf der anderen Seite dann zeigst du aber auf, dass ja wiederum, wenn das verbunden ist damit, dass dann auch wirklich ein Einkommen wegfällt.
+
+17:38.720 --> 17:46.680
+Also dass die Leute, die quasi als Arbeitskräfte nicht mehr gebraucht werden, als bezahlte Arbeitskräfte, dass wenn die kein Geld verdienen,
+
+17:46.680 --> 17:53.520
+dass dann wiederum auch nicht genug Leute da sind, die das ganze Zeug kaufen, was da produziert wird.
+
+17:53.520 --> 17:55.680
+Also es hat diese beiden Seiten.
+
+17:55.680 --> 17:59.080
+Was bedeutet das?
+
+17:59.080 --> 18:06.280
+Ja, also ich würde meinen, also erst mal, es gibt ja Antworten auf diese Probleme, auf die werden wir bestimmt noch zu sprechen kommen.
+
+18:06.280 --> 18:14.640
+Aber also tatsächlich, ich glaube, einfach mal, um nochmal klar zu machen, wie bitter die ganze Schose sozusagen ist.
+
+18:14.640 --> 18:16.920
+Natürlich ist das einerseits ein systemisches Problem.
+
+18:16.920 --> 18:26.320
+Also man gerät natürlich sofort in der Unterkonsumtionskrise, wenn man immer produktivere Fabriken hat und immer weniger Leute, die Geld in der Tasche haben.
+
+18:26.320 --> 18:34.920
+Also da gibt es diese schöne Geschichte, jemand, ein Gewerkschaftsfunktionär wird durch eine Vorortfabrik geschickt und dann sagt das Management so ein bisschen suffisant.
+
+18:34.920 --> 18:40.640
+Na ja, Herr Gewerkschafter, wie kriegen Sie denn Ihre Roboter dazu, in die Gewerkschaft einzutreten?
+
+18:40.640 --> 18:45.000
+Und dann fragt der Gewerkschafter, na ja, wie kriegen Sie die Roboter dazu, ihre Kanen zu kaufen?
+
+18:45.000 --> 18:48.920
+Also das ist ja das Problem, das sich sozusagen systemisch stellt.
+
+18:48.920 --> 18:55.040
+Aber auch individuell ist es natürlich, wenn man kein Einkommen hat, es gibt ja diesen Spruch,
+
+18:55.040 --> 18:59.640
+das einzige, was schlimmer ist, als ausgebeutet zu werden im Kapitalismus ist, nicht ausgebeutet zu werden.
+
+18:59.640 --> 19:08.760
+Weil ich glaube, alle sind ja damit vertraut, was in unseren heutigen Gesellschaften es bedeutet, kein Geld zu haben und auf Unterstützung des Staates angewiesen zu werden.
+
+19:08.760 --> 19:12.760
+Genau, also das ist eine existenzielle Bedrohung und es wird als solche wahrgenommen.
+
+19:12.760 --> 19:17.960
+Und das ist auch kulturell eine starke Bedrohung in dem Sinne, dass dann den Leuten gesagt wird,
+
+19:17.960 --> 19:22.320
+okay, ihr seid anerkannt als Teil unserer Gesellschaft, weil ihr Arbeit beitragt.
+
+19:22.320 --> 19:27.800
+Also das ist ja auch ein Diskurs, der für die Gewerkschaften und die Arbeiterinnenbewegung extrem wichtig war, zu sagen, wir sind nicht irgendwer.
+
+19:27.840 --> 19:32.960
+Wir sind irgendwie die, die den Wert schaffen und so weiter und unsere Arbeit treibt diese Gesellschaft an.
+
+19:32.960 --> 19:40.120
+Und wenn man dann die Leute quasi zugerichtet hat, auf Lohnarbeiter zu sein und man nimmt das auf einmal weg,
+
+19:40.120 --> 19:47.840
+dann ist es natürlich auch kulturell und sozial für die eine riesen Bedrohung, alleine schon, dass das im Raum steht.
+
+19:47.840 --> 19:57.240
+Und die Frage ist, würde sich diese Bedrohung dann in regressives oder in kritisches Bewusstsein umsetzen bei den Leuten?
+
+19:58.240 --> 20:02.640
+Was die Schwächung von der Möglichkeit von Arbeitskämpfen anbelangt.
+
+20:02.640 --> 20:06.480
+Also da gibt es zum Beispiel ein ganz interessantes Phänomen, das nennt sich Jobless Recovery.
+
+20:06.480 --> 20:12.440
+Also man hat zum Beispiel einen krisenbedingten Wirtschaftseinbruch.
+
+20:12.440 --> 20:20.200
+Dann werden Arbeitskräfte entlassen und nach ein paar Jahren springt die Maschine wieder an und es läuft ein bisschen besser.
+
+20:20.200 --> 20:26.560
+Und dann kann man Phänomenen beobachten, und zwar, dass viele Unternehmen dann in neue Produktionstechniken investieren.
+
+20:26.560 --> 20:32.080
+Also die hätten jetzt die Wahl sozusagen weiterzumachen wie früher, was vielleicht auch gar nicht in jeder Hinsicht so wünschenswert wäre,
+
+20:32.080 --> 20:34.680
+die Leute wieder einzustellen und weiterzumachen.
+
+20:34.680 --> 20:40.240
+Aber oft wird dann die Gelegenheit genutzt, gerade im Aufschwung ist ihnen dann auch Kredite gut zu bekommen und so zu investieren.
+
+20:40.240 --> 20:45.560
+Und dann hat man den Umstand, dass es gar nicht so sehr ist, wie man sich das vielleicht vorstellt.
+
+20:45.560 --> 20:54.960
+Da kommt irgendwie ein Vertreter des Unternehmens und sagt, Leute, wir schaffen hier Roboter an für die Fertigung und die Hälfte von euch wird irgendwie auf die Straße gesetzt.
+
+20:54.960 --> 20:58.120
+Und dann sagt man, das geht aber nicht und dann wird irgendwie gestreift und so weiter.
+
+20:58.120 --> 21:00.560
+Sondern das sind viel subtilere Mechanismen mittlerweile.
+
+21:00.560 --> 21:10.520
+Also einerseits diese Leute, die im heutigen rechtlichen Rahmen völlig im Rahmen der Möglichkeiten entlassen werden, betriebsbedingt,
+
+21:10.520 --> 21:12.520
+dass die einfach nicht wieder eingestellt werden.
+
+21:12.520 --> 21:23.240
+Und man müsste dann sozusagen sagen, ihr dürft nicht in neue Technologien investieren, was ich auch einen komischen Anreiz fände irgendwie oder einen Steuerungsimpuls.
+
+21:23.280 --> 21:25.320
+Ihr müsst die Leute wieder einstellen, das ist so die eine Seite.
+
+21:25.320 --> 21:34.040
+Und ganz viel läuft da auch in dieser Transformation des Arbeitsmarktes darüber, dass so in Deutschland werden zum Beispiel zwischen Gewerkschaften und Unternehmensspitzen sehr oft so Zukunftspekte geschnürt.
+
+21:34.040 --> 21:36.520
+Und der Deal sieht dann ungefähr so aus.
+
+21:36.520 --> 21:46.200
+Wir lassen niemanden der bestehenden Belegschaft vielleicht bis auf die Leiharbeiter und so weiter, aber von der Kernbelegschaft, die gut gewerkschaftlich organisiert ist, da lassen wir niemanden zurück.
+
+21:46.200 --> 21:49.640
+Aber es werden einfach nicht so viele neue eingestellt.
+
+21:49.640 --> 21:58.760
+Also die Leute, die dann sozusagen von technologischer Arbeitslosigkeit betroffen sind, sind nicht die Leute, die da aus dem Betrieb geschmissen werden, sondern eher ein, zwei Generationen später.
+
+21:58.760 --> 22:04.880
+Vielleicht die Kinder von den Leuten, die da irgendwie in der Fertigung gearbeitet haben, die eben dann nicht in der Fertigung arbeiten können.
+
+22:04.880 --> 22:15.120
+Und das sind natürlich Herausforderungen für Arbeitskämpfe, weil wie artikulierst du irgendwie in Anführungszeichen das Recht zum Beispiel der Jugend auf Arbeitsplätze gegenüber Konzernen,
+
+22:15.120 --> 22:19.240
+die gar keine irgendwie arbeitsrechtliche Verbindung mit diesen Leuten haben.
+
+22:19.240 --> 22:28.360
+Und ich glaube, das ist einerseits für die Arbeiterinnenbewegung einfach, wie man scheint, könnte das eine große Herausforderung werden.
+
+22:28.360 --> 22:39.400
+Und es weist vielleicht in die Richtung, dass der Umgang mit technologischer Entwicklung immer mehr Gegenstand politischer Debatte werden muss.
+
+22:39.400 --> 22:45.960
+Also was die Leute ja in jedem Fall machen können, ist zu sagen, wir sind Staatsbürger, wir haben zumindest mal das Wahlrecht und so.
+
+22:45.960 --> 22:51.000
+Und jetzt artikulieren wir unsere Bedürfnisse und versuchen, die auch im öffentlichen Raum irgendwie vorzubringen.
+
+22:51.000 --> 23:02.840
+Und das wäre dann vielleicht was, dass man eher so in Richtung zum Beispiel danach fragt, hat jeder das Recht auf ein Auskommen, auch ohne Lohnarbeit, wenn es halt gar nicht genug Jobs gibt zum Beispiel.
+
+23:02.840 --> 23:06.440
+Also das wäre dann was, was man im politischen Raum artikulieren kann als Forderung.
+
+23:06.480 --> 23:09.640
+Damit meint sie jetzt dann das bedingungslose Grundeinkommen quasi?
+
+23:09.640 --> 23:12.240
+Genau, da gibt es ja verschiedene Formulierungen.
+
+23:12.240 --> 23:17.880
+Das bedingungslose Grundeinkommen ist so immer das erste, was einen in den Sinn kommt.
+
+23:17.880 --> 23:26.400
+Aus dem Gewerkschaftsflügel würde dann eher vielleicht darauf abgehoben, zu sagen, eine bedingungslose Grundsicherung, das heißt, Leute, die eh schon wohlhabend sind, die sollen dann schon vom eigenen Geld leben und so.
+
+23:26.400 --> 23:29.760
+Also wie sich das genau ausgestaltet, wäre dann die Frage.
+
+23:30.240 --> 23:37.920
+Also ich glaube, das zentrale Politikum wäre sozusagen, danach zu fragen, ob es eine teilweise Entkopplung von Lohnarbeit und Konsum geben könnte.
+
+23:37.920 --> 23:43.960
+Und das wäre auch bereits eine der möglichen Antworten natürlich auf diese Herausforderungen der Automatisierung.
+
+23:43.960 --> 23:52.960
+Aber es gibt auch andere, also die einfachste und eine, mit der ich mich relativ viel auch hinsichtlich der ökologischen Implikation befasst habe, sind Arbeitszeitverkürzungen.
+
+23:53.000 --> 23:55.760
+Und da ist der Gedanke ja auch naheliegend genug.
+
+23:55.760 --> 24:01.160
+Also wenn weniger Bedarf an Menschenarbeit da ist, dann kann man die halt einfach umverteilen.
+
+24:01.160 --> 24:09.520
+Also angenommen hätte man hätte den Zustand von Vollbeschäftigung bei 40 Stundenwoche, dann könnte man natürlich auch weiter Vollbeschäftigung bei 30 Stundenwoche haben und so weiter.
+
+24:09.520 --> 24:13.720
+Also eigentlich gibt es da ja Lösungen, die relativ naheliegend sind.
+
+24:13.720 --> 24:21.400
+Aber das hieß natürlich auch ein neues Arrangement, was zum Beispiel Lohnhöhe anbelangt.
+
+24:21.400 --> 24:24.760
+Und das muss man auch erst mal durchsetzen.
+
+24:24.760 --> 24:28.240
+Vielleicht. Also ich fände es wichtig, weil ich fand es ziemlich super in deinem Text.
+
+24:28.240 --> 24:35.160
+Können wir noch diese die Zweischneidigkeit dieser solcher Lösungsvorschläge herausarbeiten?
+
+24:35.160 --> 24:46.440
+Weil auf der einen Seite ist es so, dass es eben eine vielleicht sogar mehrheitsfähige, konkrete Lösung oder zumindest eine Übergangslösung,
+
+24:46.480 --> 24:59.320
+einen jetzt vielleicht funktionierenden Ansatz darstellen würde, wenn man sowas wie eben bedingungsloses Grundeinkommen oder eine 3-Tage-Woche oder 4-Tage-Woche einführt und so.
+
+24:59.320 --> 25:09.520
+Auf der anderen Seite, und das hast du jetzt gerade ja auch schon angesprochen, auf der anderen Seite bleibt man damit eigentlich in der systeminherenten Logik gefangen,
+
+25:09.600 --> 25:14.680
+auf eine Art und Weise, oder? Sowohl was die Identifikation mit der Arbeit angeht,
+
+25:14.680 --> 25:25.840
+wobei es da natürlich schon ein bisschen, sagen, aufgelöst werden würde, als auch in Bezug auf, dass man natürlich in diesem Prinzip der Warenförmigkeit eigentlich drin bleibt.
+
+25:25.840 --> 25:36.680
+Kannst du uns das vielleicht kurz ein bisschen genauer erklären, was da vielleicht dann auch die Fallstricke solcher Lösungsansätze sein könnten?
+
+25:36.840 --> 25:46.680
+Also, Fallstricke kann es natürlich verschiedene geben. Also alleine schon in der Hinsicht, nehmen wir jetzt mal statt der Arbeitszeitverkürzung des bedingungslosen Grundeinkommens als Beispiel,
+
+25:46.680 --> 25:55.960
+alleine schon eine der Fallstricke wäre zum Beispiel, wie finanziert sich das? Also da gibt es ja sehr verschiedene Konzepte von Umverteilung über einfach extrem hohe Mehrwertsteuer,
+
+25:55.960 --> 26:04.760
+die natürlich untere Einkommensgruppen besonders belasten. Also da fängt es schon an. Dann gibt es gerade aus dem gewerkschaftlichen Lager starke Vorbehalte in dem Sinne,
+
+26:04.880 --> 26:16.200
+dass man sagt, naja, am Ende ist dann das BGI zu niedrig. Man wickelt den ganzen Sozialstaat sonst ab. Und dann ist es so, dass man im Prinzip einfach nur schlechtere soziale Standards hat,
+
+26:16.200 --> 26:22.920
+zum Beispiel für Leute mit Behinderungen oder so, weil solche Sachen dann teilweise gestrichen werden sollen bei manchen dieser Konzepte.
+
+26:22.920 --> 26:30.800
+Und man dann am Ende auch einfach nur für die Arbeiterschaft einen Kombilohn für alle hat. Also dass man halt, dass die Unternehmen dann sagen, naja, ihr kriegt ja irgendwie 600 Euro vom Staat,
+
+26:30.880 --> 26:40.080
+dann könnt ihr euch auch ein bisschen weniger Lohn leisten und so. Also da gibt es verschiedenste Fallstricke. Jetzt diese Ebene, die du angesprochen hast, mit man kommt ja gar nicht aus der Warnförmigkeit raus.
+
+26:40.080 --> 26:52.520
+Also einerseits klingt das bedingungslose Grundeinkommen extrem radikal. Und ich würde auch sagen, in gewisser Weise ist es das, weil eine kapitalistische Ökonomie zeichnet sich aus,
+
+26:52.720 --> 26:59.640
+durch eine strukturelle Machtasymmetrie zwischen denen, die ihre Arbeitskraft verkaufen müssen für Lohn und denen, die die kaufen.
+
+26:59.640 --> 27:07.160
+In der Hinsicht, das war beide irgendwie freie Vertragspartner, also die geben den Arbeitsvertrag freiwillig ein. Das ist ja nicht Leibeigenschaft oder irgend so ein Kram.
+
+27:07.160 --> 27:12.520
+Aber es ist halt schon so, die, die halt kein Geld haben, sind dazu gezwungen, sich Arbeit zu suchen.
+
+27:12.520 --> 27:24.680
+Und da klingt es natürlich, wenn BGE von ausreichender Größe einführbar wäre, klingt es natürlich und ist auch extrem radikal, weil diese strukturelle Machtasymmetrie aufgehoben wäre.
+
+27:24.680 --> 27:34.280
+Und da ranken sich dann auch jede Menge Hoffnungen drum. Also so schöne neue Arbeitswelt, wo sich dann die Unternehmen um die Arbeiten entschlagen und nicht andersrum.
+
+27:35.240 --> 27:44.720
+Also so, auf der Ebene. Wenn man jetzt einen sehr radikalen Anspruch vertritt und sagt, nein, wir wollen eine grundlegend andere Gesellschaft,
+
+27:44.720 --> 27:48.280
+dann muss man sich vielleicht auch überlegen, was zeichnet eine kapitalistische Gesellschaft aus?
+
+27:48.280 --> 27:58.520
+Wir hatten jetzt schon dieses z.B. Vernutzung von Lohnarbeit und so weiter, Kapitalakkumulation und so, aber z.B. in der Frankfurter Schule wird immer so schön vom Tauschprinzip gesprochen.
+
+27:58.520 --> 28:09.360
+Also das wäre quasi das Pudelskern der kapitalistischen Produktionsweise. Und da muss man natürlich sagen, naja, also man kann sich sogar eine Allianz vorstellen,
+
+28:09.360 --> 28:16.040
+ein Stück weit mit Bossen aus der Industrie, die einfach Angst haben, dass sie in eine Unterkonsumtionskrise rutschen.
+
+28:16.040 --> 28:19.800
+Die Nachfrage muss gestützt werden und dann gibt man halt allen Geld in die Hand.
+
+28:19.800 --> 28:28.680
+Und das ist jetzt in der Hinsicht kein notwendigerweise über den gegenwärtigen gesellschaftlichen Holzhond hinausweisende Forderung.
+
+28:28.680 --> 28:38.280
+Mir scheint es aber schon auch so, dass viele Leute, die sich aus BGI beziehen, das schon eingebettet sehen wollen in eine postkapitalistische Transformationsperspektive.
+
+28:38.280 --> 28:44.680
+Aber das ist halt auch wieder eine Frage politischer Schwerpunktsetzung und Auseinandersetzung sozusagen.
+
+28:44.680 --> 28:52.680
+Also erstmal ist der Umstand, dass man nur, ich glaube da muss man schon große Anführungszeichen an das nur setzen, den Leuten Geld in die Hand drückt,
+
+28:52.680 --> 28:57.000
+ohne dass sie irgendwie was machen müssen, ist jetzt noch kein radikaler Bruch mit dem Marktsystem.
+
+28:57.000 --> 29:00.680
+Im Gegenteil, man sorgt halt dafür, dass die Nachfrage stabilisiert wird.
+
+29:00.680 --> 29:10.880
+Und auch weiter ist es dann z.B. so als einfaches Beispiel, man könnte sich ja dann, um mal was rauszugreifen, es gibt ja eine große Debatte auch über,
+
+29:10.880 --> 29:19.760
+wenn ein bedingungsloses Kundeinkommen auf Englisch Universal Basic Income heißt, Universal Basic Services, also wo es dann darum geht, öffentliche Daseinsvorsorge.
+
+29:19.760 --> 29:30.880
+Und da kann man dann, finde ich, aus sinnvoller Weise in vielen Bereichen einen Ansatz vertreten, eigentlich wäre es wünschenswerter als ein BGE wäre ein Push in Richtung Dekommodifizierung.
+
+29:30.880 --> 29:40.040
+Also z.B. statt dass man jetzt irgendwie sagt, jeder kriegt irgendwie im Monat, keine Ahnung, 30, 40 Euro in die Hand gedrückt, umgerechnet für Mobilität
+
+29:40.040 --> 29:48.520
+und kann dann selbst entscheiden, ja, also teilweise finanziere ich dann davon ein Auto und tankt Benzin oder Diesel und so weiter.
+
+29:48.520 --> 29:56.000
+Oder man könnte vergleichbares Geld vielleicht sogar weniger in die Hand nehmen als Gesellschaft und sagen, naja, wir machen kostenfreie ÖPNV irgendwie.
+
+29:56.000 --> 30:01.640
+Und da drücken sich natürlich dann verschiedene normative Prioritäten aus.
+
+30:01.640 --> 30:13.920
+Und die Frage ist halt, ob man zum Beispiel weiter auf das Tauschprinzip und Konsumentscheidungen setzen möchte oder ob man nicht vielleicht eher Strukturpolitik anders betreiben möchte.
+
+30:13.920 --> 30:17.920
+Was würde das dann auf der Makroebene in weiterer Folge nach sich ziehen?
+
+30:17.920 --> 30:20.960
+Weil auf eine Art, finde ich, klingt das ja wie so ein Mehrstufenplan.
+
+30:20.960 --> 30:27.480
+Also man könnte sagen, es gibt sagen am Anfang erst mal kostenlose Infrastrukturen für alle.
+
+30:27.480 --> 30:36.840
+Das ist ein erster Schritt und als nächstes dann eben vielleicht zusätzlich noch ein bedingungsloses Grundeinkommen,
+
+30:36.840 --> 30:44.400
+das aber nicht daran gekoppelt ist, dass dann alle anderen Sozialleistungen gekillt werden, sondern die gibt es sozusagen dann weiterhin.
+
+30:44.400 --> 30:52.120
+Und dann ist aber quasi die Frage, was wäre die Potenzialität für etwas danach?
+
+30:52.160 --> 31:04.520
+Also könnte es vielleicht sowas geben wie wie eine wie eine gemeinschaftliche Teilhabe am an den Produktionsgütern zum Beispiel.
+
+31:04.520 --> 31:11.520
+Ja, also dass man jetzt sagt, ok, das ist nicht irgendwie so ein staatliches Almosen, was man irgendwie monatlich bekommt,
+
+31:11.520 --> 31:17.120
+was dann ja vielleicht auch wieder mit der nächsten Regierung dann abgeschafft werden kann oder so was,
+
+31:17.120 --> 31:24.720
+sondern man schaut, dass jeder Mensch eben hoffentlich dann auch nicht nur jeder Staatsbürger eines Nationalstaates,
+
+31:24.720 --> 31:35.920
+sondern jeder Mensch an sich sozusagen Teil hat am allgemeinen Reichtum und zwar auch als ein Recht.
+
+31:35.920 --> 31:39.800
+Also das wäre quasi dann eine Perspektive, die deutlich weiter reichen würde.
+
+31:39.800 --> 31:43.360
+Gibt es da Ansätze, die in diese Richtung gehen?
+
+31:43.360 --> 31:52.360
+Ja, und die Debatte scheint auch extrem wichtig, weil eben was du erwähnst, man könnte wohlmeinend von der Regierung BGE einführen,
+
+31:52.360 --> 31:57.560
+man könnte vielleicht sogar einen Verfassungsrang beheben und dann passiert einem auf einmal sowas wie,
+
+31:57.560 --> 32:01.440
+dass die nächste Regierung einfach die Sätze nicht anhebt und die Inflation entwertet das Ding oder so.
+
+32:01.440 --> 32:11.760
+Also da gibt es ja so verschiedenste Kings, die quasi auftreten können und wo man schon einiges, also wo man echt härter drüber nachdenken müsste.
+
+32:11.760 --> 32:21.040
+Vor allem finde ich aber, über eine Debatte hinauszugehen, wo es vor allem um Umverteilung geht, scheint mir schon wichtig.
+
+32:21.040 --> 32:25.480
+Also ich glaube, das sind auch Aspekte, die spielen auch bei vielen Leuten bei so einem BGE auch eine gewisse Rolle.
+
+32:25.480 --> 32:30.040
+Also da wird dann immer gesagt, zum Beispiel sowas wie ein BGE könnte auch eine Demokratiepauschale sein.
+
+32:30.040 --> 32:34.840
+Also dann können die Leute sich leisten, ein bisschen weniger zu arbeiten, können mehr am öffentlichen Leben teilnehmen und so.
+
+32:34.840 --> 32:38.760
+Also da gibt es ja schon so Momente, die so ein bisschen drüber rausweisen.
+
+32:38.800 --> 32:42.160
+Es gibt aber auch einfach Debatten, die sind ein bisschen anders gelagert.
+
+32:42.160 --> 32:50.360
+Also in Großviertangeln gab es zum Beispiel einen schönen Report aus dem Umfeld der Labour Party zu Alternative Modes of Ownership.
+
+32:50.360 --> 32:52.160
+Das ist jetzt auch keine ganz neue Debatte.
+
+32:52.160 --> 33:01.720
+Also da im Deutschen wird die vielleicht geführt unter eine alternative Genossenschaftsbewegung und so weiter war das schon immer groß.
+
+33:01.720 --> 33:03.960
+Und auf der anderen Seite eben die Wirtschaftsdemokratie Bewegung.
+
+33:03.960 --> 33:13.640
+Und da geht dann, da geht man eben darüber hinaus, zu sagen einfach nur, naja, alles läuft, wie es läuft und am Ende nimmt man dann nochmal Geld und verteilt es anders.
+
+33:13.640 --> 33:27.400
+Sondern man fragt sich auch wirklich so, wie kann man denn dauerhaft implementieren, dass eigentlich der gesellschaftliche Reichtum eben ein solcher ist, nämlich gesellschaftlicher, also gemeinsamer.
+
+33:27.400 --> 33:33.000
+Und einer der Vorschläge, der da zum Beispiel im Raum steht, sind sogenannte Social Wealth Funds.
+
+33:33.000 --> 33:39.440
+Also es gibt ja bereits sehr große staatsgetragene Fonds, also in arabischen Emiraten zum Beispiel.
+
+33:39.440 --> 33:52.880
+Aber ich glaube, wo viele Leute dran denken würden, wäre der norwegische Staatsfonds, der extrem groß ist und der sich speist aus dem Einkommen, aus der Ölförderung.
+
+33:52.880 --> 34:03.160
+Und eine der Ideen ist dann sozusagen zu sagen, naja Leute, lasst doch sowas machen, wie einen Staatsverein zu richten und der schüttet dann eine universelle Dividende an alle Menschen aus in dem Land.
+
+34:03.160 --> 34:12.640
+Und also wer jetzt genau die Zielgruppen sind, also ich würde hoffen möglichst inklusiv, wahrscheinlich wäre das dann leider erstmal eine Staatsbürgerschaft geknüpft.
+
+34:13.480 --> 34:22.440
+Und das ist so der erste Schritt, dass man einfach sagt, okay, man organisiert irgendwie quasi, dass jeder an den Dividenden dieser Gesellschaft teil hat.
+
+34:22.440 --> 34:29.080
+Der nächste Schritt, der dann nochmal radikaler ist, ist zu sagen, okay, vielleicht können wir das ja auch verbinden mit wirklich einem aktiven Demokratisierungsprojekt.
+
+34:29.080 --> 34:39.960
+Und zwar in dem Sinne, dass man zum Beispiel bei Börsen dotierten Unternehmen sagt, jedes Jahr müssen so und so viele Prozente abgetreten werden an Aktien.
+
+34:40.000 --> 34:44.640
+Oder zum Beispiel bei jeder Erstausschüttung von Aktien muss ein gewisser Teil in diesen Fonds gehen.
+
+34:44.640 --> 34:52.440
+Und dann hätte man auch immer mehr gesellschaftliche Mitspracherechte über diesen Anteil an den Unternehmen und könnte sich auch vorstellen,
+
+34:52.440 --> 34:59.120
+okay, vielleicht kommt man dann auch irgendwann in eine Richtung, wo man wirklich auch die Wirtschaft demokratisiert hat.
+
+34:59.120 --> 35:06.600
+Es ist ja eigentlich irre, dass ein Bereich des gesellschaftlichen Lebens, der so extrem wichtig ist, dass sich da eigentlich demokratische Mitbestimmung im Wesentlichen darauf beschränkt,
+
+35:06.600 --> 35:13.400
+dass man entweder, wenn man Glück hat, einen Betriebsrat hat, der sich irgendwie über Krankmeldungen und so kümmert, was eine sehr wichtige Institution ist.
+
+35:13.400 --> 35:18.600
+Aber dann doch halt recht begrenzt, wenn es jetzt um Politik geht oft.
+
+35:18.600 --> 35:23.960
+Also zumindest in Deutschland habe ich den Eindruck und dann halt teilweise Policy-Entscheidungen aus der Politik,
+
+35:23.960 --> 35:29.560
+wo das aber immer so als Übergriff der Politik auf die Wirtschaft, die eigentlich in Ruhe gelassen werden soll, vielen erscheint.
+
+35:29.560 --> 35:34.320
+In Wahrheit wäre doch die Frage, wir arbeiten da alle und bringen da irgendwie ein Drittel unseres Tages zu der Zeit.
+
+35:34.320 --> 35:36.040
+Warum können wir da nicht mitbestimmen?
+
+35:36.040 --> 35:43.760
+Und dann, da gibt es ja dann auch Konzepte, also eben zum Beispiel das Genossenschaftswesen, wo gesagt wird, okay, man kann doch auch demokratische Unternehmensformen haben.
+
+35:45.760 --> 35:53.600
+Und das bliebe aber dann, sagen, eigentlich an sich noch eingebettet in ein Marktsystem, in ein kapitalistisches Marktsystem, oder?
+
+35:54.720 --> 36:03.480
+Ja, also es wird dann gerne so verkauft, dass man sagt, also das Schöne daran ist, man kann damit schon mal anfangen, sozusagen.
+
+36:04.120 --> 36:11.280
+Und ich finde, also ich finde unbedingt die Debatte wichtig zu sagen, okay, wie kann man das Ganze radikal irgendwie transcendieren?
+
+36:11.280 --> 36:15.640
+Auch darauf kommen wir sicherlich noch zu sprechen, da stehen ja ein paar Vorschläge im Raum.
+
+36:15.640 --> 36:28.280
+Aber ich muss schon sagen, vieles an dieser Postkapitalismus-Debatte scheint schon erstmal wie Dinge, die jetzt einfach Reformvorschläge im Bestehen sind.
+
+36:28.280 --> 36:37.560
+Und ich würde dann auch sagen, die halten ihren wirklichen Sinn erst eben dadurch, dass man sich fragt, okay, in was für ein Projekt gesellschaftlicher Transformation ist das eingebettet?
+
+36:38.360 --> 36:46.760
+Und also ich meine, zum Glück, würde ich sagen, haben wir in Europa mehr oder weniger gut funktionierende Demokratien.
+
+36:46.760 --> 36:56.160
+Und vor diesem Hintergrund scheint auch diese in Teilen der Linken vorherrschende klassische Vorstellung, und dann gibt es einmal einen radikalen Bruch, so Revolutionen, und dann wird alles ganz neu gemacht und so.
+
+36:56.480 --> 37:05.680
+Ich weiß gar nicht, also ich weiß noch nicht mal, ob die normative Wünschtenswerte beiseite lassen, ob das überhaupt strategisch so klug ist.
+
+37:05.680 --> 37:17.240
+Also die Frage wäre ja schon, solange man zum Glück demokratisch gewählt Regierung hat und die autoritäre Rechte sich nicht völlig durchgesetzt hat und irre gedreht ist, was kann man da machen?
+
+37:17.440 --> 37:29.760
+Und da finde ich dann solche Debatten über Alternative Modes of Ownership im Umfeld der Labour Party erst mal zu begrüßen, auch wenn es vielleicht nur radikale Sozialdemokratie ist, sozusagen.
+
+37:29.760 --> 37:44.640
+Dann wenden wir uns doch dem auch gleich mal zu. Was gibt es denn jeseits der radikalen Sozialdemokratie für Konzepte, die versuchen eben zum Beispiel eine Warenförmigkeit, die Prägung unserer Gesellschaft durch das Warenprinzip zu transcendieren?
+
+37:45.040 --> 37:54.560
+Ja, also erst mal vorausschickend, die Debatte könnte größer sein und sollte wohl auch größer sein.
+
+37:54.560 --> 38:05.800
+Und dann ist die natürlich auch ziemlich komplex, weil natürlich, also einerseits haben wir jetzt Jahrzehnte der Propaganda der Marktwürste schon richten, die sich mittlerweile doch einigermaßen blamiert hat, wie mir scheint.
+
+38:05.800 --> 38:17.000
+Hinter uns ist es erst mal gar nicht so einfach, überhaupt Alternativen zu denken, selbst innerhalb von Leuten in Kreisen, die eigentlich das ganz gerne tun würden.
+
+38:17.000 --> 38:29.080
+Und da muss man ja schon sagen, Märkte haben auch gewisse Vorteile, was Informationsbildung und Koordinationsleistung usw. anbelangt.
+
+38:29.640 --> 38:37.720
+Es gibt allerdings derzeit wieder eine Debatte, die so etwas auflebt, die daran ansetzt, was eh schon da ist.
+
+38:37.720 --> 38:50.280
+Und zwar die enormen Koordinationsleistungen, die ja bereits innerhalb der kapitalistischen Produktionsweise stattfinden, aber innerhalb von sehr großen Konzernen dann teilweise aber nicht marktförmig fungieren.
+
+38:50.280 --> 39:03.320
+Also im Gegenteil, teilweise wurde dann versucht, weil Leute diese liberale Ideologie aufgesaugt hatten und auch wirklich geglaubt haben, dass sie dann irgendwie marktförmige Mechanismen zur Koordination innerhalb des selben Unternehmens eingeführt haben.
+
+39:03.320 --> 39:05.080
+Und das ist teilweise krachend gescheitert.
+
+39:05.080 --> 39:11.640
+Und da gibt es schon Momente, wo man sagen muss, da gibt es extreme Formen von Planung.
+
+39:11.640 --> 39:18.120
+Also das fängt da an, dass man sich irgendwie überlegt, okay, was für Autos werden wir in den nächsten 10, 20 Jahren vermutlich verkaufen können?
+
+39:18.600 --> 39:22.520
+Weil solche Innovationszyklen sind ja auch nicht ganz kurz und vor allem die Einrichtung der Fabriken.
+
+39:22.520 --> 39:26.920
+Also die Fabriken stehen dann erst mal eine Weile lang so da und es ist sehr teuer, die umzubauen.
+
+39:26.920 --> 39:37.080
+Und es gibt zum Beispiel eine jüngere Publikation, The People's Republic of One Mart, wo einfach darauf reflektiert wird, meine Güte, was finden da eigentlich an Planungsprozessen statt?
+
+39:37.080 --> 39:54.360
+Und wäre nicht vielleicht eigentlich eine rational geplante Wirtschaft eine viel vernünftige Rangehensweise gerade angesichts der großen Herausforderungen, die die Menschheit irgendwie gerade faced, also zum Beispiel den Klimawandel und so weiter.
+
+39:54.360 --> 40:02.840
+Historisch muss ich sagen, diese Planungsdebatten hatten natürlich lange den Nachteil, dass sie von so einem sehr großen Zentralismus geprägt waren.
+
+40:03.480 --> 40:08.040
+Und man zu Recht dann sagen kann, naja, wie vereinbar ist das mit Demokratie?
+
+40:08.040 --> 40:14.840
+Und ich würde hoffen, dass ein progressives Zukunftsprojekt natürlich also radikale Demokratie im Kern hat.
+
+40:14.840 --> 40:26.840
+Aber auch da gibt es mittlerweile Vorschläge, also dass man zum Beispiel kybernetische Planungstools verwenden könnte, um verschiedene Szenarien zu entwickeln und diese Szenarien dann zur demokratischen Debatte stellen.
+
+40:27.480 --> 40:34.280
+Und das scheint mir schon ein Ansatz, der gar nicht so schlecht ist und der weiß dann auch zum Teil eben über diese Warnförmigkeit hinaus.
+
+40:34.280 --> 40:55.080
+Ich glaube, der Ansatz, der relativ pragmatisch ist, dennoch ist trotzdem dieser einfach der öffentlichen Daseinsversorgung, dass man einfach versucht, nach und nach immer mehr Lebensbereiche zu dekommodifizieren und einfach sowas wie Wohnraum zuverlässig zur Verfügung zu stellen und preiswert, öffentlichen Nahverkehr, Energieversorgung, solche Sachen.
+
+40:55.080 --> 40:59.800
+Aber auch dieser Teile, also ich bin sehr froh, dass diese Debatte geführt wird mittlerweile.
+
+41:00.760 --> 41:18.680
+Was ich ja spannend finde an dieser Debatte rund um die, sagen wir mal, Socialist Calculation Debate 2.0, also unter anderem eben in diesem Buch, was du genannt hast, People's Republic of Walmart oder auch in einem neuen Text, relativ neuen Text von diesem Jahr mit dem Titel Digital Socialism von Evgeny Morozov.
+
+41:19.640 --> 41:44.760
+Was ich da interessant finde, ist ja, dass sie, dass sie eigentlich am Kern der Marktargumentationslogik ansetzen, nämlich bei der Effizienz, dass sie sagen, okay, hey, hier gibt es jetzt auf technologischer Basis dann eigentlich Möglichkeiten, die euch auf eurem quasi auf eurem Feld übertreffen, nämlich dieser behaupteten Effizienz des Marktes.
+
+41:44.760 --> 41:56.760
+Ja, und dass dann und dass das sogar dann noch dann argumentativ dargelegt wird anhand von durch und durch kapitalistischen Unternehmungen wie Walmart oder Amazon oder so.
+
+41:57.480 --> 41:59.640
+Also das ist durchaus durchaus sehr spannend.
+
+41:59.840 --> 42:03.760
+Die Frage ist eben, was für einen Gestaltungsspielraum sich daraus dann ergibt.
+
+42:03.760 --> 42:27.160
+Also wenn man dem jetzt folgt und sagt, aha, okay, dann der Markt, er hat also selbst wenn man quasi pro Markt ist, ja, und aber offen für Argumente oder sagen da auch drüber nachdenken würde, dass es vielleicht auch anders ginge, selbst wenn man dann sagt, aha, okay, es gibt jetzt da eine technologisch basierte Alternative, die nennt man Planwirtschaft oder auch nicht, ja, wir haben das dann irgendwie tituliert wird oder so was.
+
+42:28.120 --> 42:38.720
+Es gibt jetzt eine Alternative, aber was für gesellschaftliche Möglichkeiten ergeben sich da dann konkret daraus?
+
+42:38.720 --> 42:43.640
+Also welchen neuen Spielraum, welchen neuen Gestaltungsspielraum eröffnet uns das?
+
+42:44.240 --> 43:05.360
+Also heißt das dann eigentlich vor allem, dass wir, dass diese Argumentationslinie wegfällt von wegen, ja, wir müssen das jetzt machen, da ist no Alternative, das Tina Prinzip, wir müssen das jetzt machen, was das ist, Sozialkürzungen oder wie auch immer, wir müssen das machen, weil der Markt, er will es so, ja, das ist ja irgendwie so ein bisschen die Argumentationslinie.
+
+43:05.360 --> 43:35.280
+Heißt das vor allem, dass das wegfällt oder sagen, was, was macht das auf, ist quasi die Frage eigentlich, ja, also mir fällt jetzt spontan ein, es gibt diesen Autor Aaron Bastani, der hat ein Manifest geschrieben von einer ganzen Weile und jetzt dann eben auch ein Buch rausgebracht, das trägt den Titel Fully Automated Luxury Communism, womit er irgendwie so eine catchy Phrase quasi ein Bild einem mal hinwirft, ja.
+
+43:35.560 --> 43:44.560
+Von einer möglichen Zukunft, die wirklich auch eine ganz andere politische Ökonomie verfolgt sozusagen, ja, kennst du das zufällig?
+
+43:45.280 --> 43:47.600
+Ja, also ich kenne auf jeden Fall die Debatte.
+
+43:47.800 --> 43:55.520
+Ich würde vielleicht auf deine Frage kurz so eingehen, dass ich erst mal ein bisschen kritel und dann hoffe dann auf trotzdem darauf wiederzukommen.
+
+43:55.960 --> 44:14.000
+Was ich erst mal schon noch wichtig wäre, mir zu betonen ist, dass ich also, dass ich diese Debatte extrem interessant finde, mit dieser Socialist Calculation Debate und extrem wichtig, teilweise, also wenn die popularisiert wird, dann scheinen wir aber dann teilweise schon so ein bisschen ein paar Kurzschlüsse drin zu sitzen.
+
+44:14.000 --> 44:35.000
+Also ich fühle mich so ein bisschen erinnert an die Debatten der Sozialdemokratie im deutschen Kaiserreich, ist jetzt nichts, was man so alltäglich liest, aber da war ein Riesenthema die Konzentrationstendenzen des Kapitals, also das immer mehr, kann man beim Bauernhof ganz gut zeigen, ja, immer mehr kleine Gehöfte gehen unter und es entstehen immer größere, die immer mehr Hektar unter sich haben und so.
+
+44:35.000 --> 44:41.000
+Das war dann zum Beispiel so ein empirisches, empirischer Hinweis, oder man kann sich auch anschauen, wie viele Leute arbeiten in der Fabrik und so weiter.
+
+44:41.000 --> 44:59.000
+Und da wurde dann damals gesagt, ja, es gibt diese Konzentrationsendenzen voll geil, alles was wir noch machen müssen ist eigentlich ein bisschen warten und am Ende haben wir eh nur noch, keine Ahnung, acht Großkonzerne im deutschen Reich oder so und die kann man ja, da muss man ja nur noch den Führungsstab auszutauschen und dann haben wir unsere Planwirtschaft oder wie auch immer.
+
+44:59.000 --> 45:04.000
+Planwirtschaft ist zu Recht so ein bisschen verfilmter Begriff, aber das war die Idee.
+
+45:04.000 --> 45:12.000
+Also es wurde sozusagen ein Einzelaspekt der Kapitalistenwirtschaft beobachtet, gesagt aha und was kann man jetzt damit anfangen?
+
+45:12.000 --> 45:25.000
+Und ich finde die Debatte nicht völlig irrational, aber da muss man sich schon noch vor Augen führen, glaube ich, dass da natürlich zum Beispiel in diesen Unternehmen jetzt Planungsprozesse stattfinden.
+
+45:25.000 --> 45:33.000
+Aber die Frage ist dann, und das schiebt auf diesen Moment ab, dass du auch erwähnt hast, was wird denn da möglich und welche Freiheit und so.
+
+45:33.000 --> 45:53.000
+Also auch die Walmart-Bosse können nicht einfach sagen, naja, hey, wir wollen jetzt eine bestmögliche Bedürfnisverfiedigung organisieren, sondern die haben sich für diese Modus der Planung entschieden, weil da das Ziel sich auf dem kapitalistischen Markt zu behaupten bestmöglich irgendwie befriedigt.
+
+45:53.000 --> 46:01.000
+Und das hat natürlich auch einen Einfluss auf diese Art Planung zu betreiben sozusagen.
+
+46:01.000 --> 46:09.000
+Und ich glaube, man verrennt sich ein bisschen, wenn man denkt, diese Planung wäre schon die Planung, die man sich vielleicht für eine vernünftige Gesellschaft erhofft.
+
+46:09.000 --> 46:15.000
+Weil da würde ich dann sagen, da wäre das zentrale Moment eigentlich eben eine Demokratisierung.
+
+46:15.000 --> 46:19.000
+Und Demokratie ist eben nicht die Basis dieser Planung innerhalb von Walmart.
+
+46:19.000 --> 46:29.000
+Wenn die jetzt demokratisch entscheiden würden, wir wollen alle ganz lieb sein und unsere Arbeit total gut bezahlen und so weiter und würden irgendwelche normativen Orientierung da einbringen, dann würden sie halt im Zweifel pleitegehen sozusagen.
+
+46:29.000 --> 46:37.000
+Und deswegen glaube ich auch, also man darf da wie in dieser Kapitalkonzentrationsdebatte nicht einfach hoffen, man kriegt die fertigen Lösungen so oder so geliefert.
+
+46:37.000 --> 46:40.000
+Aber es sind sehr wichtige und interessante Ansatzpunkte sozusagen.
+
+46:40.000 --> 46:47.000
+Und mein Punkt wäre aber dann trotzdem, im Zentrum müsste dann weiter bei so einem Transformationsprojekt stehen, wie kann man das alles demokratisch organisieren?
+
+46:48.000 --> 46:50.000
+Genau.
+
+46:50.000 --> 46:52.000
+Sehr interessant. Darf ich da kurz Zwischenfragen?
+
+46:52.000 --> 47:15.000
+Weil das ist sehr interessant, ganz wichtig, dass du das jetzt sagst, weil auf eine Art, das ja fast schon ein bisschen das Argument auch implodieren lässt, weil dann ja eigentlich man feststellen muss, dass die Logik innerhalb von Walmart oder Amazon oder sowas eben, wie du sagst, nach der das getrieben ist,
+
+47:15.000 --> 47:29.000
+ja schon immer eine ist, die sagen, die dieser, sagen wir mal diesen Ausbeutungscharakter und den Effizienzcharakter miteinander koppeln auf eine Art und Weise, oder?
+
+47:29.000 --> 47:30.000
+Genau.
+
+47:30.000 --> 47:37.000
+Und das dann eigentlich man, da gibt es irgendeine Redewendung für, dass man die Katze im Sack kauft oder irgendwie sowas?
+
+47:37.000 --> 47:38.000
+Ja.
+
+47:38.000 --> 47:55.000
+Also das eigentlichste, was man sich ja wünschen wollen würde, wäre, dass auch wirtschaftliches Handeln eben nach anderen Kriterien abläuft, dass es einfach grundsätzlich andere Werte gibt, nach denen das organisiert ist sozusagen.
+
+47:55.000 --> 48:10.000
+Genau. Also und ich glaube eben genau, also die Einrichtung vernünftiger gesellschaftlicher Verhältnisse kann man sich nicht, und das wird ja auch zum Glück meistens nicht getan, einfach auch hoffen von irgendwie, jetzt haben die da dieses coole Planungstool und wenn SAP jetzt noch irgendwie die nächste Version launcht, dann haben wir alles.
+
+48:10.000 --> 48:26.000
+Also so glaube ich läuft es halt dann doch nicht, aber wir kommen sicherlich noch auf die, vor die Automatik Lachschildkommunism und alternative Zukunft und so weiter, weil das ist ja wirklich ein wichtiges Thema, aber wenn ich da ganz kurz einen Detour machen darf noch.
+
+48:26.000 --> 48:27.000
+Bitte.
+
+48:27.000 --> 48:39.000
+Also in der Technikphilosophie wird häufig unterschieden zwischen drei verschiedenen Rangehensweisen an Technik. Das eine wäre eine substanzielle Techniktheorie, wo man wirklich sagt, dem Wesen der Technik und der Technik,
+
+48:39.000 --> 48:52.000
+also was auch immer das ist, sind die und die Tendenzen zum Beispiel in Richtung Quantifizierung oder so inhärent. Und da kann man auch nichts machen, also so der prominentste Vertreter, auch wenn ich eigentlich gar nicht nennen werde, wäre zum Beispiel Heiliger,
+
+48:52.000 --> 49:06.000
+dann kommen dann so Sachen wie nur Gott kann uns retten und so. Also das aus meiner Sicht hilft überhaupt nicht, um irgendwie sich zu überlegen, wie macht man denn ordentliche Technikpolitik und wie kommt man als Gesellschaft irgendwie voran, sondern das ist halt gejammer irgendwie.
+
+49:06.000 --> 49:17.000
+Und dann gibt es viel verbreiteter, glaube ich, noch instrumentelle Techniktheorien, und die sind halt ungefähr so, naja, mit einem Hammer kann man halt schön Nägel in die Wand hauen oder jemanden umbringen, ist ja der Hammer nicht schuld.
+
+49:17.000 --> 49:31.000
+Und beides ist, glaube ich, problematisch. Also du hattest ja jetzt darauf hingewiesen, vielleicht kann man sich nicht an diesen Modus der Planung ohne Weiteres aneignen, weil da auch bestimmte normative Momente sich quasi kristallisiert haben.
+
+49:31.000 --> 49:48.000
+Und ich glaube, das ist auch wirklich so. Also gewisse Orientierung werden in technischen Artefakten vergegenständigt. Und dann wäre da ein einfacher liegender Gegenschluss zu sagen, naja, offensichtlich dann ist es nicht die Rettung, weil alle Technik, die wir haben, ist ja irgendwie innerhalb des Kapitalismus entwickelt.
+
+49:48.000 --> 50:02.000
+Also da gibt es ja auch historische Beispiele, also zum Beispiel die Idee, man nimmt eine Fabrik, die eingerichtet ist wie im Ford-Konzern in den 40er, 50er Jahren und geht dann in so ein nominalsozialistisches Land und sagt, wir bauen dieselbe Fabrik auf.
+
+50:02.000 --> 50:10.000
+Und alles, was am Kapitalismus schlecht ist, ist ja eh die Zirkulationssphäre. Und wie wir produzieren, das ist ja im Kapitalismus schon alles so effizient und rational.
+
+50:11.000 --> 50:24.000
+Da handelt man sich halt eben, wie du gesagt hast, die Katze im Sack ein. Also man handelt sich die Gefahr ein, dass zum Beispiel die Art und Weise, wie diese Fabrik konzipiert, es bereits gewisse Machtverhältnisse zum Beispiel implementiert.
+
+50:24.000 --> 50:38.000
+Also das fängt an mit, es gibt zum Beispiel so eine auch oben eine Übersichtsplattform für die Vorarbeiter und alle anderen sitzen dann so, dass die Vorarbeiter sie sehen können, jederzeit und kontrollieren können.
+
+50:38.000 --> 50:47.000
+Und da zeigen sich dann glaube ich einen ganz kleinen so auf, man kann nicht einfach bestehende Technik nehmen und sagen, okay, jetzt machen wir es für einen anderen Nutzen.
+
+50:47.000 --> 50:54.000
+Auch eine zivile Nutzung von Atombomben fällt mir jetzt irgendwie, also würde mir schwer einfallen.
+
+50:54.000 --> 51:02.000
+Genau, aber das heißt auf der anderen Seite, und das scheint mir dann doch sehr wichtig, nicht, dass diese Techniken nicht aneignenbar sind.
+
+51:02.000 --> 51:11.000
+Da gibt es immer ein Mehr. Also die Techniken, wie die dann konkret implementiert werden, richten sich halt nach dem Bedarf der Leute, die dafür blechen, dass die implementiert werden.
+
+51:11.000 --> 51:19.000
+Also zum Beispiel bei einem Unternehmen dann, die irgendwie in der Fertigung sind, dass da möglichst effizient, also dass die Produktion möglichst effizient ist.
+
+51:19.000 --> 51:25.000
+Und in der Planung bei Walmart, dass die besonders gut am Ende am Markt irgendwie bestehen und ihren Profit irgendwie erhöhen.
+
+51:26.000 --> 51:33.000
+Aber das heißt ja nicht, dass man nicht zum Beispiel Robotik trotzdem nutzen könnte, um Leuten irgendwie Mühsal abzunehmen sozusagen.
+
+51:33.000 --> 51:39.000
+Also das einfach nur so als kleiner D-Tour, wie man sich überhaupt zur Technik verhält.
+
+51:39.000 --> 51:44.000
+Ja, sehr gut. Und wie würdest du jetzt dann sagen, wofür würdest du votieren?
+
+51:44.000 --> 51:49.000
+In welcher Art und Weise könnte man sie sich aneignen?
+
+51:49.000 --> 52:00.000
+Und was sind vielleicht auch die kritischen Stellen, an denen wie so Stellschrauben sagen, bedient werden müssten, wenn man das jetzt mal so ganz vereinfacht sagen kann?
+
+52:00.000 --> 52:15.000
+Oder was sind die Elemente der Formbarkeit und wie würde man sie dann ausrichten wollen, um da eine positive Form der Techniknutzung wahrscheinlicher werden zu lassen?
+
+52:15.000 --> 52:28.000
+Also um jetzt mal das Gebiet zu nehmen, mit dem ich mich eigentlich hauptsächlich befasse, Automationstechnologien, die sind leider eigentlich gar nicht so das ideale Beispiel in der Hinsicht,
+
+52:28.000 --> 52:39.000
+dass man ja wirklich sagen würde, also viele zumindest sagen würden, eine möglichst rationale Organisierung des Produktionsprozesses ist ja auch in der vernünftigen Gesellschaft wünschenswert,
+
+52:39.000 --> 52:46.000
+weil also menschliche Arbeitszeit und das ist Lebenszeit, sollte ja nicht einfach verschwendet werden.
+
+52:46.000 --> 52:53.000
+Also insofern ist ja da eigentlich die Orientierung relativ ähnlich. Aber um mal auf zwei Sachen trotzdem hinzuweisen,
+
+52:53.000 --> 53:02.000
+also die Antwort, wenn man sagt, die Produktion muss möglichst effizient und durch rationalisiert geschehen und so weiter, damit man wenigstens nicht so viel Zeit damit zubringen müsste,
+
+53:02.000 --> 53:09.000
+wäre dann erstmal makroökonomische Rahmenung. Und ich glaube, die ist auch wirklich ganz entscheidend, also dass man darüber spricht, wer profitiert denn von der Steigung Produktivität,
+
+53:09.000 --> 53:14.000
+setzt man die um in mehr Produktion oder mehr Freizeit, das wären zum Beispiel schon mal zwei Sachen.
+
+53:14.000 --> 53:24.000
+Aber dann, wenn man sich jetzt wirklich die konkrete Organisation der Arbeit anschaut, könnte man schon auch sich vorstellen, dass man da einfach noch in eine offene Debatte eintreten sollte,
+
+53:24.000 --> 53:28.000
+was denn die Bedürfnisse auch der Arbeitenden sind. Und da wären dann zwei Dinge vielleicht zu denken.
+
+53:28.000 --> 53:38.000
+Also das eine wäre Intensivierung der Arbeit, also meistens Arbeitszeitdebatten und ich finde die enormst wichtig, finden meistens quantitativ statt.
+
+53:38.000 --> 53:49.000
+Also wie lange ist die Arbeitswache? Wie lange müssen wir mal lochen? Aber man kann natürlich sich auch vorstellen, eine qualitative Arbeitszeitpolitik mal zu diskutieren,
+
+53:49.000 --> 53:58.000
+in dem Sinne, dass man sagt, es hat enorme Verdichtungsprozesse in der Arbeit stattgefunden in den letzten Jahrzehnten. Und wie kann man die vielleicht zum Teil auch zurücknehmen?
+
+53:58.000 --> 54:06.000
+Das geht von einfach der Taktung von irgendwelchen Fertigungsstraßen bis hin zu Personalschlüsseln in der Pflege, also diese Debatte.
+
+54:06.000 --> 54:12.000
+Und ich glaube, da sieht man dann schon, okay, da würde man dann vielleicht auf einmal den technischen Apparat auch ein bisschen anders einrichten,
+
+54:12.000 --> 54:17.000
+weil es halt nicht mehr darum geht, möglichst viel Arbeitskraft aus den Leuten raus zu squeezen, auf Teufel komm raus.
+
+54:17.000 --> 54:25.000
+Und auf der anderen Seite ist es halt auch so, Produktivität, wenn man sie, wie ich finde sinnvollerweise, misst in Output pro Stunde,
+
+54:25.000 --> 54:31.000
+ist ja im Prinzip eigentlich auch ein Effizienzkriterium, nämlich wie effizient verwendest du menschliche Arbeit?
+
+54:31.000 --> 54:35.000
+Und es geht ja auch darum, Lohnkosten zu senken. Also das ist tatsächlich Orientierung.
+
+54:35.000 --> 54:44.000
+Man könnte aber natürlich sich auch vorstellen, die in der Konzipierung von Fertigungsanlagen und so weiter andere Effizienzkriterien anzulegen.
+
+54:44.000 --> 54:49.000
+Also zum Beispiel, wie viel Strom verbraucht man damit? Kann man ressourcenschonender arbeiten,
+
+54:49.000 --> 54:54.000
+wenn man dafür irgendwie ein bisschen weniger schnell fertigt und ein bisschen mehr Arbeit verbraucht und so weiter?
+
+54:55.000 --> 55:01.000
+Und das wären dann Dinge, über die man wirklich auch auf einzelbetrieblicher Ebene in Austausch treten könnte.
+
+55:01.000 --> 55:09.000
+Also da würde ich tatsächlich sagen, das geht von der Makro bis in die Mikroebene, wo dieser Aushandlungsprozess stattfinden müsste.
+
+55:09.000 --> 55:15.000
+Dann kommen wir doch mal zu makropolitischen Entwürfen alternativer Zukunfte.
+
+55:15.000 --> 55:18.000
+Welche zeigen sich denn dir?
+
+55:18.000 --> 55:25.000
+Ich glaube, am stärksten jetzt auf prozessive Seite ist diese Debatte derzeit über Postkapitalismus.
+
+55:25.000 --> 55:32.000
+Wobei, wenn man so einen Post vorstellt, dann ist gar nicht so richtig klar, was damit gemeint ist.
+
+55:32.000 --> 55:36.000
+Ist das zeitlich danach? Ist das eine konzeptionelle Überwindung? Wie viel ist davon noch enthalten?
+
+55:36.000 --> 55:41.000
+Also man hat ja fast dieselben Probleme, die man mit diesem alten Aufhebungsbegriff bei Hegel und Marx hat.
+
+55:41.000 --> 55:47.000
+Also das ja drei Dimensionen hat, man schafft was ab, man hebt es auf eine höhere Stufe und es bleibt aber enthalten.
+
+55:47.000 --> 55:51.000
+Also es ist nicht immer ganz klar, was dieser Postkapitalismus sein soll.
+
+55:51.000 --> 56:02.000
+In meiner Arbeit beziehe ich mich immer auf die Formulierung aus der Frankfurter Schule, dass es um vernünftige gesellschaftliche Verhältnisse geht.
+
+56:02.000 --> 56:05.000
+Dann ist vielen aber nicht ganz klar, um was es geht.
+
+56:05.000 --> 56:13.000
+Und ich glaube, es ist schon gefährlich für gesellschaftliche Entwicklungen, wenn gar keine Alternativen mehr vorstellbar sind.
+
+56:13.000 --> 56:17.000
+Die Leute sagen nur ganz abstrakt so etwas wie vernünftige gesellschaftliche Verhältnisse.
+
+56:17.000 --> 56:21.000
+Keiner kann was damit anfangen. Dafür geht keiner auf die Straße unmittelbar.
+
+56:21.000 --> 56:26.000
+Und die einzige Alternative ist dann das Weiter-So, das es ja echt nicht sein kann.
+
+56:26.000 --> 56:28.000
+Und da gibt es dann zum Beispiel diese Intervention.
+
+56:28.000 --> 56:31.000
+Du hast ja rekurriert auf Bastani.
+
+56:31.000 --> 56:40.000
+Ein Buch, das ich zur Automationstechnologie wirklich jedem und jeder empfehlen kann, ist von Nick Sernicek und Alex Williams dieses Inventing the Future.
+
+56:41.000 --> 56:43.000
+Das gibt es auch auf Deutsch, die Zukunft Erfinden.
+
+56:43.000 --> 56:49.000
+Und die reflektieren eben darauf, man müsste mal über Alternativen nachdenken und versuchen dann auch eine zu konzipieren.
+
+56:49.000 --> 56:57.000
+Und zwar eine Gesellschaft, in der es nicht darum geht, dass irgendwie Profit generiert wird, sondern eine bestmögliche Bedürfnisbefriedigung zu organisieren.
+
+56:57.000 --> 57:02.000
+Und da zeigen die dann eben auch auf, was in der Automatisierung für Potenziale schlummert.
+
+57:02.000 --> 57:07.000
+Nämlich potenziell ein Ende des Mangels sozusagen.
+
+57:07.000 --> 57:15.000
+Und der Mangel war ja irgendwie die Rahmenbedingung der gesamten Geschichte der Menschheit bis hier hinten.
+
+57:15.000 --> 57:19.000
+Und insofern präsentiert sich das auch wirklich als radikales Gegenprojekt.
+
+57:19.000 --> 57:24.000
+Nämlich eigentlich als Ende der Vorgeschichte der Menschheit und Schritt in eine qualitativ andere Gesellschaft.
+
+57:26.000 --> 57:34.000
+Und was heißt es dann, eine Gesellschaft zu organisieren, die Bedürfnisbefriedigung und nicht Profit ins Zentrum stellen?
+
+57:34.000 --> 57:43.000
+Hieße dann eben, die steigende Produktivität dafür zu nutzen, zu erheben, was wollen die Leute und das bestmöglich mit so wenig Arbeit wie möglich zu befriedigen.
+
+57:44.000 --> 57:50.000
+Und das TANI, was teilweise, ich würde schon sagen, ein bisschen defizitär ist an diesem Teil der Debatte,
+
+57:50.000 --> 57:57.000
+zudem zum größten Teil auch, da bin ich relativ eng angelagert, aber da gibt es halt relativ wenig Bewusstsein für ökologische Probleme.
+
+57:57.000 --> 58:06.000
+Also da wird dann schon davon ausgegangen, es gibt ja diesen Begriff des Solutionismus, dass man sagt, die Technik wird schon alle uns vom Hals schaffen.
+
+58:06.000 --> 58:13.000
+Und da würde ich tatsächlich sagen, es gibt so einen kleinen, die sagen schon, das ist nicht die Technik selbst, das ist ein politisches Projekt, das wir da vorschlagen.
+
+58:13.000 --> 58:16.000
+Also insofern sind es keine Solutionisten.
+
+58:16.000 --> 58:22.000
+Aber hinsichtlich der ökologischen Frage ist es dann halt auch schon so, dass sie sagen, naja, um die müssen wir uns eigentlich nicht kümmern,
+
+58:22.000 --> 58:29.000
+weil Ressourcen können aus Asteroiden gewonnen werden und wir können so viel Energie verkaufen, wie wir wollen.
+
+58:29.000 --> 58:36.000
+Und das stimmt ja teilweise, eigentlich sind ja die potenzielle erneuerbare Energien auf dem Planeten noch lange nicht ausgeschöpft und so weiter.
+
+58:37.000 --> 58:49.000
+Wer wäre denn dann in Deutschland oder welche Gruppen, welche Vertreterinnen, Vertreter gibt es in Deutschland, die in eine ähnliche Richtung wie jetzt zum Beispiel Srinicek und Williams stoßen?
+
+58:49.000 --> 59:02.000
+Also gibt es da schon quasi organisierte Gruppierungen, Kräfte, die sagen, in eine solche Richtung sich bewegen wollen und dafür kämpfen?
+
+59:02.000 --> 59:10.000
+Also ich meine, ich glaube innerhalb der radikaleren Linken zum Beispiel gab es ja schon immer die Losung, irgendwie alles für alle und zwar umsonst.
+
+59:10.000 --> 59:13.000
+Das ist ja schon so, das geht ja in diese Richtung.
+
+59:13.000 --> 59:17.000
+Also dieser Teil der hedonistischen Linken hat ja schon ähnliche Orientierung.
+
+59:17.000 --> 59:29.000
+Was ich spannend finde an der britischen Debatte ist halt, dass dort einerseits schon auch wirklich so die Suche nach visionären Zukunften stattfindet.
+
+59:29.000 --> 59:38.000
+Also es wird dann eben darüber geredet, was könnte denn Automation ermöglichen, endlich mein Leben ohne Plakerei und Bedürfnisbefriedigung und nicht immer im Mangel und so.
+
+59:38.000 --> 59:52.000
+Aber was ein riesiger Vorteil der britischen Debatte zu sein scheint mir, ist, dass die eben halt ein relativ interessantes Ökosystem mittlerweile von ThinkTanks haben, die eben auch darüber sprechen, naja, wie ließe sich das implementieren?
+
+59:52.000 --> 01:00:02.000
+Und ich glaube in Deutschland, also ich glaube, wenn man jetzt mal auf eine Party geht oder so, in gewissen Kontexten, da wird man bestimmt ein, zwei hedonistische Linken finden, die sagen, ah, Fully Automated, voll geil und so.
+
+01:00:03.000 --> 01:00:09.000
+Vielleicht noch nicht mega reflektiert, aber das muss ja auch teilweise gar nicht sein.
+
+01:00:09.000 --> 01:00:16.000
+Aber was es halt weniger gibt, ist eine ernstzunehmende Debatte darüber, ja, aber wie ließe sich auch wirklich konkrete Schritte in die Richtung unternehmen?
+
+01:00:16.000 --> 01:00:22.000
+Und zwar nicht nur dieser kleinen, kleinen Reformismus, sondern wie könnte ein Push in Richtung einer anderen Gesellschaft ausdehnen?
+
+01:00:22.000 --> 01:00:42.000
+Und das war auch so, also das geht jetzt nicht für alle, unsere Mitglieder, aber das war auch einer der Gründe, warum wir dieses Zentrum für Emanzipatorische Technikforschung gegründet haben, weil wir den Eindruck hatten, okay, es gibt einerseits so eine relativ starke Skepsis gegenüber technologischer Entwicklung in weiten Teilen des progressiven Lagers in Deutschland.
+
+01:00:42.000 --> 01:00:54.000
+Und dann gibt es noch so ein paar versprengte Utopisten und also ich bin ein großer Freund der Utopie, das ist jetzt gar nicht despektierlich gemeint, aber wir dachten uns, okay, es bräuchte eigentlich noch Kuppen, die sich wirklich darum kümmern.
+
+01:00:54.000 --> 01:01:02.000
+Was, was wären denn konkrete Einstiegsprojekte und oder auch, also wie kann man diese Debatte voranbringen, auch im deutschsprachigen Raum?
+
+01:01:02.000 --> 01:01:05.000
+Also genau, das war auch eine unserer Motivationen.
+
+01:01:05.000 --> 01:01:22.000
+Was ja umso wichtiger ist, finde ich, angesichts dessen, dass eben zumindest lange Zeit weite Teile der radikalen Linken auch leider dann irgendwie so eine Form von Technikfeindlichkeit irgendwie eingeschrieben hatten oder zumindest kommt mir das so vor.
+
+01:01:22.000 --> 01:01:34.000
+Also als ob sagen, da allzu schnell dann noch dieser Reflex gemacht worden ist, zu sagen aha, eben zum Beispiel ja, diese Technologien, die sind ja innerhalb der kapitalistischen Logik eben sagen entstanden, haben diese eingeschrieben.
+
+01:01:34.000 --> 01:01:36.000
+And that's it. Ja, mehr oder weniger.
+
+01:01:36.000 --> 01:01:51.000
+Deswegen müssen wir die ablehnen und irgendwie auf so einen Lokalismus zurückziehen, der dann irgendwie, was ich ebenso meint, von wegen man könne jetzt mit einer autarken Landwirtschaft im Kleinen jetzt irgendwie dann wirklich was ändern oder so.
+
+01:01:51.000 --> 01:02:02.000
+Das ist ja was, wogegen die, wogegen Srinicek und Williams in dem Inventing the Future Buch auch ganz stark Positionen beziehen und das als, ich glaube, Folkpolitik bezeichnen oder so.
+
+01:02:02.000 --> 01:02:06.000
+Genau. Ja, also an der Stelle noch mal eine dringende Lesempfehlung.
+
+01:02:06.000 --> 01:02:15.000
+Also es ist wirklich, also teilweise geht die Polemik, wie es bei Polemik halt so oft ist, also verfehlt auch manche der Gruppen, die sich dann getroffen fühlen und dann versucht haben zu zeigen, sie sind ja gar nicht so und so.
+
+01:02:15.000 --> 01:02:20.000
+Aber ich glaube, also es trifft schon auch etwas, also so eine gewisse Tendenz.
+
+01:02:20.000 --> 01:02:29.000
+Und ich möchte da also einerseits noch mal rückverweisen auf meine, also meine kurze Diskussion von substanziellen versus instrumentellen Techniktheorien.
+
+01:02:29.000 --> 01:02:35.000
+Aber andererseits auch kurz noch mal eine Lanze für diese Position brechen.
+
+01:02:35.000 --> 01:02:37.000
+Also sie sind wirklich nicht meine.
+
+01:02:37.000 --> 01:02:40.000
+Aber auf der anderen Seite ist es ja so.
+
+01:02:40.000 --> 01:02:43.000
+Weißt du, wir kriegen neue Kommunikationsmedien und wozu führt es?
+
+01:02:43.000 --> 01:02:47.000
+Zur Überwachung durch staatliche und wirtschaftliche Akteure.
+
+01:02:47.000 --> 01:02:57.000
+Und wir kriegen Automatisierung und statt dass das irgendwie zu weniger Arbeit und mehr, also mehr materiellen Reichtum für jeden führt, führt es zur Arbeitslosigkeit.
+
+01:02:57.000 --> 01:03:04.000
+Und da ist dann der Reflex, finde ich, wenn man halt, also wenn man Systemimmanent sozusagen die Folgen abschätzt.
+
+01:03:04.000 --> 01:03:12.000
+Dann finde ich zum Beispiel die Reaktion von vielen Gewerkschaftern an der Basis, wenn die hören Robotik, dann kriegen die erst mal einen Schrecken sozusagen.
+
+01:03:12.000 --> 01:03:17.000
+Und die finde ich auch nicht völlig irrational, weil also auf Hartz IV zu sein ist so geil nicht.
+
+01:03:17.000 --> 01:03:19.000
+Und überwacht zu werden ist so geil auch nicht.
+
+01:03:19.000 --> 01:03:30.000
+Aber die Frage ist halt, ist das eine gute Perspektive, um über das Bestehen hinauszugehen, einfach nur zu sagen, ohje, ohje, das ist aber nicht so schön, was da auf uns zukommt.
+
+01:03:30.000 --> 01:03:34.000
+Und ich würde eben sagen, nee, man müsste sich eher darüber Gedanken machen.
+
+01:03:34.000 --> 01:03:36.000
+Was kann man stattdessen damit anstellen?
+
+01:03:36.000 --> 01:03:41.000
+Weil so kriegt man, glaube ich, auch vielleicht was hin, was begeisterungsfähig ist irgendwie.
+
+01:03:41.000 --> 01:03:57.000
+Was ich finde, worauf das auf jeden Fall auch noch referiert und was so ein bisschen auch jetzt finde ich die Klammer dieses Gesprächs ist, ist das am Ende die entscheidende Ebene, auf der diese Diskussion verhandelt werden muss,
+
+01:03:57.000 --> 01:04:02.000
+ist eine politische Ebene, letztlich auch eine Frage der politischen Ökonomie.
+
+01:04:02.000 --> 01:04:12.000
+Also die Art und Weise, wie Technologie bisher genutzt worden ist, ist eben nicht rein diesen Technologien eingeschrieben,
+
+01:04:12.000 --> 01:04:19.000
+sondern es wirft ganz manifest die Frage auf, wie wir diese denn nutzen wollen.
+
+01:04:19.000 --> 01:04:29.000
+Und wie sagen vielleicht auch Potenzialitäten, die in diesen Technologien liegen, in einer emanzipatorischen Art und Weise genutzt werden können.
+
+01:04:29.000 --> 01:04:38.000
+Genau. Und ich würde auch denken, gerade da ist die Debatte über alternative Zukunft, also was ja auch das Gegenstand deines Podcasts ist, so wichtig.
+
+01:04:38.000 --> 01:04:47.000
+Nehmen wir doch mal die dominante technpolitische Debatte der letzten Jahre in Deutschland, diese Industrie für Null.
+
+01:04:47.000 --> 01:04:55.000
+Und da ist es ja tatsächlich so, da gab es viel Debatte darüber, aber die grundlegenden Orientierungen waren vorausgesetzt.
+
+01:04:55.000 --> 01:05:03.000
+Also in den Papieren kannst du immer lesen, ja ja, die Chinesen holen auf und überhaupt mit der Fertigung und so und wir müssen unsere Weltmarktanteile verteidigen.
+
+01:05:03.000 --> 01:05:09.000
+Und das heißt dann vielleicht noch nicht irgendwie die deutsche Industrie zukunftsfähig machen oder irgendwie sowas.
+
+01:05:09.000 --> 01:05:14.000
+So und und also es geht ganz klar um das Hauen und Stechen innerhalb dieser Produktionsweise.
+
+01:05:14.000 --> 01:05:24.000
+Und solange man so tut, als wäre die einzige Debatte, die man hinsichtlich technologischer Innovation führen kann, wie man die Konkurrenzfähigkeit erhöht,
+
+01:05:24.000 --> 01:05:29.000
+schneidet man extrem viel ab. Und deswegen scheint es mir auch so wichtig zu sein.
+
+01:05:29.000 --> 01:05:33.000
+Also Hegemonie drückt sich ja auch darin aus, dass die Leute sich gar nichts anderes vorstellen kann.
+
+01:05:33.000 --> 01:05:38.000
+Und ich glaube, das muss jetzt mal so Schritt für Schritt abgetragen werden irgendwie.
+
+01:05:38.000 --> 01:05:44.000
+Und da muss auch der Horizont geöffnet werden, eben um zu zeigen, auch ruhig eben mit einem gewissen utopischen Überschuss.
+
+01:05:44.000 --> 01:05:48.000
+Leute, worum werdet ihr betrogen sozusagen?
+
+01:05:48.000 --> 01:05:56.000
+Also das kann schon sein, also im Bestehenden, wenn ich einfach nur sagen müsste, es muss, also wenn ich jetzt sagen müsste, es ist vorausgesetzt, es muss weiterlaufen wie bisher.
+
+01:05:56.000 --> 01:06:02.000
+Und die Leute wollen ihr Jobs behalten. Die deutsche Wirtschaft soll weiter irgendwie alles nieder konkurrieren und Exportweltmeister sein und so.
+
+01:06:02.000 --> 01:06:04.000
+Wie könnte man das implementieren?
+
+01:06:04.000 --> 01:06:06.000
+Dann würde ich auch bei sowas ähnlichem wie der Industrie voll in Ruhe rauskommen.
+
+01:06:06.000 --> 01:06:15.000
+Aber die Frage ist, ist das wirklich die Debatte, die wir führen sollten angesichts dessen, dass wir uns irgendwie gerade mit Raserei unser eigenes Grab schaufeln,
+
+01:06:15.000 --> 01:06:25.000
+was die Klimakatastrophe anbelangt und und das auch einfach die erhöhte Konkurrenzfähigkeit von Unternehmen für das individuelle Glück echt
+
+01:06:25.000 --> 01:06:32.000
+schlechte Impacts gehabt hätte in den letzten Jahren. Also wir haben, also in Deutschland gibt es einen schnellst wachsenden Niedriglohnsektor in ganz Europa.
+
+01:06:32.000 --> 01:06:42.000
+Und es hat also die Kehrseite vom Exportweltmeistertum. Und genau, und also da scheint es mir dann auch wichtig, wirklich als zentraler Punkt,
+
+01:06:42.000 --> 01:06:50.000
+dass man überhaupt mal die, nicht einfach nur eine Zweckmittel Rationalität an den Tag legt, also sich fragt, okay, das Ziel ist vorausgesetzt.
+
+01:06:50.000 --> 01:06:55.000
+Wie machen wir das möglichst effizient, sondern auch darüber redet, wofür überhaupt technologischer Fortschritt?
+
+01:06:55.000 --> 01:07:03.000
+Also wie wollen wir leben? Was für eine Gesellschaft wollen wir? Wie wollen wir arbeiten? Welche Bedürfnisse haben wir? Was sind vielleicht noch objektive ökologische Schranken?
+
+01:07:03.000 --> 01:07:08.000
+Und dann überlegt, was in diesem Rahmen die bestmögliche technische Entwicklung ist.
+
+01:07:08.000 --> 01:07:15.000
+Statt so eine Überdeterminierung durch wirtschaftliche Interessen, die ja teilweise echt sehr boniert sind.
+
+01:07:15.000 --> 01:07:22.000
+Absolut. Philipp, wunderbar. Meine letzte Frage ist immer, wenn du an Zukunft denkst, was stimmt dich freudig?
+
+01:07:22.000 --> 01:07:36.000
+Na ja, ich weiß nicht, ich mache kritische Theorie da, das hat man zu Freude nicht so.
+
+01:07:36.000 --> 01:07:45.000
+Warte, ich überlege kurz. Nimm dir Zeit, soviel du willst. Das ist ein Podcast, wir haben Zeit.
+
+01:07:45.000 --> 01:07:56.000
+Und du schneidest ja. Naja, dass die objektiven Grundlagen für eine viel bessere Gesellschaft gegeben sind.
+
+01:07:56.000 --> 01:08:05.000
+Und dass, glaube ich, auch der Zeit sowas aufbricht, dass diese Hegemonie neoliberalen Denkens, die die letzten Jahrzehnte geprägt haben, sich einfach palmiert hat.
+
+01:08:05.000 --> 01:08:08.000
+Und insofern ist die Zukunft offen und das ist ja immerhin was.
+
+01:08:08.000 --> 01:08:11.000
+Wunderbar. Philipp, vielen Dank für das Gespräch.
+
+01:08:11.000 --> 01:08:12.000
+Gern.
+
+01:08:16.000 --> 01:08:18.000
+Das war Future Histories für heute.
+
+01:08:18.000 --> 01:08:20.000
+Vielen Dank fürs Zuhören.
+
+01:08:20.000 --> 01:08:25.000
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+01:08:25.000 --> 01:08:31.000
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder auf Reddit.
+
+01:08:31.000 --> 01:08:35.000
+Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+
+01:08:35.000 --> 01:08:39.000
+Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+
+01:08:40.000 --> 01:08:48.000
+Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com-futurehistories vieles an Zusatzmaterial.
+
+01:08:48.000 --> 01:08:52.000
+Ich lese zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt.
+
+01:08:52.000 --> 01:08:56.000
+Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.
+

@@ -1,0 +1,768 @@
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen
+von Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Vincent August begrüßen zu
+dürfen. Er ist wissenschaftlicher Mitarbeiter am Institut für Sozialwissenschaften der Humboldt
+Uni Berlin und Autor des Buches Technologisches Regieren. Der Aufstieg des Netzwerkdenkens in
+der Krise der Moderne, Foucault, Lohmann und die Kybernetik. Und über technologisches Regieren
+wollen wir heute auch sprechen, denn wie regelmäßige Hörerinnen und Hörer dieses
+Podcasts hier sicher wissen, interessiert mich das natürlich brennend. So sehr sogar,
+dass es so manche Episode von Future Histories gibt, die in einer ganz ausgezeichneten
+Korrespondenz zum heutigen Gespräch steht. Da werden zum Beispiel erwähnt die allererste
+Episode von Future Histories mit Benjamin Seibel zum Thema politische Kybernetik,
+Folge 18 mit Simon Schaub zu Kybernetik und radikaler Demokratie oder auch Folge 54 mit
+Urs Stehli zu Entnetzung. Bevor es jetzt losgeht, möchte ich noch Fabian, Carmen,
+Lukas und Wilfried für ihre Spenden danken und ich begrüße George und Luki ganz herzlich in
+der Gemeinschaft der Future Histories Patreon Unterstützerinnen und Unterstützer und jetzt
+viel Freude mit der heutigen Episode Future Histories mit Vincent August zu technologischem
+Regieren. Herzlich willkommen Vincent. Hallo Jan, vielen Dank für die Einladung. Ich fange
+gerne mit Definitionsfragen an und so auch heute. Vincent, was ist technologisches Regieren?
+Ja, mit technologisches Regieren beschreibe ich ein zentrales Paradigma der Spätmoderne. Es
+handelt sich um einen Regierungsansatz, der um Ideen wie Netzwerke und Systeme,
+Ökosysteme, Computersysteme, um Konnektivität und um Flexibilität kreist. Und dieses Netzwerkdenken
+entsteht im Grunde aus der Kybernetik heraus und wird dann in den Krisen der 70er-Jahren schon zu
+einem dominanten Deutungsmuster und zwar nicht nur im Bereich der Politik, sondern eben auch
+für gesellschaftliche Selbstbeschreibung insgesamt. Also wir kennen das die
+Netzwerkgesellschaft als Beispiel dafür. Und auf diese Weise ist das Netzwerk im Grunde zu
+einer Art Grundbegriff des 21. Jahrhunderts geworden. Wir beschreiben unsere Gesellschaft
+als Netzwerkgesellschaft und wo wir früher so Verbände und Vereine hatten, sehen wir jetzt
+eben auch immer mehr Netzwerke aufploppen, zivilgesellschaftliche Netzwerke, Forschungsnetzwerke
+oder sogar Terrornetzwerke und ähnliches. Und mit diesen Begrifflichkeiten hat sich auch eine ganz
+bestimmte Sicht auf die Welt im Grunde durchgesetzt und es haben sich auch bestimmte Anforderungen an
+die Menschen oder Subjekte und auch an Organisation und Politik breit gemacht, die ich mit diesem
+Begriff technologisches Regieren beschreibe. Nehmen wir mal zwei Beispiele. Zum einen hat die
+OECD schon vor einigen Jahren darüber diskutiert, wie denn jetzt Regieren oder Governance im
+21. Jahrhundert aussehen soll und antwortet darauf damit, dass die Regierungen eine fundamentale
+Wende vollziehen müssen. Da ist ein ganz klassisches Narrativ, das wir auch viele von uns
+sicherlich kennen. Weil die Welt eben so komplex geworden ist und so vielfältig geworden ist, muss
+man sich jetzt wegbewegen von einem alten hierarchischen Politikstil hin zu Netzwerken,
+weil die ja flexibel und kreativ und innovativ sein. Das ist eben so ein ganz typisches Narrativ
+und auch zum Beispiel im aktuellen Wahlprogramm der Grünen finden wir ein ganz ähnliches Plädoyer
+für eine neue politische Kultur des Netzwerks. Das zweite Beispiel ist sogar noch viel alltäglicher.
+Ich war mal um Ostern herum Brötchen kaufen bei unserem Bäcker hier um die Ecke und auf der
+Brötchentüte dieser Kette wurde für die Ausbildung in dieser Bäckereikette geworben und zu sehen war
+darauf so eine Computerspielcharakter mit bestimmten Eigenschaften wie Konnektivität,
+Teamplayer und Lernbereitschaft. Und ich finde an diesen Anforderungen, die hier an die jungen
+Menschen gestellt wird, sieht man schon, dass das ganz offensichtlich nicht Anforderungen sind,
+die aus dem Neoliberalismus zum Beispiel kommen, sondern dass es hier ein ganz anderes Denken ist,
+nämlich das Netzwerkdenken. Und du hattest jetzt die Kubernetes ja schon kurz angesprochen als
+einen Ideengeber für diese Form des technologischen Denkens, aber im Buch unterscheidest du da auch
+noch ein bisschen genauer. Du beschreibst dann nämlich zwei unterschiedliche Technologiken,
+mit Bindestrich dazwischen schreibst du das dann, also Logiken auch des technologischen Regierens
+eigentlich unter anderem. Also du beschreibst zwei unterschiedliche Technologiken, wobei du eben die
+Technokratie von der Kubernetes als eine Art Alternative zur Technokratie auch abgrenzt.
+Worin würden sich die beiden Zugänge da unterscheiden? Und das, auch wenn jetzt in
+Future Histories die Kubernetes natürlich schon immer mal wieder vorkamen, vielleicht kannst du
+auch noch mal kurz skizzieren, womit wir es da zu tun haben. Das ist eine, finde ich, wichtige
+Frage in zweierlei Hinsicht. Zum einen natürlich, um überhaupt zu verstehen, wie dieses technologische
+Regierungsdenken entstanden ist, aber zum anderen glaube ich, ist das auch ganz zentral für unsere
+gegenwärtigen Debatten, in denen wir auch immer wieder Technokratie-Elemente aufgerufen werden.
+Also zum Beispiel die Sorge darum, dass wir eine universelle Automatisierung haben und Ähnliches.
+Ganz häufig werden in unserer aktuellen Debatte eben Motive und Erzählungen aufgerufen, die schon
+viel älter sind und wir kriegen das quasi gar nicht mit, weil sie uns so vertraut sind. Haben
+sie dann aber wiederum eine relativ starke Wirkung, um unsere Debatten darüber, wie die Zukunft
+raussehen soll, mit strukturieren. Deswegen finde ich diese Unterscheidungen ziemlich wichtig und
+auch wichtig, sich anzugucken, was eigentlich schon eine ganze Weile herum vagabundiert, könnte man
+sagen. Und du hast diese beiden Technologiken, die ich im Vorstelle schon benannt, nämlich Technokratie
+und Kybernetik im Grunde. Wenn wir auf die Technokratie gucken, dann ist das ja ein Begriff,
+der in den 50er bis frühen 70er Jahren eine Debatte beschreibt, in der Technokratie eher
+negativ beschrieben wird oder verwendet wird. Und auch hier in dieser Debatte stehen sich eigentlich
+zwei Seiten gegenüber. Nämlich zum einen Menschen und Organisationen, die im Prinzip auf eine
+Rationalisierung von politischer Planung mithilfe von technischen Mitteln abzielen. Was jetzt erst
+mal voll in das Regierungsdenken der Nachkriegszeit passt, dass er sehr stark auf politische Planung
+abgestellt hat. Und die Idee hier war, das zu rationalisieren und zu verbessern. Ganz
+vorn dran waren dabei die RAND-Cooperation oder RAND-Wissenschaftler wie Olaf Helmer zum
+Beispiel. Und auf der gegenüberliegenden Seite stehen Kritiker dieser Rationalisierung von
+politischer Planung und von Gesellschaft insgesamt. Auf der einen Seite Konservative
+wie Jacques Ellul oder Helmut Schelski und auf der anderen Seite Linke wie Herbert Marcuse,
+Habermas dann natürlich auch. Also kritische Theorie im Prinzip. Und die Debatte dreht sich
+eben eigentlich darum, wie stark können Gesellschaften rationalisiert werden und
+die Kritik, die unter Technokratie dann läuft, wird sowohl von Konservativer als auch von linker
+Seite zielt dann darauf, dass es eigentlich eine Deformierung des Menschen und der Politik gibt
+durch die Technik. Und da sieht man im Grunde eben so ein humanistisches Ideal dahinter stehen. Es
+geht um die Souveränität des Menschen über sich selbst und aber auch über die menschlichen
+Gesellschaften sozusagen. Und dass das eben nicht abgegeben wird an die Technik. Und in
+der Technokratie Debatte gibt es dann erneut unterschiedliche Positionen. Die einen sehen
+eben halt die Gefahr eher kommen von Technikern, also von bestimmten Personal sozusagen des
+politischen Prozesses, die Exekutive sind oder die über bestimmtes Expertenwissen verfügen und
+quasi die politischen Strukturen usoppieren. Oder tatsächlich auch die Sorge, dass es eine
+autonome Technik gibt. Und das ist ja ein Phänomen, was oder ein Motiv, was heute sehr stark
+auch wieder diskutiert wird. Also dass wir quasi eine Autonomisierung haben und das alles übernimmt,
+bis hin zu der Vorstellung, dass es Regierungsmaschinen gibt, die den ganzen Prozess
+dann im Prinzip durchkalkulieren. Das ist erst mal diese eine Seite der Technokratie. Und das
+Interessante daran finde ich, ist, dass es eigentlich innerhalb des Souveränitätsdenkens
+operiert. Es geht um die Souveränität des Menschen über die Maschine und der Politik
+bzw. Demokratie über die Experten. Und dahinter steht natürlich auch eine gewisse Sorge darüber,
+wie es den jungen Demokratien in der Zeit ja dann weiter ergehen wird. Die Kybernetik nun wird
+innerhalb dieser Technokratie Debatte im Grunde zum Symbol für die Idee einer solchen durchrationalisierten
+Gesellschaft, gar zum Vordenker dieser Regierungsmaschinen, wie ich das eben beschrieben
+habe, wo man dann überhaupt gar keine Politik mehr benötigt, sondern alles berechnet wird. Und das
+Interessante ist aber, dass das, was in der Kybernetik selbst passiert, davon relativ weit
+entfernt ist. Und dafür muss man eben tatsächlich auch in die Debatten der Kybernetik und der
+Kybernetikerinnen reinschauen, um zu sehen, wie die eigentlich über ihren Gegenstand sprechen.
+Und du hattest ja gesagt, ich soll noch mal kurz skizzieren, was Kybernetik eigentlich ist.
+Kybernetik stellt im Grunde ja erstmal einen Forschungszusammenhang dar, der so in den 40er,
+50er Jahren erstmal relativ präsent wird und dem es darum geht, so etwas wie eine universelle
+Regelungstheorie zu entwerfen, die man sowohl auf Maschinen als auch auf Menschen und andere
+Lebewesen anwenden kann. Und dafür wird sie, sie besteht aus sehr unterschiedlichen Leuten,
+das sind extrem interdisziplinär zusammengesetzt, da sind Soziologen dabei, da sind Mathematiker,
+Logiker, Physiologen, Mediziner, Ingenieure und so weiter. Also wirklich ein sehr heterogener Raum
+an Leuten, der da zusammenkommt und dementsprechend breit ist also auch erstmal die Bandbreite an
+Themen und Zugängen, die die zusammenbringen. Was sie aber verbindet, ist erstmal diese Frage
+eben nach einer universellen Regelungstheorie, die sie über Communication and Control im Prinzip
+denken, also einen kommunikationstheoretischen Ansatz, und dass sie versuchen, gegen das
+Deutungsmuster von Souveränität und Mechanik, also quasi eine Kritik der Moderne anzubringen,
+um eben diese Regelungstechnologien oder Regelungszugänge neu zu denken. Und dafür schaffen
+sie eine neue Epistemologie im Grunde. Also sie entfernen sich von dem, was typisch für die
+Moderne ist, was wir heute als Ontologie bezeichnen würden, und verschieben im Prinzip die Perspektive
+hin zu einem operationalen Ansatz. Oder in den Begriffen, die heute vertrauter sind vielleicht,
+sie verschieben die Frage vom Was zum Wie. Sie fragen nicht mehr, was ist das Ding, welches Wesen
+ist es, was liegt in der Natur der Sache, sondern sie fragen, wie funktioniert das eigentlich? Und
+um dieses Wie funktioniert das eigentlich, zu ergründen und beschreiben zu können,
+führen sie eben einen komplett neuen Begriffsaparat zusammen aus den verschiedenen Disziplinen,
+aus denen sie kommen. Um so dann eben ein Regelungsdenken vorzuschlagen, das sich grundsätzlich
+von dieser humanistischen Souveränitätsidee abgrenzt und damit auch von klassischen Vorstellungen der
+Mechanik wie linearer Steuerung abgrenzt. Damit hat man also zwei sehr unterschiedliche Technologiken
+in dieser Zeit. Die eine, die mit der Technokratie im Prinzip voll im Bann dieser Souveränitätsdebatte
+steht. Und es geht quasi um die Frage, wie viel Technik und wie ist Technik erlaubt? Und die andere,
+die sich gegen genau dieses Deutungsmuster insgesamt wendet und im Prinzip versucht,
+genau diese Gegenüberstellung von humanistisch und mechanistisch zu überwinden in einem neuen
+Deutungsmodell und damit im Prinzip Technik als Deutungsmuster selbst ansetzt. Da mag ich noch
+kurz nachfragen, weil ich mir nicht sicher bin, ob ich das richtig verstanden habe. Du hattest
+kurz erwähnt, dass eigentlich innerhalb auch der kritischen Debatte über diese Formen des
+technologischen Regierens die Kybernetik wiederum angesehen worden ist eigentlich als eine Avantgarde
+dessen, wogegen sie sich stellt, wenn ich das richtig verstanden habe. Inwieweit ist das eigentlich
+dann eben nur eine Fremdbeschreibung gewesen oder wie sehr sind das unterschiedliche Camps
+innerhalb der Kybernetik, wo vielleicht ein gewisses Lager durchaus auch mit dieser Logik
+der totalen Kontrolle, wenn man so will, und Durchrationalisierung durchaus kompatibel wäre?
+Ja, also erstmal ist es genau so, dass wir in diesem Technokratiediskurs Kybernetik als
+einen Begriff haben, der erstmal sozusagen eine Fremdbeschreibung darstellt und dann steht Kybernetik
+im Prinzip für die durchrationalisierte Gesellschaft, wo alles sich selbst regelt,
+ohne dass es Menschen und Politik überhaupt noch bräuchte. Und jetzt natürlich die Frage,
+wie nah ist das dran an dem, was die Kybernetik eigentlich macht und dazu muss man erstmal sagen,
+dass die Kybernetik eben sehr heterogen ist und erstmal tatsächlich pendelt zwischen so
+Machbarkeitskonzeptionen und Fantasien und auf der anderen Seite dieser wirklich harten Kritik an
+der Moderne. Und wenn man jetzt eben diese Debatte sich anguckt, dann kann man sehen,
+dass etwa Norbert Wiener zum Beispiel selbstverständlich von so Machbarkeitsvorstellungen
+geprägt ist. Also da ist ja tatsächlich auch schon allein die Idee, eine universelle Regelungstheorie
+zu entwerfen, ist der Ausdruck dieser Machbarkeitskonzeptionen. Das ist aber eben
+noch nicht das Gleiche wie zu sagen, das soll alles durchrationalisiert sein und das reguliert
+sich alles selbst. Das ist ja noch mal was anderes. Und es gibt nun in dieser frühen
+kybernetischen Debatte Positionen, die zum Beispiel auch Ingenieurswissenschaftliche Einführung oder
+so, da findet man genau diese Vorstellung. Also es geht im Grunde darum, bei der Kybernetik den
+Zufall wegzurationalisieren. Das hat man auf populärwissenschaftlichen Ingenieursmäßigen
+Einführungen tatsächlich. Aber es entspricht eigentlich nicht wirklich dem, was dann innerhalb
+der Kybernetik diskutiert wird. Es ist zunehmend eine sehr randständige Position. Das kann man dann
+auch innerhalb der Kybernetik ziemlich scharf an Auseinandersetzungen und Kritiken sich anschauen.
+Also das fängt schon dabei an, dass es innerhalb der Macy-Konferenzen, also im Prinzip dieser
+Gründungskonferenzen der Kybernetik, eine heftige Auseinandersetzung zwischen denjenigen gibt, die
+quasi eher auf der Position einer klassischen Ökonomie stehen, wie Leonard Savage oder eben
+lineare Kommunikationsmodelle vertreten und denen, die man tatsächlich auch eher wirklich als
+Kybernetiker bezeichnen kann. Also MacCulloch zum Beispiel oder Gregory Bateson oder Norma
+Wiener. Auch eine sehr seltsame Mischung zum Teil, weil MacCulloch und Wiener sich zum Beispiel gar
+nicht so gut verstanden haben. Das ist sozusagen eher das Lager, was wirklich Kern-Kybernetiker
+sind. Und so kommt es dann auch relativ schnell dazu, dass sich Teile der Informationstheorie
+schon Mitte der 50er Jahre nicht mehr mit der Kybernetik assoziieren wollen, weil die eben
+was anderes machen will als sozusagen lineare Übermittlung und Steuerung von Information. Und
+dieser Konflikt setzt sich dann eben auch fort. Leute wie Russell Aykow zum Beispiel,
+der mal Präsident von einer wichtigen Organisation innerhalb der Kybernetik war, sagt dann auch sehr
+schnell, da ist im Prinzip was falsch gelaufen, wenn wir den Begriff der Kybernetik so verwenden,
+das war nicht die Idee. Und Gotthard Günther attackiert dann auch in einem Zug quasi sowohl
+die sozialwissenschaftlichen, intellektuellen wie Habermas dafür, dass sie überhaupt nicht
+verstanden haben, was die Kybernetik eigentlich macht, und diejenigen, die eben Kybernetik als
+so eine Art maximale Rationalisierung verstehen, die nennt er nämlich Wald- und Wiesen-Kybernetiker,
+denen die Kybernetik immer ein Buch mit sieben Siegeln bleiben wird. Und da sieht man schon,
+wie scharf diese Abgrenzung sich vollzieht. Das ist hochspannend, muss ich sagen. Und wir
+werden diesen Strang dann auch im Verlauf des Gesprächs definitiv noch weiter verfolgen,
+würde ich sagen. Aber bevor wir das machen, fände ich es trotzdem noch mal interessant,
+auch diese Kontrastfolie ein bisschen eingehender zu besprechen, die du in dem Buch eben auch
+vorschlägst oder auch beschreibst. Denn du beschreibst da die Idee des technologischen
+Regierens ja auch als eine Reaktion auf die Krise modernen Regierens. Du hast es ja jetzt
+auch schon angedeutet, also als eine Art von Abstoßen auch vom veralteten Denken,
+in Anführungsstrichen dem veralteten Denken der Souveränität nämlich auch. Nachdem dieses
+veraltete Denken auch heute noch hochaktiv ist, muss man sagen, lohnt es sich, dessen Prämissen
+auch noch mal ganz genau anzugucken und klarzumachen. Teilt man die nämlich nicht,
+also diese Prämissen des alten Denkens der Souveränität, dann zerfällt eigentlich im
+Grunde fast das komplette Gebäude dessen, was man gemeinhin so als politische Theorie
+präsentiert bekommt. Und ich persönlich finde das nichts Schlechtes, wenn das zusammenfällt,
+dieses Gebäude. Insofern, was hat es denn auf sich mit der Souveränität?
+Ja, wie du schon gesagt hast, ist Souveränität im Prinzip das Gegenmodell für das technologische
+Regieren bzw. das Netzwerkdenken. Und es entspricht auch dem, was wir im Prinzip von den 40er Jahren
+an bis in die Mitte der 70er Jahre als dominantes Deutungsmuster im Prinzip antreffen. Was wiederum
+schon wieder sehr überraschend ist, weil eigentlich war Souveränität als Deutungsmuster nach dem
+beiden Weltkriegen erledigt. Und es gibt eine ganz interessante Debatte, wie das quasi sich
+innerhalb von wenigen Jahren plötzlich wieder dreht und Souveränität zu einem neuen oder wieder zum
+dominanten Deutungsmuster wird. Und jetzt kann man sich eben angucken und dann kann es auch
+signalisieren, wie tief wir da hineingehen wollen. Wenn wir Souveränität hören, hören wir ja
+eigentlich erstmal eben eine Vorstellung von Regierungskonzeptionen. Man kann aber sehr schön
+zeigen, dass wenn über Souveränität gesprochen wird, damit eben bestimmte Prämissen, wie du sagst,
+zusammenhängen. Also Prämissen darüber, wer ist eigentlich hier der handelnde Akteur, wer ist das
+Objekt. Welche Vorstellung von Räumlichkeit, welche Vorstellung von Zeitlichkeit hängt daran. Und das
+bildet dann so etwas, was ich in Anlehnung an Pierre Bourdieu dann immer gerne Wahrnehmungsdenk- und
+Handlungsschematter nenne. Also es gibt quasi einen bestimmten Wahrnehmungsraum und bestimmte
+Rationalitäten, Denkmuster. Und daraus leitet man dann auch bestimmte politische Formen und
+Strukturen ab. Wenn wir jetzt zum Beispiel auf das Souveränes Objekt gucken, dann haben wir hier die
+Vorstellung, dass es sich um so etwas wie ein souveränes Bewusstsein handelt, was politische
+Entscheidungen aktiv trifft und dass es darum gehen muss, dass dieses Bewusstsein eine stabile
+Persönlichkeit ausbildet. Also haben wir zum einen diesen starken Persönlichkeitsaspekt und eben
+auch schon die Anforderung eingelagert, dass es einem Bildungsprozess unterläuft und dann eben
+eine stabile, verlässliche, kontinuierliche Persönlichkeit ausbildet und sich eben auch
+weiterentwickelt. Also es gibt quasi die Idee, man soll sich zu dem entwickeln, der man eigentlich
+schon ist. Das ist quasi die Anforderung. Das hat etwa zur Folge auch, dass wenn von starken
+Persönlichkeiten gesprochen wird, in aller Regel Männer gemeint sind. Also da findet man eben auch
+Formulierungen wie große Männer machen Politik und Ähnliches. Da hat man quasi schon vorgeformt,
+diese Vorstellung, wer in die Politik geht. Das sind vorgeformt starke Persönlichkeiten und damit
+männliche Persönlichkeiten. Aber das fand ich immer sehr interessant. Das wird nicht nur auf
+Menschen angewendet, sondern eben auch auf Staaten. Auch Staaten treten als souveräne
+Persönlichkeiten auf die Bühne, könnte man sagen. Und dementsprechend sind ja auch die
+internationalen Organisationen nach 1945 genauso aufgesetzt worden. Es waren eben internationale
+Organisationen, auf denen die verschiedenen Staatspersönlichkeiten, die ein eigenes
+Staatsbewusstsein ausgeprägt haben, miteinander verhandeln. Also das hat ziemlich viele
+Konsequenzen, wenn wir das Subjekt so denken. Und Ähnliches gilt dann eben für die Zeit- und
+Raumvorstellungen. In zeitlicher Hinsicht dominiert hier im Prinzip eine lineare und auch eben
+kontinuierliche Zeitvorstellung, die von der Vergangenheit über die Gegenwart in die Zukunft
+läuft und eigentlich auch materiell gerichtet ist. Also es gibt die Vorstellung, es gibt ein Ziel,
+auf das man sich hin entwickeln soll innerhalb dieser Zeitkonzeption. Teleologisches Denken,
+wäre sozusagen der fachliche Begriff dafür. Und darin eingelagert ist eben auch eine bestimmte
+Vorstellung von Fortschritt. Man ist in nach 1945 soweit, dass man natürlich nicht mehr sagt,
+ja wir entwickeln uns auf jeden Fall in diese Richtung, sondern natürlich die Erfahrung der
+beiden Weltkriege hat gezeigt, dass man das verfehlen kann. Aber das Ziel sozusagen ist
+eine Fortschritt und eine Entwicklungsperspektive. Und daher kommt hier dann auch die Begrifflichkeit
+der Entwicklungspolitik und ähnliches, die aus diesem Paradigma herauskommt. Und in räumlicher
+Hinsicht hat man hier ganz klar ein Flächenmodell des Raumes. Also man stellt sich Raum als Fläche
+vor und das klingt erstmal so natürlich wie denn sonst. Aber wenn man eben in das Netzwerk
+denken kommt, da wird Raum überhaupt nicht als Fläche konzipiert, sondern als im Prinzip
+miteinander verbundene Knotenpunkte. Und das, was als Fläche dazwischen liegt, ist in diesem
+Netzwerkdenken nicht repräsentiert sozusagen. Die Folge im Souveränitätsdenken ist natürlich,
+dass ich mir die politische Landschaft eben auch als eine parcelierte oder segmentierte Fläche
+vorstelle, eben in Nationalstaaten. Und da hatten wir aus diesen drei Dimensionen Raum,
+Zeit, Subjekt, schon eine ganze Menge von Konsequenzen. Und jetzt könnte man quasi den
+Schritt in diesen klassischen Bereich des Regierens hinübergehen und sagen, okay wir haben ja
+offensichtlich ein teleologisches Regierungsverständnis, was darauf abzielt, dass der
+Staat oder die Regierung oder Politik, das ist relativ gleich gehalten, also sozusagen Politik
+ist gleich Staat ist gleich Regierung, dass die die Führung der Gesellschaft oder der Gemeinschaft
+übernimmt, für die sie Verantwortung tragen. Sie werden als Repräsentationsinstanzen gedacht und
+zwar sowohl als Repräsentanten ihrer Gemeinschaft, als auch als Repräsentanten dieses höheren Gutes,
+zu dem sie sich entwickeln sollen. Und die Aufgabe ist gewissermaßen, das in Einklang
+miteinander zu bringen. Man hat also hier zum einen eine Integrationsvorstellung, man hat dieses
+teleologische Element, man hat eine starke Repräsentationsidee, gegen die sich das
+Netzwerkdenken wenden wird, was dann eben auch eine repräsentative Demokratie und Ähnliches
+mündet. Und man hat eben auch eine starke Vorstellung davon, dass man auf das Gerechte
+und Gute hinstrebt, auch wenn sehr stark differiert, wie das dann konzipiert wird. Also
+innerhalb dieses Souveränitätsdenkens gibt es eben sehr, sehr unterschiedliche Positionen,
+die sich teils sozusagen bis aufs Blut bekämpfen. Also diese klassische Gegenüberstellung zwischen
+Konservativen und Linken ist das Beispiel. Die operieren eigentlich erstmal in dieser Zeit im
+gleichen Paradigma, haben aber völlig verschiedene Vorstellungen davon, wohin das eigentlich führen
+soll. Großartig, das finde ich eine sehr spannende Ausführung. Und ich glaube, es wäre schon auch
+noch mal an dieser Stelle reizvoll, vielleicht darauf hinzuweisen, wo jetzt da dann die
+Kybernetik ansetzt in ihrer Kritik am souveränen Denken. Also was sind so die Kernpunkte auf Basis
+derer, die Kybernetik argumentiert, warum diese Form des Denkens eben altes Denken ist, das nämlich
+auch nicht mehr in der Lage sei, eigentlich die Herausforderungen, die da existieren, in einer
+produktiven Art und Weise zu adressieren. Ja, das ist gar nicht so einfach zu sagen, weil es
+natürlich eine ganze Reihe von Punkten sind, an denen die Kybernetik ansetzt. Was schon einfach
+daran liegt, wie ich das eben beschrieben habe, dass das im Prinzip ein ganzes Paradigma ist und
+dementsprechend kann ich auch an verschiedenen Punkten ansetzen und dann in das ganze Paradigma
+hineingehen, sozusagen. Aber etwas, wogegen sich die Kybernetik ganz klar wendet, ist diese
+Vorstellung von Humanismus, die im Prinzip eingelagert ist in das souveränitäts Denken,
+mindestens der Nachkriegszeit, aber auch schon davor. Und damit geht ja einher, dass man im
+Prinzip unterscheidet zwischen Mechanik und Menschen, also sozusagen Maschinen und Menschen,
+sind grundverschieden, sind wesensverschieden, würde man in dem ontologischen oder
+souveränitätsparadig mal sagen. Und das macht die Kybernetik zum Beispiel nicht mit. Sie würde
+sagen, es muss darum gehen, zu verstehen, dass die Regelungsprozesse, die in diesen Dingen
+passieren, eigentlich ähnlich sind. Und sie versucht eben, diese beiden Perspektiven,
+die ja permanent miteinander im Streit liegen, das ist zum Beispiel so ein Punkt, warum die
+Kybernetik sich dagegen wendet. Dieser Kampf zwischen Mechanik und Maschine und Mensch,
+der ja mindestens seit dem 19. Jahrhundert immer wieder gegeneinander spielen und ja auch eben für
+das Verständnis von Totalitarismus sehr zentral ist und eine große Debatte ist oder auch für die
+Gegenüberstellung des Westens gegen das Ostens, da wird quasi diese Metaphorik auch immer wieder
+ausgespielt gegeneinander. Und die Kybernetik versucht, darüber hinweg zu kommen und einen
+Deutungsrahmen zu entwickeln, der beides sozusagen zusammenfassen kann. Das ist so ein Punkt, das ist
+auch der, der sozusagen erst mal die größte Furore macht, als die Kybernetik auf den Plan tritt,
+wie das dann überhaupt sein kann. Und sozusagen aus der humanistischen Perspektive ist das
+natürlich quasi Teufelszeug, wenn man das auf den Begriff zuspitzen will, was die Kybernetik
+da macht. Und das erregt wahnsinniges Aufsehen, als die Kybernetik entsteht. Wichtig für den
+Zusammenhang des Regierens ist aber natürlich, dass sie dann auch sagt, dass dieses Verständnis von,
+wir haben im Prinzip eine Top-Down-Regelung oder eine hierarchische Regelung, dass das überhaupt
+nicht mit dem zusammengeht, wie Organismen zum Beispiel, wie das Gehirn arbeitet. Und wir müssen
+das neu konzipieren. Und dann setzt man im Prinzip so Netzwerkkonzepte zum Beispiel ein,
+um zu verstehen, wie das Gehirn funktioniert. Und führt dann ein Set an Begriffen ein,
+die sich ineinander übersetzen lassen. Also dann hat man eben den Netzwerkbegriff und den
+Systembegriff, man hat aber gleichzeitig eben auch Maschinen. Und man baut auch Maschinen,
+um zu verstehen, wie das Gehirn zum Beispiel funktioniert. Also das berühmteste Beispiel ist
+der Hymenostat dafür. Also das Argument der Kybernetik ist, das ist eigentlich ein naives
+Steuerungskonzept, was ihr da habt. Und entspricht überhaupt nicht dem, wie sich diese
+Steuerungsprozesse abspielen. Und deswegen brauchen wir quasi ein anderes Modell, um das zu erklären.
+Und in Bezug auf konkrete Vorschläge für Formen des Regierens auch in Bezug auf größere
+Organisationseinheiten, eben die dann vielleicht auch nicht unbedingt als Staat gedacht werden
+müssen, aber die zumindest in der Lage wären, größere gesellschaftliche Strukturen auch zu
+strukturieren, zu organisieren und so weiter. Wohin mündet das da in diese Richtung?
+Da muss man natürlich erstmal das KV-Art davor schieben, dass die Kybernetiker eben erst
+mal eine sehr starke Grundlagenforschung waren, in der es am Anfang gar nicht so zentral um
+Gesellschaften ging, sondern es ging um Gehirne, um Menschen, um Mäuse, um Zellen und alle sowas.
+Und teilweise gibt es auch klare Distanzierung davon. Manche Kybernetiker wollen das nicht
+übertragen auf Gesellschaften und andere sagen aber eben, Barry Bateson ist so ein Beispiel dafür,
+dass sich das sehr wohl und auch sehr gut übertragen lässt. Man muss das also im Prinzip als
+so ein Prozess auch verstehen. Zum einen, dass es unterschiedliche Positionen innerhalb der
+Kybernetik gibt und zum anderen, dass das durchdiffundiert in andere Gebiete,
+Managementtheorien, Counterculture und ähnliches, wo dann eben diese Anwendung auf Gesellschaften
+sowieso stattfindet. Unter Anwendung dieses neuen Begriffs und Denkrahmens, den die Kybernetik zur
+Verfügung stellt. Und hier hat man dann eben sehr stark diese Vorstellung, die erstmal vom
+Netzwerkbegriff sehr schön eingefasst wird. Nämlich, dass man im Prinzip verschiedene
+autonome Einheiten hat, die sich selbst regulieren und die dann miteinander vernetzt sind. Das heißt,
+man hat eben flache Hierarchien, würde man sagen. Eigentlich hat man keine Hierarchien. Man hat eine
+Ebene und eben nicht mehr zwei Ebenen, die gegenübergestellt sind. Aber flache Hierarchien
+sage ich deswegen, weil das ja so ein Sprech ist, den wir heute häufig verwenden. Und da kommt
+im Prinzip die Idee her, dass wir flache Hierarchien haben, dass wir eigentlich keine Hierarchien haben.
+Und im Blick auf die Regierungskonstitution heißt es, man hat erstmal eine Dezentrierung von
+Staatlichkeit und auch eine Dezentrierung der Politik. Die Politik ist eben nur noch ein
+Teilsystem unter anderem. Unter anderem Teilsystem innerhalb der Gesellschaft, um diese klassische
+Formulierung der Systemtheorie zu nehmen, die in dieses Paradigma ganz offensichtlicher hineingehört.
+Und man hat die Vorstellung, dass sich die Organisationseinheiten, ob das jetzt quasi
+auf öffentlicher Verwaltungsebene ist oder auch in anderen Organisationen wie Unternehmen,
+selbst regulieren können und müssen. Das ist sozusagen der Clou daran. Die Idee der
+Kybernetik war zu sagen, Regulation findet im Prinzip einfach dadurch statt oder es ist der
+Name dafür, dass sich innerhalb eines solchen Netzwerkes Verbindungen herstellen und darüber
+im Prinzip Dinge eben passieren, die so ein Gehirn macht zum Beispiel. Und das gelingt umso
+besser, je komplexer und vielfältiger diese Netzwerke sind. Also desto mehr unterschiedliche
+Verbindungen sie herstellen können, desto mehr unterschiedliche Elemente sie haben, desto einfacher
+oder desto besser können sie im Prinzip auf Schwankungen, Veränderungen sowohl innerhalb
+des Netzwerkes als auch außerhalb des Netzwerkes, also sozusagen aus der Umwelt eines Netzwerkes
+reagieren, indem sie neue Arrangements bilden. Und das heißt dann eben, je vielfältiger sie sind,
+desto kreativer sind sie, desto mehr sind sie fähig, neue Arrangements zu innovieren, neue
+Arrangements zu entdecken und zu experimentieren damit. Und da hat man eben diese Begriffe,
+die heute für das Regierungsdenken auch schon prägend sind. Also man hat die Vorstellung,
+dass man einen hohen Grad an Diversität und Flexibilität braucht und dass man im Prinzip auf
+Veränderungen permanent reagieren muss. Man hat also keine langfristige Perspektive in dem Sinne
+mehr, sondern sehr stark auf Lernen und permanente Selbstkritik im Prinzip ausgerichteten
+Regierungsstil. Und die Einheiten werden dann eben auch eher kurzfristig zusammenberufen und
+zusammengesetzt. Also typische Formulierungen dafür sind eben, dass man entweder in einem Projekt
+arbeitet oder in einem Team arbeitet. Das findet man zum Beispiel auch im Wahlprogramm der Grünen,
+hat man genau diese Formulierung oder auch dieses, was viele sicherlich kennen werden, Design
+Thinking. Da ist genau das die Idee. Ich hole im Prinzip Leute zusammen, die aus den unterschiedlichsten
+funktionalen Teilsystemen zum Beispiel der Gesellschaft kommen und setze die an einen Tisch.
+Und die schreiben dann etwa die Policy oder handeln die Policy untereinander aus. Und der Staat oder
+die öffentliche Verwaltung tritt nicht mehr als sozusagen jemand auf, der interveniert,
+sondern als jemand, der das Netzwerk zusammensetzt und im Prinzip dafür zuständig ist,
+dass diese Selbstregulation funktioniert. Facilitator heißt das dann. Das ist sozusagen
+Network Governance in seiner Reinkultur. Also so übersetzt sich das dann im Prinzip zum
+Beispiel in Regierungsprogramme. Man hat das aber eben auch. Network Governance ist ja so
+ein Ansatz, der sozusagen auf der Regierungsseite, könnte man sagen, steht. Und mir ist immer sehr
+wichtig zu betonen, dass das kein Herrschaftswissen darstellt, sondern dass wir quasi das gleiche
+Denken auch auf der regierungskritischen Seite haben mit ähnlichen Implikationen. Also wirklich
+ein typisches Beispiel dafür ist Michel Foucault, der ja auch jenseits seiner Theorie oder seiner
+Studien auch selbst sehr aktiv war und eben diese Organisation, die in der Gefängnisdebatte aktiv
+war, genauso konzipiert haben wollte. Im Prinzip als ein Netzwerk, wo dann jede Gruppe nur für den
+lokalen Raum im Prinzip erstmal zuständig ist und sich dort auch selbst organisieren kann und soll.
+Erst indem die dann ein Netzwerk bilden, dadurch generiert das dann quasi einen Effekt, ohne dass
+sich eine übergeordnete Organisationseinheit bildet. Also er formuliert das dann auch so, dass seine
+Gruppe ein Relais darstellt, so wie andere Gruppen auch Relais im Prinzip darstellen. Aber es gibt
+eben keine übergeordnete Einheit und damit hat man schon eine scharfe Kritik zum einen an Parteien,
+ganz offensichtlich, die sozusagen typische Organisationsformen der Moderne sind und eben
+das Objekt auch bestimmten Anforderungen unterwerfen, was Foucault ja kritisiert, oder auch gegenüber
+Gewerkschaften. Also da hat man sagen auch auf der kritischen Seite einmal ganz klare Kritik gegenüber
+Regierungsmechanismen, aber eben auch eine Kritik an alten Formen der Organisation.
+Jetzt sind in deiner Beschreibung natürlich so viele Begriffe, Formulierungen, Worte gefallen,
+die man assoziiert mit einem bestimmten Zeitgeist, der leider sehr unscharf oft einfach mal allgemeingültig
+unter Neoliberalismus zusammengefasst wird. Das ist ja nicht unproblematisch, da irgendwie dieses
+Siegel irgendwie drauf zu klatschen und das würde ich jetzt eigentlich auch nicht unterschreiben wollen.
+Nichtsdestotrotz gibt es da eine gewisse Nähe. Nachdem so viele dieser Wörter jetzt gefallen ist,
+ist es vielleicht gut und wichtig, dass du das uns ein bisschen auseinanderdröselst. Was ist denn
+da das Verhältnis zwischen dieser Form der Technologik, wenn man so will, und dem, was man
+gemeinhin so Neoliberalismus nennt, ohne dass ich das jetzt irgendwie einheitlich definieren wollte?
+Ja, ich glaube, dass das eine sehr wichtige Unterscheidung darstellt und dass wir tatsächlich
+ein Problem bekommen, wenn wir den Begriff Neoliberalismus für alles Mögliche verwenden.
+Es gab eine ganze Zeit diesen Trend, dass im Prinzip alles als Neoliberalismus bezeichnet wurde,
+was einem nicht gefiel, könnte man sagen. Das finde ich auch das Entscheidende daran,
+damit verliert der nicht nur seine analytische Kraft, sondern er verliert eben auch seine kritische
+Kraft, wenn plötzlich alles sozusagen Neoliberalismus ist. Ich glaube, man kann
+hier eben sehr schön sehen, dass wir ja seit den 70er Jahren eine Durchsetzung des neoliberalen
+Denkens haben, aber dass daneben eben noch ein zweites Paradigma sich als Antwort auf die Krisen
+der 70er Jahre etabliert hat. Das ist das Netzwerkdenken oder das technologische Denken,
+was ich sozusagen synonym verwende und dass die sich erstmal grundsätzlich unterscheiden.
+Man kann das auch schon in den Debatten der 70er Jahre sehr gut nachvollziehen. Da sieht man
+nämlich, was Neoliberalismus mal gemeint hat von denjenigen, die das eingeführt haben als
+im Politikstil. Wenn man sich neoliberales Denken anguckt, dann hat man es hier im Grunde mit einem
+typisch mechanischen Denken zu tun, was also sehr stark auf kausale Steuerungsmechanismen setzt,
+die im Prinzip zwei Hebel kennen, nämlich Pleasure und Pain, um das von Jeremy Banfield zu nehmen,
+der im Prinzip ein bisschen der Vordenker von La Lettre war, oder Anreize und Sanktionen,
+wie wir das heute nennen würden. Und die Anreize und Sanktionen als Hebel verwenden, um Verhalten
+von Menschen steuern zu können. Und hier sieht man schon, dass das technologische Denken ganz
+anders angelegt ist, weil es ja genau diese Mechanik grundlegend kritisiert und die Mechanik für ein
+im Prinzip überholtes Paradigma hält, sowohl um natürliche Prozesse zu verstehen und darauf im
+Prinzip auf eine physikalische Entwicklung aufbaut, die mit den Namen Gibbs und Heisenberg und
+ähnlichem verbunden ist, als auch um gesellschaftliche und andere Regelungsprozesse
+zu verstehen. Also es hält dieses Regelungsdenken der Mechanik für veraltet und es ist insofern
+auch nur logisch, dass sie auch das neoliberale Denken für veraltet hält. Das kann man sich dann
+im Detail sehr gut angucken. Also die Idee des Neoliberalismus ist ja in den 70er Jahren sehr
+schön zu sehen. Erstmal zu sagen, okay, wir hatten jetzt im Prinzip ein Regierungsparadigma, dass der
+Regierung und den Staatsmännern, wie es dann logischerweise in der Zeit immer heißt, sehr
+viel Vertrauen entgegengebracht hat und das ist vielleicht nicht so klug, sagen die Vertreter des
+Neoliberalismus, sondern die würden ja, weil sie Nutzenmaximierer sind, im Prinzip darauf aus sein,
+ihren Nutzen zu vergrößern und das ist logischerweise schlecht für die Gesellschaft.
+Und das heißt, wir müssen die Politik und die Verwaltung eigentlich unter einen neuen
+Steuerungsmechanismus unterwerfen, damit sie das nicht mehr machen können. Also dass quasi das
+Interesse, das die Staatsmänner und Funktionäre haben, in Linie gebracht wird mit dem Interesse
+der Gesellschaft. Und die Gesellschaft wird dann eben als Marktgesellschaft konzipiert. Also man hat
+hier nach wie vor eben auch ein hierarchisches Denken, in dem die Marktgesellschaft im Prinzip
+über den Staat und über die Politik gestellt wird, wo hingegen vorher eben die Politik über
+die Gesellschaft gestellt war. Und das führt dann dazu, dass bestimmte Maßnahmen, wie etwa
+Transparenzmechanismen eingeführt werden, die sichtbar machen, was denn in der Politik passiert
+und damit im Prinzip sowohl sanktionierbar machen, aber alle Einschnitte, die sichtbar machen,
+im Prinzip einen Steuerungseffekt hat über diese beiden Hebel Anreize und Sanktionen.
+Das ist sozusagen ein ganz grober Abriss von dem, wie das Argument läuft, wo man dann nochmal auch
+ins Detail gehen kann. Das hat aber zum Beispiel auch zur Folge, das sieht man dann im New Public
+Management sehr schön, dass Verwaltungen sehr stark und krass hierarchisch organisiert werden
+sollen. Sozusagen Principle Agent Theory ist das. Wir haben einen Prinzipal und wir haben einen
+Agenten und die bilden eine hierarchische Kette, wie es in der, wie es dann Terry Moe,
+das dann auch wortwörtlich so nennt, wo dann Anweisungen von oben nach unten durchgereicht
+werden. Und weil man aber so eine hierarchische Kette hat, kann man das sehr schön beobachten,
+wer denn eigentlich den Fehler macht und entsprechend sanktionieren. Das ist die
+lange Tradition, die das neoliberale Denken eben auch von Jeremy Bantham am Anfang der Moderne hat.
+Und das Ziel ist im Prinzip, ein besseres Regieren zu generieren, dass sowohl bessere Ergebnisse,
+rationale Ergebnisse, rationalere Ergebnisse liefert als vorher, als auch Sicherheit zu generieren.
+Dass sozusagen mir nicht einfach mein Hab und Gut weggenommen werden kann und ähnliches.
+Und hier hat man im Prinzip einen wirklichen Modernisierungsparadigma,
+par excellence. Das ist richtig klare Modernisierung und das kann dann auch eben auf diese
+Informationstechnologie natürlich aufbauen, weil die ja erstmal verspricht, dass man das,
+was man vorher immer bloß gedacht hat, tatsächlich machen kann. Also immer mehr
+Informationen generieren, um dann tatsächlich ein rationales Urteil am Ende zu haben. Und schon
+allein aus den Informationen ergibt sich dieses rationale Urteil. Das technologische Paradigma,
+das Netzwerkdenken, argumentiert ja genau gegen diesen Denkvorgang, gegen diese Form des
+Nachdenkens über Politik und Gesellschaft grundlegend an. Sie hält ja genau diese Form
+von Rationalisierung durch immer mehr Informationen für veraltet und falsch,
+um es so einfach zu sagen. Weil immer mehr Information eben nicht zu Transparenz führt,
+sondern zu immer mehr Komplexität. Und die Frage ist, wie geht man mit so einer Komplexität um?
+Und wenn man diese Gegenüberstellung zwischen Neoliberalismus und Netzwerkdenken macht,
+kann man sagen, erstens, ideengeschichtlich haben die ganz unterschiedliche Ressourcen,
+erstmal. Das eine geht eben auf Jeremy Bentham und dieses Denken, liberalökonomische Denken,
+zurück, das in der Mechanik sich stark bedient. Und das andere geht eben auf die Kybernetik zurück,
+was sich genau gegen diese Mechanik wendet. Und zweitens haben sie dann aber auch systematisch
+sehr große Unterschiede, dass sie sowohl hierarchische Organisationsformen zum Beispiel
+zurückweisen und dass sie auch nicht davon überzeugt sind, dass diese Moralisierung zum
+Beispiel von Marktgesellschaft oder Zivilgesellschaft als das Gute überhaupt tragfähig ist. Also das
+neoliberale Denken und die neoliberale Praxis hat aus der Sicht des Netzwerkdenkens erstmal
+grundsätzlich falsche Vorannahmen getroffen. Und insofern ist es auch überhaupt nicht überraschend,
+dass die immer wieder dieses neoliberale Denken kritisieren. Und zwar in den 70er Jahren und auch
+in den 90er Jahren und auch in der Gegenwart. Die Abgrenzung davon ist immer wieder relativ stark.
+Dann kann man aber natürlich sehen, dass es so etwas wie Broker zwischen diesen zwei Paradigmen
+gibt. Also es ist ja nicht so, dass die sich völlig luftleer entwickeln würden und nicht
+irgendwelche Berührungspunkte hätten. Ein typischer Berührungspunkt wäre natürlich
+erstmal die Abgrenzung von einem Regierungsverständnis, das den Staat ins Zentrum stellt,
+das davon ausgeht, dass es einen Staat als Steuerungszentrum der Gesellschaft im Prinzip
+gibt. Das ist sozusagen einfach historisch bedingt, dass sich beide gleichzeitig davon
+abgrenzen und teilt das Erfolgsrezept von beiden Strömungen in der Krise der 70er Jahre. Oder ein
+zweiter typischer Broker wäre, dass sie beide Vorstellungen davon haben, dass man mehr Informationen
+braucht, aber das Informationskonzept oder was man damit machen kann, unterscheidet sich
+grundlegend. Also das neoliberale Denken sagt halt super, mehr Informationen, damit rationalisieren
+wir und haben sozusagen rationales Urteil am Schluss. Und das Netzwerkdenken sagt aber,
+es geht überhaupt nicht darum, das zu rationalisieren, sondern wenn wir mehr Informationen
+haben, kann der Nutzer, also der User, damit Dinge machen, die für den User interessant sind.
+Also es ist im Prinzip eher, zum einen ist es stark userseitig gedacht und zum anderen ist es stark
+auf Kreativität ausgelegt und eben mit der Idee versehen, dass es so etwas wie ein One-Best-Way
+überhaupt nicht gibt, dass es sozusagen eine Fantasie ist, die nicht existent ist, sondern es
+geht darum, immer wieder neue Arrangements zu generieren, kreativ zu sein, innovativ zu sein und
+dann guckt man, ob das funktioniert und wenn nicht, muss man es halt neu ausrichten. Und ein dritter
+wichtiger Broker ist die Spielmetaphorik, die natürlich quasi im neoliberalen Denken ausgeprägt
+ist über Spieltheorie im Grunde, aber auch in der Kybernetik wurden Teile der Spieltheorie inkorporiert.
+Das ist eine ganz interessante Entwicklung, wie das passiert, wo ich jetzt aber nicht im Detail
+reingehen würde, aber sie ermöglicht der Kybernetik im Grunde so etwas wie Akteurskonstellation zu
+denken, was vorher mit Netzwerk- und Systembegriffen so einfach nicht möglich war und dadurch hat man
+jetzt in diesen technologischen Debatten häufig so Sachen wie, wir haben Netzwerke und in diesen
+Netzwerken finden Spiele statt und das ist quasi auch so ein Broker zwischen diesen beiden
+Paradigmen, so dass man an bestimmten Stellen halt Überschneidungen hat und an anderen Stellen sehr
+starke Differenzen. Und mein Plädoyer wäre, dass man, wenn man die Gegenwart verstehen will,
+erstens diese beiden Paradigmen auseinanderhalten muss und zweitens dann konkret analysieren muss,
+wo überlappen die sich, wo arbeiten sie zusammen und wo treffen sie aufeinander und generieren
+völlig unterschiedliche Vorschläge und auch Effekte. Absolut, weil es gibt ja definitiv diese
+Mischform. Du hast ja schon die Broker aufgezeigt, anhand derer man solche Mischformen vielleicht
+halt auch finden und identifizieren und dann analysieren könnte. Es gibt sie in jedem Fall
+und es gibt sie in beide Richtungen, könnte man sagen, denn so sehr das Netzwerkdenken in
+verschiedenste Bereiche unserer Gesellschaften diffundiert ist, so sehr ist ja auch das Denken
+in Souveränität nicht komplett abgelöst worden, sondern das existiert gleichermaßen weiter und
+wurde eben nicht gänzlich jetzt von diesem neuen Paradigma des Netzwerkdenkens abgelöst. Man sieht
+es eben dann interessanterweise und hier haben wir dann wieder diese Überlappungen, ja gerade
+auch in solchen Bereichen wie der Digitalisierungsdebatte, wo das dann immer wieder aufkommt. Da wird
+gesprochen von digitaler Souveränität. Wir werden adressiert ganz klar als Individuen, die jetzt dann
+wieder irgendwie ihre Hoheit über die Daten zurückerlangen sollen. Wie deutest du diese
+Gleichzeitigkeit von Omnipräsenz des Netzwerkdenkens auf der einen Seite und Persistenz des Denkens der
+alten Souveränität auf der anderen Seite? Also zum einen ist es natürlich glaube ich erstmal gar
+nicht so überraschend, weil natürlich anzunehmen, dass das jetzt komplett verschwindet, wäre ja
+geradezu naiv. Gerade für so eine Tradition, die ja Jahrhunderte alt ist, ist zu erwarten, dass das
+sowohl als explizite Vorschläge, als auch als Vorstellungswelt irgendwie erstmal erhalten und
+abrufbar bleibt. Das ist jetzt erstmal glaube ich gar nicht so überraschend. Interessant ist aber,
+wenn man sich jetzt eben solche Dinge anguckt, die du als Beispiel gebracht hast, wie kommt denn
+das eigentlich zurück und warum kommt das zurück? Der Digitalisierungsdiskurs ist ein super Beispiel
+dafür, finde ich, weil wir hier ja eigentlich, das ist das Heimspiel von Netzwerkkonzepten. Also
+wo sind Netzwerkkonzepte derartig präsent gewesen, auch schon in der Entstehung dieses ganzen
+Diskurses, wie im Digitalisierungsbereich. Die frühen Netzdiskurse sind logischerweise geprägt
+von diesen ganzen Konzeptionen, sowohl auf der technischen Seite, als auch auf der Frage,
+wie organisieren wir das dann eigentlich sozial, was schon allein daran liegt, weil die Kybernetik ja
+auch die Begriffe bereitgestellt hat, um diese technischen Artefakte zu generieren, wie das
+Internet. Also diejenigen, die das erfinden, bei denen kann man ganz vielen zeigen, dass
+die enge Verbindungen zur Kybernetik haben. Steve Jobs, Douglas Engelbert und ähnliche,
+die beziehen sich explizit und positiv auf die Kybernetik. Also das ist sozusagen, das ist
+eigentlich Heimspiel und entsprechend findet man auch schon früh Plädoyers dafür oder ganz klare
+Kritik an Souveränitätskonzepten und dass man auch die Regulierung des Internets ja nicht an
+Staaten angeben dürfte, die ja sowieso veraltet seien. Man hat quasi dieses ganze Set an Narrativen,
+was die Kybernetik mitbringt, wieder in dem frühen Digitalisierungsdiskurs. Und dann passiert was
+Interessantes, könnte man sagen. Seit 10, 15 Jahren vielleicht, denn es ist schon recht weit
+zurückgegeben, kommt eben dieses Souveränitätskonzept langsam zurück. Und jetzt ist es ja wirklich sehr
+stark und deutlich zu sehen, dass wir in diesem Digitalisierungsdiskurs wieder das Plädoyer haben
+für Souveränität aus verschiedenen Perspektiven, also Staatenkonkurrenz natürlich, eben die
+ökonomische Prosperitätsargument. Also wir können sozusagen über Digitalisierung Wirtschaftswachstum
+haben und das verteilen und das präsentiert den Staat wieder als einen wirtschaftlichen Akteur,
+der er ja eigentlich nicht sein dürfte, obwohl er es natürlich jederzeit war. Und wir haben eben
+diese Subjektebene, wo es dann um Datenschutz geht und Informationsverlässlichkeit, dass man eben
+auch als Bürger souveräne Entscheidungen treffen kann und diese ganze Rhetorik, also auch unterschiedliche
+Konzepte von Souveränität. Das kommt hier also zurück tatsächlich und kann auf diese ganzen,
+auf diese unterschiedlichen Ebenen auch aufbauen, so wie ich das eben auch dargestellt habe. Also den
+Staat als Akteur unter anderen Staaten, den Staat als wirtschaftliche Steuerungsinstanz, die er ja in
+den 50er-, 60er-Jahren eben auch war und die Subjekte als souveräne Subjekte, kann man sagen, genau auf
+diese Dimensionen wieder aufbauen. Und das Interessante ist, dass das eben nicht nur in der
+Digitalisierung stattfindet, sondern parallel auch in anderen Bereichen der Gesellschaft stattfindet.
+Also man könnte erstmal sagen, festhalten, dass diese Selbstverständnisse, welche Aufgaben Politik
+zum Beispiel hat und wie Politik positioniert ist, seit einiger Zeit wieder ins Rutschen gekommen sind
+und in Bewegung gekommen sind. Und dieses Souveränitätsdenken, dort wieder eine Rolle spielt
+etwa über rechtspopulistische Formen, die ja mit diesem Take-Back-Control im Prinzip genau die
+Souveränitätsidee vertreten. Allerdings, wenn man das zum Beispiel vergleicht mit den 50er- und
+60er-Jahren, eine ziemlich krude und verkümmerte Form von Souveränitätsdenken, die in den 50er-,
+60er-Jahren sehr viel weiter war in vielen Punkten. Aber sie bringen eben dieses Versprechen von
+Machbarkeit wieder in den Vordergrund. Aber nicht nur rechtspopulistische Formen, sondern ja auch
+sozialdemokratische Akteure oder auch Intellektuelle positionieren den souveränen Nationalstaat als
+Antwort auf eine ganze Reihe von Problemen, die wir beobachten können. Und Souveränität tritt hier
+im Prinzip jetzt auf, als eine vertraute Antwort auf aber neue Problemlagen. Und insofern kann man
+sich überlegen, wie erfolgsversprechend das ist, wenn man auf neue Problemlagen mit diesen vertrauten
+Antworten reagiert. Das ist, glaube ich, das, was jetzt prinzipiell passiert. Und die Frage ist,
+warum passiert das? Das versuchen ja viele zurzeit zu lösen, wie diese Neuverhandlung eigentlich
+über das, was wir sind und was wir sein wollen als Gesellschaft zustande kommen. Und ein Teil
+zumindest ist, glaube ich, dass die Regierungsrationalitäten oder die Paradigmen der
+Spätmoderne, also die seit den 70er Jahren dominant geworden sind, eine ganze Reihe von
+neuen Problemen geschaffen haben. Und für den Neoliberalismus könnte man sagen, wissen wir das
+alles, weil das ja sehr viel im Fokus war. Für das Netzwerkdenken ist das eben noch gar nicht so
+gut erforscht und müsste, glaube ich, sehr viel konzentrierter untersucht werden. Es gibt aber zum
+Beispiel, wenn man guckt, was könnten solche Probleme sein im Netzwerkdenken, hat man auf
+jeden Fall das Problem, dass diese permanente Flexibilitätsanforderung eine Überlastung für
+viele Menschen ist. Und dieser ganze Diskurs über das Erschöpfte Selbst, der ja in den
+Sozialwissenschaften schon lange existent ist, eben nicht nur auf den Neoliberalismus zurückführt
+werden kann, sondern auch auf das Netzwerkdenken zurückgeführt werden muss. Man hat zum anderen
+im Netzwerkdenken natürlich auch eine Aushöhlung von bestimmten kollektiven
+Handlungsfähigkeiten und so Vorstellungen wie einem gemeinsamen Gemeinwohl. Das wird im
+Netzwerkdenken klassischerweise so nicht vertreten, was dann eben auch zu einer Kritik an repräsentativen
+Institutionen führt, die natürlich aber für die Vertretung von bestimmten Arbeitsschutzrechten
+zum Beispiel eine zentrale Rolle spielt, aber überhaupt auch, um Selbstwirksamkeit erfahren
+zu können. Also hier haben wir, glaube ich, auch ein Problem, was die Erfahrung von kollektiver
+Handlungsfähigkeit angeht. Und ein dritter Punkt wäre, dass im Netzwerkdenken alternative
+Selbstbeschreibungen, die es in der Gesellschaft gibt, abgewertet werden. Also sehr schön stellt
+das eigentlich Arley Russell Hochschild in ihrem Buch dar, in dem sie im Prinzip auf das Land zieht,
+sozusagen, um zu verstehen, wie eigentlich die Trump-Wählerinnen ticken. Und dann beschreibt
+sie in diesem Buch eben sehr schön, wie es dort Selbstverständnisse gibt, die sehr stark an das
+Land gebunden sind und an so etwas wie Kontinuität und Herkunft gebunden sind. Und da wird sehr
+deutlich, dass es eben andere Selbstbeschreibungen innerhalb unserer Gesellschaft gibt, die vom
+Netzwerkdenken aber im Prinzip als veraltet dargestellt werden. Und die Frage ist, was machen
+die dann eigentlich? Und womöglich suchen die sich ein Vetil irgendwo anders, weil sie sich
+nicht mehr gehört fühlen. Also hier haben wir sozusagen Reibungspunkte oder Defizite,
+die entstehen aus dem Regierungsdenken dieser spätmodernen Zeit. Und man müsste sich das eben
+ganz genau dann auch nochmal im Detail angucken. Aber das müsste man eben auch mal machen.
+Das müsste man ganz unbedingt machen. Da gebe ich dir vollkommen recht. Und was ich finde,
+was aus den Ausführungen, die du jetzt dann da auch gerade geleistet hast, ganz klar hervorgeht,
+ist, dass man eigentlich sagen könnte, dass das Netzwerkdenken jetzt im Grunde schon ein altes
+Denken geworden ist. Dass also die Beschreibungen, die dieses Denken anbietet, natürlich einen
+gewissen Nutzen haben, in bestimmten Formen ganz sicher auch weiterhin produktiv gemacht
+werden können und so weiter. Aber dass weder das Zurückfallen in ein sogar noch banalisiertes
+Souveränitätsdenken noch das Verharren darauf, dass doch einzig das Netzwerkdenken das neue und
+richtige Denken sei, ich sage es jetzt bewusst ein bisschen polemisch, dass weder das eine noch das
+andere quasi wirklich adäquat in der Lage wäre, für unsere jetzige Situation fruchtbar gemacht
+zu werden. Das heißt, und das schließt eigentlich sehr schön an den Anfang unseres Gesprächs an,
+wo wir ja schon angekündigt haben, dass wir diesen Pfad nochmal etwas weitergehen wollen,
+auch in Bezug auf die Frage von Alternativen. Das heißt, es muss eigentlich eine Frage gestellt
+werden, die zurzeit zu meinen Lieblingsfragen gehört, kann ich sagen, nämlich die Frage nach
+der alternativen Regierungsrationalität. Und du schreibst da in deinem Buch, und da zitiere ich
+jetzt, die vernetzte Gesellschaft ist daher maßgeblich auch das Produkt ideenpolitischer
+Intervention, die erfolgreich waren, als der gesellschaftspolitische Deutungsrahmen der
+Souveränität zusammenbrach. Zitat Ende. Und ich bin der Meinung, wir erleben derzeit durchaus
+wieder ein solches Zusammenbrechen. Du hast es ja auch schon ein wenig angedeutet, zumindest mal die
+Fragezeichen werden größer. Also ich glaube schon, wir erleben wieder ein solches Zusammenbrechen des
+gesellschaftlichen Deutungsrahmens. Und da ist es umso wichtiger, dass wir uns eben dieser Frage zu
+wenden, dass neue ideenpolitische Interventionen entwickelt werden, die dann eben auch den
+reaktionären Kräften, die du ja beschrieben hast, entgegenwirken. Weil ansonsten natürlich ein
+Zusammenbruch dieses Deutungszusammenhangs tendenziell dazu führt, dass das in den
+reaktionären Kräften in die Hände spielt, weil sie so tun, als hätten sie quasi schon fertige
+Antworten auf Fragestellungen, die in Wirklichkeit ja mit diesen Antworten gar nicht bearbeitet
+werden könnten. Wenn also diese spezifische Form des technologischen Regierens, die du da in
+deinem Buch beschreibst, eigentlich mittlerweile auch schon altes Denken geworden ist, so stellt
+sich dann eben die Frage nach alternativen Regierungsrationalitäten, wie die aussehen
+könnten, wie auch ein anderes technologisches Regieren aussehen könnte. Und man muss dann
+wahrscheinlich auch den Schritt weitergehen, den du ja in deinem Buch auch machst. Man muss
+eigentlich dann auch fragen, bräuchte es eigentlich dann für ein solches alternatives
+technologisches Regieren nicht auch alternative und neue Technologiken? Ja, das sind ja im Grunde
+zwei verschiedene Fragen. Also zum einen erstmal der Aspekt, dass es sich bei dem Netzwerkdenken,
+beim technologischen Denken um ein eigentlich altes Denken handelt. Und das ist auch einer meiner
+zentralen Punkte, den ich versuche in dem Buch zu machen, dass das Netzwerkdenken eben so eine
+Erzählung daherkommt, dass wir ein neues Denken brauchen. Und das interessante aber daran ist,
+dass es genau diese Erzählung in den 40er Jahren, in den 70er Jahren, in den 90er Jahren, in den
+2010er und auch in den 2020er Jahren anbringt. Dass man das also als eine Erzählung, als rhetorische
+Figur verstehen muss und nicht einfach da reintrapsen sollte in dieses ausgestellte Näpfchen. Und dann
+sich eben sowohl die Geschichte kritisch ansehen muss, als auch die massiven Effekte und den massiven
+Einfluss, den dieses Ding gehabt hat, anschauen muss. Und das ist auch etwas, was sich an die
+Sozialwissenschaften selbst richtet, die heute ja durchaus massiv mit diesen Netzwerkbegrifflichkeiten
+auf verschiedenen Ebenen operieren. Also sowohl innerhalb von Analysemethoden, als auch innerhalb
+der Digitalisierungsdebatte, als auch als generelles Framework, um Gesellschaften und politische
+Prozesse zu verstehen. Oder teilweise auch sogar normativ zum Beispiel als Alternative zur
+Souveränität zu präsentieren. Das heißt, die Sozialwissenschaften selbst müssten sich hier
+auch kritisch hinterfragen, inwiefern sie hier quasi Narrative weiterspinnen, anstatt sie
+historisch kritisch einzuordnen und eben auch Alternativen zu dieser Sichtweise aufzubringen.
+Darauf meine ich nicht nur politische Alternativen, sondern eben auch alternative
+Erklärungen für Phänomenen, die wir vorfinden. Das ist sozusagen der eine Punkt. Und der zweite
+Punkt ist dann, wie entwickelt sich das weiter und welche alternativen Regierungsansätze gibt es?
+Und hier muss man natürlich erstmal sagen, barn davor zu sagen, nur weil das Netzwerkdenken
+als mehr oder minder altes Denken inzwischen verstanden werden kann, ist das glaube ich
+noch nicht am Ende angekommen. Dieser Eindruck kann leicht entstehen, zum Beispiel, wenn man in die
+Digitalisierungsdebatte guckt. Also entweder, indem man dann sieht, ja, es entwickelt sich ja
+doch wieder in Richtung Souveränität oder man guckt auf die Plattformbegrifflichkeiten, wo
+das noch mal transformiert wird, um das sozusagen so zusammenzufassen. Aber gleichzeitig verschiebt
+sich dieses Netzwerkdenken oder auch die Subfelder sozusagen verschieben sich. Jetzt tritt
+vielleicht dieser Digitalisierungsdiskurs eher in den Hintergrund, dafür kommt sehr stark der
+Ökologisierungsdiskurs rein, der im Prinzip im Kern auf dieses technologische Denken aufbaut.
+Also die ganzen ökologischen Modelle basieren auf kybernetischen Überlegungen und es ist
+deswegen auch kein Zufall, dass wir in vielen ökologischen Vorschlägen im Prinzip solche
+Figuren wiederfinden. Also brauchen wir nur Kate Raworths Idee von Donut Economics zu nehmen, wo
+wir, also man kann das Buch tatsächlich mal schön reinschauen, weil es genau gegenüberstellt in einer
+Tabelle, wie das alte Denken aussieht und wie das neue Denken aussieht und dass sie sagt, wir
+brauchen ein neues Denken. Also da kommt sozusagen ein neuer Diskurs, der aber auch
+Netzwerkmodelle präsentiert und man müsste sich dann entsprechend natürlich auch anschauen, ist
+das noch das gleiche, was verändert sich, was wurde adaptiert und ähnliches. Das ist glaube ich
+erstmal wichtig zu sagen, nur weil es sozusagen alt ist, ist es noch nicht weg und nur weil es
+in dem einen Feld vielleicht jetzt nicht mehr so dominant ist, kommt aber vielleicht ein anderes
+Feld. Gleichzeitig sehe ich aber auch, dass wir vielleicht nicht vor einem Zusammenbrechen stehen,
+sondern aber vielleicht vor einer Art Bewährungsprobe für dieses Denken mit offenem
+Ausgang. Also wir haben so eine ganze Reihe von Defiziten, über die wir eben auch schon gesprochen
+haben und die Frage ist, wie reagieren diese Regierungstrationalitäten darauf? Gelingt es
+ihnen darauf, Antworten zu finden? Transformieren sie sich eventuell? Verändern sich also Dinge in
+der ganzen Konstellation? Man kann das glaube ich, kann sozusagen das durchaus auch beobachten,
+indem zum Beispiel dieser Commons-Diskurs ja sehr viel stärker geworden ist, um eine Antwort auf
+diese Frage Gemeinwohl zu geben. Da wiederum muss man sich dann anschauen, ist das überhaupt das
+gleiche, was wir eigentlich sonst unter Gemeinwohl verstehen? Aber man hat sozusagen so Transformation
+zu uns Prozesse oder man hat vielleicht auch Hybridisierungsprozesse, also indem es eventuell
+eine Überkreuzung mit Souveränitätsideen gibt. Es ist ja nicht so, dass es gar keine Broker
+zwischen denen geben könnte. Also ich glaube, da haben wir sozusagen eine Bewährungsprobe für die
+aktuellen Regierungsrationalitäten, von denen wir noch nicht sagen können, ob oder wie die ausgeht.
+Und das kann man glaube ich beobachten. Eine zentrale Aufgabe ist glaube ich eben, diese
+Beobachtung zu leisten und dabei einzuspielen, was es vielleicht aus der Perspektive, die wir
+haben, wenn wir wissen, das ist schon eine ganze Weile wirksam, was waren vielleicht Effekte,
+die man als wünschenswert einkategorisieren könnte und was waren Effekte, die problematisch sind. Und
+ein zentraler Aspekt, den wir glaube ich auch einspielen können, ist, welche Alternativen gibt es
+denn überhaupt? Also ich sage, du hörst vielleicht schon an meiner Antwort. Ich bin jetzt nicht in
+erster Linie normativer Theoretiker, sondern eher kritischer Analytik. Aber das bedeutet ja nicht,
+dass man nichts beitragen kann für die normative Debatte, die in der Gesellschaft stattfinden muss.
+Und ich glaube ein wichtiger Beitrag ist, dass wir zeigen können, welche Alternativen gibt es denn
+überhaupt, an die wir überhaupt nicht mehr denken. Also um eine Metapher zu nehmen, die
+Herfried Münkler mal geprägt hat, dass wir quasi in das Archiv der Ideengeschichte hineingehen und
+mal schauen, was wir da noch haben. Zum Beispiel republikanische Ansätze und mit welchen politischen
+Praktiken die eigentlich einhergehen und mit welchem Selbstverständnis die einhergehen und was die uns
+vielleicht für die Gegenwart sagen könnten. Und ich glaube, wenn man zwei Dinge also schafft, wenn
+man es schafft, erst mal herauszuarbeiten, dass wir sowieso schon vor einer Alternative zwischen
+unterschiedlichen Möglichkeiten stehen. Ich glaube nämlich, dass das was ist, was viel zu kurz häufig
+kommt. Gerade das Netzwerkdenken kommt ja auch häufig mit dieser Erzählung daher. Wir leben in
+einem Netzwerkzeitalter und deswegen brauchen wir auch Network Governance, Netzwerk Regierungsansätze.
+Dass das so einfach gar nicht ist, sondern dass es sehr wohl unterschiedliche Antworten auf die
+Herausforderungen gibt, also unterschiedliche Deutungen, unterschiedliche Antworten. Und wenn
+man die erst mal nebeneinander stellen könnte und damit im Prinzip sagen könnte, hey, wir können
+hier entscheiden, wohin sich das entwickeln soll. Und das sind eventuell Vor- und Nachteile und das
+sind Folgen von einem solchen Ansatz. Denn der, glaube ich, schon mal viel gewonnen, wenn man sozusagen
+so eine Art Tableau erstmal hätte, worüber wir sprechen. Und dann können wir uns darüber unterhalten,
+wohin wir wollen. Und dann kann man noch mal den Schritt weitergehen und sagen, es gäbe auch noch
+andere Ansätze als die, die aktuell in der Debatte sind. Und die haben folgende Vor- und
+Nachteile und folgende Geschichte. Und überleg doch mal, ob die nicht eventuell auch hilfreich sein
+könnten, um ein alternatives Regierungsdenken zu entwickeln. Fallen dir da noch andere Beispiele
+ein, mag ich dir natürlich sofort nachhaken. Also, weil es wäre ja eine Sache in diesen
+Werkzeugkasten der Ideengeschichte oder wie hieß er jetzt? Ich glaube, in eine schönere Formulierung,
+sag noch mal. Das Archiv. Das ist besser als Werkzeugkasten. Die Werkzeugkastenmetapher wäre
+ja eine, die das Netzwerkdenken verwendet. Genau, also die eine Sache wäre ja eben zu schauen,
+was sich da alles im Archiv befindet. Und ein anderer Zugang, der natürlich das jetzt auch gar
+nicht unbedingt ausschließt, wäre sich noch dezidierter auch der Frage zuzuwenden, alternative
+Zugänge zu erfinden. Also, ich habe jetzt in der letzten Folge mit Ute Tellmann gesprochen und da
+hatte ich ein Foucault-Zitat vorgelesen, das ich jetzt nicht aus dem Stegreif so wiedergeben kann,
+aber letztlich hat es sich auf diese Fragestellung der alternativen Regierungsrationalitäten bezogen
+und die Conclusio war, man kann sie sozusagen jetzt nicht unbedingt aus diesen Schriften oder,
+wie du es jetzt sagst, aus dem Archiv herausziehen, sondern man muss sie erfinden. Magst du uns
+vielleicht in diese Richtung des Erfindens noch ein paar Färken aufzeigen, falls du sie denn weißt?
+Also, ich habe dafür keine vorgefertigten Folien, aber ich glaube, ein Aspekt ist daran eben durchaus
+wichtig. Was wir nicht machen können, ist, in dieses Archiv zu gehen und das dann zu sagen,
+hier haben wir einen fertigen Entwurf und das machen wir jetzt so. Das ist, glaube ich,
+eine falsche Vorstellung davon, was Wissenschaft überhaupt leisten kann, aber es ist auch nicht so,
+wie das praktisch funktioniert, sondern man hat sozusagen bestimmte Vorschläge und Aspekte,
+die man daran interessant findet an Entwürfen, die es vielleicht schon mal gab, und dann muss man das
+ja mit Dingen konfrontieren, die man in der Gegenwart vorfindet, also sowohl mit Überzeugungen,
+die man hat, als auch natürlich mit den Problemlagen, die man vorfindet. Und ich glaube,
+durch diese Konfrontation entstehen oder erfindet man automatisch neue Dinge. Das lässt sich sozusagen
+gar nicht so richtig vermeiden. Und da hat man, glaube ich, diesen produktiven und kreativen
+Prozess automatisch drin. Und ganz häufig glaube ich auch, dass das sehr viel alltäglicher ist,
+als wir uns das vorstellen. Dass das eben sehr viel stärker in Gesprächen stattfindet,
+oder auch tatsächlich in natürlich Policyforen und Ähnliches stattfindet,
+wenn dort Beratungen stattfinden. Das ist ja auch dort die Frage ist,
+wie reagieren wir auf ein bestimmtes Problem? Dann kriegen die vielleicht Input von Expertinnen,
+wie sich bestimmte Ansätze ausgewirkt haben und es vielleicht nicht so gut funktioniert zum
+Beispiel. Und dann ist die Frage, wie reagiert man darauf? Und die haben aber natürlich auch
+alle eigene Überzeugungen und eigene Vorstellungen davon, wie die Geschichte abläuft. Sie bringen
+sozusagen ein ganzes Set an Beliefs mit sich. Und ich glaube deswegen, dass dort auch durchaus
+Prozesse stattfinden, wo eben Neues erfunden wird. Und genauso aber natürlich auch in alltäglichen
+Gesprächen, die zwischen anderen Menschen stattfinden, die sich fragen, wohin soll's
+eigentlich gehen? Ich denke, dass man sicherlich, wenn man sich das genauer anguckt in der Fridays
+for Future Bewegung oder ähnliches, genau solche Prozesse beobachten kann. Und wenn man
+dazu auch nur einen einzelnen Akteur beobachten kann, die, was ich immer, und dass ich das im
+Detail kennen würde, aber ich fand es immer sehr interessant, wie zum Beispiel die Luisa Neubauer
+ja immer wieder auch gefragt wird, wie soll denn das denn aussehen und wie funktioniert das,
+in welche Rolle spielt eigentlich Freiheit? Und man kann, glaube ich, beobachten, wie sie im Laufe
+ihrer Präsenz in dieser Debatte darauf Antworten entwickelt. Ob die jetzt tragfähig sind oder nicht,
+ist eine ganz andere Geschichte. Aber dort, das sind sozusagen diese Effekte, wo wir, glaube ich,
+was Neues erfinden können. Und ich persönlich neige dazu, immer wieder mal republikanische
+Ansätze ins Spiel zu bringen. Und das ganz Interessante daran ist, dass wir dort eine
+Reihe von Punkten haben, die wir in anderer Form auch im Netzwerk denken haben. Also wir haben zum
+Beispiel die Vorstellung, dass wir ein Beziehungsgewebe haben und bei bestimmten republikanischen
+Autorinnen wie Hanna Arendt eben auch eine Souveränitätskritik zum Beispiel, die aber
+auf einer ganz anderen Schiene läuft. Aber eben dieses Relationale auch mit sich bringt, eben aber
+nicht über technische Metaphern, sondern über andere Formen von Metaphern. Und wir haben dann
+eben auch andere Vorstellungen davon, welche Rolle Gemeinschaft und Gemeinwohl in dieser ganzen
+Debatte erbringen können. Also bei Arendt wäre es ja dann, dass eine Pluralität von Perspektiven
+gewährleistet werden muss. Und die Frage ist, wie institutionalisiert man das und wie bringt man
+die miteinander ins Gespräch? Also ich glaube, dass die republikanische Tradition und die sowohl
+für die Komplexität, um diesen Begriff des Netzwerkdenks zu finden, für die Komplexität
+der Sachen und die Schwierigkeit von Entscheidungen und Handlungen und Prozessen ein sehr aufmerksames
+Auge hat als auch für das Aushandeln und die Rolle von aktivem Handeln. Und vielleicht ein
+besseres Auge hat zum Beispiel als das Netzwerkdenken. Also dass es hier zum Beispiel
+Möglichkeiten gäbe, neue Dinge zu entdecken und zu erfinden. Das wäre nur so ein Beispiel, wo
+ich finde, hier haben wir was im Archiv der Ideengeschichte, wo es Überschneidungen gibt,
+was damit aber eigentlich gar nichts zu tun hat. Das aber produktiv sein könnte, wenn
+mal irgendwer darüber nachdenken möchte. Wunderbar. Und was ja in jedem Fall ganz
+unglaublich wichtig ist für ein solches Erfinden, ist, dass man die eigentlich eingeschriebenen
+Prämissen in den omnipräsenten Vorschlägen, die uns da so präsentiert werden, dass diese
+eingeschriebenen Prämissen herausgearbeitet werden. Und da, finde ich, hast du in deinem Buch
+wirklich ganz großartige Arbeit geleistet. Ich stelle zum Schluss dann immer noch die Frage,
+wenn du dir Zukunft vorstellst, was stimmt dich freudig? Ja, das kann ich vielleicht auf zwei
+Ebenen beantworten. Ganz persönlich fällt mir das Moment recht einfach, freudig in die Zukunft zu
+gucken, weil ich ja vor nicht allzu langer Zeit Vater geworden bin und das ganz großartige
+Erfahrung finde, die im Prinzip sehr viel Glück in mein Leben gebracht hat. Aber das kann man,
+glaube ich, zu einem gewissen Grad auch auf die größere, abstraktere Ebene heben. Die
+schon angesprochene Hannah Arendt hat ja dafür den Begriff der Natalität geprägt, dass das
+eigentlich das ist, was uns als Menschen ausmacht, dass wir einen neuen Anfang setzen können und dass
+eben dieses Geborenwerden, deswegen ja Natalität, dafür sozusagen der Nukleus darstellt. Also das ist,
+was mich, glaube ich, auf abstrakterer Ebene durchaus freudig in die Zukunft blicken lässt,
+dass ich auch selbst in verschiedenen Kontexten die Erfahrung gemacht habe, dass wir
+gemeinschaftlich handeln können und dass wir neue Anfänge setzen können, dass das möglich ist,
+dass es möglich ist, politischen, gesellschaftliche Trends zu verändern, wenn wir das wollen und wenn
+wir uns entschließen, gemeinsam zu handeln. Das klingt immer sehr idealistisch, aber ich glaube,
+viele Menschen, die in kommunalpolitischen, zivilgesellschaftlichen Zusammenhängen
+tatsächlich mal längere Zeit aktiv waren, die haben genau dieses Gefühl erlebt. Das gibt es ja
+durchaus auch in sozialwissenschaftlichen Studien, kann das ja auch nachgewiesen werden, dass es
+genau dieses Gefühl, einen neuen Anfang setzen zu können, gibt. Mit allen Schwierigkeiten, die dann
+danach damit verbunden sind, Konflikte und dass man nicht dahin kommt, wo man eigentlich hin wollte,
+sondern Kompromisse eingehen muss. Das gehört dann alles dazu, aber dass es möglich ist,
+neu anzusetzen, das stimmt mich freudig. Wunderbar. Vincent, vielen Dank für das Gespräch. Vielen
+Dank dir. Das war Future Histories für heute. Vielen Dank fürs Zuhören, Shownotizen und vieles
+mehr findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+Future Histories oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf
+allen großen Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube,
+wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelne Episoden findet. Schreibt
+mir gerne unter jan at futurehistories.today. Ich freue mich immer sehr über interessante
+Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt ihr
+das auf patreon.com schrägstrich Future Histories oder auch via Spende auf unserer Homepage. Future
+Histories ist eine Produktion von MetaLapses zu finden auf meta-lapses.net. Bis zum nächsten Mal.
+Ich freue mich.

@@ -1,0 +1,679 @@
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+Mein Name ist Jan Groß und ich freue mich sehr, heute Jutta Weber begrüßen zu dürfen.
+Sie ist Professorin für Mediensozialogie an der Universität Paderborn und forscht unter anderem
+zu künstlicher Intelligenz und datengesteuerter Kriegsführung.
+Bevor es losgeht, möchte ich noch Andrea ganz herzlich in der Gemeinschaft der Patreon-Unterstützerinnen und Unterstützer begrüßen.
+Und Dirk für die Erhöhung seiner Patreon-Unterstützung danken.
+Ebenso vielen Dank an Fabian für deine Spende.
+Und an dieser Stelle möchte ich nochmal darauf hinweisen, wenn ihr Future Histories unterstützen wollt,
+dann könnt ihr das natürlich auf Patreon, wie ihr gerade gehört habt, aber man kann natürlich auch eine einzelne Spende machen.
+Und wenn ihr die finanziellen Möglichkeiten nicht habt, sowas zu tun, dann ist das überhaupt kein Problem.
+Ich freue mich auch sehr, wenn ihr Future Histories einfach einem Freund oder einer Freundin empfehlt,
+von der ihr glaubt, dass ihr oder ihm Future Histories vielleicht auch gefallen könnte.
+Vielen Dank dafür und viel Freude mit der heutigen Episode Future Histories mit Jutta Weber
+zu künstlicher Intelligenz und datengestützter Kriegsführung.
+Herzlich willkommen, Jutta.
+Hallo Jan, ich freue mich sehr, hier zu sein.
+Ich freue mich auch sehr.
+Jutta, wir wollen im heutigen Gespräch zwei Dinge versuchen.
+Wir wollen versuchen, zwei Felder einzufangen, mit denen du dich intensiv befasst hast
+und die auch aufs engste Miteinander verwoben sind.
+Zunächst wollen wir uns den erkenntnistheoretischen Grundlagen künstlicher Intelligenz zuwenden,
+um uns dann anhand des sehr konkreten Praxisbeispiels datengestützter Kriegsführung anzusehen,
+inwiefern maschinelles Lernen in Kombination mit sehr großen Datenbanken eigentlich auch
+eine spezifische Form der Wissensproduktion darstellt und damit auch eine spezifische
+Produktion von Welt mit sich bringt eigentlich.
+Aber einsteigen würde ich dann doch gerne mit einer Definitionsfrage, nämlich wie definierst
+du künstliche Intelligenz?
+Das ist sehr lustig.
+Wir arbeiten gerade, und jetzt mache ich einen kleinen Bogen.
+Wir arbeiten gerade in einem kleinen Forschungsprojekt, das heißt Scoring Society.
+Und da geht es eben auch um Praktiken von Scoring, Rating, Ranking.
+Und da werden wir vielleicht noch mal bei der Frage der datengeschützten Kriegsführung
+darauf zurückkommen.
+Und da habe ich meinen Kollegen gefragt, der Maschinenlearner ist, was denn für ihn
+künstliche Intelligenz sei.
+Und dann hat er die Hände über den Kopf zusammengeschlagen.
+Das ist eine ganz schreckliche Frage.
+Weil es gäbe 1000 Antworten darauf.
+Und eigentlich hat sich das natürlich jetzt in der Informatik vielleicht noch mal anders
+als in kulturtheoretischen Kontexten es auch sozusagen keine Einigung darauf gibt.
+Weil ich glaube, in der Informatik haben wir dann schon mehr gemeinsame Definitionen und
+Verständnisse, als wir das vielleicht in dem Kulturwissen oder Sozialwissenschaften haben.
+Ich glaube, ich könnte das eher historisch vielleicht begründen, weil ich glaube, es
+gibt da nicht eine Definition und es gibt ja auch verschiedene Anwendungsbereiche, die
+umstritten sind, ob die jetzt künstliche Intelligenz sind oder nicht.
+Oder wenn sie zum Beispiel Daten getrieben sind, wie wir das jetzt mit Big Data und
+Maschinenlearning haben, wird das eigentlich automatisch zu künstlicher Intelligenz
+gerechnet. Aber ich muss an einen der ersten Roboter, der Shakey hieß, das sind wir, ich
+glaube, im MIT weiß ich nicht mehr genau der sechziger Jahre, wo so eine wackelnde Box
+durch den Raum gefahren ist.
+Das war halt zu dieser Zeit auch sozusagen der höchste Stand oder das, was man damals
+unter künstlicher Intelligenz verstand, wo man sehr aufgeregt war und was eben der Versuch
+war, zum Beispiel gewisse symbolische Ordnungen in einer Maschine einzubauen und die dazu
+zu bewegen, bestimmte Abläufe dann auch in Kombination vielleicht selbsttätig zu unternehmen.
+Aber wie gesagt, zwischen einem Shakey aus den sechziger, siebziger Jahren und was wir
+heute mit Daten getriebenen Lösungen, zum Beispiel in der Kriegsführung, aber auch anderswo
+von Google-Suchmaschine und so haben, ist natürlich ein wahnsinnig breites Spektrum.
+Das heißt jetzt so was wie maschinelles Lernen, das wird einfach dann subsummiert unter
+künstliche Intelligenz auch.
+Ja, ich vermute, da bin ich jetzt aber nicht die Expertin für, dass in der Geschichte des
+maschinellen Lernens, also maschinelles Lernen nicht schon immer als Teil der künstlichen
+Intelligenz wahrgenommen wurde, weil maschinelles Lernen, habe ich wiederum gelernt, ist
+glaube ich mindestens 50 Jahre alt, bekommt aber eigentlich erst in den letzten 10, 15 Jahren
+so einen richtigen Drive, also sodass wir jetzt auch wahrnehmen, was maschinelles Lernen,
+was man damit alles machen kann und dass das eben auch in unseren Alltagspraktiken zunehmend
+zentrale Rolle spielt und das hat natürlich auch mit neuen Formen von Datenbanken und
+erstmal primär mit Big Data zu tun, dass man das in der Weise natürlich auch so gut
+umsetzen konnte und natürlich auch mit der gesteigerten Rechnerkapazität von Computern
+sicherlich auch und damit zum Beispiel auch in Echtzeit oder fast Echtzeit spannende
+Anwendungen auf maschinelles Lernen basiert machen kann. Der Klassiker ist glaube ich immer
+die Suchmaschine, die dann da ins Feld geführt wird. Interessant. Das heißt, maschinelles Lernen
+wurde nicht schon immer unter künstlicher Intelligenz subsummiert, wird aber heute zumindest
+mal in Teilen auch darunter gefasst, oder? Ja, eben das mit dem Darunterfassen ist ja eine ganz
+schwierige Sache, weil ich versuche gerade mir ein Beispiel auszudenken, weil es wären ja jetzt
+zum Beispiel wäre ja eine Frage, ob ferngesteuerte Roboter sind die Teil von künstlicher Intelligenz.
+Also die sind, also die müssen sozusagen nicht selber ihre eigene Software optimieren,
+das wäre jetzt zum Beispiel so ein advanced, also ein fortgeschrittenes Verständnis von
+künstlicher Intelligenz, Selbstoptimierung von Algorithmen. Aber natürlich galt in den 60er,
+70er Jahren, was ich vorhin meinte, so ein klassisch, also in dieser alten Logik der symbolischen KI,
+wo man versucht hat zu einem Rechner möglichst viel Wissen in seinen Gehirn, also auf der
+Festplatte zu speichern, was dann sozusagen Schritt für Schritt abgearbeitet wurde,
+fiel da auch unter künstliche Intelligenz. Und viele fassen das auch heute noch, also für viele
+Leute ist ja ein Roboter automatisch Teil von künstlicher Intelligenz, der aber, wenn er sozusagen
+top down seine Programme abarbeitet und ferngesteuert wird, für manche eben nicht zur künstlichen
+Intelligenz zählt, weil eben diese Selbstoptimierungs- und Selbstlernstrategien fehlen.
+Ich glaube, das wäre vielleicht hilfreich für die Hörerinnen und Hörer, das auch noch mal
+klarzumachen, weil du jetzt eben die Frühphase der KI auch angesprochen hast, wo einfach auch
+wirklich noch ein anderes Paradigma im Grunde vorgeherrscht hat, wo also man noch glaubte,
+man könne eben auf Basis von Kategorien sozusagen, in dem Fall Roboter in Anführungsstrichen,
+eine große Menge an Wissen sozusagen einpflanzen und demgegenüber stehen, sagen, andere Zugänge,
+die du auch in deinen Arbeiten beschreibst, wie zum Beispiel genetische Algorithmen, die eben in
+der Lage sind, dann selbstlernende Mechanismen herauszubilden. Vielleicht kannst du noch mal
+diesen Unterschied ein bisschen klar machen und inwiefern das auch einfach wirklich ein
+Paradigmenwechsel darstellt. Wobei, also ich versuche das jetzt erst mal zu differenzieren,
+wobei man auch da sagen muss, dass es schon sehr früh Ansätze dafür gibt, dass die sich aber
+primär heute durchsetzen. Man hat früher eigentlich klassisch zwischen symbolischer
+und konnektionistischer KI, teilweise auch Kybernetik, also konnektionistische KI und
+Kybernetik sind teilweise eng verwandt, unterschieden und vielleicht würde ich heute,
+kann man eigentlich auch noch eine dritte Unterscheidung einführen, die datengetriebene
+KI. Aber fangen wir erstmal mit der symbolischen KI an. Man hat ja immer mit Vorbildern oder
+Ideen, wie menschliche Intelligenz funktioniert, gearbeitet. Sieht man dann ein bisschen an den
+Ergebnissen, wie es strukturiert wird. Und da war die Idee, Symbole sind wichtig und das war
+ja auch sehr stark mathematisch logisch orientiert. Diese symbolische KI, dass sozusagen ein in dem
+Zusammenhang dann Datengehirn oder Computergehirn symbolisch diese Abläufe, zum Beispiel Abläufe
+berechnet. Also wie muss der Roboter von A nach B durch einen Raum laufen? Das wäre eins. Oder
+vielleicht für ältere unter dem Podcast-Hörer Experten-Systeme waren eine große Hoffnung in
+den 70er Jahren, kommen teilweise heute wieder, heißen dann anders. Aber das war ja auch die Idee,
+man kann diese künstlichen intelligenten Systeme, also bitte immer in Anführungsstrichen,
+soweit mit Wissen füttern, dass die Funktionen von Menschen übernehmen kann. Also damals war die
+große Hoffnung, zum Beispiel ärztliche Experten-Systeme zu schaffen, denen man
+Basisinformationen eingibt und die dann eine Diagnose erstellen können. So Ideen kommen immer
+wieder. In den 70er Jahren ist man damit gescheitert, aber diese Form von künstlicher Intelligenz
+basierte eben auf so einer symbolisch-rational-kognitiven Vorstellung von künstlicher
+Intelligenz. Ich komme immer wieder auf die Roboter, weil ich mich damit mehr beschäftigt
+habe und was dann ganz schön zu sehen war in den 70er und 80er Jahren, dass diese symbolische KI
+einfach nicht gut funktioniert hat. Also die Roboter, der Shakey, von dem ich gesprochen habe,
+der hat halt, um zum Beispiel einen Raum zu durchfahren, das war so eine wackelige Kiste
+auf vier Rädern, irgendwie über eine Stunde gebraucht, weil der immer wieder Schritt für Schritt
+ein Stück vorgefahren ist, dann versucht hat sozusagen die ganze Umgebung abzuscannen,
+um wieder neu zu berechnen, was er jetzt tun muss. Also wirklich dieses, wie wir uns vielleicht
+heute noch einen Algorithmus vorstellen, dass das eben wie so ein Kochrezept ein Schritt nach dem
+anderen wird vorgegeben, der top down abgearbeitet wird und diese Folge bleibt auch immer so. Dann
+haben die Robotiker festgestellt, dass damit vielleicht materialere und in Umwelten agierende
+Systeme mit dieser Logik nicht wirklich vorankommen und dagegen gab es, der ist schon älter, diese
+konnektionistische KI, die aber auch große Verwandtschaft mit der Kybernetik hat, also da
+sind teilweise ähnliche Ansätze bzw. das geht auch ineinander über und die haben in der Robotik dann
+in den 80er Jahren zunehmend Bedeutung gewonnen, also Leute wie Rodney Brooks, weiß ich nicht,
+ob das manchen was sagt, der ist dann mit seinen Robotern relativ bekannt geworden und das Motto
+war fast, cheap and out of control und das klingt natürlich erstmal extrem weird, aber fast war zum
+Beispiel wirklich ein Punkt, weil nämlich dieses, dass das stundenlang dauert, bis so ein Roboter
+sich in der Umgebung bewegt und eine Umgebung, die damals sogar noch eingegrenzt war, das war
+ja ein Raum oder ein Labor, wir sprechen noch gar nicht davon, dass Roboter sich frei in der Umwelt
+bewegen sollen, was ja noch mal eine ganz andere Herausforderung von Navigation, Wahrnehmung und so
+weiter ist. So und da war dann und diese heißen fast cheap and out of control, weil die weniger
+aufwendig gebaut, also cheap weniger aufwendig gebaut waren, weil die mehr auf Interaktion mit
+der Umwelt gesetzt haben, das heißt man hat Sachen ausprobiert und dann geguckt und versucht zu sehen,
+wie was tut der Roboter, wenn er da irgendwo lang fährt, wenn er gegen einen Gegenstand stößt und
+hat versucht die dann zum Beispiel so zu bauen, dass die dann automatisch wenden und dann in eine
+andere Richtung fahren, also dass die so eine Vorstellung, also so ein Konzept von Trial and
+Error hat man ausprobiert und dass sie gleichzeitig aber, das ist dann so ein paar Jahre später,
+das war vielleicht nicht gleich ganz am Anfang, sozusagen versuchen diese Strategien, bei Menschen
+würde man sagen zu erinnern, wieder in Anführungsstriche, aber dass diese Strategien
+erstmal glaube ich am Anfang von Hand implementiert wurden, dass die einmal zur Verbesserung,
+zur Optimierung des Roboterverhaltens beigetragen haben und das war, das haben sie teilweise auch
+selber so genannt, das nannte man dann Behavior Based Robotics, also verhaltenbasierte Robotik oder
+Biologically Inspired Robotics, also man guckt so ein bisschen auf das Verhalten von jetzt keinen
+hochorganisierten Säugetieren oder den Menschen, sondern man guckt zum Beispiel darauf, wie
+funktionieren Ameisen oder ähnliche Tiere, um da aus diesen Bewegungsmustern Vorbilder für eine
+andere Form von Programmierung von diesen Robotern zu gewinnen und das ist eben nicht mehr symbolisch,
+also auf so einer Symbolverarbeitung basiert das nicht, sondern auf so genannten biologischen,
+aber vor allem verhaltensbasierten Einsichten oder Regeln muss man mal sagen. Das geht jetzt aber
+noch einen Schritt weiter, weil das hast du vorhin noch ins Spiel gebracht Jan, das war ja die Frage
+nach den genetischen Algorithmen und das schließt genau an diese Idee von Trial und Error an, dass
+man selbst Algorithmen optimieren kann durch Rumprobieren, sage ich jetzt mal flapsig und das
+ist eigentlich auch eine ganz spannende Geschichte, das fängt in den 90er, 1990er Jahren an, als Vater
+in Anführungsstrichen wieder gilt John Holland, der diese Algorithmen erfunden hat und da ist die
+Idee, dass man auch nicht mehr top down die optimale Lösung für ein Problem sozusagen durch
+Überlegen oder Ausrechnen, also symbolische Operationen findet, sondern dass man einen ersten
+Versuch für eine Lösung formuliert, also um ein Beispiel zu geben, der Klassiker ist immer, man
+hat 7x beliebige Zahlen und man versucht der Maschine beizubringen, die nach ihrer Größe
+zu trainieren, in einer richtigen Reihenfolge zu sortieren, nicht zu trainieren und das auf dem
+möglichst, früher war es der möglichst eleganteste Weg, heute ist es oft eher der schnellste Weg,
+also die Mathematiker, wenn die das klassisch von Hand gemacht haben, die haben sich immer eher
+bei die, für die Eleganz der Lösung, also natürlich auch für die Schnelligkeit, aber auch für die
+Eleganz der Lösung interessiert und jetzt geht es aber darum, die schnellsten und den kürzesten
+Weg zu finden. Und dann probiert man aus und genetische Algorithmen heißen die, weil man dann mit
+zwei oder andersrum, weil man den Algorithmus nimmt, meistens in zwei Teile auseinander nimmt, die ein
+klein wenig variiert, das ausprobiert, wie diese Lösung funktioniert und dann nimmt man 10% der
+besten Lösung, um daraus wieder die Algorithmen etwas zu variieren, also deshalb genetische
+Algorithmus, das da sozusagen an der DNA des Algorithmus geschraubt wird, indem man den Algorithmus
+immer wieder ein klein wenig verändert oder auch beste Lösungen miteinander kreuzt und guckt,
+was dabei rauskommt. Das ist insofern interessant, man kann je nachdem, es ist schon auch eine Kunst,
+dann diesen Algorithmus zu konfigurieren, das fällt in der Geschichte meistens weg, aber was
+dabei rauskommt, ist, dass oft 90% Chunk rauskommt oder vielleicht auch 99%, dass man dabei aber auch
+sehr gute Lösungen findet und bei dieser und das ist so ein Grund und so ein Grundnarrativ von
+diesen genetischen, der Erfindung der genetischen Algorithmen, wo man sagt, dass da oft schon erste
+Implementationen von diesen Algorithmen zu sehr, sehr guten Ergebnissen geführt hat, also zum
+Beispiel bei dieser Reihenfolge der sieben Zahlen oder vielleicht sind es auch nur fünf klassisch,
+was auch immer so ein Wettbewerb unter Mathematikerinnen war, mit dieser neuen,
+mit diesem neuen Ansatz von genetischen Algorithmen die zweitbeste Möglichkeit jemals gefunden wurde,
+indem man immer wieder, also die schlechten Lösungen wegwirft, die guten Lösungen variiert
+und dann sich versucht sozusagen dem Ziel anzunähern, ohne eigentlich genau zu wissen,
+was man tut. Also wirklich ein Optimierungsverfahren, aber kein rational-kognitives Verfahren,
+um zu verstehen, wie man zur besten Lösung kommt, sondern indem man immer, also ein wenig bessere
+Lösungen ausprobiert und miteinander kreuzt, um bessere Ergebnisse zu erzielen, was letztendlich
+ja auch bedeutet, dass man nie zu der besten Lösung kommen wird, wie wir das oft ja rational-kognitiv
+versuchen, sondern das sozusagen ein Annäherungsprozess bleibt. Also irgendwann muss ich auch die Maschine
+stoppen und sagen, mit der Lösung bin ich zufrieden, das scheint mir ein gutes Ergebnis zu sein,
+aber es ist nie die Lösung, was offensichtlich auch oft oder am Anfang sehr stark auch zu
+Irritationen geführt hat, weil das natürlich nicht unbedingt das klassisch rational-kognitive
+Vorgehen ist, um ein Problem zu lösen, also mit dieser Annäherungslogik zu arbeiten. Und das kann
+man dann eben auch in Roboter implementieren, die dann sozusagen aus ihrem eigenen Verhalten
+lernen sollen und dann zu sehen, ah, dazu muss ich immer Parameter vorgeben, also was ist
+ein gelungenes Verhalten. Das ist ganz wichtig, aber wo dann der Roboter sozusagen selber
+abgleichen kann, also heute gibt es da ganz banale Lösungen, um es einfacher zu machen,
+wenn bei VW an Fließband Fensterscheiben ins Auto eingebaut werden, dann schaut sich der Roboter,
+schaut sich wieder in Anführungsstrichen, dann rechnet der Roboter aus, in welchem Bogen er optimal
+sozusagen die Bewegung ausführen kann, um möglichst exakt und in möglichst schneller Zeit das Fenster
+da einzusetzen und dann guckt er sich diese verschiedenen Bewegungen immer wieder an und
+löst dann aufgrund dieses Optimierungsalgorithmus, wählt er dann genau die Variante aus, die am
+schnellsten oder auch am besten, also wie er das Fenster am besten einpassen konnte,
+selbsttätig aus, um das in Zukunft immer weiter zu optimieren. Das haben wir schon im Alltag heute
+ganz häufig, aber das war halt in den 70er, 80er, 90er Jahren was, was auch zur Verbesserung,
+Besserung von Robotern, aber auch von anderen Verfahren geführt hat. Und was sich, du hast ja
+gesagt, es geht auch um die Wissensordnung, also man hat ja sehr lange an dieser symbolischen,
+rational-kognitiven Idee festgehalten, wo ich argumentieren würde, dass sich heute diese
+konnektionistische oder auch kubernetesche KI, die mit diesen Verfahren von Trial and Error,
+von Rumprobieren, von Tinkering arbeiten, dass die sich heute zunehmend durchsetzt. Und ich finde
+das auch insofern spannend, weil das natürlich zumindest in so einem Alltagsverstand, wie wir
+uns Natur- und Technikwissenschaften vorstellen, wie die arbeiten, nämlich rational-kognitiv,
+und nicht indem sie irgendwie rumbasteln, eigentlich gar nicht zusammenpasst. Das heißt,
+bei den Ingenieuren passt es natürlich schon, aber bei den Naturwissenschaften und bei der
+Mathematik vielleicht nicht. Und der Unterschied, denn auch Ingenieure haben und Ingenieurinnen
+früher viel mit Tinkering und Rumprobieren gearbeitet. Ich muss sagen, nur Daniel Düsentrieb oder
+sowas, jetzt rede ich von Alltagsverständnis. Aber das war kein systematisiertes Trial and Error,
+also dass das jetzt auch mit großen Rechenkapazitäten immer wieder durchgespielt werden
+kann, um Prozesse zu optimieren. Aber ohne dass man genau weiß, wie man die optimiert,
+sondern eigentlich brutal force, in dem man das gut durchrechnen kann, mit großen Datenmengen und
+schnellen Maschinen auch zu sehr, sehr guten Ergebnissen kommt. Das finde ich hochspannend.
+Und witzigerweise hindert es ja auch dann nicht daran, dass am Ende, obwohl man eigentlich ein
+komplett anderes Paradigma verfolgt hat, dass man am Ende dann trotzdem das alte Siegel drauf
+klatscht. Also im Grunde die veraltete Behauptung von Objektivität. Das wird ja dann gerne am Ende
+dann doch wieder behauptet, aber es ist eigentlich ein anderes Paradigma, dem man vorher gefolgt war,
+im Grunde. Das ist jetzt nur so eine Seitennotiz. Ja, aber das ist total spannend, das finde ich
+auch. Also es wird halt im Ex-Post dann wieder rationalisiert. Zur Ehrenrettung, also es ist
+beides, so wie du sagst, dass man was als objektiv reklamiert, wo man starke Zweifel haben muss. Wobei
+man natürlich da auch über den alten Ansatz, da könnte man auch noch mal Fragen stellen. Auf
+der anderen Seite, was man natürlich auch macht und das habe ich vielleicht vorhin vergessen,
+man versucht natürlich schon auch draus zu lernen, indem man dann praktisch Post-Processing sich die
+Ergebnisse hinterher anguckt, um zu verstehen, was da passiert ist. Aber das tut man nur teilweise,
+weil und das ist auch interessant, weil das waren die Anfänge und heute würde ich reklamieren,
+dass das auch immer weniger interessiert eigentlich, wie das funktioniert, sondern
+dass irgendwie, dass das, also dass es funktioniert, der wichtige Punkt ist. Was schon,
+wenn wir uns selber als eine Kultur, also die sich für kognitive Leistungen und Verstehen und so,
+also sich dadurch auszeichnet, es schon erstaunlich ist, dass man mehr und mehr auf den Punkt geht,
+Hauptsache es funktioniert, egal wie. Wobei das ja, muss man sagen, eigentlich der Methode
+inherent ist, nicht? Also sie werfen ja eigentlich von Beginn an, sagen die, hast du ja schon gesagt,
+die Behauptung der einen richtigen Lösung über Bord, ja und dann endet man ja eigentlich dort,
+dass im Grunde das Ziel in Anführungsstrichen ein gutes Funktionieren oder ein ausreichendes
+Funktionieren nur im Grunde darstellt, nicht? Also insofern ist es wieder auf eine Art konsequent,
+finde ich, muss man sagen. Aber also ich finde, dass jetzt sehr schön eigentlich auch diese
+erkenntnistheoretische Verschiebung eingefangen, also im Grunde eine Wegbewegung von dem Gedanken
+einer Repräsentation von Welt hin zu etwas, was eben dann jetzt immer mehr auch verwendet wird,
+um Formen der vornehmlichen Prädiktion, also der Voraussage von Welt eigentlich zu erzeugen,
+beziehungsweise zu behaupten, muss man ja eigentlich sagen. Und auch der eben dann
+leider damit verbundenen präemptiven Logik, die sich da preisterweise dann einfach daraus
+ableitet, ja. Vielleicht kannst du uns diesen einen Aspekt, der dann ja im Grunde noch mal
+einen Schritt weitergeht eigentlich, vielleicht kannst du uns diesen Aspekt noch mal ein bisschen
+näherbringen und warum der aus dieser spezifischen, du nennst es ja Technorationalität,
+sich eigentlich auf eine Art auch logisch ergibt. Also wie hängt das zusammen? Diese in
+Anführungsstrichen neuere Formen des Zugangs, den du eben als Technorationalität beschreibst und
+der eigentlich auch eine Form von kybernetischer Logik eigentlich darstellt. Also vielleicht
+kannst du uns beschreiben, inwiefern das dann eigentlich auch endet in diesen Verfahren der
+Prädiktion und der präemptiven Logik? Ja, also da sage ich jetzt vielleicht nachher noch was zu,
+weil ja, ich habe das natürlich jetzt im Bereich der Technowissenschaften versucht nachzuvollziehen,
+was vielleicht, aber da können wir nachher vielleicht noch drauf kommen, noch mal mir
+auch wichtig ist, die entsteht natürlich nicht im leeren Raum. Es wäre natürlich auch noch mal
+spannend zu fragen, mit was für Weltsichten oder Verständnis von Welt diese Logik verbunden ist,
+denn es ist ja auch nicht von ungefähr, dass sich so eine Logik durchsetzt. Das sage ich deshalb,
+weil gerade diese präemptive Logik zum Beispiel im Bereich des Sicherheitsbereichs und im Bereich
+des Militärs natürlich sehr wichtig ist und da korrespondiert auch was miteinander. Das ist
+sozusagen nicht die reine Technorationalität, aber womit diese Technorationalität sehr stark
+verbunden ist, meiner Meinung nach, ist, dass es auch eine Bewegung weg von Kausalität, also erkennen,
+warum, was passiert, wie es passiert, hin in den Bereich der Korrelation verschiebt. Also viele
+Leute reden auch jetzt in einem erkenntesteoretischen Rahmen heute von einem
+Korrelationsparadigma. Also es geht eben weniger darum, zu verstehen, warum was passiert,
+sondern Korrelation, wenn man es runter bricht, könnte man sagen, in der Vergangenheit haben wir
+immer wieder einen bestimmten Zusammenhang festgestellt, deshalb gehen wir davon aus,
+dass das auch in der Zukunft so passieren wird. Das funktioniert in vielen Zusammenhängen. Ich
+könnte jetzt böse sagen, auf eine Art machen wir das jeden Morgen oder Abend, wenn wir sagen,
+na ja, gestern ist die Sonne irgendwann aufgegangen, gehen wir davon aus, dass die
+morgen auch aufgeht. Das ist aber keine klassisch naturwissenschaftlich technische Erklärung,
+warum die Sonne aufgeht. Das heißt, wir arbeiten mit einer Erfahrung und projizieren die in die
+Zukunft. Und weiß ich nicht, es gibt banale Beispiele, man könnte sagen, in der Terrorabwehr,
+aber in vielen anderen Sachen auch, wo man sagt, wenn nicht nur Terrorabwehr,
+Buchempfehlungen oder Produktempfehlungen von Amazon oder was immer wir uns vorstellen,
+diese Person hat gerne folgende Produkte gekauft und dann habe ich eine andere Person. Also dann
+versuche ich erst mal das Muster festzustellen, für welche Produkte interessiert sich diese
+Person. Und wenn ich dann eine andere Person habe, die Teile dieses Musters erfüllen,
+empfehle ich denen was Ähnliches. Und das ist eigentlich was ganz Ähnliches, dass man sozusagen
+aus vergangenen Erfahrungen, Befunden in die Zukunft projiziert, dass es wieder in
+ähnlicher Weise stattfinden wird. Und dieses Verfahren ist sehr weit verbreitet von Predictive
+Policing bis Produktempfehlungen bis datengestützte Kriegsführung, Terrorismus. Also das haben wir in
+ganz, ganz vielen Bereichen unterdessen, dass man mit dieser Korrelationslogik und eben nicht
+mit der kausalen Logik arbeitet. Und präemptiv, ganz deutlich ist es natürlich im Sicherheitsbereich,
+weil man da zum Beispiel Gefahren erkennen will und versucht schon im Vorab zu bestimmen, wer ist,
+in der deutschen Logik würde man zum Beispiel sagen, wer ist ein Gefährder. Also ich möchte
+erkennen, welche sind für den Staat oder in dem Fall für den Staat gefährliche Personen,
+die man beobachten sollte. Und das versucht man, indem man eben bestimmte Muster extrahiert,
+was macht einen Gefährder aus, um das dann zum Beispiel durch Datenbanken laufen zu lassen,
+um solche Personen in einer kriminalistischen Datenbank zu finden und dann auf die zum
+Beispiel meine Aufmerksamkeit zu lenken. Und ich glaube, das passiert unterdessen in den
+unterschiedlichsten Bereichen. Also mit so einer präemptiven Logik auch zu arbeiten,
+das kann man ja auch. Ich versuche gerade noch ein anderes Beispiel zu finden, unter anderem
+bei Bewerbungsgesprächen. Menschen, die, ja das ist schwierig, weil es sind oft gar keine Muster,
+weil manchmal sind es auch nur Annahmen. Also unterdessen guckt man ja zum Beispiel,
+ich weiß es zumindest für die USA gerne, wenn man Menschen einstellt, ob die Kredite
+ordentlich zurückgezahlt haben, um dann sozusagen aus diesem Proxy zu schließen oder aus dieser
+Eigenschaft daraus zu schließen, ob jemand zum Beispiel in Zukunft ein guter Mitarbeiter
+sein wird. Da ist es jetzt gar nicht so eine präemptive Logik, sondern ich gucke mir bestimmte
+Kategorien an, die ich als relevant bestimme. Manchmal sind es aber auch Muster. Also manchmal
+guckt man dann auch, was haben wir in der Vergangenheit gesehen, was für Eigenschaften
+machen einen guten Mitarbeiter aus und nach diesen, diese Kategorien lege ich zugrunde für einen
+zukünftigen Mitarbeiter. Das heißt, ich gucke mir nicht den Mitarbeiter an und versuche mir ein
+Bild von diesem Menschen zu machen, um mir dann zu überlegen, ob der jetzt zum Beispiel gut in ein
+Team passt, sondern was früher gut war, wird auch in der Zukunft gut sein. Was natürlich teilweise
+dramatische Konsequenzen hat, weil das eigentlich die Wiederholung des immer gleichen im schlimmsten
+Falle bedeuten kann. Also wir haben jetzt auch noch so ein anderes Forschungsprojekt, aber da
+geht es zum Beispiel auch um diese, gibt es um Software, wie man beim Hiring, wie sagt man
+im Deutschen, wie man beim Einstellungsverfahren, genau bei Bewerbungsgesprächen, wie man Leute
+bestimmt und da ist es mehrfach aufgetreten, dass man einfach ein Profiling der eigenen
+Mitarbeiter, die man für gut befunden hat, daraus die Kategorien extrahiert hat für die zukünftigen
+Mitarbeiter und Mitarbeiterinnen. Was natürlich nicht zufällig, es gab ein Skandal um so einen
+Algorithmus von Amazon, der dann einfach weiße Männer präferiert hat, weil in diesem Zusammenhang
+primär weiße Männer gearbeitet haben oder als Manager gearbeitet haben und das waren dann
+Kategorien, die auch in Zukunft bestimmt hat, wer wird denn ein guter Manager sein. Da kann man
+ganz einfach daran sehen, wie problematisch sozusagen solche Formen von Korrelationen sind,
+die dann eben auch zu Bias oder Diskriminierung führen, weil man gar nicht darüber nachdenkt,
+dass das eben zur Reproduktion des schon Vorhandenen führt.
+Und ein Beispiel, was total mustergültig, könnte man sagen, eigentlich diese präemptive Logik eben
+auch eingeschrieben hat und mit dem du dich sehr intensiv auch befasst, ist eben die datengestützte
+Kriegsführung und da gibt es etwas, das nennt sich die Disposition Matrix, die kannte ich bisher noch
+nicht. Das ist eine im Grunde Todesliste in Form von einer Datenbank der US-Regierung. Vielleicht
+kannst du uns anhand dieses sehr konkreten Beispiels auch nochmal erläutern, wie da eigentlich diese
+von dir beschriebenen Wissensregime und auch Anwendungslogiken zum Einsatz kommen.
+Ich kann das natürlich immer nur unter Vorbehalt, also ja, ich habe mich damit beschäftigt, ich
+fand das auch sehr spannend, aber ich könnte jetzt, und das ist mir eigentlich auch eine
+Herzensangelegenheit, es gibt ganz wenig in diesem Feld an Forschung und das liegt natürlich daran,
+dass es ein extrem schwer zugänglicher Bereich ist. Es liegt auch daran, dass viele nicht über
+diesen Bereich forschen wollen, ich mache immer so ein bisschen kleine Witze, weil ich fühle mich
+Du bist jetzt auf einer Liste drauf, wahrscheinlich deswegen.
+Ja, also auch das, das weiß man nicht, das sind natürlich dann auch paranoische, das ist schon
+länger her, als ich nach San Francisco geflogen bin und mein Visum beantragt habe und normalerweise
+kriegt man dieses Visum sofort und beim, ich habe das Visum bekommen, aber es hat glaube ich 24
+oder 48 Stunden gedauert und ich habe mich natürlich schon gefragt, sind da irgendwelche
+falschen Stichwörter hochgepoppt, als man in der Suchmaschine nach Frau Prof. Dr. Jutta Weber
+gesucht hat, nämlich sowas wie Terror und Tötungsliste und ähnliches, das fragt man sich
+natürlich auch, aber man wird es natürlich auch nie raus, also im Normalfall wird man es
+nicht rausfinden, aber es ist halt interessant, weil ich fühle mich ja der Disziplin der Science
+and Technology Studies zugehörig, die unter anderem gerade mit kritischem Blick auf das Militär in den
+60er, 70er Jahren losgelaufen sind. Wir über die Drohnenkriege jetzt wieder ein bisschen mehr
+Forschung haben, aber dieser, dieses Feld natürlich auch sehr brach liegt unter anderem,
+weil halt auch empirische Forschung in dem Feld schwierig ist. Das heißt, was ich da über diese
+Disposition Matrix, die du gerade ins Spiel gebracht hast, herausgefunden habe, ist natürlich nur
+Dokumenten gestützt. Es gibt vielleicht ein paar Leute, die eine große Nähe zum weißen Haus haben,
+die vielleicht auch noch die eine oder andere Person befragen können. Ich konnte das nicht,
+aber was mir schon sehr, also nicht plausibel, aber was aus diesen Dokumenten, die ich dazu
+gefunden habe, hervorging, war, dass man schon in diesen Drohnenkriegen und wir reden jetzt noch
+von den ferngesteuerten Drohnen. Unterdessen gibt es ja auch Bemühungen, die autonome Drohnen zu
+entwickeln oder einzusetzen, weiß man nicht. Da gibt es ja zwei Varianten in diesem Drohnenkrieg.
+Das eine war, dass die Piloten bzw. die Beobachter manchen Menschen, auf die sie angesetzt wurden,
+sehr lange gefolgt sind und genauer geguckt haben, was die tun. Und das andere ist,
+dass es, also eigentlich so gesehen, fast drei Varianten. Das eine ist, manchmal wurde auch
+Verdacht nach dem Motto, hier ist ein in Vaziristan zum Beispiel, da sind Männer, die sind jung und
+es sieht so aus, als ob sie Waffen in den Händen tragen, war manchmal auch schon ausreichend,
+um eine Rakete von einer Drohne abzufeuern. Aber es gibt offensichtlich Tötungslisten,
+was ich dann selber auch erst rausgefunden habe. Die gab es früher, das ist vielleicht auch nochmal
+interessant, offensichtlich bei den verschiedenen Geheimdiensten und beim Militär, die dann
+irgendwann zusammengeführt worden sind. Und auch das halte ich für keinen Zufall, weil
+Machine Learning und diese Big Data Logik natürlich am besten funktioniert, je größer mein Datenbestand,
+mein Dataset ist. Das heißt, es kann dafür auch politische Gründe geben, warum man diese
+Tötungslisten irgendwann zusammengeführt hat vom Militär und von den Geheimdiensten. Aber es gibt
+sicherlich auch einen technischen Grund dafür, nämlich diese Datenbank mit ihren Informationen zu
+vergrößern, um sozusagen nochmal genauer nach spezifischen Mustern suchen zu können,
+was einen Terroristen oder eine Terroristin, in dem Fall meistens einen Terroristen, ausmacht. Und
+dabei sind aber, also es gab ein paar Dokumente, die zum Beispiel von Edward Snowden geleakt
+worden sind, an denen man das sehen konnte, teilweise sehr basale Profile von Terroristen
+erstellt worden. Also das eine ist, es gibt keine offizielle Definition der US-amerikanischen
+Regierung, was einen Terroristen ausmacht. Es gibt nur sehr vage Beschreibungen und man hat
+sich dann letztendlich, und da kommt das Verhalten wieder, von dem wir vorhin gesprochen haben,
+auf sehr basale Verhaltensmuster spezifiziert. Also zum Beispiel, um zurückzukehren zum Drohnenkrieg
+im Pakistan, wer reist bestimmte Routen in Vaziristan, um dann daraus zu schließen,
+dass es da Kontakte zu Aufständischen zum Beispiel gibt. Also was dann wieder zu einer
+Definition von Terrorist oder Telefonkontakte, die vorhanden sind. Also es ist bestimmt nicht
+sehr positiv, wenn man in seinem Handy Telefonnummern von Terroristen hat, die man schon getötet oder
+die gefangen worden sind oder die eben auch schon auf einer Liste stehen, weil man dann sehr simpel
+daraus geschlossen hat, na ja, wenn diese Telefonnummern wieder in dem Handy von dieser
+Person vorkommen, dann ist es sehr wahrscheinlich, dass die sich auch in diesen terroristischen
+Kontexten bewegt, dass die Person aber vielleicht einfach nur ein alter Schulfreund ist oder der
+Onkel oder was auch immer, ist möglicherweise dabei nicht immer abgeglichen worden. Aber
+eben über diese Erstellung von diesen Mustern hat man dann versucht, ja, Listen festzulegen,
+wer mögliche Ziele für diese Drohnenangriffe sein können und sozusagen eine Hierarchie der
+Most Wanted Terrorists festzulegen, die dann auch teilweise noch diskutiert worden sind. Es gab,
+sagt man, ich kann ja immer nur sagen, sagt man, was ich aus den Dokumenten rauslesen konnte,
+Bloody Tuesdays, wo es dann mit PowerPoint Präsentationen, wir reden jetzt von der Ära
+Obama, als ich das recherchiert habe, dann diskutiert hat aufgrund dieser Profile, welche
+die interessantesten Terroristen sind, derer man versucht habhaft zu werden und gerade unter Obama
+ist man ja dann dazu übergegangen, nicht mehr mit Boots on the ground zu versuchen, dieser Menschen
+habhaft zu werden, sondern sie einfach qua Rakete von der Drohne abgeschossen zu eliminieren,
+eliminieren klingt immer so harmlos, sie umzubringen, sie zu töten.
+Also als ich das gelesen habe bei dir in dem Paper, hatte ich ganz stark das Gefühl,
+dass das im Grunde, also bis zu einem gewissen Grad einfach auch auf eine Produktion von Bedrohung
+hinausläuft, weil ja genau die Logik, die du beschrieben hast, die ja letztlich auch immer
+in sich trägt, dass man eigentlich gerne mehr Daten hätte, um noch mehr Netzwerkanalyse zu
+machen, noch mehr Datenpunkte miteinander zu verbinden, dass diese Logik ja unabgeschlossen
+ist, also du hattest ja schon gesagt, es gibt nicht irgendwann dann ein okay, hier ist jetzt das richtige
+Ergebnis oder sowas, sondern es ist unabgeschlossen, also das heißt, es können immer mehr Daten
+eigentlich eingespeist werden und es sollen auch immer mehr Daten eingespeist werden und dadurch,
+dass man aber immer mehr Daten einspeist, werden dann natürlich auch immer mehr potenzielle
+Verbindungen eigentlich erzeugt und dadurch eigentlich im Grunde ja auch eine unabgeschlossene
+Bedrohung produziert. Also inwiefern hat man es da eigentlich dann letztlich mit einer Form von
+sichselbsterzeugendem System zu tun? Das ist auf jeden Fall so, ich erinnere jetzt nicht
+mehr auswendig die Zahlen, aber es gibt ja auch Datenbanken in den USA, wo diese Terroristen,
+oder es sind eben nicht Terroristen, das möglicherweise des Terrorismus verdächtigen
+und das geht in die Zehn- und Hunderttausende, also was da an Personen abgelegt sind in diesen
+Datenbanken, als zumindest verdächtige Personen und das ist genau das, was du beschrieben hast,
+weil man sammelt immer mehr Daten, damit findet man auch immer mehr Leute, die zumindest partiell in
+diese Muster reinpassen und damit scheint natürlich auch die Bedrohung immer größer zu werden und das
+ist ja auch eine Logik, die ganz schlecht sozusagen ex negativo abgeglichen werden kann. Also wie kann
+man denn feststellen, dass jetzt jemand da unbegründeterweise in dieser Datenbank landet,
+das versucht man auch großteils nicht, teilweise wo es dann, es ist nicht lustig, aber wo es dann
+sehr deutlich wurde, weil über diese Tötungslisten hast du ja auch gesagt, dir war das noch nicht
+bekannt, spricht natürlich kaum jemand, aber wo es natürlich aufgefallen ist, war es bei diesen
+No-Fly-Lists, die es ja in den USA auch gibt, nämlich Menschen, die nicht mit dem Flugzeug fliegen
+dürfen, weil sie eben als potenzielle, in Deutschland würde man eben sagen, potenzielle Gefährder
+gelten und da Menschen ausgeschlossen worden sind aufgrund von simpler Namenverwechslungen und
+andere mehr, wo es dann aufgefallen ist, wer alles in dieser No-Fly-Liste gelandet ist und diesen
+Menschen es teilweise Monate oder Jahre gekostet hat, bis die durchgesetzt haben, dass sie von dieser
+Liste gestrichen werden. Also auch da ganz schwierig, was bedeutet das, wenn man solche
+Listen anlegt, wer überprüft überhaupt noch, wie sinnvoll oder wie zutreffend sozusagen diese
+Einträge sind und gleichzeitig hat es natürlich auch eine immanente Logik, immer mehr Daten sammeln
+zu wollen, um diese Muster zu optimieren. Das ist auf jeden Fall so. Wir haben jetzt ja einige
+absolut problematische Aspekte an dieser Form des Zugangs, auch an dieser Produktion, spezifischen
+Formen von Produktion von Wissen ja jetzt schon besprochen. Gleichzeitig ist es ja auch nicht so,
+dass eben maschinelles Lernen nicht auch tatsächlich hilfreich sein könnte. Also du hast es ja auch
+gesagt, es gibt ja, du hattest das Beispiel des Sortierens unsortierter Zahlen rein und so. Also
+es ist ja so, dass es durchaus auch Anwendungsfälle gibt, in denen das eine total valide, vielleicht
+unproblematische Form des Zugangs sein könnte. Wie kann man das unterscheiden und oder wie könnte
+eine Nutzung oder auch eine Umformung etwaig solche Verfahren aussehen, solche Verfahren und
+solche Technologien aussehen, damit sie eben nicht in diese Fettnäpfchen der Technorationalität
+hinein treten? Na ja, ich glaube aus der Technorationalität selber kommt es nicht
+raus. Also da würde ich sagen, aber das heißt ja, wie du richtig gesagt hast, nicht per se,
+dass alle Anwendungen von übel sind. Das will ich damit überhaupt nicht sagen. Wir haben ja
+jetzt wirklich extreme Beispiele diskutiert. Ich glaube, es sind jetzt zwei Punkte. Die eine
+Frage ist, wie kann man größere Katastrophen, also jetzt im Fall der Tötungslisten, muss man
+einfach sagen, da sind Menschen getötet worden, die zu Unrecht auf dieser Liste standen. Ich glaube,
+das weiß man heute. Oder man hat es noch rechtzeitig gemerkt, es gab eben dieses eine Beispiel. Also
+nicht nur eins, aber eins wurde auch bekannt durch ein Leak von Edward Snowden, wo man gesehen hat,
+dass ein Journalist ganz weit oben in Vaziristan auf der Tötungsliste stand, weil der sich eben
+mit Al-Qaeda und anderen Personen unterhalten hat. Und deshalb ist er die gleichen Routen entlang
+gereist. Oder was sie auch gemapt haben, waren Wi-Fi-Netzwerke. Also wo hat sich ein Handy
+eingeloggt? Und das waren dann halt Kontexte, die nicht erwünscht waren. Und deshalb stand dieser
+Mann ganz oben auf der Tötungsliste. Da war aber ein Journalist und war sozusagen einer der wenigen,
+der sich dann auch mit den Aufständischen oder den Terroristen, wie immer man es benennen will,
+sich unterhalten hat, was durchaus positiv war, auch für die Berichterstattung, um da auch wieder
+einen Dialog in Gang zu bringen, hat den Menschen aber höchst gefährdet. Also das ist das extreme
+Beispiel und es gibt eben auch positive, jede Menge positive Beispiele auch von Machine Learning.
+Da würde ich sagen, das sind jetzt, was jetzt eine große Diskussion war, ist immer, wie ist es mit
+Diskriminierung? Wie ist es mit Bias? Wie kann man das verhindern? Und ich glaube, da hat man noch
+keine wirkliche gute Antwort gefunden. Also es gibt jetzt zum einen viele Versuche, was ich
+spannend finde, in der Informatik selbst, diese Algorithmen im Machine Learning, also zum Beispiel
+so Ranking-Algorithmen zu verbessern. Aber das ist natürlich ein ganz schwieriges Feld, weil zum
+einen versucht man eben, diese Algorithmen zu verbessern. Man müsste die eigentlich politisch,
+juristisch, sozial einhegen. Es gibt auch eine laute Forderung nach so, ich glaube man im deutschen
+Auditing, also einer gewissen Überwachung oder Prüfung von diesen Algorithmen und vor allem
+von den Effekten der Algorithmen. Da hat man aber eigentlich auch noch keine zuverlässigen und vor
+allem rechtsverbindliche Verfahren entwickelt. Also das hat ja sich mit so einer Geschwindigkeit
+entwickelt, wo dann die verschiedenen von Verwaltung, Regierung, Justizialität und so weiter,
+dem natürlich auch immer hinterher hinken, aber wo es eigentlich dringend nötig ist,
+solche Algorithmen, also manche reden von dem Altü für Algorithmen, aber ich glaube auch das
+alleine reicht noch nicht aus, weil es sind nicht nur die Algorithmen, es sind auch die Daten. Und
+wenn ich mich mit Maschinenlearnern, meistens sind es Maschinenlearner, nicht so viele
+Maschinenlearnerinnen unterhalte, habe ich auch den Eindruck, dass zum Beispiel kaum geprüft wird,
+wie kommt man zu diesen Daten, wer hat die Kategorien dafür festgelegt, was in diesem
+Datentool zum Beispiel drin ist, also welche Features, also welche Eigenschaften werden
+abgefragt und welche nicht. Und das sagt ja schon ganz viel darüber aus, was überhaupt für Muster
+gefunden und nicht gefunden werden können. Ich hatte ja vorhin so ein ganz kleines Beispiel wie
+mit diesen Managern, also wenn ich jetzt von einer bestimmten Firma nur die Manager auf
+ihre Eigenschaft, also versuche das zu zu profilen und das dann in einer Datenbank abzulegen und es
+waren halt nur weiße Männer, dann weiß ich auch, dass in Zukunft alle, die dagegen dieses Profil
+abgeglichen werden, die weißen Männer priorisiert werden. Aber das liegt dann nicht unbedingt an
+dem Algorithmus, das kann auch sozusagen an meinem Datenset liegen, dass das passiert. Und das nächste
+und das ist dann vielleicht noch das dritte und das führt dann vielleicht zu weit, aber gleichzeitig
+werden ja diese Fragestellungen, die in diesem Machine Learning drinstecken, also wie finde ich
+jetzt die besten Treffer für die Suchmaschine oder wie finde ich die besten geeigneten Menschen für
+eine Aufgabe oder was immer man sich da jetzt vorstellt, dass ich das ja in irgendeiner Weise
+modellieren muss, diese Fragestellungen, die kann ich ja nicht so eben mal in einen Algorithmus
+implementieren und ich habe einen Kollegen Maschinen Lerner gefragt, habe ich gesagt, gibt es da
+verbindliche Regeln der Modellierung? Dann hat er gesagt, nee, das ist mehr so eine Kunst, aber also er
+würde nicht sagen, dass es dafür wirklich feststehende Regeln gibt, wie man sowas modelliert und es
+gibt halt auch sehr wenig Supervision, wie man bestimmte Fragestellungen in sozusagen diese
+algorithmische Logik übersetzt. Also da wäre ganz viel zu tun und da ist es nicht damit getan,
+einfach nur einen Algorithmus zu verbessern, den man des Bias oder der Diskriminierung überführt
+hat. Das ist glaube ich ein ganz schwieriges und sehr komplexes Feld und wo man glaube ich
+gleichzeitig eben nicht nur Informatiker und Informatikerinnen fragen muss, sondern auch
+Soziologinnen, Medienwissenschaftler, also Menschen, die in den Sozial- und Kulturwissenschaften zu
+Hause sind, mit denen man da eigentlich kooperieren müsste, um zu verstehen, was in dem Feld passiert,
+um auch größere Havarenen zu vermeiden. Ich meine, ich finde am Beispiel dieser Disposition
+Matrix kann man eigentlich ganz schön auch sehen, dass da ja nicht nur es sich darauf
+reduzieren lässt, dass man das irgendwie ein bisschen verbessern müsste. Also dass da jetzt
+irgendwie nur, keine Ahnung was, man die Fehler nimmt und dann den Algorithmus entlang der Analyse
+dieser Fehler halt verbessert, sondern dass ja eigentlich in erster Instanz schon die Art und
+Weise, wie man dem Problem begegnet, einfach hoch problematisch ist, weil wie wir eben schon
+besprochen hatten, man im Grunde die Bedrohung ja mit produziert, indem man vorgibt, sie eliminieren
+zu wollen. Und dieses Zusammenspiel, das ist ja schon eigentlich etwas, was es also definitiv zu
+vermeiden gilt. Und dann stellt sich mir halt anschließend irgendwie die Frage, okay, es ist
+vielleicht so, dass einfach in bestimmten Feldern diese Form des Zugangs grundsätzlich nicht
+eingesetzt werden sollte. Und wie kann man entlang dieser Fragestellungen Entscheidungen treffen?
+Also gerade auch, weil ja, wie wir auch vorhin schon festgestellt hatten, immer wieder dann
+diese Figuren der Scheinobjektivität und sowas angeführt werden, um so zu tun, als sei diese Form
+des Zugangs eigentlich anderen überlegen, weil sie ja angeblich objektiv sei. Also,
+genau, ja. Also irgendwie würde mich noch interessieren, wie man das unterscheiden kann,
+also wo man das einsetzen sollte und wo eben vielleicht grundsätzlich nicht.
+Ja, ich glaube, es ist schwierig, eindeutige Regeln für alle Kontexte zu formulieren. Aber
+ich bin glaube ich da ganz deiner Meinung, es gibt Bereiche, wo man überhaupt nicht auf die Idee
+kommen sollte, sie einzusetzen. Oder wenn man es dann mal ansatzweise versucht, bitte nicht
+mein Tötungslisten, also jetzt gehen wir mal einen Schritt zurück. Wir hatten einen Kollegen,
+das fand ich ganz schön, das für den Bereich Predictive Policing erzählt, wo es ja ähnliche
+Versuche gibt, wie kann ich den Täter finden, bevor er was getan hat, also den Verbrecher finden
+oder die Verbrecherin, bevor sie was getan hat. Und es da Versuche gab, jetzt muss ich versuchen,
+weil ich mich da aktuell gar nicht viel mit beschäftige, aber ich glaube in Baden-Württemberg
+war das Baden-Württemberg. Ich meine ja, ist ein solches Programm einfach mal auch evaluiert
+worden. Also damit fängt es ja schon ganz häufig an, das haben wir ja auch in Deutschland im Kontext
+von Geheimdiensten, dass man immer mehr bestimmte Zugriffe, Horten von Daten einfordert, aber
+eigentlich kaum evaluiert wird, was denn damit gewonnen ist. Also eigentlich müsste man ja sagen,
+also wenn jetzt hier, eigentlich dürfen sie sowieso keine Datenvorratsspeicherung machen,
+aber es wird immer wieder damit argumentiert, auch wenn dann das Verfassungsgericht sich dagegen
+wieder entscheidet und man sie wieder Gesetze umstricken muss, aber selten eigentlich nie Belege
+vorgelegt werden, die beweisen, dass der Zugang zu Unmengen von Daten, nämlich von ganzen
+Bevölkerungen wirklich dazu geführt hat, bestimmte Probleme zu lösen, sondern das wird
+ja immer nur behauptet. Also man könnte wirklich mit sowas Banalem erstmal anfangen, dass es
+dazu gilt, Belege vorzulegen und bei dieser Evaluierung von Predictive Policing-Programmen
+ist wohl auch schon rausgekommen, das war in Baden-Württemberg, dass sie nicht wirklich
+hilfreich waren und da hat man das dann auch eingestellt. Also das würde man sich ja eigentlich
+wünschen. Man stellt nur fest, dass dieser, ich muss noch was sagen, der Aberglauben an die
+Objektivität und die Hoffnung darauf einfach und vielleicht auch langfristig kostengünstiger als
+wenn man Menschen einstellt, wobei das auch das nicht immer stimmt, weil man da ganz viele
+Folgenkosten komplett unterschätzt, hofft schnell Probleme lösen zu können und schnell Erfolge
+vorzuzeigen zu können und da würde ich jetzt wirklich erst mal wirklich sowas
+Altenmodisches wie Evaluation einfordern wollen und ich denke bei anderen Fragen, nämlich in
+welchen Bereichen wollen wir solche Systeme überhaupt einsetzen? Ich denke es werden noch
+viele Fehler, Diskriminierungen und Bias, all das wird weiterhin passieren, aber ich glaube man
+braucht einfach eine größere Aufmerksamkeit dafür und wie man das jetzt wirklich langfristig lösen
+kann, weil oft ist eben die Technik schneller als die Behörden oder die Justiz. Ich musste noch mal
+an das Beispiel Einstellungsverfahren denken, wo eben das heute zum Beispiel Social-Media-Profile
+abgesucht werden, um Informationen über Bewerbungskandidatinnen zu erlangen, sowas müsste
+verboten werden, aber gleichzeitig ist, also was gehen die privaten Äußerungen von Menschen über,
+weiß ich nicht, ihr Lieblingsgetränk bis was auch immer man sich vorstellen kann, was geht es den
+zukünftigen Arbeitgeber an? Meiner Meinung nach geht ihnen das gar nichts an, also dass man diese
+Verbindungen von Persönlichkeitsprofilen, Social Media, dass man das auch mal generell da klare
+Spielregeln formulieren müsste und da haben wir natürlich auch, und das muss man dazu sagen, auch
+eine sehr sehr zögerliche Politik, die da eigentlich nicht eingreifen will, weil das natürlich auch ein
+hochkomplexes und sehr schwieriges Feld ist und dann natürlich und nicht nur das, sondern auch da
+vermutlich in größerem Stil Lobbyarbeit von den unterschiedlichsten Seiten betrieben wird, um das
+auch zu verhindern. Und auf der Ebene des Paradigmas, das wird mich noch interessieren,
+weil du in den Texten immer mal wieder eben dieses klassische mathematisch naturwissenschaftliche
+Paradigma hernimmst, um es als eigentlich Kontrastfolie, würde ich sagen, zu verwenden,
+um dem gegenüber die Technorationalität abzugrenzen, ja, also einfach um aufzuzeigen,
+inwiefern dort, wie du es ja gesagt hast, diese Korrelationsdogmatik, wenn man so will,
+eigentlich vorherrscht. Also wenn man jetzt diese beiden Dinge nimmt, ja, und es gibt eine
+berechtigte Kritik an beidem, also ich mag nur hervorheben, wir also, gerade die feministischen
+WissenschaftlerInnen aus den Science and Technology Studies haben ja immer schon eigentlich auch diese
+höchst problematischen Aspekte des klassischen mathematischen naturwissenschaftlichen Paradigmas
+hervorgehoben, ja, und zwar absolut zu Recht. Das heißt, wir haben jetzt hier zwei Paradigmen
+eigentlich, die gleichermaßen ja problematisch sind, sage ich mal vorsichtig, müsste man da
+jetzt nicht eigentlich dann auch auf dieser Ebene auch ansetzen und sagen, okay, es reicht
+nicht eben durch Einhegungsgesetze und so weiter jetzt zu versuchen, dieser Technorationalität
+irgendwie Schranken zu setzen, was sicher wichtig ist, also da bin ich auf keinen Fall dagegen,
+das ist ein Aspekt, aber gelte es nicht dann auch auf der Ebene des Paradigmas anzusetzen und sich
+zu fragen, okay, wo kommt man denn hin, wenn man jetzt auch über diese Technorationalität hinaus
+will und vielleicht um sozusagen einen ersten Ansatz aus deinen Texten herauszunehmen, den ich
+zumindest so verstanden habe, du hast da eine Formulierung von Human Machine Learning, wo du
+eigentlich ja schon so ein bisschen wie so eine Richtung andeutest, dass man eigentlich anfängt,
+sich einzugestehen, okay, der Mensch, der da immer so rausnegiert wird, wo immer so getan wird,
+als gäbe es zum Beispiel das Post-Processing nicht und so weiter und so fort, wenn man an
+all diesen Stellen, wo er eh schon immer da war, wenn man anfängt, das wieder bewusster auch mit
+hineinzunehmen, ohne dabei so zu tun, als sei das jetzt eben ein in Anführungsstrichen souveränes
+Individuum, wie irgendwie im klassischen Humanismus oder so, also vielleicht würde sich da quasi ein
+neues hybrides Paradigma auftun oder hast du da Ansätze, die es vielleicht weiter zu ergründen
+gibt? Das hast du super schön zusammengefasst, Jan, aber ich weiß nicht, ob ich dafür schon
+wirklich gute Lösungen habe, weil ich fand das ja auch sehr schön, diesen einen Aufsatz,
+der Human Machine Learning hast, da hast du mich danach gefragt, habe ich dir ja auch geschickt und
+da habe ich ja mehr so kursorische Beispiele, als dass ich schon wirklich grundlegende Linien
+ziehen könnte. Das ist, glaube ich, mehr so eine Arbeit für die Zukunft, aber auf jeden Fall,
+glaube ich, ist es mir ganz wichtig, deutlich zu machen, dass es, meine Kollegin Lucy Satchman
+nennt es immer Human Machine Assemblage, dass es sozusagen keine Maschinen ohne Menschen gibt und
+dass da immer auch menschliche Arbeit und menschliche Werte, Normen in diesen Maschinen drin
+stecken und das wird natürlich und da ist so völlig recht komplett negiert, wenn man da von
+so einer maschinellen Objektivität spricht, also die ist wirklich absurd, weil es dünkt ja so,
+als würden die Maschinen vom Himmel fallen und würden die sich jetzt alles selber berechnen,
+nein, wir legen die Kategorien fest, wir legen die Fragen fest, wir legen fest,
+in welche Richtung das Ganze gehen soll, also das ist ganz zutiefst implementiert,
+wie wir gute Wege finden können. Das deutlicher zu machen ist, glaube ich, noch eine offene Frage,
+aber vielleicht nochmal, und das hat mit dem, was du zuvor gesagt hast, zu tun, es ist natürlich
+auch wahnsinnig schwer, wie stellt man die Wissensordnung seiner eigenen Zeit in Frage.
+Ich würde jetzt mal sagen, da hat sich, das ist jetzt gemein, ich schätze Michel Foucault sehr,
+aber der hat sich halt auf der einen Seite, naja, er hat auch über die eigene Zeit gesprochen,
+aber es ist natürlich immer einfacher rückwärts zu gucken und zu sagen, was machte diese
+Wissensordnung aus und vielleicht wird uns jetzt die alte Wissensordnung mit der Kausalität da
+manchmal auch deutlicher, als sie uns früher war, weil, was mich auch interessiert, ist natürlich
+die Frage, auf was antwortet diese Wissens-, unsere heutige Wissensordnung auch, weil die
+Kausalität hat vor einem Hintergrund operiert, einer Welt, die von Gesetzen durchdrungen ist,
+also einer natürlichen Welt, die von Gesetzen durchdrungen ist und heute hat man immer mehr den
+Eindruck, dass man in so einem Bereich des Theorielosen eigentlich operiert, also dass
+man nicht mehr darauf vertraut, dass es hier grundlegende Strukturen und Funktionalitäten
+in der Welt gibt und immer so ad hoc praktisch Lösungen findet und dafür ist eben dieses
+Korrelationsparadigma sehr gut, also indem man eben alte Muster in die Zukunft projiziert.
+Das Human Machine Learning, was ich jetzt so genannt habe, ganz absichtlich, um den Human
+Factor im Machine Learning deutlich zu machen, das bewegt sich natürlich auch noch mal auf so einer
+anderen Ebene, das ist nicht primär eine erkenntnistheoretische, sondern eher in so einer
+Herovation-Denkschiene, wollte ich jetzt schon fast sagen, auch der Einmischung und das ist
+vielleicht, das ist dann, glaube ich, eher eine politische Ebene, was heißt, was muss eigentlich
+passieren, dass es deutlicher wird, dass es diese enge Verflochtenheit und jetzt nicht wie in den
+Science-Fiction-Filmen, die Cyborgs, wie sehr wir in diese sozio-technischen Praktiken involviert
+sind, aber auf sehr unterschiedliche Weise, wir sind ja nicht alle in gleicher Weise eingebunden,
+wer konfiguriert hier was, wie sind hier Machtverhältnisse, die diese, auch diese
+Human Machine Assemblages, also diese Gefüge von Mensch und Maschine konfigurieren und wie können
+wir uns einmischen und das habe ich ja an einem Beispiel aus einer schönen kleinen Novelle,
+ja, Novelle-Erzählung von Cory Doctorow, wo sich jemand, der sich eigentlich kaum mit Technik
+auskannte, aus so einem existenziellen, lebenspraktischen Zusammenhang mit so einem,
+mit den Problemen des Internet of Things zum Beispiel auseinandersetzt, weil plötzlich der
+Toaster nicht mehr funktioniert, weil die Firma bankrott gegangen ist, die diese Toaster herstellt
+und man aber nur diese ganzen Maschinen benutzen kann, indem man die richtigen Produkte auch,
+also weil die Produkte, also der Toast ist für den Toaster oder das Waschpulver ist für die
+Spülmaschine konfiguriert und das dann alles nicht mehr funktioniert, bzw. wie kann man die
+Maschinen hacken, damit man die auch mit anderen Toast, der günstiger ist, benutzen kann, bis hin
+wie kann man Aufzüge in großen Hochhäusern konfigurieren, umkonfigurieren, das in der
+Geschichte ist es eben so, dass auf der Vorderseite die reichen Leute wohnen, die immer den Vortritt
+haben in dem Aufzug und die Leute, die auf der Rückseite in den Sozialwohnungen wohnen,
+immer warten müssen, bis der Aufzug frei ist, damit sie ihn überhaupt benutzen können, was
+nicht lustig ist, wenn man im 15. Stock zum Beispiel wohnt und man da sozusagen technische
+Kompetenzen auch erlernt, aber das sind glaube ich sehr unterschiedliche Ebenen, weil das eine ist
+eine politische Ebene, wo man deutlicher machen müsste, dass es hier auch um Machtverhältnisse
+gibt, die es zu ändern gilt, weil nur bestimmte Menschen sehr stark involviert sind in die
+Konfiguration von Technik und ihrer Benutzung, aber auf der anderen Ebene finde ich auch ganz
+stark, wir reden ja immer von den Digital Natives, aber wenn ich meine Studierenden sehe, oft das
+Gefühl habe, bestimmte technische Kompetenzen auch ganz stark fehlen, also die sind tausendmal
+perfekter darin, TikTok, Instagram oder sonst irgendwas zu nutzen, aber zum Beispiel wirklich
+grundlegendere Zusammenhänge von technischen Netzwerken wollte ich jetzt schon mal ganz
+klassisch sagen, zu begreifen, so ein Wissen wird viel zu wenig in der Schule und auch in der
+Universität vermittelt und auch so ein do it yourself im Sinne von, wie kann ich mir damit
+weiterhelfen oder wie kann ich mir technische Kompetenzen beibringen und vielleicht auch,
+ich meine das jetzt gar nicht in so einem Black Hat Logik, aber auch um bestimmte technische
+Zusammenhänge hacken zu können, nämlich in meinem eigenen Sinne, also das ist natürlich dann eine
+individuelle Logik und dann haben wir aber noch eine gesellschaftliche Logik und wie man die da
+noch mal zusammenführen kann, ist dann noch mal ein ganz schwieriges Problem, aber da würde ich
+jetzt erstmal glaube ich ansetzen und um eben dieses ewige endlose Rhetorik der Objektivität
+von Maschinen oder auch der Objektivität dieser technowissenschaftlichen Logik grundsätzlich zu
+hinterfragen, ist glaube ich vor allem wichtig, weil ich immer wieder erschüttert bin, wie sehr
+auch so eine technokratische Logik in den Köpfen vieler Menschen verankert ist, also wie
+selbstverständlich das ist daran zu glauben, dass man, also ich denke ich sage nur noch ein Beispiel
+Klimawandel, wo immer wieder von bestimmten Leuten angeführt wird, ja wir werden Technologien
+entwickeln, um das Problem des Klimawandels zu lösen, da muss ich mal lachen und sagen, ja das
+hat man schon damals bei den Atomkraftwerken gesagt, wir werden schon irgendwann, das waren in
+siebziger Jahren, also 50 Jahre her, Möglichkeiten finden, um den Atommüll sicher zu lagern, wir
+wissen bis heute nicht so genau, wie wir das tun sollen und haben da ein riesen Problem, also der
+Glauben an die Technik wird schon irgendwann richten oder sie kann auch alles lösen, Evgeny Morozov hat
+das ja auch mal schön als Technosolutionism benannt, also und diese Logik ist einfach noch
+sehr weit verbreitet und ich würde mir sehr wünschen, dass ich da eben mehr die Logik von
+Human Machine Learning, also wir lernen von den Maschinen, aber wir müssen auch wirklich wissen,
+was die Maschinen da tun und wie wir sie anders konfigurieren, das ist eigentlich der wichtigere
+Schritt, dass wir dahin kommen, um den Satz zu Ende zu machen. Jutta, ich frage am Ende eines
+jeden Gesprächs immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+Das ist ja bei kritischen Kritikern eine schwierige Frage, also was mich erstmal freudig stimmt,
+ist, dass ich in den letzten paar Jahren, wenigen Jahren, viel mehr kritische Fragen von meinen
+Studierenden zu hören bekomme, als in den letzten 20 Jahren davor und das hat was mit dem Human
+Machine Learning zu tun, also was da an Neugierde entsteht. Fällt mir noch was ein, was mich freudig
+stimmt. Es ist nach und in einer Pandemie schwer zu sagen, weil in der Pandemie hatte ich ganz
+naiverweise kurz die Hoffnung, dass sich politisch möglicherweise in diesem Lande was bewegt, aber
+diese Hoffnung hat sich sehr schnell wieder gelegt leider. Von daher lasse ich das glaube ich mal
+offen, aber ich finde ja auch schon dieses, ja das gehört vielleicht auch dazu, auch Klimabewegung,
+dass die jungen Leute viele Dinge, und da ist ja auch der Technosolutionism zugange bei dieser
+Diskussion um den Klimawandel, dass da wieder viel in Frage gestellt wird oder Extinction Rebellion,
+dass da eigentlich ganz spannende Sachen passieren, auch auf so einer, nicht banal,
+aber auf einer politischen Ebene, denn das Human Machine Learning wird nicht einfach nur aufgrund
+von anderen Lehrprogrammen in Schulen oder Universitäten einsetzen, sondern das muss man
+sich auch, das muss eingefordert werden und das muss erkämpft werden, weil da gibt es viele
+Lobbys, die kein Interesse daran haben, dass die Mehrheit der Menschen dieses Human Machine
+Learning lernt und auch umsetzt. Wunderbar, Jutta, vielen Dank für das Gespräch. Vielen
+Dank an dich, Jan, für die schönen Fragen. Das war Future Histories für heute. Vielen
+Dank fürs Zuhören, Shownotizen und vieles mehr findet ihr auf www.futurehistories.today.
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit. Ihr
+könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren,
+sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen
+einzelner Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich freue
+mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen
+wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf
+unserer Homepage. Future Histories ist eine Produktion von MetaLapses zu finden auf
+meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.

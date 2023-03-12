@@ -1,0 +1,436 @@
+Welcome everybody to Future Histories, my name is Jan Gross and today you'll hear a recording of a panel I organized and moderated in February 2020 as part of my research fellowship at the Weizenbaum Institute for the Networked Society.
+The panel critically discusses the expansion of cryptoeconomics into an art of government and I am very happy that I was able to bring together Jaya, Clara Brecke, Benjamin Seibel and Martin Köppelmann as panelists.
+Jaya and Benjamin have both been guests to Future Histories before, so check out their episodes as well.
+I'd like to send my warmest thanks and greetings to the research group 17 at the Weizenbaum Institute who hosted my stay there and greetings actually to everybody at the Weizenbaum because I really, really, really enjoyed my stay there and I loved the many interesting and inspiring discussions.
+It was an actually perfect research environment, I have to say. So thanks a lot.
+And since I am actually already in the mode of wholehearted gratitude, I'd like to thank Ludwig and welcome him as a Patreon of Future Histories.
+And I'd like to thank Vicky, Fabian and Bernhard for their contributions. Thanks a thousand times. This really helps a lot.
+But now, please enjoy the panel Dime and Punishment, Cryptoeconomics as an Art of Government.
+I'm very happy to have the opportunity to host this panel tonight with this awesome guest, which I'm really excited about to bring together. It's Jaya, Clara Brecke, Benjamin Seibel and Martin Köppelmann.
+Maybe you could introduce yourself just a little.
+Sure. Hello, everyone. I'm Jaya.
+I have been kind of tracing the emergence of the field of crypto economics pretty much since the beginning of Ethereum.
+I started writing a PhD that was a political analysis of blockchain.
+I wanted to understand how can you understand something like blockchain politically?
+And that was right around the time when Ethereum had its first DEVCON.
+And so for me, it's been kind of a curious journey of understanding the ways that I guess like kind of existing or kind of historical economic theories are rehashed and reconfigured through the development of protocols that actually come from a very different set of concerns,
+namely usually kind of security questions, network security questions.
+So this kind of interesting mishmash and the emergence of crypto economics as a field that's kind of distinct from previous economic ideas.
+That's, I guess, like broadly my interest, but in relation to this panel anyway.
+But yeah, within that, I also kind of look more at, I guess, power dynamics, questions of governance, this kind of thing, too.
+That's a brief. So right now I'm doing a postdoc at Durham University, but I am on strike today, so I do not represent Durham University.
+They're not paying me to be here.
+I'm here as a general interested person that is kind of following this field and writes a lot about this field, speaks a lot about this field.
+Yeah. Hi, I'm Benjamin.
+Well, Jan invited me here as, I guess, an expert on governmental technologies because I wrote a book about it a few years ago.
+A PhD thesis about cybernetics, actually, and the influence it had on governmental discourses in the postwar periods, like from 1945 to 1970, basically.
+So very early, the emergence of digital technologies, but also of a kind of theoretical discourse around these technologies and how it influenced politics and governmental thinking in this period.
+And I think we still see the consequences of these developments today, or maybe we even see them just today more than in the past.
+Anyway, I no longer work in academia and also not an expert on crypto economics, but Jan told me that is just fine.
+So I hope I still can contribute something to the discussion.
+I work in civic tech and technology activism, basically here in Berlin for about five years now.
+I also work a lot with the government on digital developments and how to implement these technologies in a way that benefits citizens.
+Yeah, I'm Martin Kuppelmann.
+I'm a software engineer and interested in blockchain, first Bitcoin eight years ago or something like that, and then mainly Ethereum.
+I founded the project or company now called Gnosis.
+We are building prediction markets and a bunch of other infrastructure and markets on Ethereum.
+Another side project I initiated is a project called Circles, where we're trying to advance the course of universal basic income via blockchain technology and introducing new currencies.
+I hope somehow for me, it totally makes sense to bring together all these specific people, actually.
+And the umbrella is the title of this panel tonight, Diamond Punishment Cryptoeconomics as an Art of Government.
+I'm quite sure that not everybody is familiar with the topic, so I think we should kind of lay out some basic thoughts about it.
+Maybe let's simply start with the definition of cryptoeconomics, Jaya, do you want to start?
+Yes, well, I guess, you know, I'm not going to give you a kind of like little spiffy one liner, but more just to say that I guess the easiest way to describe cryptoeconomics is to trace it back to Bitcoin mining basically.
+And the idea of using, you know, on a very basic level, economic incentives and rewards in order to achieve certain network security characteristics in a decentralized peer to peer network scenario.
+And that is like, you know, that's been done, you know, that's kind of been a kind of field of experimentation ever since then.
+And has added more and more economic concepts, more and more ideas around how markets function and so on that I'm sure Martin can say a lot more about in terms of the practical experiments that's been done around that.
+But I think for me, what's interesting about that is that, you know, I come from a background, a kind of theoretical and political background that's extremely critical of the use of markets in trying to kind of govern social relations.
+And I remain very critical of that, you know, I think there's a severe limitation to what markets can and should do in societies.
+Nevertheless, I think it's like a super interesting field to look at how it interacts exactly with network security and network security protocols.
+And so, you know, I follow these experiments with with lots of interest and openness to.
+One of the reasons why I'm interested in cryptoeconomics as an art of government is kind of more or less recent development where these types of actually design these design paradigms of cryptoeconomics reach over into the sphere of the social even more and are proclaimed to become a new social technology.
+There's this collaboration between Vitalik Buterin, one of the founders of Ethereum, one of the largest blockchain platforms, and an economist called Glenn Whale.
+And they kind of joined forces and more or less tried to develop tried to develop a what they call political theory based on radical markets, which are actually markets based on mechanism design.
+And yeah, mostly on mechanism design, which is a type of game theoretical thinking and the combination with blockchain technology and cryptoeconomics.
+And this is proclaimed to become a new social technology, which can create some kind of legitimacy within a space of anonymity.
+And before the panel, that's the that's the idea roughly.
+Not sure about that. In that particular context, I'm not sure about the anonymity.
+I think. Yeah, that's true.
+In that case, they very clearly say we need identity and one person, one vote and stuff like that.
+Yeah, it's true.
+Why I'm making this this longer introduction is I'd be keen on your position of what you think that cryptoeconomics actually is, because when we were talking before the panel, you kind of sketched it in a kind of broader sense, also political sense.
+Yeah. Yeah, I'm again, I have not really thought or it's I guess just just feeling it's not not trying to to define those terms.
+But a few few things that come to my mind when I when I think about it is, first of all, that we have a space where there there is no arbitrator or judge.
+So like like if we are here interacting with each other, there's always the assumption whatever we do, there is a state and there is something above us.
+And if we do some form of interaction, if I go into a shop and buy something, then then the interaction is not just defined by the two of us, but it's defined by a whole construct above us.
+And in those blockchain in the blockchain world, we're trying to make interactions between possible.
+We are trying to make interactions between people possible, even in the absence of such an overarching state.
+And the very practical consequences is that something as simple as as having ten people that are somewhere in the world and let's say ten different countries and they together want to have a bank account.
+So they together want to say, OK, we have here a thousand dollars and we want to control that together.
+That would be extremely complex to set up outside of blockchain.
+I mean, you could, I mean, you could, I guess, form a company, but that would need to be in one restriction.
+And then it would be what cost you thousands, maybe ten thousand dollars to just maybe much more to set up such a construct in blockchain world.
+That's super easy and cost you 20 cents.
+So you can just do what it's called the multisig, some shared account that that where the money sits and it's controlled by by by ten people.
+And there can be basic rules like five or ten agree, then the money can be can be taken.
+And so I would define crypto economics as a space that can enforce rules without without such a government arbitrator that, of course, has consequences or like one is that it's always opt in.
+So in my view, so far, yeah, if I'm born in Germany, I don't have a choice to kind of pay taxes or not.
+Kind of I'm kind of forced to play by the rules that that exist here.
+I would say so far in crypto economics, it's always an active decision to kind of, yeah, put something under those rules, which comes with the flip side that you usually first have to
+put something in kind of which means mainly you have to first put in value.
+So unless you put in value or money or something money like usually you will not be able to to do to do anything.
+I mean, then there may be a few more.
+So so I think the what you mentioned was was game theory.
+I would maybe call it adversarial thinking.
+So like when when those systems are designed, I think the general mindset is that they try to build systems that work under worst case assumptions.
+So if I would just try to make one real world example, I think that like in the US, there were there were those primaries or the Democratic primaries.
+And I think there was a mess up like that.
+They couldn't count the votes and someone designing crypto economic system would immediately say, OK, it's basically just those two guys who then report to that.
+That's a terrible system. That's kind of just those two guys.
+They would enough to collude.
+So we would kind of just from the mindset directly come with a different mindset and come with a mindset that tries to build systems that are more resilient.
+I guess that's very interesting.
+And I think because we will come to a part of critique, actually, and I'll be keen on on looking at the at the assumptions, the anthropologies, so to speak, that are inscribed within this this type of thinking.
+Because to me, it's even kind of paranoid somehow.
+And then that's specifically problematic when it comes to designing social spaces.
+You know, you always think that the next guy might stab you in the back.
+Yeah, but I want to be more generous, actually, towards the whole thing.
+Before we get there, I'd like to ask Benjamin to maybe introduce us to the second part of the title, because it's Diamond Punishment Crypto Economics as an Art of Government.
+In German, that would be Regierungskunst.
+And Benjamin actually wrote quite a lot about the question of technology in relation to Regierungskunst.
+Could you maybe kind of brief us about it?
+I could try. Yeah, it's already hard to sum up a book in a few sentences, but when it's been five years, it's even harder.
+When I started to write about the relation of technology and government, I found that on the one hand, throughout the history of political or governmental thinking,
+you would always find these metaphors or models of machinery as the state.
+So even in past centuries, you would find these conceptions of the state being like a ship or like a clockwork or like a steam engine.
+And in the 20th century, of course, this gets replaced by looking at the state as kind of an information processing system or look at societies as kind of information processing systems.
+And these models have kind of a very bad reputation in political thinking, especially in like leftist political thinking, because they always look very reductionist, which they are, of course.
+So lots of very smart political thinkers actually assumed that these models were just wrong,
+which I found not satisfying because it was so obvious that these models actually had a huge impact on the way that government was thought,
+but also how government was practiced because these technologies are not just like ideas.
+They are like materialities that can also be used as tools to actually govern people because governing people,
+and this is an idea that you will find in Foucault most prominently, is a very technological thing to do in a way.
+It's about control. It's about regulation. It's about setting environments where people can be regulated in some way.
+And of course, those people in power or governments can also use technologies as actual tools.
+So it's not just like we imagine society to be an information network, but once you imagine society to be an information network,
+you can use computers or information networks to actually start controlling people through computers.
+The same way that, for example, Friedrich the Great tried to imagine his state as a clockwork
+and control the people through discipline in a way like clockworks.
+So what I realized was that technologies or technological assemblages, which is more than just the artifacts,
+also the knowledge surrounding it and so on, that they offer spaces of possibility through which you can attempt to control a society,
+for example, which is always attempted because government in a way always tries to be at the state of the art of governing.
+So always trying to implement new technologies, to try new forms in regulating people better or worse.
+So you have these spaces of possibilities that then also shape your thinking on how you frame the problem.
+Because for government, society is a problem to be controlled.
+And the way how you look at this problem, how you look at society is very much influenced from the technical conditions under which you actually operate.
+So that's what I kind of observed, how this image changed and moved to looking at societies as information systems or communication systems,
+but also looking at individuals as being rational actors, the whole homo-economics model, basically like computers.
+How you started to look at individuals as self-regulating actors, lots like a cybernetic machine that works through feedback mechanisms.
+And then you start experimenting with this framework and with the possibilities that arise and try to figure out new ways of governing.
+And I think in this context, the whole blockchain thing that is often framed by evangelists as being something very disruptive and very revolutionary
+is actually just a logical next step that is still in the same framework like the cybernetic discourse of the 1950s was.
+In that sense, it's not very revolutionary, which doesn't make it good or bad.
+I would argue to look at it in a longer time span.
+But still, that would be the question. What specific type of new realm of possibilities is opened up through this technology?
+Because I said that I want to be a bit more generous. I think there is something being opened up.
+My immediate response here would be, my perspective would be quite the opposite.
+You said something like a government wants to basically control or govern people.
+Well, to me, blockchain is really the possibility of people to cooperate without the government.
+To control themselves, basically.
+Yeah, of course. One thing we are dreaming of or working on is there are probably a million or more people in the world that care about climate change.
+They have no good way to coordinate.
+There is no good, as mentioned earlier, as soon as you do something international, companies are fine or whatever, what would you do?
+So to build that level of coordination that is independent of existing power structures, namely states and large corporations.
+That is the thing that is promising to me.
+In the last consequence, it could mean getting rid of states.
+So I would say there is a revolutionary potential.
+I think for me what has been kind of curious has been the way that blockchain and the idea of decentralization that is advanced through blockchain tends to very much be about...
+It is a very different way of thinking about revolution because the transformation is less about a qualitative transformation, as in let's do things fundamentally differently.
+And more about let's decentralize all the existing ways of doing things so people can do that for themselves but in a decentralized way.
+And that for me is a bit curious. There is a difference there.
+There is a difference between lots of individuals running their own currencies and their own banks and centralized banks.
+That is a huge difference, but nevertheless the actual technologies tend to be very much like a replication of the existing ways of thinking about money, value, government.
+There are some experimentation at the edges, but it seems a little bit like there is...
+And again, it's sometimes very much a critique of mine, like a very strong critique in the very specific projects, but other times it's also an openness as in that's curious.
+I don't actually know what that means in terms of how it would play out.
+But there is a little bit this thing of like there is not a kind of strong conceptual critique of the state or the banking industry as much as it's just centralized and we need to decentralize.
+So like we look at what they're doing and what they're doing, they're doing, you know, specific things that instead of them doing it, we want everyone to be able to do it, if that makes sense.
+On a side note, the idea of getting rid of the state is like a key idea in cybernetic governmental thinking.
+Like in a perfectly controlled social system, you wouldn't need a state because everything would just keep everything in check.
+So I mean, I'm very fond of the positive or utopian ideas that are in there.
+But what interests me is aren't we substituting one form of control to another form of control?
+And how does this new form of control look like?
+Or what do we do with it?
+Like 10 years ago, the idea was blockchain decentralized everything.
+And now it's like Facebook uses a blockchain to kind of decentralize everything, but still keep control of everything with Libra.
+So I think there's just a lot of work and academic work to do in trying to understand and grasp these decentralized power structures or even how new centralized power structures might emerge from it.
+Because that's what we learned from the Internet of the last 30 years.
+A huge utopian emancipatory potential in the 90s.
+And we were all like, everything gets decentralized and we get rid of the old power structures and now look at the Internet today.
+I mean, what happened?
+And I think just we need to work really hard to understand how decentralized power works.
+Yeah, no, I mean, to some extent, it's technology or technological pieces that can be used in quite a range of ways.
+So you mentioned kind of like money or there is this project maker on Ethereum, which I would say kind of replicates how today central bank works.
+To some extent and but at the end, it's maybe not that different.
+So it's OK, maybe it's 20 large token holders that then vote and instead of the central bank where I don't know, seven people then at the end make the decision.
+So in that sense, it's not really that different.
+But blockchain also or the technology just opens up the field for much more experiments.
+So there is this maker, but there are also a hundred other currencies or currency systems or value systems that are currently being built and experimented.
+And not only that, there's also loads of experimentation in terms of governance, right?
+And I mean, not just in terms of kind of governance, like blockchain applications for governance, but more like the governance of blockchain protocols is wild.
+There's so many problems that keep coming up.
+And that's like an ongoing that for me is the real stuff, because that for me, like, first of all, has to do with this question of like, OK, we're we're arranging a kind of new decentralized protocol where what happens to power in the meantime.
+And a lot of that has to do with who determines, you know, whether the protocol is considered to work or be good or not and what need what changes need to be made.
+So far, like, you know, in terms of any kind of radical changes to protocols, that has to sit within a kind of like attack vector scenario.
+So it's like if you want to modify the way that a given network is governed, then it needs to be coded into kind of attack vector type language.
+And then it's something that can actually be dealt with by developers in a sensible way.
+But the more kind of like the questions of how the protocols actually meet users in, you know, in their day to day lives and how users then push back on whether that protocol is actually performing something good in their lives or not is like still an open question mark in many ways.
+Again, so far, like, you know, there's been, you know, the hacks and the exploits and so on.
+And that's like, you know, been the kind of interesting cases of what do you do then?
+You know, who has the control of the protocol then?
+And then, of course, like forking as a governance mechanism around that.
+But yeah, and there's lots of interesting stuff happening right now in terms of protocol governance in the space.
+I'm still at the point of trying to be generous.
+I'm still asking myself, what exactly is the thing that crypt economics brings to the table?
+You know, if you consider all the critique, if you consider that like apart from all the bullshit, apart from all the hype, apart from all the OK, they are using like rational choice assumptions and everything.
+Is there still something left that opens up new spaces of possibilities, as you mentioned in relation to the question of technology as an art of government?
+And I'm asking this from a perspective of being like really critical towards all the things.
+My simplest answer would again be it enables people to cooperate across jurisdictions worldwide in a form that was previously not possible.
+But can we go into that cooperation a little bit more?
+Because like, you know, obviously people can call each other, right?
+And like, you know, you can call someone and organize something, you know, between lots of different locations.
+So it's a very specific kind of cooperation or collaboration that is enabled through blockchain, not because that communication happens already.
+Relationships can be established. People can make agreements and so on and so forth.
+It's more specific than that, right?
+Well, of course, yeah.
+And again, one example, the simplest example is just like having control of a budget together.
+That already is pretty hard to do, I would say.
+And then you can, of course, go on from there, but just as a...
+So, yeah, again, this climate change thing.
+So there is a project, Dowstek, I'm somewhat involved with, where the idea is there are Facebook groups today with a million or sometimes 100,000 million people that are interested in some topic or something like that.
+But the group is very...
+But those groups could maybe do much more than or could have much higher impact.
+So imagine you would pay a one dollar a month membership kind of into this group.
+And then this group would have a budget and would have some procedures how to, well, then actually be able to spend that money.
+I have a hard time imagining that how to do this today, kind of how to set that up without blockchain.
+So that's some specific financial application that can be created through this technology.
+Because if you take it to a larger level of climate change, I'm not seeing how this is like...
+How addressing climate change...
+Greenpeace does that, right?
+Greenpeace, people pay a membership fee to Greenpeace and then they do stuff on climate and people see that as a kind of coordinating mechanism.
+And I mean, I get what you're saying that it's easier for smaller groups to self-organize that might not have access to be able to have a bank account and so on and so forth.
+But the big question here is what is it that the fact that Greenpeace does this versus another set of people...
+There is a set of governance and legal jurisdictions and all that, which is it can be good, but it can be bad.
+But sometimes it is quite good.
+And especially when a given protocol gets hacked, it's quite good.
+Do you know what I mean? Sometimes there's a fallback onto existing legal systems and existing governance systems.
+That's like, man, people kind of...
+OK, I would say that's the second next...
+If we are still at the basis of what's the promise, then I would say, well, why not Greenpeace?
+Yeah, I mean, again, I don't know how Greenpeace is structured legally globally.
+I assume they have in many jurisdictions some entities and I think it has overall probably tremendous costs in just maintaining that legal structure.
+So that would simply be an enormous reduction of costs of setting up such a structure.
+And then, of course, the imagination is that it's much more participatory.
+So instead of just kind of paying a membership fee to Greenpeace and then I think...
+I'm not a member, but I assume you don't have kind of direct voting rights on stuff and how that money is spent.
+And I would say that is also because it's just complicated and expensive to set those structures up.
+And I would say with this technology that those costs to set up governments, governance structures can be reduced significantly.
+And that makes it just possible to do things that were previously not possible.
+So one example I sometimes bring in just how the reduction of costs introduces new things is the Internet reduced, of course, the costs of submitting information tremendously.
+So like 30 years ago, if you wanted to express something as unimportant as you like this picture,
+well, you would not write a letter to someone and say, I like this picture.
+With Facebook, of course, you click the like button.
+And that's kind of one example of the cost of submitting this information was reduced by a factor of 1000 or a million.
+And with blockchain technology, the costs of not submitting information, but submitting transactions.
+So sending a token or casting a vote that can trigger something,
+kind of this transactional cost is reduced by a factor or can be reduced by a factor of a million.
+And that will open up a new space.
+I mean, don't get me wrong. It's not that I don't think there's anything interesting about that.
+I think there's plenty of interesting things. Otherwise, it wouldn't be in the space.
+But it's more that I find it kind of problematic that there is a lot of kind of discussions that tend to happen in and around blockchain,
+where it's like, oh, that would be that would never be possible without blockchain or, you know, when actually, yes, things are possible.
+It just is a different way of doing things.
+And so there's this tendency to often kind of reduce social interactions to a kind of like very limited set of forms of interactions
+and kind of reinterpret the whole world through that lens.
+And that's a little bit like man, come on, you know, like including things like no, sorry, I'll stop there because we'll get into that later.
+I'm sure questions of the state and sovereignty and all this kind of stuff.
+I mean, I think we're still in a very early stage where we just where it's important to also explore the possibilities and try out different things.
+For me, as a non-expert, the promise of blockchain technologies kind of lies in the possibility to design economic systems
+down to a very micro transactional level and day to day level even.
+And I think there's huge possibilities, also huge problems there.
+But in theory, it's lots of interesting things is possible.
+It's not only that like tax evasion is no longer possible, but maybe also it's no longer possible to spend money on things that, you know, harm other people or harm the environment.
+Or maybe it's more expensive or maybe it's more expensive tomorrow than it is today.
+There's, as I said, there are lots of problems come with it.
+In theory, like compared to how our economic system works now, you can control things on a much tighter level for good or for worse.
+I mean, on that specific thing, I think tax evasion will come in a way also much easier again.
+There are those zero knowledge proofs and I mean, like so far, blockchain has been very, very, very transparent.
+So, but there is already the technology ready to make blockchain or to make transactions that are shielded or like that you cannot.
+You have a very hard time tracing from the outside what's going on.
+But I think what Benjamin is actually heading at is that it's a design question that, again, coming from his book,
+these technologies open up spaces and it's a question of a political conversation, of a political negotiation.
+Thanks a lot.
+How we want to use this contingent space of possibility that is being opened up.
+And I think that one of the problems actually in the space is that the way that the question is looked upon is informed through lenses that I personally mostly do not share.
+Specifically in cryptoeconomics, there's this lens of game theoretic design, a game theoretic design perspective.
+And I'd like to talk a bit about this because this actually like builds the floor upon which the rest is then being imagined, actually.
+And to me, it's like highly flawed.
+Maybe I mentioned an author, Ariel Rubenstein, and he's actually a renowned economist in the field of cryptoeconomics, but game theory.
+And he wrote a book.
+And he wrote a book.
+It's called Economic Fables.
+And he talks about game theory from a perspective where he says, all right, I really, really enjoyed game theory as an intellectual pleasure in my professional life.
+But when it comes to real world applicability, I highly doubt that it's worth anything when it comes to the prediction of real behavior of humans, because it's just not a tool that you can use for this.
+And then what you end up with is a normative idea of how people should behave.
+And this I often find in cryptoeconomic systems design that you imagine a way of how you would like that people should behave.
+And this is mostly thought of as like strictly rational profit maximizing and actually alongside idea of rational choice theory.
+And that's how it's modeled.
+And then you build a system that tries to kind of force people to act in this way with a type of carrot and stick approach.
+That's how it seems to me.
+I would say quite the opposite.
+I would say you imagine how people could behave worst case.
+And then you imagine how the others could behave worst case to you.
+And then you design the system that even if they all behave worst case for you, it kind of still works.
+Yeah.
+I mean, and that is the security engineers perspective.
+And that I find really interesting to trace through, actually.
+But there is something else that you said, which was the intellectual pleasure of game theory.
+And I actually I honestly think that blockchain has become so big because it's intellectually pleasurable.
+Like, you know, it's just it puts forward a whole bunch of really interesting problems for political theorists, for economists, for mathematicians, for cryptographers, for computer engineers.
+You know, it's just an interesting set of problems to attack, whether those problems are actual real world problems or not.
+So, you know, maybe, maybe not.
+But honestly, you know, I feel that that's that that's the case.
+But yeah, in terms of the assumptions of game theory, like, you know, game theory is kind of like one big component in in crypto economics.
+But there is like something that I've been trying to think through and struggle with a little bit is this question of like exactly as Martin was saying, like whether, you know, there is an element of the kind of core engineering where, you know, modeling, you know, being so focused on modeling attacks makes sense because you want the kind of core engineering to be secure fundamentally.
+When it becomes problematic is when that becomes a kind of like model and a lens for understanding all social relationships and and kind of expanding from there, a kind of worldview and a political view.
+And that happens for some reason or another very quickly in the blockchain space.
+When I was writing my PhD, I was running through it.
+I did a little kind of experiment where I was trying to kind of work through the concept of trustlessness, which is like a major kind of like concept in the blockchain space and in crypto, crypto economics, you know, and trustlessness kind of defines a kind of threshold of trust that is required in order for the system to function securely.
+So there's a famous kind of 51% attack and all these kinds of things where, you know, how many nodes in the network would need to collude in order for the network to then become, you know, biased or owned or whatever else.
+And what I wanted to understand was like the way that trust and trustlessness was kind of conceptualized and worked with in a very rigorous way amongst computer engineers.
+And yet for anyone actually engaging with blockchain systems and crypto economic systems and so on, a lot of trust is required, right?
+Like you need to kind of like trust what you've read on a website, you need to trust, you know, the exchange rates on a kind of crypto exchange and so on and so forth.
+Like you're never as an individual able to run go through, you know, all the GitHub code repositories in order to make sure that everything is super secure.
+Like you actually need to trust a lot of people to engage with these systems.
+So where is it that that kind of like mythical trustlessness that blockchain provides and the actual social reality where a lot of trust is required, where does that meet and how is that articulated?
+And that's exactly the kind of like areas where, you know, then you do start to see a lot of scams and you do see start to see a lot of kind of security breaches and so on.
+But it's it's a kind of it.
+I think it's also one of the reasons why the kind of security protocol so quickly becomes a political and social imagination, because you're trying to produce, you know, the effort of the security engineers to try to produce something that is, you know, stable as a kind of political, social, legal and economic system through cryptography and through math, right?
+And so, you know, the more that you see that it doesn't play out that way in reality, the more you need to bring reality into into those kind of conditions of trustlessness, the more you need to kind of like add more things on some blockchain, you know, like put it out into IOT and, you know, get more because everything outside of the trustless network is just is, you know, dodgy potentially, right?
+Sorry, a little rant.
+I think also from a broader perspective, this point of trust is super interesting to me, because maybe that's even the key behind the whole blockchain thing is it tries to replace a social mechanism of trust that has a long history with a technological mechanism, which makes sense in a way.
+trust that has a long history with a technological mechanism, which which makes sense in a way, but trust in social relations, like I learned that from Nicholas Luman, I think is a is a mechanism to reduce complexity.
+And once you remove that social mechanism, you set free a lot of potential complexity to deal with on a technological level, because you can abstract all that away.
+If you just trust the person, you know, I have right now I have a babysitter at home.
+I trust her to bring my kid to sleep at around now, probably seven or seven thirty.
+I could also set up a smart contract with her.
+You know, if the baby monitor says you're not down at seven thirty, you're not getting paid.
+But is that really better?
+And or does it just so much possible complexity emerges out of this?
+Because maybe she has a good reason not to put it down at seven thirty, but maybe at seven forty.
+And then the smart contract would not work.
+And then we have to fix it afterwards.
+And so much complexity that I can just abstract away by just trusting that person.
+She's a good person. She will do a good job.
+And lots of social relationships work this way by trust.
+And we have to be very careful which ones we want to replace and which ones we want to keep.
+I think that works perfectly fine in the babysitter use case.
+But in the use case where you want to build something global platform or kind of potentially something with millions of people involved,
+I think it simply doesn't work that there are those personal trust relationships that make the whole thing work together.
+Or at least there will come clear limitations.
+And just a very practical example where I very much value this trustlessness is in Ethereum.
+There are all those different projects that build pieces, kind of Lego pieces that you can then build more complex applications together.
+And it very much makes for us a difference whether one piece has something like an operator and kind of someone who could change the rules
+and where we would need to trust them and kind of need to make sure that they will not change it in a way we don't like it.
+And then kind of the whole thing we are building has a problem because one piece here is now acting in a different way.
+Or a piece with no operator, with no way to change it, what we would call trustless.
+And if you have those trustless puzzle pieces, the hope is that it allows you to build much more robust and complex systems.
+Many times I find myself actually really very much agreeing with the definition of the problem.
+You know, also when I read Glenn Whale and Vitalik Buterin some text about the radical markets,
+I really, really, really, really do not agree with the solutions that they provide.
+But when they come to define the problems, they're actually quite clear on how to describe the ways in which
+contemporary structures, political structures are actually not, oftentimes not, any more convincing
+in the way they address the overall changing, I don't know, landscape of things, to be very unprecise.
+So there is this open question on how can we do things differently.
+There are many interesting problems that are being talked about in this space.
+And one of the questions would be in which case is the way that they are being approached from the
+cryptoeconomics perspective, for example, is adequate and in which case it is not.
+Yeah, go ahead.
+Well, I don't want to, if you're going to kind of override the topic or something.
+I was trying to think what I would say next, so please go ahead.
+No, just to say that, I don't know, for me, my work and interests is kind of like,
+I'm not so intensely focused on whether cryptoeconomics and blockchain are the solutions to things,
+but I do think that they have done a lot to put the right questions on the table, right?
+And to open up a lot more possibility for experimentation and especially in two areas,
+especially when it comes to currencies and currency design and questions of value and money,
+at all scales, really, both in terms of global money, all the way down to local and this kind of thing,
+and questions of privacy.
+And I think, you know, questions of privacy is something that unfortunately is like,
+is kind of, to me, it seems like it's seeped a little bit into the background in recent kind of blockchain world.
+You know, like, okay, it turns out Bitcoin isn't anonymous.
+Okay, fine, you know, anonymity and privacy are slightly different things.
+But I think privacy is super interesting and super important in a kind of like increasingly digitally mediated world,
+also in terms of questions of governance in the state, right?
+So, you know, we no longer have like James Scott seeing like a state.
+There's no longer a kind of, it's not exactly a panopticon that we're living in anymore, is it?
+It's a kind of different scenario, a kind of like algorithmic visibility that's a lot more nebulous,
+a lot more contingent, a lot harder to kind of like point your finger exactly at where the power is.
+And I think like the questions of kind of privacy within that and the kind of added building blocks
+that blockchain technology promises in terms of currency design, governance structures and so on,
+there are interesting ways then to kind of recreate, you know, how you want to organize as a community
+in different levels and in different kind of scales.
+And I don't see this as like in any way a kind of absolute thing.
+It's not like replacing the state with something else because we actually live in a super complex patchwork of sovereignty already.
+I was reading a really interesting paper earlier today on water governance and indigenous sovereignty in the states versus the kind of federal.
+And there's a kind of coexistence, right?
+And that coexistence is not just like, you know, Native Americans are doing the same thing as kind of federal government.
+It's like they're doing things very, very differently, but they're governing water.
+Do you know what I mean? So it's like these qualitatively, like qualitatively different ways of doing things and the ability to determine that.
+Yeah, just like one note on the privacy question, blockchain really brings both ends of the spectrum.
+Yeah, exactly.
+It brings the full kind of everything is verifiable, everything is visible, every transaction is.
+But it also has a spectrum and to me still totally unclear kind of where we will end.
+It also brings the other spectrum and that's more recent developments with zero knowledge proofs,
+or whatever technology that really allows you or plausibly could allow you a total anonymity and and and no.
+And like you could do things, text evasion would be super easy.
+You could you could do you could also have pay or incentivize specific behavior and no one would kind of.
+There's quite a bit of scary things that are possible on that end of the spectrum.
+I don't know where we will end.
+Can I ask a blunt question to you as experts?
+Because I think we can all agree that crypto is a challenge for state actors.
+But is it a challenge for capitalism?
+Would you think that the or is that maybe you as a practitioner also,
+is that something you would like working towards like a post capitalist form of economy that should be based on a blockchain?
+Or is it rather like this is just the next level of radical free market capitalism getting rid of all state actors and it's just money?
+It's it's such a that is such an interesting question,
+I mean, in the sense that I've had this question on my mind like for the longest time.
+And it was one of my motivations to write my PhD also was trying to work that out.
+And I still haven't worked it out. And I think there's something.
+Yeah, I still have. I haven't worked it out.
+You know, I have I have to admit, like in many ways, like there is a lot to be said for the way that, you know,
+blockchain systems and Bitcoin and whatever kind of propagates a kind of like hyper capitalist mentality and approach to the world.
+Like, absolutely, you know, you can see that. But is that the full story?
+Like, no, no, to me, it's absolutely not the full story.
+I think there's all kinds of weird mutations happening and even, you know, possible alternatives.
+But, you know, if you if you want to go deep into whether post capitalism is possible through blockchain,
+I mean, like that goes that requires like some real deep soul searching around the entire technology industry,
+really, because the entire technology industry is deeply embedded and dependent on capitalist modes of organizing production and reproduction.
+You know, but there is some I do find it because you mentioned radical markets and they call themselves post capitalist,
+which I just find so interesting because it's like, you know, kind of that for many people,
+the kind of market approach to the world is like quintessentially.
+That's like that is, you know, one answer would be to maybe hyper capitalism is then post capitalism because I'm trying to find one thought.
+So I would say, yeah, of course, markets are a big thing in blockchain, but also different forms of tokens or of value.
+So I guess one critique of I mean, of course, we wouldn't first need to define capitalism,
+but I guess one broad critique about capitalism and what people don't like about capitalism is kind of the reduction on one number kind of money.
+But if we have multidimensional money, we just don't have like euros,
+but kind of 100 different forms of tokens that represent different things or different different things.
+We value different relationships and different people can, well, optimize for different different values.
+Well, you could call that hyper capitalism because you kind of have market mechanism for even more things.
+But maybe then it doesn't feel like capitalism anymore because it's not just a reduction on one number, but on 100 numbers or something like that.
+I mean, there's so much to be said about that, right?
+It's like, oh, that would open up actually a big topic, but maybe we will come there in the discussion with the audience.
+I think one of the takeaways is that and that's something I learned from Benjamin's fantastic book,
+which I can only recommend highly is that it's a political question.
+Actually, I learned it from your dissertation as well.
+So it does indeed open up new realms of possibilities, I guess.
+But it's very important that we ask ourselves which of those we want to choose.
+Mm hmm.

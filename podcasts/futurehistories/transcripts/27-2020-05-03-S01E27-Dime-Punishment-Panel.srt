@@ -1,0 +1,1744 @@
+1
+00:00:00,000 --> 00:00:16,000
+Welcome everybody to Future Histories, my name is Jan Gross and today you'll hear a recording of a panel I organized and moderated in February 2020 as part of my research fellowship at the Weizenbaum Institute for the Networked Society.
+
+2
+00:00:16,000 --> 00:00:30,000
+The panel critically discusses the expansion of cryptoeconomics into an art of government and I am very happy that I was able to bring together Jaya, Clara Brecke, Benjamin Seibel and Martin Köppelmann as panelists.
+
+3
+00:00:30,000 --> 00:00:38,000
+Jaya and Benjamin have both been guests to Future Histories before, so check out their episodes as well.
+
+4
+00:00:38,000 --> 00:00:57,000
+I'd like to send my warmest thanks and greetings to the research group 17 at the Weizenbaum Institute who hosted my stay there and greetings actually to everybody at the Weizenbaum because I really, really, really enjoyed my stay there and I loved the many interesting and inspiring discussions.
+
+5
+00:00:57,000 --> 00:01:03,000
+It was an actually perfect research environment, I have to say. So thanks a lot.
+
+6
+00:01:03,000 --> 00:01:14,000
+And since I am actually already in the mode of wholehearted gratitude, I'd like to thank Ludwig and welcome him as a Patreon of Future Histories.
+
+7
+00:01:14,000 --> 00:01:23,000
+And I'd like to thank Vicky, Fabian and Bernhard for their contributions. Thanks a thousand times. This really helps a lot.
+
+8
+00:01:23,000 --> 00:01:31,000
+But now, please enjoy the panel Dime and Punishment, Cryptoeconomics as an Art of Government.
+
+9
+00:01:36,000 --> 00:01:50,000
+I'm very happy to have the opportunity to host this panel tonight with this awesome guest, which I'm really excited about to bring together. It's Jaya, Clara Brecke, Benjamin Seibel and Martin Köppelmann.
+
+10
+00:01:50,000 --> 00:01:53,000
+Maybe you could introduce yourself just a little.
+
+11
+00:01:53,000 --> 00:01:58,000
+Sure. Hello, everyone. I'm Jaya.
+
+12
+00:01:58,000 --> 00:02:07,000
+I have been kind of tracing the emergence of the field of crypto economics pretty much since the beginning of Ethereum.
+
+13
+00:02:07,000 --> 00:02:12,000
+I started writing a PhD that was a political analysis of blockchain.
+
+14
+00:02:12,000 --> 00:02:16,000
+I wanted to understand how can you understand something like blockchain politically?
+
+15
+00:02:16,000 --> 00:02:21,000
+And that was right around the time when Ethereum had its first DEVCON.
+
+16
+00:02:21,000 --> 00:02:41,000
+And so for me, it's been kind of a curious journey of understanding the ways that I guess like kind of existing or kind of historical economic theories are rehashed and reconfigured through the development of protocols that actually come from a very different set of concerns,
+
+17
+00:02:41,000 --> 00:02:46,000
+namely usually kind of security questions, network security questions.
+
+18
+00:02:46,000 --> 00:02:56,000
+So this kind of interesting mishmash and the emergence of crypto economics as a field that's kind of distinct from previous economic ideas.
+
+19
+00:02:56,000 --> 00:03:03,000
+That's, I guess, like broadly my interest, but in relation to this panel anyway.
+
+20
+00:03:03,000 --> 00:03:09,000
+But yeah, within that, I also kind of look more at, I guess, power dynamics, questions of governance, this kind of thing, too.
+
+21
+00:03:10,000 --> 00:03:20,000
+That's a brief. So right now I'm doing a postdoc at Durham University, but I am on strike today, so I do not represent Durham University.
+
+22
+00:03:20,000 --> 00:03:23,000
+They're not paying me to be here.
+
+23
+00:03:23,000 --> 00:03:36,000
+I'm here as a general interested person that is kind of following this field and writes a lot about this field, speaks a lot about this field.
+
+24
+00:03:36,000 --> 00:03:41,000
+Yeah. Hi, I'm Benjamin.
+
+25
+00:03:41,000 --> 00:03:52,000
+Well, Jan invited me here as, I guess, an expert on governmental technologies because I wrote a book about it a few years ago.
+
+26
+00:03:52,000 --> 00:04:04,000
+A PhD thesis about cybernetics, actually, and the influence it had on governmental discourses in the postwar periods, like from 1945 to 1970, basically.
+
+27
+00:04:04,000 --> 00:04:17,000
+So very early, the emergence of digital technologies, but also of a kind of theoretical discourse around these technologies and how it influenced politics and governmental thinking in this period.
+
+28
+00:04:17,000 --> 00:04:28,000
+And I think we still see the consequences of these developments today, or maybe we even see them just today more than in the past.
+
+29
+00:04:28,000 --> 00:04:37,000
+Anyway, I no longer work in academia and also not an expert on crypto economics, but Jan told me that is just fine.
+
+30
+00:04:37,000 --> 00:04:41,000
+So I hope I still can contribute something to the discussion.
+
+31
+00:04:41,000 --> 00:04:47,000
+I work in civic tech and technology activism, basically here in Berlin for about five years now.
+
+32
+00:04:47,000 --> 00:04:59,000
+I also work a lot with the government on digital developments and how to implement these technologies in a way that benefits citizens.
+
+33
+00:04:59,000 --> 00:05:02,000
+Yeah, I'm Martin Kuppelmann.
+
+34
+00:05:02,000 --> 00:05:14,000
+I'm a software engineer and interested in blockchain, first Bitcoin eight years ago or something like that, and then mainly Ethereum.
+
+35
+00:05:14,000 --> 00:05:19,000
+I founded the project or company now called Gnosis.
+
+36
+00:05:19,000 --> 00:05:30,000
+We are building prediction markets and a bunch of other infrastructure and markets on Ethereum.
+
+37
+00:05:30,000 --> 00:05:52,000
+Another side project I initiated is a project called Circles, where we're trying to advance the course of universal basic income via blockchain technology and introducing new currencies.
+
+38
+00:05:52,000 --> 00:06:00,000
+I hope somehow for me, it totally makes sense to bring together all these specific people, actually.
+
+39
+00:06:00,000 --> 00:06:08,000
+And the umbrella is the title of this panel tonight, Diamond Punishment Cryptoeconomics as an Art of Government.
+
+40
+00:06:08,000 --> 00:06:18,000
+I'm quite sure that not everybody is familiar with the topic, so I think we should kind of lay out some basic thoughts about it.
+
+41
+00:06:18,000 --> 00:06:25,000
+Maybe let's simply start with the definition of cryptoeconomics, Jaya, do you want to start?
+
+42
+00:06:25,000 --> 00:06:41,000
+Yes, well, I guess, you know, I'm not going to give you a kind of like little spiffy one liner, but more just to say that I guess the easiest way to describe cryptoeconomics is to trace it back to Bitcoin mining basically.
+
+43
+00:06:41,000 --> 00:06:53,000
+And the idea of using, you know, on a very basic level, economic incentives and rewards in order to achieve certain network security characteristics in a decentralized peer to peer network scenario.
+
+44
+00:06:53,000 --> 00:07:03,000
+And that is like, you know, that's been done, you know, that's kind of been a kind of field of experimentation ever since then.
+
+45
+00:07:03,000 --> 00:07:16,000
+And has added more and more economic concepts, more and more ideas around how markets function and so on that I'm sure Martin can say a lot more about in terms of the practical experiments that's been done around that.
+
+46
+00:07:16,000 --> 00:07:32,000
+But I think for me, what's interesting about that is that, you know, I come from a background, a kind of theoretical and political background that's extremely critical of the use of markets in trying to kind of govern social relations.
+
+47
+00:07:32,000 --> 00:07:42,000
+And I remain very critical of that, you know, I think there's a severe limitation to what markets can and should do in societies.
+
+48
+00:07:42,000 --> 00:07:51,000
+Nevertheless, I think it's like a super interesting field to look at how it interacts exactly with network security and network security protocols.
+
+49
+00:07:51,000 --> 00:07:59,000
+And so, you know, I follow these experiments with with lots of interest and openness to.
+
+50
+00:07:59,000 --> 00:08:20,000
+One of the reasons why I'm interested in cryptoeconomics as an art of government is kind of more or less recent development where these types of actually design these design paradigms of cryptoeconomics reach over into the sphere of the social even more and are proclaimed to become a new social technology.
+
+51
+00:08:20,000 --> 00:08:31,000
+There's this collaboration between Vitalik Buterin, one of the founders of Ethereum, one of the largest blockchain platforms, and an economist called Glenn Whale.
+
+52
+00:08:31,000 --> 00:08:47,000
+And they kind of joined forces and more or less tried to develop tried to develop a what they call political theory based on radical markets, which are actually markets based on mechanism design.
+
+53
+00:08:47,000 --> 00:08:58,000
+And yeah, mostly on mechanism design, which is a type of game theoretical thinking and the combination with blockchain technology and cryptoeconomics.
+
+54
+00:08:58,000 --> 00:09:07,000
+And this is proclaimed to become a new social technology, which can create some kind of legitimacy within a space of anonymity.
+
+55
+00:09:07,000 --> 00:09:12,000
+And before the panel, that's the that's the idea roughly.
+
+56
+00:09:12,000 --> 00:09:18,000
+Not sure about that. In that particular context, I'm not sure about the anonymity.
+
+57
+00:09:18,000 --> 00:09:20,000
+I think. Yeah, that's true.
+
+58
+00:09:20,000 --> 00:09:26,000
+In that case, they very clearly say we need identity and one person, one vote and stuff like that.
+
+59
+00:09:26,000 --> 00:09:27,000
+Yeah, it's true.
+
+60
+00:09:28,000 --> 00:09:47,000
+Why I'm making this this longer introduction is I'd be keen on your position of what you think that cryptoeconomics actually is, because when we were talking before the panel, you kind of sketched it in a kind of broader sense, also political sense.
+
+61
+00:09:47,000 --> 00:09:58,000
+Yeah. Yeah, I'm again, I have not really thought or it's I guess just just feeling it's not not trying to to define those terms.
+
+62
+00:09:58,000 --> 00:10:10,000
+But a few few things that come to my mind when I when I think about it is, first of all, that we have a space where there there is no arbitrator or judge.
+
+63
+00:10:10,000 --> 00:10:19,000
+So like like if we are here interacting with each other, there's always the assumption whatever we do, there is a state and there is something above us.
+
+64
+00:10:19,000 --> 00:10:35,000
+And if we do some form of interaction, if I go into a shop and buy something, then then the interaction is not just defined by the two of us, but it's defined by a whole construct above us.
+
+65
+00:10:36,000 --> 00:10:46,000
+And in those blockchain in the blockchain world, we're trying to make interactions between possible.
+
+66
+00:10:46,000 --> 00:10:55,000
+We are trying to make interactions between people possible, even in the absence of such an overarching state.
+
+67
+00:10:55,000 --> 00:11:15,000
+And the very practical consequences is that something as simple as as having ten people that are somewhere in the world and let's say ten different countries and they together want to have a bank account.
+
+68
+00:11:15,000 --> 00:11:20,000
+So they together want to say, OK, we have here a thousand dollars and we want to control that together.
+
+69
+00:11:20,000 --> 00:11:27,000
+That would be extremely complex to set up outside of blockchain.
+
+70
+00:11:27,000 --> 00:11:34,000
+I mean, you could, I mean, you could, I guess, form a company, but that would need to be in one restriction.
+
+71
+00:11:34,000 --> 00:11:44,000
+And then it would be what cost you thousands, maybe ten thousand dollars to just maybe much more to set up such a construct in blockchain world.
+
+72
+00:11:44,000 --> 00:11:47,000
+That's super easy and cost you 20 cents.
+
+73
+00:11:47,000 --> 00:11:58,000
+So you can just do what it's called the multisig, some shared account that that where the money sits and it's controlled by by by ten people.
+
+74
+00:11:58,000 --> 00:12:05,000
+And there can be basic rules like five or ten agree, then the money can be can be taken.
+
+75
+00:12:06,000 --> 00:12:22,000
+And so I would define crypto economics as a space that can enforce rules without without such a government arbitrator that, of course, has consequences or like one is that it's always opt in.
+
+76
+00:12:22,000 --> 00:12:31,000
+So in my view, so far, yeah, if I'm born in Germany, I don't have a choice to kind of pay taxes or not.
+
+77
+00:12:31,000 --> 00:12:37,000
+Kind of I'm kind of forced to play by the rules that that exist here.
+
+78
+00:12:37,000 --> 00:12:51,000
+I would say so far in crypto economics, it's always an active decision to kind of, yeah, put something under those rules, which comes with the flip side that you usually first have to
+
+79
+00:12:51,000 --> 00:12:58,000
+put something in kind of which means mainly you have to first put in value.
+
+80
+00:12:58,000 --> 00:13:11,000
+So unless you put in value or money or something money like usually you will not be able to to do to do anything.
+
+81
+00:13:11,000 --> 00:13:14,000
+I mean, then there may be a few more.
+
+82
+00:13:14,000 --> 00:13:19,000
+So so I think the what you mentioned was was game theory.
+
+83
+00:13:19,000 --> 00:13:21,000
+I would maybe call it adversarial thinking.
+
+84
+00:13:21,000 --> 00:13:39,000
+So like when when those systems are designed, I think the general mindset is that they try to build systems that work under worst case assumptions.
+
+85
+00:13:39,000 --> 00:13:52,000
+So if I would just try to make one real world example, I think that like in the US, there were there were those primaries or the Democratic primaries.
+
+86
+00:13:52,000 --> 00:13:55,000
+And I think there was a mess up like that.
+
+87
+00:13:55,000 --> 00:14:03,000
+They couldn't count the votes and someone designing crypto economic system would immediately say, OK, it's basically just those two guys who then report to that.
+
+88
+00:14:03,000 --> 00:14:06,000
+That's a terrible system. That's kind of just those two guys.
+
+89
+00:14:06,000 --> 00:14:08,000
+They would enough to collude.
+
+90
+00:14:08,000 --> 00:14:20,000
+So we would kind of just from the mindset directly come with a different mindset and come with a mindset that tries to build systems that are more resilient.
+
+91
+00:14:20,000 --> 00:14:23,000
+I guess that's very interesting.
+
+92
+00:14:23,000 --> 00:14:39,000
+And I think because we will come to a part of critique, actually, and I'll be keen on on looking at the at the assumptions, the anthropologies, so to speak, that are inscribed within this this type of thinking.
+
+93
+00:14:39,000 --> 00:14:44,000
+Because to me, it's even kind of paranoid somehow.
+
+94
+00:14:44,000 --> 00:14:49,000
+And then that's specifically problematic when it comes to designing social spaces.
+
+95
+00:14:49,000 --> 00:14:52,000
+You know, you always think that the next guy might stab you in the back.
+
+96
+00:14:52,000 --> 00:14:58,000
+Yeah, but I want to be more generous, actually, towards the whole thing.
+
+97
+00:14:58,000 --> 00:15:08,000
+Before we get there, I'd like to ask Benjamin to maybe introduce us to the second part of the title, because it's Diamond Punishment Crypto Economics as an Art of Government.
+
+98
+00:15:08,000 --> 00:15:11,000
+In German, that would be Regierungskunst.
+
+99
+00:15:11,000 --> 00:15:19,000
+And Benjamin actually wrote quite a lot about the question of technology in relation to Regierungskunst.
+
+100
+00:15:19,000 --> 00:15:23,000
+Could you maybe kind of brief us about it?
+
+101
+00:15:23,000 --> 00:15:30,000
+I could try. Yeah, it's already hard to sum up a book in a few sentences, but when it's been five years, it's even harder.
+
+102
+00:15:31,000 --> 00:15:41,000
+When I started to write about the relation of technology and government, I found that on the one hand, throughout the history of political or governmental thinking,
+
+103
+00:15:41,000 --> 00:15:46,000
+you would always find these metaphors or models of machinery as the state.
+
+104
+00:15:46,000 --> 00:15:54,000
+So even in past centuries, you would find these conceptions of the state being like a ship or like a clockwork or like a steam engine.
+
+105
+00:15:54,000 --> 00:16:05,000
+And in the 20th century, of course, this gets replaced by looking at the state as kind of an information processing system or look at societies as kind of information processing systems.
+
+106
+00:16:05,000 --> 00:16:17,000
+And these models have kind of a very bad reputation in political thinking, especially in like leftist political thinking, because they always look very reductionist, which they are, of course.
+
+107
+00:16:17,000 --> 00:16:23,000
+So lots of very smart political thinkers actually assumed that these models were just wrong,
+
+108
+00:16:23,000 --> 00:16:35,000
+which I found not satisfying because it was so obvious that these models actually had a huge impact on the way that government was thought,
+
+109
+00:16:35,000 --> 00:16:40,000
+but also how government was practiced because these technologies are not just like ideas.
+
+110
+00:16:40,000 --> 00:16:47,000
+They are like materialities that can also be used as tools to actually govern people because governing people,
+
+111
+00:16:47,000 --> 00:16:55,000
+and this is an idea that you will find in Foucault most prominently, is a very technological thing to do in a way.
+
+112
+00:16:55,000 --> 00:17:02,000
+It's about control. It's about regulation. It's about setting environments where people can be regulated in some way.
+
+113
+00:17:02,000 --> 00:17:10,000
+And of course, those people in power or governments can also use technologies as actual tools.
+
+114
+00:17:10,000 --> 00:17:17,000
+So it's not just like we imagine society to be an information network, but once you imagine society to be an information network,
+
+115
+00:17:17,000 --> 00:17:23,000
+you can use computers or information networks to actually start controlling people through computers.
+
+116
+00:17:24,000 --> 00:17:32,000
+The same way that, for example, Friedrich the Great tried to imagine his state as a clockwork
+
+117
+00:17:32,000 --> 00:17:38,000
+and control the people through discipline in a way like clockworks.
+
+118
+00:17:38,000 --> 00:17:47,000
+So what I realized was that technologies or technological assemblages, which is more than just the artifacts,
+
+119
+00:17:47,000 --> 00:17:58,000
+also the knowledge surrounding it and so on, that they offer spaces of possibility through which you can attempt to control a society,
+
+120
+00:17:58,000 --> 00:18:07,000
+for example, which is always attempted because government in a way always tries to be at the state of the art of governing.
+
+121
+00:18:07,000 --> 00:18:14,000
+So always trying to implement new technologies, to try new forms in regulating people better or worse.
+
+122
+00:18:14,000 --> 00:18:22,000
+So you have these spaces of possibilities that then also shape your thinking on how you frame the problem.
+
+123
+00:18:22,000 --> 00:18:26,000
+Because for government, society is a problem to be controlled.
+
+124
+00:18:26,000 --> 00:18:37,000
+And the way how you look at this problem, how you look at society is very much influenced from the technical conditions under which you actually operate.
+
+125
+00:18:37,000 --> 00:18:46,000
+So that's what I kind of observed, how this image changed and moved to looking at societies as information systems or communication systems,
+
+126
+00:18:46,000 --> 00:18:55,000
+but also looking at individuals as being rational actors, the whole homo-economics model, basically like computers.
+
+127
+00:18:55,000 --> 00:19:03,000
+How you started to look at individuals as self-regulating actors, lots like a cybernetic machine that works through feedback mechanisms.
+
+128
+00:19:04,000 --> 00:19:13,000
+And then you start experimenting with this framework and with the possibilities that arise and try to figure out new ways of governing.
+
+129
+00:19:13,000 --> 00:19:24,000
+And I think in this context, the whole blockchain thing that is often framed by evangelists as being something very disruptive and very revolutionary
+
+130
+00:19:24,000 --> 00:19:33,000
+is actually just a logical next step that is still in the same framework like the cybernetic discourse of the 1950s was.
+
+131
+00:19:33,000 --> 00:19:39,000
+In that sense, it's not very revolutionary, which doesn't make it good or bad.
+
+132
+00:19:39,000 --> 00:19:45,000
+I would argue to look at it in a longer time span.
+
+133
+00:19:45,000 --> 00:19:54,000
+But still, that would be the question. What specific type of new realm of possibilities is opened up through this technology?
+
+134
+00:19:54,000 --> 00:20:00,000
+Because I said that I want to be a bit more generous. I think there is something being opened up.
+
+135
+00:20:00,000 --> 00:20:04,000
+My immediate response here would be, my perspective would be quite the opposite.
+
+136
+00:20:04,000 --> 00:20:10,000
+You said something like a government wants to basically control or govern people.
+
+137
+00:20:10,000 --> 00:20:18,000
+Well, to me, blockchain is really the possibility of people to cooperate without the government.
+
+138
+00:20:18,000 --> 00:20:21,000
+To control themselves, basically.
+
+139
+00:20:21,000 --> 00:20:37,000
+Yeah, of course. One thing we are dreaming of or working on is there are probably a million or more people in the world that care about climate change.
+
+140
+00:20:37,000 --> 00:20:41,000
+They have no good way to coordinate.
+
+141
+00:20:41,000 --> 00:20:51,000
+There is no good, as mentioned earlier, as soon as you do something international, companies are fine or whatever, what would you do?
+
+142
+00:20:51,000 --> 00:21:04,000
+So to build that level of coordination that is independent of existing power structures, namely states and large corporations.
+
+143
+00:21:04,000 --> 00:21:11,000
+That is the thing that is promising to me.
+
+144
+00:21:11,000 --> 00:21:17,000
+In the last consequence, it could mean getting rid of states.
+
+145
+00:21:17,000 --> 00:21:22,000
+So I would say there is a revolutionary potential.
+
+146
+00:21:23,000 --> 00:21:38,000
+I think for me what has been kind of curious has been the way that blockchain and the idea of decentralization that is advanced through blockchain tends to very much be about...
+
+147
+00:21:38,000 --> 00:21:49,000
+It is a very different way of thinking about revolution because the transformation is less about a qualitative transformation, as in let's do things fundamentally differently.
+
+148
+00:21:49,000 --> 00:21:56,000
+And more about let's decentralize all the existing ways of doing things so people can do that for themselves but in a decentralized way.
+
+149
+00:21:56,000 --> 00:22:02,000
+And that for me is a bit curious. There is a difference there.
+
+150
+00:22:02,000 --> 00:22:12,000
+There is a difference between lots of individuals running their own currencies and their own banks and centralized banks.
+
+151
+00:22:12,000 --> 00:22:24,000
+That is a huge difference, but nevertheless the actual technologies tend to be very much like a replication of the existing ways of thinking about money, value, government.
+
+152
+00:22:24,000 --> 00:22:30,000
+There are some experimentation at the edges, but it seems a little bit like there is...
+
+153
+00:22:30,000 --> 00:22:42,000
+And again, it's sometimes very much a critique of mine, like a very strong critique in the very specific projects, but other times it's also an openness as in that's curious.
+
+154
+00:22:42,000 --> 00:22:47,000
+I don't actually know what that means in terms of how it would play out.
+
+155
+00:22:47,000 --> 00:23:05,000
+But there is a little bit this thing of like there is not a kind of strong conceptual critique of the state or the banking industry as much as it's just centralized and we need to decentralize.
+
+156
+00:23:05,000 --> 00:23:15,000
+So like we look at what they're doing and what they're doing, they're doing, you know, specific things that instead of them doing it, we want everyone to be able to do it, if that makes sense.
+
+157
+00:23:15,000 --> 00:23:22,000
+On a side note, the idea of getting rid of the state is like a key idea in cybernetic governmental thinking.
+
+158
+00:23:22,000 --> 00:23:31,000
+Like in a perfectly controlled social system, you wouldn't need a state because everything would just keep everything in check.
+
+159
+00:23:31,000 --> 00:23:38,000
+So I mean, I'm very fond of the positive or utopian ideas that are in there.
+
+160
+00:23:38,000 --> 00:23:45,000
+But what interests me is aren't we substituting one form of control to another form of control?
+
+161
+00:23:45,000 --> 00:23:49,000
+And how does this new form of control look like?
+
+162
+00:23:49,000 --> 00:23:52,000
+Or what do we do with it?
+
+163
+00:23:52,000 --> 00:23:57,000
+Like 10 years ago, the idea was blockchain decentralized everything.
+
+164
+00:23:57,000 --> 00:24:05,000
+And now it's like Facebook uses a blockchain to kind of decentralize everything, but still keep control of everything with Libra.
+
+165
+00:24:05,000 --> 00:24:19,000
+So I think there's just a lot of work and academic work to do in trying to understand and grasp these decentralized power structures or even how new centralized power structures might emerge from it.
+
+166
+00:24:19,000 --> 00:24:23,000
+Because that's what we learned from the Internet of the last 30 years.
+
+167
+00:24:23,000 --> 00:24:28,000
+A huge utopian emancipatory potential in the 90s.
+
+168
+00:24:28,000 --> 00:24:34,000
+And we were all like, everything gets decentralized and we get rid of the old power structures and now look at the Internet today.
+
+169
+00:24:34,000 --> 00:24:36,000
+I mean, what happened?
+
+170
+00:24:36,000 --> 00:24:43,000
+And I think just we need to work really hard to understand how decentralized power works.
+
+171
+00:24:43,000 --> 00:24:54,000
+Yeah, no, I mean, to some extent, it's technology or technological pieces that can be used in quite a range of ways.
+
+172
+00:24:54,000 --> 00:25:14,000
+So you mentioned kind of like money or there is this project maker on Ethereum, which I would say kind of replicates how today central bank works.
+
+173
+00:25:14,000 --> 00:25:20,000
+To some extent and but at the end, it's maybe not that different.
+
+174
+00:25:20,000 --> 00:25:36,000
+So it's OK, maybe it's 20 large token holders that then vote and instead of the central bank where I don't know, seven people then at the end make the decision.
+
+175
+00:25:36,000 --> 00:25:39,000
+So in that sense, it's not really that different.
+
+176
+00:25:39,000 --> 00:25:47,000
+But blockchain also or the technology just opens up the field for much more experiments.
+
+177
+00:25:47,000 --> 00:25:59,000
+So there is this maker, but there are also a hundred other currencies or currency systems or value systems that are currently being built and experimented.
+
+178
+00:25:59,000 --> 00:26:06,000
+And not only that, there's also loads of experimentation in terms of governance, right?
+
+179
+00:26:06,000 --> 00:26:17,000
+And I mean, not just in terms of kind of governance, like blockchain applications for governance, but more like the governance of blockchain protocols is wild.
+
+180
+00:26:17,000 --> 00:26:20,000
+There's so many problems that keep coming up.
+
+181
+00:26:21,000 --> 00:26:36,000
+And that's like an ongoing that for me is the real stuff, because that for me, like, first of all, has to do with this question of like, OK, we're we're arranging a kind of new decentralized protocol where what happens to power in the meantime.
+
+182
+00:26:36,000 --> 00:26:44,000
+And a lot of that has to do with who determines, you know, whether the protocol is considered to work or be good or not and what need what changes need to be made.
+
+183
+00:26:44,000 --> 00:26:54,000
+So far, like, you know, in terms of any kind of radical changes to protocols, that has to sit within a kind of like attack vector scenario.
+
+184
+00:26:54,000 --> 00:27:02,000
+So it's like if you want to modify the way that a given network is governed, then it needs to be coded into kind of attack vector type language.
+
+185
+00:27:02,000 --> 00:27:07,000
+And then it's something that can actually be dealt with by developers in a sensible way.
+
+186
+00:27:07,000 --> 00:27:25,000
+But the more kind of like the questions of how the protocols actually meet users in, you know, in their day to day lives and how users then push back on whether that protocol is actually performing something good in their lives or not is like still an open question mark in many ways.
+
+187
+00:27:25,000 --> 00:27:30,000
+Again, so far, like, you know, there's been, you know, the hacks and the exploits and so on.
+
+188
+00:27:30,000 --> 00:27:38,000
+And that's like, you know, been the kind of interesting cases of what do you do then?
+
+189
+00:27:38,000 --> 00:27:40,000
+You know, who has the control of the protocol then?
+
+190
+00:27:40,000 --> 00:27:43,000
+And then, of course, like forking as a governance mechanism around that.
+
+191
+00:27:43,000 --> 00:27:51,000
+But yeah, and there's lots of interesting stuff happening right now in terms of protocol governance in the space.
+
+192
+00:27:51,000 --> 00:27:54,000
+I'm still at the point of trying to be generous.
+
+193
+00:27:54,000 --> 00:28:03,000
+I'm still asking myself, what exactly is the thing that crypt economics brings to the table?
+
+194
+00:28:03,000 --> 00:28:17,000
+You know, if you consider all the critique, if you consider that like apart from all the bullshit, apart from all the hype, apart from all the OK, they are using like rational choice assumptions and everything.
+
+195
+00:28:17,000 --> 00:28:30,000
+Is there still something left that opens up new spaces of possibilities, as you mentioned in relation to the question of technology as an art of government?
+
+196
+00:28:30,000 --> 00:28:38,000
+And I'm asking this from a perspective of being like really critical towards all the things.
+
+197
+00:28:38,000 --> 00:28:52,000
+My simplest answer would again be it enables people to cooperate across jurisdictions worldwide in a form that was previously not possible.
+
+198
+00:28:52,000 --> 00:28:54,000
+But can we go into that cooperation a little bit more?
+
+199
+00:28:54,000 --> 00:28:58,000
+Because like, you know, obviously people can call each other, right?
+
+200
+00:28:58,000 --> 00:29:07,000
+And like, you know, you can call someone and organize something, you know, between lots of different locations.
+
+201
+00:29:07,000 --> 00:29:14,000
+So it's a very specific kind of cooperation or collaboration that is enabled through blockchain, not because that communication happens already.
+
+202
+00:29:14,000 --> 00:29:18,000
+Relationships can be established. People can make agreements and so on and so forth.
+
+203
+00:29:18,000 --> 00:29:21,000
+It's more specific than that, right?
+
+204
+00:29:21,000 --> 00:29:22,000
+Well, of course, yeah.
+
+205
+00:29:22,000 --> 00:29:29,000
+And again, one example, the simplest example is just like having control of a budget together.
+
+206
+00:29:29,000 --> 00:29:33,000
+That already is pretty hard to do, I would say.
+
+207
+00:29:33,000 --> 00:29:38,000
+And then you can, of course, go on from there, but just as a...
+
+208
+00:29:38,000 --> 00:29:40,000
+So, yeah, again, this climate change thing.
+
+209
+00:29:40,000 --> 00:29:57,000
+So there is a project, Dowstek, I'm somewhat involved with, where the idea is there are Facebook groups today with a million or sometimes 100,000 million people that are interested in some topic or something like that.
+
+210
+00:29:57,000 --> 00:30:00,000
+But the group is very...
+
+211
+00:30:00,000 --> 00:30:07,000
+But those groups could maybe do much more than or could have much higher impact.
+
+212
+00:30:07,000 --> 00:30:13,000
+So imagine you would pay a one dollar a month membership kind of into this group.
+
+213
+00:30:13,000 --> 00:30:23,000
+And then this group would have a budget and would have some procedures how to, well, then actually be able to spend that money.
+
+214
+00:30:23,000 --> 00:30:33,000
+I have a hard time imagining that how to do this today, kind of how to set that up without blockchain.
+
+215
+00:30:33,000 --> 00:30:40,000
+So that's some specific financial application that can be created through this technology.
+
+216
+00:30:40,000 --> 00:30:49,000
+Because if you take it to a larger level of climate change, I'm not seeing how this is like...
+
+217
+00:30:49,000 --> 00:30:52,000
+How addressing climate change...
+
+218
+00:30:52,000 --> 00:30:54,000
+Greenpeace does that, right?
+
+219
+00:30:54,000 --> 00:31:02,000
+Greenpeace, people pay a membership fee to Greenpeace and then they do stuff on climate and people see that as a kind of coordinating mechanism.
+
+220
+00:31:02,000 --> 00:31:14,000
+And I mean, I get what you're saying that it's easier for smaller groups to self-organize that might not have access to be able to have a bank account and so on and so forth.
+
+221
+00:31:14,000 --> 00:31:24,000
+But the big question here is what is it that the fact that Greenpeace does this versus another set of people...
+
+222
+00:31:24,000 --> 00:31:31,000
+There is a set of governance and legal jurisdictions and all that, which is it can be good, but it can be bad.
+
+223
+00:31:31,000 --> 00:31:33,000
+But sometimes it is quite good.
+
+224
+00:31:33,000 --> 00:31:38,000
+And especially when a given protocol gets hacked, it's quite good.
+
+225
+00:31:39,000 --> 00:31:48,000
+Do you know what I mean? Sometimes there's a fallback onto existing legal systems and existing governance systems.
+
+226
+00:31:48,000 --> 00:31:52,000
+That's like, man, people kind of...
+
+227
+00:31:52,000 --> 00:31:55,000
+OK, I would say that's the second next...
+
+228
+00:31:55,000 --> 00:32:02,000
+If we are still at the basis of what's the promise, then I would say, well, why not Greenpeace?
+
+229
+00:32:02,000 --> 00:32:11,000
+Yeah, I mean, again, I don't know how Greenpeace is structured legally globally.
+
+230
+00:32:11,000 --> 00:32:22,000
+I assume they have in many jurisdictions some entities and I think it has overall probably tremendous costs in just maintaining that legal structure.
+
+231
+00:32:22,000 --> 00:32:31,000
+So that would simply be an enormous reduction of costs of setting up such a structure.
+
+232
+00:32:31,000 --> 00:32:40,000
+And then, of course, the imagination is that it's much more participatory.
+
+233
+00:32:40,000 --> 00:32:48,000
+So instead of just kind of paying a membership fee to Greenpeace and then I think...
+
+234
+00:32:48,000 --> 00:32:57,000
+I'm not a member, but I assume you don't have kind of direct voting rights on stuff and how that money is spent.
+
+235
+00:32:57,000 --> 00:33:05,000
+And I would say that is also because it's just complicated and expensive to set those structures up.
+
+236
+00:33:05,000 --> 00:33:22,000
+And I would say with this technology that those costs to set up governments, governance structures can be reduced significantly.
+
+237
+00:33:22,000 --> 00:33:28,000
+And that makes it just possible to do things that were previously not possible.
+
+238
+00:33:28,000 --> 00:33:43,000
+So one example I sometimes bring in just how the reduction of costs introduces new things is the Internet reduced, of course, the costs of submitting information tremendously.
+
+239
+00:33:43,000 --> 00:33:57,000
+So like 30 years ago, if you wanted to express something as unimportant as you like this picture,
+
+240
+00:33:57,000 --> 00:34:01,000
+well, you would not write a letter to someone and say, I like this picture.
+
+241
+00:34:01,000 --> 00:34:03,000
+With Facebook, of course, you click the like button.
+
+242
+00:34:03,000 --> 00:34:11,000
+And that's kind of one example of the cost of submitting this information was reduced by a factor of 1000 or a million.
+
+243
+00:34:11,000 --> 00:34:19,000
+And with blockchain technology, the costs of not submitting information, but submitting transactions.
+
+244
+00:34:19,000 --> 00:34:25,000
+So sending a token or casting a vote that can trigger something,
+
+245
+00:34:25,000 --> 00:34:30,000
+kind of this transactional cost is reduced by a factor or can be reduced by a factor of a million.
+
+246
+00:34:30,000 --> 00:34:35,000
+And that will open up a new space.
+
+247
+00:34:35,000 --> 00:34:38,000
+I mean, don't get me wrong. It's not that I don't think there's anything interesting about that.
+
+248
+00:34:38,000 --> 00:34:41,000
+I think there's plenty of interesting things. Otherwise, it wouldn't be in the space.
+
+249
+00:34:41,000 --> 00:34:48,000
+But it's more that I find it kind of problematic that there is a lot of kind of discussions that tend to happen in and around blockchain,
+
+250
+00:34:48,000 --> 00:34:55,000
+where it's like, oh, that would be that would never be possible without blockchain or, you know, when actually, yes, things are possible.
+
+251
+00:34:55,000 --> 00:34:57,000
+It just is a different way of doing things.
+
+252
+00:34:57,000 --> 00:35:07,000
+And so there's this tendency to often kind of reduce social interactions to a kind of like very limited set of forms of interactions
+
+253
+00:35:07,000 --> 00:35:11,000
+and kind of reinterpret the whole world through that lens.
+
+254
+00:35:11,000 --> 00:35:20,000
+And that's a little bit like man, come on, you know, like including things like no, sorry, I'll stop there because we'll get into that later.
+
+255
+00:35:20,000 --> 00:35:24,000
+I'm sure questions of the state and sovereignty and all this kind of stuff.
+
+256
+00:35:25,000 --> 00:35:33,000
+I mean, I think we're still in a very early stage where we just where it's important to also explore the possibilities and try out different things.
+
+257
+00:35:33,000 --> 00:35:43,000
+For me, as a non-expert, the promise of blockchain technologies kind of lies in the possibility to design economic systems
+
+258
+00:35:43,000 --> 00:35:48,000
+down to a very micro transactional level and day to day level even.
+
+259
+00:35:48,000 --> 00:35:52,000
+And I think there's huge possibilities, also huge problems there.
+
+260
+00:35:52,000 --> 00:35:55,000
+But in theory, it's lots of interesting things is possible.
+
+261
+00:35:55,000 --> 00:36:05,000
+It's not only that like tax evasion is no longer possible, but maybe also it's no longer possible to spend money on things that, you know, harm other people or harm the environment.
+
+262
+00:36:05,000 --> 00:36:10,000
+Or maybe it's more expensive or maybe it's more expensive tomorrow than it is today.
+
+263
+00:36:10,000 --> 00:36:13,000
+There's, as I said, there are lots of problems come with it.
+
+264
+00:36:13,000 --> 00:36:22,000
+In theory, like compared to how our economic system works now, you can control things on a much tighter level for good or for worse.
+
+265
+00:36:22,000 --> 00:36:32,000
+I mean, on that specific thing, I think tax evasion will come in a way also much easier again.
+
+266
+00:36:32,000 --> 00:36:40,000
+There are those zero knowledge proofs and I mean, like so far, blockchain has been very, very, very transparent.
+
+267
+00:36:40,000 --> 00:36:53,000
+So, but there is already the technology ready to make blockchain or to make transactions that are shielded or like that you cannot.
+
+268
+00:36:53,000 --> 00:36:59,000
+You have a very hard time tracing from the outside what's going on.
+
+269
+00:37:02,000 --> 00:37:09,000
+But I think what Benjamin is actually heading at is that it's a design question that, again, coming from his book,
+
+270
+00:37:09,000 --> 00:37:19,000
+these technologies open up spaces and it's a question of a political conversation, of a political negotiation.
+
+271
+00:37:19,000 --> 00:37:21,000
+Thanks a lot.
+
+272
+00:37:21,000 --> 00:37:27,000
+How we want to use this contingent space of possibility that is being opened up.
+
+273
+00:37:27,000 --> 00:37:44,000
+And I think that one of the problems actually in the space is that the way that the question is looked upon is informed through lenses that I personally mostly do not share.
+
+274
+00:37:44,000 --> 00:37:51,000
+Specifically in cryptoeconomics, there's this lens of game theoretic design, a game theoretic design perspective.
+
+275
+00:37:51,000 --> 00:38:01,000
+And I'd like to talk a bit about this because this actually like builds the floor upon which the rest is then being imagined, actually.
+
+276
+00:38:01,000 --> 00:38:04,000
+And to me, it's like highly flawed.
+
+277
+00:38:04,000 --> 00:38:14,000
+Maybe I mentioned an author, Ariel Rubenstein, and he's actually a renowned economist in the field of cryptoeconomics, but game theory.
+
+278
+00:38:14,000 --> 00:38:15,000
+And he wrote a book.
+
+279
+00:38:15,000 --> 00:38:16,000
+And he wrote a book.
+
+280
+00:38:16,000 --> 00:38:18,000
+It's called Economic Fables.
+
+281
+00:38:18,000 --> 00:38:28,000
+And he talks about game theory from a perspective where he says, all right, I really, really enjoyed game theory as an intellectual pleasure in my professional life.
+
+282
+00:38:28,000 --> 00:38:42,000
+But when it comes to real world applicability, I highly doubt that it's worth anything when it comes to the prediction of real behavior of humans, because it's just not a tool that you can use for this.
+
+283
+00:38:42,000 --> 00:38:48,000
+And then what you end up with is a normative idea of how people should behave.
+
+284
+00:38:48,000 --> 00:38:59,000
+And this I often find in cryptoeconomic systems design that you imagine a way of how you would like that people should behave.
+
+285
+00:38:59,000 --> 00:39:11,000
+And this is mostly thought of as like strictly rational profit maximizing and actually alongside idea of rational choice theory.
+
+286
+00:39:11,000 --> 00:39:12,000
+And that's how it's modeled.
+
+287
+00:39:12,000 --> 00:39:22,000
+And then you build a system that tries to kind of force people to act in this way with a type of carrot and stick approach.
+
+288
+00:39:22,000 --> 00:39:23,000
+That's how it seems to me.
+
+289
+00:39:23,000 --> 00:39:25,000
+I would say quite the opposite.
+
+290
+00:39:25,000 --> 00:39:31,000
+I would say you imagine how people could behave worst case.
+
+291
+00:39:32,000 --> 00:39:38,000
+And then you imagine how the others could behave worst case to you.
+
+292
+00:39:38,000 --> 00:39:46,000
+And then you design the system that even if they all behave worst case for you, it kind of still works.
+
+293
+00:39:46,000 --> 00:39:48,000
+Yeah.
+
+294
+00:39:48,000 --> 00:39:51,000
+I mean, and that is the security engineers perspective.
+
+295
+00:39:51,000 --> 00:39:54,000
+And that I find really interesting to trace through, actually.
+
+296
+00:39:55,000 --> 00:40:01,000
+But there is something else that you said, which was the intellectual pleasure of game theory.
+
+297
+00:40:01,000 --> 00:40:09,000
+And I actually I honestly think that blockchain has become so big because it's intellectually pleasurable.
+
+298
+00:40:09,000 --> 00:40:20,000
+Like, you know, it's just it puts forward a whole bunch of really interesting problems for political theorists, for economists, for mathematicians, for cryptographers, for computer engineers.
+
+299
+00:40:20,000 --> 00:40:27,000
+You know, it's just an interesting set of problems to attack, whether those problems are actual real world problems or not.
+
+300
+00:40:27,000 --> 00:40:31,000
+So, you know, maybe, maybe not.
+
+301
+00:40:31,000 --> 00:40:36,000
+But honestly, you know, I feel that that's that that's the case.
+
+302
+00:40:36,000 --> 00:40:48,000
+But yeah, in terms of the assumptions of game theory, like, you know, game theory is kind of like one big component in in crypto economics.
+
+303
+00:40:49,000 --> 00:41:11,000
+But there is like something that I've been trying to think through and struggle with a little bit is this question of like exactly as Martin was saying, like whether, you know, there is an element of the kind of core engineering where, you know, modeling, you know, being so focused on modeling attacks makes sense because you want the kind of core engineering to be secure fundamentally.
+
+304
+00:41:11,000 --> 00:41:21,000
+When it becomes problematic is when that becomes a kind of like model and a lens for understanding all social relationships and and kind of expanding from there, a kind of worldview and a political view.
+
+305
+00:41:21,000 --> 00:41:26,000
+And that happens for some reason or another very quickly in the blockchain space.
+
+306
+00:41:27,000 --> 00:41:29,000
+When I was writing my PhD, I was running through it.
+
+307
+00:41:29,000 --> 00:41:48,000
+I did a little kind of experiment where I was trying to kind of work through the concept of trustlessness, which is like a major kind of like concept in the blockchain space and in crypto, crypto economics, you know, and trustlessness kind of defines a kind of threshold of trust that is required in order for the system to function securely.
+
+308
+00:41:48,000 --> 00:42:00,000
+So there's a famous kind of 51% attack and all these kinds of things where, you know, how many nodes in the network would need to collude in order for the network to then become, you know, biased or owned or whatever else.
+
+309
+00:42:00,000 --> 00:42:13,000
+And what I wanted to understand was like the way that trust and trustlessness was kind of conceptualized and worked with in a very rigorous way amongst computer engineers.
+
+310
+00:42:13,000 --> 00:42:23,000
+And yet for anyone actually engaging with blockchain systems and crypto economic systems and so on, a lot of trust is required, right?
+
+311
+00:42:23,000 --> 00:42:30,000
+Like you need to kind of like trust what you've read on a website, you need to trust, you know, the exchange rates on a kind of crypto exchange and so on and so forth.
+
+312
+00:42:30,000 --> 00:42:38,000
+Like you're never as an individual able to run go through, you know, all the GitHub code repositories in order to make sure that everything is super secure.
+
+313
+00:42:38,000 --> 00:42:42,000
+Like you actually need to trust a lot of people to engage with these systems.
+
+314
+00:42:42,000 --> 00:42:54,000
+So where is it that that kind of like mythical trustlessness that blockchain provides and the actual social reality where a lot of trust is required, where does that meet and how is that articulated?
+
+315
+00:42:54,000 --> 00:43:04,000
+And that's exactly the kind of like areas where, you know, then you do start to see a lot of scams and you do see start to see a lot of kind of security breaches and so on.
+
+316
+00:43:05,000 --> 00:43:07,000
+But it's it's a kind of it.
+
+317
+00:43:07,000 --> 00:43:32,000
+I think it's also one of the reasons why the kind of security protocol so quickly becomes a political and social imagination, because you're trying to produce, you know, the effort of the security engineers to try to produce something that is, you know, stable as a kind of political, social, legal and economic system through cryptography and through math, right?
+
+318
+00:43:32,000 --> 00:43:53,000
+And so, you know, the more that you see that it doesn't play out that way in reality, the more you need to bring reality into into those kind of conditions of trustlessness, the more you need to kind of like add more things on some blockchain, you know, like put it out into IOT and, you know, get more because everything outside of the trustless network is just is, you know, dodgy potentially, right?
+
+319
+00:43:53,000 --> 00:43:54,000
+Sorry, a little rant.
+
+320
+00:43:54,000 --> 00:44:12,000
+I think also from a broader perspective, this point of trust is super interesting to me, because maybe that's even the key behind the whole blockchain thing is it tries to replace a social mechanism of trust that has a long history with a technological mechanism, which makes sense in a way.
+
+321
+00:44:13,000 --> 00:44:27,000
+trust that has a long history with a technological mechanism, which which makes sense in a way, but trust in social relations, like I learned that from Nicholas Luman, I think is a is a mechanism to reduce complexity.
+
+322
+00:44:27,000 --> 00:44:39,000
+And once you remove that social mechanism, you set free a lot of potential complexity to deal with on a technological level, because you can abstract all that away.
+
+323
+00:44:39,000 --> 00:44:44,000
+If you just trust the person, you know, I have right now I have a babysitter at home.
+
+324
+00:44:44,000 --> 00:44:50,000
+I trust her to bring my kid to sleep at around now, probably seven or seven thirty.
+
+325
+00:44:50,000 --> 00:44:53,000
+I could also set up a smart contract with her.
+
+326
+00:44:53,000 --> 00:44:58,000
+You know, if the baby monitor says you're not down at seven thirty, you're not getting paid.
+
+327
+00:44:58,000 --> 00:45:00,000
+But is that really better?
+
+328
+00:45:00,000 --> 00:45:05,000
+And or does it just so much possible complexity emerges out of this?
+
+329
+00:45:05,000 --> 00:45:10,000
+Because maybe she has a good reason not to put it down at seven thirty, but maybe at seven forty.
+
+330
+00:45:10,000 --> 00:45:12,000
+And then the smart contract would not work.
+
+331
+00:45:12,000 --> 00:45:14,000
+And then we have to fix it afterwards.
+
+332
+00:45:15,000 --> 00:45:19,000
+And so much complexity that I can just abstract away by just trusting that person.
+
+333
+00:45:19,000 --> 00:45:21,000
+She's a good person. She will do a good job.
+
+334
+00:45:21,000 --> 00:45:24,000
+And lots of social relationships work this way by trust.
+
+335
+00:45:24,000 --> 00:45:28,000
+And we have to be very careful which ones we want to replace and which ones we want to keep.
+
+336
+00:45:28,000 --> 00:45:32,000
+I think that works perfectly fine in the babysitter use case.
+
+337
+00:45:32,000 --> 00:45:44,000
+But in the use case where you want to build something global platform or kind of potentially something with millions of people involved,
+
+338
+00:45:44,000 --> 00:45:57,000
+I think it simply doesn't work that there are those personal trust relationships that make the whole thing work together.
+
+339
+00:45:57,000 --> 00:46:00,000
+Or at least there will come clear limitations.
+
+340
+00:46:00,000 --> 00:46:11,000
+And just a very practical example where I very much value this trustlessness is in Ethereum.
+
+341
+00:46:11,000 --> 00:46:22,000
+There are all those different projects that build pieces, kind of Lego pieces that you can then build more complex applications together.
+
+342
+00:46:22,000 --> 00:46:32,000
+And it very much makes for us a difference whether one piece has something like an operator and kind of someone who could change the rules
+
+343
+00:46:32,000 --> 00:46:40,000
+and where we would need to trust them and kind of need to make sure that they will not change it in a way we don't like it.
+
+344
+00:46:40,000 --> 00:46:47,000
+And then kind of the whole thing we are building has a problem because one piece here is now acting in a different way.
+
+345
+00:46:47,000 --> 00:46:56,000
+Or a piece with no operator, with no way to change it, what we would call trustless.
+
+346
+00:46:56,000 --> 00:47:09,000
+And if you have those trustless puzzle pieces, the hope is that it allows you to build much more robust and complex systems.
+
+347
+00:47:10,000 --> 00:47:17,000
+Many times I find myself actually really very much agreeing with the definition of the problem.
+
+348
+00:47:17,000 --> 00:47:24,000
+You know, also when I read Glenn Whale and Vitalik Buterin some text about the radical markets,
+
+349
+00:47:24,000 --> 00:47:28,000
+I really, really, really, really do not agree with the solutions that they provide.
+
+350
+00:47:28,000 --> 00:47:36,000
+But when they come to define the problems, they're actually quite clear on how to describe the ways in which
+
+351
+00:47:36,000 --> 00:47:46,000
+contemporary structures, political structures are actually not, oftentimes not, any more convincing
+
+352
+00:47:46,000 --> 00:47:56,000
+in the way they address the overall changing, I don't know, landscape of things, to be very unprecise.
+
+353
+00:47:56,000 --> 00:48:03,000
+So there is this open question on how can we do things differently.
+
+354
+00:48:03,000 --> 00:48:08,000
+There are many interesting problems that are being talked about in this space.
+
+355
+00:48:08,000 --> 00:48:14,000
+And one of the questions would be in which case is the way that they are being approached from the
+
+356
+00:48:14,000 --> 00:48:20,000
+cryptoeconomics perspective, for example, is adequate and in which case it is not.
+
+357
+00:48:24,000 --> 00:48:26,000
+Yeah, go ahead.
+
+358
+00:48:26,000 --> 00:48:30,000
+Well, I don't want to, if you're going to kind of override the topic or something.
+
+359
+00:48:30,000 --> 00:48:34,000
+I was trying to think what I would say next, so please go ahead.
+
+360
+00:48:34,000 --> 00:48:40,000
+No, just to say that, I don't know, for me, my work and interests is kind of like,
+
+361
+00:48:40,000 --> 00:48:48,000
+I'm not so intensely focused on whether cryptoeconomics and blockchain are the solutions to things,
+
+362
+00:48:48,000 --> 00:48:53,000
+but I do think that they have done a lot to put the right questions on the table, right?
+
+363
+00:48:53,000 --> 00:49:00,000
+And to open up a lot more possibility for experimentation and especially in two areas,
+
+364
+00:49:00,000 --> 00:49:05,000
+especially when it comes to currencies and currency design and questions of value and money,
+
+365
+00:49:05,000 --> 00:49:13,000
+at all scales, really, both in terms of global money, all the way down to local and this kind of thing,
+
+366
+00:49:13,000 --> 00:49:16,000
+and questions of privacy.
+
+367
+00:49:16,000 --> 00:49:23,000
+And I think, you know, questions of privacy is something that unfortunately is like,
+
+368
+00:49:23,000 --> 00:49:30,000
+is kind of, to me, it seems like it's seeped a little bit into the background in recent kind of blockchain world.
+
+369
+00:49:30,000 --> 00:49:35,000
+You know, like, okay, it turns out Bitcoin isn't anonymous.
+
+370
+00:49:35,000 --> 00:49:40,000
+Okay, fine, you know, anonymity and privacy are slightly different things.
+
+371
+00:49:40,000 --> 00:49:49,000
+But I think privacy is super interesting and super important in a kind of like increasingly digitally mediated world,
+
+372
+00:49:49,000 --> 00:49:52,000
+also in terms of questions of governance in the state, right?
+
+373
+00:49:52,000 --> 00:49:56,000
+So, you know, we no longer have like James Scott seeing like a state.
+
+374
+00:49:56,000 --> 00:50:00,000
+There's no longer a kind of, it's not exactly a panopticon that we're living in anymore, is it?
+
+375
+00:50:00,000 --> 00:50:06,000
+It's a kind of different scenario, a kind of like algorithmic visibility that's a lot more nebulous,
+
+376
+00:50:06,000 --> 00:50:13,000
+a lot more contingent, a lot harder to kind of like point your finger exactly at where the power is.
+
+377
+00:50:13,000 --> 00:50:21,000
+And I think like the questions of kind of privacy within that and the kind of added building blocks
+
+378
+00:50:21,000 --> 00:50:26,000
+that blockchain technology promises in terms of currency design, governance structures and so on,
+
+379
+00:50:26,000 --> 00:50:32,000
+there are interesting ways then to kind of recreate, you know, how you want to organize as a community
+
+380
+00:50:32,000 --> 00:50:35,000
+in different levels and in different kind of scales.
+
+381
+00:50:35,000 --> 00:50:38,000
+And I don't see this as like in any way a kind of absolute thing.
+
+382
+00:50:38,000 --> 00:50:46,000
+It's not like replacing the state with something else because we actually live in a super complex patchwork of sovereignty already.
+
+383
+00:50:46,000 --> 00:50:56,000
+I was reading a really interesting paper earlier today on water governance and indigenous sovereignty in the states versus the kind of federal.
+
+384
+00:50:56,000 --> 00:50:59,000
+And there's a kind of coexistence, right?
+
+385
+00:50:59,000 --> 00:51:11,000
+And that coexistence is not just like, you know, Native Americans are doing the same thing as kind of federal government.
+
+386
+00:51:11,000 --> 00:51:15,000
+It's like they're doing things very, very differently, but they're governing water.
+
+387
+00:51:15,000 --> 00:51:24,000
+Do you know what I mean? So it's like these qualitatively, like qualitatively different ways of doing things and the ability to determine that.
+
+388
+00:51:24,000 --> 00:51:31,000
+Yeah, just like one note on the privacy question, blockchain really brings both ends of the spectrum.
+
+389
+00:51:31,000 --> 00:51:32,000
+Yeah, exactly.
+
+390
+00:51:32,000 --> 00:51:38,000
+It brings the full kind of everything is verifiable, everything is visible, every transaction is.
+
+391
+00:51:38,000 --> 00:51:44,000
+But it also has a spectrum and to me still totally unclear kind of where we will end.
+
+392
+00:51:44,000 --> 00:51:51,000
+It also brings the other spectrum and that's more recent developments with zero knowledge proofs,
+
+393
+00:51:51,000 --> 00:52:02,000
+or whatever technology that really allows you or plausibly could allow you a total anonymity and and and no.
+
+394
+00:52:02,000 --> 00:52:07,000
+And like you could do things, text evasion would be super easy.
+
+395
+00:52:07,000 --> 00:52:18,000
+You could you could do you could also have pay or incentivize specific behavior and no one would kind of.
+
+396
+00:52:19,000 --> 00:52:25,000
+There's quite a bit of scary things that are possible on that end of the spectrum.
+
+397
+00:52:25,000 --> 00:52:28,000
+I don't know where we will end.
+
+398
+00:52:28,000 --> 00:52:31,000
+Can I ask a blunt question to you as experts?
+
+399
+00:52:31,000 --> 00:52:36,000
+Because I think we can all agree that crypto is a challenge for state actors.
+
+400
+00:52:36,000 --> 00:52:38,000
+But is it a challenge for capitalism?
+
+401
+00:52:39,000 --> 00:52:44,000
+Would you think that the or is that maybe you as a practitioner also,
+
+402
+00:52:44,000 --> 00:52:51,000
+is that something you would like working towards like a post capitalist form of economy that should be based on a blockchain?
+
+403
+00:52:51,000 --> 00:52:59,000
+Or is it rather like this is just the next level of radical free market capitalism getting rid of all state actors and it's just money?
+
+404
+00:52:59,000 --> 00:53:03,000
+It's it's such a that is such an interesting question,
+
+405
+00:53:03,000 --> 00:53:07,000
+I mean, in the sense that I've had this question on my mind like for the longest time.
+
+406
+00:53:07,000 --> 00:53:12,000
+And it was one of my motivations to write my PhD also was trying to work that out.
+
+407
+00:53:12,000 --> 00:53:14,000
+And I still haven't worked it out. And I think there's something.
+
+408
+00:53:14,000 --> 00:53:16,000
+Yeah, I still have. I haven't worked it out.
+
+409
+00:53:16,000 --> 00:53:24,000
+You know, I have I have to admit, like in many ways, like there is a lot to be said for the way that, you know,
+
+410
+00:53:24,000 --> 00:53:32,000
+blockchain systems and Bitcoin and whatever kind of propagates a kind of like hyper capitalist mentality and approach to the world.
+
+411
+00:53:32,000 --> 00:53:37,000
+Like, absolutely, you know, you can see that. But is that the full story?
+
+412
+00:53:37,000 --> 00:53:40,000
+Like, no, no, to me, it's absolutely not the full story.
+
+413
+00:53:40,000 --> 00:53:46,000
+I think there's all kinds of weird mutations happening and even, you know, possible alternatives.
+
+414
+00:53:46,000 --> 00:53:51,000
+But, you know, if you if you want to go deep into whether post capitalism is possible through blockchain,
+
+415
+00:53:51,000 --> 00:53:57,000
+I mean, like that goes that requires like some real deep soul searching around the entire technology industry,
+
+416
+00:53:57,000 --> 00:54:06,000
+really, because the entire technology industry is deeply embedded and dependent on capitalist modes of organizing production and reproduction.
+
+417
+00:54:06,000 --> 00:54:16,000
+You know, but there is some I do find it because you mentioned radical markets and they call themselves post capitalist,
+
+418
+00:54:17,000 --> 00:54:22,000
+which I just find so interesting because it's like, you know, kind of that for many people,
+
+419
+00:54:22,000 --> 00:54:25,000
+the kind of market approach to the world is like quintessentially.
+
+420
+00:54:25,000 --> 00:54:36,000
+That's like that is, you know, one answer would be to maybe hyper capitalism is then post capitalism because I'm trying to find one thought.
+
+421
+00:54:37,000 --> 00:54:49,000
+So I would say, yeah, of course, markets are a big thing in blockchain, but also different forms of tokens or of value.
+
+422
+00:54:49,000 --> 00:54:54,000
+So I guess one critique of I mean, of course, we wouldn't first need to define capitalism,
+
+423
+00:54:54,000 --> 00:55:04,000
+but I guess one broad critique about capitalism and what people don't like about capitalism is kind of the reduction on one number kind of money.
+
+424
+00:55:04,000 --> 00:55:10,000
+But if we have multidimensional money, we just don't have like euros,
+
+425
+00:55:10,000 --> 00:55:16,000
+but kind of 100 different forms of tokens that represent different things or different different things.
+
+426
+00:55:16,000 --> 00:55:24,000
+We value different relationships and different people can, well, optimize for different different values.
+
+427
+00:55:24,000 --> 00:55:30,000
+Well, you could call that hyper capitalism because you kind of have market mechanism for even more things.
+
+428
+00:55:30,000 --> 00:55:40,000
+But maybe then it doesn't feel like capitalism anymore because it's not just a reduction on one number, but on 100 numbers or something like that.
+
+429
+00:55:43,000 --> 00:55:45,000
+I mean, there's so much to be said about that, right?
+
+430
+00:55:45,000 --> 00:55:56,000
+It's like, oh, that would open up actually a big topic, but maybe we will come there in the discussion with the audience.
+
+431
+00:55:56,000 --> 00:56:03,000
+I think one of the takeaways is that and that's something I learned from Benjamin's fantastic book,
+
+432
+00:56:03,000 --> 00:56:09,000
+which I can only recommend highly is that it's a political question.
+
+433
+00:56:09,000 --> 00:56:11,000
+Actually, I learned it from your dissertation as well.
+
+434
+00:56:11,000 --> 00:56:17,000
+So it does indeed open up new realms of possibilities, I guess.
+
+435
+00:56:17,000 --> 00:56:23,000
+But it's very important that we ask ourselves which of those we want to choose.
+
+436
+00:56:26,000 --> 00:56:28,000
+Mm hmm.
+

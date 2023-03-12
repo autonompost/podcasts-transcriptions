@@ -1,0 +1,603 @@
+start	end	text
+0	5560	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen von Zukunft.
+5560	11520	Mein Name ist Jan Groß und ich spreche heute mit Marlies Wirth und Paul Feigelfeld über künstliche Intelligenz.
+11520	16760	Die beiden haben zusammen die Ausstellung Uncanny Values Künstliche Intelligenz und Duko ratiert,
+16760	23680	die derzeit im Wiener Museum für angewahnte Kunst läuft und dort noch bis zum 6. Oktober 2019 zu sehen sein wird.
+23680	28480	Wundert euch nicht, ich werde während des Interviews einmal auf eine andere Audioquelle umsteigen,
+28480	33320	da es einen technischen Ausfall gab. Zum Glück gab es das B-Mikrofon,
+33320	36880	sodass ihr in dem Genuss des vollen Interviews mit den beiden kommen könnt
+36880	41400	und ich werde im weiteren Verlauf dann auch wieder zur ursprünglichen Audioquelle zurückkehren können.
+41400	46880	Es war mal wieder ein ausgesprochen interessantes Gespräch für mich mit Perlen wie diesen hier.
+46880	55040	In Wirklichkeit aber müssen wir uns vielleicht eben auch damit anfreunden und dann anfangen auf der Basis zu arbeiten, dass wir Arschlöcher sind.
+55040	60760	Und dass keine Technologie das richten wird.
+60760	65600	Lasst mich wissen, was ihr zu dem ganzen denkt, zum Beispiel auf Twitter unter Hashtag Future Histories
+65600	72000	oder in unserem Subreddit oder per Mail unter future-histories-at-protonmail.com
+72000	86080	Und wenn ihr den Podcast darüber hinaus unterstützen wollt, dann könnt ihr das auf Patreon unter www.patreon.com-future-histories.
+86080	88920	Herzlich willkommen Marlies und Paul.
+88920	90280	Danke für die Einladung.
+90280	92160	Hallo Jan.
+92160	96920	Fangen wir mal mit der Definitionsfrage an. Was ist künstliche Intelligenz?
+96920	104480	Es ist eine ziemlich schwierige Frage. Ich glaube, künstliche Intelligenz ist ein sehr weiter und sehr ehreführender Begriff,
+104480	113320	den es schon sehr, sehr lange gibt, der vielleicht zeitweise besser umschrieben wäre mit Maschinenintelligenz oder maschinischer, technischer Intelligenz,
+113320	119960	aber als Forschungsgebiet sich aufteilt in verschiedene Techniken- und Methodengebiete.
+119960	123840	Also es ist ein Begriff, der jetzt nicht unbedingt einen Zustand beschreibt.
+123840	131080	Es gibt keine künstliche Intelligenz in dem Sinn, sondern einen Komplex von verschiedenen Techniken des Verstehen und Lernens,
+131080	139680	die durch verschiedene Algorithmen und andere Methoden der Berechnung vollzogen werden können.
+139680	146000	Und welche sind die derzeit am häufigsten angewandten Techniken in Bezug auf künstliche Intelligenz?
+146000	153920	Seit ein paar Jahren geistert dieser Begriff Deep Learning durch die Gegend, der sich irrsinnig gut anhört,
+153920	161680	deswegen auch, glaube ich, so beliebt ist, allerdings das Problem mit sich bringt, dass er in seiner Tiefe auch sehr schwer nachvollziehbar ist.
+161680	166640	Diese Tiefe hat allerdings überhaupt nichts mit Tiefsinnigkeit zu tun, sondern hat einfach damit zu tun,
+166640	174960	dass im Prinzip mehrere neuronale Netzwerke, mit denen versucht wird, irgendwie Neuronen im menschlichen Gehirn nachzuäffen,
+174960	184440	aufeinander geschichtet werden und dabei eine bestimmte Fähigkeit trainiert wird, nämlich in die Tiefe, also vertikal.
+184440	191320	Das heißt, dieses Wissen, das hier produziert wird, ist eins, das sich überhaupt nicht irgendwie horizontal und vertikal vernetzt
+191320	197600	und besonders allgemein oder universell wäre, sondern dann zum Beispiel, und da gehen diese Anwendungsgebiete momentan hin,
+197600	202800	eine Sache besonders gut kann, in der Regel schon weitaus besser und schneller als Menschen.
+202800	211840	Das kann sein, Bilderkennung im medizinischen Bereich, weil zum Beispiel so ein Deep Learning-System schon dreieinhalb Milliarden Bilder
+211840	216760	von menschlichen Augen gesehen hat und deswegen sehr gut darin ist, grauen Start zu erkennen,
+216760	225040	viel mehr Bilder als ein menschlicher Arzt, das in seiner Lebzeit je kann, dafür aber nicht in der Lage ist, irgendwas anderes zu tun.
+225040	229280	Das wäre so eine Technik, die die letzten Jahre in aller Munde war.
+229280	237720	Da gab es dann eben auch AlphaGo, das berühmte Go-Programm von Google, oder Deep Dream, das ist alles im selben Methodenbereich.
+237720	245800	Und momentan sprechen alle von den sogenannten ganz Generative Adversarial Networks, die verantwortlich zeichnen für Deepfakes,
+245800	253240	wo sich ja derzeit die Ereignisse jeden Tag, jede Stunde überschlagen, was solche Generative Adversarial Networks sind.
+253240	261480	Zwei Netzwerke, die sozusagen miteinander gegeneinander lernen, in der Lage sind zu produzieren.
+261480	272720	Das heißt, das fing an damit, dass man versucht hat, bestimmte Ähnlichkeiten herzustellen oder herauszukitzeln aus solchen Bilddatenbanken zum Beispiel.
+272720	277800	Also man gibt dem Ding so und so viele Bilder als Training-Datenbank und sagt dann, zeige mir was Neues,
+277800	284480	verstärke nicht bestimmte Bildmerkmale, sondern mach mir zum Beispiel ein völlig neues Gesicht. Das war dann so das erste, was es gab,
+284480	289440	diese berühmte Webseite This Person Does Not Exist.
+289440	300600	Dann gab es die Porn-Deepfakes, wo man in der Lage war, eben fotorealistisch und zwar im Bewegtbild Gesichter von Prominenten auf Pornodarstellerinnen drauf zu montieren.
+300600	308040	Das Ganze hat sich dann weiter ausgedehnt in die Politik und so weiter und ist ja mittlerweile ein gesellschaftspolitisches Thema geworden,
+308040	319080	weil natürlich mittlerweile, und das ist gut so, die Risiken, die das Ganze mit sich bringt für die Manipulation im öffentlichen Raum,
+319080	323720	im öffentlichen Bewusstsein, den Leuten langsam bewusst werden.
+323720	330120	Wir kommen definitiv dann noch später zu den verschiedenen Anwendungsfeldern, aber mich würde noch interessieren,
+330120	337000	du hast jetzt von neuronalen Netzen gesprochen, die in sogar der anderen Herangehensweise dann quasi gegeneinander antreten.
+337000	344200	Nur damit ich das verstehen kann, basiert das grundsätzlich immer noch darauf, dass es quasi eine große Masse an Daten gibt,
+344200	353600	dass die auf bestimmte Strukturähnlichkeiten analysiert wird und dass der Anteil der künstlichen Intelligenz oder das Intelligente an dem Ganzen
+353600	360640	eigentlich darin basiert, dass man sozusagen in Bezug auf diese Mustererkennung sich selbst trainierende Algorithmen hat,
+360640	367000	also die quasi ganz viele verschiedene Methoden versuchen, also Wege versuchen, bei manchen erfolgreich sind,
+367000	372000	dann den Weg weitergehen, wieder ganz viele verschiedene Versuche und so weiter und so fort.
+372000	375200	Also ist das immer noch die grundsätzlichste Herangehensweise?
+375200	377440	Im Grunde genommen ja, so funktioniert das.
+377440	385360	Also wir haben und deswegen befinden wir uns momentan an diesem Punkt, der sich sozusagen technikgeschichtlich entwickelt hat,
+385360	394120	nachdem wir lange Zeit im sogenannten Winter of AI gefroren haben, gepaart mit Smartphone-Technologie
+394120	403960	ab ungefähr Mitte der 2000er, 2007 Einführung des iPhones, mit Big Data und dem wahnsinnigen Aufkommen von Daten als Ressourcen
+403960	410360	und der steigenden Möglichkeit und Kapazität von Prozessoren das Ganze zu verarbeiten,
+410360	415880	hat sich jetzt sozusagen eine Kontingente, ein Moment ergeben, wo das funktionieren kann.
+415880	418680	Plus es hat einen Infrastrukturwandel stattgefunden.
+418680	427880	Die großen Konzerne haben allesamt innerhalb der letzten zehn Jahre angefangen, ihre inneren Methoden so weit umzuändern,
+427880	436200	dass alles, was da an Daten prozessiert wird, zu einem Teil auch benutzt wird, um weiter an Methoden des Machine-Learnings
+436200	438200	und der künstlichen Intelligenz zu arbeiten.
+438200	445160	Das heißt, jeder Facebook-Post, jeder Instagram-Post, jede Google-Suche und so weiter wird auch dahingehend ausgewertet
+445160	453160	oder zu Trainingszwecken eingesetzt, um verschiedenste Systeme, das kann eben alles sein, von Spracherkennung,
+453160	458440	Bilderkennung, jede Form von Prediction und so weiter zu trainieren.
+458440	464600	Was allerdings nicht außer Acht zu lassen ist, ist, dass es in dem Ganzen immer noch und auch weiterhin
+464600	469960	einen sehr großen Anteil menschlicher Arbeit gibt, der zum Teil kaschiert wird.
+469960	479000	Das ist ganz interessant, dass dadurch, dass es auch ein verkaufs-, wie sagt man, ein Unique Selling Point ist,
+479000	484040	für viele Firmen zu sagen, wir benutzen Machine-Learning, dass viele sich das auf die Fahnen schreiben,
+484040	493800	in Wirklichkeit aber irgendwo in Bangladesch sich 500 Leute in einem Call-Center oder sonst wo für Microlabor bezahlen,
+493800	498280	die dann so eine Anfrage erkennen, die überhaupt nicht von Machine-Learning beantwortet wird oder sonst was,
+498280	505000	sondern in Wirklichkeit von irgendjemandem, der dafür unterhalb jeder Armutsgrenze bezahlt wird.
+505000	512040	Eine letzte Frage muss ich noch dazu stellen, wo ist der Punkt, an dem man dann eigentlich von Intelligenz spricht,
+512040	517000	oder ab wann fängt man an, von Intelligenz zu sprechen, weil auf eine Art, und ich habe so das Gefühl,
+517000	522520	mir fehlt da wie so ein Puzzlestück oder so, habe ich das Gefühl, dass es sich da jetzt primär immer noch
+522520	532840	um wie so eine avanciertere Brute-Force-Methode handelt, also wo quasi eigentlich mit einer großen Rechenleistung
+532840	536840	einfach eine große Vielfalt ausgetestet wird und manches funktioniert und manches nicht.
+536840	543960	Auf der anderen Seite gibt es ja dann so Phantasmen der Emulation von menschlichen Gehirnen,
+543960	551400	wo dann ja auch viele Aufladungen mit einhergehen in Bezug auf eine Menschenähnlichkeit.
+551400	557240	Wie soll dieser Schritt vollzogen werden, von dem einen hin zu diesem idealisierten anderen?
+557240	563720	Ist ja ein Paradoxerschild, eindeutig, also es ist sozusagen die Henne-AI-Frage,
+563720	570360	weil wir nicht wissen, wie unser Hirn so richtig funktioniert, also was sollen wir dann um Himmels willen emulieren oder simulieren?
+570360	575880	Ne, also wir wissen nicht, wie Intelligenz funktioniert, also die Definitionen von Intelligenz,
+575880	585160	an denen hier gearbeitet wird, mit denen hier operiert wird, die ganze Zeit sind ein ganzes Spektrum verschiedener Bereiche auch dessen
+585160	593240	und natürlich kommt da auch viel an sozusagen menschlichen Ängsten und so weiter,
+593240	599160	deswegen auch in der Ausstellung der Begriff, der an Kenningens, der Unheimlichkeit so im Zentrum steht,
+599160	607560	wie wir damit umgehen, also irgendwie wollen wir ja auch gar nicht, dass das überhaupt passiert,
+607560	610760	weil wir auch Angst haben davor, was dann mit uns passieren könnte,
+610760	619400	aber einerseits ist es eben so ein strange loop, wo man denkt, wir müssen erst selber verstehen, wie wir verstehen,
+619400	626520	um eine künstliche Intelligenz produzieren zu können, gleichzeitig müssten wir eine künstliche Intelligenz implementieren, um uns verstehen zu können.
+626520	632760	So dreht sich das, wie dieser Schritt oder dieser Schritt, der sich schlussendlich vollziehen werden, weiß ich nicht,
+632760	641720	mir scheint wichtig vor allem, glaube ich, dass man so ein bisschen von diesem pre-kopernikanischen Standpunkt abkommt,
+641720	648440	das hat Benjamin Weitem ganz gut beschrieben in einem Text, dass er so ein bisschen vermutet oder wir zumindest in Erregung ziehen sollten,
+648440	656920	dass wir uns, was unsere Konzeptionen von menschlichen Geist, von Intelligenz, der Art und Weise, der Wirklichkeit und so weiter funktioniert,
+656920	665560	weiter an einem Punkt befinden, der kurz zu einer koperikanischen Runde steht, so wie man damals auch davon ausgegangen ist über Millenia,
+665560	673640	dass es ein, sagen wir jetzt zum Beispiel, geozentrisches Weltbild gibt und das war in Stein gemeißelt, dass wir jetzt sagen,
+673640	681240	wir sind der Messstein für das, was Intelligenz ist, ohne dabei zu wissen, was Intelligenz ausmacht, genau,
+681240	688760	aus der schwaligen Definition darüber, dass wir lernfähig sind, verschiedene Fähigkeiten miteinander verbinden können und so weiter.
+688760	697720	Und das finde ich eigentlich einen guten Ausblick, dass man sagt, und ich glaube sozusagen, also ganz salopp gesagt,
+697720	704680	wir müssen uns vielleicht ein bisschen locker machen bei dem Ganzen, ohne dabei zu sehr jetzt einerseits zum Beispiel
+704680	715880	in einer Technologiebranche zu folgen, die da natürlich höchst affirmativ, aber mit ganz eindeutigem Monetarisierungs- und Profitgedanken rangeht
+715880	726840	oder eine Regierungsinstitution, die da eindeutig natürlich angeht mit dem Interesse an Kontrolle und so weiter, zu sehen, die Arme zu spinnen.
+726840	734920	Ihr breitet in der Ausstellung ja eine ganze Palette von Bereichen aus, in denen künstliche Intelligenz auch heute schon Einfluss auf unser aller Leben hat.
+734920	740280	Das geht dann von Wirtschaft und Politik über Gesundheit und Forschung ein bisschen in Bereiche,
+740280	747160	in denen man es vielleicht an sich nicht so vermuten würde, wie Spiritualität, Sex oder Liebe.
+747160	753640	Kannst du uns ein paar Beispiele geben, inwiefern künstliche Intelligenz unseren Alltag heute schon beeinflusst?
+753640	759960	Ja, vielleicht auch noch kurz zu diesem Thema Intelligenz generell, wo ja immer von Gehirn ausgegangen wird
+759960	765240	und den Menschen natürlich auch eine wahnsinnige körperliche Intelligenz besitzen, die manchen vergessen wird.
+765240	774760	Die Art, wie wir lernen, Kulturtechnik, wie wir lernen, sind ja auch bestimmt von unserem physischen Sein und von unserem Zusammenleben als Gesellschaft.
+774760	785480	Da sind wir am Rande zu den Themen. Es ist natürlich wichtig, dass man sich überlegt, dass diese Begriffe natürlich Menschenbegriffe sind und künstliche Intelligenz zwar reinspielt,
+785480	792280	aber per se keine interessanten Themen hat. Was Gefühle betrifft, sind wir da natürlich weit entfernt.
+792280	801080	Wir haben allerdings versucht, mit einem schon genannten GAN, einem Generative Artificial Network, auch neue Emotionen darzustellen in dieser Ausstellung,
+801080	809720	mit dem AI-Emoji, den AI-Generated Emojis, die von Fossil Studio mit uns entwickelt wurden und versuchen, mit uns jetzt zu kommunizieren.
+809720	819960	Im Bereich der Politikgesundheit wurden auch schon Beispiele genannt, natürlich die Deepfakes, die sind auch konkrete Anwendungsbeispiele, die uns auch gefährlich werden,
+819960	831480	die Bots, die quasi meinungsbildend einwirken in sozialen Medien, die verwält werden, um verschiedenste Ansichten zu verstärken und zu verbreiten,
+831480	840920	ein Ausmaß, das normale User, menschliche User einzuschreiben würden. Im Gesundheitsbereich natürlich medizinische Einsatzgebiete,
+840920	852680	die wieder leider gekoppelt sind an nationale AI-Strategien, wie beispielsweise in Singapur zur Bekämpfung von Diabetes Typ 2, was ja per se mal positiv klingt,
+852680	859160	man kann das sehr gut mittlerweile erkennen mit Qualitsystemen, andererseits ist man sofort in einem regigen System gekoppelt,
+859160	867640	in dem Gesundheitsdaten gegen einen verwendet werden und man keinen Versicherungsschutz mehr erhält, weil man bereits als gefährdete Person eingestellt wird,
+867640	878920	bis hin zu Spiritualität natürlich, das ist so ein neuartigem Glauben, wo Menschen jetzt anstatt einer höheren Gewalt im Sinne einer kirchlichen,
+878920	888760	gottähnlichen Gestalt jetzt glauben, dass KI uns retten kann, unseren Planeten retten kann, bessere, klügere, weisere Entscheidungen treffen kann als der Mensch,
+888760	899960	und das ist natürlich fragwürdig, weil die Daten, die wir zur Verfügung stellen für diese Lernsysteme, immer noch von einer Geschichte geprägt sind,
+899960	909160	die jenseits von einer sogenannten Gerechtigkeit oder sozialen gleichen Verteilung stattgefunden hat und bis heute natürlich hier problematisch ist,
+909160	915160	wenn wir uns anschauen, dass beispielsweise in der Schweiz das Frauenwahlrecht auch erst vor 30 Jahren implementiert wurde,
+915160	926600	möchte man nicht wissen, welche Daten diese Maschinen eigentlich lernen, welche Relevanz, welche Personen in der Gesellschaft und unserem Zusammenleben einnehmen.
+926600	935160	Das darf man natürlich nicht aus der Augen lassen, wenn man sich anschaut, wie KI-Systeme auf welcher Basis sie Entscheidungen haben.
+935160	945400	Da sprichst du ein ganz wichtiges Thema an, das Thema der Daten, denn zumindest so wie ich das verstanden habe, liefern diese Daten letztlich eigentlich den Rohstoff,
+945400	958360	auf dem sagen, all dieses Lernen ja basiert und entgegen einer so weit verbreiteten Meinung einer scheinbaren Objektivität von Daten ist es keinesfalls so, dass die neutral wären.
+958360	968600	Könnt ihr da vielleicht noch ein bisschen uns das genauer näherbringen, welche Rolle spielen Daten in Bezug auf künstliche Intelligenz und welche Auswirkungen hat das?
+968600	976360	Ja, das ist natürlich klar, die Frage ist immer, neutral kann kaum etwas sein auf der Welt, jede unserer Entscheidungen, auch von uns Menschen,
+976360	984120	ist eigentlich subjektiv von unseren eigenen Zielen und Motivationen geprägt, wenn man sich anschaut, wer stellt diese Daten zur Verfügung und warum,
+984120	994120	kommt man eigentlich sehr schnell drauf, dass es in der Hand von einigen wenigen großen Konzernen ist, die aufgrund vorhandener Ressourcen und finanzieller Mittel jetzt in der Lage sind,
+994120	1004600	etwas weiter zu entwickeln als vielleicht kleinere unabhängige Forschungsinstitutionen, die es aber Gott sei Dank mehr und mehr gibt und da gibt es jetzt diesen netten Begriff King Gaffa,
+1004600	1018600	Google, Amazon, Facebook, Apple, den wir ja wie die Basalen immer noch die anderen darbringen und zwar unbezahlt, dafür diese Systeme nutzen, die uns diese mächtige Instanz zur Verfügung stellt.
+1018600	1028600	Und die Frage ist, mit welchem Ziel werden diese Daten verarbeitet und manchmal werden Ziele vorgeschützt, die haben Muskeln oder im Hintergrund geht es eigentlich,
+1028600	1040600	wie Paul vorhin schon erwähnt hat, warum das Machine Learning betrieben werden kann, mit beispielsweise hunderten, tausenden Profilbildern von Usern auf sozialen Medien zum Beispiel,
+1040600	1050600	an denen Gesichtserkennung, Emotionserkennung etc. betrieben wird, trainiert wird und was mit den Daten weitergemacht wird.
+1050600	1059600	Und da entsteht natürlich auch aufgrund der Sachlage, dass diese ganzen genannten Großkonzerne zwar supranational operieren,
+1059600	1069600	aber eigentlich aus den westlichen, amerikanischen Realms stammen, dass diese Daten nurmals neutral sein können und dass sie auch gar nicht dafür eingesetzt werden,
+1069600	1075600	beispielsweise soziale Ungleichheit zu minimieren, sondern im Gegenteil, diese Clou da noch verdreht.
+1075600	1086600	Also wir sind da glaube ich noch, um das noch zu ergänzen oder noch zu eskalieren, in seiner ganz eigenartigen Produktions- und Verarbeitungs-Kybernetik drin,
+1086600	1096600	die damit zu tun hat, dass einerseits die Produktion dieser Daten eine ist, die völlig anders funktioniert wie noch vor einigen Jahrzehnten oder sogar nur Jahren.
+1096600	1099600	Das lässt sich sehr schön nachvollziehen an Facebook zum Beispiel.
+1099600	1106600	Also sagen wir so, ich glaube Big Data fing an in einem Moment, wenn eine Ressource geschaffen wurde, ohne dass man wusste, was man damit machen soll.
+1106600	1112600	Es war wie Öl finden ohne ein Konzept davon haben, dass man das irgendwie verbrennen kann oder einen Motor bauen kann.
+1112600	1121600	Und das hat dann relativ schnell funktioniert und die Plattformen, die dann entstanden sind, sind tatsächlich vergleichbar Ölplattformen,
+1121600	1128600	die da sozusagen irgendwas geschafft haben anzuzapfen, irgendwelche sentimentalen Sedimente, die in uns dran sind
+1128600	1134600	und diese herauszufunden, indem sie jedem die Möglichkeit geben, da sozusagen zumindest das auszuschütten,
+1134600	1141600	haben das Ganze aber dann so weit schon raffiniert, also es ist so perfekt aufgebaut, dass wir nicht nur die Daten produzieren,
+1141600	1146600	sondern auch schon sozusagen die Raffinerie mitgestalten.
+1146600	1155600	Das war ursprünglich mal nur ein Like, Facebook hat dann angefangen sozusagen diese Emotionen, die man hat zu reagieren, schon zu verfeinern.
+1155600	1162600	Das heißt, wir haben die Daten schon so weit voraufbereitet für die, dass es schon natürlich einiges an Arbeit gestarrt hat,
+1162600	1166600	wie man diese Daten dann weiter zu klassifizieren hat.
+1166600	1172600	Dann hat man eben gesehen im Rahmen des Arabischen Frühlings und der sogenannten Twitter-Revolutionen und so weiter,
+1172600	1180600	da auch der Jump-Fall seit 2016, was für einen massiven Impact das hat und was es für massive Manipulationsmöglichkeiten geben wird.
+1180600	1190600	Und ich glaube, das war ein interessanter Moment für die guten Leute von Twitter, Facebook und Co, die dann da standen und das Gefühl hatten,
+1190600	1197600	Moment, was passiert denn hier eigentlich? Wir haben eigentlich gedacht, wir machen da was relativ harmloses, lustiges,
+1197600	1204600	vielleicht ein bisschen machistisches oder sonst was im Fall von Facebook und plötzlich haben wir so einen globalen Impact
+1204600	1211600	und wir haben irrsinnige Ressource in der Hand. Es gibt diese berühmten Records von Mark Zuckerberg, der ja noch ganz jung ist,
+1211600	1215600	wo er dann sagt, I don't know why people give me this, they're fucking stupid.
+1215600	1220600	Und ich glaube, so funktioniert im Ende diese ganze Industrie. Also da ist was entstanden.
+1220600	1226600	Das heißt, einerseits sind schon die Plattformen, wo das produziert wird, wie diese Algorithmen dort funktionieren,
+1226600	1234600	wie sie sozusagen kompartmentalisieren innerhalb dieser Kulturgruppen und so weiter, bringen eine Bias mit sich,
+1234600	1242600	provozieren und eskalieren bestimmte Biases dann noch weiter, plus dann natürlich die Schritte.
+1242600	1250600	Es gibt nicht irgendwie drohe Daten und dann werden sie irgendwo, kommen sie einer Bias an, sondern wir befinden uns in einem totalen Dickicht von Bias.
+1250600	1259600	Das ist zeitweise schwer nachzuvollziehen. Es gibt da, sozusagen Manifestationen des Ganzen, die relativ auf der Hand liegen.
+1259600	1266600	So was, was wir kennen aus der Presse mittlerweile, wie, keine Ahnung, ein selbstfahrendes Auto erkennt Afroamerikaner nicht
+1266600	1269600	und überfährt ihn deswegen, weil es einfach nicht darauf trainiert ist.
+1269600	1276600	Wir müssen aber, glaube ich, und das wird interessant in den nächsten Jahren, da noch viel, viel feiner werden
+1276600	1283600	in der Erforschung des Ganzen und in der Ausarbeitung des Ganzen, weil wir da, glaube ich, da kommt ein Haufen Scheiße auf uns zu,
+1283600	1290600	ganz salopp gesagt noch. Das wird richtig schlimm. Und da kommen, da sind viele Konsequenzen noch drin,
+1290600	1296600	die wir noch überhaupt nicht abschätzen können. Und das vielleicht, um jetzt den Bogen zurückzumachen zu den Themen,
+1296600	1303600	die wir versucht haben in der Ausstellung anzusprechen und den Künstlern, die wir ausgewählt haben,
+1303600	1309600	das sind so die ersten Schritte zu zeigen, nicht nur was kann künstliche Intelligenz, sondern wie funktioniert es,
+1309600	1317600	was sind die Mechanismen, die dahinter stattfinden, weil das Moment kann so ist, dass wir zwar ein bisschen Angst haben davor,
+1317600	1324600	aber im Endeffekt ist es gerade ein bisschen ein Kuriositätenkabinett. Also die Hälfte davon ist gar nicht echt,
+1324600	1331600	da sitzen irgendwo irgendwelche armen Programmierer und armen Kreuzunternehmer, die das Ganze in Wirklichkeit echt menschlich machen.
+1331600	1338600	Die andere Hälfte ist Brot und Spiele, das spielt dann Go und macht irgendwelche lustigen Sachen und erzeugt irgendwelche funky Bilder
+1338600	1346600	oder kann irgendwelche Musik komponieren. Aber das Ausmaß dessen und die Tatsache, dass das bereits dabei ist,
+1346600	1353600	unsere Zivilisation und zwar überall auf der Welt umzukrempeln, ist noch nicht so richtig angekommen, glaube ich.
+1353600	1357600	Und das wäre interessant, da anzufangen und daran zu arbeiten.
+1357600	1365600	Und um in Bezug auf die Daten noch mal ein bisschen nachzuhaken, es gibt auf der einen Seite so etwas wie eine
+1365600	1374600	in Anführungsstrichen eine Verschmutzung der Daten mit den Biases, die unsere Gesellschaft hat und die sich natürlich
+1374600	1381600	dann in die Daten übertragen. Und das wäre mal ein grundsätzliches Problem, das ihr angesprochen habt.
+1381600	1390600	Und dann darüber hinaus frage ich mich, inwiefern es ein strukturelles Problem gibt, das immer erhalten bleiben wird,
+1390600	1401600	weil quasi ein Übersetzungsproblem besteht. Also weil Daten an sich in Information verwandelt werden und dadurch
+1401600	1407600	eine Auslassung passiert, die auch nicht kaschiert werden kann, die auch nicht überbrückt werden kann,
+1407600	1412600	weil sie auf einer strukturellen Ebene passiert.
+1412600	1420600	Ja, also wie Madis gesagt hat, kann ich noch mal unterstützen, es gibt da keine Neutralität und es gibt keine Rotafen.
+1420600	1428600	Das hat es nie gegeben. Es gibt diese komische Nähe davon, dass Daten in irgendeiner Art und Weise,
+1428600	1435600	dass sie nichts heraus entstehen und dann neutral und pristine und sauber daherkommen
+1435600	1439600	und wir sie dann erst wieder schmutzig machen. Nein, wir haben die Daten gemacht.
+1439600	1446600	Es ist genauso wie Erdöl aus Knochen ist. Alles das trägt bereits eine Geschichte in sich.
+1446600	1452600	Und ab dem Zeitpunkt, wo es entsteht, über den Zeitpunkt, wie es seinen Weg irgendwo hinfindet
+1452600	1457600	und was dann draus gemacht wird, gibt es, das meine ich vor allem, diesen Dickigkeit aus Biases.
+1457600	1462600	Ich würde sagen, in jedem Schritt gibt es Übersetzungen, wie du gesagt hast, Handlungen,
+1462600	1467600	Übertragungshandlungen, dementsprechend überall Interpretationen und Auslegungen,
+1467600	1471600	überall technische Standards vor allem, die damit arbeiten
+1471600	1477600	und überall dementsprechend irgendwelche Unvollständigkeiten, irgendwelche Überbleibsel und Reste,
+1477600	1480600	Verschmutzungen, wie auch immer man das nennen möchte.
+1480600	1488600	Ich finde es ganz gut, Verschmutzungen gefällt mir, dass man sozusagen tainted data hat irgendwie,
+1488600	1492600	weil das tatsächlich der Fall ist. Und ich glaube, wir müssen so darüber nachdenken,
+1492600	1496600	dass es im Prinzip, es ist wie eine ökologische Ressource auch.
+1496600	1501600	Es ist wie ein Wasser oder so und dementsprechend ist es ein Komplex,
+1501600	1506600	ein molekularer Komplex aus verschiedensten Reinheiten und Verunreinigungen,
+1506600	1511600	je nachdem, wo so ein Fluss irgendwie herkommt und wie der hinfließt und wo er durchfließt.
+1511600	1515600	Und der kann schneller sein, langsamer sein. Also ich glaube, man kann sich diese Metaphern
+1515600	1521600	durchaus bedienen, sollte man auch, um eben nicht diesen Unterschied zu machen zwischen
+1521600	1527600	Daten sind irgendwas, was sich in einem rein technischen und dementsprechend irgendwie unnatürlichen Bereich abspielt
+1527600	1532600	und dem natürlichen Bereich, weil das alles hat eine Materialität auch.
+1532600	1541600	Das hinterlässt auch, abgesehen von sozusagen sozialen, kulturellen Spuren, auch tatsächlich ökologische Spuren.
+1541600	1545600	Vielleicht können wir in aller Klarheit noch einmal festhalten, dass wir ausschließlich
+1545600	1550600	patriarchal und kolonial geprägte Daten zur Verfügung haben zum heutigen Zeitpunkt im Jahr 2019.
+1550600	1555600	Nämlich global und das ist eigentlich etwas, dessen sich wenige Menschen bewusst sind.
+1555600	1558600	Und wir immer davon sprechen, wann künstlich-intelligent self-aware wird.
+1558600	1561600	Ich frage mich manchmal, wann wir es endlich werden.
+1561600	1566600	Weil ich glaube, dass immer noch eine umgeblichere Inklarheit darüber besteht,
+1566600	1571600	ja, es hat sich doch schon etwas gebessert und es ist so gewichst, schon anders als in den 60er Jahren.
+1571600	1577600	Achtung, ja, es ist immer noch, wir leben, wir fahren auf den selben Schienen, die da gelegt wurden,
+1577600	1581600	vor hunderten von Jahren und natürlich kann so etwas nicht von heute auf morgen sich ändern.
+1581600	1587600	Und das ist, glaube ich, ein Bewusstsein, dass man sich gerade in unserer Generation vielleicht immer wieder vor Augen führen sollte,
+1587600	1594600	die Anfang 20-jährigen jetzt haben das noch viel mehr im Bewusstsein, finde ich, im täglichen Gebrauch.
+1594600	1598600	Dass man sagt, ja, natürlich dürfen Frauen uns wehren oder verdienen gleich viel,
+1598600	1604600	aber wir leben trotzdem immer noch in materialen Strukturen und Dettos, was das Koloniale betrifft.
+1604600	1609600	Wir haben nicht denselben Respekt für den globalen Süden, den wir vorgeben zu haben.
+1609600	1616600	Und das betrifft sowohl die labor force, die Ressourcen als auch natürlich die Umgang mit Daten.
+1616600	1617600	Absolut.
+1617600	1620600	Die nächste Frage, die ich mir genutiert hätte, wäre gewesen,
+1620600	1623600	wie artikuliert sich das Politische im Feld der künstlichen Intelligenz?
+1623600	1628600	Wir haben da jetzt schon einiges angesprochen, mir fällt aber noch was ein, was mich auch sehr interessiert,
+1628600	1636600	und zwar dann die Verbindung zwischen dem sogenannten Nudging und Formen algorithmischen Regierens.
+1636600	1648600	Also, dass dann Entscheidungsarchitekturen auch durch künstliche Intelligenz unterfüttert uns bestimmte, sagen wir mal, Ratschläge geben,
+1648600	1655600	suggerieren, was die bessere Entscheidung sei und damit ein Möglichkeitenhorizont konstituieren eigentlich.
+1655600	1663600	Und das ist ja auch eine ganz manifeste Art Macht auszuüben, eine algorithmische Form des Regierens.
+1663600	1669600	Könnt ihr vielleicht ein bisschen spezifizieren, wie diese Form von Macht ausgeübt wird, wo und durch wen?
+1669600	1676600	Zuallererst gesagt, das hat es früher auch schon gegeben, dafür braucht man keine künstliche Intelligenz,
+1676600	1682600	sondern einfach nur Medien, und zwar technische Medien genauso wie publizistische Medien,
+1682600	1690600	die Art und Weise, wie Bevölkerungen und Entscheidungen in der Masse sich manifestieren.
+1690600	1694600	Also, es gab keine künstliche Intelligenz und wir hatten trotzdem Nazis.
+1694600	1697600	Jetzt gibt es künstliche Intelligenz und wir haben noch mehr Nazis.
+1697600	1705600	Deswegen, da würde ich mir gerne großen Aufnahmen machen, in dem Sinn, dass es etwas besser macht, eher schlechter vielleicht,
+1705600	1717600	aber mein Point being, glaube ich, das zu sagen, es gibt immer schon eine Art von Kodefinition dessen,
+1717600	1721600	was politische Realitäten sind, wie sie sich entwickeln und wo sie hingehen sollen,
+1721600	1725600	da werden bestimmte Sachen benutzt, wie sich Meinungen bilden und so weiter.
+1725600	1731600	Das ist heute mit Formen von, ich würde nicht sagen künstlichen Intelligenz,
+1731600	1740600	aber maschinell oder algorithmisch begünstigter Meinungsbildung, sicherlich individualisierter.
+1740600	1743600	Das ist, glaube ich, der Punkt, der sich geändert hat.
+1743600	1750600	Das entgegen dieser Aussage von Facebook, that it's connecting people, das genau das Gegenteil macht,
+1750600	1758600	nämlich die Leute sehr, sehr genau zu individuieren, zu vereinzelt und soweit sozusagen einzeln angreifbar und sprechbar zu machen,
+1758600	1763600	als Kunden, als politische Subjekte und so weiter, weil man nicht mehr laut in die Masse hinausschreiben muss,
+1763600	1769600	sondern jeden einzelnen ziemlich genau und ziemlich fein dargelegt auf sein Profil hin,
+1769600	1776600	das sich eben entwickelt hat in kubernetescher Koexistenz, wie wir unsere Profile selber pflegen und natürlich anlegen und sagen,
+1776600	1780600	ich bin genau diese Person, das ist mein individueller Standpunkt,
+1780600	1790600	dementsprechend kann mir dann genau die richtige Empfehlung, egal ob das für einen NP3-PR ist oder für eine Wahlentscheidung, gegeben werden.
+1790600	1794600	Also das hat sich geändert, deswegen nageht mir auch ein interessanter Begriff,
+1794600	1800600	man braucht keinen Fortschritt mehr, um Leute dazu zu bringen, irgendwie eine bestimmte Sache zu wählen,
+1800600	1804600	sondern es reicht, sie ganz leicht in die Rippen zu stoßen, every now and then.
+1804600	1807600	Idealerweise ist es so, dass sie es gar nicht merken.
+1807600	1814600	Aber wie gesagt, so hat Politik und Propaganda und technische Medien immer schon funktioniert.
+1814600	1818600	Ein Schlüsselbegriff, zu dem angesprochen ist, das ist der Begriff des Konsumenten,
+1818600	1823600	und der überspannt jetzt Wirtschaft und Politik gleichermaßen, wie du schon gesagt hast.
+1823600	1830600	Der Konsument konsumiert nicht nur Waren und Daten und Informationen, sondern er konsumiert auch politische Meinungen,
+1830600	1834600	es wird ihm dargereicht, wie das neueste Sonderangebot quasi,
+1834600	1839600	es wird ihm suggeriert, dass die Ware, die er da konsumieren wird oder wählen wird,
+1839600	1843600	das finde ich jetzt mit dem Vokabular austauschbar, sein Leben verbessern wird,
+1843600	1849600	plötzlich ihm das geben wird, ohne dass er sich immer gesehen hat, so wie das Kauf eines neuen Produkts,
+1849600	1854600	und tatsächlich wird dieses Versprechen auch nicht eingelöst, und so funktioniert natürlich Populismus.
+1854600	1860600	Und das spielt mit den Konsumenten, und gerade auf den Online-Medien, sozialen Medien sind vielleicht auch Prosumenten,
+1860600	1865600	die produzieren gleichermaßen den Wahnsinn, der wieder zurückverkauft wird,
+1865600	1869600	verkauft quasi auch gleichermaßen selbst, wir gestalten ihn mit,
+1869600	1875600	und da geht es jetzt wirklich an, vorsichtig zu werden, auch im ökologischen Hinblick,
+1875600	1880600	auf unsere planetarische Gesundheit und den Klimawandel und dessen Auswirkungen,
+1880600	1885600	warum eigentlich müssen wir permanent konsumieren oder prosumieren,
+1885600	1890600	wenn nicht auch eine andere Art von Existenz- und Daseinsberechtigung,
+1890600	1893600	und können uns diese vielleicht wieder mehr widmen,
+1893600	1897600	weil wir jetzt die Kurve vielleicht schon an den Peak-Point erreicht haben,
+1897600	1904600	und es langsam Zeit wird, zurückzukehren auf eine Ebene, die nicht so von Konsum getrieben ist, in jeglicher Ansicht.
+1904600	1906600	Das wäre schön.
+1906600	1908600	Ein herer Wunsch, ich weiß.
+1908600	1911600	Ja, ja, aber eine, wo du ja nicht allein bist.
+1911600	1916600	Was mir noch einfällt, ist natürlich, dass es wahnsinnig spannend ist, jetzt schon,
+1916600	1921600	und immer spannender wird in Zukunft, zu schauen, wie sich überhaupt politische,
+1921600	1925600	und ökonomische, und zivilisatorische Landschaften verschieben,
+1925600	1930600	und auch die Akteure und Agenten darin verschieben, wenn man sich anschaut, was passiert ist.
+1930600	1937600	Nehmen wir Mark Zuckerberg als Beispiel, eine momentan sehr angefährende Deposition und Person,
+1937600	1944600	der ein de facto Staatschef ist, also der hat 2,5 Milliarden, was auch immer.
+1944600	1946600	Wir können nicht genau sagen, was es ist.
+1946600	1950600	Also der Typus, was ein Bürger ist, was ein Konsument ist, was ein User ist,
+1950600	1955600	oder zu welchen Anteilen diese Komponenten jeweils sozusagen uns ausmachen,
+1955600	1960600	verschiebt sich gerade massiv. Wir wissen es gar nicht ganz genau, was los ist.
+1960600	1965600	Es gibt da Entitäten, die agieren, wie mal es vorhin auch schon gesagt wird, supranational,
+1965600	1976600	das heißt die Konzepte von Nationen und so weiter werden sich auch zum Überdenken aufgeben in Zukunft.
+1976600	1981600	Mark Zuckerberg ist nicht zufällig, sage ich jetzt mal, mit einer Chinesin verheiratet
+1981600	1986600	und wird dort empfangen wie ein Staatschef, beziehungsweise bietet,
+1986600	1996600	zum Beispiel aus Facebook heraus entwickelte weaponized Technologien zur Überwachung und Datenauswirkung
+1996600	2001600	an den Chinesen an, weil das riesige Ressourcen sind, die da auf ihn warten.
+2001600	2009600	Und es gab diese mehr, nach der Trump-Wahl, kurze Zeit ging das Gerücht um,
+2009600	2014600	dass Zuckerberg sich interessieren würde vielleicht zu kandidieren 2020 für eine Wahl,
+2014600	2021600	weil er einen Move gemacht hat, der der klassische Move ist für früher Präsidentschaftskandidaten,
+2021600	2027600	nämlich alle Staaten, alle Bundesstaaten in Amerika besuchen und dort so Town Hall Meetings zu machen.
+2027600	2035600	Also was ich sagen wollte, ist, dass, glaube ich, deine interessante Generation gerade sehr viel Macht
+2035600	2040600	in die Hand bekommt, wo sie zeitweise noch nicht genau wissen, was sie damit tun.
+2040600	2045600	Ich glaube nicht, dass Leute wie Mark Zuckerberg und so weiter gerade großes Interesse haben,
+2045600	2051600	direkt in die Politik zu gehen, sondern eher dabei zuschauen gerade so ein bisschen in Ord vielleicht,
+2051600	2056600	hoffentlich, was wiederum die Technologien, die sie in die Welt gebracht haben,
+2056600	2061600	da gerade für Schaden anrichten oder für Auswirkungen haben.
+2061600	2067600	Im weiteren Verlauf über die nächsten Jahrzehnte wären die sicherlich aber interessant.
+2067600	2071600	Also ich glaube, diese Generationen, die alle jetzt zwischen 30 und 40 sind,
+2071600	2077600	die eben unsere nächsten paar Jahrzehnte bestimmen werden, die muss man sich genau anschauen.
+2077600	2082600	Da waren halt einerseits junge Populisten wie Sebastian Kurz hier
+2082600	2087600	und andererseits Leute wie Zuckerberg auf der anderen Seite.
+2087600	2094600	Und irgendwie ist es massiv, was da gerade passiert, aber zeitweise noch irgendwie hat man das Gefühl,
+2094600	2098600	dass da doch schwer abschätzbare Folgen wieder bei rauskommen.
+2098600	2105600	Und das heißt, neben der ganzen Frage, was eine abstrakte Entität wie KI, die es jetzt in dem Sinn ja noch
+2105600	2111600	nicht so gibt, in der Art und Weise, dann vielleicht möglicherweise die Welt beherrscht,
+2111600	2116600	ich glaube, das müssen wir dann schon wie verschiedene künstliche Intelligenzen im Zusammenspiel mit
+2116600	2122600	den Leuten, die sie implementieren und die sie nutzen, dann also wie diese Interaktionen aussehen können,
+2122600	2129600	das wird interessant sein zu beachten. Nicht so sehr obiz-pestig, also die Angst vor der Singularität
+2129600	2137600	in irgendeiner Form von Skynet-Terminator-Szenario ist, glaube ich, eher unnötig.
+2137600	2144600	Können wir das vielleicht noch ein bisschen genauer skizzieren, welche Möglichkeiten des politischen
+2144600	2150600	sich da auftun, also im Guten wie im Schlechten, also das, denn die Gefahren haben wir jetzt schon
+2150600	2156600	einigermaßen skizziert, vielleicht noch nicht ganz in Bezug auf die Zukunftsszenarien, aber was kann man denn
+2156600	2163600	für politische Möglichkeiten skizzieren, zukünftige, die man vielleicht begrüßenswerter fände.
+2163600	2168600	Mir fällt da zum Beispiel ein Artikel ein, der vor kurzem erschienen ist von Evgeny Mosorov,
+2168600	2174600	der ist betitelt Digital Socialism und da ist dann eine Headline zum Beispiel
+2174600	2179600	Socialize the Means of Feedback Production, wo quasi anerkannt wird, es gibt diese Machteffekte,
+2179600	2185600	die auch auf Daten basieren, aber wir würden gut daran tun, die sagen, in anderen Händen,
+2185600	2193600	vielleicht in Form von Open AI oder Open Data oder als Commons organisiert, quasi anders zu nutzen.
+2196600	2201600	Es gibt irrsinnig viele Bereiche, also ich glaube, es trifft auf alle Bereiche zu und es wird sich
+2201600	2208600	überall irgendwie äußern, es gibt wahnsinnige Potenziale dafür, was sich politisch umsetzen ließe
+2208600	2216600	mit KI, also es gibt, denke ich, allein was Bürokratie und Verwaltung angeht, also oftmals
+2216600	2223600	gerne eher weniger betrachtete Aspekte von Politik und Alltagsinteraktion mit Politik angeht,
+2223600	2230600	denke ich, da wird sich sehr, sehr viel tun und it's gonna be boring as hell, aber es gibt
+2230600	2235600	jetzt schon genug algorithmisierte Systeme, die beispielsweise, keine Ahnung,
+2235600	2240600	sich mit Strafzetteln auseinandersetzen oder sonst was und auf diesem Gebiet wird man
+2240600	2246600	dann auch noch lernen müssen, damit umzugehen, was da passiert, wenn einfach, sozusagen,
+2246600	2252600	Massen von Interaktionen, die natürlich einfach Effekte haben, die dann, also sowohl direkte
+2252600	2260600	als auch Ripple-Effekte in dem weiteren politischen Apparat, der ein großer Komplexer ist,
+2260600	2266600	passieren wird, dann wird die Frage sein, wie immer bei solchen Sachen, kui bono,
+2266600	2273600	also wem geben wir welche Handlungsspielräume und Instrumente in die Hand, um irgendwas damit
+2273600	2279600	zu machen, wie nehmen wir als Zivilgesellschaft an solchen Entscheidungsprozessen teil, es gibt
+2279600	2286600	jetzt schon, äußerst ist es sozusagen höchste Eisenbahn, dass man als politisches Subjekt und
+2286600	2290600	als Zivilgesellschaft sich bei Wahlen und so weiter auch dahingehend orientiert, was
+2290600	2295600	für Digitalprogramme die jeweiligen Regierungen fahren. Hier in Österreich wurde eins
+2295600	2302600	implementiert von der letzten Regierung, dass an, sozusagen, Macht- und Kontrollausübung
+2302600	2309600	Großbritannien und den USA in nichts nachsteht, aber es schaut keiner hin, weil wir immer
+2309600	2313600	noch das Gefühl haben, das geht uns nichts an und Politik und Technologie haben irgendwie
+2313600	2318600	nichts miteinander zu tun. Das ändert sich gerade langsam, graduell, da gab es dann eben
+2318600	2324600	Skandale mit Cambridge Analytica und so weiter und so fort, aber das ist, glaube ich, die
+2324600	2331600	Hauptaufgabe, die uns da bevorstellt ist, also Bildung im Allgemeinen sowieso, um ein
+2331600	2336600	Bewusstsein zu schaffen dafür, wie, zumindest dass es Mechanismen gibt, man muss nämlich
+2336600	2340600	jeden Mechanismus auch an Detail verstehen, aber den meisten Leuten ist nicht mal klar,
+2340600	2346600	oder uns als Gesellschaft, dass bestimmte Sachen überhaupt passieren. Also da ist Transparenz
+2346600	2353600	gefragt und zwar nicht Transparenz mit dem Vektor, dass sozusagen aus Regierung und Industrie
+2353600	2357600	die Gesellschaft transparent wird, sondern umgekehrt, dass für die Gesellschaft Regierungen
+2357600	2361600	und Industrien transparent werden und dann im weiteren Sinne ganz konkret politische
+2361600	2368600	Bildung und die Tatsache, dass das dann, also ich freue mich auf die ersten wirklichen
+2368600	2375600	Politiker und Parteien, die mit dem Ganzen ernsthaft umgehen und anfangen, an Gesellschaften
+2375600	2382600	und Regierungsmodellen zu basteln, die das ernsthaft in Betracht ziehen, was da angeht,
+2382600	2389600	weil das ist bis jetzt höchstens als wirtschaftlicher Faktor interessant, dass dann eine neoliberale
+2389600	2397600	Politik begünstigt wird, aber im Hinblick darauf, was es mit unserem ganz normalen alltäglichen
+2397600	2405600	Leben tut, bis hin zu mit unseren Seelen im weitesten Sinne, also was es an psychischen
+2405600	2411600	Erscheinungen auch mit sich bringt für eine kulturelle Seele, wie auch für die Individuen,
+2411600	2416600	wie das die Leute fertig macht. Niemand denkt darüber nach, was es jetzt an Mental Health
+2416600	2424600	Statistiken gibt, die ganz eindeutig belegen, wie krank viele dieser Plattformen und Technologien
+2424600	2432600	machen, wie sehr sie ausbreiten und so weiter. Und das sind langsam so Realitäten, die ein
+2432600	2436600	bisschen bewusst werden und wo man, glaube ich, sozusagen, wo jeder eine Verantwortung
+2436600	2443600	hat, daran mitzuarbeiten, diese Sachen klarer herauszuarbeiten und herauszufinden, was zu
+2443600	2449600	tun ist, jeder für sich. Und die Ausstellung, die wir gemacht haben, ist, also ohne jetzt,
+2449600	2457600	wir haben keine Lösungsansätze, aber es war zumindest der Versuch zu sagen, das ist der
+2457600	2462600	klarste Blick, den wir gerade in der Lage sind, auf diese Situation zu werfen, mit den
+2462600	2469600	Mitteln, die wir haben, als Wissenschaftler, Kurator und Künstler, als Institution, wie
+2469600	2473600	das Museum, und zu sagen, this is what we have.
+2473600	2479600	Ich glaube, um auf die Frage auch noch einzugehen an der Wirtschaft und der Commons, wem gehört
+2479600	2484600	Technologie, wem gehören Entscheidungsprozesse, da ist wirklich ein Umdenken gefragt, um nochmal
+2484600	2490600	zurückzukommen auf den Begriff des Konsumenten. Momentan bestehen ja politische Programme
+2490600	2495600	vorwiegend darin, uns zu suggerieren, das Wichtigste sei es, dem Staatshaushalt die Kasse
+2495600	2503600	auf Null zu bringen, einzusparen, Steuern zu sparen, neue Arbeitsplätze zu schaffen,
+2503600	2507600	niemand hinterfragt aber, ob das System nicht per se krank ist, und da wird uns auch künstliche
+2507600	2511600	Intelligenz per se nicht helfen können dabei, solange die Frage nicht geklärt ist, was
+2511600	2518600	wir als Commons bezeichnen, solange es Diskussionen darüber gibt, Trinkwasser zu privatisieren,
+2518600	2526600	Fernsehstationen etc., sämtliche staatlich organisierten Strukturen eigentlich, ist das
+2526600	2531600	ein großes Problem, und da ist die Frage auch der Technologie selber, in welchen Hand
+2531600	2536600	ist das eben, ist es wirklich sinnvoll eine nationale AI-Strategie zu haben, wie das ja
+2536600	2543600	viele Länder schon vorlegen, wie das auch Österreich eben anstrebt, oder ist es sinnvoll,
+2543600	2547600	das supranational zu lösen, ist es dann aber wieder sinnvoll, dass es in der Hand von Konzernen
+2547600	2554600	ist, die wieder sich aus dem Wirtschaftssystem in einer Weise herausnehmen, wir sind ja supranational,
+2554600	2558600	wir zahlen keine Steuern auf dem Grund und Boden, auf dem wir Ressourcen und Arbeitskraft
+2558600	2563600	nutzen, wir machen aber Einnahmen, die wir dann aber nicht der Allgemeinheit zugutestellen,
+2563600	2569600	die Frage ist, sollte Facebook ein Commons sein zum Beispiel, sollte man da als Mr.
+2569600	2575600	Zuckerberg mal sagen, ich habe das gegründet und jetzt gebe ich es quasi in die Hand einer
+2575600	2582600	zentralisierten Gemeinschaft, die es vielleicht anstatt monopolisiert gemeinsam regiert, ist
+2582600	2587600	das überhaupt möglich, sind wir überhaupt in der Lage dazu eine wirkliche Demokratie
+2587600	2592600	oder Gemeinschaft zu sein, die auf Basis von Commons und Commoning zusammenlebt, oder sind
+2592600	2597600	wir über die Jahrhunderte zu sehr geprägt von Besitzdenken und es sind meine Daten,
+2597600	2602600	meine Waren, meine Information, mein Geld, mein Wirtschaftsstandort, oder ist es tatsächlich
+2602600	2607600	möglich, dass wir jetzt auch dank diesen Technologien und dank der Erkenntnis, die wir aus diesen
+2607600	2612600	Daten, die wir jetzt zuhauf auch analysieren können endlich, vielleicht einmal Schlüsse
+2612600	2615600	ziehen, die wir zum größeren Wohl verwenden?
+2615600	2623600	Ja, die Frage ist wirklich, ob wir, vielleicht liegt es einfach an uns, vielleicht liegt
+2623600	2628600	es einfach an, das ist immer dieses Ding, das jetzt, also in einer Technologie, die
+2628600	2635600	wir sozusagen, in die wir so eine Größe hineinprojizieren und die wir gerade so hochskalieren,
+2635600	2641600	da wir es hineinprojizieren, dass es eine Anwesenheit vielleicht gegen uns oder für
+2641600	2646600	uns tut, in Wirklichkeit aber müssen wir uns vielleicht eben auch damit anfreunden und
+2646600	2653600	dann anfangen, auf der Basis zu arbeiten, dass wir Arschlöcher sind und dass keine
+2653600	2655600	Technologie das richten wird.
+2655600	2666600	Da sind wir, finde ich, an einem interessanten Punkt angekommen und auf eine Art schlägt
+2666600	2674600	das den Bogen zu einem Thema, was du am Anfang angesprochen hattest, Paul, und was ich überlegt
+2674600	2677600	hatte, ob ich es noch ansprechen soll oder nicht, aber nachdem du es quasi aufgebracht
+2677600	2682600	hast, spreche ich es jetzt an, du hast es, glaube ich, als eine der, eine neue kopernikanische
+2682600	2686600	Kränkungen angesprochen und ich finde, es steht auch im Zusammenhang zu dem, was du
+2686600	2689600	angesprochen hast, Marlis, nämlich in Bezug auf die Systemfrage.
+2689600	2694600	Ich persönlich glaube, die Systemfrage muss in aller Behemenz gestellt werden und diskutiert
+2694600	2699600	werden, weil es so eine Art von Asynchronität gibt, in der wir auf der einen Seite so Strukturen
+2699600	2705600	haben, die einfach in keiner Form mehr zeitgemäß sind und gleichzeitig aber regiert werden
+2705600	2712600	durch Methoden, die schon ganz selbstverständlich von anderen Prämissen ausgehen, sage ich
+2712600	2713600	mal.
+2713600	2714600	Fange ich vorne an.
+2714600	2718600	Welche Einsichten ergeben sich aus den Entwicklungen innerhalb des Feldes der künstlichen Intelligenz
+2718600	2721600	in Bezug auf das Konzept des freien Willens?
+2721600	2724600	Gute Frage.
+2724600	2731600	Ist eine Frage, die sich jetzt gerade wieder massiv stellt darin, wo sich aber wahnsinnig
+2731600	2739600	eine historische und medienhistorische und kulturhistorische Entwicklung nachvollziehen
+2739600	2744600	lässt, die was damit zu tun hat, die im Prinzip losgeht und das haben wir in der Ausstellung
+2744600	2748600	versucht auch ein bisschen zu zeigen in seiner Art Genealogie, die wir sources and devices
+2748600	2756600	genannt haben, der Mediengeschichte der künstlichen Intelligenz, die davon ausgeht, dass zu sagen,
+2756600	2763600	erstens ab dem Zeitpunkt, wo wir anfangen, irgendwie irgendwelche Formen von externen
+2763600	2769600	Agenten, kleine Mediensteinchen oder sonst was zu benutzen, um zu denken, als Hilfsmittel
+2769600	2772600	eigentlich schon von künstlicher Intelligenz gesprochen werden könnte.
+2772600	2783600	Andererseits etwas im Zentrum steht von irgendwie jedem menschlichen Unterfangen zu einer Entwicklung,
+2783600	2788600	was sich kaum geändert hat über die Jahrtausende, nämlich die Zukunft.
+2788600	2794600	Es geht uns immer darum, voraus zu sagen, was passiert und wie wir das machen, daran
+2794600	2798600	entwickeln sich unsere Techniken und dementsprechend da entsteht auch eine Feedback-Steife mit
+2798600	2801600	dem freien Willen, das heißt zuallererst machen wir Orakel.
+2801600	2807600	Wir sehen, dass es gibt irgendwelche Sachen passieren, wir versuchen Sinn daraus zu machen
+2807600	2811600	und versuchen uns zu erklären, warum das passiert und erfinden aber kargokultartig
+2811600	2814600	irgendeine Technik, die dafür vielleicht gar nichts zu tun hat.
+2814600	2821600	Also ich lese im Kaffeesatz oder in den Eingeweiden von Tieren oder so und sage, deswegen wird
+2821600	2822600	das Wetter morgen schlecht.
+2822600	2828600	Danach entstehen die ersten Formen von Pattern Recognition und die ersten Modelle, die das
+2828600	2834600	Ganze mathematisch zum Beispiel oder geometrisch besser abbilden können, das heißt die Naturbeschau
+2834600	2838600	funktioniert so, dass ich sage, ich erkenne, Sonne geht auf, Sonne geht unter, Sternbilder
+2838600	2845600	wiederholen sich, Ebbe und Flut und so weiter und daraus entwickeln sich erste Instrumente
+2845600	2848600	dafür, wie zum Beispiel Alphabete und Zahlensysteme.
+2848600	2852600	Daraus entwickelt sich der Grundgedanke der Permutation, dass ich sage, ich habe ohne
+2852600	2856600	endlich viele Zustände irgendwo, ich kann sie aber mit endlichen Mitteln darstellen
+2856600	2859600	und dementsprechend einfangen.
+2859600	2866600	Als nächstes entsteht daraus zum ersten Mal wirklich eine mathematische Technik der
+2866600	2871600	Vorhersage, das ist im 17. Jahrhundert erst, also noch gar nicht lange her im Vergleich
+2871600	2877600	zu dem, was davor passiert ist, in zwei, drei, viertausend Jahren in Form der Infinitisimalrechnung
+2877600	2879600	von Leibniz oder auch von Newton.
+2879600	2883600	Das heißt, da hat man zum ersten Mal eine mathematische Technik entwickelt, basierend
+2883600	2888600	auf der vorhergegangenen, mit der es möglich ist, tatsächlich in die Zukunft zu schauen,
+2888600	2894600	hätte man vorausgesetzt, man hätte Rechengeschwindigkeiten, die schneller sind als unser eigenes Gehirn.
+2894600	2896600	Das gibt es zu der Zeit natürlich auch noch nicht.
+2896600	2902600	Leibniz wünscht sich famously ein Heer von Mathematikern und baut ja dann erste Rechenmaschinen,
+2902600	2907600	die aber natürlich noch keine Differenzialgleichungen können, sondern nur für Speziesrechnungen.
+2907600	2914600	Und macht aber entwickelt plötzlich etwas, was in der Lage ist, den Flux der Natur einzufangen
+2914600	2917600	und aber auch vorauszusagen, was passieren wird.
+2917600	2920600	Und das ganze Dispositiv der Berechenbarkeit.
+2920600	2924600	Und damit zum ersten Mal auch der Idee des freien Willens kommt heraus, weil er sagt,
+2924600	2926600	es kann sowas eigentlich gar nicht geben.
+2926600	2930600	Wenn ich genug Parameter habe und die richtigen Methoden habe, kann ich aus einem vergangenen
+2930600	2934600	und einem Ist-Zustand immer die Zukunft vorher berechnen.
+2934600	2941600	Leibniz täten das aus auf die Diplomatie und sagt, wenn sich zwei streiten, kann man hingehen
+2941600	2946600	und sagen, meine Herren, es muss überhaupt keinen Streit gehen, Kalkulemos rechnen wir.
+2946600	2953600	Und das ist eine der sozusagen Urszenen einer Kultur, die sich bis heute auch weiterhin vorzieht.
+2953600	2960600	Weil nichts anderes tun diese Maschinen die ganze Zeit, als bestimmte Zustände auf einer bestimmten Datenbasis
+2960600	2965600	und Methodenbasis zu analysieren und zu entscheiden, was passiert als nächstes.
+2965600	2968600	Der Unterschied ist, dass ich im Englischen kann man das schön machen.
+2968600	2973600	Was sich da getan hat, ist, dass es nicht mehr um Prediction geht, sondern um Production.
+2973600	2976600	Also was sich verschoben hat, ist, dass wir nicht mehr nur davon sprechen,
+2976600	2982600	dass wir finally in der Lage sind, Zukunft vorherzusagen, was wichtig ist in jederlei Hinsicht
+2982600	2986600	für Klimaentwicklungen, Wetter und so weiter.
+2986600	2989600	Und eben immer schon kulturgeschichtlich wichtig war für jede Zivilisation.
+2989600	2994600	Es ist wichtig zu überlegen, wie das Wetter wird, weil sonst geht einfach mal die Ernte kaputt.
+2994600	3000600	Also es geht hier nicht darum, den Oracle nur zu machen, sondern das ganz handfeste pragmatische Gründe.
+3000600	3006600	Was sich verschoben hat in dem Zeitpunkt, wo die Rechenkapazität die Methoden überholt hat,
+3006600	3009600	also wo es tatsächlich das, was Leibniz sich gewünscht hat,
+3009600	3014600	nämlich ich führte ganz viele Parameter, ganz viel Daten irgendwo rein
+3014600	3017600	und mit diesen relativ einfachen Methoden bin ich dann in der Lage,
+3017600	3022600	einfach wirklich Jahre oder Jahrhunderte in die Zukunft zu rechnen,
+3022600	3028600	ist, dass wir aus der Vorhersage zur Herstellung von Wirklichkeiten gewechselt haben.
+3028600	3033600	Das Beispiel, das ich dabei am schönsten finde und wo sich ein Wendepunkt ergeben hat,
+3033600	3037600	ich habe leider vergessen welches Jahr das war, als der isländische Vulkan ausgebrochen ist
+3037600	3046600	und den ich nicht aussprechen kann, der dafür gesorgt hat, dass der Flugverkehr global auf dem Boden blieb.
+3046600	3049600	Wegen besagter Aschewolke, die da da war.
+3049600	3053600	Diese Aschewolke gab es nur als Berechnung erst mal.
+3053600	3058600	Das heißt, es wurde basierend auf einem Komplex von Berechnungsmodellen,
+3058600	3062600	zuerst über die Ausbreitung dieser Aschewolke,
+3062600	3068600	anhand allmöglicher Geodaten und Klimadaten und Winddaten und so weiter berechnet,
+3068600	3072600	wie groß ist sie, wie ist sie beschaffen, wo breitet sie sich wahrscheinlich aus,
+3072600	3077600	weiterhin angeschlossen an den Komplex von Versicherungen und so weiter,
+3077600	3082600	die überlegt haben, wie viel würde uns das theoretisch kosten, das alles auf dem Boden zu behalten,
+3082600	3086600	wie viel würde es uns kosten, wenn jetzt sieben Flugzeuge tatsächlich abstürzen,
+3086600	3094600	deswegen bis hin zu dem Individuum und dem Todesfall eines einzelnen Fluggasses.
+3094600	3098600	Und dann beschlossen wurde, das ist die Entscheidung,
+3098600	3104600	da wurde eine globale Wirklichkeit kreiert, basierend rein auf einer Berechnung,
+3104600	3109600	nicht auf einer Evidenz, die einzige Evidenz war, dass klar war, dieser Vulkan ist tatsächlich ausgebrochen,
+3109600	3117600	aber die Entscheidung ist getroffen, die tatsächliche Messung der Aschepartikel in der Luft hat erst nach der Stadt gefunden.
+3117600	3124600	Das scheint mir als zumindest eine Instanz eines Wendepunkts dessen, was das angeht, ganz wichtig
+3124600	3129600	und daran, finde ich, lässt sich auch schön nachvollziehen, was es mit freiem Willen auf sich hat.
+3129600	3137600	Ich denke, was uns menschlich macht, ist, dass wir glauben, dass wir freien Willen haben.
+3137600	3142600	Ich glaube sehr stark an die Kontingenz und die Unvollständigkeit
+3142600	3147600	und nicht komplette Nachvollziehbarkeit aller Prozesse.
+3147600	3154600	Ich glaube aber, dass das freie Wille oder nicht freie Wille keine binäre Frage ist,
+3154600	3157600	sondern eher die Frage ist, wie viel freier Wille.
+3157600	3162600	Das heißt, es gibt sicherlich irgendwo was, wo wir als menschliche Akteure
+3162600	3169600	und alles, was uns ergibt als lakanianisches Reales, genug Rauschen erzeugt.
+3169600	3174600	Dieses Rauschen ist dann der freie Wille, wo irgendwas passieren kann,
+3174600	3177600	wo ich vielleicht denke, ich kann eine Entscheidung mit treffen.
+3177600	3183600	Aber die ganzen anderen Parameter, die da reinfließen,
+3183600	3186600	alle Entscheidungen, die dem Ganzen vorhergegangen sind,
+3186600	3192600	und alle jedes halbe Grad im Temperaturunterschied draußen,
+3192600	3194600	wird irgendwie einen Einfluss darauf haben, was passiert.
+3194600	3200600	Ich glaube auch, dass wir natürlich nicht alleine entscheiden, frei oder nicht frei.
+3200600	3206600	Wir sind ja umgeben von Wesenheiten, von Dingen, von zunehmend auch smarten, intelligenten Dingen.
+3206600	3211600	Aber auch in der Vergangenheit ist der Einfluss darauf, welchen Weg ich einschlage,
+3211600	3215600	auch schon als Teilzeitmensch, mag vielleicht inspiriert sein, nicht durch freien Willen,
+3215600	3220600	sondern ich sehe in der Ferne etwas, was mich interessiert, uns gehe den anderen Weg.
+3220600	3222600	Und das zeichnet uns ja auch aus.
+3222600	3226600	Also ich würde mir sagen, der Begriff der Vorstellungskraft oder auch Kreativität
+3226600	3230600	ist ja auch noch etwas, was uns Menschen momentan mal,
+3230600	3234600	was wir gerne als Alleinstellungsmerkmal für uns beanspruchen, sagen wir mal so.
+3234600	3236600	Wir sagen, was machen wir damit?
+3236600	3240600	Und wir haben das Potenzial, uns etwas vorzustellen und es manchmal auch zu erreichen.
+3240600	3244600	Und diese Entscheidungsprozesse, wie wäre es, man stellt sich vor,
+3244600	3247600	ich könnte das Feuer nicht nur dann haben, wenn der Blitz einschlägt,
+3247600	3250600	sondern ich könnte es selbst erzeugen.
+3250600	3253600	Oder ich könnte nicht nur einen guten Stein finden,
+3253600	3257600	sondern ich könnte mir selbst ein Werkzeug erschaffen.
+3257600	3263600	Also diese Idee der Einflussnahme ergibt sich auch manchmal durch Zufälle, denke ich,
+3263600	3267600	und durch diese Umwege, oder wie du sagst, die die Kontingenz macht.
+3267600	3269600	Na ja, aber es ist eine Herstellung von Wirklichkeit.
+3269600	3271600	Natürlich, eine Herstellung von Wirklichkeit.
+3271600	3276600	Exactly, that's what we do. Und natürlich haben wir uns auch die künstliche Intelligenz hergeträumt
+3276600	3283600	und jetzt erforschen wir ein Spiel, kommt mir immer so vor ein bisschen noch damit, was eigentlich passiert.
+3283600	3287600	Und die Vorstellungskraft reicht im Moment zumindest bei mir
+3287600	3290600	und vielen Menschen nicht aus, uns vorzustellen, was da noch kommen kann.
+3290600	3296600	Also dass man sagt, es gibt dann diese ganze Science-Fiction-Idee der Singularity oder so.
+3296600	3299600	Aber eigentlich kann es ja auch in eine ganz andere Richtung gehen.
+3299600	3305600	Also das fände ich ja spannender, wenn diese Art Prognosen, die da getätigt wurden,
+3305600	3310600	über mehrere Jahrzehnte eigentlich nicht eintreffen, sondern etwas ganz anderes passiert.
+3310600	3314600	Vielleicht abschließend wenden wir uns ganz konkret der Frage der Zukunft zu.
+3314600	3319600	Es wurde ja schon angesprochen, eben Werkzeuge haben schon immer auch daran gearbeitet,
+3319600	3324600	sagen Wirklichkeit herzustellen. Ihr sprecht es in der Ausstellung an.
+3324600	3330600	Vielleicht lese ich einfach mal kurz das Zitat vor, denn es ergänzt sich mit einem anderen kurzen Zitat, das ich gefunden habe.
+3330600	3335600	Ihr schreibt in der Ausstellung, durch die Erkennung von Sprache und Bildern, die Verarbeitung von Daten
+3335600	3339600	und die algorithmische Analyse von Verhaltensmustern durch künstliche Intelligenz
+3339600	3345600	rückt die Bestimmung einer Zukunft in den Fokus, die nicht mehr vorhergesagt, sondern hergestellt wird.
+3345600	3351600	Und dem mag ich jetzt was beistehen, was ich vor kurzem gelesen habe in einem Interview mit Antoinette Rouvois.
+3351600	3356600	Und die hat gesagt, wer den Raum der Potentialität beherrscht, wird der Herrscher der Welt.
+3356600	3362600	Das heißt, wir sind wieder angekommen bei der Frage der Machtkonfiguration.
+3362600	3371600	Aber in Bezug auf die Frage, inwiefern diese technologischen Möglichkeiten dazu beitragen,
+3371600	3380600	eine Bandbreite von Zukunft eigentlich viel mehr zu verengen, als dass sie die erweitern, wie es oft postuliert wird.
+3380600	3383600	Wahrscheinlich ist beides möglich, aber…
+3383600	3389600	Also total gut, ich muss dem Ganzen noch ein Zitat folgen lassen, nämlich von Carl Schmid.
+3389600	3392600	Souveränes wäre, wer über den Ausnahmezustand entscheidet.
+3392600	3400600	Agamben hat das in seinem Buch Homo Saka auf die Biopolitik bezogen und über die Entscheidung auf Leben und Tod.
+3400600	3406600	Ich glaube, wir sollten es aussehen, eben sie sehen es den Raum der Potentialität, nennen wir es Fiktion.
+3406600	3411600	Souveränes wäre, wer über die Fiktion entscheidet und wie die funktioniert.
+3411600	3417600	Und ich denke, dass wir da sozusagen in diesen Bereich angekommen sind, wo natürlich all diese verschiedenen Politiken,
+3417600	3423600	die Potentialität der Politik, die Biopolitik, die Geopolitik oder die Fiktiopolitik,
+3423600	3432600	sozusagen die Auslegungshoheit und Produktionshoheit darüber, was Wirklichkeit ist und was nicht,
+3432600	3438600	im Zeitalter von Deepfakes und Zeitalter heißt in dem Fall ein paar Wochen.
+3438600	3445600	Eine ist die, die tatsächlich darüber entscheidet, wem die Zukunft gehört gerade.
+3445600	3454600	Wir sind absolut on Topic zum Subtitel des Podcasts, der Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+3454600	3461600	Wenn ich das richtig verstehe, Paul, plädierst du also auch, dass Sie sich mehr mit Narrativen von Zukunft auseinanderzusetzen
+3461600	3464600	als Formen des Politischen?
+3464600	3470600	Ja, mit Narrativen von Zukunft, aber eben vor allem auch mit den Mechanismen und Infrastrukturen,
+3470600	3473600	auf denen diese Narrative produziert werden.
+3473600	3478600	Also ich glaube, es ist wichtig, sich nicht nur anzuschauen, wer macht die Geschichten, wie schauen die Geschichten aus,
+3478600	3483600	sondern unter was für Bedingungen und zwar in jeder Hinsicht.
+3483600	3488600	Also politische Bedingungen, technologische Bedingungen, ökologische Bedingungen passieren
+3488600	3495600	und werden diese Narrative geschrieben. Wer sind die Autoren, die in der Regel eben nicht nur, wie Malis auch mehrfach schon gesagt hat,
+3495600	3501600	vorhin nur Menschen sind, sondern das Schreibwerkzeug schreibt dann den Gedanken mit.
+3501600	3508600	So ist das immer schon gewesen. Und lustigerweise umso mehr Schreibwerkzeug wir haben, und es wird immer mehr,
+3508600	3514600	umso weniger scheint uns das bewusst zu sein, dass diese Technologien, die wir hier rund um uns herum haben,
+3514600	3518600	das ist irgendwie geschickt gemacht worden. Ich weiß nicht, wer das gemacht hat,
+3518600	3523600	ob die Technologien das selber gemacht haben, dass sie sich immer unsichtbarer machen.
+3523600	3529600	Und dass man immer mehr das Gefühl hat, wir werden immer menschlicher, umso technologischer wir werden.
+3529600	3536600	Das ist ein ganz komischer Move, der da passiert. Und ich glaube, das ist die große Aufgabe,
+3536600	3545600	ist ein bisschen dem einen Widerstand entgegenzusetzen und weiterhin daran zu arbeiten, dass sichtbar wird und bleibt,
+3545600	3551600	wie die Sachen funktionieren. Also den Blick hinter den Vorhang werfen und zu merken,
+3551600	3556600	dass Wizard of Oz in Wirklichkeit einfach ein Medienkünstler ist.
+3556600	3563600	Wunderbar. Ich frage zum Abschluss immer noch, wenn ihr euch Zukunft vorstellt, was stimmt euch freudig?
+3563600	3567600	Mein Urlaub.
+3567600	3570600	Marlies, Paul, vielen Dank für das Gespräch.
+3570600	3571600	Vielen Dank.
+3577600	3581600	Das war Future Histories für heute. Vielen Dank fürs Zuhören.
+3581600	3586600	Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+3586600	3591600	Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder auf Reddit.
+3591600	3595600	Lasst mich wissen, was ihr zu dem Ganzen denkt und wie euch diese Folge hier gefallen hat.
+3595600	3600600	Unbedingt gut bewerten auf allen Podcast-Plattformen, die ihr nutzt.
+3600600	3606600	Für unsere Patreon-Unterstützerinnen und Unterstützer gibt es auf www.patreon.com-futurehistories
+3606600	3612600	vieles an Zusatzmaterial. Ich lese zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt.
+3612600	3621600	Da könnt ihr also auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.

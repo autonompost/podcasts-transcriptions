@@ -1,0 +1,680 @@
+It is absolutely incredible that economic concepts and tool sets are being implemented
+deeply into computational processes and into network security processes.
+I think this is actually quite a big deal, intellectually, technically, philosophically.
+It is quite a big deal.
+I first realized this when I went to a Bitcoin conference a while back and it was really
+interesting.
+I was like, wow, it's basically cryptographers that are discussing economics.
+Cryptographers discussing economics.
+That's a perfect start for today's episode.
+Welcome everybody to Future Histories.
+My name is Jan Groß and my guest today is Dr. Jaya Clara Brecke and we will be talking
+about blockchain technology in relation to the question of the political.
+You can find Jaya's dissertation on a website at distributingchains.info.
+It is titled Disassembling the Trust Machine, Three Cuts on the Political Matter of Blockchain.
+And if you want to know more about the podcast, please visit futurehistories.today.
+Most of the episodes will be in German, but once in a while I'll do an interview in English,
+especially if it allows me to talk to people like Jaya, whose work I highly recommend to
+everybody interested in the field.
+Check out Future Histories on Twitter and Reddit and let me know what you think about
+the show or write me an email to future underscore histories at protonmail.com.
+You can support the show on Patreon.
+For this go to patreon.com slash future histories.
+But now enough promo.
+Please enjoy the interview with Jaya.
+I certainly did.
+Welcome to Future Histories.
+My name is Jan Groß and my guest today is Dr. Jaya Clara Brecke.
+She's a researcher investigating what matters politically in blockchain technology at Derham
+University.
+Welcome Jaya.
+Hi.
+I think most of my listeners will have heard of the term blockchain at some point, but
+I think there's still actually considerable confusion and quite a lot of mysticism around
+the technology.
+So let's cover the basics first.
+What is a blockchain and what types of blockchains are there?
+Okay, so the way I tend to explain blockchain is I actually I go back to cryptography and
+I go back to starting off with explaining what cryptographic hashing is for those who
+are not familiar.
+So essentially, you know, this is a mathematical process where you take some data, you put
+it through this process and it spits out a string of numbers or a string of numbers and
+letters, characters, whatever kind of hashing algorithm you're using.
+And this has a very particular set of characteristics, which are extremely useful because only the
+exact same data would spit out that particular string of numbers.
+So what that means is that if anything in the data changes, you can detect that by running
+the hashing algorithm again, and if it doesn't spit out the same number, then you know something
+has been tampered with.
+It's a very useful way of verifying the integrity of data.
+So you add a timestamp to this and you string this together in a chain of hashed data.
+And what you essentially potentially have is a linear history of, you know, things that
+have changed over time or, you know, sets of data over time.
+So that's essentially, you know, the kind of blockchain in terms of kind of data structure.
+But then there is the question of how do you, if you want to have this taking place in a
+decentralized network, how does the decentralized network come to an agreement around what data
+should be added and hashed into this chain in the first place?
+So how do we come to an agreement about what has happened, you know, in a given context?
+In the case of Bitcoin, what has happened in terms of transactions?
+In the case of Ethereum, what has happened in terms of computation?
+But it could be any potential data.
+So that consensus mechanism is what's called proof of work in Bitcoin and in many other
+cryptocurrencies.
+There are other consensus protocols.
+I'm going to explain the one that Bitcoin uses.
+That's the kind of starting point, let's say.
+But you also have things like proof of stake.
+You have things like proof of importance and proof of cooperation.
+So the way the consensus protocol takes place in Bitcoin is the network competes on grouping
+together the transactions into blocks and running it through a hashing process that
+needs to spit out a number that meets certain requirements.
+If it does not spit out that number meeting certain requirements, then they have not successfully
+mined a block yet.
+So they need to try again.
+And by trying again, they basically just add a nonce, which is a random number to the data
+until the random number that they add to the data affects the output string of number in
+such a way so that it meets the requirements.
+So what is it we have here is actually a quite profound shift in understanding around the
+word consensus and an understanding around how a network reaches consensus.
+Because if we think about this as a model for governance, this is a model for agreeing
+about what actually happened, you have gone from previous models that could be a political
+leader decides what's true or not, a judge decides what's true or not, a religious leader
+decides what's true or not, or science or some kind of philosophical understanding of
+truth of events and so on to a system which is essentially, you know, the way that it
+decides what's happened, the way that it's decided what's true is through randomized
+turns that is that is incentivized through rewards.
+So you have a competition to be the one to define which transactions are considered valid
+or what data is considered valid for that round.
+So you have all these, you know, this whole network of computers that are taking turns
+that are competing with each other to be the next intern to define the truth for that next
+block.
+That is essentially the kind of Bitcoin consensus protocol.
+So blockchain technology did have very political goals from the start, and one of them actually
+being the goal of overcoming politics altogether.
+How did you approach the question of the political in your work on blockchain technology?
+So first of all, it was really kind of working that out, you know, understanding, you know,
+where what's really kind of the underlying ideas that gave rise to this technology.
+And from that, I really, you know, I articulated this thing that actually, you know, what seems
+to be happening here is an attempt at a kind of technical fix, a technical solution to
+the problem of the political.
+So if we understand the political as basically the negotiation of incompatible differences
+through lots of different means, that would be one definition.
+What you have here is a technology that tries to kind of resolve that in some kind of final
+manner.
+So, you know, you take the problem of power and authority that will be replaced by a decentralized
+network.
+So problem of authority has been solved.
+The problem of consensus between, you know, incompatible positions, well, we've got an
+algorithm that will do that and an algorithm that will do that in a way that's decentralized,
+meaning no one can control it, which means that it can be considered somewhat, can be
+considered neutral.
+And then we have the problem of how to enforce that and secure the system.
+And, you know, code will enforce it and cryptography will secure the system from any kind of
+attacks or manipulation.
+So the idea is like these components somehow resolve the problem of the political in some
+kind of final way.
+So a lot of my work, I guess, was partially kind of untangling where do these ideas come
+from and how are they sought to be kind of like written and encoded and what's that
+process, what has that process looked like?
+And also to look at kind of, you know, there's lots of different theories around like understanding
+the politics of technology.
+One of them is, you know, really understands the political as something that then gets
+inscribed into a piece of technology or an infrastructure so that a certain kind of politics
+or ethics will be operating in a kind of imminent manner.
+So, you know, say, for example, for me, like a really good example is the door closer that
+I think Bruno Latour uses and is, you know, one kind of easy way of understanding this
+principle, which is basically like a door closer will automatically close the door and
+that enforces a certain kind of understanding that the door being closed is good, whereas
+the door remaining open is bad.
+So therefore we have this door closer that's now going to continue to enforce that regardless
+of what we feel about it or not.
+Of course, the door closer is radically different from a complex network because the door closer,
+if you disagree with it, you just kind of like put something to block it from working
+or you pick it apart or whatever else, it's quite easy to change those conditions.
+And it's also quite easy to see what exactly is enforcing those conditions, where in complex
+network technology, sometimes it's pretty hard to understand where and why something
+turns out the way it turns out and how to fix that.
+And it requires certain skills to understand that and requires certain skills to tinker
+with it.
+Of course, in blockchain and in the kind of open source movement, that problem is attempted
+to be addressed by actually making things open source and trying to kind of explain
+systems and involve people in a variety of ways.
+And that's like a very positive side of the culture.
+But I think I lost my thread there a little bit.
+I don't mind.
+It's good because you pointed towards you looking at the history of network cultures
+actually in order to understand how this, you call it blockchain sensibility, got formed
+the way it is.
+And I think you did a very good job in pointing out that we should definitely take a second
+look and that both the evangelists, like the blockchain evangelists, should get away from
+easy dichotomies, but also the critics.
+Yeah.
+I mean, so because what I was observing was obviously, you know, the people that are attracted
+to blockchain come from a variety of different backgrounds.
+I mean, it's really attracted a lot of people from across different political spectrums
+and across different kinds of political cultures and histories.
+And so to me, it just seemed like, you know, although I think like some of the criticisms
+that have come, that does analyze, you know, especially things like Bitcoin and so on as,
+you know, a kind of right wing capitalist kind of project or a narco capitalist project,
+you know, sure, there's certain truth to that, but it just didn't seem to be telling the
+entire story.
+And it was telling a very kind of US centric history of blockchain to analyze it just on
+those terms.
+And I was trying to understand what else was going on or what was missing from that
+picture because I was observing people really from lots of different political backgrounds
+getting involved.
+And so for me, it was more interesting to look at the kind of like history of decentralization
+and peer to peer and look at some of the kind of practical problems that different technologies
+have been trying to solve.
+And one of them, I mean, really, you know, like the kind of history of peer to peer in
+terms of network cultures really has been about authority and it really has been about
+how can we create networks that even if like one person gets arrested or one server gets
+taken down, the network itself can still continue to function and can still continue to operate.
+And these were kind of pragmatic problems, you know, that the piracy movement or anti
+copyright movement has been dealing with.
+You know, these are problems that like, you know, different kind of, you know, indie media
+type projects have been dealing with.
+You know, it's really this question of, or this, let's say, using decentralization as
+a way to circumvent authorities, you know.
+So but what for me was interesting was some things have changed from the early history
+of peer to peer to, you know, where we're now at with blockchain technology.
+And a lot of that has to do with kind of like a shift in understanding where instead of
+using peer to peer or decentralization as a kind of specific strategy for specific political
+projects or purposes, it becomes a kind of abstract political aim in itself.
+And that's where I think like this idea or this kind of illusion of like having resolved
+the problem of the political in some kind of final manner comes about, right.
+And it's also where, to be honest, I think like, you know, by abstracting these things,
+that's why you see something like Ethereum being able to appeal to, you know, financial
+industries plus governments plus activists plus, you know, pretty much anybody or anything
+because this thing has been taken out of it, right.
+It becomes this kind of like generalized abstract thing where there's no, yeah, the kind of
+political project is abstracted, let's say.
+So everyone can see a certain kind of way of potentially using these technologies for
+some efficiency gains or whatever else.
+But for me, yeah, for me, there's like something strange that happens with that abstraction
+where kind of grounded understanding of what's in operation with the technology is lost.
+And I'm trying to, so what I'm trying to do in the thesis is give, you know, some access
+points to that.
+And actually, it feels as if a specific type of looking at the world is actually generalized.
+And when I was reading your thesis, I had to think about like how it reminded me of
+how game theory was invented in the sociopolitical arena of Cold War politics in a very specific
+context.
+And then it kind of got generalized as well, kind of similar to the way that Ethereum kind
+of set the scene to generalize this very specific understanding that comes out of like decentralized
+security modeling, actually.
+And I was wondering, because I mean, that might be unfair again, you know, but kind
+of it felt as if the same type of paranoia-ish looking on the world is generalized in game
+theory in the first place.
+And then a technology like Ethereum comes along and kind of builds and technological
+infrastructure to generalize it in technical terms as well.
+Yeah, absolutely. And it's, you know, there's a whole set of kind of strange contradictions
+at play here.
+So you're right. I mean, what I'm tracing in my PhD also is like the set of problems
+that come about when you create a decentralized network, the set of technical problems, which,
+you know, in terms of network security is this issue that, you know, in a truly decentralized
+network, anyone can potentially be an adversary, right?
+And so, you know, a lot of that idea of like how do you secure against the fact that anyone
+can potentially be an adversary does feed into the kind of like general understanding
+of the world really is like, you know, trying to eliminate trust, you know, trying to solve
+the trust problem, which is like, you know, how big or how blockchain tends to be understood
+these days.
+But it's like very fuzzy, the exact limits to where things are being solved or what's
+being solved here exactly, because in each and every moment, there is so much trust involved.
+You know, you've got to, you know, there's no one that has actually gone through and
+audited every single piece of code or understood every single piece of, you know, cryptographic
+hashing algorithm that's being used and verified themselves as a single individual.
+You know, there are obviously communities of trust in a real sense, even in blockchain
+technologies in so-called, you know, trustless networks.
+So like, yeah, there is this kind of imagination or this ideal that like ultimate, you know,
+the ultimate system is a system where nobody needs to be trusted.
+And that's kind of necessary to reach this ideal of a secure decentralized system replacing
+authorities.
+But in actual fact, the way it plays out doesn't quite look that way.
+It just, there's a kind of reconfiguration of how trust operates.
+There was something else I wanted to say on that, but it slipped my mind now.
+I'm sure it'll come up in a different form.
+Well, yeah, and I think I'll have a good point to get into it, because you describe four
+principles of blockchain technology and afterwards you have a short paragraph where you let the
+reader know how different the way the terms are being used actually is.
+I mean, you just said it in relation to trust, but actually it's in relation to decentralization
+as well and consensus and stuff.
+So could you maybe explain the four principles and how the way these terms are being used
+is actually quite counterintuitive to the way we use it in like everyday language?
+Yeah.
+Yeah, so I guess, so what I'm saying in this section is trying to kind of compare, like
+you say, how we understand some of these terms, trust, openness, decentralization, and immutability
+quite differently in our social lives than what becomes technically articulated and how
+that technical articulation then becomes a kind of certain view of the world or a certain
+kind of understanding of the world.
+So generally speaking in social life, more trust is a good thing, right?
+If we create kind of more trust between us, that's a good thing.
+Whereas in kind of blockchain, trust is considered something that needs to be eliminated entirely.
+In some ways, there's some interesting dynamics that I don't think I go into so much in this
+paragraph about that, but about how that's in many ways a kind of feature of lots of
+different aspects of technology and scientific devices in general, that we trust the observation
+of a measuring device more than we would trust someone's account of it.
+So take like temperature measurements, for example, it's like someone's like, oh, this
+feels really, really hot, and it's like, no, the thermometer says it's only 20 degrees
+outside or things like this where there's like a certain kind of, we assign a certain
+kind of validity to the return of certain kinds of technical instruments and apparatuses
+more so than our kind of common experiences.
+I mean, that's not to pit the kind of human against the machine in any kind of way.
+It's just an observation about how devices and apparatuses sometimes operate.
+And I say it only because it's such a major, major part of the political proposition of
+blockchain to create a kind of governance apparatus, essentially, that is somehow constructed
+by a set of elements that are beyond the control of human beings.
+And that's like the explicit aim.
+That's the kind of that's the political aim of the project, really.
+So let's go into that.
+What's the role of algorithmic governance in blockchain technology?
+So what is the narrative around it and what are the narratives of future that are connected
+to it?
+Sorry, I'm not sure if I understand entirely the question, if you can make it more specific.
+Well, you kind of said right now that one of the main purposes of blockchain technology
+is being a technology for governance purposes in order to provide a different way to actually
+organize society as a whole, you know?
+And so there's a narrative, a political narrative connected to this technology that is tightly
+coupled to the idea of algorithmic governance.
+What's the idea behind it?
+How do they want to use algorithmic governance to reorganize society?
+Yeah, I mean, so, you know, one point that I've been making a lot throughout my thesis
+in the kind of not just in the written piece, but also in the talks that I've been giving
+and so on, is this kind of irony or this kind of this observation that like peer-to-peer
+technology, you know, there's a lot of focus on this ambition of disintermediation, right?
+To get rid of the kind of intermediary, the middleman, so that we can have kind of direct
+relations with one another.
+And so for transactions, that would be like, let's get rid of the banks and the governments
+so that we can just exchange value directly between each other without anyone, you know,
+either controlling whether we can do that or not, or like the surveillance and gathering
+information about us and our transactions.
+And so there's like this focus on disintermediation and getting rid of the middleman.
+But then on this kind of like political ambition, I mean, you look at this thing and it's like
+the most incredible, like the most intense form of intermediation you can imagine when
+it comes to questions of governance, right?
+We're bringing together like, you know, networks and algorithms and protocols and game theory
+and market dynamics and you name it, all into this kind of like some kind of apparatus that
+is supposed to kind of sit between all of us and enforce some kind of consensus between
+all of us.
+So it's this very intense form of intermediation, actually, and a hugely complex form of intermediation.
+Yeah, so on the question of algorithmic governance, it's so, I mean, with blockchain, I think
+I mentioned already in the definition how, you know, the technology looks to solve the
+problem of the political.
+And so you have, you know, something like, you know, you have consensus algorithms that
+organize consensus amongst nodes in the network.
+But also, you've got things like decentralized autonomous organizations, you've got things
+like smart contracts.
+So ways of trying to kind of automate certain aspects of governance and contractual relationships,
+let's say, so that they once again cannot be controlled by any single individual, but
+that run, you know, across a kind of decentralized network.
+And there's lots of kind of directions that people imagine this going in.
+And so, you know, the kind of like fantasy, which is both the kind of like dystopian fantasy,
+but also something that you see people in the blockchain space talk about with like
+really kind of like feverish bright eyes is this, you know, this combination of blockchain
+with AI, you know, that, you know, will have, you know, AI emerge, which will be this kind
+of like, yeah, perfect, scary, non-human, but amazingly mathematical intelligence that
+will use the kind of power of cryptography and the kind of uncontrollable, uncontrollability,
+unstoppable ability of smart contracts to basically run the world.
+And specifically in terms of this narrative for future, there has been some setbacks to
+say it mildly.
+So there was a DAO, a decentralized autonomous organization, as you mentioned, in Ethereum,
+on the Ethereum blockchain.
+And there was a lot of hype around it.
+And at some point it got hacked.
+And actually, what followed then was some kind of reflection about the limits of this
+kind of thinking.
+And for some, it was like a, I think it was just the lesson that we just didn't do it
+good enough yet.
+Yeah.
+And for others, they thought, all right, well, this showed us actually that it's not just
+a deterministic world we're living in that can be handled in this kind of way, but there
+are different aspects, like social aspects and stuff that have to be considered in this
+kind of thing.
+Yeah.
+Yeah.
+So I write quite a bit about that event in my thesis also.
+I mean, the problem is, so, you know, the story of blockchain and what it can do and
+the story of blockchain plus AI, you know, these things, they sound so convincing.
+But one of the main reasons why they're so convincing is because when you kind of, when
+you look at the story, you're looking only at the story and you forget to look at everything
+outside of it, when actually everything outside of it really matters for how that story will
+play out in reality.
+And to take a very basic example, this idea of a kind of, you know, blockchain system
+that runs entirely without authorities, you know, at some point, someone had to write
+that protocol, right?
+And so that someone, you know, or those groups of people, in essence, have then written the
+rules of society, right?
+If indeed this thing was going to continue to run without it being controlled or without
+it being kind of modified and so on.
+But also what happens is in reality, not only has someone or people writing protocols,
+but also the protocols need to be maintained and updated and things break and nothing is
+ever written perfectly.
+And, you know, so there is this kind of like real kind of difference or real gap between
+the kind of the perfect ideal that somehow kind of, you know, mathematics, cryptography
+and technical systems, you know, they give us this kind of mental image of something
+that is perfectly neatly organized, perfectly rational and perfectly objective, when in
+actual fact, like that's a kind of it's a mental image of it.
+Whenever people actually write these things down, obviously, like it exists as part of
+a kind of far more complex world where lots of other dynamics play into how a system
+will actually operate and the actual effects of a system.
+And so what happened in the DAO attack was, you know, there was this decentralized autonomous
+organization and it was supposed to be governed purely and only by the rules written in its
+smart contract.
+And this smart contract lived in a decentralized network and no one was supposed to be able
+to modify it or change it after it had been deployed.
+So it was deployed and lots of people invested in the decentralized autonomous organization,
+I think up to 60 million dollars.
+No, more than that.
+I think over 100 million dollars.
+And then all of a sudden people saw that there was an amount of investment that was being
+taken out of the DAO contract repeatedly.
+And so it turned out that in the contract code, this was possible through a kind of
+combination of a couple of different rules that had been specified in the contract.
+And someone was literally emptying the fund and got away with about 60 million dollars.
+And the reactions to that were, you know, kind of split the community.
+So some people felt like, you know, this needed to be stopped.
+This should never have happened.
+We should intervene.
+And another set of people were like, no, because the rules said that only the smart contracts
+governs this thing.
+And so therefore, if what's written in the smart contract is the only thing that governs
+it and it allows for this person to actually or this hacker to actually siphon off this
+money, that should be allowed to go ahead.
+And so what you saw was, you know, the Ethereum Foundation got quite concerned and got involved
+because this was a considerable amount of the actual total amount of ether in the market.
+And so they decided to go in and intervene and basically do what's called, I guess you
+could call it a kind of rollback on the Ethereum blockchain and fork the blockchain so that
+before the hack attacked and kind of pretend that in the history of the Ethereum blockchain,
+this hack had never actually happened to then buy time to go in and retrieve the funds.
+And that's like a clear act of a kind of outside authority in a sense, right?
+And so there was a lot of like soul searching in the community about whether or not that
+was a good thing or not, whether that should be possible at all.
+And it did split the community.
+And so you have two different versions of Ethereum running now, one that has a history
+of events where this hack never happened, and one that has a history of events where
+it did happen.
+And so for some people in the Ethereum community, the way of making sense of this in terms of
+decentralization and so on, was to say that social consensus trumps computational consensus.
+So this idea that like it was actually okay for the Ethereum Foundation to step in and
+retrieve the funds by forking the chain because there was agreement, there was broad agreement
+in the community that that was what needed to be done.
+And that agreement was expressed through the adoption of nodes in the network of this new
+version of the Ethereum blockchain.
+So in many ways, you could say there was a decentralized consensus around moving forward
+on that decision, although there was a kind of another splinter group that disagreed.
+So there's lots of stuff going on here.
+But what I think really kind of was very nicely kind of demonstrated to the community was
+that you don't get rid of the complexity of the world, you don't get rid of human beings,
+you don't get rid of all these things so easily.
+And they actually play a pretty important role for how systems play out.
+Like there's no there's no final guarantee against like against the indeterminate reality
+that we live in, you know, things kind of unfold.
+I mean, yeah, there's there's so many ways of kind of saying this.
+And I keep saying it that, you know, this idea of a kind of final solution to the problem
+of the political, it's I mean, it's cute.
+And I understand where it's coming from.
+But really, you know, cryptography doesn't do that.
+There is nothing that does that.
+I mean, time keeps passing.
+And between us, there's just too many, there's there's too many unknowns in the universe.
+It's like it's a radically open future, you know, and you take something like cryptography
+that is that is really, let's say, the the cornerstone of this political or this kind
+of belief system in blockchain, this idea of like the, you know, the security of cryptography
+being like something fixed and something something determined, you know, that we can somehow
+build everything else on top of, you know, I went to I went to Bletchley Park the other
+day, which is I don't know if people know what that is, but it's it's where Alan Turing
+and a bunch of other English mathematicians got together during the Second World War to
+break the Lorenz, the German Lorenz cipher machine.
+And a few of them did and invented the Colossus in order to do that.
+And it's you know, it's a very good it's a very kind of historical reminder and an epic
+reminder of the fact that cryptography, you know, is is never final.
+You know, it can be broken and and it is repeatedly broken and it's an ongoing process.
+Cryptography is very interesting to use in different kinds of systems design because,
+yes, it does buy you time and it has some incredible properties, but but it doesn't
+resolve things in any final in any final way.
+It's not bulletproof.
+It's just another device that we humans have invented in our engagement with with the kind
+of elements of the universe that we live in, you know, with the mathematics that we that
+we've kind of developed. Yeah.
+That was a lot.
+That's good. And actually, there's a there's another element that kind of undermines this
+perception of blockchain technology being a truth machine.
+In your thesis, there's a part where you describe this actually quite fitting.
+I'll just quote it.
+Actually, I think if we take a closer look at how double spending is solved and how consensus
+is arrived at in decentralized networks, there is, in fact, no need to determine which
+of the conflicting transactions is true because from the perspective of the system, it does
+not matter which is verified as long as it is just one of them.
+What is true or really happened is not of importance.
+End quote.
+So I really like that because the consensus this means that means that the consensus in
+blockchain is actually far from being any kind of objective truth, but it is what you
+later call an incentive driven settlement.
+And I think this is very spot on because it kind of begs the question, how does this affect
+the the the kinds of truths?
+Is that the plural of truth?
+I don't know the truths that that can be produced because I'm actually like one hundred percent
+sure that there are many, many, many, many, many, many, many truths that cannot be produced
+with this specific type of thinking.
+Yeah.
+Yeah, it's another kind of like cute.
+I say cute because it's another kind of cute approach to some of the kind of deep complex
+problems of the political.
+And I say cute because it's a kind of backing down of or a kind of historical accumulation
+of disappointments in authorities.
+So it feels a little bit like this child that who's who realizes that its parents are
+fallible, you know, and goes looking for something that isn't fallible.
+And so, you know, and the reason why I say that is because, like, OK, so, I don't know,
+to me, it does seem like, you know, it's trying to instead of instead of instead of trying
+to ponder what truths might be out there and try and work through that in all the kind
+of philosophical implications and all the social implications and through all the kind
+of historical pain and so on that has that has happened in this pursuit of truth.
+And here I'm talking about religion.
+I'm talking about political ideologies.
+I'm talking about geopolitics, you know, and and historical events.
+This is the kind of idea that, like, we don't need a universal truth coming stemming from
+kind of human reflection.
+All we need is something that ensures that who gets to determine the next round of truth
+is randomly selected in a way that can be deterministically analyzed as as decentralized,
+as fair. You know, there's no single node in the network that will be able to determine
+the truth over and over and over again.
+It's always going to be a different node in the network.
+So it's this kind of mathematically randomized set of truths.
+And there's some, you know, so when we talk about truth machine or this idea of
+blockchain as truth machine, that is the kind of truth that's being produced.
+It's it's it's, you know, and this is, again, a little bit of an abstraction because,
+like, OK, we're analyzing proof of work.
+And so the truth that we're talking about here is whether a transaction happened or
+not in the Bitcoin blockchain or whatever.
+And so it's a bit of an extrapolation to talk about kind of more existential or political
+truths. But I think I do think that extrapolation makes sense because that is the
+kind of ultimate political imaginary that's at play here in blockchain.
+But, yeah, it's it's a very particular it's a very particular kind of and strange and
+funky and quite interesting way of arriving at a set of truths.
+And I'm sure that that, you know, I do I am curious about, you know, the experiments in
+this space to see what and how we might be able to use something like this.
+But I'm also quite firm about finding the very specific appropriate uses of it and really
+not having this as some kind of overarching ideology, because, like you say, this form
+of consensus, this way, this method at which to arrive at consensus around truth is a very
+specific way. It's very different from, let's say, a group of people that get together in
+a room and share their experiences about something that then arrive at some kind of
+shared understanding of what has happened.
+That's a very, very different process and a very, very different way of being in the
+world and acting in the world and understanding the world than the proof of work consensus
+algorithm. Right.
+Actually, I'm keen on looking a bit closer on this subset of being incentive driven,
+because I think that's quite relevant.
+And you can see this in other fields as well.
+When, for example, a blockchain technology has to resolve the problem, how to bridge
+the gap into the material world, like the non-digital world, then things come into play
+like oracles and stuff.
+But these oracles, they are market driven.
+So it's a monetary incentive that is supposed to deliver the best possible truth, not the
+ultimate truth, maybe.
+But it's constructed as if this monetary incentive is able to produce the best workable
+truth. And I think this goes down to the bottom of the protocol when it comes to
+something like crypto economics, because there also you have this kind of techno
+engineering idea or behavioral engineering idea, you call it, I think, in the thesis as
+well, that you might be able to construct a good system architecture through actually
+carrots and sticks, which are, again, monetary incentives or the punishment of taking away
+some money.
+Yeah. Yeah, exactly.
+And there, again, it's interesting to look at how things are done or might be done
+differently in a social scenario.
+Right. So, you know, we're working with crypto economic designs, then it is very much,
+like you say, kind of crude, carrot or stick kind of set of tools that are being used.
+Yeah, I think maybe for the listeners, could you briefly explain what it is?
+Crypto economics, what that means?
+Yeah, and it won't be brief, I'm sorry.
+Go ahead, go ahead.
+Because because I think, again, there's there's an interesting alternative history that
+hasn't really been discussed or written much about crypto economics.
+But crypto economics basically comes from, you know, in the Bitcoin protocol, what you
+have is a set of miners in the network that verify transactions, and those miners are
+rewarded with some Bitcoin every time they successfully manage to verify a block of
+transactions. And they're rewarded with a Bitcoin partially with the idea that if it
+pays more to contribute to the system than it does to attack it, then you'll have a
+system that essentially, yeah, it's a it's a kind of element of the security of the
+system, you'll have a system that runs that runs well.
+And so you've got you get even more kind of sophisticated versions of that, that, you
+know, you kind of economically reward good behavior in the network, and economically
+punish bad behavior in the network.
+And you see kind of different designs of that in different protocols in the blockchain
+space. And some of them get very elaborate.
+And I used a Bitcoin example because it's kind of one of the kind of more simple ones and
+easier to understand.
+So, yeah, it's a kind of combination of game theory and market dynamics in a kind of
+cryptographic decentralized network space.
+But the other story to that that I think is a very interesting angle is to understand this in
+terms of business models, because if we take, you know, the kind of business models of
+platform, the kind of like Internet platforms of today that use a kind of data extraction as
+their business models, data extraction and advertising, if we want to create new kind
+of a new type of Internet, you know, Web3, and if we want to create kind of new types of
+decentralized applications that make it cryptographically impossible for the kind of
+business models that rely on data extraction in that kind of a way, then we need a different
+kind of economy that runs these systems.
+And so for me, the interesting side of crypto economics, the really interesting side of
+crypto economics is the dream of and the idea of creating systems that are kind of
+economically autonomous and viable to run without the need for surveillance or
+surveillance capitalism or platform surveillance or, you know, the kinds of business
+models that we see run the Internet today.
+So that for me is like the kind of opportunity, the interesting possibility of crypto
+economics.
+Awesome. I think it's really, really important to point that out, because I mean, also for
+someone like me, it's kind of like overwhelming how the way crypto economics is
+handled is narrowed down to this idea of actually socio-technical engineering, which
+I think is really behavioral engineering, which I think is really actually a very
+dangerous road to to go on, you know, and it's very refreshing the way you did describe
+it right now that there are also, well, this might be a like acute danger to use the
+technology in the way of behavioral engineering or such.
+There are these other possibilities to actually use the technology in a way that is
+very much beneficial for everybody.
+Yeah. Yeah. But I think like in order for that to actually be able to happen, the space
+needs a lot of new thinking, especially from people that come from a heterodox economic
+thinking, because like right now what you've got is a bunch of programmers and computer
+engineers tinkering with economic tools.
+And so and from their perspective, they're trying to achieve certain security properties
+in the network. And so economics is being used in order to achieve those security
+properties. And that's why it tends towards behavioral engineering.
+That's why it tends towards like, how can we kind of make sure that certain types of
+behaviors, you know, honest behavior is happens, whereas kind of dishonest or malicious
+behavior is made impossible?
+You know, so that's like it's really the computer engineers perspective.
+But if we can have kind of more thinking in the space that looks more at this question of,
+you know, the business model of the Internet and the kinds of economics that might happen
+in that space, you know, if we can kind of start deliberately shaping that in some ways,
+I think that would be like super interesting.
+I think that's like, yeah, an important direction to work on.
+Very much so. But I have to say, I think it's in the in the current state, it's not just
+that the programmers are thinking in terms of security models, and that's why there's
+this kind of misunderstanding.
+But I'm afraid that I think what's happening right now, and you can see that in the
+collaboration between Vitalik Buterin, the founder of Ethereum and Glenn Whale, an
+economist who wrote Radical Markets, what like the next level of shit in this sense
+is that they are very much aware of that.
+This is not just about security modeling, but they believe crypto economics to be the
+appropriate social technology to design society.
+That's that's the impression I get.
+And that and that for me means that there might be a lesson learned in terms of how
+autonomous systems are not fully controllable and that we should put some social input
+into how to govern things and stuff like that, to say just a bit simple.
+But that in the final step, there's still a belief in engineering society through
+appropriate technological architectures.
+Actually, they really call it, he calls it the new social technology, like crypto.
+Yeah. Yeah.
+And this is where I think it's important to understand power a little bit better and
+different forms of power, because in the blockchain space and I think in society in
+general, when people kind of think of power just off the top of their heads, what comes
+to mind is a kind of authoritarian dictator.
+Right. What comes to mind is like a kind of centralized, you know, some kind of centralized
+power where one person or one party or whatever determines everything and kind of power
+radiates from that kind of central point.
+But there's there's so many more theories of power and ways of understanding power that
+are much more kind of apt at describing our current kind of conditions.
+One of which, like in the case of what you just described, that is quite useful for
+understanding, for understanding this condition is like a kind of power that operates
+more on the landscape of what's possible.
+So instead of having a centralized person dictate what needs to happen, you kind of
+model the landscape in a way that makes certain types of things seem like they're just
+naturally impossible to do or very difficult to do and make other things feel like they're
+very desirable to do.
+And that's what a lot of kind of protocological design really is about.
+And that's what a lot of kind of crypto economic design really is about, is, you know,
+to kind of make certain types of behavior desirable for someone on a kind of intuitive
+level. So it doesn't feel like an authority is dictating anything to you.
+It's just the way the landscape looks.
+It's easier to go that, you know, down that road than it is to climb over that hedge.
+You know, and so, you know, I think keeping an eye on that is is is very important also
+to be able to analyze, you know, analyze what is the types of, you know, what is the
+politics that's being inscribed in the protocols that then shape that landscape, you know?
+Yeah. What's the main takeaway from your research?
+Oh, wow. The main takeaway.
+Give me one moment, because there's so many that we've touched on.
+What's the main takeaway for you?
+I think it's that we should all be aware that there is no wholesale answer to anything,
+actually, and that these things are, like, context specific and that they have, like,
+a side that might benefit us that is very much context specific, but another one that is not.
+And we shouldn't, like, alles über einen Kamm scheren.
+I don't know the English word for that.
+Like, we shouldn't approach it as if it's all the same.
+Take a second look. Maybe that's.
+Yeah. Yeah. Yeah. I think you're right.
+I mean, really, that is the main takeaway.
+The main takeaway is, or the main work that I'm trying to do here is to, first of all,
+shift the understanding away from trying to arrive at some final solutions to problems
+of power and politics and these issues, and to create some ways to feel OK about the fact
+that we do live in an infinitely complex world and universe where the work is ongoing.
+And that's part of the excitement of things, right?
+These new technologies can do incredible things.
+History doesn't stop.
+The work doesn't stop.
+The game doesn't stop.
+The kind of interaction.
+I mean, there's so much more interesting things to come.
+And all this stuff will break and get old at some point,
+and we'll move on and something else will happen.
+And it's really kind of tracing through and sticking.
+There's just a fantastic title of a book by Donna Haraway that came out last year,
+Staying with the Trouble.
+That's what it's about.
+And I say this not as a kind of trying to create some kind of new universal statement,
+but more like literally staying with the trouble
+and understanding the details of how these technologies play out
+and getting involved in how they play out.
+Great final words.
+I usually put one question at the end,
+which is, if you think about the future, what makes you joyful?
+If I think about the future, what makes it that the future is radically open.
+The future has never been more radically open than it feels right now.
+And that to me is incredible.
+Awesome.
+Jaya, thank you so much for the interview.
+Thank you, Jan.
+That was our show for today.
+I hope you enjoyed the interview with Dr. Jaya Clara Brecke.
+If you want to know more about future histories, please visit future histories.
+Visit future histories dot today.
+You can support future histories at Patreon.
+For this, go to patreon.com slash future histories.
+And let me know what you think about this episode and the show in general.
+For this, use Twitter, hashtag future histories, or Reddit,
+or send me an email to future underscore histories at protonmail dot com.
+See you next time.

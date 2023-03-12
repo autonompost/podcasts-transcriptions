@@ -1,0 +1,876 @@
+start	end	text
+0	6000	Welcome to Future Histories, my name is Jan Gross and today's episode is a very special episode.
+6000	15000	Not only is it the last one of the year 2020, but it also is a new Future Histories live episode.
+15000	23000	This time, Mattia Paganelli invited me to hold a guest lecture at his seminar on computational arts
+23000	28000	at the Goldsmiths College in London, which I of course happily accepted.
+28000	36000	And since the guest lecture was three hours long, I proposed a format in which I would hold a short presentation
+36000	46000	on podcasting as a form of extended research and then afterwards record an episode of Future Histories live in front of the students.
+46000	54000	I'm absolutely thrilled that Benjamin Bratton agreed to be the interviewee for this Future Histories live episode.
+54000	59000	I will introduce him at the beginning of the interview and so I will restrain myself to saying that
+59000	64000	for me, Benjamin is one of the most interesting thinkers of our time.
+64000	72000	His book, The Stack, is rich beyond belief and his work tries to bridge a gap that absolutely needs to be worked at
+72000	80000	and that is the bridge between political theory and the techno-social realities and possibilities of our time.
+80000	84000	My warmest thanks go out to Mattia for the invitation to hold the guest lecture,
+84000	89000	to Benjamin for taking part in the interview and the discussion afterwards,
+89000	94000	and to the students of the seminar on computational arts for their participation.
+94000	99000	We talked quite a bit and so I split the interview into two parts,
+99000	104000	of which you will hear the first one today and the second one in two weeks' time.
+104000	111000	This will be in 2021, which leads me to wishing all of you a happy new year.
+111000	120000	Thank you for your interest in Future Histories, your thoughts, mails, tweets, your suggestions for guests and topics.
+120000	127000	I know 2020 has been shitty, but there are good things too and I thank you all for that.
+127000	132000	But now, enjoy today's episode of Future Histories with the great Benjamin Bratton
+132000	139000	on Synthetic Catalyxies, Platforms of Platforms and Red Futurism.
+145000	147000	So, welcome to Future Histories.
+147000	153000	My name is Jan Groß and I am very excited to welcome Benjamin Bratton as a guest in today's episode.
+153000	158000	Benjamin is Professor of Visual Arts and Director of the Center for Design and Geopolitics
+158000	161000	at the University of California, San Diego,
+161000	167000	as well as Program Director of the Terraforming Program at the Strelka Institute in Moscow.
+167000	169000	Welcome, Benjamin.
+169000	171000	Thank you very much for having me. Pleasure to be here.
+171000	176000	There are multiple episodes of Future Histories that are, in one way or another,
+176000	181000	concerned with the topic of cybernetic plant economies in the age of their technical feasibility.
+181000	186000	You have talked and written about this topic and you introduced a term that might be helpful
+186000	190000	to understand what we are dealing with, synthetic catalyxy.
+190000	196000	What are synthetic catalyxies and what openings do they possibly provide?
+196000	202000	So, yes, thank you for the invitation to speak with you.
+202000	209000	This term, synthetic catalyxy, is probably a good place to start.
+209000	215000	On this question of a planned economy versus an unplanned economy,
+215000	223000	and maybe as a way of also perhaps beginning the conversation with some consideration of what we mean by a plan,
+223000	229000	what we mean by unplanned, and maybe even what we mean by economy in this way.
+230000	244000	So the term, the catalyxy originally, the reference that I'm drawing this from is in reference to the work of Hayek,
+244000	256000	who uses this term catalyxy as part of his argument against socialist planned economies
+256000	264000	and the mid-20th century model of a socialist planned economy, which we should be clear right away.
+264000	270000	When we're thinking about what a planned economy might be for the 21st century,
+270000	282000	the models of a planned economy from the mid-20th century may not necessarily be the model reference that we should be building on.
+283000	291000	But suffice to say, for Hayek, he sees markets themselves,
+291000	299000	and it should be maybe clear not necessarily capitalism as a whole, but markets, at least in theory,
+299000	306000	as not only a space or a place by which supply and demand might meet each other,
+306000	315000	but also as a kind of calculation machine, as a kind of collaborative calculation machine
+315000	321000	that has capacities both for feats of tremendous abstraction,
+321000	329000	but also for the sort of direct fulfillment of supply and demand in the simplest sense.
+329000	336000	But the catalyxy then refers to this capacity of markets to be pricing mechanisms,
+336000	347000	that markets find prices, that how much the bananas should cost or how many desks and chairs should be produced
+347000	354000	is in essence calculated itself through the dynamics of the market.
+355000	363000	And so it's an understanding of the market as a kind of, not just something about which computation might be interested
+363000	371000	or something about which computation might be used to organize, but that the market itself has computational capacities,
+371000	375000	that it is a kind of computational apparatus.
+375000	382000	Now, as I'm sure you are quite aware because of all of the other, the discussions that you've kind of had,
+382000	388000	he's proposing this in contradistinction to the classical socialist pricing problem,
+388000	400000	which argues that no planned economy can possibly provide that calculative function that a market does
+400000	407000	as quickly or as efficiently as the market can itself.
+407000	413000	And you might imagine it sort of like if you have 10 people sitting in a room
+413000	418000	and they want to have a conversation with each other and negotiate something,
+418000	421000	like how should we rearrange the furniture in this room?
+421000	427000	And in order for the furniture in the room to be reorganized,
+427000	432000	all those 10 people would have to, let's say, write down their interest on a piece of paper
+432000	435000	and then send it to the office across the street.
+435000	437000	And then the office across the street will get all of these pieces of paper
+437000	441000	and then send pieces of paper back to every one of these 10 people one by one.
+441000	445000	And you imagine what this conversation would be like if every time anybody needed to say anything,
+445000	450000	you have to send what you wanted to say across the street to an office who then makes this plan
+450000	451000	and then sends it back to you.
+451000	455000	You would say, well, it would be just simpler if we just let, we had the conversation ourselves.
+455000	459000	So in any event, I'm not an Austrian, this isn't my approach,
+459000	464000	but just to give a sense of what the idea comes from.
+464000	470000	Now, one of the points that was made, and I'm sure you've raised this in some of your other podcasts,
+470000	476000	even back in the 60s and 70s was that, well, fine,
+476000	486000	but the capacity for computation and particular network computation,
+486000	490000	artificial computation, not the natural, let's say the natural computation of the market,
+490000	494000	but the artificial computation that when we think of computers and computer networks,
+494000	502000	you know, silicon-based computation, to send and receive information from one point to another point,
+502000	506000	they already sort of understood that this was increasingly fast
+506000	512000	and again, sort of in the height of the Cold War, 60s and 70s here,
+512000	518000	and the capacity of synthetic calculation through silicon-based computation
+518000	522000	was also becoming increasingly fast.
+522000	526000	And so this argument, and then even the metaphor that I'm using of the piece of paper
+526000	530000	walking across the street and stuff, this kind of bureaucratic model of,
+530000	534000	this particular kind of bureaucratic model of a planned economy,
+534000	538000	was probably out of date to a great extent.
+538000	544000	And that the scenario people would ask is like, okay, but what if you could,
+544000	548000	what if those messages of interest that everyone had in that rearrangement of the furniture
+548000	552000	could be said essentially instantaneously across the street,
+552000	560000	that it could be mapped against a thousand different ideal models of furniture rearrangement
+560000	562000	and then instantaneously sent back.
+562000	568000	Would not this allow for actually an acceleration in the capacity for that conversation
+568000	573000	and that negotiation to take place in such a way that this would work?
+573000	583000	And that not only could artificial computation operate to produce things like pricing signals
+583000	590000	and structure models that was equally fast to the kind of emergent processes of the market,
+590000	598000	but perhaps even faster, and perhaps could draw upon models and again, best practices
+599000	605000	and other kinds of things and goals and larger sort of macro programs
+605000	611000	that would not be available to just a small group of people doing this negotiation.
+611000	615000	And so this became, as you've all been discussing,
+615000	623000	the basis of sort of the first wave of an interest in a kind of socialist cybernetics economics
+623000	629000	that ended up, you know, was animated the work of, you know, people like to refer to Stafford Beer,
+629000	635000	but also, you know, even in others, in certain sense, even across the political spectrum,
+635000	641000	but certainly gave the rise to a kind of a different kind of idea of the mixture
+641000	649000	between computation, socialism, and the planned economy here as well.
+649000	655000	So the term synthetic catalacticy that I use, that I mentioned in the book, The Stack,
+655000	662000	going now back to your original question, is a term that would refer to that process
+662000	671000	by which the natural capacity for a market to find price signals, for example,
+671000	679000	or to organize the relations between its negotiated participants
+679000	685000	could produce this kind of what the Austrian school and its descendants like to think of
+685000	692000	as a kind of spontaneous order, could produce this process of a spontaneous order at a great distance
+692000	697000	and could do so at a scale, by using very large-scale computational systems,
+697000	704000	planetary-scale computational systems, that that spontaneous order could be produced at a scale
+704000	712000	that would be otherwise impossible to do just through the incremental aggregation
+712000	719000	of lots and lots of different supply and demand signals,
+719000	724000	could do so with a speed that would be impossible otherwise, and in principle could do so
+724000	733000	with a capacity for reflexive collective reason that would be impossible otherwise,
+733000	740000	and would be able to do so with some degree of recursive piloting or planning,
+740000	745000	and this is where the cybernetic comes in, the kind of piloting function of the whole dynamic
+745000	750000	in ways that would be impossible to happen just spontaneously.
+750000	755000	Now, as you are all probably aware, Hayek sort of pooh-poohed this whole idea,
+755000	773000	and indeed it was some of the Chicago school boys who were enthusiastic about the coup in Chile in 1973
+773000	780000	that moved Allende and Stafford Beer's CyberSign project out of the way,
+780000	788000	who later ended up becoming quite interested in the idea of the capacity for computational systems
+788000	792000	to have these kinds of recursive market effects.
+792000	798000	And so the last point I'll make before we move on from this with this and also to maybe introduce,
+798000	804000	frame part of our discussion around the planned economy in relationship to socialism and capitalism per se,
+804000	813000	is that perhaps one of the historical ironies of all of this is that we do have planned economies today.
+813000	822000	We do have large-scale synthetic catalaxies in the scale that I'm describing,
+822000	828000	in that this is how Walmart works, this is how Amazon works,
+828000	836000	this is how Google works in terms of its pricing of words and semantics and page views and the rest of this as well,
+836000	845000	is that many of the large capitalist platforms that increasingly, in a de facto basis,
+845000	853000	have taken on many of the roles that had previously been assigned to states,
+853000	864000	themselves are in ways that would absolutely be recognized as such in the high X era of the 60s and 70s, planned economies.
+864000	868000	And they work because they are planned economies.
+868000	877000	They work because they are able to calculate prices by integrating signals
+877000	888000	with a speed and scale and complexity that would be impossible to do otherwise,
+888000	898000	which allows them to do long-term planning, long-term recursive investment,
+898000	906000	infrastructural investment and so forth and so on, all the things that the socialist cyberneticians were interested in,
+906000	911000	in ways that they too would recognize as basically, yes, that's what we meant.
+911000	920000	And this, again, is kind of the irony, that you can imagine plucking some of the socialist cybernetician economists from the mid-60s
+920000	928000	and explaining to them how Amazon works, this very, very large scale global network that doesn't actually produce anything,
+928000	935000	but matches buyers and sellers and is this massive logistical enterprise,
+935000	944000	but whose real function as a social economy is the production, is the calculation and the computational calculation of a price
+944000	950000	and then the logistical mechanism for the deliverance of this, yes, yes, yes, that's exactly what we mean.
+950000	958000	And this is also then I think part of where maybe the interest discussion is that some of the more conventional Cold War left-right distinctions
+958000	963000	of what is planned, what's not planned, what's centralized, what's decentralized
+963000	972000	don't line up real well when we actually sort of investigate these processes that we're talking about
+972000	976000	as technical systems and as institutional systems.
+976000	983000	So in any event, that's my long answer to your simple question about what is synthetic catalectics.
+983000	991000	That means we do indeed have synthetic catalectics, even though these are up until today capitalist ones.
+991000	996000	I am very much interested in the possibilities of synthetic catalectics to come.
+996000	1002000	And I would like to build a bridge actually between a proposal by one of my other guests, Daniel E. Seros,
+1002000	1007000	and your analysis of what you have called platform of platforms.
+1007000	1011000	And you actually described Amazon as such a platform already.
+1011000	1016000	I think what Dan Seros describes in his book Information Technology and Socialist Construction
+1016000	1021000	indeed is a different kind of proposal for a platform of platforms.
+1021000	1028000	And I think it absolutely confirms an intuition you have articulated in the stack about how governance,
+1028000	1036000	namely planning and programming, and I quote here, may be situated at if not originate from the interface layer.
+1036000	1042000	There's a lot to unpack here. Let's do this step by step and start with a definition of platforms.
+1042000	1050000	What are platforms and what could a platform of platforms that is different from those that we already have look like?
+1050000	1053000	Well, it could look like it could look lots of things.
+1053000	1058000	The platform, as I model it in the stack and discuss it in the stack,
+1058000	1065000	I don't mean it in a way to sort of evangelize platforms or to argue that platforms are in themselves good or bad or whatever,
+1065000	1072000	but rather to try to make the argument on behalf of, you know,
+1072000	1080000	for a kind of future old political science or economics or indeed international relations or computer science
+1080000	1088000	and most likely the way in which those approaches would need to kind of converge and understand each other a bit more,
+1088000	1092000	particularly the computer science and political science.
+1093000	1099000	To understand platforms not just as a kind of technical arrangement, but as an institutional form as well
+1099000	1105000	and one that has logics that are different than states, that are different than markets,
+1105000	1110000	that their political structure is different and indeed their economic structure is different.
+1110000	1117000	So whereas a platform in the simplest sense can be understood as a kind of a set of generic,
+1118000	1125000	a kind of a set of generic schematic arrangements that allows for the organization
+1125000	1133000	of other forms of conditional participation within that schema to interoperate with one another
+1133000	1138000	in ways that wouldn't have been possible without their participation within that platform.
+1138000	1144000	And so the platform in this way has the capacity to, as a kind of translation mechanism,
+1144000	1150000	a capacity as a kind of scaffolding system by which different kinds of actions and actors and participants
+1150000	1154000	can organize in relationship to one another.
+1154000	1157000	So lots of technical definitions of platforms.
+1157000	1163000	One of my PhD students, Stephanie Shermans, currently writing a book on the kind of early history of platforms
+1163000	1167000	in the industrial era with an emphasis on Fordism.
+1167000	1172000	So it's also, I think, important to say just for your listeners that when we're talking about platforms,
+1172000	1179000	we're not just talking about things like Airbnb and Uber and these contemporary versions of platforms
+1179000	1183000	that, for example, Nick Terncheck writes about in Platform Capitalism,
+1183000	1189000	where Nick is focusing on sort of the sort of contemporary face of many of these platforms.
+1189000	1195000	We can also think of platforms going back to the beginning of the urban grid as a kind of platform.
+1195000	1199000	Some would argue even the tetrahedral body plan as a kind of platform.
+1199000	1205000	But the platform as an organizational and technical logic has a historical scope
+1205000	1211000	that precedes computation and precedes planetary scale computation.
+1211000	1217000	But it's one in which the planetary scale computations, we define it,
+1217000	1221000	never would have happened if it was not organized through, as we understand it,
+1221000	1224000	never would have happened if it wasn't organized through platforms.
+1224000	1228000	So we can talk about things like the search engine as a kind of platform
+1228000	1233000	in that a search engine doesn't make any of the content that's on the Internet.
+1233000	1239000	It simply organizes the content that other people put on the Internet in such a way that in theory
+1239000	1246000	it makes that content more valuable both for the producer and the receiver of that content.
+1246000	1252000	So you put your website or your photos or whatever on the platform,
+1253000	1259000	there's now thousands or if not millions of people who will see this information,
+1259000	1264000	which in a way somehow makes it that now those items are more valuable for you
+1264000	1266000	because you've placed them on the platform.
+1266000	1268000	They're more valuable for the receiver to place on the platform.
+1268000	1271000	And so this is all obviously in theory.
+1271000	1276000	But here's that key idea around the economic difference
+1276000	1279000	and where they differentiate from states and markets.
+1279000	1285000	If states reproduce themselves, are able to in essence pay for their provision of public services
+1285000	1293000	primarily through taxation, that they identify kind of choke points within value chains
+1293000	1299000	such as a port or where goods are coming in and out or something.
+1299000	1303000	And they identify these kinds of choke points within value chains
+1303000	1312000	and then they absorb some of the value from these choke points in the form of taxation,
+1312000	1317000	which then pays for the long-term provision of the public services that made the production of that value possible
+1317000	1319000	in the first place and so on and so forth.
+1319000	1322000	But it's through taxation in essence that they reproduce themselves.
+1322000	1330000	Whereas corporations in the normal way of understanding them as capitalist structures
+1330000	1334000	reproduce themselves through commodities and transactions,
+1334000	1339000	that you produce a commodity, you pay charge more for the commodity
+1339000	1344000	and there's difference in this surplus between the two in the form of profit
+1344000	1348000	constitutes this ability for the corporation to reproduce itself.
+1348000	1350000	Platforms don't work either way.
+1350000	1353000	They don't tax you and they don't charge you.
+1353000	1354000	So how do they work?
+1354000	1361000	They work fundamentally through the rationalization of the information
+1361000	1367000	that populates the platform in such a way that that information becomes more valuable
+1367000	1369000	for the users of the platform.
+1369000	1373000	It rationalizes the information that populates the platform
+1373000	1377000	such that that information becomes more valuable for the users of the platform.
+1377000	1382000	And that differential between, let's say, the value of the information before it's concluded
+1382000	1389000	and after it's included in the platform is the basis of how they reproduce themselves.
+1389000	1392000	Currently, many of those are then dependent upon
+1392000	1397000	a sort of a secondary dependence market upon advertising.
+1397000	1402000	But I would argue that that's sort of a contingent arrangement
+1402000	1406000	that you can have and indeed have had lots of platforms
+1406000	1411000	that are, that produce, that actually reproduce themselves
+1411000	1415000	from many other kinds of ways besides that.
+1415000	1420000	So first of all, just as a sort of a definitional basis of platforms
+1420000	1425000	from the basis of our discussion.
+1425000	1429000	So a platform of platforms, as you've asked me sort of here as well,
+1429000	1434000	would refer to some other kind of meta-infrastructural mechanism
+1434000	1439000	that allows for multiple platforms to interoperate with each other.
+1439000	1444000	And so you can think of it a bit as a kind of first order platforms
+1444000	1447000	that are structuring and scaffolding structural systems
+1447000	1453000	that allow for the rationalization of information that's included in them.
+1453000	1456000	And then you can imagine sort of an aggregation of multiple platforms
+1456000	1462000	that in essence allows the platforms themselves to interoperate with one another
+1462000	1467000	in such a way that they have this, in principle that you have an even more,
+1467000	1472000	that you have other kinds of deliberate or emergent effects
+1472000	1475000	situated one way or another.
+1475000	1479000	Now, to the question about the interface layer that you asked
+1479000	1482000	about where the politics sits within this.
+1482000	1485000	I think in many ways the politics of the platforms
+1485000	1487000	is situated in many different places.
+1487000	1490000	And all the different points of description that I've argued here
+1490000	1494000	are all places that are ones that are interesting
+1494000	1497000	because they mediate power in some kind of way,
+1497000	1501000	that they are relevant, platforms are relevant as social technologies
+1501000	1504000	because they organize power in some way.
+1504000	1508000	To me this isn't a reason to exclude them,
+1508000	1512000	but rather to in essence to be interested in them
+1512000	1516000	and to try to understand how they can function as means
+1516000	1521000	for collective reason and societal self-composition.
+1521000	1524000	And to be quite concerned about the ways in which they
+1524000	1528000	are not living up to that assignment today
+1528000	1531000	because we should expect that of them.
+1531000	1534000	And because they may not be doing so today
+1534000	1537000	it's possible to criticize them for this fact
+1537000	1541000	because indeed this is something that should be expected of them.
+1541000	1543000	The question of the interface layer,
+1543000	1546000	the interface layer as I defined it has to do really with,
+1546000	1550000	the interface layer is the semiotic layer within the system
+1550000	1557000	that allows for the translation between users that are participating
+1557000	1560000	in the larger system and that system itself.
+1560000	1564000	So in the simplest sense you're using your computer,
+1564000	1567000	you're seeing all the buttons with words on them on the screen.
+1567000	1571000	Of all of the possible things you could do with your computer,
+1571000	1573000	of all the possible things your computer could do
+1573000	1575000	now that it's connected to the internet,
+1575000	1579000	all of those trillions and trillions and trillions of possibilities
+1579000	1585000	are reduced to a composable array of several dozen menu items
+1585000	1589000	that you can sort of choose between.
+1589000	1593000	That map reduction of all of those possibilities
+1593000	1596000	into this composable array of menu functions
+1596000	1602000	is unavoidably ideological, is unavoidably political
+1602000	1604000	if you want to think of it in those terms,
+1604000	1608000	constriction or collapse of the space of possibilities
+1608000	1611000	into a range of options.
+1611000	1613000	I would also argue though in a certain sense
+1613000	1616000	that this is to a certain sense unavoidable as well
+1616000	1619000	in that it has, when I call it a map reduction,
+1619000	1621000	this is exactly what it is.
+1621000	1624000	In the same way in which you don't want a map of your city
+1624000	1627000	that is one-to-one with your city,
+1627000	1628000	you don't want a map of the city
+1628000	1631000	that includes absolutely everything in your city on it
+1631000	1636000	and would be in essence the most accurate map possible of your city.
+1636000	1638000	You want a map that only includes,
+1638000	1642000	that gets rid of 99% of everything that's there,
+1642000	1646000	that only shows you that 1% that might be the most relevant
+1646000	1651000	for the purposes of the abstractions of navigation.
+1651000	1653000	Interface layer functions in a similar way.
+1653000	1657000	It's a kind of reductive abstraction of the space
+1657000	1660000	of the vectors of navigation through the space.
+1660000	1663000	And because of this function of simplification,
+1663000	1670000	it also allows for the network effects of the millions of people
+1670000	1676000	for whom this map is legible to actually use the system,
+1676000	1680000	to participate in the system, to generate value for the system,
+1680000	1683000	to have value generated for them from the system
+1683000	1687000	because of its simplification and its arrangement
+1687000	1689000	in the same way in which a simple map
+1689000	1693000	makes the city navigable for more people.
+1693000	1698000	On the one hand, you can see this as having a kind of democratizing effect,
+1698000	1702000	but there's a political valence of that.
+1702000	1705000	There's a political valence in the map reduction problem itself
+1705000	1707000	and the ideological constraint.
+1707000	1709000	There's also a political function of this
+1709000	1712000	in that in the network's effects of participation,
+1712000	1721000	you have the kinds of aggregations of user participants in such a way
+1721000	1724000	that they themselves enter into social relations
+1724000	1728000	that they wouldn't have been able to do so otherwise.
+1728000	1731000	So we're still kind of setting the groundwork, I think,
+1731000	1734000	for maybe the meat of our discussion,
+1734000	1739000	but if that's helpful in terms of kind of the definitional terms
+1739000	1746000	for how from not just a computer science perspective,
+1746000	1750000	but indeed from a sociological theory or economics or political science perspective,
+1750000	1753000	how it is that we can understand the terms of these interrelations
+1753000	1756000	and what is specific about platforms,
+1756000	1761000	what is generic about platforms in terms of how they function in these ways,
+1761000	1765000	then perhaps that's helpful.
+1765000	1767000	Yes, absolutely.
+1767000	1769000	This is super helpful, I guess,
+1769000	1773000	and it's super important that we get to understand this in a different form.
+1773000	1776000	And you have already touched upon how...
+1776000	1779000	I'm sorry, your question was about what other kinds of platforms could happen.
+1779000	1784000	So the reason I answer in this way is that defining platforms in this...
+1784000	1788000	I first would say there's lots of kinds of platforms that only could happen.
+1788000	1792000	I want to point your listeners' attention also historically
+1792000	1797000	to look at all of the kind of histories of platforms that in fact have preceded us
+1797000	1799000	and to understand some of the structures there.
+1799000	1802000	So I'm sorry, please go ahead.
+1802000	1805000	No, I just wanted to say that we already touched upon
+1805000	1812000	how this idea of platform of platforms might be able to address
+1812000	1815000	what has been called the socialist calculation problem
+1815000	1819000	or the socialist pricing problem, you call it.
+1819000	1823000	But in your texts you also point that it might be able to solve
+1823000	1825000	the capitalist pricing problem.
+1825000	1828000	And maybe let's just point out what that is
+1828000	1832000	and how a platform of platforms might be able to address this one.
+1832000	1837000	Sure. Yeah, and there's lots of other pricing problems as well
+1837000	1840000	besides just those two.
+1840000	1845000	In some respects, I think we may want to...
+1845000	1850000	Going forward, I think we'll probably want to open up the space of possibilities
+1850000	1856000	beyond this sort of simple Cold War dynamic of that as well.
+1856000	1860000	But yeah, to your point, I argue in the book that in many ways
+1860000	1862000	it's the capitalist pricing...
+1862000	1864000	The capitalist pricing problem, as I call it,
+1864000	1867000	that it maybe is the more pressing issue now.
+1867000	1872000	So if through whatever bending arcs of historical irony
+1872000	1877000	it ended up being Walmart and Amazon that proved that Hayek was wrong
+1877000	1881000	and that the socialist cybernauticians were right
+1881000	1887000	and that these big capitalist companies solved the socialist pricing problem
+1887000	1889000	in whatever strange way,
+1889000	1892000	the capitalist pricing problem, as I define it,
+1892000	1894000	really has to do in terms of...
+1894000	1897000	is a way of thinking about pricing systems
+1897000	1902000	in relationship to negative externalities.
+1902000	1906000	And in a larger sense, I see this as part of the question
+1906000	1909000	of the more important question of
+1909000	1914000	ultimately what is planetary scale computation for?
+1914000	1917000	If the stack was a book that was about
+1917000	1921000	what is planetary scale computation and how does it work,
+1921000	1925000	the next book is really more trying to speak to this question again.
+1925000	1927000	What is planetary scale computation for?
+1927000	1931000	How do we would see it in longer historical terms
+1931000	1934000	and maybe even in geologic terms,
+1934000	1937000	in sort of anthropocene scale kinds of terms.
+1937000	1943000	What does it mean now that it's possible for human societies
+1943000	1947000	and indeed human societies to calculate their own,
+1947000	1949000	to model and calculate their own processes
+1949000	1951000	with such speed and clarity,
+1951000	1954000	but also in many ways how it's possible for,
+1954000	1956000	if you think of the entire apparatus itself,
+1956000	1960000	of the satellite systems, the transoceanic cables,
+1960000	1963000	the data centers, this entire planet,
+1963000	1966000	this entire kind of artificial crust
+1966000	1969000	that we have produced around the surface of the planet,
+1969000	1971000	what it means for also to create for a planet
+1971000	1976000	to be able to model itself and act back upon itself
+1976000	1982000	with such sophistication.
+1982000	1985000	How do we understand this even in geological terms
+1985000	1987000	in terms of the arc and history of the planet?
+1987000	1990000	And so there's some questioning then
+1990000	1994000	of how to locate the question of planetary scale computation
+1994000	1996000	within some of the philosophical questionings
+1996000	2001000	after planetarity itself and how this would function.
+2001000	2003000	Now, to the question of the capitalist pricing problem,
+2003000	2006000	back to this, the capitalist pricing problem,
+2006000	2009000	as I define it, and again, it's rather schematic,
+2009000	2011000	has to do with the negative externalities
+2011000	2014000	within economic transactions
+2014000	2018000	and this trying to locate the question of economics,
+2018000	2024000	the ontology of economics within that of ecology more broadly.
+2024000	2026000	Excuse me.
+2026000	2029000	So the question of the ontology of economics,
+2029000	2032000	that is, what is value? What is valuable?
+2032000	2036000	And how can something be identified as valuable
+2036000	2042000	in whatever sense is, in theory, represented within the price?
+2042000	2047000	That if there is, in theory, 10 euros of value within this item,
+2047000	2050000	that the price of this will be 10 euros,
+2050000	2053000	and that the capacity for calculation,
+2053000	2057000	the markets to calculate this or central computer to calculate this,
+2057000	2060000	that there is some either correspondence
+2060000	2062000	between the price and the underlying value
+2062000	2064000	or distortion of correspondence
+2064000	2067000	between the price and the underlying value.
+2067000	2071000	And so for Hayek, the socialist pricing problem
+2071000	2074000	represented a distortion of value
+2074000	2077000	in that it could never really know
+2077000	2079000	whether something was overpriced or underpriced
+2079000	2082000	because it couldn't calculate it fast enough.
+2082000	2085000	What many of those, it's not my idea,
+2085000	2087000	but many of those working in fields of ecological economics
+2087000	2091000	have identified is that there's a different kind of distortion
+2091000	2094000	that's happening within the market price
+2094000	2102000	in that there are underlying social and ecological costs
+2102000	2107000	to the production and transaction and consumption of commodities
+2107000	2110000	that are not reflected in the price.
+2110000	2112000	These are called negative externalities.
+2112000	2116000	They would include, so if that $100 barrel of oil,
+2116000	2121000	if it costs $100 because the amount that's available
+2121000	2124000	on the world market at any point in time
+2124000	2129000	would suggest that this is the price of it,
+2129000	2133000	what that price signal does not include, for example,
+2133000	2138000	are the immediate and or long-term costs of burning that oil,
+2138000	2143000	of releasing that, of liberating that carbon into the atmosphere,
+2143000	2147000	and the costs of its ramifications,
+2147000	2150000	whether those are immediate health costs
+2150000	2153000	or long-term subtraction costs.
+2153000	2156000	We were having a lot of discussions with colleagues
+2156000	2159000	around negative emissions technologies
+2159000	2164000	and the need for not only the decarbonization,
+2164000	2167000	not putting more carbon into the atmosphere,
+2167000	2170000	but the subtraction of existing carbon from the atmosphere
+2170000	2173000	in order to keep it 2 degrees Celsius.
+2173000	2175000	The real question of this is how do you pay for it?
+2175000	2177000	Well, part of the reason you can't pay for it
+2177000	2180000	is because the cost of the production of that carbon
+2180000	2183000	in the first place was not reflected
+2183000	2188000	in the price signal of the oil that produced that carbon
+2188000	2191000	in its first instance, as you see.
+2191000	2195000	And so this represents a distortion of the pricing.
+2195000	2197000	The question then for going to this question
+2197000	2200000	of what planetary scale computation is for
+2200000	2202000	is to ask the question is,
+2202000	2205000	would it be possible to undistort this signal?
+2205000	2210000	Would it be possible for there to be a price signal
+2210000	2214000	that was in essence not distorted in this way?
+2214000	2217000	It would have to be a price signal where, for example,
+2217000	2221000	the price of that barrel of oil would somehow be able to count,
+2221000	2225000	be inclusive of not just the transactional value,
+2225000	2229000	but ultimately all of the secondary and tertiary costs
+2229000	2235000	and value that would be associated with that item,
+2235000	2238000	such that it would be the cost of the barrel of mine
+2238000	2241000	being $500 a barrel or $1,500 a barrel,
+2241000	2245000	if that's what it would cost to actually deal with this.
+2245000	2248000	Now, what I sort of hypothesize in the book a bit
+2248000	2250000	more of as a thought experiment
+2250000	2253000	than as a policy recommendation
+2253000	2256000	is to ask them what you would need then is some ability
+2256000	2263000	for some kind of economics calculative substrate
+2263000	2265000	that was able not just to identify
+2265000	2267000	the immediate transactional relations,
+2267000	2273000	but to hypothesize a futural value of that,
+2273000	2277000	to imagine in the future what the cost of that would be
+2277000	2279000	that has not happened yet.
+2279000	2281000	So you burn the barrel of oil in the future
+2281000	2283000	that will be these costs that are associated with it
+2283000	2285000	in the form of negative externalities,
+2285000	2288000	but how much is that for one barrel of oil
+2288000	2290000	or for 10 barrels of oil or for one bicycle
+2290000	2293000	or for one lunch or for one whatever?
+2293000	2296000	There would be a future cost that hasn't happened yet.
+2296000	2299000	There would have to be a way, in essence, to price the future.
+2299000	2302000	How would you calculate the pricing of the future
+2302000	2306000	into the transaction in some kind of way?
+2306000	2309000	So this sort of led us to some of the questions
+2309000	2312000	about the ways in which planetary scale computation
+2312000	2317000	has already been used as a method for futural modeling
+2317000	2320000	and the production of models of the future
+2320000	2323000	that can or should have some recursive capacity
+2323000	2325000	to govern the present.
+2325000	2327000	And that's really what I think this question
+2327000	2329000	of the capitalist pricing,
+2329000	2332000	the de-distortion of the capitalist pricing
+2332000	2334000	that it comes down to,
+2334000	2338000	how can objective empirical statistically valid models
+2338000	2341000	of the future govern the present in some kind of way?
+2342000	2345000	So that includes, there's a lot of other discussions
+2345000	2348000	about just the general capacities of prospection,
+2348000	2353000	of how it is that the predictive structures of the future
+2354000	2356000	as part of human cognition play into this,
+2356000	2359000	the ways in which the kind of preemptive logics
+2359000	2362000	of the biopolitics of planetary scale computation
+2362000	2363000	play into this.
+2363000	2366000	But we were looking at basically two things.
+2366000	2369000	One was climate science.
+2369000	2372000	And one of the, I think the key points for this
+2372000	2376000	is that I make the argument that climate change itself,
+2376000	2379000	not the physical geophysical fact of climate change,
+2379000	2382000	but the concept of climate change,
+2382000	2384000	the statistical regularity that the earth is warming,
+2384000	2387000	is itself an epistemological accomplishment
+2387000	2389000	of planetary scale computation.
+2389000	2392000	That without this sensing, calculation, simulation,
+2392000	2395000	modeling apparatus of planetary scale computation,
+2395000	2399000	the very idea of climate change as a kind of
+2399000	2404000	reductive statistical regularity of a hockey stick arc
+2404000	2406000	of all of the things that are going on in the planet
+2406000	2407000	could not be possible.
+2407000	2410000	And one of the things, it wasn't possible to calculate.
+2410000	2413000	This is a better example of what planetary scale computation
+2413000	2418000	is for, if you ask me, and a different kind of model
+2418000	2420000	of its ultimate social, technical,
+2420000	2422000	and ecological potential.
+2422000	2424000	But it's also one that is based on this,
+2424000	2428000	of a kind of a temporal and historical differential
+2428000	2430000	between the past and the future.
+2430000	2433000	It's used not only to mark a present moment,
+2433000	2436000	but also to sample moments in the past
+2436000	2439000	through ice core sampling or other kinds of things
+2439000	2443000	to try to understand the kind of the calculus,
+2443000	2445000	the statistical differential arc of this
+2445000	2447000	over a long period of time,
+2447000	2449000	and also to produce valid computational simulations
+2450000	2452000	of what the next 10 years, or 20 years,
+2452000	2454000	or 30 years, or 40 years are being like.
+2454000	2456000	And so when we look at all the IPCC scenarios,
+2456000	2458000	and they're forking into the future,
+2458000	2460000	depending on what happens,
+2460000	2462000	these are computational simulations
+2462000	2467000	dependent upon different presumptions and first principles.
+2467000	2471000	But they are models of the future that we can
+2471000	2474000	and should be using to govern the present.
+2474000	2477000	That's what climate science is going to do for it.
+2477000	2479000	And so this is one example by which, yes,
+2479000	2482000	we can imagine ways in which we have models of the future
+2482000	2485000	that we wish to have recursively come back
+2485000	2487000	and model the present.
+2487000	2490000	The other one, a bit more prosaic that we've been
+2490000	2494000	experimenting with is around, of all things, insurance.
+2494000	2500000	Insurance is another way in which the future is priced,
+2500000	2505000	and that it's priced in a way that acts back upon
+2505000	2509000	the changes, the price signal of something we do in the present.
+2509000	2515000	So if you're, one of my favorite magazines of all time
+2515000	2518000	is a magazine called Schaden Spiegel.
+2518000	2522000	It's the magazine of the German Reinsurance Agency.
+2522000	2525000	It's basically like disaster monthly,
+2525000	2531000	but it also has some of the most amazingly sober
+2531000	2535000	descriptions of the implications of climate change
+2535000	2538000	on large-scale infrastructure that you'll be able to find anywhere.
+2538000	2541000	Because they're the ones on the hook for a lot of this,
+2541000	2544000	ultimately, of where this would go.
+2544000	2547000	And so if you wanted to build that piece of infrastructure,
+2547000	2549000	not only does it need to be insured,
+2549000	2551000	but the insurance company needs to get reinsurance against it.
+2551000	2554000	And if the reinsurance company realizes that that thing
+2554000	2557000	is going to be extremely vulnerable to climate irregularities,
+2557000	2560000	you can't get it insured.
+2560000	2563000	Or if you get it insured, the price of doing it now
+2563000	2566000	is going to be so much higher because that insurance policy
+2566000	2569000	will be so expensive that it actually changes the price signal
+2569000	2573000	of whether we should build that infrastructure thing in the first place.
+2573000	2575000	So you see where I'm going with this.
+2575000	2580000	That if you can actually think about what the long-term climatic ramifications
+2580000	2584000	of some kind of action or investment would be in the future,
+2584000	2589000	such that those negative externalities are not only not excluded
+2589000	2594000	from the price, but are formed the basis of the model
+2594000	2598000	by which the price is produced in the first place.
+2598000	2604000	Then you go some distance towards at least de-distorting
+2604000	2610000	that initial price signal in such a way that you have a transformation
+2610000	2615000	to some extent what we even mean by price in the first place.
+2615000	2620000	You introduce a different temporality to economic ontology,
+2620000	2626000	and that what constitutes value is being produced
+2626000	2632000	in relationship to not only future value in the same way
+2632000	2635000	as stock price is related to future value,
+2635000	2640000	but also related to future costs in ways in which that are inclusive in this.
+2640000	2645000	This is a bit what we mean by that idea.
+2645000	2650000	Obviously, some of the open questions here is how total of a system
+2650000	2653000	is necessary for this to work.
+2653000	2658000	Is there a way in which does this have to be entirely some sort
+2658000	2662000	of massively centralized mechanism, but through which other forms
+2662000	2667000	of valuation can't escape, or is there some kind of way
+2667000	2672000	in which even the organized participation
+2672000	2680000	within a kind of economics of this sort that is futureal in this way,
+2680000	2687000	that is inclusive of what are present externalities in some sort of way,
+2687000	2693000	is there some kind of way that participation on this can be incentivized
+2693000	2700000	in a way in which it itself becomes a kind of catalytic institution,
+2700000	2704000	a kind of bottom-up institution rather than necessarily one
+2704000	2711000	that requires some kind of Skynet system to enforce itself.
+2711000	2715000	I think that's kind of an open question,
+2715000	2719000	which means that in a certain way we're back to where we started.
+2720000	2724000	Is that if all of this started in a debate between is it possible to have,
+2724000	2728000	can we only have bottom-up organization of this and will it work itself out,
+2728000	2731000	or do we need some kind of centralized top-down piloting function
+2731000	2733000	to make all of this work properly?
+2733000	2737000	If that's where this argument started in the 1950s,
+2737000	2740000	even when we're talking about how you incentivize participation
+2740000	2744000	within this situation I described,
+2744000	2749000	that question doesn't present itself as already solved.
+2751000	2756000	This is super interesting and I think there's a different layer to it,
+2756000	2759000	which is quite important as well,
+2759000	2762000	because actually I think what you're kind of saying is that
+2762000	2767000	the future is already priced, but it could be priced much better.
+2767000	2771000	And this kind of stays within the realm of pricing the future
+2771000	2777000	and argues for better models and the incorporation of externalities
+2777000	2780000	specifically into the question of pricing.
+2780000	2782000	For example, yes.
+2782000	2785000	But there is a different level,
+2785000	2789000	and maybe this is the homo sapiens level at the end,
+2789000	2791000	there's a different level to this.
+2791000	2794000	And Evgeny Morozov writes about it in his essay
+2794000	2797000	in the New Left Review on Digital Socialism,
+2797000	2799000	and I'd like to quote him here,
+2799000	2803000	When Austrian economists respond to today's defenders of central planning
+2803000	2806000	by noting that any non-capitalist system,
+2806000	2809000	even one rooted in the power of big data,
+2809000	2812000	could only beat the efficiency of the price system
+2812000	2817000	if it also created new behavioral modes and frameworks of meaning,
+2817000	2819000	they have a point.
+2819000	2821000	I think this is super important
+2821000	2824000	and I think it's relevant for what you just said as well,
+2824000	2827000	and at least in two key aspects,
+2827000	2832000	it's relevant for the question of synthetic catalectsies to come,
+2832000	2836000	specifically if they are embedded in some form of red futurism.
+2836000	2839000	The first one would be, and this is implicit in Morozov's quote,
+2839000	2842000	that prices are not just numerical, but social,
+2842000	2845000	and that it is therefore not enough to find a different method
+2845000	2847000	of quantification or weighing.
+2847000	2850000	So this would kind of mean that it's not enough
+2850000	2853000	to price the future even better,
+2853000	2856000	because there's still the question of new behavioral modes
+2856000	2858000	and frameworks of meaning,
+2858000	2861000	which are kind of an obstacle and a chance, I guess.
+2861000	2865000	And the second one is that markets are not equal to capital
+2865000	2869000	and that capital does not necessarily need markets,
+2869000	2872000	and that therefore the force of capital as such
+2872000	2875000	would need to be abolished if one wanted to be serious
+2875000	2878000	about synthetic catalectsies as red futurism.
+2878000	2881000	And this is a specific form, you know?
+2881000	2884000	So I think those are probably two questions,
+2884000	2887000	and maybe if I just, so I can keep them in my mind at once,
+2887000	2890000	maybe we ask them, I'll try to answer them one at a time,
+2890000	2893000	and maybe you can ask me the second one again after this as well.
+2893000	2898000	So I would say that I don't disagree,
+2898000	2902000	I probably don't disagree essentially with the point that
+2903000	2906000	that simply another,
+2906000	2909000	just a different means of calculating price
+2909000	2912000	about the same thing would be sufficient.
+2912000	2916000	What I'm calling a kind of a shift in economic ontology
+2916000	2919000	goes to that question of what value is
+2919000	2922000	and what is even being priced in the first place.
+2922000	2925000	So it's not just when we're talking about a barrel of oil,
+2925000	2929000	it's not just this particular assemblage of molecules
+2929000	2931000	that is transacting owners,
+2931000	2935000	but it's understood to be a whole other set
+2935000	2938000	of past, present, and future dynamics
+2938000	2943000	that one has illegal liability in its relationship to
+2943000	2945000	that becomes part of the price.
+2945000	2948000	And I think another way in which this goes back to this question
+2948000	2950000	of insurance and another future thing,
+2950000	2955000	part of the question about price has to do with,
+2955000	2958000	and another kind of externality is a political externality
+2958000	2962000	in that it is the institutions that allow in essence
+2962000	2966000	for the renunciation of liability in relationship to something.
+2966000	2969000	And you can just think, I mean, in the simplest possible sense,
+2969000	2972000	think of this in terms of like trash.
+2972000	2974000	So like you've got something in your house
+2974000	2977000	and you put it out in the garbage can
+2977000	2979000	and like someone comes along and takes it and says,
+2979000	2981000	well, this isn't yours anymore
+2981000	2983000	because you put it in the trash, right?
+2983000	2986000	And somehow in the act of like getting rid of it,
+2986000	2990000	you're not only renouncing property claims over it,
+2990000	2995000	you're also renouncing liability claims over it as well, right?
+2995000	2998000	And so part of the process of the reason
+2998000	3001000	why negative externalities can even work in this way
+3001000	3006000	is because we have this magic function
+3006000	3009000	by which the renunciation of private property
+3009000	3012000	constitutes the renunciation of liability.
+3013000	3016000	So I can spew all of the carbon dioxide
+3016000	3019000	into the atmosphere once I want.
+3019000	3024000	And once it's sort of above the airspace property line
+3025000	3028000	of my factory, it's no longer my carbon dioxide,
+3028000	3031000	and therefore I'm no longer liable for this carbon dioxide.
+3031000	3035000	So you see the point about this renunciation of liability
+3035000	3036000	in this space as well.
+3036000	3039000	Now, what I'm talking about as the shift
+3039000	3044000	of a kind of economic ontology has to do some ways
+3044000	3048000	in which that magic function of renunciation of liability
+3048000	3052000	and renunciation of sort of embeddedness
+3052000	3055000	within these socio-molecular relations
+3056000	3059000	is not something that can be so easily renounced,
+3059000	3061000	that is in fact part of what you're buying
+3061000	3063000	when you enter into the relations
+3063000	3066000	with that barrel of oil in the first place.
+3066000	3069000	So that is part of what I mean.
+3069000	3071000	So that is a bit where it seems like
+3071000	3074000	I probably agree with Evgeny in the sense to which
+3074000	3076000	it's not just a matter of finding another mechanism
+3076000	3078000	by which we measure the same thing.
+3078000	3080000	It's a matter of changing
+3080000	3082000	what we're measuring in the first place.
+3083000	3085000	But where I would say, where it may be disagree,
+3085000	3086000	when he says something like,
+3086000	3087000	I think your line was a measure,
+3087000	3090000	it's not just a matter of measuring and calculating
+3090000	3093000	something but rather something else
+3093000	3094000	because these have social relations.
+3094000	3096000	I think my point is that measuring and calculating
+3096000	3097000	are social relations.
+3100000	3102000	What he's saying is it can't just be
+3102000	3104000	these measuring things because it's social.
+3104000	3106000	I'm saying that is in fact what the social is.
+3106000	3109000	Measuring things and calculating things and weighing things
+3109000	3111000	not only have social functions,
+3111000	3113000	they are social functions.
+3113000	3116000	They are sort of the key social functions
+3116000	3121000	as part of this whole kind of dynamic as well.
+3121000	3125000	And so it is for sure something that needs to go deeper
+3125000	3127000	into this question of how we identify
+3127000	3129000	not only how we value the thing
+3129000	3131000	but what the thing is in the first place.
+3131000	3132000	So agreed.
+3132000	3134000	Now whether or not this constitutes
+3134000	3138000	a kind of behavioral change, it would.
+3138000	3141000	It's a matter of, it's an open question though
+3141000	3143000	I think whether or not the behavioral
+3143000	3145000	and psychological transformation would be the cause
+3145000	3146000	or the effect.
+3148000	3150000	And honestly there's sort of different approaches
+3150000	3153000	and schools of thought to this.
+3153000	3156000	And this probably goes to a more deeper
+3156000	3159000	sort of approaches to ecological politics
+3159000	3163000	and indeed just the kind of dynamics in general.
+3163000	3165000	For those whose alliance,
+3165000	3167000	whose those sort of like way of seeing the world
+3167000	3171000	is one in which large scale change happens
+3171000	3174000	through the accumulation of virtuous acts.
+3174000	3178000	That if enough people do enough virtuous acts
+3179000	3182000	and those virtuous acts assemble into millions and billions
+3182000	3184000	and trillions of virtuous acts,
+3184000	3187000	then there will be an infrastructural transformation
+3187000	3192000	will ensue through this deliberate conscious
+3194000	3199000	psychological moral shift in paradigmatic worldview
+3201000	3205000	and then the accumulation of virtuous acts.
+3205000	3206000	And then there's others.
+3206000	3209000	And I would be on the second side of this a bit more
+3209000	3212000	that would suggest in many ways the history of technology
+3212000	3214000	and the history of society are not only intertwined
+3214000	3217000	with one another, but in many respects,
+3217000	3220000	shifts in social systems and in cultural systems
+3220000	3222000	and indeed in political and economic systems
+3222000	3227000	usually happen more as an effect of transformations
+3227000	3231000	within underlying technological systems.
+3231000	3233000	This is in a certain sense
+3233000	3236000	based a superstructure kind of approach
+3236000	3239000	that in transformations not just in the means of production,
+3239000	3241000	but indeed in the mode of production
+3242000	3245000	that you then see shifts in culture
+3245000	3248000	and shifts in psychology as a result of these.
+3248000	3250000	And so I think in many respects,
+3250000	3255000	my inclination would be to look at ways
+3255000	3259000	in which you'll get greater leverage faster
+3259000	3264000	by looking at ways in which there would be shifts
+3264000	3267000	in geotechnology and shifts in geoeconomics
+3267000	3270000	that would bring about shifts in geoculture
+3270000	3275000	rather than trying to bring about a spiritual transformation
+3276000	3280000	that would subsequently down the line
+3280000	3282000	transform those geotechnologies.
+3282000	3285000	It's really not because of an aesthetic preference
+3285000	3287000	of this so much, but rather than just,
+3287000	3289000	I think that the history of economics
+3289000	3291000	and the history of technology suggest
+3291000	3295000	that that's the more likely path.
+3296000	3299000	But at least as far as I understand it,
+3299000	3301000	the question that he's aiming at when he's saying
+3301000	3304000	new behavioral modes and frameworks of meaning,
+3304000	3308000	it's more about what are the crucial points
+3308000	3313000	that are not only concerned with these technical aspects
+3313000	3317000	of, for example, how to price the future any better
+3317000	3320000	because these ideas of externalities
+3320000	3324000	and how you can behave with your property,
+3324000	3328000	this is ingrained in the very concept of property as such.
+3328000	3332000	So if you are not able to change this idea of property
+3332000	3336000	as a form of behavioral mode and a framework of meaning,
+3336000	3341000	then you won't get to a point where you will be effective
+3341000	3346000	in bringing people to a point of not treating it
+3347000	3349000	as an externality.
+3349000	3350000	Do you see what I mean?
+3350000	3353000	I think there's a way of approaching it
+3353000	3355000	from the perspective of, okay, we need to find
+3355000	3359000	a more effective pricing mechanism for these externalities,
+3359000	3363000	or we need to find a way to address this social institution
+3363000	3366000	of property as such because the property as such,
+3366000	3369000	as a social institution and a framework of meaning,
+3369000	3372000	is one of the root causes for the ways we do address
+3372000	3375000	these questions on a large scale.
+3375000	3378000	And this is not coming from a moral perspective,
+3378000	3382000	but as well from a perspective of effectiveness, I guess.
+3382000	3384000	Possibly.
+3384000	3386000	I agree with you everything up to the point of the phrase
+3386000	3387000	root cause.
+3387000	3390000	I see it as root effect.
+3390000	3396000	I completely agree with you that ultimately you can't have
+3396000	3398000	one without the other.
+3398000	3400000	I don't argue with this at all.
+3404000	3408000	If there is a changing in somehow, even at the level
+3408000	3411000	of some shift in the geotechnology of pricing
+3411000	3414000	and organization and the ontology of property
+3414000	3418000	that has some kind of planetary scale legal binding structure,
+3418000	3425000	if this isn't, in fact, become part of the culture
+3425000	3428000	of our relationship to object and molecular assemblages
+3428000	3430000	around us and our socioeconomic environment,
+3430000	3433000	if it doesn't actually become a social infrastructure
+3433000	3438000	and doesn't actually become the basis of the way
+3438000	3442000	in which we plan, conceptualize, model,
+3442000	3446000	and recursively organize our relationship
+3446000	3449000	to the material world, then it's nothing.
+3449000	3454000	It's not even a technology because it's not being used.
+3454000	3455000	There's no argument.
+3455000	3457000	I absolutely agree.
+3457000	3459000	And then part of the question is, how is it
+3459000	3464000	that at societal levels that the kind of models
+3464000	3470000	that we have, cognitive models, at an individual level
+3470000	3473000	and at a group level, cognitive models that understand
+3473000	3478000	and calculate advantage, calculate the future,
+3478000	3481000	calculate our interests, calculate our interactions
+3482000	3486000	with these kinds of things are done so in relationship
+3486000	3488000	to these differential systems.
+3488000	3492000	If that isn't part of how we are rethinking the world,
+3492000	3496000	then these technologies are, in fact, not even technologies.
+3496000	3499000	I would agree with that because they're not
+3499000	3501000	being used in this way.
+3501000	3506000	What I'm simply suggesting is that there is a presumption,
+3506000	3509000	and I think, honestly, I think it's one that's rather deep
+3509000	3513000	in a Western liberal individualist framework,
+3513000	3518000	that first there is a cognitive psychological transformation
+3518000	3522000	that then is made manifest upon the world,
+3522000	3528000	that somehow the agency and subjectivity are the same thing,
+3528000	3531000	that our agency in the world is ultimately
+3531000	3533000	a function of our subjectivity.
+3533000	3537000	And what I'm suggesting, honestly, I think I'm making
+3537000	3540000	more of a Marxian argument that in many ways
+3540000	3543000	that the transformations in the mode of production,
+3543000	3546000	and I would include these shifts in economic ontology
+3546000	3548000	as a shift in the mode of production,
+3548000	3554000	ultimately transforms the culture in its image more so.
+3554000	3556000	You can't have one without the other,
+3556000	3558000	but in terms of where it is that we should,
+3558000	3564000	where I would place my bet, now speaking of the future,
+3564000	3569000	so placing my bet on which is more a cause of the other,
+3569000	3572000	I'm going to vote that base causes superstructure
+3572000	3577000	more than superstructure causes base.
+3577000	3579000	Nice, super nice.
+3579000	3583000	I love this answer, and it already touches upon
+3583000	3587000	one of the next questions which is concerned with the individual.
+3587000	3593000	This has been the first part of the Future Histories Live event
+3593000	3595000	with Benjamin Bretton.
+3595000	3598000	I hope you enjoyed it, I certainly did.
+3598000	3600000	If you want to support Future Histories,
+3600000	3605000	then you can do so via Patreon or through a simple donation.
+3605000	3608000	And if you're not able to support Future Histories economically,
+3608000	3610000	then this is absolutely fine,
+3610000	3613000	because there is a fantastic money-free way
+3613000	3615000	to support the project too,
+3615000	3618000	and that is by telling a friend about the show
+3618000	3621000	who might be interested in the topics we discuss here.
+3621000	3624000	Thank you all, and hear you in two weeks.

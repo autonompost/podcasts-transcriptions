@@ -1,0 +1,584 @@
+start	end	text
+0	5760	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+5760	11600	Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Shintaro Miyazaki begrüßen zu
+11600	18960	dürfen. Er ist Junior Professor für Digitale Medien und Computation am Institut für Medienwissenschaft
+18960	24800	der Humboldt-Universität zu Berlin. Shintaro und ich, wir kennen uns durch das von Anna Verena
+24880	31160	Nosthoff und Felix Maschewski geleitete Critical Data Lab. Das ist nämlich bei Shintaro's
+31160	37360	Professur an der HU gehostet, also der institutionelle Host dieses Labs ist Shintaro's
+37360	43280	Professur. An dieser Stelle auch liebe Grüße an alle vom Critical Data Lab. Ich freue mich
+43280	47400	sehr, dass wir heute über Shintaro's Buch sprechen können, das den Titel trägt,
+47400	53520	Digitalität tanzen. Denn in diesem Buch da kommen viele Themen auf, die auch durchaus eine zentrale
+53560	60680	Rolle hier bei Future Histories spielen. Der Titel lautet nämlich im vollen Digitalität tanzen über
+60680	67240	Commoning und Computing und sowohl das Commoning als auch das Computing dürften regelmäßigen
+67240	74000	Future Histories HörerInnen durchaus untergekommen sein, sage ich mal über die Zeit hinweg. Insofern
+74000	79640	passt das ganz ausgezeichnet in die Fragen der Suchbewegung von Future Histories hinein. Einer
+79640	85600	der aktuellen Stränge der jetzt der laufenden zweiten Staffel widmet sich ganz dezidiert dem
+85600	92040	Regieren der Algorithmen und da passt Shintaro's Arbeit mit ihrem Blick auf alternative Rhythmen
+92040	97880	der Digitalität natürlich ganz ausgezeichnet hinein. Insofern kann ich euch zum Beispiel auch
+97880	104120	die Folge mit Robert Seifert zu algorithmischer Sozialität ans Herz legen und es gibt so manche
+104120	110720	andere Folge, die durchaus in einem produktiven Dialog mit der heutigen Episode stehen, namentlich
+110720	118360	zum Beispiel Folge 47 der ersten Staffel mit Stefan Meritz zu Kommunismus oder auch die Folge
+118360	124480	mit Jens Schröter zur Gesellschaft nach dem Geld. Denn in diesem Forschungsprojekt von Jens da haben
+124480	131800	sie ja auch mit Agent Based Modeling eine eben Gesellschaft nach dem Geld modelliert und wie ihr
+131920	138200	später hören werdet ist auch Shintaro an Agent Based Modeling sehr interessiert. Es gäbe sicher
+138200	142280	noch einige andere Episoden, die ich hier empfehlen könnte, aber ich möchte euch nicht zu lange
+142280	148480	aufhalten. Bevor es jetzt losgeht möchte ich aber noch ganz unbedingt Fabian, Lukas, Carmen und
+148480	155320	Wilfried für ihre Spenden danken und Minoas ganz herzlich als Patreon von Future Histories begrüßen
+155320	163080	und jetzt viel Freude mit der heutigen Episode Future Histories mit Shintaro Miyazaki zum Tanzen
+163080	175760	der Digitalität. Herzlich willkommen Shintaro. Ja ich freue mich sehr, dass ich hier dieses
+175760	183040	Gespräch mit dir führen darf und damit auch einen Beitrag leisten kann zu deiner schönen Serie und
+183040	190400	die Folge zum Anarchismus zum Beispiel fand ich ganz toll. Daniel Leuk oder jene mit Jens Schröter
+190400	199560	auch und die ganz relativ neue mit Alexander Kluge, grandios. Also bin ich auch sehr gespannt wie das
+199560	205600	Gespräch sich entwickelt und ja die Frage wie wir unsere Zukunft gemeinsam gestalten können ist
+205600	211040	auch eine Frage die mich seit Längerem beschäftigt. Ja das merkt man am Buch muss ich sagen, dass dich
+211040	215360	das beschäftigt und ich fand das auch unglaublich interessant wie du dich dieser Frage eben zuwendest.
+215360	222560	Vielleicht lass uns anfangen mit dem algorithmischen, das ist jetzt natürlich im sprachlichen nicht so
+222560	228200	leicht zu sehen, das ist mit y geschrieben also eine Kombination, eine Wortkreation aus dem
+228200	236000	Algorithmus mit i klassischerweise ja so geschrieben und dem Rhythmus, das ist eine Figur der Algorithmus
+236000	241880	die du schon in deiner Dissertation eigentlich geformt hast, angefangen hast zu formen und die du
+241880	246800	jetzt eben auch weiterentwickelst. Vielleicht kannst du uns das zunächst mal ein bisschen näher
+246800	254440	bringen. Was hat es auf sich mit dem algorithmischen? Ja danke, es ist eine bewusst falsch
+254440	262400	geschriebene Form, eine Karkografie könnte man sagen, wo eben Algorithmus, wo ich das mit R-H-Y-T-H
+262400	270200	schreibe statt mit R-I-T-H und ich wollte eben damit auf die Zeitprozesse, die mit digitalen Medien zu
+270200	277280	tun haben, aufmerksam machen und Rhythmus war deshalb ein passendes Konzept, das war zumindest mein
+277280	285360	Argument, weil es so beides, also symbolisch, also es ist abstrakt und hat mit Mathematik zu tun und
+285360	290440	es ist gleichzeitig aber auch realphysikalisch, es basiert auf Signale, es basiert auf Körperlichkeit
+290920	298080	und das führt dann ja auch zum Tanz, genau und dann damals bei meiner Literatursuche habe ich mich
+298080	304720	auch zum Beispiel mit der Rhythmusanalyse des französischen Marxisten Henri Lefebvre beschäftigt,
+304720	312640	der hat dann auch später zur Stadt und so viele Monographien geschrieben und da hatte sich eben
+312640	316520	auch für die Arbeit drin und für die Maschinen, die Rhythmen der Maschinen so interessiert,
+316520	321160	das muss dich dann aber damals so ein bisschen, dieses politische muss dich ein bisschen außen
+321160	328040	vor lassen. Genau und das kommt jetzt dann mit Vehemenz oder zumindest mit Dringlichkeit eigentlich
+328040	333320	wieder hinein in deinem neuen Buch, da bringst du eben dann dezidiert eine politische Ebene mit in
+333320	340760	das Ganze hinein und es geht dir dabei darum und ich zitiere dich hier, wie Digitalität neue Rhythmen,
+340760	345880	Tänze und Bewegungen ermöglichen könnte, die den Kapitalismus und die damit einhergehende
+345880	351640	Selbstzerstörung der bisher liberal bürgerlich geprägten Gesellschaft aufzuheben und in etwas
+351640	356880	Neues zu transformieren vermögen, Zitat Ende. Vielleicht kannst du auch das noch ein bisschen
+356880	361440	genauer ausführen, welche Alternativen stecken denn da in der Digitalität, welche alternativen
+361440	369800	Rhythmen kannst du da ausmachen? Ja ich denke da vor allem an, dass wir Wege finden sollten,
+369800	376920	den Rhythmus im Alltag selbstbestimmt gestalten zu können und nicht immer zum Beispiel in acht
+376920	381600	Stunden arbeiten und dann nach Hause, das ist ein fester Rhythmus irgendwie, sondern vielleicht
+381600	388240	auch mal einmal das ganze Jahr hindurch vielleicht nicht arbeiten zu müssen oder eben nicht auf die
+388240	394000	neueste Chat-Nachricht antworten zu müssen, also dieses digitale Medien geben uns ja auch Rhythmen
+394000	399120	vor und viele privilegierte und reiche Menschen können das dann natürlich auch schon heute,
+399240	405680	dass sie sich da rausziehen und da auch bisschen langsamer sind vielleicht, aber es gibt auch
+405680	412200	andere Menschen die das nicht können und ja digitale Medien verstärken dieses ständig online sein
+412200	419360	müssen, man spricht ja auch hier von FOMO also Fear of Missing Out und aber gleichzeitig kann
+419360	424680	man eben mit digitalen Medien auch, könnte man eben auch unsere eigenen Rhythmen kreieren,
+424680	432400	eigene Räume kreieren, Netzwerke, Lebensweisen und Beziehungsweisen konstruieren, die eben nicht
+432400	438480	fremdbestimmt sind, sondern selbstbestimmt, da muss man aber halt die auch selbst konstruieren und ganz
+438480	444840	wichtig für mich ist eben, dass die Idee, das eben nicht alleine zu tun, sondern eben mit möglichst
+444840	450600	vielen zusammen und da kommt eben dieses Tanzen auch ins Spiel, weil Tanzen, das können wir nur
+450600	457520	zusammen und wir müssen Räume schließen, wir müssen Räume selbst gestalten und regeln auch
+457520	465960	beim Tanzen und ja das ist ein wichtiger Aspekt von Digitalität tanzen und meine wichtige Annahme
+465960	471160	dann oder Feststellung von mir ist eben, dass auch als Medienwissenschaftler, dass eben auch
+471160	480640	in Digitalisierung alle Gesellschaftsbereiche sozusagen bestimmt und dann eben aber auch, weil
+480640	486400	das so ist, könnten wir auch theoretisch mit alternativen digitalen Mitteln das alles auch
+486400	491520	transformieren. Jetzt hast du es eben schon zweimal erwähnt, ich hatte es jetzt in der Anmoderation,
+491520	497080	aber bisher noch nicht erwähnt, dass Tanzen als eine Figur, die du ja in deinem Buch, das ja auch
+497080	502360	eben diesen Namen trägt, Digitalität tanzen, einführst und verwendest. Vielleicht kannst du das ein
+502360	509760	bisschen erläutern, wie dir diese Metapher des Tanzens in Bezug auf Digitalität von Hilfe war.
+509760	518600	Also das Tanzen ermöglicht einem das körperliche zu denken und eben den Rhythmus durch den Körper
+518600	524360	und Tanzen hat ja eben dann auch mit sozialen Bewegungen zu tun, also es gibt solche
+524440	530720	Tanzwissenschaftlerin, ich beziehe mich darauf, Gabriele Klein, die das theoretisch auch sozusagen
+530720	536120	konzipiert, dass eben soziale Bewegungen stark mit dem Tanzen zusammenhängen und es gibt ja auch
+536120	542040	sowas wie den Wave oder Technowave und so, das sind alles so Konstellationen, die mich interessiert
+542040	549640	haben, das Tanzen dann auch zu denken mit dem Digitalen zusammen und eben das, was wir jetzt
+549640	555240	vorher schon angesprochen haben, der Algorithmus, der hat natürlich auch mit Rhythmen zu tun und
+555240	560480	da ist so diese Beschränkung schon von Digitalität und Körperlichkeit eigentlich schon da.
+560480	567160	Und vielleicht auf diese Körperlichkeit noch mal eingehend, das heißt, wenn du jetzt bei
+567160	573520	Digitalität tanzen, durch das Tanzen auch auf diese Körperlichkeit dich eigentlich beziehen willst,
+573520	581200	da anknüpfen willst, das bedeutet ja wahrscheinlich auch, dass es letztlich eine bestimmte Materialität
+581200	589120	des Digitalen wahrzunehmen und ernst zu nehmen gilt, wenn ich das richtig verstehe, oder? Vielleicht
+589120	594400	kannst du für die Zuhörerinnen und Zuhörer da noch mal kurz darauf eingehen, welche Materialität
+594400	599920	denn da dann zum Vorschein kommt, also was ist, um in der Analogie zu bleiben, was ist der Körper
+599920	606920	des Digitalen beim Tanzen des Digitalen? Ja, das sind mehrere Konstellationen. Also der Körper des
+606920	614320	Digitalen, einfach technisch betrachtet, sind erstmal die Signale und die elektronischen Signale
+614320	621480	oder die optischen, akustischen, die generiert werden durch unsere Geräte und dann die Geräte,
+621480	628080	natürlich die Hardware, da ist die Materialität und natürlich auch, woher die Rohstoffe dann
+628080	634840	dazu kommen zum Beispiel und wie das produziert wird, da kommt ganz stark natürlich die Frage der
+634840	641120	Materialität ins Spiel oder eben auch unsere Infrastrukturen, die das ermöglichen, das digitale,
+641120	647120	also die Digitalisierung, die Kabel, überall, die sind ja versteckt in den Wänden und so oder in
+647120	654000	den Böden, im Boden drin, aber die sind da, das ist alles materiell, genau. Es gibt natürlich viele
+654000	660520	Leute, die behaupten, das digitale sei immateriell, aber wenn man genau hinschaut eben, dann ist es
+660520	665800	sehr materialistisch oder sehr, sehr materiell gedacht und das sind dann die ganzen auch Fragen
+665800	672560	dann von Macht und Ökonomie und so weiter, die da eine Rolle spielen. Genau, eben auch die Fragen nach
+672560	678120	Alternativen in der Digitalität kommen dann natürlich nochmal recht konkret eben auch zum
+678120	686720	Vorschein und ein Weg oder ein Zugang über den du dich dieser Frage nach den Alternativen
+686720	691800	widmest, also ein Zugang, den du nutzt, um dich diesen Fragen widmen zu können, ist der Zusammenhang
+691800	698400	von, sagen wir mal, Computation und Kommunismus. Du schlägst nämlich vor, Computation und
+698400	704120	kommunistische Kooperation stärker miteinander verschränkt zu denken und bevor wir uns das jetzt
+704200	708440	vielleicht ein bisschen genauer angucken, wie das konkret aussehen könnte, finde ich es gut,
+708440	713880	wenn wir uns noch der Frage zuwenden, wie du das sagen vorher einmal auseinander nimmst in
+713880	719680	Bezug auf eine, sagen wir mal, kapitalistische Computation, wenn man so will. Du führst da
+719680	724760	nämlich eine Differenzierung verschiedener Operationen innerhalb der profitorientierten
+724760	731800	und konkurrenzverstärkenden Kooperativität ein und diese Differenzierung, die fand ich sehr
+731880	740440	hilfreich und auch sehr spannend, muss ich sagen, als so eine Art von Klassifikation und dadurch
+740440	745480	auch eine Form von Orientierung, mit Hilfe derer man dann später über Alternativen nachdenken
+745480	750120	kann. Das fand ich also eigentlich ganz schön, wie du das da aufgefächert hast. Vielleicht kannst du
+750120	755360	uns zunächst mal kurz erläutern, wie du den Begriff der Operation in diesem Zusammenhang
+755440	760840	verwendest und dann auf die drei Klassen von Operationen eingehen, die du da zur
+760840	768560	Analyse einführst. Ja, das ist ganz gut. Das ist genau auch einer der wichtigen Punkte. Also ich
+768560	774200	versuche im Buch, mich auf die Operationen, Operativität zu konzentrieren. Die Operation
+774200	780320	hat ja, ist interessant für mich, weil die eben auch wieder dieses Körperliche, also die Arbeit,
+780320	788000	Operare, Operation, die Arbeit mitdenkt oder denken lässt und aber gleichzeitig eben dieses
+788000	792160	mathematische auch dabei ist. Mathematische Operation, die Multiplikation und so weiter.
+792160	798360	Und dann versuche ich eben, das Digitale oder Digitalität durch diesen Filter der Operativität
+798360	804080	zu betrachten und dann habe ich, das machen ja auch viele andere, versuche ich so eine Art,
+804080	810760	so ein Schichtenmodell zu denken. Oder ich stelle mir das so vor und da ist die erste Schicht,
+810760	816320	oder man könnte sagen, kommt darauf an, wo man anfängt. Aber die erste Schicht ist eigentlich
+816320	824080	so eine Art Schicht der Machtoperationen, die eben beherrschen, zerstören, extrahieren,
+824080	831280	korrelieren, diskriminieren, ausschließen oder eben auch ignorieren. Und dann gibt es vielleicht eine
+831280	837520	zweite Schicht, darunter oder darüber, die Kontroll- oder Differenzierungs- und
+837520	843480	Vereinnahmungsoperationen, wie etwa, die sind dann ein bisschen neutraler, könnte man sagen. Also
+843480	853480	regeln, vergleichen, skalieren, zerlegen. Und dann gibt es drittens nochmals eine Schicht der
+853480	859400	arithmetischen Grundoperationen, könnte man sagen, wie adhieren, subtrahieren, multiplizieren,
+859560	866960	dividieren. Ja, und die bauen dann aufeinander auf. Und wie gesagt, es gibt auch andere Modelle,
+866960	871440	die auch so ähnlich operieren, wo man, wenn man dann die Protokolle erklärt,
+871440	875520	Kommunikationsprotokolle, da geht es dann mehr so um das Physikalische. Also unten sind dann die
+875520	880920	physikalischen Prozesse, die in den Kabel stattfinden. Und da gibt es logische Prozesse,
+880920	888720	die darauf aufbauen und so weiter. Prozesse, die die Verbindung garantieren und bis dann zu
+889040	898480	der Benutzeroberfläche. Und das war so ein bisschen das Modell. Und dadurch, dass eben diese grobe
+898480	905040	Struktur, diese drei Schichten dann, wenn man das so ein bisschen in den Blick rückt, dann kann man
+905040	910400	eben theoretisch auch an der untersten Ebene ansetzen, also der Ebene der arithmetischen
+910400	917240	Operationen oder vielleicht auch ein bisschen darüber, wo verglichen wird oder geregelt. Und
+917240	924440	da kann man da auch versuchen, eben alternative Strukturen oder alternative Operativitäten dann
+924440	930680	auszutesten oder da könnte man ansetzen. Das ist so ein bisschen die Idee, um eben diese solidarisch
+930680	937160	kommunistische Operativität zu zeitigen. Ja, das finde ich total spannend. Also wie gesagt,
+937160	941440	ich fand, dass das nämlich in dieser Aufstellung auch bestimmte Dinge sichtbar macht,
+941440	946720	also nämlich sowohl, wie gesagt, in Bezug auf die Frage, wie könnten eben alternative
+946720	955200	Operationen aussehen oder wie könnte man sowas wie vergleichen, vielleicht auch anders angehen.
+955200	961240	Aber ich finde, es kommt zum Beispiel auch zutage, dass jetzt in Bezug auf das, was du als erste
+961240	967840	Ebene beschrieben hast, nämlich die Machtoperation, dass man sich derer auch nicht gänzlich
+967840	973400	entledigen können wird. Also dieses, es geht nicht, nicht regiert zu werden zum Beispiel. Als so ein
+973400	978640	Zugang finde ich auch da auf einer anderen Art und Weise eigentlich auch wieder auf, dass es nicht
+978640	984040	möglich ist, sich überhaupt mal Formen der Vermachtung sozusagen gänzlich zu entziehen,
+984040	988840	sondern dass man sich dann eigentlich fragen muss, wie geht man die anders an. Weil jetzt die erste
+988840	994360	Ebene, die hat es ja benannt als beherrschen, zerstören, extrahieren, korrelieren, diskriminieren,
+994360	999840	ausschließen oder ignorieren. Und wenngleich bei manchen Sachen, man vielleicht klarer sagen kann,
+999840	1005840	okay beherrschen, das wollen wir in jedem Fall sozusagen überwinden. Ja, also das ist möglich
+1005840	1010880	und da streben wir nach, sage ich jetzt mal in einem diffusen Plural, ist es bei anderen Sachen
+1010880	1015640	wiederum relativ offensichtlich, finde ich, dass es nicht komplett ohne gehen wird. Also zum
+1015640	1022200	Beispiel extrahieren ist was, was man natürlich zu Recht jetzt heutigen Wirtschaftsformen vorwirft,
+1022200	1027720	insofern als dass es quasi eine Grundlogik ist, eine extraktive Logik, auf der sozusagen
+1027720	1031200	kapitalistisches Wirtschaften fußt. Aber nichtsdestotrotz wird zum Beispiel ein
+1031200	1038760	kommunistisches Wirtschaften natürlich auch in irgendeiner Form extrahieren müssen, aber dann
+1038760	1043440	eben in einer anderen Art und Weise, in einer anderen Form der Formatierung, in einer anderen
+1043520	1050760	Form auch der Bewusstmachung solcher Operationen als Elemente des in dem Fall kommunistischen
+1050760	1055960	Regierens, wenn man so will. Ja, ähnliches gilt dann auch für korrelieren und interessanterweise
+1055960	1061320	auch für die Frage des Ausschließens. Das war was, was mir in deinem Buch auch aufgefallen ist,
+1061320	1066760	wo sozusagen diese Frage des Ausschlusses so ein bisschen changierend behandelt worden ist.
+1066760	1071640	Auf der einen Seite votierst du eigentlich dafür zu sagen, du möchtest eigentlich den Ausschluss
+1071640	1077000	ausschließen, also du willst sozusagen nicht mit Ausschlüssen operieren müssen. Auf der anderen
+1077000	1082280	Seite gibt es auch Elemente, in denen dann der Ausschluss wieder hineinkommt. Vielleicht
+1082280	1089040	können wir das mal so als einen Anker nehmen, um uns der Frage zuzuwenden, wie diese Operationen
+1089040	1094520	denn anders aussehen könnten, wie innerhalb alternativer Formen der kommunistischen
+1094520	1100680	Kooperativität, wie da solche Operationen auf diesen verschiedenen Ebenen auch gedacht werden
+1100680	1108000	können. Ja, schön. Ich würde aber trotzdem sagen, dass sowas wie Zerstören, das sollten wir ja schon
+1108000	1114800	versuchen zu vermeiden. Und Zerstören, also vielleicht würde man das dann anders nennen. Also
+1114800	1120040	Zerstören ist ja schon eine starke Machtoperation, weil man davon ausgeht, dass dann das, was man
+1120040	1129000	zerstört, auch dass es wertlos ist. Und sowas wie Abfall und zum Beispiel eben auch Leute,
+1129000	1135960	politische Philosophien wie Eva von Redeka, die sagen ja auch, dass das dann ganz stark mit dem
+1135960	1142120	Eigentum oder mit der Idee des Eigentums zusammenhängt. Aber wenn wir jetzt das alles
+1142120	1147920	gemeinsam sozusagen teilen und organisieren wollen, dann können wir vielleicht auch gewisse
+1147920	1153360	Dinge gar nicht mehr zerstören, weil wir dann eben auch keine Verfügungsmacht haben, sondern weil wir
+1153360	1158800	das auch diskutieren wollen und fragen wollen, ob da jemand vielleicht jemand anderes das benutzen
+1158800	1164880	möchte oder ob für jemanden ist dann das, was wir als Abfall bezeichnen, vielleicht keine Abfall
+1164880	1170920	und so weiter. Ja, ja, genau. Vielleicht muss ich mich da bis zu einem gewissen Grad korrigieren,
+1170920	1175400	beziehungsweise würde ich dir folgen, dass man vielleicht dann andere Begriffe dafür finden
+1175400	1180480	könnte oder so. Ich glaube, woran ich denken musste, da gibt es Elemente im Denken von Donna
+1180480	1184920	Haraway, wo sie versucht, das herauszustellen, dass es quasi, es gibt nicht diesen Ort der
+1184920	1189480	Unschuldigkeit, wenn man so will, der totalen Unschuldigkeit, sondern die Weltverhältnisse
+1189480	1195680	sind immer auch bis zu einem gewissen Grad eben in Anführungsstrichen zerstörend, ob dann das Wort
+1195680	1202000	besser ein anderes sein müsste, weil eine Bewusstmachung dieses Aspekts dann zu einem
+1202000	1207520	anderen, zu einer anderen Beziehungsweise führen kann oder so. Das mag sein, aber trotzdem, es gibt
+1207520	1214480	keinen Ort der absoluten Unschuldigkeit, sage ich jetzt mal, ein bisschen polemisch überspitzt.
+1214480	1219640	Das war, glaube ich, so die Richtung, die ich da mit hineinbringen wollte und ähnliches ist eben,
+1219640	1226920	wie gesagt, in Bezug auf die Frage des Ausschlusses ja auch interessant, sich zu fragen, wie ist das
+1226920	1232960	denkbar? Also die Frage des Ausschlusses, in dem Fall jetzt in einer von dir imaginierten
+1232960	1237520	kommunistischen Kooperativität ist das ja durchaus etwas, was nochmal spannend wird,
+1237520	1243680	zu verhandeln. Gibt es den nicht und wenn es ihn doch gibt, was geht damit einher? Ich glaube,
+1243680	1248920	in irgendeiner der Textpassagen bei dir knüpft du es dann an Form der Verantwortlichkeit und
+1248920	1254120	führst damit aber eigentlich doch auch wieder Form des Ausschlusses mit ein. Genau, das fand
+1254120	1259680	ich einfach spannend, dass eigentlich ja dieses Aufzeigen oder Aufdröseln der verschiedenen
+1259680	1263920	Operationen auf den unterschiedlichen Ebenen eigentlich die Dinge dann nochmal anders
+1263920	1272400	verhandelbar, besprechbar, adressierbar machen sozusagen. Ja, es kommt auf den Bezug drauf an,
+1272400	1278520	wie man dann auf diese Operation, also wie gültig die ist zum Beispiel auch, ob man die dann auch
+1278520	1284880	wieder zurücknimmt oder dann ändert. Vielleicht kann man etwas ausschließen, aber nur für den
+1284880	1291040	Moment und dann, um das dann wieder gut zu machen oder irgendwie anders zu lösen oder sowas. Dieses
+1291040	1296920	Adaptive, das ist mir wichtig, dass man nicht sagt, ja so ist es. Das ist ja dann eben auch
+1296920	1302080	eine Machtoperation, dass man sagt, so und so ist es, das ist mein Eigentum oder dass dieses
+1302080	1310760	Gesetz gilt und es kann nicht abgeendet werden. Wie sehr gilt es da jeweils das Rat quasi nochmal
+1311120	1315920	zu erfinden? Also weil ich mich auch frage, wenn du diese Sachen durchdeklinierst, diese
+1315920	1320560	verschiedenen Ebenen der Operationen, zum Beispiel bei Regeln, Vergleichen, Skalieren,
+1320560	1327800	zerlegen, ist das zum Beispiel was, wo du das Gefühl hättest, das kann eigentlich mehr oder
+1327800	1335000	minder in ähnlichen Funktionslogiken auch für alternative Projekte, sagen, furchtbar gemacht
+1335000	1341760	werden. Was, also gilt es da nochmal genauer hineinzugehen und sozusagen anzugucken, okay,
+1341760	1347360	wie genau wird da zerlegt, nach welchen Parametern wird zerlegt, nach welchen Parametern wird
+1347360	1352120	verglichen und ich meine, beim Regeln ist es vielleicht am offensichtlichsten, weil da ist
+1352120	1359000	ja irgendwie relativ klar, okay, dass das Regeln politisiert gehört sozusagen. Gilt es für jeder
+1359000	1364720	einzelne der Operationen, die du da beschreibst, dass die eigentlich in anderen, in alternativen
+1364720	1371080	Kontexten der kommunistischen Kooperation eigentlich auch nochmal neu jeweils angeguckt
+1371080	1378000	und in ihren situativen Einsatzbereichen quasi neu bewertet gehören? Ja, auf jeden Fall. Also
+1378000	1384760	man muss die immer wieder reflektieren hinterfragen und auch überlegen, wenn ich jetzt diese Regel
+1384760	1390480	hier ändere, was passiert dann? Und dazu ist das, das ist so ein bisschen meine Idee, dass man das
+1390480	1398480	eben mit Simulationsmodellen, mit Computation dann versucht vorherzusagen oder zu sehen, was das
+1398480	1403200	bewirkt, weil wir können, wenn wir die Regel einfach ändern, wir können zwar die, das können
+1403200	1409400	wir tun, aber wir können uns irgendwie nicht gut vorstellen, wie sich das auswirkt auf den Gesamtzusammenhang,
+1409400	1416360	könnte man sagen. Und das ist eben, glaube ich, die Kraft und Macht von Computermodellen. Man muss
+1416400	1422080	die natürlich auch kritisch betrachten, weil die sollen jetzt keine Repräsentation sein von der
+1422080	1427760	Realität oder so. Das gibt es auch viel. Solche Missverständnisse dann, dass Computermodelle oder
+1427760	1433360	Simulationen dann eben die Realität abbilden, sondern die, nein, also die eigentlich ist es
+1433360	1440400	immer so, dass die ja auch alles verkomplizieren. Sagt ja auch Klaus Pias, der Medienwissenschaftler,
+1440400	1446040	dem ich mich beziehe, der hat sehr viel über Simulationen und Computermodelle geschrieben und
+1446040	1453000	der sagt, da ist eben sowas wie ein hypothetischer Index immer dabei beim Computermodellieren. Es ist
+1453000	1461200	eine Art Fiktion, eine Art Konstruktion. Aber das ist eben, das könnte hilfreich sein, wenn wir über
+1461200	1468880	diese Operationen nachdenken. Und es ist dann, und dann von Fall zu Fall, wenn wir dann, wenn Leute
+1468880	1474880	dann zusammenkommen und diese Sichtweise hätten dann auf Operativität, auf die Regeln dann und
+1474880	1482680	vielleicht kommt dann jemand auf die Idee, ja, lass uns das mal modellieren. Dann bringt das,
+1482680	1488040	glaube ich, der Diskussion und dem Projekt, könnte das, sozusagen, helfen. Das ist so die
+1488040	1493840	ganz einfache Idee. Ja, lass doch da dann vielleicht einfach noch mal ein bisschen
+1493840	1497600	genauer drauf eingehen, weil die Zuhörerinnen und Zuhörer jetzt den Kontext noch gar nicht so
+1497600	1503920	gut kennen. Nämlich, was du da vorschlägst, ist ja eigentlich ein experimentelles, vielleicht auch
+1503920	1510840	spielerisches, vielleicht auch tanzendes, Arbeiten mit Agent-Based Modeling, also agentenbasiertem
+1510840	1516120	Modellieren. Das wird jetzt vielen wahrscheinlich zunächst mal kein Begriff sein. Worum handelt es
+1516120	1523200	sich denn da beim agentenbasierten Modellieren? Ja, das sind Modelle, die eben suchen von Bottom-Up,
+1523200	1532640	dynamische Prozesse zu simulieren und es werden im Regeln in diesen sogenannten Agenten eingebaut.
+1532640	1537880	Das sind dann eben so, eigentlich dann, wenn man es visualisiert, sind das so einzelne Punkte auf
+1537880	1547560	einer Fläche zum Beispiel. Und dann kann man sagen, was der Punkt, wie der sich bewegt und was
+1547560	1559400	passiert, wenn sich zwei Punkte treffen oder ob er springt und so weiter. Das ist dann der Agent und
+1559400	1568520	damit kann man eben auch verschiedene Prozesse dann, wie das dann sozusagen dynamisch zusammenspielt,
+1568520	1575640	also sowas wie Schwarmprozesse kann man damit simulieren. Also da kommen wir eigentlich,
+1575640	1582440	finde ich, sofort so ein paar Fragen auf. Also du hattest jetzt eben schon so bestimmte Zuschreibungen
+1582440	1591160	genannt, die man dann eben den Agenten, Agentinnen gibt. Aber es ist ja eigentlich dann sofort so,
+1591160	1597040	dass man sich fragt, okay, zum einen, welche Parameter sind das, die dazugeschrieben werden
+1597040	1603080	und auf Basis welcher Paradigmen wird da sozusagen gearbeitet in Bezug auf die Modellierung der
+1603080	1607280	einzelnen Agentinnen und Agenten. Weil, also ich meine, ich habe das mitgekriegt, dass bei dem
+1607280	1612760	Forschungsprojekt die Gesellschaft nach dem Geld, die das auch versuchen, mit Form des Agent-based
+1612760	1620600	Modelling eigentlich eine postkapitalistische Gesellschaft nach dem Geld zu simulieren. Und
+1620600	1625600	ansonsten ist es mir eigentlich eben nur so aus den Wirtschaftswissenschaften so ein bisschen
+1625600	1630360	ein Begriff, dass es da halt auch immer wieder verwendet wird und dass dort aber zum Beispiel
+1630360	1635200	die Agentinnen und Agenten dann auf Basis der sogenannten bounded rationality, also einer
+1635200	1641240	Abwandlung des homo economicus, der eben dann nicht mehr hyper rational ist, sondern eben nur
+1641240	1646960	bedingt rational bounded rational, deswegen bounded rationality, der noch bedingt rational ist,
+1646960	1654200	das ist auf Basis dessen dann eigentlich diese Agentinnen und Agenten modelliert werden. Also
+1654200	1658520	ich finde, es kommt dann einfach schon nochmal sofort quasi die Frage auf, auf Basis welcher
+1658520	1665760	paradigmatischen Grundannahmen sagen diese Agentinnen und Agenten dann entstehen. Und mich
+1665760	1670280	würde es interessieren, wie tief du da eigentlich eingetaucht bist. Also hast du dir das genauer
+1670280	1675680	angeguckt, also wie viel da eigentlich möglich ist auf der einen Seite, ja. Und das andere ist
+1675680	1680720	halt dann die Frage, dass es mir beim Lesen des Buches halt auch so ein bisschen die Frage,
+1680720	1686840	ich mir die Frage gestellt habe. Auf der einen Seite betonst du so dieses körpergebundene,
+1686840	1692960	also dadurch, dass du ja eben Digitalität tanzen willst, ja, bringst du das körpergebundene,
+1692960	1700680	das materielle sozusagen hinein und betonst dessen Wichtigkeit und auch Stärke im Zusammenhang mit
+1700680	1706040	Digitalität. Und beim agent-based modeling hätte man ja eigentlich das Gefühl, dass das gerade
+1706040	1712160	darauf basiert, dass man meint, man könne sozusagen die Körperlichkeit eigentlich jetzt weglassen,
+1712160	1718400	um auf Basis dessen dann sozusagen in einem abstrahierten Raum quasi das Geschehen eben zu
+1718400	1724960	simulieren. Und auf eine Art habe ich mich gefragt, warum es da eigentlich so ein Auseinanderklappen
+1724960	1728320	gibt. Oder ich fand es eigentlich interessant, sagen wir es so, dass du da eigentlich dann für
+1728320	1733160	dieses agent-based modeling dich so begeisterst, wo das doch eigentlich gerade die Körperlichkeit
+1733160	1737000	vermissen lässt. Und damit will ich nicht sagen, dass es nicht auch spannend sein könnte, mit
+1737000	1742680	agent-based modeling zu arbeiten. Aber ich für mich habe sozusagen das noch nicht ganz auch fassen
+1742680	1750120	können. Also wie man das, wie man da dran gehen kann, ohne diese doppelten Auslassungen oder
+1750120	1754040	wahrscheinlich mehrfachen, nicht nur doppelten, mehrfachen Auslastungen von sowohl Körperlichkeit
+1754040	1760320	als auch eben Reflektion über die paradigmatischen Grundlagen sozusagen, wie man das dann angehen
+1760320	1769680	kann und was dabei rauskäme. Ja, das sind jetzt mehrere Fragen drin. Also du hast ja angefangen mit
+1769680	1777840	der Feststellung, dass es darum geht, die eigenen Prämisten dann und Parameter und Einstellungen,
+1777840	1782960	was dann modelliert wird, dass das sozusagen in den Blick rückt, wenn man anfängt darüber
+1782960	1787480	nachzudenken. Und das ist ja genau der Effekt eigentlich, der mir auch wichtig ist, wenn man
+1787480	1794480	modelliert, dass man dann eben über die eigenen Vorteile und Regeln, die man schon irgendwie,
+1794480	1798240	die man vielleicht nicht reflektiert, die man dann aber irgendwie einprogrammiert und dann merkt man,
+1798240	1804160	ah, Moment, das ist ja vielleicht eine Regel oder etwas, was ich einfach angenommen habe,
+1804160	1810400	aber oder das wir, das macht man ja eben auch zusammen, angenommen haben. Vielleicht ist es ja auch,
+1810400	1817160	könnte es auch anders sein. Dieses Zusammenspiel von Modellierung, dann eben Abänderung der Regeln
+1817160	1822040	und so weiter. Das ist, da liegt auch sozusagen der Reiz, dass das ja so eine Art kritische Praxis
+1822040	1829280	ist, die ganz, die vielleicht auch nützlich ist, weil wir können ja schon zum Beispiel Dinge
+1829280	1838520	aufzeichnen und Karten entwerfen und das dann so und damit auch diskutieren oder was auch schon
+1838520	1844280	lange gemacht wird, sind halt so Filme zu machen oder Fotografien und so und dann irgendwie Dinge
+1844400	1850880	sichtbar zu machen. Aber eben dieses Modellieren, dieses Arbeiten mit diesen, mit Computation und
+1850880	1855720	vor allem eben dieses agentenbasierte Modell. Das ist so vielleicht etwas, was man noch stärker in,
+1855720	1861080	es gibt ja, es gibt schon das als kulturelle Praxis etwa so mit, also ich denke dann eben auch
+1861080	1867280	so an Rollenspielen oder an Computerspiele vielleicht. Da gibt es auch eine interessante
+1867280	1874000	Überladung von Körperlichkeit oder als rein digitalen Sachen. Da gibt es schon eine kulturelle
+1874000	1878880	Praxis, aber es gibt nicht so eine Art aktivistische Praxis oder eine Lebenspraxis,
+1878880	1884720	wo wir auch irgendwie ständig modellieren oder irgendwie das dann durchspielen und so. Und das
+1884720	1889320	ist vielleicht auch der zweite Punkt, den du angesprochen hast, eben die Frage, wie das dann
+1889320	1895200	zusammenkommt. Und für mich kommt das eben da zusammen, wo man dann eben diese Modelle versucht,
+1895200	1902960	auch durchzuführen. Also man kann das eben auf der Ebene des Tances oder so von Tanzexperimenten,
+1902960	1908400	könnte man sagen, kann man das ja eigentlich ganz gut machen. Es gibt da verschiedene Modelle zum
+1908400	1914480	Beispiel. Das ist dann eher so auf der abstrakten spielerischen Ebene von so Tanzchoreografien
+1914480	1924320	vielleicht. Aber man kann das natürlich auch versuchen, auszuweiten dann auf Kooperation oder
+1924320	1931320	auf soziopolitische Aspekte, kann man dann jetzt da reinbringen. Ich denke es an so Übungen und wenn
+1931320	1937120	man dann diese Übungen vielleicht auf einer größeren Ebene noch bringen könnte, wo wir
+1937120	1943080	vielleicht üben, Dinge zu teilen, kann man natürlich auch in echt durchführen, aber man
+1943080	1949200	könnte sie auch simulieren, besuchen in einem Spiel und dann kann man das vielleicht durch
+1949200	1954960	den Tag hindurch machen, zwischenzeitlich und könnte dann eben ausprobieren, ob das überhaupt
+1954960	1963480	geht mit diesem kommunistischen Leben. Das ist so ein bisschen die Idee und natürlich kommt dann
+1963480	1970240	eben das körperliche, durch das körperliche kommt dann auch, was ich auch im Buch beschrieben habe,
+1970240	1977760	dieses, das Affektive kommt ja auch ins Spiel und beim Tanz geht es ja auch viel um solche
+1977760	1985480	körperlichen Reaktionen eigentlich, die aber, da mache ich einen Unterschied, da muss man auch
+1985480	1994080	einiges lernen beim Tanzen. Also es ist nicht so eine Art Zucken oder eines ganz rein strikten
+1994080	1998640	Trainings, da gibt es auch noch den Drillen zum Beispiel, wo man wirklich strikt nur die
+1998640	2003920	Regeln befolgt, sondern das Tanzen ist da was dazwischen so, wo man dann eben auch Dinge
+2003920	2010280	reflektiert und auch mal stoppen kann. Das finde ich eben auch spannend an dem Tanzen als kritische
+2010280	2018760	Praxis und ich versuche das dann eben mit diesen agent-based Models, agentenbasierten Modelle in
+2018760	2025600	Verbindung zu bringen. Ja. Und aber vielleicht noch nachgefragt in Bezug auf diese Affektive
+2025600	2030720	Ebene, weil ich finde das total spannend, weil auf einer Art eben, da kommt ja nochmal dann diese
+2030720	2037080	Frage auf der Modellierbarkeit und wann eine bestimmte Form von Körperlichkeit eben dann zu
+2037080	2043320	diesen Formen der Simulation auch hinzutritt, weil jetzt zum Beispiel diese affektiv-somatische
+2043320	2050400	Ebene, nennst du sie glaube ich an irgendeiner Stelle, weil die ja wahrscheinlich nicht in oder
+2050400	2056880	nicht so einfach in den agentenbasierten Modellen implementiert werden könnte, oder? Also insofern
+2057280	2063240	wäre es nochmal interessant, wie du dir das dann vorstellst, weil wenn man jetzt sagt, man versucht
+2063240	2070720	mithilfe von agentenbasierten Modellen zum Beispiel kommunistische Kooperativität zu simulieren,
+2070720	2077320	um zu gucken, in welchen Kontexten das vielleicht wie ausgehen könnte, wenn man so will, ja, dann
+2077320	2085320	stellt sich ja schon die Frage, ob das bei einer Praxis, die eigentlich doch sehr stark an diese
+2085320	2090840	affektiv-somatische Ebene gebunden ist, an diese spezifische Form des Lernens, die sich dieser
+2090840	2097520	spezifischen Art der Modellierbarkeit vielleicht ja auch entzieht, inwiefern dann sozusagen die
+2097520	2103640	Ergebnisse, die auf Basis des agentenbasierten Modellierens herausgekommen sind, wenn sie dann
+2103640	2109160	auf die Körperlichkeit treffen oder auf diese spezifische Form der Körperlichkeit treffen und
+2109160	2113560	auch auf das affektiv-somatische, also da würde man ja dann erwarten, dass sich das eigentlich
+2113560	2119440	doch substanziell verschiebt und quasi eigentlich anders ausgeht, wenn man so will, als das in der
+2119440	2125440	Simulation vorher angenommen worden war. Und dann wäre es dann nochmal spannend zu sehen und zu
+2125440	2131280	fragen so, okay, aha, was bringt es mir vielleicht trotzdem zu einer Form von Modellierung und
+2131280	2135960	Simulation? Also insofern, genau, kommen da eigentlich diese verschiedenen Ebenen nochmal
+2135960	2144520	neu zur Frage, was jetzt eigentlich mit sowohl den eingeschriebenen Paradigmen auf Seiten der
+2144520	2152720	Agenten in der Simulation auf sich hat, als auch inwiefern eine affektiv-somatische Ebene,
+2152720	2158600	die vielleicht sich dieser Modellierung entzieht, eine wichtige Basis dessen ausmacht, was du
+2158600	2165280	eigentlich ja fördern willst, also was eigentlich diese anderen Operationen eigentlich möglich
+2165280	2173440	machen sollen. Weiß nicht, ob das verständlich war. Ja, also ich bin komplett absolut einverstanden
+2173440	2182000	mit das, was du gesagt hast. Also das ist ja genau das, was du beschreibst, dieses Hin und Her,
+2182000	2189520	auch der Argumente, das ist ja das, was das bewirken soll, wenn wir uns mit der Frage,
+2189520	2196800	ob man das modellieren kann, auseinandersetzen. Also das ist genau das und ich sehe das schon,
+2196800	2204360	und es ist eben interessant, dieses Zusammenspiel von Software oder von Computation mit dann mit dem
+2204360	2210760	Tanzen oder mit dem Menschlichen, und es gibt ja noch andere, es gibt auch tierisch und biologisch,
+2210760	2216760	wenn man sagt, lebendig, mit dem Lebendigen, dieses Zusammenspiel, das ist das Spannende. Also es geht
+2216760	2224440	eben nicht nur darum, das dann irgendwie im Computer zu simulieren, sondern eben dann davon zu
+2224440	2230080	überlegen und die Effekte, die dann dieses Modellieren dann bewirkt und vielleicht und auch
+2230080	2235320	unbedingt die Kritik dann an dem Modell, dass das vielleicht auch falsch ist, das Modell, und dass
+2235320	2241600	wir das dann ändern müssen und so weiter. Oder dass eben das Modell, wie gesagt, wie ich vorher
+2241600	2249240	schon angedeutet habe, eben zurück, dass es wie ein Spiegel ist, der dann auf unsere Gewohnheiten
+2249240	2257400	oder unsere Vorteile dann zurück, der die zurückspiegelt und die so sichtbar macht. Genau,
+2257400	2263920	und das ist ja, das könnte glaube ich sehr nützlich sein, und das ist so eine Art Herangehensweise an
+2263920	2273360	Technologien, die ja vielleicht erstmal so ein bisschen optimistisch klingt, aber ich berufe mich
+2273360	2281560	auch hier auf die genannte Donna Haraway, die ja eben bekanntlich von dem Cyborg spricht,
+2281560	2287440	der so als Modell auch gehen könnte, um eben mit Technologien umzugehen. Und der Cyborg ist eine
+2287440	2295360	ironische Figur, also die ist selbstreflektiv und weiß auch eben, weiß die negativen Eigenschaften
+2295360	2301680	oder Effekte von Technologien, aber auch die positiven. Und bei ihr spielt eben auch die Rolle
+2301680	2306520	der Fabulation und des Fiktional auch ganz eine wichtige Rolle, und dass wir das eben zusammen
+2306520	2314160	machen. Sie spricht dann auch von Symposes und so weiter. Und das ist eigentlich dieser Punkt,
+2314160	2323280	wo wir angefangen haben bei den Operatoren und Operationen, wo wir selbst zu Operatoren werden,
+2323280	2331760	Operators, und vielleicht eben auch zu Robotern und Arbeiterinnen, Agentinnen. Aber dass das
+2331760	2337200	versucht wird, positiv umzudeuten, dass wir uns vielleicht absichtlich da in diese Lage
+2337200	2345080	versetzen und diese Agenten basierten Modelle vielleicht dann mal tanzen, roboterhaft,
+2345080	2350320	aber dann, wenn wir dann eben das tanzen, dass dann sofort eben das körperliche dann und dass
+2350320	2358000	der Widerstand eigentlich zum Vorschein kommt. Und das ist ein interessanter, glaube ich,
+2358000	2366120	interessanter Aspekt, der diese Technologiefeindlichkeit vielleicht von kritischen
+2366120	2372160	Theorien so ein bisschen anders versucht zu denken. Ja, spannend. Also das, finde ich, leuchtet
+2372160	2377360	eigentlich jetzt wieder sehr schön ein im Grunde. Also dass das eigentlich auch, dass das
+2377360	2383760	agentenbasierte Modellieren dann im Grunde als Technologien spekulativer Fabulation eingeführt
+2383760	2389080	wird, die sozusagen in der bewussten Auslassung bestimmter Elemente, in dem Fall körperlich,
+2389080	2394240	also bestimmter Körperlichkeit und affektiv-somatischer Ebenen, im Grunde auch
+2394240	2402440	einen bewusst, also zum einen natürlich bewusst reduktiven oder bewusst reduzierenden und dadurch
+2402440	2409000	auch bewusst provokanten Einsatz machen erst mal, der aber gar nicht erst meint, das hattest du
+2409000	2413440	jetzt auch schon herausgestellt, der gar nicht erst so tut, als würde er sozusagen Wirklichkeit
+2413440	2420160	darstellen oder so, sondern immer eine auch reduzierte Abstraktion und das aber dann, sagen
+2420160	2426040	im gemeinsamen Tanzen dieses spekulativ fabulativen Einwurfs im Grunde Prozesse
+2426040	2433000	losgetreten werden, die dann auch zu anderen beziehungsweisen in der Mensch-Technologie
+2433000	2439080	Konstellation eigentlich führen. So, oder? Das leuchtet mir nämlich, finde ich, dann wieder total
+2439080	2445520	gut ein, ja. Dann lass uns doch vielleicht gerade in Fragen dieser Konstruktion auch noch mal ein
+2445520	2450320	bisschen genauer einbiegen, weil wenn es dann um die Frage geht, okay, was könnte man denn da
+2450320	2458120	dann simulierend, tanzend sozusagen ausverhandeln, wenn man so will, ja. Da gibt es ja dann eine
+2458120	2463280	Richtung, die du im Buch verfolgst, die durchaus hier mit diesem Podcast auch sehr schön oder
+2463280	2469600	zumindest einem wichtigen Strang in diesem Podcast hier Hand in Hand geht. Es gab da nämlich einige
+2469600	2475080	spannende Passagen in deinem Buch, die in Richtung der Konstruktion deuten, ohne da jetzt sehr
+2475080	2480280	explizit zu werden, aber es geht doch oft in Richtung auch so einer demokratischen Planung
+2480280	2485760	und du zitierst da zum Beispiel Robert Kurz mit der Aufforderung, und ich zitiere das jetzt hier,
+2485760	2490640	Elemente einer mikroelektronischen Naturwirtschaft zu entwickeln, die sich dem
+2490640	2496280	Vergesellschaftungsprinzip des Werts grundsätzlich entzieht und davon nicht mehr erfasst werden kann.
+2496280	2500920	Zitat Ende. Also das ist ja jetzt erstmal so ein ganz pauschaler Einwurf von Kurz,
+2501000	2505360	sozusagen jetzt da, aber da stellt sich natürlich dann im Anschluss die Frage,
+2505360	2511560	wie das dann ganz konkret aussehen könnte, und du gehst darauf folgend in einem Abschnitt dann
+2511560	2517160	auch auf die Frage einer, und ich zitiere wieder, eigens entwickelten, programmierten,
+2517160	2523360	dezentral verteilten und durch Beteiligung vieler sich selbst organisierenden Planwirtschaft ein,
+2523360	2529480	Zitat Ende. Vielleicht kannst du uns von dieser mikroelektronischen Naturwirtschaft ein
+2529480	2533320	Bild zeichnen, denn ich nehme mal an, das wäre ja dann sozusagen eigentlich ein Kandidat,
+2533320	2537640	eine Kandidatin für ein solches experimentelles Simulieren auch, oder?
+2537640	2543400	Genau, tatsächlich. Und das ist auch eine schwierige Frage dann, und ich habe versucht da,
+2543400	2548360	also das ist ja im ersten Teil des Buchs, ich habe da versucht so ein bisschen eben das Weltbild,
+2548360	2554880	oder das Vorbild zu finden, Vorbilder und Ansätze, die man dann eben dann versucht,
+2554880	2562440	zu modellieren. Das ist so die große Argumentation, und bei Robert Kurz geht es eigentlich eben darum,
+2562440	2569640	nicht von der Produktion auszugehen, sondern am Ende, also bei der Konsumtion anzusetzen,
+2569640	2575520	und wir wissen ja von der Geschichte der Genossenschaften, also eben auch Konsumgenossenschaften
+2575520	2580080	ganz gut funktionieren, und da werden zum Beispiel finanzielle Mittel zusammengelegt,
+2580080	2586200	damit man dann eben Lebensmittel kaufen kann, um sie dann eben zu Commons zu machen für alle Beteiligten,
+2586200	2592920	und wenn das dann gut funktioniert, lässt sich dann vielleicht auch die Produktion auf den Feldern
+2592920	2598080	bestimmen, oder auch die Anbauweise, und so kann das dann von der Konsumtion her bis zur
+2598080	2608360	Produktion dann so sich ausweiten, vom Lokalen dann ins Ferne, und ja, die können dann,
+2608480	2612880	sie können sich dann eben auch alle wehren oder organisieren, es gibt ja auch solche
+2612880	2620200	Modelle wie eben die solidarische Landwirtschaft, wo das eben auch schon praktiziert wird, und dann
+2620200	2625880	sagt ja auch Kurz, dass es aber doch schwierig ist, etwa eben die Produktion von Computern jetzt
+2625880	2632440	sofort zu ändern, das ist ja dann jetzt heute, 20, 30 Jahre später, noch viel zugespitzter,
+2632440	2642400	und deshalb wäre es wichtiger, eben von der Konsumtion, vom Gebrauch her zu denken,
+2642400	2649520	und eben Produktion und Gebrauch zusammen zu bringen, möglichst, das heißt die Produktion
+2649520	2656320	vielleicht auch näher an uns, und dann darüber hinaus geht es dann eben in diese Naturwirtschaft,
+2657080	2663920	das ist ja eben das Gegenteil von Geld- und Marktwirtschaft, also die Idee eben, das ohne
+2663920	2673080	Preismechanismen, ohne Markt zu regeln, und das aber dann gleichzeitig eben selbst organisierend zu
+2673080	2678200	tun, das ist so ein bisschen die Theorie, die er da formuliert, und das ist auch sehr interessant,
+2678200	2684120	weil er da auch schon sozusagen zu bedenken gibt, dass es wichtig wäre, da auch die ganzen Prozesse
+2684200	2693440	zu analysieren, also sowas wie eine kritische Analyse dieser Logistik und Lieferketten und
+2693440	2700680	Produktionsketten fordert, und da kommen dann auch die ganzen Methoden, die wir auch so ein
+2700680	2706960	bisschen in der Medienwissenschaft anzuwenden, kommen da auch ins Spiel, also wenn wir versuchen,
+2706960	2712120	vom Material aus, was ist denn im Smartphone drin, und woher kommt das, und wie kann man das verfolgen,
+2712120	2716400	das sind ja eigentlich Methoden, die er da auch schon formuliert, und dann eben auch dieses
+2716400	2723760	Kartografieren, das kommt ja auch schon bei ihm auch vor. Ja, und ich würde dann ihm vorschlagen,
+2723760	2732520	das Ganze als Tanz zu praktizieren, und ja, das muss man irgendwie modellieren.
+2732520	2742920	Ja, irgendwie ist gut. Das ist die große Frage. Ja, genau, ich würde auch sagen,
+2742920	2749200	also da sind schon einige Fragen offen, nämlich gerade auch, und das sprichst du im Buch auch
+2749200	2755160	immer oder an mehreren Stellen glaube ich an, richtigerweise finde ich, also ein wichtiger
+2755160	2761400	Aspekt, den es da ja noch zu bearbeiten gilt, gerade wenn man aus so einer Ebene der kommunistischen
+2761720	2768440	Organisation herauskommt, ist die Frage nach der Vermittlung von interpersonaler und transpersonaler
+2768440	2773760	Ebene, weil zumindest, also bei den Konzepten, die ich jetzt da kenne, ist das eine große
+2773760	2779400	Leerstelle jetzt im Kommunismus, wie ich ihn zumindest jetzt mal von Simon Suttolitti und
+2779400	2785280	Stefan Meretz kennengelernt habe, hatte ich immer das Gefühl, dass das mit den dort angegebenen
+2785280	2790800	Metacommons und Stigmergie und polyzentrische Selbstorganisation noch nicht hinreichend
+2790800	2795920	beantwortet ist eigentlich. Das Global Communing System, die Gruppe rund um dieses Projekt,
+2795920	2802760	die versuchen ja unter anderem auch genau diese Ebene eigentlich dann zu adressieren mit dieser
+2802760	2808400	Form von Plattform, die sie da vorschlagen. Aber also ich finde jetzt genau in Bezug auf die Frage
+2808400	2817840	der Simulation und des Modellierens einer solchen kommunistischen Kooperativität sind da noch viele
+2817840	2824600	Fragen offen, finde ich irgendwie. Also mich würde das interessieren, wie du das gedenkst,
+2824600	2829800	anzugehen. Also wie würdest du dann, wenn du jetzt dich so einem Projekt zuwenden würdest,
+2829800	2836880	dass du daraus eine agentenbasierte Modellierung machst. Was sind denn die Grundlagen zum Beispiel
+2836880	2841800	in Bezug auf die Modellierung der einzelnen Agentinnen und Agenten, die Zuschreibungen,
+2841800	2847640	die da gesetzt werden? Hast du da eine Idee zu, wie du das angehen würdest? Also weil ich nehme
+2847640	2851960	jetzt einfach mal an, dass du dich nicht einfach nur auf die bounded rationality irgendwie zurückziehen
+2851960	2858440	würdest, sondern da bräuchte es ja dann andere Parameter, die man zunächst einmal experimentell
+2858440	2866600	in diese Agentinnen und Agenten einprogrammiert, um dann zu gucken, welches Verhalten sich daraus
+2866600	2873400	ergibt. Aber wie wird das hergeleitet, also auf Basis von was wird da operiert, wenn man so will?
+2873400	2880080	Ja, schöne Frage, die ich auch nicht so schnell beantworten kann, aber ich kann es versuchen,
+2880080	2886680	also im Buch versuche ich ja so größere, die uns alle auch schon, die wir kennen, so was wie
+2886680	2894200	Solidarität beziehungsweise, dass es auf die Beziehung drauf ankommt, dass die da ist und die
+2894200	2899560	Freiheit des anderen zum Beispiel oder der anderen und nicht die eigene Freiheit. Also solche, das
+2899560	2905640	sind ja schon so Rahmenbildungen, die kann man versuchen zu operationalisieren, das heißt,
+2905640	2911320	in Regelsysteme dann irgendwie einzubauen. Und das sind eigentlich, die sind schon Teil von
+2911320	2918320	solchen Regeln, die dann in Agentinnen und Agenten, also diese Punkte, da eigenprogrammiert
+2918320	2924920	werden können. Und deshalb könnte man sowas wie Stimergie, könnte man dann versuchen zu
+2924960	2933880	modellieren. Das ist die gemärkische Prozess. Und zum Beispiel in einem, wo es darum geht, zum
+2933880	2941800	Beispiel Orte, die man reparieren muss in einer Wohngenossenschaft, wie könnte das funktionieren?
+2941800	2947360	So und dann kann man da, beginnt man dann zu überlegen, ja was könnten wir abstrahieren? Wie
+2947360	2951960	bewegen sich die Leute innerhalb der Genossenschaft? Ist es da vielleicht nur ein Feld? Und was sind
+2952000	2958400	da die, wie weit können die sehen zum Beispiel, um etwas zu bemerken, dass es repariert wird und
+2958400	2964440	wie wird dann das, das repariert werden muss kommuniziert und so weiter. Da muss man von Grund
+2964440	2973760	auf eigentlich so ein Prozess, so ein Modell dann entwickeln. Ich würde schon so bei den Dingen,
+2973760	2982400	die dann auch im Kapitalismus aufheben, beschrieben werden, da ansetzen wollen. Und was ich ein
+2982400	2988000	bisschen schade fand bei diesem Modell, bei Gesellschaft ohne Geld, die haben ja versucht,
+2988000	2995760	das Modell, was sie gemacht haben, war ja schon sehr komplex. Und vielleicht war es zu komplex und
+2995760	3003520	vielleicht kann man auch mit einfachen Modellen die Leute irgendwie zum Denken anlegen oder
+3004480	3013720	vielleicht können auch schon einfache Modelle dann helfen, dann Regelsysteme zu bauen und dann
+3013720	3020760	die dann auch auszuprobieren. Ob jetzt in echt, in wirklichen Genossenschaften oder in Communing
+3020760	3026520	Projekten oder ob das dann in einem Spiel ist, ist wieder eine andere Frage. Aber ich glaube man muss
+3026520	3031080	dann einfach mal anfangen. Vielleicht kann ich das auch jetzt deshalb nicht antworten, weil ich das
+3031080	3037640	immer bis jetzt alleine mache. Vielleicht brauche ich andere Leute und dann sollten wir dann
+3037640	3044200	zusammen ein Problem sozusagen lokalisieren und dann versuchen, was ist jetzt das und wie könnte
+3044200	3049120	man das abstrahieren und so weiter. Man muss glaube ich wirklich eine Gemeinschaft bilden,
+3049120	3057360	die natürlich auch offen ist, aber die das dann angeht. Und das Buch ist auch vielleicht so ein
+3057360	3064440	Versuch da so was anzuregen und dass ich da auch andere ja Alliierte oder Freunde finde,
+3064440	3071120	mit denen ich das dann auch durchführen kann. Ja, ja. Bevor wir jetzt dann zur letzten Frage
+3071120	3078160	kommen, vielleicht noch ein Punkt noch zum Boden, auf dem sich das Ganze bewegt. Ich lese da mal ein
+3078160	3083320	Zitat aus deinem Buch auch vor, da heißt es nämlich, doch die Beschaffenheit des Bodens und die
+3083320	3089160	Atmosphäre des Raums, in dem sich die Tanzenden bewegen und situieren, also ihre Umwelt, wirkt
+3089160	3095840	sich auf den Tanz und dessen Tanzbarkeit aus. Zitat Ende. Das hat mich ziemlich erinnert an
+3095840	3102160	eine bestimmte Art von Hände und Eilproblem, wenn man so will, die gerade auch in Bezug auf
+3102160	3108360	kommunistische Kooperativität eigentlich ja wichtig ist. Ein Problem, was da zutage tritt,
+3108360	3116400	denn es bedarf ja, ich sag mal, begünstigender Grundlagen, um also erfolgreich in kommunistischer
+3116400	3120960	Kooperativität sich zu üben. Also dieses Erlernen, auf das du ja auch immer wieder
+3120960	3128520	hinweist, das ist ja nicht in jedem Kontext so ohne Weiteres möglich. Also wenn ich jetzt irgendwie
+3128520	3134760	40 Stunden die Woche irgendwo am Fließband stehe oder so, dann ist die Wahrscheinlichkeit,
+3134760	3140640	dass ich da jetzt dann doch noch bei einer Koop mitmache, wo ich dann irgendwie alle zwei Wochen
+3140640	3145400	ins Plenum muss und noch einen Job übernehmen oder so was, dass ich da dann mitmache, ist die
+3145400	3152400	Wahrscheinlichkeit eher geringer. Also das heißt, es ist eigentlich essentiell wichtig, dass im
+3152400	3158280	Grunde der Boden auf Basis dessen diese Kooperativität gedacht werden kann, dass der
+3159280	3166560	thematisiert wird. Hast du da einen Zugang zu, wie man das am besten angehen kann? Weil bis zum
+3166560	3174720	gewissen Grad ist das ja auch ein vielleicht berechtigter Vorwurf, den man dann jetzt dem
+3174720	3182800	kommunistischen Zugang machen kann, zu sagen, okay, wie kann das sozusagen in die Welt kommen in einer
+3182800	3191240	immer größeren und verbreiteten Art und Weise, wenn doch der Boden, auf dem es sich entwickeln
+3191240	3199280	soll, so feindlich ist gegen eine Ausbreitung letztlich dieser kooperativen Umgangsformen,
+3199280	3206520	dieser kommunistischen Kooperativität. Also gibt es da Ideen zu, wie man das angehen könnte?
+3206520	3217160	Ja, also es gibt ja eben, wie gesagt, schon Gruppierungen, Gemeinschaften, die dann
+3217160	3225600	versuchen einen eigenen Boden zu kreieren. Vielleicht auch mal einfach woanders hingehen
+3225600	3231960	und so mutig sind, auch ihr Leben zu ändern und dann, oder vielleicht sind sie auch gezwungen,
+3231960	3238560	aber es gibt da, also man muss, man kann ja den Boden oder das Gebiet wechseln. Einerseits,
+3238560	3243360	andererseits natürlich schwierig, es sind auch nur, es können nur solche Leute, die sich das
+3243360	3248920	irgendwie leisten können oder irgendwie da mutig genug sind und eine Hoffnung haben, dass das dann
+3248920	3257640	funktioniert. Und ja, da brauchen wir mehr solche Beispiele und da gibt es ja viele jetzt und die
+3257640	3267240	müssen bekannter werden. Und dann mein Vorschlag eben, wir könnten solche Leute, das sind ja dann
+3267240	3276480	so ein bisschen die Helden der Kommunisierung oder des Kommunismus, dann eben auch zum Vorbild nehmen
+3276480	3282800	und das versuchen aber auch in unseren Alltag einzubauen durch dieses spielerische. Das ist
+3282800	3287120	noch ein bisschen eine unformulierte, vielleicht ein bisschen naive Idee, aber dass man vielleicht
+3287120	3297120	so ein Netzwerk von, dass man das virtuell machen kann, spielerisch, also so ein bisschen wie diese
+3297120	3303400	Multi-User-Spiele, wo wir dann auch natürlich vor unseren Computern sitzen, aber dann gemeinsam
+3303400	3310520	irgendwie ein Spiel spielen, woanders. Und so ein Spiel könnte ja auch kommunistisch organisiert
+3310600	3316760	sein und solidarischen Prinzipien und da könnte man solche Dinge ausprobieren. Und vielleicht können
+3316760	3324600	sich ja da Erkenntnisse davon dann immer ein Stück, immer mehr auch in den Alltag etablieren. Und
+3324600	3330920	andererseits sehe ich eben dieses Henne-Ei-Problem auch nicht so, das ist nicht so ein großes Problem
+3330920	3336800	für mich. Also es ist eine Betrachtungsweise, die man vielleicht auch aufgeben muss, weil es ist ja
+3336800	3345320	immer eine Frage der Adaption. Die Frage, was jetzt zuerst war, ist eigentlich nicht so wichtig,
+3345320	3352480	weil es war schon immer irgendwie da und man muss einfach die Situation oder man kann die
+3352480	3362080	Situation ändern. Und die Frage ist, wie das passieren kann und wie man da die Energie findet
+3362080	3369160	oder die Motivation, das zu tun. Und wenn es sich dann vielleicht herumspricht, dass es eine
+3369160	3376920	alternative Lebensweise gibt für Leute, dann sprengen vielleicht auch Leute an, die eben 24
+3376920	3381560	Stunden oder irgendwie ganz viel arbeiten müssen und diese Gefühl haben, sie kommen da nicht mehr
+3381560	3387920	raus. Aber vielleicht ist das dann eine Möglichkeit für die, dann irgendwie da umzuwechseln, oder? Das
+3387920	3394320	ist ja auch so ein bisschen diese Idee der Keimform, auch die bei Kapitalismus aufheben, da auch
+3394320	3404920	formuliert wird. Irgendwo muss dieses Prinzip bekannt werden und funktionieren und dann gibt es
+3404920	3409400	dann schon andere Leute, die das dann auch nachmachen und es verbreitet sich dann so. Genau. Ja,
+3409400	3413840	aber eben die Frage wäre halt, ob das reicht. Also das ist, glaube ich, vielleicht ist dann
+3413840	3419560	Henne und ein auf eine Art falsch, weil wie du sagst, das stimmt ja durchaus, dass da schon was
+3419560	3430840	da ist. Also es gibt quasi schon Eier, aber es ist trotzdem so, dass dann halt in Bezug auf die Frage
+3430840	3439520	der Transformation jetzt es eigentlich dann schon auch riesengroße Fragezeichen gibt, ob da dann
+3439520	3444800	nicht doch, also eben nicht die Zuckungen, weil du hattest das ja irgendwo mal gesagt, nicht diese
+3444800	3450160	Muskelzuckungen, die du dann mit einer Revolution gleichgesetzt hast, also ob es die nicht vielleicht
+3450160	3456480	doch auch braucht bzw. ob es nicht einfach auch einen selektiven Einsatz von Muskelkraft braucht,
+3456480	3463560	sozusagen. Also weil einfach realistischerweise man ja wohl feststellen muss, dass im Sinne der
+3463560	3467680	Machtverhältnisse es jetzt nicht so ist, dass es so aussieht. Und das hatten wir heute auch schon
+3467720	3473080	mal angesprochen, dass es nicht so aussieht, als ob quasi von allein in so einem mehr oder
+3473080	3481840	minder harmonistischen Ablösungsprozess es zu einer weitflächigen Ausbreitung käme,
+3481840	3487640	die dann irgendwann sozusagen einfach nur noch diesen Kippmoment braucht, in dem es dann zum
+3487640	3496400	Dominanzparadigma wird oder Dominantparadigma wird, sondern so ein bisschen liegt ja schon
+3496400	3502000	die Vermutung nahe, dass es eventuell doch auch noch mehr bräuchte. Also nämlich tatsächlich,
+3502000	3506600	um jetzt in diesem Bild des Tanzes und der Körperlichkeit zu bleiben, Muskelkraft, also
+3506600	3514880	sozusagen einen selektiven Einsatz von Muskelkraft, die nicht nur im Erlernen der Alternative besteht,
+3514880	3523000	sondern tatsächlich auch im Kampf. Das wäre die Frage. Ja, in der Tat. Ja. Oft ist, die Frage ist
+3523000	3530560	doch dann oft, das sagen doch viele dann, was nach der Revolution passiert und wie man dann zum
+3530560	3539160	Tanzen kommt nach der Zukunft, nach der Muskelkraft, ob man damit dann einen neuen Tanz generieren kann.
+3539160	3542640	Aber das ist nicht, was ich sage. Das kommt ja zusammen. Genau. Also ich will nicht sagen,
+3542640	3547200	dass man sozusagen nur die Muskelkraft bräuchte und danach würde sich schon alles ergeben, was
+3547200	3552120	sozusagen das klassische Bild wäre oder jetzt mal so ein bisschen eine Karikatur des klassischen
+3552120	3556520	Bildes, sage ich mal, von Revolution, sondern ich würde total zustimmen, dass es vorher quasi
+3556520	3562240	eine einübende Tanzbewegung braucht, wenn man so will, aber gleichzeitig vielleicht auch darauf
+3562240	3569880	hinweisen, dass es zusätzlich zu diesem Erlernen, diesem affektiv-somatischen Erlernen im Tanze,
+3569880	3576200	sozusagen, trotzdem auch darüber hinaus noch eben, wie gesagt, einen selektiven Einsatz von
+3576200	3583760	Muskelkraft braucht an bestimmten Stellen, um dann tatsächlich auch das Realistische erscheinen zu
+3583760	3591560	lassen, dass eine solche Form der Bezugnahme auch zu einem dominanten Paradigma werden kann.
+3591560	3598680	Also das affektiv-somatische, das ist ganz wichtig. Es ging mir nicht darum, das zu kritisieren,
+3598680	3603840	sondern es ist ein Zusammenspiel oder da eben die Kraft davon oder die Möglichkeiten,
+3604160	3611040	das affektiv-somatische generieren, die da auch geschickt ausnutzen zu können. Das ist dann auch
+3611040	3615840	im Tanzen oder dass man das lernt, mit den eigenen Effekten umzugehen oder mit der eigenen
+3615840	3621440	Muskelkraft, um es dir auch aufzubauen und beim Tanzen und so.
+3621440	3629360	Sehr schön. Shintaro, am Schluss frage ich immer noch, wenn du dir Zukunft vorstellst,
+3629360	3637080	was stimmt dich freudig? Ja, es gibt natürlich vieles, was einem nachdenklich und traurig stimmt,
+3637080	3643400	aber freudig stimmt mich zu wissen, da haben wir ein bisschen darüber gesprochen,
+3643400	3649120	eben die Adaption, also dass wir eigentlich im Laufe der Millionen von Jahren oder das
+3649120	3655480	biologische Organismen sich oft an ihre Umweltbedingungen anpassen konnten und
+3655600	3661520	falls wir jetzt eben diesen, wir benötigen ja so einen dringenden Sprung, wenn wir das irgendwie
+3661520	3666960	durch geschickte Selbstorganisation und Selbsttransformation guten Regeln und Bildung
+3666960	3671640	dann eben besser in den Griff bekommen, dann wenn wir das alles schaffen, dann haben wir natürlich
+3671640	3677760	ein wirklich schönes Leben, das noch viel besser sein wird als das, was wir haben und es kann nur
+3677760	3681720	besser werden. Wunderbar, Shintaro, vielen Dank für das Gespräch.
+3681720	3693960	Das war Future Histories für heute, vielen Dank fürs Zuhören, Show-Notizen und vieles mehr findet
+3693960	3700880	ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag Future Histories
+3700880	3706400	oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen großen Podcast-
+3706400	3713080	Plattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den Episoden dann auch
+3713080	3719560	Kurzvideos zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne unter jan at future
+3719560	3726160	histories.today. Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr
+3726160	3732440	Future Histories unterstützen wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories
+3732440	3737720	oder auch via Spende auf unserer Homepage. Future Histories ist eine Produktion von
+3737720	3744720	Metalapsis zu finden auf metalapsis.net. Bis zum nächsten Mal, ich freue mich.

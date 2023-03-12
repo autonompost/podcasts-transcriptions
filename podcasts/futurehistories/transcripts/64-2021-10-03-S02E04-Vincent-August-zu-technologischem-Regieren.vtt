@@ -1,0 +1,2306 @@
+WEBVTT
+
+00:00.000 --> 00:05.160
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen
+
+00:05.160 --> 00:11.160
+von Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Vincent August begrüßen zu
+
+00:11.160 --> 00:16.920
+dürfen. Er ist wissenschaftlicher Mitarbeiter am Institut für Sozialwissenschaften der Humboldt
+
+00:16.920 --> 00:23.880
+Uni Berlin und Autor des Buches Technologisches Regieren. Der Aufstieg des Netzwerkdenkens in
+
+00:23.880 --> 00:30.600
+der Krise der Moderne, Foucault, Lohmann und die Kybernetik. Und über technologisches Regieren
+
+00:30.600 --> 00:35.640
+wollen wir heute auch sprechen, denn wie regelmäßige Hörerinnen und Hörer dieses
+
+00:35.640 --> 00:40.920
+Podcasts hier sicher wissen, interessiert mich das natürlich brennend. So sehr sogar,
+
+00:40.920 --> 00:46.040
+dass es so manche Episode von Future Histories gibt, die in einer ganz ausgezeichneten
+
+00:46.040 --> 00:52.040
+Korrespondenz zum heutigen Gespräch steht. Da werden zum Beispiel erwähnt die allererste
+
+00:52.120 --> 00:57.680
+Episode von Future Histories mit Benjamin Seibel zum Thema politische Kybernetik,
+
+00:57.680 --> 01:05.200
+Folge 18 mit Simon Schaub zu Kybernetik und radikaler Demokratie oder auch Folge 54 mit
+
+01:05.200 --> 01:11.080
+Urs Stehli zu Entnetzung. Bevor es jetzt losgeht, möchte ich noch Fabian, Carmen,
+
+01:11.080 --> 01:17.720
+Lukas und Wilfried für ihre Spenden danken und ich begrüße George und Luki ganz herzlich in
+
+01:17.720 --> 01:23.640
+der Gemeinschaft der Future Histories Patreon Unterstützerinnen und Unterstützer und jetzt
+
+01:23.640 --> 01:29.800
+viel Freude mit der heutigen Episode Future Histories mit Vincent August zu technologischem
+
+01:29.800 --> 01:42.400
+Regieren. Herzlich willkommen Vincent. Hallo Jan, vielen Dank für die Einladung. Ich fange
+
+01:42.480 --> 01:48.480
+gerne mit Definitionsfragen an und so auch heute. Vincent, was ist technologisches Regieren?
+
+01:48.480 --> 01:55.040
+Ja, mit technologisches Regieren beschreibe ich ein zentrales Paradigma der Spätmoderne. Es
+
+01:55.040 --> 02:00.000
+handelt sich um einen Regierungsansatz, der um Ideen wie Netzwerke und Systeme,
+
+02:00.000 --> 02:07.840
+Ökosysteme, Computersysteme, um Konnektivität und um Flexibilität kreist. Und dieses Netzwerkdenken
+
+02:07.840 --> 02:14.680
+entsteht im Grunde aus der Kybernetik heraus und wird dann in den Krisen der 70er-Jahren schon zu
+
+02:14.680 --> 02:20.040
+einem dominanten Deutungsmuster und zwar nicht nur im Bereich der Politik, sondern eben auch
+
+02:20.040 --> 02:23.800
+für gesellschaftliche Selbstbeschreibung insgesamt. Also wir kennen das die
+
+02:23.800 --> 02:29.720
+Netzwerkgesellschaft als Beispiel dafür. Und auf diese Weise ist das Netzwerk im Grunde zu
+
+02:29.720 --> 02:35.640
+einer Art Grundbegriff des 21. Jahrhunderts geworden. Wir beschreiben unsere Gesellschaft
+
+02:35.640 --> 02:40.080
+als Netzwerkgesellschaft und wo wir früher so Verbände und Vereine hatten, sehen wir jetzt
+
+02:40.080 --> 02:44.960
+eben auch immer mehr Netzwerke aufploppen, zivilgesellschaftliche Netzwerke, Forschungsnetzwerke
+
+02:44.960 --> 02:51.760
+oder sogar Terrornetzwerke und ähnliches. Und mit diesen Begrifflichkeiten hat sich auch eine ganz
+
+02:51.760 --> 02:57.080
+bestimmte Sicht auf die Welt im Grunde durchgesetzt und es haben sich auch bestimmte Anforderungen an
+
+02:57.080 --> 03:02.360
+die Menschen oder Subjekte und auch an Organisation und Politik breit gemacht, die ich mit diesem
+
+03:02.360 --> 03:09.480
+Begriff technologisches Regieren beschreibe. Nehmen wir mal zwei Beispiele. Zum einen hat die
+
+03:09.480 --> 03:15.080
+OECD schon vor einigen Jahren darüber diskutiert, wie denn jetzt Regieren oder Governance im
+
+03:15.080 --> 03:21.560
+21. Jahrhundert aussehen soll und antwortet darauf damit, dass die Regierungen eine fundamentale
+
+03:21.560 --> 03:27.080
+Wende vollziehen müssen. Da ist ein ganz klassisches Narrativ, das wir auch viele von uns
+
+03:27.080 --> 03:33.560
+sicherlich kennen. Weil die Welt eben so komplex geworden ist und so vielfältig geworden ist, muss
+
+03:33.560 --> 03:39.120
+man sich jetzt wegbewegen von einem alten hierarchischen Politikstil hin zu Netzwerken,
+
+03:39.120 --> 03:45.200
+weil die ja flexibel und kreativ und innovativ sein. Das ist eben so ein ganz typisches Narrativ
+
+03:45.200 --> 03:51.040
+und auch zum Beispiel im aktuellen Wahlprogramm der Grünen finden wir ein ganz ähnliches Plädoyer
+
+03:51.040 --> 03:58.120
+für eine neue politische Kultur des Netzwerks. Das zweite Beispiel ist sogar noch viel alltäglicher.
+
+03:58.120 --> 04:04.760
+Ich war mal um Ostern herum Brötchen kaufen bei unserem Bäcker hier um die Ecke und auf der
+
+04:04.760 --> 04:12.400
+Brötchentüte dieser Kette wurde für die Ausbildung in dieser Bäckereikette geworben und zu sehen war
+
+04:12.400 --> 04:18.600
+darauf so eine Computerspielcharakter mit bestimmten Eigenschaften wie Konnektivität,
+
+04:18.840 --> 04:25.560
+Teamplayer und Lernbereitschaft. Und ich finde an diesen Anforderungen, die hier an die jungen
+
+04:25.560 --> 04:30.520
+Menschen gestellt wird, sieht man schon, dass das ganz offensichtlich nicht Anforderungen sind,
+
+04:30.520 --> 04:35.640
+die aus dem Neoliberalismus zum Beispiel kommen, sondern dass es hier ein ganz anderes Denken ist,
+
+04:35.640 --> 04:42.680
+nämlich das Netzwerkdenken. Und du hattest jetzt die Kubernetes ja schon kurz angesprochen als
+
+04:42.680 --> 04:51.160
+einen Ideengeber für diese Form des technologischen Denkens, aber im Buch unterscheidest du da auch
+
+04:51.160 --> 04:56.040
+noch ein bisschen genauer. Du beschreibst dann nämlich zwei unterschiedliche Technologiken,
+
+04:56.040 --> 05:01.120
+mit Bindestrich dazwischen schreibst du das dann, also Logiken auch des technologischen Regierens
+
+05:01.120 --> 05:07.040
+eigentlich unter anderem. Also du beschreibst zwei unterschiedliche Technologiken, wobei du eben die
+
+05:07.040 --> 05:12.360
+Technokratie von der Kubernetes als eine Art Alternative zur Technokratie auch abgrenzt.
+
+05:12.360 --> 05:16.560
+Worin würden sich die beiden Zugänge da unterscheiden? Und das, auch wenn jetzt in
+
+05:16.560 --> 05:20.560
+Future Histories die Kubernetes natürlich schon immer mal wieder vorkamen, vielleicht kannst du
+
+05:20.560 --> 05:26.920
+auch noch mal kurz skizzieren, womit wir es da zu tun haben. Das ist eine, finde ich, wichtige
+
+05:26.920 --> 05:32.040
+Frage in zweierlei Hinsicht. Zum einen natürlich, um überhaupt zu verstehen, wie dieses technologische
+
+05:32.040 --> 05:37.640
+Regierungsdenken entstanden ist, aber zum anderen glaube ich, ist das auch ganz zentral für unsere
+
+05:37.640 --> 05:45.720
+gegenwärtigen Debatten, in denen wir auch immer wieder Technokratie-Elemente aufgerufen werden.
+
+05:45.720 --> 05:52.120
+Also zum Beispiel die Sorge darum, dass wir eine universelle Automatisierung haben und Ähnliches.
+
+05:52.120 --> 05:59.920
+Ganz häufig werden in unserer aktuellen Debatte eben Motive und Erzählungen aufgerufen, die schon
+
+05:59.920 --> 06:05.760
+viel älter sind und wir kriegen das quasi gar nicht mit, weil sie uns so vertraut sind. Haben
+
+06:05.800 --> 06:10.200
+sie dann aber wiederum eine relativ starke Wirkung, um unsere Debatten darüber, wie die Zukunft
+
+06:10.200 --> 06:15.240
+raussehen soll, mit strukturieren. Deswegen finde ich diese Unterscheidungen ziemlich wichtig und
+
+06:15.240 --> 06:20.320
+auch wichtig, sich anzugucken, was eigentlich schon eine ganze Weile herum vagabundiert, könnte man
+
+06:20.320 --> 06:27.200
+sagen. Und du hast diese beiden Technologiken, die ich im Vorstelle schon benannt, nämlich Technokratie
+
+06:27.200 --> 06:33.280
+und Kybernetik im Grunde. Wenn wir auf die Technokratie gucken, dann ist das ja ein Begriff,
+
+06:33.640 --> 06:40.760
+der in den 50er bis frühen 70er Jahren eine Debatte beschreibt, in der Technokratie eher
+
+06:40.760 --> 06:48.160
+negativ beschrieben wird oder verwendet wird. Und auch hier in dieser Debatte stehen sich eigentlich
+
+06:48.160 --> 06:55.040
+zwei Seiten gegenüber. Nämlich zum einen Menschen und Organisationen, die im Prinzip auf eine
+
+06:55.040 --> 07:02.440
+Rationalisierung von politischer Planung mithilfe von technischen Mitteln abzielen. Was jetzt erst
+
+07:02.520 --> 07:08.640
+mal voll in das Regierungsdenken der Nachkriegszeit passt, dass er sehr stark auf politische Planung
+
+07:08.640 --> 07:15.000
+abgestellt hat. Und die Idee hier war, das zu rationalisieren und zu verbessern. Ganz
+
+07:15.000 --> 07:21.560
+vorn dran waren dabei die RAND-Cooperation oder RAND-Wissenschaftler wie Olaf Helmer zum
+
+07:21.560 --> 07:28.200
+Beispiel. Und auf der gegenüberliegenden Seite stehen Kritiker dieser Rationalisierung von
+
+07:28.200 --> 07:34.320
+politischer Planung und von Gesellschaft insgesamt. Auf der einen Seite Konservative
+
+07:34.320 --> 07:40.960
+wie Jacques Ellul oder Helmut Schelski und auf der anderen Seite Linke wie Herbert Marcuse,
+
+07:40.960 --> 07:47.280
+Habermas dann natürlich auch. Also kritische Theorie im Prinzip. Und die Debatte dreht sich
+
+07:47.280 --> 07:54.800
+eben eigentlich darum, wie stark können Gesellschaften rationalisiert werden und
+
+07:54.800 --> 08:01.400
+die Kritik, die unter Technokratie dann läuft, wird sowohl von Konservativer als auch von linker
+
+08:01.400 --> 08:07.000
+Seite zielt dann darauf, dass es eigentlich eine Deformierung des Menschen und der Politik gibt
+
+08:07.000 --> 08:12.880
+durch die Technik. Und da sieht man im Grunde eben so ein humanistisches Ideal dahinter stehen. Es
+
+08:12.880 --> 08:17.360
+geht um die Souveränität des Menschen über sich selbst und aber auch über die menschlichen
+
+08:17.360 --> 08:23.320
+Gesellschaften sozusagen. Und dass das eben nicht abgegeben wird an die Technik. Und in
+
+08:23.320 --> 08:28.480
+der Technokratie Debatte gibt es dann erneut unterschiedliche Positionen. Die einen sehen
+
+08:28.480 --> 08:34.200
+eben halt die Gefahr eher kommen von Technikern, also von bestimmten Personal sozusagen des
+
+08:34.200 --> 08:41.160
+politischen Prozesses, die Exekutive sind oder die über bestimmtes Expertenwissen verfügen und
+
+08:41.160 --> 08:47.920
+quasi die politischen Strukturen usoppieren. Oder tatsächlich auch die Sorge, dass es eine
+
+08:47.920 --> 08:52.640
+autonome Technik gibt. Und das ist ja ein Phänomen, was oder ein Motiv, was heute sehr stark
+
+08:52.640 --> 08:58.640
+auch wieder diskutiert wird. Also dass wir quasi eine Autonomisierung haben und das alles übernimmt,
+
+08:58.640 --> 09:03.440
+bis hin zu der Vorstellung, dass es Regierungsmaschinen gibt, die den ganzen Prozess
+
+09:03.440 --> 09:10.200
+dann im Prinzip durchkalkulieren. Das ist erst mal diese eine Seite der Technokratie. Und das
+
+09:10.200 --> 09:13.720
+Interessante daran finde ich, ist, dass es eigentlich innerhalb des Souveränitätsdenkens
+
+09:14.080 --> 09:19.960
+operiert. Es geht um die Souveränität des Menschen über die Maschine und der Politik
+
+09:19.960 --> 09:25.120
+bzw. Demokratie über die Experten. Und dahinter steht natürlich auch eine gewisse Sorge darüber,
+
+09:25.120 --> 09:32.880
+wie es den jungen Demokratien in der Zeit ja dann weiter ergehen wird. Die Kybernetik nun wird
+
+09:32.880 --> 09:39.040
+innerhalb dieser Technokratie Debatte im Grunde zum Symbol für die Idee einer solchen durchrationalisierten
+
+09:39.040 --> 09:44.320
+Gesellschaft, gar zum Vordenker dieser Regierungsmaschinen, wie ich das eben beschrieben
+
+09:44.320 --> 09:50.320
+habe, wo man dann überhaupt gar keine Politik mehr benötigt, sondern alles berechnet wird. Und das
+
+09:50.320 --> 09:56.280
+Interessante ist aber, dass das, was in der Kybernetik selbst passiert, davon relativ weit
+
+09:56.280 --> 10:02.600
+entfernt ist. Und dafür muss man eben tatsächlich auch in die Debatten der Kybernetik und der
+
+10:02.600 --> 10:08.720
+Kybernetikerinnen reinschauen, um zu sehen, wie die eigentlich über ihren Gegenstand sprechen.
+
+10:08.720 --> 10:14.960
+Und du hattest ja gesagt, ich soll noch mal kurz skizzieren, was Kybernetik eigentlich ist.
+
+10:14.960 --> 10:23.400
+Kybernetik stellt im Grunde ja erstmal einen Forschungszusammenhang dar, der so in den 40er,
+
+10:23.400 --> 10:30.880
+50er Jahren erstmal relativ präsent wird und dem es darum geht, so etwas wie eine universelle
+
+10:30.960 --> 10:37.640
+Regelungstheorie zu entwerfen, die man sowohl auf Maschinen als auch auf Menschen und andere
+
+10:37.640 --> 10:48.000
+Lebewesen anwenden kann. Und dafür wird sie, sie besteht aus sehr unterschiedlichen Leuten,
+
+10:48.000 --> 10:54.320
+das sind extrem interdisziplinär zusammengesetzt, da sind Soziologen dabei, da sind Mathematiker,
+
+10:54.320 --> 11:01.760
+Logiker, Physiologen, Mediziner, Ingenieure und so weiter. Also wirklich ein sehr heterogener Raum
+
+11:01.760 --> 11:09.640
+an Leuten, der da zusammenkommt und dementsprechend breit ist also auch erstmal die Bandbreite an
+
+11:09.640 --> 11:18.560
+Themen und Zugängen, die die zusammenbringen. Was sie aber verbindet, ist erstmal diese Frage
+
+11:18.560 --> 11:23.880
+eben nach einer universellen Regelungstheorie, die sie über Communication and Control im Prinzip
+
+11:23.880 --> 11:29.760
+denken, also einen kommunikationstheoretischen Ansatz, und dass sie versuchen, gegen das
+
+11:29.760 --> 11:36.760
+Deutungsmuster von Souveränität und Mechanik, also quasi eine Kritik der Moderne anzubringen,
+
+11:36.760 --> 11:44.360
+um eben diese Regelungstechnologien oder Regelungszugänge neu zu denken. Und dafür schaffen
+
+11:44.360 --> 11:50.040
+sie eine neue Epistemologie im Grunde. Also sie entfernen sich von dem, was typisch für die
+
+11:50.040 --> 11:57.360
+Moderne ist, was wir heute als Ontologie bezeichnen würden, und verschieben im Prinzip die Perspektive
+
+11:57.360 --> 12:03.840
+hin zu einem operationalen Ansatz. Oder in den Begriffen, die heute vertrauter sind vielleicht,
+
+12:03.840 --> 12:10.040
+sie verschieben die Frage vom Was zum Wie. Sie fragen nicht mehr, was ist das Ding, welches Wesen
+
+12:10.040 --> 12:15.520
+ist es, was liegt in der Natur der Sache, sondern sie fragen, wie funktioniert das eigentlich? Und
+
+12:15.520 --> 12:20.680
+um dieses Wie funktioniert das eigentlich, zu ergründen und beschreiben zu können,
+
+12:20.680 --> 12:25.480
+führen sie eben einen komplett neuen Begriffsaparat zusammen aus den verschiedenen Disziplinen,
+
+12:25.480 --> 12:33.560
+aus denen sie kommen. Um so dann eben ein Regelungsdenken vorzuschlagen, das sich grundsätzlich
+
+12:33.560 --> 12:39.720
+von dieser humanistischen Souveränitätsidee abgrenzt und damit auch von klassischen Vorstellungen der
+
+12:39.720 --> 12:47.680
+Mechanik wie linearer Steuerung abgrenzt. Damit hat man also zwei sehr unterschiedliche Technologiken
+
+12:47.680 --> 12:54.160
+in dieser Zeit. Die eine, die mit der Technokratie im Prinzip voll im Bann dieser Souveränitätsdebatte
+
+12:54.160 --> 12:59.520
+steht. Und es geht quasi um die Frage, wie viel Technik und wie ist Technik erlaubt? Und die andere,
+
+12:59.520 --> 13:06.040
+die sich gegen genau dieses Deutungsmuster insgesamt wendet und im Prinzip versucht,
+
+13:06.040 --> 13:11.960
+genau diese Gegenüberstellung von humanistisch und mechanistisch zu überwinden in einem neuen
+
+13:11.960 --> 13:20.560
+Deutungsmodell und damit im Prinzip Technik als Deutungsmuster selbst ansetzt. Da mag ich noch
+
+13:20.560 --> 13:25.200
+kurz nachfragen, weil ich mir nicht sicher bin, ob ich das richtig verstanden habe. Du hattest
+
+13:25.200 --> 13:31.600
+kurz erwähnt, dass eigentlich innerhalb auch der kritischen Debatte über diese Formen des
+
+13:31.600 --> 13:36.880
+technologischen Regierens die Kybernetik wiederum angesehen worden ist eigentlich als eine Avantgarde
+
+13:36.880 --> 13:43.480
+dessen, wogegen sie sich stellt, wenn ich das richtig verstanden habe. Inwieweit ist das eigentlich
+
+13:43.480 --> 13:49.200
+dann eben nur eine Fremdbeschreibung gewesen oder wie sehr sind das unterschiedliche Camps
+
+13:49.200 --> 13:57.080
+innerhalb der Kybernetik, wo vielleicht ein gewisses Lager durchaus auch mit dieser Logik
+
+13:57.080 --> 14:04.040
+der totalen Kontrolle, wenn man so will, und Durchrationalisierung durchaus kompatibel wäre?
+
+14:04.040 --> 14:10.520
+Ja, also erstmal ist es genau so, dass wir in diesem Technokratiediskurs Kybernetik als
+
+14:10.520 --> 14:17.000
+einen Begriff haben, der erstmal sozusagen eine Fremdbeschreibung darstellt und dann steht Kybernetik
+
+14:17.000 --> 14:24.400
+im Prinzip für die durchrationalisierte Gesellschaft, wo alles sich selbst regelt,
+
+14:24.400 --> 14:31.240
+ohne dass es Menschen und Politik überhaupt noch bräuchte. Und jetzt natürlich die Frage,
+
+14:31.240 --> 14:36.240
+wie nah ist das dran an dem, was die Kybernetik eigentlich macht und dazu muss man erstmal sagen,
+
+14:36.240 --> 14:43.920
+dass die Kybernetik eben sehr heterogen ist und erstmal tatsächlich pendelt zwischen so
+
+14:43.920 --> 14:51.400
+Machbarkeitskonzeptionen und Fantasien und auf der anderen Seite dieser wirklich harten Kritik an
+
+14:51.400 --> 15:00.000
+der Moderne. Und wenn man jetzt eben diese Debatte sich anguckt, dann kann man sehen,
+
+15:00.000 --> 15:05.160
+dass etwa Norbert Wiener zum Beispiel selbstverständlich von so Machbarkeitsvorstellungen
+
+15:05.160 --> 15:12.320
+geprägt ist. Also da ist ja tatsächlich auch schon allein die Idee, eine universelle Regelungstheorie
+
+15:12.320 --> 15:17.920
+zu entwerfen, ist der Ausdruck dieser Machbarkeitskonzeptionen. Das ist aber eben
+
+15:17.920 --> 15:23.080
+noch nicht das Gleiche wie zu sagen, das soll alles durchrationalisiert sein und das reguliert
+
+15:23.080 --> 15:28.240
+sich alles selbst. Das ist ja noch mal was anderes. Und es gibt nun in dieser frühen
+
+15:28.240 --> 15:34.440
+kybernetischen Debatte Positionen, die zum Beispiel auch Ingenieurswissenschaftliche Einführung oder
+
+15:34.440 --> 15:39.520
+so, da findet man genau diese Vorstellung. Also es geht im Grunde darum, bei der Kybernetik den
+
+15:39.520 --> 15:47.800
+Zufall wegzurationalisieren. Das hat man auf populärwissenschaftlichen Ingenieursmäßigen
+
+15:47.800 --> 15:54.480
+Einführungen tatsächlich. Aber es entspricht eigentlich nicht wirklich dem, was dann innerhalb
+
+15:54.480 --> 16:01.160
+der Kybernetik diskutiert wird. Es ist zunehmend eine sehr randständige Position. Das kann man dann
+
+16:01.160 --> 16:08.440
+auch innerhalb der Kybernetik ziemlich scharf an Auseinandersetzungen und Kritiken sich anschauen.
+
+16:08.440 --> 16:13.760
+Also das fängt schon dabei an, dass es innerhalb der Macy-Konferenzen, also im Prinzip dieser
+
+16:13.760 --> 16:20.800
+Gründungskonferenzen der Kybernetik, eine heftige Auseinandersetzung zwischen denjenigen gibt, die
+
+16:20.800 --> 16:29.400
+quasi eher auf der Position einer klassischen Ökonomie stehen, wie Leonard Savage oder eben
+
+16:29.400 --> 16:35.360
+lineare Kommunikationsmodelle vertreten und denen, die man tatsächlich auch eher wirklich als
+
+16:35.360 --> 16:40.880
+Kybernetiker bezeichnen kann. Also MacCulloch zum Beispiel oder Gregory Bateson oder Norma
+
+16:41.040 --> 16:48.080
+Wiener. Auch eine sehr seltsame Mischung zum Teil, weil MacCulloch und Wiener sich zum Beispiel gar
+
+16:48.080 --> 16:53.920
+nicht so gut verstanden haben. Das ist sozusagen eher das Lager, was wirklich Kern-Kybernetiker
+
+16:53.920 --> 16:59.760
+sind. Und so kommt es dann auch relativ schnell dazu, dass sich Teile der Informationstheorie
+
+16:59.760 --> 17:06.800
+schon Mitte der 50er Jahre nicht mehr mit der Kybernetik assoziieren wollen, weil die eben
+
+17:06.800 --> 17:13.560
+was anderes machen will als sozusagen lineare Übermittlung und Steuerung von Information. Und
+
+17:13.560 --> 17:18.680
+dieser Konflikt setzt sich dann eben auch fort. Leute wie Russell Aykow zum Beispiel,
+
+17:18.680 --> 17:25.320
+der mal Präsident von einer wichtigen Organisation innerhalb der Kybernetik war, sagt dann auch sehr
+
+17:25.320 --> 17:31.240
+schnell, da ist im Prinzip was falsch gelaufen, wenn wir den Begriff der Kybernetik so verwenden,
+
+17:31.240 --> 17:39.000
+das war nicht die Idee. Und Gotthard Günther attackiert dann auch in einem Zug quasi sowohl
+
+17:39.000 --> 17:43.680
+die sozialwissenschaftlichen, intellektuellen wie Habermas dafür, dass sie überhaupt nicht
+
+17:43.680 --> 17:49.600
+verstanden haben, was die Kybernetik eigentlich macht, und diejenigen, die eben Kybernetik als
+
+17:49.600 --> 17:55.480
+so eine Art maximale Rationalisierung verstehen, die nennt er nämlich Wald- und Wiesen-Kybernetiker,
+
+17:55.480 --> 18:00.960
+denen die Kybernetik immer ein Buch mit sieben Siegeln bleiben wird. Und da sieht man schon,
+
+18:00.960 --> 18:09.160
+wie scharf diese Abgrenzung sich vollzieht. Das ist hochspannend, muss ich sagen. Und wir
+
+18:09.160 --> 18:15.200
+werden diesen Strang dann auch im Verlauf des Gesprächs definitiv noch weiter verfolgen,
+
+18:15.200 --> 18:20.320
+würde ich sagen. Aber bevor wir das machen, fände ich es trotzdem noch mal interessant,
+
+18:20.320 --> 18:30.240
+auch diese Kontrastfolie ein bisschen eingehender zu besprechen, die du in dem Buch eben auch
+
+18:30.480 --> 18:35.200
+vorschlägst oder auch beschreibst. Denn du beschreibst da die Idee des technologischen
+
+18:35.200 --> 18:39.680
+Regierens ja auch als eine Reaktion auf die Krise modernen Regierens. Du hast es ja jetzt
+
+18:39.680 --> 18:44.880
+auch schon angedeutet, also als eine Art von Abstoßen auch vom veralteten Denken,
+
+18:44.880 --> 18:50.600
+in Anführungsstrichen dem veralteten Denken der Souveränität nämlich auch. Nachdem dieses
+
+18:50.600 --> 18:56.200
+veraltete Denken auch heute noch hochaktiv ist, muss man sagen, lohnt es sich, dessen Prämissen
+
+18:56.200 --> 19:00.600
+auch noch mal ganz genau anzugucken und klarzumachen. Teilt man die nämlich nicht,
+
+19:00.600 --> 19:05.920
+also diese Prämissen des alten Denkens der Souveränität, dann zerfällt eigentlich im
+
+19:05.920 --> 19:12.080
+Grunde fast das komplette Gebäude dessen, was man gemeinhin so als politische Theorie
+
+19:12.080 --> 19:16.920
+präsentiert bekommt. Und ich persönlich finde das nichts Schlechtes, wenn das zusammenfällt,
+
+19:16.920 --> 19:22.240
+dieses Gebäude. Insofern, was hat es denn auf sich mit der Souveränität?
+
+19:22.240 --> 19:29.760
+Ja, wie du schon gesagt hast, ist Souveränität im Prinzip das Gegenmodell für das technologische
+
+19:29.760 --> 19:38.480
+Regieren bzw. das Netzwerkdenken. Und es entspricht auch dem, was wir im Prinzip von den 40er Jahren
+
+19:38.480 --> 19:48.480
+an bis in die Mitte der 70er Jahre als dominantes Deutungsmuster im Prinzip antreffen. Was wiederum
+
+19:48.640 --> 19:53.520
+schon wieder sehr überraschend ist, weil eigentlich war Souveränität als Deutungsmuster nach dem
+
+19:53.520 --> 19:58.520
+beiden Weltkriegen erledigt. Und es gibt eine ganz interessante Debatte, wie das quasi sich
+
+19:58.520 --> 20:04.360
+innerhalb von wenigen Jahren plötzlich wieder dreht und Souveränität zu einem neuen oder wieder zum
+
+20:04.360 --> 20:11.880
+dominanten Deutungsmuster wird. Und jetzt kann man sich eben angucken und dann kann es auch
+
+20:11.880 --> 20:17.200
+signalisieren, wie tief wir da hineingehen wollen. Wenn wir Souveränität hören, hören wir ja
+
+20:17.200 --> 20:23.480
+eigentlich erstmal eben eine Vorstellung von Regierungskonzeptionen. Man kann aber sehr schön
+
+20:23.480 --> 20:30.240
+zeigen, dass wenn über Souveränität gesprochen wird, damit eben bestimmte Prämissen, wie du sagst,
+
+20:30.240 --> 20:36.280
+zusammenhängen. Also Prämissen darüber, wer ist eigentlich hier der handelnde Akteur, wer ist das
+
+20:36.280 --> 20:44.040
+Objekt. Welche Vorstellung von Räumlichkeit, welche Vorstellung von Zeitlichkeit hängt daran. Und das
+
+20:44.040 --> 20:48.600
+bildet dann so etwas, was ich in Anlehnung an Pierre Bourdieu dann immer gerne Wahrnehmungsdenk- und
+
+20:48.600 --> 20:55.840
+Handlungsschematter nenne. Also es gibt quasi einen bestimmten Wahrnehmungsraum und bestimmte
+
+20:55.840 --> 21:02.200
+Rationalitäten, Denkmuster. Und daraus leitet man dann auch bestimmte politische Formen und
+
+21:02.200 --> 21:09.440
+Strukturen ab. Wenn wir jetzt zum Beispiel auf das Souveränes Objekt gucken, dann haben wir hier die
+
+21:09.440 --> 21:17.040
+Vorstellung, dass es sich um so etwas wie ein souveränes Bewusstsein handelt, was politische
+
+21:17.040 --> 21:24.200
+Entscheidungen aktiv trifft und dass es darum gehen muss, dass dieses Bewusstsein eine stabile
+
+21:24.200 --> 21:32.240
+Persönlichkeit ausbildet. Also haben wir zum einen diesen starken Persönlichkeitsaspekt und eben
+
+21:32.240 --> 21:39.320
+auch schon die Anforderung eingelagert, dass es einem Bildungsprozess unterläuft und dann eben
+
+21:39.320 --> 21:46.720
+eine stabile, verlässliche, kontinuierliche Persönlichkeit ausbildet und sich eben auch
+
+21:46.720 --> 21:51.320
+weiterentwickelt. Also es gibt quasi die Idee, man soll sich zu dem entwickeln, der man eigentlich
+
+21:51.320 --> 21:57.400
+schon ist. Das ist quasi die Anforderung. Das hat etwa zur Folge auch, dass wenn von starken
+
+21:57.400 --> 22:03.560
+Persönlichkeiten gesprochen wird, in aller Regel Männer gemeint sind. Also da findet man eben auch
+
+22:03.560 --> 22:10.960
+Formulierungen wie große Männer machen Politik und Ähnliches. Da hat man quasi schon vorgeformt,
+
+22:10.960 --> 22:16.800
+diese Vorstellung, wer in die Politik geht. Das sind vorgeformt starke Persönlichkeiten und damit
+
+22:16.800 --> 22:22.560
+männliche Persönlichkeiten. Aber das fand ich immer sehr interessant. Das wird nicht nur auf
+
+22:22.560 --> 22:28.480
+Menschen angewendet, sondern eben auch auf Staaten. Auch Staaten treten als souveräne
+
+22:28.480 --> 22:33.560
+Persönlichkeiten auf die Bühne, könnte man sagen. Und dementsprechend sind ja auch die
+
+22:33.560 --> 22:41.200
+internationalen Organisationen nach 1945 genauso aufgesetzt worden. Es waren eben internationale
+
+22:41.200 --> 22:46.280
+Organisationen, auf denen die verschiedenen Staatspersönlichkeiten, die ein eigenes
+
+22:46.280 --> 22:53.040
+Staatsbewusstsein ausgeprägt haben, miteinander verhandeln. Also das hat ziemlich viele
+
+22:53.040 --> 22:58.760
+Konsequenzen, wenn wir das Subjekt so denken. Und Ähnliches gilt dann eben für die Zeit- und
+
+22:58.760 --> 23:05.120
+Raumvorstellungen. In zeitlicher Hinsicht dominiert hier im Prinzip eine lineare und auch eben
+
+23:05.120 --> 23:10.320
+kontinuierliche Zeitvorstellung, die von der Vergangenheit über die Gegenwart in die Zukunft
+
+23:10.320 --> 23:18.080
+läuft und eigentlich auch materiell gerichtet ist. Also es gibt die Vorstellung, es gibt ein Ziel,
+
+23:18.080 --> 23:23.920
+auf das man sich hin entwickeln soll innerhalb dieser Zeitkonzeption. Teleologisches Denken,
+
+23:23.920 --> 23:29.480
+wäre sozusagen der fachliche Begriff dafür. Und darin eingelagert ist eben auch eine bestimmte
+
+23:29.480 --> 23:34.840
+Vorstellung von Fortschritt. Man ist in nach 1945 soweit, dass man natürlich nicht mehr sagt,
+
+23:34.840 --> 23:38.240
+ja wir entwickeln uns auf jeden Fall in diese Richtung, sondern natürlich die Erfahrung der
+
+23:38.240 --> 23:43.680
+beiden Weltkriege hat gezeigt, dass man das verfehlen kann. Aber das Ziel sozusagen ist
+
+23:43.680 --> 23:47.680
+eine Fortschritt und eine Entwicklungsperspektive. Und daher kommt hier dann auch die Begrifflichkeit
+
+23:47.840 --> 23:54.720
+der Entwicklungspolitik und ähnliches, die aus diesem Paradigma herauskommt. Und in räumlicher
+
+23:54.720 --> 24:01.480
+Hinsicht hat man hier ganz klar ein Flächenmodell des Raumes. Also man stellt sich Raum als Fläche
+
+24:01.480 --> 24:06.960
+vor und das klingt erstmal so natürlich wie denn sonst. Aber wenn man eben in das Netzwerk
+
+24:06.960 --> 24:11.040
+denken kommt, da wird Raum überhaupt nicht als Fläche konzipiert, sondern als im Prinzip
+
+24:11.040 --> 24:16.560
+miteinander verbundene Knotenpunkte. Und das, was als Fläche dazwischen liegt, ist in diesem
+
+24:16.640 --> 24:24.560
+Netzwerkdenken nicht repräsentiert sozusagen. Die Folge im Souveränitätsdenken ist natürlich,
+
+24:24.560 --> 24:29.960
+dass ich mir die politische Landschaft eben auch als eine parcelierte oder segmentierte Fläche
+
+24:29.960 --> 24:36.720
+vorstelle, eben in Nationalstaaten. Und da hatten wir aus diesen drei Dimensionen Raum,
+
+24:36.720 --> 24:41.680
+Zeit, Subjekt, schon eine ganze Menge von Konsequenzen. Und jetzt könnte man quasi den
+
+24:41.680 --> 24:46.520
+Schritt in diesen klassischen Bereich des Regierens hinübergehen und sagen, okay wir haben ja
+
+24:46.520 --> 24:51.800
+offensichtlich ein teleologisches Regierungsverständnis, was darauf abzielt, dass der
+
+24:51.800 --> 24:57.640
+Staat oder die Regierung oder Politik, das ist relativ gleich gehalten, also sozusagen Politik
+
+24:57.640 --> 25:05.440
+ist gleich Staat ist gleich Regierung, dass die die Führung der Gesellschaft oder der Gemeinschaft
+
+25:05.440 --> 25:14.040
+übernimmt, für die sie Verantwortung tragen. Sie werden als Repräsentationsinstanzen gedacht und
+
+25:14.040 --> 25:21.240
+zwar sowohl als Repräsentanten ihrer Gemeinschaft, als auch als Repräsentanten dieses höheren Gutes,
+
+25:21.240 --> 25:26.480
+zu dem sie sich entwickeln sollen. Und die Aufgabe ist gewissermaßen, das in Einklang
+
+25:26.480 --> 25:32.840
+miteinander zu bringen. Man hat also hier zum einen eine Integrationsvorstellung, man hat dieses
+
+25:32.840 --> 25:37.940
+teleologische Element, man hat eine starke Repräsentationsidee, gegen die sich das
+
+25:37.940 --> 25:43.240
+Netzwerkdenken wenden wird, was dann eben auch eine repräsentative Demokratie und Ähnliches
+
+25:43.240 --> 25:51.120
+mündet. Und man hat eben auch eine starke Vorstellung davon, dass man auf das Gerechte
+
+25:51.120 --> 25:56.880
+und Gute hinstrebt, auch wenn sehr stark differiert, wie das dann konzipiert wird. Also
+
+25:56.880 --> 26:02.800
+innerhalb dieses Souveränitätsdenkens gibt es eben sehr, sehr unterschiedliche Positionen,
+
+26:02.800 --> 26:08.240
+die sich teils sozusagen bis aufs Blut bekämpfen. Also diese klassische Gegenüberstellung zwischen
+
+26:08.240 --> 26:13.340
+Konservativen und Linken ist das Beispiel. Die operieren eigentlich erstmal in dieser Zeit im
+
+26:13.340 --> 26:19.160
+gleichen Paradigma, haben aber völlig verschiedene Vorstellungen davon, wohin das eigentlich führen
+
+26:19.160 --> 26:27.960
+soll. Großartig, das finde ich eine sehr spannende Ausführung. Und ich glaube, es wäre schon auch
+
+26:27.960 --> 26:33.360
+noch mal an dieser Stelle reizvoll, vielleicht darauf hinzuweisen, wo jetzt da dann die
+
+26:33.360 --> 26:40.560
+Kybernetik ansetzt in ihrer Kritik am souveränen Denken. Also was sind so die Kernpunkte auf Basis
+
+26:40.560 --> 26:45.800
+derer, die Kybernetik argumentiert, warum diese Form des Denkens eben altes Denken ist, das nämlich
+
+26:45.800 --> 26:52.200
+auch nicht mehr in der Lage sei, eigentlich die Herausforderungen, die da existieren, in einer
+
+26:52.200 --> 26:58.880
+produktiven Art und Weise zu adressieren. Ja, das ist gar nicht so einfach zu sagen, weil es
+
+26:58.880 --> 27:03.800
+natürlich eine ganze Reihe von Punkten sind, an denen die Kybernetik ansetzt. Was schon einfach
+
+27:03.800 --> 27:09.000
+daran liegt, wie ich das eben beschrieben habe, dass das im Prinzip ein ganzes Paradigma ist und
+
+27:09.000 --> 27:13.760
+dementsprechend kann ich auch an verschiedenen Punkten ansetzen und dann in das ganze Paradigma
+
+27:13.760 --> 27:22.080
+hineingehen, sozusagen. Aber etwas, wogegen sich die Kybernetik ganz klar wendet, ist diese
+
+27:22.080 --> 27:30.200
+Vorstellung von Humanismus, die im Prinzip eingelagert ist in das souveränitäts Denken,
+
+27:30.200 --> 27:36.480
+mindestens der Nachkriegszeit, aber auch schon davor. Und damit geht ja einher, dass man im
+
+27:36.480 --> 27:43.200
+Prinzip unterscheidet zwischen Mechanik und Menschen, also sozusagen Maschinen und Menschen,
+
+27:43.200 --> 27:48.360
+sind grundverschieden, sind wesensverschieden, würde man in dem ontologischen oder
+
+27:48.440 --> 27:55.000
+souveränitätsparadig mal sagen. Und das macht die Kybernetik zum Beispiel nicht mit. Sie würde
+
+27:55.000 --> 28:02.520
+sagen, es muss darum gehen, zu verstehen, dass die Regelungsprozesse, die in diesen Dingen
+
+28:02.520 --> 28:08.200
+passieren, eigentlich ähnlich sind. Und sie versucht eben, diese beiden Perspektiven,
+
+28:08.200 --> 28:12.800
+die ja permanent miteinander im Streit liegen, das ist zum Beispiel so ein Punkt, warum die
+
+28:12.800 --> 28:19.960
+Kybernetik sich dagegen wendet. Dieser Kampf zwischen Mechanik und Maschine und Mensch,
+
+28:19.960 --> 28:27.840
+der ja mindestens seit dem 19. Jahrhundert immer wieder gegeneinander spielen und ja auch eben für
+
+28:27.840 --> 28:34.400
+das Verständnis von Totalitarismus sehr zentral ist und eine große Debatte ist oder auch für die
+
+28:34.400 --> 28:39.040
+Gegenüberstellung des Westens gegen das Ostens, da wird quasi diese Metaphorik auch immer wieder
+
+28:39.120 --> 28:48.000
+ausgespielt gegeneinander. Und die Kybernetik versucht, darüber hinweg zu kommen und einen
+
+28:48.000 --> 28:55.200
+Deutungsrahmen zu entwickeln, der beides sozusagen zusammenfassen kann. Das ist so ein Punkt, das ist
+
+28:55.200 --> 29:01.480
+auch der, der sozusagen erst mal die größte Furore macht, als die Kybernetik auf den Plan tritt,
+
+29:01.480 --> 29:07.280
+wie das dann überhaupt sein kann. Und sozusagen aus der humanistischen Perspektive ist das
+
+29:07.280 --> 29:15.040
+natürlich quasi Teufelszeug, wenn man das auf den Begriff zuspitzen will, was die Kybernetik
+
+29:15.040 --> 29:23.600
+da macht. Und das erregt wahnsinniges Aufsehen, als die Kybernetik entsteht. Wichtig für den
+
+29:23.600 --> 29:32.040
+Zusammenhang des Regierens ist aber natürlich, dass sie dann auch sagt, dass dieses Verständnis von,
+
+29:32.040 --> 29:37.720
+wir haben im Prinzip eine Top-Down-Regelung oder eine hierarchische Regelung, dass das überhaupt
+
+29:37.720 --> 29:47.600
+nicht mit dem zusammengeht, wie Organismen zum Beispiel, wie das Gehirn arbeitet. Und wir müssen
+
+29:47.600 --> 29:53.800
+das neu konzipieren. Und dann setzt man im Prinzip so Netzwerkkonzepte zum Beispiel ein,
+
+29:53.800 --> 30:03.480
+um zu verstehen, wie das Gehirn funktioniert. Und führt dann ein Set an Begriffen ein,
+
+30:03.480 --> 30:09.560
+die sich ineinander übersetzen lassen. Also dann hat man eben den Netzwerkbegriff und den
+
+30:09.560 --> 30:14.080
+Systembegriff, man hat aber gleichzeitig eben auch Maschinen. Und man baut auch Maschinen,
+
+30:14.080 --> 30:19.040
+um zu verstehen, wie das Gehirn zum Beispiel funktioniert. Also das berühmteste Beispiel ist
+
+30:19.120 --> 30:26.680
+der Hymenostat dafür. Also das Argument der Kybernetik ist, das ist eigentlich ein naives
+
+30:26.680 --> 30:33.360
+Steuerungskonzept, was ihr da habt. Und entspricht überhaupt nicht dem, wie sich diese
+
+30:33.360 --> 30:40.520
+Steuerungsprozesse abspielen. Und deswegen brauchen wir quasi ein anderes Modell, um das zu erklären.
+
+30:40.520 --> 30:50.040
+Und in Bezug auf konkrete Vorschläge für Formen des Regierens auch in Bezug auf größere
+
+30:50.040 --> 30:56.080
+Organisationseinheiten, eben die dann vielleicht auch nicht unbedingt als Staat gedacht werden
+
+30:56.080 --> 31:02.680
+müssen, aber die zumindest in der Lage wären, größere gesellschaftliche Strukturen auch zu
+
+31:02.680 --> 31:07.560
+strukturieren, zu organisieren und so weiter. Wohin mündet das da in diese Richtung?
+
+31:07.560 --> 31:15.000
+Da muss man natürlich erstmal das KV-Art davor schieben, dass die Kybernetiker eben erst
+
+31:15.000 --> 31:20.920
+mal eine sehr starke Grundlagenforschung waren, in der es am Anfang gar nicht so zentral um
+
+31:20.920 --> 31:30.320
+Gesellschaften ging, sondern es ging um Gehirne, um Menschen, um Mäuse, um Zellen und alle sowas.
+
+31:30.480 --> 31:37.640
+Und teilweise gibt es auch klare Distanzierung davon. Manche Kybernetiker wollen das nicht
+
+31:37.640 --> 31:43.280
+übertragen auf Gesellschaften und andere sagen aber eben, Barry Bateson ist so ein Beispiel dafür,
+
+31:43.280 --> 31:48.600
+dass sich das sehr wohl und auch sehr gut übertragen lässt. Man muss das also im Prinzip als
+
+31:48.600 --> 31:55.120
+so ein Prozess auch verstehen. Zum einen, dass es unterschiedliche Positionen innerhalb der
+
+31:55.120 --> 31:59.800
+Kybernetik gibt und zum anderen, dass das durchdiffundiert in andere Gebiete,
+
+31:59.800 --> 32:06.120
+Managementtheorien, Counterculture und ähnliches, wo dann eben diese Anwendung auf Gesellschaften
+
+32:06.120 --> 32:13.120
+sowieso stattfindet. Unter Anwendung dieses neuen Begriffs und Denkrahmens, den die Kybernetik zur
+
+32:13.120 --> 32:21.440
+Verfügung stellt. Und hier hat man dann eben sehr stark diese Vorstellung, die erstmal vom
+
+32:21.440 --> 32:26.240
+Netzwerkbegriff sehr schön eingefasst wird. Nämlich, dass man im Prinzip verschiedene
+
+32:26.240 --> 32:38.200
+autonome Einheiten hat, die sich selbst regulieren und die dann miteinander vernetzt sind. Das heißt,
+
+32:38.200 --> 32:44.160
+man hat eben flache Hierarchien, würde man sagen. Eigentlich hat man keine Hierarchien. Man hat eine
+
+32:44.160 --> 32:51.760
+Ebene und eben nicht mehr zwei Ebenen, die gegenübergestellt sind. Aber flache Hierarchien
+
+32:51.760 --> 32:57.600
+sage ich deswegen, weil das ja so ein Sprech ist, den wir heute häufig verwenden. Und da kommt
+
+32:57.600 --> 33:02.760
+im Prinzip die Idee her, dass wir flache Hierarchien haben, dass wir eigentlich keine Hierarchien haben.
+
+33:02.760 --> 33:10.640
+Und im Blick auf die Regierungskonstitution heißt es, man hat erstmal eine Dezentrierung von
+
+33:11.120 --> 33:17.120
+Staatlichkeit und auch eine Dezentrierung der Politik. Die Politik ist eben nur noch ein
+
+33:17.120 --> 33:22.000
+Teilsystem unter anderem. Unter anderem Teilsystem innerhalb der Gesellschaft, um diese klassische
+
+33:22.000 --> 33:27.080
+Formulierung der Systemtheorie zu nehmen, die in dieses Paradigma ganz offensichtlicher hineingehört.
+
+33:27.080 --> 33:32.720
+Und man hat die Vorstellung, dass sich die Organisationseinheiten, ob das jetzt quasi
+
+33:32.720 --> 33:37.720
+auf öffentlicher Verwaltungsebene ist oder auch in anderen Organisationen wie Unternehmen,
+
+33:37.720 --> 33:46.040
+selbst regulieren können und müssen. Das ist sozusagen der Clou daran. Die Idee der
+
+33:46.040 --> 33:53.400
+Kybernetik war zu sagen, Regulation findet im Prinzip einfach dadurch statt oder es ist der
+
+33:53.400 --> 34:00.400
+Name dafür, dass sich innerhalb eines solchen Netzwerkes Verbindungen herstellen und darüber
+
+34:00.400 --> 34:11.360
+im Prinzip Dinge eben passieren, die so ein Gehirn macht zum Beispiel. Und das gelingt umso
+
+34:11.360 --> 34:17.760
+besser, je komplexer und vielfältiger diese Netzwerke sind. Also desto mehr unterschiedliche
+
+34:17.760 --> 34:22.720
+Verbindungen sie herstellen können, desto mehr unterschiedliche Elemente sie haben, desto einfacher
+
+34:22.720 --> 34:28.680
+oder desto besser können sie im Prinzip auf Schwankungen, Veränderungen sowohl innerhalb
+
+34:28.680 --> 34:36.040
+des Netzwerkes als auch außerhalb des Netzwerkes, also sozusagen aus der Umwelt eines Netzwerkes
+
+34:36.040 --> 34:45.960
+reagieren, indem sie neue Arrangements bilden. Und das heißt dann eben, je vielfältiger sie sind,
+
+34:45.960 --> 34:53.080
+desto kreativer sind sie, desto mehr sind sie fähig, neue Arrangements zu innovieren, neue
+
+34:53.160 --> 35:00.200
+Arrangements zu entdecken und zu experimentieren damit. Und da hat man eben diese Begriffe,
+
+35:00.200 --> 35:06.160
+die heute für das Regierungsdenken auch schon prägend sind. Also man hat die Vorstellung,
+
+35:06.160 --> 35:12.160
+dass man einen hohen Grad an Diversität und Flexibilität braucht und dass man im Prinzip auf
+
+35:12.160 --> 35:18.280
+Veränderungen permanent reagieren muss. Man hat also keine langfristige Perspektive in dem Sinne
+
+35:18.280 --> 35:26.640
+mehr, sondern sehr stark auf Lernen und permanente Selbstkritik im Prinzip ausgerichteten
+
+35:26.640 --> 35:35.240
+Regierungsstil. Und die Einheiten werden dann eben auch eher kurzfristig zusammenberufen und
+
+35:35.240 --> 35:39.680
+zusammengesetzt. Also typische Formulierungen dafür sind eben, dass man entweder in einem Projekt
+
+35:39.680 --> 35:45.240
+arbeitet oder in einem Team arbeitet. Das findet man zum Beispiel auch im Wahlprogramm der Grünen,
+
+35:45.240 --> 35:49.600
+hat man genau diese Formulierung oder auch dieses, was viele sicherlich kennen werden, Design
+
+35:49.600 --> 35:57.200
+Thinking. Da ist genau das die Idee. Ich hole im Prinzip Leute zusammen, die aus den unterschiedlichsten
+
+35:57.200 --> 36:02.840
+funktionalen Teilsystemen zum Beispiel der Gesellschaft kommen und setze die an einen Tisch.
+
+36:02.840 --> 36:12.440
+Und die schreiben dann etwa die Policy oder handeln die Policy untereinander aus. Und der Staat oder
+
+36:12.480 --> 36:17.960
+die öffentliche Verwaltung tritt nicht mehr als sozusagen jemand auf, der interveniert,
+
+36:17.960 --> 36:23.560
+sondern als jemand, der das Netzwerk zusammensetzt und im Prinzip dafür zuständig ist,
+
+36:23.560 --> 36:28.680
+dass diese Selbstregulation funktioniert. Facilitator heißt das dann. Das ist sozusagen
+
+36:28.680 --> 36:37.480
+Network Governance in seiner Reinkultur. Also so übersetzt sich das dann im Prinzip zum
+
+36:37.480 --> 36:42.760
+Beispiel in Regierungsprogramme. Man hat das aber eben auch. Network Governance ist ja so
+
+36:42.760 --> 36:48.040
+ein Ansatz, der sozusagen auf der Regierungsseite, könnte man sagen, steht. Und mir ist immer sehr
+
+36:48.040 --> 36:55.760
+wichtig zu betonen, dass das kein Herrschaftswissen darstellt, sondern dass wir quasi das gleiche
+
+36:55.760 --> 37:03.520
+Denken auch auf der regierungskritischen Seite haben mit ähnlichen Implikationen. Also wirklich
+
+37:03.600 --> 37:10.120
+ein typisches Beispiel dafür ist Michel Foucault, der ja auch jenseits seiner Theorie oder seiner
+
+37:10.120 --> 37:21.280
+Studien auch selbst sehr aktiv war und eben diese Organisation, die in der Gefängnisdebatte aktiv
+
+37:21.280 --> 37:29.080
+war, genauso konzipiert haben wollte. Im Prinzip als ein Netzwerk, wo dann jede Gruppe nur für den
+
+37:29.080 --> 37:36.040
+lokalen Raum im Prinzip erstmal zuständig ist und sich dort auch selbst organisieren kann und soll.
+
+37:36.040 --> 37:47.280
+Erst indem die dann ein Netzwerk bilden, dadurch generiert das dann quasi einen Effekt, ohne dass
+
+37:47.280 --> 37:54.600
+sich eine übergeordnete Organisationseinheit bildet. Also er formuliert das dann auch so, dass seine
+
+37:54.600 --> 38:01.760
+Gruppe ein Relais darstellt, so wie andere Gruppen auch Relais im Prinzip darstellen. Aber es gibt
+
+38:01.760 --> 38:07.200
+eben keine übergeordnete Einheit und damit hat man schon eine scharfe Kritik zum einen an Parteien,
+
+38:07.200 --> 38:13.920
+ganz offensichtlich, die sozusagen typische Organisationsformen der Moderne sind und eben
+
+38:13.920 --> 38:20.320
+das Objekt auch bestimmten Anforderungen unterwerfen, was Foucault ja kritisiert, oder auch gegenüber
+
+38:21.200 --> 38:27.080
+Gewerkschaften. Also da hat man sagen auch auf der kritischen Seite einmal ganz klare Kritik gegenüber
+
+38:27.080 --> 38:33.880
+Regierungsmechanismen, aber eben auch eine Kritik an alten Formen der Organisation.
+
+38:33.880 --> 38:42.320
+Jetzt sind in deiner Beschreibung natürlich so viele Begriffe, Formulierungen, Worte gefallen,
+
+38:42.320 --> 38:54.600
+die man assoziiert mit einem bestimmten Zeitgeist, der leider sehr unscharf oft einfach mal allgemeingültig
+
+38:54.600 --> 39:01.040
+unter Neoliberalismus zusammengefasst wird. Das ist ja nicht unproblematisch, da irgendwie dieses
+
+39:01.040 --> 39:06.080
+Siegel irgendwie drauf zu klatschen und das würde ich jetzt eigentlich auch nicht unterschreiben wollen.
+
+39:06.080 --> 39:11.600
+Nichtsdestotrotz gibt es da eine gewisse Nähe. Nachdem so viele dieser Wörter jetzt gefallen ist,
+
+39:11.600 --> 39:16.320
+ist es vielleicht gut und wichtig, dass du das uns ein bisschen auseinanderdröselst. Was ist denn
+
+39:16.320 --> 39:24.000
+da das Verhältnis zwischen dieser Form der Technologik, wenn man so will, und dem, was man
+
+39:24.000 --> 39:31.200
+gemeinhin so Neoliberalismus nennt, ohne dass ich das jetzt irgendwie einheitlich definieren wollte?
+
+39:31.200 --> 39:37.520
+Ja, ich glaube, dass das eine sehr wichtige Unterscheidung darstellt und dass wir tatsächlich
+
+39:37.920 --> 39:44.640
+ein Problem bekommen, wenn wir den Begriff Neoliberalismus für alles Mögliche verwenden.
+
+39:44.640 --> 39:51.200
+Es gab eine ganze Zeit diesen Trend, dass im Prinzip alles als Neoliberalismus bezeichnet wurde,
+
+39:51.200 --> 39:58.880
+was einem nicht gefiel, könnte man sagen. Das finde ich auch das Entscheidende daran,
+
+39:58.880 --> 40:03.440
+damit verliert der nicht nur seine analytische Kraft, sondern er verliert eben auch seine kritische
+
+40:03.600 --> 40:09.520
+Kraft, wenn plötzlich alles sozusagen Neoliberalismus ist. Ich glaube, man kann
+
+40:09.520 --> 40:17.040
+hier eben sehr schön sehen, dass wir ja seit den 70er Jahren eine Durchsetzung des neoliberalen
+
+40:17.040 --> 40:24.560
+Denkens haben, aber dass daneben eben noch ein zweites Paradigma sich als Antwort auf die Krisen
+
+40:24.560 --> 40:28.880
+der 70er Jahre etabliert hat. Das ist das Netzwerkdenken oder das technologische Denken,
+
+40:29.360 --> 40:35.760
+was ich sozusagen synonym verwende und dass die sich erstmal grundsätzlich unterscheiden.
+
+40:36.560 --> 40:43.360
+Man kann das auch schon in den Debatten der 70er Jahre sehr gut nachvollziehen. Da sieht man
+
+40:43.360 --> 40:49.760
+nämlich, was Neoliberalismus mal gemeint hat von denjenigen, die das eingeführt haben als
+
+40:49.760 --> 40:58.480
+im Politikstil. Wenn man sich neoliberales Denken anguckt, dann hat man es hier im Grunde mit einem
+
+40:59.440 --> 41:09.360
+typisch mechanischen Denken zu tun, was also sehr stark auf kausale Steuerungsmechanismen setzt,
+
+41:11.040 --> 41:16.960
+die im Prinzip zwei Hebel kennen, nämlich Pleasure und Pain, um das von Jeremy Banfield zu nehmen,
+
+41:16.960 --> 41:23.760
+der im Prinzip ein bisschen der Vordenker von La Lettre war, oder Anreize und Sanktionen,
+
+41:23.840 --> 41:31.120
+wie wir das heute nennen würden. Und die Anreize und Sanktionen als Hebel verwenden, um Verhalten
+
+41:31.120 --> 41:38.160
+von Menschen steuern zu können. Und hier sieht man schon, dass das technologische Denken ganz
+
+41:38.160 --> 41:44.960
+anders angelegt ist, weil es ja genau diese Mechanik grundlegend kritisiert und die Mechanik für ein
+
+41:45.040 --> 41:54.080
+im Prinzip überholtes Paradigma hält, sowohl um natürliche Prozesse zu verstehen und darauf im
+
+41:54.080 --> 42:00.080
+Prinzip auf eine physikalische Entwicklung aufbaut, die mit den Namen Gibbs und Heisenberg und
+
+42:00.080 --> 42:05.920
+ähnlichem verbunden ist, als auch um gesellschaftliche und andere Regelungsprozesse
+
+42:05.920 --> 42:11.440
+zu verstehen. Also es hält dieses Regelungsdenken der Mechanik für veraltet und es ist insofern
+
+42:11.520 --> 42:18.160
+auch nur logisch, dass sie auch das neoliberale Denken für veraltet hält. Das kann man sich dann
+
+42:18.160 --> 42:25.680
+im Detail sehr gut angucken. Also die Idee des Neoliberalismus ist ja in den 70er Jahren sehr
+
+42:25.680 --> 42:35.040
+schön zu sehen. Erstmal zu sagen, okay, wir hatten jetzt im Prinzip ein Regierungsparadigma, dass der
+
+42:35.040 --> 42:40.720
+Regierung und den Staatsmännern, wie es dann logischerweise in der Zeit immer heißt, sehr
+
+42:40.720 --> 42:47.840
+viel Vertrauen entgegengebracht hat und das ist vielleicht nicht so klug, sagen die Vertreter des
+
+42:47.840 --> 42:54.320
+Neoliberalismus, sondern die würden ja, weil sie Nutzenmaximierer sind, im Prinzip darauf aus sein,
+
+42:54.320 --> 43:00.320
+ihren Nutzen zu vergrößern und das ist logischerweise schlecht für die Gesellschaft.
+
+43:00.320 --> 43:08.080
+Und das heißt, wir müssen die Politik und die Verwaltung eigentlich unter einen neuen
+
+43:08.160 --> 43:13.520
+Steuerungsmechanismus unterwerfen, damit sie das nicht mehr machen können. Also dass quasi das
+
+43:13.520 --> 43:22.240
+Interesse, das die Staatsmänner und Funktionäre haben, in Linie gebracht wird mit dem Interesse
+
+43:22.240 --> 43:28.560
+der Gesellschaft. Und die Gesellschaft wird dann eben als Marktgesellschaft konzipiert. Also man hat
+
+43:28.560 --> 43:36.240
+hier nach wie vor eben auch ein hierarchisches Denken, in dem die Marktgesellschaft im Prinzip
+
+43:36.720 --> 43:41.760
+über den Staat und über die Politik gestellt wird, wo hingegen vorher eben die Politik über
+
+43:41.760 --> 43:48.160
+die Gesellschaft gestellt war. Und das führt dann dazu, dass bestimmte Maßnahmen, wie etwa
+
+43:49.040 --> 43:54.240
+Transparenzmechanismen eingeführt werden, die sichtbar machen, was denn in der Politik passiert
+
+43:54.240 --> 43:59.200
+und damit im Prinzip sowohl sanktionierbar machen, aber alle Einschnitte, die sichtbar machen,
+
+43:59.200 --> 44:03.920
+im Prinzip einen Steuerungseffekt hat über diese beiden Hebel Anreize und Sanktionen.
+
+44:04.880 --> 44:10.160
+Das ist sozusagen ein ganz grober Abriss von dem, wie das Argument läuft, wo man dann nochmal auch
+
+44:10.160 --> 44:14.960
+ins Detail gehen kann. Das hat aber zum Beispiel auch zur Folge, das sieht man dann im New Public
+
+44:14.960 --> 44:22.160
+Management sehr schön, dass Verwaltungen sehr stark und krass hierarchisch organisiert werden
+
+44:22.160 --> 44:28.960
+sollen. Sozusagen Principle Agent Theory ist das. Wir haben einen Prinzipal und wir haben einen
+
+44:29.040 --> 44:34.240
+Agenten und die bilden eine hierarchische Kette, wie es in der, wie es dann Terry Moe,
+
+44:34.240 --> 44:41.120
+das dann auch wortwörtlich so nennt, wo dann Anweisungen von oben nach unten durchgereicht
+
+44:41.120 --> 44:45.680
+werden. Und weil man aber so eine hierarchische Kette hat, kann man das sehr schön beobachten,
+
+44:45.680 --> 44:50.800
+wer denn eigentlich den Fehler macht und entsprechend sanktionieren. Das ist die
+
+44:50.800 --> 44:58.560
+lange Tradition, die das neoliberale Denken eben auch von Jeremy Bantham am Anfang der Moderne hat.
+
+44:59.760 --> 45:07.360
+Und das Ziel ist im Prinzip, ein besseres Regieren zu generieren, dass sowohl bessere Ergebnisse,
+
+45:08.320 --> 45:16.640
+rationale Ergebnisse, rationalere Ergebnisse liefert als vorher, als auch Sicherheit zu generieren.
+
+45:18.320 --> 45:22.560
+Dass sozusagen mir nicht einfach mein Hab und Gut weggenommen werden kann und ähnliches.
+
+45:22.640 --> 45:25.840
+Und hier hat man im Prinzip einen wirklichen Modernisierungsparadigma,
+
+45:26.800 --> 45:32.560
+par excellence. Das ist richtig klare Modernisierung und das kann dann auch eben auf diese
+
+45:32.560 --> 45:36.880
+Informationstechnologie natürlich aufbauen, weil die ja erstmal verspricht, dass man das,
+
+45:36.880 --> 45:42.400
+was man vorher immer bloß gedacht hat, tatsächlich machen kann. Also immer mehr
+
+45:42.400 --> 45:48.240
+Informationen generieren, um dann tatsächlich ein rationales Urteil am Ende zu haben. Und schon
+
+45:48.240 --> 45:55.600
+allein aus den Informationen ergibt sich dieses rationale Urteil. Das technologische Paradigma,
+
+45:55.600 --> 46:03.120
+das Netzwerkdenken, argumentiert ja genau gegen diesen Denkvorgang, gegen diese Form des
+
+46:03.120 --> 46:11.120
+Nachdenkens über Politik und Gesellschaft grundlegend an. Sie hält ja genau diese Form
+
+46:11.200 --> 46:19.120
+von Rationalisierung durch immer mehr Informationen für veraltet und falsch,
+
+46:20.320 --> 46:25.600
+um es so einfach zu sagen. Weil immer mehr Information eben nicht zu Transparenz führt,
+
+46:25.600 --> 46:31.040
+sondern zu immer mehr Komplexität. Und die Frage ist, wie geht man mit so einer Komplexität um?
+
+46:32.400 --> 46:38.960
+Und wenn man diese Gegenüberstellung zwischen Neoliberalismus und Netzwerkdenken macht,
+
+46:38.960 --> 46:44.960
+kann man sagen, erstens, ideengeschichtlich haben die ganz unterschiedliche Ressourcen,
+
+46:44.960 --> 46:51.600
+erstmal. Das eine geht eben auf Jeremy Bentham und dieses Denken, liberalökonomische Denken,
+
+46:51.600 --> 46:58.240
+zurück, das in der Mechanik sich stark bedient. Und das andere geht eben auf die Kybernetik zurück,
+
+46:58.240 --> 47:03.840
+was sich genau gegen diese Mechanik wendet. Und zweitens haben sie dann aber auch systematisch
+
+47:03.840 --> 47:10.640
+sehr große Unterschiede, dass sie sowohl hierarchische Organisationsformen zum Beispiel
+
+47:10.640 --> 47:20.240
+zurückweisen und dass sie auch nicht davon überzeugt sind, dass diese Moralisierung zum
+
+47:20.240 --> 47:26.960
+Beispiel von Marktgesellschaft oder Zivilgesellschaft als das Gute überhaupt tragfähig ist. Also das
+
+47:26.960 --> 47:32.480
+neoliberale Denken und die neoliberale Praxis hat aus der Sicht des Netzwerkdenkens erstmal
+
+47:32.560 --> 47:39.680
+grundsätzlich falsche Vorannahmen getroffen. Und insofern ist es auch überhaupt nicht überraschend,
+
+47:39.680 --> 47:48.040
+dass die immer wieder dieses neoliberale Denken kritisieren. Und zwar in den 70er Jahren und auch
+
+47:48.040 --> 47:53.920
+in den 90er Jahren und auch in der Gegenwart. Die Abgrenzung davon ist immer wieder relativ stark.
+
+47:53.920 --> 48:03.920
+Dann kann man aber natürlich sehen, dass es so etwas wie Broker zwischen diesen zwei Paradigmen
+
+48:03.920 --> 48:08.960
+gibt. Also es ist ja nicht so, dass die sich völlig luftleer entwickeln würden und nicht
+
+48:08.960 --> 48:14.800
+irgendwelche Berührungspunkte hätten. Ein typischer Berührungspunkt wäre natürlich
+
+48:14.800 --> 48:22.640
+erstmal die Abgrenzung von einem Regierungsverständnis, das den Staat ins Zentrum stellt,
+
+48:23.200 --> 48:28.120
+das davon ausgeht, dass es einen Staat als Steuerungszentrum der Gesellschaft im Prinzip
+
+48:28.120 --> 48:32.480
+gibt. Das ist sozusagen einfach historisch bedingt, dass sich beide gleichzeitig davon
+
+48:32.480 --> 48:39.840
+abgrenzen und teilt das Erfolgsrezept von beiden Strömungen in der Krise der 70er Jahre. Oder ein
+
+48:39.840 --> 48:47.040
+zweiter typischer Broker wäre, dass sie beide Vorstellungen davon haben, dass man mehr Informationen
+
+48:47.640 --> 48:54.240
+braucht, aber das Informationskonzept oder was man damit machen kann, unterscheidet sich
+
+48:54.240 --> 48:59.440
+grundlegend. Also das neoliberale Denken sagt halt super, mehr Informationen, damit rationalisieren
+
+48:59.440 --> 49:04.080
+wir und haben sozusagen rationales Urteil am Schluss. Und das Netzwerkdenken sagt aber,
+
+49:04.080 --> 49:11.040
+es geht überhaupt nicht darum, das zu rationalisieren, sondern wenn wir mehr Informationen
+
+49:11.040 --> 49:17.640
+haben, kann der Nutzer, also der User, damit Dinge machen, die für den User interessant sind.
+
+49:17.640 --> 49:23.000
+Also es ist im Prinzip eher, zum einen ist es stark userseitig gedacht und zum anderen ist es stark
+
+49:23.000 --> 49:28.920
+auf Kreativität ausgelegt und eben mit der Idee versehen, dass es so etwas wie ein One-Best-Way
+
+49:28.920 --> 49:36.800
+überhaupt nicht gibt, dass es sozusagen eine Fantasie ist, die nicht existent ist, sondern es
+
+49:36.800 --> 49:42.280
+geht darum, immer wieder neue Arrangements zu generieren, kreativ zu sein, innovativ zu sein und
+
+49:42.280 --> 49:47.200
+dann guckt man, ob das funktioniert und wenn nicht, muss man es halt neu ausrichten. Und ein dritter
+
+49:47.200 --> 49:55.640
+wichtiger Broker ist die Spielmetaphorik, die natürlich quasi im neoliberalen Denken ausgeprägt
+
+49:55.640 --> 50:04.480
+ist über Spieltheorie im Grunde, aber auch in der Kybernetik wurden Teile der Spieltheorie inkorporiert.
+
+50:04.480 --> 50:11.800
+Das ist eine ganz interessante Entwicklung, wie das passiert, wo ich jetzt aber nicht im Detail
+
+50:11.800 --> 50:20.520
+reingehen würde, aber sie ermöglicht der Kybernetik im Grunde so etwas wie Akteurskonstellation zu
+
+50:20.520 --> 50:27.280
+denken, was vorher mit Netzwerk- und Systembegriffen so einfach nicht möglich war und dadurch hat man
+
+50:27.280 --> 50:33.520
+jetzt in diesen technologischen Debatten häufig so Sachen wie, wir haben Netzwerke und in diesen
+
+50:33.520 --> 50:38.920
+Netzwerken finden Spiele statt und das ist quasi auch so ein Broker zwischen diesen beiden
+
+50:38.920 --> 50:44.760
+Paradigmen, so dass man an bestimmten Stellen halt Überschneidungen hat und an anderen Stellen sehr
+
+50:44.760 --> 50:50.600
+starke Differenzen. Und mein Plädoyer wäre, dass man, wenn man die Gegenwart verstehen will,
+
+50:50.600 --> 50:58.440
+erstens diese beiden Paradigmen auseinanderhalten muss und zweitens dann konkret analysieren muss,
+
+50:58.440 --> 51:04.920
+wo überlappen die sich, wo arbeiten sie zusammen und wo treffen sie aufeinander und generieren
+
+51:04.920 --> 51:12.480
+völlig unterschiedliche Vorschläge und auch Effekte. Absolut, weil es gibt ja definitiv diese
+
+51:12.480 --> 51:17.840
+Mischform. Du hast ja schon die Broker aufgezeigt, anhand derer man solche Mischformen vielleicht
+
+51:17.840 --> 51:22.160
+halt auch finden und identifizieren und dann analysieren könnte. Es gibt sie in jedem Fall
+
+51:22.160 --> 51:28.040
+und es gibt sie in beide Richtungen, könnte man sagen, denn so sehr das Netzwerkdenken in
+
+51:28.040 --> 51:34.520
+verschiedenste Bereiche unserer Gesellschaften diffundiert ist, so sehr ist ja auch das Denken
+
+51:34.520 --> 51:42.880
+in Souveränität nicht komplett abgelöst worden, sondern das existiert gleichermaßen weiter und
+
+51:42.880 --> 51:49.840
+wurde eben nicht gänzlich jetzt von diesem neuen Paradigma des Netzwerkdenkens abgelöst. Man sieht
+
+51:49.840 --> 51:54.640
+es eben dann interessanterweise und hier haben wir dann wieder diese Überlappungen, ja gerade
+
+51:54.640 --> 52:00.680
+auch in solchen Bereichen wie der Digitalisierungsdebatte, wo das dann immer wieder aufkommt. Da wird
+
+52:00.680 --> 52:06.960
+gesprochen von digitaler Souveränität. Wir werden adressiert ganz klar als Individuen, die jetzt dann
+
+52:06.960 --> 52:12.720
+wieder irgendwie ihre Hoheit über die Daten zurückerlangen sollen. Wie deutest du diese
+
+52:12.720 --> 52:21.800
+Gleichzeitigkeit von Omnipräsenz des Netzwerkdenkens auf der einen Seite und Persistenz des Denkens der
+
+52:21.800 --> 52:28.600
+alten Souveränität auf der anderen Seite? Also zum einen ist es natürlich glaube ich erstmal gar
+
+52:28.600 --> 52:34.520
+nicht so überraschend, weil natürlich anzunehmen, dass das jetzt komplett verschwindet, wäre ja
+
+52:34.520 --> 52:42.400
+geradezu naiv. Gerade für so eine Tradition, die ja Jahrhunderte alt ist, ist zu erwarten, dass das
+
+52:42.400 --> 52:50.480
+sowohl als explizite Vorschläge, als auch als Vorstellungswelt irgendwie erstmal erhalten und
+
+52:50.480 --> 52:56.520
+abrufbar bleibt. Das ist jetzt erstmal glaube ich gar nicht so überraschend. Interessant ist aber,
+
+52:56.520 --> 53:02.640
+wenn man sich jetzt eben solche Dinge anguckt, die du als Beispiel gebracht hast, wie kommt denn
+
+53:02.760 --> 53:09.000
+das eigentlich zurück und warum kommt das zurück? Der Digitalisierungsdiskurs ist ein super Beispiel
+
+53:09.000 --> 53:16.200
+dafür, finde ich, weil wir hier ja eigentlich, das ist das Heimspiel von Netzwerkkonzepten. Also
+
+53:16.200 --> 53:23.760
+wo sind Netzwerkkonzepte derartig präsent gewesen, auch schon in der Entstehung dieses ganzen
+
+53:23.760 --> 53:32.640
+Diskurses, wie im Digitalisierungsbereich. Die frühen Netzdiskurse sind logischerweise geprägt
+
+53:32.640 --> 53:39.040
+von diesen ganzen Konzeptionen, sowohl auf der technischen Seite, als auch auf der Frage,
+
+53:39.040 --> 53:44.920
+wie organisieren wir das dann eigentlich sozial, was schon allein daran liegt, weil die Kybernetik ja
+
+53:44.920 --> 53:50.720
+auch die Begriffe bereitgestellt hat, um diese technischen Artefakte zu generieren, wie das
+
+53:50.720 --> 53:58.800
+Internet. Also diejenigen, die das erfinden, bei denen kann man ganz vielen zeigen, dass
+
+53:58.800 --> 54:06.480
+die enge Verbindungen zur Kybernetik haben. Steve Jobs, Douglas Engelbert und ähnliche,
+
+54:06.480 --> 54:13.640
+die beziehen sich explizit und positiv auf die Kybernetik. Also das ist sozusagen, das ist
+
+54:13.640 --> 54:19.840
+eigentlich Heimspiel und entsprechend findet man auch schon früh Plädoyers dafür oder ganz klare
+
+54:19.840 --> 54:25.640
+Kritik an Souveränitätskonzepten und dass man auch die Regulierung des Internets ja nicht an
+
+54:25.640 --> 54:30.960
+Staaten angeben dürfte, die ja sowieso veraltet seien. Man hat quasi dieses ganze Set an Narrativen,
+
+54:30.960 --> 54:39.840
+was die Kybernetik mitbringt, wieder in dem frühen Digitalisierungsdiskurs. Und dann passiert was
+
+54:39.840 --> 54:47.680
+Interessantes, könnte man sagen. Seit 10, 15 Jahren vielleicht, denn es ist schon recht weit
+
+54:47.680 --> 54:52.520
+zurückgegeben, kommt eben dieses Souveränitätskonzept langsam zurück. Und jetzt ist es ja wirklich sehr
+
+54:52.520 --> 54:58.440
+stark und deutlich zu sehen, dass wir in diesem Digitalisierungsdiskurs wieder das Plädoyer haben
+
+54:58.440 --> 55:05.880
+für Souveränität aus verschiedenen Perspektiven, also Staatenkonkurrenz natürlich, eben die
+
+55:05.880 --> 55:12.400
+ökonomische Prosperitätsargument. Also wir können sozusagen über Digitalisierung Wirtschaftswachstum
+
+55:12.400 --> 55:18.800
+haben und das verteilen und das präsentiert den Staat wieder als einen wirtschaftlichen Akteur,
+
+55:18.800 --> 55:29.040
+der er ja eigentlich nicht sein dürfte, obwohl er es natürlich jederzeit war. Und wir haben eben
+
+55:29.040 --> 55:34.640
+diese Subjektebene, wo es dann um Datenschutz geht und Informationsverlässlichkeit, dass man eben
+
+55:34.640 --> 55:39.200
+auch als Bürger souveräne Entscheidungen treffen kann und diese ganze Rhetorik, also auch unterschiedliche
+
+55:39.200 --> 55:47.440
+Konzepte von Souveränität. Das kommt hier also zurück tatsächlich und kann auf diese ganzen,
+
+55:47.440 --> 55:51.800
+auf diese unterschiedlichen Ebenen auch aufbauen, so wie ich das eben auch dargestellt habe. Also den
+
+55:51.800 --> 56:01.040
+Staat als Akteur unter anderen Staaten, den Staat als wirtschaftliche Steuerungsinstanz, die er ja in
+
+56:01.040 --> 56:08.720
+den 50er-, 60er-Jahren eben auch war und die Subjekte als souveräne Subjekte, kann man sagen, genau auf
+
+56:08.720 --> 56:13.160
+diese Dimensionen wieder aufbauen. Und das Interessante ist, dass das eben nicht nur in der
+
+56:13.160 --> 56:20.120
+Digitalisierung stattfindet, sondern parallel auch in anderen Bereichen der Gesellschaft stattfindet.
+
+56:20.120 --> 56:30.320
+Also man könnte erstmal sagen, festhalten, dass diese Selbstverständnisse, welche Aufgaben Politik
+
+56:30.320 --> 56:36.640
+zum Beispiel hat und wie Politik positioniert ist, seit einiger Zeit wieder ins Rutschen gekommen sind
+
+56:36.640 --> 56:43.440
+und in Bewegung gekommen sind. Und dieses Souveränitätsdenken, dort wieder eine Rolle spielt
+
+56:43.440 --> 56:49.880
+etwa über rechtspopulistische Formen, die ja mit diesem Take-Back-Control im Prinzip genau die
+
+56:49.880 --> 56:55.160
+Souveränitätsidee vertreten. Allerdings, wenn man das zum Beispiel vergleicht mit den 50er- und
+
+56:55.760 --> 57:02.840
+60er-Jahren, eine ziemlich krude und verkümmerte Form von Souveränitätsdenken, die in den 50er-,
+
+57:02.840 --> 57:08.880
+60er-Jahren sehr viel weiter war in vielen Punkten. Aber sie bringen eben dieses Versprechen von
+
+57:08.880 --> 57:15.080
+Machbarkeit wieder in den Vordergrund. Aber nicht nur rechtspopulistische Formen, sondern ja auch
+
+57:15.080 --> 57:21.760
+sozialdemokratische Akteure oder auch Intellektuelle positionieren den souveränen Nationalstaat als
+
+57:21.760 --> 57:27.760
+Antwort auf eine ganze Reihe von Problemen, die wir beobachten können. Und Souveränität tritt hier
+
+57:27.760 --> 57:38.720
+im Prinzip jetzt auf, als eine vertraute Antwort auf aber neue Problemlagen. Und insofern kann man
+
+57:38.720 --> 57:48.760
+sich überlegen, wie erfolgsversprechend das ist, wenn man auf neue Problemlagen mit diesen vertrauten
+
+57:48.760 --> 57:55.840
+Antworten reagiert. Das ist, glaube ich, das, was jetzt prinzipiell passiert. Und die Frage ist,
+
+57:55.840 --> 58:04.360
+warum passiert das? Das versuchen ja viele zurzeit zu lösen, wie diese Neuverhandlung eigentlich
+
+58:04.360 --> 58:10.560
+über das, was wir sind und was wir sein wollen als Gesellschaft zustande kommen. Und ein Teil
+
+58:10.560 --> 58:16.280
+zumindest ist, glaube ich, dass die Regierungsrationalitäten oder die Paradigmen der
+
+58:16.280 --> 58:21.840
+Spätmoderne, also die seit den 70er Jahren dominant geworden sind, eine ganze Reihe von
+
+58:21.840 --> 58:28.040
+neuen Problemen geschaffen haben. Und für den Neoliberalismus könnte man sagen, wissen wir das
+
+58:28.040 --> 58:34.760
+alles, weil das ja sehr viel im Fokus war. Für das Netzwerkdenken ist das eben noch gar nicht so
+
+58:34.760 --> 58:41.640
+gut erforscht und müsste, glaube ich, sehr viel konzentrierter untersucht werden. Es gibt aber zum
+
+58:41.640 --> 58:48.840
+Beispiel, wenn man guckt, was könnten solche Probleme sein im Netzwerkdenken, hat man auf
+
+58:48.840 --> 58:54.760
+jeden Fall das Problem, dass diese permanente Flexibilitätsanforderung eine Überlastung für
+
+58:54.760 --> 59:01.720
+viele Menschen ist. Und dieser ganze Diskurs über das Erschöpfte Selbst, der ja in den
+
+59:01.720 --> 59:08.280
+Sozialwissenschaften schon lange existent ist, eben nicht nur auf den Neoliberalismus zurückführt
+
+59:08.280 --> 59:15.320
+werden kann, sondern auch auf das Netzwerkdenken zurückgeführt werden muss. Man hat zum anderen
+
+59:15.320 --> 59:19.200
+im Netzwerkdenken natürlich auch eine Aushöhlung von bestimmten kollektiven
+
+59:19.200 --> 59:26.520
+Handlungsfähigkeiten und so Vorstellungen wie einem gemeinsamen Gemeinwohl. Das wird im
+
+59:26.520 --> 59:34.160
+Netzwerkdenken klassischerweise so nicht vertreten, was dann eben auch zu einer Kritik an repräsentativen
+
+59:34.160 --> 59:40.800
+Institutionen führt, die natürlich aber für die Vertretung von bestimmten Arbeitsschutzrechten
+
+59:40.800 --> 59:47.480
+zum Beispiel eine zentrale Rolle spielt, aber überhaupt auch, um Selbstwirksamkeit erfahren
+
+59:47.480 --> 59:54.760
+zu können. Also hier haben wir, glaube ich, auch ein Problem, was die Erfahrung von kollektiver
+
+59:54.760 --> 01:00:03.240
+Handlungsfähigkeit angeht. Und ein dritter Punkt wäre, dass im Netzwerkdenken alternative
+
+01:00:03.320 --> 01:00:12.360
+Selbstbeschreibungen, die es in der Gesellschaft gibt, abgewertet werden. Also sehr schön stellt
+
+01:00:12.360 --> 01:00:21.000
+das eigentlich Arley Russell Hochschild in ihrem Buch dar, in dem sie im Prinzip auf das Land zieht,
+
+01:00:21.000 --> 01:00:28.160
+sozusagen, um zu verstehen, wie eigentlich die Trump-Wählerinnen ticken. Und dann beschreibt
+
+01:00:28.160 --> 01:00:35.360
+sie in diesem Buch eben sehr schön, wie es dort Selbstverständnisse gibt, die sehr stark an das
+
+01:00:35.360 --> 01:00:43.840
+Land gebunden sind und an so etwas wie Kontinuität und Herkunft gebunden sind. Und da wird sehr
+
+01:00:43.840 --> 01:00:49.320
+deutlich, dass es eben andere Selbstbeschreibungen innerhalb unserer Gesellschaft gibt, die vom
+
+01:00:49.320 --> 01:00:58.360
+Netzwerkdenken aber im Prinzip als veraltet dargestellt werden. Und die Frage ist, was machen
+
+01:00:58.360 --> 01:01:04.760
+die dann eigentlich? Und womöglich suchen die sich ein Vetil irgendwo anders, weil sie sich
+
+01:01:04.760 --> 01:01:11.640
+nicht mehr gehört fühlen. Also hier haben wir sozusagen Reibungspunkte oder Defizite,
+
+01:01:11.640 --> 01:01:18.480
+die entstehen aus dem Regierungsdenken dieser spätmodernen Zeit. Und man müsste sich das eben
+
+01:01:18.480 --> 01:01:23.320
+ganz genau dann auch nochmal im Detail angucken. Aber das müsste man eben auch mal machen.
+
+01:01:23.320 --> 01:01:30.440
+Das müsste man ganz unbedingt machen. Da gebe ich dir vollkommen recht. Und was ich finde,
+
+01:01:30.440 --> 01:01:37.320
+was aus den Ausführungen, die du jetzt dann da auch gerade geleistet hast, ganz klar hervorgeht,
+
+01:01:37.320 --> 01:01:44.080
+ist, dass man eigentlich sagen könnte, dass das Netzwerkdenken jetzt im Grunde schon ein altes
+
+01:01:44.080 --> 01:01:53.600
+Denken geworden ist. Dass also die Beschreibungen, die dieses Denken anbietet, natürlich einen
+
+01:01:53.600 --> 01:01:58.920
+gewissen Nutzen haben, in bestimmten Formen ganz sicher auch weiterhin produktiv gemacht
+
+01:01:58.920 --> 01:02:06.920
+werden können und so weiter. Aber dass weder das Zurückfallen in ein sogar noch banalisiertes
+
+01:02:06.920 --> 01:02:15.280
+Souveränitätsdenken noch das Verharren darauf, dass doch einzig das Netzwerkdenken das neue und
+
+01:02:15.280 --> 01:02:20.360
+richtige Denken sei, ich sage es jetzt bewusst ein bisschen polemisch, dass weder das eine noch das
+
+01:02:20.360 --> 01:02:29.920
+andere quasi wirklich adäquat in der Lage wäre, für unsere jetzige Situation fruchtbar gemacht
+
+01:02:29.920 --> 01:02:36.360
+zu werden. Das heißt, und das schließt eigentlich sehr schön an den Anfang unseres Gesprächs an,
+
+01:02:36.360 --> 01:02:41.040
+wo wir ja schon angekündigt haben, dass wir diesen Pfad nochmal etwas weitergehen wollen,
+
+01:02:41.040 --> 01:02:48.640
+auch in Bezug auf die Frage von Alternativen. Das heißt, es muss eigentlich eine Frage gestellt
+
+01:02:48.640 --> 01:02:54.280
+werden, die zurzeit zu meinen Lieblingsfragen gehört, kann ich sagen, nämlich die Frage nach
+
+01:02:54.280 --> 01:02:59.400
+der alternativen Regierungsrationalität. Und du schreibst da in deinem Buch, und da zitiere ich
+
+01:02:59.400 --> 01:03:04.880
+jetzt, die vernetzte Gesellschaft ist daher maßgeblich auch das Produkt ideenpolitischer
+
+01:03:04.880 --> 01:03:09.560
+Intervention, die erfolgreich waren, als der gesellschaftspolitische Deutungsrahmen der
+
+01:03:09.560 --> 01:03:17.520
+Souveränität zusammenbrach. Zitat Ende. Und ich bin der Meinung, wir erleben derzeit durchaus
+
+01:03:17.520 --> 01:03:23.400
+wieder ein solches Zusammenbrechen. Du hast es ja auch schon ein wenig angedeutet, zumindest mal die
+
+01:03:23.400 --> 01:03:29.120
+Fragezeichen werden größer. Also ich glaube schon, wir erleben wieder ein solches Zusammenbrechen des
+
+01:03:29.120 --> 01:03:36.000
+gesellschaftlichen Deutungsrahmens. Und da ist es umso wichtiger, dass wir uns eben dieser Frage zu
+
+01:03:36.000 --> 01:03:40.760
+wenden, dass neue ideenpolitische Interventionen entwickelt werden, die dann eben auch den
+
+01:03:40.760 --> 01:03:46.320
+reaktionären Kräften, die du ja beschrieben hast, entgegenwirken. Weil ansonsten natürlich ein
+
+01:03:46.320 --> 01:03:51.080
+Zusammenbruch dieses Deutungszusammenhangs tendenziell dazu führt, dass das in den
+
+01:03:51.080 --> 01:03:55.720
+reaktionären Kräften in die Hände spielt, weil sie so tun, als hätten sie quasi schon fertige
+
+01:03:55.720 --> 01:04:01.600
+Antworten auf Fragestellungen, die in Wirklichkeit ja mit diesen Antworten gar nicht bearbeitet
+
+01:04:01.600 --> 01:04:08.760
+werden könnten. Wenn also diese spezifische Form des technologischen Regierens, die du da in
+
+01:04:08.760 --> 01:04:13.960
+deinem Buch beschreibst, eigentlich mittlerweile auch schon altes Denken geworden ist, so stellt
+
+01:04:13.960 --> 01:04:18.920
+sich dann eben die Frage nach alternativen Regierungsrationalitäten, wie die aussehen
+
+01:04:18.920 --> 01:04:25.160
+könnten, wie auch ein anderes technologisches Regieren aussehen könnte. Und man muss dann
+
+01:04:25.160 --> 01:04:29.320
+wahrscheinlich auch den Schritt weitergehen, den du ja in deinem Buch auch machst. Man muss
+
+01:04:29.320 --> 01:04:34.760
+eigentlich dann auch fragen, bräuchte es eigentlich dann für ein solches alternatives
+
+01:04:34.760 --> 01:04:42.400
+technologisches Regieren nicht auch alternative und neue Technologiken? Ja, das sind ja im Grunde
+
+01:04:42.400 --> 01:04:51.120
+zwei verschiedene Fragen. Also zum einen erstmal der Aspekt, dass es sich bei dem Netzwerkdenken,
+
+01:04:51.120 --> 01:04:57.000
+beim technologischen Denken um ein eigentlich altes Denken handelt. Und das ist auch einer meiner
+
+01:04:57.000 --> 01:05:03.520
+zentralen Punkte, den ich versuche in dem Buch zu machen, dass das Netzwerkdenken eben so eine
+
+01:05:03.520 --> 01:05:11.840
+Erzählung daherkommt, dass wir ein neues Denken brauchen. Und das interessante aber daran ist,
+
+01:05:11.840 --> 01:05:17.840
+dass es genau diese Erzählung in den 40er Jahren, in den 70er Jahren, in den 90er Jahren, in den
+
+01:05:17.840 --> 01:05:27.360
+2010er und auch in den 2020er Jahren anbringt. Dass man das also als eine Erzählung, als rhetorische
+
+01:05:27.360 --> 01:05:39.760
+Figur verstehen muss und nicht einfach da reintrapsen sollte in dieses ausgestellte Näpfchen. Und dann
+
+01:05:39.760 --> 01:05:45.640
+sich eben sowohl die Geschichte kritisch ansehen muss, als auch die massiven Effekte und den massiven
+
+01:05:45.640 --> 01:05:50.720
+Einfluss, den dieses Ding gehabt hat, anschauen muss. Und das ist auch etwas, was sich an die
+
+01:05:50.720 --> 01:05:57.640
+Sozialwissenschaften selbst richtet, die heute ja durchaus massiv mit diesen Netzwerkbegrifflichkeiten
+
+01:05:57.640 --> 01:06:04.680
+auf verschiedenen Ebenen operieren. Also sowohl innerhalb von Analysemethoden, als auch innerhalb
+
+01:06:04.680 --> 01:06:13.240
+der Digitalisierungsdebatte, als auch als generelles Framework, um Gesellschaften und politische
+
+01:06:13.240 --> 01:06:20.840
+Prozesse zu verstehen. Oder teilweise auch sogar normativ zum Beispiel als Alternative zur
+
+01:06:20.840 --> 01:06:26.640
+Souveränität zu präsentieren. Das heißt, die Sozialwissenschaften selbst müssten sich hier
+
+01:06:26.640 --> 01:06:32.360
+auch kritisch hinterfragen, inwiefern sie hier quasi Narrative weiterspinnen, anstatt sie
+
+01:06:32.360 --> 01:06:39.440
+historisch kritisch einzuordnen und eben auch Alternativen zu dieser Sichtweise aufzubringen.
+
+01:06:39.520 --> 01:06:43.560
+Darauf meine ich nicht nur politische Alternativen, sondern eben auch alternative
+
+01:06:43.560 --> 01:06:50.320
+Erklärungen für Phänomenen, die wir vorfinden. Das ist sozusagen der eine Punkt. Und der zweite
+
+01:06:50.320 --> 01:07:00.880
+Punkt ist dann, wie entwickelt sich das weiter und welche alternativen Regierungsansätze gibt es?
+
+01:07:00.880 --> 01:07:08.120
+Und hier muss man natürlich erstmal sagen, barn davor zu sagen, nur weil das Netzwerkdenken
+
+01:07:08.320 --> 01:07:14.840
+als mehr oder minder altes Denken inzwischen verstanden werden kann, ist das glaube ich
+
+01:07:14.840 --> 01:07:22.640
+noch nicht am Ende angekommen. Dieser Eindruck kann leicht entstehen, zum Beispiel, wenn man in die
+
+01:07:22.640 --> 01:07:27.760
+Digitalisierungsdebatte guckt. Also entweder, indem man dann sieht, ja, es entwickelt sich ja
+
+01:07:27.760 --> 01:07:33.040
+doch wieder in Richtung Souveränität oder man guckt auf die Plattformbegrifflichkeiten, wo
+
+01:07:33.040 --> 01:07:41.120
+das noch mal transformiert wird, um das sozusagen so zusammenzufassen. Aber gleichzeitig verschiebt
+
+01:07:41.120 --> 01:07:48.720
+sich dieses Netzwerkdenken oder auch die Subfelder sozusagen verschieben sich. Jetzt tritt
+
+01:07:48.720 --> 01:07:53.320
+vielleicht dieser Digitalisierungsdiskurs eher in den Hintergrund, dafür kommt sehr stark der
+
+01:07:53.320 --> 01:08:01.440
+Ökologisierungsdiskurs rein, der im Prinzip im Kern auf dieses technologische Denken aufbaut.
+
+01:08:01.440 --> 01:08:07.360
+Also die ganzen ökologischen Modelle basieren auf kybernetischen Überlegungen und es ist
+
+01:08:07.360 --> 01:08:11.960
+deswegen auch kein Zufall, dass wir in vielen ökologischen Vorschlägen im Prinzip solche
+
+01:08:11.960 --> 01:08:19.160
+Figuren wiederfinden. Also brauchen wir nur Kate Raworths Idee von Donut Economics zu nehmen, wo
+
+01:08:19.160 --> 01:08:23.600
+wir, also man kann das Buch tatsächlich mal schön reinschauen, weil es genau gegenüberstellt in einer
+
+01:08:23.600 --> 01:08:27.960
+Tabelle, wie das alte Denken aussieht und wie das neue Denken aussieht und dass sie sagt, wir
+
+01:08:27.960 --> 01:08:33.200
+brauchen ein neues Denken. Also da kommt sozusagen ein neuer Diskurs, der aber auch
+
+01:08:33.200 --> 01:08:40.480
+Netzwerkmodelle präsentiert und man müsste sich dann entsprechend natürlich auch anschauen, ist
+
+01:08:40.480 --> 01:08:45.640
+das noch das gleiche, was verändert sich, was wurde adaptiert und ähnliches. Das ist glaube ich
+
+01:08:45.640 --> 01:08:50.120
+erstmal wichtig zu sagen, nur weil es sozusagen alt ist, ist es noch nicht weg und nur weil es
+
+01:08:50.120 --> 01:08:53.520
+in dem einen Feld vielleicht jetzt nicht mehr so dominant ist, kommt aber vielleicht ein anderes
+
+01:08:53.520 --> 01:09:01.880
+Feld. Gleichzeitig sehe ich aber auch, dass wir vielleicht nicht vor einem Zusammenbrechen stehen,
+
+01:09:01.880 --> 01:09:08.600
+sondern aber vielleicht vor einer Art Bewährungsprobe für dieses Denken mit offenem
+
+01:09:08.600 --> 01:09:13.480
+Ausgang. Also wir haben so eine ganze Reihe von Defiziten, über die wir eben auch schon gesprochen
+
+01:09:13.480 --> 01:09:20.680
+haben und die Frage ist, wie reagieren diese Regierungstrationalitäten darauf? Gelingt es
+
+01:09:20.680 --> 01:09:30.640
+ihnen darauf, Antworten zu finden? Transformieren sie sich eventuell? Verändern sich also Dinge in
+
+01:09:30.640 --> 01:09:35.400
+der ganzen Konstellation? Man kann das glaube ich, kann sozusagen das durchaus auch beobachten,
+
+01:09:35.400 --> 01:09:39.280
+indem zum Beispiel dieser Commons-Diskurs ja sehr viel stärker geworden ist, um eine Antwort auf
+
+01:09:39.280 --> 01:09:45.640
+diese Frage Gemeinwohl zu geben. Da wiederum muss man sich dann anschauen, ist das überhaupt das
+
+01:09:45.640 --> 01:09:51.040
+gleiche, was wir eigentlich sonst unter Gemeinwohl verstehen? Aber man hat sozusagen so Transformation
+
+01:09:51.040 --> 01:09:57.560
+zu uns Prozesse oder man hat vielleicht auch Hybridisierungsprozesse, also indem es eventuell
+
+01:09:57.560 --> 01:10:04.520
+eine Überkreuzung mit Souveränitätsideen gibt. Es ist ja nicht so, dass es gar keine Broker
+
+01:10:04.520 --> 01:10:09.320
+zwischen denen geben könnte. Also ich glaube, da haben wir sozusagen eine Bewährungsprobe für die
+
+01:10:09.320 --> 01:10:15.920
+aktuellen Regierungsrationalitäten, von denen wir noch nicht sagen können, ob oder wie die ausgeht.
+
+01:10:15.920 --> 01:10:22.240
+Und das kann man glaube ich beobachten. Eine zentrale Aufgabe ist glaube ich eben, diese
+
+01:10:22.240 --> 01:10:29.120
+Beobachtung zu leisten und dabei einzuspielen, was es vielleicht aus der Perspektive, die wir
+
+01:10:29.120 --> 01:10:34.920
+haben, wenn wir wissen, das ist schon eine ganze Weile wirksam, was waren vielleicht Effekte,
+
+01:10:34.920 --> 01:10:42.120
+die man als wünschenswert einkategorisieren könnte und was waren Effekte, die problematisch sind. Und
+
+01:10:42.120 --> 01:10:48.000
+ein zentraler Aspekt, den wir glaube ich auch einspielen können, ist, welche Alternativen gibt es
+
+01:10:48.000 --> 01:10:54.600
+denn überhaupt? Also ich sage, du hörst vielleicht schon an meiner Antwort. Ich bin jetzt nicht in
+
+01:10:54.600 --> 01:11:00.760
+erster Linie normativer Theoretiker, sondern eher kritischer Analytik. Aber das bedeutet ja nicht,
+
+01:11:00.760 --> 01:11:06.120
+dass man nichts beitragen kann für die normative Debatte, die in der Gesellschaft stattfinden muss.
+
+01:11:06.120 --> 01:11:13.720
+Und ich glaube ein wichtiger Beitrag ist, dass wir zeigen können, welche Alternativen gibt es denn
+
+01:11:13.720 --> 01:11:18.840
+überhaupt, an die wir überhaupt nicht mehr denken. Also um eine Metapher zu nehmen, die
+
+01:11:18.840 --> 01:11:24.400
+Herfried Münkler mal geprägt hat, dass wir quasi in das Archiv der Ideengeschichte hineingehen und
+
+01:11:24.400 --> 01:11:30.600
+mal schauen, was wir da noch haben. Zum Beispiel republikanische Ansätze und mit welchen politischen
+
+01:11:30.920 --> 01:11:36.760
+Praktiken die eigentlich einhergehen und mit welchem Selbstverständnis die einhergehen und was die uns
+
+01:11:36.760 --> 01:11:42.040
+vielleicht für die Gegenwart sagen könnten. Und ich glaube, wenn man zwei Dinge also schafft, wenn
+
+01:11:42.040 --> 01:11:50.280
+man es schafft, erst mal herauszuarbeiten, dass wir sowieso schon vor einer Alternative zwischen
+
+01:11:50.280 --> 01:11:54.400
+unterschiedlichen Möglichkeiten stehen. Ich glaube nämlich, dass das was ist, was viel zu kurz häufig
+
+01:11:54.400 --> 01:12:02.240
+kommt. Gerade das Netzwerkdenken kommt ja auch häufig mit dieser Erzählung daher. Wir leben in
+
+01:12:02.240 --> 01:12:08.880
+einem Netzwerkzeitalter und deswegen brauchen wir auch Network Governance, Netzwerk Regierungsansätze.
+
+01:12:08.880 --> 01:12:14.600
+Dass das so einfach gar nicht ist, sondern dass es sehr wohl unterschiedliche Antworten auf die
+
+01:12:14.600 --> 01:12:20.040
+Herausforderungen gibt, also unterschiedliche Deutungen, unterschiedliche Antworten. Und wenn
+
+01:12:20.040 --> 01:12:25.360
+man die erst mal nebeneinander stellen könnte und damit im Prinzip sagen könnte, hey, wir können
+
+01:12:25.360 --> 01:12:31.800
+hier entscheiden, wohin sich das entwickeln soll. Und das sind eventuell Vor- und Nachteile und das
+
+01:12:31.800 --> 01:12:36.440
+sind Folgen von einem solchen Ansatz. Denn der, glaube ich, schon mal viel gewonnen, wenn man sozusagen
+
+01:12:36.440 --> 01:12:42.120
+so eine Art Tableau erstmal hätte, worüber wir sprechen. Und dann können wir uns darüber unterhalten,
+
+01:12:42.120 --> 01:12:47.840
+wohin wir wollen. Und dann kann man noch mal den Schritt weitergehen und sagen, es gäbe auch noch
+
+01:12:47.840 --> 01:12:52.560
+andere Ansätze als die, die aktuell in der Debatte sind. Und die haben folgende Vor- und
+
+01:12:52.560 --> 01:12:58.400
+Nachteile und folgende Geschichte. Und überleg doch mal, ob die nicht eventuell auch hilfreich sein
+
+01:12:58.400 --> 01:13:05.520
+könnten, um ein alternatives Regierungsdenken zu entwickeln. Fallen dir da noch andere Beispiele
+
+01:13:05.520 --> 01:13:11.920
+ein, mag ich dir natürlich sofort nachhaken. Also, weil es wäre ja eine Sache in diesen
+
+01:13:12.480 --> 01:13:17.840
+Werkzeugkasten der Ideengeschichte oder wie hieß er jetzt? Ich glaube, in eine schönere Formulierung,
+
+01:13:17.840 --> 01:13:24.880
+sag noch mal. Das Archiv. Das ist besser als Werkzeugkasten. Die Werkzeugkastenmetapher wäre
+
+01:13:24.880 --> 01:13:32.880
+ja eine, die das Netzwerkdenken verwendet. Genau, also die eine Sache wäre ja eben zu schauen,
+
+01:13:32.880 --> 01:13:41.200
+was sich da alles im Archiv befindet. Und ein anderer Zugang, der natürlich das jetzt auch gar
+
+01:13:41.200 --> 01:13:49.280
+nicht unbedingt ausschließt, wäre sich noch dezidierter auch der Frage zuzuwenden, alternative
+
+01:13:49.280 --> 01:13:54.160
+Zugänge zu erfinden. Also, ich habe jetzt in der letzten Folge mit Ute Tellmann gesprochen und da
+
+01:13:54.160 --> 01:14:00.800
+hatte ich ein Foucault-Zitat vorgelesen, das ich jetzt nicht aus dem Stegreif so wiedergeben kann,
+
+01:14:00.800 --> 01:14:08.880
+aber letztlich hat es sich auf diese Fragestellung der alternativen Regierungsrationalitäten bezogen
+
+01:14:08.880 --> 01:14:13.840
+und die Conclusio war, man kann sie sozusagen jetzt nicht unbedingt aus diesen Schriften oder,
+
+01:14:13.840 --> 01:14:21.120
+wie du es jetzt sagst, aus dem Archiv herausziehen, sondern man muss sie erfinden. Magst du uns
+
+01:14:21.120 --> 01:14:28.240
+vielleicht in diese Richtung des Erfindens noch ein paar Färken aufzeigen, falls du sie denn weißt?
+
+01:14:28.240 --> 01:14:38.040
+Also, ich habe dafür keine vorgefertigten Folien, aber ich glaube, ein Aspekt ist daran eben durchaus
+
+01:14:38.200 --> 01:14:47.400
+wichtig. Was wir nicht machen können, ist, in dieses Archiv zu gehen und das dann zu sagen,
+
+01:14:47.400 --> 01:14:53.400
+hier haben wir einen fertigen Entwurf und das machen wir jetzt so. Das ist, glaube ich,
+
+01:14:53.400 --> 01:14:59.080
+eine falsche Vorstellung davon, was Wissenschaft überhaupt leisten kann, aber es ist auch nicht so,
+
+01:14:59.080 --> 01:15:09.720
+wie das praktisch funktioniert, sondern man hat sozusagen bestimmte Vorschläge und Aspekte,
+
+01:15:09.720 --> 01:15:15.880
+die man daran interessant findet an Entwürfen, die es vielleicht schon mal gab, und dann muss man das
+
+01:15:15.880 --> 01:15:22.360
+ja mit Dingen konfrontieren, die man in der Gegenwart vorfindet, also sowohl mit Überzeugungen,
+
+01:15:22.360 --> 01:15:26.600
+die man hat, als auch natürlich mit den Problemlagen, die man vorfindet. Und ich glaube,
+
+01:15:26.600 --> 01:15:33.160
+durch diese Konfrontation entstehen oder erfindet man automatisch neue Dinge. Das lässt sich sozusagen
+
+01:15:33.160 --> 01:15:42.120
+gar nicht so richtig vermeiden. Und da hat man, glaube ich, diesen produktiven und kreativen
+
+01:15:42.120 --> 01:15:48.680
+Prozess automatisch drin. Und ganz häufig glaube ich auch, dass das sehr viel alltäglicher ist,
+
+01:15:48.680 --> 01:15:55.920
+als wir uns das vorstellen. Dass das eben sehr viel stärker in Gesprächen stattfindet,
+
+01:15:55.920 --> 01:16:03.120
+oder auch tatsächlich in natürlich Policyforen und Ähnliches stattfindet,
+
+01:16:03.120 --> 01:16:09.040
+wenn dort Beratungen stattfinden. Das ist ja auch dort die Frage ist,
+
+01:16:09.040 --> 01:16:16.520
+wie reagieren wir auf ein bestimmtes Problem? Dann kriegen die vielleicht Input von Expertinnen,
+
+01:16:16.520 --> 01:16:21.880
+wie sich bestimmte Ansätze ausgewirkt haben und es vielleicht nicht so gut funktioniert zum
+
+01:16:21.920 --> 01:16:26.280
+Beispiel. Und dann ist die Frage, wie reagiert man darauf? Und die haben aber natürlich auch
+
+01:16:26.280 --> 01:16:32.200
+alle eigene Überzeugungen und eigene Vorstellungen davon, wie die Geschichte abläuft. Sie bringen
+
+01:16:32.200 --> 01:16:40.360
+sozusagen ein ganzes Set an Beliefs mit sich. Und ich glaube deswegen, dass dort auch durchaus
+
+01:16:40.360 --> 01:16:46.320
+Prozesse stattfinden, wo eben Neues erfunden wird. Und genauso aber natürlich auch in alltäglichen
+
+01:16:46.320 --> 01:16:53.680
+Gesprächen, die zwischen anderen Menschen stattfinden, die sich fragen, wohin soll's
+
+01:16:53.680 --> 01:16:59.200
+eigentlich gehen? Ich denke, dass man sicherlich, wenn man sich das genauer anguckt in der Fridays
+
+01:16:59.200 --> 01:17:04.160
+for Future Bewegung oder ähnliches, genau solche Prozesse beobachten kann. Und wenn man
+
+01:17:04.160 --> 01:17:12.000
+dazu auch nur einen einzelnen Akteur beobachten kann, die, was ich immer, und dass ich das im
+
+01:17:12.000 --> 01:17:16.800
+Detail kennen würde, aber ich fand es immer sehr interessant, wie zum Beispiel die Luisa Neubauer
+
+01:17:16.800 --> 01:17:20.520
+ja immer wieder auch gefragt wird, wie soll denn das denn aussehen und wie funktioniert das,
+
+01:17:20.520 --> 01:17:27.280
+in welche Rolle spielt eigentlich Freiheit? Und man kann, glaube ich, beobachten, wie sie im Laufe
+
+01:17:27.280 --> 01:17:34.240
+ihrer Präsenz in dieser Debatte darauf Antworten entwickelt. Ob die jetzt tragfähig sind oder nicht,
+
+01:17:34.240 --> 01:17:38.840
+ist eine ganz andere Geschichte. Aber dort, das sind sozusagen diese Effekte, wo wir, glaube ich,
+
+01:17:38.840 --> 01:17:46.560
+was Neues erfinden können. Und ich persönlich neige dazu, immer wieder mal republikanische
+
+01:17:46.560 --> 01:17:52.240
+Ansätze ins Spiel zu bringen. Und das ganz Interessante daran ist, dass wir dort eine
+
+01:17:52.240 --> 01:17:57.920
+Reihe von Punkten haben, die wir in anderer Form auch im Netzwerk denken haben. Also wir haben zum
+
+01:17:57.920 --> 01:18:04.520
+Beispiel die Vorstellung, dass wir ein Beziehungsgewebe haben und bei bestimmten republikanischen
+
+01:18:04.520 --> 01:18:09.440
+Autorinnen wie Hanna Arendt eben auch eine Souveränitätskritik zum Beispiel, die aber
+
+01:18:09.440 --> 01:18:18.200
+auf einer ganz anderen Schiene läuft. Aber eben dieses Relationale auch mit sich bringt, eben aber
+
+01:18:18.200 --> 01:18:22.840
+nicht über technische Metaphern, sondern über andere Formen von Metaphern. Und wir haben dann
+
+01:18:22.840 --> 01:18:31.120
+eben auch andere Vorstellungen davon, welche Rolle Gemeinschaft und Gemeinwohl in dieser ganzen
+
+01:18:31.120 --> 01:18:37.800
+Debatte erbringen können. Also bei Arendt wäre es ja dann, dass eine Pluralität von Perspektiven
+
+01:18:37.800 --> 01:18:42.760
+gewährleistet werden muss. Und die Frage ist, wie institutionalisiert man das und wie bringt man
+
+01:18:42.760 --> 01:18:49.120
+die miteinander ins Gespräch? Also ich glaube, dass die republikanische Tradition und die sowohl
+
+01:18:49.120 --> 01:18:55.120
+für die Komplexität, um diesen Begriff des Netzwerkdenks zu finden, für die Komplexität
+
+01:18:55.120 --> 01:19:03.000
+der Sachen und die Schwierigkeit von Entscheidungen und Handlungen und Prozessen ein sehr aufmerksames
+
+01:19:03.000 --> 01:19:14.560
+Auge hat als auch für das Aushandeln und die Rolle von aktivem Handeln. Und vielleicht ein
+
+01:19:14.560 --> 01:19:18.760
+besseres Auge hat zum Beispiel als das Netzwerkdenken. Also dass es hier zum Beispiel
+
+01:19:18.760 --> 01:19:24.240
+Möglichkeiten gäbe, neue Dinge zu entdecken und zu erfinden. Das wäre nur so ein Beispiel, wo
+
+01:19:24.240 --> 01:19:27.720
+ich finde, hier haben wir was im Archiv der Ideengeschichte, wo es Überschneidungen gibt,
+
+01:19:27.720 --> 01:19:31.840
+was damit aber eigentlich gar nichts zu tun hat. Das aber produktiv sein könnte, wenn
+
+01:19:31.840 --> 01:19:38.360
+mal irgendwer darüber nachdenken möchte. Wunderbar. Und was ja in jedem Fall ganz
+
+01:19:38.360 --> 01:19:45.080
+unglaublich wichtig ist für ein solches Erfinden, ist, dass man die eigentlich eingeschriebenen
+
+01:19:45.080 --> 01:19:51.760
+Prämissen in den omnipräsenten Vorschlägen, die uns da so präsentiert werden, dass diese
+
+01:19:51.760 --> 01:19:55.760
+eingeschriebenen Prämissen herausgearbeitet werden. Und da, finde ich, hast du in deinem Buch
+
+01:19:55.760 --> 01:20:01.200
+wirklich ganz großartige Arbeit geleistet. Ich stelle zum Schluss dann immer noch die Frage,
+
+01:20:01.200 --> 01:20:07.440
+wenn du dir Zukunft vorstellst, was stimmt dich freudig? Ja, das kann ich vielleicht auf zwei
+
+01:20:07.440 --> 01:20:13.760
+Ebenen beantworten. Ganz persönlich fällt mir das Moment recht einfach, freudig in die Zukunft zu
+
+01:20:13.760 --> 01:20:19.280
+gucken, weil ich ja vor nicht allzu langer Zeit Vater geworden bin und das ganz großartige
+
+01:20:19.280 --> 01:20:30.400
+Erfahrung finde, die im Prinzip sehr viel Glück in mein Leben gebracht hat. Aber das kann man,
+
+01:20:30.400 --> 01:20:38.320
+glaube ich, zu einem gewissen Grad auch auf die größere, abstraktere Ebene heben. Die
+
+01:20:38.320 --> 01:20:43.240
+schon angesprochene Hannah Arendt hat ja dafür den Begriff der Natalität geprägt, dass das
+
+01:20:43.240 --> 01:20:50.760
+eigentlich das ist, was uns als Menschen ausmacht, dass wir einen neuen Anfang setzen können und dass
+
+01:20:50.760 --> 01:20:59.400
+eben dieses Geborenwerden, deswegen ja Natalität, dafür sozusagen der Nukleus darstellt. Also das ist,
+
+01:20:59.400 --> 01:21:05.480
+was mich, glaube ich, auf abstrakterer Ebene durchaus freudig in die Zukunft blicken lässt,
+
+01:21:05.480 --> 01:21:10.360
+dass ich auch selbst in verschiedenen Kontexten die Erfahrung gemacht habe, dass wir
+
+01:21:10.440 --> 01:21:18.400
+gemeinschaftlich handeln können und dass wir neue Anfänge setzen können, dass das möglich ist,
+
+01:21:18.400 --> 01:21:27.160
+dass es möglich ist, politischen, gesellschaftliche Trends zu verändern, wenn wir das wollen und wenn
+
+01:21:27.160 --> 01:21:33.080
+wir uns entschließen, gemeinsam zu handeln. Das klingt immer sehr idealistisch, aber ich glaube,
+
+01:21:33.080 --> 01:21:39.760
+viele Menschen, die in kommunalpolitischen, zivilgesellschaftlichen Zusammenhängen
+
+01:21:39.760 --> 01:21:47.760
+tatsächlich mal längere Zeit aktiv waren, die haben genau dieses Gefühl erlebt. Das gibt es ja
+
+01:21:47.760 --> 01:21:52.200
+durchaus auch in sozialwissenschaftlichen Studien, kann das ja auch nachgewiesen werden, dass es
+
+01:21:52.200 --> 01:21:58.760
+genau dieses Gefühl, einen neuen Anfang setzen zu können, gibt. Mit allen Schwierigkeiten, die dann
+
+01:21:58.760 --> 01:22:04.120
+danach damit verbunden sind, Konflikte und dass man nicht dahin kommt, wo man eigentlich hin wollte,
+
+01:22:04.120 --> 01:22:10.240
+sondern Kompromisse eingehen muss. Das gehört dann alles dazu, aber dass es möglich ist,
+
+01:22:10.240 --> 01:22:19.120
+neu anzusetzen, das stimmt mich freudig. Wunderbar. Vincent, vielen Dank für das Gespräch. Vielen
+
+01:22:19.120 --> 01:22:31.520
+Dank dir. Das war Future Histories für heute. Vielen Dank fürs Zuhören, Shownotizen und vieles
+
+01:22:31.520 --> 01:22:38.080
+mehr findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+
+01:22:38.080 --> 01:22:43.320
+Future Histories oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf
+
+01:22:43.320 --> 01:22:48.280
+allen großen Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube,
+
+01:22:48.280 --> 01:22:55.520
+wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelne Episoden findet. Schreibt
+
+01:22:55.520 --> 01:23:01.160
+mir gerne unter jan at futurehistories.today. Ich freue mich immer sehr über interessante
+
+01:23:01.160 --> 01:23:06.760
+Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt ihr
+
+01:23:06.760 --> 01:23:13.920
+das auf patreon.com schrägstrich Future Histories oder auch via Spende auf unserer Homepage. Future
+
+01:23:13.920 --> 01:23:20.960
+Histories ist eine Produktion von MetaLapses zu finden auf meta-lapses.net. Bis zum nächsten Mal.
+
+01:23:20.960 --> 01:23:22.840
+Ich freue mich.
+

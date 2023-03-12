@@ -1,0 +1,3096 @@
+1
+00:00:00,000 --> 00:00:05,080
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+
+2
+00:00:05,080 --> 00:00:10,960
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute erneut Simon Schaub in Future
+
+3
+00:00:10,960 --> 00:00:16,640
+Histories begrüßen zu dürfen. Simon war bereits in Folge 18 zu Gast, damals zum Thema
+
+4
+00:00:16,640 --> 00:00:23,320
+Kybernetik und radikale Demokratie. Eine überaus interessante Folge, wie ich finde. Und nachdem ich
+
+5
+00:00:23,320 --> 00:00:29,240
+Simons Arbeit insgesamt spannend finde, ich erinnere da zum Beispiel an seinen gemeinsam mit Georg
+
+6
+00:00:29,240 --> 00:00:35,560
+Jochum verfasstes Buchkapitel zur Steuerungswende, war ich sofort interessiert, als kürzlich Simons
+
+7
+00:00:35,560 --> 00:00:41,120
+neues Buch erschienen ist. Es trägt den Titel Technopolitik von unten, Algorithmische
+
+8
+00:00:41,120 --> 00:00:48,440
+Arbeitssteuerung und kybernetische Proletarisierung. Simon ist übrigens auch Mitglied im Z, dem Zentrum
+
+9
+00:00:48,440 --> 00:00:53,240
+für Emanzipatorische Technikforschung, deren Arbeit ich euch an dieser Stelle hier insgesamt
+
+10
+00:00:53,600 --> 00:00:59,960
+sehr ans Herz legen möchte. In Folge 10, da durfte ich bereits ein weiteres Mitglied des Z begrüßen,
+
+11
+00:00:59,960 --> 00:01:07,320
+nämlich Philipp Frei, damals zum Thema Zukunft der Automatisierung. Und bevor es jetzt losgeht mit
+
+12
+00:01:07,320 --> 00:01:13,080
+dem Gespräch zu Simons neuem Buch, darf ich noch zwei Dinge tun. Ich darf Fabian, Carmen,
+
+13
+00:01:13,080 --> 00:01:19,480
+Christine und Elfriede für ihre Spende danken und Hendrik, Markus und Julian ganz herzlich als
+
+14
+00:01:19,480 --> 00:01:25,240
+Unterstützer bei Patreon begrüßen. Und ich darf einen überaus freudigen Aufruf starten,
+
+15
+00:01:25,240 --> 00:01:31,120
+denn es hat mich vor kurzem Dirk kontaktiert, ein Hörer, der das Projekt Future Histories gerne
+
+16
+00:01:31,120 --> 00:01:35,680
+jenseits der Geldform unterstützen würde und sich hierfür eines Projektes angenommen hat,
+
+17
+00:01:35,680 --> 00:01:40,800
+das für Future Histories ein wirklich substanzieller Zugewinn ist, nämlich die
+
+18
+00:01:40,800 --> 00:01:47,160
+Transkription der Episoden. Das macht Future Histories nicht nur durchsuchbar und zitierbar,
+
+19
+00:01:47,160 --> 00:01:52,840
+sondern auch in vollem Umfang zugänglich für gehörlose Menschen. Das ist ein absolut
+
+20
+00:01:52,840 --> 00:01:57,600
+fantastisches Projekt, das Dirk da angestoßen hat. Und weil er das natürlich nicht alleine
+
+21
+00:01:57,600 --> 00:02:02,760
+leisten kann, möchte ich euch hiermit in größtmöglicher Dankbarkeit bitten, euch diesem
+
+22
+00:02:02,760 --> 00:02:08,880
+Vorhaben unterstützend anzuschließen. Die finanzielle Unterstützung via Patreon oder Spende,
+
+23
+00:02:08,880 --> 00:02:15,160
+die ist eine ganz wichtige Hilfe, die Future Histories mitträgt. Aber nicht jede und jeder
+
+24
+00:02:15,160 --> 00:02:20,840
+hat die Möglichkeit, dies zu tun. Wenn ihr also Future Histories jenseits des Geldes unterstützen
+
+25
+00:02:20,840 --> 00:02:28,240
+wollt, dann ist eine Mitarbeit an der Transkription ein ganz großartiger Weg, dies zu tun. Ihr findet
+
+26
+00:02:28,240 --> 00:02:34,000
+in den Show Notes ein kurzes FAQ, das eine Erstorientierung dazu bietet, wie ihr einen
+
+27
+00:02:34,000 --> 00:02:39,720
+Beitrag leisten könnt zu dieser Transkriptionsarbeit. Ihr findet in den Show Notes ebenfalls eine
+
+28
+00:02:39,720 --> 00:02:47,320
+E-Mail-Adresse, unter der ihr euch melden könnt, und die lautet transcription.futurehistories.today. Und
+
+29
+00:02:47,320 --> 00:02:54,880
+jetzt wünsche ich euch viel Freude mit der heutigen Episode mit Simon Schaub zu Technopolitik von unten.
+
+30
+00:02:54,880 --> 00:03:05,640
+Herzlich willkommen, Simon. Vielen Dank, Jan. Ich freue mich wirklich sehr, wieder hier sein
+
+31
+00:03:05,640 --> 00:03:11,360
+zu dürfen. Das tue ich auch. Wirklich schön, dass du wieder da bist. Vielleicht breiten wir
+
+32
+00:03:11,360 --> 00:03:16,160
+für die Hörerinnen und Hörer einmal kurz die Szenerie etwas aus. Du hast da nämlich für die
+
+33
+00:03:16,160 --> 00:03:21,000
+Untersuchungen in deinem Buch nicht nur ein interessantes Thema gewählt, die algorithmische
+
+34
+00:03:21,000 --> 00:03:25,520
+Arbeitssteuerung, sondern du hattest auch einen sehr spannenden Zugang, finde ich. Du hast nämlich
+
+35
+00:03:25,520 --> 00:03:31,800
+im Rahmen deiner teilnehmenden Beobachtung selbst in Betrieben gearbeitet, die stark auf algorithmische
+
+36
+00:03:31,880 --> 00:03:36,600
+Arbeitssteuerung setzen. Vielleicht magst du uns zunächst mal einen Überblick verschaffen. Was hast
+
+37
+00:03:36,600 --> 00:03:42,040
+du da untersucht und wie hast du es untersucht? Ja, gerne. Also algorithmische Arbeitssteuerung
+
+38
+00:03:42,040 --> 00:03:49,280
+kann man grob fassen als die Koordination und Evaluation von Arbeitshandeln. Und das ist auf
+
+39
+00:03:49,280 --> 00:03:54,040
+ganz vielen unterschiedlichen Ebenen angesiedelt. Also das kann wirklich Mikrosteuerung von einzelnen
+
+40
+00:03:54,040 --> 00:03:59,440
+Arbeitsschritten mit sogenannten Variables sein, die dann Beschäftigte am Körper tragen. Es können
+
+41
+00:03:59,440 --> 00:04:04,840
+aber auch ganze unternehmensumfassende Systeme sein. Das sind dann sogenannte Enterprise Resource
+
+42
+00:04:04,840 --> 00:04:08,840
+Planning Systems. Und da habe ich aber eben immer nur die Teile untersucht, die dann auch wirklich
+
+43
+00:04:08,840 --> 00:04:15,240
+das Arbeiten betreffen, weil es gibt natürlich viele andere Ressourcen in Unternehmen auch. Und
+
+44
+00:04:15,240 --> 00:04:19,960
+ich habe eben die algorithmische Arbeitssteuerung untersucht und das in Industrie und Logistik.
+
+45
+00:04:19,960 --> 00:04:26,680
+Spezifisch auch noch in der Lieferlogistik in plattformvermittelten Lieferunternehmen. Ich
+
+46
+00:04:26,680 --> 00:04:31,960
+habe da am Anfang angefangen, Interviews zu führen mit Managern, Gewerkschafterinnen und
+
+47
+00:04:31,960 --> 00:04:38,000
+Beschäftigten, die in Unternehmen arbeiten, die solche Technologien einsetzen oder gerade
+
+48
+00:04:38,000 --> 00:04:44,560
+implementieren. Und da habe ich ganz viele Visionen gehört, was die alles zuvor haben und wie das dann
+
+49
+00:04:44,560 --> 00:04:51,240
+alles so aussehen wird. Und mir schien es aber immer mehr fragwürdig, ob das dann wirklich alles
+
+50
+00:04:51,240 --> 00:04:58,040
+auch so sich abspielt, wie das da erzählt wird. Zumal ich auch mit der Empirie angefangen habe,
+
+51
+00:04:58,040 --> 00:05:03,080
+als gerade dieser Industrie 4.0 Hype noch irgendwie so am brodeln war. Und da wurden wirklich die
+
+52
+00:05:03,080 --> 00:05:08,160
+utopischsten Dinge ausgebreitet, die dann irgendwie alle plötzlich möglich sein sollten mit der
+
+53
+00:05:08,160 --> 00:05:12,880
+algorithmischen Arbeitssteuerung oder der Digitalisierung im Allgemeinen. Und ich habe
+
+54
+00:05:12,880 --> 00:05:19,000
+dann beschlossen, dass ich das gerne auch mal wirklich aus der Innenperspektive erforschen
+
+55
+00:05:19,000 --> 00:05:25,680
+möchte und habe dann teilnehmende Beobachtungen gemacht in zwei Unternehmen. In einem
+
+56
+00:05:25,680 --> 00:05:31,720
+Elektroindustrieunternehmen habe ich an der Montagelinie gearbeitet und bei einem Lieferdienst
+
+57
+00:05:31,720 --> 00:05:36,800
+für Essen habe ich als Fahrradkurier gearbeitet. Insgesamt habe ich das sechs Monate lang gemacht.
+
+58
+00:05:36,800 --> 00:05:45,640
+Und das hat sich wirklich als sehr fruchtbarer Zugang erwiesen, weil gerade in der auch kritischen
+
+59
+00:05:45,880 --> 00:05:51,760
+Digitalisierungsforschung wird sich eigentlich fast ausschließlich auf Managementstrategien
+
+60
+00:05:51,760 --> 00:05:57,080
+bezogen, also auf irgendwelche Vorhaben von Managern, die oft auch noch gar nicht realisiert
+
+61
+00:05:57,080 --> 00:06:03,600
+sind, aber in irgendwelchen Hochglanzbroschüren und offiziellen Dokumenten sehr einfach natürlich
+
+62
+00:06:03,600 --> 00:06:06,960
+auf die Forschung zugänglich sind oder oft werden auch einfach Interviews geführt, wie ich es ja
+
+63
+00:06:06,960 --> 00:06:12,760
+auch gemacht habe. Und das führt aber zu einer strukturellen Überbewertung von diesen Managementstrategien
+
+64
+00:06:13,520 --> 00:06:20,680
+meines Erachtens nach. Also weil da immer eben wirklich die weitreichendsten Visionen gesponnen
+
+65
+00:06:20,680 --> 00:06:27,400
+werden, was dann alles passiert, irgendwie wie man dann prädiktiv irgendwelche Pakete zum Kunden
+
+66
+00:06:27,400 --> 00:06:31,400
+schickt, bevor der überhaupt weiß, dass er sie will und so weiter und so fort, dass quasi keine
+
+67
+00:06:32,400 --> 00:06:39,160
+Kontrolllücke mehr besteht, dass das sogenannte Prinzipal-Agent-Problem quasi für immer gelöst
+
+68
+00:06:39,160 --> 00:06:45,560
+ist durch die Digitalisierung und so weiter und so fort. Und all das ist halt einfach de facto nicht
+
+69
+00:06:45,560 --> 00:06:49,960
+der Fall, muss man ganz nüchtern sagen, weil Technologie, wir kennen das aus unserem Alltag
+
+70
+00:06:49,960 --> 00:06:55,120
+eigentlich ja alle, eigentlich nie so funktioniert, wie wir es gerne hätten. Das ist das eine und das
+
+71
+00:06:55,120 --> 00:07:01,800
+andere ist aber auch, dass es sich hierbei um ein Feld von Technologieimplementierung handelt, was
+
+72
+00:07:01,800 --> 00:07:06,360
+inherent sehr stark konfliktbeladen ist, weil es sich, und da werden wir bestimmt gleich noch mehr
+
+73
+00:07:06,360 --> 00:07:11,600
+drüber sprechen, oft um einen Technologie-Einsatz handelt, der zum Nachteil von Beschäftigten ist.
+
+74
+00:07:11,600 --> 00:07:18,000
+Das ist ja auch in der Forschung quasi mittlerweile schon einigermaßen Konsens. Und da muss man
+
+75
+00:07:18,000 --> 00:07:21,440
+natürlich davon ausgehen, dass auch die Beschäftigten sich irgendwie strategisch
+
+76
+00:07:21,440 --> 00:07:27,080
+dazu verhalten, was da passiert und nicht einfach nur passive Opfer sind. Und auch schon allein
+
+77
+00:07:27,080 --> 00:07:31,440
+deswegen quasi ist es unwahrscheinlich, dass sich das einfach alles so reibungslos vollstreckt,
+
+78
+00:07:31,440 --> 00:07:38,160
+wie das irgendwelche Manager sich vorstellen. Das sind alles Gründe, warum man die Digitalisierung
+
+79
+00:07:38,160 --> 00:07:43,960
+und insbesondere eben so umstrittene Technologien eben auch wirklich ethnographisch untersuchen,
+
+80
+00:07:43,960 --> 00:07:48,960
+die Deutschen. Und das habe ich gemacht. Im Fokus deiner Untersuchungen stehen dabei zwei
+
+81
+00:07:48,960 --> 00:07:53,920
+Prozesse. Den einen, den nennst du kybernetische Proletarisierung und der andere, der bildet den
+
+82
+00:07:53,920 --> 00:07:59,000
+Titel deines Buches, nämlich Technopolitik von unten. Wir werden beide ganz sicher besprechen
+
+83
+00:07:59,080 --> 00:08:04,600
+innerhalb unseres heutigen Interviews. Aber lass uns mit dem letzteren anfangen. Was verstehst du
+
+84
+00:08:04,600 --> 00:08:11,440
+unter Technopolitik von unten? Also vielleicht erst mal Technopolitik und dann von unten.
+
+85
+00:08:11,440 --> 00:08:16,480
+Technopolitik hört sich vielleicht erst mal komisch an. Ja, denkt man vielleicht, warum
+
+86
+00:08:16,480 --> 00:08:21,280
+sagt der nicht einfach Technikpolitik? Das ist ja der übliche Begriff. Das ist aber was,
+
+87
+00:08:21,280 --> 00:08:27,360
+wovon ich mich wirklich abgrenzen möchte. Also Technikpolitik ist, wenn man das nachschlägt,
+
+88
+00:08:28,200 --> 00:08:33,080
+einfach ein Politikressort staatlicher Politik. Das ist in den meisten Fällen in
+
+89
+00:08:33,080 --> 00:08:38,320
+einem Wirtschaftsministerium angelegt und das ist quasi der Politikbereich, der um die Regulierung
+
+90
+00:08:38,320 --> 00:08:44,840
+von Technologie geht. Und das ist ein Teil von Technopolitik, aber Technopolitik erschöpft sich
+
+91
+00:08:44,840 --> 00:08:52,280
+darin nicht. Sondern was der Begriff der Technopolitik unterstreichen soll, ist, dass Technologie selbst
+
+92
+00:08:52,280 --> 00:08:58,400
+quasi inhärent politisch ist. Es geht dann quasi um eine Politik im Modus der Technologie. Also
+
+93
+00:08:58,400 --> 00:09:06,880
+sozusagen sowohl das, was durch die Technologie getan wird, also quasi das Organisieren von Arbeit
+
+94
+00:09:06,880 --> 00:09:11,840
+in meinem Fall, ist ja ein hochpolitischer Prozess, als auch die Aushandlungen, die dazu
+
+95
+00:09:11,840 --> 00:09:16,520
+führen, dass das auf diese und nicht auf irgendeine andere Weise dann quasi implementiert wird,
+
+96
+00:09:16,520 --> 00:09:21,960
+ist auch hochpolitisch. Und zwar auf ganz vielen verschiedenen Ebenen haben wir es damit Aushandlungen
+
+97
+00:09:21,960 --> 00:09:30,280
+zu tun. Und was ich wichtig finde, ist, dass das wirklich gerade bei Algorithmen und also bei
+
+98
+00:09:30,280 --> 00:09:35,440
+digitalen Technologien nochmal dezidiert ausgeflackt wird als eine politische Arena.
+
+99
+00:09:35,440 --> 00:09:41,800
+Bei Algorithmen ja Organisationstechnologien sind, die legen bestimmte Regeln fest, die dann
+
+100
+00:09:41,800 --> 00:09:47,000
+automatisch ausgeführt werden und so weiter. Und gerade wenn es dabei darum geht, Arbeit auf eine
+
+101
+00:09:47,000 --> 00:09:52,480
+bestimmte Weise zu organisieren, ist es eben wichtig zu sehen, dass das Regeln sind, die sind
+
+102
+00:09:52,480 --> 00:09:56,360
+vergleichbar mit Managementanweisungen oder wenn man es irgendwie auf eine staatliche Ebene
+
+103
+00:09:56,360 --> 00:10:00,600
+übertragen will, vielleicht sogar mit Gesetzen. Und bei den beiden letztgenannten haben wir überhaupt
+
+104
+00:10:00,600 --> 00:10:04,440
+gar kein Problem damit, das als politisch zu sehen. Es ist völlig klar, da geht es um Widerstreiten,
+
+105
+00:10:04,440 --> 00:10:10,160
+Interessen, da wird irgendwas ausgehandelt und am Ende gewinnen meistens Leute und andere verlieren
+
+106
+00:10:10,160 --> 00:10:15,920
+irgendwie oder setzen sich Kompromisse durch. Und bei Technologien, insbesondere bei Algorithmen,
+
+107
+00:10:16,000 --> 00:10:21,320
+ist das oft nicht der Fall. Da wird das so quasi als irgendwie neutrale, fast schon Naturgewalt
+
+108
+00:10:21,320 --> 00:10:27,000
+oft verstanden, die sich einfach aufgrund von einer technischen Machbarkeitslogik oder so
+
+109
+00:10:27,000 --> 00:10:32,600
+vollstreckt. Und das ist was, was ich kritisieren möchte mit dem Begriff. Und da scheint mir der
+
+110
+00:10:32,600 --> 00:10:39,680
+Begriff der Technopolitik eben ein sinnvoller Begriff. Und ich habe vorher schon gesagt, dass
+
+111
+00:10:39,680 --> 00:10:45,720
+der sich auf verschiedene Ebenen bezieht. Das ist auch nochmal recht wichtig, weil sich das bei mir
+
+112
+00:10:45,720 --> 00:10:52,360
+dann eben arbeitsbezogen nochmal unterscheidet, vielleicht auch von der Aushandlung anderer
+
+113
+00:10:52,360 --> 00:10:57,960
+Technologien, die vielleicht eher in Privaten eingesetzt werden und so weiter. Und ich habe da
+
+114
+00:10:57,960 --> 00:11:05,400
+in Anlehnung an die Theorie der Produktionspolitik, die von Michael Boravoy ausgearbeitet wurde,
+
+115
+00:11:05,400 --> 00:11:14,360
+einen Analyserahmen der Technopolitik entwickelt, der eben sich auf drei sogenannte Arenen bezieht,
+
+116
+00:11:14,360 --> 00:11:19,320
+in denen verschiedene Aushandlungslogiken sich vollziehen und verschiedene Akteure
+
+117
+00:11:19,320 --> 00:11:25,800
+verschiedene Dinge aushandeln. Da ist zunächst mal die Regulationsarena. Das wäre quasi das,
+
+118
+00:11:25,800 --> 00:11:30,200
+was noch am nächsten an der sogenannten Technikpolitik dran wäre, nämlich quasi
+
+119
+00:11:30,200 --> 00:11:38,880
+die Regulierung von Technikentwicklung und Technikeinsatz. Und das sind meistens staatliche
+
+120
+00:11:38,880 --> 00:11:44,800
+Akteure, aber auch Unternehmensverbände und Werkschaften, die dort verhandeln. In meinem
+
+121
+00:11:44,800 --> 00:11:52,720
+Fall war das jetzt in Bezug auf die algorithmische Arbeitssteuerung ganz stark verbunden in Deutschland
+
+122
+00:11:52,720 --> 00:11:59,160
+mit dieser sogenannten Industrie 4.0-Initiative. Das ist, um es nochmal kurz in Erinnerung zu rufen,
+
+123
+00:11:59,160 --> 00:12:06,160
+ein staatliches Förderprogramm gewesen in Deutschland, was die Digitalisierung der
+
+124
+00:12:06,160 --> 00:12:11,440
+Industrie vorantreiben sollte. Und da wurde quasi viel Geld reingesteckt, aber es war vor allem
+
+125
+00:12:11,440 --> 00:12:16,960
+auch eine Propaganda-Initiative, die das einfach propagieren sollte. Und der strategische Clou
+
+126
+00:12:16,960 --> 00:12:23,400
+daran war eben, dass man versucht hat, das konsensual durchzusetzen, indem man eben von
+
+127
+00:12:23,400 --> 00:12:29,520
+Anfang an auch die Gewerkschaften an diesem Programm beteiligt hat. Das heißt, diese Industrie
+
+128
+00:12:29,520 --> 00:12:35,320
+4.0-Programmatik, die auch dann institutionalisiert wurde in der sogenannten Plattform Industrie 4.0,
+
+129
+00:12:35,320 --> 00:12:42,840
+das mittlerweile eine staatliche Institution ist, dass dieses ganze Konglomerat quasi eine
+
+130
+00:12:42,840 --> 00:12:49,720
+korporatistische Form der industriellen Beziehung ist. Und das ist ganz interessant, weil es quasi
+
+131
+00:12:49,720 --> 00:12:55,040
+allgemein auch in der Forschungsliteratur zu Arbeitsbeziehungen und so weiter immer wieder
+
+132
+00:12:55,040 --> 00:13:00,440
+gerade angemerkt wird, dass der Korporatismus einen Niedergang begriffen ist, er hat Formen
+
+133
+00:13:00,440 --> 00:13:07,240
+der Sozialpartnerschaft weichen und stattdessen unilaterale Alleingänge der Arbeitgeberseite
+
+134
+00:13:07,240 --> 00:13:14,000
+folgen, Precarisierungsinitiativen und so weiter. Und hier haben wir es aber eben mit einer themenspezifischen
+
+135
+00:13:14,000 --> 00:13:20,240
+Ausnahme zu tun, wo wirklich dieser Konsens sehr stark betont wird und die Gewerkschaften eben quasi
+
+136
+00:13:20,240 --> 00:13:25,600
+von Anfang an damit einbezogen werden. Das heißt, die haben das im Industriebereich selbst sehr stark
+
+137
+00:13:25,600 --> 00:13:32,080
+auch mit propagiert und haben deswegen aber auch eben in begrenztem Maße Mitbestimmungsrechte,
+
+138
+00:13:32,080 --> 00:13:39,960
+was da dann praktisch passiert. Ganz anders sieht es in dem zweiten von mir untersuchten Bereich aus,
+
+139
+00:13:39,960 --> 00:13:45,320
+in der Lieferlogistik. Da ist quasi von Korporatismus oder überhaupt Sozialpartnerschaft
+
+140
+00:13:45,320 --> 00:13:51,240
+quasi keine Spur, weil wir es da zu tun haben mit sehr gewerkschaftsfeindlichen Unternehmen. Ja,
+
+141
+00:13:51,480 --> 00:14:00,440
+man kennt das von den Online-Versandhandelsgrößen oder von diesen Essenslieferdiensten,
+
+142
+00:14:00,440 --> 00:14:05,360
+die ja auch oft in den Medien sind, dafür, dass dort die Beschäftigten schlecht behandelt werden
+
+143
+00:14:05,360 --> 00:14:11,560
+und streiken und so weiter. Und da gibt es wirklich auch öffentliche Ansagen, dass man mit
+
+144
+00:14:11,560 --> 00:14:15,240
+Gewerkschaften nichts zu tun haben will, dass man Betriebsräte ablehnt. Und das ist quasi die
+
+145
+00:14:15,240 --> 00:14:20,800
+Haltung. Deswegen entwickelt sich da von Gewerkschaftsseite eine antagonistischere
+
+146
+00:14:20,800 --> 00:14:28,920
+Technopolitik, die auf eine partizipativere Mobilisierung abzielt, aber auch von der
+
+147
+00:14:28,920 --> 00:14:33,720
+Strategie her konfrontativer ist und eben gar nicht erst quasi da ansetzt, gemeinsam mit den
+
+148
+00:14:33,720 --> 00:14:39,920
+Unternehmen irgendwelche Maßnahmen sich auszudenken, sondern eben wirklich die
+
+149
+00:14:39,920 --> 00:14:47,400
+Beschäftigteninteressen auch in Gegnerschaft zum Management durchzusetzen. Und das ist in ganz
+
+150
+00:14:47,400 --> 00:14:55,040
+Europa hauptsächlich von Basis-Gewerkschaften vertreten gewesen, lange Zeit. Das ist ganz
+
+151
+00:14:55,040 --> 00:15:00,200
+interessant. Also bei all diesen Lieferdiensten und so weiter auch im Online-Versandhandel haben
+
+152
+00:15:00,200 --> 00:15:04,920
+wir wirklich eine starke Dominanz von sonst wirklich sehr marginalen Basis-Gewerkschaften,
+
+153
+00:15:04,920 --> 00:15:12,520
+die oft eine radikalere Gewerkschaftspolitik vorantreiben und auch sonst eine andere Strategie
+
+154
+00:15:12,520 --> 00:15:18,440
+verfolgen, stärker auf Medienkampagnen setzen und so weiter. Und dann gibt es einen Entwicklungsschritt,
+
+155
+00:15:18,440 --> 00:15:23,760
+wo viele von diesen Basis-Gewerkschaftinitiativen auch Erfolg hatten, also auch viel eben in den
+
+156
+00:15:23,760 --> 00:15:29,160
+Medien waren und dadurch stark wahrgenommen wurden. Und infolgedessen haben sich auch einige größere
+
+157
+00:15:29,160 --> 00:15:35,400
+Gewerkschaften diesen Feld angenommen, was sie vorher quasi als unorganisierbar verstanden haben.
+
+158
+00:15:35,400 --> 00:15:43,480
+Und quasi in dieser Arena sozusagen von Staat, Arbeitgeber, Gewerkschaften und so weiter vollzieht
+
+159
+00:15:43,480 --> 00:15:50,680
+sich eben diese Regulation von Technologie. Also da wird ganz viel ausgehandelt, was quasi überhaupt
+
+160
+00:15:50,680 --> 00:15:57,080
+erlaubt ist, was nicht. Ein ganz wichtiger Punkt ist der Datenschutz. Das spielt dann auch für die
+
+161
+00:15:57,080 --> 00:16:01,960
+weitere Implementierung von algorithmischer Arbeitssteuerung eine große Rolle, dass es eben
+
+162
+00:16:01,960 --> 00:16:07,240
+mit der europäischen Datenschutzgrundverordnung, aber auch mit anderen spezifischeren Regulierungen
+
+163
+00:16:07,240 --> 00:16:15,360
+sehr starke, sehr enge Grenzen gibt gegenüber dem, was man eigentlich klassischerweise so in der
+
+164
+00:16:15,360 --> 00:16:20,040
+kritischen Digitalisierungsforschung verfolgt, nämlich der Überwachung. Also es wird ja dann oft
+
+165
+00:16:20,040 --> 00:16:26,080
+vom Überwachungskapitalismus gesprochen oder die Big Brother Szenarien und so weiter quasi
+
+166
+00:16:26,560 --> 00:16:32,720
+beschrieben, in denen einzelne Beschäftigte überwacht werden, dann werden die profiliert und dann
+
+167
+00:16:32,720 --> 00:16:37,480
+gibt es Repressionen, wenn die irgendwas Unerwünschtes machen und so weiter. Und das ist aber zumindest
+
+168
+00:16:37,480 --> 00:16:43,160
+in Europa aufgrund dieser gesetzlichen Vorgaben nur sehr schwer möglich, weil dem einfach sehr
+
+169
+00:16:43,160 --> 00:16:47,840
+enge Grenzen gesetzt sind. Und das ist dann wiederum wichtig auch für die Art der Technologien, die
+
+170
+00:16:47,840 --> 00:16:53,560
+dann implementiert werden. Und da kommen wir dann zur nächsten Arena, nämlich der Implementierungsarena.
+
+171
+00:16:54,040 --> 00:17:00,800
+Das ist quasi der Bereich der Technopolitik, der sich erstmal in den Betrieben abspielt, wo jetzt
+
+172
+00:17:00,800 --> 00:17:06,760
+im deutschen Produktionsmodell typischerweise Management und Betriebsrat miteinander verhandeln.
+
+173
+00:17:06,760 --> 00:17:12,120
+Also ich sage typischerweise nicht, dass das quasi der häufigste Fall ist. Wie wir wissen,
+
+174
+00:17:12,120 --> 00:17:16,600
+geht auch die Betriebsratsabdeckung immer weiter zurück. Aber das ist quasi das, wie es sich
+
+175
+00:17:16,600 --> 00:17:22,640
+sozusagen vorgestellt wird. Und in den Unternehmen, die ich untersucht habe, war das auch zumindest
+
+176
+00:17:22,720 --> 00:17:27,440
+teilweise der Fall, dass quasi diese beiden Parteien sich gegenüberstehen, Management und
+
+177
+00:17:27,440 --> 00:17:32,280
+Betriebsrat. Und in Deutschland haben die Betriebsräte auch relativ weitgehende
+
+178
+00:17:32,280 --> 00:17:38,120
+Mitbestimmungsrechte, wenn es um die Implementierung von Technologien geht, die prinzipiell die
+
+179
+00:17:38,120 --> 00:17:44,520
+Arbeitsorganisation verändern. Und das tun Digitaltechnologien quasi fast immer. Deswegen haben
+
+180
+00:17:44,520 --> 00:17:51,400
+Betriebsräte da auch einen recht großen Hebel. Und ich nenne jetzt einfach mal ein Beispiel über
+
+181
+00:17:51,480 --> 00:17:56,120
+so eine Aushandlung. Wir können dann nachher nochmal detaillierter diskutieren, aber jetzt
+
+182
+00:17:56,120 --> 00:18:01,960
+einfach mal um diese Aushandlungslogik begreiflich zu machen, war bei einem Industrieunternehmen,
+
+183
+00:18:01,960 --> 00:18:07,680
+das ich untersucht habe, quasi die Frage, was man für Technologien implementiert, um individuelle
+
+184
+00:18:07,680 --> 00:18:14,280
+Arbeitsschritte und individuelle WerkerInnen effizienter zu steuern. Und da ging es dann
+
+185
+00:18:14,280 --> 00:18:18,080
+eben vor dem Hintergrund, dass quasi diese klassische Überwachung nicht möglich war,
+
+186
+00:18:18,240 --> 00:18:25,480
+ging es dann darum, dort Systeme zu implementieren, die quasi fast schon geschlossene Datenkreisläufe
+
+187
+00:18:25,480 --> 00:18:31,760
+darstellen, also wo quasi aus dem Arbeitsprozess Daten erhoben werden, die dann aber nicht an die
+
+188
+00:18:31,760 --> 00:18:36,760
+Vorgesetzten geleitet werden, sondern direkt zurückgeleitet werden an die Werker in Form von
+
+189
+00:18:36,760 --> 00:18:42,800
+unmittelbaren Feedbacks, aufgrund derer dann der Arbeitsprozess optimiert werden soll, meistens
+
+190
+00:18:42,800 --> 00:18:50,160
+beschleunigt werden soll. Ein Beispiel war da ein sogenannter Smarter Handschuh, der quasi in
+
+191
+00:18:50,160 --> 00:18:56,400
+allen Fingergliedern so Sensorik hat und dann vibriert, wenn unerwünschte Bewegungen erfolgen.
+
+192
+00:18:56,400 --> 00:19:04,080
+Das ist was, was der Betriebsrat dann als Fortschritt gegenüber der klassischen Überwachung
+
+193
+00:19:04,080 --> 00:19:11,640
+begriffen hat, weil da eben quasi nur diese sogenannte Selbstorganisation der Arbeitsoptimierung
+
+194
+00:19:11,640 --> 00:19:16,600
+dann vorhanden war, also dass quasi die Beschäftigten selbst dafür verantwortlich sind,
+
+195
+00:19:16,600 --> 00:19:23,120
+die Feedbacks zu befolgen und halt ihre Arbeit effizienter zu gestalten. Das wäre quasi das,
+
+196
+00:19:23,120 --> 00:19:26,680
+was dann in dieser Implementierungsarena stattfindet und dann haben wir es eben noch
+
+197
+00:19:26,680 --> 00:19:30,400
+mit dem, was ich auch am Anfang noch betont habe zu tun, nämlich der tatsächlichen Verwendung
+
+198
+00:19:30,400 --> 00:19:34,200
+von Technologie, die sich oft dann nochmal unterscheidet von dem, was sich Management
+
+199
+00:19:34,200 --> 00:19:39,280
+oder Betriebsrat so vorstellen. Deswegen ist die dritte Arena die Arena der Aneignung der
+
+200
+00:19:39,280 --> 00:19:45,880
+Technologie. Da geht es sowohl um kulturelle Bezüge auf die Technologie, die sich quasi in
+
+201
+00:19:45,880 --> 00:19:50,560
+den Organisationen herausbilden, aber auch um die materielle Nutzung und den Umgang mit
+
+202
+00:19:50,560 --> 00:19:55,480
+diesen Technologien. Und da gibt es eben tatsächlich überraschend viel Widerstand
+
+203
+00:19:55,480 --> 00:20:00,520
+gegenüber solchen Kontrolltechnologien, wie auch diesen beschriebenen sogenannten smarten
+
+204
+00:20:00,520 --> 00:20:04,840
+Handschuh. Das hat mich tatsächlich in der Forschung schon stark überrascht, also das
+
+205
+00:20:04,840 --> 00:20:09,840
+auch in den Industriebetrieben, die ich untersucht habe, wo man das jetzt vielleicht eher nicht
+
+206
+00:20:09,840 --> 00:20:18,040
+erwarten würde, sich relativ viel ungehorsam dann geregt hat. Und das hat angefangen quasi
+
+207
+00:20:18,040 --> 00:20:24,440
+mit einer kulturellen Ablehnung dieser Technologien. Also die wurden quasi regelmäßig verspottet und
+
+208
+00:20:24,440 --> 00:20:31,680
+quasi als ineffizient oder despotisch dargestellt. Aber es ging auch um eine tatsächliche Umnutzung,
+
+209
+00:20:31,680 --> 00:20:36,400
+also dass die Technologien quasi entgegen der Implementierungsintention eingesetzt wurden. Oder
+
+210
+00:20:36,400 --> 00:20:41,280
+es gab auch Sabotageakte, wo dann Technologien tatsächlich einfach im Arbeitsprozess immer wieder
+
+211
+00:20:41,280 --> 00:20:47,600
+kaputt gegangen sind. Und das war zum Beispiel auch bei der Implementierung dieses Handschuhs der
+
+212
+00:20:47,600 --> 00:20:52,600
+Fall. Wir erinnern uns, der Betriebsrat hat das durchgebunden, auch durchaus mit arbeitspolitischen
+
+213
+00:20:52,600 --> 00:20:57,480
+Überlegungen im Hintergrund. Aber unter den Beschäftigten selbst hat das quasi regelrechte
+
+214
+00:20:57,480 --> 00:21:02,800
+Empörung hervorgerufen, weil die sich gefühlt haben, wie Roboter, die quasi einfach jetzt durch
+
+215
+00:21:02,800 --> 00:21:08,920
+haptische Feedbacks mechanisch irgendwie eingestellt werden sollen, irgendwelche Dinge zu tun. Und das
+
+216
+00:21:08,920 --> 00:21:14,840
+läuft quasi dann nicht mal mehr über eine kognitive Auseinandersetzung, sondern quasi wie so, die haben
+
+217
+00:21:14,840 --> 00:21:18,400
+das immer wie so als Elektroschocks quasi paraphrasiert, wo man dann quasi körperlich
+
+218
+00:21:18,400 --> 00:21:24,160
+schon so konditioniert wird wie so ein Pavlovscher Hund. Hat für viel Empörung gesorgt und für
+
+219
+00:21:24,160 --> 00:21:28,160
+verschiedenste Formen von Widerstand, die dann tatsächlich dazu geführt haben, dass dieses ganze
+
+220
+00:21:28,160 --> 00:21:34,600
+Implementierungsprojekt abgebrochen werden musste und man sich eben davon verabschiedet hat. Und das
+
+221
+00:21:34,600 --> 00:21:39,320
+ist auch schon gleichzeitig ein Beispiel dafür, dass eben diese verschiedenen Arenen nicht einfach
+
+222
+00:21:39,320 --> 00:21:44,760
+hermetisch abgeriegelt sind. Also da herrschen verschiedene Aushandlungslogiken, das ja, aber es
+
+223
+00:21:44,760 --> 00:21:50,680
+bestehen halt Wechselbeziehungen zwischen diesen Arenen. Also hier haben wir eben den Fall, dass
+
+224
+00:21:50,680 --> 00:21:57,560
+eben das Resultat der Aushandlung in der Aneignungsarena dann zurückwirkt in die
+
+225
+00:21:57,560 --> 00:22:02,880
+Implementierungsarena und dann quasi zu einem Abbruch dieses Implementierungsvorhabens führt
+
+226
+00:22:02,880 --> 00:22:09,280
+und zur Adaption von anderen Implementierungsvorhaben. Ja, das ist quasi die Illustration dieses
+
+227
+00:22:09,280 --> 00:22:14,720
+Analyserahmens, den ich da entwickelt habe. Ja, sehr schön. Den finde ich wirklich durchaus sehr
+
+228
+00:22:14,720 --> 00:22:19,240
+hilfreich, muss ich sagen. Denn man sieht, finde ich auch, schon eigentlich die andere Richtung
+
+229
+00:22:19,240 --> 00:22:23,920
+angelegt, weil ja zum Beispiel die von dir angesprochene Datenschutz-Grundverordnung und
+
+230
+00:22:23,920 --> 00:22:31,000
+die Tatsache, dass man auf Basis dessen eben nicht diese massive Surveillance-Apparatur anlegen kann,
+
+231
+00:22:31,000 --> 00:22:36,920
+wie sie quasi fantasiert wird, dass das dann eigentlich dazu führt, dass man eben zu
+
+232
+00:22:36,920 --> 00:22:43,960
+kybernetischen Formen der Selbstdisziplinierung eigentlich dann zugreift. Ja, also dass das
+
+233
+00:22:43,960 --> 00:22:48,560
+eigentlich dann ja diese Arena der Regulierung wiederum dann ja auch eine andere Form der
+
+234
+00:22:48,560 --> 00:22:54,760
+Implementierung nach sich zieht, was wiederum dann andere Formen der Aneignung, der subversiven
+
+235
+00:22:54,760 --> 00:23:00,120
+Aneignung oder des Ablehnens und so weiter eigentlich nach sich zieht. Also das ist alles
+
+236
+00:23:00,120 --> 00:23:05,400
+sehr schön nachzuverfolgen und du hast das jetzt eigentlich an mehreren Stellen, finde ich, schon
+
+237
+00:23:05,400 --> 00:23:11,320
+durchscheinen lassen. Ein weiterer für dich sehr, sehr zentraler und wichtiger Punkt, den du in
+
+238
+00:23:11,320 --> 00:23:17,960
+deinem Buch untersuchst, ist das, was du kybernetische Proletarisierung nennst. Das kybernetische hast du
+
+239
+00:23:17,960 --> 00:23:23,120
+jetzt schon ein paar Mal eben gesagt durchklingen lassen, aber was verstehst du unter kybernetischer
+
+240
+00:23:23,120 --> 00:23:31,720
+Proletarisierung? Da muss ich ein bisschen ausholen, weil sich das abgrenzt von anderen Prognosen zur
+
+241
+00:23:31,720 --> 00:23:38,160
+Zukunft der Arbeit und zur Einschätzung von technologischer Veränderung, insbesondere zu
+
+242
+00:23:38,160 --> 00:23:42,960
+diesem Automatisierungshype, den wir in den letzten Jahren irgendwie sowohl medial als auch
+
+243
+00:23:42,960 --> 00:23:49,200
+in den Wissenschaften beobachten konnten. Es gab verschiedene Studien, die modellbasiert
+
+244
+00:23:49,200 --> 00:23:56,560
+vorausberechnet haben, dass demnächst irgendwie die Hälfte oder ein Drittel oder wie auch immer,
+
+245
+00:23:56,560 --> 00:24:01,480
+es wurde dann immer eine sehr spezifische Zahl von Jobs angegeben, die dann in naher Zukunft
+
+246
+00:24:01,480 --> 00:24:07,000
+völlig obsolet werden und dann haben wir es mit technologischer Arbeitslosigkeit zu tun und so
+
+247
+00:24:07,000 --> 00:24:12,840
+weiter. Das ist so ein Zukunftsszenario, was irgendwie wirklich ganz viel diskutiert wurde
+
+248
+00:24:12,840 --> 00:24:19,360
+und wir haben gerade bei der Corona-Pandemie jetzt auch eine Neuauflage dessen, wo auch mit
+
+249
+00:24:19,360 --> 00:24:26,160
+ähnlichen Methoden berechnet wird, wie viele Jobs in Zukunft wegfallen werden. Auch hier haben wir
+
+250
+00:24:26,160 --> 00:24:33,840
+es mit wirklich extrem technikdeterministischen Annahmen zu tun. Also es gibt zum Beispiel eine
+
+251
+00:24:33,840 --> 00:24:41,320
+recht viel zitierte Studie, die einfach so vorgegangen ist, dass man sich anschaut, welche Jobs
+
+252
+00:24:41,320 --> 00:24:46,520
+einerseits Routineaufgaben beinhalten, weil man Routineaufgaben für leichter automatisierbar
+
+253
+00:24:46,520 --> 00:24:53,440
+hält und andererseits aber die nahe körperliche Co-Präsenz beinhaltet und damit ein hohes
+
+254
+00:24:53,440 --> 00:25:00,080
+Infektionsrisiko bieten. Und das hat man quasi zusammengerechnet und dann extrapoliert und
+
+255
+00:25:00,080 --> 00:25:05,280
+daraus einfach berechnet, wie viele Jobs in Zukunft automatisiert werden, einfach weil das
+
+256
+00:25:05,280 --> 00:25:11,560
+technisch und quasi epidemiologisch Sinn macht. Und das sind aber wirklich Methoden, die mir fast
+
+257
+00:25:11,560 --> 00:25:18,160
+schon auf abstruse Weise technikdeterministisch erscheinen, weil natürlich klarerweise am Ende
+
+258
+00:25:18,160 --> 00:25:25,120
+nicht darüber entscheidet, welche Technologie implementiert wird. Die Fragen, ob das technisch
+
+259
+00:25:25,120 --> 00:25:29,480
+machbar ist oder ob das irgendwie epidemiologisch Sinn macht, sondern einzig und allein ob das
+
+260
+00:25:29,480 --> 00:25:34,440
+profitabel ist oder nicht. Also es gibt immer wieder Ausnahmen, insbesondere wenn es irgendwelche
+
+261
+00:25:34,440 --> 00:25:40,600
+spezifischen Regulationen gibt, aber das ist die generelle Implementierungslogik, der gefolgt wird.
+
+262
+00:25:40,600 --> 00:25:49,080
+Und das ist auch der Grund, warum eben die ökonomische Empirie tatsächlich diesen Zuwachs
+
+263
+00:25:49,080 --> 00:25:54,280
+an Automatisierung überhaupt nicht hergibt, im Gegenteil. Wir können empirisch beobachten,
+
+264
+00:25:54,280 --> 00:26:01,040
+dass seit der sogenannten Ölkrise Mitte der 70er Jahre wir es zu tun haben mit einem Rückgang
+
+265
+00:26:01,040 --> 00:26:07,360
+der Investitionsquoten. Das heißt also, die Profite, die gemacht werden in Unternehmen,
+
+266
+00:26:07,360 --> 00:26:13,000
+werden immer weniger in den Ausbau von Produktionsinfrastrukturen rückinvestiert,
+
+267
+00:26:13,000 --> 00:26:19,120
+sondern immer weiter quasi aus den Unternehmen rausgezogen. Natürlich ist dann die Frage,
+
+268
+00:26:19,120 --> 00:26:23,120
+was passiert mit dem Geld oder mit dem Kapital dann, weil wenn man es einfach nur quasi aus
+
+269
+00:26:23,160 --> 00:26:27,800
+der Verwertung rauszieht, vermehrt es sich ja nicht mehr, dann hat man ein Problem. Und die Antwort
+
+270
+00:26:27,800 --> 00:26:36,640
+darauf war dann insbesondere in den 90er Jahren, aber quasi in diesem gesamten Prozess seit der
+
+271
+00:26:36,640 --> 00:26:41,160
+Mitte der 70er in zunehmender Weise die Finanzalisierung, dass das Geld aus den Unternehmen
+
+272
+00:26:41,160 --> 00:26:48,160
+abgezogen wurde und stattdessen in Finanzmärkte gesteckt wurde, wo man eben sich profitablere
+
+273
+00:26:48,160 --> 00:26:56,760
+Gewinne versprochen hat und eben vor allem quasi das Kapital nicht langfristig fixiert war in
+
+274
+00:26:56,760 --> 00:27:04,680
+Stellen, wo man nicht sicher sein konnte, ob es wirklich dauerhaft Profite abwirft, weil man
+
+275
+00:27:04,680 --> 00:27:11,400
+zum Beispiel angesichts von global sinkenden Lohnquoten und so weiter immer weiter unsicher
+
+276
+00:27:11,400 --> 00:27:17,640
+darüber war, ob die Industrieprodukte und so weiter überhaupt in Zukunft noch Abnehmer finden.
+
+277
+00:27:17,760 --> 00:27:22,040
+Selbst wenn quasi die gegenwärtigen Gewinne hoch sind, war man dabei immer im Zweifeln.
+
+278
+00:27:22,040 --> 00:27:26,560
+So wir haben es also zu tun mit einer Situation der Finanzalisierung. Kapital wird aus den
+
+279
+00:27:26,560 --> 00:27:31,120
+Unternehmen abgezogen und in die Finanzmärkte gesteckt. Und das ist natürlich über ein
+
+280
+00:27:31,120 --> 00:27:38,320
+Problem, weil dann die Unternehmen ihrerseits quasi in einem Profitabilitätsdilemma sind. Wenn
+
+281
+00:27:38,320 --> 00:27:41,640
+die Produktionsinfrastruktur veraltet und so weiter, dann kann man auch dort die
+
+282
+00:27:41,640 --> 00:27:46,960
+Profitabilität nicht steigern, dann gibt es kein Wachstum, was ja bekanntlich aber sein muss in
+
+283
+00:27:47,360 --> 00:27:51,160
+kapitalistischen Unternehmen. Deswegen kann man das so nicht stehen lassen. Das ist quasi
+
+284
+00:27:51,160 --> 00:27:59,040
+eine krisenhafte Entwicklung für Produktionsunternehmen. Und meine These ist jetzt,
+
+285
+00:27:59,040 --> 00:28:07,000
+dass man eben anstatt einer Investition in materielle Produktionsinfrastruktur und zum
+
+286
+00:28:07,000 --> 00:28:14,480
+Beispiel avancierte Robotik einen Trend hat zur Investition in eben Software und insbesondere
+
+287
+00:28:14,480 --> 00:28:20,560
+algorithmische Arbeitssteuerung. Das kann man auch an ökonomischen Daten ganz schön ablesen.
+
+288
+00:28:20,560 --> 00:28:26,680
+Also wir haben es generell mit einem Absinken der Investitionsquoten zu tun. Aber innerhalb
+
+289
+00:28:26,680 --> 00:28:32,360
+dieser Investitionsquoten kann man ganz schön nachvollziehen, dass das sogenannte immaterielle
+
+290
+00:28:32,360 --> 00:28:38,400
+Kapital, das wird auch als Intangibles bezeichnet, immer weiter an Bedeutung zunimmt. Da fallen
+
+291
+00:28:38,400 --> 00:28:41,840
+verschiedene Dinge darunter, unter anderem auch Patente und so weiter. Aber ein ganz großer
+
+292
+00:28:41,880 --> 00:28:47,720
+Anteil ist eben Software und Organisationsinnovationen, sowas wie Lean Production und
+
+293
+00:28:47,720 --> 00:28:55,560
+so weiter. Das ist quasi, was unter diesen sogenannten Intangible Assets quasi subsumiert
+
+294
+00:28:55,560 --> 00:29:01,160
+wird. Und wir haben es mit einem kontinuierlichen Bedeutungszugewinn zu tun. Und seit der
+
+295
+00:29:01,160 --> 00:29:08,320
+Finanzkrise ist es sogar so, dass in den USA und in der EU der Anteil des immateriellen Kapitals
+
+296
+00:29:08,320 --> 00:29:15,880
+denjenigen des materiellen übersteigt. Also das heißt, die Quote hat das materielle Kapital
+
+297
+00:29:15,880 --> 00:29:21,880
+überholt und der Abstand wird immer größer. Jetzt, was bedeutet das für die Arbeit? Das ist ja
+
+298
+00:29:21,880 --> 00:29:29,440
+das, was für unseren Kontext jetzt von besonderem Interesse ist und für die Technologie. Da kann
+
+299
+00:29:29,440 --> 00:29:38,280
+man eben sehen, dass diese Idee der vollautomatisierten Fabriken quasi fast nie realisiert wird. Und
+
+300
+00:29:38,280 --> 00:29:46,080
+wenn dann nur in irgendwelchen Pilotprojekten, die dann quasi zum Vorzeigen hauptsächlich da
+
+301
+00:29:46,080 --> 00:29:51,080
+sind. Aber was sozusagen in der Masse passiert, ist fast schon das Gegenteil von dieser
+
+302
+00:29:51,080 --> 00:29:56,800
+Vollautomatisierung und einer entsprechenden technologischen Arbeitslosigkeit. Nämlich das
+
+303
+00:29:56,800 --> 00:30:04,680
+Entstehen von neuen, extrem arbeitsintensiven Branchen, die tatsächlich ausschließlich dadurch
+
+304
+00:30:04,680 --> 00:30:08,320
+möglich sind, dass es eben diese algorithmische Arbeitssteuerung gibt. Ohne die algorithmische
+
+305
+00:30:08,320 --> 00:30:14,440
+Arbeitssteuerung wären die so überhaupt nicht möglich. Beispiele dafür sind die schon
+
+306
+00:30:14,440 --> 00:30:21,600
+angesprochenen Lieferdienste, die so funktionieren, dass Kuriere, ohne jemals ihre Vorgesetzten getroffen
+
+307
+00:30:21,600 --> 00:30:27,240
+zu haben, per App quasi durch die Städte gesteuert werden. Teilweise sitzt das Management sogar auf
+
+308
+00:30:27,240 --> 00:30:32,240
+einem anderen Kontinent. Das ist was, was überhaupt nicht möglich wäre, ohne eine algorithmische
+
+309
+00:30:32,240 --> 00:30:38,600
+Arbeitssteuerung. Aber auch die Tätigkeit in der Logistik zu einem ganz großen Teil, also sowohl
+
+310
+00:30:38,600 --> 00:30:46,640
+von Intralogistik in großen Warenlagern, als auch von klassischer Logistik im Warentransport beruht
+
+311
+00:30:46,640 --> 00:30:52,520
+heutzutage fast immer darauf, dass diese Personen ferngesteuert werden algorithmisch. Und das sind
+
+312
+00:30:52,520 --> 00:30:59,040
+aber Tätigkeiten, die eben wirklich überhaupt nicht irgendwie diesen Produktivitätsgrad von
+
+313
+00:30:59,920 --> 00:31:06,800
+einem Industriearbeiter aufweisen, der mit extremen komplexen Robotern arbeitet, sondern die quasi,
+
+314
+00:31:06,800 --> 00:31:11,840
+wenn man das jetzt technisch sieht, einen extremen Produktivitätsrückschritt darstellen. Also es
+
+315
+00:31:11,840 --> 00:31:15,680
+geht um Fahrradkuriere, die quasi allein mit ihrer Muskelkraft irgendwelche Dinge durch die Stadt
+
+316
+00:31:15,680 --> 00:31:22,560
+bewegen. Also es ist sogar gegenüber dem Pizzalieferanten auf dem Moped quasi einen
+
+317
+00:31:22,560 --> 00:31:28,560
+Produktivitätsrückschritt. Und wir haben es eben hier mit wirklich ganz klassischer körperlicher
+
+318
+00:31:28,560 --> 00:31:36,160
+Arbeit zu tun und extrem viel davon. So viel, dass oft schon die Arbeitsmärkte rund um diese
+
+319
+00:31:36,160 --> 00:31:40,760
+Unternehmen quasi abgegrast sind, zumindest in diesem Niedriglohnsektor, der quasi dafür
+
+320
+00:31:40,760 --> 00:31:46,640
+relevant ist. Und die Unternehmen sich immer neue Sachen einfallen lassen, um weiter an billige
+
+321
+00:31:46,640 --> 00:31:52,880
+Arbeitskraft zu kommen. Und da kommt eben jetzt auch nochmal die algorithmische Arbeitssteuerung
+
+322
+00:31:52,880 --> 00:31:58,760
+ins Spiel, weil das, was ich als kybernetische Proletarisierung beschrieben habe, quasi da in
+
+323
+00:31:58,760 --> 00:32:08,960
+Zyklen zu einer Abwertung von Arbeit beiträgt und damit wiederum quasi die weitere Reintegration von
+
+324
+00:32:08,960 --> 00:32:15,200
+menschlicher Arbeit in die Produktionsprozesse zu einer attraktiven Alternative zur Automatisierung
+
+325
+00:32:15,200 --> 00:32:21,600
+macht. Und die erste Phase davon, die quasi mit der algorithmischen Arbeitssteuerung zu tun hat,
+
+326
+00:32:21,600 --> 00:32:27,840
+kann als dequalifizierte Flexibilisierung beschrieben werden. Also wir haben es bei
+
+327
+00:32:27,840 --> 00:32:37,480
+diesen Technologien meistens mit Formen von Arbeitsanweisungen zu tun, die quasi extrem
+
+328
+00:32:37,480 --> 00:32:44,080
+detailliert und simpel sind. Also zum Beispiel in dem Industrieunternehmen, wo ich gearbeitet
+
+329
+00:32:44,080 --> 00:32:49,880
+habe an der Montagelinie, da werden schon recht komplexe Geräte hergestellt. Und ich habe selbst
+
+330
+00:32:50,200 --> 00:32:55,000
+keine Erfahrungen in der Industriearbeit und wurde dann an so eine Montagelinie gesetzt und
+
+331
+00:32:55,000 --> 00:33:01,960
+sollte Dinge zusammenbauen, für die davor Facharbeiterinnen angestellt waren. Und das
+
+332
+00:33:01,960 --> 00:33:07,040
+sollte ermöglicht werden durch die algorithmische Arbeitssteuerung, in dem Fall durch ein Display,
+
+333
+00:33:07,040 --> 00:33:13,880
+was mit Bildern und auch ein bisschen Text jeden Arbeitsschritt extrem detailliert illustriert.
+
+334
+00:33:13,880 --> 00:33:18,760
+Und jedes Mal, wenn man das dann gemacht hat, muss man auf Bestätigen klicken, dass man das gemacht
+
+335
+00:33:18,760 --> 00:33:25,000
+hat, sodass quasi auch da wenig Abweichungspotenzial besteht, sondern das auch kontrolliert werden kann.
+
+336
+00:33:25,000 --> 00:33:30,600
+Das ist natürlich eine Dequalifizierung, kann man sich ja vorstellen, wenn jetzt quasi der
+
+337
+00:33:30,600 --> 00:33:37,200
+Facharbeiter gar nicht mehr notwendig ist, um diese Sachen zu bauen, dann ist natürlich
+
+338
+00:33:37,200 --> 00:33:41,360
+es attraktiver, ungelernte Arbeitskräfte einzustellen, die natürlich viel billiger sind.
+
+339
+00:33:41,360 --> 00:33:48,520
+Es bleibt aber nicht einfach bei dieser reinen Dequalifizierung, die quasi schon die klassische
+
+340
+00:33:48,520 --> 00:33:54,640
+Diagnose in der Industriesozialogie ist zur Rationalisierung von Industriearbeit, sondern was
+
+341
+00:33:54,640 --> 00:33:59,240
+eben die algorithmische Arbeitssteuerung erlaubt, ist eben vor allem eine Flexibilisierung. Das heißt,
+
+342
+00:33:59,240 --> 00:34:09,080
+die Produkte, die da hergestellt werden, können extrem schnell ausgetauscht werden. Also man kann
+
+343
+00:34:09,080 --> 00:34:15,960
+quasi heute das eine Produkt herstellen und morgen das andere, ohne den Leuten ganz kompliziert
+
+344
+00:34:15,960 --> 00:34:19,520
+erklären zu müssen, was sie jetzt machen müssen, was für Arbeitsprozesse sie jetzt haben und so
+
+345
+00:34:19,520 --> 00:34:24,200
+weiter. Das wäre quasi ohne algorithmische Arbeitssteuerung völlig unökonomisch und durch
+
+346
+00:34:24,200 --> 00:34:30,280
+die algorithmische Arbeitssteuerung ist das eben jetzt sinnvoll machbar, dass man sehr schnell auf
+
+347
+00:34:30,280 --> 00:34:35,800
+Marktschwankungen realisiert, dass man kleinere Losgrößen produzieren kann, weil man eben die
+
+348
+00:34:35,800 --> 00:34:41,520
+Beschäftigten ganz schnell quasi in andere Arbeitsprozesse einsetzen kann. Man kann sie auch
+
+349
+00:34:41,520 --> 00:34:47,680
+einfacher quasi im Unternehmen verschieben, einfach wenn irgendwo quasi Personalmangel ist,
+
+350
+00:34:47,680 --> 00:34:50,720
+können die Leute einfach verschoben werden. Das ist auch in den Unternehmen passiert,
+
+351
+00:34:50,720 --> 00:34:57,840
+die ich untersucht habe. Und man kann auch quasi einfacher externe Arbeitskraft dazu buchen,
+
+352
+00:34:57,840 --> 00:35:05,240
+die quasi dann von externen, oft prekär Beschäftigten durch algorithmische
+
+353
+00:35:05,240 --> 00:35:10,560
+Arbeitssteuerung ermöglicht wird. Also das ist das, was ich als dequalifizierte Flexibilisierung
+
+354
+00:35:10,560 --> 00:35:16,320
+geschrieben habe. Dann haben wir es mit einer kybernetischen Verdichtung von Arbeit zu tun. Das
+
+355
+00:35:16,320 --> 00:35:22,920
+habe ich schon jetzt an verschiedenen Beispielen kurz erwähnt. Das sind diese Feedback-Schleifen,
+
+356
+00:35:22,920 --> 00:35:28,200
+wie dieser Handschuh, aber auch das Display, was ich gerade erwähnt habe. Das ist nämlich nicht
+
+357
+00:35:28,200 --> 00:35:34,080
+nur dazu da, genau zu erklären, was ich machen soll, sondern jeder Arbeitsschritt wird auch auf
+
+358
+00:35:34,080 --> 00:35:39,840
+die Zehntelsekunde getrackt, wie schnell das geht, wie man den erledigt hat. Und dann war es so,
+
+359
+00:35:39,840 --> 00:35:45,080
+dass ich habe dann zum Beispiel einmal einen Teil nicht gefunden, was ich verbauen sollte,
+
+360
+00:35:45,080 --> 00:35:48,960
+und dadurch ist meine Bearbeitungszeit sehr gestiegen. Und dann sagt das System sofort,
+
+361
+00:35:48,960 --> 00:35:54,680
+du bist unterhalb deiner Durchschnittsgeschwindigkeit, bekommt man dann angezeigt. Und
+
+362
+00:35:54,680 --> 00:35:59,000
+wohlgemerkt eben nicht der Vorgesetzte, der davor durch die Fabrik patrouilliert ist, sondern ich
+
+363
+00:35:59,000 --> 00:36:04,480
+selbst. Und dann sollte ich aufgrund dessen mich selbst anpassen und wieder schneller arbeiten. Das
+
+364
+00:36:04,480 --> 00:36:10,400
+ist die Logik. Und da geht es quasi immer darum, dass eben sogenannte Todzeiten eliminiert werden
+
+365
+00:36:10,400 --> 00:36:17,040
+und die Arbeit verdichtet wird. In einem anderen Fall, in einem Industrieunternehmen klingt das
+
+366
+00:36:17,040 --> 00:36:24,000
+sogar so weit, dass eine automatisierte Produktionsanlage insoweit digitalisiert wurde,
+
+367
+00:36:24,000 --> 00:36:29,320
+dass sie den Auslastungsgrad der menschlichen Arbeit gemessen hat. Und wenn diese Auslastung
+
+368
+00:36:29,320 --> 00:36:35,760
+unter 80 Prozent fiel, hat die Maschine quasi den menschlichen Arbeitskräften automatisch weitere
+
+369
+00:36:35,760 --> 00:36:42,720
+Tätigkeiten zugewiesen. Also hier auch wirklich eine Arbeitsverdichtung im sehr wortwörtlichen
+
+370
+00:36:42,720 --> 00:36:52,280
+Sinn. Dann die nächste Phase der kybernetischen Proletarisierung wäre dann, dass auf Grundlage
+
+371
+00:36:52,280 --> 00:36:57,440
+dieser ganzen Daten, die in diesen beiden vorhergehenden Prozessen erhoben werden,
+
+372
+00:36:57,440 --> 00:37:04,240
+teilweise, das Ausmaß ist davon noch nicht so ganz abschätzbar, aber teilweise dann eben
+
+373
+00:37:04,240 --> 00:37:12,040
+automatisierte Systeme implementiert werden, die auf der Datengrundlage der Beschäftigten
+
+374
+00:37:12,040 --> 00:37:17,480
+quasi programmiert werden und dann deren Aufgaben übernehmen. Zum Beispiel in einem Unternehmen war
+
+375
+00:37:17,480 --> 00:37:25,600
+es so, dass die Intralogistiker quasi getrackt wurden, deren Wege durch die Fabrik und auf
+
+376
+00:37:25,600 --> 00:37:31,160
+Grundlage dieser Daten danach eine KI programmiert wurde, die selbstfahrende Systeme quasi ermöglicht
+
+377
+00:37:31,160 --> 00:37:38,200
+hat. Und der Clou dabei ist, das bedeutet, dass die Beschäftigten ja quasi an ihrer eigenen
+
+378
+00:37:38,200 --> 00:37:45,680
+Überflüssigmachung teilhaben. Also Teil der Aufgabe der Beschäftigten, wenn man so will, des
+
+379
+00:37:45,680 --> 00:37:50,520
+kybernetischen Proletariats ist es, sich selbst überflüssig zu machen. Zum Beispiel eben die
+
+380
+00:37:50,520 --> 00:37:55,680
+Facharbeiter in dieser Fabrik, die ich vorher angesprochen habe, die wurden selbst angewiesen,
+
+381
+00:37:55,680 --> 00:38:01,920
+diese Bauanleitungen eben zu programmieren und einzupflegen quasi in diese Arbeitssteuerungssysteme.
+
+382
+00:38:01,920 --> 00:38:12,160
+Und so sind sie quasi Teil dieses Verdrängungsprozesses von Arbeit. Und während diese
+
+383
+00:38:12,160 --> 00:38:18,600
+drei Phasen der kybernetischen Proletarisierung eben auf die qualitative und quantitative
+
+384
+00:38:18,680 --> 00:38:23,880
+Verdrängung von menschlicher Arbeit aus dem Produktionsprozess abzielen, geht es dann eben
+
+385
+00:38:23,880 --> 00:38:30,240
+immer wieder darum, neue Arbeit und eben wichtigerweise abgewertete Arbeit wieder in
+
+386
+00:38:30,240 --> 00:38:37,840
+die Produktionsprozesse zu integrieren, indem man eben neue Dinge einführt, wie zum Beispiel
+
+387
+00:38:37,840 --> 00:38:43,000
+eben diese Lieferdienste und so weiter, die dann wieder viel Arbeit brauchen, aber billiger sind
+
+388
+00:38:43,000 --> 00:38:48,800
+eben als Dinge, die man mit extrem teuren Produktionsinfrastrukturen herstellen muss.
+
+389
+00:38:48,800 --> 00:38:54,680
+Wir haben es also zu tun mit einem Prozess, der nicht nur eine Verlagerung von Arbeit darstellt,
+
+390
+00:38:54,680 --> 00:39:01,600
+sondern immer eine Abwertung von Arbeit. Also das ist jetzt vielleicht etwas kontrovers auch
+
+391
+00:39:01,600 --> 00:39:08,600
+innerhalb der arbeitssoziologischen Debatte, aber zumindest in den Prozessen, die ich untersucht
+
+392
+00:39:08,600 --> 00:39:15,120
+habe, wo es eben um relativ einfache manuelle Arbeit geht, ist es nicht einfach irgendwie eine
+
+393
+00:39:15,120 --> 00:39:20,480
+Verlagerung und upskilligen, sondern man hat es quasi mit einem Prozess zu tun, der explizit
+
+394
+00:39:20,480 --> 00:39:26,920
+darauf abzielt, teure Arbeit durch billigere Arbeit zu ersetzen. Und ich habe da schon angedeutet,
+
+395
+00:39:26,920 --> 00:39:31,640
+dass das oft dann an Grenzen der Arbeitsmärkte stößt, dass dann oft einfach sich keine Menschen
+
+396
+00:39:31,640 --> 00:39:38,560
+mehr finden, die billig sind, eben diese Dinge zu tun für den Lohn, der dafür in Aussicht steht.
+
+397
+00:39:38,560 --> 00:39:45,040
+Und deswegen ist ein wichtiges strategisches Ziel, was viele ManagerInnen, mit denen ich gesprochen
+
+398
+00:39:45,040 --> 00:39:52,080
+habe, formulieren, auch explizit, ist, migrantische ArbeiterInnen stärker einzubinden. Und zwar
+
+399
+00:39:52,080 --> 00:39:58,800
+explizit durch diese algorithmische Arbeitssteuerung, weil nämlich diese Systeme quasi sehr simpel
+
+400
+00:39:58,800 --> 00:40:02,440
+einfach sprachlich konfigurierbar sind. Das heißt, die Leute müssen kein Deutsch mehr sprechen,
+
+401
+00:40:02,440 --> 00:40:08,240
+sondern man kann das quasi auf prinzipiell jede beliebige Sprache programmieren oder
+
+402
+00:40:08,240 --> 00:40:14,400
+sogar in einem noch extremeren Schritt einfach nur noch mit Bildelementen darstellen. Also das
+
+403
+00:40:14,400 --> 00:40:18,760
+gab es auch in den Fällen, die ich untersucht habe, dass es quasi nur noch per Piktogramm quasi
+
+404
+00:40:18,760 --> 00:40:26,920
+diese Steuerung stattgefunden hat. Und das führt dazu, dass in vielen dieser Unternehmen, wo eben
+
+405
+00:40:26,920 --> 00:40:31,840
+diese kypanetische Proletarisierung weit vorangeschritten ist, eben ein extrem hoher
+
+406
+00:40:31,840 --> 00:40:37,760
+Anteil von Migrantinnen arbeitet. Also in einem der Warenlager, die ich untersucht habe, waren das
+
+407
+00:40:37,760 --> 00:40:45,000
+70 Prozent, wurden mir zumindest gesagt. Und im Extremfall sind das auch noch Geflüchtete,
+
+408
+00:40:45,000 --> 00:40:52,160
+die quasi noch einen prekären Aufenthaltsstatus haben, wo zum Beispiel in manchen Fällen sogar
+
+409
+00:40:52,160 --> 00:40:58,160
+der Aufenthaltsstatus an die Arbeit gekoppelt ist. Das heißt also der Anreiz, sich eben auch an diese
+
+410
+00:40:58,160 --> 00:41:02,800
+ganzen Kontrolleinstrumente zu halten und quasi die Selbstoptimierungsimperative zu befolgen,
+
+411
+00:41:02,800 --> 00:41:10,560
+ist da natürlich wesentlich höher. Was bedeutet, dass die Migrationsregulation und dass dieses
+
+412
+00:41:10,560 --> 00:41:15,120
+kypanetische Kontrollregime quasi ineinandergreifen und es eben nicht einfach nur ein technischer
+
+413
+00:41:15,120 --> 00:41:20,480
+Prozess ist, sondern das sind Prozesse, die eben wirklich ganz viele verschiedene politische
+
+414
+00:41:20,480 --> 00:41:29,600
+Arenen und Aushandlungsprozesse miteinander verknüpfen. Ja, das war jetzt die lange Version
+
+415
+00:41:29,600 --> 00:41:33,640
+der kypanetischen Proletarisierung. Ich hoffe, dass das so einigermaßen nachvollziehbar war.
+
+416
+00:41:33,640 --> 00:41:38,080
+Ich glaube schon. Ich finde, das ist sehr gut nachvollziehbar und unglaublich spannend,
+
+417
+00:41:38,080 --> 00:41:42,600
+muss ich sagen. Es ist aber nicht nur spannend, sondern es ist auch ein bisschen ernüchternd. Und
+
+418
+00:41:42,600 --> 00:41:52,680
+ich muss sagen, dass du ja in dem Buch eben als ein Ziel verfolgst, auszuweisen, dass es eben nicht
+
+419
+00:41:52,680 --> 00:41:59,600
+diese Formen des Durchregierens gibt, wo quasi irgendeine manageriale Fantasie dann eins zu eins
+
+420
+00:41:59,600 --> 00:42:03,720
+quasi umgesetzt werden kann im Betrieb und so weiter. Und dass du ausweisen willst, es gibt
+
+421
+00:42:03,720 --> 00:42:09,840
+dort Handlungsspielraum, es gibt dort eben der Politisierung der Technologie und das teile ich
+
+422
+00:42:09,840 --> 00:42:15,280
+natürlich vollkommen, gerade diese Frage der Politisierung von Technologien. Gleichzeitig ist
+
+423
+00:42:15,280 --> 00:42:21,960
+es so, dass immer wieder im Buch, wenn du dann so kleine Beispiele gibst dafür, wie solche Formen
+
+424
+00:42:21,960 --> 00:42:29,480
+der Aneignung denn aussehen können, ich immer wieder mal auch so leicht ernüchternd denken musste,
+
+425
+00:42:29,480 --> 00:42:38,560
+naja, okay, das ist jetzt also nicht nur defensiv, sondern so klein als erkämpftes,
+
+426
+00:42:38,720 --> 00:42:44,200
+ein Moment des Verschnaufens innerhalb einer algorithmisch getakteten Selbstdisziplinierung.
+
+427
+00:42:44,200 --> 00:42:49,880
+Also das ist dann sozusagen quasi schon etwas, was erkämpft worden ist, was du auf der einen
+
+428
+00:42:49,880 --> 00:42:55,960
+Seite natürlich richtigerweise ausweist als sozusagen ein Ort der Divianz. Gleichzeitig ist
+
+429
+00:42:55,960 --> 00:43:02,040
+es aber ebenso verschwindend gering, der Spielraum, der da aufgezeigt wird, dass man so denkt, oh mein
+
+430
+00:43:02,040 --> 00:43:09,360
+Gott, das ist jetzt sozusagen noch nicht der große Wurf, sag ich mal, das gilt quasi zum einen für
+
+431
+00:43:09,360 --> 00:43:15,000
+solche Momente des Verschnaufens, aber auch zum Beispiel für den Humor, den du immer mal wieder
+
+432
+00:43:15,000 --> 00:43:20,240
+quasi ausweist, auch als eine Form des subversiven Umgangs mit der eigenen Situation innerhalb der
+
+433
+00:43:20,240 --> 00:43:26,000
+Betriebe. Also ich hatte beim Lesen des Buches auf der einen Seite eben diese Momente, wo ich
+
+434
+00:43:26,000 --> 00:43:34,160
+dachte, okay, puh, das ist sozusagen jetzt eben sehr stark defensiv und noch nicht hoffnungsvoll
+
+435
+00:43:34,160 --> 00:43:38,640
+stimmend, sag ich mal. Auf der anderen Seite hast du auch ganz vehement darauf hingewiesen,
+
+436
+00:43:38,640 --> 00:43:46,720
+dass diese enge Verzahnung, die du ja schon angesprochen hast, dieses ganz eng getaktete,
+
+437
+00:43:46,720 --> 00:43:53,840
+die Lean Production und so weiter, dass das eigentlich auch wieder andere Verwundbarkeiten
+
+438
+00:43:54,000 --> 00:44:00,720
+auf Seiten der Technopolitik von oben eigentlich mit sich bringt und damit natürlich auch wieder
+
+439
+00:44:00,720 --> 00:44:06,440
+Machtchancen auf Seiten der Beschäftigten. Vielleicht könntest du uns da noch mal ein
+
+440
+00:44:06,440 --> 00:44:12,720
+Beispiel geben für solche Achilles-Fersen der Technopolitik von oben. Du nennst es ein
+
+441
+00:44:12,720 --> 00:44:17,760
+Schimmer der Möglichkeit eines Kristallationspunktes neuer Klassenkonflikte. Vielleicht könntest du
+
+442
+00:44:17,760 --> 00:44:22,320
+uns dafür ein Beispiel geben und auch ein bisschen darauf eingehen, was es bräuchte,
+
+443
+00:44:22,320 --> 00:44:28,760
+um diese Macht wirklich effektiv nutzen zu können. Ja, also du hast natürlich recht. Vieles von dem,
+
+444
+00:44:28,760 --> 00:44:35,200
+was ich beschreibe, ist wirklich auf einer stark mikroorientierten Ebene angesiedelt,
+
+445
+00:44:35,200 --> 00:44:40,560
+aber ich würde gerne noch mal erklären, warum mir das richtig erscheint. Also einerseits ist es
+
+446
+00:44:40,560 --> 00:44:45,920
+einfach wichtig, überhaupt festzustellen, dass eben diese Digitalisierungsvorhaben Konflikte
+
+447
+00:44:45,920 --> 00:44:50,880
+verursachen. Das ist einfach in einem Großteil der Forschung überhaupt nicht abgebildet. Also
+
+448
+00:44:50,880 --> 00:44:54,240
+oft wird anerkannt, dass das zum Nachteil der Beschäftigten ist, dass es Überwachung gibt,
+
+449
+00:44:54,240 --> 00:44:59,080
+Arbeitsverdichtung etc. Aber oft erscheinen eben die Beschäftigten als passive Opfer dessen und
+
+450
+00:44:59,080 --> 00:45:03,680
+werden quasi als strategische Akteure gar nicht in Betracht gezogen. Und das ist das, was ich
+
+451
+00:45:03,680 --> 00:45:10,000
+versuche zu betonen. Und dann ist es aber auch wichtig zu sehen, dass eben die großen Konflikte
+
+452
+00:45:10,000 --> 00:45:15,080
+und so weiter und die kollektive Handlungsfähigkeit nicht einfach aus dem Nichts vom Himmel fallen,
+
+453
+00:45:15,080 --> 00:45:20,360
+sondern dass die Voraussetzungen haben. Und das ist das, was ich versucht habe nachzuzeichnen,
+
+454
+00:45:20,360 --> 00:45:26,640
+insbesondere auch, indem ich eben angeschaut habe, wie eigentlich die Organisationskulturen in den
+
+455
+00:45:26,640 --> 00:45:30,880
+Betrieben aussehen. Also ich habe das dann als Technokulturen bezeichnet, also quasi diejenigen
+
+456
+00:45:30,880 --> 00:45:38,480
+kulturellen Äußerungen, die sich eben auf die Technologie im Arbeitsprozess beziehen. Und da
+
+457
+00:45:38,480 --> 00:45:44,520
+ist es eben wichtig, dass die Interpretationen und diese geradezu euphorischen Zuschreibungen,
+
+458
+00:45:44,520 --> 00:45:49,960
+die vom Management kommen und die ja auch wirklich mit sehr großem Nachdruck und auch
+
+459
+00:45:49,960 --> 00:45:54,080
+mit viel Geld, was da rein investiert wird, vertreten werden und diese ganzen Blitzerfassaden,
+
+460
+00:45:54,080 --> 00:45:59,480
+dass die eben in den allermeisten Fällen völlig anders bei den Beschäftigten ankommen. Also das
+
+461
+00:45:59,480 --> 00:46:04,240
+ist quasi nie so, dass das einfach ungebrochen übernommen und geglaubt wird, sondern in allen
+
+462
+00:46:04,240 --> 00:46:10,320
+Fällen ist den Beschäftigten, die ich untersucht habe, klar gewesen, dass es sich um Kontrolltechnologien
+
+463
+00:46:10,960 --> 00:46:16,640
+handelt und dass das oft zu ihrem Nachteil ist, was da passiert und dass es eben nicht einfach nur
+
+464
+00:46:16,640 --> 00:46:22,880
+um Selbstorganisierung und Autonomie geht und so weiter. Und das ist eben auch was, also auch für
+
+465
+00:46:22,880 --> 00:46:28,000
+mich persönlich im Forschungsprozess war das wichtig, weil ich eben reingegangen bin mit so
+
+466
+00:46:28,000 --> 00:46:33,960
+einer, ja, an Foucault geschulten Perspektive. Ich habe davor auch so Self-Tracking im privaten
+
+467
+00:46:33,960 --> 00:46:41,040
+Bereich untersucht, wo quasi Personen ihre private Lebensführung irgendwie auf Grundlage von digitalen
+
+468
+00:46:41,040 --> 00:46:45,760
+Daten optimieren und das ist quasi so, als hätte Foucault das selbst erfunden. Und dann bin ich
+
+469
+00:46:45,760 --> 00:46:52,440
+damit mit diesem Wissen quasi in die Betriebe gegangen und hatte eigentlich vor, zu untersuchen,
+
+470
+00:46:52,440 --> 00:46:58,320
+wie sich diese Selbstoptimierung dort vollzieht und war dann eben doch recht überrascht, dass
+
+471
+00:46:58,320 --> 00:47:05,600
+eben gerade nicht so eine Subjektivierung in Form von einem Selbstunternehmertum der Normalfall
+
+472
+00:47:05,600 --> 00:47:10,680
+ist, sondern dass eben zu einem extrem starken Bruch kommt zwischen den Interpretationen und das
+
+473
+00:47:10,680 --> 00:47:18,040
+scheint mir doch sehr wichtig zu sein, ja, auch in der Debatte darum. Und weil du nach konkreten
+
+474
+00:47:18,040 --> 00:47:28,000
+Beispielen gefragt hast. Eine Sache, die sich konkret im Arbeitsprozess manifestiert ist,
+
+475
+00:47:28,000 --> 00:47:34,120
+dass diese kybernetische Kontrolle, die ich beschrieben habe, natürlich auch viele Lücken
+
+476
+00:47:34,120 --> 00:47:40,360
+lässt, ja, also die zielt darauf ab, dass das mittlere Management automatisiert wird. In der
+
+477
+00:47:40,360 --> 00:47:44,400
+einen Fabrik, die ich untersucht habe, die ich schon erwähnt habe, wo quasi die Maschinen gebaut
+
+478
+00:47:44,400 --> 00:47:50,120
+wurden, war es konkret so, dass während meiner teilnehmenden Beobachtung eine Management-Ebene
+
+479
+00:47:50,120 --> 00:47:54,320
+wegrationalisiert wurde und durch so ein algorithmisches Arbeitssteuerungssystem ersetzt
+
+480
+00:47:54,320 --> 00:48:00,920
+wurde. Und das hat natürlich Effekte, weil das heißt, dass du keinen Vorgesetzten mehr hast,
+
+481
+00:48:00,920 --> 00:48:05,400
+der beobachtet, was du machst. Das heißt jetzt nicht, dass dann irgendwie die große
+
+482
+00:48:05,400 --> 00:48:10,880
+Autonomie herrscht, weil natürlich dieser Selbstoptimierungsimperativ, obwohl er oft
+
+483
+00:48:10,880 --> 00:48:16,520
+gebrochen wird, aber immer noch da ist und das durchaus teilweise zu Atomisierung auch führt,
+
+484
+00:48:16,520 --> 00:48:20,800
+wenn man quasi keine Konfrontation mit einem Vorgesetzten hat, sondern dass sich quasi irgendwie
+
+485
+00:48:20,800 --> 00:48:27,720
+als ein objektiver technischer Prozess darstellt. Aber es führt eben auch zu neuen Spielräumen. Und
+
+486
+00:48:27,720 --> 00:48:31,920
+zum Beispiel dazu, dass die Menschen viel mehr kommunizieren können bei der Arbeit. Also in
+
+487
+00:48:31,920 --> 00:48:37,720
+dieser einen Fabrik war das zum Beispiel verboten zu sprechen während der Arbeit. Und das wurde
+
+488
+00:48:37,720 --> 00:48:41,400
+immer gemacht, auch schon während der menschliche Vorgesetzte durch die Reihen patrouilliert ist.
+
+489
+00:48:41,400 --> 00:48:44,760
+Aber man muss es dann kurz unterbrechen, wenn der halt da war und dann konnte man immer nur
+
+490
+00:48:44,760 --> 00:48:51,400
+kleine Gespräche führen. Und als der weg war, wurde das leichter. Noch zugespitzt da ist das
+
+491
+00:48:51,400 --> 00:48:56,200
+bei den Fahrradkurieren. Die haben ja quasi nie Kontakt zu ihren menschlichen Vorgesetzten und
+
+492
+00:48:56,200 --> 00:49:01,280
+werden nur durch ihre Apps gesteuert. Und da hatte das unter anderem auch den Effekt, dass die sich
+
+493
+00:49:01,280 --> 00:49:07,040
+quasi während ihrer Arbeit, wenn sie gerade keinen Auftrag hatten, zusammengesetzt haben an
+
+494
+00:49:07,040 --> 00:49:12,960
+bestimmten Punkten, die von der App quasi angelegt wurden, dass sie dort hingehen sollen, wenn sie
+
+495
+00:49:12,960 --> 00:49:16,840
+gerade keinen Auftrag haben und dann dort die Arbeitszeit selbst dazu genutzt haben, sich zu
+
+496
+00:49:16,840 --> 00:49:22,480
+organisieren und auszutauschen. Und das ist eben was, was zeigt, es geht hier eben nicht einfach nur
+
+497
+00:49:22,480 --> 00:49:27,480
+um eine Atomisierung und lückenlose Kontrolle, sondern es entstehen hier neue Möglichkeitenräume,
+
+498
+00:49:27,480 --> 00:49:33,520
+die so in einem Unternehmen, was sonst mit menschlichen Vorgesetzten operiert und eben auf
+
+499
+00:49:33,520 --> 00:49:39,160
+eine starke Co-Präsenz von der Management-Ebene und der Ausführungsebene angelegt ist, was da nicht
+
+500
+00:49:39,160 --> 00:49:45,240
+der Fall ist. Und normalerweise müsste man sich eben außerhalb der Arbeitszeit treffen, irgendwie
+
+501
+00:49:45,240 --> 00:49:49,880
+schon eine Basisgruppe haben, mit der man dann ähnliche Arbeitsprobleme bespricht, eine Gewerkschaft
+
+502
+00:49:49,880 --> 00:49:54,000
+und so weiter. Und hier ist eben die Möglichkeit quasi einfach während der Arbeit, sich ohne
+
+503
+00:49:54,000 --> 00:49:59,240
+Hemmungen auszukotzen und sich zu organisieren. Das halte ich für wichtig, auch wenn es oft
+
+504
+00:49:59,280 --> 00:50:07,320
+irgendwie ganz klein scheint. Und konkret sieht man ja auch, dass sich in diesen Branchen, wo
+
+505
+00:50:07,320 --> 00:50:12,680
+diese kybernetische Proletarisierung besonders weit fortgeschritten ist, in dieser sogenannten
+
+506
+00:50:12,680 --> 00:50:18,640
+digitalen Ökonomie oder Plattformökonomie, die Konflikte häufen. Also es ist ja nicht so, dass
+
+507
+00:50:18,640 --> 00:50:24,160
+da einfach nur quasi alle atomisiert vor sich hinarbeiten, sondern es gibt schon auch
+
+508
+00:50:24,160 --> 00:50:29,760
+quantitative Untersuchungen, die wirklich zum Beispiel anhand der an Streiks verlorenen
+
+509
+00:50:29,760 --> 00:50:35,880
+Arbeitstage ganz klar zeigen können, dass die Konfliktintensität in diesen Branchen viel höher
+
+510
+00:50:35,880 --> 00:50:42,720
+ist als in den sogenannten analogen Branchen. Das heißt, da tut sich wirklich was. Und mir
+
+511
+00:50:42,720 --> 00:50:47,800
+scheint das auch damit zu tun zu haben, dass die technologische Organisation der Arbeit selbst
+
+512
+00:50:47,800 --> 00:50:56,040
+eben ein sehr großes Konfliktpotenzial in sich birgt. Nochmal ein Beispiel für eine größer
+
+513
+00:50:56,040 --> 00:51:02,680
+angelegte Offensive, die so eine Verwundbarkeit auch von digitalen Infrastrukturen ausgenutzt hat,
+
+514
+00:51:02,680 --> 00:51:13,000
+ist ein Streik bei Audi in Ungarn, in dem Motorenwerk dort, wo eben nur ein Teil quasi
+
+515
+00:51:13,000 --> 00:51:21,600
+der Autos hergestellt wird. Und da haben die Beschäftigten gestreikt. Und aufgrund der digitalen
+
+516
+00:51:21,600 --> 00:51:28,720
+Rationalisierung der Lieferketten hat man eben davor eine extreme Verdichtung der Lieferketten
+
+517
+00:51:28,720 --> 00:51:33,560
+gehabt. Das heißt, alle Puffer wurden eliminiert. Man hatte davor ja schon die sogenannte Bean
+
+518
+00:51:33,560 --> 00:51:39,120
+Production, wo das auch schon Programm war. Aber durch die digitale Analyse dieser Lieferprozesse
+
+519
+00:51:39,120 --> 00:51:44,360
+ist es quasi noch um ein Vielfaches gesteigert worden. Und das hat dazu geführt, dass quasi
+
+520
+00:51:44,360 --> 00:51:51,240
+sofort, als die in Streik gegangen sind, in einem Großteil der Autoindustrie in Zentraleuropa quasi
+
+521
+00:51:51,240 --> 00:51:57,160
+die Werke stillstanden. Sofort. Und das hat dann dazu geführt, dass die Beschäftigten in dem Werk,
+
+522
+00:51:57,160 --> 00:52:02,280
+wo sie gestreikt haben, innerhalb von kürzester Zeit, innerhalb von einer Woche war das, glaube
+
+523
+00:52:02,280 --> 00:52:08,480
+ich, 18 Prozent Lohnerhöhung durchsetzen konnten und noch einige andere Dinge. Also da sieht man
+
+524
+00:52:08,480 --> 00:52:15,600
+quasi, dass diese Infrastrukturen durchaus verwundbar sind und eben diese Effizienzgewinne
+
+525
+00:52:15,600 --> 00:52:24,480
+durchaus auch eben mit Kosten einhergehen können, wenn sie eben auf entsprechende Weise lahmgelegt
+
+526
+00:52:24,480 --> 00:52:31,480
+werden. Das heißt aber nicht, dass ich behaupten will, dass quasi allein schon die reine Existenz
+
+527
+00:52:31,960 --> 00:52:38,960
+von solchen Nadelöhern und so weiter jetzt dazu führt, dass das quasi die Beschäftigten macht,
+
+528
+00:52:38,960 --> 00:52:45,880
+unendlich steigt und man quasi alles durchsetzen könnte. Sondern die Basis ist eben immer die
+
+529
+00:52:45,880 --> 00:52:52,520
+Organisierung der Beschäftigten und der Wille, überhaupt so was zu machen. Das ist ja schon
+
+530
+00:52:52,520 --> 00:52:58,080
+ein drastischer Schritt auch. Und dazu ist es eben wichtig, auch diese Mikroprozesse und eben die
+
+531
+00:52:58,080 --> 00:53:02,760
+Fragen von Solidarisierung im Arbeitsprozess und so weiter untersuchen zu können, weil das eben
+
+532
+00:53:02,760 --> 00:53:07,240
+nicht einfach nur technische Potenziale sind, also weder auf der Managementseite noch auf der Seite
+
+533
+00:53:07,240 --> 00:53:11,560
+der Beschäftigten, sondern das sind eben soziale Aushandlungen. Das ist mir eben wichtig, da zu
+
+534
+00:53:11,560 --> 00:53:18,480
+unterstreichen. Und was ich auch total interessant fand, war, dass du ja auch eigentlich auf die
+
+535
+00:53:18,480 --> 00:53:23,640
+Kehrseite dieser, also in dem Fall positive Kehrseite eigentlich der algorithmischen
+
+536
+00:53:23,640 --> 00:53:29,760
+Rationalisierung hinweist. Insofern, als dass ja die Arbeitswelten der Arbeiterinnen zum Beispiel
+
+537
+00:53:29,760 --> 00:53:37,840
+im Fahrradkurierdienst sich ja hier wie dort gleichen. Also ein Fahrradkurier in Lüneburg,
+
+538
+00:53:37,840 --> 00:53:45,400
+der hat quasi ähnlichen Arbeitsbedingungen ausgesetzt wie jemand in London und somit bietet sich
+
+539
+00:53:45,400 --> 00:53:49,120
+natürlich dann auch auf einer organisatorischen Möglichkeit, weil du die ja gerade angesprochen
+
+540
+00:53:49,440 --> 00:53:54,040
+hast, als quasi die Basis von allem mehr oder minder, öffnet sich ja auch da wieder eigentlich
+
+541
+00:53:54,040 --> 00:53:59,520
+ein Fenster, wo man sagen kann, okay, diese Arbeitswelten, die erzeugen eine geteilte Realität,
+
+542
+00:53:59,520 --> 00:54:04,920
+auf der man dann organisationstechnisch auch wieder aufbauen kann. Ja, das ist ganz wichtig.
+
+543
+00:54:04,920 --> 00:54:09,520
+Und das ist auch super, dass du das erwähnst, weil das ist nämlich auch ein Spezifikum dieser
+
+544
+00:54:09,520 --> 00:54:17,880
+sogenannten Plattformbranche, dass dort sehr viel internationale Organisierungen stattfinden von
+
+545
+00:54:17,880 --> 00:54:23,520
+Beschäftigten. Also in klassischen Industriebranchen und auch in den meisten anderen Branchen hat man
+
+546
+00:54:23,520 --> 00:54:30,120
+ja quasi einen strukturell angelegten Nationalismus auch von Gewerkschaften, die oft ja versuchen,
+
+547
+00:54:30,120 --> 00:54:34,200
+einheimische Arbeitsplätze gegenüber der internationalen Konkurrenz zu verteidigen.
+
+548
+00:54:34,200 --> 00:54:40,920
+Und das ist hier überhaupt nicht so, sondern man hat quasi in beiden Plattformunternehmen,
+
+549
+00:54:40,920 --> 00:54:44,360
+die ich untersucht habe und auch noch in vielen anderen, von denen ich es so mitbekommen habe,
+
+550
+00:54:44,360 --> 00:54:51,840
+immer eine international angelegte Organisierung. Also man hat zum Beispiel bei dem Online-Versandtender,
+
+551
+00:54:51,840 --> 00:54:56,000
+den ich untersucht habe, auf der Ebene der Beschäftigten, also nicht auf der Ebene von
+
+552
+00:54:56,000 --> 00:55:00,040
+Gewerkschaftsfunktionären, sondern auf der Ebene der Beschäftigten einen kontinuierlichen
+
+553
+00:55:00,040 --> 00:55:06,600
+Zusammenschluss von Beschäftigten, die sich immer wieder auch treffen, um internationale
+
+554
+00:55:06,600 --> 00:55:13,560
+Strategien für Arbeitskämpfe und so weiter sich zurechtzulegen, zu diskutieren und sich auszutauschen.
+
+555
+00:55:13,560 --> 00:55:18,120
+Und das ist natürlich wichtig bei solchen Unternehmen, die auch selbst international agieren,
+
+556
+00:55:18,120 --> 00:55:23,840
+weil da oft auch in Reaktion auf Streiks dann zum Beispiel die Produktion einfach ganz schnell
+
+557
+00:55:23,840 --> 00:55:30,680
+verleihert werden kann und so weiter. Da geht es dann auch darum, dass Streiks synchronisiert werden
+
+558
+00:55:30,680 --> 00:55:35,640
+und so weiter. Das ist ein wichtiges Element. Bei den Fahrradkurieren, das ist auch der Fall,
+
+559
+00:55:35,640 --> 00:55:43,080
+die haben sich auch international organisiert, eben weil die Arbeitsbedingungen nicht nur ähnlich,
+
+560
+00:55:43,080 --> 00:55:49,000
+sondern wirklich identisch sind. Also es gibt quasi auch, wenn man das vergleicht mit anderen
+
+561
+00:55:49,000 --> 00:55:55,080
+transnational operierenden Unternehmen, gibt es normalerweise schon lokale Spezifika, wie das
+
+562
+00:55:55,080 --> 00:55:58,560
+alles funktioniert, allein schon aufgrund kultureller Unterschiede und so weiter. Aber
+
+563
+00:55:58,560 --> 00:56:04,480
+einer der quasi Effizienzversprechen der algorithmischen Arbeitssteuerung ist ja gerade,
+
+564
+00:56:04,480 --> 00:56:12,800
+dass du quasi diese Dinge völlig ohne größere Kosten beliebig skalieren kannst. Also du kannst
+
+565
+00:56:13,120 --> 00:56:21,920
+mit demselben Start-up in Freiburg und in Singapur auf identische Weise den Arbeitsprozess
+
+566
+00:56:21,920 --> 00:56:28,600
+organisieren und kannst das sogar im Endeffekt mit demselben Managementpersonal machen. Und das
+
+567
+00:56:28,600 --> 00:56:35,120
+bedeutet aber natürlich auch, dass es weniger schwierig ist, sich in die Situation von Kolleginnen
+
+568
+00:56:35,120 --> 00:56:41,800
+in Singapur hineinzuversetzen, weil die eben einen identischen Arbeitsprozess haben. Die machen
+
+569
+00:56:41,800 --> 00:56:48,000
+genau dasselbe wie wir hier und das erleichtert eben überhaupt sozusagen auf einer kulturellen
+
+570
+00:56:48,000 --> 00:56:53,800
+Ebene, so eine internationale Solidarisierung extrem. Und das wiederum verleiht vielen von
+
+571
+00:56:53,800 --> 00:56:58,720
+diesen Arbeitskämpfen eben auch einen wesentlich emanzipatorischeren Charakter als so klassischen
+
+572
+00:56:58,720 --> 00:57:03,840
+Abwehr- und Lohnverhandlungskämpfen, wie wir es sonst so von Gewerkschaftspolitik kennen.
+
+573
+00:57:03,840 --> 00:57:10,160
+Weil man auch da dann eben auf der Abwehrseite quasi eine Skalierbarkeit hat,
+
+574
+00:57:10,720 --> 00:57:15,080
+das ist schon wirklich spannend. Muss man sagen, vielleicht machen wir einen kurzen Shoutout. Gibt
+
+575
+00:57:15,080 --> 00:57:21,720
+es irgendwie eine Kollektion von interessanten Organisationen und Zusammenschlüssen, die man
+
+576
+00:57:21,720 --> 00:57:26,920
+da nennen kann? Vielleicht hört ihr jemand zu, der quasi betroffen ist und dem oder der das
+
+577
+00:57:26,920 --> 00:57:32,120
+helfen kann. Also die Tech-Workers-Coalition fällt mir auf jeden Fall ein. Die V hattest du ja auch
+
+578
+00:57:32,120 --> 00:57:39,640
+im Buch mehrmals erwähnt im Bezug auf Organizing im Bereich eben prekärer Arbeitsverhältnisse,
+
+579
+00:57:40,120 --> 00:57:46,360
+gibt es vielleicht irgendwelche Organisationen, denen man sich beim Bedarf quasi dazu wenden kann?
+
+580
+00:57:46,360 --> 00:57:52,280
+Ja genau, die angesprochenen Basis-Gewerkschaften. Das ist eben wirklich interessant, dass das nicht
+
+581
+00:57:52,280 --> 00:57:56,280
+nur in Deutschland, sondern in ganz Europa wirklich konsistent so ist, dass diese Branchen
+
+582
+00:57:56,280 --> 00:58:01,400
+hauptsächlich von Basis-Gewerkschaften organisiert werden, wo man sich auch gut solidarisch einbringen
+
+583
+00:58:01,400 --> 00:58:06,520
+kann. Also auch wenn man da nicht selbst arbeitet. Ich weiß nicht, ob das sinnvoll ist, die alle
+
+584
+00:58:06,520 --> 00:58:14,920
+aufzuzählen. In England sind das die Independent Workers of Great Britain, in Italien ist das die
+
+585
+00:58:14,920 --> 00:58:23,040
+ZECO-Bus und da gibt es quasi in jedem europäischen Land die Basis-Gewerkschaften. In Deutschland ist
+
+586
+00:58:23,040 --> 00:58:30,760
+es die FAU, die da eben auch meiner Meinung nach recht gute Arbeit machen. Die von dir genannte
+
+587
+00:58:30,760 --> 00:58:37,720
+Techworker Coalition bezieht sich eben mehr auf die Ebene der Beschäftigten, die diese Systeme
+
+588
+00:58:37,720 --> 00:58:43,200
+selbst programmieren. Das ist auch ganz interessant, weil die sich dann eben, wenn die dort organisiert
+
+589
+00:58:43,200 --> 00:58:49,080
+sind, oft auch mit Streiks oder Arbeitskämpfen von ausführenden Beschäftigten solidarisieren und
+
+590
+00:58:49,080 --> 00:58:55,120
+auch natürlich noch mal potenziell zumindest eine ganz andere Macht hätten, quasi die gesamte digitale
+
+591
+00:58:55,120 --> 00:59:02,160
+Infrastruktur auch von heute auf morgen stillzulegen. Aber da ist natürlich die ideologische
+
+592
+00:59:02,160 --> 00:59:06,720
+Integration und auch die Löhne sind da viel höher und deswegen ist die Wahrscheinlichkeit,
+
+593
+00:59:06,720 --> 00:59:11,200
+dass das passiert, erst mal eher gering. Aber es ist zumindest schon mal bemerkenswert, dass es dort
+
+594
+00:59:11,200 --> 00:59:19,640
+so eine Organisation gibt. Was es auch noch gibt, ist bei Amazon zum Beispiel ganz konkret die Amazon
+
+595
+00:59:19,640 --> 00:59:27,360
+Workers International, die sich auch oft in Deutschland treffen, in verschiedenen Amazon-Standorten
+
+596
+00:59:27,360 --> 00:59:37,000
+und sich auch über ihre Unterstützung freuen. Es gibt das Gorillaz Worker Collective. Gorillaz ist
+
+597
+00:59:37,000 --> 00:59:46,440
+ein Lieferunternehmen, was kein fertiges Essen, sondern quasi Supermarktwaren ausliefert und das
+
+598
+00:59:46,440 --> 00:59:50,840
+haben vielleicht einige mitbekommen, die sind gerade im wilden Streik, was auch eben noch mal ein
+
+599
+00:59:50,840 --> 00:59:58,840
+Beispiel für die Zuspitzung dieser Arbeitskämpfe ist und freuen sich deswegen auch über finanzielle
+
+600
+00:59:58,840 --> 01:00:05,400
+Unterstützung ihrer Streikkasse oder auch über Unterstützung an den Streikposten, wenn in der
+
+601
+01:00:05,400 --> 01:00:12,440
+Stadt lebt, wo es Gorillaz gibt. Ja, es gibt noch viele andere Initiativen, aber das ist vielleicht
+
+602
+01:00:12,520 --> 01:00:18,120
+erst mal eine kleine Auswahl, die jetzt momentan auch aktuell ist. Das geht jetzt noch mal ein
+
+603
+01:00:18,120 --> 01:00:22,040
+bisschen ein kleines Stück zurück, aber ich fand es trotzdem noch einen interessanten und wichtigen
+
+604
+01:00:22,040 --> 01:00:28,960
+Aspekt auch in Bezug auf diese spezifische Form der kybernetischen Selbstdisziplinierung innerhalb
+
+605
+01:00:28,960 --> 01:00:34,000
+der Unternehmen, die du beschrieben hast. Ich fand es sehr auffällig oder zumindest schien es mir so,
+
+606
+01:00:34,000 --> 01:00:41,920
+als ob du in dem Buch auch auf eine Art in Bezug auf die Frage, inwiefern das jetzt quasi sich
+
+607
+01:00:42,680 --> 01:00:49,960
+übersetzt oder nicht diese Management-Fantasien, dass eigentlich diejenigen, die diese Form der
+
+608
+01:00:49,960 --> 01:00:54,640
+kybernetisierung am meisten verinnerlichen, dass die eigentlich, also jetzt auf der
+
+609
+01:00:54,640 --> 01:00:59,200
+Arbeiterinnenseite, dass die eigentlich dann auch die sind, die am meisten leiden und das im Grunde
+
+610
+01:00:59,200 --> 01:01:05,680
+eigentlich als eine Art des Takeaways oder als ein Ratschlag vielleicht auch für Arbeiterinnen und
+
+611
+01:01:05,800 --> 01:01:12,000
+Arbeiter, die dem ausgesetzt sind, eigentlich ja dann auf jeden Fall mal wäre, bitte das nicht
+
+612
+01:01:12,000 --> 01:01:17,160
+ernst nehmen, weil sonst tut es euch nicht gut. Ja, und das wissen die Leute selber auch. Also das
+
+613
+01:01:17,160 --> 01:01:22,920
+merkt jeder auch körperlich. Also das ist wirklich auch ein sehr interessanter Aspekt der
+
+614
+01:01:22,920 --> 01:01:29,600
+ethnographischen Forschung, die ich gemacht habe, dass quasi in allen Fällen die Voraussetzung dafür,
+
+615
+01:01:29,600 --> 01:01:35,760
+diese Arbeitsprozesse über eine längere Zeit so durchzuhalten, war, diese Selbstkontrolle oder
+
+616
+01:01:35,760 --> 01:01:41,600
+Selbstoptimierung auf eine gewisse Weise zu verlernen, aktiv. Das hat quasi konsistent
+
+617
+01:01:41,600 --> 01:01:46,880
+einen ähnlichen Verlauf angenommen, nämlich so, dass die Leute, wenn sie angefangen haben,
+
+618
+01:01:46,880 --> 01:01:50,400
+in so einem Job zu arbeiten, das alles extrem ernst genommen haben. Oft gibt es dann da auch
+
+619
+01:01:50,400 --> 01:01:53,600
+irgendwelche Boni, wenn man besonders schnell ist, man wird auch immer mit seinen Kolleginnen
+
+620
+01:01:53,600 --> 01:01:58,440
+und Kollegen verglichen und so weiter und dann gibt es so Rankings und was weiß ich alles. Oft
+
+621
+01:01:58,440 --> 01:02:04,800
+ist das aber völlig unrealistisch, die Vorgaben, die es dort gibt und vor allem führt es extrem
+
+622
+01:02:04,800 --> 01:02:09,640
+schnell zu einer drastischen Erschöpfung. Also die Leute berichten davon, dass sie nachts noch davon
+
+623
+01:02:09,640 --> 01:02:15,960
+träumen, Regale einzusortieren, dass die Fahrradkurriere sind körperlich völlig fertig,
+
+624
+01:02:15,960 --> 01:02:22,560
+ihre Fahrräder gehen kaputt und so weiter. Also das ist quasi nicht machbar, sich endlos zu steigern.
+
+625
+01:02:22,560 --> 01:02:30,360
+Es ist ja klar, als biologische Lebewesen haben wir andere Gesetzmäßigkeiten als quasi das
+
+626
+01:02:30,360 --> 01:02:35,400
+endlose Wachstum des Kapitalismus. Das ist einfach nicht vereinbar und das merkt man körperlich,
+
+627
+01:02:35,400 --> 01:02:41,320
+wenn man in diesen Bereichen arbeitet. Deswegen ist es ganz interessant, dass konsistent quasi
+
+628
+01:02:41,320 --> 01:02:46,560
+die Leute irgendwann anfangen, auf eine gewisse Weise diese Feedbacks zu ignorieren und einfach
+
+629
+01:02:46,560 --> 01:02:50,320
+ihr Ding zu machen. Was übrigens auch ganz interessant ist, ist, dass sich aus dieser
+
+630
+01:02:50,400 --> 01:02:58,000
+kubanetischen Kontrolllogik ja auch eine sehr interessante Form von Bummelstreik ergeben kann,
+
+631
+01:02:58,000 --> 01:03:04,640
+weil nämlich die Vorgaben ja nicht mehr quasi einfach einheitlich berechnet und an alle
+
+632
+01:03:04,640 --> 01:03:09,040
+gleichermaßen angelegt werden, sondern die Vorgaben selbst emigrieren ja aus dem Tracking des
+
+633
+01:03:09,040 --> 01:03:12,920
+Arbeitsprozesses. Das heißt, wenn Beschäftigte sich darauf einigen können, einfach mal einen
+
+634
+01:03:12,920 --> 01:03:17,760
+Gang runterzuschalten, dann wird sich das auch sofort auf die Vorgaben niederschlagen. Und das
+
+635
+01:03:17,760 --> 01:03:24,320
+ist auch passiert teilweise in Betrieben, die ich untersucht habe. Genau, aber was auch wichtig ist,
+
+636
+01:03:24,320 --> 01:03:29,760
+ist, dass es eben manchmal Leute gibt, die das sich nicht leisten können, das einfach zu
+
+637
+01:03:29,760 --> 01:03:34,240
+ignorieren. Und das ist in den von mir untersuchten Betrieben, sind das immer Migranten gewesen,
+
+638
+01:03:34,240 --> 01:03:41,720
+insbesondere Flüchtlinge, wo eben einfach die externe Motivation quasi alles möglichst genau
+
+639
+01:03:41,840 --> 01:03:48,720
+so zu machen, wie es das Management vorsieht, einfach um ein Vielfaches größer ist als bei
+
+640
+01:03:48,720 --> 01:03:54,840
+Leuten, die die lokale Staatsbürgerschaft haben. Deswegen ist das auch oft dann sehr leichtfertig
+
+641
+01:03:54,840 --> 01:03:59,960
+gesagt, dass man das einfach ignorieren kann. Aber für viele eröffnet sich dieser Spielraum eben
+
+642
+01:03:59,960 --> 01:04:06,440
+nicht. Und da findet die Organisierung oder Solidarisierung dann oft eher auch außerhalb
+
+643
+01:04:06,640 --> 01:04:13,160
+der Arbeit statt, also bei kulturellen Events und so weiter, weil eben innerhalb der Arbeit einfach
+
+644
+01:04:13,160 --> 01:04:19,280
+die Angst zu groß ist, gerade wenn zum Beispiel der Aufenthaltsstatus auch an der Arbeit dranhängt.
+
+645
+01:04:19,280 --> 01:04:26,160
+Da hast du vollkommen recht. Also ignorieren ist keine Lösung, sozusagen keine letztgültige. Und
+
+646
+01:04:26,160 --> 01:04:33,880
+insofern, lass uns doch vielleicht noch einbiegen in Zukunft jenseits der reinen Defensive. Du
+
+647
+01:04:33,920 --> 01:04:38,800
+hattest es jetzt schon angesprochen. Es ist eigentlich so, dass innerhalb eines
+
+648
+01:04:38,800 --> 01:04:47,200
+kapitalistischen Zwangs zur Profitmaximierung eigentlich eine wünschenswerte Techniknutzung
+
+649
+01:04:47,200 --> 01:04:54,880
+strukturell unterbunden wird. Das heißt aber auch, dass, wenn man sich jetzt eben Zukunft jenseits
+
+650
+01:04:54,880 --> 01:05:01,280
+dieses Profitzwanges vorstellt, man ja auch Technologien und Formen der Techniknutzung
+
+651
+01:05:01,280 --> 01:05:07,480
+imaginieren könnte, die eben sehr wohl in unser aller Interesse lägen. Vielleicht können wir in
+
+652
+01:05:07,480 --> 01:05:11,200
+dieser Richtung noch mal schauen, welche Veränderungen bräuchte es denn auf der Ebene
+
+653
+01:05:11,200 --> 01:05:17,400
+der Technologien selbst und auch auf der Ebene der Kontexte ihrer Nutzung, ihrer Implementierung,
+
+654
+01:05:17,400 --> 01:05:24,320
+um zu wahrhaft emanzipatorischer Techniknutzung zu kommen, die dann auch eben weit über nur reine
+
+655
+01:05:24,320 --> 01:05:30,280
+Abwehr eigentlich hinausgeht. Ich fange einfach mal im Kleinen an und würde das dann steigern,
+
+656
+01:05:30,280 --> 01:05:38,280
+sozusagen in dem Level der Forderungen. Im Kleinen kann man sehen, dass quasi keiner oder
+
+657
+01:05:38,280 --> 01:05:44,240
+keine der Beschäftigten, mit denen ich gesprochen habe, im klassischen Sinn Technikkritikerin ist.
+
+658
+01:05:44,240 --> 01:05:49,320
+Also da geht es nie darum zu sagen, Technik ist allgemein das Übel der Menschheit und wir sind
+
+659
+01:05:49,320 --> 01:05:54,240
+sozusagen geknechtet, weil es Digitalisierung gibt oder sowas. Diese Position ist mir nie begegnet,
+
+660
+01:05:54,240 --> 01:06:01,360
+das ist ja auch interessant. Sondern es wird eben immer quasi als ein Aushandlungsfeld begriffen
+
+661
+01:06:01,360 --> 01:06:08,360
+und zum Beispiel in dem Unternehmen, wo der smarte Handschuh und Datenbrillen am Widerstand der
+
+662
+01:06:08,360 --> 01:06:13,280
+Beschäftigten gescheitert ist, haben die Beschäftigten sich aktiv dafür eingesetzt,
+
+663
+01:06:13,280 --> 01:06:17,800
+andere Technologien zu bekommen, die sie gerne wollten, die ihnen auch versprochen wurden,
+
+664
+01:06:17,800 --> 01:06:24,160
+weil die auch zu diesem Industrie 4.0 Paket dazugehören. Ein interessantes, auch schön
+
+665
+01:06:24,160 --> 01:06:31,240
+futuristisches Beispiel sind diese sogenannten Exoskelette. Das sind quasi Metallstangen,
+
+666
+01:06:31,240 --> 01:06:36,920
+die am Körper außen angebracht werden, die Gelenke haben und so weiter und die Bewegungen
+
+667
+01:06:36,920 --> 01:06:41,920
+unterstützen können und die aber auch fixierbar sind in der bestimmten Position. Und die
+
+668
+01:06:41,920 --> 01:06:48,320
+Beschäftigten dort mussten oft in unbequemen Positionen arbeiten und da hilft es dann,
+
+669
+01:06:48,320 --> 01:06:52,240
+wenn man sich dann selbst in dieser Position entspannen kann, wenn man das da quasi fixiert.
+
+670
+01:06:52,240 --> 01:06:58,080
+Und während die smarten Handschuhe und so weiter sofort implementiert wurden, kamen diese
+
+671
+01:06:58,080 --> 01:07:03,640
+Exoskelette aber nie. Und da wurde dann gesagt, ja, das ist halt wieder ein Beispiel dafür,
+
+672
+01:07:03,640 --> 01:07:07,800
+dass quasi die Dinge, die wirklich entlasten würden, und da gibt es ja viele Beispiele,
+
+673
+01:07:08,400 --> 01:07:13,040
+wo Technologie wirklich entlastend sein könnte, dass die eben nicht eingesetzt werden, weil es
+
+674
+01:07:13,040 --> 01:07:18,840
+eben nicht unmittelbar die Profitabilität der Produktion steigert, aber was eben wünschenswert
+
+675
+01:07:18,840 --> 01:07:23,560
+ist, gerade wenn man es mit schwerer körperlicher Arbeit zu tun hat. Zum Beispiel bei den
+
+676
+01:07:23,560 --> 01:07:30,560
+Fahrradkurieren ist die Forderung, E-Bikes zu bekommen, anstatt der eigenen Schrotträder,
+
+677
+01:07:30,560 --> 01:07:34,920
+die wirklich kurz vorm Auseinanderfallen sind, weil man einfach kein Geld hat, um sich ein
+
+678
+01:07:34,920 --> 01:07:42,680
+vernünftiges Fahrrad zu kaufen. Das wäre auf einer kleinen Ebene. Wenn man sich die Ebene der
+
+679
+01:07:42,680 --> 01:07:48,520
+Technikgestaltung der algorithmischen Arbeitssteuerung selbst anschaut, könnte man auch eine
+
+680
+01:07:48,520 --> 01:07:55,640
+immanente Kritik quasi daran formulieren, nämlich, dass das eigentlich gar keine richtige
+
+681
+01:07:55,640 --> 01:08:01,240
+Kybernetisierung ist, was da stattfindet, weil es quasi nie eine wirkliche Feedback basierte
+
+682
+01:08:01,240 --> 01:08:05,440
+Selbstorganisierung ist, sondern die Selbstorganisierung immer in vorgegebenen
+
+683
+01:08:05,440 --> 01:08:09,880
+Bahnen verlaufen muss, nämlich in Optimierungsbahnen. Da geht es immer darum, dass eben die
+
+684
+01:08:09,880 --> 01:08:14,320
+sogenannten Torzeiten eliminiert werden, dass alles immer schneller geht und so weiter. Das heißt,
+
+685
+01:08:14,320 --> 01:08:18,760
+es ist, wenn überhaupt eine Selbstorganisierung, dann eine sehr stark kontrollierte Selbstorganisation.
+
+686
+01:08:18,760 --> 01:08:25,440
+Und man könnte hier einfach argumentieren, dass man sagt, okay, wir nehmen, unterstützen diese
+
+687
+01:08:25,440 --> 01:08:30,600
+Feedbacks, aber wir verbinden das eben mit einer wirklichen Selbstorganisierung, dass wir eben
+
+688
+01:08:30,600 --> 01:08:37,040
+wirklich auch Gestaltungskompetenz über unsere Arbeitsprozesse bekommen und eben auch das so
+
+689
+01:08:37,040 --> 01:08:42,720
+gestalten können, dass es eben mit unserer körperlichen und geistigen Unversehrtheit kompatibel
+
+690
+01:08:42,720 --> 01:08:48,000
+ist und vielleicht sogar unserem Wohlbefinden zuträglich ist, was man sich eigentlich hoffen
+
+691
+01:08:48,000 --> 01:08:53,680
+würde, von einer Arbeit, mit der man einen Großteil seines Lebens verbringt. Und da ist
+
+692
+01:08:53,680 --> 01:08:59,120
+ein wichtiger Aspekt, das ist nochmal ein neuer Punkt jetzt, das Verhältnis von Arbeitsintensivierung
+
+693
+01:08:59,680 --> 01:09:08,600
+zu Arbeitsreduzierung. Weil technologischer Fortschritt geht ja oft mit Produktivitätsgewinnen einher.
+
+694
+01:09:08,600 --> 01:09:14,960
+Das heißt, es können mehr Waren in derselben Zeit hergestellt werden. Und da ist natürlich die Frage,
+
+695
+01:09:14,960 --> 01:09:19,600
+wem nutzt das dann im Endeffekt? Heißt das einfach, man arbeitet immer schneller und kann dann mehr
+
+696
+01:09:19,600 --> 01:09:24,600
+Dinge in derselben Zeit oder in kürzerer Zeit produzieren? Oder schafft man es, das umzumünzen?
+
+697
+01:09:24,600 --> 01:09:31,200
+Und da habe ich auch eben in der Forschung, die ich da in einem Industriebetrieb durchgeführt
+
+698
+01:09:31,200 --> 01:09:38,480
+habe, ein interessantes Beispiel dafür beobachten und begleiten können, wo es unter anderem auch
+
+699
+01:09:38,480 --> 01:09:43,960
+um diese Technologie ging, die ich vorher erwähnt habe, wo dann quasi der menschlichen Arbeitskraft
+
+700
+01:09:43,960 --> 01:09:48,840
+bei ungenügender Auslastung noch ein weiterer Job zugewiesen wurde und so weiter. Und es wurden
+
+701
+01:09:48,840 --> 01:09:54,080
+noch andere Dinge implementiert, die alle auf so eine Verdichtung hinausliefen. Und das hat man
+
+702
+01:09:54,080 --> 01:09:58,840
+in diesem Fall eben erkannt frühzeitig und gesagt, okay, es geht hier offensichtlich darum,
+
+703
+01:09:58,840 --> 01:10:08,000
+dass wir mehr arbeiten sollen. Und wir stimmen dem nur zu, wenn es im Gegenzug ein Mehr an freier
+
+704
+01:10:08,000 --> 01:10:13,520
+Zeit gibt. Und dann hat man sich eben auf zusätzliche Urlaubstage geeignet in einem
+
+705
+01:10:13,520 --> 01:10:19,120
+Haustarifvertrag. Das ist zum Beispiel eine vorbildliche Technopolitik von unten, die
+
+706
+01:10:19,120 --> 01:10:25,520
+zukunftsweisend ist. Weil Arbeitszeitverkürzung natürlich unmittelbar auch für den Beschäftigten
+
+707
+01:10:25,520 --> 01:10:33,000
+zuträglich ist. Man ist weniger gestresst, hat mehr Zeit für sein echtes Leben und aber auch
+
+708
+01:10:33,000 --> 01:10:39,080
+gesellschaftlich sinnvoll ist. Weil sozusagen Arbeitsmärkten, die von einer starken Ungleichheit,
+
+709
+01:10:39,080 --> 01:10:43,800
+von Überbeschäftigung und Unterbeschäftigung geprägt sind, kann eine Arbeitszeitverkürzung
+
+710
+01:10:43,800 --> 01:10:49,640
+natürlich dazu führen, dass die Arbeitszeit gesellschaftlich gerechter verteilt wird. Es
+
+711
+01:10:49,640 --> 01:10:55,440
+ist aber auch ökologisch eine extrem sinnvolle Maßnahme, quasi die Arbeitszeit absolut zu
+
+712
+01:10:55,440 --> 01:11:03,520
+reduzieren, weil das sich auch direkt auf die CO2-Emissionen und so weiter auswirkt. Also
+
+713
+01:11:03,520 --> 01:11:08,600
+Arbeitszeitverkürzung halte ich für einen extrem wichtigen technopolitischen Punkt. Ein weiterer
+
+714
+01:11:08,600 --> 01:11:14,440
+Punkt, ein bisschen auf einer Makro-Ebene, einer Regulationsebene, wäre eine Demokratisierung
+
+715
+01:11:14,440 --> 01:11:22,400
+der Innovationspolitik. Also wir haben es gerade mit einer staatlichen Förderung von Innovation
+
+716
+01:11:22,400 --> 01:11:29,320
+zu tun in allen früh industrialisierten Ländern, wo sehr viel Geld da hinein gebuttert wird,
+
+717
+01:11:29,320 --> 01:11:34,520
+dass Technologien entwickelt werden, die einzig unter Leinen der Effizienzsteigerung und der
+
+718
+01:11:34,520 --> 01:11:39,920
+Profitmaximierung dienen. Deutschland ist da ein besonders drastischer Fall. Also wir haben hier
+
+719
+01:11:39,920 --> 01:11:49,280
+die Fraunhofer-Institute, die sehr, sehr viel Geld und in vielen Fällen staatliches Geld dafür
+
+720
+01:11:49,280 --> 01:11:54,240
+verwenden, konkrete Technologien zu entwickeln, die dann in Betrieben angewandt werden. Ich habe
+
+721
+01:11:54,240 --> 01:12:00,880
+auch einen so einen Prozess begleiten können, wo von einem Fraunhofer-Institut ein Tool entwickelt
+
+722
+01:12:00,880 --> 01:12:05,520
+wurde, was die Schichtplanung automatisieren sollte, wo es darum ging, dass quasi Mitarbeitende
+
+723
+01:12:05,520 --> 01:12:10,200
+profitiert werden und dann automatisch, wenn sie irgendwo gebraucht werden, irgendwo zugewiesen
+
+724
+01:12:10,200 --> 01:12:13,680
+werden. Und da freut sich natürlich jeder Manager, weil das natürlich, kann man sich denken,
+
+725
+01:12:13,680 --> 01:12:19,840
+sehr gut dazu geeignet ist, auch mehr Leiharbeit einzubinden etc. und Prekarisierung voranzutreiben.
+
+726
+01:12:19,840 --> 01:12:26,080
+Und ich würde sagen, wir haben es hier mit staatlichem Geld zu tun, zumindest teilweise
+
+727
+01:12:26,080 --> 01:12:30,800
+staatlichen Institutionen. Die muss sofort demokratischer Kontrolle unterzogen werden
+
+728
+01:12:30,800 --> 01:12:38,600
+und alle Dinge, die dort entwickelt werden, müssen durch irgendeine Art von Ethikprüfung durch,
+
+729
+01:12:38,600 --> 01:12:43,600
+die dafür sorgt, dass es keine staatlich geförderte technische Innovation gibt,
+
+730
+01:12:43,600 --> 01:12:49,680
+die nicht soziale und ökologische Ziele fördert. Ja, also das wäre sozusagen wirklich ein
+
+731
+01:12:49,680 --> 01:12:55,720
+realpolitischer Punkt, der mir aber unglaublich wichtig scheint, weil eben Technologie, wie wir
+
+732
+01:12:55,720 --> 01:13:00,120
+jetzt diskutiert haben, wirklich inherent politisch ist und auch viel unseres Alltagslebens
+
+733
+01:13:00,120 --> 01:13:05,480
+strukturiert und aber unglaublich unterdemokratisiert ist, weil das quasi alles sich einfach nur in
+
+734
+01:13:05,480 --> 01:13:11,800
+so einer Machbarkeitslogik vollzieht. Ja, und da muss Demokratisierung auf unterschiedlichen Ebenen her.
+
+735
+01:13:11,800 --> 01:13:20,000
+Ah, jetzt habe ich kurz noch eine Pause eingesetzt, weil ich dachte, es kommt noch das Moonshot-Projekt.
+
+736
+01:13:20,000 --> 01:13:26,280
+Gibt es ein Moonshot-Projekt, Simon? Maximale Forderung. Was ist jenseits der Defensive,
+
+737
+01:13:26,280 --> 01:13:31,880
+jenseits des wir wollen auch mitspielen? Ja, also die maximale Forderung ist das,
+
+738
+01:13:31,880 --> 01:13:38,840
+was wir in unserem letzten Gespräch diskutiert haben, nämlich die demokratische Planung von
+
+739
+01:13:38,840 --> 01:13:45,440
+wirtschaftlichen Aktivitäten. Und das ist was, wofür einige der Technologien, die wir hier
+
+740
+01:13:45,440 --> 01:13:51,480
+diskutiert haben, auch nützlich sein können. Also dann eher auf einem Makro-Maßstab, wo man
+
+741
+01:13:51,480 --> 01:14:04,320
+ohne größere, zumindest technische Probleme die Produktion nicht mehr über Geld-Inputs steuern
+
+742
+01:14:04,320 --> 01:14:10,240
+könnte und quasi einfach nur das produziert würde, was kaufkräftige Nachfrage findet,
+
+743
+01:14:10,240 --> 01:14:15,320
+sondern quasi die Produktion unmittelbar an Bedürfnisse, an menschliche Bedürfnisse
+
+744
+01:14:15,320 --> 01:14:23,440
+einerseits zu koppeln und andererseits aber auch an biologische Grenzen und an ökologische Grenzen,
+
+745
+01:14:23,440 --> 01:14:28,440
+also an die Frage zum Beispiel, wie viel wollen wir gesellschaftlich überhaupt arbeiten? In wie
+
+746
+01:14:28,440 --> 01:14:36,040
+weit können wir unsere Ressourcen vernutzen und so weiter? Und das ließe sich demokratisch
+
+747
+01:14:36,040 --> 01:14:45,280
+festlegen und dann diese sich quasi mit einer digital unterstützten Planung ein
+
+748
+01:14:45,280 --> 01:14:56,120
+arbeitsteiliges Wirtschaftsmodell realisieren, was gleichermaßen demokratisch, nachhaltig und eben
+
+749
+01:14:56,120 --> 01:15:02,680
+aber nicht einfach primitivistisch ist, auf eher Ebene irgendwie von jede Kommune macht irgendwie
+
+750
+01:15:02,680 --> 01:15:10,960
+ihr Ding, sondern es wäre trotzdem möglich, eben Arbeitsteilung und überregionale Koordination zu
+
+751
+01:15:10,960 --> 01:15:19,440
+ermöglichen, die nicht quasi top-down realisiert wird, sondern in einer dann hoffentlich realen,
+
+752
+01:15:19,440 --> 01:15:25,440
+kybernetisch unterstützten Selbstorganisation. Wunderbar. Simon, das ist doch ein absolut
+
+753
+01:15:25,920 --> 01:15:33,440
+würdiges Moonshot-Projekt für ein Gespräch innerhalb von Future Histories. Simon, am Ende frage ich
+
+754
+01:15:33,440 --> 01:15:43,480
+immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig? Also ehrlich gesagt stimmt
+
+755
+01:15:43,480 --> 01:15:51,360
+mich gerade noch weniger freudig als bei unserem letzten Gespräch. Ja, insbesondere auch in meiner
+
+756
+01:15:51,360 --> 01:15:57,640
+neuen Rolle als Vater denke ich mir schon oft, oh shit, so in was für eine Welt habe ich da ein
+
+757
+01:15:57,640 --> 01:16:03,440
+Kind reingesetzt? Ja, also ich finde, es sieht tatsächlich derzeit sehr düster aus. Und der
+
+758
+01:16:03,440 --> 01:16:11,240
+einzige Hoffnungsschimmer, der sich für mich ergibt, also angesichts von sich drastisch
+
+759
+01:16:11,240 --> 01:16:19,520
+beschleunender ökologischer Krise, recht zurück und quasi, ja man muss eigentlich schon sagen,
+
+760
+01:16:19,680 --> 01:16:27,480
+Realitätsverweigerung der sogenannten Realpolitik, sind soziale Bewegungen. Und da gab es ja in der
+
+761
+01:16:27,480 --> 01:16:34,360
+letzten Zeit auch einige Wellen von Bewegungen, die auch zugenommen haben, wie die Black Lives
+
+762
+01:16:34,360 --> 01:16:40,360
+Matter Bewegung oder die Klimabewegung, auf die ich meine Hoffnung setzen würde. Und es bleibt zu
+
+763
+01:16:40,360 --> 01:16:50,720
+hoffen, dass diese Welten größer werden und diesen ganzen zerstörerischen Mist noch wegspülen,
+
+764
+01:16:50,720 --> 01:16:57,880
+bevor es zu spät ist. Simon, das wollen wir ganz unbedingt hoffen. Vielen Dank für das Gespräch.
+
+765
+01:16:57,880 --> 01:17:00,440
+Danke dir, es war sehr spannend, Jan.
+
+766
+01:17:00,440 --> 01:17:12,200
+Das war Future Histories für heute. Vielen Dank fürs Zuhören. Shownotizen und vieles
+
+767
+01:17:12,200 --> 01:17:18,800
+mehr findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+
+768
+01:17:18,800 --> 01:17:24,240
+Future Histories oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen
+
+769
+01:17:24,240 --> 01:17:30,720
+großen Podcastplattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den
+
+770
+01:17:30,720 --> 01:17:36,440
+Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne
+
+771
+01:17:36,440 --> 01:17:42,800
+unter jan at futurehistories.today. Ich freue mich immer sehr über interessante Rückmeldungen
+
+772
+01:17:42,800 --> 01:17:48,280
+und Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf
+
+773
+01:17:48,360 --> 01:17:55,760
+patreon.com-futurehistories oder auch via Spende auf unserer Homepage. Future Histories ist eine
+
+774
+01:17:55,760 --> 01:18:03,520
+Produktion von MetaLapses zu finden auf meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.
+

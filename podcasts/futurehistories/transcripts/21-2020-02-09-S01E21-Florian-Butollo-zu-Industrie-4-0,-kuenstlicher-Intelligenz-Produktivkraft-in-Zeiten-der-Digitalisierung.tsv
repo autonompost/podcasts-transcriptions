@@ -1,0 +1,628 @@
+start	end	text
+0	4800	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellungen
+4800	10440	von Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Florian Butollo begrüßen zu
+10440	16640	dürfen. Florian ist Forschungsgruppenleiter am Berliner Weizenbaum-Institut. Seine Forschungsgruppe
+16640	22320	trägt den klingenden Titel Arbeiten in hochautomatisierten digital-hybriden Prozessen.
+22320	28320	Er hat kürzlich einen Sammelband herausgebracht mit dem Titel Marx und die Roboter und er ist
+28320	33400	Mitglied in der Enquete-Kommission des Deutschen Bundestages zum Thema künstliche Intelligenz.
+33400	40000	Über all das werden wir heute auch sprechen, aber vorher noch kurz ein paar Ankündigungen
+40000	46280	in eigener Sache. Zum einen darf ich Dank aussprechen. Vielen, vielen Dank an Timo
+46280	52120	für die Unterstützung bei Patreon. Ebenso an den User oder die Userin, ich weiß es nicht,
+52120	58080	mit dem Pseudonym afish. Auch dir vielen Dank für die Unterstützung bei Patreon. Ich weiß,
+58080	65160	es ist wirklich sehr zu schätzen. Und zwei Termine. Am 26.2. werde ich am Weizenbaum-Institut in
+65160	70800	Berlin, wo ich derzeit Research Fellow bin, eine Panel-Discussion veranstalten. Kommt dahin. Das
+70800	77120	wird absolut super. Um 18 Uhr am 26.2. im Weizenbaum-Institut für die vernetzte Gesellschaft.
+77120	83360	Das werden diskutieren Benjamin Seibel, Jair Clarabrecke, ich und noch ein dritter Gast,
+83360	88320	von dem ich die Bestätigung noch nicht ganz fix habe und deswegen ich das hier jetzt noch
+88320	93880	nicht verkünden kann. Das Thema lautet Cryptoeconomics als Menschenregierungskunst.
+93880	102680	Und direkt am nächsten Tag, am 27.2.2020 habe ich die große Freude, ein Gespräch moderieren
+102680	107600	zu dürfen zwischen einer befreundeten Künstlerin Anna Witt und meinem heutigen Gast Florian
+107600	112560	Botollo. Anna hatte mich nämlich gefragt, ob ich vielleicht einen Wissenschaftler wüsste,
+112560	120600	der zu dem Thema ihrer aktuellen Arbeit forscht. Und das lautet der Just-Automatisierung und die
+120600	127280	Utopie vom Ende der Arbeit. Da musste ich natürlich sofort an Florian denken und so kam das ganze
+127280	135600	zustande. Ich freue mich also sehr, am 27.2.2020 euch alle in der Galerie Tanja Wagner zu sehen,
+135920	140960	wo ein Gespräch stattfinden wird, das sicher auch super interessant und spannend wird. Ich glaube,
+140960	145080	es fängt an um 19 Uhr. Das weiß ich aber noch nicht so genau fix. Da müsstet ihr vielleicht
+145080	150600	auch noch mal auf der Homepage von der Galerie Tanja Wagner schauen. Wenn euch Future Histories
+150600	155320	gefällt, dann erzählt es doch bitte einem Freund oder einer Freundin, von dem ihr glaubt,
+155320	161120	dass ihr oder ihm dieser Podcast hier auch gefallen könnte. Jetzt aber viel Spaß bei
+161200	171560	der heutigen Folge mit Florian Botollo. Herzlich willkommen, Florian.
+171560	174600	Danke, Hallo Jan. Florian, wir wollen versuchen in unserem
+174600	179680	Gespräch heute zwei Themenfelder abzudecken. Das erste wird bei Weitem den größeren Teil ausmachen
+179680	184880	und man könnte es unter dem Titel Produktivkraft in Zeiten der Digitalisierung zusammenfassen.
+184880	190480	Das zweite Themenfeld ist meinem Wunsch geschuldet, etwas hinter die Kulissen dieser Enquete-Kommission
+190480	195600	zu gucken. Ich hätte also im Ausklang des Gesprächs dann gerne noch alles Insider wissen,
+195600	201560	die juicy Details, allen Gossip und natürlich auch alle fachlich relevanten Informationen aus
+201560	208080	der KI-Enquete-Kommission. Ich steige grundsätzlich ganz gerne mit Definitionsfragen ein, so auch heute,
+208080	213720	was verstehst du unter Produktivkraft und warum ist sie für dich eine geeignete Perspektive der
+213720	219400	Betrachtung von zeitgenössischen gesellschaftlichen Veränderungen und ihrem Verhältnis zu Technologie.
+219400	226480	Unter Produktivkraft verstehe ich alle gesellschaftlichen Mittel, die Natur zu
+226480	233080	bearbeiten und dadurch Reichtümer zu erschöpfen, menschliche Möglichkeiten zu erweitern und es
+233080	237120	umfasst eben technische Mittel, aber nicht nur. Das sind auch Formen der Arbeitsteilung,
+237120	243160	ist auch der allgemeine Bildungsstand, eine Gesellschaftsformation und daraus leitet
+243160	249440	sich sozusagen ab, was potenziell alles gemacht werden könnte in materieller Hinsicht,
+249440	254760	wie sozusagen Wohlstand geschaffen werden kann, aber auch die Natur bearbeitet werden kann. Das
+254760	260920	ist sozusagen die eine Seite. Bei Marx ist es durchaus so, dass der Begriff doppeldeutig ist.
+260920	264880	Also es gibt die Bedeutung, von der ich gerade erzählt habe, diese allgemeine, allgemeine
+264880	269840	soziotechnische Potenzial kann man sagen zur Bearbeitung der Welt. Es gibt aber auch einen
+269840	274320	engeren Begriff, der dann eher dem entspricht, was man heutzutage die Arbeitsproduktivität
+274320	283400	nennt, also der konkrete Aufwand, der nötig ist, um einen bestimmten Ertrag zu bestimmen. Und dann
+283400	287800	wird es kompliziert, weil das eine ist nicht dasselbe wie das andere. Was wir im Moment haben,
+287800	293440	gesellschaftlich gesehen, ist, dass die Produktivkräfte als Potenzial immer weiter zunehmen,
+293440	299800	die theoretischen Möglichkeiten, Reichtum zu erzeugen, ins unermessliche fast steigen,
+299800	304080	und gleichzeitig die Produktivitätsentwicklung flach ist, das eigentlich immer weniger zum
+304080	308480	Einsatz kommt. Und mit dem Paradox beschäftige ich mich. Darum geht es auch viel in dem Buch,
+308480	314520	Marx und die Roboter. Bevor wir uns dieser Frage genauer widmen, warum das so ist,
+314520	319800	also warum das so auseinanderklafft, vielleicht noch ganz kurz, Produktivkraft ist wahrscheinlich
+319800	324040	natürlich der weniger geläufige Begriff, aber ich finde es trotzdem auch vielleicht noch mal ganz
+324040	332200	wichtig. Wie definierst du Digitalisierung? Digitalisierung definiere ich als eigentlich
+332200	336920	digitale Verdopplung der Welt. Das ist die ganz abstrakte Herangehensweise. Es gibt auch den
+336920	342560	verwandten Begriff der Informatisierung, der eigentlich besser passt, der davon ausgeht,
+342560	346840	dass es das eigentlich schon sehr lange gibt. Also schon die doppelte Buchführung ist so was wie
+346840	353640	eine Verdopplung der digitalen Welt, der Abbildung in Zahlen. Und das setzt sich sozusagen immer
+353640	360000	weiter fort bis hin zu dem Prozess, dass wir eben heute Bilder, Soundbites und so weiter und so fort
+360000	368600	oder Geräusche abbilden können in Bites und Zahlen. Und das ist sozusagen ein schleichender,
+368600	373320	ein laufender Prozess. Daran aufsetzen muss man natürlich fragen, was ist jetzt neu? Wann
+373320	379120	sind sozusagen epochale Entwicklungen, die noch mal die Digitalisierung oder Phasen der
+379120	385400	Digitalisierung ausdrücken? Und da sind am gängigsten natürlich die Erfindungen des Computers,
+385400	390840	dann des PCs als Massenprodukt, die Erfindungen des Internets und heute des Internets der Dinge.
+390840	396680	Also wenn man gegenwärtig eine Diskussion um Digitalisierung und Arbeit führt, dann ist es
+396680	401120	eigentlich eine sehr schwamme, begriffliche Formulierung, weil die kann man schon seit vielen
+401120	405920	Jahrzehnten führen. Die Frage ist, was ist eigentlich heute neu? Wo kommt tatsächlich was
+405920	412760	Neues zum Tragen? Und das ist gar nicht so leicht zu beantworten oft, weil im öffentlichen Diskurs
+412760	418800	schnell Revolutionen deklariert werden. Bei näherem Hinsicht man doch sehr stark differenzieren muss,
+418800	423280	was ist jetzt wirklich qualitativ neu und wo setzen sich bestehende Pfade industrieller
+423280	429800	Organisationen und des Technikeinsatzes im Grunde fort. Das also war auch ziemlich genau das,
+429800	434720	was ich so schön fand an eurer Betrachtung eigentlich, dass ihr diesen Produktivkraftbegriff
+434720	440120	verwendet, um wirklich mal das auch abzuklopfen. Wie viel ist denn an diesen Versprechen konkret
+440120	448680	dran und was ist vielleicht einfach nur Hype und eventuell auch interessensgeleitete Augenwischerei
+448680	457560	könnte man auch sagen. Diese Frage des Neuen ist eben ein Aspekt, den ihr in einem Paper behandelt
+457560	469920	und zwar du und Patrizia De Paivo Larreiro. Das Paper trägt den Titel Technik-Utopien und
+469920	475040	säkulare Stagnation der Kapitalismus als Treiber und Schranke des Digitalen und da steckt es ja
+475040	479400	auch schon so ein bisschen drin. Auf der einen Seite Treiber, auf der anderen Seite eben auch
+479400	486080	Schranke des Digitalen. Also es geht um die Frage, inwiefern eigentlich das Profit streben und die
+486080	491960	permanente Ausrichtung am Profit streben, inwiefern das nicht eigentlich verhindert,
+491960	497680	dass diese vollen, also die Potenziale voll ausgenutzt werden, die in so was wie einer
+497680	503840	fortschreitenden Digitalisierung eigentlich lägen. Warum ist das so? Warum verhindert der
+503840	509520	Kapitalismus und dieses Profit streben die Ausschöpfung dieses Potenzial? Denn das gängige
+509520	515040	Narrativ versucht uns ja allen weis zu machen, dass der Kapitalismus gerade das erzeugen würde,
+515040	523080	dass er gerade Erfindungsreichtum und und so weiter hervorbrächte. Es ist ja beides so. Also wir sagen
+523080	528520	nicht nur, dass es nicht so ist, aber es ist eben wichtig zu verstehen, dass es nicht so ist. Zunächst,
+528520	533560	um das noch mal zu unterstreichen, warum das wichtig ist, also uns wird gegenwärtig eigentlich der
+533560	538160	politische Diskurs verschiebt sich mal mehr in die Zukunft. Also wir hatten die Finanzkrise 2008,
+538160	541880	2009, da war irgendwie die Stimmung, der Kapitalismus kann nicht weiter überleben,
+541880	546440	das Ganze ist irgendwie hat sich totgelaufen. Und jetzt haben wir eine Phase und auch eine Antwort
+546440	552400	diskursiv darauf, die sagt, in der Zukunft wird alles besser. Es wird alles produktiver,
+552400	558280	es wird mehr Wachstum geben und das ist für die Beschäftigten auch wunderbar. Wenn man den Diskurs
+558280	562360	um Arbeit 4.0 ein bisschen verfolgt, hat man das Gefühl, das ist eigentlich nur die Rede von
+562360	566920	höherwertiger Tätigkeit und Entlastung, von körperlicher Anstrengung und so weiter und so
+566920	571520	fort. Stichwort Enquete, ich bin gerade heute am Text gesessen, der eben genau diese Mythen
+571520	577680	pflegt. Und das ist unkritisch und blauäugig, weil jetzt gerade mal in Bezug auf die Wachstumsversprechen,
+577680	582960	die jetzt schon seit Jahren kursieren und das 3.4.0 ist jetzt, der Begriff ist jetzt neun Jahre alt.
+582960	588040	Es wurde gesagt, das führt zu jährlichen Produktivitätssteigerungen von bis zu zwei
+588040	594280	Prozent und so weiter. Guck dir mal die Daten an aktuell. Also wir haben de facto einen Rückgang
+594320	600080	wirtschaftlicher Leistungsfähigkeit, wir haben weltweiten Stagnationen auf den Märkten, aber
+600080	608520	auch sehr flache Wachstumsentwicklungen. So und warum ist das so? Die zentrale These ist zunächst
+608520	614120	mal und das sagt einem auch im Grunde der Produktivkraftbegriff, wenn man richtig versteht,
+614120	619600	Unternehmen setzen Technologien nicht um ihre Selbstwillen ein, weil die einfach auf Technik
+619600	626360	stehen, sondern sie wollen ja da was rauskriegen dabei. Das heißt, der Maßstab dafür, was gemacht
+626360	631600	wird, ist nicht nur das, was theoretisch denkbar ist und technisch machbar ist, sondern eine ganz
+631600	637800	konkrete Kosten-Nutzen-Rechnung. Kann ich einen Prozess wirklich effektiver organisieren? Rechtfertigt
+637800	642800	diese Einsparung in den Ausgaben, dann tatsächlich auch die Investitionen, die ich brauche, um das zu
+642800	648760	machen. Investition inklusive Ausbildung der Beschäftigten, inklusive der Bugs und Fehler,
+648760	653880	die auftreten in solchen hochautomatisierten Prozessen. Und das ist eben ein Suchprozess im
+653880	660320	Moment. Das ist keineswegs eine Revolution, wo offensichtlich KI und Automatisierung alles
+660320	665280	besser kann, sondern in manchen Bereichen ist es der Fall, in anderen noch nicht, in anderen
+665280	670720	vielleicht nie. Und das ist erstmal die ganz grundsätzliche Perspektive. Erstens. Zweitens
+670720	676480	ist das große Problem ja die Stagnation in der Nachfrage, makroökonomisch gesehen. Also
+676480	681720	der Blick auf die neue Technik, der nur die technischen Möglichkeiten anguckt und auch nur
+681720	687920	der Blick, der sozusagen sagt Produktivkraftentwicklung als potenzielle Einsparung für das Kapital,
+687920	694520	der vernachlässigt die ganzen wirtschaftlichen Kreisläufe, die Sphäre der Zirkulation, die bei
+694520	699600	Marx erst im Band zwei und drei vorkommen sozusagen. Die Krisen, die Zirkulation. Marx behandelt im
+699600	709440	Band eins die Frage der Produktivkraft und tut eigentlich so, als ob Unternehmen nur für sich
+709440	713960	selbst existieren würden. Also der ganze Kontext, dass sie konkurrieren mit anderen Unternehmen,
+713960	719840	dass sie abhängig sind von der gesamtwirtschaftlichen effektiven Nachfrage, kommt da eben nicht vor,
+719840	725800	aber in der Realwirtschaft schon. Das heißt, wenn wir jetzt in einer Situation leben, wo die
+725800	730840	Nachfrage strukturell begrenzt ist und Unternehmen immer weiter ihre Produktivität aufblähen wollen,
+730840	735880	dann klafft das eine und das andere immer weiter auseinander. Und deswegen funktioniert das nicht.
+735880	741800	Das ist sozusagen der Hauptgrund. Wenn wir jetzt eine Situation hätten, in der die Nachfrage massiv
+741800	747240	expandiert, zum Beispiel weil Reichtum gerechter verteilt wird, dann wäre es sehr wohl denkbar,
+747240	753200	dass sich Investitionen der Unternehmen viel mehr lohnen, weil der Absatz gesichert ist und sie
+753200	757840	somit mehr Einnahmen machen. Da das nicht der Fall ist, bremst das das Tempo der technischen
+757840	762040	Entwicklung, weil diese ganzen Investitionen unter dem Vorbehalt stehen, dass die Produkte
+762040	768160	überhaupt an einen Mann gebracht werden können oder die Frau. Das ist interessant, weil das hieße ja
+768160	775920	jetzt noch nicht. Also das setzt an einem anderen Punkt an. Das sagt er jetzt eben, es gibt nicht
+775920	781160	genug Kaufkraft, weil die Vermögen zu ungleich verteilt sind. Deswegen können diese Produkte
+781160	786600	nicht abgesetzt werden. An einem anderen Punkt im Text und so wie ich auch die Logik verstanden
+786600	794440	habe, gibt es ja noch eine andere Ebene, wo man sagt, es gibt aber einen Gebrauchswert der
+794440	801320	Dinge. Also was für Technologien könnte man erzeugen, die uns alle helfen in irgendeiner
+801320	806080	Form. Und die sind nicht deckungsgleich mit den Technologien, die potenziell irgendwann mal
+806080	812160	Profit abwerfen. Es gibt eine Menge an, also bei Pharma zum Beispiel ist das ja immer wieder
+812160	817280	Thema, dass irgendwelche Forschung von den Pharma-Konzernen nicht betrieben wird, obwohl sie für
+817280	822640	uns alle total hilfreich richtig wichtig und gut wäre. Aber es steckt ja kein Profit drin und
+822640	827120	deswegen passiert das nicht. Also da klafft ja dann zusätzlich auch noch mal was auseinander,
+827120	834360	das nicht über diesen Zuwachs an Kaufkraft oder sowas kompensiert werden könnte. Also da steckt,
+834360	840000	da schlummert eigentlich noch mal ein anderes strukturelles Problem, oder? Ja, wenn ich das
+840000	849760	richtig verstehe, schon. Also es ist so, als Potenzial haben sich die Produktivkräfte sehr
+849760	856680	stark entwickelt. Also man könnte jetzt auf Basis des Internets der Dinge vieles rationaler planen
+856680	863200	auch oder dezentrale Planung von Ökonomien voranzutreiben, die eben nicht mehr zentralistisch
+863240	872320	funktioniert, sondern auf Mikrobasis sozusagen die effektivste Kopplung von Nachfrage und Angebot
+872320	876200	und sowas organisiert. Das ist alles möglich mit diesen Technologien. Auch Plattformen,
+876200	881960	digitale Arbeitsplattformen, die in der linken Debatte zurecht kritisiert werden und nur aus
+881960	887800	der Perspektive gesehen werden, könnte ein sehr effektiver Weg sein, dass Leute einfach ihre
+887800	892040	Fähigkeiten anbieten für die verschiedensten Tätigkeiten. Also Marx hat mal irgendwie dieses
+892040	899440	berühmte Zitat gebracht von, er geht irgendwie morgens jagen, abends fischen, danach philosophieren
+899440	903320	und ich weiß nicht, was er sonst noch macht. Und eigentlich, das ist bisher undenkbar,
+903320	907120	aber so über digitale Plattformen konnte man sich solche Möglichkeiten vorstellen,
+907120	911080	dass tatsächlich Leute in verschiedene Arbeitsverhältnisse flexibel eingebunden werden,
+911080	916400	wenn sie eben nicht von dieser Precarität betroffen sind, die es unter kapitalistischen
+917360	924520	Also von dem her, Wachstum der Produktivkräfte findet statt. Aber wenn die kapitalistischen
+924520	931520	Verwertungsmöglichkeiten für solche Potenziale letztendlich nicht ausreichend da sind, das heißt,
+931520	936120	wenn Unternehmen das nicht zu Geld machen werden, werden sie tendenziell auch nicht da rein
+936120	941560	investieren, diese Möglichkeiten weiter auszubauen. Das heißt, es wird immer mehr zum Potenzial und
+941560	948600	immer weniger real. Mehr noch, Unternehmen würden in Pfade investieren, die aus gesellschaftlicher
+948600	953560	Sicht eher sinnlos sind. Vorschlag-Algorithmen im E-Commerce zum Beispiel überhaupt, die ganze
+953560	960640	Energie, die in den E-Commerce fließt und in Online-Versandhandel usw. reflektiert ja gerade,
+960640	966520	dass die Konsumentenmärkte immer umkämpfter sind und immer enger werden. KI-Entwicklung hat einen
+966520	972560	extremen Schwerpunkt darauf, die Vorlieben von Menschen im Vorhinein schon zu kennen, um den
+972560	976800	Absatz darauf auszurichten, dass es in gesellschaftlicher Hinsicht Unsinn oder zumindest
+976800	983800	hat nicht die Priorität, dass es verdient, dass da dermaßen viel Geld reinfließt, anstatt dass es
+983800	988520	in gesellschaftlich sinnvollere Anwendungen fließt usw. Also da sehe ich zahlreiche
+988520	993160	Blockaden, die einfach bedeuten, die abstrakten Potenzialen in der Technik werden nicht ausgeschöpft
+993160	997280	und deswegen werden sie aber auch nicht so weiterentwickelt, wie es im gesellschaftlichen
+997280	1003880	Sinn sinnhaft wäre. Das heißt, die ganze Innovationsausrichtung geht eigentlich im Moment
+1003880	1009200	in eine falsche Richtung, was sich auch festmacht an einem Silicon Valley Start-Up Modell, was
+1009200	1015000	letztendlich, sage ich immer, eigentlich nicht die wirklichen Bisonäre belohnen, sondern die
+1015000	1019960	Goldgräber, die am besten versprechen können, dass man mit einer Idee wahnsinnig viel Geld macht und
+1019960	1026240	das ist eben im kapitalistischen Kontext jetzt vor allen Dingen so, indem man auf Geschäftsmodelle
+1026240	1032800	setzt, die bestehende Märkte untergraben durch digitale Plattformen, durch bestimmte
+1032800	1039320	Geschäftsmodelle, die eigentlich eher darauf aus sind, bestehende Märkte zu erobern, als tatsächlich
+1039320	1047080	was produktiv zu leisten. Wie kommt man jetzt dann dahin, dass man all diese Kräfte, die da wären,
+1047080	1053880	um uns allen zu helfen, dass man die umlenkt in eine produktivere Richtung, wo Gelder es da
+1053880	1060280	anzusetzen? Ja, das ist eine große Frage. Also die ist deswegen groß, weil ich glaube, dass letztendlich
+1060280	1068720	wir in einer Phase leben, in der der Kapitalismus tatsächlich einen Teil seines Impetus verliert und
+1068720	1075000	sich in immer größere Widersprüche verstrickt. Das heißt, ich denke, dass letztendlich eine
+1075000	1080880	Umstellung des Systems auf eins, das nicht mehr auf privaten Profitinteressen basiert, sondern auf
+1080880	1087840	gesellschaftlichen Prioritäten notwendig ist und das geht nicht, ohne dass man große Teile des
+1087840	1092000	produktiven Kapitals vergesellschaftet. So insofern bin ich da ganz traditionell unterwegs,
+1092000	1098480	realpolitisch natürlich weit weg von Umsetzungschancen. Deswegen, als ein Mittelweg,
+1098480	1104680	der in der aktuellen Debatte wichtig ist, sehe ich das, was, also jetzt gerade mit Blick auf
+1104680	1108280	Klimawandel und die zivilisatorischen Herausforderungen, vor denen wir stehen,
+1108280	1115200	sehe ich das, was missionsgetriebene Innovationspolitik genannt wird. Das heißt,
+1115200	1120200	der Staat muss viel Geld in die Hand nehmen, Stichwort schwarze Null, also nicht schwarze
+1120200	1126280	Null, sondern Milliardenkapazitäten, um visionäre Projekte aufzusetzen, die bedeuten, dass
+1126280	1131720	Innovationsanreize in eine progressive Richtung gehen und nicht einfach dahin, wo das meiste Kapital
+1131720	1137200	von privaten Investoren ausgeschüttet wird. Historisches Vorbild in Anführungszeichen ist
+1137200	1143080	die Mondlandung. Vorbild deswegen, weil die gesamte Mikroelektronik, die wir heute kennen,
+1143080	1149680	ohne die Mondlandung oder die militärische Nutzung von Computern überhaupt nicht denkbar ist. Also
+1149680	1157400	die NASA hat, wie waren die Zahlen, ich glaube bis zu vier Prozent des US-Bundeshaushalts gefressen
+1157400	1165360	in den 60er Jahren, 60 Prozent aller Technologieinvestitionen in dieser Zeit oder,
+1165360	1170440	nee, ich muss die Zahl nochmal nachschauen. Können wir verlinken, unten in der Beschreibung. Genau,
+1170440	1175960	können wir verlinken. Also es ist absurd, wie stark eigentlich die ganze Förderung von
+1175960	1180440	Schlüsseltechnologien in dieser Phase staatlich gefördert wurde, weil das Militärhalten ein
+1180440	1185320	legitimer staatlicher Zweck war im Kalten Krieg. Ohne das wäre Silicon Valley nicht entstanden,
+1185480	1189960	in dieser Form. Silicon Valley ist eine Konkursmasse dieser staatlichen Förderung,
+1189960	1196840	die dann letztendlich sich in Privatkapitalist-Manier neu organisiert. Und das vor Augen ist es
+1196840	1201440	unverantwortlich, jetzt einfach nur auf Start-ups zu setzen und zu sagen, ja ja, die werden das schon
+1201440	1206800	machen, die beste Idee wird sich durchsetzen, weil ganz einfach das bedeutet, dass die gesamte
+1206800	1213920	geistige Energie dieser Generation sozusagen in möglichst effektive Verwertungsformen gegossen
+1213920	1219320	wird, die eben das nacheifern, was wir jetzt mit den Riesen des Silicon Valley kennen,
+1219320	1224800	die gesellschaftlich zwar Nutzen haben in dem Sinn, dass wir Suchanfragen haben und bequemer
+1224800	1229800	Waren bestellen können, aber gesellschaftlich gesehen eben nicht keinen großen Fortschritt
+1229800	1234480	darstellen. Und wir brauchen so eine Energie für ökologische Veränderungen, für eine
+1234480	1238840	sozial-ökologische Transformation. Das ist sozusagen das politische Ticket, auf dem ich
+1238840	1244840	in der Enquete-Kommission noch unterwegs bin. Und das ist ja auch der Versuch, dass in ein
+1244840	1252680	realpolitisches, vielleicht auch kurz bis mittelfristig umsetzbare Politik zu formulieren,
+1252680	1259640	quasi, bevor wir zu den etwas weiterreichenden Imaginationen von Zukunft kommen. Vielleicht noch,
+1259640	1265320	weil du angesprochen hattest, dass der Kalte Krieg eben auch eine Legitimationsfolie eigentlich
+1265320	1271800	geboten hat, um diese enormen Investitionen zu rechtfertigen. Was wäre denn heute diese
+1271800	1276560	Legitimationsfolie? Man denkt wahrscheinlich mal an die Frage der Ökologie als erstes,
+1276560	1282640	die auch sehr konsenztauglich ist. Siehst du da Möglichkeiten, dass man über diesen Anker
+1282640	1292760	eine solche massive Investitions-State investiert? Also es ist so, es gibt zwei Legitimationsfolien,
+1292760	1297200	die eine ist problematisch und die andere ist progressiv. Die problematische heißt Konkurrenz
+1297200	1304920	zu China und den USA. Und das ist eine Logik, die letztendlich vernachlässigt, dass Deutschland und
+1304920	1311120	Europa genauso Treiber dieses Konkurrenzkampfes sind. Also es ist in der globalen Konkurrenz immer so,
+1311120	1316000	dass irgendwer argumentiert, hinterher zu sein und irgendwer argumentiert, voran zu sein, aber nicht
+1316000	1320360	mehr lange. Und das ist genau die Konstellation. Insofern treten alle aufs Gas und sagen so viel
+1320360	1325360	KI wie möglich. Und das wird den ökologischen Kollaps befördern, weil KI eine Technologie ist,
+1325360	1331320	die erstens im Anwendungszweck nicht immer sinnvoll ist. Das heißt, wenn ich jetzt gerade an
+1331320	1337240	E-Commerce denke und an Firmen, die immer mehr Waren-Zirkulation fördern und globale Bestellungen
+1337240	1342240	und Lieferaufkommen und so weiter, ist das einfach konkret ökologisch schädlich. Aber zum anderen
+1342240	1348800	ist es so, dass der technologische Pfad des maschinellen Lernens bedeutet, dass eben riesige
+1348800	1355360	Datenmengen prozessiert werden, was enormen Stromverbrauch mit sich bringt. Also man sagt auch,
+1355360	1361840	beziehungsweise es heißt, Streaming ist das neue Fliegen, KI ist auch das neue Fliegen, weil ganz
+1361840	1368000	einfach CO2, die CO2-Bilanz katastrophal ist, was immer mehr publik wird, aber noch nicht so
+1368000	1372760	richtig durchgesickert ist. Das heißt, eine Logik, die sagt so viel KI wie möglich und das machen
+1372760	1378520	alle großen Blöcke, wird uns noch nie an den Abgrund bringen. Das ist völlig klar. Die andere
+1378520	1384000	Logik ist eben genau dasselbe Thema und ich glaube, dass mit der globalen Klimabewegung,
+1384000	1389680	beziehungsweise Bewegung zur Aufhalten des Klimawandels, ich weiß gar nicht, wie die
+1389680	1394840	offiziell heißt, tatsächlich sich die Koordinatensysteme politisch verschieben
+1394840	1402880	können, weil Maßnahmen und Vorstellungen, die vor wenigen Jahren noch als irreal und utopisch
+1402880	1406840	gegolten haben, plötzlich praktische Relevanz kriegen können, einfach weil die Ordnung,
+1406840	1411000	so wie sie jetzt ist, jeden Tag beweist, dass sie unfähig ist, dieses Problem in den Griff zu
+1411000	1416560	kriegen. Und insofern denke ich, dass da ein Legitimationsspielraum entsteht. Für mich ist
+1416560	1422120	halt wichtig, dass das auch ein Bottom-up-Prozess ist und nicht nur einer der Funktionseliten in
+1422120	1428320	den führenden Staaten, dass tatsächlich sozusagen eine gesellschaftliche Delibration stattfindet,
+1428320	1433920	was für Ziele und was für Wege eingeschlagen werden sollten. Und das bringt uns eigentlich
+1434080	1439720	dann auch schon zu der etwas weiter reichenden sozio-technischen Imagination, wenn man will.
+1439720	1446120	In Marx und die Roboter gibt es einen Aufsatz zur Steuerungswende von Simon Schaub und Georg
+1446120	1450920	Jochum. Simon war ja auch schon hier bei Future Histories zu Gast. Das war eine sehr interessante
+1450920	1458400	Folge. Und eines der Argumente, die Simon ja vorbringt, ist das Formen der Planwirtschaft.
+1458400	1465880	Dann ist es dann vielleicht eher radikaldemokratische Wirtschaftsdemokratie eigentlich,
+1465880	1471600	dass die besser in der Lage sein könnten, eben diese Probleme, also Probleme wie den
+1471600	1478840	drohenden Klimawandel, besser in der Lage wären, diese zu lösen. Einfach, weil es konkret bessere
+1478840	1485680	Möglichkeiten der Steuerung gäbe. Das wäre allerdings natürlich ein durchaus makropolitisches Projekt.
+1485680	1497960	Siehst du Wege, wie man ein solches Projekt sukzessive erstmal vielleicht in den Köpfen
+1497960	1503240	der Leute und dann in gelebter Praxis nach und nach implementieren könnte? Ist das was,
+1503240	1508240	womit du dich auseinandersetzt? Es ist deswegen eine schwierige Frage,
+1508240	1513120	weil ich glaube, als Vorstellung gibt es schon Anknopfungspunkte, als politische
+1513200	1524080	Praxis bisher eher weniger. Also ich glaube, dass das in dieser Form realpolitisch schwierig ist.
+1524080	1530640	Also was funktioniert, ist natürlich die Forderung nach einer neuen Form von Industriepolitik. Die
+1530640	1535040	ist jetzt sozusagen Mainstream geworden, was interessanter ist, weil sozusagen nach dem
+1535040	1541240	Neoliberalismus oder im Neoliberalismus, den ich irgendwie jetzt nicht für beendet halte,
+1541240	1546000	der aber trotzdem immer gesagt wird, es ist ein antistaatliches Projekt, jetzt eben auch aus so
+1546000	1554960	einem Konkurrenzdenken, Europa versus China, USA und so gesagt wird, wir brauchen eine strategische
+1554960	1559440	Industriepolitik. Wenn man eine strategische Industriepolitik braucht, dann kann man natürlich
+1559440	1563320	fragen, nach welchen Prioritäten wird die organisiert und dann kann man solche Projekte
+1563320	1566800	lancieren, wie ich sie beschrieben habe, mit einer missionsbasierten Industriepolitik,
+1566800	1574680	die gesellschaftliche Prioritäten setzt. Das schon, aber nach wie vor ist die Situation so,
+1574680	1579880	dass die Vergötterung des Marktes gerade im Kontext dieser Digitalisierungsdebatte hohe Wellen
+1579880	1585200	schlägt und es für das Effizienteste gehalten wird. Ich sehe ein paar Punkte, wo das aufbrechen kann.
+1585200	1592000	Das ist zum einen die Diskussion um, das ist jetzt sehr speziell, aber um das industrielle Internet
+1592000	1600960	im industriellen Bereich gerade, wo die Logik eigentlich darauf rausläuft, dass man Daten teilen
+1600960	1607120	muss, um sie für alle nutzbar zu machen. Das heißt, das ist eine Logik, die im Grunde das private
+1607120	1614960	Einzelinteresse koppelt an den gemeinsamen Fortschritt oder die Vorteile, die das kooperative,
+1615640	1622400	genossenschaftliche, wenn man so will, rangehen, fördert, wo zumindest die Logik der
+1622400	1628600	einzelbetrieblichen Konkurrenz ein Stück weit aufgebrochen wird. Real ist es ein Haifischbecken,
+1628600	1632880	wo jeder versucht dann die Profite wieder rauszuziehen, aber es sind sozusagen Punkte,
+1632880	1637680	wo man merkt eigentlich das, was Marx gemeint hat mit, es gibt Widerspruch zwischen privater
+1637680	1643200	Aneignung und gesellschaftlicher Produktion, der immer radikaler wird. Das ist der Fall. Es muss
+1643520	1648240	immer mehr kooperiert werden in der Ökonomie, um erfolgreich zu sein, während trotzdem die
+1648240	1653840	Gewinne im Moment privat angeeignet werden. Da gibt es so ein paar Punkte, wo man sagen kann,
+1653840	1660840	also aus der Logik der Technik selbst, ähnlich wie beim Internet mit der Wikipedia, ist es so,
+1660840	1667160	dass logisch ist, dass die Freie Kooperation der privaten Organisationen von Einzelprozessen
+1667160	1671960	überlegen ist. Und im gesellschaftlichen Sinn, wie gesagt, also ich glaube, dass die Debatte um
+1671960	1676720	Klimawandel, die Debatten aufreißt, wie eine rationalere Form des Wirtschaftens aussieht.
+1676720	1681680	Und da sind genau die Ideen, die Simon Schaub formuliert, sehr spannend, weil die Technik für
+1681680	1687280	eine dynamischere Selbstorganisation eigentlich von Prozessen eingesetzt werden kann. Und das
+1687280	1693240	ganze Problem der technischen Machbarkeit, einer Abstimmung der produktiven Apparate,
+1693240	1698840	sage ich mal, auf gesellschaftliche Bedürfnisse, eigentlich keins mehr sein müsste. Es gibt auch
+1698840	1703880	ein spannendes Buch jetzt, The People's Republic of Amazon, die genau das argumentiert,
+1703880	1710000	dass Amazon eigentlich auch schon plant im großen Umfang und das technisch gesehen super funktioniert.
+1710000	1716080	Die Frage ist also weniger das Thema, das ewige Thema, das nach dem Zusammenbruch des Stalinismus
+1716080	1721880	immer die Frage war, ob jetzt die Planung in sich scheitert und das ein Problem von staatlicher
+1721880	1726760	Dominanz und so weiter da zwangsläufig drin ändert. Das ist schon längst nicht mehr so. Das ist in
+1726760	1732920	privatkapitalistischen Konzernen funktioniert die Planung perfekt auf Grundlage technischer
+1732920	1738320	Mittel. Die Frage ist einzig und allein, wären sie ausgerichtet an gesellschaftlichen Bedürfnissen
+1738320	1743960	oder nicht? Und das ist Ende des Tages eine Machtfrage, wer die Prioritäten dafür festlegt,
+1743960	1751640	wie solche ökonomischen Systeme funktionieren. Ja, da schließt sich dann eigentlich für mich eine
+1751640	1757240	Frage an, worauf gilt es da noch zu achten, weil ich teile diese Argumentationslinie total. Also
+1757240	1761520	die kam auch hier bei Future Histories immer und immer und immer wieder vor. Also auch diese Frage
+1761520	1768480	ganz konkret, gibt es ein funktionierendes Narrativ, was auch dem Markt als scheinbaren
+1768480	1773760	Effizienz-Champion quasi entgegengehalten werden kann? Und da kommt natürlich dann eben so was wie
+1773760	1778480	eine kybernetische Planwirtschaft in Zeiten ihrer technologischen Machbarkeit irgendwie auf den Plan.
+1778800	1787280	Aber ich frage mich dann trotzdem noch, nämlich ähnlich wie du bei den kapitalistischen
+1787280	1792040	Produktivkräften hingehst und sagst, na ja, aber warte mal, da schauen wir jetzt noch mal
+1792040	1797720	genauer. Da gibt es Probleme bei der Implementierung, da gibt es Probleme bei der Komodifizierung beim
+1797720	1801760	Overengineering und diese Sachen, die ihr da an dem Paper auch adressiert. Also ihr macht das
+1801760	1806240	sehr schön, dass ihr da eigentlich ein bisschen hinter die Kulisse guckt und dann mal so rein
+1806240	1811560	piekst an den Stellen, die irgendwie so neureigig Punkte sind. Und ich glaube, ähnliches müsste
+1811560	1817760	man dann auch bei diesem The People's Republic of Walmart Gedanken machen, also bei der Frage
+1817760	1823760	nach der kybernetischen Planwirtschaft. Wo genau sind denn dann die Punkte, bei denen wir aufpassen
+1823760	1828520	müssen, dass wir nicht in die gleichen Fallstrecke hineingeraten, die jetzt im kybernetischen
+1828520	1833520	Kapitalismus schon da sind? Also ganz konkret bei den Daten zum Beispiel ist das, finde ich,
+1833520	1838440	so ein bisschen handfest. Wie gehen wir denn jetzt dann um mit diesen Datenbeständen, die
+1838440	1845240	allesamt irgendwie gefärbt sind, die aus einer Produktionslogik stammen, die ja schon andere
+1845240	1851080	Eigeninteressen eingeschrieben haben und so weiter und so fort. Also das fände ich zum Beispiel eine
+1851080	1859880	spannende Arbeit, um mal zu gucken, okay, was müsste man denn da auch ehrlicherweise irgendwie,
+1859880	1866960	wenn man quasi selben Mittel auf sich anwendet, was müsste man da bedenken? Ja, finde ich einen total
+1866960	1871680	guten Gedanken und weiterführend. Also ich glaube halt nicht, dass die Daten gefärbt sind per se,
+1871680	1879160	sondern es gibt befallend, also die zentrale Frage ist natürlich, die des Datenschutzes, genau wie
+1879160	1886040	im privaten Bereich jetzt sozusagen, wo es untrennbar verbunden ist, dass du, wenn du
+1886040	1891240	Prozessdaten aufnimmst, auch Beschäftigendaten aufnimmst. Da wird zwar immer gesagt, das ist
+1891240	1895760	nicht so und das kann man irgendwie trennen und aggregieren oder so, aber de facto kann man aus
+1895760	1900120	so aggregierten Daten auch ganz schön viel über Arbeitsleistung und so was rauslesen. Also das heißt,
+1900120	1906280	die Frage der Überwachung und wer kann diese Daten missbrauchen, wird genauso relevant sein,
+1906280	1912720	wenn man das jetzt irgendwie im progressiven Sinn einsetzt, wie auch im gegenwärtigen Sinn, wo man
+1912720	1916440	auch vielleicht, also wo es eine Abwägung ist, ob man verschiedene Sachen auch macht, die technisch
+1916440	1922280	möglich sind. Auf der anderen Seite ist natürlich so, also zu der Färbung der Daten, da steckt ein
+1922280	1927240	bisschen der Gedankengang drin, wenn ich den richtig rauslese, die Frage, die alte Frage,
+1927240	1932000	die immer wieder diskutiert wurde im marxistischen Kontext, nämlich ob man fordistische Produktion
+1932000	1936760	übernehmen kann für progressive Ziele und so weiter, wo es zu Recht eine Kritik daran gibt. Ich
+1936760	1941720	glaube Lenin hat das irgendwann mal geschrieben, dass man Kommunismus eben Fordismus plus
+1941720	1950480	Elektrifizierung ist oder so irgendwas, was auch ein bisschen verwalhorn wird, aber egal. Da ist es
+1950480	1956520	also so, die Logik der Kybernetik liegt ja gerade nicht so, dass du zentral ein System setzt und
+1956520	1961720	dem müssen sich die Teile dann anpassen, sondern die Logik der Kybernetik ist, dass die Teile sich
+1961720	1967240	verändern und das System sich dynamisch anpasst. Das heißt, wenn man dezentrale Entscheidungsfindungen
+1967240	1972520	hat in Betrieben, über wie man Sachen organisiert, wie die Arbeitsleistung verausgabt wird oder sonst
+1972520	1978560	irgendwas, ja oder in Büros muss ich nicht immer an die Industrie mit Kettenfett denken oder so,
+1978560	1985600	im Büros demokratische Elemente eingeführt werden und Menschen viel selbstbestimmter arbeiten,
+1985600	1990680	als wir es uns heute auch nur vorstellen können, dann ist das durchaus möglich in diesem System
+1990680	1997440	und es muss eben, es gibt gegenseitige Abstimmungsprozesse auf der operativen Ebene,
+1997440	2003280	so dass das Zusammenwirken der einzelnen Teile in so einem System funktioniert und dann gibt es
+2003280	2008000	natürlich nach wie vor politische Prozesse, wo im größeren gesellschaftlichen Maßstab diskutiert
+2008000	2014520	wird, wie viel und zu welchen Zwecken Arbeitsleistung eingesetzt wird und wie das gerecht verteilt
+2014520	2018440	werden kann und so weiter und so fort. Das nimmt einem kein System ab, da kann man vielleicht irgendwelche
+2018440	2025280	Voting-Tools in was nehmen, was weiß ich ja, aber besser ist es immer, wenn Leute sich treffen und
+2025280	2032800	diskutieren aus meiner Sicht. Genau, insofern ja, also die Fragen sind total richtig, aber es ist
+2032800	2039640	eben eine andere Debatte, als wenn man so einen starren industriellen Organismus übernimmt,
+2039640	2045960	wie es jetzt beim Fordismus ist, wo das System sozusagen gegossen ist in Fließbänder und die
+2045960	2051600	letztendlich die Arbeit dem unterworfen ist, sondern im Prozess kubernetescher Aushandlung
+2051600	2056840	sind die Feedback-Prozesse viel wichtiger, viel dynamischer und deswegen auch demokratisch
+2056840	2063440	gestaltbar. Also es ist nicht so, als die Technik sich über den Menschen stellt. Ja, auf jeden Fall,
+2063440	2069880	also ich stimme da ja total zu, dass sie potenziell demokratisch gestaltbar wären. Ich
+2069880	2074240	würde vielleicht noch anfügen und das ist jetzt kein Widerspruch zu dem, was du gesagt hast,
+2074240	2080240	dass sie auf jeden Fall auch kapitalistisch gestaltbar sind. Also im sehr kubernetescher
+2080240	2086080	Kapitalismus sozusagen, da wird ja dann genau diese Logik der Feedback-Schleifen,
+2086080	2091240	der permanenten Optimierung, des agilen Managements, wie auch immer, wird ja dann
+2091240	2100200	in ganz nahtlos eingebunden in die profitorientierte Produktionslogik. Ich mag noch eine Sache
+2100200	2104600	nachfragen, weil ich das nicht ganz verstanden hatte vorhin. Da hattest du in Bezug auf das
+2104600	2109680	industrielle Internet gemeint, dass dort inherent in der Logik eingeschrieben wäre,
+2109680	2115600	dass man gezwungen sei, seine Daten zu teilen und es dadurch dann profitieren könne von diesem
+2115600	2121760	Prinzip, von dieser Logik. Soweit ich das bisher verstanden hatte, kam es mir so vor,
+2121760	2128880	als ob eigentlich derzeit das noch in so einer Art von Verteilungskampf irgendwie,
+2129360	2135320	dass das noch der aktuelle Status sei, wo aber trotzdem die verschiedenen großen Player,
+2135320	2141960	Siemens oder irgendwelche großen Agrarfirmen alle versuchen, ihre eigenen Plattformen zu
+2141960	2146920	installieren, die dann aber geschlossen sind, so wie das ja auch bei Facebook oder so ist,
+2146920	2152080	dass es eben gerade keine Anschlussstellen, keine APIs gibt, sodass man irgendwie hübsch
+2152080	2156280	dann zwischen den Plattformen springen kann, was für den User super wäre, aber für die natürlich
+2156320	2161200	dann nicht von Interesse. Also ich hatte immer das Gefühl, die kämpfen jetzt erst mal aus,
+2161200	2166840	wer denn da der dominante Player in diesem Segment wird, um dann doch wieder nur so eine
+2166840	2174040	Netzwerkeffektlogik und Plattform-Dominanz-Monopolstellung zu erzeugen oder so.
+2174040	2180560	Ja, also ja, wir kämpfen alle um Dominanz und alle kämpfen mit dem Problem, dass die Unternehmen die
+2180560	2186600	Daten nicht rausrücken wollen, weil Unternehmen halt, also Unternehmensdaten sind halt was anderes
+2186600	2191720	als die Daten, die wir als Konsumenten den Facebook ständig schenken und so. Also Unternehmen gehen
+2191720	2195480	da anders damit um, die schmeißen den nicht in der Gegend rum, sondern die sind da höchst sensibel
+2195480	2200800	darauf, weil es halt Geschäftsgeheimnisse sind und deswegen sagen eigentlich alle Plattformen,
+2200800	2205760	egal ob sie jetzt proprietär sind oder nicht, dass die Daten letztendlich beim Unternehmen bleiben
+2205760	2209400	und die Kontrolle darüber beim Unternehmen bleibt, weil wenn sie es nicht machen würden,
+2209400	2214440	dann würden sie gar nicht existieren können sozusagen. Das ist der Grundwiderspruch und
+2214440	2218960	deswegen sagen auch alle Plattformen, sie sind offen in ihren Schnittstellen und sie sind offen
+2218960	2224880	als Programmier, also beziehungsweise sind letztendlich haben Open Source Elemente und
+2224880	2230720	funktionieren eigentlich so, dass es offene App-Environments gibt, wo verschiedene Anbieter
+2230720	2237480	eben Apps zur Verfügung stellen können und die Plattform Gleitzeiganschluss fähig sind,
+2237480	2241640	dann alle möglichen Maschinentypen und so weiter und so fort, weil die Industrielandschaft halt
+2241640	2245360	total schreckig ist und kein Unternehmen jetzt irgendwie nur Siemens rumstehen hat oder so was,
+2245360	2251520	sondern ganz verschiedene Automaten. Das heißt, die müssen erstens relativ offen sein und zweitens,
+2251520	2256280	also gibt es jetzt gerade die Debatte, ob diese proprietären Modelle, wie sie von Siemens
+2256280	2260160	lanciert wurden, von Bosch, von Trumpf und so weiter, ob die überhaupt funktionieren,
+2260160	2264080	weil die so stark an einen Hersteller gebunden sind. Musst du nicht Allianzen aufbauen,
+2264480	2270800	um eben herstellerübergreifend so was wie Praxisstandards zu definieren und je dominanter
+2270800	2277080	dann diese Allianz ist zumindest, desto mehr wird es dann de facto Standard, der schon wieder Macht
+2277080	2282240	und Einfluss repräsentiert, aber der eben auch zu genossenschaftlichen Ansätzen führen kann,
+2282240	2286840	wo einfach verschiedene Anbieter, ich meine es ist ein komisches Wort Genossenschaft in dem Sinn,
+2286840	2290720	weil es sind große Unternehmen, die daran beteiligt sind, die sich aber trotzdem erstmal
+2290720	2295280	zusammenschließen, sagen, wenn wir die Daten zusammenschmeißen und die experimentell teilen,
+2295280	2300640	ja auch mit Widerrufsrechten und so weiter, einer komplizierten Daten Governance, dann haben wir
+2300640	2304040	einen bestimmten Kuchen und dann müssen wir darüber entscheiden, wie wir den verteilen.
+2304040	2308480	Das ist aber eine Abmachung, die eigentlich nicht auf dem Markt gelöst wird, sondern durch
+2308480	2315680	die dementsprechend, wie die Verhandlungsmacht ist oder der jeweilige Beitrag bemessen wird und so.
+2315680	2324200	Und das sind alles Sachen, wo es dann eben dazu führt, dass nur ein geteiltes Vorgehen tatsächlich
+2324200	2329160	Erfolg bringen kann, also wo selbst die Konkurrenten in eine gewisse Kooperation gezwungen werden.
+2329160	2333880	Und zweitens, vor allen Dingen ist es ebenso, ich meine, worum geht es beim Industrial Internet?
+2333880	2339080	Die Unternehmen erheben ständig Daten durch die ganzen tollen Industrie 4.0 Tools, die sie
+2339080	2345040	angeschafft haben oder auch nicht. Bisher haben sie relativ wenig damit machen können. Das heißt,
+2345040	2350200	sie brauchen Angebote, wie du diese Datenanalyse machst und das tatsächlich zu
+2350200	2355800	Geschäftserträgen führst. Und das ist sozusagen das Business, auf das die Plattformen spezialisiert
+2355800	2359600	sind. Problem ist nur, wenn du nur einen Datensatz von einem Unternehmen hast, da kannst du damit
+2359600	2366440	relativ wenig machen. Das heißt, du musst schon die Daten teilen und eben dieses private Eigentum,
+2366440	2371120	wenn man so will, an Daten, das dir und den Unternehmen vorschwebt, überwinden, damit
+2371120	2376960	Unternehmen überhaupt diese Produktivitätsgewinne realisieren können, von denen viele Versprechungen
+2376960	2384120	existieren, sage ich mal vorsichtig. Und das ist eine Sache, wo man schon sagen muss, okay,
+2384120	2389600	das ist diese Art von Data Sharing läuft eigentlich in der kapitalistischen Logik zuwider und ist
+2389600	2395280	schwer in diesem Kontext zu handeln. Das ist die Eigentumsverhältnisse, die eigentlich diese
+2395280	2400880	rationalere Entwicklung ein Stück weit blockieren. Vielleicht auch nicht. Wir werden sehen, wie die
+2400880	2406480	Geschichte ausgeht, aber das ist sozusagen das Kardinalproblem, an dem die gerade alle basteln
+2406480	2410080	und nach Lösungen versuchen, weil im Moment funktioniert es noch nicht so richtig.
+2410080	2418080	Das heißt auch, wenn man dieser Logik folgen würde, dann könnte man sich ja vorstellen,
+2418080	2422320	zum Beispiel Kooperativen. Ich habe neulich, glaube ich, mal irgendwo gelesen von einer,
+2422320	2426680	ich glaube es war französisch oder spanisch, aber ich glaube französische Kooperative,
+2426680	2431120	die irgendwie angefangen hat mit Fahrradreifen oder sowas und die sind mittlerweile anscheinend ein
+2431120	2436440	weltumspannendes Konglomerat von verschiedensten Firmen, aber immer noch genossenschaftlich
+2436440	2444840	organisiert. Wenn tatsächlich sagen, dass Kooperative das auch durchaus effektivere
+2444840	2453480	Prinzip sein kann innerhalb einer solchen Logik, dann wäre ja eine Möglichkeit, wie man auch
+2453480	2458440	sukzessive vielleicht es in einem gesamtgesellschaftlichen Kontext dahin bringen
+2458440	2464240	kann, dass man Best Practice Modelle macht, dass man mal Firmen hat, die wirklich größer
+2464240	2468440	sind, nicht nur so ein mittelständischer Betrieb oder sowas, sondern wirklich größere Firmen,
+2468440	2476560	die versuchen als Kooperativen auf Basis einer wirklich fundamental anderen Herangehensweise an
+2476560	2483440	die Frage der Digitalisierung erfolgreich ihre Geschäftspraxis betreiben und eben etwaig dadurch
+2483440	2488160	erfolgreich, weil sie genau nicht dieses Konkurrenzprinzip verfolgen, sondern ein
+2488160	2497520	kooperatives Prinzip verfolgen. Kennst du da Beispiele? Beispiele? Oh man, Mondragon ist oft
+2497520	2503480	in der Diskussion an größeren Genossenschaften. Das ist ein spanisches Unternehmen. Ich muss sagen,
+2503480	2506840	da bin ich ein bisschen blank bei der Frage. Vielleicht ist es eben Mondragon gewesen,
+2506840	2513560	warum ich es gelesen habe. Es gibt Ansätze, die interessant sind. Es gibt jetzt auch eine
+2513560	2519040	Supermarktkooperative in Berlin. Es kommt aus New York, da ist gerade ein Film in Kinos gewesen,
+2519040	2529960	eine Doku, die einfach von lokalen Bauern sourcen und das aber im großen Stil machen und eben auf
+2529960	2535240	Basis von Genossenschaftsmodellen, in denen auch die Mitglieder drei Stunden pro Woche, glaube ich,
+2535240	2539680	arbeiten in so einem Supermarkt. Das auf die Beine stellen und das wahnsinnig erfolgreich ist,
+2539680	2546120	weil das einfach die Leute wollen so was. Die wollen regionalere Produkte. In den Supermärkten
+2546120	2551760	gibt es das nicht so richtig. Der reguläre Bio-Supermarkt ist relativ teuer. Die schaffen
+2551760	2557560	das, glaube ich, da doch relativ günstig zu sein oder zumindest auch für die Mitglieder
+2557560	2561680	Vergünstigungen zur Verfügung zu stellen, dafür, dass sie sich engagieren. Klar,
+2561760	2568640	das kann funktionieren. Die Schwierigkeit ist halt immer, es lebt vom Idealismus der Teilnehmer,
+2568640	2575320	die da ihr Geld reinstecken und dafür relativ wenig wiedersehen. Also die Frage ist, wo kommt
+2575320	2583440	das Investitionskapital her und wirft es letztendlich Erträge ab? Und es sind Modelle,
+2583440	2588440	die auch einen Schrumpfen oder einen Steady-State ertragen können, ohne dass sie irgendwie
+2588440	2592960	auseinanderfliegen. Das ist immer die größere Frage, weil bei regulären Genossenschaften das
+2592960	2597200	Problem ist, dass sie trotzdem auch in diesen umkämpften Märkten halt ein Player sind und wenn
+2597200	2602760	sie dann irgendwie nicht wachsen, dann also die kapitalistische Logik überträgt sich quasi über
+2602760	2607240	einen Konkurrenzmechanismus ein Stück weit in sie selbst rein. Aber ich glaube eigentlich,
+2607240	2613480	dass da relativ viel möglich ist. Die Schwierigkeit ist grundsätzlich bei allen diesen
+2613480	2619080	postkapitalistischen Versuchen, dass die Spielräume jenseits des Marktes, die existieren,
+2619080	2623800	meiner Einschätzung nach, historisch trotzdem zurückgegangen sind. Es wird immer gesagt,
+2623800	2628280	jetzt poppen überall diese postkapitalistischen Projekte hoch und ich denke mir nur, schau dir mal
+2628280	2634240	Berlin vor 30 Jahren an, das war ein postkapitalistisches Projekt, wo Leute fast ohne Geld
+2634240	2638960	gelebt haben und die Buden nichts gekostet haben und die halt den ganzen Tag Kunstprojekte gemacht
+2638960	2643440	haben und einfach fünf bis zehn Jahre ihnen der Arbeitsmarkt auch mal egal ist. Wenn man es mit
+2643440	2649280	heute vergleicht, wo einfach erstens die Mieten in den Himmel schießen, die Leute nur an ihre
+2649280	2654600	Karriere denken, weil sie Angst haben, tatsächlich Angst getrieben sind, das nie bringen würden,
+2654600	2659520	mal für zwei, drei Jahre wirklich auszusetzen, dann frage ich mich mal, in welcher Welt die
+2659520	2664800	Leute leben, die diese postkapitalistischen Sphären überall aufpoppen sehen. Also da bin ich auf der
+2664840	2669280	Ebene relativ skeptisch, aber es gibt eben beide Seiten. Wie gesagt, Genossenschaften an sich
+2669280	2676400	können schon ein Modell sein, das ein Stück weit funktioniert, aber der Zwang zur Kommodifizierung
+2676400	2684960	in dieser Gesellschaft ist so groß wie nie zuvor. Ja, tragisch muss man sagen. Tragisch. Da komme
+2684960	2690960	ich dann nochmal auf was zurück, was du so relativ am Anfang gesagt hast, nämlich dass das Narrativ
+2690960	2697760	des Marktes als super effiziente Allokationsmaschine für knappe Ressourcen, dass das ungebrochen stark
+2697760	2708560	sei und quasi sogar noch stärker würde. Ein Punkt, um zu den möglichen Alternativen zu kommen,
+2708560	2713640	eine Aufgabe, die man auf jeden Fall leisten muss auf dem Weg dahin, ist glaube ich, dieses Narrativ
+2713640	2720320	zu brechen. Also das Narrativ des Marktes als Wundermaschine. Ich hatte eigentlich immer,
+2720320	2725440	und ich gehöre dann insofern absolut in diese Bubble, die du gerade beschrieben hast von Leuten,
+2725440	2729120	die sich irgendwas selbst erzählen wollen, ich hatte immer das Gefühl, dass gerade dieses
+2729120	2734120	Narrativ vom Markt eigentlich eben nicht mehr so in der Lage ist zu überzeugen, wie es einstmals
+2734120	2740400	war. Also dass auch der Neoliberalismus als ein Narrativ, wenn nicht überwunden, so doch
+2740400	2747440	taumelnd ist. Also dass das eigentlich nicht mehr so recht ziehen mag und dass deswegen dann auch eben
+2747440	2753360	so Fluchtmechanismus Richtung Protektionismus und nationalstaatliche Abkapselung und sowas,
+2753360	2759240	dann hat verstärkt wieder ein Fahrtwind gewinnen. Warum meinst du, dass das ungebrochen ist,
+2759240	2765040	dieses Narrativ des Marktes? Nee, ich meine nicht, dass es ungebrochen ist, da habe ich mich
+2765040	2770840	ungenau ausgedrückt. Also ich glaube, es wurde massiv beschädigt durch die Finanzkrise. Es hat
+2770840	2783760	dann ein Wiederaufleben erlebt, was paradox ist durch den relativ glimpflichen Ausgang der
+2783760	2788880	Finanzkrise, der zwar bestätigt hat, dass es massive Staatsinterventionen gibt, aber trotzdem
+2788880	2795480	irgendwie paradoxerweise dazu geführt hat, dass die grundlegenden Parameter dessen, dass so eine
+2795480	2801280	marktgetriebene Allokation richtig ist, nicht in Frage gestellt wurden. Also zumindest aus Sicht
+2801280	2808720	der Eliten sei sagen wir jetzt mal so. Und das Digitalisierungsnarrativ ist natürlich ein massiver
+2808720	2815840	Landgewinn im Moment ideologisch für die Idee, dass der Markt alles besser macht. Und das macht
+2815840	2821120	sich eben fest an dieser Mystifizierung des Silicon Valley, das toll ist natürlich in der
+2821120	2826160	Innovationskraft, aber nur deswegen toll ist, weil der Staat irgendwann mal die Basisinvestitionen
+2826160	2831120	und vor allem die riskanten Basisinvestitionen hingestellt hat. Das ist sehr interessant an
+2831120	2837600	Marianne Mazzucatos Buch, das Kapital des Staates heißt es auf Deutsch, das eben das Argument bringt,
+2837600	2843960	das ich vorher erzählt habe, wie die Digitaltechnologien letztendlich auf Militärforschung
+2843960	2849680	zurückgehen im Wesentlichen. Und sie sagt halt, im Grunde der Staat hat die riskanten Investitionen
+2849680	2856800	getätigt und die Start-ups schaffen jetzt eigentlich das ab und investieren auch in Risiken,
+2856800	2860840	aber nicht in die fundamentalen Risiken, wo der technologische Pfad noch überhaupt nicht klar
+2860840	2865480	war und überhaupt nicht klar war, ob eine Mikrochip-Entwicklung irgendwann mal was abwerfen
+2865480	2870840	würde oder sonst irgendwas. Und jetzt wo es klar ist, sozusagen geht es eher um die Geschäftsmodelle,
+2870840	2878240	um daraus Cash zu machen. Und anyway, ich schweife ab, also der Mythos hängt sehr stark am Silicon
+2878240	2884320	Valley an dem Machern des Silicon Valley, die eben das Geld in die Hand nehmen, weil der Markt das
+2884320	2890360	belohnt letztendlich das Risiko und so. Und das sehe ich relativ stark im Elitendiskurs. Inwieweit
+2890360	2896360	das verfängt, das ist widersprüchlich. Also ich glaube, solange das nicht wirklich herausgefordert
+2896360	2902720	wird durch starke Bewegungen auch, die einen grundsätzlichen Einspruch dazu formulieren,
+2902720	2907920	bleibt das relativ intakt, obwohl ganz viele Menschen merken, dass grundsätzlich was nicht
+2907920	2912800	stimmt. Aber sozusagen, also gut, ist es ausformuliert, schwierig zu sagen. Es gibt doch immer,
+2912800	2918600	ich glaube, die Alnsbach-Umfrage, die sagt, also in der abgefragt wird, inwieweit die Leute glauben,
+2918600	2922480	dass die Marktwirtschaft funktioniert, wo die Werte seit Jahren zurückgehen. Und ich glaube,
+2922480	2927920	also unglaublich niedrig sind in der letzten Fassung, müsste man auch nachschlagen und anhängen an
+2927920	2933920	eurem Blog. Aber da verschiebt sich natürlich schon was. Und das ist jetzt ein relativ kontinuierlicher
+2934040	2938440	Prozess, dass Leute merken, irgendwie kann es nicht so weitergehen, wie es gerade ist.
+2938440	2949160	Und ein Teil deiner Arbeit daran, dieses Narrativ anzukratzen und bröcklich brüchig werden zu
+2949160	2956120	lassen, ein Teil dieser Arbeit machst du auch in der Enquete-Kommission des Deutschen Bundestages
+2956120	2963520	zu Künstlicher Intelligenz. Denn auch da gibt es einige Mythen einzureißen und hinter den
+2964440	2970480	Vorhang zu schauen. Worum geht es da bei der Enquete-Kommission? Die Enquete-Kommission,
+2970480	2973600	also eine Enquete-Kommission grundsätzlich ist eine Kommission, die vom Parlament
+2973600	2978840	eingerufen wird, also nicht von der Regierung, sondern vom gesamten Parlament. Wo die Denke
+2978840	2985640	dahinter ist, es gibt Fragen, die sind so fundamental, entweder einfach weil sie die
+2985640	2990560	Gesellschaft so stark beeinflussen oder weil sie ethisch und sonst irgendwie Bedeutung haben,
+2990640	2996640	dass sie im Tagesgeschäft des Bundestags nicht wirklich behandelt werden können und die meisten
+2996640	3002120	Abgeordneten auch nicht wirklich das Wissen haben, sich dazu zu positionieren. Und deswegen wird
+3002120	3005680	so eine Kommission eingerufen, die besteht zur Hälfte als Abgeordneten und zur Hälfte aus
+3005680	3012200	externen Sachverständigen, davon bin ich eben einer, insgesamt 38 Leute. Und die diskutieren
+3012200	3017040	über zwei oder drei Jahre, in unserem Fall zwei Jahre, eins dieser Themen von gesellschaftlicher
+3017040	3023760	Relevanz und das ist eben künstliche Intelligenz. Und genau, in dem Rahmen wird eben ein Bericht
+3023760	3030240	erarbeitet im Konsens, in dem dann letztendlich Handlungsempfehlungen drin stehen, wie man mit
+3030240	3036400	diesem Thema umzugehen hat, die empfehlenden Charakter für den Bundestag haben. Real ist es so,
+3036400	3043360	wie weit das die Meinung im Bundestag verschiebt, weiß ich nicht. Möglicherweise hat es einen
+3043360	3046640	Effekt auf die gesellschaftliche Debatte, in die man einen oder anderen Punkt dann macht.
+3046640	3050920	Hervorgestochen ist jetzt die Formulierung im Konsens.
+3050920	3051440	Richtig.
+3051440	3057760	Also wie ist die Kommission besetzt? Wie viele Vertreter der Wirtschaft sind unter denen,
+3057760	3059960	die nicht aus dem Parlament kommen?
+3059960	3067680	Sie ist so besetzt, dass das nach dem Schlüssel aufgeteilt ist, wie die Parteien im Bundestag
+3067680	3074160	vertreten sind. Das heißt, die Abgeordneten sind analog zur Zahl der Abgeordneten repräsentativ.
+3074160	3082360	Also das heißt, keine Ahnung, bei 20 Abgeordneten sind wahrscheinlich 500 CDU und 4 von der SPD und
+3082360	3087040	so weiter und so fort. Na, vier schon nicht mehr. Egal. Ich habe die genauen Zahlen nicht im Kopf.
+3087040	3095280	Und die wählen jeweils Sachverständige ihre Fasson aus. Und das bedeutet, wir haben schon
+3095360	3101760	einen relativ hohen Lobbyisten-Anteil. Auf beiden Seiten kann man sagen. Ich meine,
+3101760	3106560	jemand, der im progressiven Sinn da interveniert, ist ja auch ein Lobbyist für irgendwie die gute
+3106560	3110880	Sache. So könnte man mich vielleicht auch beschreiben. Habe ich noch nie gemacht. Das ist ja eine Premiere,
+3110880	3116280	aber so kann man es sehen. Aber wir haben natürlich dabei Unternehmensverbände,
+3116280	3123720	Unternehmensvertreterinnen und so weiter und so fort. Und von der Zusammensetzung ist es dann
+3123720	3128640	doch relativ klar, dass bei FDP und CDU dann hauptsächlich die Vertreterunternehmen sitzen
+3128640	3134360	und bei SPD, Grünen und der Linken eben mehr Wissenschaft, Verbände, Gewerkschaften und so
+3134360	3143160	weiter. Und gehen dann die Wirtschaftsvertreter da auch dann ganz offensiv irgendwie mit konkreten
+3143160	3153240	Politiken und Forderungen hinein? Oder muss man da noch so einen Schleier des Erkenntnisinteresses
+3153560	3158840	vortäuschen? Wie läuft das? Es ist beides. Also das macht es auch nicht einfach. Wenn du da mal
+3158840	3164720	drin arbeitest, merkst du, die Leute sind nicht nur Charaktermasken ihrer jeweiligen Funktion. Du
+3164720	3168200	kannst schon mit denen reden. Also es war erstmal überraschend, wie viel ich da auch durchgebracht
+3168200	3174320	habe in einem ein oder anderen Bericht. Und gleichzeitig gibt es dann Manöver. Also Manöver,
+3174320	3182760	die bedeuten, bei der Lyrik kann man viel bewegen. Wenn es um die Handlungsempfehlungen geht,
+3182760	3189840	kann man wenig bewegen. In der Projektgruppe Arbeit haben wir eine relativ starke Intervention von
+3189840	3194720	Arbeitgeberverbänden, die Arbeitszeitregelungen aufzuweichen, was eigentlich sachlich gar nicht
+3194720	3199360	wirklich was mit KI zu tun hat. Haben wir auch herausgestellt, wird trotzdem immer wieder versucht.
+3199360	3203560	Und solche Sachen gibt es auf jeden Fall. Also man muss sich davon verabschieden, dass es jetzt
+3203560	3207920	einfach ein Raum ist, in dem 38 Leute versuchen, sich eine Meinung zu bilden. Aber interessant ist
+3207920	3213440	halt, dass diesen Charakter schon durchaus auch hat, dass man ernsthafte Diskussionen führt und
+3213440	3221240	mit Argumenten da bestimmte Punkte machen kann. Trotzdem ist aus meiner Sicht, ja das, was zu
+3221240	3225560	erwarten ist, ein hegemonialer Konsens mit Gramsci gesprochen. Also es bedeutet ganz einfach, dass
+3225560	3231440	Ziele der Eliten sich verbinden mit progressiven Zielen und einmal umgerührt werden. Und dann kann
+3231440	3236920	sich jeder aussuchen, was er gut findet so ungefähr. Aber es ändert sich nichts dadurch. Deswegen
+3237080	3244040	haben Sondervoten eine große Bedeutung. Das heißt, dass Minderheitsfraktionen einfach ihr Votum an
+3244040	3249800	dem Bericht anheften können und das eben als eine Gegenmeinung dann in die Diskussion bringen
+3249800	3253960	können. Wie sehr das dann wahrgenommen wird, weiß man nicht. Aber das ist eben auch eine Frage,
+3253960	3261040	das dann publik zu machen und darauf aufmerksam zu machen, dass da Dissens gibt. Das ist aber
+3261040	3266120	interessant, dass man dazu angehalten ist, im Konsens zu arbeiten. Also es ist zumindest ein
+3266120	3271080	Foul, wenn man von Anfang an versucht, irgendwie dagegen zu zacken. Man soll schon in den
+3271080	3276040	Formulierungen versuchen, darauf zu achten, dass sich da alle einigermaßen wiederfinden können.
+3276040	3280280	Interessant. Und was sind denn da so die Formulierungen? Also ganz konkret fände
+3280280	3284640	ich ja schon mal interessant. Also was ist denn da die gebräuchliche Definition von künstlicher
+3284640	3291800	Intelligenz? Oh, da gab es eine wochenlange Debatte darum. Wir haben versucht, uns das
+3291800	3297520	einfach zu machen mit Verweis auf die EU High-Level Expert Group, was eben so ein ähnliches Gremium
+3297520	3307760	auf Kommissionsebene ist, also EU-Regierungsebene, die eine Definition gemacht haben. Und wie war
+3307760	3313160	das? Also es geht aus von, also es konzentriert, es sagt, künstliche Intelligenz sind letztendlich
+3313160	3317440	verschiedenartige Software-Systeme, die oft verbunden sind mit Hardware-Systemen,
+3317440	3325680	deren aktuelle Fassung vor allen Dingen auf maschinelles Lernen abzielt. Und also deswegen
+3325680	3329240	eigentlich auch jetzt diese Kommission, weil wenn es einfach um künstliche Intelligenz geht,
+3329240	3332360	dann hätte man es jetzt auch in den 70er-Jahren machen können. Da gab es das auch schon in
+3332360	3337560	irgendeiner Form. Aber der Grund, warum das eben abhebt im Moment, ist einfach der neue Pfad des
+3337560	3343600	maschinellen Lernens. So und das beschreibt dann, was maschinelles Lernen ist und geht dann auch
+3343600	3347760	darauf ein, dass damit ein paar grundsätzliche Probleme verbunden sind, nämlich die Frage der,
+3347760	3353520	also Fragen, die Urteilskraft betreffend, der Transparenz betreffend, den Datenschutz
+3353520	3362000	betreffend. Und das ist sozusagen ungefähr die pragmatische Definition desselben. Es wird auch
+3362000	3367960	die Analogie zur menschlichen Intelligenz verwendet, allerdings vermutlich mit einem
+3367960	3374840	reflexiven Element darin, dass der Vergleich halt auch hinkt. Also das kann man schon machen. Es
+3374840	3381760	sind ja auch KI-Forscher in der Enquete-Kommission und so, die da auch ein sehr realistisches Bild
+3381760	3386560	auf die Möglichkeiten und Grenzen haben. Das ist jetzt nicht ein Gremium, wo man irgendwie die
+3386560	3392680	Singularitätstheoretiker und irgendwelche Spinner rumspringen sieht, sondern es sind Leute,
+3392680	3399520	die oft in sehr pragmatischen Anwendungsprojekten arbeiten und zwar irgendwie auch diese Technik,
+3399520	3405000	diesen technologischen Pfad promoten, aber dann auch sehr offen argumentieren, wo sie Grenzen
+3405000	3410840	kennen. Beziehungsweise es gibt ja auch eine gewisse Heterodoxie in der KI-Forschung, dass es Leute
+3410840	3417320	gibt, die eher maschinelles Lernen mäßig drauf sind und Leute, die Experten-Systeme favorisieren
+3417320	3423160	und andere favorisieren Hybridesysteme und so weiter. Also da ist eine Debatte am Laufen und
+3423160	3428440	da kann man auch viel lernen. Da gibt es sicher noch ganz ganz viel drüber zu sprechen, aber das
+3428440	3433400	wäre dann nochmal eine zweite weitere Folge, würde ich sagen. Vielleicht noch, was würdest du dir
+3433400	3445120	wünschen als Ausgang dieser Enquete-Kommission? Ich würde mir wünschen, dass erstens der Bericht
+3445120	3453480	tatsächlich eine ausgewogene rationale Position wiedergibt. Das heißt erstens, dass keine
+3453480	3462400	bescheuerten Wachstumsprognosen und so Mythen gepflegt werden, die einfach mehr verklären,
+3462400	3470440	als dass sie förderlich sind. Zweitens, dass das nicht ein weiteres Dokument ist, dass im Geiste
+3470440	3477360	der deutschen Standortinteressen Wachstum als Selbstzweck huldigt. Das ist uns nicht gelungen,
+3477360	3481600	das zu machen, aber zum Teil gelungen. Also sowohl die Wachstumsaussichten als auch diese
+3481600	3486620	Standortdenken haben wir deutlich abgemildert. Zum dritten, dass nicht irgendwelche Utopien in
+3486620	3496480	Bezug auf Arbeit gefröhnt wird, die die Meilen weit an der Realität vorbeigehen, wie KI derzeit
+3496480	3503120	eingesetzt wird. Das in Bezug auf den Gesamtbericht sozusagen und in Bezug auf ein Minderheitsvotum,
+3503120	3509760	dass wir schaffen, eine kritische Position zu popularisieren, die tatsächlich ein Bezugspunkt
+3509760	3517880	in dieser Diskussion sein kann für Leute, die merken, dass da irgendwie viel heiße Luft
+3517880	3522880	geplaudert wird und das gesellschaftlich auch problematisch ist. Das wären sozusagen die
+3522880	3529120	Maximalziele, sage ich mal. Mehr kann man auch nicht machen mit so was. Als Experte in so einem
+3529120	3536960	Gremium schmeißt du da so einen gesellschaftlichen Diskurs um, so läuft es leider nicht. Aber es ist
+3536960	3547360	halt ein Teil davon, von einer formierenden technikkritischen, also im Sinn von Kritik am
+3547360	3552640	Technikfetischismus und am blinden Glauben an die Technik, sich formierenden gesellschaftlichen
+3552640	3557200	Strömungen, wo das Weizmaum-Institut, wo wir hier sind, ja auch ein Teil davon ist, das aufzubauen
+3557200	3563320	und gegenüber so einem naiven Technikoptimismus nüchterne und wissenschaftlich fundierte
+3563320	3569720	Einschätzungen zu formulieren. Und es ist ja auch wirklich dann ein super Ding, auf das man verweisen
+3569720	3575160	kann in der Diskussion. Also wenn ihr dann den Appendix gemacht habt, der das auch wirklich zu
+3575160	3580720	Papier bringt, dann ist das ja ein sehr durch offizielle Würden irgendwie gehultigtes Dokument,
+3580720	3585640	auf das man dann auch permanent verweisen kann im Diskurs. Zu Papier bringen muss man es halt noch.
+3585640	3593760	Als allerletztes Florian frage ich immer noch, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+3593760	3608640	Mich stimmt freudig das ich glaube, dass wir einen Umbruch überleben über die Klimafrage,
+3608880	3617760	dass viele Leute sich mehr wünschen als das was im Moment uns gegeben wird und dass ich daran glaube,
+3617760	3623960	dass Menschen sich selbst organisieren können, um das auch zu realisieren, dass die reichhaltigen
+3623960	3628200	Mittel, die es gibt in der Gesellschaftsleben, besser zu machen und zwar nicht nur im materiellen
+3628200	3632880	Sinn, sondern im menschlichen Sinne, dass die auch genutzt werden können.
+3632880	3635720	Wunderbar. Florian, vielen Dank für das Gespräch.
+3635720	3636480	Ich habe zu danken.
+3638640	3647520	Das war Future Histories für heute. Vielen Dank fürs Zuhören. Show Notizen und vieles
+3647520	3653560	mehr findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+3653560	3659280	Future Histories oder auf Reddit. Lasst mich wissen was ihr zu dem ganzen denkt und wie euch
+3659280	3664520	diese Folge hier gefallen hat. Unbedingt gut bewerten auf allen Podcast Plattformen die ihr
+3664520	3669480	nutzt. Für unsere Patreon Unterstützerinnen und Unterstützer gibt es auf www.patreon.com
+3669480	3674400	schrägstrich Future Histories vieles an Zusatzmaterial. Ich lese zum Beispiel jeden
+3674400	3678360	Monat einen Text ein, der zum jeweiligen Thema passt. Da könnt ihr also auch vorbeischauen.
+3678360	3681280	Bis zum nächsten Mal. Ich freue mich.

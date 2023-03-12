@@ -1,0 +1,2042 @@
+WEBVTT
+
+00:00.000 --> 00:09.760
+It is absolutely incredible that economic concepts and tool sets are being implemented
+
+00:09.760 --> 00:15.840
+deeply into computational processes and into network security processes.
+
+00:15.840 --> 00:24.320
+I think this is actually quite a big deal, intellectually, technically, philosophically.
+
+00:24.320 --> 00:25.760
+It is quite a big deal.
+
+00:25.760 --> 00:31.560
+I first realized this when I went to a Bitcoin conference a while back and it was really
+
+00:31.560 --> 00:32.560
+interesting.
+
+00:32.560 --> 00:39.200
+I was like, wow, it's basically cryptographers that are discussing economics.
+
+00:39.200 --> 00:40.840
+Cryptographers discussing economics.
+
+00:40.840 --> 00:43.800
+That's a perfect start for today's episode.
+
+00:43.800 --> 00:45.680
+Welcome everybody to Future Histories.
+
+00:45.680 --> 00:51.360
+My name is Jan Groß and my guest today is Dr. Jaya Clara Brecke and we will be talking
+
+00:51.360 --> 00:56.520
+about blockchain technology in relation to the question of the political.
+
+00:56.520 --> 01:01.020
+You can find Jaya's dissertation on a website at distributingchains.info.
+
+01:01.020 --> 01:07.320
+It is titled Disassembling the Trust Machine, Three Cuts on the Political Matter of Blockchain.
+
+01:07.320 --> 01:12.180
+And if you want to know more about the podcast, please visit futurehistories.today.
+
+01:12.180 --> 01:17.320
+Most of the episodes will be in German, but once in a while I'll do an interview in English,
+
+01:17.400 --> 01:22.760
+especially if it allows me to talk to people like Jaya, whose work I highly recommend to
+
+01:22.760 --> 01:25.000
+everybody interested in the field.
+
+01:25.000 --> 01:28.400
+Check out Future Histories on Twitter and Reddit and let me know what you think about
+
+01:28.400 --> 01:34.780
+the show or write me an email to future underscore histories at protonmail.com.
+
+01:34.780 --> 01:36.720
+You can support the show on Patreon.
+
+01:36.720 --> 01:40.000
+For this go to patreon.com slash future histories.
+
+01:40.000 --> 01:42.120
+But now enough promo.
+
+01:42.120 --> 01:44.000
+Please enjoy the interview with Jaya.
+
+01:44.000 --> 01:45.080
+I certainly did.
+
+01:47.320 --> 01:51.960
+Welcome to Future Histories.
+
+01:51.960 --> 01:56.560
+My name is Jan Groß and my guest today is Dr. Jaya Clara Brecke.
+
+01:56.560 --> 02:01.680
+She's a researcher investigating what matters politically in blockchain technology at Derham
+
+02:01.680 --> 02:03.120
+University.
+
+02:03.120 --> 02:04.120
+Welcome Jaya.
+
+02:04.120 --> 02:05.120
+Hi.
+
+02:05.120 --> 02:09.720
+I think most of my listeners will have heard of the term blockchain at some point, but
+
+02:09.720 --> 02:14.920
+I think there's still actually considerable confusion and quite a lot of mysticism around
+
+02:14.920 --> 02:16.240
+the technology.
+
+02:16.240 --> 02:18.120
+So let's cover the basics first.
+
+02:18.120 --> 02:21.680
+What is a blockchain and what types of blockchains are there?
+
+02:21.680 --> 02:28.360
+Okay, so the way I tend to explain blockchain is I actually I go back to cryptography and
+
+02:28.360 --> 02:33.400
+I go back to starting off with explaining what cryptographic hashing is for those who
+
+02:33.400 --> 02:34.640
+are not familiar.
+
+02:34.640 --> 02:39.640
+So essentially, you know, this is a mathematical process where you take some data, you put
+
+02:39.640 --> 02:45.080
+it through this process and it spits out a string of numbers or a string of numbers and
+
+02:45.080 --> 02:49.200
+letters, characters, whatever kind of hashing algorithm you're using.
+
+02:49.200 --> 02:57.000
+And this has a very particular set of characteristics, which are extremely useful because only the
+
+02:57.000 --> 03:01.460
+exact same data would spit out that particular string of numbers.
+
+03:01.460 --> 03:06.760
+So what that means is that if anything in the data changes, you can detect that by running
+
+03:06.760 --> 03:10.320
+the hashing algorithm again, and if it doesn't spit out the same number, then you know something
+
+03:10.320 --> 03:11.560
+has been tampered with.
+
+03:12.520 --> 03:18.320
+It's a very useful way of verifying the integrity of data.
+
+03:18.320 --> 03:26.480
+So you add a timestamp to this and you string this together in a chain of hashed data.
+
+03:26.480 --> 03:31.560
+And what you essentially potentially have is a linear history of, you know, things that
+
+03:31.560 --> 03:36.560
+have changed over time or, you know, sets of data over time.
+
+03:36.560 --> 03:41.800
+So that's essentially, you know, the kind of blockchain in terms of kind of data structure.
+
+03:41.800 --> 03:45.920
+But then there is the question of how do you, if you want to have this taking place in a
+
+03:45.920 --> 03:51.300
+decentralized network, how does the decentralized network come to an agreement around what data
+
+03:51.300 --> 03:55.400
+should be added and hashed into this chain in the first place?
+
+03:55.400 --> 04:00.500
+So how do we come to an agreement about what has happened, you know, in a given context?
+
+04:00.500 --> 04:03.560
+In the case of Bitcoin, what has happened in terms of transactions?
+
+04:03.560 --> 04:07.160
+In the case of Ethereum, what has happened in terms of computation?
+
+04:07.160 --> 04:10.080
+But it could be any potential data.
+
+04:10.080 --> 04:15.320
+So that consensus mechanism is what's called proof of work in Bitcoin and in many other
+
+04:15.320 --> 04:16.680
+cryptocurrencies.
+
+04:16.680 --> 04:18.200
+There are other consensus protocols.
+
+04:18.200 --> 04:21.120
+I'm going to explain the one that Bitcoin uses.
+
+04:21.120 --> 04:22.520
+That's the kind of starting point, let's say.
+
+04:22.520 --> 04:24.840
+But you also have things like proof of stake.
+
+04:24.840 --> 04:28.040
+You have things like proof of importance and proof of cooperation.
+
+04:28.160 --> 04:34.440
+So the way the consensus protocol takes place in Bitcoin is the network competes on grouping
+
+04:34.440 --> 04:41.640
+together the transactions into blocks and running it through a hashing process that
+
+04:41.640 --> 04:46.040
+needs to spit out a number that meets certain requirements.
+
+04:46.040 --> 04:49.920
+If it does not spit out that number meeting certain requirements, then they have not successfully
+
+04:49.920 --> 04:50.920
+mined a block yet.
+
+04:50.920 --> 04:52.600
+So they need to try again.
+
+04:52.600 --> 04:57.520
+And by trying again, they basically just add a nonce, which is a random number to the data
+
+04:58.160 --> 05:03.960
+until the random number that they add to the data affects the output string of number in
+
+05:03.960 --> 05:08.360
+such a way so that it meets the requirements.
+
+05:08.360 --> 05:15.960
+So what is it we have here is actually a quite profound shift in understanding around the
+
+05:15.960 --> 05:22.000
+word consensus and an understanding around how a network reaches consensus.
+
+05:22.040 --> 05:30.040
+Because if we think about this as a model for governance, this is a model for agreeing
+
+05:30.040 --> 05:38.240
+about what actually happened, you have gone from previous models that could be a political
+
+05:38.240 --> 05:42.200
+leader decides what's true or not, a judge decides what's true or not, a religious leader
+
+05:42.200 --> 05:49.920
+decides what's true or not, or science or some kind of philosophical understanding of
+
+05:49.960 --> 05:56.920
+truth of events and so on to a system which is essentially, you know, the way that it
+
+05:56.920 --> 06:02.400
+decides what's happened, the way that it's decided what's true is through randomized
+
+06:02.400 --> 06:10.200
+turns that is that is incentivized through rewards.
+
+06:10.200 --> 06:17.360
+So you have a competition to be the one to define which transactions are considered valid
+
+06:17.360 --> 06:21.560
+or what data is considered valid for that round.
+
+06:21.560 --> 06:26.480
+So you have all these, you know, this whole network of computers that are taking turns
+
+06:26.480 --> 06:33.080
+that are competing with each other to be the next intern to define the truth for that next
+
+06:33.080 --> 06:34.560
+block.
+
+06:34.560 --> 06:39.160
+That is essentially the kind of Bitcoin consensus protocol.
+
+06:39.160 --> 06:45.160
+So blockchain technology did have very political goals from the start, and one of them actually
+
+06:45.160 --> 06:49.800
+being the goal of overcoming politics altogether.
+
+06:49.800 --> 06:56.160
+How did you approach the question of the political in your work on blockchain technology?
+
+06:56.160 --> 07:01.160
+So first of all, it was really kind of working that out, you know, understanding, you know,
+
+07:01.160 --> 07:10.280
+where what's really kind of the underlying ideas that gave rise to this technology.
+
+07:11.000 --> 07:15.400
+And from that, I really, you know, I articulated this thing that actually, you know, what seems
+
+07:15.400 --> 07:21.840
+to be happening here is an attempt at a kind of technical fix, a technical solution to
+
+07:21.840 --> 07:23.560
+the problem of the political.
+
+07:23.560 --> 07:31.440
+So if we understand the political as basically the negotiation of incompatible differences
+
+07:31.440 --> 07:35.880
+through lots of different means, that would be one definition.
+
+07:36.240 --> 07:41.040
+What you have here is a technology that tries to kind of resolve that in some kind of final
+
+07:41.040 --> 07:42.040
+manner.
+
+07:42.040 --> 07:46.840
+So, you know, you take the problem of power and authority that will be replaced by a decentralized
+
+07:46.840 --> 07:47.840
+network.
+
+07:47.840 --> 07:50.720
+So problem of authority has been solved.
+
+07:50.720 --> 07:54.600
+The problem of consensus between, you know, incompatible positions, well, we've got an
+
+07:54.600 --> 07:58.680
+algorithm that will do that and an algorithm that will do that in a way that's decentralized,
+
+07:58.680 --> 08:04.200
+meaning no one can control it, which means that it can be considered somewhat, can be
+
+08:04.240 --> 08:06.880
+considered neutral.
+
+08:06.880 --> 08:11.840
+And then we have the problem of how to enforce that and secure the system.
+
+08:11.840 --> 08:18.240
+And, you know, code will enforce it and cryptography will secure the system from any kind of
+
+08:18.240 --> 08:20.520
+attacks or manipulation.
+
+08:20.520 --> 08:25.240
+So the idea is like these components somehow resolve the problem of the political in some
+
+08:25.240 --> 08:27.560
+kind of final way.
+
+08:27.560 --> 08:32.800
+So a lot of my work, I guess, was partially kind of untangling where do these ideas come
+
+08:32.800 --> 08:40.960
+from and how are they sought to be kind of like written and encoded and what's that
+
+08:40.960 --> 08:46.040
+process, what has that process looked like?
+
+08:46.040 --> 08:53.000
+And also to look at kind of, you know, there's lots of different theories around like understanding
+
+08:53.000 --> 08:54.360
+the politics of technology.
+
+08:54.360 --> 08:58.920
+One of them is, you know, really understands the political as something that then gets
+
+08:59.000 --> 09:04.360
+inscribed into a piece of technology or an infrastructure so that a certain kind of politics
+
+09:04.360 --> 09:10.440
+or ethics will be operating in a kind of imminent manner.
+
+09:10.440 --> 09:16.920
+So, you know, say, for example, for me, like a really good example is the door closer that
+
+09:16.920 --> 09:21.160
+I think Bruno Latour uses and is, you know, one kind of easy way of understanding this
+
+09:21.160 --> 09:26.280
+principle, which is basically like a door closer will automatically close the door and
+
+09:26.280 --> 09:31.920
+that enforces a certain kind of understanding that the door being closed is good, whereas
+
+09:31.920 --> 09:34.340
+the door remaining open is bad.
+
+09:34.340 --> 09:38.920
+So therefore we have this door closer that's now going to continue to enforce that regardless
+
+09:38.920 --> 09:43.000
+of what we feel about it or not.
+
+09:43.000 --> 09:48.760
+Of course, the door closer is radically different from a complex network because the door closer,
+
+09:48.760 --> 09:53.760
+if you disagree with it, you just kind of like put something to block it from working
+
+09:53.840 --> 09:59.040
+or you pick it apart or whatever else, it's quite easy to change those conditions.
+
+09:59.040 --> 10:04.200
+And it's also quite easy to see what exactly is enforcing those conditions, where in complex
+
+10:04.200 --> 10:10.320
+network technology, sometimes it's pretty hard to understand where and why something
+
+10:10.320 --> 10:14.720
+turns out the way it turns out and how to fix that.
+
+10:14.720 --> 10:19.600
+And it requires certain skills to understand that and requires certain skills to tinker
+
+10:19.600 --> 10:21.440
+with it.
+
+10:21.440 --> 10:27.960
+Of course, in blockchain and in the kind of open source movement, that problem is attempted
+
+10:27.960 --> 10:32.280
+to be addressed by actually making things open source and trying to kind of explain
+
+10:32.280 --> 10:35.320
+systems and involve people in a variety of ways.
+
+10:35.320 --> 10:40.880
+And that's like a very positive side of the culture.
+
+10:40.880 --> 10:42.840
+But I think I lost my thread there a little bit.
+
+10:42.840 --> 10:45.360
+I don't mind.
+
+10:45.360 --> 10:51.080
+It's good because you pointed towards you looking at the history of network cultures
+
+10:51.080 --> 10:57.560
+actually in order to understand how this, you call it blockchain sensibility, got formed
+
+10:57.560 --> 11:00.080
+the way it is.
+
+11:00.080 --> 11:05.840
+And I think you did a very good job in pointing out that we should definitely take a second
+
+11:05.840 --> 11:13.840
+look and that both the evangelists, like the blockchain evangelists, should get away from
+
+11:13.840 --> 11:16.320
+easy dichotomies, but also the critics.
+
+11:16.320 --> 11:17.320
+Yeah.
+
+11:17.320 --> 11:22.600
+I mean, so because what I was observing was obviously, you know, the people that are attracted
+
+11:22.600 --> 11:26.040
+to blockchain come from a variety of different backgrounds.
+
+11:26.040 --> 11:31.200
+I mean, it's really attracted a lot of people from across different political spectrums
+
+11:31.200 --> 11:35.920
+and across different kinds of political cultures and histories.
+
+11:35.920 --> 11:40.940
+And so to me, it just seemed like, you know, although I think like some of the criticisms
+
+11:41.100 --> 11:48.340
+that have come, that does analyze, you know, especially things like Bitcoin and so on as,
+
+11:48.340 --> 11:55.180
+you know, a kind of right wing capitalist kind of project or a narco capitalist project,
+
+11:55.180 --> 11:58.660
+you know, sure, there's certain truth to that, but it just didn't seem to be telling the
+
+11:58.660 --> 11:59.660
+entire story.
+
+11:59.660 --> 12:07.140
+And it was telling a very kind of US centric history of blockchain to analyze it just on
+
+12:07.140 --> 12:08.140
+those terms.
+
+12:08.140 --> 12:10.820
+And I was trying to understand what else was going on or what was missing from that
+
+12:10.820 --> 12:15.980
+picture because I was observing people really from lots of different political backgrounds
+
+12:15.980 --> 12:18.700
+getting involved.
+
+12:18.700 --> 12:22.420
+And so for me, it was more interesting to look at the kind of like history of decentralization
+
+12:22.420 --> 12:28.460
+and peer to peer and look at some of the kind of practical problems that different technologies
+
+12:28.460 --> 12:30.500
+have been trying to solve.
+
+12:30.500 --> 12:34.940
+And one of them, I mean, really, you know, like the kind of history of peer to peer in
+
+12:34.980 --> 12:39.460
+terms of network cultures really has been about authority and it really has been about
+
+12:39.460 --> 12:45.580
+how can we create networks that even if like one person gets arrested or one server gets
+
+12:45.580 --> 12:52.340
+taken down, the network itself can still continue to function and can still continue to operate.
+
+12:52.340 --> 12:59.060
+And these were kind of pragmatic problems, you know, that the piracy movement or anti
+
+12:59.500 --> 13:01.860
+copyright movement has been dealing with.
+
+13:01.860 --> 13:06.260
+You know, these are problems that like, you know, different kind of, you know, indie media
+
+13:06.260 --> 13:09.260
+type projects have been dealing with.
+
+13:09.260 --> 13:14.660
+You know, it's really this question of, or this, let's say, using decentralization as
+
+13:14.660 --> 13:18.940
+a way to circumvent authorities, you know.
+
+13:18.940 --> 13:24.700
+So but what for me was interesting was some things have changed from the early history
+
+13:24.700 --> 13:30.940
+of peer to peer to, you know, where we're now at with blockchain technology.
+
+13:30.940 --> 13:35.580
+And a lot of that has to do with kind of like a shift in understanding where instead of
+
+13:35.580 --> 13:42.580
+using peer to peer or decentralization as a kind of specific strategy for specific political
+
+13:43.700 --> 13:50.060
+projects or purposes, it becomes a kind of abstract political aim in itself.
+
+13:50.060 --> 13:55.100
+And that's where I think like this idea or this kind of illusion of like having resolved
+
+13:55.100 --> 13:59.940
+the problem of the political in some kind of final manner comes about, right.
+
+13:59.940 --> 14:05.980
+And it's also where, to be honest, I think like, you know, by abstracting these things,
+
+14:05.980 --> 14:12.980
+that's why you see something like Ethereum being able to appeal to, you know, financial
+
+14:12.980 --> 14:18.980
+industries plus governments plus activists plus, you know, pretty much anybody or anything
+
+14:19.100 --> 14:24.100
+because this thing has been taken out of it, right.
+
+14:24.100 --> 14:28.540
+It becomes this kind of like generalized abstract thing where there's no, yeah, the kind of
+
+14:28.540 --> 14:32.640
+political project is abstracted, let's say.
+
+14:32.640 --> 14:36.940
+So everyone can see a certain kind of way of potentially using these technologies for
+
+14:36.940 --> 14:40.980
+some efficiency gains or whatever else.
+
+14:40.980 --> 14:47.980
+But for me, yeah, for me, there's like something strange that happens with that abstraction
+
+14:49.060 --> 14:56.060
+where kind of grounded understanding of what's in operation with the technology is lost.
+
+14:56.980 --> 15:01.300
+And I'm trying to, so what I'm trying to do in the thesis is give, you know, some access
+
+15:01.300 --> 15:03.820
+points to that.
+
+15:03.820 --> 15:10.820
+And actually, it feels as if a specific type of looking at the world is actually generalized.
+
+15:12.540 --> 15:18.540
+And when I was reading your thesis, I had to think about like how it reminded me of
+
+15:18.740 --> 15:25.740
+how game theory was invented in the sociopolitical arena of Cold War politics in a very specific
+
+15:28.660 --> 15:30.860
+context.
+
+15:30.860 --> 15:37.860
+And then it kind of got generalized as well, kind of similar to the way that Ethereum kind
+
+15:39.580 --> 15:46.580
+of set the scene to generalize this very specific understanding that comes out of like decentralized
+
+15:47.580 --> 15:51.420
+security modeling, actually.
+
+15:51.420 --> 15:58.420
+And I was wondering, because I mean, that might be unfair again, you know, but kind
+
+15:58.540 --> 16:05.540
+of it felt as if the same type of paranoia-ish looking on the world is generalized in game
+
+16:09.380 --> 16:10.980
+theory in the first place.
+
+16:10.980 --> 16:17.980
+And then a technology like Ethereum comes along and kind of builds and technological
+
+16:17.980 --> 16:23.980
+infrastructure to generalize it in technical terms as well.
+
+16:23.980 --> 16:27.540
+Yeah, absolutely. And it's, you know, there's a whole set of kind of strange contradictions
+
+16:27.540 --> 16:28.340
+at play here.
+
+16:28.340 --> 16:34.300
+So you're right. I mean, what I'm tracing in my PhD also is like the set of problems
+
+16:34.300 --> 16:41.300
+that come about when you create a decentralized network, the set of technical problems, which,
+
+16:41.500 --> 16:48.500
+you know, in terms of network security is this issue that, you know, in a truly decentralized
+
+16:49.820 --> 16:55.620
+network, anyone can potentially be an adversary, right?
+
+16:55.620 --> 17:01.400
+And so, you know, a lot of that idea of like how do you secure against the fact that anyone
+
+17:01.400 --> 17:06.080
+can potentially be an adversary does feed into the kind of like general understanding
+
+17:06.080 --> 17:13.080
+of the world really is like, you know, trying to eliminate trust, you know, trying to solve
+
+17:13.080 --> 17:18.360
+the trust problem, which is like, you know, how big or how blockchain tends to be understood
+
+17:18.360 --> 17:19.800
+these days.
+
+17:19.800 --> 17:26.800
+But it's like very fuzzy, the exact limits to where things are being solved or what's
+
+17:27.400 --> 17:33.040
+being solved here exactly, because in each and every moment, there is so much trust involved.
+
+17:33.040 --> 17:36.760
+You know, you've got to, you know, there's no one that has actually gone through and
+
+17:36.760 --> 17:43.020
+audited every single piece of code or understood every single piece of, you know, cryptographic
+
+17:43.020 --> 17:48.220
+hashing algorithm that's being used and verified themselves as a single individual.
+
+17:48.220 --> 17:54.440
+You know, there are obviously communities of trust in a real sense, even in blockchain
+
+17:54.440 --> 17:58.120
+technologies in so-called, you know, trustless networks.
+
+17:58.120 --> 18:04.720
+So like, yeah, there is this kind of imagination or this ideal that like ultimate, you know,
+
+18:04.720 --> 18:11.480
+the ultimate system is a system where nobody needs to be trusted.
+
+18:11.480 --> 18:18.760
+And that's kind of necessary to reach this ideal of a secure decentralized system replacing
+
+18:18.760 --> 18:20.880
+authorities.
+
+18:20.880 --> 18:24.760
+But in actual fact, the way it plays out doesn't quite look that way.
+
+18:24.760 --> 18:32.000
+It just, there's a kind of reconfiguration of how trust operates.
+
+18:32.000 --> 18:35.160
+There was something else I wanted to say on that, but it slipped my mind now.
+
+18:35.160 --> 18:37.120
+I'm sure it'll come up in a different form.
+
+18:37.120 --> 18:43.800
+Well, yeah, and I think I'll have a good point to get into it, because you describe four
+
+18:43.800 --> 18:50.640
+principles of blockchain technology and afterwards you have a short paragraph where you let the
+
+18:50.640 --> 18:56.760
+reader know how different the way the terms are being used actually is.
+
+18:56.760 --> 19:02.040
+I mean, you just said it in relation to trust, but actually it's in relation to decentralization
+
+19:02.040 --> 19:04.040
+as well and consensus and stuff.
+
+19:04.040 --> 19:10.720
+So could you maybe explain the four principles and how the way these terms are being used
+
+19:10.720 --> 19:17.120
+is actually quite counterintuitive to the way we use it in like everyday language?
+
+19:17.120 --> 19:18.120
+Yeah.
+
+19:18.720 --> 19:25.320
+Yeah, so I guess, so what I'm saying in this section is trying to kind of compare, like
+
+19:25.320 --> 19:36.200
+you say, how we understand some of these terms, trust, openness, decentralization, and immutability
+
+19:36.200 --> 19:44.080
+quite differently in our social lives than what becomes technically articulated and how
+
+19:44.160 --> 19:48.680
+that technical articulation then becomes a kind of certain view of the world or a certain
+
+19:48.680 --> 19:52.360
+kind of understanding of the world.
+
+19:52.360 --> 19:58.000
+So generally speaking in social life, more trust is a good thing, right?
+
+19:58.000 --> 20:05.640
+If we create kind of more trust between us, that's a good thing.
+
+20:05.640 --> 20:13.040
+Whereas in kind of blockchain, trust is considered something that needs to be eliminated entirely.
+
+20:13.440 --> 20:19.080
+In some ways, there's some interesting dynamics that I don't think I go into so much in this
+
+20:19.080 --> 20:30.760
+paragraph about that, but about how that's in many ways a kind of feature of lots of
+
+20:30.760 --> 20:36.840
+different aspects of technology and scientific devices in general, that we trust the observation
+
+20:37.640 --> 20:44.480
+of a measuring device more than we would trust someone's account of it.
+
+20:44.480 --> 20:49.800
+So take like temperature measurements, for example, it's like someone's like, oh, this
+
+20:49.800 --> 20:54.840
+feels really, really hot, and it's like, no, the thermometer says it's only 20 degrees
+
+20:54.840 --> 21:00.520
+outside or things like this where there's like a certain kind of, we assign a certain
+
+21:00.600 --> 21:09.640
+kind of validity to the return of certain kinds of technical instruments and apparatuses
+
+21:09.640 --> 21:15.000
+more so than our kind of common experiences.
+
+21:15.000 --> 21:18.560
+I mean, that's not to pit the kind of human against the machine in any kind of way.
+
+21:18.560 --> 21:24.280
+It's just an observation about how devices and apparatuses sometimes operate.
+
+21:24.280 --> 21:30.160
+And I say it only because it's such a major, major part of the political proposition of
+
+21:30.160 --> 21:40.360
+blockchain to create a kind of governance apparatus, essentially, that is somehow constructed
+
+21:40.360 --> 21:44.040
+by a set of elements that are beyond the control of human beings.
+
+21:44.040 --> 21:46.160
+And that's like the explicit aim.
+
+21:46.160 --> 21:51.320
+That's the kind of that's the political aim of the project, really.
+
+21:51.320 --> 21:52.600
+So let's go into that.
+
+21:52.600 --> 21:56.940
+What's the role of algorithmic governance in blockchain technology?
+
+21:56.940 --> 22:04.060
+So what is the narrative around it and what are the narratives of future that are connected
+
+22:04.060 --> 22:05.060
+to it?
+
+22:05.060 --> 22:14.980
+Sorry, I'm not sure if I understand entirely the question, if you can make it more specific.
+
+22:14.980 --> 22:22.340
+Well, you kind of said right now that one of the main purposes of blockchain technology
+
+22:22.340 --> 22:35.380
+is being a technology for governance purposes in order to provide a different way to actually
+
+22:35.380 --> 22:37.940
+organize society as a whole, you know?
+
+22:37.940 --> 22:45.260
+And so there's a narrative, a political narrative connected to this technology that is tightly
+
+22:45.260 --> 22:49.740
+coupled to the idea of algorithmic governance.
+
+22:49.740 --> 22:50.820
+What's the idea behind it?
+
+22:50.820 --> 22:56.300
+How do they want to use algorithmic governance to reorganize society?
+
+22:56.300 --> 23:02.820
+Yeah, I mean, so, you know, one point that I've been making a lot throughout my thesis
+
+23:02.820 --> 23:07.540
+in the kind of not just in the written piece, but also in the talks that I've been giving
+
+23:07.540 --> 23:14.860
+and so on, is this kind of irony or this kind of this observation that like peer-to-peer
+
+23:14.860 --> 23:20.320
+technology, you know, there's a lot of focus on this ambition of disintermediation, right?
+
+23:20.320 --> 23:26.680
+To get rid of the kind of intermediary, the middleman, so that we can have kind of direct
+
+23:26.680 --> 23:29.040
+relations with one another.
+
+23:29.040 --> 23:32.520
+And so for transactions, that would be like, let's get rid of the banks and the governments
+
+23:32.520 --> 23:37.880
+so that we can just exchange value directly between each other without anyone, you know,
+
+23:37.880 --> 23:43.880
+either controlling whether we can do that or not, or like the surveillance and gathering
+
+23:43.880 --> 23:47.840
+information about us and our transactions.
+
+23:47.840 --> 23:52.120
+And so there's like this focus on disintermediation and getting rid of the middleman.
+
+23:52.120 --> 23:56.360
+But then on this kind of like political ambition, I mean, you look at this thing and it's like
+
+23:56.360 --> 24:01.200
+the most incredible, like the most intense form of intermediation you can imagine when
+
+24:01.200 --> 24:03.760
+it comes to questions of governance, right?
+
+24:03.760 --> 24:11.120
+We're bringing together like, you know, networks and algorithms and protocols and game theory
+
+24:11.120 --> 24:16.160
+and market dynamics and you name it, all into this kind of like some kind of apparatus that
+
+24:16.240 --> 24:24.200
+is supposed to kind of sit between all of us and enforce some kind of consensus between
+
+24:24.200 --> 24:25.720
+all of us.
+
+24:25.720 --> 24:33.000
+So it's this very intense form of intermediation, actually, and a hugely complex form of intermediation.
+
+24:33.000 --> 24:41.880
+Yeah, so on the question of algorithmic governance, it's so, I mean, with blockchain, I think
+
+24:41.920 --> 24:47.720
+I mentioned already in the definition how, you know, the technology looks to solve the
+
+24:47.720 --> 24:49.960
+problem of the political.
+
+24:49.960 --> 24:54.280
+And so you have, you know, something like, you know, you have consensus algorithms that
+
+24:54.280 --> 24:57.560
+organize consensus amongst nodes in the network.
+
+24:57.560 --> 25:04.720
+But also, you've got things like decentralized autonomous organizations, you've got things
+
+25:04.720 --> 25:07.360
+like smart contracts.
+
+25:07.360 --> 25:16.480
+So ways of trying to kind of automate certain aspects of governance and contractual relationships,
+
+25:16.480 --> 25:21.440
+let's say, so that they once again cannot be controlled by any single individual, but
+
+25:21.440 --> 25:26.520
+that run, you know, across a kind of decentralized network.
+
+25:26.520 --> 25:30.880
+And there's lots of kind of directions that people imagine this going in.
+
+25:30.960 --> 25:38.120
+And so, you know, the kind of like fantasy, which is both the kind of like dystopian fantasy,
+
+25:38.120 --> 25:41.680
+but also something that you see people in the blockchain space talk about with like
+
+25:41.680 --> 25:47.240
+really kind of like feverish bright eyes is this, you know, this combination of blockchain
+
+25:47.240 --> 25:53.520
+with AI, you know, that, you know, will have, you know, AI emerge, which will be this kind
+
+25:53.520 --> 26:05.600
+of like, yeah, perfect, scary, non-human, but amazingly mathematical intelligence that
+
+26:05.600 --> 26:14.720
+will use the kind of power of cryptography and the kind of uncontrollable, uncontrollability,
+
+26:14.720 --> 26:20.680
+unstoppable ability of smart contracts to basically run the world.
+
+26:20.840 --> 26:27.600
+And specifically in terms of this narrative for future, there has been some setbacks to
+
+26:27.600 --> 26:29.560
+say it mildly.
+
+26:29.560 --> 26:36.800
+So there was a DAO, a decentralized autonomous organization, as you mentioned, in Ethereum,
+
+26:36.800 --> 26:38.480
+on the Ethereum blockchain.
+
+26:38.480 --> 26:40.880
+And there was a lot of hype around it.
+
+26:40.880 --> 26:44.280
+And at some point it got hacked.
+
+26:44.280 --> 26:52.000
+And actually, what followed then was some kind of reflection about the limits of this
+
+26:52.000 --> 26:53.840
+kind of thinking.
+
+26:53.840 --> 27:02.400
+And for some, it was like a, I think it was just the lesson that we just didn't do it
+
+27:02.400 --> 27:03.400
+good enough yet.
+
+27:03.400 --> 27:04.400
+Yeah.
+
+27:04.400 --> 27:09.640
+And for others, they thought, all right, well, this showed us actually that it's not just
+
+27:09.640 --> 27:16.240
+a deterministic world we're living in that can be handled in this kind of way, but there
+
+27:16.240 --> 27:22.240
+are different aspects, like social aspects and stuff that have to be considered in this
+
+27:22.240 --> 27:23.240
+kind of thing.
+
+27:23.240 --> 27:24.240
+Yeah.
+
+27:24.240 --> 27:25.240
+Yeah.
+
+27:25.240 --> 27:28.080
+So I write quite a bit about that event in my thesis also.
+
+27:28.080 --> 27:37.520
+I mean, the problem is, so, you know, the story of blockchain and what it can do and
+
+27:37.520 --> 27:43.760
+the story of blockchain plus AI, you know, these things, they sound so convincing.
+
+27:43.760 --> 27:47.400
+But one of the main reasons why they're so convincing is because when you kind of, when
+
+27:47.400 --> 27:51.600
+you look at the story, you're looking only at the story and you forget to look at everything
+
+27:51.600 --> 27:56.560
+outside of it, when actually everything outside of it really matters for how that story will
+
+27:56.560 --> 27:58.720
+play out in reality.
+
+27:58.720 --> 28:06.300
+And to take a very basic example, this idea of a kind of, you know, blockchain system
+
+28:06.540 --> 28:13.740
+that runs entirely without authorities, you know, at some point, someone had to write
+
+28:13.740 --> 28:16.740
+that protocol, right?
+
+28:16.740 --> 28:22.340
+And so that someone, you know, or those groups of people, in essence, have then written the
+
+28:22.340 --> 28:25.340
+rules of society, right?
+
+28:25.340 --> 28:29.100
+If indeed this thing was going to continue to run without it being controlled or without
+
+28:29.100 --> 28:33.180
+it being kind of modified and so on.
+
+28:33.180 --> 28:39.100
+But also what happens is in reality, not only has someone or people writing protocols,
+
+28:39.100 --> 28:43.740
+but also the protocols need to be maintained and updated and things break and nothing is
+
+28:43.740 --> 28:45.140
+ever written perfectly.
+
+28:45.140 --> 28:53.100
+And, you know, so there is this kind of like real kind of difference or real gap between
+
+28:53.100 --> 29:03.180
+the kind of the perfect ideal that somehow kind of, you know, mathematics, cryptography
+
+29:03.180 --> 29:07.300
+and technical systems, you know, they give us this kind of mental image of something
+
+29:07.300 --> 29:13.740
+that is perfectly neatly organized, perfectly rational and perfectly objective, when in
+
+29:13.740 --> 29:17.740
+actual fact, like that's a kind of it's a mental image of it.
+
+29:17.740 --> 29:21.900
+Whenever people actually write these things down, obviously, like it exists as part of
+
+29:21.900 --> 29:28.580
+a kind of far more complex world where lots of other dynamics play into how a system
+
+29:28.580 --> 29:32.300
+will actually operate and the actual effects of a system.
+
+29:32.300 --> 29:38.780
+And so what happened in the DAO attack was, you know, there was this decentralized autonomous
+
+29:38.780 --> 29:44.620
+organization and it was supposed to be governed purely and only by the rules written in its
+
+29:44.620 --> 29:47.380
+smart contract.
+
+29:47.380 --> 29:51.860
+And this smart contract lived in a decentralized network and no one was supposed to be able
+
+29:51.860 --> 29:56.700
+to modify it or change it after it had been deployed.
+
+29:56.700 --> 30:02.700
+So it was deployed and lots of people invested in the decentralized autonomous organization,
+
+30:02.700 --> 30:04.700
+I think up to 60 million dollars.
+
+30:04.700 --> 30:06.540
+No, more than that.
+
+30:06.540 --> 30:09.580
+I think over 100 million dollars.
+
+30:09.580 --> 30:17.380
+And then all of a sudden people saw that there was an amount of investment that was being
+
+30:17.700 --> 30:22.540
+taken out of the DAO contract repeatedly.
+
+30:22.540 --> 30:28.980
+And so it turned out that in the contract code, this was possible through a kind of
+
+30:28.980 --> 30:33.980
+combination of a couple of different rules that had been specified in the contract.
+
+30:33.980 --> 30:40.380
+And someone was literally emptying the fund and got away with about 60 million dollars.
+
+30:40.380 --> 30:46.040
+And the reactions to that were, you know, kind of split the community.
+
+30:46.040 --> 30:53.720
+So some people felt like, you know, this needed to be stopped.
+
+30:53.720 --> 30:55.680
+This should never have happened.
+
+30:55.680 --> 30:57.520
+We should intervene.
+
+30:57.520 --> 31:02.760
+And another set of people were like, no, because the rules said that only the smart contracts
+
+31:02.760 --> 31:03.800
+governs this thing.
+
+31:03.800 --> 31:07.520
+And so therefore, if what's written in the smart contract is the only thing that governs
+
+31:07.520 --> 31:13.400
+it and it allows for this person to actually or this hacker to actually siphon off this
+
+31:13.520 --> 31:16.880
+money, that should be allowed to go ahead.
+
+31:16.880 --> 31:23.760
+And so what you saw was, you know, the Ethereum Foundation got quite concerned and got involved
+
+31:23.760 --> 31:31.680
+because this was a considerable amount of the actual total amount of ether in the market.
+
+31:31.680 --> 31:38.200
+And so they decided to go in and intervene and basically do what's called, I guess you
+
+31:38.280 --> 31:47.680
+could call it a kind of rollback on the Ethereum blockchain and fork the blockchain so that
+
+31:47.680 --> 31:52.320
+before the hack attacked and kind of pretend that in the history of the Ethereum blockchain,
+
+31:52.320 --> 32:00.200
+this hack had never actually happened to then buy time to go in and retrieve the funds.
+
+32:00.200 --> 32:05.760
+And that's like a clear act of a kind of outside authority in a sense, right?
+
+32:05.760 --> 32:09.080
+And so there was a lot of like soul searching in the community about whether or not that
+
+32:09.080 --> 32:15.760
+was a good thing or not, whether that should be possible at all.
+
+32:15.760 --> 32:17.520
+And it did split the community.
+
+32:17.520 --> 32:21.800
+And so you have two different versions of Ethereum running now, one that has a history
+
+32:21.800 --> 32:26.200
+of events where this hack never happened, and one that has a history of events where
+
+32:26.200 --> 32:29.120
+it did happen.
+
+32:29.760 --> 32:39.000
+And so for some people in the Ethereum community, the way of making sense of this in terms of
+
+32:39.000 --> 32:46.680
+decentralization and so on, was to say that social consensus trumps computational consensus.
+
+32:46.680 --> 32:54.480
+So this idea that like it was actually okay for the Ethereum Foundation to step in and
+
+32:54.480 --> 32:59.480
+retrieve the funds by forking the chain because there was agreement, there was broad agreement
+
+32:59.480 --> 33:02.760
+in the community that that was what needed to be done.
+
+33:02.760 --> 33:14.480
+And that agreement was expressed through the adoption of nodes in the network of this new
+
+33:14.480 --> 33:17.000
+version of the Ethereum blockchain.
+
+33:17.000 --> 33:21.240
+So in many ways, you could say there was a decentralized consensus around moving forward
+
+33:21.240 --> 33:29.040
+on that decision, although there was a kind of another splinter group that disagreed.
+
+33:29.040 --> 33:31.200
+So there's lots of stuff going on here.
+
+33:31.200 --> 33:40.440
+But what I think really kind of was very nicely kind of demonstrated to the community was
+
+33:40.440 --> 33:48.680
+that you don't get rid of the complexity of the world, you don't get rid of human beings,
+
+33:48.680 --> 33:50.720
+you don't get rid of all these things so easily.
+
+33:50.720 --> 33:55.680
+And they actually play a pretty important role for how systems play out.
+
+33:55.680 --> 34:03.480
+Like there's no there's no final guarantee against like against the indeterminate reality
+
+34:03.480 --> 34:07.720
+that we live in, you know, things kind of unfold.
+
+34:07.720 --> 34:12.000
+I mean, yeah, there's there's so many ways of kind of saying this.
+
+34:13.000 --> 34:20.120
+And I keep saying it that, you know, this idea of a kind of final solution to the problem
+
+34:20.120 --> 34:24.200
+of the political, it's I mean, it's cute.
+
+34:24.200 --> 34:27.480
+And I understand where it's coming from.
+
+34:27.480 --> 34:30.040
+But really, you know, cryptography doesn't do that.
+
+34:30.040 --> 34:31.320
+There is nothing that does that.
+
+34:31.320 --> 34:32.960
+I mean, time keeps passing.
+
+34:32.960 --> 34:37.760
+And between us, there's just too many, there's there's too many unknowns in the universe.
+
+34:37.800 --> 34:42.720
+It's like it's a radically open future, you know, and you take something like cryptography
+
+34:42.720 --> 34:49.840
+that is that is really, let's say, the the cornerstone of this political or this kind
+
+34:49.840 --> 34:58.000
+of belief system in blockchain, this idea of like the, you know, the security of cryptography
+
+34:58.000 --> 35:04.760
+being like something fixed and something something determined, you know, that we can somehow
+
+35:04.800 --> 35:10.920
+build everything else on top of, you know, I went to I went to Bletchley Park the other
+
+35:10.920 --> 35:17.400
+day, which is I don't know if people know what that is, but it's it's where Alan Turing
+
+35:17.400 --> 35:22.440
+and a bunch of other English mathematicians got together during the Second World War to
+
+35:22.440 --> 35:27.440
+break the Lorenz, the German Lorenz cipher machine.
+
+35:27.440 --> 35:32.520
+And a few of them did and invented the Colossus in order to do that.
+
+35:32.520 --> 35:37.800
+And it's you know, it's a very good it's a very kind of historical reminder and an epic
+
+35:37.800 --> 35:43.520
+reminder of the fact that cryptography, you know, is is never final.
+
+35:43.520 --> 35:49.640
+You know, it can be broken and and it is repeatedly broken and it's an ongoing process.
+
+35:49.640 --> 35:55.040
+Cryptography is very interesting to use in different kinds of systems design because,
+
+35:55.040 --> 36:01.360
+yes, it does buy you time and it has some incredible properties, but but it doesn't
+
+36:01.360 --> 36:04.360
+resolve things in any final in any final way.
+
+36:04.360 --> 36:06.560
+It's not bulletproof.
+
+36:06.560 --> 36:13.440
+It's just another device that we humans have invented in our engagement with with the kind
+
+36:13.440 --> 36:17.520
+of elements of the universe that we live in, you know, with the mathematics that we that
+
+36:17.520 --> 36:21.320
+we've kind of developed. Yeah.
+
+36:21.320 --> 36:23.520
+That was a lot.
+
+36:24.240 --> 36:32.720
+That's good. And actually, there's a there's another element that kind of undermines this
+
+36:32.720 --> 36:36.840
+perception of blockchain technology being a truth machine.
+
+36:36.840 --> 36:43.800
+In your thesis, there's a part where you describe this actually quite fitting.
+
+36:43.800 --> 36:44.800
+I'll just quote it.
+
+36:44.800 --> 36:49.440
+Actually, I think if we take a closer look at how double spending is solved and how consensus
+
+36:49.440 --> 36:54.520
+is arrived at in decentralized networks, there is, in fact, no need to determine which
+
+36:54.520 --> 36:59.600
+of the conflicting transactions is true because from the perspective of the system, it does
+
+36:59.600 --> 37:03.640
+not matter which is verified as long as it is just one of them.
+
+37:03.640 --> 37:07.080
+What is true or really happened is not of importance.
+
+37:07.080 --> 37:08.080
+End quote.
+
+37:08.080 --> 37:13.200
+So I really like that because the consensus this means that means that the consensus in
+
+37:13.240 --> 37:19.840
+blockchain is actually far from being any kind of objective truth, but it is what you
+
+37:19.840 --> 37:23.480
+later call an incentive driven settlement.
+
+37:23.480 --> 37:30.960
+And I think this is very spot on because it kind of begs the question, how does this affect
+
+37:30.960 --> 37:34.520
+the the the kinds of truths?
+
+37:34.520 --> 37:36.080
+Is that the plural of truth?
+
+37:36.080 --> 37:42.200
+I don't know the truths that that can be produced because I'm actually like one hundred percent
+
+37:42.240 --> 37:50.080
+sure that there are many, many, many, many, many, many, many truths that cannot be produced
+
+37:50.080 --> 37:52.680
+with this specific type of thinking.
+
+37:52.680 --> 37:53.680
+Yeah.
+
+37:55.800 --> 38:01.680
+Yeah, it's another kind of like cute.
+
+38:04.480 --> 38:10.840
+I say cute because it's another kind of cute approach to some of the kind of deep complex
+
+38:10.840 --> 38:12.160
+problems of the political.
+
+38:14.440 --> 38:19.560
+And I say cute because it's a kind of backing down of or a kind of historical accumulation
+
+38:19.560 --> 38:21.920
+of disappointments in authorities.
+
+38:21.920 --> 38:28.480
+So it feels a little bit like this child that who's who realizes that its parents are
+
+38:29.480 --> 38:34.320
+fallible, you know, and goes looking for something that isn't fallible.
+
+38:34.320 --> 38:40.840
+And so, you know, and the reason why I say that is because, like, OK, so, I don't know,
+
+38:40.840 --> 38:46.200
+to me, it does seem like, you know, it's trying to instead of instead of instead of trying
+
+38:46.200 --> 38:52.840
+to ponder what truths might be out there and try and work through that in all the kind
+
+38:52.840 --> 38:57.280
+of philosophical implications and all the social implications and through all the kind
+
+38:57.280 --> 39:02.240
+of historical pain and so on that has that has happened in this pursuit of truth.
+
+39:02.240 --> 39:03.880
+And here I'm talking about religion.
+
+39:03.880 --> 39:07.640
+I'm talking about political ideologies.
+
+39:07.640 --> 39:13.920
+I'm talking about geopolitics, you know, and and historical events.
+
+39:15.240 --> 39:22.480
+This is the kind of idea that, like, we don't need a universal truth coming stemming from
+
+39:22.480 --> 39:23.840
+kind of human reflection.
+
+39:24.480 --> 39:29.800
+All we need is something that ensures that who gets to determine the next round of truth
+
+39:30.440 --> 39:38.640
+is randomly selected in a way that can be deterministically analyzed as as decentralized,
+
+39:38.640 --> 39:42.640
+as fair. You know, there's no single node in the network that will be able to determine
+
+39:42.640 --> 39:45.360
+the truth over and over and over again.
+
+39:45.360 --> 39:47.440
+It's always going to be a different node in the network.
+
+39:47.760 --> 39:53.000
+So it's this kind of mathematically randomized set of truths.
+
+39:53.920 --> 39:57.920
+And there's some, you know, so when we talk about truth machine or this idea of
+
+39:57.920 --> 40:02.840
+blockchain as truth machine, that is the kind of truth that's being produced.
+
+40:02.840 --> 40:08.080
+It's it's it's, you know, and this is, again, a little bit of an abstraction because,
+
+40:08.080 --> 40:11.000
+like, OK, we're analyzing proof of work.
+
+40:11.880 --> 40:15.880
+And so the truth that we're talking about here is whether a transaction happened or
+
+40:15.880 --> 40:19.840
+not in the Bitcoin blockchain or whatever.
+
+40:20.360 --> 40:24.120
+And so it's a bit of an extrapolation to talk about kind of more existential or political
+
+40:24.120 --> 40:29.840
+truths. But I think I do think that extrapolation makes sense because that is the
+
+40:29.840 --> 40:34.200
+kind of ultimate political imaginary that's at play here in blockchain.
+
+40:35.920 --> 40:42.200
+But, yeah, it's it's a very particular it's a very particular kind of and strange and
+
+40:42.200 --> 40:46.160
+funky and quite interesting way of arriving at a set of truths.
+
+40:46.160 --> 40:51.360
+And I'm sure that that, you know, I do I am curious about, you know, the experiments in
+
+40:51.360 --> 40:57.920
+this space to see what and how we might be able to use something like this.
+
+40:58.960 --> 41:04.720
+But I'm also quite firm about finding the very specific appropriate uses of it and really
+
+41:04.720 --> 41:11.880
+not having this as some kind of overarching ideology, because, like you say, this form
+
+41:11.880 --> 41:16.840
+of consensus, this way, this method at which to arrive at consensus around truth is a very
+
+41:16.840 --> 41:21.720
+specific way. It's very different from, let's say, a group of people that get together in
+
+41:21.720 --> 41:26.400
+a room and share their experiences about something that then arrive at some kind of
+
+41:26.400 --> 41:28.600
+shared understanding of what has happened.
+
+41:30.360 --> 41:35.400
+That's a very, very different process and a very, very different way of being in the
+
+41:35.400 --> 41:42.160
+world and acting in the world and understanding the world than the proof of work consensus
+
+41:42.160 --> 41:42.840
+algorithm. Right.
+
+41:43.560 --> 41:53.320
+Actually, I'm keen on looking a bit closer on this subset of being incentive driven,
+
+41:53.320 --> 41:55.120
+because I think that's quite relevant.
+
+41:55.960 --> 41:58.080
+And you can see this in other fields as well.
+
+41:58.080 --> 42:06.880
+When, for example, a blockchain technology has to resolve the problem, how to bridge
+
+42:06.880 --> 42:12.440
+the gap into the material world, like the non-digital world, then things come into play
+
+42:12.680 --> 42:14.080
+like oracles and stuff.
+
+42:14.320 --> 42:17.280
+But these oracles, they are market driven.
+
+42:17.280 --> 42:26.400
+So it's a monetary incentive that is supposed to deliver the best possible truth, not the
+
+42:26.400 --> 42:27.680
+ultimate truth, maybe.
+
+42:27.680 --> 42:40.200
+But it's constructed as if this monetary incentive is able to produce the best workable
+
+42:40.200 --> 42:45.240
+truth. And I think this goes down to the bottom of the protocol when it comes to
+
+42:45.240 --> 42:52.560
+something like crypto economics, because there also you have this kind of techno
+
+42:52.560 --> 42:59.000
+engineering idea or behavioral engineering idea, you call it, I think, in the thesis as
+
+42:59.000 --> 43:11.360
+well, that you might be able to construct a good system architecture through actually
+
+43:11.360 --> 43:19.600
+carrots and sticks, which are, again, monetary incentives or the punishment of taking away
+
+43:19.600 --> 43:20.920
+some money.
+
+43:21.800 --> 43:24.080
+Yeah. Yeah, exactly.
+
+43:24.640 --> 43:31.000
+And there, again, it's interesting to look at how things are done or might be done
+
+43:31.000 --> 43:32.560
+differently in a social scenario.
+
+43:32.560 --> 43:38.440
+Right. So, you know, we're working with crypto economic designs, then it is very much,
+
+43:38.440 --> 43:43.560
+like you say, kind of crude, carrot or stick kind of set of tools that are being used.
+
+43:43.640 --> 43:48.280
+Yeah, I think maybe for the listeners, could you briefly explain what it is?
+
+43:48.280 --> 43:50.000
+Crypto economics, what that means?
+
+43:50.800 --> 43:54.120
+Yeah, and it won't be brief, I'm sorry.
+
+43:54.120 --> 43:55.600
+Go ahead, go ahead.
+
+43:55.680 --> 44:01.480
+Because because I think, again, there's there's an interesting alternative history that
+
+44:01.480 --> 44:04.800
+hasn't really been discussed or written much about crypto economics.
+
+44:06.600 --> 44:13.440
+But crypto economics basically comes from, you know, in the Bitcoin protocol, what you
+
+44:13.440 --> 44:21.600
+have is a set of miners in the network that verify transactions, and those miners are
+
+44:21.600 --> 44:29.120
+rewarded with some Bitcoin every time they successfully manage to verify a block of
+
+44:29.120 --> 44:34.320
+transactions. And they're rewarded with a Bitcoin partially with the idea that if it
+
+44:34.320 --> 44:42.280
+pays more to contribute to the system than it does to attack it, then you'll have a
+
+44:42.280 --> 44:48.680
+system that essentially, yeah, it's a it's a kind of element of the security of the
+
+44:48.680 --> 44:53.280
+system, you'll have a system that runs that runs well.
+
+44:53.280 --> 44:57.280
+And so you've got you get even more kind of sophisticated versions of that, that, you
+
+44:57.280 --> 45:01.720
+know, you kind of economically reward good behavior in the network, and economically
+
+45:01.720 --> 45:03.720
+punish bad behavior in the network.
+
+45:04.800 --> 45:10.520
+And you see kind of different designs of that in different protocols in the blockchain
+
+45:10.520 --> 45:13.000
+space. And some of them get very elaborate.
+
+45:14.000 --> 45:17.600
+And I used a Bitcoin example because it's kind of one of the kind of more simple ones and
+
+45:17.600 --> 45:18.600
+easier to understand.
+
+45:19.880 --> 45:25.560
+So, yeah, it's a kind of combination of game theory and market dynamics in a kind of
+
+45:25.560 --> 45:28.040
+cryptographic decentralized network space.
+
+45:29.360 --> 45:37.280
+But the other story to that that I think is a very interesting angle is to understand this in
+
+45:37.280 --> 45:43.880
+terms of business models, because if we take, you know, the kind of business models of
+
+45:45.920 --> 45:52.680
+platform, the kind of like Internet platforms of today that use a kind of data extraction as
+
+45:52.680 --> 46:00.320
+their business models, data extraction and advertising, if we want to create new kind
+
+46:00.360 --> 46:08.280
+of a new type of Internet, you know, Web3, and if we want to create kind of new types of
+
+46:08.280 --> 46:15.720
+decentralized applications that make it cryptographically impossible for the kind of
+
+46:15.720 --> 46:21.320
+business models that rely on data extraction in that kind of a way, then we need a different
+
+46:21.320 --> 46:24.200
+kind of economy that runs these systems.
+
+46:24.480 --> 46:28.360
+And so for me, the interesting side of crypto economics, the really interesting side of
+
+46:28.520 --> 46:34.000
+crypto economics is the dream of and the idea of creating systems that are kind of
+
+46:34.000 --> 46:40.280
+economically autonomous and viable to run without the need for surveillance or
+
+46:40.280 --> 46:44.040
+surveillance capitalism or platform surveillance or, you know, the kinds of business
+
+46:44.040 --> 46:45.920
+models that we see run the Internet today.
+
+46:45.920 --> 46:50.720
+So that for me is like the kind of opportunity, the interesting possibility of crypto
+
+46:50.720 --> 46:51.720
+economics.
+
+46:52.480 --> 46:57.240
+Awesome. I think it's really, really important to point that out, because I mean, also for
+
+46:57.240 --> 47:05.280
+someone like me, it's kind of like overwhelming how the way crypto economics is
+
+47:05.280 --> 47:13.360
+handled is narrowed down to this idea of actually socio-technical engineering, which
+
+47:13.360 --> 47:19.400
+I think is really behavioral engineering, which I think is really actually a very
+
+47:19.400 --> 47:26.640
+dangerous road to to go on, you know, and it's very refreshing the way you did describe
+
+47:26.760 --> 47:33.440
+it right now that there are also, well, this might be a like acute danger to use the
+
+47:33.440 --> 47:36.160
+technology in the way of behavioral engineering or such.
+
+47:37.040 --> 47:46.800
+There are these other possibilities to actually use the technology in a way that is
+
+47:46.800 --> 47:48.800
+very much beneficial for everybody.
+
+47:48.880 --> 47:55.400
+Yeah. Yeah. But I think like in order for that to actually be able to happen, the space
+
+47:55.400 --> 48:01.840
+needs a lot of new thinking, especially from people that come from a heterodox economic
+
+48:01.840 --> 48:07.880
+thinking, because like right now what you've got is a bunch of programmers and computer
+
+48:07.880 --> 48:10.360
+engineers tinkering with economic tools.
+
+48:10.760 --> 48:17.760
+And so and from their perspective, they're trying to achieve certain security properties
+
+48:17.760 --> 48:22.040
+in the network. And so economics is being used in order to achieve those security
+
+48:22.080 --> 48:25.080
+properties. And that's why it tends towards behavioral engineering.
+
+48:25.760 --> 48:29.840
+That's why it tends towards like, how can we kind of make sure that certain types of
+
+48:29.840 --> 48:37.480
+behaviors, you know, honest behavior is happens, whereas kind of dishonest or malicious
+
+48:37.480 --> 48:39.120
+behavior is made impossible?
+
+48:39.120 --> 48:42.800
+You know, so that's like it's really the computer engineers perspective.
+
+48:42.800 --> 48:48.440
+But if we can have kind of more thinking in the space that looks more at this question of,
+
+48:48.840 --> 48:53.040
+you know, the business model of the Internet and the kinds of economics that might happen
+
+48:53.040 --> 48:58.680
+in that space, you know, if we can kind of start deliberately shaping that in some ways,
+
+48:58.680 --> 49:01.200
+I think that would be like super interesting.
+
+49:01.280 --> 49:04.240
+I think that's like, yeah, an important direction to work on.
+
+49:04.800 --> 49:11.720
+Very much so. But I have to say, I think it's in the in the current state, it's not just
+
+49:11.760 --> 49:19.040
+that the programmers are thinking in terms of security models, and that's why there's
+
+49:19.040 --> 49:23.000
+this kind of misunderstanding.
+
+49:23.000 --> 49:27.480
+But I'm afraid that I think what's happening right now, and you can see that in the
+
+49:27.480 --> 49:33.280
+collaboration between Vitalik Buterin, the founder of Ethereum and Glenn Whale, an
+
+49:33.280 --> 49:39.520
+economist who wrote Radical Markets, what like the next level of shit in this sense
+
+49:39.880 --> 49:45.120
+is that they are very much aware of that.
+
+49:45.120 --> 49:52.280
+This is not just about security modeling, but they believe crypto economics to be the
+
+49:52.280 --> 49:57.080
+appropriate social technology to design society.
+
+49:57.520 --> 49:59.280
+That's that's the impression I get.
+
+49:59.280 --> 50:07.200
+And that and that for me means that there might be a lesson learned in terms of how
+
+50:07.200 --> 50:14.400
+autonomous systems are not fully controllable and that we should put some social input
+
+50:14.400 --> 50:18.120
+into how to govern things and stuff like that, to say just a bit simple.
+
+50:18.560 --> 50:27.920
+But that in the final step, there's still a belief in engineering society through
+
+50:27.920 --> 50:32.520
+appropriate technological architectures.
+
+50:32.520 --> 50:39.040
+Actually, they really call it, he calls it the new social technology, like crypto.
+
+50:39.040 --> 50:40.720
+Yeah. Yeah.
+
+50:40.960 --> 50:48.840
+And this is where I think it's important to understand power a little bit better and
+
+50:48.840 --> 50:55.360
+different forms of power, because in the blockchain space and I think in society in
+
+50:55.360 --> 51:01.080
+general, when people kind of think of power just off the top of their heads, what comes
+
+51:01.120 --> 51:03.400
+to mind is a kind of authoritarian dictator.
+
+51:03.400 --> 51:09.400
+Right. What comes to mind is like a kind of centralized, you know, some kind of centralized
+
+51:09.400 --> 51:14.960
+power where one person or one party or whatever determines everything and kind of power
+
+51:14.960 --> 51:17.760
+radiates from that kind of central point.
+
+51:19.880 --> 51:24.400
+But there's there's so many more theories of power and ways of understanding power that
+
+51:24.400 --> 51:29.760
+are much more kind of apt at describing our current kind of conditions.
+
+51:30.720 --> 51:37.080
+One of which, like in the case of what you just described, that is quite useful for
+
+51:37.080 --> 51:45.920
+understanding, for understanding this condition is like a kind of power that operates
+
+51:45.920 --> 51:48.080
+more on the landscape of what's possible.
+
+51:48.080 --> 51:57.040
+So instead of having a centralized person dictate what needs to happen, you kind of
+
+51:57.040 --> 52:01.880
+model the landscape in a way that makes certain types of things seem like they're just
+
+52:01.880 --> 52:07.680
+naturally impossible to do or very difficult to do and make other things feel like they're
+
+52:07.680 --> 52:09.080
+very desirable to do.
+
+52:09.920 --> 52:14.120
+And that's what a lot of kind of protocological design really is about.
+
+52:14.120 --> 52:18.160
+And that's what a lot of kind of crypto economic design really is about, is, you know,
+
+52:18.160 --> 52:23.400
+to kind of make certain types of behavior desirable for someone on a kind of intuitive
+
+52:23.400 --> 52:26.960
+level. So it doesn't feel like an authority is dictating anything to you.
+
+52:26.960 --> 52:29.080
+It's just the way the landscape looks.
+
+52:29.080 --> 52:33.320
+It's easier to go that, you know, down that road than it is to climb over that hedge.
+
+52:33.320 --> 52:42.760
+You know, and so, you know, I think keeping an eye on that is is is very important also
+
+52:42.760 --> 52:49.680
+to be able to analyze, you know, analyze what is the types of, you know, what is the
+
+52:49.680 --> 52:53.560
+politics that's being inscribed in the protocols that then shape that landscape, you know?
+
+52:55.920 --> 53:00.240
+Yeah. What's the main takeaway from your research?
+
+53:01.960 --> 53:09.720
+Oh, wow. The main takeaway.
+
+53:09.720 --> 53:21.880
+Give me one moment, because there's so many that we've touched on.
+
+53:21.880 --> 53:23.480
+What's the main takeaway for you?
+
+53:23.480 --> 53:29.400
+I think it's that we should all be aware that there is no wholesale answer to anything,
+
+53:29.400 --> 53:37.640
+actually, and that these things are, like, context specific and that they have, like,
+
+53:37.720 --> 53:46.280
+a side that might benefit us that is very much context specific, but another one that is not.
+
+53:46.280 --> 53:50.280
+And we shouldn't, like, alles über einen Kamm scheren.
+
+53:50.280 --> 53:51.720
+I don't know the English word for that.
+
+53:51.720 --> 53:55.480
+Like, we shouldn't approach it as if it's all the same.
+
+53:56.360 --> 53:58.280
+Take a second look. Maybe that's.
+
+53:58.280 --> 54:01.400
+Yeah. Yeah. Yeah. I think you're right.
+
+54:01.400 --> 54:03.800
+I mean, really, that is the main takeaway.
+
+54:03.800 --> 54:14.920
+The main takeaway is, or the main work that I'm trying to do here is to, first of all,
+
+54:14.920 --> 54:23.480
+shift the understanding away from trying to arrive at some final solutions to problems
+
+54:23.480 --> 54:31.880
+of power and politics and these issues, and to create some ways to feel OK about the fact
+
+54:31.880 --> 54:39.960
+that we do live in an infinitely complex world and universe where the work is ongoing.
+
+54:40.440 --> 54:42.360
+And that's part of the excitement of things, right?
+
+54:43.560 --> 54:46.040
+These new technologies can do incredible things.
+
+54:48.040 --> 54:49.320
+History doesn't stop.
+
+54:49.320 --> 54:50.440
+The work doesn't stop.
+
+54:50.440 --> 54:51.640
+The game doesn't stop.
+
+54:51.640 --> 54:52.760
+The kind of interaction.
+
+54:52.760 --> 54:55.320
+I mean, there's so much more interesting things to come.
+
+54:56.440 --> 54:59.800
+And all this stuff will break and get old at some point,
+
+55:00.680 --> 55:02.840
+and we'll move on and something else will happen.
+
+55:02.840 --> 55:06.920
+And it's really kind of tracing through and sticking.
+
+55:07.720 --> 55:12.120
+There's just a fantastic title of a book by Donna Haraway that came out last year,
+
+55:12.760 --> 55:14.120
+Staying with the Trouble.
+
+55:14.120 --> 55:15.000
+That's what it's about.
+
+55:18.760 --> 55:24.440
+And I say this not as a kind of trying to create some kind of new universal statement,
+
+55:24.440 --> 55:27.000
+but more like literally staying with the trouble
+
+55:27.960 --> 55:32.120
+and understanding the details of how these technologies play out
+
+55:32.120 --> 55:34.760
+and getting involved in how they play out.
+
+55:35.640 --> 55:36.520
+Great final words.
+
+55:37.080 --> 55:40.520
+I usually put one question at the end,
+
+55:41.160 --> 55:44.760
+which is, if you think about the future, what makes you joyful?
+
+55:47.720 --> 55:52.120
+If I think about the future, what makes it that the future is radically open.
+
+55:52.600 --> 55:57.080
+The future has never been more radically open than it feels right now.
+
+55:57.080 --> 55:58.440
+And that to me is incredible.
+
+55:59.720 --> 56:00.360
+Awesome.
+
+56:00.360 --> 56:02.360
+Jaya, thank you so much for the interview.
+
+56:03.400 --> 56:04.360
+Thank you, Jan.
+
+56:10.040 --> 56:11.960
+That was our show for today.
+
+56:11.960 --> 56:16.600
+I hope you enjoyed the interview with Dr. Jaya Clara Brecke.
+
+56:17.080 --> 56:20.920
+If you want to know more about future histories, please visit future histories.
+
+56:20.920 --> 56:23.000
+Visit future histories dot today.
+
+56:23.000 --> 56:25.400
+You can support future histories at Patreon.
+
+56:25.400 --> 56:29.400
+For this, go to patreon.com slash future histories.
+
+56:29.400 --> 56:34.280
+And let me know what you think about this episode and the show in general.
+
+56:34.280 --> 56:39.240
+For this, use Twitter, hashtag future histories, or Reddit,
+
+56:39.240 --> 56:45.800
+or send me an email to future underscore histories at protonmail dot com.
+
+56:45.800 --> 56:52.280
+See you next time.
+

@@ -1,0 +1,5288 @@
+1
+00:00:00,000 --> 00:00:06,000
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+2
+00:00:06,000 --> 00:00:11,000
+Mein Name ist Jan Groß und ich freue mich sehr, heute Markus Meindl begrüßen zu dürfen.
+
+3
+00:00:11,000 --> 00:00:18,000
+Markus ist Commons-Aktivist am Commons-Institut und ich habe mit großem Interesse seinen Text
+
+4
+00:00:18,000 --> 00:00:21,000
+der Ausdehnungstrang moderner Commons gelesen.
+
+5
+00:00:21,000 --> 00:00:27,000
+Wenn Markus sich also im folgenden Gespräch auf den Ausdehnungstrang bezieht, dann ist dieser Text gemeint.
+
+6
+00:00:27,000 --> 00:00:33,000
+Und in dem versucht Markus gewisse Aspekte des von Simon Sutter, Lütti und Stefan Meeritz entwickelten
+
+7
+00:00:33,000 --> 00:00:39,000
+Kommunismus aufzugreifen und weiterzudenken, namentlich die Frage nach der Erweiterung des
+
+8
+00:00:39,000 --> 00:00:45,000
+Commoning auf den gesamtgesellschaftlichen Raum, welche Formen, zum Beispiel der Metacoordination
+
+9
+00:00:45,000 --> 00:00:50,000
+es da vielleicht braucht und wie diese Koordination dann auch ganz konkret technisch vermittelt
+
+10
+00:00:50,000 --> 00:00:52,000
+und unterstützt werden kann.
+
+11
+00:00:52,000 --> 00:00:56,000
+Aus der Auseinandersetzung mit dieser Frage hat sich dann ein ganz konkretes Projekt entwickelt,
+
+12
+00:00:56,000 --> 00:01:00,000
+ein Softwareprojekt, an dem Markus mit einer Gruppe von Leuten arbeitet,
+
+13
+00:01:00,000 --> 00:01:05,000
+nämlich das Global Commoning System, über das wir heute auch reden werden.
+
+14
+00:01:05,000 --> 00:01:09,000
+Ihr findet es unter commoningsystem.org.
+
+15
+00:01:09,000 --> 00:01:14,000
+Solltet ihr Interesse haben an so etwas mitzuarbeiten, dann meldet euch bitte dort.
+
+16
+00:01:14,000 --> 00:01:18,000
+Mir wurde gesagt, dass man sich in jedem Fall über Unterstützung freut,
+
+17
+00:01:18,000 --> 00:01:21,000
+denn das Ganze ist ja noch in der Entwicklungsphase.
+
+18
+00:01:21,000 --> 00:01:26,000
+Und auf der Homepage da findet ihr natürlich auch, wenn ihr nicht interessiert seid,
+
+19
+00:01:26,000 --> 00:01:32,000
+unmittelbar mitzuarbeiten, Infomaterialien zu dem Projekt für alle, die ganz allgemein interessiert sind.
+
+20
+00:01:32,000 --> 00:01:36,000
+Ich fand es auf jeden Fall sehr spannend, dass an so etwas gearbeitet wird.
+
+21
+00:01:36,000 --> 00:01:41,000
+Ich bin ja auch sehr am von Stefan und Simon entwickelten Kommunismus interessiert.
+
+22
+00:01:41,000 --> 00:01:45,000
+Und auch wenn jetzt die beiden nichts mit dem Global Commoning System zu tun haben,
+
+23
+00:01:45,000 --> 00:01:50,000
+fand ich es doch wirklich erfreulich zu sehen, dass die Auseinandersetzung mit dem Kommunismus
+
+24
+00:01:50,000 --> 00:01:56,000
+da zumindest mal als Initialzündung fungieren konnte, um bestimmte offene Fragen,
+
+25
+00:01:56,000 --> 00:02:00,000
+in dem Fall jetzt auch der Skalierbarkeit des Commoning aufzugreifen
+
+26
+00:02:00,000 --> 00:02:03,000
+und an diesen Fragen weiterzuarbeiten.
+
+27
+00:02:03,000 --> 00:02:08,000
+Und es sagt ja auch viel aus über die Anziehungskraft der Idee des Kommunismus, finde ich,
+
+28
+00:02:08,000 --> 00:02:11,000
+dass sich da so eine Eigendynamik daraus entwickelt.
+
+29
+00:02:11,000 --> 00:02:16,000
+An dieser Stelle der Hinweis, wenn ihr mehr über den Kommunismus erfahren wollt,
+
+30
+00:02:16,000 --> 00:02:21,000
+also nicht den Kommunismus, sondern den Kommunismus von Commons Comment,
+
+31
+00:02:21,000 --> 00:02:28,000
+dann lege ich euch hiermit mit Nachdruck die Folge 47 der ersten Staffel von Future Histories ans Herz,
+
+32
+00:02:28,000 --> 00:02:34,000
+in der ich Stefan Mehretz begrüßen durfte und mit ihm über Kommunismus sprechen.
+
+33
+00:02:34,000 --> 00:02:40,000
+Ihr findet den Link zur Folge zusammen mit vielen anderen reichen Materialien in den Show Notes.
+
+34
+00:02:41,000 --> 00:02:47,000
+Bevor es jetzt losgeht, möchte ich noch Matthias ganz herzlich als Patron von Future Histories begrüßen
+
+35
+00:02:47,000 --> 00:02:52,000
+und Wilfried und Fabian für ihre Spenden danken und euch alle darauf hinweisen,
+
+36
+00:02:52,000 --> 00:02:58,000
+wenn ihr Future Histories mögt, dann erzählt doch einem Freund oder einer Freundin davon,
+
+37
+00:02:58,000 --> 00:03:02,000
+von der ihr glaubt, dass sie oder er es vielleicht auch mögen könnte.
+
+38
+00:03:02,000 --> 00:03:07,000
+Vielen Dank dafür und jetzt viel Freude mit der heutigen Episode Future Histories
+
+39
+00:03:07,000 --> 00:03:11,000
+mit Markus Meindl zum Global Commoning System.
+
+40
+00:03:17,000 --> 00:03:23,000
+Markus, vielleicht kannst du für Zuhörerinnen und Zuhörer, die frisch dazugekommen sind sozusagen
+
+41
+00:03:23,000 --> 00:03:30,000
+und weder wissen, was Commons sind, noch was Kommunismus ist, eine Definition mit auf den Weg geben?
+
+42
+00:03:30,000 --> 00:03:35,000
+Ich sag mittlerweile nicht mehr Commons aus dem englischen Begriff, weil es das sehr...
+
+43
+00:03:35,000 --> 00:03:39,000
+Es macht die Diskussion, finde ich, so ein bisschen schwammig, auch offener.
+
+44
+00:03:39,000 --> 00:03:45,000
+Also ich finde, man kann dann mehr erreichen, auch dieser transmotive Ansatz funktioniert besser
+
+45
+00:03:45,000 --> 00:03:51,000
+mit so einem eher offenen Begriff. Ich sag mittlerweile Gemeinsames auf Deutsch.
+
+46
+00:03:51,000 --> 00:03:56,000
+Da weiß man, wovon man redet. Wir reden von Gemeinsamen einfach so, als wenn Kapitalismus
+
+47
+00:03:56,000 --> 00:04:02,000
+auf privaten Eigentum aufbaut, also die willkürliche Verfügung über Dinge der Welt,
+
+48
+00:04:02,000 --> 00:04:07,000
+dann geht es bei Commons eben darum, bei dem Bezug auf Gemeinsam ist es eben nicht willkürlich einzelne
+
+49
+00:04:07,000 --> 00:04:13,000
+Akteure, Personen über Dinge der Welt entscheiden können, sondern dass da eben ein Prozess ist.
+
+50
+00:04:13,000 --> 00:04:20,000
+Und so wie ich quasi Gemeinsames auffasse, auch wirklich so von dem Wort her ist auch, wenn du jetzt
+
+51
+00:04:20,000 --> 00:04:25,000
+und deine Partnerin irgendwie ihr zu zweit ein Auto habt und ihr beide Eigentümer des Autos seid,
+
+52
+00:04:25,000 --> 00:04:30,000
+dann ist das Auto ein Gemeinsames für euch, das eben alle anderen ausschließt.
+
+53
+00:04:30,000 --> 00:04:34,000
+Und wenn ihr zum Beispiel noch irgendwie zwei Freunde habt und dürfen das Auto mitverwenden,
+
+54
+00:04:34,000 --> 00:04:40,000
+dann ist es ein Gemeinsames von euch vier, aber die anderen beiden haben einfach nur gewährte Mitnutzungsrechte.
+
+55
+00:04:40,000 --> 00:04:44,000
+Das heißt, eigentlich ist es ein Gemeinsames, aber wenn ihr sagt, ihr wollt es verwenden,
+
+56
+00:04:44,000 --> 00:04:51,000
+könnt ihr die anderen wieder ausschließen oder genau einfach das für euch benutzen.
+
+57
+00:04:51,000 --> 00:04:57,000
+Also da gibt es auch, wenn eben dieses Gemeinsame innerhalb des privaten Eigentums ist,
+
+58
+00:04:57,000 --> 00:05:03,000
+was an sich kein Widerspruch ist, gibt es noch einzelne Positionen, die sich einfach unterscheiden.
+
+59
+00:05:03,000 --> 00:05:10,000
+Und ich finde, in dem Bezug auf Gemeinsames können wir quasi, besonders im Softwareprojekt,
+
+60
+00:05:10,000 --> 00:05:17,000
+wo wir bestimmt später noch dazu kommen, da müssen wir ganz klar versuchen, irgendwie Werkzeuge zu entwickeln,
+
+61
+00:05:17,000 --> 00:05:23,000
+die hier und heute anwendbar sind, irgendwie Probleme heute lösen im Bezug auf Gemeinsames.
+
+62
+00:05:23,000 --> 00:05:30,000
+Und da hilft uns halt diese Herangehensweise, diese sehr konkrete Herangehensweise viel mehr als was anderes.
+
+63
+00:05:30,000 --> 00:05:41,000
+Also für unseren Fall direkt, für das, was wir machen, ist das quasi eine Art mit Commons umzugehen, die für uns sinnvoll ist, würde ich sagen.
+
+64
+00:05:41,000 --> 00:05:50,000
+Ich hoffe, ich greife da jetzt nicht zu viel sozusagen auf diesen Zugang von Simon Sutiliti und Stefan Mehretz zu.
+
+65
+00:05:50,000 --> 00:05:57,000
+Das liegt vielleicht auch daran, dass der Text, den ich von dir gelesen habe, weil ich habe ja nicht nur das Video geguckt zu eurem Softwareprojekt,
+
+66
+00:05:57,000 --> 00:06:03,000
+zu dem wir auf jeden Fall noch kommen wollen, sondern ich habe auch den Text von dir gelesen zum Ausdehnungsdrang moderner Commons.
+
+67
+00:06:03,000 --> 00:06:08,000
+Und da beziehst du dich ja sozusagen auch stark auf eben dieses Buch Kapitalismus aufheben.
+
+68
+00:06:08,000 --> 00:06:12,000
+Und ich fand das unglaublich produktiv, muss ich sagen, wie du das gemacht hast, weil für mich nämlich,
+
+69
+00:06:12,000 --> 00:06:23,000
+du findest an einem sehr richtigen und wichtigen Punkt ansetzt, mit dem ich bei den Ausführungen von Simon und Stefan auch immer so ein bisschen meine Schwierigkeiten hatte.
+
+70
+00:06:23,000 --> 00:06:32,000
+Und das ist die Frage, inwiefern man denn von der, sie nennen es interpersonalen Ebene, also der unmittelbaren Ebene zwischen zwei Personen oder mehreren Menschen,
+
+71
+00:06:32,000 --> 00:06:37,000
+hinkommt zu einer Organisation auf einer transpersonalen Ebene.
+
+72
+00:06:37,000 --> 00:06:44,000
+Und das ist sozusagen genau der Punkt, wo du versuchst, eben mit deiner Arbeit dann auch anzusetzen.
+
+73
+00:06:44,000 --> 00:06:51,000
+Und du bezeichnest das oder schreibst in deinem Text dazu die Autoren, also Simon Sutiliti und Stefan Mehretz,
+
+74
+00:06:51,000 --> 00:06:59,000
+stellen zwar eine Beziehungsform zur Selbstorganisation heraus, in welcher kein Wert entsteht und sich damit auch keine Verwertungslogik verselbstständigt,
+
+75
+00:06:59,000 --> 00:07:05,000
+schaffen es aber nicht, diese auf einen gesamtgesellschaftlichen Raum zu erweitern.
+
+76
+00:07:05,000 --> 00:07:16,000
+Und ich glaube, eben wie gesagt, nachdem nicht alle diese Theorie kennen, wäre es vielleicht nochmal wichtig, auch erstmal die Problemlage herauszuarbeiten.
+
+77
+00:07:16,000 --> 00:07:27,000
+Also was ist sozusagen das, was in diesem Buch Kapitalismus aufheben vorgeschlagen wird, um diese eigentliche Metaorganisation auch anzugehen?
+
+78
+00:07:27,000 --> 00:07:34,000
+Wenn ich mich nicht täusche, werden da angeboten Stigmergie, polyzentrische Selbstorganisation und sogenannte Meta Commons.
+
+79
+00:07:34,000 --> 00:07:42,000
+Und ich hatte zumindest beim Lesen auch immer ein bisschen das Gefühl, dass das noch nicht hinreichend plausibilisiert ist,
+
+80
+00:07:42,000 --> 00:07:49,000
+warum aus diesen Prozessen heraus dann sozusagen emergent quasi Strukturen entstehen sollen,
+
+81
+00:07:49,000 --> 00:07:56,000
+die dann dieses Problem der Metaorganisation irgendwie wirklich adressieren können sollen.
+
+82
+00:07:56,000 --> 00:08:01,000
+Und es schien mir so, als ob du mit deiner Arbeit sozusagen dich auch an dieser Problemlage abarbeitest.
+
+83
+00:08:01,000 --> 00:08:06,000
+Vielleicht kannst du für uns nochmal ein bisschen herausstellen, was genau das Problem ist,
+
+84
+00:08:06,000 --> 00:08:12,000
+ob ich das überhaupt sozusagen jetzt auch versucht habe, richtig zu erfassen und wie du dich dem dann widmest.
+
+85
+00:08:13,000 --> 00:08:17,000
+Ja, vielen Dank. Ich meine, du hast schon recht, dass du dich darauf beziehst.
+
+86
+00:08:17,000 --> 00:08:24,000
+Und das war auch der ganze Start von dem Softwareprojekt und sowas, dieser Text, vor knapp vier Jahren, als es quasi wieder rausgekommen ist.
+
+87
+00:08:24,000 --> 00:08:30,000
+Und da ist eine Leerstelle im Buch. Man muss auch wirklich deutlich sagen am Anfang,
+
+88
+00:08:30,000 --> 00:08:34,000
+dass die beiden Autoren auch immer gesagt haben, das ist nicht vollständig.
+
+89
+00:08:34,000 --> 00:08:39,000
+Die gehen quasi einen Schritt in diese Richtung. Die versuchen da quasi diesen Rahmen so ein bisschen aufzumachen.
+
+90
+00:08:39,000 --> 00:08:43,000
+Aber es hat Probleme. Besonders haben sie gesagt, eben das Problem der Ausdehnung.
+
+91
+00:08:43,000 --> 00:08:50,000
+Dass sie nicht wissen, wie eigentlich, also sie haben diese kommen Struktur, die sich hauptsächlich aus diesen Interpersonalen bezieht.
+
+92
+00:08:50,000 --> 00:08:54,000
+Also interpersonalkonkrete Personen, die miteinander in Kontakt treten.
+
+93
+00:08:54,000 --> 00:09:01,000
+Also das Gespräch, das wir haben, ist interpersonal zwischen dir und mir, aber eben nicht so irgendwie einer.
+
+94
+00:09:01,000 --> 00:09:05,000
+Andere hören zu, aber wir reden miteinander.
+
+95
+00:09:05,000 --> 00:09:11,000
+Und da ist in dieser Beziehungsform, also wie geht man mit diesen gemeinsamen um?
+
+96
+00:09:11,000 --> 00:09:16,000
+Da gibt es quasi, das wird beschrieben als Phänomen so ein bisschen eben.
+
+97
+00:09:16,000 --> 00:09:22,000
+Also es gibt diese Comments, es gibt diesen interpersonalen Bezug aufeinander, diese Empathie.
+
+98
+00:09:22,000 --> 00:09:27,000
+Wir können die Bedürfnisse der anderen Person wahrnehmen und so weiter.
+
+99
+00:09:27,000 --> 00:09:35,000
+Und dann wird auch an anderer Stelle beschrieben, dass auch das Internet irgendwie helfen kann und es Werkzeuge gibt und so weiter.
+
+100
+00:09:35,000 --> 00:09:42,000
+Aber dieser Übergang ist so ein bisschen einfach, einfach ein bisschen schwammig, wenn ich so sagen darf.
+
+101
+00:09:42,000 --> 00:09:52,000
+Und da habe ich versucht reinzugehen und wirklich irgendwie beizutragen, das anzugehen, das Problem.
+
+102
+00:09:52,000 --> 00:09:57,000
+Das war eigentlich so der Zweck von dem Text der Ausdehnungstrang moderner Comments zu gucken.
+
+103
+00:09:57,000 --> 00:10:03,000
+Wo wird es halt schwammig? Wo ist dann dieser Bruch?
+
+104
+00:10:03,000 --> 00:10:19,000
+Und was ist denn eigentlich, wo ist denn eigentlich so dieses Grundding, wie sich Comments oder dieses gemeinsame eben ausdehnen kann und noch irgendwie eine Koordination davon möglich ist?
+
+105
+00:10:19,000 --> 00:10:24,000
+Und ich hatte auch, wenn ich das noch irgendwie anhängen darf, einen anderen Ansatz.
+
+106
+00:10:24,000 --> 00:10:26,000
+Ich habe vorher diese Kapitaleinführung geschrieben.
+
+107
+00:10:26,000 --> 00:10:34,000
+Ich habe eben daran gearbeitet, das Kapital zu verfilmen, also eine filmische Einführung zum Kapital in einem Spielfilm eingewebt.
+
+108
+00:10:34,000 --> 00:10:41,000
+Hab dann gemerkt, dass das genau nicht so einfach ist, dass ich die Theorie nicht genau rund bekomme, um diese leicht zu vermitteln.
+
+109
+00:10:41,000 --> 00:10:44,000
+Hab dann diese Einführungsbroschüre geschrieben.
+
+110
+00:10:44,000 --> 00:10:57,000
+Und um das so dicht zu machen irgendwie aus diesen, ich glaube 32 oder 36 Seiten oder so, dieser Superkurs, hat mir die Strukturformel von Marx wahnsinnig geholfen,
+
+111
+00:10:57,000 --> 00:11:01,000
+die er im zweiten Band aufmacht, der Zirkulationsprozess hier.
+
+112
+00:11:01,000 --> 00:11:07,000
+Also Geld wird zur Ware, zur Arbeitskraft und Produktionsmittel.
+
+113
+00:11:07,000 --> 00:11:09,000
+Das geht in den Produktionsprozess rein.
+
+114
+00:11:09,000 --> 00:11:11,000
+Dann kommt eine Ware mit höherem Wert.
+
+115
+00:11:11,000 --> 00:11:13,000
+Die muss verkauft werden.
+
+116
+00:11:13,000 --> 00:11:21,000
+Das kommt quasi Geld, das quasi den Wert hat, sowohl von Arbeitskraft und Produktionsmittel und eben diesen Mehrwert und so weiter.
+
+117
+00:11:21,000 --> 00:11:24,000
+Das ist quasi diese Strukturformel.
+
+118
+00:11:24,000 --> 00:11:29,000
+Und mit der lassen sich eigentlich einfach, wenn man die anschaut und betrachtet und die einzelnen Momente davon anschaut,
+
+119
+00:11:29,000 --> 00:11:33,000
+dann lässt sich total viel aussagen über die kapitalistische Gesellschaft, in der wir uns bewegen.
+
+120
+00:11:33,000 --> 00:11:36,000
+Total viel über diese Strukturen, in denen wir drin sind.
+
+121
+00:11:37,000 --> 00:11:39,000
+Und das finde ich total.
+
+122
+00:11:39,000 --> 00:11:41,000
+Also ich mag dieser Rang ins Beiß.
+
+123
+00:11:41,000 --> 00:11:46,000
+Ich finde, das gibt ihm so eine Festigkeit, diese Marxischen Kritik, einfach diese Strukturformel.
+
+124
+00:11:46,000 --> 00:11:49,000
+Ich bin da ein großer Fan davon.
+
+125
+00:11:49,000 --> 00:11:55,000
+Und ich habe damals auf Kapitalismus gewartet, dass das veröffentlicht wird, weil ich dachte,
+
+126
+00:11:55,000 --> 00:11:59,000
+das sind quasi die Lösungen, die ich quasi brauche, um für mich kommen ins Rund zu bekommen.
+
+127
+00:11:59,000 --> 00:12:05,000
+Weil ich da so eben gesucht habe, was dann eigentlich so kommen kann nach dem Kapitalismus,
+
+128
+00:12:05,000 --> 00:12:09,000
+weg von der rein kapitalistischen Kritik, sondern was gibt es denn eigentlich für Optionen.
+
+129
+00:12:09,000 --> 00:12:11,000
+Ich habe sie woanders nicht gefunden.
+
+130
+00:12:11,000 --> 00:12:13,000
+Ich habe sie in den Comments gesehen.
+
+131
+00:12:13,000 --> 00:12:15,000
+Ich dachte, ich finde da die Lösungen im Buch.
+
+132
+00:12:15,000 --> 00:12:22,000
+Und wenn ich auf das Buch gewartet habe, habe ich dann angefangen nachzudenken und dachte mir,
+
+133
+00:12:22,000 --> 00:12:25,000
+wie kann man denn eigentlich, kann man denn irgendwie Communing,
+
+134
+00:12:25,000 --> 00:12:28,000
+also dieser Communing ist so das Verb zu Commons,
+
+135
+00:12:28,000 --> 00:12:34,000
+dieser Prozess mit dem Gemeinsamen umzugehen, Gemeinsames zu schaffen in den Bedingungen von Commons.
+
+136
+00:12:34,000 --> 00:12:37,000
+Das ist vielleicht nochmal eine andere Frage.
+
+137
+00:12:37,000 --> 00:12:41,000
+Und habe das versucht, als Formel zu fassen.
+
+138
+00:12:41,000 --> 00:12:44,000
+Wie kann man Communing überhaupt als Formel beschreiben,
+
+139
+00:12:44,000 --> 00:12:51,000
+wenn wir uns nicht irgendwie im Rahmen von Ware und sowas Ware und so Arbeitskraft,
+
+140
+00:12:51,000 --> 00:12:55,000
+also die Formel von Marx, da kommt der Arbeitskraft vor als Ding.
+
+141
+00:12:55,000 --> 00:12:57,000
+Das ist ja eher spannender.
+
+142
+00:12:57,000 --> 00:13:01,000
+Das ist aus Perspektive eigentlich von Kapitalistinnen und Kapitalistinnen geschrieben.
+
+143
+00:13:01,000 --> 00:13:08,000
+Da so das neben den Produktionsmitteln ist irgendwie die Arbeitskraft und die wird verwendet als Ding.
+
+144
+00:13:08,000 --> 00:13:13,000
+Das gibt es nicht in Peer Production im Allgemeinen oder eben im Communing.
+
+145
+00:13:13,000 --> 00:13:19,000
+Das ist quasi aus einer Ich-Perspektive auch, muss die Formel sein.
+
+146
+00:13:20,000 --> 00:13:24,000
+Und da habe ich versucht, das irgendwie rauszustellen.
+
+147
+00:13:24,000 --> 00:13:31,000
+Und das war eigentlich das Spannende, ja zu sagen, da war ich echt ein paar Tage in Jena und habe das irgendwie,
+
+148
+00:13:31,000 --> 00:13:34,000
+ich habe mich rausgezogen aus Leipzig und so ein bisschen meine Ruhe zu haben zum Schreiben
+
+149
+00:13:34,000 --> 00:13:37,000
+und habe dann diese Formel geforscht und die gesucht.
+
+150
+00:13:37,000 --> 00:13:43,000
+Und es war eine innerlich sehr aufbrausende Zeit, wo ich da gemerkt habe, dass ich die so ein bisschen fassen kann vielleicht.
+
+151
+00:13:43,000 --> 00:13:48,000
+Und dann habe ich so eine Formel gefunden, die erstmal für mich funktioniert hat
+
+152
+00:13:48,000 --> 00:13:53,000
+im Communing irgendwie halbwegs beschreiben zu können als Prozess.
+
+153
+00:13:53,000 --> 00:13:59,000
+Und mit der Formel eigentlich habe ich mir dann Kapitalismus aufheben angeschaut.
+
+154
+00:13:59,000 --> 00:14:07,000
+Und wo dann eigentlich, wo es dann zu Problemen kommt, eigentlich war das so meine Stütze.
+
+155
+00:14:07,000 --> 00:14:12,000
+Die Formel sieht heute anders aus, ja das war damals noch mit so Bedürfnissebenen und kritischer Psychologie,
+
+156
+00:14:12,000 --> 00:14:16,000
+so sindig vitale Bedürfnissebene und produktive Bedürfnissebene und so.
+
+157
+00:14:16,000 --> 00:14:18,000
+Das ist heute sehr viel einfacher.
+
+158
+00:14:20,000 --> 00:14:28,000
+Genau, und damit habe ich mir das angeschaut und konnte da so die Kritik oder eigentlich war es nicht,
+
+159
+00:14:28,000 --> 00:14:32,000
+es war eigentlich nicht als Kritik gemeint der Sage, sondern einfach als Beitrag,
+
+160
+00:14:32,000 --> 00:14:36,000
+um da diese Vollständigkeit zu leisten und so erst mal heraufstellen,
+
+161
+00:14:36,000 --> 00:14:42,000
+was eben eine Vermittlungsform eigentlich für Ansprüche hat,
+
+162
+00:14:42,000 --> 00:14:47,000
+die Communing auf so einer gesamtgesellschaftlichen Ebene heben kann.
+
+163
+00:14:49,000 --> 00:14:52,000
+Ja, das finde ich total nachvollziehbar.
+
+164
+00:14:52,000 --> 00:14:57,000
+Also vielleicht, ich glaube es gibt trotzdem einen gewissen Klärungsbedarf für die Zuhörerinnen und Zuhörer,
+
+165
+00:14:57,000 --> 00:15:02,000
+wenn man sagen, dass in dem Thema nicht so drin steckt.
+
+166
+00:15:02,000 --> 00:15:04,000
+Also zum einen wäre es natürlich, es brennt uns allen.
+
+167
+00:15:04,000 --> 00:15:08,000
+Nicht auf der Zunge ist ja dann falsch, in den Ohren zu hören, wie die Formel ist.
+
+168
+00:15:08,000 --> 00:15:09,000
+Das ist schon angekündigt.
+
+169
+00:15:09,000 --> 00:15:13,000
+Also die eine Frage wäre eben mal wirklich, was ist denn die Formel?
+
+170
+00:15:13,000 --> 00:15:16,000
+Vielleicht kannst du uns die erklären und vielleicht auch,
+
+171
+00:15:16,000 --> 00:15:19,000
+damit das für die Zuhörerinnen und Zuhörer dann nicht so klingt,
+
+172
+00:15:19,000 --> 00:15:25,000
+als würde jetzt Markus hier sozusagen eine Formel zur Erklärung der Welt irgendwie vorstellen und zu tun,
+
+173
+00:15:25,000 --> 00:15:28,000
+als könne man damit sozusagen jetzt wundersam alles lösen.
+
+174
+00:15:28,000 --> 00:15:31,000
+Darum geht es nicht, sondern es geht eigentlich darum,
+
+175
+00:15:31,000 --> 00:15:34,000
+wenn ich das richtig verstehe und korrigiere mich da bitte gerne,
+
+176
+00:15:34,000 --> 00:15:39,000
+du versuchst jetzt bestimmte Funktionslogiken des Commoning zu erfassen,
+
+177
+00:15:39,000 --> 00:15:43,000
+um eigentlich aus dieser Paz-Situation herauszukommen,
+
+178
+00:15:43,000 --> 00:15:50,000
+dass Commoning sozusagen viel gedacht wird als ein lokales sich aufeinander beziehen
+
+179
+00:15:50,000 --> 00:15:55,000
+und im Grunde ja der in Anführungsstrichen Vorwurf gegenüber dem Commoning,
+
+180
+00:15:55,000 --> 00:15:59,000
+und das ist ja auch eine verbreitete Vorwurf eigentlich ist,
+
+181
+00:15:59,000 --> 00:16:01,000
+dass es daraus nicht hinauskommen könne.
+
+182
+00:16:01,000 --> 00:16:05,000
+Dass also im Grunde es quasi auf dieses lokale, extrem horizontale,
+
+183
+00:16:05,000 --> 00:16:10,000
+sozusagen beschränkt ist und dadurch eigentlich in seiner Entfaltung,
+
+184
+00:16:10,000 --> 00:16:14,000
+in Bezug auf die Ausdehnung, da haben wir sie wieder, im Grunde begrenzt ist.
+
+185
+00:16:14,000 --> 00:16:17,000
+Und so wie ich das eben verstanden habe, und das fand ich, wie gesagt,
+
+186
+00:16:17,000 --> 00:16:21,000
+in unglaublich produktiven Einsatz eben nicht als Kritik,
+
+187
+00:16:21,000 --> 00:16:25,000
+sondern als ein Weiterdenken und darauf aufbauen, machst du dich jetzt daran,
+
+188
+00:16:25,000 --> 00:16:34,000
+im Grunde eine strukturelle Perspektive auf Commoning als Prozess zu ermöglichen,
+
+189
+00:16:34,000 --> 00:16:39,000
+die spezifisch dann darauf abzielt, durch dieses strukturelle Denken,
+
+190
+00:16:39,000 --> 00:16:42,000
+also durch diese Strukturformel, wenn man so will,
+
+191
+00:16:42,000 --> 00:16:48,000
+eigentlich ein Denken über die transpersonale Ebene anders möglich zu machen.
+
+192
+00:16:48,000 --> 00:16:52,000
+Und dass das im Grunde sozusagen dann eigentlich auch ein Pfad bildet
+
+193
+00:16:52,000 --> 00:16:57,000
+aus dieser Pfad-Situation und im Grunde finde ich dadurch dann eigentlich
+
+194
+00:16:57,000 --> 00:17:00,000
+eine entscheidende Frage hilft, mit zu beantworten in Bezug auf,
+
+195
+00:17:00,000 --> 00:17:08,000
+wie die Limitierungen der Ausdehnung des Commoning sozusagen eigentlich überwunden werden können.
+
+196
+00:17:08,000 --> 00:17:12,000
+Das klingt jetzt alles hoffentlich im Nachhinein noch ein bisschen plausibel,
+
+197
+00:17:12,000 --> 00:17:16,000
+wie ich das versucht habe zusammenzufassen, so habe ich es zumindest verstanden.
+
+198
+00:17:16,000 --> 00:17:21,000
+Was ist sozusagen dann diese Formel, was macht sie aus
+
+199
+00:17:21,000 --> 00:17:28,000
+und inwiefern kann man mit dieser Formel anders denken über die transpersonale Ebene?
+
+200
+00:17:28,000 --> 00:17:32,000
+Vielen Dank. Ich habe schon gemerkt, ich bin ein bisschen der Frage
+
+201
+00:17:32,000 --> 00:17:39,000
+vorher ausgewichen zu den Strukturen von Stefan und Simon und diesen Metacomments und den Sachen.
+
+202
+00:17:39,000 --> 00:17:42,000
+Ich würde auch irgendwie, also ich tue mir schwer, mich darüber zu äußern,
+
+203
+00:17:42,000 --> 00:17:45,000
+weil es eine andere Struktur ist, weil es ein anderer Hangdienst weißer ist,
+
+204
+00:17:45,000 --> 00:17:50,000
+die auch mit dem weiteren, glaube ich, nicht so viel zu tun hat.
+
+205
+00:17:50,000 --> 00:17:56,000
+Und genau, ich bin der Frage ausgewichen, aber ich glaube,
+
+206
+00:17:56,000 --> 00:18:01,000
+da muss man sich das von Stefan und Simon anhören und die können einfach besser Aussagen darüber treffen.
+
+207
+00:18:01,000 --> 00:18:06,000
+Genau, die Formel, um die es geht, die ich da quasi vorgestellt habe,
+
+208
+00:18:06,000 --> 00:18:12,000
+da muss ich sagen, der Ansatz im Ausdienungsrang moderner Comments ist ein anderer Ansatz
+
+209
+00:18:12,000 --> 00:18:16,000
+als der, den wir jetzt im Projekt machen und mit dem wir arbeiten,
+
+210
+00:18:16,000 --> 00:18:19,000
+einfach weil da diese Bedürfnissebenen noch da sind.
+
+211
+00:18:19,000 --> 00:18:24,000
+Da im Ausdienungsrang wird so das große Ganze aufgemacht.
+
+212
+00:18:24,000 --> 00:18:32,000
+Also wo stehen wir heute? Was sind die Bedingungen der Lohnabhängigkeit,
+
+213
+00:18:32,000 --> 00:18:42,000
+in denen wir heute drinstecken? Und wie kann es durch Communing so funktionieren,
+
+214
+00:18:42,000 --> 00:18:50,000
+dass es wirklich eine Transformation ermöglicht in eine andere Gesellschaftlichkeit?
+
+215
+00:18:50,000 --> 00:18:54,000
+Und da waren mir so Bedürfnissebenen total wichtig.
+
+216
+00:18:54,000 --> 00:18:58,000
+Also auch eine Gegenüberstellung, wann es Communing sinnvoll für jemanden, der lohnabhängig ist
+
+217
+00:18:58,000 --> 00:19:02,000
+und wann ist Lohnarbeit sinnvoll für jemanden.
+
+218
+00:19:02,000 --> 00:19:08,000
+Und ich würde anfangen mit dem, mit dem wir heute arbeiten,
+
+219
+00:19:08,000 --> 00:19:13,000
+weil es einfacher ist. Ich glaube, es ist sehr viel einfacher.
+
+220
+00:19:13,000 --> 00:19:19,000
+Und das ist sehr banal, mittlerweile sogar einfach zu sagen, Communing geht um Bedürfnisbefriedigung.
+
+221
+00:19:19,000 --> 00:19:25,000
+Das ist der Zweck von dem Bezug auf Gemeinsames, von vielleicht am Ende Ökonomie.
+
+222
+00:19:25,000 --> 00:19:29,000
+Aber wir sind Menschen, wir haben Bedürfnisse, die befriedigt werden wollen
+
+223
+00:19:29,000 --> 00:19:32,000
+oder vielleicht auch leiden, dass gelindert werden will.
+
+224
+00:19:32,000 --> 00:19:35,000
+Wir haben irgendwas, irgendwas geht an uns vor.
+
+225
+00:19:35,000 --> 00:19:40,000
+Und wir haben diesen gesellschaftlichen Prozess, der sich zumindest im besten Fall
+
+226
+00:19:40,000 --> 00:19:46,000
+oder meiner Meinung nach im besten Fall darum dreht, dass meine Bedürfnisse befriedigt werden,
+
+227
+00:19:46,000 --> 00:19:50,000
+genauso wie die der anderen Menschen, was auch bedeutet zum Beispiel auch,
+
+228
+00:19:50,000 --> 00:19:54,000
+dass es mir wichtig ist, dass es Tieren gut geht oder der Umwelt gut geht,
+
+229
+00:19:54,000 --> 00:19:59,000
+würde ich hier wirklich als mein Bedürfnis auffassen.
+
+230
+00:19:59,000 --> 00:20:05,000
+Und das heißt, du hast am Anfang einfach ein Bedürfnis, ich würde sagen B-,
+
+231
+00:20:05,000 --> 00:20:10,000
+das vermittelt werden muss, von dem andere erfahren müssen.
+
+232
+00:20:10,000 --> 00:20:14,000
+Und es gibt Tätigkeiten, die dieses Bedürfnis befriedigen.
+
+233
+00:20:14,000 --> 00:20:17,000
+Das ist einfach eine Tätigkeit im gesellschaftlichen Prozess.
+
+234
+00:20:17,000 --> 00:20:23,000
+Und das ist zum Beispiel, ich habe Hunger, elendiges, klassisches Beispiel.
+
+235
+00:20:23,000 --> 00:20:28,000
+Und ich esse ein Brot und habe danach kein Hunger mehr.
+
+236
+00:20:28,000 --> 00:20:30,000
+Das Bedürfnis ist befriedigt.
+
+237
+00:20:30,000 --> 00:20:34,000
+Die Frage ist, was ist, wenn kein Brot da ist?
+
+238
+00:20:34,000 --> 00:20:39,000
+Was ist, wenn die Dinge, die ich brauche, um das Bedürfnis zu befriedigen,
+
+239
+00:20:39,000 --> 00:20:43,000
+diese Tätigkeit auszuführen, die das Bedürfnis befriedigen, im Ende nicht vorhanden sind?
+
+240
+00:20:43,000 --> 00:20:46,000
+Da würde ich eben von einem Bedarf sprechen.
+
+241
+00:20:46,000 --> 00:20:51,000
+Es braucht Dinge zur Ausführung der Tätigkeit, die das Bedürfnis befriedigen.
+
+242
+00:20:51,000 --> 00:20:57,000
+Also hast du wieder dieselbe Formel, die anfängt mit einem, ich fasse das immer als Mittel,
+
+243
+00:20:57,000 --> 00:21:01,000
+also mittelt alle Dinge und genau der Welt.
+
+244
+00:21:01,000 --> 00:21:05,000
+Die fehlen können, ein Bedarf per Minus, der wieder vermittelt werden muss,
+
+245
+00:21:05,000 --> 00:21:09,000
+das andere davon erfahren, dass es fehlt und tätig werden können.
+
+246
+00:21:09,000 --> 00:21:17,000
+Es gibt wieder Tätigkeiten, die dieses Mittel verfügbar machen, diesen Bedarf decken.
+
+247
+00:21:17,000 --> 00:21:21,000
+Es gibt zum Beispiel jetzt in dem Beispiel wieder das Brot zu backen oder ein Brot,
+
+248
+00:21:21,000 --> 00:21:28,000
+das woanders verfügbar ist, hinzufahren oder, I don't know, ein Brot aufzutauen.
+
+249
+00:21:28,000 --> 00:21:33,000
+Es gibt verschiedene Tätigkeiten, die dafür sorgen können, dass verschiedene Szenarien,
+
+250
+00:21:33,000 --> 00:21:37,000
+mit denen dieser Bedarf verfügbar gemacht werden kann.
+
+251
+00:21:37,000 --> 00:21:46,000
+Genauso gibt es, also das Grundschema ist einfach nur, es gibt ein Problem im Prozess.
+
+252
+00:21:46,000 --> 00:21:50,000
+Es gibt eine Tätigkeit, die das Problem irgendwie löst.
+
+253
+00:21:50,000 --> 00:21:56,000
+Und Probleme gibt es eben, fangen an, immer beim Bedürfnis, im Common, in dem was wir aufbauen,
+
+254
+00:21:56,000 --> 00:22:02,000
+fangen immer an beim Bedürfnis und von daher abgehend in das was fehlt
+
+255
+00:22:02,000 --> 00:22:08,000
+oder zum Beispiel in dem was erhalten werden muss, wenn irgendwie ein Feld bestellt werden muss
+
+256
+00:22:08,000 --> 00:22:11,000
+oder eine Küche aufgeräumt werden muss.
+
+257
+00:22:11,000 --> 00:22:16,000
+Also das würde heißen, die Küche ist in einem problematischen Mittelzustand,
+
+258
+00:22:16,000 --> 00:22:22,000
+jetzt mal ganz steif gesagt, und es braucht eine Tätigkeit, die das Küche putzt oder aufräumt,
+
+259
+00:22:22,000 --> 00:22:25,000
+damit die Küche wieder in ihren Erhaltungszustand zurückkommt,
+
+260
+00:22:25,000 --> 00:22:29,000
+also in dem andere die Küche vorfinden wollen.
+
+261
+00:22:29,000 --> 00:22:36,000
+Aber genauso gibt es Probleme, wie dass mehrere Menschen auf dasselbe Ding zugreifen wollen.
+
+262
+00:22:36,000 --> 00:22:40,000
+Du hast etwas, was uns gemeinsam ist, du und deine Freundin, ihr habt es gemeinsam im Auto.
+
+263
+00:22:40,000 --> 00:22:43,000
+Ihr wollt vielleicht unterschiedlich mit anfangen.
+
+264
+00:22:43,000 --> 00:22:48,000
+Ihr müsst euch irgendwie, ich sehe das auch als eine Tätigkeit, zusammensetzen und irgendwie,
+
+265
+00:22:48,000 --> 00:22:55,000
+oder schreiben, ja oder wie auch immer, was tun, um Regeln zu finden, um Absprachen zu treffen,
+
+266
+00:22:55,000 --> 00:23:01,000
+wer mit dem Ding, mit dem Auto jetzt umgehen kann, also für wen dann quasi,
+
+267
+00:23:01,000 --> 00:23:04,000
+wer diese Tätigkeit dann ausführen kann mit diesem Auto.
+
+268
+00:23:04,000 --> 00:23:07,000
+Auch das ist ein Problem, das mit Tätigkeit gelöst wird.
+
+269
+00:23:07,000 --> 00:23:14,000
+Heute ist es so banal, mit dem wir heute umgehen, diese Formel, Problem, Tätigkeit, Lösung
+
+270
+00:23:14,000 --> 00:23:18,000
+und da eben einen klaren Zusammenhang dazwischen herstellen.
+
+271
+00:23:18,000 --> 00:23:22,000
+Im Ausdienungsstrang ist eben mehr mit Bedürfnissebenen gearbeitet worden.
+
+272
+00:23:22,000 --> 00:23:32,000
+Das heißt, man hat einfach am Anfang die sindig vitale Bedürfnisproduktion, Bedürfnisdimension.
+
+273
+00:23:32,000 --> 00:23:36,000
+Das sindig vital heißt irgendwas, was mit meinem Leben zu tun hat,
+
+274
+00:23:36,000 --> 00:23:43,000
+mit das, was ich spüren kann, was ich schmecken kann, das sindliche, was direkt vielleicht körperlich ist.
+
+275
+00:23:43,000 --> 00:23:49,000
+Und die will befriedigt werden und diese produktive Bedürfnisdimension,
+
+276
+00:23:49,000 --> 00:23:55,000
+die sich quasi so drum herum webt, dieser gesellschaftliche Prozess ist, heißt,
+
+277
+00:23:55,000 --> 00:24:01,000
+ich gehe in die Gesellschaft rein, um an den Strukturen mitzuwirken,
+
+278
+00:24:01,000 --> 00:24:08,000
+die es mir ermöglichen, dass meine sindig vitale Dimension dauerhaft befriedigt werden kann,
+
+279
+00:24:08,000 --> 00:24:11,000
+das Produktive, der gesellschaftliche Rahmen.
+
+280
+00:24:11,000 --> 00:24:16,000
+Und das ist dann mehr so eingewoben im Ausdienungsstrang, als ich da mit der Formel gearbeitet habe,
+
+281
+00:24:16,000 --> 00:24:22,000
+was eben notwendig war, um das dann vielleicht vergleichen zu können.
+
+282
+00:24:22,000 --> 00:24:27,000
+Wann ist es für jemand sinnvoll, Lohnarbeiten zu gehen und wann ist es für jemand sinnvoll,
+
+283
+00:24:27,000 --> 00:24:32,000
+Lohnarbeiten zu betreiben? Und wann wird Combining tendenziell sinnvoller,
+
+284
+00:24:32,000 --> 00:24:37,000
+insofern man das eben sagen kann, als Lohnarbeit?
+
+285
+00:24:37,000 --> 00:24:41,000
+Genau, ich hoffe, dass du so ein bisschen damit beantwortet zu haben.
+
+286
+00:24:41,000 --> 00:24:45,000
+Ja, und ich glaube, wir kommen auf jeden Fall später dann auch nochmal zu dieser Frage,
+
+287
+00:24:45,000 --> 00:24:49,000
+die du jetzt zuletzt angesprochen hast, denn die finde ich eigentlich auch eine sehr wichtige.
+
+288
+00:24:49,000 --> 00:24:53,000
+Also ich sehe das eigentlich sehr stark im Zusammenhang mit der Frage der Transformation.
+
+289
+00:24:53,000 --> 00:24:59,000
+Also wann macht es für mich individuell mehr Sinn, mich eben in einen Combining Prozess einzuspeisen,
+
+290
+00:24:59,000 --> 00:25:05,000
+als eben weiterhin am kapitalistischen System hängen zu müssen?
+
+291
+00:25:05,000 --> 00:25:09,000
+Das ist eine unglaublich wichtige Frage für uns alle letztlich,
+
+292
+00:25:09,000 --> 00:25:12,000
+weil die muss ja eigentlich produktiv beantwortet werden,
+
+293
+00:25:12,000 --> 00:25:17,000
+damit die Ausdehnung, die er hoffte, auch tatsächlich passieren kann.
+
+294
+00:25:17,000 --> 00:25:21,000
+Da kommen wir auf jeden Fall noch hin. Das ist, wie gesagt, ein sehr wichtiges Element,
+
+295
+00:25:21,000 --> 00:25:25,000
+diese gesamte Frage nach den Möglichkeiten der Transformation.
+
+296
+00:25:25,000 --> 00:25:29,000
+Aber ich möchte vorher nochmal kurz eigentlich jetzt bei dem verbleiben,
+
+297
+00:25:29,000 --> 00:25:34,000
+was du eingangs gesagt hattest, wo du jetzt eben mal sozusagen diese Grundformation
+
+298
+00:25:34,000 --> 00:25:39,000
+eigentlich beschrieben hast in all ihrer Banalität, wenn man so will, die da ist.
+
+299
+00:25:39,000 --> 00:25:43,000
+Es gibt ein Bedürfnis und das muss befriedigt werden.
+
+300
+00:25:43,000 --> 00:25:48,000
+Und wir brauchen sozusagen funktionierende Mechanismen, die diese beiden Elemente zueinander bringen.
+
+301
+00:25:48,000 --> 00:25:50,000
+Ich verstehe sozusagen euer Projekt.
+
+302
+00:25:50,000 --> 00:25:56,000
+Das möchte eigentlich jetzt eine in dem Fall digitale Infrastruktur bereitstellen,
+
+303
+00:25:56,000 --> 00:26:05,000
+um eben diese Vermittlung auch jenseits des unmittelbar personalen Rahmens möglich zu machen.
+
+304
+00:26:05,000 --> 00:26:09,000
+Und das ist, glaube ich, auch ein wichtiges Element, dass man das dazusagt.
+
+305
+00:26:09,000 --> 00:26:13,000
+Es geht nicht darum, dass das eine das andere ablösen möge,
+
+306
+00:26:13,000 --> 00:26:21,000
+sondern es passiert natürlich weiterhin persönliches Commoning, interpersonales Commoning, wie das Wording ist.
+
+307
+00:26:21,000 --> 00:26:29,000
+Und es geht eigentlich vor allem darum, für die Prozesse, die nicht über dieses interpersonale Commoning
+
+308
+00:26:29,000 --> 00:26:35,000
+abgedeckt werden können, eine Plattform bereitzustellen, um Vermittlungstätigkeiten
+
+309
+00:26:35,000 --> 00:26:41,000
+zur Bedürfnisbefriedigung im Grunde zu vermitteln, also zu bewerkstelligen.
+
+310
+00:26:41,000 --> 00:26:43,000
+So habe ich das verstanden, oder?
+
+311
+00:26:43,000 --> 00:26:46,000
+Genau, also ich würde es nicht als Plattform beschreiben.
+
+312
+00:26:46,000 --> 00:26:48,000
+Plattform hat sowas Zentrales.
+
+313
+00:26:48,000 --> 00:26:53,000
+Wir bauen Werkzeuge, die hoffentlich verteilt sind, die freie Software sind, die Leute übernehmen können,
+
+314
+00:26:53,000 --> 00:26:57,000
+anders einsetzen und hoffentlich dann immer noch miteinander kommunizieren können.
+
+315
+00:26:57,000 --> 00:27:05,000
+Genau, und die stellen also jetzt diese Vermittlung her von Bedürfnissen, Bedarfen usw., was getan werden muss.
+
+316
+00:27:05,000 --> 00:27:10,000
+Wir brauchen so eine Transparenz über diese Dinge, die gemeinsam verwendet werden können,
+
+317
+00:27:10,000 --> 00:27:12,000
+zu welchen Bedingungen usw.
+
+318
+00:27:12,000 --> 00:27:18,000
+Und ich glaube, was auch noch wichtig ist, ist, dass wir versuchen, da Effizienz reinzubekommen in Commoning,
+
+319
+00:27:18,000 --> 00:27:26,000
+also mit Aspekten von Werkzeugen zu gucken, wie können sich denn Leute effizient selbst organisieren,
+
+320
+00:27:26,000 --> 00:27:31,000
+eben auf Augenhöhe, ohne dass sie eben von oben organisiert werden müssen.
+
+321
+00:27:31,000 --> 00:27:35,000
+Das ist auch nochmal eine ganz eigene Herausforderung, würde ich sagen.
+
+322
+00:27:35,000 --> 00:27:37,000
+Aber ansonsten, genau.
+
+323
+00:27:38,000 --> 00:27:42,000
+Da waren jetzt gleich einige Dinge drin, bei denen ich nachfragen mag.
+
+324
+00:27:42,000 --> 00:27:47,000
+Zum einen hattest du anfangs gesagt, eben Plattform, das sei nicht der Begriff,
+
+325
+00:27:47,000 --> 00:27:52,000
+den du jetzt wählen wollen würdest, aufgrund dessen, dass es einen zentralistischen Beigeschmack hat.
+
+326
+00:27:52,000 --> 00:27:56,000
+Ist es aber nicht trotzdem so, dass im Grunde eigentlich das Ziel wäre,
+
+327
+00:27:56,000 --> 00:28:04,000
+dass es eine Art von zentraler Instanz gibt, die diese Vermittlung bewerkstelligt,
+
+328
+00:28:04,000 --> 00:28:10,000
+weil wenn jetzt wieder es nur haufenweise lokale Instanzen gibt,
+
+329
+00:28:10,000 --> 00:28:15,000
+die aber wiederum eine Metaorganisation eigentlich nicht möglich machen,
+
+330
+00:28:15,000 --> 00:28:24,000
+dann ist ja im Grunde nicht das geleistet, was so eine technologische Infrastruktur im Grunde leisten könnte,
+
+331
+00:28:24,000 --> 00:28:30,000
+nämlich diese überregionale Ebene miteinander in Verbindung zu setzen
+
+332
+00:28:30,000 --> 00:28:34,000
+und da eine Vermittlung eigentlich darzustellen.
+
+333
+00:28:34,000 --> 00:28:38,000
+Also inwiefern, was ist das, was dich stört an dem Zentralen,
+
+334
+00:28:38,000 --> 00:28:42,000
+wenn wir jetzt nicht davon ausgehen, dass es eine zentrale Infrastruktur sein muss
+
+335
+00:28:42,000 --> 00:28:45,000
+im Sinne von, auf der technologischen Ebene,
+
+336
+00:28:45,000 --> 00:28:52,000
+also dass quasi jetzt irgendwie das missbraucht werden könne im Sinne der Datenruhe oder sowas.
+
+337
+00:28:52,000 --> 00:28:54,000
+Ja, eh spannend.
+
+338
+00:28:54,000 --> 00:28:59,000
+Spannend ist bei dem, was du gesagt hast, dass als der Text rausgekommen ist vor vier Jahren,
+
+339
+00:28:59,000 --> 00:29:06,000
+da hieß es irgendwie eine, was gesucht wurde, eine zentrale Instanz zur Selbstorganisation und Zwecksetzung der Mittel
+
+340
+00:29:06,000 --> 00:29:10,000
+und ich habe dann das Anfang des Jahres, glaube ich, überarbeitet.
+
+341
+00:29:10,000 --> 00:29:14,000
+Da gibt es dann so eine Neuüberarbeitung, ganz wenig Änderungen.
+
+342
+00:29:14,000 --> 00:29:17,000
+Da heißt es dann gemeinsame Instanz.
+
+343
+00:29:17,000 --> 00:29:24,000
+Und ich glaube, der Unterschied zwischen diesen vier Jahren war auch einfach, weil wir oder weil, besonders ich,
+
+344
+00:29:24,000 --> 00:29:27,000
+ich bin jetzt ein Softwareprojekt.
+
+345
+00:29:27,000 --> 00:29:29,000
+Ich bin kein Entwickler.
+
+346
+00:29:29,000 --> 00:29:31,000
+Ich kann keine Zeile Codes schreiben.
+
+347
+00:29:31,000 --> 00:29:33,000
+Ich habe damit eigentlich nichts am Hut.
+
+348
+00:29:33,000 --> 00:29:37,000
+Ich konzipiere die Strukturen.
+
+349
+00:29:37,000 --> 00:29:41,000
+Und es gibt einfach andere Möglichkeiten, als das zentral zu machen.
+
+350
+00:29:41,000 --> 00:29:50,000
+Und das finde ich auch ganz, ganz wichtig, dass diese Idee auch, also das finde ich ganz wichtig,
+
+351
+00:29:50,000 --> 00:29:56,000
+so eine Idee, dass man so etwas aufbaut und da irgendwie selbst Regeln setzt und das irgendwie,
+
+352
+00:29:56,000 --> 00:30:01,000
+also das sowieso, dieses selbst Regeln setzen und wie es funktioniert.
+
+353
+00:30:01,000 --> 00:30:09,000
+Es wird auch, wenn wir über Bedürfnispriorisierung später reden, wie es im Ausstellungsrang vorkam.
+
+354
+00:30:09,000 --> 00:30:15,000
+Das war eine ganz große Lehre von diesen Jahren, dass es einfach nicht sein darf, das ist schwer angenommen,
+
+355
+00:30:15,000 --> 00:30:20,000
+wird aber auch einfach Machtstrukturen ermöglicht oder einfach Probleme aufmacht.
+
+356
+00:30:20,000 --> 00:30:24,000
+Auch Datenschutzprobleme tatsächlich, sowas um die Ecke.
+
+357
+00:30:24,000 --> 00:30:29,000
+Und es gibt einfach Möglichkeiten, zum Beispiel das Fediverse.
+
+358
+00:30:29,000 --> 00:30:33,000
+Ich meine, vielleicht kennst du es, vielleicht kennst du auch nicht, ich sage ganz kurz.
+
+359
+00:30:33,000 --> 00:30:38,000
+Fediverse ist so ein, zum Beispiel, du hast Twitter als zentrale Plattform,
+
+360
+00:30:38,000 --> 00:30:42,000
+wo über alle Daten laufen in dieser Form von Messagingdienst.
+
+361
+00:30:42,000 --> 00:30:46,000
+Dann gibt es sowas wie Mastodon, diese Open-Source-Variante davon,
+
+362
+00:30:46,000 --> 00:30:51,000
+die quasi Leute unabhängig voneinander auf ihren Server drauf spielen können,
+
+363
+00:30:51,000 --> 00:30:56,000
+wo sich Leute dann quasi auf diesen Server anmelden, aber die einzelnen Server kommunizieren miteinander
+
+364
+00:30:56,000 --> 00:30:58,000
+und tauschen die Daten aus.
+
+365
+00:30:58,000 --> 00:31:06,000
+Und da gibt es so eine ganze Infrastruktur von YouTube-Essatz mit Peertube und Mobile-Esson jetzt als Ersatz für Facebook-Events.
+
+366
+00:31:06,000 --> 00:31:08,000
+Das ist ganz, ganz großartig, was da passiert.
+
+367
+00:31:08,000 --> 00:31:12,000
+Und da wird es halt möglich durch solche Protokolle,
+
+368
+00:31:12,000 --> 00:31:20,000
+dass du verteilte Strukturen haben kannst, die eben kein, überhaupt kein zentrales Ding in der Mitte haben,
+
+369
+00:31:20,000 --> 00:31:22,000
+aber trotzdem ihre Informationen austauschen.
+
+370
+00:31:22,000 --> 00:31:31,000
+Das geht es einfach um, also der Unterschied zwischen damals zentraler Instanz, heute gemeinsamer Instanz
+
+371
+00:31:31,000 --> 00:31:37,000
+liegt einfach in den technologischen Möglichkeiten, die wir haben und die ich erst kennengelernt habe
+
+372
+00:31:37,000 --> 00:31:38,000
+über die Jahre.
+
+373
+00:31:38,000 --> 00:31:43,000
+Genau das Problem ist eben, also wie du auch gesagt hast, es gibt Probleme mit,
+
+374
+00:31:43,000 --> 00:31:49,000
+was nicht sein darf, ist jetzt zum Beispiel, dass ein Ding, jetzt wieder ein, ich sag jetzt mal ein Gebäude,
+
+375
+00:31:49,000 --> 00:31:56,000
+eingespeist ist auf der einen Instanz oder auf der einen Softwaregeschichte
+
+376
+00:31:56,000 --> 00:32:01,000
+und das irgendwie einen Zweck bekommt, dass das irgendwie Leute sich darum kümmern, wer da leben kann,
+
+377
+00:32:01,000 --> 00:32:06,000
+zu welchen Bedingungen, also vielleicht wie viele Jahre, bis das wieder diskutiert wird oder ich hab keine Ahnung,
+
+378
+00:32:06,000 --> 00:32:14,000
+was man so als Regeln setzen kann, um ein Gebäude, das unter gemeinsamer Verfügung steht, genau zu regeln.
+
+379
+00:32:14,000 --> 00:32:19,000
+Und wenn das irgendwie zweimal verschieden quasi da ist, wenn es in zwei verschiedenen Weisen,
+
+380
+00:32:19,000 --> 00:32:25,000
+an zwei verschiedenen Orten quasi dasselbe Gebäude eingespeist ist und zweimal verschiedene Regeln,
+
+381
+00:32:25,000 --> 00:32:30,000
+die sich widersprechen können, drin sind, dann kommt man auch nicht in diesen gemeinsamen Prozess.
+
+382
+00:32:30,000 --> 00:32:38,000
+Da geht es eben um Daten, dass du quasi verteilte Instanzen haben kannst, aber die Mittel der Welt,
+
+383
+00:32:38,000 --> 00:32:47,000
+auf die sich bezogen wird, eindeutig sind und da quasi eine Kommunikation auch darüber möglich ist,
+
+384
+00:32:47,000 --> 00:32:51,000
+dass das hier einfach nicht zu widersprechen kommt.
+
+385
+00:32:51,000 --> 00:32:58,000
+Das wäre so das zentrale Problem, was da quasi auch mit angegangen werden muss.
+
+386
+00:32:58,000 --> 00:33:02,000
+Wenn man das verteilt, fährt das eben zentral.
+
+387
+00:33:02,000 --> 00:33:09,000
+Also ich kann folgen, denke ich, ich würde halt differenzieren zwischen der Frage, ob es verteilte Infrastrukturen gibt
+
+388
+00:33:09,000 --> 00:33:16,000
+oder ob am Ende trotzdem noch so etwas wie eine Form von geteilter Datenbank existiert letztlich, wenn man so will.
+
+389
+00:33:16,000 --> 00:33:22,000
+Und das wäre dann quasi das in Anführungsstrichen zentralistische Element, was ich meinte.
+
+390
+00:33:22,000 --> 00:33:26,000
+Und das inkludiert natürlich eine Form der Interoperabilität.
+
+391
+00:33:26,000 --> 00:33:35,000
+Das ist der ganze Witz daran, dass nicht am Ende immer wieder haufenweise Kleinstinstanzen nebeneinander her tun,
+
+392
+00:33:35,000 --> 00:33:41,000
+sondern dass es eine Möglichkeit gibt, sich miteinander auf einer übergeordneten Ebene zu koordinieren.
+
+393
+00:33:41,000 --> 00:33:47,000
+Also das ist sozusagen das, was ich dann quasi auf einer funktionalen Ebene von mir aus, wenn man das so nennen kann,
+
+394
+00:33:47,000 --> 00:33:53,000
+das weiß ich gar nicht, aber ich sage es jetzt einfach mal, auf einer funktionalen Ebene es eine Form der Koordination gibt,
+
+395
+00:33:53,000 --> 00:34:03,000
+die man dann in der Hinsicht vielleicht als zentral benennen könnte, als dass sie vielleicht auch einer geteilten Funktionslogik folgt.
+
+396
+00:34:03,000 --> 00:34:09,000
+Das wäre ja quasi dann so ein bisschen die Frage auch, wo sind die Schnittstellen,
+
+397
+00:34:09,000 --> 00:34:14,000
+was sind sozusagen die Elemente, auf die man sich da quasi dann auch einigen können müsste
+
+398
+00:34:14,000 --> 00:34:20,000
+und welche Elemente werden sozusagen den distribuierten Instanzen quasi noch zugestanden,
+
+399
+00:34:20,000 --> 00:34:27,000
+dass sie das sozusagen für sich alleine unabhängig von der übergeordneten Instanz irgendwie regeln könnten.
+
+400
+00:34:27,000 --> 00:34:31,000
+Das ist jetzt vielleicht schon ein bisschen zu sozusagen ins Abstrakte hineingehend.
+
+401
+00:34:31,000 --> 00:34:38,000
+Ich glaube, wir können das vielleicht dann im Laufe des Gesprächs noch an Beispielen festmachen.
+
+402
+00:34:38,000 --> 00:34:45,000
+Ich glaube, ein Punkt, an dem man jetzt vielleicht noch ansetzen kann an das, was du zuvor gesagt hattest,
+
+403
+00:34:45,000 --> 00:34:52,000
+was vielleicht, glaube ich, für die Zuhörerinnen und Zuhörer einfach auch wichtig wäre, um das so ein bisschen nachvollziehbarer zu machen ist,
+
+404
+00:34:52,000 --> 00:34:57,000
+vielleicht kannst du uns ein bisschen anhand eines Beispieles erklären,
+
+405
+00:34:57,000 --> 00:35:11,000
+wie mithilfe der von euch vorgeschlagenen technologischen Infrastrukturen eine Form des transpersonalen Common Links denn konkret aussehen könnte.
+
+406
+00:35:11,000 --> 00:35:17,000
+Also es gibt quasi ein Bedürfnis, das steht am Anfang und wie geht es von da aus weiter?
+
+407
+00:35:17,000 --> 00:35:24,000
+Also vielleicht kannst du uns da einmal durchführen, dass wir uns das so ein bisschen vor unserem inneren Auge auch vorstellen können,
+
+408
+00:35:24,000 --> 00:35:30,000
+wie das denn ablaufen soll.
+
+409
+00:35:30,000 --> 00:35:37,000
+Ich würde es vielleicht auch alltagsnah machen. Vielleicht ein Beispiel, Bedürfnis Mobilität.
+
+410
+00:35:37,000 --> 00:35:43,000
+Ich habe ein Bedürfnis nach Mobilität. Ich vermittel das. In der Vermittlung ist es schon mal etwas spannendes im Sinne von,
+
+411
+00:35:43,000 --> 00:35:50,000
+was heißt Mobilität für mich? Ich muss das fassen können. Also im Sinne von, was ermöglicht mir Mobilität?
+
+412
+00:35:50,000 --> 00:35:57,000
+Vielleicht ist es der Zugriff auf ein Fahrrad. Nicht unbedingt ein eigenes Fahrrad, aber erst mal der fixe Zugriff auf ein Fahrrad,
+
+413
+00:35:57,000 --> 00:36:04,000
+um in meinem näheren Raum einfach hinfahren zu können, wo ich möchte.
+
+414
+00:36:04,000 --> 00:36:12,000
+Das heißt, es gibt diesen Anspruch, den ich quasi rausschicke, ich brauche Zugriff auf ein Fahrrad.
+
+415
+00:36:12,000 --> 00:36:18,000
+Und dann gibt es verschiedene Szenarien eben, wie dieser Zugriff auf ein Fahrrad gewährleistet werden kann.
+
+416
+00:36:18,000 --> 00:36:23,000
+Das heißt, der klassische, vielleicht oder nicht klassische, wäre die Fahrradproduktion.
+
+417
+00:36:23,000 --> 00:36:30,000
+Okay, jemand braucht irgendwie Zugriff auf ein Fahrrad. Das heißt, wir müssen jetzt irgendwie ein Fahrrad produzieren.
+
+418
+00:36:30,000 --> 00:36:35,000
+Und das heißt, Fahrrad produzieren, da hängen ganz viele Tätigkeiten dran.
+
+419
+00:36:35,000 --> 00:36:42,000
+Da hängt ja ein Komplex vom, also das näherste wahrscheinlich, der Transport des fertigen Fahrrads zu der Person.
+
+420
+00:36:42,000 --> 00:36:46,000
+Davor wäre das Zusammenschrauben der einzelnen gefertigten Teile.
+
+421
+00:36:46,000 --> 00:36:53,000
+Davor wäre irgendwie der Aufbau dieser einzelnen Räder und Speichen und was das alles an einem Fahrrad dran gehört.
+
+422
+00:36:53,000 --> 00:36:58,000
+Also das ist ein riesigen Komplex an Tätigkeiten, die zusammengehören.
+
+423
+00:36:58,000 --> 00:37:06,000
+Das wäre ein Szenario. Das ist ein Szenario, das mir als Person, die Zugriff auf ein Fahrrad haben möchte, am Ende das ermöglicht.
+
+424
+00:37:06,000 --> 00:37:14,000
+Ein anderes Szenario wäre, es gibt ein Fahrrad in lokaler Nähe, das niemand braucht.
+
+425
+00:37:14,000 --> 00:37:22,000
+Und das heißt einfach, vielleicht ein Hinweis darauf, vielleicht hat es die Person auch schon vorher in so einer Art Mittel-Datenbank gefunden,
+
+426
+00:37:22,000 --> 00:37:26,000
+dass es das gibt und dann hätte es gar nicht vermittelt werden müssen eigentlich.
+
+427
+00:37:26,000 --> 00:37:31,000
+Okay, aber es kann sein, es gibt einfach schon ein Fahrrad. Es kann auch sein, dass ein Fahrrad kaputt ist.
+
+428
+00:37:31,000 --> 00:37:37,000
+Es gibt irgendwo ein Fahrrad, das steht an sich zur Verfügung, aber ist gerade nicht verwendbar.
+
+429
+00:37:37,000 --> 00:37:40,000
+Und es muss eigentlich noch repariert werden.
+
+430
+00:37:40,000 --> 00:37:45,000
+Oder zum Beispiel jemand hat Zugriff auf ein Fahrrad, irgendwie der Nachbarschaft,
+
+431
+00:37:45,000 --> 00:37:50,000
+und braucht es so selten, dass die Person sagt, können wir gemeinsam benutzen.
+
+432
+00:37:50,000 --> 00:37:59,000
+Zum Beispiel, das sind verschiedene Szenarien, wie das Bedürfnis befriedigt werden könnte.
+
+433
+00:37:59,000 --> 00:38:03,000
+Und was die Software dann macht oder was eben ein Aspekt der Software macht,
+
+434
+00:38:03,000 --> 00:38:11,000
+das ist dann der verteilte Planungsprozess, das ist ganz wichtig bei uns, das einfach möglich wird.
+
+435
+00:38:11,000 --> 00:38:20,000
+Also das Grundprinzip unserer Struktur ist eigentlich Selbstorganisation durch Selbstzuordnung.
+
+436
+00:38:20,000 --> 00:38:26,000
+Das heißt, es werden Tätigkeiten vorgeschlagen. Ich finde, das kann man sich so ein bisschen vorstellen wie bei einer Dating-App.
+
+437
+00:38:26,000 --> 00:38:33,000
+Ja, du hast quasi verschiedene Tätigkeiten, die dir vorgeschlagen werden, die du für dich gefiltert hast, vielleicht auf was du Lust hast usw.
+
+438
+00:38:33,000 --> 00:38:40,000
+Und du sagst quasi, habe ich Lust drauf, habe ich keine Lust drauf, jetzt so mal das ganz basale Formen.
+
+439
+00:38:40,000 --> 00:38:52,000
+Und wenn du sagst, du hast ja Lust drauf, dann kommst du quasi in Kommunikation mit anderen, mit denen du quasi dann im Zusammenhang stehst.
+
+440
+00:38:52,000 --> 00:38:57,000
+Also diese Selbstorganisation durch Selbstzuordnung ist zentral.
+
+441
+00:38:57,000 --> 00:39:05,000
+Okay, was die Software macht ist, wir haben die verschiedenen Szenarien, wie das Bedürfnis Mobilität mit einem Fahrrad befriedigt werden kann.
+
+442
+00:39:05,000 --> 00:39:11,000
+Und die Software schaut dann, was ist lokal verfügbar?
+
+443
+00:39:11,000 --> 00:39:18,000
+Sind Fahrräder lokal verfügbar, die irgendwie nur ortsverändert werden müssten zu der Person, dass sie es quasi hat?
+
+444
+00:39:18,000 --> 00:39:23,000
+Und gibt es Fahrräder, die nur repariert werden müssten?
+
+445
+00:39:23,000 --> 00:39:32,000
+Gibt es irgendwie einzelne Bauteile von Fahrrädern, die zusammengebaut werden müssten, um quasi das mit der Person ein Fahrrad hat?
+
+446
+00:39:32,000 --> 00:39:38,000
+Gibt es Leute, die vermittelt haben, dass sie schon ein Fahrrad haben und das quasi mitteilen würden usw.?
+
+447
+00:39:38,000 --> 00:39:50,000
+Und dann ordnet es diese, vielleicht muss ich hier reinhängen, Tätigkeitsmuster, weil es sonst zu abstrakt ist.
+
+448
+00:39:50,000 --> 00:39:56,000
+Wir fassen es in Tätigkeitsmuster.
+
+449
+00:39:56,000 --> 00:40:00,000
+Tätigkeitsmuster heißt erstmal eine festgehaltene Tätigkeit.
+
+450
+00:40:00,000 --> 00:40:02,000
+Im Mittelpunkt steht immer unsere Tätigkeit.
+
+451
+00:40:02,000 --> 00:40:05,000
+Jedes Problem wird auch eine Tätigkeit gelöst.
+
+452
+00:40:05,000 --> 00:40:09,000
+Jedes Bedürfnis durch eine Tätigkeit befriedigt, kann durch eine Tätigkeit befriedigt werden.
+
+453
+00:40:09,000 --> 00:40:12,000
+Jedes Mittel durch Tätigkeiten gedeckt werden usw.
+
+454
+00:40:12,000 --> 00:40:18,000
+Durch verschiedene, die je nachdem, wo man gerade ist, was für Bedingungen das sind, also was für Mittel vorhanden sind usw.
+
+455
+00:40:18,000 --> 00:40:20,000
+verschieden sinnvoll sind.
+
+456
+00:40:20,000 --> 00:40:26,000
+Und ein Tätigkeitsmuster, so wie wir das fassen, das ist nichts abstraktes.
+
+457
+00:40:26,000 --> 00:40:33,000
+Wenn man auf WikiHow zum Beispiel geht, da sind Tätigkeitsmuster, da wird gezeigt, was man braucht, um irgendwas zu bauen,
+
+458
+00:40:33,000 --> 00:40:35,000
+einen Hühnerstall zu bauen oder so was.
+
+459
+00:40:35,000 --> 00:40:43,000
+Oder auf ifixit.com wird gezeigt, dein Laptop ist kaputt, du brauchst irgendeinen Schraubenzieher und das und das Werkzeug.
+
+460
+00:40:43,000 --> 00:40:48,000
+Und dann gehst du diese fünf Schritte durch und dann ist dein Laptop wieder in Ordnung.
+
+461
+00:40:48,000 --> 00:40:50,000
+Das sind Tätigkeitsmuster.
+
+462
+00:40:50,000 --> 00:40:54,000
+Und das sind für uns so die Grundbausteine.
+
+463
+00:40:54,000 --> 00:41:01,000
+Es heißt nicht, wir machen das alles so komplett über die Tätigkeitsmuster, aber sie sind auch erstmal am anschaulichsten.
+
+464
+00:41:01,000 --> 00:41:09,000
+Jeder Tätigkeit isoliert betrachtbar mit ihren einzelnen Schritten und klar definiert, was ist das Resultat der Tätigkeit?
+
+465
+00:41:09,000 --> 00:41:12,000
+Also zum Beispiel ein repariertes Fahrrad.
+
+466
+00:41:12,000 --> 00:41:14,000
+Und was ist der Bedarf der Tätigkeit?
+
+467
+00:41:14,000 --> 00:41:21,000
+Zum Beispiel Werkzeug und ein kaputtes Fahrrad, jetzt auch mal ganz lose.
+
+468
+00:41:21,000 --> 00:41:30,000
+Und die Software, also um diese Vermittlung herzustellen, brauchen wir solche Tätigkeitsmuster,
+
+469
+00:41:30,000 --> 00:41:36,000
+die entstehen müssen, die da sein müssen, die Leute einspeisen müssen mit der Erfahrung, die sie eben haben, mit dem Wissen, das sie haben,
+
+470
+00:41:36,000 --> 00:41:48,000
+damit die Software einfach weiß, wie solche Prozesse aussehen können, wie eigentlich die Welt verändert werden kann, welche Schritte quasi zu möglichen Bedürfnisbefriedigungen führen.
+
+471
+00:41:51,000 --> 00:41:54,000
+Ich bin weg von diesen einfachen Beispielen, es tut mir furchtbar leid.
+
+472
+00:41:54,000 --> 00:41:56,000
+Aber du kannst ja jetzt wieder zurückkommen, oder?
+
+473
+00:41:56,000 --> 00:42:01,000
+Im Grunde hattest du ja aufgehört bei dem Punkt, es gibt verschiedene Zugänge, wie jetzt das Bedürfnis befriedigt werden kann.
+
+474
+00:42:01,000 --> 00:42:08,000
+Man kann eben ein fertiges Fahrrad, also ein Fahrrad neu produzieren, es gibt vielleicht ein kaputtes Fahrrad und so weiter und so fort.
+
+475
+00:42:08,000 --> 00:42:12,000
+Das war quasi, glaube ich, der letzte Punkt, bevor du die Tätigkeitsmuster eingefügt hast.
+
+476
+00:42:12,000 --> 00:42:14,000
+Dann kannst du ja da einfach wieder einsteigen.
+
+477
+00:42:14,000 --> 00:42:25,000
+Genau. Und was die Software quasi macht, ist, sie schaut die einzelnen Szenarien an und ordnet sie danach, nach ihrem Aufwand, nach Aufwand des letzten.
+
+478
+00:42:25,000 --> 00:42:28,000
+Noch mal ein neues Gesprächsthema, ich mache es vielleicht nicht auf.
+
+479
+00:42:28,000 --> 00:42:34,000
+Ich sage mal, es sagt, was ist am aufwendigsten, welche Szenario und welche ist am wenigsten aufwendig.
+
+480
+00:42:34,000 --> 00:42:38,000
+Von den Informationen, die der Software bereitsteht.
+
+481
+00:42:38,000 --> 00:42:49,000
+Und dann sagt es zum Beispiel, Fahrrad reparieren ist jetzt das am wenigsten aufwendige Szenario, damit das Bedürfnis befriedigt werden kann.
+
+482
+00:42:50,000 --> 00:42:59,000
+Und dann schickt es quasi dieses Tätigkeitsmuster raus an lokal beteiligte Menschen hier in der lokalen Nachbarschaft und sagt,
+
+483
+00:42:59,000 --> 00:43:05,000
+quasi hier Tätigkeit Fahrrad reparieren, dort ist ein Fahrrad, das zur gemeinsamen Verfügung steht.
+
+484
+00:43:05,000 --> 00:43:09,000
+Du brauchst irgendwie den Werkzeugkoffer dafür oder man braucht einen Werkzeugkoffer dafür.
+
+485
+00:43:09,000 --> 00:43:12,000
+Willst du dich dem annehmen, das Fahrrad zu reparieren?
+
+486
+00:43:12,000 --> 00:43:16,000
+Und das wird dann quasi rausgeschickt an die ganzen Leute.
+
+487
+00:43:16,000 --> 00:43:20,000
+Und vielleicht findet sich jemand, der die Bock hat, ein Fahrrad zu reparieren.
+
+488
+00:43:20,000 --> 00:43:22,000
+Vielleicht findet sich auch niemand.
+
+489
+00:43:22,000 --> 00:43:33,000
+Das heißt, nach einem gewissen Zeitraum schaut die Tätigkeit, die Software, was ist denn das zweit am wenigsten aufwendigste Szenario,
+
+490
+00:43:33,000 --> 00:43:38,000
+wie diese Person quasi Zugriff auf ein Fahrrad bekommt.
+
+491
+00:43:38,000 --> 00:43:44,000
+Und vielleicht ist es eben, I don't know, das Fahrrad transportieren von einem Nachbardorf.
+
+492
+00:43:44,000 --> 00:43:46,000
+Da steht da irgendwo ein Fahrrad.
+
+493
+00:43:46,000 --> 00:43:54,000
+Und das müsste quasi geliefert werden von diesem Dorf zu der Person und quasi geregelt werden, dass sie quasi Zugriff darauf hat.
+
+494
+00:43:54,000 --> 00:43:58,000
+Und das wird als nächstes vorgeschlagen werden.
+
+495
+00:43:58,000 --> 00:44:02,000
+Das würde als zweite Tätigkeit jetzt irgendwie in deiner Smartphone-App vorgeschlagen werden.
+
+496
+00:44:02,000 --> 00:44:12,000
+Hast du Lust, irgendwie ein Fahrrad von diesem Dorf zu transportieren in diesen Stadtteil?
+
+497
+00:44:12,000 --> 00:44:16,000
+Vielleicht, weil es eher auf deiner Route liegt oder whatever.
+
+498
+00:44:16,000 --> 00:44:27,000
+Und je nachdem, was vorhanden ist in der lokalen Umgebung, welche Tätigkeitsmuster die Software kennt, das ist total abhängig davon.
+
+499
+00:44:27,000 --> 00:44:37,000
+Also je mehr Tätigkeitsmuster es gibt, desto mehr Szenarien sind möglich, um zu wissen, wie Bedürfnisse befriedigt werden können oder Bedarfe gedeckt werden können usw.
+
+500
+00:44:37,000 --> 00:44:48,000
+Und genau das wird quasi eben der Reihenfolge des geringsten Aufwandes nach den Beteiligten vorgeschlagen, die sich dann zuordnen können oder eben nicht zuordnen können.
+
+501
+00:44:48,000 --> 00:44:53,000
+Und um das Beispiel jetzt irgendwie zu Ende zu kriegen, also ich vermittel, ich habe Zugriff auf ein Fahrrad.
+
+502
+00:44:53,000 --> 00:44:57,000
+Software sagt am wenigst aufwendigsten Fahrtreparatur.
+
+503
+00:44:57,000 --> 00:45:04,000
+Jemand sagt, kann ich machen, repariert das Fahrrad, du holst das Fahrrad irgendwo ab, hast seinen Zugriff auf ein Fahrrad.
+
+504
+00:45:04,000 --> 00:45:06,000
+Jetzt erstmal zum Beispiel.
+
+505
+00:45:06,000 --> 00:45:07,000
+Genau.
+
+506
+00:45:07,000 --> 00:45:12,000
+Gut, da waren jetzt natürlich sehr viele Sachen drin, zu denen ich noch nachfragen habe.
+
+507
+00:45:12,000 --> 00:45:21,000
+Fangen wir vielleicht mit der, also bevor wir uns mal, also da kommen wir später auf jeden Fall noch zu, zu der Frage, weil du jetzt damit aufgehört hattest.
+
+508
+00:45:21,000 --> 00:45:23,000
+Die Person sagt, ja, okay, habe ich Bock drauf, mache ich.
+
+509
+00:45:23,000 --> 00:45:29,000
+Da schließt sie natürlich die Frage an, okay, unter welchen Umständen hat die Person Bock darauf, das zu machen?
+
+510
+00:45:30,000 --> 00:45:34,000
+Das sollten wir auf jeden Fall noch besprechen.
+
+511
+00:45:34,000 --> 00:45:39,000
+Ich notiere es mir und wir kommen danach noch dazu, bevor wir das angehen.
+
+512
+00:45:39,000 --> 00:45:45,000
+Auf eine Art klingt das jetzt mal so ein bisschen auch nach einer Komplexitätsexplosion, muss ich sagen.
+
+513
+00:45:45,000 --> 00:46:00,000
+Ja, also weil ja die Notwendigkeit der Beschreibung der Tätigkeitsmuster auf eine Art dann eben eigentlich ein riesengroßes Maß an Komplexität im Grunde einführt,
+
+514
+00:46:00,000 --> 00:46:10,000
+dass sagen wir mal im kapitalistischen Kontext ja eingedampft wird dadurch, dass es eine Reduzierung gibt auf eine Vermittlungsinstanz, die da heißt Geld.
+
+515
+00:46:10,000 --> 00:46:19,000
+Also das ist ja auf der einen Seite natürlich schrecklich, dass es diese Reduzierung gibt,
+
+516
+00:46:19,000 --> 00:46:27,000
+weil natürlich dadurch dann einfach viele Dinge außen vor bleiben, die eigentlich mit berücksichtigt werden sollten.
+
+517
+00:46:27,000 --> 00:46:39,000
+Auf der anderen Seite ist das, wenn man jetzt die österreichische Schule der Nationalökonomie sich anguckt, ein Argument deren Seite im Bezug auf was denn das zu leisten könne.
+
+518
+00:46:39,000 --> 00:46:44,000
+Also da wird quasi diese Komplexitätsreduktion als ein Plus angesehen.
+
+519
+00:46:44,000 --> 00:46:52,000
+Und es wird gesagt, okay, das ist quasi die Stärke, dass man eben all diese anderen Informationen auf anderer Ebene vermitteln kann
+
+520
+00:46:52,000 --> 00:46:58,000
+und im Grunde dann über das Geld quasi dann eine in Anführungsstrichen Effizienz.
+
+521
+00:46:58,000 --> 00:47:05,000
+Und wir wissen natürlich, dass das auf ganz vielen Ebenen am Ende eben nicht aufgeht, gerade in Hinsicht auf die Frage der Effizienz.
+
+522
+00:47:06,000 --> 00:47:14,000
+Aber das ist sozusagen die Argumentationslinie, dass das sozusagen im Grunde auch ein Mechanismus der Komplexitätsreduktion ist.
+
+523
+00:47:14,000 --> 00:47:20,000
+Und das muss man zugeben, ist es. Und was für einen Preis das hat, ist natürlich dann auch mal eine andere Diskussion.
+
+524
+00:47:20,000 --> 00:47:28,000
+Aber es schließt dann daran eigentlich folgerichtig die Frage an, dass wenn ihr jetzt eben, ich habe das jetzt so verstanden,
+
+525
+00:47:28,000 --> 00:47:34,000
+als ob ein Ort, an dem diese Komplexität dann wieder eingeführt wird, eben die Tätigkeitsmuster sind.
+
+526
+00:47:34,000 --> 00:47:45,000
+Wenn ihr für jede einzelne der Tätigkeiten, die es braucht, um ein Bedürfnis zu befriedigen, eine Form von Beschreibung braucht,
+
+527
+00:47:45,000 --> 00:47:54,000
+die dann wiederum eine Form von Self-Assignment quasi nach sich zieht, dann kommen wir eigentlich relativ schnell an einen Punkt,
+
+528
+00:47:54,000 --> 00:48:03,000
+wo es eine Vielzahl von verschiedensten Tätigkeitsbeschreibungen gibt, die da erfüllt werden sollten.
+
+529
+00:48:03,000 --> 00:48:15,000
+Und man im Grunde sich dann vor einer Flut dieser Beschreibungen sehen würde, aus der zu picken dann eigentlich vielleicht schon mühsam sein könnte,
+
+530
+00:48:15,000 --> 00:48:22,000
+beziehungsweise könnte man da dann sagen, okay, das könnte quasi algorithmisch adressiert werden durch eine Form von Vorselektion.
+
+531
+00:48:22,000 --> 00:48:31,000
+Und dann kommen wir aber wiederum zu dem Punkt, den du auch kurz angesprochen hattest, und zwar die Frage des Aufwands.
+
+532
+00:48:31,000 --> 00:48:42,000
+Also nach welchen Logiken wird da diese Selektion dann vorgenommen, damit wir eben nicht mit dieser Explosion an Komplexität eigentlich ausgesetzt sind?
+
+533
+00:48:42,000 --> 00:48:56,000
+Wie kann das quasi beherrschbar gemacht werden, sodass eigentlich eine sinnvolle Bezugnahme auf die Bedürfnisse der anderen für mich dann trotzdem noch über diese Infrastruktur, die in der Vorschlag gewährleistet werden kann?
+
+534
+00:48:56,000 --> 00:49:05,000
+Nee, ich kann ja nur erstmal recht geben. Geld ist der Wahnsinn, erstmal so als Vermittlungsform.
+
+535
+00:49:06,000 --> 00:49:14,000
+Ich kann jede Person, mit der man irgendwie so ein Gespräch anfängt über von wegen, man braucht was anderes, man muss wegkommen vom Markt und bla, bla, bla.
+
+536
+00:49:14,000 --> 00:49:22,000
+Und die kennt die Kritik daran nicht zum Beispiel. Und die besteht darauf, wie cool Geld ist und sonst irgendwas.
+
+537
+00:49:22,000 --> 00:49:27,000
+Und das ist Wahnsinn, so von wegzukommen, weil das macht alles so einfach und bla, bla, bla. Kann ich vollkommen nachvollziehen.
+
+538
+00:49:27,000 --> 00:49:35,000
+Aber leider, man muss dann irgendwie, also ich hab's nicht geschafft, ich komm aus so einem Gespräch nicht raus mit irgendwie, I don't know, ich kann das nicht.
+
+539
+00:49:35,000 --> 00:49:40,000
+Aber wir kennen die Probleme von Geld und das ist ein Thema.
+
+540
+00:49:40,000 --> 00:49:52,000
+Komplexität ist ein Riesenthema bei uns im Projekt. Und wir haben jetzt quasi einen Bereich der Komplexität betreten mit diesen Tätigkeitsmustern, Geschichten.
+
+541
+00:49:52,000 --> 00:50:01,000
+Wenn wir zum Thema Berücksichtigung kommen, was ja quasi dieser individuelle Vorteil ist, dann hat die Komplexität keine Grenzen mehr.
+
+542
+00:50:01,000 --> 00:50:05,000
+Das ist ganz, ganz furchtbar. Auf jeden Fall erstmal zu Tätigkeitsmustern.
+
+543
+00:50:05,000 --> 00:50:12,000
+Das Prinzip von Tätigkeitsmustern ist, dass es sich um wiederkehrende Tätigkeiten handelt.
+
+544
+00:50:12,000 --> 00:50:19,000
+Und wir haben in unserer Gesellschaft enorm viele Tätigkeiten, die jeden Tag gleich ausgeführt werden.
+
+545
+00:50:19,000 --> 00:50:27,000
+Ich meine, je nachdem auch, wie man das Tätigkeitsmuster fasst, wie streng das jetzt gefasst wird.
+
+546
+00:50:27,000 --> 00:50:43,000
+So bohr ich ein Loch mit der Bohrmaschine-Typ so und so oder reicht mir die Bohrmaschine im Allgemeinen oder ein Gerät, mit dem sich Löcher bohren lassen, um das nochmal auszuweiten.
+
+547
+00:50:43,000 --> 00:50:53,000
+Da geht es viel um die Frage, genau, wie fasse ich das und wie können da quasi Verbindungen entstehen zu den konkreten Dingen, die vorhanden sind?
+
+548
+00:50:53,000 --> 00:51:00,000
+Eine Frage, die nicht leicht zu beantworten ist, die ich auch nicht beantworten kann.
+
+549
+00:51:00,000 --> 00:51:08,000
+Wo ich sagen kann, ich kann da erstmal so ein bisschen hin konzipieren, dass dafür Lösungen gemacht werden müssen.
+
+550
+00:51:08,000 --> 00:51:14,000
+Aber ich kann auch nur die Richtung andeuten in dieser ganzen Konzeptionsgeschichte.
+
+551
+00:51:14,000 --> 00:51:22,000
+Aber Tätigkeitsmuster als solche sind wiederkehrend. Du machst jeden Tag vermutlich deinen Abwasch.
+
+552
+00:51:22,000 --> 00:51:27,000
+Du machst jeden Tag mit dem Auto irgendwo irgendwas von A nach B fahren.
+
+553
+00:51:27,000 --> 00:51:37,000
+Das ist quasi für verschiedene Orte, aber die Tätigkeit des Autofahrens ist ständig wiederkommend, wenn du irgendwie in einem Betrieb arbeitest.
+
+554
+00:51:37,000 --> 00:51:49,000
+Wer macht denn also, egal ob du in der Werbeagentur bist oder quasi in der Fabrik oder wo auch immer wir uns aufhalten, da passiert ständig das Gleiche.
+
+555
+00:51:49,000 --> 00:51:55,000
+Dass sich ziemlich gut fassen lässt und woanders auch wiederkehrt.
+
+556
+00:51:55,000 --> 00:52:04,000
+Der Unterschied, was teilweise hier in der Fabrik passiert ist, in Ungarn, oft nicht so verschieden.
+
+557
+00:52:04,000 --> 00:52:13,000
+Und worum es geht, ist Prozesse. Einerseits es gibt Menschen, die machen das.
+
+558
+00:52:13,000 --> 00:52:18,000
+Es gibt Leute, die vermitteln ihr Wissen, egal ob es jetzt oft ist auf YouTube zum Beispiel.
+
+559
+00:52:18,000 --> 00:52:26,000
+Wenn Leute sagen, ich zeige euch, wie das geht, auf YouTube, werfe ich meinen Ofen an oder repariere meinen Ofen.
+
+560
+00:52:26,000 --> 00:52:35,000
+Daran geht es irgendwie, wenn so Wissen vorhanden ist, das eben in so einem Rahmen zu bringen, der irgendwie auswertbar ist.
+
+561
+00:52:35,000 --> 00:52:41,000
+Das ist eine Herausforderung. Aber auch zum Beispiel, so Prozesse zu begleiten.
+
+562
+00:52:41,000 --> 00:52:53,000
+Zum Beispiel, du kannst ja sagen, wir haben eine Waschmaschine, die repariert werden muss.
+
+563
+00:52:53,000 --> 00:53:00,000
+Und dann kann es einfach nur abfragen, kann jemand diese Waschmaschine reparieren? Ganz blöd.
+
+564
+00:53:00,000 --> 00:53:07,000
+Und jemand sagt, jo, kann ich. Einfach so, nicht als Muster als Abfrage, nicht eine gemusterte Tätigkeit.
+
+565
+00:53:07,000 --> 00:53:11,000
+Sondern einfach nur, ich kann das. Ich habe das Wissen dazu. Und dann macht die Person das.
+
+566
+00:53:11,000 --> 00:53:20,000
+Und dann funktioniert die Waschmaschine wieder. Und dann kann man abfragen danach, was, wenn dieses Problem gelöst wurde,
+
+567
+00:53:20,000 --> 00:53:24,000
+wie hast du das gemacht? Was hast du dafür gebraucht? Kannst du die Schrift beschreiben?
+
+568
+00:53:24,000 --> 00:53:27,000
+Und entweder die Person macht es dann oder sie macht es nicht.
+
+569
+00:53:27,000 --> 00:53:41,000
+Es werden ja in diesem Prozess des Vorstellungs und Tätigkeiten parallel immer Mittel abgefragt,
+
+570
+00:53:42,000 --> 00:53:49,000
+zu sagen, das Fahrrad wieder. Es wird abgefragt, kann jemand ein Fahrrad reparieren?
+
+571
+00:53:49,000 --> 00:53:55,000
+Aber daneben wird auch noch abgefragt, hast du Zugriff auf ein Fahrrad, das zu teilen könntest?
+
+572
+00:53:55,000 --> 00:53:59,000
+Weil Leute natürlich nicht alles, was sie zu Hause liegen haben und vielleicht nicht brauchen,
+
+573
+00:53:59,000 --> 00:54:06,000
+einfach so mal eben in eine Software-Datenbank einspeisen, einfach dann noch mal nachhelfen,
+
+574
+00:54:06,000 --> 00:54:15,000
+einfach um diese Informationen zu bekommen. Oder zum Beispiel weißt du, wie ein Fahrrad verfügbar gemacht werden kann?
+
+575
+00:54:15,000 --> 00:54:21,000
+Also hast du das Wissen darüber, wie es noch funktioniert mit Informationen, die quasi vielleicht noch nicht bekannt sind?
+
+576
+00:54:21,000 --> 00:54:27,000
+Und wenn du das weißt, kannst du es beschreiben. Und dann reicht auch am Anfang eine grobe Beschreibung,
+
+577
+00:54:27,000 --> 00:54:33,000
+die dann durch andere Leute, die sich wieder in Tätigkeiten annehmen, angepasst werden kann.
+
+578
+00:54:33,000 --> 00:54:44,000
+Also die Komplexität hört nicht auf. Die Komplexität ist eine Herausforderung, mit der man auf ganz unterschiedlichen Weisen umgehen muss.
+
+579
+00:54:44,000 --> 00:54:49,000
+Genau, und das ist halt eine Aufgabe, würde ich sagen, für uns im Projekt.
+
+580
+00:54:49,000 --> 00:54:56,000
+Deswegen wollen wir auch echter, also jede Person, die es hört und meint, unterstützen zu können,
+
+581
+00:54:56,000 --> 00:54:59,000
+wir haben echt viele offene Baustellen, wo wir einfach Lösungen suchen.
+
+582
+00:54:59,000 --> 00:55:09,000
+Wir haben diese Struktur, wo wir glauben, dass es so mit so einer Struktur erst mal tendenziell möglich ist,
+
+583
+00:55:09,000 --> 00:55:16,000
+sich außerhalb von Eigentum, außerhalb eben von Jenseits zum Markt und Staat, wie der Common-Slogan so ist,
+
+584
+00:55:16,000 --> 00:55:23,000
+organisieren können, wie wir uns effizient organisieren können, wie einfach frei gelebt werden kann,
+
+585
+00:55:24,000 --> 00:55:31,000
+wenn es einfach nichts zu tun gibt, für niemanden irgendwas zu tun gibt, wo ich sagen kann, ich kann mich dort einbringen,
+
+586
+00:55:31,000 --> 00:55:40,000
+wo ich es persönlich als wichtig erachte, und sonst mache ich halt nichts. Also dieses freie Leben, wie ich es bezeichnen würde.
+
+587
+00:55:40,000 --> 00:55:48,000
+Wir haben da eine Grundstruktur, und jetzt müssen wir irgendwie gucken nach Werkzeugen, wie das angewendet werden kann erstens.
+
+588
+00:55:48,000 --> 00:55:55,000
+Erstens Bereiche erschließen, wo es überhaupt heute sinnvoll ist, wo es überhaupt möglich ist, so zu handeln,
+
+589
+00:55:55,000 --> 00:56:03,000
+und dann Werkzeuge zu konzipieren und technisch umzusetzen und mit einem entsprechenden Userdesign und so etwas greifbar zu machen,
+
+590
+00:56:03,000 --> 00:56:12,000
+dass die Anwendung irgendwie einfach ist und trotzdem eben diese Probleme löst, vor denen wir stehen.
+
+591
+00:56:13,000 --> 00:56:20,000
+Ja, ich muss noch ein bisschen leider nachbohren, auch in der problematischen Richtung,
+
+592
+00:56:20,000 --> 00:56:27,000
+weil eine Sache, die sich ja natürlich da dann auch total aufdrängt, ist die zum Beispiel eine Frage langfristiger Planung.
+
+593
+00:56:27,000 --> 00:56:36,000
+Ja, also wir haben jetzt da uns bisher bewegt in Beispielen, die dann doch eher wieder irgendwie überschaubar sind.
+
+594
+00:56:36,000 --> 00:56:42,000
+Ja, aber letztlich ist es ja schon so, dass ihr abzielt auf eine Gesellschaft,
+
+595
+00:56:42,000 --> 00:56:49,000
+in der das Commoning eigentlich am Ende dann die hegemoniale Bezugsform ist, wenn man so will.
+
+596
+00:56:49,000 --> 00:56:53,000
+Ja, also das wäre irgendwie auf eine Art ja dann doch das Idealszenario.
+
+597
+00:56:53,000 --> 00:56:57,000
+Und dafür gelte es dann aber durchaus noch andere Fragen zu beantworten,
+
+598
+00:56:57,000 --> 00:57:04,000
+die natürlich indirekt dann auch immer mit dieser Frage der Komplexitätsbewältigung zu tun haben
+
+599
+00:57:04,000 --> 00:57:11,000
+und der Frage, ob es nicht höherstufige Formen der Koordination braucht,
+
+600
+00:57:11,000 --> 00:57:21,000
+die dann sich eben anderer Mechanismen vielleicht auch bedient, die eben diese Komplexität vielleicht anders adressieren und so weiter und so fort.
+
+601
+00:57:21,000 --> 00:57:26,000
+Und eben ein Beispiel, an dem man das vielleicht dann halt noch mal festmachen könnte,
+
+602
+00:57:26,000 --> 00:57:32,000
+wäre die Frage der langfristigen Planung von zum Beispiel großen Infrastrukturprojekten.
+
+603
+00:57:32,000 --> 00:57:45,000
+Also wie ist das überhaupt denkbar, dass so etwas wie eine ICE-Trasse von Wien nach Hamburg gebaut wird?
+
+604
+00:57:45,000 --> 00:57:50,000
+Da muss ich immer mal wieder pendeln, deswegen nehme ich das jetzt ganz uneigennützig.
+
+605
+00:57:50,000 --> 00:57:56,000
+Wie ist das quasi denkbar, dass sowas angegangen wird?
+
+606
+00:57:56,000 --> 00:57:59,000
+Bisschen eine gemeine Frage, aber sie muss gestellt werden.
+
+607
+00:58:00,000 --> 00:58:08,000
+Das ist eine coole Frage. Das Spannende ist ja wie wir, wir fangen an bei so der Tätigkeit aus dieser Richtung.
+
+608
+00:58:08,000 --> 00:58:13,000
+Also wir kommen nicht irgendwie so von diesen großen Projekten und gehen dann irgendwie so ins Kleine,
+
+609
+00:58:13,000 --> 00:58:19,000
+wir fangen vom Kleinen an und dann wird es vielleicht auch mal ins Große gehen.
+
+610
+00:58:19,000 --> 00:58:27,000
+An sich, ich würde jetzt einfach mal sagen, vielleicht kann ich zwei Richtungen aufmachen, ich bin mir noch nicht sicher.
+
+611
+00:58:27,000 --> 00:58:35,000
+Erstens, was wir machen, ist ein Werkzeug zu einem bestimmten Zweck, so Tätigkeitskooperationen auch,
+
+612
+00:58:35,000 --> 00:58:41,000
+die sehr arbeitsteilig an sich sein können, aufzumachen.
+
+613
+00:58:41,000 --> 00:58:53,000
+Wenn du das möchtest, wenn du sagst, du hast dieses Projekt, du willst diese Autobahn oder diese Zugverbindung von Hamburg nach Wien oder was das war,
+
+614
+00:58:53,000 --> 00:59:01,000
+dann ist es einerseits, ich meine, das betrifft echt viele Leute und echt viele Leute, die auch diese Software nicht verwenden.
+
+615
+00:59:01,000 --> 00:59:07,000
+Das muss ich einfach mal echt super vorausstellen, damit man nicht glaubt, wir würden irgendwie ein Modell bauen,
+
+616
+00:59:07,000 --> 00:59:13,000
+wo alle Menschen müssen diese Software verwenden. Ich finde das total wichtig, weil das ein sehr häufiges Missverständnis ist.
+
+617
+00:59:13,000 --> 00:59:20,000
+Wir wollen nicht irgendwie, dass diese Software hegemonial wird oder sowas.
+
+618
+00:59:20,000 --> 00:59:29,000
+Diese Softwarebeziehungen, wir bauen Softwarewerkzeuge, damit Leute, die sich besonders nicht kennen, die einander unbekannt sind,
+
+619
+00:59:29,000 --> 00:59:34,000
+miteinander kooperieren können zur gemeinsamen Bedürfnisbefriedigung.
+
+620
+00:59:34,000 --> 00:59:42,000
+Und das ist ein Werkzeug, das existiert neben anderen Formen des Communinks, wird hoffentlich existieren neben anderen Formen des Communinks.
+
+621
+00:59:42,000 --> 00:59:52,000
+Das heißt, die Frage ist, ist die Verwendung dieses Softwarewerkzeugs sinnvoll, um sowas wie eine Zugverbindung von Hamburg nach Wien zu bauen?
+
+622
+00:59:52,000 --> 00:59:57,000
+Erstmal weiß ich nicht. Vielleicht gibt es andere Prozesse, die für solche einschneidenden Dinge größer sind.
+
+623
+00:59:57,000 --> 01:00:07,000
+Du könntest sagen, du machst einen, es gibt diesen verteilten Planungsprozess, der quasi so diese Aufwandsgeschichte abfragt nach Problemen.
+
+624
+01:00:08,000 --> 01:00:12,000
+Ja, nein, da gibt es keine Muster dafür. Kann ich mir nicht vorstellen.
+
+625
+01:00:12,000 --> 01:00:15,000
+Kann ich mir jetzt gerade nicht vorstellen. Vielleicht kommt es irgendwann anders.
+
+626
+01:00:15,000 --> 01:00:19,000
+Aber erst mal über diesen verteilten Planungsprozess kann ich mir das nicht vorstellen.
+
+627
+01:00:19,000 --> 01:00:27,000
+Ich kann mir vorstellen, dass man Tätigkeitskomplexe vorschlägt, so als Ganzes, die nicht quasi so Stück für Stück entstehen durch den geringsten Aufwand,
+
+628
+01:00:27,000 --> 01:00:36,000
+sondern quasi ich schlage vor, dass wir diese komplexen Tätigkeiten machen, wozu sich dann quasi zu den einzelnen Tätigkeiten Schritten,
+
+629
+01:00:36,000 --> 01:00:44,000
+die es ja quasi mit sich bringt, zu einer Trasse zu bauen, wieder Leute zuordnen und miteinander ins Gespräch kommen können.
+
+630
+01:00:44,000 --> 01:00:53,000
+Das wäre an sich möglich. Aber das muss ich echt sagen.
+
+631
+01:00:53,000 --> 01:01:01,000
+Ich kann diese Komplexität, diese Schwere, so eine Entscheidung zu treffen, könnte ich jetzt so aus dieser Ebene nicht treffen.
+
+632
+01:01:01,000 --> 01:01:13,000
+Und ich weiß nicht, ob diese Softwarewerkzeuge, ich glaube, man braucht ein Softwarewerkzeug, um solche Dinge zu unterstützen und solche Gespräche dorthin zu unterstützen.
+
+633
+01:01:13,000 --> 01:01:23,000
+Ich weiß nicht, ob wir das schon in der Konzeption drin haben. Ja, Punkt.
+
+634
+01:01:23,000 --> 01:01:33,000
+Ich glaube, das wäre in Sachen für den fünften Teil, über den ich irgendwann in einem Jahr hoffentlich, wenn diese andere ist, andere zurück abgeschlossen ist, nachdenken kann.
+
+635
+01:01:33,000 --> 01:01:42,000
+Aber eigentlich ist das echt groß. Ich würde fast sagen, es ist ein zu großes Problem, dass ich das mit der Softwarevermittlung gerade denken kann und noch dahinter stehe.
+
+636
+01:01:42,000 --> 01:01:50,000
+Macht ja auch nichts. Also du hast ja explizit darauf hingewiesen, dass das auch gar nicht der Anspruch wäre, dass ihr glaubt, dass man mit diesem Global Commoning System jetzt schon,
+
+637
+01:01:51,000 --> 01:02:02,000
+also mit dieser Software, die das eben darstellt, damit sozusagen alle Bereiche des Commoning grundsätzlich abdecken können muss sozusagen.
+
+638
+01:02:02,000 --> 01:02:15,000
+Ich meine, wobei jetzt, wenn ich nachdenke, der Name natürlich schon so ein bisschen Global Commoning System im Grunde ein, der auf die globale Ebene verweist und da dann eigentlich solche Fragen der Metacoordination eben aufkommen.
+
+639
+01:02:15,000 --> 01:02:22,000
+Und ich glaube, sie sind einfach inherent sozusagen in dieser Struktur natürlich eben poppen sie auf.
+
+640
+01:02:22,000 --> 01:02:33,000
+Also wie, wie eben man eigentlich. Ja, so sagen wir mal einfach auch klassische Fragen der, wenn man so will, Socialist Calculation Debate,
+
+641
+01:02:33,000 --> 01:02:39,000
+wie solche Fragen halt innerhalb des Commonings irgendwie beantwortet werden können.
+
+642
+01:02:39,000 --> 01:02:57,000
+Und das sind eben Fragen nach zum einen Komplexitätsreduktion, Fragen nach gibt es eine Universal Unit of Account, wenn man so will, anhand derer verschiedene Produktionsmechanismen verglichen werden können.
+
+643
+01:02:57,000 --> 01:03:03,000
+Und das sind ja dann wiederum Fragen, die mit der von dir auch schon angesprochenen Effizienz verbunden sind.
+
+644
+01:03:03,000 --> 01:03:11,000
+Und das sind, glaube ich, alles samt Dinge, die natürlich dann auch aufpoppen, wenn man so etwas wie ein Global Commoning System vorschlägt.
+
+645
+01:03:11,000 --> 01:03:23,000
+Ja, vielleicht machen wir es mal an der Frage des Aufwandes fest, weil das ja doch durchaus eigentlich ein neuralgischer Punkt wäre, gerade in Bezug auf die gerade angesprochenen Themenkomplexe.
+
+646
+01:03:23,000 --> 01:03:36,000
+Du hattest vorhin beschrieben, dass die Software eben die verschiedenen Tätigkeitsmuster, die vorgeschlagen oder die existieren, um ein bestimmtes Bedürfnis zu befriedigen,
+
+647
+01:03:36,000 --> 01:03:43,000
+dass die Software diese priorisiert vorschlägt anhand des dafür notwendigen Aufwandes.
+
+648
+01:03:43,000 --> 01:03:56,000
+Wie wird denn dieser Aufwand definiert? Also das ist ja dann eigentlich schon mal ein zentraler Punkt, weil das ja dann letztlich eigentlich ganz entscheidend den Selektionsmechanismus natürlich beeinflusst.
+
+649
+01:03:56,000 --> 01:04:08,000
+Finde ich eine super spannende Frage, was sich da auch was getan hat. Und zwar am Anfang habe ich quasi dieses Ding, diesen verteilten Platungsprozess quasi, wo der Aufwand eine Rolle spielt,
+
+650
+01:04:08,000 --> 01:04:18,000
+dass die Software diese Tätigkeiten, diese Szenarien sortiert und quasi nacheinander vorschlägt. Ich bin hin und habe mir Gedanken gemacht, was das denn für ein Aufwand hat,
+
+651
+01:04:18,000 --> 01:04:28,000
+der meines Wissens keine Einheit, der Aufwand an sich, die Anstrengung vielleicht an sich, die Anstrengung vielleicht schon mehr.
+
+652
+01:04:28,000 --> 01:04:38,000
+Genau, und dann habe ich mir Gedanken gemacht, was das für eine Einheit sein könnte und habe dann für die Zeit argumentiert einfach ganz grundlegend,
+
+653
+01:04:38,000 --> 01:04:49,000
+was leicht zu messen ist von jeder Tätigkeit, was sich schon sehr nahe mit dieser Effizienz gekoppelt ist. Und genau, aber es ist auch abschätzbar.
+
+654
+01:04:49,000 --> 01:04:55,000
+Ich kann sagen, ich habe das und das gemacht. Ich kann sagen, ich habe dafür ungefähr 30 Minuten gebraucht. Andere sagen, ich brauche dafür ungefähr 40 Minuten.
+
+655
+01:04:55,000 --> 01:05:06,000
+Dann wird irgendwie so ein Schnitt draus gemacht, die dann quasi für diese Tätigkeit allgemeingültig gilt. Aber das ist ein Problem, habe ich eben festgestellt.
+
+656
+01:05:06,000 --> 01:05:14,000
+Schon am Anfang, als das aufkam, kam jemand quasi auch aus dem Cominstitut und meinte, wäre Energie nicht die bessere Einheit?
+
+657
+01:05:14,000 --> 01:05:22,000
+Also Energie, die irgendwie verbraucht wird in dem Prozess und da quasi eine Energieorientierung. Und ich dachte mir, kann schon sein, aber ich wüsste jetzt nicht,
+
+658
+01:05:22,000 --> 01:05:33,000
+wie viel Energie ich verbraucht habe, wenn ich in bestimmter Tätigkeit nachgegangen bin. Kann ich einfach nicht sagen. Und dann war ich in einem Hacker-Space und habe das Projekt vorgestellt.
+
+659
+01:05:33,000 --> 01:05:43,000
+Und die meinten, warum denn Zeit? Du kannst ja auch irgendwas, I don't know, was sie gesagt haben, das war irgendwie, da war es eine Komplexität hatte, was auch Google Maps benimmt zur Routenberechnung,
+
+660
+01:05:43,000 --> 01:05:50,000
+was nicht nur eine Größe hat, sondern auch irgendwie auf drei verschiedenen Größen aufbaut. Ich glaube, es ginge nicht darum, was die Einheit ist, sondern hauptsächlich, dass irgendwie komplex berechnet wird.
+
+661
+01:05:50,000 --> 01:06:04,000
+Und da habe ich gemerkt, dass es echt, diese Struktur, die quasi konzipiert wird erstmal, es gibt zwei Unterschiede. Einerseits die Konzeption von dieser Struktur quasi, welche Werkzeug es braucht und so weiter.
+
+662
+01:06:04,000 --> 01:06:17,000
+Und dann eben die konkrete Umsetzung, die wir im Projekt langsam angehen. Und ich finde, die Konzeption darf eigentlich keine persönlichen Entscheidungen beinhalten.
+
+663
+01:06:17,000 --> 01:06:32,000
+Also dass ich sage, das und das ist eine gute Einheit und eine gute Regel. Und so wird das gemacht, weil ich bin jetzt irgendwie, I don't know, der Vordenker oder der Autor.
+
+664
+01:06:32,000 --> 01:06:49,000
+Und deswegen habe ich da jetzt irgendwie diese Macht, das ist Käse. Wir haben die Problematik, wir haben das Gemeinsame, mit dem wir umgehen wollen, wo wir effizient darin kooperieren wollen und so was.
+
+665
+01:06:49,000 --> 01:07:05,000
+Und ich versuche innerhalb dieses Rahmens, was durch das Gemeinsame einfach vorgegeben wird, die Problemstellungen, die quasi außerhalb des Eigentums und dieser willkürlichen Bestimmungsrechte über Dinge sind, Werkzeuge zu finden, wie damit umgegangen werden kann.
+
+666
+01:07:05,000 --> 01:07:24,000
+Und solche Fragen wie, ja, also was ich als Gutdach das antworten, spielt eigentlich gar keine Rolle. Was die Software erstmal können muss, ist oder die Konstitution erstmal können muss, ist sämtliche Meinungen und Haltungen, die man in solchen Fragen haben kann, aufnehmen können.
+
+667
+01:07:24,000 --> 01:07:43,000
+Damit umgehen können, dass Leute, wie jetzt, ich finde, Linux ist so das Beispiel, das ist ein Kernel, der spricht diese ganzen Treiber an. Also ich finde auch, es funktioniert auch auf die Weise als Beispiel, weil du auch die Welt mit den gegenständlichen Mitteln darin, kannst du vielleicht das Hardware sehen.
+
+668
+01:07:43,000 --> 01:07:59,000
+Und dass diesen Kernel von Linux, der diese verschiedenen Dinge ansprechen kann, aber die Distribution, also das ob du jetzt Ubuntu hast oder Debian oder keine Ahnung, Fedora oder sonst irgendwas, werden da draufgesetzt.
+
+669
+01:07:59,000 --> 01:08:15,000
+Die haben verschiedene Richtlinien, die haben verschiedene Flight-Haltungen, die gehen verschiedene Informationen um. Aber wenn es jemandem nicht passt, wie ein Projekt damit umgeht, dann machen die ihr eigenes Projekt, ihre eigene Instanz, ihre eigene Distribution davon.
+
+670
+01:08:15,000 --> 01:08:44,000
+Wichtig ist, natürlich zur Effizienz oder wünschenswert, dass die weiterhin miteinander kommunizieren, dass diese Kommunikation, diese Interoperabilität nicht abbricht. Aber an sich sollte es oder muss es möglich sein, dass wenn Leute sagen, wir wollen das mit Energie machen, diesen Planungsprozess, wir wollen das mit irgendwas Komplexem machen, diesen Planungsprozess, soll das erstmal ermöglicht werden, weil ich keine Befugnis habe.
+
+671
+01:08:45,000 --> 01:09:09,000
+Da irgendwelche Entscheidungen zu treffen. Ich versuche nur ein grobes Skelett aufzubauen von Werkzeugen, wie wir uns in diesen gemeinsamen koordinieren können. Genau deswegen der Aufwand, quasi der geringste Aufwand, das heißt gerade die Prozessplanungseinheit als Lehrstelle dafür, was auch immer für eine Einheit genommen wird.
+
+672
+01:09:10,000 --> 01:09:21,000
+Nach der wird das quasi dann sortiert. Ich nehme im Text persönlich immer die Zeit. Ich finde, die Zeit hat viele Vorteile, aber das ist exemplarisch. Genau.
+
+673
+01:09:22,000 --> 01:09:42,000
+Das schließt jetzt also die Art, wie du geantwortet hast, schließt eigentlich wieder an Anfang unseres Gesprächs an, wo ich eben versucht habe zu eruieren, wie weit eben doch innerhalb dieser Logik der von euch vorgeschlagenen Strukturen es.
+
+674
+01:09:42,000 --> 01:10:05,000
+Ein in Anführungsstrichen zentralistisches Element geben muss, um diese Interoperabilität eigentlich gewährleisten zu können und wie viel man eben an die distribuierten Einheiten, die dezentralen Einheiten über antworten kann, also auch notwendigerweise sollte, um da die notwendige Autonomie in Bezug auf entscheidende Fragen quasi aufrechtzuerhalten.
+
+675
+01:10:05,000 --> 01:10:28,000
+Das schließt, finde ich, glaube ich, jetzt sehr stark daran an, weil ja natürlich auf deine Frage auf deine Antwort jetzt eingehend sich die Frage stellt, inwiefern diese Interoperabilität da nicht flöten geht, wenn eben alle unterschiedliche Maße verwenden, wenn man so will, um die Frage des Aufwandes zu beantworten.
+
+676
+01:10:28,000 --> 01:10:43,000
+Und das wird ja dann relevant, wenn eben solche Dinge wie Fragen der Vergleichbarkeit ins Spiel kommen und zwar Fragen der Vergleichbarkeit über diese Grenzen hinweg der einzelnen Instanzen.
+
+677
+01:10:43,000 --> 01:10:54,000
+Hast du es jetzt, glaube ich, genannt, die für sich dann eben ein eigenes Game quasi entscheiden und sagen Nee, aber wir wollen nicht Zeit, sondern wir wollen Energie oder was auch immer.
+
+678
+01:10:54,000 --> 01:11:01,000
+Ja, stellt sich ja dann eigentlich die Frage, inwiefern sich da Probleme der gegenseitigen Bezugnahme ergeben.
+
+679
+01:11:01,000 --> 01:11:22,000
+Das ist sozusagen mal einfach die grundsätzliche Frage, und sie wird vor allem dann auch virulent, wenn man zu dem Bereich kommt, den wir in dem wir jetzt dann vielleicht auch damit eigentlich mit einbiegen können, nämlich wenn man in diesen in diesen Fragenkomplex der Priorisierung von Bedürfnissen eben einbiegt.
+
+680
+01:11:22,000 --> 01:11:40,000
+Wo ihr innerhalb eures Projektes, so ich das richtig verstanden habe, ja dafür plädiert, dass es durchaus zumindest in der Transformationsphase auch Möglichkeiten der Priorisierung bestimmter Bedürfnisse gegenüber andere geben solle.
+
+681
+01:11:40,000 --> 01:11:52,000
+Und da gibt es dann verschiedene Kriterien dafür, wann eine Priorisierung sinnvoll ist, wenn Leute auch in kommending sich betätigen, wenn sie andere nachvollziehbare Bedürfnisse haben und so weiter und so fort.
+
+682
+01:11:52,000 --> 01:12:06,000
+Aber das hängt auf eine Art zusammen, denke ich, weil ja sozusagen, wenn über einzelne Projekte hinweg es da Koordinationsmöglichkeiten geben soll, man aber für sich keine.
+
+683
+01:12:06,000 --> 01:12:27,000
+Geteilte, wenn man so will, Bemessungsgrundlage hat, es da eventuell ja eben Kompatibilitäts Schwierigkeiten gäbe und das und dann habe ich sozusagen den Fragenkomplex abgeschlossen, hängt vielleicht dann wiederum mit der Frage zusammen.
+
+684
+01:12:27,000 --> 01:12:42,000
+Inwiefern eine allgemeine Buchhaltung in Zusammenhang steht mit der Frage der Priorisierung von Bedürfnissen, also wie eng ist das geführt?
+
+685
+01:12:42,000 --> 01:13:00,000
+Also sagt man einfach nur Aha, okay, diese Person ist auch in anderen kommenden Projekten involviert und deswegen ist sie grundsätzlich berechtigt, auch priorisiert zu werden bei der Frage, inwiefern ihr Bedürfnis befriedigt wird, ja oder nein, ab wann, zu welchem Grad, für wie lange und so fort.
+
+686
+01:13:00,000 --> 01:13:07,000
+Das waren jetzt viele Fragen in eins gepackt, aber ich glaube, sie hängen durchaus miteinander zusammen.
+
+687
+01:13:07,000 --> 01:13:20,000
+Ja, auf jeden Fall. Ich glaube erstmal, das finde ich ganz wichtig, ganz am Anfang schon festzuhalten, diese Bedürfnis Priorisierung, die wird im Auslendungsdrang angedacht.
+
+688
+01:13:20,000 --> 01:13:33,000
+Ja, das ist quasi die Bedürfnisse von denjenigen, die sich einbringen aktiv und gemeinsam es schaffen, auf das ja auch wieder mehr Leute zugreifen können, dass die Bedürfnisse von denen quasi, ich habe da das Wort mechanisch benutzt,
+
+689
+01:13:33,000 --> 01:13:39,000
+dass die mechanisch irgendwie in den Vordergrund gerückt werden.
+
+690
+01:13:39,000 --> 01:13:47,000
+Das war so der Gedanke damals, um so eine Transformation zu ermöglichen. Davon sind wir weggekommen.
+
+691
+01:13:47,000 --> 01:14:02,000
+Ich würde dann, das würde ich nur ganz am Anfang sagen, vorher noch zur Interoperabilität dieser einzelnen Instanzen oder Systeme oder die sich verschieden vielleicht auf Aufwand beziehen.
+
+692
+01:14:02,000 --> 01:14:15,000
+Ich bin mir ehrlich gesagt nicht sicher, inwiefern das Problem im Rahmen von gemeinsamen, von Commons konstruiert ist.
+
+693
+01:14:15,000 --> 01:14:30,000
+Aber weil ich auch sehr, sehr lange damit gekämpft habe. Aber die Software gibt ja, was durch diesen verteilten Planungsprozess geschieht, sind immer nur Vorschläge.
+
+694
+01:14:30,000 --> 01:14:37,000
+Also die wäre diese Tätigkeiten aus, nach ihrem geringsten Aufwand schlägt die dann quasi verteiligend vor.
+
+695
+01:14:37,000 --> 01:14:48,000
+Das heißt nicht, dass nur die Software das vorschlägt, zum Beispiel Fahrrad reparieren, dass ich nicht sagen kann, ich sehe das und denke mir, nur ich mache irgendwas anderes.
+
+696
+01:14:48,000 --> 01:14:56,000
+Ich baue halt irgendwie das Fahrrad neu. Das ist jetzt keine vorgestarkene Tätigkeit. Ich mache das einfach, weil die Software kommuniziert dann nur mit mir.
+
+697
+01:14:57,000 --> 01:15:02,000
+Die hat ja keine Bestimmungsrechte, wie diese Mittel verwendet werden können.
+
+698
+01:15:02,000 --> 01:15:13,000
+Es ist eine Hilfestellung, um mich in diesem Bereich das gemeinsam orientieren zu können, um zu wissen, für mich irgendwie, das ist jetzt eine sinnvolle Tätigkeit oder das ist keine sinnvolle Tätigkeit.
+
+699
+01:15:13,000 --> 01:15:17,000
+Aber das heißt nicht, diese Tätigkeit wird durchgeführt oder keine Tätigkeit wird durchgeführt.
+
+700
+01:15:17,000 --> 01:15:21,000
+Das sind einfach nur Vorschläge, die in einer bestimmten Reihenfolge gemacht werden.
+
+701
+01:15:21,000 --> 01:15:33,000
+Und dann kommen wir zum Beispiel, was ich super, super spannend fand irgendwie als so kleine Erkenntnis in diesem Konzeptionsprozess, der jetzt echt seit dreieinhalb Jahren geht.
+
+702
+01:15:33,000 --> 01:15:38,000
+Ich dachte, der wird nach einem halben Jahr abgeschlossen, jetzt stecke ich da drin.
+
+703
+01:15:38,000 --> 01:15:49,000
+Was ich super spannend fand, ist diese Idee von, da ist eine Person, die hat zum Beispiel viel geleistet und ich baue da jetzt das Fahrrad.
+
+704
+01:15:49,000 --> 01:15:52,000
+Ich mache das jetzt, ich baue jetzt das Fahrrad für diese Person.
+
+705
+01:15:52,000 --> 01:15:55,000
+Dann hat diese Person ein Fahrrad, weil sie viel geleistet hat.
+
+706
+01:15:55,000 --> 01:15:59,000
+Das geht schon schief im Rahmen von Gemeinsamen.
+
+707
+01:15:59,000 --> 01:16:06,000
+Das ist schon insane, weil ich auf Gemeinsamen erstmal aufbaue, also ich verwende Dinge, die auch das Gemeinsame von anderen sind.
+
+708
+01:16:06,000 --> 01:16:10,000
+Ich gebe durch meine Tätigkeit, gebe ich quasi eine Richtung vor.
+
+709
+01:16:10,000 --> 01:16:12,000
+Ich sage, ich könnte auch meine Tätigkeit in eine andere Richtung.
+
+710
+01:16:12,000 --> 01:16:13,000
+Ich könnte auch nichts machen.
+
+711
+01:16:13,000 --> 01:16:15,000
+Ich könnte auch Wäsche waschen.
+
+712
+01:16:15,000 --> 01:16:16,000
+I don't know.
+
+713
+01:16:16,000 --> 01:16:17,000
+Irgendetwas anderes machen.
+
+714
+01:16:17,000 --> 01:16:22,000
+Aber ich entscheide mich, ein Fahrrad zu machen, weil eine Person, die viel geleistet hat, ein Fahrrad zu braucht.
+
+715
+01:16:22,000 --> 01:16:27,000
+Das heißt noch nicht, dass ich darüber bestimmen kann, weil wir uns im Gemeinsamen bewegen.
+
+716
+01:16:27,000 --> 01:16:39,000
+Es könnte immer noch irgendein anderes hinkommen und sagen, jetzt mal bei wirklich hardcore offener Verfügung gedacht, was nochmal ein eigenes Thema ist.
+
+717
+01:16:39,000 --> 01:16:45,000
+Aber an sich im Rahmen von Gemeinsamen kann einfach irgendein anderes kommen und einfach mitreden, wie dieses Fahrrad verwendet wird.
+
+718
+01:16:46,000 --> 01:16:53,000
+Nur weil ich das Fahrrad jetzt repariert habe oder neu hergestellt habe, heißt es nicht, dass es in dem Moment mein privates Eigentum ist.
+
+719
+01:16:53,000 --> 01:17:02,000
+Sondern ich auf einmal willkürliche Bestimmungsrechte habe, die wir heute in eigentümlichen oder auf Eigentum beruhenden Gesellschaften kennen.
+
+720
+01:17:02,000 --> 01:17:04,000
+Es ist wieder gemeinsam.
+
+721
+01:17:04,000 --> 01:17:10,000
+Es stellt sich erneut die Frage, wenn ich es gemacht habe, ob das jetzt an die Person geht, die viel geleistet hat.
+
+722
+01:17:10,000 --> 01:17:17,000
+Oder an die Person geht, die irgendwie jeden Tag ihre drei Kinder mit dem Fahrrad zum Kindergarten fahren muss.
+
+723
+01:17:17,000 --> 01:17:26,000
+Ich habe nicht das Recht, alleine darüber zu bestimmen, was mit dem geschieht, was ich mache.
+
+724
+01:17:26,000 --> 01:17:36,000
+Und das finde ich erst mal als kleine Zwischenerkenntnis, wenn wir uns im Raum des Gemeinsamen bewegen, total wichtig.
+
+725
+01:17:36,000 --> 01:17:44,000
+Und das ist auch bei Fragen, wie beziehen wir uns auf den Aufwand und an diese Buchhaltung, die du gesagt hast.
+
+726
+01:17:44,000 --> 01:17:52,000
+Und über diese Buchhaltung wird dann gesagt, wer hat Zugriff auf was und wer hat nicht Zugriff auf was, weil die Person zu unsuviel geleistet hat usw.
+
+727
+01:17:52,000 --> 01:17:55,000
+Das sind ganz viele andere Ebenen noch.
+
+728
+01:17:55,000 --> 01:18:01,000
+Und da wird es wirklich der nächste hartkomplexe Bereich.
+
+729
+01:18:02,000 --> 01:18:04,000
+Diese Ebene der Regelsetzung.
+
+730
+01:18:04,000 --> 01:18:07,000
+Dies will ich jetzt, aber ich mache es kurz auf.
+
+731
+01:18:07,000 --> 01:18:16,000
+Da denke ich gerade wirklich die letzten acht Monate oder sieben Monate meines Lebens denke ich nur darüber nach, wie man über die Regelsetzung gemeinsam passieren kann.
+
+732
+01:18:16,000 --> 01:18:22,000
+Und versuche irgendeine Struktur für mich reinzukriegen und kriege das kaum gebacken.
+
+733
+01:18:22,000 --> 01:18:27,000
+Langsam, gestern saßen wir so da und hatte so einen kurzen Moment, wo ich dachte, ich komme mit der Klarheit rein.
+
+734
+01:18:27,000 --> 01:18:34,000
+Und ich finde auch eine Struktur, wie ich das irgendwie klar vermitteln kann und I don't know, werde ich wieder verwerfen in einem Monat.
+
+735
+01:18:34,000 --> 01:18:39,000
+Aber Regelsetzung im Gemeinsamen ist ein total insane Geschichte.
+
+736
+01:18:39,000 --> 01:18:41,000
+Im Eigentum ist es einfach.
+
+737
+01:18:41,000 --> 01:18:45,000
+Ich bleibe mal kurz, ich fahre mal diesen Zug weiter, ich hoffe, das ist okay.
+
+738
+01:18:45,000 --> 01:18:47,000
+Ich kann sagen, das ist mein Auto.
+
+739
+01:18:47,000 --> 01:18:50,000
+Ich kann sagen, das ist mein Auto oder das ist zum Beispiel das Auto von mir und meiner Freundin.
+
+740
+01:18:50,000 --> 01:18:52,000
+Wir sprechen uns ab im Gemeinsamen.
+
+741
+01:18:52,000 --> 01:18:55,000
+Dann kommen noch zwei Leute dazu, denen wir quasi die Nutzung gewähren.
+
+742
+01:18:55,000 --> 01:18:57,000
+Das ist gewährte Mitnutzung.
+
+743
+01:18:57,000 --> 01:19:00,000
+Und das einfach, weil ich trotzdem die Regeln setzen kann.
+
+744
+01:19:00,000 --> 01:19:07,000
+Bei gewährter Mitnutzung, ich gebe meinen Freunden, sage ich, ihr dürft das Auto auch verwenden, am Wochenende, wenn ich nicht da bin.
+
+745
+01:19:07,000 --> 01:19:15,000
+Das lege ich einfach so fest und dann gibt es diese Regel, dass die quasi am Wochenende das Auto, wenn ich nicht da bin, selbst verwenden können.
+
+746
+01:19:15,000 --> 01:19:20,000
+Es kann jemand sagen, ich zahle dir 100 Euro im Monat.
+
+747
+01:19:20,000 --> 01:19:22,000
+Wir machen das irgendwie vertraglich.
+
+748
+01:19:22,000 --> 01:19:28,000
+Und die Person zahlt mir 100 Euro im Monat und darf dafür irgendwie fünf Tage im Monat auch mein Auto verwenden.
+
+749
+01:19:28,000 --> 01:19:33,000
+Würde ich so als durchsetzungsfähige Mitnutzung beschreiben.
+
+750
+01:19:33,000 --> 01:19:39,000
+Also je nachdem, ob diese, vielleicht wenn diese fünf Tage festgelegt sind, dann begegnen wir uns da auf Augenhöhe.
+
+751
+01:19:39,000 --> 01:19:47,000
+Das heißt, wenn wir unsere Nutzung koordinieren müssen von diesem Auto und die Person zahlt mir Geld dafür, genau zu dem Zweck, das Auto mitzuverwenden.
+
+752
+01:19:47,000 --> 01:19:51,000
+Und das ist eigentlich mein Eigentum, deswegen habe ich auch diese Verwendungsrechte.
+
+753
+01:19:51,000 --> 01:19:54,000
+Dann müssen wir das irgendwie unter uns klären.
+
+754
+01:19:54,000 --> 01:19:59,000
+Aber diese Rahmen sind so ganz klar vorgegeben, die werden abgestimmt.
+
+755
+01:19:59,000 --> 01:20:07,000
+Man kann sagen, zum Beispiel ein Eigentümer kann seine Entscheidung immer durchsetzen gegenüber einen gewährt Mitnutzenden.
+
+756
+01:20:07,000 --> 01:20:12,000
+Sowas kann ich sagen im Bezug auf Gemeinsames in eigentümlichen Strukturen.
+
+757
+01:20:12,000 --> 01:20:22,000
+Aber wenn wir uns dann in Strukturen der offenen Verfügung, wo einfach tendenziell alle Menschen irgendwie über alles mitbestimmen können, was die irgendwie betrifft,
+
+758
+01:20:22,000 --> 01:20:32,000
+also die Utopie, wenn ich das sagen darf, dass ich durch die Straße gehen kann und es sind Dinge und das betrifft mich irgendwie und ich kann in so einen Prozess mit reingehen,
+
+759
+01:20:32,000 --> 01:20:40,000
+wie mit diesen Dingen umgegangen werden kann, ist für mich natürlich, dass ich quasi über die Dinge, die mich betreffen, mitentscheiden kann, mitreden kann.
+
+760
+01:20:40,000 --> 01:20:43,000
+Aber auch da müssen Regeln gesetzt werden können.
+
+761
+01:20:43,000 --> 01:20:50,000
+Die Frage ist, was sind das Regeln, die von anderen akzeptiert werden, weil wenn es ein Gemeinsames gibt,
+
+762
+01:20:50,000 --> 01:20:57,000
+ich sage mal ein Auto, auf das potenziell jeder zugreifen kann, jetzt mal wirklich als dieses Ding.
+
+763
+01:20:58,000 --> 01:21:05,000
+Und ich sage irgendwie und drei Freunde, wir sagen uns, wir nehmen das Auto und ihr nehmt es Montag bis Sonntag.
+
+764
+01:21:05,000 --> 01:21:14,000
+Ich und mein Freund, wir nehmen das Samstag Sonntag und wir setzen diese Regeln auf das Auto und dann kann ja irgendwer anderes kommen und sagen,
+
+765
+01:21:14,000 --> 01:21:23,000
+ich benutze das Auto irgendwie fünf Tage die Woche und es sind meine Regeln und ich kann die genauso auf das Auto anwenden.
+
+766
+01:21:23,000 --> 01:21:26,000
+Es gibt keinen Grund, warum dessen Regeln schlechter sein sollen als unsere Regeln.
+
+767
+01:21:26,000 --> 01:21:33,000
+Also wie können wir, wie kann dieser Zustand erreicht werden, dass Regeln akzeptiert werden?
+
+768
+01:21:33,000 --> 01:21:39,000
+Also wir brauchen da eigentlich auch, ich finde es so aus wie eine Verfassungsebene, ist so bei Gemeinsamen total wichtig,
+
+769
+01:21:39,000 --> 01:21:44,000
+wie letztendlich geklärt werden kann, wenn es widersprechende Regeln über das selbe Ding gibt.
+
+770
+01:21:46,000 --> 01:21:52,000
+Ja, wie damit umgegangen wird oder wie so ein Ding über das Regeln getroffen werden, vor Einhegung geschützt wird.
+
+771
+01:21:52,000 --> 01:22:00,000
+Dass andere nicht mehr darüber entscheiden können, dass es so Momente, Klauseln, keine Ahnung gibt, wie wenn Regeln getroffen werden,
+
+772
+01:22:00,000 --> 01:22:05,000
+die zu eng sind, die andere einfach zu sehr ausschließen, einfach wieder aufgelöst werden können.
+
+773
+01:22:05,000 --> 01:22:10,000
+Egal wie diese aussehen, das ist ein furchtbares Problem.
+
+774
+01:22:10,000 --> 01:22:14,000
+Aber wie ist das denn jetzt gerade gelesen? Also ich meine, es gibt ja existierende Comments.
+
+775
+01:22:14,000 --> 01:22:24,000
+Also das ist ja wie so auf eine Art archätypisch dieser Mythos von der Tragedy of the Comments.
+
+776
+01:22:24,000 --> 01:22:34,000
+Also das war ja quasi die Erzählung, als würde das dann passieren, die damals der Hardin in seinem Paper quasi so getan hat, als sei es so.
+
+777
+01:22:34,000 --> 01:22:41,000
+Als kämen dann eben alle und dann würde alles quasi in Katastrophe enden und in Übernutzung und dadurch nicht nachhaltig sein.
+
+778
+01:22:41,000 --> 01:22:50,000
+Und das war ja eigentlich, wenn ich das richtig erinnere, eigentlich genau der Punkt, wo dann Elena Ostrom gesagt hat, ja, aber nein, so ist es ja nicht.
+
+779
+01:22:50,000 --> 01:22:57,000
+Sondern es gibt sehr wohl beobachtbare Mechanismen, wie genau diese Fragen adressiert werden.
+
+780
+01:22:57,000 --> 01:23:07,000
+Es ist ja keine Regellosigkeit, die da jetzt vorgeschlagen wird, sondern es gibt sehr wohl Strukturen, die genau diese Problematik eigentlich versuchen zu adressieren.
+
+781
+01:23:07,000 --> 01:23:16,000
+Und ist jetzt das, was du sagst, dass im Grunde ein neues Problem entsteht, wenn man diese Logiken auf die transpersonale Ebene ziehen will.
+
+782
+01:23:16,000 --> 01:23:26,000
+Also wie man diese Regeln dann trotzdem noch erzeugen kann, wie die aussehen können und wie man erwirken kann, dass sie de facto dann auch umgesetzt werden.
+
+783
+01:23:26,000 --> 01:23:37,000
+Oder wie unterscheidet sich das von dieser Problematik, die klassischerweise den Commons zumindest früher lange Zeit vorgeworfen worden sind?
+
+784
+01:23:37,000 --> 01:23:40,000
+Hast du mal diesen Text von Harding gelesen?
+
+785
+01:23:40,000 --> 01:23:41,000
+Nee, habe ich nicht.
+
+786
+01:23:41,000 --> 01:23:42,000
+Das ist ein furchtbarer Text.
+
+787
+01:23:42,000 --> 01:23:43,000
+Ja, das glaube ich sofort.
+
+788
+01:23:43,000 --> 01:23:46,000
+Also es ist wirklich furchtbar, wie der sich so verbreiten konnte.
+
+789
+01:23:46,000 --> 01:23:50,000
+Das ist echt, also wenn man gelesen hat, hat man echt keine Ahnung, wie das geschehen konnte.
+
+790
+01:23:50,000 --> 01:23:51,000
+Ja, der war nützlich halt.
+
+791
+01:23:51,000 --> 01:23:54,000
+Der ist ja nützlich für eine bestimmte Argumentation.
+
+792
+01:23:54,000 --> 01:23:55,000
+Aber es ging ja gar nicht um Commons.
+
+793
+01:23:55,000 --> 01:23:57,000
+Es ging ja darum, die Weltbevölkerung einzuschränken.
+
+794
+01:23:57,000 --> 01:24:02,000
+Das Anliegen von dem Text war, dass quasi gebotene Kontrolle eingesetzt wird.
+
+795
+01:24:02,000 --> 01:24:06,000
+Und dann hat er so nebenbei dieses Commons-Beispiel aufgemacht mit diesen Hürden.
+
+796
+01:24:06,000 --> 01:24:11,000
+Und dann hat irgendwie und dieser ganze, wie weiß ich, jeder Vorteil, das mitzuverwenden.
+
+797
+01:24:11,000 --> 01:24:13,000
+Aber die Kosten irgendwie teilen sich auf alle auf.
+
+798
+01:24:13,000 --> 01:24:14,000
+Deswegen ist es egal.
+
+799
+01:24:14,000 --> 01:24:15,000
+Und deswegen sind wir gezwungen.
+
+800
+01:24:15,000 --> 01:24:19,000
+Ja, es wird jetzt lockt in, quasi in diese Situation, wo wir quasi das übernutzen.
+
+801
+01:24:20,000 --> 01:24:24,000
+Das ist ja ein ganz, ganz furchtbarer Text.
+
+802
+01:24:24,000 --> 01:24:26,000
+Aber klar, das hat sich eingebrannt.
+
+803
+01:24:26,000 --> 01:24:28,000
+Aber und das stimmt ja auch.
+
+804
+01:24:28,000 --> 01:24:30,000
+Also es ist ja auch, es ist jetzt nicht nur Quatsch.
+
+805
+01:24:30,000 --> 01:24:40,000
+Ja, also dieses, wenn wir nicht miteinander kommunizieren, dann hat er auch mit manchen Recht.
+
+806
+01:24:40,000 --> 01:24:42,000
+Das kann ja auch nicht gesagt werden.
+
+807
+01:24:42,000 --> 01:24:48,000
+Und Ostraum hat ja dann diese Commons erforscht, wie es in der Praxis aussieht und wie das quasi gemacht werden kann und so weiter.
+
+808
+01:24:48,000 --> 01:24:51,000
+Oder wie es in der Praxis geschieht tatsächlich.
+
+809
+01:24:51,000 --> 01:24:56,000
+Und dann ist er rumgeflogen, hat sich verschiedene Commons-Projekte auf der ganzen Welt angeschaut.
+
+810
+01:24:56,000 --> 01:25:02,000
+Ja, also oft irgendwas, was irgendwie Gewässer, ja, so gemeinsam ein Fisch fangen an der Küste und so was.
+
+811
+01:25:02,000 --> 01:25:07,000
+Oder eben in der Schweiz irgendwelche Almende oder genau.
+
+812
+01:25:07,000 --> 01:25:16,000
+Und was er gemacht hat am Ende, was er quasi ihr großes Ding war, ist diese Design-Prinzipien für langlebige Commons-Institutionen herauszustellen.
+
+813
+01:25:16,000 --> 01:25:19,000
+Diese acht oder neun Stück, ich bin mir jetzt gerade gar nicht sicher.
+
+814
+01:25:19,000 --> 01:25:24,000
+Und da zu sagen, okay, wenn, also Commons gehen schief, sagt sie ja.
+
+815
+01:25:24,000 --> 01:25:28,000
+Also Commons gehen schief, beschreibt sie, warum die schief gehen und so weiter.
+
+816
+01:25:28,000 --> 01:25:30,000
+Andere beschreibt sie, warum sie einfach gut gehen.
+
+817
+01:25:30,000 --> 01:25:43,000
+Und dann sagt sie, okay, die Gemeinsamkeit von Commons-Projekten, also der Bezug von mehreren Leuten auf Gemeinsames, hat eben, ich kann bestimmt Prinzipien fassen.
+
+818
+01:25:43,000 --> 01:25:49,000
+Wann es gut geht und wenn es tendenziell nicht gut geht.
+
+819
+01:25:49,000 --> 01:25:57,000
+Und da geht es zum Beispiel darum, es ist quasi klar, welche Personen sich auf das Ding als Gemeinsames beziehen.
+
+820
+01:25:57,000 --> 01:26:02,000
+Also wen das einschließt und wen das ausschließt auch.
+
+821
+01:26:02,000 --> 01:26:11,000
+Das ist ja, sie ist ja nicht in der Ebene von dem, was Meretz, glaube ich, auch und ich als offene Verfügung bezeichnet würde.
+
+822
+01:26:11,000 --> 01:26:15,000
+Und irgendwie alle können irgendwie potentiell irgendwie auf diese Dinge zugreifen.
+
+823
+01:26:15,000 --> 01:26:21,000
+Weil es also bei Meretz kollektive Verfügung, ich bin mir jetzt nicht sicher, ob es so einen Beschied gibt.
+
+824
+01:26:21,000 --> 01:26:29,000
+Und genau, da macht sich schon mal konkret fest, quasi bei diesem Auto-Beispiel, wenn wir wieder sind.
+
+825
+01:26:29,000 --> 01:26:37,000
+Es gibt einen klar definierten Kreis von Personen, die das Recht haben, auf dieses Auto zuzugreifen.
+
+826
+01:26:37,000 --> 01:26:45,000
+Und andere, die es nicht haben. Und damit setzt sich schon mal eine Grenze, auch eine Komplexitätsgrenze, wenn man so möchte.
+
+827
+01:26:45,000 --> 01:26:53,000
+Oder bei ihr ist es keine Komplexitätsgrenze, sie sagt einfach, dann funktioniert es und dann funktioniert es tendenziell nicht so gut.
+
+828
+01:26:54,000 --> 01:27:09,000
+Und das Problem jetzt, das ich da jetzt aufgemacht habe in dieser Rede von vorhin, ist jetzt kein transpersonales oder interpersonales Problem.
+
+829
+01:27:09,000 --> 01:27:15,000
+Tatsächlich ist es ein Problem der offenen Verfügung.
+
+830
+01:27:15,000 --> 01:27:21,000
+Das Konzept ist an offener Verfügung und dieses, wo wir nicht sind.
+
+831
+01:27:21,000 --> 01:27:25,000
+Jetzt, es gibt konkrete, es gibt Kunstprojekte, das ist aber meistens klar.
+
+832
+01:27:25,000 --> 01:27:30,000
+Also es gibt diese klassischen, die Ostrom beschreibt und so was, da ist meistens klar, wer die Fischer sind und so weiter.
+
+833
+01:27:30,000 --> 01:27:39,000
+Oder wer die Leute sind, die auf diesem Dorf leben und die in Schweiz, in Tölpe oder so was, wo sie es beschreibt, da gibt es auch ganz klare Regeln.
+
+834
+01:27:39,000 --> 01:27:47,000
+Dass die Leute, die irgendwie zuziehen, da irgendwie ausgeschlossen werden für, was weiß ich, drei Generationen oder so was.
+
+835
+01:27:47,000 --> 01:27:54,000
+Das ist ja, kommen sie da keinen, also besonders bei Ostrom sind da kommen sie keinen, ich weiß nicht, Ponyhof.
+
+836
+01:27:54,000 --> 01:28:02,000
+Da wird sich auch, wenn es irgendwie um die Verteidigung von Rechten geht, irgendwie mal abgestochen oder so was.
+
+837
+01:28:02,000 --> 01:28:08,000
+Also beschreibt sowas an Fischergründen. Und das ist dann auch okay, weil es ja irgendwie, also nicht okay, es ist keine moralische Betrachtung,
+
+838
+01:28:08,000 --> 01:28:16,000
+sondern es geht halt darum, diese Regeln quasi in Stand zu halten. Und genau, was jetzt so das Problem ist, ist halt,
+
+839
+01:28:16,000 --> 01:28:28,000
+wie können wir das so auf einer, wegbringen von diesem Ostrom, hat er nie, Ostrom war ja nicht irgendwie in der Gesamt-, in der ganzen Gesellschaft.
+
+840
+01:28:28,000 --> 01:28:36,000
+Ostrom war keine Kommunistin. Sie hat nicht gesagt, kommens überall. Und für sie gab es immer den Markt.
+
+841
+01:28:36,000 --> 01:28:41,000
+Ja, aber für sie gab es auch den Staat und die staatlichen Situationen. Und sie hat einfach nur angeguckt, was macht das Kommens da drin?
+
+842
+01:28:41,000 --> 01:28:50,000
+Ja, wir versuchen darüber hinauszugehen. Ich finde, Silke Helfrich hat ja zum Beispiel schon in die Richtung gearbeitet mit den Muster des Commandings.
+
+843
+01:28:50,000 --> 01:28:59,000
+Weg von diesen klar definierten Dingern, Muster des Commandings, was ist gemeinsam zwischen den verschiedenartigsten Comments, Projekten
+
+844
+01:28:59,000 --> 01:29:05,000
+und was sind, was sind einfach, worauf kann ich mich wieder beziehen, um überhaupt zu sagen, dass es ein Commons ist.
+
+845
+01:29:05,000 --> 01:29:13,000
+Das ist ja da auch eine ganz eigene Herangehensweise. Die Muster des Commandings sind echt ein, was ist das Kartenzelt auch, ist echt ein unglaubliches Geschenk.
+
+846
+01:29:13,000 --> 01:29:25,000
+Das ist echt so wertvoll. Das ist echt richtig, richtig wertvoll. Und was wir jetzt natürlich haben, ist halt ein ganz anderes Problem eben.
+
+847
+01:29:26,000 --> 01:29:38,000
+Die Regelung auf dieser Soft-Ebene von sich unbekannten Leuten. Und erstmal spielt das auch gar keine große Rolle, weil wir erstmal in Eigentumsgeschichten sind.
+
+848
+01:29:38,000 --> 01:29:44,000
+Ja, das Beste, was wir haben können, ist eine Stiftung zum Beispiel. Zum Beispiel die Munus-Stiftung hier aus Österreich, falls du die kennst, zufällig.
+
+849
+01:29:44,000 --> 01:29:54,000
+Die Munus-Stiftung hat zum Beispiel einen Stiftungszweck. Der Zweck ist irgendwie die Erhaltung der Natur und Solidarität oder sowas.
+
+850
+01:29:54,000 --> 01:30:04,000
+Und du kannst quasi Eigentum, das du hast, besonders da geht es um Felder oder Immobilien, kannst du entweder diese Munus-Stiftung schenken oder vererben.
+
+851
+01:30:04,000 --> 01:30:14,000
+Vererben, quasi wie du stirbst, quasi schreibst rein und sagst du, wer hält die Munus-Stiftung. Die Munus-Stiftung hat das dann in ihren Privatbesitz, quasi Stiftungsbesitz, wie man auch immer dazu sagt.
+
+852
+01:30:14,000 --> 01:30:27,000
+Und dann können sich Gruppen darauf bewerben, quasi dieses Feld zu nutzen, wenn sie quasi in der Verwendung dieses Dings, das dieser Stiftung gehört, die Stiftungszwecke erfüllen.
+
+853
+01:30:27,000 --> 01:30:34,000
+Also dieser Zweck von Stiftung überträgt sich auf diese Mittel, die müssen angenommen werden, wenn mit denen umgegangen wird.
+
+854
+01:30:34,000 --> 01:30:47,000
+Und was auch noch ein bisschen der Clou ist dabei, dass Leute, die diese Mittel verwenden und bekommen, müssen auch in den Aufsichtsrat und sind wieder Teil dieser Governance, um mit in den Prozess an wen die andere Mittel verteilt werden.
+
+855
+01:30:47,000 --> 01:30:52,000
+Das ist eigentlich ganz clever gemacht, um damit umzugehen. Aber auch da hast du halt klare Regelungsstrukturen.
+
+856
+01:30:53,000 --> 01:31:00,000
+Du hast auch eben Leute, die Entscheidungen treffen können, die in der Stiftung hocken, im Vorstand oder im Aufsichtsrat.
+
+857
+01:31:00,000 --> 01:31:08,000
+Und das funktioniert, weil wir uns mit Eigentum, was am Ende trotzdem Eigentum ist, nur eben zweckgebunden ist.
+
+858
+01:31:08,000 --> 01:31:16,000
+Wenn wir sowas nicht haben, haben wir einfach nochmal komplett neue Fragestellungen.
+
+859
+01:31:16,000 --> 01:31:28,000
+Ich glaube, das ist genug zum Thema, weil das ist vielleicht gar nicht so riesig relevant, aber es ist schwierig.
+
+860
+01:31:28,000 --> 01:31:36,000
+Was ich jetzt da heraus höre, ist, dass du sagst, es ist nicht relevant im Sinne von soweit sind wir noch nicht.
+
+861
+01:31:36,000 --> 01:31:41,000
+Also so verstehe ich jetzt den Punkt von es ist nicht relevant, weil an sich ist es sehr relevant.
+
+862
+01:31:41,000 --> 01:31:48,000
+An sich ist es mega relevant, weil es ist auch relevant, um irgendwie sich auszudenken, wie das eben, das stimmt, du hast vollkommen recht.
+
+863
+01:31:48,000 --> 01:31:58,000
+Weil man muss es verstehen, wie sowas funktionieren kann, um dann eben, ich träume ja einfach von, ich weiß gar nicht, wie das funktionieren soll,
+
+864
+01:31:58,000 --> 01:32:08,000
+aber wie man eine Software lizenziert, zum Beispiel mit der GNU General Public License, der GPL, wie Linux quasi,
+
+865
+01:32:08,000 --> 01:32:18,000
+dass diese Software quasi, wenn sie verwendet wird, muss alles, wo diese Software enthalten ist, muss auch wieder frei sein und so weiter.
+
+866
+01:32:18,000 --> 01:32:28,000
+Das ist also dadurch, dass der Linux Kernel quasi damals lizenziert wurde und dann bestimmt Lizenz, muss alles, was darauf aufbaut quasi, was es beinhaltet,
+
+867
+01:32:28,000 --> 01:32:36,000
+diesen Kernel, muss auch wieder frei sein. Dadurch ist es überhaupt möglich gewesen, dass Linux entstanden ist und dieses wirklich großartige System ist,
+
+868
+01:32:36,000 --> 01:32:44,000
+das wir heute haben und unabhängig davon sind von Windows oder von Mac, wenn wir das wollen, wenn wir da eben kein Geld ausgeben wollen,
+
+869
+01:32:44,000 --> 01:32:53,000
+zum Beispiel und diese Freiheiten, die es eben mit sich bringt. Und das finde ich eben eine super relevante Frage dann, wie lässt sich sowas,
+
+870
+01:32:53,000 --> 01:33:00,000
+wie diese Softwarelizenzen auf gegenständliche Mittel übertragen, die sich aufbrauchen. Software wird beim Teilen mehr.
+
+871
+01:33:00,000 --> 01:33:09,000
+Also wenn ich mir irgendwie was auf den Softwarecenter auf meinen Laptop runterlade, dann ist es zusätzlich vorhanden auf meinem Laptop und es ist nicht irgendwo ausverkauft.
+
+872
+01:33:09,000 --> 01:33:21,000
+Ist ja klar. Wenn jetzt ein Auto so eine Lizenz hätte und ich würde es benutzen, dann ist es weg für andere, also in dem Moment der Verwendung mindestens.
+
+873
+01:33:21,000 --> 01:33:34,000
+Und dafür glaube ich, müssen wir uns solchen Fragen stellen. Was bedeutet das Gemeinsames? Wo sind dann akzeptierte Regeln?
+
+874
+01:33:34,000 --> 01:33:39,000
+Wo sind die Gefahren der Einhegung, die Durchbrachung werden müssen? Blablabla.
+
+875
+01:33:39,000 --> 01:33:51,000
+Ja, um dann irgendwie sowas entwerfen zu können, irgendwelche Formen, die halt heute funktionieren, der Eigentumsneutralisierung oder sowas,
+
+876
+01:33:51,000 --> 01:34:02,000
+oder so Zwecksetzungen von Mitteln, die Bestand haben, sowas entwerfen können, dass wir sie anwenden können und diese Struktur überhaupt entsteht,
+
+877
+01:34:02,000 --> 01:34:13,000
+in der es dann richtig notwendig wird oder in der es dann erst sich entfalten kann und so weiter. Also ja, insofern ist die Frage nicht irrelevant.
+
+878
+01:34:13,000 --> 01:34:23,000
+Ja, ja, und auch zur allgemeinen Plausibilisierung eigentlich, weil ja im Grunde eigentlich das halt auf eine Art ja die würde ich mal denken,
+
+879
+01:34:23,000 --> 01:34:30,000
+verbreitetste Angst in Bezug auf solche Vorschläge eigentlich beinhaltet.
+
+880
+01:34:30,000 --> 01:34:40,000
+Also die die erste Reaktion, wenn man jetzt irgendjemanden auf der Straße sozusagen das pitchen wollen würde,
+
+881
+01:34:40,000 --> 01:34:46,000
+ginge wahrscheinlich genau in also in einer skeptischen Art und Weise in diese Richtung.
+
+882
+01:34:46,000 --> 01:35:02,000
+Ja, also dass man sich halt, dass man irgendwie erklärt haben wollen würde auf Basis welcher nachvollziehbaren Logik,
+
+883
+01:35:02,000 --> 01:35:06,000
+wenn man so will, der Verteilungsmechanismus auch funktioniert.
+
+884
+01:35:06,000 --> 01:35:14,000
+Ja, also das ist ja sozusagen was, womit wir aufgewachsen sind, wenn man so will.
+
+885
+01:35:14,000 --> 01:35:18,000
+Ja, und auf das wir hierhin trainiert worden sind.
+
+886
+01:35:18,000 --> 01:35:33,000
+Und alles, was überhaupt gar nicht diese Frage adressiert, wird es sehr schwer haben in einer allgemeinen Wahrnehmung als plausibel irgendwie zu erscheinen,
+
+887
+01:35:33,000 --> 01:35:44,000
+weil es sonst halt eines riesengroßen Leap of Faith bedarf, einfach darauf zu vertrauen, dass sich das sozusagen dann irgendwie schon regeln wird.
+
+888
+01:35:44,000 --> 01:35:52,000
+Aber du hast ja eigentlich im Grunde selber gesagt, OK, wenn jetzt eben im Grunde es eine absolut offene Verfügung gibt,
+
+889
+01:35:52,000 --> 01:36:01,000
+dann ja, dann ist einfach wirklich sagen die die erste Frage, die sich sage ich jetzt einfach mal die Leute stellen.
+
+890
+01:36:01,000 --> 01:36:08,000
+So ja, aber was passiert, wenn dann eben fünf verschiedene Leute sagen, aber unsere Regel für das Auto ist jetzt hier aber die richtige Regel.
+
+891
+01:36:08,000 --> 01:36:12,000
+So ja, und wie einigt man sich da drauf, welches die Gültigregel ist?
+
+892
+01:36:12,000 --> 01:36:20,000
+Und dann kommt danach wieder die Frage, OK, ist das sozusagen gekoppelt an die Frage, wie sinnvoll man mit dieser Ressource umgeht?
+
+893
+01:36:20,000 --> 01:36:23,000
+Und daran gekoppelt ist die Frage, wie bemisst man, was sinnvoll ist?
+
+894
+01:36:23,000 --> 01:36:32,000
+Daran ist gekoppelt die Frage, braucht man eine Universal Unit of Account, die klärt, ob das eine sinnvoller ist als das andere oder nicht?
+
+895
+01:36:32,000 --> 01:36:37,000
+Und dann stellt sich wieder die Frage, was bedenkt diese Universal Unit of Account eben nicht?
+
+896
+01:36:37,000 --> 01:36:44,000
+Beziehungsweise läuft man dadurch dann Gefahr, dass das wieder in ein Geld-Äquivalent umschlägt und so weiter und so fort.
+
+897
+01:36:44,000 --> 01:36:51,000
+Also all das sind sozusagen Assoziationsketten, die bei mir sofort ratatatatata sozusagen dann losschießen.
+
+898
+01:36:51,000 --> 01:37:01,000
+Ja, und die allesamt eigentlich so ein bisschen um diese zentrale Fragestellung eigentlich kreisen.
+
+899
+01:37:01,000 --> 01:37:05,000
+Ja, aber das ist eh spannend.
+
+900
+01:37:05,000 --> 01:37:11,000
+Zum Beispiel, wenn ich mich noch mal ganz kurz einhalten kann, weil ich den Gedanken total spannend finde mit der Universal Unit of Account.
+
+901
+01:37:11,000 --> 01:37:16,000
+Wenn es das gäbe, sagen wir mal, jetzt wird sich auf eine geeinigt oder setzt sich eine durch.
+
+902
+01:37:16,000 --> 01:37:19,000
+Ja, ich würde eher sagen, diese Einigungsprozess, finde ich.
+
+903
+01:37:19,000 --> 01:37:22,000
+Also setzt sich eine durch quasi als Ding.
+
+904
+01:37:22,000 --> 01:37:30,000
+Es ist ja nie mehr als in einer Diskussion, in welcher darüber quasi entschieden wird, was mit einem Ding gemacht wird.
+
+905
+01:37:30,000 --> 01:37:35,000
+Es ist so ein Indeed, das gesagt wird, okay, wir können es dafür verwenden, wir können es dafür verwenden.
+
+906
+01:37:35,000 --> 01:37:42,000
+Aber diese Universal Unit of Account schlägt diese Richtung vor.
+
+907
+01:37:42,000 --> 01:37:49,000
+Und wollen wir uns hier, die wir jetzt hier irgendwie zusammensitzen, wollen wir sagen, wir haben eine andere Richtung.
+
+908
+01:37:49,000 --> 01:37:53,000
+Es ist einfach hier irgendwie notwendig oder sonst irgendwas oder richten wir uns halt nach dieser Unit.
+
+909
+01:37:53,000 --> 01:38:00,000
+Ja, aber sie hat also sie hat nie irgendeine Form von Durchsetzbarkeit.
+
+910
+01:38:01,000 --> 01:38:03,000
+Dass sie sagen kann, ich meine, was ist denn das?
+
+911
+01:38:03,000 --> 01:38:08,000
+Das ist halt irgendwas, was irgendwie softwaretechnisch irgendwo abläuft und aus irgendwelchen Informationen heraus gespeist wird.
+
+912
+01:38:08,000 --> 01:38:15,000
+Sie hatte, woher sollen sie diese Governance haben oder das durchzusetzen, das in diese Richtung verwertet wird.
+
+913
+01:38:15,000 --> 01:38:19,000
+Vielleicht können Situationen entstehen, wo Leute echt sozialen Druck bekommen, wenn sie sagen,
+
+914
+01:38:19,000 --> 01:38:26,000
+okay, ich benutze das Auto jetzt für mich, um irgendwie, I don't know, meinen Sonntagsausflug zu machen.
+
+915
+01:38:26,000 --> 01:38:33,000
+Und diese Universal Unit ist extrem hoch in der anderen Richtung, weil irgendwo ein Waldbrand ist, I don't know.
+
+916
+01:38:33,000 --> 01:38:36,000
+Und dann kommt man einfach in Argumentationsschwierigkeiten.
+
+917
+01:38:36,000 --> 01:38:42,000
+Aber sie kann trotzdem nie mehr als Indiz oder eine Hilfestellung in Diskussionen sein.
+
+918
+01:38:42,000 --> 01:38:44,000
+Das ist die Sache.
+
+919
+01:38:44,000 --> 01:38:49,000
+Und genau, welche Unit Leute in ihrem verteilten Planungsprozess verwenden usw.
+
+920
+01:38:49,000 --> 01:38:57,000
+Das ist eigentlich ganz egal, weil es dann irgendwie, weil es dann in solchen Diskussionen und Verwendungen Indizien sind.
+
+921
+01:38:57,000 --> 01:39:02,000
+Genau, und das mit der Entscheidung selbst.
+
+922
+01:39:02,000 --> 01:39:08,000
+Genau, es gibt auch Leute, die interessieren sich einfach in Scheiß, Entschuldigung, für die Softwarestruktur.
+
+923
+01:39:08,000 --> 01:39:10,000
+Die sagen, was wollt ihr mit eurer blöden Unit?
+
+924
+01:39:10,000 --> 01:39:11,000
+Wir kennen das nicht.
+
+925
+01:39:11,000 --> 01:39:17,000
+Wir haben hier irgendwie unsere anderen Strukturen, unsere vielleicht kommunenartige Strukturen oder sowas.
+
+926
+01:39:17,000 --> 01:39:18,000
+Wir kennen uns.
+
+927
+01:39:18,000 --> 01:39:20,000
+Wir brauchen das Ding jetzt.
+
+928
+01:39:20,000 --> 01:39:23,000
+Und ihr kommt mit eurer blöden Unit auf Account.
+
+929
+01:39:23,000 --> 01:39:30,000
+Das in der Communing ist viel Kommunikation.
+
+930
+01:39:30,000 --> 01:39:31,000
+Eigentlich ist es nur Kommunikation.
+
+931
+01:39:31,000 --> 01:39:40,000
+Und es gibt, es braucht Möglichkeiten, auch diese Kommunikation irgendwie zu unterstützen, dass sie nicht immer so verbal zum Beispiel ablaufen muss.
+
+932
+01:39:40,000 --> 01:39:44,000
+Aber erstmal ist es einfach echt viel Kommunikation und Absprache.
+
+933
+01:39:44,000 --> 01:39:48,000
+Das ist sowieso das Problem von Kommunikation.
+
+934
+01:39:48,000 --> 01:39:49,000
+Das kann echt lästig sein.
+
+935
+01:39:49,000 --> 01:39:59,000
+Ja, wobei ja eben halt trotzdem finde ich dann und so verstehe ich quasi das Projekt oder ein Anliegen des Projektes ja auch bestimmte Formen der Koordination.
+
+936
+01:39:59,000 --> 01:40:06,000
+Gerade wenn sie eben über das hatten wir ja schon den lokalen die lokale Ebene hinausgehen, dann doch möglich zu machen.
+
+937
+01:40:06,000 --> 01:40:10,000
+Und da kommen halt dann diese Fragen eben schon schon wieder auf.
+
+938
+01:40:10,000 --> 01:40:12,000
+Also ich glaube, zwei Dinge zu dem, was du jetzt gerade gesagt hast.
+
+939
+01:40:12,000 --> 01:40:17,000
+Ich glaube, das erste wäre halt, es wird dann relevant, wenn es eben zu Formen der Priorisierung kommt.
+
+940
+01:40:17,000 --> 01:40:39,000
+Also dann ist sozusagen das eben nicht nur ein nicht mehr nur oder es kommt läuft zumindest Gefahr oder es stellt sich die Frage, wie damit umgehen, dass es nicht dann nur noch ein Indikator ist, der sozusagen als einer unter verschiedenen sozusagen eine mögliche Ausrichtung vorschlägt.
+
+941
+01:40:39,000 --> 01:40:56,000
+Und dann kann man gucken, ob ja oder nein, sondern wenn sozusagen Formen der Priorisierung des Bedürfnisses damit verbunden sind, dann wird es eben schon irgendwie auf eine Art relevant, ob es da sozusagen eine Form von Maßeinheit gibt, welche das ist und ob sich alle darauf geeinigt haben.
+
+942
+01:40:56,000 --> 01:40:58,000
+Und auch bei Fragen der Automatisierung.
+
+943
+01:40:58,000 --> 01:41:02,000
+Also da waren wir auch schon mal an einem bestimmten Punkt des Gesprächs.
+
+944
+01:41:02,000 --> 01:41:17,000
+Wenn wenn eben in die Software Formen der automatisierten Priorisierung von verschiedenen Möglichkeiten des adressieren eines Bedürfnisses ihr nennt das glaube ich eben Tätigkeitsmuster.
+
+945
+01:41:17,000 --> 01:41:33,000
+Wenn verschiedene Tätigkeitsmuster als Möglichkeit wie ein Bedürfnis adressiert werden kann nebeneinander existieren und die Software priorisiert eins vor dem anderen, dann stellt sich ja eben schon die Frage, wie wird sozusagen der Aufwand bemessen?
+
+946
+01:41:33,000 --> 01:41:48,000
+Auf Basis dessen diese Priorisierung durch die Software stattfindet und wenn dort wiederum unterschiedliche Instanzen verschiedene Einheiten für die Bemessung ihres Aufwandes haben, dann haben wir da eben wieder dieses Interoperabilitätsproblem.
+
+947
+01:41:48,000 --> 01:42:01,000
+Also das sozusagen zur Frage der Universal Unit of Account und ob das egal ist oder nicht, also welche verwendet wird und ob sie eben nur als einen Hinweis dienen kann.
+
+948
+01:42:01,000 --> 01:42:07,000
+Eins bei Priorisierung wäre quasi die Frage und zwei bei Frage der technischen Automatisierung.
+
+949
+01:42:07,000 --> 01:42:12,000
+Aber ich glaube da sind jetzt zwei Sachen vermischt mit dieser.
+
+950
+01:42:12,000 --> 01:42:19,000
+Erstens Bedürfnis Priorisierung, wo wir glaube ich langsam drüber reden müssen, weil es die eben solche nicht mehr gibt.
+
+951
+01:42:19,000 --> 01:42:23,000
+Und zweitens diese Tätigkeitsmuster, die markiert werden.
+
+952
+01:42:24,000 --> 01:42:39,000
+Das eine ist dieser verteilte Planungsprozess, wo die Software diese verschiedenen Szenarien ihrem Aufwand nach sortiert und dann quasi die Tätigkeiten in einer bestimmten Reihenfolge Personen im lokalen Umkreis nachlegt.
+
+953
+01:42:39,000 --> 01:42:51,000
+Genau da spielt er da auch von erstmal in der Rolle und das ist was getrenntes von diesem alten Konzept der Bedürfnis.
+
+954
+01:42:51,000 --> 01:42:52,000
+Absolut, das ist mir klar.
+
+955
+01:42:52,000 --> 01:43:03,000
+Ich meine nur der Punkt ist quasi diese Frage der Automatisierung, der Priorisierung auf Basis des Aufwandes, wenn man dort nach welcher Einheit wird quasi Aufwand bewertet.
+
+956
+01:43:03,000 --> 01:43:14,000
+Da waren wir schon mal kurz und dort ist sozusagen ist da nicht irrelevant, ob unterschiedliche Instanzen verschiedene Einheiten für diese Bemessungsgrundlage verwenden.
+
+957
+01:43:14,000 --> 01:43:22,000
+Ja, aber es ist egal. Also wenn ich jetzt irgendwie, ich verwende eine Instanz, da ist Zeit zum Beispiel die Einheit.
+
+958
+01:43:22,000 --> 01:43:30,000
+Und die andere Person verwendet eine Instanz, da ist irgendwie Energie die Einheit.
+
+959
+01:43:30,000 --> 01:43:39,000
+Und das heißt ich bekomme auf meiner App quasi sozusagen eine Tätigkeit vorgeschlagen, die der andere erst später vorgeschlagen bekommt.
+
+960
+01:43:39,000 --> 01:43:49,000
+Und who cares am Ende, weil ich kann das eine machen und dann fällt beim anderen hoffentlich seine Tätigkeit raus, wenn ich da eine Tätigkeit ausführe.
+
+961
+01:43:49,000 --> 01:43:56,000
+Ich hoffe so sehr sind die interoperabel, aber es geht am Ende nicht darum irgendwie, dass jeder die Tätigkeiten unbedingt derselben Reihenfolge bekommt.
+
+962
+01:43:56,000 --> 01:44:01,000
+Bekommen sie eh nicht durch andere Umstände, zum Beispiel durch die Verfügbarkeit von Mitteln.
+
+963
+01:44:01,000 --> 01:44:07,000
+Wenn ich jetzt ein Mittel habe in meinem privaten Eigentum, das ein Mittel ist, zum Beispiel eine Bohrmaschine.
+
+964
+01:44:07,000 --> 01:44:18,000
+Und die andere Person hat die Bohrmaschine nicht und es müsste eine Tätigkeit folgen, um diesen Bedarf nach einer Bohrmaschine noch zusätzlich quasi zu decken.
+
+965
+01:44:18,000 --> 01:44:27,000
+Also wären einfach zwei Tätigkeiten statt einer Tätigkeit, weil dann noch diese Bohrmaschinen verfügbar machen, einfach noch mit dranhängt, die nicht dranhängen würde bei mir.
+
+966
+01:44:27,000 --> 01:44:33,000
+Da würde ich eh diese Tätigkeit vorher vorgeschlagen bekommen, weil das der geringste Aufwand ist.
+
+967
+01:44:33,000 --> 01:44:41,000
+Weil ich als Person, mit mir als Person ist der Gesamtaufwand am geringsten, im Gegensatz zu der anderen Person, die nicht über eine Bohrmaschine verfügt.
+
+968
+01:44:41,000 --> 01:44:44,000
+Also es ist nicht...
+
+969
+01:44:45,000 --> 01:44:58,000
+Ich verstehe es jetzt. Ich glaube, die einfache Antwort wäre ja auch zu sagen, im Tätigkeitsmuster kann ich sowohl einen Aufwand bemessen in Zeit als auch einen Aufwand bemessen in Energie angeben.
+
+970
+01:44:58,000 --> 01:45:04,000
+Und dann kann die Instanz sich aussuchen, welche Kategorie für sie jetzt sozusagen die Relevante ist.
+
+971
+01:45:04,000 --> 01:45:08,000
+Das ist ja eigentlich dann im Grunde die konkrete Antwort auf das.
+
+972
+01:45:08,000 --> 01:45:11,000
+Okay, also dann, das habe ich jetzt verstanden.
+
+973
+01:45:11,000 --> 01:45:20,000
+Damit wir sagen, diese Frage, die ja durchaus eine Relevante ist, einmal wirklich ganz klar adressiert haben und angesprochen haben.
+
+974
+01:45:20,000 --> 01:45:28,000
+Und auch weil du ja schon gesagt hast, dass sich da innerhalb eures Projektes durchaus etwas geändert hat in Bezug auf diese zentrale Frage.
+
+975
+01:45:28,000 --> 01:45:43,000
+Lass uns über die Priorisierung sprechen und inwiefern bestimmte Bedürfnisse eigentlich vorrangig behandelt werden vor anderen und falls ja, unter welchen Konditionen?
+
+976
+01:45:43,000 --> 01:45:52,000
+Genau, das war die Idee damals beim Auslegungstrang, dass es eigentlich eine Transformation braucht, dass es am Anfang nicht sinnvoll ist, sich in kommenden Strukturen einzubringen.
+
+977
+01:45:52,000 --> 01:45:57,000
+Man ja erst die Bedingungen schaffen muss, wo es für mehr Leute sinnvoll ist und so weiter.
+
+978
+01:45:57,000 --> 01:46:02,000
+Wir brauchen das gemeinsame, auf das wir zugreifen können, das erst geschaffen werden muss.
+
+979
+01:46:02,000 --> 01:46:13,000
+Der Gedanke war, dass Leute motiviert sind, sich einzubringen, dass die Bedürfnisse von denjenigen, die sich einbringen, aktiv an der Schaffung von gemeinsamen quasi tätig sind,
+
+980
+01:46:13,000 --> 01:46:19,000
+dass die wieder in den Vordergrund gestellt werden, damit diese Personen Unabhängigkeit von Lohnarbeit haben.
+
+981
+01:46:19,000 --> 01:46:24,000
+Das ist das Wichtige. Wir sind, die meisten von uns, vermutlich lohnabhängig. Wir müssen arbeiten gehen.
+
+982
+01:46:24,000 --> 01:46:31,000
+Wenn wir arbeiten gehen, können wir kein Commanding betreiben, können wir nicht gemeinsam es schaffen und da einfach diesen Freiraum ermöglichen.
+
+983
+01:46:31,000 --> 01:46:39,000
+Und der Gedanke war, das so festzusetzen, so als Regel, als festes Ding.
+
+984
+01:46:39,000 --> 01:46:54,000
+Ich glaube, wir hatten es jetzt schon im Gespräch, dass der zentrale Ansatz und dieses Ding von, es gibt jemanden, der oder die legt sowas fest und das wird dann allen irgendwie aufgebürdet.
+
+985
+01:46:54,000 --> 01:47:06,000
+Davon sind wir weggekommen. Ich habe das damals ausgearbeitet. Das war dann der vierte Teil damals von der Reihe.
+
+986
+01:47:06,000 --> 01:47:11,000
+Und wie das funktionieren kann und blau und blau und habe das eigentlich, war eine lange Arbeit daran.
+
+987
+01:47:11,000 --> 01:47:20,000
+Und dieser Teil, den ich dann geschrieben habe, ist auch wirklich, wo ich meinem Projektteam auch wirklich sehr, sehr dankbar bin, abgelehnt worden.
+
+988
+01:47:20,000 --> 01:47:29,000
+Also mit Unbehagen empfangen worden und ich habe es versucht zu verteidigen und diese Ideen und das ist so wichtig und blau und blau.
+
+989
+01:47:30,000 --> 01:47:38,000
+Aber ich meine, wir hatten schon immer diese Idee von Priorisierung und wir haben es damals die Transformationsvariable genannt, also dieser Aufwand, der dazu geschrieben wird und so weiter.
+
+990
+01:47:38,000 --> 01:47:44,000
+Und diese Transformationsvariable Diskussion ging wirklich lange.
+
+991
+01:47:44,000 --> 01:47:49,000
+Also das war von Anfang an des Projektes, also sobald Robert und ich, Robert und ich haben das gestartet damals.
+
+992
+01:47:49,000 --> 01:47:56,000
+Ich habe den Text veröffentlicht, das haben vielleicht drei oder vier Leute gelesen. Also denke ich mal, ich habe ja keine Ahnung.
+
+993
+01:47:56,000 --> 01:48:02,000
+Und einer davon war auf jeden Fall Robert und das war einfach ein wahnsinniges Glück, weil er ist freier Softwareentwickler.
+
+994
+01:48:02,000 --> 01:48:09,000
+Er hat gesagt, das finde er einfach gut und er möchte das umsetzen und seitdem arbeiten wir da an dem Projekt.
+
+995
+01:48:09,000 --> 01:48:19,000
+Genau und das war von Anfang an eigentlich, wo wir geredet haben, Thema, wie realisieren wir diese Drama, diesen individuellen Vorteil.
+
+996
+01:48:19,000 --> 01:48:36,000
+Und erst nach zwei oder zweieinhalb Jahren, nachdem diese Texte veröffentlicht waren, noch ein halbes Jahr Diskussion im Projekt später, kamen wir eigentlich, haben wir endlich eine Möglichkeit gefunden, damit umzugehen mit diesem möglichen Vorteil.
+
+997
+01:48:36,000 --> 01:48:49,000
+Eben das Prinzip der Berücksichtigung heißt es dann, der quasi dieses aufnimmt, dieses Leistungsding aufnehmen kann, wenn es ein selbstbestimmtes, aber neben anderen Variable.
+
+998
+01:48:49,000 --> 01:48:58,000
+Und das Prinzip ist eigentlich auch total einfach und es ist eigentlich total spannend, wie lange man immer nachdenkt über Dinge, die danach total einfach erscheinen.
+
+999
+01:48:58,000 --> 01:49:08,000
+Ich finde das spannend. Berücksichtigung heißt in erster Linie, ich vermittel als Person, was mir persönlich wichtig ist.
+
+1000
+01:49:08,000 --> 01:49:14,000
+Ich kann zum Beispiel sagen, ich möchte für Leute da sein, die viel für andere machen.
+
+1001
+01:49:14,000 --> 01:49:34,000
+Oder ich kann das spezifizieren und sagen, ich möchte für Leute da sein, die viel Mittel herstellen oder verfügbar machen für den Gemeinsprozess oder für Leute da sein, die vielleicht im Care-Bereich aktiv sind, wenn man das sagen möchte.
+
+1002
+01:49:34,000 --> 01:49:47,000
+Aber genauso, unabhängig von dieser Leistung, kann ich sagen, ich möchte für Leute da sein, die in bestimmten Lebenssituationen sind, die vielleicht wenig Einkommen haben, die vielleicht bestimmten Benachteiligungen haben, whatever.
+
+1003
+01:49:47,000 --> 01:49:53,000
+Oder ich kann da sein für meine Freunde, Familie, je nachdem, welche Informationen zur Verfügung stehen.
+
+1004
+01:49:53,000 --> 01:50:06,000
+Und das kann ich quasi vermitteln. Und wenn ich das vermittel und ich habe eigentlich, wir haben die Möglichkeit von sehr komplexen Prozessen.
+
+1005
+01:50:06,000 --> 01:50:13,000
+Also diese sehr einfache Systematik von Problem, Tätigkeit, Lösung quasi, aber das verästelt sich.
+
+1006
+01:50:13,000 --> 01:50:22,000
+Das kann in eine sehr komplexe Kooperation gehen. Am Ende weiß ich nicht, wenn ich jetzt irgendwie, altes Beispiel, aber ich mache irgendwie Schrauben.
+
+1007
+01:50:22,000 --> 01:50:31,000
+Ja, es besteht der Bedarf nach Schrauben von einem bestimmten Typ an. I don't know, 5000 Stück. Ich kann nicht nachschauen, für wen die sind.
+
+1008
+01:50:31,000 --> 01:50:44,000
+Ja, das muss ja unglaublich viele Menschen gehen. Aber ich kann sehen, wenn ich jetzt irgendwie den Ausdruck zwischen Schraubentyp A und Schraubentyp B habe, dass wenn ich Schrauben Typ A herstelle,
+
+1009
+01:50:44,000 --> 01:50:53,000
+inwiefern das quasi meinen eigenen Berücksichtigungen entspricht, inwiefern unterstützt das Menschen, die auf die Faktoren quasi zutreffen, die ich berücksichtige.
+
+1010
+01:50:53,000 --> 01:51:08,000
+Das kann mir transparent werden. Vielleicht kann ich das auch noch nachprüfen. Aber in erster Linie sehe ich, welche Tätigkeiten, die mir vorgeschlagen werden, erfüllen quasi den Zweck, wie ich mich in die Gesellschaft einbringen möchte.
+
+1011
+01:51:08,000 --> 01:51:17,000
+Und das ist total wichtig bei dieser Komplexität, mit der wir auch zu tun haben. Mit der wir auch im Kapitalismus zu tun haben, mit der Arbeitsteilung, die ja enorm ist.
+
+1012
+01:51:17,000 --> 01:51:30,000
+Wir versuchen Strukturen aufzubauen, die eben auch eine ähnliche komplexe Kooperation ermöglichen oder eine genauso komplexe Kooperation ermöglichen, wo am Ende eben, genau, wo man sich irgendwie durchkämpfen muss.
+
+1013
+01:51:30,000 --> 01:51:41,000
+Und ich will vermitteln können, was mir wichtig ist, wie ich mich einbringen möchte, welche Personengruppen, welche, oder eben das Leistungsprinzip.
+
+1014
+01:51:42,000 --> 01:51:56,000
+Dass eben Leute unterstützt werden, die viel für andere tun. Und das bekomme ich quasi vermittelt mit den Tätigkeiten selbst als quasi daran klebende Information, wie sehr das auf mich persönlich, meinen Berücksichtigungen, die ich persönlich bestimmt habe, zutrifft.
+
+1015
+01:51:57,000 --> 01:52:09,000
+Und wenn wir sagen, ja, das wäre jetzt die kritische Nachfrage vielleicht, ob dieses Ding von wegen Kommens müssen oder Gemeinschaft muss erst geschaffen werden, es braucht Leute, die tätig sind.
+
+1016
+01:52:09,000 --> 01:52:15,000
+Und wenn es jetzt eine von 100 verschiedenen Kategorien ist, geht es halt nicht irgendwie komplett darin unter.
+
+1017
+01:52:15,000 --> 01:52:22,000
+Und da muss man sagen, kann sein. Und es geht um die Voreinstellungen von so einer App.
+
+1018
+01:52:22,000 --> 01:52:34,000
+Wer baut diese App? Legt die Person das zum Beispiel nahe? Also wo ich das auch immer einstelle. Was mir wichtig ist, legt sie es nahe? Vielleicht legt sie es als Voreinstellung nahe?
+
+1019
+01:52:34,000 --> 01:52:47,000
+Legt sie es überhaupt nicht nahe, weil die Entwickler sagen, so debianmäßig Freiheit. Und dann kommt irgendwie, Entschuldigung, vielleicht keine guten Beispiele.
+
+1020
+01:52:47,000 --> 01:52:57,000
+Aber so engere Distributionen wie Opunto, die sagen, wir geben eine klare Richtung vor. Das sind Möglichkeiten.
+
+1021
+01:52:57,000 --> 01:53:11,000
+Und Leute, die diese Werkzeuge benutzen und eben als Anwendungen irgendwie herausbringen, können es nahelegen, können es nicht nahelegen.
+
+1022
+01:53:11,000 --> 01:53:17,000
+Leute, die es anwenden, können das mit einbeziehen, können es nicht einbeziehen. Aber das Wichtige ist, ist es den Leuten selbst.
+
+1023
+01:53:17,000 --> 01:53:26,000
+Wir sind eine Peerökonomie. Wir sind auf Augenhöhe. Wir wollen Strukturen, wo niemand von oben irgendwelche Entscheidungen trifft.
+
+1024
+01:53:26,000 --> 01:53:34,000
+Und wenn ich sage, ich schreibe jetzt diese Konstruktion und das wird in den Vordergrund gerückt, das ist massiv der Eingriff.
+
+1025
+01:53:34,000 --> 01:53:46,000
+Und das hat, ich glaube, zwei. Also einerseits fühlt es sich nicht gut an. Aber auch zur Verbreitung ist es, man kann sagen, vielleicht funktioniert der Ansatz mit der Transformation nicht usw.
+
+1026
+01:53:46,000 --> 01:53:51,000
+Aber es funktioniert noch viel weniger, wenn das vorgegeben wird, weil es viel mehr abgelehnt wird.
+
+1027
+01:53:52,000 --> 01:54:01,000
+Weil ich glaube nicht, dass das viele Leute das wollen, dass ihnen so ihre Meinung von irgendwo vorgegeben wird, was sie jetzt irgendwelche Wichtige achten und was nicht.
+
+1028
+01:54:01,000 --> 01:54:09,000
+Ich glaube, es verbreitet sich einfach. Vielleicht dieser Transfirmationsgedanke dahinter ist dann nicht so stark. Vielleicht funktioniert das nicht.
+
+1029
+01:54:09,000 --> 01:54:20,000
+Aber die Software oder die Anwendung kann einfach ein größeres Publikum erreichen, weil wir nicht irgendwie Entscheidungen treffen, die von Leuten einfach abgelehnt werden können.
+
+1030
+01:54:20,000 --> 01:54:30,000
+Und sie deswegen da einfach das prinzipiell ausschließen, diese Vermittlungsform. Genau. Und Berücksichtigung kann alles eben, diese Berücksichtigungsmethode.
+
+1031
+01:54:30,000 --> 01:54:42,000
+Es geht dann superhart um Verifizierung von Lebensumständen, von Leistungen. Wie verifiziere ich irgendwie? Ich kann das machen über Tätigkeitsmuster.
+
+1032
+01:54:43,000 --> 01:54:50,000
+Tätigkeitsmuster ist ja Aufwand, kann ja irgendwie als Zeit oder als Energie oder whatever als Information gespeichert sein.
+
+1033
+01:54:50,000 --> 01:54:55,000
+Das kann ich quasi geltend machen wie Zeit, die sich von Tätigkeitsmustern, ja, ich möchte mich danach richten.
+
+1034
+01:54:55,000 --> 01:55:08,000
+Ich kann mich auch danach richten, wenn jetzt jemand in irgendeiner Organisation drin ist. Irgendeiner, I don't know, keine Ahnung, Geflüchtetenhilfe oder sowas.
+
+1035
+01:55:08,000 --> 01:55:14,000
+Und ich kann das verifizieren, dass ich da tätig bin. Oder dann kann ich für Leute da sein, die in der Geflüchtetenhilfe tätig sind.
+
+1036
+01:55:14,000 --> 01:55:22,000
+Und darauf auf solche Leute abziehen. Auch das ist Leistung, die halt nicht über die Softwarestrukturen vermittelt wird, diese Tätigkeitsmuster.
+
+1037
+01:55:22,000 --> 01:55:31,000
+Aber ich kann es berücksichtigen, wenn es in einer Form verifiziert ist, die ich akzeptiere und an der ich vertraue.
+
+1038
+01:55:31,000 --> 01:55:39,000
+Und genau, also das war, ich habe es vorher schon angerissen, das ist nochmal ein Ereignis, Komplexitätsthema, diese Praxisgeschichte.
+
+1039
+01:55:39,000 --> 01:55:45,000
+Das ist endlos. Aber die Möglichkeiten davon sind auch endlos.
+
+1040
+01:55:45,000 --> 01:55:55,000
+Und ich kann dann wirklich, also diesen Ideal in Gesellschaft zu gehen und das zu tun, was ich jetzt richtig empfinde und was mir wichtig ist.
+
+1041
+01:55:55,000 --> 01:56:03,000
+Und diesen Ideal kann ich damit sehr nahe kommen, auch innerhalb sehr komplexer Strukturen einfach.
+
+1042
+01:56:03,000 --> 01:56:17,000
+Wenn die technischen Strukturen aufgebaut sind und die Verifizierungsmodelle und Arten und das, ich bin gleich fertig.
+
+1043
+01:56:17,000 --> 01:56:27,000
+Aber wenn es auch den einzelnen Personen wird, da auch eine Komplexität zugemutet an Einstellungen erstmal.
+
+1044
+01:56:27,000 --> 01:56:31,000
+Die noch schlimmer ist, als es jetzt gerade klingt.
+
+1045
+01:56:31,000 --> 01:56:37,000
+Ich kann Leute berücksichtigen, die viel für andere da sind und Leute, die in der Geflüchtetenhilfe aktiv sind.
+
+1046
+01:56:37,000 --> 01:56:40,000
+Aber wie sehr ist es mir wichtig? Was ist die Gewichtung davon?
+
+1047
+01:56:41,000 --> 01:56:49,000
+Was heißt irgendwie, dass in 20 Stunden im Kinderhort arbeiten gegen irgendwie 20 Sterne auf gutefrage.de?
+
+1048
+01:56:49,000 --> 01:56:53,000
+Wo ist da das Verhältnis zwischen denen?
+
+1049
+01:56:53,000 --> 01:56:59,000
+Das muss ich kalibrieren können oder es braucht halt Voreinstellungen, das ist einfach super notwendig.
+
+1050
+01:56:59,000 --> 01:57:06,000
+Voreinstellungen, die ich quasi auswählen kann, die diese Kalibrierungen für mich vornehmen oder solche Gewichtungen.
+
+1051
+01:57:06,000 --> 01:57:16,000
+Da sind wir in einer Datenkomplexität, die erschlagend ist.
+
+1052
+01:57:16,000 --> 01:57:25,000
+Aber wir nähern uns, damit glaube ich auch diesen Ziel leben, das zu tun, was ich für richtig halte.
+
+1053
+01:57:25,000 --> 01:57:32,000
+Und nicht nur irgendwie Sea-Watch, wo ich sage, ich möchte das so etwas wichtiges, nicht Gewale retten,
+
+1054
+01:57:32,000 --> 01:57:37,000
+sondern auch, ich kann Schrauben anfertigen und das erreicht dann den Zweck am Ende.
+
+1055
+01:57:37,000 --> 01:57:40,000
+So eine kleine Tätigkeit, wo man nicht den Zusammenhang sieht.
+
+1056
+01:57:40,000 --> 01:57:44,000
+Aber er wird mir dadurch transparent, das Berücksichtigungsprinzip.
+
+1057
+01:57:44,000 --> 01:57:47,000
+Er kann mir dadurch transparent werden, wenn das funktioniert.
+
+1058
+01:57:47,000 --> 01:57:57,000
+Warum das, was ich tue, dadurch irgendwie die Gesellschaft in die Richtung bewegt wird, die ich als richtig erachte.
+
+1059
+01:57:57,000 --> 01:58:04,000
+Und das ist eigentlich, das ist schöner, das fühlt sich total gut an, finde ich.
+
+1060
+01:58:04,000 --> 01:58:14,000
+Im Gegensatz zu diesen Bedürfnispriorisierungen, mechanischen auferlegt und Leistungen über Tätigkeitsmuster und so weiter, das war Käse.
+
+1061
+01:58:14,000 --> 01:58:20,000
+Und ich bin meinem Team, also damals, also nicht meinem Team, das Global-Communic-System-Team, in dem ich einfach aktiv bin,
+
+1062
+01:58:21,000 --> 01:58:27,000
+super dankbar auch, dass sie es einfach so auch abgelehnt haben und dass diese Frage wieder neu aufgeworfen wurde.
+
+1063
+01:58:27,000 --> 01:58:35,000
+Mein erster Impuls war jetzt auch, dass ich das eigentlich total super finde, dass man eben die Entscheidung über die Frage,
+
+1064
+01:58:35,000 --> 01:58:43,000
+was für einen relevant ist, zu berücksichtigen, dass das sozusagen mir selbst überlassen wird.
+
+1065
+01:58:43,000 --> 01:58:49,000
+Das finde ich eigentlich eine ganz großartige Herangehensweise in Bezug auf diese Problemlage.
+
+1066
+01:58:49,000 --> 01:58:57,000
+Gleichzeitig kommt absolut mit dem, was du jetzt zuletzt gesagt hast, dann auf jeden Fall wieder ein riesengroßer Bulk an Fragen auf,
+
+1067
+01:58:57,000 --> 01:59:04,000
+weil ja dann auch damit zusammenhängt, eine grundsätzliche Frage, die ich einfach noch stellen muss,
+
+1068
+01:59:04,000 --> 01:59:11,000
+noch mal exponentiell explodiert und erweitert wird, nämlich die Frage der Zuverlässigkeit.
+
+1069
+01:59:11,000 --> 01:59:15,000
+Also grundsätzlich ist es ja schon so, dass eigentlich man sich fragt,
+
+1070
+01:59:15,000 --> 01:59:23,000
+okay, wenn das jetzt alles auf offener Verfügung basiert und auf Freiwilligkeit, wie kann eine Zuverlässigkeit generiert werden?
+
+1071
+01:59:23,000 --> 01:59:31,000
+Wie kann ein Punkt erreicht werden, wo ich eben mich darauf verlassen kann, dass die Dinge dann da sind, wenn sie da sein müssen,
+
+1072
+01:59:31,000 --> 01:59:38,000
+gerade wenn über die Selbstzuordnung das ja mitunter auch zeitlich auseinandergezogen ist.
+
+1073
+01:59:38,000 --> 01:59:44,000
+Und dann einfach, wenn man jetzt sich fragt, okay, da muss eine Operation irgendwie gemacht werden,
+
+1074
+01:59:44,000 --> 01:59:53,000
+dafür braucht es zu einem bestimmten Zeitpunkt nämlich der Operation alles, was dafür nötig ist und das muss dann da sein.
+
+1075
+01:59:53,000 --> 02:00:00,000
+Da kann nicht irgendwie darauf gewartet werden, bis irgendjemand sich müßig fühlt, das Kapell herzustellen, sondern das braucht es dann schon.
+
+1076
+02:00:00,000 --> 02:00:08,000
+Also diese Frage des zeitlichen Auseinanderfallens und der damit verbundenen Zuverlässigkeitsfrage
+
+1077
+02:00:08,000 --> 02:00:16,000
+ist auf jeden Fall eher so intuitiv sofort was, was sich stellt, einfach schon banal, wenn man von radikaler Freiwilligkeit ausgeht.
+
+1078
+02:00:16,000 --> 02:00:22,000
+Und das wird jetzt dann eben nochmal, kriegt nochmal einen anderen Trial durch das, was du jetzt gerade eben gesagt hattest,
+
+1079
+02:00:22,000 --> 02:00:28,000
+nämlich diese Frage der Pluralität, der Modi der Berücksichtigung, wenn man so will.
+
+1080
+02:00:28,000 --> 02:00:37,000
+Also ich habe jetzt sozusagen ein Bedürfnis und jetzt gibt es aber 100.000 verschiedene Modi der Berücksichtigung
+
+1081
+02:00:37,000 --> 02:00:44,000
+und vielleicht falle ich in keine dieser, die jetzt aber gerade mein Bedürfnis, also das selektiert ja auf eine Art auch nochmal ganz stark vor,
+
+1082
+02:00:44,000 --> 02:00:53,000
+die Wahrscheinlichkeit, die Höhe der Wahrscheinlichkeit mit der mein, nicht nur mein Bedürfnis befriedigt wird,
+
+1083
+02:00:53,000 --> 02:00:58,000
+weil das quasi jemanden findet, der dieses Bedürfnis befriedigen will, sondern das muss dann noch jemand sein,
+
+1084
+02:00:58,000 --> 02:01:06,000
+der in der Berücksichtigung die selben Modalitäten angegeben hat, die auf mich dann zutreffen.
+
+1085
+02:01:06,000 --> 02:01:15,000
+Das heißt, beides muss zueinander fallen und das erhöht dann nochmal stärker die Instabilität im Bezug auf Zuverlässigkeit,
+
+1086
+02:01:15,000 --> 02:01:20,000
+weil dann einfach diese beiden Kategorien ja zutreffen müssen.
+
+1087
+02:01:20,000 --> 02:01:27,000
+Insofern quasi riesengroßes Fragezeichen, wie zuverlässig ist das Ganze für mich individuell?
+
+1088
+02:01:27,000 --> 02:01:37,000
+Ich finde es total spannend, auch das beim Nachdenken in den letzten dreieinhalb Jahren, sage ich jetzt mal, über diese Struktur und bla bla bla.
+
+1089
+02:01:37,000 --> 02:01:43,000
+Wir haben ja, also das ist insane, das war im Ausdienungsdrang, habe ich mir das auch quasi überlegt von wegen,
+
+1090
+02:01:43,000 --> 02:01:49,000
+wir haben dann dieses Bedürfnis und dann entstehen diese Prozesse, wo Mittel hergestellt werden, das kann sich wieder teilen,
+
+1091
+02:01:49,000 --> 02:01:59,000
+wenn irgendwie drei Dinge fehlen, dann teilt sich das wieder auf und das ist eine wahnsinnige Zeit, quasi eine wahnsinnige Zeitspanne,
+
+1092
+02:01:59,000 --> 02:02:04,000
+die sich quasi auftut, bis eben dieses Bedürfnis befriedigt wird und das stimmt.
+
+1093
+02:02:04,000 --> 02:02:16,000
+Und das stimmt, je nachdem einfach was wie die Bedingungen sind für Prozesse des Commandings, was lokal verfügbar ist,
+
+1094
+02:02:16,000 --> 02:02:30,000
+es mildert sich, je mehr die Gesellschaft auf Gemeinsamen beruht, je mehr Gemeinsames es gibt, auf das zugegriffen kann,
+
+1095
+02:02:30,000 --> 02:02:34,000
+desto mehr mildert es sich, weil viele Dinge schon vorhanden sind.
+
+1096
+02:02:34,000 --> 02:02:40,000
+Gerade eben ist es ja auch immer so zu denken von wegen, wir müssen jetzt irgendwas neu produzieren oder neu kaufen und so weiter,
+
+1097
+02:02:40,000 --> 02:02:45,000
+weil, I don't know, weil ich das nicht habe.
+
+1098
+02:02:45,000 --> 02:02:54,000
+In einer Gemeinsamen beruhten Gesellschaft geht es ja nicht darum, was ich habe, sondern was ist für den Gemeinsamen Gebrauch verfügbar,
+
+1099
+02:02:54,000 --> 02:03:03,000
+was ist denn schon da, wir müssen nicht alles neu herstellen, wir haben ein riesiges, je nachdem was man gerade ist,
+
+1100
+02:03:03,000 --> 02:03:12,000
+aber wir haben einen Pool an Dingen, die kann ich quasi für bestimmte Zwecke verwenden und ich kann auf das Gemeinsame auch zugreifen,
+
+1101
+02:03:12,000 --> 02:03:18,000
+wenn niemand für mich tätig ist, das heißt, ich vermittel ein Bedürfnis nach irgendwas,
+
+1102
+02:03:18,000 --> 02:03:25,000
+niemand nimmt sich quasi diese Tätigkeit an, die in diese Richtung meines Bedürfnisses geht,
+
+1103
+02:03:25,000 --> 02:03:32,000
+aber vielleicht gibt es ja trotzdem das Ding, das für mich gemacht werden sollte, vielleicht gibt es das an anderer Stelle
+
+1104
+02:03:32,000 --> 02:03:38,000
+und ich kann da in eine Diskussion reingehen und sagen, ich brauche das auch,
+
+1105
+02:03:38,000 --> 02:03:45,000
+erstmal von diesen Bedürfnisstrukturen finde ich das erstmal anders zu denken,
+
+1106
+02:03:45,000 --> 02:03:51,000
+wenn man im Gemeinsamen drin ist, weil es nicht immer nur um Produktion für einen geht, dann hat man etwas
+
+1107
+02:03:51,000 --> 02:04:03,000
+und dann ist es quasi, keine Ahnung da, bis ich es wegwerfe, wir haben einen anderen Boden, in dem wir uns bewegen,
+
+1108
+02:04:03,000 --> 02:04:14,000
+so was wie das Krankenhaus, da geht es ja wieder darum, um den Aspekt, wo hört die Sinnhaftigkeit von so einer Vermittlung auf,
+
+1109
+02:04:14,000 --> 02:04:19,000
+wo fängt es an, wo hört sie auf und wenn jetzt ein Krankenhaus irgendwie wartet bis irgendwie,
+
+1110
+02:04:19,000 --> 02:04:26,000
+ich meine, klar, es ist ein spezielles Beispiel, bis jetzt irgendjemand mit einem abgebrochenen Bein,
+
+1111
+02:04:26,000 --> 02:04:32,000
+mit einem gebrochenen Bein reinkommt und dann sagt, okay, wir vermitteln jetzt, dass wir ein Bett brauchen,
+
+1112
+02:04:32,000 --> 02:04:42,000
+dann ist es ja einfach echt spät dafür, also die werden Vorbereitungen treffen und entweder das quasi vermitteln,
+
+1113
+02:04:42,000 --> 02:04:52,000
+quasi nicht als Bedürfnisse, sondern quasi, ich würde sagen, Bedingungen, also vermitteln, dass das Bedingungen
+
+1114
+02:04:52,000 --> 02:04:56,000
+zur Bedürfnisbefriedigung verbessert werden müssen im Sinne von, wir brauchen mehr Krankenhausbetten,
+
+1115
+02:04:56,000 --> 02:05:02,000
+da hängt jetzt nicht direkt ein Bedürfnis dran, es gibt dieses Bedürfnis noch nicht danach, aber wir wissen,
+
+1116
+02:05:02,000 --> 02:05:08,000
+dass die Bedingungen verbessert werden müssen, wenn so was quasi vorkommt, weil solche Fälle vorkommen,
+
+1117
+02:05:08,000 --> 02:05:14,000
+wir müssen Vorkehrungen treffen, das ist natürlich auch eine Notwendigkeit, die bezieht sich auf Bedürfnisse,
+
+1118
+02:05:15,000 --> 02:05:24,000
+aber natürlich mit einem Gedanken daran, der Vorausplanung. Na, eins wollte ich noch sagen.
+
+1119
+02:05:28,000 --> 02:05:36,000
+Ah ja, Zuverlässigkeit finde ich auch einen total spannenden Punkt, zum Beispiel Leute ordnen sich Tätigkeiten zu,
+
+1120
+02:05:36,000 --> 02:05:42,000
+ich meine, das ist ja auch erstmal ein vereinfachtes Szenario, dass ich sage, irgendwie die Tätigkeit vorgeschlagen,
+
+1121
+02:05:42,000 --> 02:05:48,000
+wir ordnen sich zu, die nächste Tätigkeit wird vorgeschlagen, dann ordnet sich da jemand zu und dann kooperieren die miteinander,
+
+1122
+02:05:48,000 --> 02:05:53,000
+da ist natürlich auch noch ein Prozess, wo dann noch mal irgendwie, wo ich sagen kann, ich kann mich eine Tätigkeit zuordnen,
+
+1123
+02:05:53,000 --> 02:05:59,000
+dann passt mir zeitlich doch nicht, weil sich das irgendwie verschoben hat und dann gehe ich da wieder raus und der Prozess von wegen,
+
+1124
+02:05:59,000 --> 02:06:07,000
+ich committe mich der Tätigkeit, ich denke nicht nur an, die Tätigkeit auszuführen, sondern ich sag das fix zu,
+
+1125
+02:06:07,000 --> 02:06:15,000
+vielleicht in einem bestimmten Zeitraum der Ausführung. Und dann haben wir wieder, jetzt kann ich sagen, okay,
+
+1126
+02:06:15,000 --> 02:06:21,000
+aber was ist denn, wenn diese Strukturen entstehen und sich jemand committet hat, irgendwie, keine Ahnung,
+
+1127
+02:06:21,000 --> 02:06:28,000
+zwei Wochen lang diese und jene Tätigkeit auszuführen am Stück, es ist ja auch vereinfacht,
+
+1128
+02:06:28,000 --> 02:06:34,000
+dieses einzelne Tätigkeiten, die von Bedürfnissen weggehen, werden dann ausgeführt, das läuft zusammen,
+
+1129
+02:06:34,000 --> 02:06:41,000
+quasi eine kontinuierliche Tätigkeit, wie dem Schrauben herstellen, das wird ja nicht aufgerufen für einen Fahrrad im Ende,
+
+1130
+02:06:41,000 --> 02:06:49,000
+sondern für, I don't know, 500 und da ist eine kontinuierliche Tätigkeit und da ist dann die Möglichkeit,
+
+1131
+02:06:49,000 --> 02:06:56,000
+wenn quasi diese Menge an sich von diesem Bedarf, der wieder gebraucht wird, erhöht wird,
+
+1132
+02:06:56,000 --> 02:07:03,000
+diesen Leuten vorzuschlagen, die eh schon diese Tätigkeit geradeaus führen, die eh schon per Trans sind.
+
+1133
+02:07:03,000 --> 02:07:11,000
+Da entstehen festere Strukturen, die dann vielleicht auch gar nicht mehr softwarevermittelt irgendwie laufen müssen,
+
+1134
+02:07:11,000 --> 02:07:19,000
+ich sag jetzt mal anders. Aber die Möglichkeit ist ja auch, Sanktionierungen zu berücksichtigen.
+
+1135
+02:07:20,000 --> 02:07:27,000
+Ja, und dann kommen wir in ein anderes Gebiet, dass wir sagen, jemand, der sich immer Tätigkeiten committet und sie dann nicht ausführt,
+
+1136
+02:07:27,000 --> 02:07:33,000
+also quasi einen Regelbruch damit begeht, ich berücksichtige auch das in meiner Auswahl.
+
+1137
+02:07:33,000 --> 02:07:38,000
+Ich kann sehen, dass irgendwie eine Tätigkeit, die ausgeführt werden muss, einer Person zugutekommt
+
+1138
+02:07:38,000 --> 02:07:44,000
+oder in die Richtung der Bedürfnis einer Person geht, wo ich sage, eigentlich möchte ich das nicht, weil sie unzuverlässig ist,
+
+1139
+02:07:44,000 --> 02:07:51,000
+auch das kann ich berücksichtigen. Das ist so ein bisschen die, das klingt, glaube ich, ich glaube, wenn alles was,
+
+1140
+02:07:51,000 --> 02:07:58,000
+also ich finde, im Kommensbereich oft habe ich das Gefühl, dass alles, was damit zu Sanktionen zu tun hat,
+
+1141
+02:07:58,000 --> 02:08:07,000
+immer so ein bisschen, dass man da so ein bisschen ein schlechtes Gefühl hat, sage ich jetzt einfach mal.
+
+1142
+02:08:07,000 --> 02:08:16,000
+Ja, für Ostraum waren Sanktionen super wichtig. Also das ist in seinem Prinzip, dass es abgestufte Sanktionen geben muss, damit es funktioniert.
+
+1143
+02:08:16,000 --> 02:08:27,000
+Ich finde das auch relevant, über Sanktionen zu reden. Und da sind wir in einem Bereich, okay, wo ist dann quasi der selbstbestimmte Teil?
+
+1144
+02:08:27,000 --> 02:08:33,000
+Niemand will irgendwie so eine Information an sich kleben haben, dass man irgendwie Regen verletzt hat.
+
+1145
+02:08:33,000 --> 02:08:42,000
+Man braucht zum Prozess, wo man sich quasi erst mal quasi committet, dass wenn man Regeln bricht, die quasi irgendwie registriert werden
+
+1146
+02:08:42,000 --> 02:08:50,000
+und das irgendwie auch auslesbar sein kann für andere, das ist echt ein spannendes Thema, in das man rein muss.
+
+1147
+02:08:50,000 --> 02:08:59,000
+Und dann kann ich quasi sagen, Zuverlässigkeit wird gefördert dadurch, dass ich weiß, dass ich auch sanktioniert werden kann,
+
+1148
+02:08:59,000 --> 02:09:05,000
+wenn ich quasi mich committe und dann einfach nicht antrete. Auch das ist wieder selbstbestimmt.
+
+1149
+02:09:05,000 --> 02:09:13,000
+Wenn jemand sagt, mir ist es egal, wenn Leute irgendwie Regeln brechen, wenn sie sich was ausleihen, zum Beispiel Eigentum,
+
+1150
+02:09:13,000 --> 02:09:20,000
+wo sie dann irgendwie mitbenutzen können für andere Prozesse und es nicht mehr zurückbringen oder kaputt zurückbringen.
+
+1151
+02:09:20,000 --> 02:09:26,000
+Mir ist es egal, wenn Leute das machen. Ich berücksichtige das nicht. Das ist nicht relevant für mich.
+
+1152
+02:09:26,000 --> 02:09:29,000
+Dann ist es nicht relevant für die. Dann wird das auch nicht angezeigt.
+
+1153
+02:09:29,000 --> 02:09:41,000
+Aber wir brauchen auch Möglichkeiten, wie Sanktionen, Regelbrüche usw. wirken können innerhalb dieser selbstbestimmten Strukturen.
+
+1154
+02:09:41,000 --> 02:09:50,000
+Dass auch Vertrauen da entstehen kann, wenn jemand sich eine Teiligkeit committet, zuordnet, zusagt, dass die Person das auch machen wird,
+
+1155
+02:09:50,000 --> 02:09:59,000
+auch machen wird, wenn sie jetzt nicht irgendwie einen guten Grund hat, sag ich jetzt mal, und er irgendwie akzeptiert ist. Genau.
+
+1156
+02:09:59,000 --> 02:10:03,000
+Ich hatte ja meine letzte Frage, hatte ja darauf abgezielt.
+
+1157
+02:10:03,000 --> 02:10:10,000
+Okay, aber dann kommt man in eine Situation, in der zum einen sich jemand finden muss, der mal ein Bedürfnis befriedigt,
+
+1158
+02:10:10,000 --> 02:10:19,000
+also dass da sozusagen eine Deckungsgleichheit irgendwie erlangt wird und dass dann zusätzlich aber noch eine Deckungsgleichheit erlangt werden muss
+
+1159
+02:10:19,000 --> 02:10:28,000
+in Bezug auf die Frage, ob ich jetzt eben dieser Form von Berücksichtigung auch entspreche und dass diese beiden Dinge zusammengenommen
+
+1160
+02:10:28,000 --> 02:10:36,000
+es eben noch mal unwahrscheinlich erscheinen lassen, dass das am Ende eine wirkliche Deckungsgleichheit zwischen meine Bedürfnis auf der einen Seite
+
+1161
+02:10:36,000 --> 02:10:41,000
+und einer Bedürfnisbefriedigung auf der anderen Seite erreicht wird.
+
+1162
+02:10:41,000 --> 02:10:48,000
+Daraufhin hattest du jetzt richtigerweise und nachvollziehbarerweise darauf hingewiesen, dass sich das sehr mildert,
+
+1163
+02:10:48,000 --> 02:10:59,000
+wenn denn dann der Boden, auf dem wir hier operieren, eben mehr dem Commoning an sich, mehr auf das gemeinsame hinausgerichtet ist.
+
+1164
+02:10:59,000 --> 02:11:08,000
+Und das stimmt natürlich, aber ein großes Fragezeichen ist ja verbunden mit der Transformationsfrage, in der das eben noch nicht der Fall ist.
+
+1165
+02:11:08,000 --> 02:11:14,000
+Und so wie ich es verstanden hatte, war eben dein damaliger Zugang in Bezug auf die Priorisierung
+
+1166
+02:11:14,000 --> 02:11:22,000
+explizit ja auch auf diese Problemstellung der Transformation hinausgerichtet, dass es darauf eine Antwort geben müsse,
+
+1167
+02:11:22,000 --> 02:11:31,000
+wie in einem Kontext, der eigentlich hostile ist, der eigentlich sozusagen dem Commoning an sich gegenüber nicht günstig ist,
+
+1168
+02:11:31,000 --> 02:11:38,000
+eben ein kapitalistisches Wirtschaften, wie innerhalb eines solchen Kontextes trotzdem eine Struktur gedacht werden kann,
+
+1169
+02:11:38,000 --> 02:11:49,000
+die einen Ausdehnungsdrang und auch eine inhärente, eine Art kommunistischen Schneeballeffekt, wenn man so will, irgendwie erzeugen kann.
+
+1170
+02:11:49,000 --> 02:11:58,000
+Das war sozusagen, so habe ich das gelesen, das worauf du mit diesem Zugang der Priorisierung ja auch abgezielt hast.
+
+1171
+02:11:58,000 --> 02:12:04,000
+Und das bleibt dann sozusagen noch unbeantwortet, wenn man nur jetzt darauf verweist, zu sagen,
+
+1172
+02:12:04,000 --> 02:12:09,000
+okay, diese Problemlage wird sich dann mildern in der Zukunft, wenn der Boden ein anderer ist.
+
+1173
+02:12:09,000 --> 02:12:14,000
+Das stimmt. Ich finde, ich habe die Frage eher vergessen, die Antwort darauf als Sie.
+
+1174
+02:12:14,000 --> 02:12:17,000
+Genau. Aber das ist eine gute Frage, das ist eine wichtige Frage.
+
+1175
+02:12:17,000 --> 02:12:29,000
+Überhaupt ist es erstmal ein mega, mega wichtiges Ding anzumerken, dass ein vermitteltes Bedürfnis nicht unbedingt seine Befriedigung nach sich zieht.
+
+1176
+02:12:29,000 --> 02:12:39,000
+Also die Abhängigkeit in so einer, im Bezug auf Gemeinsamkeit, im Bezug auf Freiwilligkeit auch, ist ja eine Norm.
+
+1177
+02:12:39,000 --> 02:12:49,000
+Ich kann ja Bedürfsvermitteln und es gibt keinen Grund für irgendjemanden, erstmal natürlich auch so diese Brüchsegungen und blablabla, dem nachzugehen.
+
+1178
+02:12:49,000 --> 02:12:52,000
+Das heißt, ich weiß nicht, ob sich da jemand einbringt.
+
+1179
+02:12:53,000 --> 02:13:04,000
+Ich weiß nicht, ob es jemanden gibt, der das macht und es gibt keine Möglichkeit des Zwangs irgendwie zu sagen, man muss das jetzt machen,
+
+1180
+02:13:04,000 --> 02:13:14,000
+weil alle Menschen haben ein Recht, ihre Bedürfnisse zu befriedigen, dass man sowas auf eine gesellschaftliche Dinge auferlegt, vielleicht so ein bisschen ein sozialistischer Gedanke.
+
+1181
+02:13:15,000 --> 02:13:22,000
+Alle Menschen haben dieses Recht und deswegen müssen wir das erreichen, dass jeder Mensch die Bedürfnisse, die er vermittelt, auch befriedigt bekommt.
+
+1182
+02:13:22,000 --> 02:13:23,000
+Das gibt es nicht.
+
+1183
+02:13:23,000 --> 02:13:36,000
+Erstmal stehe ich da mit meinem vermittelten Bedürfnis und ob da sich Leute finden oder nicht, das ist jetzt nicht zufällig.
+
+1184
+02:13:36,000 --> 02:13:42,000
+Es kommt auf die Bedingungen drauf an und so weiter, aber es kann auch einfach sein, dass sich dem niemand annimmt.
+
+1185
+02:13:42,000 --> 02:13:47,000
+Oder sehr spät, wenn es mich eigentlich gar nicht mehr interessiert.
+
+1186
+02:13:47,000 --> 02:13:51,000
+Und das gibt es, dass ich den Bedürfnissen vermittel zum Beispiel.
+
+1187
+02:13:51,000 --> 02:13:59,000
+Ich habe erstmal, muss es Leute geben, die diese Tätigkeiten ausführen können mit den Fähigkeiten, Qualifikationen, Interessen und so weiter, die zu deiner Bedürfnisbefriedigung führen.
+
+1188
+02:13:59,000 --> 02:14:02,000
+Das ist natürlich der eine Faktor, die Leute muss es mir geben.
+
+1189
+02:14:04,000 --> 02:14:09,000
+Und die dich berücksichtigen, aber eher als Variable.
+
+1190
+02:14:09,000 --> 02:14:11,000
+Nicht irgendetwas ausständiges.
+
+1191
+02:14:11,000 --> 02:14:16,000
+Das heißt, Tätigkeiten werden nach persönlicher Relevanz markiert.
+
+1192
+02:14:16,000 --> 02:14:25,000
+Es wird vielleicht diese Tätigkeit, die zu deiner Bedürfnisbefriedigung abzielt, wird genauso vermittelt, sage ich jetzt mal.
+
+1193
+02:14:25,000 --> 02:14:37,000
+Aber es wird halt quasi dastehen, diese Tätigkeit ist nicht persönlich relevant für dich im Sinne deiner Berücksichtigungen, die du gemacht hast.
+
+1194
+02:14:37,000 --> 02:14:40,000
+Und dann kann ich trotzdem sagen, ich mache es.
+
+1195
+02:14:40,000 --> 02:14:43,000
+Oder ich sage, ich mache es nicht.
+
+1196
+02:14:43,000 --> 02:14:46,000
+Also ich kann sagen, ich mache es einfach nur, weil ich zum Beispiel Lust auf die Tätigkeit habe.
+
+1197
+02:14:46,000 --> 02:14:55,000
+Weil es ja trotzdem eine Tätigkeit ist, weil es trotzdem, wenn man jetzt einfach nur aus diesen Egoismusgedanken kommt, den ich okay finde.
+
+1198
+02:14:55,000 --> 02:14:58,000
+Ich mache es, weil es ja trotzdem irgendwie Aufwand ist.
+
+1199
+02:14:58,000 --> 02:15:01,000
+Das heißt, mehr Leute werden berücksichtigt und so weiter.
+
+1200
+02:15:01,000 --> 02:15:04,000
+Ich glaube nicht, dass es der einzige Grund ist, warum Leute Tätigkeiten ausführen.
+
+1201
+02:15:04,000 --> 02:15:05,000
+Also wirklich nicht.
+
+1202
+02:15:05,000 --> 02:15:07,000
+Aber auch das ist ein Aspekt davon.
+
+1203
+02:15:07,000 --> 02:15:08,000
+Und dann mache ich das.
+
+1204
+02:15:08,000 --> 02:15:11,000
+Auch weil das einfach Leistung durch mich ist.
+
+1205
+02:15:13,000 --> 02:15:14,000
+Genau.
+
+1206
+02:15:16,000 --> 02:15:20,000
+Irrelevant, ob jetzt das auf meine Berücksichtigungskategorien zielt oder nicht.
+
+1207
+02:15:20,000 --> 02:15:25,000
+Also das heißt, man hat einfach zwei Ebenen da, die die auch so machen.
+
+1208
+02:15:26,000 --> 02:15:29,000
+Es braucht nicht nur diese Schnittmenge davon.
+
+1209
+02:15:29,000 --> 02:15:36,000
+Zwischen hier geringstmöglicher Aufwand der Tätigkeit oder das Tätigkeitskomplex des Szenarios.
+
+1210
+02:15:36,000 --> 02:15:41,000
+Und irgendwie Berücksichtigung ist dann einfach, Berücksichtigung ist noch mal ein Layer.
+
+1211
+02:15:41,000 --> 02:15:46,000
+Noch mal eine Information für die Person, der die Tätigkeit vorgeschlagen wird.
+
+1212
+02:15:46,000 --> 02:15:49,000
+Inwiefern das quasi auf deren Dinge zutrifft.
+
+1213
+02:15:49,000 --> 02:15:52,000
+Aber es gibt ganz andere Gründe, warum sie die Tätigkeit trotzdem annehmen kann.
+
+1214
+02:15:52,000 --> 02:15:54,000
+Prinzipiell.
+
+1215
+02:15:55,000 --> 02:15:57,000
+Ja, das verstehe ich.
+
+1216
+02:15:57,000 --> 02:15:59,000
+Also das ist jetzt ein positives Beispiel.
+
+1217
+02:15:59,000 --> 02:16:03,000
+Du hast jetzt quasi das Szenario gewählt, an dem am Ende sich jemand,
+
+1218
+02:16:03,000 --> 02:16:08,000
+obwohl die Berücksichtigung eigentlich nicht in eigenen Kategorien entspricht,
+
+1219
+02:16:08,000 --> 02:16:12,000
+doch dafür entscheidet, die Tätigkeit auszuführen und das Bedürfnis zu befriedigen.
+
+1220
+02:16:12,000 --> 02:16:16,000
+Das problematische Szenario ist ja, wenn das nicht passiert.
+
+1221
+02:16:16,000 --> 02:16:21,000
+Also da sind wir wieder bei der Frage der Zuverlässigkeit bzw. bei der Frage der Abhängigkeit.
+
+1222
+02:16:21,000 --> 02:16:26,000
+Ja, und das ist was, was ich halt, also ich habe neulich ein Gespräch gehabt
+
+1223
+02:16:26,000 --> 02:16:33,000
+mit Tina Hauptner und Silke van Dijk zu ihrem Buch Community Capitalism, Community Kapitalismus.
+
+1224
+02:16:33,000 --> 02:16:39,000
+Und also die sind da einfach sehr klar da drin, dass sie darauf hinweisen, ja okay,
+
+1225
+02:16:39,000 --> 02:16:46,000
+aber also in dieser radikalen Freiwilligkeit birgt natürlich auch eine Gefahr im Sinne der Abhängigkeit
+
+1226
+02:16:46,000 --> 02:16:50,000
+von so einer Gefälligkeit, ob die Person jetzt mir helfen mag oder nicht.
+
+1227
+02:16:50,000 --> 02:16:53,000
+Man kommt, man rennt auf eine Art so ein bisschen in das Arschlochproblem.
+
+1228
+02:16:53,000 --> 02:16:56,000
+Also wer kümmert sich um das Arschloch sozusagen, ja?
+
+1229
+02:16:56,000 --> 02:17:01,000
+Also wer, wer, also wenn jetzt alles self-selected und freiwillig ist sozusagen,
+
+1230
+02:17:01,000 --> 02:17:08,000
+aber ich will ja auch, dass sozusagen der Typ, der wirklich einfach nur ein riesen Arschloch ist,
+
+1231
+02:17:08,000 --> 02:17:13,000
+immer schon wahr, immer noch ist, das auch voll raushängen lässt und so weiter.
+
+1232
+02:17:13,000 --> 02:17:18,000
+Will ich ja trotzdem, dass sich irgendjemand um den kümmert im Altersheim, ja?
+
+1233
+02:17:18,000 --> 02:17:21,000
+Und sozusagen wer ist self-selected für das Arschloch, ja?
+
+1234
+02:17:21,000 --> 02:17:25,000
+Das wird dann noch spannend. Kann ich mir vorstellen, dass es eh auch passiert, ja?
+
+1235
+02:17:25,000 --> 02:17:31,000
+Also das ist ja auch irgendwie nochmal, will gar nicht sagen, dass das nicht passiert oder sowas,
+
+1236
+02:17:31,000 --> 02:17:39,000
+aber es entstehen andere Abhängigkeiten in diesen Konstellationen der radikalen Freiwilligkeit,
+
+1237
+02:17:39,000 --> 02:17:47,000
+die durch so etwas wie ein anonymisiertes Sozialsystem, wie das eben im klassischen Wohlfahrtsstaat jetzt der Fall ist,
+
+1238
+02:17:47,000 --> 02:17:50,000
+die dort sozusagen anders aufgehoben sind, ja?
+
+1239
+02:17:50,000 --> 02:17:55,000
+Also wo das quasi, wo einfach gerade diese Form der Anonymisierung, ja?
+
+1240
+02:17:55,000 --> 02:18:03,000
+Also diese, diese Kälte quasi des, des, des anonymen Staates, wenn man so will, des Wohlfahrtsystems oder sowas,
+
+1241
+02:18:03,000 --> 02:18:09,000
+dann wiederum ein Plus darstellt insofern, als dass einfach pauschal alle berücksichtigt werden.
+
+1242
+02:18:10,000 --> 02:18:19,000
+Ob die jetzt irgendwie eben in meinen Augen sozusagen ein berechtigter, also berechtigter Bedürfnis haben oder nicht,
+
+1243
+02:18:19,000 --> 02:18:27,000
+oder es spielt keine Rolle, oder ob die eben, was weiß ich, in sozialen Gefügen irgendwie angesehen werden,
+
+1244
+02:18:27,000 --> 02:18:30,000
+als Leute, die etwas geleistet haben oder was auch immer, spielt alles keine Rolle,
+
+1245
+02:18:30,000 --> 02:18:33,000
+sondern es soll sich sozusagen um alle gekümmert werden, ja?
+
+1246
+02:18:33,000 --> 02:18:38,000
+Und das, wir sagen dieses Arschlochproblem quasi, ja?
+
+1247
+02:18:38,000 --> 02:18:43,000
+Das kommt nochmal einfach anders auf in Strukturen der radikalen Freiwilligkeit
+
+1248
+02:18:43,000 --> 02:18:49,000
+und erzeugt halt andere Formen der Abhängigkeit, die auch ihre eigenen Problematiken halt dann mit sich bringen, ne?
+
+1249
+02:18:49,000 --> 02:18:52,000
+Das war so, glaube ich, so ein bisschen die Schiene dann.
+
+1250
+02:18:52,000 --> 02:18:54,000
+Ja, voll.
+
+1251
+02:18:54,000 --> 02:18:58,000
+Genau, nur um das nochmal irgendwie darauf einzugehen.
+
+1252
+02:18:58,000 --> 02:19:02,000
+Genau, du hast an sich wieder die Möglichkeit, zu sagen, ich berücksichtige es,
+
+1253
+02:19:02,000 --> 02:19:07,000
+wenn Leute quasi existenzielle Hilfe brauchen, wie im Altersheim zu sein.
+
+1254
+02:19:07,000 --> 02:19:10,000
+Und das nehme ich als einen Faktor mit rein.
+
+1255
+02:19:10,000 --> 02:19:16,000
+Ist wieder die, wisst ihr, da geht es wieder darum, mache ich es freiwillig oder nicht, das klärt die Frage nicht.
+
+1256
+02:19:16,000 --> 02:19:20,000
+Aber ich kann quasi das von meinem, das kann mir auch wichtig sein.
+
+1257
+02:19:20,000 --> 02:19:22,000
+Ja, als Mensch kann mir das wichtig sein.
+
+1258
+02:19:22,000 --> 02:19:25,000
+Es muss mir am Ende vielleicht als Mensch wichtig sein.
+
+1259
+02:19:25,000 --> 02:19:31,000
+Die Frage ist auch, in, wieder zum Ende der Softwaregeschichte,
+
+1260
+02:19:31,000 --> 02:19:34,000
+die Grenzen von diesen Softwarevermittlungsgeschichten,
+
+1261
+02:19:34,000 --> 02:19:44,000
+wie sehr können Menschen was in so einer, also wenn das Gemeinsame wirklich das Prinzip ist,
+
+1262
+02:19:44,000 --> 02:19:50,000
+wie setzt sich da an anderer Stelle was durch, als wenn wir wirklich da in einer Gesellschaftlichkeit sind,
+
+1263
+02:19:50,000 --> 02:19:55,000
+auf so einer hegemoniale Communing-Gesellschaft.
+
+1264
+02:19:55,000 --> 02:20:01,000
+Setzt sich das durch, wenn man weiß, dass man mit Leuten, die man nicht mag,
+
+1265
+02:20:01,000 --> 02:20:08,000
+wenn man nicht gemocht wird, dass man die einfach verhungern lässt oder irgendwie in ihrem Genau liegen lässt?
+
+1266
+02:20:08,000 --> 02:20:17,000
+Glaube ich nicht. Ich glaube nicht, dass Leute so reagieren, die die Leute auch sehen können.
+
+1267
+02:20:17,000 --> 02:20:19,000
+Aber ich habe das Buch nicht gelesen.
+
+1268
+02:20:19,000 --> 02:20:21,000
+Tatsächlich hat Stefan Mehritz einen Vortrag dazu gehalten.
+
+1269
+02:20:21,000 --> 02:20:25,000
+Ich glaube, ich habe da, also im Commons Institute treffen letztes Wochenende,
+
+1270
+02:20:25,000 --> 02:20:30,000
+ich habe den übersprungen, ich habe irgendwas anderes gemacht. Schade.
+
+1271
+02:20:36,000 --> 02:20:42,000
+Genau, es gibt, glaube ich, in den, also in der Struktur gibt es, glaube ich, auch keine Antworten darauf.
+
+1272
+02:20:42,000 --> 02:20:47,000
+Und ich finde, das ist so was, da müssen Regelungen gefunden werden.
+
+1273
+02:20:47,000 --> 02:20:52,000
+Da können in Common-Strukturenregeln dafür gefunden werden, die akzeptiert werden.
+
+1274
+02:20:52,000 --> 02:20:58,000
+Da bin ich eigentlich, soweit ich das erzählen kann, soweit ich jetzt in so einer Möglichkeit auf Gemeinsamkeit
+
+1275
+02:20:58,000 --> 02:21:06,000
+und in Zukunft irgendwie, wie ich es nämlich hineinwagen möchte, was ich ungern tue.
+
+1276
+02:21:06,000 --> 02:21:13,000
+Aber es fällt mir schwer, sich vorzustellen, dass das Problem nicht thematisiert wird
+
+1277
+02:21:13,000 --> 02:21:19,000
+und man da nicht irgendwie das angeht, auf welche Weise auch immer.
+
+1278
+02:21:19,000 --> 02:21:26,000
+Eben, also auch wie bei dem komplexen Problem bei dir am Anfang mit der Trasse und so weiter.
+
+1279
+02:21:26,000 --> 02:21:29,000
+Ich weiß nicht, ob die Softwarevermittlung da das Richtige ist.
+
+1280
+02:21:29,000 --> 02:21:37,000
+Es gibt, von der Datengeschichte, der Dateninterpretation im Berücksichtigungsbereich kannst du sowas irgendwie einstellen.
+
+1281
+02:21:37,000 --> 02:21:43,000
+Das ist, wenn dann irgendwie jemand ist, der von niemandem Beachtung findet, dass das eben hervorgehoben wird und so weiter.
+
+1282
+02:21:43,000 --> 02:21:51,000
+Das ist möglich, aber das ist eine eigene Komplexität und ist auch wieder abhängig von dem Anwender, von der Anwenderin.
+
+1283
+02:21:52,000 --> 02:22:02,000
+Genau, nö. Also ich glaube, ich kann mir nicht vorstellen, dass das in wirklich so einer Gesellschaftlichkeit ein großes Thema ist.
+
+1284
+02:22:02,000 --> 02:22:05,000
+Aber ich wollte es auch nicht mal in meiner Hand dafür ins Feuer halten.
+
+1285
+02:22:05,000 --> 02:22:13,000
+Ja, ich sehe das Problem und ich finde es ein gutes, gut artikuliertes Problem. Ja, genau.
+
+1286
+02:22:13,000 --> 02:22:18,000
+Ja, also ich hätte auch jetzt das Gefühl, dass du da absolut in die Richtung deutest,
+
+1287
+02:22:18,000 --> 02:22:29,000
+also dass im Grunde das ähnlich geartet ist wie diese Fragestellung der langfristigen Planung von zum Beispiel Infrastrukturprojekten.
+
+1288
+02:22:29,000 --> 02:22:34,000
+Auf eine Art geht es da ja auch um eine Form von Infrastruktur, in dem Fall der Altersvorsorge zum Beispiel.
+
+1289
+02:22:34,000 --> 02:22:40,000
+Und dass man da dann eben auch anders pauschalisierte Lösungen finden kann,
+
+1290
+02:22:40,000 --> 02:22:46,000
+wie du das jetzt angedeutet hattest, im Sinne von ich berücksichtige grundsätzlich alle Leute, die Pflege brauchen sozusagen.
+
+1291
+02:22:46,000 --> 02:22:54,000
+Und da ist das Arschloch sozusagen inkludiert explizit, ja, weil ich will definitiv auch, dass man sich um das Arschloch kümmert, so 100 Prozent.
+
+1292
+02:22:54,000 --> 02:22:58,000
+Du kannst ja auch, wenn ich mal ganz kurz einwerfen darf, weil ich das eh auch spannend fand.
+
+1293
+02:22:58,000 --> 02:23:02,000
+Du kannst ja auf zwei verschiedene Arten für die Pflege quasi auch da sein.
+
+1294
+02:23:02,000 --> 02:23:09,000
+Du kannst sagen, ich möchte Tätigkeiten für mich persönlich relevant angezeigt bekommen, die für die Pflege notwendig sind oder von Menschen.
+
+1295
+02:23:09,000 --> 02:23:14,000
+Oder ich kann Leute mehr berücksichtigen, die im Pflegebereich tätig sind.
+
+1296
+02:23:14,000 --> 02:23:21,000
+Du hast zwei verschiedene Weisen quasi, wie du über Berücksichtigung darauf einwirken kannst, dass dieser Bereich gestärkt wird.
+
+1297
+02:23:21,000 --> 02:23:24,000
+Fand ich mal spannend, irgendwann, als ich drüber nachgedacht habe.
+
+1298
+02:23:24,000 --> 02:23:34,000
+Also es gäbe noch hunderte Fragen, die ich zu stellen hätte, aber ich befürchte, wir können nicht alles unterbringen in diesem einen Gespräch.
+
+1299
+02:23:34,000 --> 02:23:37,000
+Insofern eigentlich dann nur noch die Abschlussfrage.
+
+1300
+02:23:37,000 --> 02:23:40,000
+Wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+
+1301
+02:23:40,000 --> 02:23:45,000
+Ach, na, die sollte ich kennen von dir.
+
+1302
+02:23:45,000 --> 02:23:49,000
+Ich glaube, so eine Möglichkeit.
+
+1303
+02:23:49,000 --> 02:23:53,000
+Also ich finde echt die Möglichkeit, die wir durch das Internet haben.
+
+1304
+02:23:53,000 --> 02:23:57,000
+Und die wir wirklich in tausenden Jahren mehr in Schätzgeschichte nicht hatten.
+
+1305
+02:23:57,000 --> 02:24:03,000
+Und da ist einfach ein Potential drin, das einfach etwas ermöglicht, was vorher nicht denkbar war.
+
+1306
+02:24:03,000 --> 02:24:11,000
+Und ich weiß nicht, ich würde jetzt nicht wissen wollen, wie hoch die Wahrscheinlichkeit der Realisation davon ist.
+
+1307
+02:24:11,000 --> 02:24:17,000
+Aber das Potential ist da und das ermöglicht so viel, was so gut sein kann.
+
+1308
+02:24:17,000 --> 02:24:20,000
+Und das gefällt mir.
+
+1309
+02:24:20,000 --> 02:24:23,000
+Wunderbar. Markus, vielen Dank für das Gespräch.
+
+1310
+02:24:23,000 --> 02:24:25,000
+Ja, ich danke dir. Hat Spaß gemacht.
+
+1311
+02:24:25,000 --> 02:24:28,000
+Das war Future Histories für heute.
+
+1312
+02:24:28,000 --> 02:24:30,000
+Vielen Dank fürs Zuhören.
+
+1313
+02:24:30,000 --> 02:24:35,000
+Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+1314
+02:24:35,000 --> 02:24:41,000
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit.
+
+1315
+02:24:41,000 --> 02:24:49,000
+Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube,
+
+1316
+02:24:49,000 --> 02:24:55,000
+wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet.
+
+1317
+02:24:55,000 --> 02:24:59,000
+Schreibt mir gerne unter jan at futurehistories.today.
+
+1318
+02:24:59,000 --> 02:25:04,000
+Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise.
+
+1319
+02:25:04,000 --> 02:25:11,000
+Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf www.patreon.com-futurehistories
+
+1320
+02:25:11,000 --> 02:25:14,000
+oder auch via Spende auf unserer Homepage.
+
+1321
+02:25:14,000 --> 02:25:20,000
+Future Histories ist eine Produktion von MetaLapses, zu finden auf meta-lapses.net.
+
+1322
+02:25:20,000 --> 02:25:23,000
+Bis zum nächsten Mal. Ich freue mich.
+

@@ -1,0 +1,2704 @@
+1
+00:00:00,000 --> 00:00:04,800
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+
+2
+00:00:04,800 --> 00:00:09,680
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, dass ihr wieder dabei seid. Heute
+
+3
+00:00:09,680 --> 00:00:15,160
+spreche ich mit Felix Stahlder über Formen technopolitischer Machtausübung. Die aufmerksame
+
+4
+00:00:15,160 --> 00:00:21,240
+Hörerin, der aufmerksame Hörer dieses Podcasts, wird sich da fragen, Jan, was ist los? In Folge 0
+
+5
+00:00:21,240 --> 00:00:25,920
+hast du uns doch erklärt, dass es immer abwechselnd ein Interview und eine Denk-mit-mir-Folge gibt.
+
+6
+00:00:25,920 --> 00:00:30,840
+Letzte Folge war Amanda Vanessian zu Gast, also eine Interviewfolge. Das heißt, es müsste jetzt
+
+7
+00:00:30,840 --> 00:00:36,000
+eine Denk-mit-mir-Folge kommen. Da habt ihr vollkommen recht, aber ich breche quasi bei
+
+8
+00:00:36,000 --> 00:00:42,120
+erster Gelegenheit aus diesem Schema aus, denn ich habe gemerkt, es gibt einfach zu viele Interviews,
+
+9
+00:00:42,120 --> 00:00:47,840
+die ich gerne führen möchte und auf der anderen Seite reicht es vollkommen, wenn ich in unregelmäßigen
+
+10
+00:00:47,840 --> 00:00:53,520
+Abständen dann eine größere Denk-mit-mir-Folge mache. Das heißt, es gibt mehr Interviews und
+
+11
+00:00:53,520 --> 00:01:00,360
+ich werde dann auch einfach vor den jeweiligen Interviewfolgen, Updates, Neuigkeiten, kleinere
+
+12
+00:01:00,360 --> 00:01:05,280
+Pferden und so weiter kommunizieren, wie zum Beispiel den Input von Seiten der Association
+
+13
+00:01:05,280 --> 00:01:10,560
+for the Design of History, über die ich auf ein Buch mit dem Titel The People's Republic of
+
+14
+00:01:10,560 --> 00:01:16,560
+Walmart gestoßen bin oder den neuen Artikel von Evgeny Morozov in der New Left Review,
+
+15
+00:01:16,560 --> 00:01:22,760
+auf den mich der User Ed Guy Philosopher aufmerksam gemacht hat, mit dem Titel Digital Socialism,
+
+16
+00:01:22,760 --> 00:01:29,160
+beides very much on topic zur zweiten Folge von Future Histories zum Thema Socialist Calculation
+
+17
+00:01:29,160 --> 00:01:34,760
+Debate. Ich mache die Links in die Shownotizen, wirklich sehr interessantes Material und ich
+
+18
+00:01:34,760 --> 00:01:39,800
+werde hier definitiv in Future Histories auch weiterhin die Socialist Calculation Debate in
+
+19
+00:01:39,800 --> 00:01:45,040
+ihrer zeitgenössischen Ausprägung weiterverfolgen. Ich glaube, dass das ein sehr zentrales Thema ist.
+
+20
+00:01:45,040 --> 00:01:50,480
+In der heutigen Folge, im Gespräch mit Felix Stahl, da wird das Thema übrigens auch gestreift. Das
+
+21
+00:01:50,480 --> 00:01:54,760
+Interview wurde aufgezeichnet irgendwann Anfang des Jahres, ich weiß nicht mehr genau, aber da
+
+22
+00:01:54,760 --> 00:01:59,560
+hatte ich auf jeden Fall den Artikel von Evgeny Morozov noch nicht gelesen. Das Thema wird uns
+
+23
+00:01:59,560 --> 00:02:04,560
+also auf jeden Fall erhalten bleiben. Viel Spaß beim Interview und wenn ihr mehr über den Podcast
+
+24
+00:02:04,560 --> 00:02:10,840
+erfahren wollt, dann geht auf www.futurehistories.today, da gibt es einiges an Zusatzmaterial. Lasst mich
+
+25
+00:02:10,840 --> 00:02:15,680
+wissen, was ihr zu dem Ganzen denkt, auf Twitter unter Hashtag Future Histories oder auf Reddit.
+
+26
+00:02:15,680 --> 00:02:21,920
+Da gab es zum Beispiel auch schon sehr spannenden Input zum Thema Kybernetik vom User, ich glaube,
+
+27
+00:02:21,920 --> 00:02:28,080
+er hieß Bjarne. Danke dafür Bjarne. Also auf Reddit, zum Beispiel in unserem Subreddit oder
+
+28
+00:02:28,080 --> 00:02:33,720
+ganz klassisch per Mail unter future underscore histories at protonmail.com. Und wenn ihr den
+
+29
+00:02:33,720 --> 00:02:39,400
+Podcast darüber hinaus unterstützen wollt, dann schaut doch auf patreon.com schrägstrich Future
+
+30
+00:02:39,400 --> 00:02:49,040
+Histories vorbei. Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer
+
+31
+00:02:49,040 --> 00:02:53,880
+Vorstellung von Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Felix Stahlder als
+
+32
+00:02:53,880 --> 00:02:59,200
+Gast begrüßen zu dürfen. Felix ist Kultur- und Medienwissenschaftler und Professor für digitale
+
+33
+00:02:59,200 --> 00:03:04,400
+Kultur und Theorien der Vernetzung an der Züricher Hochschule der Künste. Herzlich Willkommen Felix.
+
+34
+00:03:04,400 --> 00:03:10,200
+Hallo Jan. Im heutigen Gespräch geht es um formentechnologische Machtausübung im Allgemeinen
+
+35
+00:03:10,200 --> 00:03:15,080
+und im Speziellen um die Frage der Machtausübung durch Algorithmen. Vorweg also mal die grundsätzliche
+
+36
+00:03:15,080 --> 00:03:20,000
+Frage, was ist ein Algorithmus und welche unterschiedlichen Formen von Algorithmen gibt es?
+
+37
+00:03:20,000 --> 00:03:30,600
+In der allgemeinsten Form ist ein Algorithmus eine Serie von Handlungsanweisungen, um einen Input in
+
+38
+00:03:30,600 --> 00:03:38,600
+einen Output zu überführen, um ein Problem im allgemeinen Sinne zu lösen. Das Wesentliche am
+
+39
+00:03:38,600 --> 00:03:44,920
+Algorithmus in dieser ganz allgemeinen Definition ist, dass diese Handlungsschritte eindeutig
+
+40
+00:03:44,920 --> 00:03:51,960
+beschreibbar sind und dass es eine endliche Anzahl von Handlungsschritten hat. In dem Sinne
+
+41
+00:03:51,960 --> 00:03:58,320
+könnte man schon fast die Gebrauchsanleitung, die einem Ikea-Möbel beiliegt, als einen Art
+
+42
+00:03:58,320 --> 00:04:07,760
+Algorithmus bezeichnen. Es ist eine Serie von Schritten, die möglichst eindeutig beschrieben
+
+43
+00:04:07,760 --> 00:04:13,680
+sind. Deshalb nimmt man eine formale Sprache. Im Falle des Ikea-Beipackzettels sind das
+
+44
+00:04:13,680 --> 00:04:22,000
+Pictogramme, die ein Input, also die Serie von Brettern, die man kauft, in ein Output,
+
+45
+00:04:22,000 --> 00:04:27,800
+beispielsweise ein Tisch oder ein Regal verwandeln. Die ausführende Maschine sozusagen sind wir
+
+46
+00:04:27,800 --> 00:04:38,360
+selber, die diesen Schritten folgen. Damit eine Maschine tatsächlich diese Schritte ausführen
+
+47
+00:04:38,360 --> 00:04:43,840
+kann, müssen sie eindeutig beschrieben sein. Auch ein Pictogramm ist nie ganz eindeutig,
+
+48
+00:04:43,840 --> 00:04:47,880
+wir kennen das. Probleme beim Aufbauen gibt es immer, weil es unklar ist, was man jetzt
+
+49
+00:04:47,880 --> 00:05:00,000
+machen muss. Deshalb sind die meisten Algorithmen in Mathematik geschrieben, damit es keine Frage
+
+50
+00:05:00,000 --> 00:05:05,160
+der Interpretation der Schritte mehr gibt. Und dann, wenn diese Schritte interpretationsfrei
+
+51
+00:05:05,160 --> 00:05:12,120
+beschrieben sind, kann eine Maschine sie auch ausführen. In diesem Sinne gibt es Algorithmen
+
+52
+00:05:12,120 --> 00:05:19,560
+eigentlich schon so lange, wie es Computer gibt. Im Grunde ist es kein Unterschied zwischen
+
+53
+00:05:19,560 --> 00:05:26,600
+einem Algorithmus und einem Programm in einem Computer, der ja auch einen Input in ein Output
+
+54
+00:05:26,600 --> 00:05:32,960
+überführt, in einer Serie von definierten Schritten. Was jetzt heute aber neu ist, dass
+
+55
+00:05:32,960 --> 00:05:43,440
+diese Algorithmen, diese programmierbaren Schritte auf neue Klassen von Problemen angewandt werden
+
+56
+00:05:43,440 --> 00:05:50,360
+können und damit Dinge automatisiert werden können, also Problemlösungen automatisiert
+
+57
+00:05:50,360 --> 00:05:57,280
+werden können, die bis vor sehr kurzer Zeit noch nicht automatisiert werden konnten. Und
+
+58
+00:05:57,280 --> 00:06:04,640
+darum sprechen wir heute von Algorithmen, weil sie jetzt neu auftauchen in einer Serie von
+
+59
+00:06:04,640 --> 00:06:12,520
+Situationen, wo sie bisher noch nicht aufgetaucht sind und damit die Grenze neu definiert wird,
+
+60
+00:06:12,520 --> 00:06:18,840
+was lässt sich von einer Maschine erledigen und was ist eine Fähigkeit, die genuin menschlich
+
+61
+00:06:18,840 --> 00:06:26,040
+ist. Und welche Formen von Algorithmen ergeben sich denn jetzt durch technologischen Fortschritt?
+
+62
+00:06:26,040 --> 00:06:35,280
+Also ich denke da auch an selbstlernende Systeme und dergleichen? Zunächst sind zwei Voraussetzungen
+
+63
+00:06:35,280 --> 00:06:40,040
+oder eigentlich drei Voraussetzungen mussten zusammenkommen, um diese Welle von Algorithmen,
+
+64
+00:06:40,040 --> 00:06:48,120
+die sozusagen in den letzten fünf, zehn Jahren sozusagen in alle Bereiche der Gesellschaft
+
+65
+00:06:48,120 --> 00:06:56,240
+und des Lebens eingedrungen sind, möglich zu machen. Das Erste ist die Computing Power,
+
+66
+00:06:56,240 --> 00:07:03,680
+also die Rechenleistung von Computern ist enorm gewachsen und gleichzeitig sind die
+
+67
+00:07:03,680 --> 00:07:11,600
+Preise sehr billig geworden. Das ist ein klassisches Moore's Law, alle 18 Monate verdoppelt sich
+
+68
+00:07:11,600 --> 00:07:22,200
+die Rechenleistung bei gleichbreitendem Preis. Das Zweite ist, dass über das Internet enorm
+
+69
+00:07:22,200 --> 00:07:30,120
+viele Daten jetzt zur Verfügung stehen, Millionen und abermillionen von Bildern, ganz viele
+
+70
+00:07:30,120 --> 00:07:37,000
+Textdaten, ganz viele Bewegungsdaten, die man analysieren kann, ganz viele Videos und
+
+71
+00:07:37,000 --> 00:07:43,440
+Sprachdaten und so weiter. Das heißt, wir haben jetzt sehr große Mengen an Daten, mit
+
+72
+00:07:43,440 --> 00:07:53,680
+denen wir diese Algorithmen entwickeln können. Und das Dritte ist, dass es eine Serie von
+
+73
+00:07:53,680 --> 00:08:02,440
+konzeptuellen Durchbrüchen gab, also neue Innovationen auf dem Bereich der Algorithmusentwicklung,
+
+74
+00:08:02,440 --> 00:08:08,960
+oder der Computerwissenschaften, die es jetzt erlauben, ganz andere und komplexere Algorithmen
+
+75
+00:08:08,960 --> 00:08:17,760
+zu schreiben. Und das hat dazu geführt, dass sozusagen ein neuer Idee entstanden ist,
+
+76
+00:08:17,760 --> 00:08:24,040
+eine neue Praxis oder eine Idee hat sich durchgesetzt, sagen wir so, wie wir Algorithmen konstruieren.
+
+77
+00:08:24,040 --> 00:08:34,960
+Quasi die ersten Ideen der künstlichen Intelligenz in den 1960er- und 1970er-Jahren gingen von
+
+78
+00:08:34,960 --> 00:08:41,840
+sogenannten Experten-Systemen aus. Das heißt, eine Idee, dass man menschliche Wissen oder
+
+79
+00:08:41,840 --> 00:08:48,320
+zumindest in einer Experten-Domäne, deshalb der Name, so weit formulisieren kann, dass
+
+80
+00:08:48,320 --> 00:08:54,120
+man es auf eine Maschine übertragen kann. Also beispielsweise man macht Kategorien,
+
+81
+00:08:54,120 --> 00:09:00,680
+ein Baum ist eine Pflanze, viele Bäume sind ein Wald, und so kann man ein logisches System
+
+82
+00:09:00,680 --> 00:09:11,280
+von Zusammenhängen generieren. Das hat funktioniert in sehr engen Bereichen, deshalb diese Experten-Systeme,
+
+83
+00:09:11,280 --> 00:09:15,800
+die gibt es eigentlich seit den 1970er-Jahren, war aber sehr limitiert, weil es eben nicht
+
+84
+00:09:15,800 --> 00:09:24,560
+möglich war, diese Ontologien, diese Kategorien-Systeme, widerspruchsfrei und interpretationsfrei
+
+85
+00:09:24,560 --> 00:09:32,080
+zu generieren. Und was jetzt passiert ist, ist, dass ein anderer Ansatz sozusagen sich
+
+86
+00:09:32,080 --> 00:09:37,840
+durchgesetzt hat, der geht überhaupt nicht mehr um Kategorien-Systeme, sondern hier
+
+87
+00:09:37,840 --> 00:09:46,640
+geht es rein um statistische Auffälligkeiten. Es geht nicht mehr darum, einen Gegenstand
+
+88
+00:09:46,640 --> 00:09:52,120
+zu verstehen, sondern nur noch Korrelationen zwischen verschiedenen statistischen Merkmalen
+
+89
+00:09:52,120 --> 00:10:00,400
+zu bestimmen. Beispielsweise Übersetzungsprogramme, die wurden früher versucht zu schreiben,
+
+90
+00:10:00,400 --> 00:10:06,920
+indem man versucht, eben so eine Art eine Struktur der Sprache zu finden und die dann
+
+91
+00:10:06,920 --> 00:10:12,240
+von einer Sprache in die andere zu übersetzen, das ist vollkommen aufgegeben worden. Und
+
+92
+00:10:12,240 --> 00:10:18,840
+jetzt heute geht es nur noch um Statistik. Also Übersetzungsprogramme werden heute geschrieben,
+
+93
+00:10:18,840 --> 00:10:27,080
+indem sehr, sehr viel Text, von dem man weiß, dass sozusagen eine adäquate Übersetzung
+
+94
+00:10:27,080 --> 00:10:36,000
+besteht, beispielsweise aus der gesamten Publikationsbereich der UN, der Vereinten Nationen, die ja sehr,
+
+95
+00:10:36,000 --> 00:10:41,200
+sehr vielsprachig sind. Auch die Publikationen der europäischen Gemeinschaft sind ganz,
+
+96
+00:10:41,200 --> 00:10:48,240
+ganz wichtig, als ein Korpus von Mehrsprachigkeit. Und diese werden jetzt einfach statistisch
+
+97
+00:10:48,240 --> 00:10:53,960
+analysiert. Wenn im Deutschen das Wort x steht, dann ist eine so und so Wahrscheinlichkeit,
+
+98
+00:10:53,960 --> 00:11:00,560
+dass nachher das Wort y und z folgt. Und im Englischen ist es dann so und so und daraus
+
+99
+00:11:00,560 --> 00:11:08,440
+wird Übersetzung gemacht. Und das ist nur möglich mit sehr großen Datenmengen und
+
+100
+00:11:08,440 --> 00:11:16,760
+sehr starken Computerrechenleistungen und eben spezifischen Modellen, wie so etwas dann
+
+101
+00:11:16,760 --> 00:11:22,840
+gerechnet werden kann. Und das ist der Grund, warum wir heute plötzlich Algorithmen, also
+
+102
+00:11:22,840 --> 00:11:28,120
+automatische Entscheidungssysteme in Bereichen sehen, wo man bis vor sehr, sehr kurzer Zeit
+
+103
+00:11:28,120 --> 00:11:33,320
+dachte, so was ist eine Maschine nicht fähig zu tun. Bilderkennung und ähnliche Dinge
+
+104
+00:11:33,320 --> 00:11:40,680
+sind da vielleicht am bekanntesten. Und wie wird jetzt mit diesen gesteigerten
+
+105
+00:11:40,680 --> 00:11:46,440
+Fähigkeiten, auch eben durch die Strategieänderungen mitunter, wie wird über Algorithmen Macht
+
+106
+00:11:46,440 --> 00:11:51,920
+ausgeübt? Es gibt verschiedene Arten, wie Algorithmen
+
+107
+00:11:51,920 --> 00:12:02,200
+Teil einer Struktur von Macht und Machtausübung sind. Vielleicht ist es wichtig zu unterscheiden
+
+108
+00:12:02,200 --> 00:12:10,200
+zwischen verschiedenen Begriffen, was ein Algorithmus ist. Ein Algorithmus in den Computerwissenschaften
+
+109
+00:12:10,200 --> 00:12:16,680
+ist tatsächlich nur der ausführbare Code, also die Serie von Schritten, die ein Computer
+
+110
+00:12:16,680 --> 00:12:23,920
+ausführen kann. Das hat kein Vorher und kein Nachher. In einer umfassenden vielleicht so
+
+111
+00:12:23,920 --> 00:12:30,720
+soziologischen oder politischen Analyse eines Algorithmus muss man ihn sehen als ein Teil
+
+112
+00:12:30,720 --> 00:12:38,080
+einer Entscheidungskette. Der ist nie autonom. So etwas wie autonome Technologie kann es
+
+113
+00:12:38,080 --> 00:12:43,880
+nicht geben, sondern es ist eingebettet in eine Serie von Entscheidungen, die ein paar
+
+114
+00:12:43,880 --> 00:12:48,960
+davon werden von Menschen gemacht und ein paar von diesen Entscheidungen werden von
+
+115
+00:12:48,960 --> 00:12:55,320
+Maschinen gemacht. Aber es ist immer eingebettet. Das heißt, man kann sich zunächst einmal
+
+116
+00:12:55,320 --> 00:13:04,520
+fragen, auf welche Probleme wird ein Algorithmus ausgerichtet? Was ist ein Problem, das ich
+
+117
+00:13:04,520 --> 00:13:11,600
+lösen will mit Hilfe der Technologie? Das ist der erste grundsätzlich sozusagen politische
+
+118
+00:13:11,600 --> 00:13:18,880
+Aspekt, der immer sozusagen institutionell entschieden wird. Das entscheidet nie der
+
+119
+00:13:18,880 --> 00:13:26,960
+Algorithmus selber, wofür er entwickelt werden soll. Also wenn das Ziel meines Algorithmus
+
+120
+00:13:26,960 --> 00:13:37,040
+ist, die Grenze oder die Zahl sozusagen der Kredite, die nicht zurückgezahlt werden,
+
+121
+00:13:37,040 --> 00:13:44,120
+zu senken, dann ist das eine ganz spezifische Ausrichtung. Und dann konstruiere ich den
+
+122
+00:13:44,120 --> 00:13:49,560
+entsprechend. Das ist das erste. Also was ist das Problem überhaupt? Das zweite ist
+
+123
+00:13:49,560 --> 00:14:02,120
+dann, wie wird dieses Problem operationalisiert? Weil selten lässt sich ein soziales Problem
+
+124
+00:14:02,120 --> 00:14:09,840
+oder ein Ziel, das aus einem Businessplan kommt, direkt sozusagen quantifizieren. Sondern
+
+125
+00:14:09,840 --> 00:14:20,240
+man muss dann anfangen, ein Modell zu konstruieren. Das sagt, für die Frage, die ich beantworten
+
+126
+00:14:20,240 --> 00:14:26,200
+will, sind diese und diese Punkte relevant und alles andere ist nicht relevant. Und damit
+
+127
+00:14:26,200 --> 00:14:34,920
+wird ein Modell konstruiert. Oft ist es auch so, dass das, was man eigentlich messen will,
+
+128
+00:14:34,920 --> 00:14:40,160
+gar nicht direkt messbar ist, weil es zu diffus ist, weil es zu kompliziert ist, weil es zu
+
+129
+00:14:40,160 --> 00:14:47,680
+verteilt ist. Und dann macht man einen sogenannten Proxy. Also man definiert einen Wert, der
+
+130
+00:14:47,680 --> 00:14:55,400
+für etwas anderes steht. Beispielsweise, wenn ich messen will, wie gut ein Kind lernt,
+
+131
+00:14:55,400 --> 00:15:02,440
+das ist ein sehr komplexes Thema. Was ist denn das eigentlich? Was heißt Lernen? Was
+
+132
+00:15:02,440 --> 00:15:08,120
+ist das relativ zu anderen Dingen? Das kann ich nicht messen. Also füge ich einen Proxy
+
+133
+00:15:08,120 --> 00:15:13,600
+ein, einen standardisierten Test. Und dann kann ich sagen, okay, das Kind hat neun von
+
+134
+00:15:13,600 --> 00:15:21,680
+zehn Fragen richtig beantwortet. Dann habe ich eine Zahl. Und somit werden eine Serie
+
+135
+00:15:21,680 --> 00:15:28,680
+von Entscheidungen getroffen, wie ich ein Problem konstruiere, was ich überhaupt als
+
+136
+00:15:28,680 --> 00:15:34,800
+ein lösbares oder für mich relevantes Problem entscheide. Und damit sind natürlich immer
+
+137
+00:15:34,800 --> 00:15:42,880
+gewisse Interessen derjenigen, die diese Probleme oder diese Fragen dann entscheiden, sind verbunden
+
+138
+00:15:42,880 --> 00:15:50,520
+mit den Agenten und den Plänen und den Ideen, die diese Akteure haben. Und diese wird jetzt
+
+139
+00:15:50,520 --> 00:15:57,800
+in Technologie eingeschrieben, von der dann gesagt wird, sie sei autonom. Und damit verschwinden
+
+140
+00:15:57,800 --> 00:16:04,880
+diese Ideen und diese Setzungen, die an ganz vielen Stellen gemacht werden. Es gibt noch
+
+141
+00:16:04,880 --> 00:16:11,200
+weitere Stellen, wo diese Setzungen gemacht werden. Die verschwinden und am Schluss kommt
+
+142
+00:16:11,200 --> 00:16:18,760
+eine angeblich objektives Ergebnis raus. Dieses Kind hat neun von zehn Fragen beantwortet,
+
+143
+00:16:18,760 --> 00:16:23,680
+der andere hat nur sieben von zehn Fragen beantwortet. Und das sagt uns doch was, wer
+
+144
+00:16:23,680 --> 00:16:25,480
+besser und wer schlechter ist.
+
+145
+00:16:25,480 --> 00:16:30,680
+Also das ist ja im Grunde dann ein Ansatzpunkt, wo man sagt, okay, es ist schon die Art, wie
+
+146
+00:16:30,680 --> 00:16:36,440
+auf die Dinge geschaut wird, an der eigentlich in erster Instanz auch Macht ausgeübt wird,
+
+147
+00:16:36,440 --> 00:16:41,560
+indem Weichenstellungen vorgenommen werden, indem eben Entscheidungen darüber getroffen
+
+148
+00:16:41,560 --> 00:16:47,480
+werden, was ist das Problem und wie wird es gelöst. Darüber hinaus gibt es ja dann auch,
+
+149
+00:16:47,480 --> 00:16:51,320
+und das ist sicher dann ein Folgeproblem, sag ich mal in Anführungsstrichen, gibt es
+
+150
+00:16:51,320 --> 00:16:58,680
+ja bestimmte Architekturen, die zum Beispiel auch algorithmisch bedingt sind, denen wir
+
+151
+00:16:58,680 --> 00:17:04,240
+tagtäglich ausgeliefert sind. Also die sozialen Medien, in denen uns eine Welt konstituiert
+
+152
+00:17:04,240 --> 00:17:12,120
+wird durch den Algorithmus oder Google Maps oder sowas, was uns eine bestimmte Fahrtrichtung
+
+153
+00:17:12,120 --> 00:17:15,720
+oder einen Fahrplan empfiehlt und wir den wahrscheinlich in den meisten Fällen dann
+
+154
+00:17:15,720 --> 00:17:21,040
+auch wählen werden und so weiter und so fort. Also das heißt, es gibt quasi in einer ganz
+
+155
+00:17:21,040 --> 00:17:27,840
+pragmatischen Art und Weise eine Formung unserer Umwelt durch Algorithmen. Was mich interessiert
+
+156
+00:17:27,840 --> 00:17:33,440
+ist auch, sagen, eine Frage der sich verschiebenen politischen Souveränität. Es ist tatsächlich
+
+157
+00:17:33,440 --> 00:17:38,640
+so, dass ja politische Souveränität von solchen Konstrukten wie dem Nationalstaat
+
+158
+00:17:38,640 --> 00:17:44,000
+oder sowas sich tendenziell wegverlagert hin zu anderen Formen des Regierens, unter
+
+159
+00:17:44,000 --> 00:17:48,040
+anderem eben des algorithmischen Regierens. Und wie ist da deine Einschätzung, wer sind
+
+160
+00:17:48,040 --> 00:17:52,920
+die Hauptakteure, das ist vielleicht noch am einfachsten zu beantworten, aber was ist
+
+161
+00:17:52,920 --> 00:17:59,920
+vielleicht auch der dahinterliegende Gedanke des politischen Regierens an sich, der diesen
+
+162
+00:17:59,920 --> 00:18:00,920
+Formen innewohnt?
+
+163
+00:18:00,920 --> 00:18:08,320
+Also die Macht, die ausgeübt wird, die ist, wie wir gesprochen haben, einerseits auf der
+
+164
+00:18:08,320 --> 00:18:13,960
+Ebene der Problemlösung oder der Problemdefinition und dann der Modellierung, um es zu lösen.
+
+165
+00:18:13,960 --> 00:18:23,400
+Es werden hier ganz viele Sätze gemacht. Und auf der anderen Seite sozusagen, auf der Nutzerseite
+
+166
+00:18:23,400 --> 00:18:29,000
+haben wir dann den Fall, dass wir auch im besten Fall, also es geht nicht darum, ob der Algorithmus
+
+167
+00:18:29,000 --> 00:18:33,160
+stimmt oder nicht, nehmen wir mal an, der stimmt und der ist auch sozusagen mit einer
+
+168
+00:18:33,160 --> 00:18:41,240
+höheren Absicht gemacht, haben wir das Problem, dass dann gewisse Weltsichten plötzlich
+
+169
+00:18:41,240 --> 00:18:48,200
+sehr stark werden. Also der Teil der Welt, der sozusagen algorithmisch berechnet werden
+
+170
+00:18:48,200 --> 00:18:56,200
+kann, der wird uns zugänglich gemacht. Und andere Arten, andere Bereiche der Welt, die
+
+171
+00:18:56,200 --> 00:19:02,800
+sozusagen so nicht erfasst werden können, werden dann plötzlich schwieriger sichtbar.
+
+172
+00:19:02,800 --> 00:19:08,240
+Die werden entwertet, wenn das andere sozusagen ins Zentrum gerückt wird. Und das ist auch
+
+173
+00:19:08,240 --> 00:19:20,880
+etwas, das eine Weltsicht formt und das sozusagen implizite, nicht quantifizierbare Wissen sozusagen
+
+174
+00:19:20,880 --> 00:19:26,840
+immer schwieriger oder immer prekärer macht. Also beispielsweise Google Maps, wir haben
+
+175
+00:19:26,840 --> 00:19:31,200
+eine Vorstellung, wie wir von A nach B fahren wollen, aber Google Maps sagt uns, wir sollen
+
+176
+00:19:31,200 --> 00:19:39,360
+ihn woanders durchfahren. Dann haben wir natürlich die Frage, wem trauen wir jetzt? Und außer
+
+177
+00:19:39,360 --> 00:19:49,640
+in Orten, wo wir sehr, sehr gut, sehr, sehr genau wissen und sehr, sehr zeitnah auch wissen,
+
+178
+00:19:49,640 --> 00:19:54,760
+wie die Straßenverhältnisse sind, werden wir wahrscheinlich Google Maps trauen, weil
+
+179
+00:19:54,760 --> 00:20:01,120
+es Echtzeitdaten einbauen kann und so weiter und so fort. Und oft sind wir damit gut beraten,
+
+180
+00:20:01,120 --> 00:20:05,880
+also es ist gar keine Kritik daran. Aber es heißt einfach, dass sozusagen eine Form des
+
+181
+00:20:05,880 --> 00:20:15,720
+Wissens durch eine andere Form des Wissens sozusagen überschrieben wird. Und damit beginnt
+
+182
+00:20:15,720 --> 00:20:20,880
+auch sozusagen unsere Sicht auf die Welt. Nicht nur wird die Welt gemacht, sondern wie
+
+183
+00:20:20,880 --> 00:20:27,560
+erleben wir uns in der Welt, wie agieren wir in der Welt, wird geändert. Und die Akteure
+
+184
+00:20:27,560 --> 00:20:34,000
+sind eigentlich diejenigen Institutionen, die über die Voraussetzungen verfügen, um
+
+185
+00:20:34,000 --> 00:20:42,800
+überhaupt im großen Stil Algorithmen in ihre Entscheidungsprozesse einbauen zu können.
+
+186
+00:20:42,800 --> 00:20:47,920
+Das heißt, sind diejenigen, die über große Datenmengen verfügen, um überhaupt Algorithmen
+
+187
+00:20:47,920 --> 00:20:52,640
+trainieren zu können und dann anwenden zu können, sind diejenigen, die über große
+
+188
+00:20:52,640 --> 00:21:02,600
+Rechenkapazitäten verfügen und sind diejenigen, die dann nachher auch über ein Output verfügen,
+
+189
+00:21:02,600 --> 00:21:07,840
+der es ihnen erlaubt, aufgrund dieser Entscheidungen auch handeln zu können. Also beispielsweise
+
+190
+00:21:07,840 --> 00:21:13,680
+uns dann bei Google Maps eine Karte anzuzeigen oder Suchergebnisse anzuzeigen. Also diese
+
+191
+00:21:13,680 --> 00:21:21,840
+drei Voraussetzungen beschreibt die Gruppe derjenigen, die überhaupt fähig sind auf
+
+192
+00:21:21,840 --> 00:21:26,400
+diese Art und Weise zu handeln. Und damit ist eigentlich relativ klar beschrieben, wer
+
+193
+00:21:26,400 --> 00:21:32,080
+das ist. Es sind große Institutionen, für einzelne ist das quasi unmöglich auf diesem
+
+194
+00:21:32,080 --> 00:21:38,960
+Feld zu handeln. Es sind große Institutionen, die über sehr viele Daten verfügen und die
+
+195
+00:21:38,960 --> 00:21:43,640
+entsprechende Handlungsmöglichkeiten haben, um mit dem Wissen, das sozusagen generiert
+
+196
+00:21:43,640 --> 00:21:48,400
+wird, dann auch tatsächlich Handeln in der Welt zu verändern.
+
+197
+00:21:48,400 --> 00:21:57,280
+Und diese Asymmetrie der Ressourcen letztlich ja auch, die ist ja nicht so ohne Weiteres
+
+198
+00:21:57,280 --> 00:22:03,600
+zu überwinden, oder, würde ich mal denken. Das heißt aber auch, dass alle Handelnden,
+
+199
+00:22:03,600 --> 00:22:11,160
+die ähnliche, also die positiven Seiten dieser Entwicklung nutzen wollen, aber in einer
+
+200
+00:22:11,160 --> 00:22:18,480
+Form, die eben, ich weiß nicht, wie man das dann benennt, weniger gängelnd oder weniger
+
+201
+00:22:18,480 --> 00:22:23,040
+durch einen libertären Paternalismus geprägt sind. Wenn Leute das quasi anders nutzen
+
+202
+00:22:23,040 --> 00:22:28,240
+wollen, dann sind sie eigentlich per se immer schon im Hintertreffen, oder? Ist das zunächst
+
+203
+00:22:28,240 --> 00:22:31,160
+mal, stimmt das, weil das wäre ja schon mal fatal eigentlich?
+
+204
+00:22:31,160 --> 00:22:44,120
+Für die absolute Mehrheit der Nutzer, im Grunde für alle Nutzer, stellen diese Systeme
+
+205
+00:22:44,120 --> 00:22:52,440
+eine Take-it-or-leave-it-Situation dar. Wenn ich Facebook nutzen will, dann nutze ich es
+
+206
+00:22:52,440 --> 00:22:59,120
+mit allem, was dort ist. Ich kann nur sagen, ja, ich lasse mich einfach sein, oder nein,
+
+207
+00:22:59,120 --> 00:23:05,480
+ich lasse mich nicht einfach sein. Das ist aber in ganz vielen Situationen gar keine
+
+208
+00:23:05,480 --> 00:23:12,320
+richtige Wahl mehr, weil gewisse Dinge, um am heutigen Leben teilnehmen zu können, vorausgesetzt
+
+209
+00:23:12,320 --> 00:23:18,920
+werden, weil das sozusagen das neue Normal ist. Das machen alle. Es ist ungewöhnlich,
+
+210
+00:23:18,920 --> 00:23:26,600
+daran nicht teilzunehmen, und wenn man das nicht hat, dann kriegt man Probleme mit der
+
+211
+00:23:26,600 --> 00:23:33,880
+Aktion. In ganz vielen Beispielen ist das so. Es gibt ganz viele Dinge, die wir brauchen,
+
+212
+00:23:33,880 --> 00:23:41,680
+um am Leben teilzunehmen. Wir brauchen zum Beispiel eine Adresse. Und wenn man keine
+
+213
+00:23:41,680 --> 00:23:48,480
+Adresse hat, beispielsweise wenn man wohnungslos ist, dann kann man sich um keine Wohnung bewerben,
+
+214
+00:23:48,480 --> 00:23:51,480
+dann kann man sich um keine Stelle bewerben, dann kann man sich um ganz viele Dinge nicht
+
+215
+00:23:51,480 --> 00:23:58,840
+bewerben. Das heißt, wir brauchen all diese Dinge und eben auch Zugang zu diesen Systemen
+
+216
+00:23:58,840 --> 00:24:07,440
+und Nutzung dieser Systeme, um überhaupt uns in der Gegenwart am Leben teilzunehmen zu
+
+217
+00:24:07,440 --> 00:24:14,960
+können. Das sind dann aber, wie gesagt, Entscheidungen, die alles oder nichts sind. Entweder nehme
+
+218
+00:24:14,960 --> 00:24:20,480
+ich Facebook, wie es ist, oder ich bleibe außen vor, was für die meisten keine Option
+
+219
+00:24:20,480 --> 00:24:26,200
+ist. Und es ist ja auch nicht so, dass diese Dienste und sozusagen diese algorithmische
+
+220
+00:24:26,200 --> 00:24:32,280
+Unterstützung einfach nur negativ ist. Die sind ja gewachsen und entstanden, weil es
+
+221
+00:24:32,280 --> 00:24:38,800
+ein Problem gab, zum Beispiel mit der Menge an Informationen, die wir bewältigen müssen
+
+222
+00:24:38,800 --> 00:24:44,240
+in einer Gesellschaft, die halt immer informationsintensiv und immer komplexer wird. Und da brauchen
+
+223
+00:24:44,240 --> 00:24:51,320
+wir neue Werkzeuge dazu und diese algorithmischen Filters in dem Fall oder diese Möglichkeiten,
+
+224
+00:24:51,320 --> 00:24:58,200
+eben sehr große Bildmengen durchzuschauen nach Bildinhalten und nicht nur nach Bildbeschreibungen,
+
+225
+00:24:58,200 --> 00:25:04,080
+das ist etwas, das genuin nützlich ist. Das heißt, für die meisten Personen ist, für
+
+226
+00:25:04,080 --> 00:25:11,120
+die meisten Nutzer ist der unmittelbare Mehrwert durch die Nutzung gegeben und der soll auch
+
+227
+00:25:11,120 --> 00:25:16,600
+nicht abgestritten werden. Aber es wird halt mit dieser Alles-oder-Nichts-Proposition werden
+
+228
+00:25:16,600 --> 00:25:23,640
+auch Dinge eingehandelt, dass man sich eben in einer Umgebung bewegt, die man kaum durchblicken
+
+229
+00:25:23,640 --> 00:25:30,280
+kann, wo man überhaupt nicht sieht, was sozusagen hinter den Kulissen stattfindet und die aber
+
+230
+00:25:30,280 --> 00:25:35,920
+von einer einzelnen Identität, von einem Akteur, sagen wir jetzt in dem Fall Facebook
+
+231
+00:25:35,920 --> 00:25:45,640
+oder Google oder der Suchmaschine für Flugzeugtickets oder was auch immer vollständig kontrolliert
+
+232
+00:25:45,640 --> 00:25:51,600
+wird. Das heißt, wenn diese sich entscheiden, jetzt wollen wir lieber X statt Y zeigen,
+
+233
+00:25:51,600 --> 00:25:57,240
+dann ist das einfach so und als Nutzer hat man keinen Einfluss darauf, oft merkt man
+
+234
+00:25:57,240 --> 00:26:03,280
+das auch gar nicht. Und da entsteht natürlich ein extremes Machtgefälle zwischen der einen
+
+235
+00:26:03,280 --> 00:26:09,040
+Seite, die die Parameter kontrollieren kann und der anderen Seite, der Nutzerseite, die
+
+236
+00:26:09,040 --> 00:26:16,000
+dann sozusagen in dieser Welt sich zurechtfinden muss, im positiven, im negativen Sinn, wo
+
+237
+00:26:16,000 --> 00:26:24,440
+aber kaum eine Feedback-Möglichkeit, kaum eine Einflussmöglichkeit ist, kaum eine Entscheidungsmöglichkeit
+
+238
+00:26:24,440 --> 00:26:30,800
+ist der Nutzer, Nutzerinnen, wie sie dann diese Parameter konstruiert hätten. Das liegt
+
+239
+00:26:30,800 --> 00:26:38,120
+vollkommen in der Hand dieser relativ kleinen Anzahl von Akteure, die hier diese neuen Systeme,
+
+240
+00:26:38,120 --> 00:26:44,800
+in denen wir dann letztendlich leben, halt konstruiert und immer auch so konstruiert,
+
+241
+00:26:44,800 --> 00:26:49,880
+dass der Raum, der dadurch entsteht, das Problem sozusagen, das sie lösen wollen,
+
+242
+00:26:49,880 --> 00:26:57,480
+eines ist, das ihnen nützt. Und wie würden Alternativen aussehen, die versuchen das anders
+
+243
+00:26:57,480 --> 00:27:01,560
+zu gestalten, wo also die einzelnen User und das sehe ich so ein bisschen als den Kernpunkt,
+
+244
+00:27:01,560 --> 00:27:08,080
+auf den du dann auch eben ansprichst, wo die einzelnen User eben die Möglichkeit haben,
+
+245
+00:27:08,080 --> 00:27:15,560
+an Entscheidungsprozessen, höher gelegenen Entscheidungsprozessen zu partizipieren. Also
+
+246
+00:27:15,560 --> 00:27:18,800
+zum einen, wie müsste man das angehen und ist das überhaupt jetzt noch möglich, wo
+
+247
+00:27:18,800 --> 00:27:25,200
+schon eine solch große Plattform Macht etabliert worden ist, dass im Grunde die jegliche Konkurrenz
+
+248
+00:27:25,200 --> 00:27:32,400
+schon immer vor dem Problem steht, dass ein breiter Teil des Kuchens quasi schon vergeben ist?
+
+249
+00:27:32,400 --> 00:27:42,200
+Ich glaube, es gibt zwei oder mindestens zwei verschiedene Arten der Ansätze, wie man da
+
+250
+00:27:42,200 --> 00:27:50,200
+agieren könnte. Das sind jeweils kollektive Ansätze. Ich glaube, das individuelles Verhalten,
+
+251
+00:27:50,200 --> 00:27:54,800
+ich kann jetzt mein Verhalten auf Facebook ein bisschen so oder anders ausrichten. Grundsätzlich
+
+252
+00:27:54,800 --> 00:27:59,680
+kann ich an der Struktur nichts ändern. Also die individuelle Handlungsebene, die ja immer
+
+253
+00:27:59,680 --> 00:28:09,200
+so in den Vordergrund gesetzt wird, ist hier sehr, sehr beschränkt. Eine Handlungsebene
+
+254
+00:28:09,200 --> 00:28:18,360
+ist Transparenz zu schaffen, dass man weiß, was passiert, dass man weiß, wie ausgewählt
+
+255
+00:28:18,360 --> 00:28:26,000
+wird und da gibt es verschiedene Ansätze dazu. Der eine Ansatz, der beispielsweise die Datenschutzgrundverordnung
+
+256
+00:28:26,000 --> 00:28:33,040
+verfolgt, ist, dass es jetzt neu in Recht eingeführt wird, eine sozusagen relevante
+
+257
+00:28:33,040 --> 00:28:39,200
+Auskunft zu bekommen, wie ein Algorithmus funktioniert bzw. wie ein Entscheid zustande
+
+258
+00:28:39,200 --> 00:28:47,000
+gekommen ist. Das ist jetzt noch kein Algorithmentiff im Sinne einer Audit, eines Codes, sondern
+
+259
+00:28:47,000 --> 00:28:55,400
+das ist vielleicht eher wie auf einer Lebensmittelpackung, die Zutaten stehen, wo man sehen kann, wie
+
+260
+00:28:55,400 --> 00:29:02,000
+viel Zucker enthält etwas oder andere Dinge, wie viele Stabilisatoren sind in einer Schokolade
+
+261
+00:29:02,000 --> 00:29:07,960
+drin und Ähnliches. Das ist noch nicht das Rezept, nachdem dieses Lebensmittel hergestellt
+
+262
+00:29:07,960 --> 00:29:14,720
+wurde, aber es gibt mir eine gute Vorstellung davon, was es ist, was ich jetzt esse. Es
+
+263
+00:29:14,720 --> 00:29:20,320
+gibt mir einen Ansatz einer Vorstellung davon und das versucht die Datenschutzgrundverordnung
+
+264
+00:29:20,320 --> 00:29:24,760
+so etwas einzuführen, dass man Recht hat zu sehen, wie ein Entscheid zustande gekommen
+
+265
+00:29:24,760 --> 00:29:35,440
+ist. Die andere Art Transparenz zu schaffen, die mir eigentlich fast die Wichtigere erscheint,
+
+266
+00:29:35,440 --> 00:29:43,240
+ist, dass man Vergleichbarkeit generiert, weil wenn ich jetzt auf Facebook gehe oder auf
+
+267
+00:29:43,240 --> 00:29:53,240
+eine Google-Suche mache, habe ich keine Möglichkeit zu sehen, was ich nicht sehe. Ich sehe nur
+
+268
+00:29:53,240 --> 00:29:59,360
+ein Resultat und das Resultat hat eine gewisse Glaubwürdigkeit, hat eine gewisse Nützlichkeit.
+
+269
+00:29:59,360 --> 00:30:04,680
+Ich gehe auf Google, suche etwas und finde etwas, das ungefähr dem entspricht, was ich
+
+270
+00:30:04,680 --> 00:30:10,920
+denke finden zu können, weil es natürlich auch meinen Erwartungshorizont mit in die
+
+271
+00:30:10,920 --> 00:30:21,000
+Auswertung einnimmt. Ich gehe auf Facebook und sehe eine Auswahl von Meldungen von Leuten,
+
+272
+00:30:21,000 --> 00:30:28,120
+die ich kenne, aber ich kann nicht wissen, was ich nicht sehe. Eine Möglichkeit hier
+
+273
+00:30:28,120 --> 00:30:38,480
+Transparenz zu schaffen, wäre, verschiedene Algorithmen, verschiedene Filter in dem Fall,
+
+274
+00:30:38,480 --> 00:30:44,200
+verschiedene Suchstrategien vergleichbar zu machen. Wenn ich so suche, kommt das, wenn
+
+275
+00:30:44,200 --> 00:30:52,120
+ich so suche, kommt das. Schon nur, wenn ich wählen könnte, will ich die Personalisierung
+
+276
+00:30:52,120 --> 00:30:58,920
+anstellen oder ausstellen oder vielleicht auch wählen könnte, will ich meine eigene
+
+277
+00:30:58,920 --> 00:31:05,480
+Personalisierung oder die einer anderen Person. Da würde ich plötzlich sehen, aha, unter
+
+278
+00:31:05,480 --> 00:31:10,480
+dem kommt ja auch das, unter dem anderen und ich sehe jetzt plötzlich Dinge, die ich sonst
+
+279
+00:31:10,480 --> 00:31:17,000
+nicht sehen würde. Und das ist, glaube ich, diese Vergleichbarkeit des Outputs ist umso
+
+280
+00:31:17,000 --> 00:31:24,480
+wichtiger, weil diese Algorithmen ja vollkommen intransparent sind. Sie sind einerseits intransparent
+
+281
+00:31:24,480 --> 00:31:33,040
+aus Gründen der Geschäftsgeheimnisse, andererseits sind sie intransparent, weil sie sich dauernd
+
+282
+00:31:33,040 --> 00:31:44,200
+ändern. Die werden teilweise vorhand nachjustiert. Facebook sagt, die wollen jetzt weniger, sozusagen
+
+283
+00:31:44,200 --> 00:31:49,160
+kommerziell hergestellte News haben, sondern mehr sozusagen von deinen Freunden und dann
+
+284
+00:31:49,160 --> 00:31:53,560
+ändern sie die Algorithmen, weil sie ihr Geschäftsmodell oder ihre Ausrichtung ein bisschen ändern.
+
+285
+00:31:53,560 --> 00:32:02,120
+Das ist das eine. Das heißt, wir sind mit Outputs einer Maschine konfrontiert, die sich
+
+286
+00:32:02,120 --> 00:32:08,160
+dauernd ändert. In einer stabilen Maschine, in einer klassischen Blackbox, kann ich mit
+
+287
+00:32:08,160 --> 00:32:13,240
+der Zeit erahnen, wie die innen funktioniert, weil ich sehe, wenn ich x reindehne, dann
+
+288
+00:32:13,240 --> 00:32:18,320
+kommt y und wenn ich z reindehne, dann kommt a. Das ist okay, gut, das macht wahrscheinlich
+
+289
+00:32:18,320 --> 00:32:23,560
+dieses oder jenes. Aber diese neuen Algorithmen, die sind hochdynamisch. Das heißt, wenn
+
+290
+00:32:23,560 --> 00:32:32,040
+ich zweimal dasselbe reingebe, kommt nicht dasselbe raus. Das heißt, ich habe noch viel
+
+291
+00:32:32,040 --> 00:32:40,320
+weniger Möglichkeit zu verstehen, was da passiert. Ich kann das nur nehmen, wie es kommt. Wenn
+
+292
+00:32:40,320 --> 00:32:44,800
+ich es aber vergleichen kann, dann verstehe ich zwar immer noch nicht, was innen passiert,
+
+293
+00:32:44,800 --> 00:32:49,880
+aber ich sehe, dass es verschiedene Möglichkeiten gibt, das Problem zu lösen und dass vielleicht
+
+294
+00:32:49,880 --> 00:32:54,560
+eine besser ist als die andere oder eine nützlicher ist als die andere. Das heißt, die Frage,
+
+295
+00:32:54,560 --> 00:32:58,960
+wie ich hier Vergleichbarkeit schaffen kann, also Vergleichbarkeit zwischen verschiedenen
+
+296
+00:32:58,960 --> 00:33:06,400
+algorithmischen Strategien scheint mir sehr, sehr relevant zu sein, um Transparenz zu schaffen,
+
+297
+00:33:06,400 --> 00:33:11,880
+die eben weitergeht wie nur eine Liste von, ja, wir berücksichtigen Alter, Wohnort und
+
+298
+00:33:11,880 --> 00:33:23,200
+sozusagen Einkommen im Filter, den wir konstruieren. Transparenz ist so die eine Richtung, das
+
+299
+00:33:23,200 --> 00:33:29,720
+wird beides nur gehen, die Datenschutzgrundverordnung hat da angefangen, wir beides nur gehen mit
+
+300
+00:33:29,720 --> 00:33:34,280
+staatlicher Regulierung, die sowas vorschreibt, weil das natürlich nicht im Interesse des
+
+301
+00:33:34,280 --> 00:33:40,440
+Anbieters ist. Interesse des Anbieters ist sozusagen, ihre eigenen Entscheidungen quasi
+
+302
+00:33:40,440 --> 00:33:47,160
+unsichtbar zu machen und damit aus jeder Kritik, aus jeder Kollektivitätskontrolle, aus jeder
+
+303
+00:33:47,160 --> 00:33:53,880
+politischen Verhandlung zu entfernen. Das ist der eine Teil. Und der andere Teil ist sicher,
+
+304
+00:33:53,880 --> 00:34:05,360
+eine gewisse Regelung, gewisse Grenzen einzuführen, was ein Algorithmus darf, was er kann, können
+
+305
+00:34:05,360 --> 00:34:12,960
+sein muss und wie die Verantwortlichkeit für Entscheidungen konstruiert ist. Also beispielsweise
+
+306
+00:34:12,960 --> 00:34:21,480
+wenn ein Algorithmus eine Fehlentscheidung macht, dann kann ich niemanden zur sozusagen
+
+307
+00:34:21,480 --> 00:34:27,960
+Verantwortung ziehen. Weil wer ist es? Ist es die Stelle, die ihn einsetzt? Ist es die
+
+308
+00:34:27,960 --> 00:34:33,120
+Stelle, die ihn geschrieben hat? Ist es sozusagen, ist es überhaupt ein Fehlentscheid oder ist
+
+309
+00:34:33,120 --> 00:34:40,480
+es sozusagen nur ein personalisierter Entscheid und so weiter. Und damit kreieren wir eine
+
+310
+00:34:40,480 --> 00:34:51,320
+Serie von sehr problematischen Anreizen. Beispielsweise, wenn mein Ziel ist, die Rate derjenigen zu
+
+311
+00:34:51,320 --> 00:34:59,800
+senken, die, beispielsweise ich bin Versicherer, ich biete Autoversicherungen an und ich will
+
+312
+00:34:59,800 --> 00:35:07,800
+diejenigen nicht versichern oder die teurer versichern, die mit größerer Wahrscheinlichkeit
+
+313
+00:35:07,800 --> 00:35:14,400
+einen Unfall machen. Das ist klassisches Versicherungsmathematik. Aber wenn ich jetzt
+
+314
+00:35:14,400 --> 00:35:21,880
+sage, okay, ich habe jetzt einen neuen Algorithmus, der mir das macht, damit kann ich sozusagen,
+
+315
+00:35:21,880 --> 00:35:35,120
+aus irgendeiner Population habe ich 100 richtige Identifikationen, also Leute, die tatsächlich
+
+316
+00:35:35,120 --> 00:35:43,000
+höhere Wahrscheinlichkeit haben. Ich habe aber auch 30 Folgen drin. Leute, die sozusagen
+
+317
+00:35:43,000 --> 00:35:48,960
+jetzt ungerechtfertigt entweder die Dienstleistung nicht bekommen oder sie zu einem höheren
+
+318
+00:35:48,960 --> 00:35:54,360
+Preis bekommen, dann macht sich das aus einer betriebswirtschaftlichen Rechnung Sinn. Ich
+
+319
+00:35:54,360 --> 00:36:08,080
+habe mich immer noch um 70 Fälle verbessert. Aus der Sichtweise des Nutzers, der ist dann
+
+320
+00:36:08,080 --> 00:36:13,240
+plötzlich mit dem System konfrontiert, dass er aus seiner Perspektive, aus ihrer Perspektive
+
+321
+00:36:13,240 --> 00:36:19,160
+vollkommen willkürlich entscheidet. Ich will mit dem Fehlentscheid konfrontiert und ich
+
+322
+00:36:19,160 --> 00:36:23,280
+kann nichts dagegen machen, weil sozusagen für den Anbieter es ist egal. Und ich weiß
+
+323
+00:36:23,280 --> 00:36:27,600
+ja nicht mal genau, woher der kommt. Ich kann ja nicht mal sicher sagen, dass das ein Fehlentscheid
+
+324
+00:36:27,600 --> 00:36:39,000
+ist. Und hier denke ich, ist es wichtig, dass auch die Frage der Verantwortung und das heißt
+
+325
+00:36:39,000 --> 00:36:46,920
+in einem ökonomischen Sinn auch der Schadenersatz so geregelt wird, dass diese Anreize anders
+
+326
+00:36:46,920 --> 00:36:53,920
+funktionieren. Dass es eben ein schlechter Algorithmus ist, der 30 Leute fälschlicherweise
+
+327
+00:36:53,920 --> 00:36:59,280
+aussortiert, aber 100 richtig identifiziert, dass die Rechnung einfach nicht mehr funktioniert.
+
+328
+00:36:59,280 --> 00:37:05,760
+Das wäre sozusagen der zweite oder der dritte Punkt. Das erste ist Transparenz, der zweite
+
+329
+00:37:05,760 --> 00:37:16,480
+ist sozusagen eine Begrenzung dessen, was erlaubt ist. Und das dritte ist Frage nach
+
+330
+00:37:16,480 --> 00:37:21,880
+den Konsequenzen, die einklagbar sein müssen und die mit Schadenersatz verbunden sein müssen,
+
+331
+00:37:21,880 --> 00:37:22,880
+weil sonst sind sie irrelevant.
+
+332
+00:37:22,880 --> 00:37:29,140
+Da gibt es jetzt ein paar Anschlussfragen, die sich mir stellen. Zum einen ganz konkret
+
+333
+00:37:29,140 --> 00:37:36,840
+in Bezug auf die ja eigentlich künstliche Limitierung der Algorithmen auf Algorithmen,
+
+334
+00:37:36,840 --> 00:37:42,360
+die eigentlich letztlich vollständig nachvollziehbar bleiben. Ist es nicht so, dass diese Grenze
+
+335
+00:37:42,360 --> 00:37:46,560
+jetzt schon überschritten worden ist? Also gibt es nicht schon längst Algorithmen, die
+
+336
+00:37:46,560 --> 00:37:52,400
+eigentlich von Menschen selbst im Grunde nicht mehr nachvollziehbar sind, weil eigentlich
+
+337
+00:37:52,400 --> 00:37:59,440
+Algorithmen Algorithmen trainieren und dann sagen am Ende einer für den Menschen im Grunde
+
+338
+00:37:59,440 --> 00:38:05,640
+allein schon aus kognitiven Fähigkeiten, also aus der Begrenzung der kognitiven Fähigkeiten
+
+339
+00:38:05,640 --> 00:38:12,120
+heraus, dass es dann eigentlich nicht mehr nachvollziehbar ist? Und ist es dann, scheint
+
+340
+00:38:12,120 --> 00:38:13,360
+es realistisch für dich?
+
+341
+00:38:13,360 --> 00:38:21,400
+Das hat wiederum zu tun mit der Frage, was ein Algorithmus ist.
+
+342
+00:38:21,400 --> 00:38:31,000
+Wenn ich sage, ein Algorithmus ist eine Serie von kodierten Schritten und das fängt sozusagen
+
+343
+00:38:31,000 --> 00:38:36,240
+mit der ersten Zeile des Codes an und hört auf mit der letzten Zeile des Codes, dann
+
+344
+00:38:36,240 --> 00:38:44,820
+ist es tatsächlich so, dass wir mit ganz vielen Algorithmen zu tun haben, die wir nicht mehr
+
+345
+00:38:44,820 --> 00:38:53,040
+lesen können. Und wenn wir sie endlich gelesen haben und vielleicht auch verstanden hätten,
+
+346
+00:38:53,040 --> 00:38:57,840
+falls das noch geht, dann stimmt das, was wir verstanden haben, schon nicht mehr, weil
+
+347
+00:38:57,840 --> 00:39:03,160
+der Algorithmus sich selber immer weiterentwickelt. Das heißt, wir haben auf der Ebene des Codes
+
+348
+00:39:03,160 --> 00:39:13,900
+tatsächlich die Situation, dass wir vieles nicht mehr verstehen. Aber wenn wir etwas
+
+349
+00:39:13,900 --> 00:39:20,280
+erweiterten Begriff des Algorithmus nehmen, dann ist ein Algorithmus eben immer eingebettet
+
+350
+00:39:20,280 --> 00:39:28,840
+in ein institutionelles Gefüge, der einerseits das Problem definiert und andererseits die
+
+351
+00:39:28,840 --> 00:39:35,280
+Lösung definiert. Also was ist eine gute Lösung? Was der Algorithmus dann macht, ist
+
+352
+00:39:35,280 --> 00:39:45,720
+einen Weg zu finden von Problem zur Lösung. Aber wir können einen Algorithmus nicht trainieren,
+
+353
+00:39:45,720 --> 00:39:52,480
+wenn wir nicht eine Vorstellung haben von der Lösung. Also wir wollen einen Gesichtserkennungsalgorithmus
+
+354
+00:39:52,480 --> 00:39:59,440
+definieren, der eine Person erkennt, die auf einem Video ist und das gegen eine Datenbank
+
+355
+00:39:59,440 --> 00:40:12,960
+von gespeicherten Passfotos abgleicht. Dann müssen wir zuerst eine Serie von Videos haben,
+
+356
+00:40:12,960 --> 00:40:20,200
+wo wir wissen, wer drauf ist und sagen, schau, das ist so, das ist so, das ist so. Und dann
+
+357
+00:40:20,200 --> 00:40:26,160
+können wir anfangen, den Algorithmus zu trainieren. Das heißt, auch wenn wir vielleicht nicht
+
+358
+00:40:26,160 --> 00:40:32,640
+mehr wissen, den Code nicht mehr lesen können, wissen wir immer noch, wie ist das Problem
+
+359
+00:40:32,640 --> 00:40:39,600
+definiert und was ist die Lösung. Das heißt, wir können dann auf der Ebene des Schrittes
+
+360
+00:40:39,600 --> 00:40:48,520
+vorher und nachher immer noch eine Analyse dieses Algorithmus machen, jetzt weniger als
+
+361
+00:40:48,520 --> 00:40:56,040
+ein technisches Artefakt, sondern als ein institutionelles Artefakt. Was für eine Entscheidungskette
+
+362
+00:40:56,040 --> 00:41:06,280
+wird hier gemacht und ist die kompatibel mit Dingen, die wir in der Gesellschaft hochhalten,
+
+363
+00:41:06,280 --> 00:41:15,040
+Antidiskriminierung, sozusagen Preistransparenz, was es danach immer ist und um was es konkret
+
+364
+00:41:15,040 --> 00:41:22,520
+geht. Aber wir können diese rein technische Intransparenz, kann man sozusagen begegnen,
+
+365
+00:41:22,520 --> 00:41:27,960
+indem man eine institutionelle Analyse macht, die diesen Algorithmus ja erst hervorbringt,
+
+366
+00:41:27,960 --> 00:41:32,920
+diesen Algorithmus sozusagen laufen lässt, die auch laufend korrigiert, ob er immer noch
+
+367
+00:41:32,920 --> 00:41:40,040
+aufs Ziel hingeht und wenn nicht, Adaptionen macht, damit er genau auf das Ziel ist. Das
+
+368
+00:41:40,040 --> 00:41:46,360
+heißt, solange wir das Problem und das Ziel, also das Problem und die Lösung kennen, müssen
+
+369
+00:41:46,360 --> 00:41:54,240
+wir gar nicht so genau wissen, ob die Schritte, die gemacht werden, um von A nach B zu kommen,
+
+370
+00:41:54,240 --> 00:41:55,240
+wie die aussehen.
+
+371
+00:41:55,240 --> 00:41:59,760
+Auch nicht für das, was du eben angesprochen hattest, also für die Frage zum Beispiel
+
+372
+00:41:59,760 --> 00:42:04,520
+einer rechtlichen Verantwortlichkeit für getroffene Entscheidungen. Das wäre, glaube
+
+373
+00:42:04,520 --> 00:42:08,760
+ich, der erste Aspekt, der sich mir stellt. Und die zweite Frage wäre, vor, ich glaube,
+
+374
+00:42:08,760 --> 00:42:16,320
+einem Jahr oder anderthalb gab es ja dieses relativ Publicity-trechtige, die so eine Presse
+
+375
+00:42:16,320 --> 00:42:22,240
+Sendung, wo, glaube ich, Deep Mind darauf trainiert worden ist, so Old-School-Arcade-Games
+
+376
+00:42:22,240 --> 00:42:29,600
+zu erlernen ohne jegliche Zieldefinierung. Weil sie noch nicht mal, glaube ich, soweit
+
+377
+00:42:29,600 --> 00:42:33,160
+ich mich erinnern kann, als ich das gelesen hatte, noch nicht mal gesagt worden ist, es
+
+378
+00:42:33,160 --> 00:42:38,360
+handelt sich um ein Spiel, noch gesagt worden ist, erlerne dieses Spiel, sondern, so habe
+
+379
+00:42:38,360 --> 00:42:42,760
+ich es zumindest verstanden, dass es einfach nur zueinander gesetzt worden ist und dann
+
+380
+00:42:42,760 --> 00:42:49,800
+auf Basis dessen dann die günstliche Intelligenz sowohl das Spiel erlernt hat und eine Meisterschaft
+
+381
+00:42:49,800 --> 00:42:53,360
+darin erlangt hat, die jedes menschliche Tun bei weitem übertrifft.
+
+382
+00:42:53,360 --> 00:43:01,680
+Also Spiele haben ja in sich eine ganz klare Lösung drin. Also mach Punkte, next level,
+
+383
+00:43:01,680 --> 00:43:09,600
+sei schneller. Und Spiele sind eigentlich sehr gut, um sie zu lernen, weil es man eben
+
+384
+00:43:09,600 --> 00:43:16,160
+dann sagen kann, okay, der eine algorithmische Strategie, die hat 7350 Punkte geschafft und
+
+385
+00:43:16,160 --> 00:43:22,160
+die andere algorithmische Strategie hat 7480 Punkte geschafft. Also ist klar, zwei ist
+
+386
+00:43:22,160 --> 00:43:28,240
+besser als eins, wir fahren dort weiter. Von dem her ist auch da natürlich eine Lösung
+
+387
+00:43:28,240 --> 00:43:30,760
+ist drinnen. Aber Sie haben noch nicht mal dem Algorithmus
+
+388
+00:43:30,760 --> 00:43:36,280
+gesagt, dass es sich um ein Spiel handelt. Ich glaube, das war so ein bisschen der Punkt,
+
+389
+00:43:36,280 --> 00:43:40,520
+worauf Sie hinweisen wollen, weil das sozusagen ein Spiel an sich gut erlernt werden kann,
+
+390
+00:43:40,520 --> 00:43:46,320
+weil es eben ja mit quantifizierbaren Parametern arbeitet. Das hätte jetzt nicht so verwundert.
+
+391
+00:43:46,320 --> 00:43:52,760
+Ich glaube, was betont worden war, war wirklich der Aspekt, dass vorher, also dass diese Zielmaßgabe
+
+392
+00:43:52,760 --> 00:43:57,120
+eben nicht gesetzt wurde, glaube ich. Da müsste man sich eben im Detail anschauen.
+
+393
+00:43:57,120 --> 00:44:04,240
+Also ein Training kann nicht funktionieren ohne Ziel, weil man immer, gerade diese Selbstlernen
+
+394
+00:44:04,240 --> 00:44:10,560
+Algorithmen sind ja iterativ. Sie sind in Feedback schlafen, immer wieder zehntausende,
+
+395
+00:44:10,560 --> 00:44:17,480
+hunderttausende, millionenfach. Und was passiert ist, also wie das funktioniert, ist, dass man
+
+396
+00:44:17,480 --> 00:44:24,960
+beginnt mit sehr primitiven Lösungsstrategien und schaut dann, wie nah sind Sie am Ziel.
+
+397
+00:44:24,960 --> 00:44:33,360
+Und diejenige, die näher ist, die nimmt man, macht ganz viele Variationen, schaut, welches näher,
+
+398
+00:44:33,360 --> 00:44:38,760
+dann nimmt man die, die am nächsten ist, macht ganz viele Variationen davon und so weiter.
+
+399
+00:44:38,760 --> 00:44:43,520
+Das heißt, ganz ohne eine Zielstrategie kann so ein Lernprozess nicht funktionieren.
+
+400
+00:44:43,520 --> 00:44:49,920
+Von dem her ist die Frage, auf welcher Abstraktionsebene macht man das Spiel. Also macht man diese
+
+401
+00:44:49,920 --> 00:44:58,160
+Lernprozesse. Vielleicht heißt es jetzt in dem Fall noch, lerne selber die Regeln des Spiels und
+
+402
+00:44:58,160 --> 00:45:09,400
+dann wird gut darin. Die Zielvorgabe ist abstrakt. Aber jetzt sozusagen, wenn der Algorithmus zuerst
+
+403
+00:45:09,400 --> 00:45:14,840
+entscheiden muss, will ich überhaupt das Spiel spielen, dann wird das nicht gehen, weil er dann
+
+404
+00:45:14,840 --> 00:45:19,840
+nicht weiß, was er lernen soll. Das heißt, Algorithmen sind eigentlich immer, auch nach wie vor,
+
+405
+00:45:19,840 --> 00:45:35,680
+sehr eng im Sinne dieser Lösungsfindung auf und vor definiertes Problem. Generelle künstliche
+
+406
+00:45:35,680 --> 00:45:43,080
+Intelligenz, die sozusagen diesen Range von Problemen lösen kann, wie das menschliche
+
+407
+00:45:43,080 --> 00:45:51,040
+Intelligenz ist, ist nach allem, was ich weiß, noch sehr, sehr weit weg. Wir können eben sehr,
+
+408
+00:45:51,040 --> 00:45:59,040
+sehr gut was trainieren, um Gesicht zu erkennen in Bildern. Aber das ist was fundamental anderes,
+
+409
+00:45:59,040 --> 00:46:07,680
+wie ein Algorithmus, der weiß, wie ich im Roboter eine weiche Traumate aufgreife,
+
+410
+00:46:07,680 --> 00:46:14,120
+ohne sie zu zerdrücken. Das sind fundamental andere Algorithmen, die sich auch nicht einfach
+
+411
+00:46:14,120 --> 00:46:23,040
+verbinden lassen. Von dem her glaube ich, dieses Zielgerichtete ist ganz, ganz entscheidend. Und
+
+412
+00:46:23,040 --> 00:46:31,080
+ohne das gibt es meines Wissens nach so gut wie nichts oder gar nichts, dass man tatsächlich als
+
+413
+00:46:31,080 --> 00:46:43,160
+Lernend betrachten könnte. Der erste Teil war, ob die Frage der rechtlichen Verantwortung auch
+
+414
+00:46:43,160 --> 00:46:50,120
+damit beantwortet ist, dass man sagt, wir wissen noch um einen Anfang und um ein Ziel. Und über
+
+415
+00:46:50,120 --> 00:46:56,440
+die Setzung dieser Parameter können wir quasi auch eine von mir aus Einklagbarkeit erstellen,
+
+416
+00:46:56,440 --> 00:47:00,200
+wenn jetzt zum Beispiel, wie du das bei der Versicherung gesagt hast, die 30 Leute dann zu
+
+417
+00:47:00,200 --> 00:47:04,920
+Unrecht einen höheren Beitrag zahlen oder so. Die Frage ist, was müssen die dann ja auch liefern
+
+418
+00:47:04,920 --> 00:47:10,840
+als Beweisführung oder liegt die Pflicht zur Beweisführung dann bei der Versicherung? Das
+
+419
+00:47:10,840 --> 00:47:20,480
+wäre ja zum Beispiel logisch. Das wäre die Frage. Also beispielsweise, wenn man ein
+
+420
+00:47:20,480 --> 00:47:30,080
+Antidiskriminierungsverbot nimmt und dann gibt es einen, jemand wird angehalten, von der Polizei
+
+421
+00:47:30,080 --> 00:47:36,480
+eingekontrolliert und die reist nach einer Diskriminierungsklage ein und sagt, ich bin
+
+422
+00:47:36,480 --> 00:47:46,720
+hier nur kontrolliert worden, weil ich eine dunkle Hautfarbe habe. Dann würde jetzt der
+
+423
+00:47:46,720 --> 00:47:53,000
+Polizist ja gefragt, nachher um das zu entscheiden, ob das jetzt tatsächlich ein diskriminierender
+
+424
+00:47:53,000 --> 00:47:59,600
+Handler war oder nicht. Er sagt, warum hast du diese Person kontrolliert? Und dann sagt er vielleicht,
+
+425
+00:47:59,600 --> 00:48:06,760
+ja ich hatte hier den Auftrag, jede zehnte Person, die an dieser Ecke vorbeigeht, zu kontrollieren.
+
+426
+00:48:06,760 --> 00:48:14,440
+Das war mein Auftrag, den habe ich ausgeführt, das war die zehnte Person, fertig, oder? Und dann
+
+427
+00:48:14,440 --> 00:48:24,400
+wäre sozusagen die Frage der inneren Motivation des Polizisten, wäre eigentlich auch relativ egal.
+
+428
+00:48:24,400 --> 00:48:31,120
+Das wäre sozusagen der Code, den wir auch nicht ganz verstehen, warum hat er das jetzt gemacht.
+
+429
+00:48:31,120 --> 00:48:37,480
+Wäre relativ egal, weil er in einem ganz klaren regelgebundenen Ablaufsystem drin war. Und dann
+
+430
+00:48:37,480 --> 00:48:44,680
+könnte man aber sozusagen die nächste Frage stellen, warum wurde diese Art von Kontrolle an dieser Ecke
+
+431
+00:48:44,680 --> 00:48:53,720
+durchgeführt? Ist es nicht klar, dass an dieser Ecke nur sozusagen, weil das eine Gegend ist,
+
+432
+00:48:53,720 --> 00:48:58,920
+die und die Gruppe von Personen vorbeikommt. Dann wäre aber die Verantwortung sozusagen,
+
+433
+00:48:58,920 --> 00:49:06,760
+ob das jetzt ein Racial Profiling ist, nicht mehr beim einzelnen Polizisten, sondern sozusagen
+
+434
+00:49:06,760 --> 00:49:14,440
+eine Ebene höher beim Einsatzleiter gesagt, geh dorthin. Und insofern kann man das schon
+
+435
+00:49:14,440 --> 00:49:27,480
+auf dieser institutionellen Ebene, wer definiert das Problem und wer macht sowohl das Problem und
+
+436
+00:49:27,480 --> 00:49:34,560
+die Lösung definieren. Und dann die Frage, ob diese Problemdefinition und diese Lösungsstrategie
+
+437
+00:49:34,560 --> 00:49:42,760
+diskriminierend waren, muss dann halt im Einzelfall entschieden werden. Das können wir aber heute
+
+438
+00:49:42,760 --> 00:49:48,720
+sozusagen in anderen Bereichen ja auch machen. Und die Frage ist da nur nicht, oh Gott, wir haben da
+
+439
+00:49:48,720 --> 00:49:54,280
+eine Million Fälle, die wir dann plötzlich jeden Tag entscheiden müssen, sondern nur, was ist der
+
+440
+00:49:54,280 --> 00:50:04,200
+Preis dafür, wenn Diskriminierung festgestellt wird und lohnt sich jetzt für den Anbieter,
+
+441
+00:50:04,200 --> 00:50:10,200
+das Risiko, diesen Preis zahlen zu müssen, wenn Diskriminierung festgestellt wird. Das ist eine
+
+442
+00:50:10,200 --> 00:50:16,160
+betriebswirtschaftliche Überlegung. Und da muss diese Ausgestaltung der Verantwortung nach der
+
+443
+00:50:16,160 --> 00:50:23,280
+möglichen Schadenersatzforderungen entsprechend gestaltet sein. Das wäre sagen ein Lösungsvorschlag,
+
+444
+00:50:23,280 --> 00:50:30,120
+wie du es jetzt gerade sagst, dass wir halt quasi ein Regelwerk erschaffen für Fälle der
+
+445
+00:50:30,120 --> 00:50:33,720
+Diskriminierung und wie dann vorgegangen wird. Aber das kann dann immer noch heißen, dass der
+
+446
+00:50:33,720 --> 00:50:41,400
+Versicherer oder die Versichererin selbst, also die Firma jetzt, selbst das intern gar nicht
+
+447
+00:50:41,400 --> 00:50:48,120
+nachvollziehen kann eventuell, oder? Weil zum Beispiel der Algorithmus sich selbst trainiert hat und
+
+448
+00:50:48,120 --> 00:50:54,440
+innerhalb des Trainings darauf gekommen ist, dass ja bestimmte ZIP-Codes, bestimmte Postleitzahlen
+
+449
+00:50:54,440 --> 00:51:00,560
+irgendwie zu günstigeren Ergebnissen führen für die Versicherung. Aber ohne dass der Algorithmus
+
+450
+00:51:00,560 --> 00:51:06,480
+das jetzt wusste, sind das halt dann Postleitzahlen, in denen mehrheitlich Leute mit zum Beispiel
+
+451
+00:51:06,480 --> 00:51:11,240
+Migrationshintergrund leben und so weiter und so fort. Also das könnte dann immer noch passieren,
+
+452
+00:51:11,240 --> 00:51:21,680
+oder? Das könnte immer noch passieren, aber dann ist es halt klassisches Compliance einer Firma,
+
+453
+00:51:21,680 --> 00:51:32,120
+halt darauf ein Auge zu werfen. Im Grunde ist ein Algorithmus nichts anderes, wie automatisiert
+
+454
+00:51:32,120 --> 00:51:37,640
+die Arbeit von potenziell sehr vielen Leuten. Mit Mitteln, die Menschen nicht zur Verfügung
+
+455
+00:51:37,640 --> 00:51:44,680
+stünden in dem Fall dann auch, oder? Ja, es ist eine Automatisierung halt. Und wenn man es jetzt
+
+456
+00:51:44,680 --> 00:51:53,240
+aber sozusagen zurück übersetzt in sehr viele Leute, dann kann man ja auch nicht sagen, der CEO
+
+457
+00:51:53,240 --> 00:51:59,560
+einer Firma kann ja unmöglich wissen, was alle 100.000 Angestellten machen. Wie kann der verantwortlich
+
+458
+00:51:59,560 --> 00:52:04,720
+sein für das, was die Firma macht? Ist er aber. Ja, das wollte ich auch gar nicht. Also ich wollte
+
+459
+00:52:04,720 --> 00:52:09,160
+nicht sagen, dass die Firma deswegen nicht mehr... Nein, nein, ich sage nur, nur weil das in einer
+
+460
+00:52:09,160 --> 00:52:15,200
+anderen Materialität, in einer anderen Sprache ist, eine Sprache, die tatsächlich oft schwierig zu
+
+461
+00:52:15,200 --> 00:52:23,960
+verstehen ist und teilweise sozusagen in Echtzeit nicht verständlich ist für niemanden, heißt ja
+
+462
+00:52:23,960 --> 00:52:31,120
+nicht, dass diese klassischen Themen der Verantwortung, der sozusagen Rechtssicherheit und
+
+463
+00:52:31,120 --> 00:52:39,200
+weiß ich nicht was, nicht mehr gelten. Es ist einfach ein Versuch, sich dieser Verantwortung zu
+
+464
+00:52:39,200 --> 00:52:45,160
+entziehen, indem man sagt, ja, das sind Maschinen. Google sagt, das ist ja immer nur ein Algorithmus,
+
+465
+00:52:45,160 --> 00:52:49,040
+wir sind nicht verantwortlich für die Suchresultate. Tatsächlich sind sie natürlich verantwortlich
+
+466
+00:52:49,040 --> 00:52:55,560
+für die Suchresultate, weil sie verantwortlich für den Algorithmus sind und tatsächlich die
+
+467
+00:52:55,560 --> 00:53:02,880
+Suchresultate so gestalten, dass es innerhalb ihres Businessmodells richtig ist. Vielleicht gehen wir
+
+468
+00:53:02,880 --> 00:53:10,800
+mal zur Ebene der gesellschaftspolitischen Entwürfe, weil da ist es ja schon so, dass die
+
+469
+00:53:10,800 --> 00:53:19,200
+ungeheure Effizienz, die ja durchaus entsteht durch die Verfügbarkeit dieser großen Datenmengen und
+
+470
+00:53:19,200 --> 00:53:24,320
+die entsprechende Rechenleistung, die eben nicht jedem Akteur zur Verfügung steht, sondern nur
+
+471
+00:53:24,320 --> 00:53:34,480
+wenigen, dass die eine Convenience, eine Bequemlichkeit in der alltäglichen Interaktion
+
+472
+00:53:34,480 --> 00:53:39,720
+mit den jeweiligen Produkten erzeugt, die unglaublich verführerisch ist. Also eben Google Maps ist
+
+473
+00:53:39,720 --> 00:53:44,880
+wirklich also in den allermeisten Fällen unglaublich praktisch, unglaublich gut, auch
+
+474
+00:53:44,880 --> 00:53:52,680
+einfach und dem zu widerstehen gelingt den wenigsten. Wenn man das jetzt umlegt auf eine
+
+475
+00:53:52,680 --> 00:53:57,800
+größere gesellschaftspolitische Vision von Zukunft, jetzt mal ganz grob gesprochen, ja,
+
+476
+00:53:57,800 --> 00:54:06,320
+was siehst du für Entwürfe von Zukunft, die es schaffen, diesem Bequemlichkeitsangebot,
+
+477
+00:54:06,320 --> 00:54:15,880
+das da ja im Raume steht, zu widerstehen? Ich würde das nicht als ein Bequemlichkeitsangebot
+
+478
+00:54:15,880 --> 00:54:26,360
+bezeichnen und deshalb sozusagen die Frage, dem Zuckerl zu widerstehen, glaube ich, ist eine
+
+479
+00:54:26,360 --> 00:54:31,320
+falsche Art, darüber zu denken. Ich glaube, das sind Angebote, die uns erlauben, eine sehr,
+
+480
+00:54:31,320 --> 00:54:38,360
+sehr viel komplexere Welt zu navigieren. Nehmen wir Google Maps. Wir reisen alle viel mehr. Wir
+
+481
+00:54:38,360 --> 00:54:47,480
+sind alle viel mehr an Orten, an denen wir uns nicht gut auskennen. Und jetzt ist natürlich
+
+482
+00:54:47,480 --> 00:54:55,160
+Google Maps sehr, sehr gut, um sich an den Orten, wo ich mich nicht gut auskenne, von A nach B zu
+
+483
+00:54:55,160 --> 00:55:03,000
+finden. Und dass wir es oft in diesen Situationen sind, ist eine Funktion eines veränderten Lebens.
+
+484
+00:55:03,000 --> 00:55:13,320
+Ich will wissen, was für ein Angebot gibt es, um von A nach B zu fliegen. Da ist die Komplexität
+
+485
+00:55:13,320 --> 00:55:20,640
+sozusagen des Marktes so gross, dass ich überhaupt nicht fähig bin, mich zu orientieren, ohne die
+
+486
+00:55:20,640 --> 00:55:29,720
+Hilfe von Plattformen, die diese Angebote sozusagen aggregieren und vergleichbar machen. Für sehr,
+
+487
+00:55:29,720 --> 00:55:39,040
+sehr viele Probleme, wie optimiere ich den Verkehr in der Stadt? Brauche ich sehr große Datenmengen,
+
+488
+00:55:39,040 --> 00:55:45,840
+um einen anderen Blick darauf zu bekommen? Wie können wir vielleicht komplex auch über
+
+489
+00:55:45,840 --> 00:55:53,000
+Energiekreisläufe da nachdenken und entsprechend unser Wirtschaftssystem reorganisieren? Brauchen
+
+490
+00:55:53,000 --> 00:55:58,480
+wir sehr, sehr komplexe Modelle, die auf sehr, sehr großen Datenmengen generieren? Insofern sind diese
+
+491
+00:55:58,480 --> 00:56:06,560
+sozusagen algorithmischen Dienstleistungen, die uns erlauben, die Welt anders zu sehen,
+
+492
+00:56:06,560 --> 00:56:12,800
+notwendig, weil wir brauchen ein anderes Bild der Welt. Auf ganz, ganz vielen Gründen. Nichts
+
+493
+00:56:12,800 --> 00:56:20,680
+zuletzt eben aus Klimaschutzgründen. Aber wir leben halt auch in einer Welt, die dynamisch ist,
+
+494
+00:56:20,680 --> 00:56:28,760
+die sehr groß ist, weil wir uns sehr weit bewegen und entsprechend brauchen wir Hilfsmittel, um uns
+
+495
+00:56:28,760 --> 00:56:38,480
+zu orientieren. Von dem her würde ich das nicht als sozusagen etwas sehen, dass das jetzt nur
+
+496
+00:56:38,480 --> 00:56:45,160
+Bequemlichkeit ist. Es hat das schon auch, wie wir schon darüber gesprochen haben, diese eine Art,
+
+497
+00:56:45,160 --> 00:56:49,240
+sich zu orientieren, jetzt bei Google Maps beispielsweise, die ersetzt zunehmend auch
+
+498
+00:56:49,240 --> 00:56:54,400
+andere Arten, sich zu orientieren. Das heißt, man wird danach sozusagen von diesem neuen Normal bis
+
+499
+00:56:54,400 --> 00:57:01,120
+zu einem gewissen Grad abhängig. Aber das heißt einfach, wir werden abhängig als Gesellschaft von
+
+500
+00:57:01,120 --> 00:57:06,600
+den Werkzeugen, mit denen die Gesellschaft gebaut ist. Das war eigentlich schon immer so. Das Problem
+
+501
+00:57:06,600 --> 00:57:17,000
+kommt jetzt daher, dass wir diese Hilfsmittel, die uns erlauben sozusagen die Welt zu sehen in
+
+502
+00:57:17,000 --> 00:57:22,920
+einer Art und Weise, wie sie unserem Verhalten in der Welt entspricht, die bekommen wir im Rahmen
+
+503
+00:57:22,920 --> 00:57:31,760
+eines Paketes. Und dieses Paket sagt, wir geben dir das Tool, aber du hast überhaupt keine Möglichkeit
+
+504
+00:57:31,760 --> 00:57:39,280
+zu sehen, wie wir dich über dieses Tool beeinflussen können. Wie wir dich steuern können,
+
+505
+00:57:39,280 --> 00:57:47,160
+was du siehst und wie du dich bewegst. Wir wissen nicht, wie Google Maps, das ist noch
+
+506
+00:57:47,160 --> 00:57:52,320
+ein relativ nachvollziehbares Beispiel, weil es tatsächlich in der Stadt ist und ich kann mich
+
+507
+00:57:52,320 --> 00:57:56,000
+dadurch bewegen und sehen, ah, ich hätte auch anders gehen können. Aber wir wissen nicht,
+
+508
+00:57:56,000 --> 00:58:06,560
+wie es an der Route zustande kommt. Und man kann sich einfach vorstellen, wie beispielsweise ein
+
+509
+00:58:06,560 --> 00:58:12,160
+Staat, Google sagt, wir wollen aber nicht, dass zu viel Verkehr an dieser Ecke vorbeigeht,
+
+510
+00:58:12,160 --> 00:58:19,200
+weil die ist sensitiv. Und dann werden wir nie die Route an dieser Ecke bekommen und wir wissen
+
+511
+00:58:19,200 --> 00:58:25,320
+nicht, warum. Und da liegt das Problem. Das Problem, dass diese Tools, wir brauchen die,
+
+512
+00:58:25,320 --> 00:58:32,920
+die sind positiv, die erlauben uns sozusagen in der Gegenwart zu leben. Und sehr, sehr komplexe
+
+513
+00:58:32,920 --> 00:58:37,760
+Probleme, die wir haben, die ja nicht einfach sozusagen von diesen Tools gemacht wurden,
+
+514
+00:58:37,760 --> 00:58:44,200
+sondern die bestehen ja. Vielleicht besser anzugehen wie ohne diese Tools. Aber sie sind
+
+515
+00:58:44,200 --> 00:58:56,280
+gefasst in einer sozusagen politisch-ökonomischen Institution, die keine Regeln akzeptieren will,
+
+516
+00:58:56,280 --> 00:59:02,920
+also demokratische Fassungen und sozusagen die, die diese Macht, die damit zusammenhängt,
+
+517
+00:59:02,920 --> 00:59:12,240
+vollkommen intransparent verwaltet. Und da keinerlei Möglichkeiten sind, von den demokratischen,
+
+518
+00:59:12,240 --> 00:59:19,960
+oder schwachen Möglichkeiten bisher nur, von den demokratisch verfassten Willensbekundungen,
+
+519
+00:59:19,960 --> 00:59:27,960
+da gewisse Regeln einzuführen, gewisse Beschränkungen einzuführen, gewisse Entwicklungslinien
+
+520
+00:59:27,960 --> 00:59:33,600
+zu präferieren und andere sozusagen abzuklemmen. Da habe ich mich vielleicht dann eben auch zu
+
+521
+00:59:33,600 --> 00:59:37,160
+ungenau ausgedrückt, weil ich meinte nämlich auch gar nicht unbedingt, dass mit dem Zucker,
+
+522
+00:59:37,160 --> 00:59:44,680
+dass man, oder eigentlich gar nicht mit dem Zucker, dass man eben auf diese positiven Effekte der
+
+523
+00:59:44,680 --> 00:59:51,440
+Zugänglichmachung von Welt und so weiter, die ja Algorithmen und Technologie im Allgemeinen auch
+
+524
+00:59:51,440 --> 00:59:58,680
+leisten kann, dass man davon absehen solle, sondern ich frage mich, wie kann auch eine
+
+525
+00:59:58,680 --> 01:00:06,920
+Vorstellung von Zukunft aussehen, die eben diesem letztlich ja auch politisch-ökonomischen Geflecht,
+
+526
+01:00:06,920 --> 01:00:12,040
+was sich da herausschält und was auch eine gewisse Dominanz erlangt eben auf einer
+
+527
+01:00:12,040 --> 01:00:18,040
+politisch-gesellschaftlichen Ebene? Wie kann man Visionen von Zukunft, oder was für Visionen von
+
+528
+01:00:18,040 --> 01:00:27,120
+Zukunft gibt es, die eine andere, nicht offenere oder demokratisch verfasstere Struktur verfolgen?
+
+529
+01:00:27,120 --> 01:00:33,320
+Also gibt es Alternativen und wie schauen die aus? Also was im Moment relativ breit diskutiert wird,
+
+530
+01:00:33,320 --> 01:00:39,520
+als es beginnt zu diskutieren zu werden, ist der Begriff der technologischen Souveränität. Und was
+
+531
+01:00:39,520 --> 01:00:46,880
+das bedeutet, ist, dass man die Technologien, und das beinhaltet auch die Daten, die diese
+
+532
+01:00:46,880 --> 01:00:57,640
+Technologien brauchen, in den Bereich bringt, in dem die demokratische Willensbildung derjenigen,
+
+533
+01:00:57,640 --> 01:01:05,200
+die von diesen Technologien betroffen sind, stattfindet. Das Problem heute, das sogar auf
+
+534
+01:01:05,200 --> 01:01:13,560
+der Ebene der EU besteht, ist, dass die großen Technologieanbieter schlecht greifbar sind. Die
+
+535
+01:01:13,560 --> 01:01:19,160
+sagen, ja, wir sind amerikanisches Recht, oder wenn wir in Europa sind, sind sie irgendwie in
+
+536
+01:01:19,160 --> 01:01:26,040
+Irland. Und das macht es beispielsweise jetzt einer Stadt wie Wien. Es ist schwierig, von Airbnb
+
+537
+01:01:26,040 --> 01:01:33,440
+Daten zu bekommen, um hier die Gesetze durchzusetzen, was Abgaben auf Mietwohnungen und so weiter
+
+538
+01:01:33,440 --> 01:01:42,880
+besteht. Und hier ist der Versuch zu sagen, wir wollen eigentlich, dass diejenigen, die jetzt
+
+539
+01:01:42,880 --> 01:01:51,040
+unsere Stadt sozusagen mit Daten erfassen und mit Technologie verändern, innerhalb der Stadt und
+
+540
+01:01:51,040 --> 01:01:58,800
+ihrer politischen Institutionen angesiedelt sind. Das heißt, es wäre jetzt ein Versuch,
+
+541
+01:01:58,800 --> 01:02:09,360
+eine Politik, die sagt, wir müssen wegkommen von diesen zentralisierten Lösungen, die irgendwo im
+
+542
+01:02:09,360 --> 01:02:14,560
+Ausland schwer zu erreichen, sozusagen durch die politischen Institutionen, die demokratisch
+
+543
+01:02:14,560 --> 01:02:21,680
+verankert sind, angesiedelt sind. Sondern wir wollen die eigentlich schauen, dass die in unserem
+
+544
+01:02:21,680 --> 01:02:31,120
+sozusagen politischen Gehäuse agieren. Und da sind aktuell die Städte am weitesten. Amsterdam,
+
+545
+01:02:31,120 --> 01:02:39,360
+Berlin, Barcelona, New York, also auch in den USA, wo das sehr stark diskutiert wird. Die Frage,
+
+546
+01:02:39,360 --> 01:02:48,560
+wie können wir den Einfluss der demokratisch legitimierten Institution und der demokratisch
+
+547
+01:02:48,560 --> 01:02:54,720
+legitimierten Macht wieder stärken auf diesen Bereich? Und da haben wir im Moment halt das
+
+548
+01:02:54,720 --> 01:03:02,400
+Problem, dass diese beiden sozusagen Geografien vollkommen auseinandergehen. Und die Idee der
+
+549
+01:03:02,400 --> 01:03:08,120
+technologischen Souveränität wäre, diese Geografien wieder aufeinanderzubringen. Aber nicht,
+
+550
+01:03:08,120 --> 01:03:13,400
+indem man sagt, gut, wir brauchen jetzt die globale Internetregierung, das war sozusagen die Idee der
+
+551
+01:03:13,400 --> 01:03:19,720
+90er- und 2000er-Jahre. Sondern, dass man sagt, nein, wir müssen das wieder zurückbinden an einen
+
+552
+01:03:19,720 --> 01:03:28,280
+tatsächlichen Ort, in dem quasi demokratische Politik stattfindet. Und das war jetzt in dem
+
+553
+01:03:28,280 --> 01:03:33,880
+konkreten Fall dann jeweils die Stadt. Das würde heißen, Airbnb kann sich eben nicht darauf
+
+554
+01:03:33,880 --> 01:03:40,080
+ausreden, na, wir haben eigentlich mit Wien gar nichts zu tun. Sondern wir sitzen in Irland, das ist
+
+555
+01:03:40,080 --> 01:03:46,480
+eigentlich eine amerikanische Firma. Sondern, man müsste sagen, gut, wenn die in Wien agieren
+
+556
+01:03:46,480 --> 01:03:53,360
+wollen, dann müssen sie halt tatsächlich gewisse Regeln hier akzeptieren und sich sozusagen dieser
+
+557
+01:03:53,360 --> 01:04:00,360
+demokratischen Willensbildung, die hier stattfindet, beugen beispielsweise, als man sagt, dürfen jetzt
+
+558
+01:04:00,360 --> 01:04:07,120
+Privatwohnungen vermietet werden, was sind die Steuern, die da drauf kommen, etc. Das ist aber
+
+559
+01:04:07,120 --> 01:04:14,720
+sozusagen eine politische Auseinandersetzung. Auf der einen Seite gewisse demokratische Institutionen,
+
+560
+01:04:14,720 --> 01:04:21,360
+auf der anderen Seite sehr mächtige Akteure, ja nicht nur Internetakteure, sondern auch andere,
+
+561
+01:04:21,360 --> 01:04:30,440
+die eigentlich sich immer stärker versuchen, aus dieser demokratischen Kontrolle zu verabschieden.
+
+562
+01:04:30,440 --> 01:04:35,200
+Und das ist eine klassische politische Auseinandersetzung. Und die Akteure sind aber
+
+563
+01:04:35,200 --> 01:04:40,200
+tatsächlich dann, also die Hauptakteure, sage ich mal, sind tatsächlich wieder quasi die zwei. Also
+
+564
+01:04:40,200 --> 01:04:48,320
+die Alternative ist, oder sagen, die Kontrollinstanz oder die Hilfsinstanz, nach der dann gerufen wird,
+
+565
+01:04:48,320 --> 01:04:53,960
+in Anführungsstrichen, ist dann eine staatliche. Tendenziell, ist das so? Letztlich ist es immer
+
+566
+01:04:53,960 --> 01:05:01,240
+eine staatliche, weil die staatliche setzt den gesetzlichen Rahmen. Der gesetzliche Rahmen kann
+
+567
+01:05:01,240 --> 01:05:11,840
+durchaus so gemacht werden, dass er auch andere Akteure stärkt. Aber der Rahmen sozusagen,
+
+568
+01:05:11,840 --> 01:05:19,240
+solange es auf Gesetzen beruht, ist immer der Staat. Beispielsweise als Teil dieser Idee der
+
+569
+01:05:19,240 --> 01:05:26,640
+technologischen Souveränität gibt es auch die Idee, dass man die Daten, die zum Beispiel in einem
+
+570
+01:05:26,640 --> 01:05:33,200
+intelligenten Verkehrssystem anfallen oder die in einer Stadt anfallen, ganz allgemein nicht mehr
+
+571
+01:05:33,200 --> 01:05:40,800
+als Privateigentum versteht, sei das meine eigenen persönlichen Daten oder der Firma,
+
+572
+01:05:40,800 --> 01:05:48,240
+sondern eigentlich sagt, das ist ein gemeinschaftliches. Das gehört sozusagen
+
+573
+01:05:48,240 --> 01:05:57,680
+allen in der Stadt. Also Daten sind eine neue Form von Cummins. Und dann könnte man Regeln
+
+574
+01:05:57,680 --> 01:06:02,880
+erstellen, wie diese Daten genutzt werden können. Ich könnte beispielsweise sagen,
+
+575
+01:06:02,880 --> 01:06:10,480
+alle in der Stadt ansässigen Akteure, Firmen und NGOs oder auch Bürgerinitiativen haben freien
+
+576
+01:06:10,480 --> 01:06:16,880
+Zugang zu diesen Daten, also immer im datenschutzrechtlichen Rahmen, aber haben
+
+577
+01:06:16,880 --> 01:06:24,480
+freien Zugang und können darauf sozusagen in Services neue Angebote entwickeln. Und Akteure
+
+578
+01:06:24,480 --> 01:06:35,160
+aus einem nationalen Rahmen, die haben unter gewissen Auflagen Zugang, beispielsweise müssen
+
+579
+01:06:35,160 --> 01:06:42,240
+dafür zahlen. Und globale Akteure, die haben nochmal unter anderen Bedingungen Zugang,
+
+580
+01:06:42,240 --> 01:06:48,000
+müssen noch mehr dafür zahlen. Da hätte man so ein abgestuftes System, wo man sagen kann,
+
+581
+01:06:48,000 --> 01:07:01,760
+das Ziel dieser Regelung ist es, lokale Akteure zu stärken. Und so ein Rahmen muss zumindest auf
+
+582
+01:07:01,760 --> 01:07:08,880
+der staatlichen Ebene gemacht werden, dass eine Institution ermächtigt wird, sozusagen damit
+
+583
+01:07:08,880 --> 01:07:14,200
+beauftragt wird, so einen Rahmen, eine Datenschutzbehörde oder eine Datenkommensbehörde
+
+584
+01:07:14,200 --> 01:07:19,600
+oder ein Datenkommensnetzwerk oder was denn das immer für eine institutionelle Form ist. Aber
+
+585
+01:07:19,600 --> 01:07:23,880
+die muss damit beauftragt werden, so einen Rahmen auszuarbeiten und durchzusetzen.
+
+586
+01:07:23,880 --> 01:07:30,440
+Und gibt es weiterreichende Vorstellungen von Zukunft, wo die Lösungen nicht so
+
+587
+01:07:30,440 --> 01:07:37,680
+particular sind? Also man sagt, okay, es gibt quasi für ein bestehendes Problem eine Insellösung,
+
+588
+01:07:37,680 --> 01:07:43,440
+die nach Prinzipien funktioniert, die wir unterstützenswerter finden, sondern kennst
+
+589
+01:07:43,440 --> 01:07:48,800
+du Entwürfe, also auch Entwürfe von gesellschaftspolitischen Ordnungssystemen,
+
+590
+01:07:48,800 --> 01:07:56,280
+die weder auf Staat als Ordnungsinstanz noch auf Markt als Ordnungsinstanz basieren,
+
+591
+01:07:56,280 --> 01:08:02,280
+wobei man ja eigentlich die beiden auch fix zusammen denken müsste. Kennst du da Entwürfe?
+
+592
+01:08:02,280 --> 01:08:18,040
+So in der Größe nicht, aber es ist natürlich ein jetzt schon lang und ein sich verstärkender
+
+593
+01:08:18,040 --> 01:08:23,040
+Auseinandersetzung zwischen drei Gruppen von Akteuren, staatlichen Akteuren,
+
+594
+01:08:23,040 --> 01:08:28,280
+marktorientierten Akteuren und zivilgesellschaftlichen Akteuren, also NGOs jetzt im breitesten Sinne,
+
+595
+01:08:28,280 --> 01:08:36,560
+die ja immer mehr auch öffentliche Aufgaben mit übernehmen können und das teilweise auch tun.
+
+596
+01:08:36,560 --> 01:08:45,520
+Und dieser Sektor ist sicher einer der durch neue technologische Möglichkeiten der Organisation
+
+597
+01:08:45,520 --> 01:08:54,840
+und der Kommunikation und des Abbaus auch von diesen teilweise extrem in Institutionen gefangenen
+
+598
+01:08:54,840 --> 01:09:03,480
+Wissensmonopolen sich besser organisieren kann. Und da ist eine große Auseinandersetzung,
+
+599
+01:09:03,480 --> 01:09:11,400
+welcher Bereich soll wie geregelt werden und da gibt es natürlich auch einzelne Beispiele dafür,
+
+600
+01:09:11,400 --> 01:09:17,720
+wo man sagt, beispielsweise der Energieversorger, der lokale Energieversorger, der soll nicht mehr
+
+601
+01:09:17,720 --> 01:09:24,320
+quasi privatwirtschaftlich ausgerichtet werden, sondern eine Art gemeinwirtschaftlich ausgerichtet
+
+602
+01:09:24,320 --> 01:09:28,560
+werden. Und dann so diese ganze Bewegung der Rekommunalisierung der Energienetze,
+
+603
+01:09:28,560 --> 01:09:32,080
+die ja beispielsweise in Hamburg durch als erfolgreich war, in Berlin ist sie gescheitert,
+
+604
+01:09:32,080 --> 01:09:37,760
+aber war auch sehr populär, aber ist dann am Quorum der Abstimmung gescheitert. Also da gibt
+
+605
+01:09:37,760 --> 01:09:45,160
+schon Ideen, wie diese drei Bereiche neu miteinander verknüpft werden können und wie dieses wachsende
+
+606
+01:09:45,160 --> 01:09:53,080
+sozusagen Organisationspotenzial der Zivilgesellschaft besser auch eingebunden werden kann,
+
+607
+01:09:53,080 --> 01:09:59,960
+indem eben auch die demokratischen Entscheidungsmöglichkeiten, Mitbestimmungsmöglichkeiten
+
+608
+01:09:59,960 --> 01:10:05,160
+ausgebaut werden. Aber ich glaube, es ist nicht ein entweder-oder. Es ist nicht Markt oder Staat.
+
+609
+01:10:05,160 --> 01:10:11,480
+Also die libertäre Utopie, die wird das immer bleiben, eine Utopie. Es ist klar sozusagen,
+
+610
+01:10:11,480 --> 01:10:18,360
+die vollkommen staatliche Planung ist auch nicht sozusagen die Vision, die man möchte,
+
+611
+01:10:18,360 --> 01:10:26,760
+aber das Ausverhandeln im besten Sinne, wie diese drei Sachen zueinanderstehen können,
+
+612
+01:10:26,760 --> 01:10:32,640
+ich glaube, da ist sehr, sehr viel Bewegung drin. Jetzt basiert ja oder ist die dominante
+
+613
+01:10:32,640 --> 01:10:38,480
+Erzählung der politischen Ökonomie heutzutage immer noch basierend auf der Effizienz der Märkte,
+
+614
+01:10:38,480 --> 01:10:45,800
+der angeblichen, die in letzter Instanz ja auch sozusagen sagt über die Preisbildung und könne
+
+615
+01:10:45,800 --> 01:10:51,880
+quasi eine höchstmögliche Allokation von Mitteln erlangt werden, weil sonst kein anderes System in
+
+616
+01:10:51,880 --> 01:10:59,480
+der Lage wäre, ein so vollständiges Wissen über den ja so komplexen Markt zu erlangen,
+
+617
+01:10:59,480 --> 01:11:03,160
+wie es eben Märkte können, weil die dezentral organisiert sind, jeder einzelne Käufer und
+
+618
+01:11:03,160 --> 01:11:08,240
+Verkäufer da quasi seinen Informationsinput reingibt. Wo kommt man hin, wenn man sich dann
+
+619
+01:11:08,240 --> 01:11:14,400
+fragt, ob diese Erzählung, die ja auf einer Effizienz basiert, ob die in Zukunft noch
+
+620
+01:11:14,400 --> 01:11:21,080
+haltbar sein wird? Und da denke ich zum einen an Algorithmic Pricing, was ja schon quasi auch
+
+621
+01:11:21,080 --> 01:11:29,440
+andere Faktoren als nur den Preis alleine mit einbezieht, um zu einer Basis des Warentauschs
+
+622
+01:11:29,440 --> 01:11:35,440
+zu kommen letztlich, zum einen in die Richtung gedacht und eben auch, ob es sowas gibt, wie eine
+
+623
+01:11:35,440 --> 01:11:40,560
+kybernetische Planwirtschaft in Zeiten ihrer technischen Machbarkeit, um das ein bisschen
+
+624
+01:11:40,560 --> 01:11:53,960
+polemisch zuzuspitzen. Ich glaube, was wir sehen, ist, dass die erhöhte Fähigkeit der nicht
+
+625
+01:11:53,960 --> 01:12:02,720
+marktorientierten Akteure, sich zu organisieren und Outputs zu generieren, dass die gewissen
+
+626
+01:12:02,720 --> 01:12:15,360
+Tätigkeiten, die vorher nur im Markt organisiert waren und entsprechend sozusagen auf Preis
+
+627
+01:12:15,360 --> 01:12:24,320
+orientiert waren, anders zu organisieren und damit ein anderer Kalkulus mit ins Spiel kommt.
+
+628
+01:12:24,320 --> 01:12:36,920
+Also klar, beispielsweise ist es denkbar und wird auch experimentiert, verschiedene dezentrale
+
+629
+01:12:36,920 --> 01:12:44,400
+Energieversorgungssysteme miteinander so zu koppeln, dass Produzenten direkt miteinander
+
+630
+01:12:44,400 --> 01:12:50,680
+Energie tauschen können in einer Nachbarschaft oder in einer Region. Ganz ohne Preise involviert
+
+631
+01:12:50,680 --> 01:12:56,880
+dann letztlich? Da sind schon auch Preise involviert, aber der Preis ist nicht mehr nur die einzige
+
+632
+01:12:56,880 --> 01:13:05,560
+sozusagen Kindzahl, die relevant ist, sondern kommen eben auch andere Qualitäten wie Selbstversorgung,
+
+633
+01:13:05,560 --> 01:13:15,520
+wie Nachhaltigkeit und so weiter und so fort mit rein. Und der Preis ist eigentlich nur eine Art
+
+634
+01:13:15,520 --> 01:13:31,480
+Rechengröße, um Austauschverhältnisse sozusagen verifizieren zu können. Ich habe jetzt für so
+
+635
+01:13:31,480 --> 01:13:39,360
+viel Strom von dir bezogen und du hast so viel Strom von mir bezogen. Das kommt darauf raus,
+
+636
+01:13:39,360 --> 01:13:46,680
+dass am Ende des Monats ich noch so viel Geld von dir kriege, aber das lassen wir auf dem Konto,
+
+637
+01:13:46,680 --> 01:13:52,600
+weil im nächsten Monat ist es vielleicht umgekehrt und so tauschen wir vielleicht langfristig Dinge
+
+638
+01:13:52,600 --> 01:14:00,600
+miteinander aus, wo kaum je sozusagen der Geld tatsächlich transferiert wird. Aber es
+
+639
+01:14:00,600 --> 01:14:05,280
+ist natürlich eine Accounting-Ebene, ist nach wie vor aha, du hast jetzt so viel Strom von mir
+
+640
+01:14:05,280 --> 01:14:12,040
+bezogen, ich habe so viel Strom von dir bezogen. Also da ist schon denkbar, etwas zu machen,
+
+641
+01:14:12,040 --> 01:14:19,680
+das eben nach anderen Kriterien passiert, das ist eher zivilgesellschaftlich passiert,
+
+642
+01:14:19,680 --> 01:14:25,360
+die eine komplexere, mehrdimensionale Idee haben von dem, was sie machen und der Preis,
+
+643
+01:14:25,360 --> 01:14:31,680
+der ist da mit drin, aber er ist nicht mehr das einzige dominierende Element, was am Schluss nur
+
+644
+01:14:31,680 --> 01:14:39,640
+noch darum geht, was steht in der Quartalsrechnung unten beim Total. Und von einer quasi Neubelebung
+
+645
+01:14:39,640 --> 01:14:46,920
+planwirtschaftlicher, staatlicher Strukturen im Zuge neu zur Verfügung stehender technologischer
+
+646
+01:14:46,920 --> 01:14:54,720
+Mittel, da gibt es keine Entwürfe, von denen du wüsstest? Nein, ich habe gesagt, es ist ja schwierig,
+
+647
+01:14:54,720 --> 01:15:01,640
+weil der Staat die ganze Zeit schon plant und gewisse Dinge sozusagen alloziert. Jetzt wollen
+
+648
+01:15:01,640 --> 01:15:10,800
+wir hier eine Autobahn bauen und nicht dort und so und so viel. Also man kann es gut vorstellen,
+
+649
+01:15:10,800 --> 01:15:20,400
+dass das im Rahmen eines Klimaregimes irgendwie entschieden werden muss, wer kriegt welche
+
+650
+01:15:20,400 --> 01:15:29,240
+sozusagen Verschmutzungsrechte oder wie allozieren, wie die Verschmutzung, die wir bieten können,
+
+651
+01:15:29,240 --> 01:15:36,800
+die wir uns leisten können, so ökologisch in der Gesellschaft. Und das einfach über einen Markt
+
+652
+01:15:36,800 --> 01:15:45,920
+zu machen für CO2-Ausstoß, das ist ja bis jetzt grandios gescheitert. Aber dass der Staat,
+
+653
+01:15:45,920 --> 01:15:52,720
+irgendwo man sagt, oder eine öffentliche Stelle, irgendwo man sagt, mit unseren Klimazielen ist
+
+654
+01:15:52,720 --> 01:15:59,080
+nur noch so und so viel Stahl-Output oder Aluminium-Output oder Verkehr denkbar. Und
+
+655
+01:15:59,080 --> 01:16:07,680
+jetzt müssen wir das anders organisieren. Das ist schon denkbar. Aber das ist auch so ein
+
+656
+01:16:07,680 --> 01:16:17,400
+Selbstverständnis dessen, was der Staat macht, der sich immer stärker nur noch als eine Entität
+
+657
+01:16:17,400 --> 01:16:23,840
+sieht, die Rahmenbedingungen für Märkte herstellt. Da sind wir einfach extrem weit davon entfernt.
+
+658
+01:16:23,840 --> 01:16:29,880
+Von dem her habe ich das Gefühl, dass diese komplexeren Planungsideen eigentlich eher über
+
+659
+01:16:29,880 --> 01:16:37,440
+die Zivilgesellschaft kommen, wie über den Staat. Der Staat, seine Aufgabe wäre es dann,
+
+660
+01:16:37,440 --> 01:16:45,480
+den Rahmen herzustellen, damit auch sozusagen nicht marktorientierte Akteure da agieren können. Und
+
+661
+01:16:45,480 --> 01:16:50,000
+auch da sind wir noch sehr, sehr weit weg davon. Vielleicht noch als ein Schlusswort. Ich ende
+
+662
+01:16:50,000 --> 01:16:55,560
+gerne auf eine positive Note. Deshalb die Frage, wenn du dir Zukunft vorstellst, was stimmt dich
+
+663
+01:16:55,560 --> 01:17:01,600
+freudig? Ja, ich glaube, die Fähigkeit der Gesellschaft, mit Komplexität umzugehen und
+
+664
+01:17:01,600 --> 01:17:08,680
+damit mit Vielfalt, die nimmt zu. Auch wenn viele Akteure damit Probleme haben und quasi
+
+665
+01:17:08,680 --> 01:17:16,960
+dagegen arbeiten, leben wir in einer vielfältigeren Welt. Und wir brauchen Mittel, und das sind oft
+
+666
+01:17:16,960 --> 01:17:21,800
+auch technologische Mittel, um mit dieser Vielfalt umgehen zu können. Sei das eine kulturelle
+
+667
+01:17:21,800 --> 01:17:27,480
+Vielfalt, aber auch eine Vielfalt von Akteuren, dass es Menschen, Tiere, Pflanzen, Wettersystemen
+
+668
+01:17:27,480 --> 01:17:35,480
+und so weiter sind. Und das finde ich grundsätzlich eine positive Entwicklung. Wunderbar. Felix,
+
+669
+01:17:35,480 --> 01:17:46,320
+vielen Dank für das Gespräch. Gerne. Das war Future Histories für heute. Vielen Dank fürs
+
+670
+01:17:46,320 --> 01:17:53,480
+Zuhören. Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today. Diskutiert mit
+
+671
+01:17:53,480 --> 01:17:59,040
+auf Twitter unter dem Hashtag Future Histories oder auf Reddit. Lasst mich wissen, was ihr zu
+
+672
+01:17:59,040 --> 01:18:03,800
+dem Ganzen denkt und wie euch diese Folge hier gefallen hat. Unbedingt gut bewerten auf allen
+
+673
+01:18:03,800 --> 01:18:08,880
+Podcast-Plattformen, die ihr nutzt. Für unsere Patreon-Unterstützerinnen und Unterstützer gibt
+
+674
+01:18:08,880 --> 01:18:14,720
+es auf www.patreon.com schräg Strich Future Histories vieles an Zusatzmaterial. Ich lese
+
+675
+01:18:14,720 --> 01:18:18,960
+zum Beispiel jeden Monat einen Text ein, der zum jeweiligen Thema passt. Da könnt ihr also
+
+676
+01:18:18,960 --> 01:18:45,960
+auch vorbeischauen. Bis zum nächsten Mal. Ich freue mich.
+
