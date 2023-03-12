@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E51_-_Timo
 
 Episode Keywords:
 
-#DieUnsichtbareHandDesPlans #Planwirtschaft #DigitalerSozialismus #TimoDaum #SabineNuss #DietzVerlag #DigitalerKapitalismus #StaffordBeer #Kybernetik #DigitalePlanwirtschaft #BenjaminBratton #EvgenyMorozov #Kapitalismus #AgilerKapitalismus #Kapital #DigitaleÖkonomie #DigitalSocialism #Cybersyn #GreenNewDeal #Planungsdebatte #Planungsdebatte2.0 #Demokratie #CalculationDebate #CesarRendueles #Steuerungswende #SocialistCalculationDebate
+#DieUnsichtbareHandDesPlans #Planwirtschaft #DigitalerSozialismus #TimoDaum #SabineNuss #DietzVerlag #DigitalerKapitalismus #StaffordBeer #Kybernetik #DigitalePlanwirtschaft #BenjaminBratton #EvgenyMorozov #Kapitalismus #AgilerKapitalismus #Kapital #DigitaleÖkonomie #DigitalSocialism #Cybersyn #GreenNewDeal #Planungsdebatte #Planungsdebatte20 #Demokratie #CalculationDebate #CesarRendueles #Steuerungswende #SocialistCalculationDebate

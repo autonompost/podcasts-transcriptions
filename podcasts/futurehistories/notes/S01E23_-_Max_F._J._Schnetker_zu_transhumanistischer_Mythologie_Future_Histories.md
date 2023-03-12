@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E23_-_Max_
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #Herrschaft4.0 #NachDemMenschen #KünstlicheIntelligenz #ArtificialIntelligence #HomoOeconomicus #DeepLearning #Kybernetik #Cybernetics #Algorithmen #Interview #Transhumanismus #NickBostrom #FutureOfHumanity #ExistenziellesRisiko #Superintelligence #Posthumanismus #MarkOConnell #Cyborgs #WholeBrainEmulation #MindUpload #BenGoertzl #RayKurzweil #DominicCummings #Miri #MachineIntelligenceResearchInstitute
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #Herrschaft40 #NachDemMenschen #KünstlicheIntelligenz #ArtificialIntelligence #HomoOeconomicus #DeepLearning #Kybernetik #Cybernetics #Algorithmen #Interview #Transhumanismus #NickBostrom #FutureOfHumanity #ExistenziellesRisiko #Superintelligence #Posthumanismus #MarkOConnell #Cyborgs #WholeBrainEmulation #MindUpload #BenGoertzl #RayKurzweil #DominicCummings #Miri #MachineIntelligenceResearchInstitute

@@ -2,11 +2,6 @@
 
 ```audio-note
 audio: podcasts/futurehistories/audio/2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3
-2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3.json
-2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3.srt
-2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3.tsv
-2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3.txt
-2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3.vtt
 title: S01E02 - Die Socialist Calculation Debate (Denk mit mir #1) | Future Histories
 transcript: podcasts/futurehistories/transcripts/2-2019-05-18-S01E02-Die-Socialist-Calculation-Debate-Denk-mit-mir-1_.mp3.srt
 liveUpdate: true
@@ -21,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E02_-_Die_
 
 Episode Keywords:
 
-#FutureHistories #JanGroos #Zukunft #Gesellschaft #SocialistCalculationDebate - [Download](https://www.podbean.com/site/EpisodeDownload/PBBA11568ZDV4 "Download")
+#FutureHistories #JanGroos #Zukunft #Gesellschaft #SocialistCalculationDebate 

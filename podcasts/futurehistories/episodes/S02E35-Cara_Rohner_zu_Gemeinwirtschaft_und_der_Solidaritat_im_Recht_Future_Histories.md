@@ -118,4 +118,4 @@ oder auf Reddit:
 [www.futurehistories.today](http://www.futurehistories.today/)
 
 Keywords:  
-#Podcast, #FutureHistories, #CaraRöhner, #JanGroos, #Interview,#Solidarität, #Artikel15, #Verfassung, #Privateigentum, #SolidaritätImRecht, #KollektiveFreiheit, #Kollektiv, #Inklusion, #Exklusion, #Kohäsion, #Recht, #Genossenschaft, #Demokratie, #Vergesellschaftung, #GrundundBoden, #Naturschätze, #Produktionsmittel, #Kommunalrecht, #DemokratischerSozialismus, #Eigentumsrecht, #Freiheit, #Enteignung
+#Podcast, #FutureHistories, #CaraRöhner, #JanGroos, #Interview, #Solidarität, #Artikel15, #Verfassung, #Privateigentum, #SolidaritätImRecht, #KollektiveFreiheit, #Kollektiv, #Inklusion, #Exklusion, #Kohäsion, #Recht, #Genossenschaft, #Demokratie, #Vergesellschaftung, #GrundundBoden, #Naturschätze, #Produktionsmittel, #Kommunalrecht, #DemokratischerSozialismus, #Eigentumsrecht, #Freiheit, #Enteignung

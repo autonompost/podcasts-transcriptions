@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E18_-_Simo
 
 Episode Keywords:
 
-#SimonSchaupp #JanGroos #FutureHistories #Podcast #Interview #Algorithmen #radikaleDemokratie #ZET #ZentrumEmanzipatorischeTechnikforschung #TechnologischesRegieren #Netzwerk #Netzwerkdenken #Kybernetik #Liberalismus #Netzwerkgesellschaft #Digitalisierung #Herrschaftstechnologien #Überwachungssysteme #Daten #Data #Kybernetik #KybernetischerKapitalismus #Industrie4.0 #Vernetzung #Kybernetisierung #Automatisierung #Self-Tracking #Selbstüberwachung
+#SimonSchaupp #JanGroos #FutureHistories #Podcast #Interview #Algorithmen #radikaleDemokratie #ZET #ZentrumEmanzipatorischeTechnikforschung #TechnologischesRegieren #Netzwerk #Netzwerkdenken #Kybernetik #Liberalismus #Netzwerkgesellschaft #Digitalisierung #Herrschaftstechnologien #Überwachungssysteme #Daten #Data #Kybernetik #KybernetischerKapitalismus #Industrie40 #Vernetzung #Kybernetisierung #Automatisierung #Self-Tracking #Selbstüberwachung

@@ -112,4 +112,4 @@ oder auf Reddit:
 
 Episode Keywords
 
-#JuttaWeber, #FutureHistories, #Podcast, #Interview, #KünstlicheIntelligenz, #K.I., #KI, #MaschinellesLernen, #AI, #A.I., #ArtificialIntelligence, #BigData, #MachineLearning, #DispositionMatrix, #KillList, #Digitalisierung, #Daten, #Data, #Datafizierung, #DatenbasierteKriegsführung, #Algorithmen, #GenetischeAlgorithmen, #Kybernetik, #Technokratie, #Technorationalität, #Roboter, #Militär, #DasRegierenDerAlgorithmen, #AlgorithmischesRegieren, #HumanMachineLearning, #DigitalCommons
+#JuttaWeber, #FutureHistories, #Podcast, #Interview, #KünstlicheIntelligenz, #KI #MaschinellesLernen, #AI, #ArtificialIntelligence, #BigData, #MachineLearning, #DispositionMatrix, #KillList, #Digitalisierung, #Daten, #Data, #Datafizierung, #DatenbasierteKriegsführung, #Algorithmen, #GenetischeAlgorithmen, #Kybernetik, #Technokratie, #Technorationalität, #Roboter, #Militär, #DasRegierenDerAlgorithmen, #AlgorithmischesRegieren, #HumanMachineLearning, #DigitalCommons

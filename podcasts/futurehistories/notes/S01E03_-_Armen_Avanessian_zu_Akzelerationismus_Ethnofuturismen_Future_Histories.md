@@ -2,11 +2,6 @@
 
 ```audio-note
 audio: podcasts/futurehistories/audio/3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3
-3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3.json
-3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3.srt
-3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3.tsv
-3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3.txt
-3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3.vtt
 title: S01E03 - Armen Avanessian zu Akzelerationismus & Ethnofuturismen | Future Histories
 transcript: podcasts/futurehistories/transcripts/3-2019-06-02-S01E03-Armen-Avanessian-zu-Akzelerationismus-Ethnofuturismen.mp3.srt
 liveUpdate: true

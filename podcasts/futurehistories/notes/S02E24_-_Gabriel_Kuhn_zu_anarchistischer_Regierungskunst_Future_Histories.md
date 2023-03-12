@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E24_-_Gabr
 
 Episode Keywords:
 
-#GabrielKuhn #JanGroos #FutureHistories #Podcast #Interview #Regieren #Governance #Regierungskunst #Gouvernementalität #AlternativeRegierungskünste #AlternativeRegierungskunst #Foucault #Anarchismus #DanielLoick #FriederVogelmann #Commons #SozialeKämpfe #SozialeBewegungen #Zapatistas #Libertarianismus # BiniAdamczak #Revolution #Poststrukturalismus #Macht #PolitischePhilosophie
+#GabrielKuhn #JanGroos #FutureHistories #Podcast #Interview #Regieren #Governance #Regierungskunst #Gouvernementalität #AlternativeRegierungskünste #AlternativeRegierungskunst #Foucault #Anarchismus #DanielLoick #FriederVogelmann #Commons #SozialeKämpfe #SozialeBewegungen #Zapatistas #Libertarianismus #BiniAdamczak #Revolution #Poststrukturalismus #Macht #PolitischePhilosophie

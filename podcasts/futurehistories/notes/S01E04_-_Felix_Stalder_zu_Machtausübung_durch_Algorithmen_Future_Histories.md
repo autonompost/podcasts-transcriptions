@@ -2,11 +2,6 @@
 
 ```audio-note
 audio: podcasts/futurehistories/audio/4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3
-4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3.json
-4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3.srt
-4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3.tsv
-4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3.txt
-4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3.vtt
 title: S01E04 - Felix Stalder zu Machtausübung durch Algorithmen | Future Histories
 transcript: podcasts/futurehistories/transcripts/4-2019-06-16-S01E04-Felix-Stalder-zu-Machtausuebung-durch-Algorithmen.mp3.srt
 liveUpdate: true

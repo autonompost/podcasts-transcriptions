@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E29_-_Thor
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft4.0 #Algorithmen #AlgorithmischesRegieren #DigitaleKonstellation #ThorstenThiel #Demokratie #Digitalisierung #Demokratietheorie #DemokratieInDerDigitalenKonstellation #WeizenbaumInstitut #Weizenbaum #JeanetteHofmann #Interview #DigiDem #SebastianBerg #NiklasRakowski #Filterblasen
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft40 #Algorithmen #AlgorithmischesRegieren #DigitaleKonstellation #ThorstenThiel #Demokratie #Digitalisierung #Demokratietheorie #DemokratieInDerDigitalenKonstellation #WeizenbaumInstitut #Weizenbaum #JeanetteHofmann #Interview #DigiDem #SebastianBerg #NiklasRakowski #Filterblasen

@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft4.0 #Algorithmen #ContactTracing #Corona #Covid-19 #FelixStalder #UBS #UniversalBasicServices #Neoliberalismus #Bewegungsdaten #Handydaten #Pandemie #SARS #Tracking #Panoptikum #Überwachung #Genossenschaften
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft40 #Algorithmen #ContactTracing #Corona #Covid-19 #FelixStalder #UBS #UniversalBasicServices #Neoliberalismus #Bewegungsdaten #Handydaten #Pandemie #SARS #Tracking #Panoptikum #Überwachung #Genossenschaften

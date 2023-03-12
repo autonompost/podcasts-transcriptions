@@ -4,4 +4,4 @@ Man lasse sich bitte mal den Artikel 15 des Grundgesetzes der Bundesrepublik Deu
 
 Episode Keywords:
 
-#RouzbehTaheri #JanGroos #Interview #Podcast #FutureHistories #DWEnteignen #DeutscheWohnen&CoEnteignen #Eigentum #DemokratischerSozialismus #Kapitalismus #Sozialismus #Globart
+#RouzbehTaheri #JanGroos #Interview #Podcast #FutureHistories #DWEnteignen #DeutscheWohnenCoEnteignen #Eigentum #DemokratischerSozialismus #Kapitalismus #Sozialismus #Globart

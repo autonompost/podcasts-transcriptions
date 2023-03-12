@@ -164,4 +164,4 @@ oder auf Reddit:
 
 Episode Keywords:
 
-#TineHaubner, #SilkeVanDyk, #Interview, #FutureHistories, #JanGroos, #Podcast, #Reproduktionskrise, #SozialeReproduktion, #Marktlogik, #Community-Kapitalismus, #Kapitalismus, #Krisenkapitalismus, #Krisenpolitik, #Neoliberalismus, #Markt, #Staat, #Wirtschaft, #Ökonomik, #PolitischeSoziologie, #Sozioökonomik, #Solidarität, #Liberalismus, #Gemeinwohl, #Posterwerbsarbeit, #Pflege, #Pflegearbeit, #CareArbeit, Commons, #Eigentum, #HamburgerEdition, #CareRevolution
+#TineHaubner, #SilkeVanDyk, #Interview, #FutureHistories, #JanGroos, #Podcast, #Reproduktionskrise, #SozialeReproduktion, #Marktlogik, #Community-Kapitalismus, #Kapitalismus, #Krisenkapitalismus, #Krisenpolitik, #Neoliberalismus, #Markt, #Staat, #Wirtschaft, #Ökonomik, #PolitischeSoziologie, #Sozioökonomik, #Solidarität, #Liberalismus, #Gemeinwohl, #Posterwerbsarbeit, #Pflege, #Pflegearbeit, #CareArbeit, #Commons, #Eigentum, #HamburgerEdition, #CareRevolution

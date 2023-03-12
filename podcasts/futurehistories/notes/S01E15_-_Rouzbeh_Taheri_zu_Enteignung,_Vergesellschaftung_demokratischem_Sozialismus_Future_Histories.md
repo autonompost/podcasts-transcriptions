@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E15_-_Rouz
 
 Episode Keywords:
 
-#RouzbehTaheri #JanGroos #Interview #Podcast #FutureHistories #DWEnteignen #DeutscheWohnen&CoEnteignen #Eigentum #DemokratischerSozialismus #Kapitalismus #Sozialismus #Globart
+#RouzbehTaheri #JanGroos #Interview #Podcast #FutureHistories #DWEnteignen #DeutscheWohnenCoEnteignen  #Eigentum #DemokratischerSozialismus #Kapitalismus #Sozialismus #Globart

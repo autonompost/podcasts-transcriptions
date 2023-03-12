@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E57_-_Silj
 
 Episode Keywords:
 
-#SiljaGraupe #PluraleÖkonomik #CusanusHochschule #Cusanus #Gemeinsinn #Wirtschaft #Ökonomik #PluraleÖkonomik #Sozioökonomik #Wirtschaftswissenschaften #HeterodoxeÖkonomie #AlternativeWirtschaft #Gesellschaftsgestaltung #Solidarität #Volkswirtschaftslehre #WalterÖtsch #Mythos Markt #Common #Commoning #Commonismus #Planwirtschaft #DigitalerSozialismus #DigitalePlanwirtschaft #Kapitalismus #Kapital #DigitalSocialism #Planungsdebatte #Liberalismus #Markt #Hayek #Neoliberalismus #Neoklassik #Economist4Future
+#SiljaGraupe #PluraleÖkonomik #CusanusHochschule #Cusanus #Gemeinsinn #Wirtschaft #Ökonomik #PluraleÖkonomik #Sozioökonomik #Wirtschaftswissenschaften #HeterodoxeÖkonomie #AlternativeWirtschaft #Gesellschaftsgestaltung #Solidarität #Volkswirtschaftslehre #WalterÖtsch #Mythos #Markt #Common #Commoning #Commonismus #Planwirtschaft #DigitalerSozialismus #DigitalePlanwirtschaft #Kapitalismus #Kapital #DigitalSocialism #Planungsdebatte #Liberalismus #Markt #Hayek #Neoliberalismus #Neoklassik #Economist4Future

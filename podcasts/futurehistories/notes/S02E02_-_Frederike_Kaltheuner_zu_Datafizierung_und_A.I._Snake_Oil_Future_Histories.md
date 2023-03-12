@@ -16,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S02E02_-_Fred
 
 Episode Keywords:
 
-#FrederikeKaltheuner #Datensouveränität #Data #ArtificialIntelligence #KI #KünstlicheIntelligenz #SnakeOil #DatenGerechtigkeit #Datafizierung #A.I. #K.I. #NeuronaleNetze #DeepLearning #DigitalerKapitalismus #DasRegierenDerAlgorithmen #AlgorithmischesRegieren #Technokratie #DasRegierenDerAlgorithmen
+#FrederikeKaltheuner #Datensouveränität #Data #ArtificialIntelligence #KI #KünstlicheIntelligenz #SnakeOil #DatenGerechtigkeit #Datafizierung #NeuronaleNetze #DeepLearning #DigitalerKapitalismus #DasRegierenDerAlgorithmen #AlgorithmischesRegieren #Technokratie #DasRegierenDerAlgorithmen

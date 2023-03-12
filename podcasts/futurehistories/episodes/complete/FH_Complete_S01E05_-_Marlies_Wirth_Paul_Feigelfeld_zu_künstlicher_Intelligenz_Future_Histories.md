@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#MarliesWirth #PaulFeigelfeld #JanGroos #Zukunft #KünstlicheIntelligenz #KI #K.I. #A.I. #ArtificiaIntelligence #UncannyValues #GenerativeAdversarialNetwork #GAN #Digitalisierung #MaschinellesLernen #MachineLearning #Algorithmen
+#MarliesWirth #PaulFeigelfeld #JanGroos #Zukunft #KünstlicheIntelligenz #KI #AI #ArtificiaIntelligence #UncannyValues #GenerativeAdversarialNetwork #GAN #Digitalisierung #MaschinellesLernen #MachineLearning #Algorithmen

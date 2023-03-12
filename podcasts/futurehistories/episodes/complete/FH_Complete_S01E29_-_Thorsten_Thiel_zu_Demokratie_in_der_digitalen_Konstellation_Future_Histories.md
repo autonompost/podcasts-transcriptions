@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft4.0 #Algorithmen #AlgorithmischesRegieren #DigitaleKonstellation #ThorstenThiel #Demokratie #Digitalisierung #Demokratietheorie #DemokratieInDerDigitalenKonstellation #WeizenbaumInstitut #Weizenbaum #JeanetteHofmann #Interview #DigiDem #SebastianBerg #NiklasRakowski #Filterblasen
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft40 #Algorithmen #AlgorithmischesRegieren #DigitaleKonstellation #ThorstenThiel #Demokratie #Digitalisierung #Demokratietheorie #DemokratieInDerDigitalenKonstellation #WeizenbaumInstitut #Weizenbaum #JeanetteHofmann #Interview #DigiDem #SebastianBerg #NiklasRakowski #Filterblasen

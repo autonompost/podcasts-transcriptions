@@ -2,12 +2,6 @@
 
 ```audio-note
 audio: podcasts/futurehistories/audio/5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3
-5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3.json
-5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3.srt
-5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3.tsv
-5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3.txt
-5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3.vtt
-5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.srt
 title: S01E05 - Marlies Wirth & Paul Feigelfeld zu künstlicher Intelligenz | Future Histories
 transcript: podcasts/futurehistories/transcripts/5-2019-06-30-S01E05-Marlies-Wirth-Paul-Feigelfeld-zu-kuenstlicher-Intelligenz.mp3.srt
 liveUpdate: true
@@ -22,4 +16,4 @@ Complete: [[podcasts/futurehistories/episodes/complete/FH_Complete_S01E05_-_Marl
 
 Episode Keywords:
 
-#MarliesWirth #PaulFeigelfeld #JanGroos #Zukunft #KünstlicheIntelligenz #KI #K.I. #A.I. #ArtificiaIntelligence #UncannyValues #GenerativeAdversarialNetwork #GAN #Digitalisierung #MaschinellesLernen #MachineLearning #Algorithmen
+#MarliesWirth #PaulFeigelfeld #JanGroos #Zukunft #KünstlicheIntelligenz #KI #ArtificiaIntelligence #UncannyValues #GenerativeAdversarialNetwork #GAN #Digitalisierung #MaschinellesLernen #MachineLearning #Algorithmen

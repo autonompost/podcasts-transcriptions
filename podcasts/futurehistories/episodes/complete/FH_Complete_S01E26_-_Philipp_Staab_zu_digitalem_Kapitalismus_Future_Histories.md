@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft4.0 #HomoOeconomicus #DigitalSocialism #Kybernetik #Cybernetics #Algorithmen #digitalerKapitalismus #AlgorithmischesRegieren #MMT #ModernMonetaryTheory #Interview #PhilippStaab #Suhrkamp #ProprietäreMärkte #ÖkonomieDerUnknappheit #HU #Plattform #Plattformkapitalismus #SäkulareStagnation #proprietäreMärkte
+#FutureHistories #Podcast #JanGroos #Zukunft #Digitalisierung #BigData #Herrschaft40 #HomoOeconomicus #DigitalSocialism #Kybernetik #Cybernetics #Algorithmen #digitalerKapitalismus #AlgorithmischesRegieren #MMT #ModernMonetaryTheory #Interview #PhilippStaab #Suhrkamp #ProprietäreMärkte #ÖkonomieDerUnknappheit #HU #Plattform #Plattformkapitalismus #SäkulareStagnation #proprietäreMärkte

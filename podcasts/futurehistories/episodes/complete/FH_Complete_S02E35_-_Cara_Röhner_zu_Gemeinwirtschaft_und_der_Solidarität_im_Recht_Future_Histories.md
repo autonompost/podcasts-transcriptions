@@ -4,4 +4,4 @@ Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#Podcast #FutureHistories #CaraRöhner #JanGroos #Interview#Solidarität #Artikel15 #Verfassung #Privateigentum #SolidaritätImRecht #KollektiveFreiheit #Kollektiv #Inklusion #Exklusion #Kohäsion #Recht #Genossenschaft #Demokratie #Vergesellschaftung #GrundundBoden #Naturschätze #Produktionsmittel #Kommunalrecht #DemokratischerSozialismus #Eigentumsrecht #Freiheit #Enteignung
+#Podcast #FutureHistories #CaraRöhner #JanGroos #Interview #Solidarität #Artikel15 #Verfassung #Privateigentum #SolidaritätImRecht #KollektiveFreiheit #Kollektiv #Inklusion #Exklusion #Kohäsion #Recht #Genossenschaft #Demokratie #Vergesellschaftung #GrundundBoden #Naturschätze #Produktionsmittel #Kommunalrecht #DemokratischerSozialismus #Eigentumsrecht #Freiheit #Enteignung

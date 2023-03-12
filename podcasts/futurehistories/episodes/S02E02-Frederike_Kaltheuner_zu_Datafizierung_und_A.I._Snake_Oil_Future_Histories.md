@@ -109,4 +109,4 @@ Future Histories ist eine Produktion von [Metalepsis](https://metalepsis.net/) e
   
 Episode Keywords:
 
-#FrederikeKaltheuner, #Datensouveränität, #Data, #ArtificialIntelligence, #KI, #KünstlicheIntelligenz, #SnakeOil, #DatenGerechtigkeit #Datafizierung, #A.I., #K.I., #NeuronaleNetze, #DeepLearning, #DigitalerKapitalismus, #DasRegierenDerAlgorithmen, #AlgorithmischesRegieren, #Technokratie, #DasRegierenDerAlgorithmen
+#FrederikeKaltheuner, #Datensouveränität, #Data, #ArtificialIntelligence, #KI, #KünstlicheIntelligenz, #SnakeOil, #DatenGerechtigkeit #Datafizierung, #AI, #NeuronaleNetze, #DeepLearning, #DigitalerKapitalismus, #DasRegierenDerAlgorithmen, #AlgorithmischesRegieren, #Technokratie, #DasRegierenDerAlgorithmen

@@ -34,5 +34,3 @@ Schreibt mir unter [office@futurehistories.today](mailto:office@futurehistories.
 Episode Keywords:
 
 #FutureHistories, #JanGroos, #Zukunft, #Gesellschaft, #SocialistCalculationDebate
-
--   [Download](https://www.podbean.com/site/EpisodeDownload/PBBA11568ZDV4 "Download")

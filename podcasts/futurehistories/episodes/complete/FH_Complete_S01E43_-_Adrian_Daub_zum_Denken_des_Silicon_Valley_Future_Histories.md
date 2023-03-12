@@ -4,4 +4,4 @@ Herzlich Willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vo
 
 Episode Keywords:
 
-#FutureHistories #Podcast #AdrianDaub #WasDasValleyDenkenNennt #SiliconValley #Disruption #disruptiv #VoicesFromTheValley #Interview #Society #Demokratie #DigitalerKapitalismus #Schumpeter #Sozialismus #Kapitalismus #Section230 #CalifornianIdeology #IdeologicalEchoChamber #WhatTechCallsThinking #TechUtopismus #ElonMusk #Moira Weigel #Proposition22 #Kalifornien #Uber #TechKonzerne #JamesDamore #GoogleMemo
+#FutureHistories #Podcast #AdrianDaub #WasDasValleyDenkenNennt #SiliconValley #Disruption #disruptiv #VoicesFromTheValley #Interview #Society #Demokratie #DigitalerKapitalismus #Schumpeter #Sozialismus #Kapitalismus #Section230 #CalifornianIdeology #IdeologicalEchoChamber #WhatTechCallsThinking #TechUtopismus #ElonMusk #MoiraWeigel #Proposition22 #Kalifornien #Uber #TechKonzerne #JamesDamore #GoogleMemo

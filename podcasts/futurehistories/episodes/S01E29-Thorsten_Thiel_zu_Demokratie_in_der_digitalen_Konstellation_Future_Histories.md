@@ -123,4 +123,4 @@ oder auf Reddit [https://www.reddit.com/r/FutureHistories/](https://www.reddit.c
 
 Keywords:
 
-#FutureHistories, #Podcast, #JanGroos, #Zukunft, #Digitalisierung, #BigData, #Herrschaft4.0, #Algorithmen, #AlgorithmischesRegieren, #DigitaleKonstellation, #ThorstenThiel, #Demokratie, #Digitalisierung, #Demokratietheorie, #DemokratieInDerDigitalenKonstellation, #WeizenbaumInstitut, #Weizenbaum, #JeanetteHofmann, #Interview, #DigiDem #SebastianBerg, #NiklasRakowski, #Filterblasen
+#FutureHistories, #Podcast, #JanGroos, #Zukunft, #Digitalisierung, #BigData, #Herrschaft40, #Algorithmen, #AlgorithmischesRegieren, #DigitaleKonstellation, #ThorstenThiel, #Demokratie, #Digitalisierung, #Demokratietheorie, #DemokratieInDerDigitalenKonstellation, #WeizenbaumInstitut, #Weizenbaum, #JeanetteHofmann, #Interview, #DigiDem #SebastianBerg, #NiklasRakowski, #Filterblasen

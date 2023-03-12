@@ -160,4 +160,4 @@ oder auf Reddit:
 
   
 Episode Keywords  
-#NinaScholz, #FutureHistories, #Podcast, #Interview, #JanGroos, #MachtderKonzerne, #Streik, #Gewerkschaften, #Mieter\*innenvereinigung, #Arbeiter\*innen, #Enteignung, #Plattformkooperativen, #Genossenschaften, #Pfleger\*innen, #Entlastung, #SozialeBewegungen, #Aktivismus, #Arbeitskämpfe, #Pfleger\*innenstreiks, #Genossenschaftsbildung, #Mieter\*innenkampagne, #Solidarität, #Vernetzung, #DWenteignen,
+#NinaScholz, #FutureHistories, #Podcast, #Interview, #JanGroos, #MachtderKonzerne, #Streik, #Gewerkschaften, #Mieterinnenvereinigung, #Arbeiterinnen, #Enteignung, #Plattformkooperativen, #Genossenschaften, #Pflegerinnen, #Entlastung, #SozialeBewegungen, #Aktivismus, #Arbeitskämpfe, #Pflegerinnenstreiks, #Genossenschaftsbildung, #Mieterinnenkampagne, #Solidarität, #Vernetzung, #DWenteignen,
