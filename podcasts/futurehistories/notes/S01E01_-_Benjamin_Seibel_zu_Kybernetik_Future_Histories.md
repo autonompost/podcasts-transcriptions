@@ -4,7 +4,7 @@
 audio: podcasts/futurehistories/audio/1-2019-05-18-S01E01-Benjamin-Seibel-zu-Kybernetik.mp3
 title: S01E01 - Benjamin Seibel zu Kybernetik | Future Histories
 transcript: podcasts/futurehistories/transcripts/1-2019-05-18-S01E01-Benjamin-Seibel-zu-Kybernetik.mp3.srt
-liveUpdate: true
+liveUpdate: false
 ---
 
 ```

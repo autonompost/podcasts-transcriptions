@@ -1,0 +1,629 @@
+start	end	text
+0	6000	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+6000	11000	Mein Name ist Jan Groß und ich freue mich sehr, heute Max Grünberg begrüßen zu dürfen.
+11000	15000	Ich habe Max am Anfang des Gesprächs gebeten, sich kurz vorzustellen.
+15000	18000	Daher werde ich da jetzt nicht zu viele Worte zu verlieren.
+18000	22000	Ich schätze Max jedenfalls sehr als Stimme in der Planungsdebatte.
+22000	27000	Und nachdem er es in der Vorstellung nicht erwähnt, möchte ich zumindest mal darauf hinweisen,
+27000	31000	dass Max auch Mitgründer von DEFRACT ist.
+31000	37000	Das ist ein kollektiv organisierter Raum in den ehemaligen Räumen des Merbe-Verlags in Berlin Schöneberg.
+37000	40000	Und da passieren ganz viele spannende Sachen.
+40000	44000	Und ich kann euch nur sehr empfehlen, mal auf der Homepage vorbei zu schauen.
+44000	47000	Den Link, den findet ihr in den Show Notes.
+47000	54000	Das Gespräch mit Max, das habe ich am Rande des Workshops The Algorithmic Road to Socialism aufgezeichnet,
+54000	58000	der im Juni 2022 in Kiel stattgefunden hat.
+58000	63000	Und ich möchte Marlon lieber ganz herzlich danken für die Organisation dieses Workshops.
+63000	68000	Es war wirklich ausgezeichnet und es hat mich sehr gefreut, dass ich dabei sein durfte.
+68000	75000	Ich freue mich ebenfalls sehr, dass die Folge mit Max jetzt hier direkt nach der Episode mit Antoinette Rouvois erscheinen kann.
+75000	83000	Denn Antoinette, die setzt sich ja sehr intensiv und kritisch mit der Frage algorithmischer Governmentalität auseinander.
+83000	88000	Das macht es also umso spannender jetzt im Anschluss an die Episode mit Antoinette.
+88000	96000	Versuche zu diskutieren, algorithmische Technologien in Form alternativer Techniknutzung für die Planungsdebatte nutzbar zu machen.
+96000	102000	Da besteht also ein interessantes Spannungsverhältnis, könnte man sagen, zwischen diesen beiden Episoden.
+102000	105000	Und ich kann euch nur empfehlen, sie im Tandem zu hören.
+105000	112000	Bevor es jetzt losgeht, dann möchte ich noch Scott ganz herzlich als Patron von Future Histories begrüßen
+112000	118000	und Karl, Lukas, Carmen, Wilfried und Fabian für ihre Spenden danken.
+118000	125000	Und jetzt viel Freude mit der heutigen Folge Future Histories mit Max Grünberg zum Planungsdemon.
+130000	135000	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+135000	139000	Ich freue mich sehr, heute Max Grünberg begrüßen zu dürfen.
+139000	143000	Max, ich habe jetzt keine einleitenden Worte vorbereitet.
+143000	145000	Vielleicht magst du dich selbst kurz vorstellen.
+145000	147000	Vielen Dank für die Einladung.
+147000	153000	Mein Name ist Max Grünberg und ich bin wissenschaftlicher Mitarbeiter an der Universität Kassel,
+153000	163000	wo ich promoviere zur Rolle von Algorithmen in der Verwirklichung einer möglichen postkapitalistischen Wirtschaftsweise.
+163000	166000	Und ich freue mich hier zu sein.
+166000	169000	Ich muss sagen, ich habe den Paper wirklich sehr genossen, Max.
+169000	173000	Das ist allen wirklich wärmstens ans Herz zu legen.
+173000	176000	Und mir hat besonders gut gefallen, dass du im Grunde versuchst,
+176000	182000	einen Brückenschlag zu erschaffen zwischen unterschiedlichen Positionen innerhalb der Planungsdebatte.
+182000	183000	Vielleicht fangen wir da mal mit an.
+183000	187000	Was sind das für Pole, die du da aufspannst und was zeichnet sie aus?
+187000	189000	Was sind vielleicht auch ihre Schwächen?
+189000	194000	Vielleicht hole ich da ein bisschen weiter aus, wenn ich darf.
+194000	200000	Wir fangen erstmal mit der Vision an oder mit dem Projekt, das vor uns steht,
+200000	210000	in der Überwindung eines Wirtschaftssystems, das eklatante Mängel hat, ist unstabil, unökologisch, ungerecht.
+210000	217000	Und die Frage, wie wir eine Welt schaffen können, in dem einfach der Platz für Menschen gegeben ist in der Form.
+217000	225000	Und in der Frage sozusagen, wie so eine kommunistische Zukunft aussehen kann.
+225000	227000	Ich denke, da gibt es erstmal eine philosophische Frage,
+227000	233000	das sozusagen aus den Lehren der Vergangenheit des autoritären Kommunismus,
+233000	238000	des real existierenden Kommunismus vor allem in der Sowjetunion erstmal auf einer philosophischen Basis
+238000	243000	mein Verständnis einer kommunistischen oder sozialistischen Gesellschaft
+243000	247000	vor allen Dingen eine Versöhnung von Freiheit und Gleichheit ist.
+247000	254000	Und in dem Sinne, der Kapitalismus vor allen Dingen die Gleichheit zugunsten der Freiheit geopfert hat
+254000	262000	und im real existierenden Kommunismus eben die Gleichheit zumindest offiziell großgeschrieben wurde,
+262000	265000	praktisch sah das dann natürlich auch anders aus.
+265000	272000	Und in diesem Sinne, wirklich eines libertären Kommunismus, gehe ich der Frage nach, wie das umgesetzt werden kann.
+272000	274000	Und da vielleicht noch mal konkreter die Ziele.
+274000	283000	Es ist vor allen Dingen auch erst mal auf einer materiellen Basis das Ziel einer sozialistischen Produktionsweise
+283000	287000	wirklich den Lebensstandard aller breiten Bevölkerungsmasse anzuheben.
+287000	297000	Also gleichzeitig gibt es da auch gewisse Tendenzen, wie beispielsweise in Büchern von Aaron Bistani
+297000	304000	die Idee von irgendwie einer sehr konsumeristischen Vorstellung von einem Kommunismus,
+304000	311000	der Fully Automated Luxury Communism genannt wird.
+311000	319000	Und das aber sehr stark eben mit einer Idee von Nachhaltigkeit und einem Planeten,
+319000	325000	der wirklich an die Grenze der Machbarkeit gestoßen wird.
+325000	331000	Und da vor allen Dingen sozusagen mit metabolistischen Limits man konfrontiert ist
+331000	336000	und die Tragfähigkeit des Planeten einfach mit einbezogen werden muss.
+336000	340000	Also eine extravistische Logik irgendwie neu gedacht werden muss.
+340000	342000	Und das ist so ein Spannungsfeld.
+342000	350000	Auf der anderen Seite hat man natürlich auch die Frage von demokratischer Teilhabe einerseits, vor allen Dingen in Planungsprozessen.
+350000	359000	Und auf der anderen Seite auch die Frage einer Überwindung oder zumindest Minimierung der Entfremdung der Arbeit selbst.
+359000	370000	Und diese Effizienz-Fragen wirklich die Konsumgüter in dem Maße bereitzustellen, wie sie heute produziert werden,
+370000	377000	aber gleichzeitig auch Arbeitsverhältnisse zu verbessern, das ist auf jeden Fall ein Spannungsverhältnis, das überall da ist.
+377000	385000	Und die Frage ist natürlich, welche Stoßrichtung gibt es heute, um diese Ziele zu verwirklichen in der Debatte?
+385000	391000	Und da würde ich sagen, ist traditionell nach dem Zusammenbruch der Sowjetunion in den 90er Jahren
+391000	397000	der Marktsozialismus in der öffentlichen Diskussion übrig geblieben.
+397000	406000	Und heute die Leute, die mit dem Podcast vertraut sind, wissen sicherlich, dass die Planungsdebatte wieder angeheizt wird.
+406000	415000	Und in dieser Planungsdebatte, würde ich sagen, gibt es zwei Pole, wie letztendlich diese Ziele hergestellt werden oder Planung verwirklicht werden soll.
+415000	425000	Und das, würde ich sagen, ist auf der einen Seite ein partizipativer Pol oder eine Stoßrichtung, die auch ins Extrem geführt werden kann.
+425000	437000	Also es gibt im Englischen diese Redeweise, die, glaube ich, Oscar Wilde zugesprochen wird, dass der Sozialismus zu viele Abende braucht,
+437000	442000	weil also eine nie endende Meeting des Plenums andauernd läuft.
+442000	450000	Und auf der anderen Seite gibt es einen durch, vor allen Dingen populär geworden durch dieses Buch,
+450000	459000	The People Republic of Walmart von Lee Phillips und Michael Rosowski,
+459000	469000	in dem einfach die internen Planungsmechanismen von Unternehmen wie Amazon als Beweis dargestellt werden, dass sowas wie Planung funktioniert
+469000	482000	und da vor allen Dingen algorithmische Gubermentalität oder eine Entscheidungsfindung mit der Hilfe von Algorithmen vorgestellt wird.
+482000	491000	Und das findet sich dann vor allen Dingen auch bei Autoren wie Paul Cockshott und Ellen Cottrell oder Philipp Dabrich,
+491000	498000	die vor allen Dingen sich um die Optimierungsprozesse konzentrieren.
+498000	508000	Und diese Aushandlung von diesen beiden Polen, da würde ich meine eigene Forschung auch drin verorten, vor allen Dingen in der Vermittlung
+508000	516000	und zwischen diesen beiden Polen, weil ich denke, in beiden Extremen funktioniert es nicht.
+516000	524000	Also wir haben in der Idee des Plans, vielleicht jetzt kann ich noch weiter ausholen, wenn ich darf,
+524000	528000	eine Art Geburtsfehler, würde ich sagen.
+528000	542000	Der, wenn wir zurückgehen wirklich zur Stunde Null des modernen Sozialismus um 1800 drum und was Marx die Patriarchen des Sozialismus genannt hat,
+542000	556000	also die kanonisierten Väter, Gründungsväter des europäischen Sozialismus, Charles Fourier ist einer, Robert Owen und Henri de Saint-Simon ist der Letzte.
+556000	561000	Mit Saint-Simon wurden letztendlich zwei Ideen eingeführt.
+561000	571000	Der eine ist der Industrialismus, also eine Befürwortung der modernen Industrie, der moderne, der Wissenschaft, das was Engels und Marx sehr an ihm geschätzt haben.
+571000	583000	Und auf der anderen Seite ist die planhafte Verwirklichung der Wirtschaft entgegen eines blinden und anarchischen Markttreibens.
+583000	592000	Und gleichzeitig hat man einen positiven, könnte man meritokratischen Moment sagen, im Negativen eine absolute Technokratie.
+592000	601000	Das sozusagen Saint-Simon, der der Intelligenz der Gesellschaft die Planung anvertrauen wollte.
+601000	613000	Und da hat man sozusagen von Beginn an diesen Punkt, dass die fähigsten Leute dazu in die Position kommen sollen, um die Entscheidungen über die gesamte Gesellschaft zu führen.
+613000	623000	Und gleichzeitig muss man sagen, haben auch Bildungsprogramme und so weiter da eine Rolle gespielt, dass sozusagen der Talent Pool erweitert werden soll.
+623000	630000	Aber trotzdem wurde knallhart entschieden in seinem Sinne, wer am Ende die Geschicke der Gesellschaft lenkt.
+630000	639000	Und diesen Geist, würde ich sagen, mit dem hat die Planwirtschaft oder die Idee der Planwirtschaft immer zu kämpfen.
+639000	651000	Also den auszuspuken und wird besonders auf die Spitze getrieben, würde ich sagen, wenn Algorithmen ins Spiel kommen.
+651000	667000	Die zumindest verheißen quasi übermenschliche Fähigkeiten, seerische Fähigkeiten, aber auch Optimierungsprozesse und so weiter, die sozusagen Resultate ermöglichen,
+667000	679000	die eventuell im verbalen Aushandlung in der Form nicht möglich sind, so sozusagen die These, die da in den Raum gestellt wird.
+679000	691000	Und auf der anderen Seite natürlich ist die Frage, will man das? Will man in so einer Gesellschaft leben?
+691000	704000	Es hat auch ein unbehagliches Gefühl, der Maschinengeist, die Geschicke der Welt anzuvertrauen.
+704000	718000	Und mit diesen Fragen müssen wir uns trotzdem auseinandersetzen, ob wir überhaupt im Blick auf den planetaren Kollaps diese Produktivkräfte ausschlagen können in so einem Projekt.
+718000	726000	Und da, würde ich sagen, ist sozusagen meine eigene Forschung verortet in der Aushandlung von diesen Fragen.
+726000	736000	Und vor allen Dingen auch wirklich genau darauf zu schauen, was für Folgen vielleicht daraus entstehen können, für Risiken für die Gesellschaft.
+736000	746000	Also da habe ich jetzt ganz viele Fragen natürlich zu dieser wirklich spannenden und auffaltenden Antwort.
+746000	758000	Ich glaube, wir verschieben mal die Nachfragen in Bezug auf die verschiedenen Pole, die du jetzt gezeichnet hattest, etwas nach hinten und gehen einfach doch nochmal direkt jetzt zu dieser Frage des Vorausschauens,
+758000	770000	zu dieser Frage des Forecasting, das du eben im Grunde jetzt dann auch nutzbar machen willst als eine algorithmische Guvernmentalität und die du im Grunde dann auch vorschlägst,
+770000	777000	als eine Technologie, die in der Lage sein könnte, diesen Brückenschlag zwischen den beiden Polen zu vollziehen.
+777000	780000	Vielleicht kannst du da ein bisschen genauer darauf eingehen.
+780000	782000	Was ist es genau, was du vorschlägst?
+782000	790000	Und wie kann eben auch diese Gefahr, die du ja auch ein bisschen angedeutet hattest, dass diese Prädiktion in eine Präskription umschlägt?
+790000	799000	Wie kann das vielleicht auch adressiert werden in einer Form, die eben dann eine vielleicht auch alternative Art der Techniknutzung möglich macht?
+799000	810000	Ja, vielleicht vorweg noch als Kommentar. Ich weiß ja, dass die Zuhörer wahrscheinlich mit der Planungsdebatte etwas vertraut sind.
+810000	821000	Aber trotzdem glaube ich, ein bisschen Kontext hilft da schon, um nochmal auf den Planungsprozess selbst zu schauen.
+821000	832000	Und in der klassischen sozialistischen Kalkulationsdebatte ging es vor allen Dingen um Fragen von Optimierung.
+832000	845000	Das heißt, die Frage, welche Preise braucht es, um Markträumung zu erfolgen, um generelles Equilibrium zu realisieren.
+845000	850000	Also Schattenpreise wurde das auch genannt. Das ist dann eher so die marktsozialistische Variante.
+850000	857000	Und auf der anderen Seite gibt es die Optimierungsalgorithmen, lineare Programmierungen.
+857000	869000	Aber es gibt auch sehr viele andere Ansätze da. Und die Frage, das sind wirklich, was statische Effizienz genannt werden kann.
+869000	881000	Also diese Fragen haben keinen Blick auf Dynamik. Die Frage, wenn neue Produkte sozusagen jetzt in diesen Markt integriert werden,
+881000	898000	was muss anders, also muss alles wieder neu arrangiert werden. Und die Frage der Vorhersage oder des Forecastings im Englischen ist eben mehr mit diesen dynamischen Prozessen befasst.
+898000	906000	Und die gleichzeitig hat, das muss man auch unterscheiden, gibt es einen qualitativen Anteil und einen quantitativen Anteil.
+906000	915000	Und beim qualitativen Anteil ist die Frage, was wollen wir überhaupt auf der Ebene der Konsumgüter.
+915000	919000	Und ich denke, da muss man auch ganz viele Ebenen vielleicht unterscheiden.
+920000	932000	Also für den Privatkonsum, für den kollektiven Konsum, irgendwie Infrastruktur und so weiter oder Konsumgüter für Zuhause, Essen, Kleidung, Technik und so weiter.
+932000	942000	Und ich würde sagen, dass auf dieser qualitativen Seite, was wir wollen, Algorithmen uns sehr wenig helfen können.
+943000	961000	Und es wird aber auf der quantitativen Seite sie doch eine särische Fähigkeit vielleicht mitbringen, die in einer sozialistischen Wirtschaft, meiner Meinung nach, die wir nicht ausschlagen sollten.
+961000	976000	Und die Frage, wie diese Technologie eingehegt werden kann, da werde ich vielleicht ein bisschen später drüber reden, noch was zu sagen und erstmal noch mal zu diesen Algorithmen selbst kommen.
+976000	982000	Aber ein gutes Beispiel ist vielleicht der Stromverbrauch.
+982000	999000	Heutzutage im Kapitalismus selbst gibt es ja, die Stadtwerke oder auch für ganz Deutschland werden Prognosen hergestellt, um den Stromverbrauch zu antizipieren in der Zukunft.
+999000	1007000	Und für morgen, für abends und je nachdem werden Kraftwerke hochgefahren, gebaut, abgerissen und so weiter.
+1007000	1013000	Atomausstieg, Kohleausstieg, diese ganzen Fragen sind aber dann qualitativ.
+1013000	1024000	Also das auf der einen Seite wird ein bestimmter Zahlenwert ermittelt, heutzutage sehr stark mit Algorithmen, da sind keine Menschen daran beteiligt.
+1024000	1040000	Und auf der anderen Seite stehen wir dann vor Fragen, wie wollen wir diese Quantitäten füllen und ob es mit Kohle, mit Nuklearenergie, mit Solar, Wind, Erneuerbaren und so weiter gemacht wird, ist eine Frage, da können uns Algorithmen nicht weiterhelfen.
+1040000	1051000	Das sind politische Prozesse, die meiner Überzeugung nach auch vom Grund auf in Bottom-Up-Prozessen irgendwie eruiert werden müssen.
+1051000	1065000	Und die quantitative Bestimmung zeigt sich aber dann nochmal besonders in der Ermittlung von Konsumbütern selbst.
+1065000	1073000	Also wirklich im Privaten die Frage, wie viel von X brauche ich nächstes Jahr?
+1073000	1090000	Und da ist mir persönlich in der Planungsliteratur, bin ich irritiert über so die Vorstellung gestoßen, die sehr verbreitet scheinbar ist in sozialistischen Kreisen,
+1090000	1106000	dass der Kommunismus oder der Sozialismus als Produktionsweise vor allen Dingen, da ist der Terminus eine Produktion ex ante, ist also gemeinschaftliche Produktion ex ante.
+1106000	1121000	Und ex ante ist lateinisch für vor dem Ereignis. Und das Ereignis ist, die Produktion und die gemeinschaftliche sinnhafte Produktion bewusst eben das produziert werden soll, was die Menschen wollen.
+1121000	1137000	Und ich würde sagen, da ist schon mal in erster Linie ein leichter Denkfehler drin, weil es ist die auch selbst, wenn man die Menschen fragt, was sie denn wollen, ist es eine Antizipation von zukünftigen Bedürfnissen.
+1137000	1155000	Also auch die Konsumenten selbst müssten Vorhersagen machen. Es ist nicht, weil die Bedürfnisse selbst meist ein immanentes Gefühl ist, dass das kurz vor dem Konsum irgendwie auftaucht, jetzt will ich das oder so.
+1155000	1175000	Und sonst bleibt uns eigentlich nur die Vorhersage. Und in dieser Beschreibung einer gemeinschaftlichen Produktion ex ante ist mir in der Literatur, der Planungsliteratur, aber auch der weiteren sozialistischen Literatur, bin ich einer Irritation begegnet,
+1175000	1197000	dass letztendlich der Grundthenus geboren aus so einem partizipativen Ideal der Selbstbestimmung der Konsumenten letztendlich, die Vorstellung gewachsen ist, dass die Menschen selbst sagen, was sie brauchen, was sie wollen in der Zukunft.
+1197000	1215000	Und auf der Grundlage sozusagen die komplette Wirtschaft ausgerichtet ist. Also das sozusagen, die im Vergleich zur profitorientierten kapitalistischen Wirtschaft eben eine Wirtschaft ins Leben gerufen wird, die auf Gebrauchswerte ausgerichtet ist.
+1215000	1231000	Also das Erfüllen von menschlichen Bedürfnissen. Und diese müssen ja irgendwie erfasst werden. Und in der Literatur, in der Planungsliteratur werden diese Bedürfnisse als gegeben verstanden.
+1231000	1247000	Und da wurden vor allem von der, auch bei dir im Podcast ja schon war, von Robin Hannell und Michael Albert in ihrem Paragon-Modell wurde die Idee das erste Mal, also da wurde das wirklich konkret von Wunschlisten eingeführt.
+1247000	1271000	Das heißt Konsumenten, die sind bei denen nochmal anders, also es sind nicht individuelle Wunschlisten, sondern sind, ich glaube ich jetzt nicht abvergessen, wie genau es organisiert ist, aber man hat auf der sowas wie keine Kernfamilie, sondern irgendwie kleine Kollektive, die dann ihre Wunschlisten zusammentragen, was sie denn brauchen.
+1272000	1284000	Und das wird dann nochmal auf höher Ebene abgesegnet, ob das denn auch im Rahmen ist. Und dann wird es weitergeleitet, um irgendwie das abzugleichen, was die Produktion denn hergeben kann.
+1284000	1297000	Und vor einigen Jahren, das ist dann besonders populär geworden durch das Essay Digital Socialism von Evgeny Morozov, der hat diesen Vorschlag ein bisschen aus der Versenkung geholt.
+1297000	1326000	Der Vorschlag von Daniel Iseras, der ja auch hier in dem Podcast schon prominente Position hatte, die Idee von auch so, ich glaube er nennt das Individual Need Profiles, die eben durch einen Katalog sich scrollen, in dem alle Gebrauchswerte aufgelistet werden und man dann für die nächste Produktionsperiode eine Orderliste anstellt.
+1327000	1342000	Und diesen Gedanken, den ich erstmal von sich aus begrüße, die Idee der Partizipation finde ich allerdings äußerst fragwürdig, ob das wirklich so machbar ist.
+1342000	1361000	Einerseits aufgrund der reinen Quantität von Konsumgütern, die es letztendlich gibt. Wir haben heute Amazon führt rund 500 Millionen Produkte und sicherlich werden in der zukünftigen Gesellschaft viele von diesen unnötigen Produkten rausfallen.
+1361000	1371000	Aber wir werden im hohen sechsstelligen bis siebenstelligen Bereich eine Liste haben, durch die sich die Konsumenten dann durchscrollen müssen.
+1371000	1384000	Und es ist für mich interessant, wie sozusagen dieses partizipative Ideal hier in der gemeinschaftlich geteilten Agonie sozusagen kollabiert, diese Listen auszufüllen.
+1384000	1396000	Ob Partizipation nicht wirklich anders gedacht werden kann und da bin ich sehr bei Leibman, der mir gesagt hat, Partizipation ist etwas, das optimiert werden muss und nicht maximiert werden.
+1396000	1404000	Und ich sage jetzt vielleicht nochmal ein bisschen detailreicher, warum das so problematisch ist.
+1404000	1423000	Also wir haben einerseits diese Liste, die rein Mengen und was sozusagen die Autoren vorschlagen, um Komplexitätsreduktion zu betreiben, ist, dass man sozusagen die Liste aus dem letzten Jahr oder der letzten Produktionsperiode,
+1423000	1431000	bei Cyrus ist es auch überhaupt nicht klar, von welchen Zeitintervallen wir da reden. Das hat er in seinem Buch meines Wissens nicht abgesteckt.
+1431000	1440000	Und die Frage ist sozusagen, deren Lösung die Komplexität zu reduzieren, dass man sagt, man fängt mit der Liste vom letzten Jahr an.
+1440000	1458000	Und in gewissen Bereichen könnte das sozusagen funktionieren, aber wenn man sich wirklich vorstellt, dass sehr, sehr viele Konsumprodukte einfach nicht jährlich gekauft werden, man denkt an Waschmaschinen und so weiter.
+1458000	1479000	Und diese Vorstellung, dass man einfach das vom letzten Jahr an benutzt und als Grundlage steht und da so ein bisschen dran dreht, halte ich, also es ist in der Wettervorhersage wäre das ungefähr zu sagen, das Wetter morgen wird so wie heute, aber ein bisschen anders.
+1479000	1490000	Ja, und also das ist im Forecasting nennt sich das ein naiver Forecast. Das ist wirklich die einfachste oder einfachste Form der Vorhersage.
+1490000	1499000	Und ich würde behaupten, dass wir heute andere Mittel haben, um das vorherzusagen und vielleicht noch da nachgeschoben.
+1499000	1510000	Also ich würde jedem einfach, wenn sie einen Amazon-Account oder so haben, einfach mal reinzuschauen und schauen, hätte ich dieses Produkt vor einem Jahr bestellt.
+1510000	1522000	Und ich glaube also bei mir persönlich, ich hätte das nicht gemacht. Also das ist sozusagen die Frage, habe ich die Kapazitäten dazu überhaupt?
+1522000	1547000	Ja, und ich würde sagen, dass diese Autoren als Grundlage so einen sozialistischen Homo economicus nehmen, der, wenn er von den Fesseln des Kapitalismus befreit ist, in der Lage ist, endlich das auszudrücken und zu fordern, was irgendwie die eigentlichen Bedürfnisse sind.
+1547000	1561000	Aber ich würde behaupten, die Menschen sind sich überhaupt nicht bewusst über ihre zukünftigen Bedürfnisse. Und viele Menschen haben sicherlich mich eingeschlossen, vielleicht habe ich da einen kleinen Bias, haben gar kein Interesse, diese Listen auszufüllen.
+1561000	1574000	Sondern ich würde von einer funktionierenden Produktionsweise erwarten, dass die Produkte in einem Maß vorrätig sind, der dem Bedürfnis der Menschen wirklich entspricht.
+1574000	1584000	Und die Frage, wie Partizipation dann reinkommt, ist letztendlich über den Konsum selbst.
+1584000	1599000	Das ist eine letztendlich würden diese Konsummärkte oder Märkte für Konsumbieter, egal ob es monetär oder so Logiken weiter gibt, könnten ja erfasst werden.
+1599000	1610000	Und man könnte den eigenen Konsum auch als Abstimmung oder als Votum für ein bestimmtes Produkt verstehen.
+1610000	1634000	Das ist natürlich wie der Ex-Post passiert. Aber ich finde, diese Unterscheidung von Ex-Ante und Ex-Post ist nicht sonderlich hilfreich, weil auch in einer Planwirtschaft, die über solche Listen funktionieren würde, hätte man den gleichen Prozess, dass man mit Vorhersagen anfängt.
+1634000	1648000	Man würde die Waren produzieren und dann später schauen in der Konsumtion, ob diese Vorhersagen validiert werden, ob sie richtig waren oder falsch werden, und auf der Grundlage natürlich Änderungen vornehmen.
+1648000	1668000	Und ich glaube, dieser Feedbackprozess, den man ja ganz kubernetesch ganz gut als Feedbackprozess bezeichnen kann, der natürlich nie so linear ist, sondern auch während der Produktion sicherlich Angleichungen vorgenommen werden müssen, weil sich irgendwas ändert und parallel konsumiert und produziert wird und vorhergesagt wird,
+1668000	1695000	also es ist wesentlich dynamischer und iterativer als so ein klare, lineare, aufeinanderfolgender Prozess. Und da auch letztendlich Mitbestimmungsrecht in dem Sinne gibt, weil du als Konsument mit dem Kauf oder der Auswahl eines Produktes letztendlich dich dafür entscheidest.
+1695000	1723000	Natürlich muss man sagen, ist es in gewisser Weise begrenzt durch die Auswahl, die es gibt. Deswegen ist dieser Voting-Mechanismus im Kapitalismus auch dysfunktional, würde ich sagen, weil man eine Produktpalette hat, die auf Profitoptimierung ausgerichtet ist und nicht auf Gebrauchswerte,
+1723000	1731000	also die geplante Obsoleszenz und solche Sachen, dass das eingeschrieben ist in Produkte und man oft auch gar keine andere Wahlmöglichkeit hat.
+1731000	1760000	Und die in sozialistischen Konsummärkten sozusagen auch durch sowas wie Einkommensgleichheit eine gewisse Gerechtigkeit hergestellt wird, die in kapitalistischen Märkten nicht gibt, wo eben durch die Lohndifferenzen und Einkommensdifferenzen eben manche Menschen wesentlich mehr zu sagen haben,
+1760000	1765000	wie die, welche Produkte hergestellt werden sollen.
+1765000	1792000	Gut, da gibt es jetzt auch dieses Mal extrem viel zu sagen zu. Vielleicht hake ich einfach mal als erstes bei dem letzten Punkt ein, den du jetzt gebracht hast, weil im Grunde fragt man sich doch dann, ob nicht das eine wie das andere im Grunde dann in die Falle tappt, dass es eben die Individuen auf ihre Rolle als Konsumentinnen und Konsumenten reduziert, weil das würden sie ja dann im einen wie im anderen tun.
+1792000	1816000	Also du hattest jetzt zuletzt gesagt, wenn wir sozusagen nicht voting by our feet, aber voting by our consumption power sozusagen, wenn das quasi dann der Mechanismus ist, auf den es am Ende hinausläuft, dann ist das doch im Grunde eine ähnliche Spiegelung des sozialistischen Homo economicus, den du finde ich richtigerweise kritisierst bei den anderen Modellen.
+1816000	1825000	Eine ähnliche Spiegelung oder eine Spiegelung, die das Individuum dann ähnlich konzeptionalisiert als eben diese laufende Wishlist, wenn man so will.
+1825000	1847000	Und das wäre ja was, was ich bei Seros zum Beispiel auch als Kritikpunkt total nachvollziehen würde, dass im Grunde dort eben die Konzeption ist, dass wir alle als individualistische Order-Lists adressiert werden und dadurch sich akkumulativ sozusagen dann im Grunde die Wirtschaft zusammensetzen würde.
+1847000	1874000	Und dass das entscheidende Element, was daran aber fehlt, nicht unbedingt die Frage ist, inwiefern andere Mechanismen das noch perfekter machen könnten, weil das wäre ja die Logik zu sagen, wir gehen jetzt zusammen zu einem algorithmischen Forecasting, sondern das entscheidende Element, was daran fehlt, wäre ja im Grunde Formen der ja auch Politisierung dieser Formation von Wünschen.
+1874000	1885000	Weil das wäre sozusagen, finde ich, dann eigentlich quasi der dritte Weg, in Anführungsstrichen, dass eigentlich die Formierung der Wünsche an sich schon prozessual gedacht wird und auch kollektiv gedacht wird.
+1885000	1898000	Und das ist natürlich dann die Frage, worauf bezieht sich das? Also auf jetzt individuelle Letztkonsumensachen oder sowas, kaufe ich jetzt ein Wasser oder so, das müssen wir beide nicht miteinander abstimmen, so kann ich aber kaufen.
+1898000	1915000	Aber ich glaube, da stellt sich halt dann wieder die Frage, okay, in Bezug auf welche Elemente sind welche Zugänge eigentlich zielführend und wo ist welche Methodik vielleicht auch defizitär und wie könnte sie angereichert werden?
+1915000	1929000	Und das bringt mich eigentlich zu einer Grundeinschätzung in Bezug auf dein Paper und deine Position und auf welche Punkte du da, finde ich, richtigerweise hinweist, weil ich nämlich am Ende eigentlich immer das Gefühl hatte,
+1929000	1943000	Du empfindest die Widersprüche viel stärker als ich bei Paracon zum Beispiel. Ja, das ist ja durchaus, das wäre eigentlich das Paradebeispiel, an dem ein sowohl als auch im Grunde sich darstellt.
+1943000	1953000	Weil bei Paracon ist ja diese parametrische Herangehensweise gibt, die sich in der Rat, in der Ratio zwischen Social Cost und Social Benefit darstellt.
+1953000	1962000	Das ist ja sozusagen so ein Parameter, quasi der, wenn man so will, in Anführungsstrichen Effizienz innerhalb des Worker Councils, anhand dessen er gemessen wird.
+1962000	1972000	Und das wäre durchaus zum einen automatisierbar oder in algorithmische Formen der Gewöhnementalität einspeisbar und so weiter.
+1972000	1981000	Also da hätte ich eigentlich eher das Gefühl, es gibt ganz viel Raum für Synthetisierung zwischen den verschiedenen Positionen, was du ja im Grunde auch anstrebst.
+1981000	1997000	Und die Zugänge, die du kritisierst, also zum Beispiel ein Beispiel von Seros jetzt mit dem General Catalog, die finde ich, sind eigentlich aufgelegt dafür, im Grunde durch die Dinge angereichert zu werden, die du ins Spiel bringst.
+1997000	2013000	Beziehungsweise ist es eben bei mir schon so gewesen, dass ich von vornherein sowieso davon ausgegangen wäre, dass in etwas wie dem General Catalog natürlich dann auch Technologien des Forecastings eingesetzt werden, um Vorschläge zu machen.
+2013000	2028000	Und wie weit man dann welche Zugänge für einen bestimmten Bereich wählt und welche Zugänge für einen anderen, das ist dann sozusagen die Frage der Nuansierung oder der Kombination der verschiedenen Logiken.
+2028000	2046000	Aber zumindest für mich hat es sich eigentlich nie so dargestellt, als gäbe es wirklich oder zumindest bei den interessanteren Zugängen nicht entweder sowieso schon diese Kombination, wie zum Beispiel bei David Leibmans Modell, der das ja auch dezidiert immer so sagt, dass es das zu fusionieren gelte.
+2046000	2061000	Oder als eine Form von, weiß ich nicht, theoretischer Affordanz. Das heißt, das ist irgendwie ein Punkt, wo logischerweise eigentlich dann diese Technologien, die du ja auch nutzbar machen willst, dann im Grunde eingeführt werden sollten.
+2061000	2066000	Das ist jetzt nicht wirklich eine Frage, das ist eher so ein Gefühl quasi zu dem Ganzen.
+2066000	2077000	Vielleicht zwei Kommentare dazu. Ich denke, es braucht weiterhin, also ich würde auch sagen, in vielen Bereichen sind die Widersprüche gar nicht so groß.
+2077000	2082000	Und ich denke, wie ich dich jetzt richtig verstanden habe, zwei Punkte vielleicht.
+2082000	2101000	Das eine ist die kollektive Arbeit an Wünschen zu hinterfragen. Also heutzutage, dass viele Bedürfnisse vielleicht sich auch ändern, durch das es keine Werbung mehr gibt, gar kein Anreiz zur Produktion, sich sehr viel verschieben wird.
+2101000	2111000	Und auf der anderen Seite, was ich eben in deinem Kommentar so ein bisschen rausgehört habe, auch die Frage einer Involvierung des Konsumenten in Produktionsprozesse.
+2111000	2119000	Dass da irgendwie auch sowas wie qualitative Kanäle vielleicht gibt, um Produktion und Konsumption ein bisschen weiter zu verschränken.
+2119000	2133000	Aber gleichzeitig sind wir auch in einer, also denke ich, werden wir auch weiterhin in einer arbeitsteiligen Gesellschaft leben werden, auch nach einer Überwindung des Kapitalismus.
+2133000	2139000	Aber gleichzeitig ist die Involvierung in gewisser Weise begrenzt.
+2139000	2148000	Also wir können nicht überall die Konsumenten sozusagen involvieren, also nicht alle, vielleicht Repräsentanten.
+2148000	2157000	Das gibt es ja gerade bei Pat Levin und so weiter, ist das sehr präsent, dass dann in den Produktionseinheiten Repräsentanten von Konsumenten sind.
+2157000	2164000	Das hat man ja heutzutage auch im Kapitalismus sogar, dass es dann so Patientenverbände und so weiter gibt.
+2164000	2172000	Also da ist überhaupt kein Streitpunkt drüber.
+2172000	2178000	Und es sollte sicherlich auch sowas wie qualitative Feedback-Kanäle geben.
+2178000	2189000	Es ist auch wieder vielleicht ein blödes Beispiel, das im Kapitalismus schwer missbraucht wird, weil es auch wieder einen monetären Anreiz gibt.
+2189000	2197000	Das Produkt-Rating auf Seiten wie Amazon mit fünf Sternen und dann kann man noch einen Kommentar und so weiter machen,
+2197000	2206000	das sozusagen auch qualitative Informationen generieren würde über die Beschaffenheit von irgendwelchen Produkten, ob es gut ankommt und so weiter.
+2206000	2214000	Und im Kapitalismus ist natürlich absolut dysfunktional, weil man diese Likes und so weiter einfach kaufen kann.
+2215000	2221000	Da müsste dann irgendwas überlegt werden, ob man das in irgendeiner Weise, also IP gebunden kann man es nicht machen,
+2221000	2234000	dass man irgendwie halbwegs anonymisiert, irgendwelche Profile hat und das dann pseudo-anonym oder sonst wie, um sowas herzustellen.
+2234000	2242000	Aber ich will trotzdem darauf festhalten, dass, also nochmal den Punkt vielleicht starkmachend ist,
+2242000	2251000	mir vor allen Dingen um die quantitative Bestimmung von der Frage, wie viel iPhones oder sonst welche Güter braucht man.
+2251000	2261000	Und da eben in den letzten Jahren besonders die Fähigkeiten zugenommen haben,
+2261000	2268000	dass über bestimmte statistische Methoden oder Machine Learning solche Vorhersagen zu verfeinern.
+2268000	2276000	Und da muss man trotzdem auch festhalten, heutzutage im Supply Chain Management und so weiter gibt es immer noch,
+2276000	2288000	es nennt sich Subjective Overrides, dass selbst wenn irgendwelche Modelle Vorhersagen über den Konsumbedarf herstellen,
+2288000	2297000	dass die trotzdem weiterhin verhandelt werden mit Wissen, Domainwissen, das vielleicht wichtige Informationen hat,
+2297000	2303000	wie beispielsweise ein Corona Lockdown oder so, der nicht im Modell wirklich vorhanden ist.
+2303000	2309000	Und extern sozusagen, es nennt sich dann sogenannten Broken-Leg-Scenarios,
+2309000	2317000	wo es geht auf ein Gedankenexperiment zurück, dass irgendwie das Broken-Leg-Scenario ist ein Professor,
+2317000	2327000	der mit einer 90% Wahrscheinlichkeit, also in der Bayesian Wahrscheinlichkeitstheorie verankert,
+2327000	2333000	mit einer 90% Wahrscheinlichkeit ins Kino geht, aber sich das Bein bricht und die Frage ist,
+2333000	2338000	wird er am Donnerstag wieder ins Kino gehen? Und da ist die Wahrscheinlichkeit sicherlich nicht 90%,
+2338000	2342000	auch wenn er die letzten zehn Jahre immer ordentlich ins Kino gegangen ist.
+2342000	2354000	Und diese Informationen sind oft außerhalb von solchen statistischen Modellen und müssen dann von eben den Planern irgendwie integriert werden.
+2354000	2358000	Und dann ist auch die Frage, auf welcher Ebene laufen diese Vorhersagen ab?
+2358000	2367000	Und da ist die Unterscheidung des heutzutageigen Kapitalismus, werden die Vorhersagen einzig und allein auf der Ebene des Unternehmens geführt.
+2367000	2374000	Da hat man die Teilung zwischen dem Management, die die Pläne machten, den Arbeitern, die sie ausführen,
+2374000	2380000	und die Konsumenten kommen da eigentlich relativ wenig vor.
+2381000	2389000	Man hat natürlich auch wieder die Daten von früher, man hat vielleicht Vorbestellungen in vielen Betrieben,
+2389000	2397000	gerade wenn es also nicht um Konsumgüter geht, sondern intermediäre Güter, da läuft ja sehr viel auch mit Vorbestellungen,
+2397000	2408000	sowas wird es auch weiterhin geben, denke ich, dass darüber auch Informationen generiert werden, die in statistische Modelle integriert werden.
+2408000	2415000	Das nennt sich dann Konsens-Forecasting, dass man mehrere Arten vielleicht hat und die zusammen aggregiert,
+2415000	2422000	mehrere Arten Vorhersagen zu machen, qualitative, quantitative Daten irgendwie heranzieht,
+2422000	2428000	subjektive Methoden eben mit solchen objektiven Methoden zusammenbringt.
+2428000	2436000	Und da versuchen sollte, die bestmögliche Zukunft auch zu errechnen.
+2436000	2445000	Und die Frage ist natürlich da, also das Gute ist, man kann die Methoden vergleichen,
+2445000	2453000	aber das Gemeine an der Sache ist auch, dass jedes Modell, egal wie gut es ist, irgendwann auch zusammenbricht.
+2453000	2461000	Und man kann ein Modell, das über Jahre sehr gute Ergebnisse gebracht hat, kann im nächsten Modell auseinanderbrechen.
+2461000	2472000	Mit dieser Ungewissheit müssen wir leben. Und gleichzeitig kann man heutzutage sehr gut, es läuft auch,
+2472000	2483000	also durch solche Wettbewerbsseiten wie Kaggle, wo Data Scientists einfach bestimmte Datensätze beispielsweise zur Verfügung gestellt bekommen
+2483000	2491000	und auf deren Grundlage Vorhersagen machen und da natürlich vor allen Dingen statistische Methoden, Machine Learning usw. verwenden,
+2491000	2502000	um diesen Wettbewerb zu gewinnen. Und sowas könnte ich mir auch sehr gut vorstellen in zukünftigen sozialistischen Gesellschaft,
+2502000	2511000	dass da wieder so ein Wettbewerb der Methoden, die Datensätze können ja frei zugänglich gemacht werden.
+2511000	2522000	Und der große Vorteil einer gemeinschaftlichen Produktion vor allen Dingen ist, dass die ganzen Informationssilos, die es heutzutage gibt,
+2522000	2532000	zwischen verschiedenen im Wettbewerb stehenden Unternehmen wirklich offengelegt, der Gemeinschaft zur Verfügung gestellt werden können
+2532000	2541000	und nutzbar gemacht werden können. Und das ist sowas, was Marx die Anarchie der Produktion genannt hat, dass eigentlich niemand weiß,
+2541000	2549000	was der andere macht und was wirklich gebraucht wird und wer wieviel von was produziert und das natürlich aufgehoben wird.
+2549000	2557000	Und dieser Datenpool, der dadurch entsteht, der schreit gerade so nach Interpretation.
+2557000	2569000	Und die Frage ist, welche Modelle ist es sozusagen der einzelne menschliche Konsumentenkopf, der diese Daten interpretiert?
+2569000	2579000	Oder ist es die Alchemie der künstlichen Intelligenz, die das für uns macht? Und das hat natürlich wieder auch was Unbehagliches,
+2579000	2591000	weil vor allen Dingen die Deep Learning Modelle eine Funktionsweise haben, die nicht einsichtbar ist.
+2591000	2601000	Also das wird als Black Box Algorithmus beschrieben. Du kannst nicht sagen, wieso dieser Algorithmus einen bestimmten Output produziert hat.
+2601000	2610000	Das ist natürlich, da sind wir wieder im Unbehagen, dass wir die Frage, wir haben diese wirkmächtigen Algorithmen,
+2610000	2622000	aber können wir solche doch vielleicht wichtigen Entscheidungen denen wirklich anvertrauen? Und ich denke, automatisieren wird man das auf keinen Fall.
+2622000	2639000	Das müsste immer ein Mensch als Monitor irgendwie im Hintergrund sein, der das einhegt oder bestimmte vielleicht Institutionen, die dann ins Leben gerufen werden müssen.
+2639000	2648000	Irgendwelche Forecasting Boards, die sich zusammensetzen, auch wieder aus Arbeiterinnen, aus irgendwelchen Produktionseinheiten,
+2648000	2661000	vielleicht sektoral organisiert oder auch bestimmte Konsumenten oder Repräsentanten aus Regierungen, wenn es sowas gibt, sowas wie Parteien oder so.
+2661000	2673000	Also das muss auf jeden Fall weitergedacht werden. Aber die Wirkmacht, die zeigt sich vor allen Dingen heute bei Unternehmen wie Amazon.
+2673000	2678000	Und da sind wir wieder bei der Rückfindung zu diesem Buch, People Republic of Walmart.
+2678000	2685000	Später haben die Autoren gesagt, sie hätten es People Republic of Amazon nennen sollen, weil sie angefangen haben, das Buch zu schreiben.
+2685000	2694000	War Amazon eben noch nicht das Unternehmen, das es heute ist, das vor allen Dingen, wenn man die Geschichte anschaut,
+2694000	2703000	der als Online-Buchhandel angefangen hat, dann irgendwie zu diesem Everything Store geworden ist, der alles verkauft und irgendwann das auch nicht genug war.
+2703000	2719000	Und Jeff Bezos in seiner napoleonischen Ambition gesagt hat, okay, die gesamte Wirtschaft soll auf meiner Plattform laufen und mit sozusagen irgendwann die internen Planungsprozesse
+2719000	2729000	und die Infrastruktur zum Produkt gemacht hat mit Amazon Web Service, das heute mit Abstand der profitabelste Teil dieses Unternehmens ist
+2729000	2742000	und gleichzeitig auch einen Forecasting-Algorithmus auch für das Unternehmen selbst aus der eigenen Forschung entwickelt hat,
+2742000	2750000	der wirklich ein einziges Modell für diese ganzen 500 Millionen Zeitreihen hat.
+2750000	2762000	Also die 500 Millionen Produkte, die eben Verkäufe pro Zeiteinheit abgebildet werden und da für diese ganzen Produkte Vorhersagen macht.
+2762000	2777000	Und der große Vorteil, die diese Deep Learning-Algorithmen haben, ist eben, dass einerseits diese interrelationalen Beziehungen zwischen Produkten sehr gut abgebildet werden können,
+2777000	2786000	dass früher das statistische Vorhersagen immer ein Modell pro Zeitreihe war.
+2786000	2795000	Also du hast ein Modell gehabt, das bestimmte Daten interpretiert hat, die aber unabhängig alle zueinander war, wenn man mehrere Produkte hat.
+2795000	2801000	Und jetzt hat man diese Interdependenzen, die sehr gut in diesen Modellen abgebildet werden können.
+2801000	2806000	Und auf der anderen Seite kannst du noch viel mehr Daten in dein Modell integrieren.
+2806000	2817000	Du kannst Metadaten, wenn du Promotionen machst und so weiter, die früher sehr schwer modellierbar waren, kannst du mit in deine Vorhersagen einarbeiten.
+2817000	2824000	Es kann auch, wenn man das noch weiterdenkt, hungern diese Modelle nach immer mehr Information.
+2824000	2829000	Und dann ist man natürlich auch in der Position zu fragen, wie viel will man bereitstellen?
+2829000	2837000	Wie viel sind wir als Gesellschaft bereit, unsere Google anfragen oder die Suchmaschine der Zukunft?
+2837000	2844000	Wollen wir das? Ist das wirklich anonymisierbar? Sollten wir die Daten nutzbar machen?
+2844000	2851000	Und ja, solche Fragen stehen natürlich im Raum, aber sollten diskutiert werden.
+2851000	2858000	Ja, unbedingt. Und ich finde auch, dass es eben sozusagen dann ein Punkt, bei dem es einfach anzusetzen gilt,
+2858000	2867000	weil es natürlich schon so ist, dass du vorschlägst, dass wir uns da einer bestimmten Logik bedienen,
+2867000	2876000	die Antoinette Revoy mal als Algorithmic Governmentality bezeichnet hat und die sich unter anderem auch dadurch auszeichnet,
+2876000	2886000	dass im Grunde Zukunft nicht eben nur projiziert, also vorhergesagt werden, basierend auf vergangenen Events,
+2886000	2892000	sondern dass dadurch, dass diese Vorhersagen dann auch als, im Grunde, wenn man will,
+2892000	2897000	nicht nur epistemische, sondern auch politische Player eigentlich in die Agenda treten,
+2897000	2902000	dass man dadurch dann eben eigentlich im Grunde auch Zukunft mit produziert.
+2902000	2905000	Und dass das sozusagen nicht voneinander getrennt gedacht werden kann.
+2905000	2914000	Und dass in der Art und Weise, wie du das jetzt zeichnest, eben durchaus halt immer mal wieder, finde ich,
+2914000	2920000	so ein bisschen dieser Beigeschmack halt mitkommt. Zum einen natürlich, wohin führt das, wenn man es extrapoliert?
+2920000	2927000	Das war jetzt der letzte Punkt, den du angesprochen hast. Aber auch, inwiefern tappt man sozusagen in die Falle,
+2927000	2933000	dass da eigentlich eine Maximierung der Befriedigung von Consumer-Wünschen sozusagen verabsolutiert wird
+2933000	2944000	und im Grunde eigentlich man Gefahr läuft, in die Falle zu tappen, im Grunde den Kapitalismus in seinem eigenen Spiel out zu performen.
+2944000	2956000	Und dass das aber ja eigentlich einer grundlegenderen Logik des Kommunismus, wenn man jetzt einfach mal das setzt,
+2956000	2967000	bis zu einem gewissen Grad zuwidergeht, als dass da dann sozusagen im Grunde nicht zu genüge, sage ich mal,
+2967000	2976000	diese Bedürfnisse eigentlich kontextualisiert werden als weit über reine Konsumwünsche hinausgehend.
+2976000	2984000	Und inwiefern dann durch eine Adressierung via Algorithmic Governmentality eigentlich mal wieder in diese Isolation,
+2984000	2990000	nämlich Isolation des Individuums gegriffen als Konsumentin hineintappt.
+2990000	3001000	Also auf der einen Seite diese Gefahr, dass es sozusagen eine Fahrtabhängigkeit generiert in Richtung Abhängigkeit von Technologien,
+3001000	3007000	die eigentlich dann perspektivisch weit über das hinausgehen, wofür du jetzt vielleicht intendierst sie einzusetzen.
+3007000	3015000	Und auf der anderen Seite eben eine sehr spezifische Form der Adressierung und dadurch auch Produktion des Individuums als Konsumentin.
+3015000	3023000	Diese beiden Felder sind so ein bisschen was, was glaube ich einfach immer aufkommt, wenn vorgeschlagen wird,
+3023000	3026000	diese Technologien in einer Art und Weise zu nutzen, wie du es jetzt auch vorschlägst.
+3026000	3031000	Was wiederum auf meiner Seite jetzt gar nicht heißen soll, dass ich irgendwie dagegen wäre, das zu tun.
+3031000	3034000	Aber ich glaube, es muss adressiert werden.
+3034000	3039000	Ich finde, du hast ja auch schon so ein, zwei Sachen angedeutet, wie man damit umgehen kann.
+3039000	3043000	Aber vielleicht greifen wir das doch nochmal als ein eigenes Themenfeld,
+3043000	3048000	zusammengenommen vielleicht auch mit der Privacy-Frage, weil die da definitiv auch reinspielt.
+3048000	3053000	Wie ich es verstehe, zumindest zwei Fragen.
+3053000	3058000	Ich fange vielleicht erst mal mit der Frage, die so ein bisschen als Unterton ausgehört,
+3058000	3062000	oder die Frage nach so einem Konsumismus, also so ein blinder Konsumismus,
+3062000	3072000	einen Hedonismus, den wir die Sinnlehre der heutigen Existenz einfach mit materiellen Gütern zu füllen.
+3072000	3082000	So ein Verdacht, dass das sich wiederholen könnte, habe ich jetzt in deiner Frage ein bisschen rausgehört.
+3082000	3091000	Und da auch, du wirst dann bestimmt gleich wieder schmunzeln, vielleicht zwei Extreme aufzumachen.
+3091000	3098000	Auf der einen Seite haben wir das, den Status Quo, und auf der anderen Seite irgendwie einen radikalen Asketismus,
+3098000	3106000	das bescheidene Leben, Low-Tech, wenig Konsum, wenig Transport, wenig Reisen und so weiter vielleicht aufzumachen.
+3107000	3116000	Und es ist vorhersehbar, aber ich strebe da vielleicht die Mitte von beiden vielleicht an,
+3116000	3126000	dass ich sage, ich verstehe nicht ganz, warum, ich kann den Weg, würde ich sagen, nicht ganz mitgehen,
+3126000	3134000	den Konsum in der Weise zu problematisieren. Ich denke, es gibt ein Bedürfnis, ein gutes,
+3134000	3139000	ich habe jetzt hier meinen Computer vor mir, ein gutes Betriebssystem vor mir zu haben,
+3139000	3145000	das mit der Software und Hardware wunderbar abgestimmt ist, das meine Arbeitsfähigkeit erleichtert.
+3145000	3152000	Ich finde, das ist ein Gebrauchswert, der ein bestimmtes Bedürfnis für mich erfüllt,
+3152000	3158000	das ich auch im Kommunismus so haben will. Die Frage ist, brauche ich jedes Jahr einen neuen?
+3158000	3164000	Ja, da ist für mich die Frage, also persönlich, das mache ich auch im Kapitalismus schon nicht,
+3164000	3170000	dass ich irgendwie jedes Jahr mein Geld vielleicht gar nicht für, aber auch wenn ich es hätte,
+3170000	3174000	fände ich es verschwenderisch. Also es ist vielleicht etwas, was persönlich ist.
+3174000	3185000	Und da ist dann natürlich die Sache auch ohne Werbung, ohne Produkte, die auch nach bestimmten Jahren,
+3185000	3190000	man hat vielleicht das subjektive Gefühl, die Frage ist, ob es wirklich so ist,
+3190000	3196000	dass dann das Smartphone auf einmal schlechtere Bilder macht oder langsamer wird.
+3196000	3204000	Also es steht ja im Raum, dass die Vorwürfe zumindest, dass Unternehmen wie Apple das runterdrehen
+3204000	3210000	und die Leistungsfähigkeit, um dann wirklich das subjektive Empfinden bei dem Konsumenten hervorzurufen,
+3210000	3215000	ich brauche was Neues, es taugt nichts mehr, es ist so langsam, es macht so schlechte Fotos und so weiter.
+3215000	3223000	Und sowas existiert ja nicht. Also da gibt es nicht den Anreiz dafür, weil wir kosteneffizient,
+3223000	3230000	also es wird dann auch ein modulares Bauen von solchen Konsumgütern geben, dass sie leicht reparierbar sind,
+3230000	3239000	ja dieser Wahnsinn, dass die Akkus verklebt sind und so weiter, dass man also so dieses Right to Repair,
+3239000	3246000	was heute unheimlich wichtig ist, das wird ja das Leitprinzip einer kommunistischen Produktion.
+3246000	3253000	Deswegen sind Produkte dann so ausgelegt, dass sie im besten Fall ein Leben lang halten.
+3253000	3259000	Bei vielen ist es sicherlich technisch nicht möglich, aber fast fashion und so weiter.
+3259000	3266000	Ich kaufe mir Hosen bei einer Untergruppe von H&M bei Koss und die gehen ein Jahr später kaputt.
+3266000	3275000	Und das ist, weil der Garn so hergestellt ist, dass es notwendig wird, wieder Neues zu kaufen.
+3275000	3282000	Und gleichzeitig, also die Frage von dir nach dem Individuum und dem Selbstverständnis,
+3282000	3290000	ich sehe auch heute meinen Konsum, natürlich könnte man moralisch besser konsumieren,
+3290000	3296000	weniger fliegen, weniger reisen und so weiter, in der Ernährung irgendwie schrauben,
+3296000	3306000	aber ich sehe da natürlich auch einen Wandel, was irgendwie im Mainstream heutzutage an Konsumkultur herrscht
+3306000	3315000	und auch forciert wird von Medien, von Bildern, mit denen man ausgesetzt ist.
+3315000	3329000	Aber ich sehe das vielleicht ein bisschen anders, also den Konsumenten an sich sehe ich nicht so kritisch in seiner Rolle als Konsumenten.
+3329000	3340000	Also ich sehe nicht die Notwendigkeit, also ich frage mich vor allen Dingen, auf was du vielleicht, vielleicht könntest du das nochmal weiter ausführen,
+3340000	3349000	was der Konsument und die Konsumentin anders machen sollte im Kommunismus.
+3349000	3354000	Ja, also vielleicht gehe ich einfach in eine andere Route, weil es geht überhaupt nicht darum zu sagen,
+3354000	3363000	es wäre problematisch, dass man auch Konsument ist oder dass man auch mal, weiß ich, dass man irgendwas Schönes, Gutes, Neues haben will oder so.
+3363000	3376000	Es ist eher auf einer grundsätzlichen Ebene, wo du ja sozusagen vorschlägst, wir haben diesen Planungsdemon, nennst du es ja dann an einem bestimmten Punkt,
+3376000	3389000	der im Grunde deiner Meinung nach effizienter darin sein wird, die tatsächlichen Bedürfnisse der Menschen vorauszusagen, als wir es in der Lage sein könnten, sie zu kommunizieren.
+3389000	3397000	Das ist ja sozusagen eigentlich die Grundaussage, wenn man so will, das erinnert mich übrigens auch an Alex Pentland und seine Social Physics,
+3397000	3405000	die ich nur indirekt über Anna Verena Nostov und Felix Maschewski kennengelernt habe und immer mal wieder reinlesen wollte.
+3405000	3410000	Und auch an den libertären Paternalismus ein bisschen in dieser Positionierung.
+3410000	3420000	Beim libertären Paternalismus ist es ja dann eben der Behavioral Economist, der besser weiß, wie wir uns denn zu verhalten hätten, als wir es denn selber wissen.
+3420000	3434000	Das heißt, es gibt dort quasi eine bestimmte, in dem Fall bei dir oder bei diesem Planningdemon ist es ja so eine Reproduktion der Vergangenheit als Zukunft.
+3434000	3449000	Und das ist eine bestimmte Logik sozusagen, die dem inne wohnt, die Fragen aufwirft in Bezug auf welche, also zum einen wie kommen Veränderungen ins System
+3449000	3461000	und wie weit kann das Fenster dessen sein, was sich verändern kann, wenn Zukunft aus extrapolierter Vergangenheit hergestellt wird.
+3461000	3472000	Also das sind sozusagen wie beim Bowling gibt es ja diese, für Kinder kann man dann rechts und links diese Dinge hochfahren, damit die Bowlingkugel da nicht runterfällt und auf jeden Fall immer die Bahn entlang fährt.
+3472000	3474000	Das ist vielleicht ein Bild.
+3474000	3484000	Also es gibt sozusagen einfach durch diese extrapolierte Vergangenheit eine ganz klare Einhegung der Zukunft, würde ich sagen.
+3485000	3494000	Und das ist sozusagen ein Kern dessen, was sozusagen als algorithmische Governmentalität ja auch kritisiert wird.
+3494000	3498000	Und ich bin mir jetzt nicht so ganz sicher.
+3498000	3511000	Also ich will überhaupt nicht jetzt so klingen, als ob ich das grundsätzlich problematisch fände, Technologien der Prädiktion auch im Consumerbereich einzusetzen, würde ich gar nicht sagen.
+3512000	3518000	Es ist eher so, dass ich mich frage, was bedeutet das?
+3518000	3527000	Was bedeutet diese Einhegung der Zukunft durch die extrapolierte Vergangenheit in Bezug auf einen solchen Planning Demon, den du vorschlägst?
+3527000	3540000	Und das ist gar nicht sozusagen eine ausgedachte, also ein ausformuliertes Ich glaube, das ist dann so und so, sondern das ist sozusagen eine Frage in Bezug auf diese spezifische Logik,
+3540000	3547000	der Herangehensweise an das Problem und was man sich damit einkauft sozusagen, vielleicht so.
+3547000	3557000	Ja, du hast den Dämonen gerade als Figur eingeführt, vielleicht für den Hörer und die Hörerin.
+3557000	3559000	Ein paar Worte dazu erst mal.
+3559000	3575000	Das ist eine Figur, die ja schon lange durch die Welt spukt, nicht mit dem böshaften Dämonen aus der Bibel und dem Christentum zu verwechseln oder aus anderen Religionen,
+3575000	3587000	sondern es hat eher ein, also das Dämonium taucht bei Sokrates als innere Stimme beispielsweise auf, der ihn davon abhält, falsche Entscheidungen zu treffen.
+3587000	3595000	Dann haben wir in der Physik taucht er als in den Gedankenexperimenten auf, berühmt vielleicht der Laplace Dämon,
+3595000	3602000	der den Stand eines Systems erfasst und auf der Grundlage sozusagen perfekt die Zukunft vorher sieht.
+3602000	3611000	Aber dieser Dämon auch mit diesen Algorithmen niemals realisiert werden kann.
+3611000	3613000	Vielleicht erst mal das.
+3613000	3618000	Also die Zukunft wird immer ungewiss sein und unbestimmt.
+3618000	3631000	Und der Dämon aber vor allen Dingen im Rahmen von Computern auftaucht als damals in der Zeit des Mainframes.
+3631000	3637000	Das erste Mal hatte man das Problem, dass sozusagen verschiedene Terminals auf einen Mainframe zugegriffen hatten.
+3637000	3649000	Und da muss es dann eine koordinative Instanz geben, das sozusagen im Hintergrund nicht auf den Terminals sichtbar abläuft, um diese Koordination zu bewerkstelligen.
+3649000	3666000	Heutzutage taucht es wahrscheinlich am prominentesten im Internet, also das HTTP, das Hypertext Transfer Protocol, als Protokoll zwischen Servern und Klienten.
+3666000	3670000	Und da sozusagen den Verkehr von Informationen regelt.
+3670000	3682000	Und der Dämon auch ein Prozess ist, ein Service, der im Hintergrund im Server sozusagen lauscht und auf Anforderungen sozusagen reagiert.
+3682000	3684000	Und das gibt es auch sozusagen in anderen Betriebssystemen.
+3684000	3698000	Aber die Figur ist einfach, dass etwas nicht direkter Zugriff sozusagen auf der Benutzeroberfläche, sondern im Hintergrund lauert.
+3698000	3700000	Und da kommen wir gleich nochmal drauf.
+3700000	3722000	Aber ich beantworte erst nochmal die Frage zu dieser Eigenlogik, auf die du angespielt hast, die sicherlich ein reales Problem oder eine reale Wirklichkeit erschafft.
+3722000	3740000	Und es ist auch eine Ironie, dass sozusagen die Position von solchen eher zu den Algorithmen strebenden Planern etwas wiederholt, was sich bei Hayek auch zu finden ist,
+3740000	3747000	der den Markt ja selbst als etwas Übermenschliches, Übernatürliches, also die Transzendenz.
+3747000	3751000	Und auf einmal taucht der Algorithmus wieder auf.
+3751000	3759000	Und die Frage ist, agiert er auch so hinter dem Rücken der Produzentin und der Konsumentin?
+3759000	3779000	Oder schafft es nicht am Ende doch etwas, was irgendwie das größere Glück erfüllt, weil die materialen Grundlagen doch besser abgebildet sind, als die Menschen wissen?
+3779000	3788000	Und ich hake da jetzt noch oder mache noch einen Gedanken hinterher, man muss es wirklich als permanent iterativen Prozess verstehen.
+3788000	3800000	Und das ist beispielsweise auch wieder der Vergleich zu Wettervorhersage, weil aus der Meteorologie diese ganzen statistischen Ideen eigentlich stammen.
+3800000	3815000	Wenn man in das 19. Jahrhundert schaut, die Statistik in großen Teilen auch aus der Meteorologie dann auf die Gesellschaft als Körper zustößt.
+3815000	3828000	Und in der Meteorologie, wir haben ja überall Datenpunkte, Wetterstationen, während Covid auch interessant, weil die ganzen Flugzeuge nicht geflogen sind, die Wettervorhersagen schlechter geworden sind.
+3828000	3843000	Aber das Interessante ist da, dass ja permanent Modelle entworfen werden und früher oder später werden sie widerlegt von dem, was sich einstellt.
+3843000	3855000	Und es wird einfach wieder Neues gemacht, also ein permanent iterativer Prozess, an dem ja, wenn wir jetzt auf die Konsumentinnen und den Konsum wieder schauen, die Menschen teilhaben.
+3855000	3866000	Durch die Verwirklichung, durch das Feedback an Daten, das sie generieren, ja permanent die Ausrichtung von diesen Zukunften sich verändert.
+3866000	3879000	Und natürlich hat man einen sehr großen Teil der Interpretation, die ausgelagert ist, die automatisiert teilweise ist, aber der Mensch liefert eben die Daten immer noch.
+3879000	3889000	Und viele Menschen würden sagen, das ist ein Grad an Unfreiheit, den ich nicht aushalte.
+3889000	3906000	Aber für mich ist das eine sehr abstrakte, rationale Position vielleicht, würde ich sagen, am Ende, wenn es dazu führt, dass 5 Prozent weniger Abfälle in Supermärkten, 10 Prozent weniger weggeschmissen werden muss.
+3906000	3926000	Wenn das dazu führt, dann habe ich nichts dagegen. Wenn das nicht so ist und andere Methoden besser sind, dann habe ich kein Problem, einen anderen Weg zu gehen und also ganz im Sinne der Wissenschaft oder ein Wettbewerb der Ideen, mich da in eine andere Richtung zu bewegen.
+3926000	3936000	Aber die Wissenschaft ist relativ klar, dass diese Methoden in den letzten Jahren beachtliche Fortschritte gemacht haben.
+3936000	3948000	Leider ist es so, dass diese ganzen Effizienzgewinne einfach dann in Mehrkonsum umkippen.
+3948000	3974000	Also jetzt sind die Alex Pentland-Vibes natürlich peak. Jetzt sind sie ganz stark, weil natürlich, dass die Argumentationslinie auch ist, die er vorbringt, dass im Grunde unsere äußerlich produzierten Datenpunkte im Grunde mehr über uns aussagen, als wir das in der bewussten Selbstanalyse irgendwie kommunizieren könnten.
+3974000	4000000	Und letztlich machst du ja jetzt gerade das Argument, dass diese, ich sage jetzt einfach mal polemisch, Unterwerfung, obwohl ich eigentlich gar nicht unbedingt das so extrem jetzt sehen würde, aber dass diese Unterwerfung unter diese Logik dieser Technologie oder eben auch dieser Technologie der Prädiktion, dass diese Unterwerfung gerechtfertigt wird dadurch, dass es einen Effizienzgewinn gibt.
+4000000	4027000	Und das ist, glaube ich, ein bisschen problematisch, weil also natürlich man sich ja auch fragen könnte, okay, geht es darum, also geht es darum, sozusagen diese, diesen Effizienzgewinn zu verabsolutieren und deswegen sozusagen leider in Anführungsstrichen bestimmte Freiheiten, wenn man so will, irgendwie abzuschreiben.
+4027000	4040000	Ja, also ist das eine Argumentationslogik, der wir eigentlich folgen wollen? Und ich glaube, die Antwort darauf würde am Ende dann sein mal ja, mal nein. Also in bestimmten Fällen halte ich das auch komplett unproblematisch.
+4040000	4059000	Also hat es dir die Energie angesprochen, so eh super, wenn jetzt irgendwie der Energieverbrauch gemessen wird und dann kann quasi ein aggregierter Zustand irgendwie vorausgesagt werden für die nächsten Monate oder so was, der dann dazu führt, dass die Energieproduzentinnen irgendwie weniger Überschuss haben oder so was.
+4059000	4077000	Dann ist das ja super. In anderen Bereichen ist natürlich genau diese Argumentationslinie, die du jetzt vorgebracht hast, höchst problematisch, ohne dass ich jetzt wieder in andere Extrem kippen wollen würde und sozusagen das ultimativ autonome selbstbestimmte Subjekte an dem gegenüber stark machen zu wollen.
+4077000	4088000	Aber ich glaube, umso mehr schreit das Ganze eigentlich danach, eine sehr, sehr genaue Fall Fall zu Fall Begutachtung irgendwie walten zu lassen.
+4088000	4100000	Und ein Ding, was mich da interessieren würde, wäre, du sprichst jetzt viel über Konsumgüter, wo das in vielen Teilen, würde ich mal sagen, einfach auch wirklich unproblematisch ist.
+4100000	4106000	Eben ob ich jetzt also da vorausgesagt wird, wie viel Milch ich produziere, mir eigentlich schnuppe sozusagen.
+4106000	4118000	Dann hast du zum Teil jetzt auch schon intermediäre Güter angesprochen, die eben nicht eigentlich jetzt nur den Konsum Konsumermarkt betreffen, sondern im Gegenteil sagen Produzentinnenmarkt.
+4118000	4121000	Wie weit würdest du da gehen?
+4121000	4129000	Also nochmal höhere Level wären ja dann Fragen von gesamtgesellschaftlichen Investitionsentscheidungen und so.
+4129000	4135000	Also wie wie funktioniert das da bei dir, dass du sagen, diese Abwägungen machst?
+4135000	4142000	Wo macht das Sinn? Wo macht es keinen Sinn mehr? Wo sind welche Gefahren involviert, die noch gerechtfertigt sind oder auch nicht?
+4142000	4148000	Also was gibt es da irgendwie so eine Orientierung in dir in deinem Zugang?
+4148000	4160000	Als erstes fällt mir gerade ein Zitat von Marx zu dem ersten Teil von deiner Frage über, dass ich letztens nochmal in Grundrisse gestolpert bin,
+4160000	4170000	der irgendwie dieses Spannungsverhältnis zwischen Autonomie des Individuums und Notwendigkeit globaler Koordination irgendwie so ein bisschen aufmacht.
+4171000	4174000	Das Gleiche hat Marx in Grundrisse geschrieben.
+4174000	4188000	Freie Individualität gegründet auf die universelle Entwicklung der Individuen und die Unterordnung ihrer gemeinschaftlichen gesellschaftlichen Produktivität als ihres gesellschaftlichen Vermögens ist die dritte Stufe.
+4188000	4194000	Und die dritte Stufe ist hier gemeint der Kommunismus nach dem Feudalismus und dem Kapitalismus sozusagen.
+4194000	4203000	Und das finde ich ganz schön, wie diese ganzen Diskussionen da schon irgendwie so enthalten ist.
+4203000	4216000	Das läuft jetzt Gefahr, quasi den Planning Demon mit dem, was Marx jetzt hier als eine Unterordnung unter auch gesamtgesellschaftliche Interessen bezeichnet, gleichzusetzen.
+4216000	4221000	Das eine ist ja nicht automatisch das andere. Das wäre nur sozusagen eine spontane Anmerkung, sage ich.
+4221000	4232000	Ja, und zu deiner Frage, wann oder wo diese Algorithmen zur Anwendung kommen sollten.
+4232000	4247000	Natürlich, ich bin nicht so naiv zu sagen, wir blind machen das und lassen dieses Modell laufen und gucken dann auf das Ergebnis und danach wird irgendwie die gesamte Produktion ausgerichtet.
+4247000	4268000	Dennoch würde ich sagen, ist eine nach Gebrauchswerten ausgerichtete Gesellschaft, würde ich sagen, gibt es letztendlich eine gewisse notwendige Instanz aus der Richtung der Konsumenten heraus.
+4268000	4281000	Also dass die Determination von Konsumgütern letztendlich auch rückwirkt auf eine bestimmte Bestimmung, wie viel von irgendwelchen Produkten in der Produktion gebraucht wird.
+4281000	4288000	Also wenn ich sage, wir wollen eine bestimmte Anzahl von Getreide, hat das auch eine Auswirkung darauf, wie viele Traktoren man vielleicht braucht.
+4288000	4306000	Und das Wichtige, das ist mir sehr oft auch in der Debatte oder in der Kritik an Positionen wie Paul Cockshott und Philipp Dabrich, die sicherlich auch wieder kritikwürdig sind,
+4306000	4322000	auf der Seite, okay, kann die Information wirklich überhaupt erfassen und wollen wir das in der Weise automatisieren und nicht in Verhandlungsprozesse zwischen Produktionseinheiten und so weiter delegieren.
+4322000	4338000	Das ist sicherlich kritikwürdig, aber trotzdem wichtig für mich ist an dieser Stelle festzuhalten, dass man diese lineare Programmierung und Optimierungsprozesse bottom-up denken kann.
+4338000	4359000	Also es ist eben nicht die Gosplan, wie früher in der Sowjetunion, von oben bestimmte Produktionsmethoden vorgegeben werden, sondern die Produktionsmethoden selbst werden auf der Ebene der Produktionseinheiten, der Unternehmen, wie auch immer wir sie nennen wollen, gemacht.
+4359000	4376000	Und was diese Optimierungsalgorithmen letztendlich machen, ist eine quantitative Determination, was dann technische Koeffizienten oder Inputs, also eine Bestimmung, die da stattfindet.
+4376000	4397000	Das ist auch höchst problematisch, die Frage, inwieweit passt die gesamte Wirtschaft in eine Matrix. Das hat man ja in diesen Modellen, wo man dann aber Milliarden Variablen hat und ein bestimmtes, das nennt sich dann eine Produktionsfunktion, wo man sagt, mit diesen Inputs bekomme ich diesen Output.
+4397000	4419000	Und die Idee ist dann, dass jede Produktionsgruppe irgendwie diese Produktionsfunktion erstellt, in diesem Verhältnis von diesen Inputs, die benötigt, um diesen Output zu produzieren und dann vielleicht auch eine maximale Kapazität angeben, was sie denn leisten sind, an Output auch zu produzieren.
+4419000	4433000	Und was dann diese Optimierungsalgorithmen machen, ist letztendlich eine quantitative Determination davon, wieviel letztendlich die einzelnen Gruppen bekommen.
+4433000	4450000	Und das ist, in der gesamten Planungsliteratur hat man ja immer so ein bestimmtes initiales Planziel, das dann durch Optimierung, und da ist sozusagen, das wird durch Vorhersagen definiert.
+4450000	4467000	Teilweise natürlich auch, wenn wir über eine Infrastrukturprojekte denken, da helfen uns Algorithmen jetzt nicht, weil da gibt es ja überhaupt keine Daten, Zeitreihen, und wenn wir eine Schule bauen, da helfen die uns nicht weiter.
+4467000	4485000	Aber man hat bei dieser quantitativen Determination schon so eine Rückbindung am letztendlich, was beim Verbraucher ankommt, und letztendlich gibt es eine Unterordnung vielleicht.
+4485000	4498000	Und da ist also sozusagen wieder der zweite Teil in diesem Marx-Zitat der Produktion unter die Bedürfnisse, die letztendlich entstehen bei Konsumenten.
+4498000	4505000	Weil wenn keine Bedürfnisse bestehen, dann gibt es gesellschaftlich keinen Sinn, warum irgendwas weiter produziert werden sollte.
+4505000	4520000	Und deswegen, denke ich, leitet sich so ein bisschen der Bedarf an diesen intermediären Gütern letztendlich auch in zweiter Instanz sozusagen ab aus dem Bedarf, der an Konsumgütern besteht.
+4520000	4524000	Also da gibt es ein Abhängigkeitsverhältnis.
+4525000	4531000	Da fällt mir jetzt eine ganz andere Frage ein, oder eigentlich nicht ganz anders, aber die eigentlich auch unbedingt gestellt gehört.
+4531000	4537000	Und da jetzt eigentlich anschließend, da bin ich jetzt drauf gekommen, weil du eben Kokscha Kotrel nochmal erwähnt hattest.
+4537000	4552000	Wie ist denn das, wenn jetzt dann der Planning Demon sozusagen einen optimal plan oder near to optimal oder as good as it gets, oder wie auch immer man es nennen will, auf jeden Fall better as human plan erstellt hat.
+4553000	4557000	Wie wird das dann geregelt, dass der auch so ausgeführt wird?
+4557000	4567000	Weil das ist nämlich zum Beispiel was, möchte ich nur anfügen, weil du sozusagen ja sehr kritisch dich in Bezug auf Paracon und auch von Serres das Modell geäußert hast.
+4567000	4581000	Da ist es ja zumindest mal ein Vorteil, dass irgendwie die Arbeiterinnenräte jetzt zum Beispiel in diesem General Catalog auch sozusagen auf dieser Seite dann eine gewisse Autonomie herrscht.
+4581000	4589000	Weil die ja quasi ihr Angebot wiederum auch im General Catalog posten und das sozusagen sich ja dann an dieser Schnittstelle quasi finden kann.
+4589000	4602000	Und dadurch dann eben auch nicht diese Situation erzeugt wird, wo es quasi einen absichtlich polemisch perfect plan gibt, der dann aber irgendwie durch Zwangsmechanismen sozusagen ausagiert werden muss.
+4602000	4607000	Weil das ja dann schon auch eine problematische Situation ist, die man damit dann erzeugt eigentlich.
+4607000	4617000	Sicher, also es ist letztendlich eine politische Frage, wie man damit umgeht, also mit solchen Anweisungen.
+4617000	4633000	Und ich würde sagen, gerade der Vorteil, den solche algorithmischen Frameworks bieten im Gegensatz zu eher Partizipativen, also noch stärker.
+4633000	4636000	Also es ist nochmal, vielleicht mache ich den Punkt nochmal stark.
+4636000	4643000	Es gibt auch zwischen diesen Optimierungsprozessen, sollte es immer horizontale Verbindungen zwischen den Produktionseinheiten geben.
+4643000	4648000	Es wird sehen, okay, hier gibt es gerade einen Bottleneck für diesen bestimmten Input.
+4648000	4660000	Vielleicht sollten wir uns mit anderen Unternehmen in diesem Sektor koordinieren, dass wir vielleicht auf was anderes, eine Alternative umsteigen und das einfach die direkte Kommunikation auch verlangt.
+4660000	4674000	Und Verhandlung auch, sicher. Aber der große Vorteil ist, dass diese, also da sind vor allem die Arbeit, vielleicht auch ein möglicher Gast von Thomas Herlin,
+4674000	4687000	ein schwedischer Computerwissenschaftler, der mit Dave Zaccaria auch dabei ist, einfach neue Optimierungsalgorithmen für Planung zu entwickeln.
+4687000	4692000	Der einfach, die unheimlich schnell laufen.
+4692000	4716000	Er hat einen Blog und hat da auch das zur Verfügung gestellt, dass mit einer Toy-Economie mit 23 Milliarden Variablen dieser Algorithmus auf einem relativ kleinen, im Vergleich zum Supercomputer in ein paar Stunden laufen könnte.
+4716000	4733000	Das heißt, man kann diese Optimierungsalgorithmen, könnte man permanent laufen und in Interaktion und auf eben die real existierenden Zustände in der Wirtschaft angleichen.
+4733000	4746000	Und das ist dann zum Beispiel, du hast das Beispiel eben genannt, was macht sozusagen der Optimierungsalgorithmus, wenn irgendeine Produktionsgruppe streikt oder so.
+4746000	4754000	Diese Information muss natürlich erfasst werden, dass da irgendwas, irgendwelche Outputs nicht geliefert werden, dass es da zum Engpass kommt.
+4754000	4759000	Aber das kann sehr schnell auch so die eingespeist werden.
+4759000	4776000	Und da denke ich, hat man dieses Informationsproblem, das man in der Sowjetunion hatte, heutzutage nicht so stark, weil die Outputs und Inputs, also Lieferungen und Ablieferungen und Zulieferungen, ja schon gesellschaftlich irgendwie erfasst sind.
+4776000	4784000	Also wenn eine Produktionsgruppe irgendein intermediäres Gut zu einer anderen Produktionsgruppe schickt, ist das ja erfasst.
+4784000	4790000	Und das kann man ja auf Datenbanken zentral erfassen, die Produktströme.
+4790000	4802000	Und diese Fehlinformation würde wesentlich schneller gesellschaftlich erfasst, weil die Informationstechnologien das einfach ermöglichen.
+4803000	4810000	Und ich würde sagen, gerade der Vorteil ist, also die Antwort ist natürlich, dann muss der Plan geändert werden.
+4810000	4834000	Und das ist, denke ich, also gerade der große Vorteil, dass diese, so ein algorithmisches Framework wesentlich dynamischer ist als vielleicht Paracon, wo wieder die ja komplette Zweige vielleicht in Nachverhandlung gehen müssen und ihre Preise angleichen.
+4834000	4853000	Also das dann ja entlang der Supply Chain und auch wirklich, also das hat dann ja schwer vorhersehbar, vom Punkt der einzelnen Produktion hat es Schockwellen, kann das ja wirklich durch die ganze Wirtschaft treiben.
+4853000	4871000	Beispielsweise, also während der Corona-Pandemie hatten wir Engpässe in Schiffcontainern, die irgendwo im Mittleren Westen in der USA gestrandet sind und das zu riesigen logistischen Problemen geführt hat, das wieder zu entwirren.
+4871000	4882000	Also da sind wir heute noch dran, dass irgendwie diesen Zustand vor Corona herzustellen, weil es einfach unheimlich schwierig ist, das den Anreiz zu schaffen.
+4882000	4900000	Also zum einen habe ich das Gefühl, du hast meine Frage nicht beantwortet, weil ja eigentlich die Frage auch war, inwiefern sozusagen dieses Top-Down-Element, das durch einen in Anführungsstrichen perfekten Plan, der dann von den Menschen aus agiert werden muss, entsteht.
+4900000	4916000	Also diese Konstellation, in der es diesen Plan gibt, der eben sozusagen errechnet worden ist oder vorhergesagt worden ist, dass der dann sozusagen durch Mittel von Zwang im Grunde von den Menschen aus agiert werden muss, das ist eigentlich ein großer Punkt, glaube ich.
+4916000	4931000	Weil eigentlich ist ja interessant wäre, Konstellationen zu erzeugen, in denen eben beide Elemente eine Teilautonomie haben, wo also die Produzentinnen und Produzenten und die Konsumentinnen und Konsumenten sozusagen in einer Teilautonomie sich gegenseitig begegnen.
+4931000	4942000	Und wäre dann nicht eigentlich eine anschließende Frage, dass eben so etwas wie eine Optimierung in Richtung von Konsensualisierung vielleicht am Ende besser wäre.
+4942000	4960000	Und das würde eventuell dann auch inkludieren, eine Form der Partizipation und zwar nicht, weil gesagt wird, dass es dann am Ende effizienter wäre im klassischen Sinne, sondern weil die Tatsache, dass man dieses Element der Partizipation eingeführt hat, eine höhere Konsensualisierung der Systematik erzeugt.
+4960000	4971000	Und wer weiß, vielleicht durch diese höhere Konsensualisierung am Ende dann doch auch wieder ein Resultat entsteht, das vielleicht besser ist als das, das beginnt mit der Effizienz.
+4972000	4992000	Ja, ich wiederhol vielleicht nochmal oder mach das nochmal schärfer, dass das Argument, dass die Produktionseinheiten, also da, wo wirklich die Sachen hergestellt werden, auch in so Modellen von Paul Cockshott, bei ihm vielleicht weniger.
+4992000	5000000	Also ich glaube, er hat so eine Tendenz, dass sehr viel auf höhere Ebene entschieden werden sollte.
+5000000	5024000	Gleichzeitig ist es, also von einer logischen Perspektive, wie man diese Algorithmen nutzen könnte, kann man das auch wirklich von der absoluten Autonomie eines, der Produktionsanhalt aus denken, die selbstverwaltet ist, die vor allen Dingen, die ein gewisses Grad an Zwang vielleicht haben sollte, was produziert werden.
+5024000	5037000	Also es sollte jetzt nicht sein, dass das irgendwie ein Schraubenhersteller, ein kollektiv geführte Schraubenfabrik sagt, wir wollen jetzt Prozessoren machen oder so.
+5037000	5054000	Und da irgendwie so ein bisschen Mitbestimmungsrecht der Gesellschaft auch sein sollte, dass so ein Schwenk vielleicht mehr Koordination mit anderen braucht und dann auch vielleicht das Zentrum, die die Peripherie überstimmen sollte.
+5054000	5071000	Aber im Rahmen, in dem man sich bewegt, man sagt irgendwie, du bist ein Textilhersteller und in dem Rahmen ein sehr hoher Freiheitsgrad auch sein kann, was an neuen Produkten auf den Markt kommt.
+5071000	5079000	Das ist den sozusagen freigestellt und vor allen Dingen auch, was für Inputs dafür gewählt werden.
+5079000	5088000	Also die Produktionsmethode eigentlich in der Hand der Produzenten wirklich liegt.
+5088000	5100000	Aber die Frage, wie viel von diesen Inputs die Produzentinnen dann am Ende bekommen, das ist sozusagen, das wird in diesem Prozess der Optimierung herausgestellt.
+5100000	5111000	Dann haben natürlich auch wieder die Produzentin einen gewissen Grad von Freiheit, auf dieses Ergebnis zu reagieren, indem sie vielleicht Änderungen vornehmen.
+5111000	5127000	Die sehen, hier haben wir einen Überschuss von vielleicht einem anderen Garn oder so oder einem anderen Plastik für unsere Schuhe und können da eben selbstbestimmt Veränderungen durchführen.
+5127000	5140000	Deswegen, ich finde, das ist auch wenn, ich denke, das ist sehr leicht, wenn man irgendwie Paul Cockshott liest, das irgendwie so als sehr zentralistisches Modell zu sehen.
+5140000	5152000	Aber man kann eben diese Optimierungsprozesse auch radikal bottom up und vor allen Dingen iterativ, das dann permanent in verschiedenen auf diese Ergebnisse reagiert wird.
+5152000	5164000	Und das braucht dann eben auch diese horizontalen Verbindungen zu anderen Produzentinnen und eben vielleicht Zulieferern oder Kunden, dass das auch abgestimmt wird.
+5164000	5186000	Aber diese Prozesse sollten und müssen auch weiter auslaufen, weil da hat der, es wird sicherlich auch sozusagen eine qualitative Verhandlung, dass es dann, wenn beispielsweise noch Autobauer geben sollte, ja irgendwie auch mit den Zulieferern von den Reifen das ein bisschen abgestimmt werden sollte.
+5186000	5204000	Und diese Prozesse können dann aber eben integriert werden und das ist natürlich ein fragwürdig und ein Riesenaufwand, inwieweit auch diese Klassifizierungsarbeit von Produkten und so weiter, die Kennzeichnung, wie wird das dann wirklich gemacht?
+5204000	5223000	Und also eine Produktionsfunktion ist ja auch unheimlich fragwürdig, ist ja nicht nur, wie ich sage, ich brauche so und so viel irgendwie einen Reifen, eine Stoßstange und so weiter, sondern es hängen ja auch die kompletten Sachen, die in der Fabrik vielleicht noch verwendet werden.
+5223000	5231000	Also das Druckerpapier und das Telefon und so weiter, wie werden die in diese Produktionsfunktionen eingefügt?
+5231000	5249000	Ja, das ist hoch fragwürdig, ob das überhaupt passieren kann, aber das Wichtige ist einfach und deswegen denke ich sind auch so, also das in der Computerwissenschaft, die Komplexität von Algorithmen betrifft,
+5249000	5262000	Ausschlag geben, dass es einen Algorithmen braucht, der nicht die optimale Lösung bietet, sondern einfach 99%, weil eh permanent die Pläne über Bord geschmissen werden.
+5262000	5271000	Wir leben in einer dynamischen Welt, wie du richtig gesagt hast, auch Machine Learning Algorithmen konnten nicht vorhersagen, dass Toilettenpapier gefragt werden wird.
+5272000	5288000	Und die Frage ist, wie kann irgendwie in interativen Prozessen das permanent verschränkt werden, also diese qualitativen Planungsprozessen mit Vorhersagealgorithmen und auch Optimierungsalgorithmen?
+5288000	5297000	Und ja, also es bleibt spannend und sonst soll ich noch was zu Parikon sagen?
+5297000	5312000	Na, ich glaube, das gibt mir einfach was, war eh nicht so wichtig, aber nur jetzt, um nochmal nachgefragt zu haben, wie würden jetzt eben, weil du sozusagen beim Cockshot-Modell eben herausgestellt hast, dass das auch grundsätzlich bottom abgedacht werden könnte,
+5312000	5322000	wenngleich eben bei Cockshott es tendenziell ja nicht so konzeptionalisiert ist, aber wie würden dort sozusagen neue Unternehmen in die Welt kommen?
+5322000	5333000	Ist das dann auch ein Self-Assignment oder, weil zumindest so wie ich es bisher verstanden hatte, war eben schon ein starkes Top-Down-Element im Cockshottischen Modell,
+5333000	5344000	dass sozusagen am Ende eben natürlich es schon einen Diktat gibt, so okay, hier brauchen wir aber jetzt das, hier brauchen wir jetzt aber jenes, hier brauchen wir jetzt dieses so.
+5344000	5352000	Und das ist dann nochmal eine andere Frage als die Verwaltung bestehender Produktionsmittel zum Beispiel.
+5352000	5367000	Sehr wichtige Frage. Also und das würde ich sagen, also dieser dynamische Aspekt der Wirtschaft, das würde ich sagen, da ist ein wenig untertheoretisiert bei dem Modell von Paul Cockshott.
+5367000	5380000	Aber gleichzeitig, da fällt, also ich weiß, dass Aron Beneneff da an irgendwie so Investmentprotokollen arbeitet und versucht, das auszuformulieren.
+5380000	5399000	Hier ein anderer, das ist in Historical Materialism glaube ich Ende des Jahres erschienen von Maxi Nieto, ein spanischer Theoretiker, der eben die Frage eines sozialistischen Unternehmertums,
+5399000	5415000	also Entrepreneurism in den Raum gestellt hat und da letztendlich die Frage von, ja, was er dann Investmentrate nennt und die Frage, also sozusagen, das ist auch interessant,
+5415000	5434000	dass auf dieser Makroebene sich alle Modelle eigentlich einig sind, dass irgendwie zu Beginn muss irgendwie klargestellt werden, wie viel sollen wir für Privatgüter, also von unseren Ressourcen sollen wir für Privatgüter zur Verfügung stellen,
+5434000	5449000	wie viel soll in kollektive Güter wie Infrastruktur, Bildung, Krankenhäuser und so weiter zur Verfügung gestellt werden, wie viel soll für die Forschung vorgesehen werden und wie viel soll auch für Investment.
+5449000	5477000	Und die Vergabe von diesen Ressourcen kann dann letztendlich entweder an bereits bestehende Gruppen delegiert werden oder die andere Möglichkeit ist, dass entweder durch irgendwelche demokratischen Prozesse die Gelder vergeben werden oder auch sowas wie Crowdfunding oder so.
+5477000	5497000	Das ist denke ich ein großer Vorteil wieder, also die Kapazitäten, die Kreativität, die in vielen Menschen schlummert heutzutage, die nicht das Kapital haben, um sich selbstständig zu machen, um ihre Idee zu realisieren, in irgendeiner Form den Raum zu geben, eine gute Möglichkeit.
+5497000	5514000	Und da ist auch wieder die Frage, wie werden Konsumenten eingebunden, dass solche Menschen, da könnte es dann irgendwelche, also das ist jetzt wieder sehr detailliert, finde ich, es ist wichtig natürlich, aber es ist ein reiner Utopismus jetzt, sich vorzustellen, wie das genau funktioniert.
+5514000	5542000	Aber es könnte irgendwie die Möglichkeit geben, dass die medial ausgerüstet werden, wie es heute auch gemacht wird, dass ein Werbevideo, jetzt hat man dann die Werbung vielleicht wieder drin, also den Konsumismus, aber vielleicht den konnte man ihm auch gar nicht ganz und vielleicht ist es auch gar nicht so schlecht, zur Verfügung gestellt wird und sie einfach sagen, ich will hier dieses neue Haushaltsprodukt machen.
+5542000	5569000	Ich finde, es ist eine gute Idee und wenn genug Menschen, Konsumenten das eben wollen, dann wird die Person mit den nötigen Produktionsmitteln ausgestattet oder man könnte auch, also ich müsste an, vor kurzem gerade war eine Diskussion auf Twitter, ob es noch Restaurants im Sozialismus geben wird und die Frage, oder ob es dann irgendwie Kantinen werden, auch auf der Vollkontrolle,
+5572000	5601000	man könnte dann nachbarschaftlich entschieden werden, dass da Räumlichkeiten sind und jemand will irgendwie Pizzeria aufmachen und dann wird es eher lokal auf der Ebene entschieden und die nötigen Mittel werden der Person zur Verfügung gestellt und dann aber auch wieder, würde ich sagen, knallhart einer Marktlogik unterworfen, wenn am Ende niemand diese Pizzen essen will, dann wird dieser Person auch die Produktionsmittel entzogen.
+5602000	5607000	Oder zumindest vielleicht, bevor das gemacht wird, vielleicht Hilfe angeboten, nochmal einen Kochkurs oder so.
+5608000	5620000	Wir haben jetzt hier schon ziemlich viel abgedeckt, denke ich, aber einen letzten Bereich wollen wir noch adressieren. Wir waren gestern in einem Workshop, wir sind hier gerade in Kiel und waren beim Workshop Algorithmic Road to Socialism?
+5620000	5628000	Dort sind wir auch getroffen auf Christina Kratorp und ich fand das sehr interessant und wertvoll, was sie da auch eingebracht hat.
+5629000	5647000	Sie selbst arbeitet auch als Systemingenieurin mit Machine Learning Technologien und die hat eigentlich einen ziemlich spannenden Punkt gemacht, nämlich eigentlich die Frage, wie groß denn eigentlich der tatsächliche, wenn man so will, Netto-Nutzen von solchen Technologien eigentlich denn ist.
+5647000	5664000	Weil, und das hat sie dann sehr schön aufgeführt, da eigentlich ein Haufen an nicht deklarierter Arbeit auch hineinfließt und oft eben nicht nur Arbeit, sondern einfach ganz manifeste Ausbeutungsverhältnisse, die eben auch unbezahlt sind zum Teil.
+5664000	5674000	Also da geht es natürlich um Fragen von Kehrarbeit, da geht es aber auch um Dinge wie eben extrem unterbezahlte Clickwork und und so weiter und so fort.
+5674000	5681000	Also es gibt sozusagen eigentlich unausgesprochene Kosten, die da entstehen im Rahmen der Nutzung dieser Technologien.
+5681000	5697000	Und es gibt auch etwas, was wiederum Robert Seifert eigentlich ähnlich beschrieben hat in seiner Theorie algorithmischer Sozialität als eine Ironie der Assistenz oder auch eine Dialektik der Assistenz, in der man eigentlich Systeme erschafft.
+5697000	5709000	Und dann, um diese Systeme irgendwie handhabbar zu machen, sich Assistenzsysteme erschafft, die mit den Problemen der zuvor erschafften Systeme dann umgehen müssen.
+5709000	5714000	Dann entstehen wieder neue und man muss eine Assistenz der Assistenz erschaffen und so weiter und so fort.
+5714000	5723000	Und am Ende ist eben dann ein großes Fragezeichen in Bezug auf die Frage, ob denn der Nutzen der Nutzung dieser Technologien wirklich so groß war.
+5723000	5728000	Und die Christina war gestern eigentlich schon ziemlich eindeutig in Bezug auf ihr Resümee.
+5728000	5736000	Also hat sich da eigentlich ziemlich klar ausgesprochen gegen Automatisierung via Machine Learning und so weiter.
+5737000	5744000	Und das natürlich dann aus dem Munde einer Person, die tatsächlich mit diesen Systemen arbeitet, ist umso spannender.
+5744000	5753000	Was heißt das jetzt in Bezug auf den kleinen Demon, weil das natürlich in unmittelbarer Verhältnis dazu steht?
+5753000	5757000	Ja, also es hat mir auch sehr gut gefallen.
+5757000	5766000	Es ist hilfreich, auch da vielleicht zwischen verschiedenen Problemen vielleicht, also zu verschiedenen Vorhersageproblemen zu unterscheiden.
+5766000	5773000	Der eine Fall, den sie vor allen Dingen, also mit dem sie befasst ist, sind Klassifikationsprobleme.
+5773000	5785000	Das ist das klassische Clickwork, der die Datensätze überhaupt, also die Labels bereitstellt, um diese Machine Learning Algorithmen zu trainieren.
+5785000	5788000	Die müssen ja gelabelt sein.
+5788000	5792000	Der Datensatz, das ist eine Katze.
+5793000	5803000	Und was der Algorithmus letztendlich macht, dass ihm sozusagen in dem Trainingsprozess diese Trainingsdatensätze zur Verfügung gesetzt werden.
+5803000	5805000	Hier, das ist eine Katze.
+5805000	5811000	Und auf der Grundlage der Daten wird dann ein bestimmtes Muster der Katze extrahiert.
+5811000	5817000	Und auf dieses Muster wird dann, bildlich gesprochen, auf die neuen Bilder draufgelegt.
+5817000	5826000	Und dann gibt es eine Wahrscheinlichkeit, die letztendlich in eins und null übersetzt wird, dass gesagt wird, das ist eine Katze oder das ist keine Katze.
+5826000	5838000	Und in diesem Fall ist sicherlich sehr viel Arbeit dahinter, unsichtbare Arbeit, die auch immer weiter in den globalen Süden,
+5838000	5849000	Mariana Dongos ist zum Beispiel eine alte Kollegin, die arbeitet da auch in der Insicht, wie das in Billiglohnländer letztendlich verlegt wird.
+5849000	5857000	Und die Frage, sicherlich, wenn das auf einmal 20 Euro die Stunde bezahlt werden würde, wäre das überhaupt sinnvoll.
+5857000	5867000	Und ich habe noch vielleicht aus der Eigenpreise mal kurz auch in einem Startup in Berlin gearbeitet, die in der Immobilienbranche arbeiten.
+5867000	5877000	Und deren Ziel ist, da ist alles, also so die ganzen Verträge und so weiter existieren in Papierform.
+5877000	5891000	Und die Information letztendlich in ein Dashboard digital einzuflegen, ist unheimlich zeitaufwendig, wenn dann die Menschen dort das versuchen einzutippen.
+5891000	5904000	Oder allein schon Ordner vom Download aus der E-Mail raus in einen bestimmten Ordner einzuflegen und die Datei umzubenennen, unheimlich viel Zeit anhalten.
+5904000	5907000	Und das ist die Hoffnung, dass das automatisch erkannt wird.
+5907000	5919000	Also so die nur noch eingestehend, die haben dann wahrscheinlich auch wieder Mindestlohnjobber, die mit anderen Unternehmen zusammenarbeiten, die einfach die Scanarbeit leisten.
+5919000	5928000	Und dann die Hoffnung, dass die Image Recognition von dem Algorithmus das richtig erkennt und die Aufgabe klassifiziert.
+5928000	5932000	Das ist ein Mietvertrag, das ist eine Jahresabrechnung und so weiter.
+5932000	5937000	Und sind nicht wirklich erfolgreich damit.
+5937000	5943000	Es ist ein relativ schweres Problem, aber haben sehr viel Kapital eingeworben.
+5943000	5956000	Und dann ist auch die Frage, dass auch in dem Unternehmen dann Menschen gearbeitet haben, die als Clickworker einfach auch Labels produziert haben.
+5956000	5963000	Das ist der Name hier. Das ist ein Datum des Vertragsabschlusses und so weiter.
+5963000	5969000	Und sind einfach durch die ganzen Dokumente gegangen, die relativ schlecht bezahlt waren.
+5969000	5974000	Und auch eine extrem entfremmende Arbeit, muss man dazu sagen.
+5974000	5977000	Also ich habe das selbst gemacht.
+5977000	5989000	Und wenn man das fünf Stunden macht, die Vorstellung ist, das kann man irgendwie mal ein paar Wochen machen.
+5989000	5992000	Das ist wie am Fließband arbeiten.
+5992000	5996000	Aber wenn man das wirklich ein Leben lang macht, dann stumpft man ab.
+5996000	5999000	Und letztendlich ist es aber die Grundlage, ohne geht es nicht.
+5999000	6004000	Ohne diese Arbeit funktionieren diese Algorithmen nicht.
+6004000	6015000	Und das ist natürlich besonders, wenn es dann, ich glaube, Christine hat von einem Shift gesprochen, dass die Arbeit einfach umverlegt wird.
+6015000	6024000	Also es wird nicht automatisiert, es wird nicht Arbeit verringert, sondern es wird einfach Arbeit in den globalen Süden geschickt.
+6024000	6030000	Also sie hat vor allem auch dann bei diesen, also jetzt nicht wirklich mit Machine Learning zusammen.
+6030000	6038000	Doch gibt es sicher auch als Trainingsdaten, um irgendwie Gewalt, also Facebook und so weiter,
+6038000	6049000	die versuchen ihre Plattform von Gewalt, Pornografie und so weiter zu befreien, eben Menschen dafür anstellen in sehr prekären Verhältnissen,
+6049000	6060000	die den ganzen Tag einfach durch diese traumatisierenden Bilder gehen müssen, um uns hier im Westen die glänzende, glatte Plattform zu ermöglichen.
+6060000	6070000	Aber wie gesagt, das sind vor allen Dingen, also das sind Klassifizierungsalgorithmen, die einfach in so einer 1-0-Logik sagen, ja, nein.
+6070000	6078000	Und da denke ich auch, da bin ich auch wesentlich kritischer in dem Hinblick, inwieweit diese Algorithmen,
+6078000	6089000	beispielsweise es gibt Experimente oder Leute, die das in den Raum stellen, ob Gerichtsurteile damit gemacht werden sollen,
+6089000	6099000	um irgendwie die subjektive Laune von Richterinnen einfach entgegenzuwirken, wo es auch Studien gibt,
+6099000	6109000	die irgendwie, dass es eine Stunde vor dem Mittagessen wesentlich wahrscheinlicher ist, dass man verknackt wird und noch ein extra,
+6109000	6115000	also auf die Länge sich, ich glaube in Amerika war es, wie ist das nochmal, die Schöffen entscheiden, schuldig oder nicht.
+6115000	6120000	Und ich glaube, die Richterin setzt das Strafmaß fest, glaube ich.
+6120000	6126000	Ich weiß nicht genau, wie das amerikanische Rechtssystem funktioniert, da hat sich Gott sei Dank noch kein Kontakt mit.
+6126000	6137000	Aber ja, es ist dann irgendwie eine fremdliche Vorstellung zu entscheiden, ob Amber Heard jetzt Johnny Depp diffamiert hat oder nicht.
+6137000	6142000	Ja, und die Frage an einen Algorithmus zu übergeben, aber diese Fragen stehen im Raum.
+6142000	6149000	Und ich denke, da muss man klar Linie ziehen, dass vielleicht auch kein Algorithmus entscheidet, ob man in die Universität kommt oder nicht,
+6149000	6155000	was praktisch oder einen Job bekommt, was praktisch heutzutage schon passiert.
+6155000	6163000	Und gerade weil du da diese extreme Ja und Nein Logik hast und auf der anderen Seite diese Vorhersagen, von denen ich rede,
+6163000	6171000	das sind ja Regressionsprobleme, wo es um die Bestimmung eines kontinuierlichen Zahlenwertes geht.
+6171000	6182000	Und ob es jetzt nächstes Jahr eine Million oder doch nur 800.000 Smartphones gibt, würde ich behaupten, gerade in dem Bereich der Konsumgüter.
+6182000	6192000	Und dann würde ich auch auf die Frage, die du am Anfang noch mal gestellt hast, oder die Frage, wo ich es wirklich einsetze.
+6192000	6199000	Es gibt auch Bereiche, wenn ich jetzt irgendwie ans Gesundheitswesen denke, wieviel Covid-Vaccine brauchen wir?
+6199000	6203000	Da würde ich auch ein bisschen vorsichtig sein, wenn es um Leben und Tod geht.
+6203000	6209000	Aber da wird auch sowieso noch mal was obendrauf gepackt.
+6209000	6218000	Also auch in der Produktion, wenn man eine Vorhersage hat, dass dann irgendwie ein Puffer noch mal draufgeschlagen wird.
+6218000	6226000	Und da auch wieder so ein Spiel von Produzentinnen, Leuten, die einfach in diesen Prozessen beteiligt sind.
+6227000	6236000	Wunderbar. Max, am Ende eines jeden Interviews stelle ich immer noch die Frage, wenn du dir Zukunft vorstellst, was stimmt dich freudig?
+6236000	6248000	Du sprichst mit einem Pessimisten, aber ich bin glaube ich an den Innovationsgeist,
+6248000	6260000	dass der Menschen doch überzeugt, auch so schlimm wie es vielleicht aussieht und wir vielleicht auch noch mal durch das Teil noch weiter hinabschreiten müssen.
+6260000	6267000	Bevor es vielleicht besser wird, bin ich vielleicht froh darüber, dass auch sehr viel mehr Menschen sich das Thema annehmen.
+6267000	6281000	Dass es auch durch deine Arbeit immer mehr eine Öffentlichkeit und eine Debatte darum gibt, um einfach diese Unausweichlichkeit der Gegenwart irgendwie zu entkommen.
+6281000	6287000	Und da freue ich mich auch dran beteiligt zu sein und auch den Weg weiterzugehen.
+6287000	6296000	Also ich habe das Gefühl, dass entsteht da einfach eine Wiederbelebung oder eine Weiterführung von dieser Arbeit über Zukunft nachzudenken.
+6296000	6305000	Und das ist vielleicht die Hoffnung, der Schimmer am Horizont, der sich so langsam auftut.
+6305000	6309000	Wunderbar. Max, vielen Dank für das Gespräch.
+6309000	6324000	Das war Future Histories für heute. Vielen Dank fürs Zuhören, Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+6324000	6330000	Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit.
+6330000	6337000	Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube,
+6337000	6343000	wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet.
+6343000	6352000	Schreibt mir gerne unter jan at futurehistories.today. Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise.
+6352000	6362000	Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf unserer Homepage.
+6362000	6372000	Future Histories ist eine Produktion von MetaLapses zu finden auf meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.

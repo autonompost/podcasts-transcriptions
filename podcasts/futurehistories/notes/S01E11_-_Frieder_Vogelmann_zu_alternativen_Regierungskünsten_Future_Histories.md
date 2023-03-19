@@ -4,9 +4,8 @@
 audio: podcasts/futurehistories/audio/11-2019-09-22-S01E11-Frieder-Vogelmann-zu-alternativen-Regierungskuensten.mp3
 title: S01E11 - Frieder Vogelmann zu alternativen Regierungskünsten | Future Histories
 transcript: podcasts/futurehistories/transcripts/11-2019-09-22-S01E11-Frieder-Vogelmann-zu-alternativen-Regierungskuensten.srt
-liveUpdate: true
+liveUpdate: false
 ---
-
 ```
 ---
 
