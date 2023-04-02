@@ -16,4 +16,4 @@ Complete: [[FH_Complete_S02E42_-_Max_Grunberg_zum_Planungsdamon_Future_Histories
 
 Episode Keywords:
 
-#MaxGrünberg, #JanGroos, #Interview, #Podcast, #FutureHistories, #Planung, #DemokratischePlanung, #KommunisitscheZukunft, #Freiheit, #LibertärerKommunismus, #Effizienz, #Planungsdebatte, #AlgorithmischeGouvernamentalität, #Partizipation, #BottomUp, #Iterativ, #digitalerSozialismus, #Algorithmen, #Postkapitalismus, #Kommunismus, #Solzialismus, #DasRegierenderAlgorithmen
+#MaxGrünberg, #JanGroos, #Interview, #Podcast, #FutureHistories, #Planung, #DemokratischePlanung, #KommunisitscheZukunft, #Freiheit, #LibertärerKommunismus, #Effizienz, #Planungsdebatte, #AlgorithmischeGouvernamentalität, #Partizipation, #BottomUp, #Iterativ, #digitalerSozialismus, #Algorithmen, #Postkapitalismus, #Kommunismus, #Sozialismus, #DasRegierenderAlgorithmen
