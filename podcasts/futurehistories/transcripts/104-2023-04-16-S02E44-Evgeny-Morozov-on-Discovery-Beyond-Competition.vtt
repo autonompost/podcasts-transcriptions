@@ -1,0 +1,3125 @@
+WEBVTT
+
+00:00.000 --> 00:05.800
+Welcome to Future Histories, my name is Jan Gross and it is my great pleasure to welcome
+
+00:05.800 --> 00:08.920
+Yevgeny Matosov in today's episode.
+
+00:08.920 --> 00:16.120
+He is a researcher and writer as well as founder of the knowledge curation platform The Syllabus.
+
+00:16.120 --> 00:20.060
+Regular listeners will know that I highly appreciate his work.
+
+00:20.060 --> 00:25.960
+Time and time again, Yevgeny succeeds in pushing our thoughts further through his very thorough
+
+00:25.960 --> 00:28.400
+research and sharp thinking.
+
+00:28.400 --> 00:34.640
+So you can imagine that I was and still am quite excited to have the chance to welcome
+
+00:34.640 --> 00:36.960
+him as a guest in Future Histories.
+
+00:36.960 --> 00:40.640
+In many ways, this couldn't be more fitting.
+
+00:40.640 --> 00:46.960
+And there is an exciting announcement to make related to me and Yevgeny recording this episode
+
+00:46.960 --> 00:52.560
+because a transcript of this episode will be featured in an upcoming book I co-edit
+
+00:52.560 --> 00:55.240
+together with Christoph Sorg.
+
+00:55.240 --> 01:01.840
+It's an edited volume called Creative Construction, Plant Economies in the 21st Century and Beyond
+
+01:01.840 --> 01:05.280
+and it will be published with Bristol University Press.
+
+01:05.280 --> 01:10.440
+I am absolutely thrilled about the fantastic group of people that are coming together for
+
+01:10.440 --> 01:12.440
+this edited volume.
+
+01:12.440 --> 01:18.800
+There are contributions by Laura Horn, Jakob Heyer, Samia Mohamed, Nick Dyer-Witherford,
+
+01:18.800 --> 01:40.120
+There will be a chapter by Elena Hoferbeth, Matthias Schmelzer and Cedric Durand.
+
+01:40.120 --> 01:44.440
+Christoph Sorg will of course provide the chapter as will I myself.
+
+01:44.440 --> 01:50.160
+And there will be transcripts of two conversations, one between Nancy Fraser and Christoph Sorg
+
+01:50.160 --> 01:56.000
+and one, you guessed it, between Yevgeny Morozov and myself.
+
+01:56.000 --> 02:01.560
+I can promise you that this is not the last time you'll hear me be absolutely excited
+
+02:01.560 --> 02:03.100
+about this book.
+
+02:03.100 --> 02:09.640
+Right now the release is scheduled for May 2024 and be assured I'll keep you updated
+
+02:09.640 --> 02:10.960
+on that.
+
+02:10.960 --> 02:16.920
+Now that I have so shamelessly indulged in self-promotion for the last few minutes,
+
+02:16.920 --> 02:21.800
+let me be equally excited about an upcoming project by Yevgeny.
+
+02:21.800 --> 02:27.880
+It's a podcast series written and presented by Yevgeny himself and it's called The Santiago
+
+02:27.880 --> 02:34.660
+Boys and it's described as a wild tale of how Salvador Allende's engineers dared to
+
+02:34.660 --> 02:41.820
+challenge corporations and spy agencies and almost won a battle for the very soul of
+
+02:41.820 --> 02:44.220
+information technology.
+
+02:44.220 --> 02:50.680
+You'll find a link to the very stylish website of the Santiago Boys podcast in the show notes.
+
+02:50.680 --> 02:55.740
+On the website you'll find a trailer and in order to stay updated until it's released
+
+02:55.740 --> 02:59.540
+this summer, you can subscribe to newsletter.
+
+02:59.540 --> 03:04.980
+Yevgeny has worked on this podcast series for quite a while now and has already been
+
+03:04.980 --> 03:11.940
+an expert on the topic before that so we can all look forward to a surely exciting approach
+
+03:11.940 --> 03:12.940
+to the topic.
+
+03:12.940 --> 03:20.260
+I for once am thrilled and looking forward to listening to this podcast this summer.
+
+03:20.260 --> 03:26.220
+Before we finally start, I would like to welcome Saskia as a patron of future histories and
+
+03:26.220 --> 03:33.660
+I'd like to thank Urs, Lukas, Wilfried, Fabian, Georg and Karl for their kind donations.
+
+03:33.660 --> 03:46.540
+And now please enjoy today's episode with Yevgeny Matosov on Discovery Beyond Competition.
+
+03:46.540 --> 03:47.540
+Welcome Yevgeny.
+
+03:47.540 --> 03:49.500
+Glad to be here.
+
+03:49.500 --> 03:54.860
+There's a lecture you gave at Berkeley titled Beyond Competition, Alternative Discovery
+
+03:54.860 --> 04:00.700
+Procedures and the Post-Capitalist Public Sphere and you start the lecture by hinting
+
+04:00.700 --> 04:06.500
+towards the, and I quote you here, inability of the left to make sense of digital technologies
+
+04:06.500 --> 04:12.000
+and what to do with them and then you continue that in your view the left has a problem with
+
+04:12.000 --> 04:17.280
+making sense of its own project and related to that you ask, and I quote you again, what
+
+04:17.280 --> 04:21.820
+should their future be other than just defending the welfare state and insisting that they
+
+04:21.820 --> 04:25.200
+can humanize capitalism, end quote.
+
+04:25.200 --> 04:31.020
+So I'm of course very much interested in both of these tasks, making sense of a possible
+
+04:31.020 --> 04:36.020
+broader project of the left as well as making sense of the role of digital technologies
+
+04:36.020 --> 04:37.820
+for such a project.
+
+04:37.820 --> 04:43.180
+What are the main challenges surrounding both of these tasks and how are they related to
+
+04:43.180 --> 04:44.420
+each other?
+
+04:44.420 --> 04:51.180
+Well, it's a lot to bite, so I'm not sure how we're going to tackle it.
+
+04:51.180 --> 04:57.260
+So probably these issues will pop up as we speak, but so that lecture I think was almost
+
+04:57.260 --> 04:58.940
+two years ago that I gave it.
+
+04:58.940 --> 05:04.460
+So I think, you know, my thinking always evolves and it probably has evolved since then.
+
+05:04.460 --> 05:10.620
+I haven't gotten back to celebrating the left as the kind of the source of forward progressive
+
+05:10.620 --> 05:14.300
+thinking on matters of technology, so that hasn't changed.
+
+05:14.300 --> 05:20.040
+But to answer your question, I think let's try to tackle them separately.
+
+05:20.040 --> 05:24.640
+Let's first tackle some of the problems of the left and then we can talk about technology
+
+05:24.640 --> 05:31.640
+because I think ultimately the reason why the left has not been able to come up with
+
+05:31.640 --> 05:38.960
+a more exciting plan for how to use technology and technologies is because it kind of got
+
+05:38.960 --> 05:47.900
+stuck in a certain intellectual, political trap, if you will.
+
+05:47.900 --> 05:52.140
+So before we get it out of that trap, I don't think that any forward thinking about technology
+
+05:52.140 --> 05:53.260
+would emerge.
+
+05:53.260 --> 05:59.400
+So do you want me to, I mean, like I can go on.
+
+05:59.400 --> 06:00.400
+Yes, of course.
+
+06:00.400 --> 06:02.600
+You know, like do you really want me to try to lay it out?
+
+06:02.600 --> 06:03.760
+Yes, of course.
+
+06:03.760 --> 06:04.760
+That's why I'm asking.
+
+06:04.760 --> 06:08.400
+No, no, because it's a huge question.
+
+06:08.400 --> 06:12.540
+I mean, it's a question about which you can borrow the right 10 books and you can have
+
+06:12.540 --> 06:17.440
+an entire book imprint of Verso books dedicated just to that question.
+
+06:17.440 --> 06:26.020
+So fine, let me start because it's so abstract that I feel like I might not land if I jump
+
+06:26.020 --> 06:27.020
+off that plane.
+
+06:27.020 --> 06:28.020
+You can try.
+
+06:28.020 --> 06:29.020
+Fine.
+
+06:29.020 --> 06:33.100
+So let me try to outline it.
+
+06:33.100 --> 06:40.340
+So traditionally, I think the left has inherited this idea, or at least the radical left that's
+
+06:41.120 --> 06:50.280
+liberal Keynesian left has inherited this idea that somehow its task is to figure out
+
+06:50.280 --> 07:01.120
+how to deploy the tools of planning and all the associated knowledge techniques and repertoires
+
+07:01.260 --> 07:11.940
+in order to show that the market does a suboptimal job at allocating resources.
+
+07:11.940 --> 07:12.940
+Right.
+
+07:12.940 --> 07:18.740
+So the project of the left has been essentially, and again, I'm not talking about Keynesians.
+
+07:18.740 --> 07:22.500
+I'm talking about kind of hardcore left.
+
+07:22.500 --> 07:28.340
+The project has been to show that you can build alternative rationalities of allocating
+
+07:28.400 --> 07:34.800
+goods and resources that would beat the rationality of the market.
+
+07:34.800 --> 07:42.360
+And to some extent, you know, it has been done with various success in places like the
+
+07:42.360 --> 07:50.320
+Soviet Union, partially, of course, by relying on all sorts of techniques like input output
+
+07:50.320 --> 07:52.680
+methods and whatnot.
+
+07:53.660 --> 08:02.820
+The temptation within that tradition, of course, is to think that now that we have more tools
+
+08:02.820 --> 08:10.340
+and techniques of organizing knowledge, including those of big data and artificial intelligence,
+
+08:10.340 --> 08:19.100
+we should essentially try to recover that focus on allocating goods and resources and
+
+08:19.160 --> 08:26.040
+turbocharge it essentially with these new techniques and to show and prove to the liberal,
+
+08:26.040 --> 08:33.400
+to the neoliberals, if you will, who have shifted this debate into this knowledge-intensive
+
+08:33.400 --> 08:38.760
+dimension thanks to people like Hayek and before he meets us.
+
+08:38.760 --> 08:43.960
+And the objective is to show them that essentially they got it wrong, that market is suboptimal
+
+08:44.140 --> 08:46.180
+and that there is a better way to do it.
+
+08:46.180 --> 08:54.260
+And we can have a better allocative rationality if you want to put it that way.
+
+08:54.260 --> 09:05.460
+This is what I think is what some of the most tech-friendly leftists imagine the task of
+
+09:05.460 --> 09:08.620
+the left to be.
+
+09:08.620 --> 09:23.200
+I, for one, remain skeptical that this task should retain the focus that it has retained
+
+09:23.200 --> 09:25.960
+within that cohort.
+
+09:25.960 --> 09:29.200
+I don't even think that it's a mainstream focus of the left, to be honest.
+
+09:29.200 --> 09:38.440
+I think that the left that has not opted for Keynesianism has opted for some kind of Hayekian
+
+09:38.440 --> 09:42.640
+view that markets are better at organizing knowledge and that maybe we should just focus
+
+09:42.640 --> 09:45.640
+on somehow cleaning up afterwards.
+
+09:45.640 --> 09:51.560
+And the left that is still thinking about something that goes beyond the market or some
+
+09:51.560 --> 10:02.520
+kind of Keynesian multiplier is trying to recover and improve and turbocharge the toolkit
+
+10:02.520 --> 10:03.960
+of Soviet planning.
+
+10:04.960 --> 10:09.840
+Me, I've been thinking about these issues for quite a few years now and the conclusion
+
+10:09.840 --> 10:13.880
+I've reached, which I don't think I'm going to lay out in full in this conversation because
+
+10:13.880 --> 10:19.320
+I'm still working on finishing a book, I've started on this, so it's kind of thinking
+
+10:19.320 --> 10:20.720
+in progress.
+
+10:20.720 --> 10:26.920
+Even though I know the answer, I will keep the suspense and not give you what I really
+
+10:26.920 --> 10:28.400
+think about all of these issues.
+
+10:28.840 --> 10:33.680
+Ultimately, the conclusion I've reached is that there is so much more for the left to
+
+10:33.680 --> 10:42.360
+do with this technologist if only it slightly tweaks the initial question with which it
+
+10:42.360 --> 10:44.480
+starts this operation.
+
+10:44.480 --> 10:49.240
+And the question with which it starts this operation now, I think, is still primarily
+
+10:49.240 --> 10:55.160
+focused on how do we satisfy human needs and the needs that are basic.
+
+10:55.160 --> 10:57.060
+How do we make sure that people get fat?
+
+10:57.060 --> 11:00.740
+How do we make sure that people get enough adequate housing?
+
+11:00.740 --> 11:04.580
+How do we make sure that all of these basic needs are satisfied?
+
+11:04.580 --> 11:08.100
+There is, of course, a huge debate on the left.
+
+11:08.100 --> 11:09.660
+How do you count needs?
+
+11:09.660 --> 11:11.500
+How do you quantify them?
+
+11:11.500 --> 11:12.860
+How do you qualify them?
+
+11:12.860 --> 11:13.860
+Are they trans-historical?
+
+11:13.860 --> 11:14.860
+Are they permanent?
+
+11:14.860 --> 11:17.060
+Do they change?
+
+11:17.060 --> 11:20.900
+That's a whole debate of its own and I don't want to take any position in that debate in
+
+11:20.900 --> 11:22.620
+this conversation.
+
+11:22.620 --> 11:30.860
+But ultimately, I think as long as you retain your focus within this needs paradigm, if
+
+11:30.860 --> 11:37.100
+you will, you are not going to ask truly exciting questions that will allow you as a leftist
+
+11:37.100 --> 11:42.740
+to win over the neoliberal camp and their vision of the market.
+
+11:42.740 --> 11:49.300
+Because their vision of the market is no longer about allocation of goods as it was at the
+
+11:49.460 --> 11:56.220
+beginning of this debate, which some of us and people on your podcast would know it probably
+
+11:56.220 --> 12:01.180
+already fairly well, which is the big event that starts it as the so-called socialist
+
+12:01.180 --> 12:08.340
+calculation debate, where the discussion is primarily about which of the two systems does
+
+12:08.340 --> 12:14.580
+a better job of satisfying the needs of the populace, whether it's the market or whether
+
+12:14.580 --> 12:16.860
+it's the plan.
+
+12:16.860 --> 12:21.540
+I don't think that the neoliberals are still arguing about needs, even though the leftists
+
+12:21.540 --> 12:23.540
+still are arguing about needs.
+
+12:23.540 --> 12:29.060
+For neoliberals of the most sophisticated kind, the market became something else entirely.
+
+12:29.060 --> 12:35.780
+It's a way of organizing the journey into the unknown, as Hayek writes about competition
+
+12:35.780 --> 12:37.340
+in one instance.
+
+12:37.340 --> 12:44.460
+It's a way of assuming and allowing more complexity into our social affairs.
+
+12:44.460 --> 12:49.820
+For someone like James Buchanan, it's even an instrument of becoming and allowing people
+
+12:49.820 --> 12:53.780
+to discover who they really are and who they want to be.
+
+12:53.780 --> 12:58.380
+It's no longer about satisfying basic needs.
+
+12:58.380 --> 13:04.660
+This I would argue is what accounts for the buy-in and legitimacy of the market as a tool
+
+13:04.660 --> 13:06.940
+of organizing society.
+
+13:06.940 --> 13:13.340
+Because for the more sophisticated end of the neoliberal debate, markets are not tools
+
+13:13.340 --> 13:14.940
+of organizing economies.
+
+13:14.940 --> 13:20.780
+They are infrastructures of organizing civilization.
+
+13:20.780 --> 13:28.900
+As long as the left doesn't present an equally powerful vision of its infrastructure for
+
+13:28.900 --> 13:37.940
+organizing civilization and not just allocating raincoats and beds, it will never be able
+
+13:37.940 --> 13:41.940
+to defeat neoliberalism, at least ideationally.
+
+13:41.940 --> 13:42.940
+This is the background.
+
+13:42.940 --> 13:46.540
+We can jump into any of these points, but this is sort of how I see it.
+
+13:46.540 --> 13:54.140
+I didn't yet give you any hint, at least in these remarks, as to what this alternative
+
+13:54.140 --> 13:56.300
+project of the left might be.
+
+13:56.300 --> 14:03.060
+But I do think that the fight that the left is fighting, it has no opponent because the
+
+14:03.060 --> 14:08.660
+neoliberals have moved on and so has probably the general public.
+
+14:08.660 --> 14:15.020
+Much of this discussion about how you can satisfy basic needs using AI and Walmart and
+
+14:15.020 --> 14:22.420
+Amazon-like planning, it's a debate that I'm not sure anybody on the right, of the sophisticated
+
+14:22.420 --> 14:28.980
+neoliberals who have engaged with socialist calculation debate, even needs to hear.
+
+14:28.980 --> 14:32.560
+Because these people, if you read them, if you read even somebody like Buchanan writing
+
+14:32.560 --> 14:38.460
+about computers in the early 1990s, he will tell you point blank, yeah, sure, computers
+
+14:38.460 --> 14:45.100
+can maybe arrive at a perfectly planned economy, but computers will still not give you the
+
+14:45.100 --> 14:52.900
+possibility of exploring who you truly are and of unearthing this becoming and discovery
+
+14:52.900 --> 14:55.540
+element that the market does.
+
+14:55.540 --> 14:58.340
+And this is why socialism will never win.
+
+14:58.340 --> 15:00.820
+I mean, this is their argument.
+
+15:00.820 --> 15:06.940
+But what I'm saying is that the answer of the left with regards to big tech and AI and
+
+15:06.980 --> 15:12.700
+cloud computing and infrastructures has to provide an answer to that critique and not
+
+15:12.700 --> 15:20.380
+just to the critique of, well, we can allocate rain codes better by using Amazon-like warehouses
+
+15:20.380 --> 15:21.740
+methods.
+
+15:21.740 --> 15:26.060
+That to me, it's not that relevant.
+
+15:26.060 --> 15:34.340
+Okay, maybe let's try to pick this apart a bit because I'm wondering to what degree we're
+
+15:34.340 --> 15:40.540
+talking about a successful myth, so to speak, a narrative on the part of the neoliberals
+
+15:40.540 --> 15:47.300
+and to what degree we're talking about an actual ability to bring about something new.
+
+15:47.300 --> 15:52.340
+Because depending on what we're talking about, we have to address or we might have to bring
+
+15:52.340 --> 15:56.740
+up different alternative solutions.
+
+15:56.740 --> 16:02.460
+Because I'm to a certain degree wondering why we should accept this Hayekian myth as
+
+16:02.540 --> 16:08.460
+a starting point in the first place, since it's so extremely narrow and somewhat kind
+
+16:08.460 --> 16:13.580
+of easy to disprove, I would say, by pointing to the many inventions that are not really
+
+16:13.580 --> 16:18.700
+based on monetary incentives and market competition, et cetera.
+
+16:18.700 --> 16:24.180
+And when it comes to the public imaginary, for example, it seems that non-market based
+
+16:24.180 --> 16:31.180
+discovery is somewhat firmly being recognized within a broader public imagination as well,
+
+16:31.180 --> 16:32.180
+I would say.
+
+16:32.260 --> 16:38.020
+The stereotype inventor in novels, films, and comics, et cetera, used to be more of
+
+16:38.020 --> 16:45.040
+a intrinsically motivated nerd figure and not the business type who primarily seeks
+
+16:45.040 --> 16:46.040
+profit.
+
+16:46.040 --> 16:52.460
+And I would say that this business type in the liberal version of things only comes into
+
+16:52.460 --> 16:58.780
+the picture afterwards when the invention kind of has to be brought to the market, so
+
+16:58.780 --> 16:59.780
+to speak.
+
+17:00.660 --> 17:05.260
+But if this is the case, but if discovery is not really the problem because we have
+
+17:05.260 --> 17:12.860
+these intrinsically motivated nerd types, then this would mean that what we need most
+
+17:12.860 --> 17:18.580
+is not so much a new mechanism for the discovery of things, but an alternative mode or alternative
+
+17:18.580 --> 17:24.700
+modes of allocating funds and democratizing investment, et cetera, in order to then bring
+
+17:24.860 --> 17:31.380
+about effectively the huge potential for the new, so to speak, that seems to be a somewhat
+
+17:31.380 --> 17:35.180
+inherent feature of human potential.
+
+17:35.180 --> 17:41.420
+And on a worldwide scale, for example, this potential is extremely untapped since, for
+
+17:41.420 --> 17:48.260
+example, venture capital has a extreme bias with regard to flowing money to their own
+
+17:48.260 --> 17:51.340
+kind regardless of actual ability.
+
+17:51.340 --> 17:53.740
+So I would be interested.
+
+17:53.740 --> 18:00.860
+Is it a narrative that we are combating in this case, or is it an actual ability of market
+
+18:00.860 --> 18:03.660
+competition to really bring about the new?
+
+18:03.660 --> 18:09.860
+I mean, you're framing it in a certain way, and I'm not sure that these are the only
+
+18:09.860 --> 18:18.260
+options in this debate, meaning that I understand what you're saying, but I don't think that
+
+18:18.260 --> 18:25.140
+the focus on invention is necessarily the correct one, because the whole point of linking
+
+18:25.140 --> 18:29.860
+it and lumping it with becoming is that you can also account for the consumer side of
+
+18:29.860 --> 18:32.620
+things and not just for the inventor side of things.
+
+18:32.620 --> 18:36.980
+So on the consumer side of things, the argument that neoliberals would make is that having
+
+18:36.980 --> 18:43.140
+the market as the infrastructure of modernity is what precisely allows you to discover what
+
+18:43.180 --> 18:48.020
+you really want, to express your needs and to eventually have them satisfied in a way
+
+18:48.020 --> 18:51.860
+that has not been done before, because these needs were not even in your head.
+
+18:51.860 --> 18:55.820
+So you can, of course, argue that there are all sorts of ways to do it differently.
+
+18:55.820 --> 18:57.220
+And of course, there are.
+
+18:57.220 --> 19:03.820
+I'm just saying that it's not just the story of the Schumpeterian entrepreneur
+
+19:03.820 --> 19:05.700
+inventing something in the garage.
+
+19:05.700 --> 19:08.540
+I mean, there are bigger things at stake here.
+
+19:08.540 --> 19:17.060
+I think with regards to the story told by neoliberals, if you account for both the consumption
+
+19:17.060 --> 19:23.300
+side and the production side, and if you account also for a very important element of it, which
+
+19:23.300 --> 19:28.900
+is scale, because ultimately the story that somebody like Hayek would tell you is that,
+
+19:28.900 --> 19:33.380
+sure, you can have solidarity and altruism in a small community in a village where everybody
+
+19:33.380 --> 19:37.340
+knows each other, but as you start scaling things up and you have urbanization and
+
+19:37.340 --> 19:41.740
+modernization, it becomes very hard to scale this stuff.
+
+19:41.740 --> 19:46.340
+So the additional factor in the neoliberal story, of course, is the process of modernization
+
+19:46.340 --> 19:54.940
+that, yes, you have what Hayek would say the cash nexus that now penetrates and intermediates
+
+19:54.940 --> 19:58.580
+everything in a way that wasn't there before.
+
+19:58.580 --> 20:05.020
+But it brings with it certain benefits of which this ability to live in a modern world
+
+20:05.020 --> 20:09.220
+where things are discovered and where there is new that's produced by the behavior of
+
+20:09.220 --> 20:13.780
+both consumers and entrepreneurs, it's there.
+
+20:13.780 --> 20:18.660
+Do I think this story is partly accurate?
+
+20:18.660 --> 20:19.660
+Yes.
+
+20:19.660 --> 20:25.780
+Do I think that's the only way in which you can account for different alternatives to
+
+20:25.780 --> 20:31.940
+different possibilities of becoming and discovery and scaling up the process of modernization
+
+20:31.940 --> 20:33.700
+in a way that bypasses the market?
+
+20:33.700 --> 20:35.860
+Of course, I think it's possible.
+
+20:35.860 --> 20:41.980
+But the way I think to go about it is not to dismiss the story told by the neoliberals,
+
+20:41.980 --> 20:46.940
+is to instead to historicize it and to say that, look, guys, you have a story that emerges
+
+20:46.940 --> 20:48.860
+from the Cold War.
+
+20:48.860 --> 20:53.180
+You set up your two punching bags or your punch one punching bag in this case, which
+
+20:53.180 --> 20:59.060
+was the state or the central state and sort of Keynesian liberals play the supporting
+
+20:59.060 --> 21:05.820
+Castro every now and then because you could always pick them, pick on them and say, look,
+
+21:05.820 --> 21:11.500
+these guys are almost communists, so you can let them play with their monetary policy.
+
+21:11.500 --> 21:15.660
+And if you let them play with government spending, eventually we'll all be like the Soviet Union.
+
+21:15.660 --> 21:20.620
+So it's kind of one and a half punching bags, if you really want to be accurate.
+
+21:20.620 --> 21:22.540
+But why are they the only options?
+
+21:23.020 --> 21:31.980
+And this is where you really start understanding that you can have a more sophisticated type
+
+21:31.980 --> 21:38.420
+of society, so you can have more complexity, you can have more social coordination among
+
+21:38.420 --> 21:42.820
+people and actors and institutions that were not in touch before.
+
+21:42.820 --> 21:48.300
+That doesn't at all require any mediation by the price mechanism and the price system,
+
+21:48.380 --> 21:54.740
+because if the argument made by the neoliberals is that essentially you need the price system
+
+21:54.740 --> 22:00.740
+so that people can come together and start coordinating things and coordinating their
+
+22:00.740 --> 22:04.620
+needs and understanding what's available, what's not available.
+
+22:04.620 --> 22:06.380
+Why not just do it directly?
+
+22:06.380 --> 22:10.220
+And if you can do it directly, and we do that actually all the time, we do that actually
+
+22:10.220 --> 22:15.300
+in families, you know, when you need to coordinate with your spouse or partner about picking
+
+22:15.300 --> 22:20.340
+up kids from a kindergarten, you don't organize an auction and you don't appeal to intellectual
+
+22:20.340 --> 22:24.260
+property rights and you don't create a market and that behavior, you just send a message
+
+22:24.260 --> 22:29.660
+over WhatsApp or any other type of infrastructure and you basically coordinate how to make something
+
+22:29.660 --> 22:36.820
+happen that before that was just a virtuality or was just a hypothetical possibility and
+
+22:36.820 --> 22:41.140
+with some basic information exchange, it becomes a reality and an actuality, right?
+
+22:41.140 --> 22:48.620
+It happens all the time and that should prompt some questions in our mind as to what are
+
+22:48.620 --> 22:54.060
+the prerequisites and possibilities for scaling this up and making them richer and making
+
+22:54.060 --> 22:59.940
+sure that the types of social coordination that are possible in the market are also possible
+
+22:59.940 --> 23:05.940
+in other domains of life and maybe they need the funding and the infrastructures and the
+
+23:05.940 --> 23:09.780
+kind of risk-free environments in which to develop.
+
+23:09.780 --> 23:14.380
+But this is what I think needs to be essentially, this is the argument that needs to be used
+
+23:14.380 --> 23:15.660
+against neoliberals.
+
+23:15.660 --> 23:21.740
+It's not to say that the market doesn't do it, but what I think we should do is to essentially
+
+23:21.740 --> 23:27.380
+accept it and say, yes, the market does it, but it does it with huge costs, first of all,
+
+23:27.380 --> 23:33.020
+and these costs are not fully accounted for by the neoliberals themselves, very often,
+
+23:33.020 --> 23:34.900
+and it's not the only way to do it.
+
+23:34.900 --> 23:41.900
+And the organizing religious myth at the core of neoliberalism is that you only have two
+
+23:41.900 --> 23:45.900
+options, the market and the state, and there is nothing else in the twin, and if you don't
+
+23:45.900 --> 23:51.540
+do the market, you'll eventually end up in Gulag, and that's just not the story, right?
+
+23:51.540 --> 23:55.700
+And then, of course, you have all sorts of perversions, yes, you can have Elon Musk taking
+
+23:55.700 --> 24:00.140
+a lot of money from the government and blah, blah, blah, but ultimately, you're never going
+
+24:00.140 --> 24:05.700
+to win that rhetorical fight, because I think broadly, the story, with a few bad exceptions
+
+24:05.700 --> 24:11.420
+that receive a lot of bad press, the story told by neoliberals, to some extent, is partially
+
+24:11.420 --> 24:12.420
+correct.
+
+24:12.420 --> 24:17.420
+Yes, you can have a bunch of small entrepreneurs who essentially don't really, who can treat
+
+24:17.420 --> 24:22.700
+everything as a black box, because the market system and the price system allows them to,
+
+24:22.700 --> 24:28.420
+they don't need to know why there is an earthquake in Sri Lanka or why there is suddenly a bunch
+
+24:28.540 --> 24:33.700
+of refugees landing and driving up the prices of shelter accommodation, they don't care
+
+24:33.700 --> 24:38.340
+why, they just need to know where the price will be moving, and since the price will be
+
+24:38.340 --> 24:43.340
+moving, they can take action and other counterparts can take other action, and yes, you can run
+
+24:43.340 --> 24:48.740
+society as a black box, and by running it as a black box, you can essentially coordinate
+
+24:48.740 --> 24:55.180
+effectively with all sorts of, to use in your classical economics, externalities, and do
+
+24:55.180 --> 24:59.020
+we really need them, and maybe we don't, and if we don't need them, then the question
+
+24:59.020 --> 25:06.140
+becomes what other alternatives and possibilities and infrastructures of social coordination,
+
+25:06.140 --> 25:07.900
+discovery and becoming do we need?
+
+25:07.900 --> 25:13.820
+Once you pose the question that way, then you really need to have a good answer as to
+
+25:13.820 --> 25:20.540
+why that program should be a priority and not the program of satisfying basic needs
+
+25:20.540 --> 25:23.660
+by giving everybody a coat and a bad bank.
+
+25:26.540 --> 25:31.580
+Okay, so I guess now the obvious question is what are the mechanisms, Elkeny?
+
+25:32.380 --> 25:36.940
+What are the mechanisms, the infrastructures, etc., that we need to bring about in order
+
+25:36.940 --> 25:43.100
+to provide for this type of coordination that is able to also be attractive as an alternative
+
+25:43.100 --> 25:47.900
+and also, of course, function at this level of abstraction that you are describing?
+
+25:47.900 --> 25:50.700
+The question should be why, like why do you want to do that?
+
+25:51.740 --> 25:56.380
+Because I think it's a big question, because if, what is the goal?
+
+25:56.380 --> 26:00.540
+The goal, one goal might be because you want to generate alternative ways of,
+
+26:01.180 --> 26:04.700
+you want to create alternative ways of generating value, right?
+
+26:04.700 --> 26:10.380
+Or kind of socialist value that's not capitalist, and you think that you would be able to somehow
+
+26:10.460 --> 26:19.500
+have people who engage in social coordination with each other, whose social being, if you will,
+
+26:19.500 --> 26:26.220
+is productive, but in a non-capitalist way of something that can then be valorized by
+
+26:26.220 --> 26:31.980
+society as such, and that be used for satisfying the very basic human needs
+
+26:31.980 --> 26:34.460
+that they're now satisfying through the market, right?
+
+26:35.340 --> 26:42.620
+So that would point towards a more, I don't want to say,
+
+26:42.620 --> 26:50.140
+economistic, but a very, let's say, social reproduction-like rationale, right?
+
+26:50.140 --> 26:52.780
+So you want to, because unless you pose the question why,
+
+26:54.220 --> 26:57.100
+I think you're not going to get a very solid answer.
+
+26:57.100 --> 27:01.820
+That alternative might be because we think that by facilitating all these
+
+27:02.460 --> 27:09.180
+ways of engagement, collaboration, coordination, and so forth, we are advancing society forward,
+
+27:09.180 --> 27:13.580
+and we believe in progress because we are progressive, so some of us are,
+
+27:13.580 --> 27:17.820
+and we think that it will result in a society that will be many steps
+
+27:17.820 --> 27:25.500
+above where it was before because you would be able to cure cancer or avoid the next COVID,
+
+27:25.500 --> 27:30.860
+and so forth. This is a somewhat different argument for why that needs to be done,
+
+27:30.860 --> 27:36.140
+and you can have even other arguments by saying that, well, we think that people should have
+
+27:36.140 --> 27:41.340
+the capacity to form whatever groups and communities they want and pursue whatever
+
+27:41.340 --> 27:46.700
+styles of life they want, and we should facilitate that, and part of facilitating that would be
+
+27:46.700 --> 27:52.620
+providing them with the infrastructure and some kind of opportunities to engage in those different
+
+27:52.620 --> 27:58.220
+life forms and lifestyles and to pursue them at scale, which to me would be yet a different
+
+27:58.220 --> 28:03.900
+reason, which would require a somewhat different set of interventions, and to some extent,
+
+28:05.100 --> 28:11.900
+in neoliberal thought, even though they don't do it a very thorough job of explicating that,
+
+28:11.900 --> 28:17.420
+the market serves all these functions. It's an allocative device because it allocates goods,
+
+28:17.420 --> 28:25.180
+however imperfectly. It's a device and an infrastructure of seeking and allowing for
+
+28:25.180 --> 28:30.700
+greater complexity of social interaction, and it's a device which, for better or worse,
+
+28:30.700 --> 28:36.380
+allows people to withdraw, if you will, and form their own communities and live as they will,
+
+28:36.380 --> 28:41.500
+with all sorts of constraints and restraints. There are probably many other functions,
+
+28:41.500 --> 28:44.460
+and I think that when people on the left are posing this question,
+
+28:46.380 --> 28:52.060
+they need to understand what part of it they are trying to address. Maybe they want to address
+
+28:52.060 --> 28:59.180
+all three or four, but I'm not going to give you an answer that from the get-go is going to
+
+28:59.180 --> 29:07.180
+solve all these problems. All I can tell you is that it seems obvious to me that the basic
+
+29:07.180 --> 29:15.100
+story accepted by the neoliberals, but also by many people on the left, that the choice between
+
+29:15.100 --> 29:21.100
+more market or more state is incorrect. There are plenty of ways we coordinate,
+
+29:21.580 --> 29:26.460
+and you don't even need to look at the examples I gave with parents and spouses coordinating over
+
+29:26.460 --> 29:33.740
+WhatsApp. If you look at a basic school, there is a lot of complexity because there are a lot of
+
+29:34.380 --> 29:41.820
+pupils and students and teachers and rooms, and that problem of complexity is solved with a very
+
+29:41.820 --> 29:47.980
+simple device called the timetable, which, as far as I'm concerned, is neither an example of the
+
+29:47.980 --> 29:53.020
+market nor an example of the state. It's essentially a part of tech infrastructure
+
+29:53.020 --> 29:59.500
+that greatly reduces complexity and allows for social coordination when none was possible before.
+
+29:59.500 --> 30:04.460
+We have hundreds of such devices in everyday life, and we have maybe even thousands of them,
+
+30:04.460 --> 30:11.180
+and the question then is can we have more? Yes. Can we be more advanced? Yes. Would our life
+
+30:11.820 --> 30:17.420
+be more complex, more interesting, more sophisticated, and not depend on the market
+
+30:17.420 --> 30:23.020
+if we had more and if they were more advanced? Yes. Once you answer yes to all of that,
+
+30:23.020 --> 30:27.980
+then you can start asking questions about how our broader tech infrastructure should look like,
+
+30:27.980 --> 30:33.100
+what legal facets should it have, what property regime should govern it, how much money should
+
+30:33.100 --> 30:39.340
+be put into it. These are the kind of questions I would be asking. To be asking a question of
+
+30:39.340 --> 30:46.620
+what should replace it in the abstract, to me, doesn't make a lot of sense without first posing
+
+30:46.620 --> 30:52.940
+the questions about why, for whom, and with what purpose. You already mentioned different functions
+
+30:52.940 --> 30:59.980
+of what markets supposedly can do. What are the functions that you think that should be replaced?
+
+30:59.980 --> 31:05.580
+I think you already hinted towards that maybe all of them could be replaced, but what are the ones
+
+31:05.580 --> 31:11.420
+that we should pick up first? And what then are the concrete infrastructures, the concrete
+
+31:12.780 --> 31:19.340
+modes of engagement that we can develop in order to bring about alternative mechanisms? Maybe you
+
+31:19.340 --> 31:25.100
+could give us examples for alternatives that go beyond the timetable that we already know,
+
+31:25.100 --> 31:32.380
+but maybe a hint towards examples that, for example, can be scaled in different forms in
+
+31:32.380 --> 31:40.460
+order to provide modes of engagement that are able to replace certain functions of the market.
+
+31:41.020 --> 31:45.580
+Maybe you could guide us through different aspects of this.
+
+31:46.620 --> 31:53.100
+Sure. Look, from the three functions of the market I've outlined and mentioned,
+
+31:53.100 --> 32:00.220
+it's obvious to me that I am that opposed to making the market the overall infrastructure
+
+32:00.220 --> 32:06.220
+of modernity, if you will. So I don't want the market to be the tool through which we
+
+32:06.220 --> 32:13.660
+move and advance forward. I think it's a completely mad bet to do it this way. So clearly,
+
+32:13.660 --> 32:21.100
+markets should not be instruments of reducing complexity, of organizing different types of
+
+32:21.100 --> 32:28.460
+coordination among social groups, of allowing new things to be discovered in a structured way.
+
+32:28.460 --> 32:36.700
+Now, am I against markets as allocative devices in certain limited cases? No, I'm not. I think
+
+32:36.700 --> 32:44.220
+markets, once they are well-designed and once they are supervised, controlled, and
+
+32:45.420 --> 32:51.100
+monitored, they can deliver. And you know what to expect of them once you know what to expect of
+
+32:51.100 --> 32:56.220
+them. And once you monitor for how well they're functioning, you can have them all you want.
+
+32:56.700 --> 33:08.300
+With this very limited, if you will, focus, this very limited agenda. Now, beyond that,
+
+33:11.580 --> 33:14.780
+I don't have the great technocratic
+
+33:17.420 --> 33:21.500
+vision, because I don't think that division here should be technocratic. I think it should be
+
+33:21.500 --> 33:31.180
+managerial. And this is kind of another dimension that I didn't really make clear in my previous
+
+33:31.180 --> 33:39.740
+essays, which I will make clear in the book. So I think of traditional socialist in the European
+
+33:39.740 --> 33:45.580
+sense of the world at least, and the kind of European, traditional European social democratic
+
+33:46.300 --> 33:52.300
+movement, socialism, this workers movement and communism as well. I think of it as a movement
+
+33:52.300 --> 34:01.180
+that in the economic sphere seeks simplicity. And planning is one way to get at it. So you
+
+34:01.180 --> 34:09.180
+really want to make sure that things are under control and that you kind of know what goes where
+
+34:09.180 --> 34:15.500
+and control the inputs, you can monitor the outputs. It's a system that you might think is
+
+34:15.500 --> 34:21.180
+complex, but you're trying to make it simple. And you're using all sorts of tools, technologies,
+
+34:21.180 --> 34:30.220
+techniques of knowledge and so forth to arrive at that simplicity. Capitalists, even Keynesians,
+
+34:31.660 --> 34:39.100
+don't have this view. They accept by and large that the system is complex. And they think that
+
+34:39.100 --> 34:48.700
+you can find ways to strive in the complexity. Corporations do that by essentially hiring
+
+34:48.700 --> 34:55.660
+managers who go through, I mean, I know everybody, people think corporations are under idiots. I
+
+34:55.660 --> 35:02.460
+don't. I think that good management is a craft and you have to learn it. And it requires all
+
+35:02.460 --> 35:09.420
+sorts of techniques. I mean, try building a complex tunnel somewhere if you do it. I mean,
+
+35:09.420 --> 35:12.860
+of course the government does it too. That's not the point I'm making. All I'm trying to say is
+
+35:12.860 --> 35:21.260
+that something like project management requires a certain skill set, which you develop and then you
+
+35:21.260 --> 35:30.460
+deal with complexity. But you deal with complexity without trying to make it simple by reducing it
+
+35:30.460 --> 35:37.660
+into chunks that your system can digest, which I think is the default socialist temptation.
+
+35:39.020 --> 35:45.580
+So whatever alternative system you would be building, I would suggest it becomes much more
+
+35:46.300 --> 35:54.780
+managerial in its outlook than whatever the other equivalent was this insistence on simplicity is
+
+35:54.780 --> 36:00.540
+and would be. And that means that the infrastructures we would need would need
+
+36:00.540 --> 36:08.140
+to make it easier to manage things. So it might need infrastructures of prediction, of modeling,
+
+36:08.140 --> 36:13.820
+of running simulations, of understanding how the world might be, because that's what managers do.
+
+36:13.820 --> 36:20.300
+They try to anticipate the world as complex as it is without making it simpler. And I would
+
+36:20.300 --> 36:24.700
+argue that the socialists have to go even further than that. They have to deliberately
+
+36:24.700 --> 36:31.020
+make it more complex. So they have to take it upon themselves to make sure that the world is messier,
+
+36:31.020 --> 36:37.980
+more chaotic and crazier than it is before they started working. I mean, many socialists succeed
+
+36:37.980 --> 36:43.020
+in that just because of bad management. But I would argue that that has to be done structurally.
+
+36:43.020 --> 36:49.020
+And this is what socialism is about. It's about allowing people who want to live in ways that they
+
+36:49.020 --> 36:55.660
+want outside of the market, outside of whatever mentality and subjectivity is imposed on them by
+
+36:55.660 --> 37:01.980
+this invisible Leviathan, as some people call the market, to pursue their projects without hopefully
+
+37:01.980 --> 37:11.500
+hurting each other, but in a way that allows us to have all this immense variety of behaviors,
+
+37:11.500 --> 37:18.060
+lifestyles, forms of lives, however you want to call it. And still making sure that the ship doesn't
+
+37:18.060 --> 37:23.660
+think and making sure that the ship doesn't think is what really makes it complex. But this is really
+
+37:23.660 --> 37:32.780
+where technology, big data and everything else can help, but not help by planning in the old
+
+37:33.740 --> 37:41.580
+sense of the world, but predicting and managing and then delegating the functions farther down
+
+37:41.580 --> 37:49.580
+the line so that you don't have to centralize all the management in the hands of the Politburo.
+
+37:49.580 --> 37:57.020
+Now, this is how it works in the abstract. I'm not naive enough to think that in today's geopolitical
+
+37:57.020 --> 38:05.020
+milieu, you can have as much decentralization as I would wish personally, because even developing
+
+38:05.020 --> 38:10.700
+all these infrastructures of prediction, anticipation and management would require the pursuit of
+
+38:11.820 --> 38:17.180
+probably a far more autonomous technology and science policy that
+
+38:19.660 --> 38:27.740
+hegemonic powers of today would be happy with. So it will be a trade-off. So I'm not naively
+
+38:27.740 --> 38:33.420
+proposing that we just have a bunch of communes interrelated with each other through a giant
+
+38:33.420 --> 38:40.620
+network, but I think as a kind of as a horizon of where we want to be, that's not a bad vision.
+
+38:41.820 --> 38:48.060
+In preparation for our conversation today, I listened to all of the six
+
+38:48.860 --> 38:55.180
+Macy lectures by Stafford P. on designing freedom, and a lot of what you just said
+
+38:55.180 --> 38:59.900
+kind of resonates with some of the ideas that we know from the work of Stafford P.
+
+38:59.900 --> 39:07.020
+And I would like to kind of make a link to that, because when it comes to examples for
+
+39:07.020 --> 39:12.460
+large-scale techno-political infrastructures from the left that have tried to provide alternatives
+
+39:12.460 --> 39:19.260
+to both capitalist market economies and hierarchical central planning, one particular historical
+
+39:19.260 --> 39:25.500
+experiment, of course, sticks out in different ways, and that is Project CyberSyn. You've worked
+
+39:25.500 --> 39:32.460
+on the topic extensively in different formats, among them a soon-to-be-released podcast series
+
+39:32.460 --> 39:39.260
+that I very much look forward to hearing. I guess many of the future history's listeners know about
+
+39:39.260 --> 39:45.660
+Project CyberSyn, but some might not. So could you for a start give us an overview of what Project
+
+39:45.660 --> 39:52.460
+CyberSyn is, and then go into how it is relevant for your thinking about alternatives today?
+
+39:52.460 --> 40:02.300
+It's a good question. I don't think, well, I mean, I'm going to disappoint you.
+
+40:02.300 --> 40:03.260
+What?
+
+40:03.260 --> 40:13.260
+So I don't think that Project CyberSyn itself is necessarily very relevant, because essentially,
+
+40:13.980 --> 40:19.500
+I mean, if you really want to be honest historically, you have to take it for what it was.
+
+40:19.500 --> 40:26.380
+And what it was, was a system that would allow a ministry, essentially, or a state-run
+
+40:26.380 --> 40:33.020
+state corporation to run a bunch of companies that were being nationalized in a way that would be
+
+40:33.020 --> 40:41.020
+scalable. So that's all it was. And it wasn't some great insight that we need to move from
+
+40:41.580 --> 40:48.460
+central planning to managerialism of the kind I was describing. It was just the circumstances
+
+40:48.460 --> 40:53.180
+were like that. They couldn't move to central planning, even if they wanted to, and they couldn't
+
+40:53.180 --> 40:57.900
+exit the market because of the political conjuncture on the ground in Chile. So they were stuck with
+
+40:57.900 --> 41:04.620
+these companies buying and selling things on the market, but being state companies that needed to
+
+41:04.620 --> 41:12.220
+be managed in a way that would soon involve the workers, and nobody really knew how exactly that
+
+41:12.220 --> 41:21.100
+would happen. So this is CyberSyn. This doesn't mean that the ideas circulating in that milieu
+
+41:23.740 --> 41:29.180
+don't have anything to recommend us. I think they do. Not necessarily ideas about cybernetics,
+
+41:29.180 --> 41:34.220
+but ideas about technological dependence and the way in which technology plays a
+
+41:34.220 --> 41:39.260
+certain role in geopolitical order. And this is actually the focus of my Morrison work,
+
+41:39.260 --> 41:48.060
+looking at Chile and, to some extent, Brazil of the 60s and 70s. But in Stafford Beer himself,
+
+41:49.180 --> 41:58.700
+there are many elements that are interesting and that I think can and should be integrated
+
+41:59.820 --> 42:06.940
+with a certain type of socialism. But it's a certain type of socialism that I think itself
+
+42:06.940 --> 42:14.140
+is in a minority position. And it's a socialism that really looks at
+
+42:16.940 --> 42:27.420
+complexity as a good thing. And it tries to embrace non-neoliberal complexity
+
+42:28.780 --> 42:35.580
+and live with it and profit from it. And I would say that people like Raymond Williams, for example,
+
+42:35.580 --> 42:41.260
+who is one of the people who has actually written about complexity in socialism and how socialists
+
+42:41.260 --> 42:50.460
+shouldn't system complexity, is somebody who could have had a very interesting engagement
+
+42:51.260 --> 42:55.900
+with cybernetics. And to some extent, he did. He was a theorist of communication and transport,
+
+42:55.900 --> 42:59.420
+in addition to being a socialist and transportation. Well, more communication, of course,
+
+42:59.420 --> 43:08.300
+much more than transportation and culture. But having studied Stafford Beer very closely,
+
+43:08.300 --> 43:13.020
+having spoken to many of his friends and colleagues and family and having spent a lot of time in his
+
+43:13.020 --> 43:23.020
+archives, I also don't want to overstate the case. He was a management theorist who mostly, by luck
+
+43:23.100 --> 43:29.340
+and misfortune, probably more than luck, and for him ended up working in Chile of Allende,
+
+43:30.060 --> 43:37.260
+and that changed his life. But it was not a conscious effort to think through for a decade
+
+43:37.260 --> 43:45.340
+of how do we rebuild socialism through cybernetics. That wasn't it. It doesn't mean that there weren't
+
+43:45.340 --> 43:50.460
+other people who have tried to think this question, and there have been some. But Stafford Beer is
+
+43:50.460 --> 43:58.140
+essentially a person who is a management theorist. And it doesn't mean that you cannot apply his
+
+43:58.140 --> 44:05.500
+management theory to other domains. And I think that's what happened in Chile. He had a fan club
+
+44:05.500 --> 44:09.900
+and they reached out to him. But even if they did not reach out to him, they would be pursuing
+
+44:09.900 --> 44:14.940
+his ideas in government there, I'm absolutely sure. So it's a body of thought that you can apply
+
+44:15.900 --> 44:19.740
+in domains that have nothing to do with corporations.
+
+44:21.100 --> 44:27.820
+And I think this is the part of cybernetics that remains relevant. And I was just reading
+
+44:27.820 --> 44:33.100
+a project management book the other day. I'm sorry, I'm reading really advanced project management
+
+44:33.100 --> 44:39.980
+books in search for some deeper truth. And they almost use the same language. They talk about
+
+44:39.980 --> 44:45.340
+variability and they need to control variability where Stafford Beer would be talking about
+
+44:45.340 --> 44:50.540
+variety reduction and things like that. So I think a lot of this man, they talk about buffering.
+
+44:50.540 --> 44:59.340
+I mean, it's all very cybernetic in its outlook. So from that end, I think for obvious reasons,
+
+44:59.340 --> 45:05.900
+the legacy of people like Stafford Beer lives on in the business world. Partly because,
+
+45:05.900 --> 45:10.460
+and this is where I think maybe I agree with what you said before, partly because
+
+45:12.780 --> 45:18.940
+socialist praxis of management and administration hasn't really flourished, even though there have
+
+45:18.940 --> 45:24.220
+been efforts. I don't know if you know what Stefano Harni was doing with Queen Mary University in
+
+45:24.220 --> 45:29.340
+London, maybe 10 or 15 years ago. There was an effort to actually take over a business school
+
+45:30.300 --> 45:37.100
+and reorient it towards leftist Italian autonomous principles. So this efforts have
+
+45:37.100 --> 45:40.940
+occurred. And sorry, maybe I shouldn't have seen you last Stefano Harni. I don't know if he'll now
+
+45:40.940 --> 45:47.260
+be hunted down somewhere if he's in Singapore or wherever he is. But essentially,
+
+45:49.820 --> 45:57.820
+yeah, the socialist praxis has not had a chance to learn from it in part because
+
+45:58.540 --> 46:05.500
+there has been a shortage of socialist regimes that would truly benefit from it.
+
+46:08.780 --> 46:14.700
+Because part of Beer's agenda, if you read those lectures carefully and if you read his books
+
+46:14.700 --> 46:20.380
+carefully, is of course, sorry, should I get controversial and start talking religion?
+
+46:20.380 --> 46:25.820
+It's almost like the principle of subsidiarity in Catholicism, where you could basically delegate
+
+46:25.820 --> 46:33.820
+and you want this individual social bodies and units of society to deal with their own problems
+
+46:33.820 --> 46:38.460
+as much as they can before you involve the church and the state, especially the state.
+
+46:40.620 --> 46:44.860
+Stafford moved between different religions and eventually he left all of them. But at some point,
+
+46:44.860 --> 46:51.020
+he was really profoundly Catholic. And I think it partly reflects how he ended up thinking about
+
+46:51.020 --> 46:55.340
+autonomy because for him, autonomy inside a company, it's that it's making sure that you
+
+46:55.340 --> 47:02.380
+have these units that are on their own and buying their own business and the higher ups intervene
+
+47:02.380 --> 47:09.500
+only when something goes wrong. And of course, it has all sorts of issues with it. And it's,
+
+47:09.500 --> 47:15.500
+one can say it is an appealing vision of how you can organize society in a kind of non-statist form.
+
+47:15.980 --> 47:23.180
+It's just that the kind of socialists that survived the onslaught of global capitalism against them
+
+47:23.180 --> 47:29.100
+in the last 30 or 40 years have not been decentralized, but rather if you look at China,
+
+47:29.100 --> 47:36.860
+they have been centralized. And one can as well argue that had Stafford's ideas in Chile about
+
+47:36.860 --> 47:44.060
+decentralization and autonomy been implemented faster and sooner, it would have crumbled even
+
+47:44.140 --> 47:48.620
+earlier than three years in the regime of Allende, in part because
+
+47:51.100 --> 47:57.100
+it would be very hard for such a regime to survive longer than it did without either
+
+47:57.100 --> 48:03.180
+mobilizing all the power that you have. And instead of talking about democracy, giving
+
+48:04.540 --> 48:09.820
+ordinary people arms, which would have led to a Guatemala-like civil war with
+
+48:09.820 --> 48:15.580
+hundreds of thousands of people dead, or you just forget about all the decentralization and
+
+48:15.580 --> 48:21.180
+autonomy altogether and you just have a China-style centralized regime and you don't have all the
+
+48:21.180 --> 48:26.220
+benefits of participatory democracy, but maybe you'll last longer than three years when you
+
+48:26.220 --> 48:33.580
+avoid the coup. So I think we have to be also a bit historically conscious and pragmatic about
+
+48:33.580 --> 48:39.180
+this question. But what does this then mean for the alternative that you are thinking about?
+
+48:39.180 --> 48:45.580
+Because both in terms of this relationship between center and centralized and decentralized
+
+48:45.580 --> 48:54.780
+elements, as well as with regard to the real challenge of not getting crushed,
+
+48:55.500 --> 49:00.860
+as you just described it. So what does this mean for the project that you're imagining?
+
+49:01.980 --> 49:06.620
+Sure. But I think I made it clear in my initial remarks that the kind of project and vision would
+
+49:06.620 --> 49:13.340
+require, for it to survive, it would require still a much more centralized, central entity
+
+49:13.340 --> 49:19.580
+with a very robust science and technology policy, with a very robust intelligence network, with a
+
+49:19.580 --> 49:27.500
+very robust geopolitical outlook, alliances and so forth, to survive in order to pursue those reforms
+
+49:27.500 --> 49:35.020
+and to pursue this project. About that, I have zero doubt I have about that. Still, I do think
+
+49:35.020 --> 49:41.020
+that this utopian vision does need to be communicated and put at the center of the discussion,
+
+49:41.020 --> 49:49.820
+because ultimately, I don't think that you can win over the population, at least in Western Europe
+
+49:49.820 --> 49:58.620
+and North America, and some parts of Latin America, maybe, with the old socialist ideas,
+
+49:58.620 --> 50:06.140
+and all socialists are kind of imaginary. And without having those people on your side,
+
+50:06.140 --> 50:11.980
+your project will crumble even sooner. I don't think that that necessarily is the case
+
+50:11.980 --> 50:18.540
+when you talk about countries that we used to refer to as developing or the Global South,
+
+50:18.540 --> 50:23.900
+where I do still think that there are still important tasks to be done with regards to
+
+50:23.900 --> 50:29.100
+industrialization and with regards to essentially making sure that they avoid all the traps of
+
+50:29.100 --> 50:41.500
+underdevelopment, and where traditional 20th century socialist rhetoric is not just working,
+
+50:41.500 --> 50:48.140
+but probably is what they need before they can move to this more, if you want to use a
+
+50:48.620 --> 50:52.940
+fancy word, post-industrial kind of imaginary I'm toying with.
+
+50:54.220 --> 51:00.540
+So, do you think about this question of transition in more concrete terms? Like,
+
+51:00.540 --> 51:07.180
+what are the elements of power that one needs to think about in order to bring this about?
+
+51:07.180 --> 51:10.620
+So, is this something that you think about?
+
+51:11.100 --> 51:18.460
+I mean, we can't think about it. I'm just not sure it's of any use.
+
+51:18.460 --> 51:19.260
+Oh, really?
+
+51:19.260 --> 51:28.540
+At this point, the question is, you either try to convince the old agents of the left,
+
+51:29.740 --> 51:35.020
+social democratic parties, trade unions, socialist parties, that this is an agenda
+
+51:35.020 --> 51:40.700
+worth engaging with, or you just start a somewhat different movement and you try to,
+
+51:42.140 --> 51:45.820
+I mean, we haven't even touched upon the question of class and what kind of class
+
+51:45.820 --> 51:51.980
+relations emerge from this outlook. And there is a can of worms right there.
+
+51:52.780 --> 51:58.140
+But thinking about the question of transition to me is premature, because I'm just not sure
+
+51:58.700 --> 52:05.180
+that the political agent capable of even initiating that transition is there.
+
+52:05.180 --> 52:10.460
+And I'm not sure that the current coalition, if you will, that still represents the mainstream
+
+52:10.460 --> 52:20.060
+left, wants to take this on for all sorts of reasons. It's just not obvious how you're going
+
+52:20.060 --> 52:25.980
+to win elections with this program. A lot of things. I mean, I think that framed properly,
+
+52:25.980 --> 52:37.660
+you can. And to me, the number one factor is that capitalism for all its markets,
+
+52:37.660 --> 52:41.340
+you know, however you want to frame it, but let's talk about capitalism. Capitalism for
+
+52:41.340 --> 52:47.820
+all of the things that neoliberals say about its ability to coordinate information,
+
+52:48.780 --> 52:55.740
+promote social coordination, discover new, facilitate becoming, it still does,
+
+52:56.460 --> 53:04.780
+it still exercises so much power about alternative ways of doing things, of engaging with the world
+
+53:04.780 --> 53:11.100
+and each other on ways that are not mediated by the market, of accessing knowledge that gets
+
+53:11.100 --> 53:16.380
+suppressed and underdeveloped because somebody moves into that domain and grabs all the property
+
+53:16.700 --> 53:22.060
+rights, intellectual property rights, and doesn't allow others to get in. I mean, the costs of
+
+53:22.060 --> 53:27.820
+living under capitalism are much bigger than we think they are just in terms of kind of
+
+53:29.580 --> 53:37.100
+imaginative power that we are losing by relying on it to be the central infrastructure of modernity,
+
+53:37.100 --> 53:45.740
+if you will. And it would have been fine. We could live under this yoke forever, but we also have a
+
+53:45.740 --> 53:51.180
+climate problem. And ultimately, if it don't solve that one, everybody's going to die. And
+
+53:51.180 --> 53:59.580
+just very simple. And to me, that seems like the argument as to why anybody in their right mind
+
+54:00.140 --> 54:06.780
+should be lining up for a political project that would remove that yoke and not just remove it
+
+54:06.780 --> 54:13.260
+and replace it with nothing, but will actually target the very area where capitalism is weakest,
+
+54:13.260 --> 54:18.380
+which I think is innovation. So in that sense, I do think that the main problem with capitalism is
+
+54:18.380 --> 54:25.500
+that it forces society to under innovate, which in a sense is what Marx said of it in his critique.
+
+54:26.380 --> 54:30.940
+The point was not that it's bad. It's that it innovates, but then it reaches a certain point
+
+54:30.940 --> 54:35.660
+at which point class relations block it from innovating further and they're kind of stuck.
+
+54:36.460 --> 54:40.860
+So you don't have to say that Marxist was an accelerationist. That was the whole point of
+
+54:40.860 --> 54:48.220
+Marxist critique of capitalism as a modern system. And I think back in those days,
+
+54:49.180 --> 54:55.660
+it seemed that the only thing we were losing was just maybe fancy and better technologies
+
+54:55.660 --> 55:00.540
+or more efficient ways of organization. But now we're losing our future because
+
+55:00.540 --> 55:08.380
+we're just going to die in the climate catastrophe. And if we don't move, then it will come faster.
+
+55:08.380 --> 55:12.460
+So in that sense, you may start making new political arguments
+
+55:13.420 --> 55:19.740
+that will somehow bring themes of knowledge, innovation, climate change, catastrophe,
+
+55:19.740 --> 55:27.100
+all in one place. But I just don't see... So let's leave aside the hardcore left,
+
+55:27.100 --> 55:31.900
+focus on the social Democrats. Social Democrats accept the mainstream neoliberal story about the
+
+55:31.900 --> 55:37.180
+markets being good for knowledge and that they are the perfect systems for knowledge coordination
+
+55:37.180 --> 55:44.460
+and they are perfect system for essentially making use of all the knowledge that's distributed
+
+55:44.460 --> 55:50.140
+in society, to use one of Hayek's phrases. And it's just false. So for them to accept the story
+
+55:50.140 --> 55:55.340
+I'm advancing, they'll just need to do some work on themselves and essentially understand that they've
+
+55:55.340 --> 56:02.940
+made some mistakes. And then there is a space and a way to think about these questions without having
+
+56:02.940 --> 56:10.460
+to say, no, we are with Stalin and with centralized central planning of the Soviet Union. And until
+
+56:10.460 --> 56:14.300
+they do that, I don't think we should even be talking about transition.
+
+56:15.660 --> 56:21.340
+It's so interesting to me that you put this aspect of discovery so much at center stage,
+
+56:21.340 --> 56:29.020
+because my intuition would be that what you already pointed towards like the ecological question,
+
+56:29.020 --> 56:37.260
+as well as the question of existential security, those are the ones that are, in my view,
+
+56:37.260 --> 56:44.860
+much more important for a broader public. You could easily argue for a discovery through
+
+56:44.860 --> 56:51.500
+existential security, since if you simply bring people into the position where they do not have to
+
+56:52.060 --> 56:59.660
+hustle the whole day in order just to get through, then there's a huge potential of
+
+57:00.620 --> 57:03.420
+creativity, so to speak, that would be set free.
+
+57:05.980 --> 57:09.660
+But intellectually, I understand what you're saying. And a lot of people have made that
+
+57:09.660 --> 57:15.900
+case with regards to the welfare state. But I just think that intellectually,
+
+57:16.620 --> 57:21.660
+I mean, look, it's a much bigger battle than a battle between sort of neoliberalism and
+
+57:21.660 --> 57:26.620
+whatever succeeds the people who win the socialist calculation debate. Essentially, it's a question,
+
+57:26.620 --> 57:32.380
+it's a debate about action. You have a theory of action underpinning, I would argue,
+
+57:32.380 --> 57:39.820
+both neoclassical economics and Austrian economics, to some extent, and much of social science,
+
+57:39.820 --> 57:46.300
+to some extent, and much of social science, things like rational choice, which is a very
+
+57:46.300 --> 57:52.860
+simplistic theory of action. And, you know, it starts with Weber, who partly borrows it from
+
+57:52.860 --> 57:58.300
+Menger and a bunch of other economists of the first generation Austrian school. And it goes
+
+57:58.300 --> 58:03.820
+something like this, you know, we're all rational, we have goals, then we find the most rational ways
+
+58:03.820 --> 58:11.500
+of fulfilling them. And then that's it. And if we find a more efficient way of fulfilling them,
+
+58:11.500 --> 58:17.580
+then this is innovation. And the person who does that is an entrepreneur. And what it is
+
+58:17.580 --> 58:24.940
+to be an entrepreneur is to be always on the lookout for the more efficient means of pursuing
+
+58:24.940 --> 58:30.780
+given ends. And that's a theory of action that I would argue, and I'm not the only one making
+
+58:30.780 --> 58:37.180
+that case, underpins most of the theories of socialism in the actual praxis in the Soviet
+
+58:37.180 --> 58:42.300
+Union and elsewhere. So, you know, Lange and everybody else, that's how they also think about
+
+58:42.300 --> 58:47.740
+action. But this is wrong. I mean, this is wrong, because it doesn't account for people changing
+
+58:47.740 --> 58:53.660
+goals along the way. And it doesn't account for much of the stuff that happens in everyday life.
+
+58:53.660 --> 58:58.460
+I start doing something, I do it, then I understand I need to do something else. And I do it differently.
+
+58:58.460 --> 59:02.460
+Then I realize it's all wrong, I need to do something else entirely. This is what human
+
+59:02.460 --> 59:08.540
+action is like. And unless you build a political system that accounts for it, you're going to end
+
+59:08.540 --> 59:14.460
+up wasting 90% of human potential and human creativity, what really makes us humans as opposed
+
+59:14.460 --> 59:21.900
+to automatons and algorithms. Because our social system is not optimized to take advantage of the
+
+59:21.900 --> 59:28.140
+sparks of creativity that really drive us and that make us human. And the only way that our
+
+59:28.140 --> 59:34.860
+system currently is optimized to do that is by channeling our desires and incentives into the
+
+59:34.860 --> 59:40.220
+price system. So if I really understand that there is something cool to be done and creative, yes,
+
+59:40.220 --> 59:44.700
+and I want to share it with others. The only way to do that for me is to become an entrepreneur,
+
+59:44.700 --> 59:50.860
+start a startup, seek money and put it on the market. And all I'm saying is that if we were
+
+59:50.860 --> 59:56.220
+to build an alternative system that would actually account for how humans really are,
+
+59:56.220 --> 01:00:00.540
+it would require very different theories of action, maybe informed by pragmatism,
+
+01:00:00.540 --> 01:00:06.460
+maybe informed by something else. There are tons of, not tons, but some alternatives out there,
+
+01:00:06.460 --> 01:00:13.420
+abduction. I mean, you can account for all sorts of things, which mainstream economic and social
+
+01:00:13.420 --> 01:00:20.140
+theory cannot account for. Once you build an appropriate social system for that, then I think
+
+01:00:21.100 --> 01:00:27.500
+the effects and the benefits you're going to harvest will go far beyond what you get by
+
+01:00:27.500 --> 01:00:32.620
+currently making sure that artists have universal basic income or the welfare state is generous and
+
+01:00:32.620 --> 01:00:40.620
+our funds arts. That's what I'm talking about. And in that sense, I don't think we are there.
+
+01:00:40.620 --> 01:00:44.140
+And I don't think that people on the left are even interested in this question. And I think they
+
+01:00:44.300 --> 01:00:50.620
+completely... Yeah, well, I don't know. You disagree? Tell me. Maybe there are some underground
+
+01:00:51.580 --> 01:00:57.020
+circles that I'm not aware of. Well, I mean, I think that people are interested in so far as
+
+01:00:57.020 --> 01:01:03.340
+I think there's a similarity of the way that you pose the problem to a certain kind of
+
+01:01:04.780 --> 01:01:11.740
+not disappointment, but yeah, maybe it is a form of disappointment how the debate around
+
+01:01:11.740 --> 01:01:17.100
+democratic economic planning is currently framed. Because in my view, at least, even though I'm very
+
+01:01:17.100 --> 01:01:23.180
+much interested in the debate, obviously, I do think that it's a far too narrow scope that is
+
+01:01:23.180 --> 01:01:29.660
+being talked about within this debate. And in so far, I think there is an interest in going beyond
+
+01:01:29.660 --> 01:01:39.100
+this like fixation on markets as information processes, which is a scope that is not big
+
+01:01:39.100 --> 01:01:44.540
+enough. And the way that I try to approach this is through this lens of alternative arts of
+
+01:01:44.540 --> 01:01:52.780
+government, which is a way for me to ask different questions towards this complex of problems.
+
+01:01:52.780 --> 01:01:59.500
+And for me, for example, this leads to questions of markets as sites of veridiction and production
+
+01:01:59.500 --> 01:02:06.540
+of truth and stuff like that. And then you come to different, as I said, a different set of questions
+
+01:02:06.540 --> 01:02:13.420
+and a different set of problems that we need to kind of engage with and bring up alternative
+
+01:02:14.060 --> 01:02:20.060
+ways to approach it. So I would say there is an interest in thinking about these things in
+
+01:02:20.060 --> 01:02:26.380
+different ways. I think I do have maybe a different timetable in terms of I would say the first thing
+
+01:02:26.380 --> 01:02:33.020
+would be to provide some form of universal basic service and existential security.
+
+01:02:33.020 --> 01:02:40.540
+And then on top of that, we should build these different kind of infrastructures of discovery,
+
+01:02:40.540 --> 01:02:47.820
+so to speak, because I think that they can only be harnessed if the material basis is given for the
+
+01:02:47.820 --> 01:02:53.740
+people who have to have basically time in order to engage with it. And so this is a different
+
+01:02:54.300 --> 01:03:01.020
+kind of timeline. But I mean, it's not just the timeline. I mean, look, I fundamentally think
+
+01:03:01.580 --> 01:03:08.380
+that social theory accepted in mainstream leftist circles is broken.
+
+01:03:10.700 --> 01:03:14.860
+And it just is. And it's broken because the theory of action underpinning it is broken.
+
+01:03:15.420 --> 01:03:21.580
+And unless you fix it, you're not going to have a robust theory that will be able to speak about
+
+01:03:21.580 --> 01:03:27.020
+modernity, industrialization, postmodernism, whatever you want. You may say none of it is
+
+01:03:27.020 --> 01:03:32.300
+relevant. We just want to make sure that people have tramps and enough food to eat.
+
+01:03:32.860 --> 01:03:37.340
+And that's fine. That's a fun perspective to take. It's not either or. I just don't think,
+
+01:03:38.300 --> 01:03:45.180
+well, sure, it's not either. Yeah, but if it's not neither or, then you're asking for the kind of
+
+01:03:45.180 --> 01:03:50.540
+low-hanging fruit. I mean, who is going to argue on the left against universal basic services
+
+01:03:50.540 --> 01:03:57.900
+or universal basic income, like continue to constitute it in a kind of way that will be
+
+01:03:57.900 --> 01:04:06.700
+welfare state enhancing as opposed to libertarian Friedmanesque. So I see it as a default. To me,
+
+01:04:06.700 --> 01:04:12.780
+that's not even an issue, to be honest. To me, the issue is that even if you engage with the
+
+01:04:12.780 --> 01:04:20.300
+German-speaking world and you take somebody like Jurgen Habermas, he is the reference point
+
+01:04:20.300 --> 01:04:28.140
+for German social democracy, whether you want it or not. Habermas does have a theory of action.
+
+01:04:28.140 --> 01:04:31.660
+And the theory of action is very simple. The theory of action tells you the world is getting
+
+01:04:31.660 --> 01:04:36.940
+more and more complex. In that sense, he agrees with Hayek and Luhman. And he tells you the only
+
+01:04:36.940 --> 01:04:43.340
+way to reduce that complexity is by relying on markets and by relying on law, so money and legal
+
+01:04:43.340 --> 01:04:49.020
+system. There is nothing else. And then all you can do is to eventually and sometimes push back
+
+01:04:49.020 --> 01:04:53.820
+against the encroachments of all that complexity on the life world. And you do that through
+
+01:04:53.820 --> 01:05:00.140
+traditional liberal institutions and the media. And that's a story accepted by and large by social
+
+01:05:00.140 --> 01:05:06.940
+democracy. Now, is that story true? I would argue that story is not true for one simple reason,
+
+01:05:06.940 --> 01:05:12.940
+because he's missing the most important mechanism of social coordination and reducing complexity,
+
+01:05:12.940 --> 01:05:18.460
+which is information technology. And that you don't need to rely on
+
+01:05:19.580 --> 01:05:25.180
+money and you don't need to rely on law. You can actually reduce complexity. And once you understand
+
+01:05:25.180 --> 01:05:30.380
+that, then you understand that all sorts of other things become possible. You don't really need to
+
+01:05:30.380 --> 01:05:35.660
+buy all of the bourgeois liberal political institutions we inherited from the French
+
+01:05:35.660 --> 01:05:41.740
+Revolution whole scale, because you can have people organizing and still having all the
+
+01:05:41.740 --> 01:05:46.540
+complexity that you want and all of the rights that they want, but doing it outside of the
+
+01:05:46.540 --> 01:05:52.860
+traditional money system with banks and legal system with laws and bureaucracies. And I think
+
+01:05:52.860 --> 01:05:59.900
+that unless, and that's just one example. So unless you go and piece by piece understand
+
+01:05:59.900 --> 01:06:07.180
+what are the blocks, mental blocks and intellectual blocks, we're going to end up reusing and recycling
+
+01:06:07.180 --> 01:06:13.660
+neoliberalism. Because to some extent for when it comes to non-communicative action in Habermas,
+
+01:06:13.660 --> 01:06:19.100
+that's what he does. He takes Hayek and he basically says, yeah, life is getting more complex.
+
+01:06:19.740 --> 01:06:24.140
+But what I mean by recycling neoliberalism is something very simple. The only way you account
+
+01:06:24.140 --> 01:06:30.700
+for these creative sparks of action that I was describing 10 minutes or five minutes before
+
+01:06:31.420 --> 01:06:35.260
+in mainstream debate is through the concept of entrepreneurship.
+
+01:06:36.380 --> 01:06:40.220
+And now you have to invent all sorts of entrepreneurship. We have moral entrepreneurship,
+
+01:06:40.220 --> 01:06:45.420
+ideas entrepreneurship, cultural entrepreneurship, religious, everything is entrepreneurship now,
+
+01:06:45.420 --> 01:06:53.260
+because we have no way to account for truly new creative non-teleological behavior
+
+01:06:53.260 --> 01:06:57.020
+in domains that are not the market. So we think everything is like the market. So we're going to
+
+01:06:57.020 --> 01:07:01.980
+take the Austrian concept of entrepreneurship from it and insert it everywhere else in social
+
+01:07:01.980 --> 01:07:07.500
+theory and how the world operates. And I think it's just dumb. And that will continue spreading
+
+01:07:07.500 --> 01:07:13.660
+unless somebody stands up and says, look, you're basically working with the wrong concept because
+
+01:07:14.460 --> 01:07:19.100
+the Austrian concept of entrepreneurship doesn't even describe entrepreneurship itself,
+
+01:07:19.100 --> 01:07:23.100
+because it cannot tell you about entrepreneurs that suddenly decide to, I don't know,
+
+01:07:23.580 --> 01:07:28.380
+switch from for-profit to non-profit status, pursue social entrepreneurship or completely
+
+01:07:28.380 --> 01:07:32.540
+change their goals or completely reinvent themselves. You're still tied to the idea
+
+01:07:32.540 --> 01:07:37.900
+that these people need to make something and that they're imprisoned by the price system.
+
+01:07:37.900 --> 01:07:41.500
+And the only innovations they can introduce is in the techniques of production,
+
+01:07:42.940 --> 01:07:46.940
+which is how traditionally they think. So you can switch to a better technology. You can invent
+
+01:07:46.940 --> 01:07:51.340
+something or you can invent a new product that will be even better than your previous product.
+
+01:07:51.340 --> 01:08:01.180
+So all I'm saying is that I think it's not either or and that I agree with you, but I do think that
+
+01:08:01.180 --> 01:08:08.780
+without completely rebuilding social theory block by block to account for complex behavior,
+
+01:08:08.780 --> 01:08:14.460
+to account for complex behavior, that's not just Santa Fe Institute like complexity theory,
+
+01:08:15.180 --> 01:08:19.660
+whose whole purpose and there is own debtor, as far as I'm concerned, is to show you that
+
+01:08:20.540 --> 01:08:27.100
+the state can never be as good as the market and kicking off economic processes,
+
+01:08:27.100 --> 01:08:34.700
+like we need a different complexity. We need a non-neoliberal complexity favorable to the core
+
+01:08:34.700 --> 01:08:41.260
+leftist ideals and ideas. And some of those ideas have to do with a diversity of lifestyle
+
+01:08:41.260 --> 01:08:48.220
+and diversity of life forms producing fantastic social effects that will be disruptive, progressive,
+
+01:08:48.220 --> 01:08:52.620
+and it will move society forward. The kind of effects that we currently attribute to the market.
+
+01:08:53.740 --> 01:09:00.780
+And now you mentioned again that one of the tools that we definitely need to use that is
+
+01:09:00.780 --> 01:09:07.580
+in our toolbox, but is not yet utilized in order to bring this alternatives about our digital
+
+01:09:07.580 --> 01:09:15.260
+technologies. Can you sketch in a bit more concrete terms how specifically digital technologies can be
+
+01:09:15.260 --> 01:09:24.940
+of use in this task? Yeah, but again, you will find it very banal. And that's all right. No,
+
+01:09:24.940 --> 01:09:30.300
+no, no, but I just don't think that it's look, I'm the kind of guy who 10 years ago was putting the
+
+01:09:30.300 --> 01:09:35.180
+word internet and scare quotes. And that's how I put it in my book to save everything click here,
+
+01:09:35.180 --> 01:09:40.300
+because I didn't think that there was such a thing and that it needed to be talked about and be
+
+01:09:40.300 --> 01:09:47.260
+ascribed all sorts of essential qualities as if it was, I don't know, something that is born with
+
+01:09:47.260 --> 01:09:53.180
+this features and characteristics. So in that sense, if one community will be happy to use
+
+01:09:53.180 --> 01:10:01.660
+abacus and a timetable, and another one would want an AI, I mean, great. Like it's not up for me to
+
+01:10:01.660 --> 01:10:07.900
+like all I think all we can do as critical intellectuals is to look at the current tech
+
+01:10:07.900 --> 01:10:16.060
+landscape and to see which parts of it make such a project unlikely or not favorable, right, both
+
+01:10:16.060 --> 01:10:21.580
+in terms of use, because you can say that, okay, this technologies are easy to spy on, they allow
+
+01:10:21.580 --> 01:10:28.300
+surveillance, they, they require people to pay for them with their data with money. So you can make a
+
+01:10:28.300 --> 01:10:36.940
+critique based on use and praxis, so to say, or you can make a critique based on what the non state
+
+01:10:36.940 --> 01:10:43.260
+ownership of this infrastructures in the current economic conjuncture means geopolitically,
+
+01:10:43.980 --> 01:10:51.020
+because you want your basic communication, education, health care, transportation,
+
+01:10:51.660 --> 01:10:57.420
+to be somehow run in a democratic way, where the policy decides on how to offer it, how to structure
+
+01:10:57.420 --> 01:11:03.500
+it, how to reform it, which you would not be able to do if you integrate volunteer into your,
+
+01:11:04.140 --> 01:11:08.460
+you know, health data, and you will not be able then to kick them back for all sorts of other
+
+01:11:08.460 --> 01:11:13.020
+reasons, contractually and infrastructurally, right, so that this is a different side of this
+
+01:11:13.020 --> 01:11:17.500
+is a different critique. There has nothing to do with praxis, because you can even buy into it and
+
+01:11:17.500 --> 01:11:23.260
+say that Google offers you a fantastic tool, like a Google Calendar, great, we'll never invent
+
+01:11:23.260 --> 01:11:29.740
+something better. You can even accept that argument on the level of use and praxis, but you can then
+
+01:11:29.740 --> 01:11:35.180
+strike it down and strike it out based on the geopolitical meaning of delegating so much power
+
+01:11:35.180 --> 01:11:42.140
+to a foreign company that you cannot control. So see, I think that these are the criteria
+
+01:11:42.140 --> 01:11:49.020
+through which this has to be thought through. But beyond that, I just think you will end up
+
+01:11:49.020 --> 01:11:54.380
+at a level of generality that will tell you that yes, overall, it's better to have infrastructures
+
+01:11:54.380 --> 01:12:00.860
+that are generative. So you can build on them in an easier way than infrastructures that aren't
+
+01:12:00.860 --> 01:12:05.500
+and that are closed. This is the truth we've learned in the last 50 or 60 years. Is it always
+
+01:12:05.500 --> 01:12:10.220
+the case? No, because there are tradeoffs. And some of those tradeoffs may have to do with security,
+
+01:12:10.220 --> 01:12:16.220
+with the fact that you just don't have access to technologies because somebody is not selling them
+
+01:12:16.220 --> 01:12:22.780
+to you, which now is happening in China with microchips. And this is a constraint. And then
+
+01:12:23.740 --> 01:12:28.380
+you have to live with that constraint. So I don't really think that you can arrive at a
+
+01:12:29.900 --> 01:12:33.820
+beyond that, I don't think you can arrive at a set of more specific, at least I cannot,
+
+01:12:33.820 --> 01:12:39.100
+at a set of more specific normative criteria that you want to have in this tech infrastructure.
+
+01:12:40.540 --> 01:12:44.300
+Because ultimately, it has to be secondary to a political project. And unless you have
+
+01:12:44.300 --> 01:12:47.740
+a political project, this infrastructure is not going to help.
+
+01:12:47.740 --> 01:12:54.940
+Yeah, absolutely. And I'm actually very much looking forward to the way in which you will
+
+01:12:54.940 --> 01:13:01.100
+hopefully lay out these ideas in your in your book at some point. Do you know when this will be ready?
+
+01:13:03.340 --> 01:13:05.820
+Good question. You're not the only one asking me this question.
+
+01:13:07.580 --> 01:13:12.540
+So now after two years, I'm almost done with this podcast on letter America. So I'm getting
+
+01:13:12.540 --> 01:13:17.820
+back to the book. I think that the podcast has helped me a lot to sharpen
+
+01:13:19.900 --> 01:13:26.540
+some of my points, particularly with regards to this managerial angle simulations modeling,
+
+01:13:27.260 --> 01:13:30.460
+and the role that they can play in alternative leftist project on paradigm.
+
+01:13:31.100 --> 01:13:39.180
+So my hope is to finally finish this book this summer. And if all goes well should be out next
+
+01:13:39.180 --> 01:13:45.580
+year. Nice. Very much looking forward. Did it bring you the podcast project? Did it bring you
+
+01:13:45.580 --> 01:13:54.300
+forward in terms of thinking about the political project as well? Yes and no. I mean, it was a
+
+01:13:54.300 --> 01:14:03.580
+project very much focused on Latin America and the Caribbean. So in the 60s and 1970s. And
+
+01:14:04.540 --> 01:14:10.300
+so it's a very different time with the Cold War and multinational corporations and spy agencies.
+
+01:14:11.340 --> 01:14:22.620
+So it did in a sense that you see, you see how a lot of the challenges and problems that a country
+
+01:14:22.620 --> 01:14:27.260
+like China is going through right now, for example, when it comes to technological sovereignty and
+
+01:14:27.500 --> 01:14:35.260
+its desire to break from the technological dependence on Western Europe and North America,
+
+01:14:36.060 --> 01:14:43.420
+how these debates already were had in the 60s and 70s and how in a sense,
+
+01:14:44.140 --> 01:14:50.060
+China is doing what some Latin American countries in the end impact, for example,
+
+01:14:50.060 --> 01:14:57.340
+where Chile and Peru were members in Ecuador, I think, that they tried to do in the late 1960s,
+
+01:14:57.340 --> 01:15:06.220
+early 1970s. So in a sense, yes, I don't think maybe you can apply some of those lessons to Europe
+
+01:15:06.860 --> 01:15:14.620
+too, in a sense. But I think to me, there is really no possibility of a political project
+
+01:15:14.620 --> 01:15:22.940
+without a geopolitical project. So I think, if you will, the condition of possibility for the
+
+01:15:22.940 --> 01:15:28.460
+kind of progressive political project that all of us are hoping for as a certain geopolitical
+
+01:15:28.460 --> 01:15:36.780
+situation and a certain geopolitical outlook. And I don't think that we should ignore that,
+
+01:15:36.860 --> 01:15:45.340
+that it would require a more bolder stance vis-a-vis the United States, possibly,
+
+01:15:45.340 --> 01:15:52.780
+or at least vis-a-vis Wall Street and Silicon Valley and others. And yeah, I just don't think
+
+01:15:52.780 --> 01:16:01.500
+that you can have harmony while at the same time pursuing some kind of an agenda that would replace
+
+01:16:01.500 --> 01:16:09.260
+their tack with European tack. I don't think it will be easy. And as long as it's realized, then
+
+01:16:09.260 --> 01:16:17.500
+it's fine. Very much looking forward to this book, I have to say. Evgeny, at the end, I always ask
+
+01:16:17.500 --> 01:16:25.900
+the question, if you think about the future, what makes you joyful? Yeah, I've listened to a podcast,
+
+01:16:25.900 --> 01:16:38.220
+I should have prepared for this question. What makes me joyful? I mean, ultimately, I think that
+
+01:16:38.220 --> 01:16:55.660
+there are, how should I put it? Yeah, I know, I don't really know. So nothing makes me joyful
+
+01:16:55.660 --> 01:17:02.380
+in the very specific sense, because I think optimism is the kind of luxury that we cannot
+
+01:17:02.380 --> 01:17:12.060
+really afford at this point. But let me think about it some more. Well, I mean, I don't want to sound
+
+01:17:12.060 --> 01:17:18.300
+like one of those accelerationist guys and celebrating the power of technology to solve
+
+01:17:18.300 --> 01:17:25.820
+all these questions. But I do think that if there is a silver lining, yeah, that's the right term,
+
+01:17:25.820 --> 01:17:33.020
+silver lining, to the kind of rise of big tack in the last 10, well, in the last 15 or 20 years,
+
+01:17:34.300 --> 01:17:45.420
+it's that it showed us that so much social coordination is possible in a completely
+
+01:17:45.420 --> 01:17:50.940
+non-market way. And we have not realized that yet. I mean, if you think about all the tools,
+
+01:17:50.940 --> 01:17:56.300
+all the apps, that all these people in Silicon Valley and elsewhere obsessed with productivity,
+
+01:17:56.300 --> 01:18:01.420
+with collaboration and coordination are using. I mean, yes, you might be paying something for them.
+
+01:18:02.140 --> 01:18:06.860
+But what they probably don't realize is that ultimately, they're not coordinating through
+
+01:18:06.860 --> 01:18:11.820
+the price system. I mean, they're using the price system to get access to a non-market system of
+
+01:18:11.820 --> 01:18:18.220
+coordination. And Silicon Valley has consistently showing us that collaboration and coordination
+
+01:18:18.940 --> 01:18:23.980
+happens outside of the market. And with enough money being poured into it,
+
+01:18:23.980 --> 01:18:29.900
+it can become even deeper and better and faster and more efficient. And in that sense,
+
+01:18:32.060 --> 01:18:38.300
+that is the best argument against relying on the market to facilitate social coordination
+
+01:18:38.300 --> 01:18:44.460
+a la Hayek that we have seen. And that does make me optimistic, but that requires
+
+01:18:45.420 --> 01:18:50.540
+somebody to see. And if a tree falls in the forest, then there is nobody to see it.
+
+01:18:51.180 --> 01:18:59.340
+So if people will be able to see that element of it, great. But I think right now, the only
+
+01:18:59.340 --> 01:19:04.220
+thing we have seen in this phenomenon, by and large in the public debate, is the opposite,
+
+01:19:04.220 --> 01:19:11.900
+is the idea that the market is so much better than the non-market building these cool things.
+
+01:19:11.900 --> 01:19:19.580
+And to some extent, I mean, it's not true, but they have built them. But that's not the point.
+
+01:19:20.300 --> 01:19:23.820
+The point is what these things allow us to do and what they allow us to do is to completely
+
+01:19:23.820 --> 01:19:30.300
+bypass the market when it comes to coordinating. And as long as you understand that, then you're
+
+01:19:30.380 --> 01:19:36.220
+fired. That's so interesting that you frame it this way now at the end again, because I think
+
+01:19:36.220 --> 01:19:44.140
+that, I mean, leaving aside the too narrow focus within the debate, at least this point that you
+
+01:19:44.140 --> 01:19:51.420
+just stated, I think this is absolutely part of the like revived planning debate, that there is
+
+01:19:51.420 --> 01:19:59.340
+potential in these types of non-market coordination, at least in future histories. This features
+
+01:20:00.700 --> 01:20:06.540
+definitely features in future histories, I would say, no? The fact that these technologies do
+
+01:20:06.540 --> 01:20:12.140
+provide some form of alternative coordination. Sure, sure, sure. But the question, I think this
+
+01:20:12.140 --> 01:20:18.380
+is Jan, gets us to the heart of it. The question then becomes, what do you need this coordination
+
+01:20:18.380 --> 01:20:26.300
+for? And I think that this is a philosophical question. And for a lot of people, including,
+
+01:20:26.540 --> 01:20:31.500
+I would say most of the people involved in the democratic planning debate, this coordination
+
+01:20:31.500 --> 01:20:36.300
+is just a way of fulfilling the need to distribute and allocate goods
+
+01:20:39.500 --> 01:20:44.220
+by and large, because this is the primary focus, right? They're not really stepping into the world
+
+01:20:44.220 --> 01:20:49.900
+of discovery, becoming creativity and so forth. Because ultimately, it's almost like they operate
+
+01:20:49.900 --> 01:20:54.460
+with a Maslow pyramid of some kind, right? And this is what, for many people, that's what,
+
+01:20:55.020 --> 01:20:59.820
+Marx operates with it to some extent, too. So if you look at this kind of the distinction,
+
+01:20:59.820 --> 01:21:03.660
+and I mentioned it in some of my talks, you heard that the distinction in the realm of necessity,
+
+01:21:05.580 --> 01:21:09.020
+what is it? The realm of necessity and the realm of freedom, right? Ultimately,
+
+01:21:11.260 --> 01:21:18.220
+even if you want to be 100% just to Marx, you have to acknowledge that he put a lot of effort
+
+01:21:18.220 --> 01:21:25.020
+into thinking about the realm of necessity and not enough into thinking about the realm of freedom,
+
+01:21:26.540 --> 01:21:34.380
+right? And in a sense, because maybe it was too far into the future. Maybe it's because it's all,
+
+01:21:34.380 --> 01:21:39.260
+maybe it would just have some kind of a liberal, I'm not saying that's what Marx wrote, but that's
+
+01:21:39.260 --> 01:21:44.460
+one possible interpretation. Maybe we'll have some kind of a liberal interpretation of everybody to
+
+01:21:44.460 --> 01:21:49.180
+their own devices. And as long as we coordinate production in the workshop in a democratic way,
+
+01:21:49.820 --> 01:21:54.780
+what you do when you hunt and drink wine and write poetry in the afternoon,
+
+01:21:54.780 --> 01:21:59.260
+like it doesn't matter. So we shouldn't think about it. And I think that's a mistake. So if
+
+01:21:59.260 --> 01:22:03.340
+there is like one big message, I'd like to leave you with is that I think it's a mistake because
+
+01:22:03.340 --> 01:22:10.300
+in a sense, the neoliberals understood that it's that element that accounts for the most exciting
+
+01:22:10.300 --> 01:22:16.780
+parts of modernity. So this is the stuff that really gets people excited about technology,
+
+01:22:16.780 --> 01:22:21.820
+cities, urbanization, modernization. It's that part. It's not the satisfaction of basic needs.
+
+01:22:21.820 --> 01:22:25.660
+And they argue that the market is key to satisfying it. So this is one reason why I
+
+01:22:25.660 --> 01:22:31.180
+think the lab should engage with planning in the realm of freedom more than it has.
+
+01:22:31.980 --> 01:22:38.700
+And the second reason is that I do think that the realm of freedom, once organized properly,
+
+01:22:38.700 --> 01:22:44.220
+is productive of value that can then, in the non-Marxist meaning of the term,
+
+01:22:44.220 --> 01:22:50.300
+that can then feed back to satisfy the needs in the realm of necessities. And that's,
+
+01:22:50.300 --> 01:22:56.300
+to some extent, what Silicon Valley has done. They allowed you to do whatever you want in your
+
+01:22:56.300 --> 01:23:01.660
+everyday life. They get all the data through your devices about what it is that you do,
+
+01:23:01.660 --> 01:23:05.660
+and then they monetize it. And then they do whatever they want with that money.
+
+01:23:06.620 --> 01:23:11.260
+And so if you really want to have a socialist biopolitics, that's a good candidate.
+
+01:23:11.820 --> 01:23:19.100
+They are appropriating that and making sure that value is generated from that,
+
+01:23:19.100 --> 01:23:23.260
+not just individual everyday life, living your life the way you want, but also from
+
+01:23:23.260 --> 01:23:27.980
+collectivity because we all engage in it collectively. And once analyzed collectively,
+
+01:23:27.980 --> 01:23:33.260
+of course, this data has enormous value when it comes to traffic analysis or epidemiological
+
+01:23:33.260 --> 01:23:40.220
+trends and so forth. But that comes from us being, I'm sorry, in the realm of freedom,
+
+01:23:40.220 --> 01:23:43.740
+by and large, or at least in the realm of social reproduction, if you really want to
+
+01:23:44.620 --> 01:23:54.460
+be middle-groundish about it. So in that sense, I do agree that the questions like this have
+
+01:23:54.460 --> 01:23:58.460
+attracted the attention of people on the left. I just think they're asking them in the wrong register.
+
+01:23:59.100 --> 01:24:06.220
+Intuitively, if you go to a person who is now struggling in subsistence and you ask them,
+
+01:24:06.220 --> 01:24:14.780
+is it either the realm of necessity that should be covered first or should we immediately jump
+
+01:24:14.780 --> 01:24:20.300
+into the realm of freedom, I'm pretty sure that the first will say, oh, please, let's start with
+
+01:24:20.300 --> 01:24:26.940
+the realm of necessity. But again, if you were to talk longer,
+
+01:24:27.740 --> 01:24:34.300
+I mean, I can tell you that I don't think that dichotomy is accurate. So I don't think that
+
+01:24:34.300 --> 01:24:38.460
+that's the correct way to think about it. You're not going to get very far if you really pose the
+
+01:24:38.460 --> 01:24:44.300
+question this way, because once you start with both of them separated like that, which assumes
+
+01:24:44.300 --> 01:24:49.580
+a division between work and non-work that's very strict, that's separate, that's things that value
+
+01:24:49.580 --> 01:24:54.140
+is produced in the workplace, of course, you're going to end up with the most obvious conclusion.
+
+01:24:54.700 --> 01:24:59.420
+So me personally, and I think I even said it in the Berkeley talk and some other talk,
+
+01:25:00.140 --> 01:25:04.060
+I don't think that that's a helpful way to think about it. So we need to get away from the
+
+01:25:04.060 --> 01:25:10.460
+separation because most of the people on the left, them who did think about the realm of freedom,
+
+01:25:13.580 --> 01:25:17.500
+they still end up saying that we need to reintroduce the realm of freedom into the realm
+
+01:25:17.500 --> 01:25:22.780
+of necessity. The way Marcuse would, for example, he will tell you, oh, factory work should be like
+
+01:25:22.780 --> 01:25:31.580
+a playground. And I just don't think that you're going to end up in a helpful way. But
+
+01:25:32.860 --> 01:25:39.340
+just to counter back to what you said, if you stick with my analysis, then
+
+01:25:40.460 --> 01:25:44.940
+you can say that, well, I mean, why is that person starving? I mean, if you really build a system
+
+01:25:44.940 --> 01:25:50.220
+on my model, the money that currently ends up with Jeff Bezos and Mark Zuckerberg will be funding
+
+01:25:51.180 --> 01:26:01.580
+his welfare. Because that money right now, I mean, my realm of freedom, if not his,
+
+01:26:02.300 --> 01:26:08.780
+is being expropriated, appropriated and monetized in a way that leaves that person starving.
+
+01:26:08.780 --> 01:26:15.660
+So why is that a trivial issue? And I don't know what the right answer is. It doesn't seem
+
+01:26:15.660 --> 01:26:22.380
+to be trivial. It seems to me that clearly, once you understand that the rise of Big Tech,
+
+01:26:22.380 --> 01:26:30.220
+to some extent, is linked to the ability to tap into everyday life and to tap into our social
+
+01:26:30.220 --> 01:26:37.020
+coordination with each other and to monetize it and extract profits from it and to strip public
+
+01:26:37.020 --> 01:26:41.420
+coffers of their avenues that would have otherwise been there, then yeah, I mean,
+
+01:26:41.420 --> 01:26:46.140
+I don't think it's such a reasonable question to ask. So of course, that's why I was saying
+
+01:26:47.180 --> 01:26:51.260
+earlier that I don't think that this is the right paradigm, for example, for the global south,
+
+01:26:51.900 --> 01:26:55.900
+where you still probably need to be building factories and have people working there,
+
+01:26:55.900 --> 01:26:59.580
+you need to industrialize, you need to build your own base, you need to recreate,
+
+01:26:59.580 --> 01:27:03.260
+instead of relying on global supply chains, recreate some of the capacity domestically,
+
+01:27:04.220 --> 01:27:11.180
+it will be fine with the older socialist program. So I understand the geopolitical
+
+01:27:11.740 --> 01:27:17.820
+and regional bias, what I'm saying, but I don't think that the fact that there are,
+
+01:27:21.180 --> 01:27:24.860
+I don't think that the fact that there are, you know, people who are poor or homeless or
+
+01:27:25.660 --> 01:27:31.420
+who have troubles right now, which can be immediately resolved, should take off pressure
+
+01:27:31.420 --> 01:27:41.500
+of us to find holes in legitimation strategies of neoliberals, or contribute to articulating
+
+01:27:41.500 --> 01:27:47.820
+an alternative political project. Because the fact that people are hungry right now,
+
+01:27:48.380 --> 01:27:52.300
+stripped of the ideological context tells you absolutely nothing, you might as well
+
+01:27:52.300 --> 01:27:57.740
+believe that Elon Musk should give them basic income, or some philanthropist should fund
+
+01:27:57.740 --> 01:28:04.700
+something for them. Right? So to me, the presence of evil in the world, as such,
+
+01:28:04.700 --> 01:28:11.340
+that is easily fixable. It's no reason not to engage, which I think we both agree on that.
+
+01:28:11.340 --> 01:28:16.140
+But I just want to reiterate it, because like, for me, they're not somehow,
+
+01:28:17.180 --> 01:28:19.340
+one is not the reason not to think about the other.
+
+01:28:19.500 --> 01:28:26.700
+Mm hmm. Yeah, no, no, I absolutely agree with that. Maybe it's that I
+
+01:28:28.940 --> 01:28:38.140
+think about the ability to bring about the new in different ways. Or maybe I don't see it as
+
+01:28:38.140 --> 01:28:44.140
+that much of a challenge. But I think I get the point you're making. At least I think I get the
+
+01:28:44.140 --> 01:28:49.820
+point you're making in terms of providing... But that was the project for Marx, though.
+
+01:28:50.860 --> 01:28:57.660
+So I really think that what is Marxism? Marxism is very simple. You have social relations of
+
+01:28:57.660 --> 01:29:01.180
+production that eventually block forces of production from advancing further.
+
+01:29:01.820 --> 01:29:06.060
+It's just a philosophy of the new. There is nothing else in Marx. That's the core idea,
+
+01:29:06.060 --> 01:29:12.700
+it's that. And that you need to change relations of production so that the forces of production
+
+01:29:12.700 --> 01:29:17.900
+can continue unimpeded. And you can, of course, make all sorts of cases for ecology and whatever,
+
+01:29:17.900 --> 01:29:23.420
+and they're all important points. But ultimately, that's what it is. So I mean, the question of the
+
+01:29:23.420 --> 01:29:29.660
+new and its sustained, almost industrial, methodological, theoretical production,
+
+01:29:29.660 --> 01:29:36.060
+it's at the core of the leftist project. Yes, but there are a lot of questions that
+
+01:29:36.060 --> 01:29:41.340
+are connected to that. The question of if we needed to think progressivism in a different way,
+
+01:29:41.340 --> 01:29:48.700
+for example, I'm not sure if we can just jump into this competition, so to speak,
+
+01:29:48.700 --> 01:29:57.740
+with the neoliberals and accept this premise in the first place of markets as the harbingers of
+
+01:29:57.740 --> 01:30:06.380
+the production of the new, and then try to... But that's where we disagree, I think,
+
+01:30:06.380 --> 01:30:10.700
+because I think it's just undeniable. It's undeniable. I also think phenomenologically
+
+01:30:11.340 --> 01:30:16.540
+for the majority of the population. That's so interesting. I mean, you just need to open an
+
+01:30:16.540 --> 01:30:20.460
+app store. I mean, don't you see all the apps? I mean, how you can possibly deny that that's
+
+01:30:20.460 --> 01:30:24.540
+the production of the new? I mean, that's what people think... Well, I mean, there's an argument...
+
+01:30:24.540 --> 01:30:30.140
+Well, there's a strong argument to make that capitalism is like the production of the ever
+
+01:30:30.140 --> 01:30:38.060
+old in new forms. That's an argument that is out there and it has some form of plausibility
+
+01:30:38.060 --> 01:30:46.780
+to it as well. The way in which markets and capitalism are able to produce the news is a
+
+01:30:46.780 --> 01:30:54.540
+very, very narrow corridor in which we have this accelerated perpetuation of the old, actually,
+
+01:30:54.540 --> 01:30:59.740
+and not really the production of the new, which is, I think, what you actually want to state,
+
+01:30:59.740 --> 01:31:04.860
+what you are stating. So maybe we are not a part of this.
+
+01:31:04.860 --> 01:31:08.540
+No, no, I believe in productivity improvements. So I believe that there are productivity
+
+01:31:08.540 --> 01:31:13.900
+improvements in capitalist firms that are real. So they're not inventions. If they were just the
+
+01:31:13.900 --> 01:31:20.140
+recycling of the old, there is no reason for capitalist firms to fake the production of
+
+01:31:20.140 --> 01:31:24.860
+productivity improvements. Because if they do that, they're just going to be eaten alive.
+
+01:31:24.860 --> 01:31:29.900
+In that sense, I do believe in competition. Yeah. But that's why I mentioned that it's
+
+01:31:29.900 --> 01:31:35.020
+also important to talk about new ways of thinking about progress, because it's not only about
+
+01:31:35.020 --> 01:31:42.460
+productivity improvements, no? Because this way of thinking, this logic has brought us into a place
+
+01:31:42.460 --> 01:31:48.540
+where we are aiming through a catastrophe. But that's a different argument from saying
+
+01:31:48.540 --> 01:31:54.460
+that they're repackaging the old. So I was invoking that in the sense that I don't think
+
+01:31:54.460 --> 01:31:57.740
+they're repackaging the old, because if they're repackaging the old, they'll just be out of
+
+01:31:57.740 --> 01:32:01.980
+business as individual capitalists. And in that sense, I think if you read somebody like Anwar
+
+01:32:01.980 --> 01:32:08.140
+Shaikh, who I think is the Marxist economist who's done almost like his view on competition is the
+
+01:32:08.140 --> 01:32:13.260
+same as mine and is the same to some extent as Hayek's. So competition is real and it does
+
+01:32:13.260 --> 01:32:19.500
+produce new things, both on the consumption side and on the production side. You can make all sorts
+
+01:32:19.500 --> 01:32:24.940
+of arguments. And that's partly what I'm saying, that there are other ways in which new is generated,
+
+01:32:24.940 --> 01:32:30.940
+because there are other ways in which we coordinate. And so far, we've put all of our resources,
+
+01:32:30.940 --> 01:32:36.300
+all of our thinking and money and laws into boosting markets as the only infrastructure
+
+01:32:36.300 --> 01:32:40.700
+of doing that. But clearly, that's not the only infrastructure. But to me, it seems,
+
+01:32:41.740 --> 01:32:46.380
+and we need it for all sorts of reasons that I accept have to do with redefining progress
+
+01:32:46.380 --> 01:32:52.140
+and so forth. But to me, to deny that there is something new produced in the markets by both
+
+01:32:52.140 --> 01:32:58.620
+producers and consumers, and that is valid. And that part of the neoliberal argument is correct,
+
+01:32:58.620 --> 01:33:03.820
+just to me, since it's counterproductive, because it just rejects our phenomenological
+
+01:33:03.820 --> 01:33:10.700
+everyday experience. And I see no problem in accepting that part of the story.
+
+01:33:10.700 --> 01:33:18.220
+Yeah. Well, I mean, if you state it this way, then I wouldn't say that there is nothing new
+
+01:33:18.220 --> 01:33:22.460
+being produced. But that's actually bringing us to a question that I wanted to ask you,
+
+01:33:22.460 --> 01:33:28.380
+but I actually didn't, because maybe you could specify what you mean by the new. Is it just
+
+01:33:28.380 --> 01:33:36.380
+productivity gains? So if you talk about that has to be replaced when it comes to this question of
+
+01:33:36.380 --> 01:33:43.020
+the production of the new, what is the new? How do you define it?
+
+01:33:43.020 --> 01:33:47.180
+Well, but I mean, does it need to be defined?
+
+01:33:47.820 --> 01:33:50.060
+Well, it makes a big difference.
+
+01:33:50.060 --> 01:33:56.460
+I mean, if you look at it in terms of practices, these are practices and ways of being and ways of
+
+01:33:58.060 --> 01:34:03.820
+existing that were not there before when you started. I mean, we just need to introduce
+
+01:34:03.820 --> 01:34:11.340
+a temporal element in this. And you're going to see practices and ways of doing things that
+
+01:34:11.340 --> 01:34:18.860
+were not there before, ways of doing old things in new ways or ways of doing completely new things.
+
+01:34:18.860 --> 01:34:28.060
+I mean, if you define it in this way, the new is being produced in many different social fields
+
+01:34:28.060 --> 01:34:35.580
+all the time. But who's denying that? You are telling me things that are the core of my argument
+
+01:34:35.580 --> 01:34:40.380
+and I'm trying to build an infrastructure for scaling them up and generating value out of them.
+
+01:34:40.380 --> 01:34:47.180
+Yeah, I know, I know, I know. I think it's just that I think why we land at this position is that
+
+01:34:47.180 --> 01:34:54.460
+I'm not sure if the thing that market competition is able to provide when it comes to
+
+01:34:54.460 --> 01:35:00.220
+building the new is as huge as you or it should be
+
+01:35:01.020 --> 01:35:07.900
+problematized much more than maybe you would do it. But I think we're circling around
+
+01:35:08.540 --> 01:35:12.460
+in different ways. Yeah, but it also depends. I mean, look,
+
+01:35:13.420 --> 01:35:18.860
+it depends on what your project is. It depends on how you think about
+
+01:35:18.860 --> 01:35:23.340
+neoliberalism. I don't think about this as an economic theory. I think about it as a
+
+01:35:23.340 --> 01:35:29.100
+theory of modernity. I think about it as a theory of civilization, essentially. That tells you
+
+01:35:29.660 --> 01:35:38.780
+precisely, I'm sorry to say, how do you incorporate the new into your life and into the world?
+
+01:35:38.780 --> 01:35:45.020
+If you read Hayek, it's just there stated very clearly that, yes, he tells you there are all
+
+01:35:45.020 --> 01:35:49.980
+sorts of effects if you put the cash nexus where you previously had social relations or family ties.
+
+01:35:49.980 --> 01:35:58.220
+But in the long run, the pie expands and the pie expands even if certain people end up as lawyers.
+
+01:35:58.220 --> 01:36:03.500
+And it expands precisely because this new stuff is being produced and is being produced in a
+
+01:36:03.500 --> 01:36:08.620
+sustainable way as far as capitalism is concerned. We don't talk about climate and other things.
+
+01:36:08.620 --> 01:36:17.900
+And this is what market civilization does. It's not about coordinated firms and consumers.
+
+01:36:17.900 --> 01:36:25.340
+It's about bringing novelty into the world. And I don't know, like, how is that not to me?
+
+01:36:25.340 --> 01:36:28.620
+And if you look at the legitimation of neoliberalism, that's the reason why
+
+01:36:29.260 --> 01:36:35.820
+it's of any appeal, unless it's imposed by force. That is the most exciting part of neoliberalism,
+
+01:36:36.780 --> 01:36:44.220
+which is so exciting that social democrats are buying into it. And if you really want to
+
+01:36:44.940 --> 01:36:53.580
+and if you really want to unthrone it or disrone it, you need to have an alternative account
+
+01:36:53.580 --> 01:37:01.580
+of how society can move forward and structurally, infrastructurally produce the new in a way that
+
+01:37:01.580 --> 01:37:06.700
+scales up. And that's not just about arts and crafts and artisanal people building things,
+
+01:37:06.700 --> 01:37:12.140
+but that there are actually ways to interconnect people in, I don't know, Ecuador with people in
+
+01:37:12.140 --> 01:37:18.140
+Moldova, which is what the market does and make sure the changes in one proxies then are reflected
+
+01:37:18.140 --> 01:37:24.540
+in the life and in the proxies of the other. Ultimately, what I'm saying is that there are
+
+01:37:24.540 --> 01:37:33.500
+infrastructures that allow people to coordinate, collaborate, produce things, whether these things
+
+01:37:33.580 --> 01:37:42.380
+are effects or emotions or ideas or things that have all of the markings of what neoliberals
+
+01:37:42.380 --> 01:37:50.220
+attribute to market civilization without most of the costs. And that if you, they're not developed
+
+01:37:50.220 --> 01:37:56.060
+because public policy is such that it doesn't channel resources there. You cannot scale them
+
+01:37:56.140 --> 01:38:02.940
+up properly. You cannot, your only turn, your only option is towards the market.
+
+01:38:05.660 --> 01:38:12.140
+And that's why we have all these idealistic people who beyond protesting, if they really want to do
+
+01:38:12.140 --> 01:38:19.500
+something, like what do they do? Like they form a startup and they become, you know, in most cases
+
+01:38:19.500 --> 01:38:24.700
+and they seek money and they know that this will allow them to scale. If they don't want to be just
+
+01:38:24.700 --> 01:38:30.460
+local operators and if they want to scale, that's what they need to do. Why? Because our entire
+
+01:38:30.460 --> 01:38:38.140
+civilization favors the market as the default and only infrastructure of scaling up this coordination
+
+01:38:38.140 --> 01:38:44.380
+and generating value out of it. But you can have a multiplicity of them. That's why in one of my
+
+01:38:44.380 --> 01:38:51.980
+earlier articles in New Left Review, I basically said, look, Hayek has a flawed evolutionary theory
+
+01:38:51.980 --> 01:38:57.900
+and what he says about how people become less altruistic as they move from villages to cities
+
+01:38:57.900 --> 01:39:03.740
+is wrong. That evolutionary theory actually teaches us otherwise. And that you might as well say that
+
+01:39:04.380 --> 01:39:11.580
+solidarity will be as productive, what Hayek calls discovery, as competition. It's basically like,
+
+01:39:11.580 --> 01:39:15.900
+there is no reason to believe that he's correct on that point and I don't think he is. But it
+
+01:39:15.900 --> 01:39:20.620
+doesn't mean that solidarity is the only thing that can do it. You can maybe list 10 values that
+
+01:39:20.620 --> 01:39:26.140
+will do it. Maybe you can list 20 and maybe you can list infrastructures that will go along with
+
+01:39:26.140 --> 01:39:33.180
+them to enable them and to elicit these behaviors and to elicit these orientations. So I mean,
+
+01:39:33.180 --> 01:39:38.300
+I don't know. To me, that seems like the core question of how do you organize modernity
+
+01:39:39.580 --> 01:39:44.940
+rather than a trivial one. It's not about making sure we have a different system for building apps.
+
+01:39:45.420 --> 01:39:52.700
+It's a way for me of thinking about how do you move society forward and embrace the new
+
+01:39:53.340 --> 01:39:58.300
+in a structured way that bypasses the dichotomy of the market and the state
+
+01:39:59.180 --> 01:40:04.620
+and refuses the idea that the only way to do it in a scaled up way is by relying on the market.
+
+01:40:04.620 --> 01:40:09.660
+I absolutely agree. I think it's maybe because maybe you are holding something back that is
+
+01:40:09.660 --> 01:40:13.740
+in the book and in your thinking because there's something missing. I absolutely agree with
+
+01:40:13.740 --> 01:40:20.140
+everything you just said. But for example, within capitalism, you do have private property
+
+01:40:20.140 --> 01:40:28.540
+as a form of guiding lens that is able to unify these actions much as the
+
+01:40:29.500 --> 01:40:36.860
+market as competition does. So you will have a mechanism that is able to provide a form of
+
+01:40:37.820 --> 01:40:42.540
+like pre-coordination maybe. And in the way that you describe the alternative,
+
+01:40:43.660 --> 01:40:49.980
+I think, of course, it's right to point out that there needs to be a multiplicity of different
+
+01:40:49.980 --> 01:40:55.740
+approaches that look at different aspects of, for example, the market, but also different
+
+01:40:57.260 --> 01:41:04.300
+regional contexts and stuff like that. But then still, you would have to come up with an answer
+
+01:41:04.300 --> 01:41:15.340
+that provides this glue, this form of maybe directionality that is provided in capitalism
+
+01:41:15.340 --> 01:41:20.940
+through private property and markets as competition. You would have to find a different form of
+
+01:41:22.300 --> 01:41:29.100
+mechanism for the production of pre-configuration, so to speak, for the alternative.
+
+01:41:29.580 --> 01:41:37.180
+But no, I don't think so. I don't think it's my problem. No. Why? Because we're not trying
+
+01:41:37.180 --> 01:41:45.660
+to build, in that sense, I depart from describing what so far we have been talking about for the
+
+01:41:45.660 --> 01:41:52.220
+last 10 minutes as a socialism. Because if you really wanted to, it's a non-capitalism at best,
+
+01:41:53.180 --> 01:41:58.460
+what I'm describing. And as a non-capitalism, it's not post-capitalism, it's a non-capitalism.
+
+01:41:58.940 --> 01:42:03.100
+And if you really want to go really far, you can say that you can have a multiplicity of
+
+01:42:03.100 --> 01:42:10.460
+non-capitalisms. And I don't think that it requires any grounding, for example, in an alternative
+
+01:42:10.460 --> 01:42:16.860
+property regime. I don't. You might argue that it would require certain rights to preserve those
+
+01:42:16.860 --> 01:42:21.340
+forms of right, to observe those forms of life. You might argue that you would need a right to
+
+01:42:21.340 --> 01:42:27.260
+ignorance of something, because that would be the only way to preserve certain core features.
+
+01:42:27.260 --> 01:42:31.500
+We might argue that you would need some kind of an institutional slack so that you don't
+
+01:42:31.500 --> 01:42:40.380
+over-optimize. But to generalize it to a theory that as a guiding lens here would be to convert
+
+01:42:40.380 --> 01:42:47.340
+it into an ism, which is not what I'm trying to do. So at best, my ism is a non-ism and it's a
+
+01:42:47.340 --> 01:42:56.060
+non-capitalism. Nice. Good answer. Even though I'm not saying that it would need to be a different
+
+01:42:56.060 --> 01:43:01.420
+form of property regime that would provide this type of glue that I'm talking about.
+
+01:43:04.940 --> 01:43:09.420
+I also think you're mistaken with regards to property, to be honest. I can easily imagine,
+
+01:43:09.420 --> 01:43:15.500
+and in fact it exists, you can have capitalist relations now where property would be
+
+01:43:17.180 --> 01:43:23.340
+very different from the one we have, property regime, and where you would be able to look at
+
+01:43:23.340 --> 01:43:36.060
+the radical markets, people. If a certain piece of equipment is not used well by the capitalists
+
+01:43:36.060 --> 01:43:40.540
+who owns it, we're just going to come in and take it and put it on the auction and somebody
+
+01:43:40.540 --> 01:43:45.820
+will come in and buy it. That's a complete violation of the private property that you
+
+01:43:45.820 --> 01:43:49.660
+think is constitutive of capitalism, and I just don't think that for them it's constitutive of
+
+01:43:49.660 --> 01:44:00.460
+capitalism. Fair enough. Good point. I don't think I'm holding back. Sorry, maybe I'm just
+
+01:44:00.460 --> 01:44:09.660
+in my bubble. To me, it seems pretty obvious. I live in a village here. Look at my books here.
+
+01:44:10.620 --> 01:44:18.780
+It's not exactly the most exciting reading you have here. It's possible I live in a bubble here,
+
+01:44:19.020 --> 01:44:32.140
+but I do think that there is something there. You're the person monitoring all the discourses
+
+01:44:32.140 --> 01:44:40.700
+most closely, so if anybody is guarded against being too much in a bubble, I think it's you,
+
+01:44:40.700 --> 01:44:47.180
+Evgeny. It's fair enough to say that there is a lot there, I think.
+
+01:44:48.060 --> 01:44:51.420
+Evgeny, thank you so much for being part of Future Histories.
+
+01:44:51.980 --> 01:44:52.860
+Sure, my pleasure.
+
+01:44:58.620 --> 01:45:02.940
+That was our show for today. Thanks a lot for listening. If you want to support
+
+01:45:02.940 --> 01:45:09.820
+Future Histories, you can do so on Patreon. For this, visit patreon.com slash future histories,
+
+01:45:09.820 --> 01:45:14.060
+or you can simply tell a friend that you like the show and that he,
+
+01:45:14.060 --> 01:45:18.940
+she, or they might like it as well. Thanks a lot and hear you in two weeks.
+
