@@ -17,6 +17,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 ### Incomplete Podcasts
 
 - [Jung&Naiv](./podcasts/JungUndNaiv)
+- [Piratensender Powerplay](./podcasts/PiratensenderPowerplay)
 
 ## Obsidian and Audio Notes
 
