@@ -18,6 +18,9 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 
 - [Jung&Naiv](./podcasts/JungUndNaiv)
 - [Piratensender Powerplay](./podcasts/PiratensenderPowerplay)
+- [DemystifySci](https://demystifysci.com/)
+- [Wunderbar Together German](https://www.wunderbartogetherpodcast.de/)
+- [Theories of Everything with Curt Jaimungal](https://theoriesofeverything.org/)
 
 ## Obsidian and Audio Notes
 

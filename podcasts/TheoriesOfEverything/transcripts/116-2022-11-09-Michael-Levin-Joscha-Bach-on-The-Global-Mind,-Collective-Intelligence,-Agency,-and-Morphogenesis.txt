@@ -1,0 +1,1178 @@
+Michael Levin's work on regulating intractable pattern formation in living systems has made
+him one of the most compelling biologists of our time. In translation, this means that his team is
+sussing out how to develop limbs, regenerate limbs, how to generate minds, and even life extension
+by manipulating electric signals rather than genetics or epigenetics. His work is something
+that I consider to be worthy of a Nobel Prize, and I don't think I've said that about anyone
+on the podcast. Michael Levin's previous podcast, On Toe, is in the description. That's a solo
+episode with him where we go into a two-hour deep dive, as well as there's a theolo-cution,
+so that is him and another guest, just like today, except between Carl Fursten and Chris
+Fields on consciousness. Josje Bach is widely considered to be the pinnacle of an AI researcher
+dealing with emotion, modeling, and multi-agent systems. A large focus of Bach's is to build a
+model of the mind from strong AI. Speaking of minds, Bach is one of the most inventive minds
+in the field of computer science and has appeared several times on Toe prior. Again, there's a solo
+episode. There's also a theolo-cution between Josje Bach and Donald Hoffman on consciousness,
+and Josje Bach and John Vervecky also on consciousness and reality. Biology has much to
+teach us about artificial intelligence and vice versa. This discussion between two brilliant
+researchers is something that I'm extremely lucky, blessed, fortunate to be a part of, as well as us
+as collective as an audience that are fortunate enough to witness. Thank you and enjoy this
+theolo-cution between Josje Bach and Michael Levin. Welcome both Professor Michael Levin
+and Josje Bach. It's an honor to have you on the Toe podcast. Again, both of you and then together
+right now. Thank you. It's great to be here. Likewise. I enjoy very much being here and look
+forward to this conversation. I look forward to it as well. So we'll start off with the question of
+what is it that you, Michael, find most interesting about Josje's work? And then
+Josje will go for you toward Michael. Yeah, I really enjoy the breadth. So I've been looking,
+I think I've probably read almost everything on your website, the short kind of blog pieces
+and everything. And yeah, I'm a big fan of the breadth of tackling a lot of the different issues
+that you do with respect to computation and cognition and AI and ethics and everything.
+I really like that aspect of it. And Josje? Yeah, my apologies. My blog is not up to date. I haven't
+done any updates for a few years now on it, I think. So, of course, I'm still
+in the process of progressing and having new ideas. And the ideas that I had in recent years,
+I have a great overlap with a lot of the things that you are working on.
+And when I listened to your Lex podcast last night, there were many thoughts that you had
+that I had stumbled on that I've never heard from anybody else. And so I found this very
+fascinating and thought, maybe let's look at some of these thoughts first and then go from there
+and expand beyond those ideas. What I, for instance, found after thinking about how cells work
+kind of obvious but missed by most people in neuroscience or in science in general,
+is that every cell has the ability to send multiple message types and receive multiple
+message types and do this conditionally and learn under which conditions to do that and to
+modulate this. Also, every cell is an individual reinforcement learning agent. Single-celled animal
+that tries to survive by cooperating with its environment gets most of its rewards from its
+environment. And as a result, this means that every cell can in principle function like a neuron.
+It can fulfill the same learning and information processing tasks as a neuron. The only difference
+that exists with respect to neurons or the main difference is that they cannot do this over very
+long distances because they are mostly connected only to cells that are directly adjacent. Of
+course, neurons also only communicate to adjacent cells but the adjacency of neurons is such that
+they have excellent parts of the cell that reach very far through the organism. So in some sense,
+a neuron is a telegraph cell that uses very specific messages that are encoded in a way
+like Morse signals in extremely short high-energy bursts that allow to send messages over very long
+distances very quickly to move the muscles of an animal at the limit of what physics allows.
+So it can compete with other animals in search for food. And in order to make that happen,
+it also needs to have a model of the world that gets updated at this higher rate. So there is
+going to be an information processing system that is duplicating basically this cellular brain that
+is made from all the other cells in the body of the organism. And at some point, these two systems
+get decoupled. They have their own codes, their own language, so to speak. But it still makes
+sense, I guess, to see the brain as a telegraphic extension of the community of cells in the body.
+And for me, this insight that I stumbled on just because means and motive that evolution would
+equip cells with doing that information processing if the organism lives long enough and if the cells
+share a common genetic destiny so they can get attuned to each other in an organism,
+that basically every organism has the potential to become intelligent. And if it gets old enough to
+possess enough data to get to a very high degree of understanding of its environment in principle.
+So of course, a normal house plant is not going to get very old compared to us because its
+information processing is so much slower. So they're not going to be very smart. But at the
+level of ecosystems, it's conceivable that there is quite considerable intelligence. And then
+I stumbled on this notion that our ancestors thought that one day in fairyland equals seven
+years in human land, which is told in the old myth. And also, at some point, I revised my
+notion of what the spirit is. For instance, a spirit is an old word for the operating system
+for an autonomous robot. And when this word was invented, the only autonomous robots that were
+known were people and plants and animals and nation states and ecosystems. There were no
+robots built by people yet. But there was this pattern of control in it that people could observe
+that was not directly tied to the hardware that was realized by the hardware but disembodied in
+a way. And this notion of spirit is something that we lost after the Enlightenment when we tried to
+deal with the wrong Christian metaphysics and superstition that came with it and threw out a
+lot of babies with the bathwater. And suddenly, we basically lost a lot of concepts, especially
+this concept of software that existed before in a way, this software being a control pattern or a
+pattern of causal structure that exists at a certain level of coarse graining as some type of
+very, very specific physical law that exists by looking at reality from a certain angle.
+And what I liked about your work is that you systematically have focused on this
+direction of what a cell can do, that a cell is an agent, and that levels of agency emerge
+in the interaction between cells. And you use a very clear language and clear concepts. And you
+obviously are driven by questions that you want to answer, which is unusual in science, I found.
+Like most of our contemporaries in science get broken, if it doesn't happen earlier during the
+PhD, into people who apply methods in teams instead of people who join academia because
+they think it's the most valuable thing they can do with their lives to pursue questions that they
+are interested in, want to make progress on. All right, Michael, there's plenty to respond to.
+Yeah, yeah. Lots of ideas. Yeah, I think your point is very interesting about what really
+fundamentally is the difference between neurons and other cells. Of course, evolutionarily,
+they're reusing machinery that has been around for a very long time, since the time of bacteria,
+basically, right? So our unicellular ancestors had a lot of the same machinery. And even, I mean,
+of course, axons can be very long, but there are sort of intermediate structures, right? There are
+tunneling nanotubes and things that allow cells to connect to maybe five or 10 cell diameters away,
+right? So not terribly long, but also not immediate neighbors necessarily. So that kind
+of architecture has been around for a while. And people like Gaurav Sohel look at very brain-like
+electrical signaling in bacterial colonies. So I think evolution began to reuse this toolkit
+specifically of using this kind of communication to scale up the computational and other kinds of
+tricks a really long time ago. And I like to imagine that if somebody had come to
+the people who were inventing connectionism and the first sort of perceptrons and neural networks
+and so on, if somebody had come to them and said, oh, by the way, sorry, we're the biologists,
+we got it wrong. Thinking isn't in the brain, it's in the liver. And so then the question is,
+what would they do, right? Would they have changed anything about what they're doing? And then we
+said, ah, now we have to rethink our model, or would they have said, fine, who cares? This is
+exactly the same model. Everything works just as well. So I often think about that question,
+what exactly do we mean by neurons? And isn't it interesting that we are able to steal most of
+the tools, the concepts, the frameworks, the math from neuroscience and apply it to problems in
+other spaces. So not movement in three-dimensional space with muscles, but for example, movement
+through a morphous space, right? Anatomical morphous space. The techniques can't tell the
+difference. We use all the same stuff, optogenetics, neurotransmitter signaling, we model active
+inference, and we see perceptual by stability, you name it. We take concepts from neuroscience,
+and we apply it elsewhere in the body. And generally speaking, everything works exactly
+the same. And that shows us, I think, what you were saying, that there's this really interesting
+symmetry between these, that a lot of the distinctions that we've been making are in terms
+of having different departments and different PhD programs and other things that say,
+no, this is neuroscience, this is developmental biology. A lot of these things are just not
+as firm distinctions as we used to think. And I suspect that people who insist on strong
+disciplinary boundaries do this out of a protective impulse. And what I noticed by
+studying many disciplines when I was young, that the different methodologies are so incompatible
+across fields, that when I was studying philosophy or psychology, I felt that computer scientists
+would be laughing about the methods that each of these fields are using to justify what they're
+doing. And this, I think, is indicative of a defect. Because if you take science into the
+current regime of regulating it entirely by peer review, there is no external authority. Even the
+grand authorities are mostly fields of people who have been trained in the sciences, in existing
+paradigms, and then are finding the continuation of those paradigms from the outside. This
+meta-paradigmatic thinking does not really exist that much in a peer-reviewed paradigm. And
+ultimately, when you do peer review for a couple generations, it also means that if your peers
+deteriorate, there is nothing who pulls your science back. And what I missed specifically in
+a lot of the way in which neuroscience is done is what you call the engineering stance.
+And this engineering sense is very powerful, and you get it automatically when you're a computer
+scientist, because you don't really care what language is it written in. What you care in is
+what causal pattern is realized. And how can this be realized? And how could I do it? How would I
+do it? How can evolution do it? What it means is disposal, and this determines the search space for
+the things that I'm looking for. But this requires that I think in causal systems.
+And this thinking in causal systems is impossible not to do for a computer scientist,
+but it is unusual outside of computer science. And once you realize that, it's very weird.
+Suddenly, you have notions that try to replace causal structure with, say, evidence. And then
+you notice that, for instance, evidence-based medicine is not about probabilities of how
+something is realized and must work. You see people on the cruise ship getting infected over
+distances, and you think, oh, this must be airborne. But no, there is no peer-controlled
+study, so there is no evidence that it's airborne. And when you look at its disciplines from the
+outside, like in this case, the medical profession or the medical messaging and decision-making,
+or I get terrified because it directly affects us. And in terms of neuroscience, of course,
+there's more theoretical for the most part, but there must be a reason why it's for the most part
+a theoretical, why there is no causal model that clinicians can use to explain what is happening
+in certain syndromes that people are exhibiting. And I notice this when I go to a doctor and
+even at a reputable institution like Stanford, that most of the neuroscientists at some level
+there, or most of the neurologists that I'm talking to, at some level dualists, that they
+don't have a causal model of the way in which the brain is realizing things. And a lot of studies
+which discover that very simple mechanisms like the ability of human beings to use grammatical
+structure are actually reflected in the brain. This is so amazing. Who would have thought?
+But the developments that existed in computer science have led us on a completely different
+track. The perceptron is vaguely inspired by what the brain might be doing, but I think it's really
+a toy model or a caricature of what cells are doing. Not in the sense that it's inferior,
+it's amazing what you can brute force with the modern perceptron variations. The current
+machine learning systems are mind blowing in what they can do, but they don't do it like
+biological organisms at all. It's very different. The cells do not form change in which they weight
+sums of real numbers. There is something going on that is roughly similar to it, but there's
+a self-organizing system that designs itself from the inside out, not by a machine learning
+principle that applies to the outside and updates weights after reading and comparing them
+and computing gradients to the system. So this perspective of local self-organization by
+reinforcement agents that try to trade rewards with each other, that is a perspective that I
+find totally fascinating. And I wish this would have come from neuroscience into computer science,
+but it hasn't. There are some people which have thought about these ideas to some degree,
+but there's been very little cross pollination. And I think all this talk of neuroscience
+influencing computer science is mostly visual thinking.
+Yeah. It's also, I find this, you know, what you were saying about the different disciplines,
+it's kind of amazing how, well, when I give a talk, I can always tell which department I'm in by
+which part of the talk makes people uncomfortable and upset. And it's always different depending on
+which department it is, right? So there are things you can say in one department that are
+completely obvious. And you say this in another group of people and they throw tomatoes. I think
+this is just craziness. For instance, I could say in a neuroscience department, I could say
+information can be processed without changes in gene expression. You don't need changes in
+gene expression to process information because the processing inside a neural network runs on
+the physics of action potentials, right? So you can do all kinds of interesting information
+processing and you don't need transcriptional or genetic change for that. If I say the same thing
+in a molecular genetics department that say, hey, these cells could be processing tons of information
+long before the transcriptome ever finds out about it, this is considered just completely wild
+because it's thought that most of the hard work or in fact, all of the hard work is done in gene
+regulatory circuits and things like that, right? There are other examples. If I say,
+here's a collection of cells that communicate electrically to remember a particular spatial
+pattern, again, molecular cell biology, what do you mean? How can a collection of cells
+remember a spatial pattern? But again, in neuroscience or in an engineering department,
+yeah, of course. Of course, they have electrical circuits that remember patterns and can do pattern
+completion and things like that. So views of causality, views of just lots of things like
+that that are very obvious to one group of people is completely taboo elsewhere. So that distinction,
+and yeah, and as Joshua just said, it impacts everything. It impacts education, it impacts
+grants, grant reviews, because when these kind of interdisciplinary grants come up,
+the study sections have a really hard time finding people that can actually review them
+because what often happens is you'll get some kind of computational biology grant and you put a
+proposal and you'll have some people on the panel who are biologists and some people who are the
+computational folks. And it's very hard to get people that actually can appreciate both sides of
+it and understand what's happening together. So they will sort of each critique a certain part
+of it. And the other part, they say, I don't know what this is. And as a result, grants like that
+don't tend to not have a champion, one person who can say, no, I get the whole thing and I think
+it's really good or not. So yeah, even to the point where I'm often asked when people want to
+you list me somewhere, they'll say, so what are you? What's your field? And I never know
+how to answer that question. To this day, it's been 30 years. I still don't know how to answer
+that question. I just can't boil it down to one. It just wouldn't make any sense to say any of the
+traditional fields. So what do you say, Joshua, when someone asks you what field you're in?
+And it depends on who's asking. So for instance, I found it quite useful to sometimes say,
+sorry, I'm not a philosopher, but this or I'm not that interested in machine learning. And I
+did publish papers in philosophy and in machine learning, but it's not my specialty in the sense
+that I need to identify with it. And in some sense, I guess that these categories are important
+when you try to write a grant proposal or when you try to find a job in a particular institution
+and they need to fill a position. But for me, it's more, what questions am I interested in?
+What is the thing that I want to make progress on or what is the thing that I want to build right
+now? And I guess that in terms of the intersection, I'm a cognitive scientist.
+So I was asking Michael, prior to you joining Yoshi, why is it Michael that you were doing
+podcasts? And if I understand correctly, part of the reason was because you think out loud,
+and you'd like to hear the other person's thoughts and take notes and espers your own.
+And firstly, like Michael, you can correct me if that's incorrect. And then secondly,
+Yoshi, I'm curious for an answer for this, the same question, what is it that you get out of
+doing podcasts other than, say, some marketing for if you were promoting something, which I
+don't imagine you are currently. No, I'm not marketing anything.
+What I like about podcasts is the ability to publish something in a format that is engaging
+to interesting to people who actually care about it. I like this informal way of holding on to some
+ideas and also like conversations as a medium to develop thought is this space in which we can
+reflect on each other, look into each other's minds, interact with the ideas of others in real
+time. The production format of a podcast creates a certain focus of the conversation that can be
+useful. And it's a pleasant kind of tension that focuses you to stay on task. And I also found that
+it's generally useful to some people. The feedback that I get is that people tell me,
+I had this really important question and I found this allowed me to make progress on it.
+And I feel much better now about these questions. I just clarified something for me that has plagued
+me for years and put me on track to solving it, or this has inspired the following work.
+So it's a form of publishing ideas and getting them into circulation in our global hive minds
+that is very informal in a way, but it's not useless. And also it relieves me in this instance,
+at least of the work of cutting, editing, and so on. But anyways, I'm very grateful that you
+provide the service of curating our conversation and putting it in a form that is useful to other
+people. Yeah, there's something, well, two things I was thinking of. One is that I have conversations
+with people all day long about these issues, right? So people in my lab, collaborators,
+whatever. And most, of course, the vast majority of those conversations are not recorded and they
+just sort of disappear into the ether. And then I take something away from it and the other person
+takes something away from it. But I've often thought that, isn't it a shame that all of this
+just kind of disappears and it would be amazing to have a record of it? And of course, not every
+conversation is gold, but a lot of them are useful and interesting. And there are plenty of
+people that could be interested and could benefit from it. So I really like this aspect
+that we can have conversations and then they're sort of canned and they're out there for people
+who are interested. The other kind of aspect of it, which I don't really understand, but it's kind
+of neat, is that when somebody asks me to pre-record a talk, it takes a crazy amount of time
+because I keep stopping and realizing, ah, I could have said that better. Let me start from
+the beginning. And it's just, it's an incredible ordeal. Whereas something like this that's real
+time, I'm sure has as many mistakes and things that I would have rather fixed later, but you
+can't do that, right? So you just sort of go with it and that's it. And then it's done and you can
+move on. So I like that real time aspect of it because it just helps you to get the ideas out
+without getting hung up and trying to redo things 50 times. Yeah, it's a format that allows
+tentativity. If we have published, we have a culture in sciences that requires us to
+publish the things that we can hope to prove and make the best proof that we can. But when we have
+anything complicated, especially when we take our engineering stance, we often cannot prove how
+things work. Instead, our answers are in the realm of the possible and we need to discuss the
+possibilities. And there is value in understanding these possibilities to direct our future
+experiments and the practical work that we do to see what's actually the case. And we don't really
+have a publication format for that. We don't get neuroscientists to publish their ideas on how the
+mind works because nobody has a theory that they can prove. And as a result, there is basically a
+vacuum where theories should be. And the theory building happens informally in conversations
+that basically requires personal contact, which is a big issue once conferences been virtual
+because that contact diminished. And you get a lot of important ideas by reading the publications
+and so on. But this what could be or connecting the dots or possibilities or ideas that might be
+proven wrong later that we just exchange as in the status of ideas. That is something that has
+a good place in a podcast. Is this podcast, not this TOE podcast, but podcast in general something
+new? So for instance, I was thinking about this and I well podcasts go back a while and Brogan
+invented this long form format or popularized it. However, on television, there are interviews,
+so there's Oprah and those are long one hour, there's 60 minutes. And then back in the 90s,
+there was a three and a half hour, it's essentially a podcast, it's like Charlie Rose, three and a
+half hour conversation. It's like a Theolocution with Freeman Dyson, Daniel Dennett, Stephen J.
+Gould, like the Rupert Sheldrake, all of those on the same one format, it's essentially a podcast
+talking about metaphysics. Like, man, oh, man, I can't believe that got published. And then also,
+I think about it, well, did Plato have the first podcast? Because he's just publishing these
+dialogues and you read them, but it's not as if they're maybe he would have published it in video.
+I think Plato was the first podcaster. So is there something new about this format of podcasting
+that wasn't there before? Or what's new about it? I think it's like it's like blogging. Blogging
+is also not new, right? Being able to write text that you publish, and people can follow what you
+are writing and so on, did exist in some sense before, but the internet made it possible to
+publish this for everyone. You don't need a publisher anymore. And you don't need a TV
+studio anymore. You don't need a broadcast station that is recording your talk show and sends it to
+an audience. There is no competition with all the other talk shows because there is no limitations
+on how many people can broadcast at the same time. And this allows an enormous diversity of thoughts
+and small productions that are done at a very low cost, lowering the threshold for putting
+something out there and seeing what happens. So in this sense, it's the ecosystem that emerged is new
+because a variable change that changed the cost of producing a talk show.
+Right. Michael, you agree?
+Yeah. Yeah. I mean, yes, that and all of that. And also just the fact that, as you just said,
+these kind of like long form things were fairly rare. So most of the time, if you're going to be
+in one of the traditional media, they tell you, okay, you've got three minutes. We're going to
+cut all this stuff and we're going to boil it down to three minutes. And this is often incredibly
+frustrating. And I understand. I mean, we're drowned in information. And so there is obviously
+a place for very short statement on things, but the kind of stuff that we're talking about cannot
+be boiled down to TV sound bites or anything. It's just not. And so the ability to have these
+long form things so that anybody who wants to really dig in can hear what the actual thought
+is as opposed to something that's been just boiled into a very, very, very short statement,
+I think is invaluable. Just being able to have it out there for people to find.
+What's some stance of yours, some belief that has changed most drastically in the past few years,
+let's say three, and it could be anywhere from something abstruse and academic to more colloquial,
+like I didn't realize the value of children or overvalued children. Now I'm stuck with them.
+Like, geez, that was a mistake. Yeah. So something where I changed
+my mind was RNA-based memory transfer. And I think it's a super interesting idea in this context
+because it's close to stuff that Michael has been working on and is interested in.
+There have been some experiments in the Soviet Union, I think in the 70s, where scientists took
+planaria, trained them to learn something. I think they learned how to be afraid of electric
+shocks and things like that. And then they put their brains into a blender, extracted the RNA,
+injected other planaria with it, and these other planaria had learned it.
+And I learned about this as a kid when I, in the 1980s, read Soviet science fiction literature.
+I grew up in Eastern Germany. And the evil scientist harvested the brains of geniuses
+and injected himself with RNA extracted from these brains and thereby acquired the skills.
+And even though I'm pretty sure this probably doesn't work if you do it at this level,
+this was inspired by this original research. And I later heard nothing about this anymore.
+And so I dismissed it as similar things as I read in Sputnik and other Russian publications,
+which create their own mythological universe about ball lightning that is agentic and possibly
+sentient and so on. And dismissed this all as basically another universe of another reader's
+digest culture that is producing its own ideas that then later on get dissolved once science
+advances. Because everybody knows it's synapses, it's connections between neurons that matter.
+The RNA is not that important for the information processing. It might change some state, but you
+cannot learn something by extracting RNA and re-injecting it into the next organism. Because
+how would that work if it's done in the synapses? And then recently there were some papers which
+replicated the original research and has been replicated from time to time in different types
+of organisms. But to my knowledge, not in, of course, macaques or not even mice. So it's not
+clear if their brains work according to the same principles as planaria. But planaria are not
+extremely simple organisms, only a handful of neurons. They are something intermediate.
+And so their main architecture is different from ours. And the functioning principles of
+their neurons might be slightly different, but it's worth following this idea and going down
+that rabbit hole. And then I looked from my computer science engineering perspective and
+I realized that there are always things about the synaptic story that I find confusing because
+they're very difficult to implement. For instance, weight sharing. As a computer scientist, I require
+weight sharing. I don't know how to get around this. If I want to entrain myself as computational
+primitives in the local area of my brain, for instance, the ability to rotate something,
+rotation is some operator that I apply on a pattern that allows this pattern to be represented in a
+slightly different way to have this object rotated a few degrees. But an object doesn't
+consist of a single point. It consists of many features that all need to get the same rotation
+applied to them using the same mathematical primitives. So how do you implement the same
+operator across an entire brain area? Do you make many, many copies of the same pattern?
+And so computer scientists solved that with so-called convolutional neural networks,
+which basically use the same weights again and again in different areas, only
+training them once and making them available everywhere. And that would be very difficult
+to implement in synapses. Maybe there are ways, but it's not straightforward. Another thing is
+if we see how training works in babies, they learn something and then they get rid of the
+surplus synapses. Initially, they have much more connectivity than they need. And after they've
+trained, they optimize the way in which the wiring works by discarding the things they don't need to
+compute what they want to compute. So it's like calling the synapses. It does not freeze or edge
+the learning into the brain, but it optimizes the energy usage of the brain. Another issue is that
+patterns of activation are not completely stable in the brain. In the cortex, if you look,
+you find that they might be moving the next day or even rotate a little bit, which is also difficult
+to do with synapses. You cannot read out the weights and copy them somewhere else in an easy,
+straightforward fashion. And another issue is defragmentation. If you learn, for instance,
+your body map into a brain area and then somebody changes your body map because you have an accident
+and lose a finger or somebody gives you an artificial limb and you start to integrate
+this into your body map, how do you shift all the representations around? How do you make space for
+something else and move it? Or also initially, when you set up your maps via happy and learning,
+how do you make sure that the neighborhoods are always correct and you don't need to realign
+anything? And I guess you need some kind of realignment. And all these things seem to be
+possible when you switch to a different paradigm. And so if you take this RNA base series seriously,
+go down this rabbit hole, what you get is the neurons are not learning a local function over
+its neighbors, but they are learning how to respond to the shape of an incoming activation front,
+like the spatial temporal pattern in their neighborhood. And they are densely enough
+connected so the neighborhood is just a space around them. And in this space, they basically
+interpret this according to a certain topology to say this is maybe a convolution that gives me
+two and a half D or it gives me two D or one D or whatever the type of function is that they want
+to compute and they learn how to fire in response to those patterns and thereby modulate the patterns
+when they're passed on. So the neurons act something like self-modulating ether,
+so which wavefronts propagate that perform the computations. And they store the responses to
+the distributions of incoming signals, possibly in RNA. So you have little mixtapes, little tape
+fragments that they store in a summa and that it can make more of very cheaply and easily. If
+they are successful mixtapes and they're useful computational primitives that they discovered,
+they can distribute this to other neurons through the entire cortex. So neurons of the same type
+will gain the knowledge to apply the same computational primitives. And that is something
+I don't know if the brain is doing that and if the human brain is using these principles
+or if it's using them a lot and how important this is and how many other mechanisms exist.
+But it's a mechanism that we haven't, to my knowledge, tried very much in AI and computer
+science. And it would work. There is something that is a very close analog, that is a neural
+cellular automaton. So basically instead of learning weight shifts or weight changes between
+adjacent neurons, what you learn is global functions that tell neurons on how to respond
+to patterns in the neighborhood. And these functions are the same for every point in your
+matrix. And you can learn arbitrary functions in this way. And what's nice about this is that you
+only need to learn computational primitives once. Our current neural networks need to learn the same
+linear algebra over and over again in many different corners of the neural network
+because you need vector algebra for many kinds of operations that we perform.
+For instance, operations in space where we shift things around or rotate them.
+And if they could exchange these useful operations with each other and just apply
+an operator whenever the environment dictates that this would be a good idea to try to apply
+this operator right now in this context, that could speed up learning. That could make training
+much more sample efficient. So something super interesting to try. And this is one of the rabbit
+holes I recently fell down over. I changed my thinking based on some experiment from
+neuroscience that doesn't have very big impact for the mainstream of neuroscience,
+but that I found reflected in Michael's work with planaria.
+Yeah, that's super interesting stuff. I can sprinkle a few details onto this.
+So the original finding in planaria was a guy named James McConnell at Michigan, actually,
+in the US. And then that was in the 60s, the early 60s. And then there were some really
+interesting Russian work that picked it up after that. We reproduced some of it recently
+in using modern quantitative automation and things like this. But one of the really cool
+aspects of this, and there's a whole community, by the way, with people like Randy Gallistil
+and Sam Gershman and, of course, Glantzman, David Glantzman, and people who are... That story of
+memory in the precise details of the synapses, that story is really starting to crack actually
+for a number of reasons. But one of the cool things that was done in the Russian work,
+and it was also done later on by Doug Blackiston, who's in my lab now as a staff scientist and other
+people, is this. Certain animals that go through larval stages. So you can take... So the Russians
+were using beetle larvae, and Doug and other people used moths and butterflies. So what happens is
+you train the larvae. So here you've got a caterpillar. So this caterpillar lives in a
+two-dimensional world. It's a soft-bodied robot. It lives in a two-dimensional world. It eats leaves
+and so on. And so you train this thing for a particular task. Well, during metamorphosis,
+it needs to become a moth or butterfly, which it lives in a three-dimensional world. Plus,
+it's a hard-bodied creature. So the controller is completely different for running a caterpillar
+versus a butterfly. So during that process, what happens is the brain is basically dissolved.
+So most of the connections are broken. Most of the cells are gone. They die. You put together
+a brand new brain that self-assembles, and you can ask all sorts of interesting philosophical
+questions of what it's like to be a creature whose brain is undergoing this massive change.
+But the information remains. And so one can ask, okay, certainly for computer science, it's amazing
+to have a memory medium that can survive this radical remodeling and reconstruction.
+And there's the RNA story, but also you had mentioned, does this work for mammals?
+So there was a guy in the 70s and 80s, there was a guy named George Ungar who did tons of,
+he's got tons of papers. He reproduced it in rats. So his was Fear of the Dark. And he actually,
+by establishing this assay and then fractionating their brains and extracting this activity,
+now he thought it was a peptide, not RNA. So he ended up with a thing called scotophobin,
+which turns out to be, I think, an eight mer peptide or something.
+And the claim was that you can transfer this scotophobin, you can synthesize it
+and then transfer it from brain to brain. And that's what he thought it was. And then I think
+David Glansman favors RNA again. But yeah, I agree with you. I think that's a super important
+story of how it is that this kind of information can survive just massive remodeling of the
+cognitive substrate. In planaria, what we did, and planaria, they have a true centralized brain.
+They have all the same neurotransmitters that we have. They're not a simple organism.
+What we did was McConnell's first experiments, which is to train them on something. And we
+train them to recognize a laser etched kind of bumpy pattern on the bottom of the dish and to
+recognize that that's where their food was going to be found. So they made this association between
+this pattern and getting food. And then we cut their heads off and we took the tails and the
+tails sit there for 10 days doing nothing. And then eventually they grow a new brain.
+And what happens is that information is then imprinted onto the new brain and then you can
+recover behavioral evidence that they remember the information. So that's pretty cool too,
+because it suggests that, well, we don't know if the information is everywhere or if it's in other
+places in the peripheral nervous system or in the nerve core that we don't know where it is yet.
+But it's clear that it can move around, that the information can move around in the body because
+it can be in the posterior half and then imprinted onto the brain, which actually drives all the
+behaviors. So thinking about that, I totally agree with you that this is a really important
+rabbit hole for asking, but there's an interesting puzzle here, which is this.
+It's one thing to remember things that are evolutionarily adaptive, like fear of the dark
+and things like this, but imagine, and this hasn't really been done well, but imagine for a moment
+if we could train them to something that is completely novel. Let's say we train them,
+three yellow life flashes means take a step to your left, otherwise you get shocked, something
+like that. And let's say they learn to do it. We haven't done this yet, but let's say this could
+work. One of the big puzzles is going to be when you extract whatever it is that you extract,
+let's say it's RNA or protein, whatever it is, you stick it into the brain of a recipient host.
+And in order for that memory to transfer, one of the things that the host has to be able to do is
+has to be able to decode it. And in order to decode it, it's one thing if we share the same
+codebook and by evolution, we could have the same codebook for things that come up all the time,
+like fear of the dark, things like that. But how would the recipient look at a weird
+sort of some kind of crazy hairpin RNA structure and analyze and be like, oh yes,
+that's three light flashes and then a step to the left, I see. So you would need to be able to
+interpret somehow this structure and convert it back to the behavior. And for behaviors that are
+truly arbitrary, that might be, I don't know actually how that would work. And so I think
+the frontier of this field is going to be to have a really convincing demonstration of a transfer
+of a memory that doesn't have a plausible pre-existing shared evolutionary decoding,
+because otherwise you have a real puzzle as to how the decoding is going to work.
+So this idea, and then even without the transfer, you can also think of it a different way.
+Every memory is like a message, is like basically a transplanted message from your past self to
+your future self, meaning that you still have to decode your memories. Whatever your memories are,
+in an important sense, you have to, those N-grams, you have to decode them somehow.
+So that whole issue of encoding and decoding, whatever the substrate of memory is, is maybe
+one of the most important questions there are. One of the ways we can think about these N-grams,
+I think that there are priors that condition what kinds of features are being spawned in
+which context. For instance, when we see a new scene, the way that perception seems to be working
+is that we spawn lots of feature controllers that then organize into objects that are controlled at
+the level of the scene. And this is basically a game engine that is forming in our brain,
+that is creating a population of interacting objects that are tuned to track our perceptual
+data at the lowest level. So all the patterns that we get from our retina and so on are samples,
+noisy samples that are difficult to interpret, but we are matching them into these hierarchies
+of features that are translated into objects that assign every feature to exactly one object and
+every pixel, so to speak, to exactly one, except in the case of transparency, and use this to
+interpret the scene that is happening in front of us. And when we are in the dark, what happens is
+that we spawn lots of object controllers without being able to disprove them, because there is no
+data that forces us to reject them. And if you have a vivid imagination, especially as a child,
+you will fill this darkness automatically with lots of objects, many of which will be scary.
+And so I think that lots of the fear of the dark doesn't need a lot of encoding in our brain. It
+is just an artifact of the fact that there are scary things in the world which we learn to
+represent at an early age, and that we cannot disprove them, that they will just spawn.
+I remember this vividly as a child, that whenever I had to go into the dark basement to get some
+food in our house in the countryside, that this darkness automatically filled with all sorts of
+shapes and things and possibilities. And it took me later to learn that you need to be much more
+afraid of the ghosts that can hide in the light. So what would be the implications of if you were
+able to transfer memory for something that's not trivial, so nothing that's like an archetype of
+fear of the dark between a mammal like rats? And when I say transfer memory, I mean, in this way
+that you blend up the brain or you, and also, can you explain what's meant by, I think I understand
+what it means to blend the brain of a planaria, but I don't think that's the same process that's
+going on in rats. Maybe it is. Well, Ungar did exactly the same thing. He would train rats
+for particular tasks. He would extract the brain, literally liquefy it to extract the chemical
+contents. He would then either inject the whole extract or a filtered extract where you would
+divide it up. You'd set fractionate it. So here's the RNAs, here's the proteins, here are other
+things. And then he would inject that liquid directly into the brains of recipient rats.
+When you do that, you lose spatial structure on the input because you just blended your brain.
+Whatever spatial structure there was, you just destroyed it. Also on the recipient,
+you just inject it. You're not finding that particular place where you're going to stick
+it. You just inject this thing right in the middle of the brain. Who knows where it goes,
+where the fluid goes. There's no spatial specificity there whatsoever. So if that works,
+what you're counting on is the ability of the brain to take up information via a completely
+novel route. So it's not information that's, for example, visual, right? Visual information
+that comes in exactly the same place all the time, right? There are optic nerves that connect to
+the same place in the brain, and that's where that information arrives. If you bathe the brain in
+some sort of informational extract, you're basically asking the cells to take it up almost
+as a primitive animal would with taste or touch you, right? That's kind of distributed all over
+the body, and you can sort of pick it up anywhere, and then you have to process this information.
+So you've got those issues right off the bat, right? That you've destroyed the incoming spatial
+structure. You can't really count on where it's going to land in the brain. And then the third
+thing, as you just mentioned, is the idea that, especially if we start with information that
+especially if we start with information that isn't any, that is so kind of specific and
+invented, that three light flashes means move to your left. I mean, there's never been an
+evolutionary reason to have that encoded. Like as you just said, having a fear of the dark is
+absolutely a natural kind of thing that you can expect. And then there are many other things like
+that. But something as contrived as three light flashes, and then you move to your left,
+there's no reason to think that we have a built-in way to recognize that. So when you as a recipient
+brain are handed this weird molecule with a particular structure or a set of molecules,
+being able to analyze that, having the cells in your brain or other parts of the body actually,
+that could analyze that and recover that original information would be extremely puzzling. I
+actually don't know how that would work. And I'm a big fan of unlikely sounding experiments
+that have implications if they would work. So this is something that I think should absolutely
+be done. And at some point we'll do it, but we haven't done it yet. So how far did the
+research in my school, what is the complexity of things that could be transmitted via this route?
+I don't remember everything that he did. The vast majority of, he did not go
+far to test all the complexities. What he tried to do was, because as you can imagine,
+he faced incredible opposition, right? So everybody sort of wanted to critique this thing.
+So he spent all of his time on, he picked one simple assay, which was this fear of the dark
+thing. And then he just bashed it for 20 years to just finally try to kind of crack that into the
+paradigm. He did not, as far as I know, do lots of different assays to try and make it more complex.
+I think it's very ripe for investigation. Did anyone else build upon his work?
+Not that I know. I mean, David Glansman is the best modern person who works on this, right? So
+he does a plesia and he does RNA. So he favors RNA. There's a little bit of work from Oded Rahavi
+in Israel with C. elegans. He's kind of looking into that. There's related work that has to do
+with cryogenics, which is this idea that if memories are a particular kind of dynamic electrical
+state, then some sort of cryogenic freezing is probably going to disrupt that. Whereas if
+it's a stable molecule, then it should survive. So again, I think there are people interested
+in that aspect of it, but I'm not sure. I'm not sure they've done anything with it.
+There's also Gaurav Venkataraman. I think he's at Berkeley. He told me that
+he has been working on this for several years, but he said it's sociologically tricky.
+And that's to me fascinating that we should care about that.
+What does he mean by that?
+What do you care about? What stupid people think? If this possibility exists that this works,
+the upside is so big that it's criminal to not research this. I think it's a disaster
+that you can read introductory textbooks on neuroscience and never ever hear about any of
+these experiments. Everybody who gets the introductory stuff on neuroscience only knows
+about information stored in the conic tome. And this leads to, for instance, the Blue Brain
+project. If RNA-based memory transfer is a thing, then this entire project is doomed,
+because you cannot get the story out of just recording the conic tome. Most of the research
+right now is focused on reconstructing the conic tome as it was circuitry and hoping that
+we can get the functionality of information processing and deduce the specificity of the
+particular brain, what it has learned from the connections between neurons.
+But what if it turns out this doesn't matter? You just need connections that are dense enough,
+and so basically stochastic lattice that is somewhat randomly wired. What matters is what
+the neurons are doing with the information that they're getting through this ether,
+through this lattice. It just changes the entire way in which we need to look at things.
+And if this possibility exists, and if this possibility is just 1%,
+but there are some experimental points in this direction, it is ridiculous to not pursue this
+with high pressure and focus on it and support research that goes in this direction. Basically,
+what's useful is not so much answering questions in science, it's discovering questions,
+it's discovering new uncertainty. Reducing the uncertainty is much easier than discovering new
+areas of where you thought that you were certain, but that allow you to get new insights. And it
+seems to me that a lot of neuroscience is stuck, that it does not produce results that seem to
+accumulate in an obvious way towards a theory on how the brain processes information. So the
+neuroscientists don't deliver input to the researchers, and the transformer is not the
+result of reading a lot of neuroscience. It's really mostly the result of people's thinking
+about statistics of data processing. And it would be great if we would focus on ideas that
+are promising and new and that have the power to shake existing paradigms.
+Yeah. This is so important, and it's not just neuroscience. In developmental biology,
+we have exactly the same thing. And I'll just give you two very simple examples of it where,
+and I tell the students, when I give talks to students, I say, isn't it amazing that
+in your whole course of biology and your developmental biology textbook, there's not
+a mention of any of this because it completely just undermines a lot of the basic assumptions.
+So here's a couple of examples. One example is that as of trophic memory in deer,
+so there are species of deer that every year they regenerate. So they make this antler
+rack on their heads, the whole thing falls off, and then it regrows the next year. So these two
+guys, Bobenak, which are a father and son team that did these experiments for 40 years, and I
+actually have all these antlers in my lab now because when the younger one retired, he sent me
+all these things, all these antlers. The idea is this, what you can do is you take a knife
+and somewhere in this branch structure, you make a wound and the bone will heal and you get a
+little callus and that's it for that year. Then the whole thing drops off. And then next year,
+it starts to grow and it will make an ectopic tine, an ectopic branch at the point where you
+injured it last year. And this goes on for five or six years, and then eventually it goes away and
+you get a normal rack again. And so the amazing thing about it is that the standard models for
+patterning for morphogenesis are these gene regulatory networks and genetic biochemical
+gradients and so on. If you try to come up with a model for this, so for encoding an arbitrary point
+within a branch structure that your cells at the scalp have to remember for months after the whole
+thing is dropped off, and then not only remember it, but then implement it so that when the bone
+starts to grow, something says, oh yes, that's the start another tine growing to your left exactly
+here. Trying to make a model of this using the standard tools of the field is just incredibly
+difficult. And there are other examples of this, but this kind of non-genetic memory that's just
+very difficult to explain with standard models. The other thing, which is I think an even bigger
+scandal, is the whole situation with planaria. Some species of planaria, the way they reproduce
+is they tear themselves in half, each half regenerates the missing piece, and now you've
+got two. That's how they reproduce. So if you're going to do that, what you end up avoiding is
+Weissman's barrier, this idea that when we get mutations in our body, our children don't inherit
+those mutations. So this means that any mutation that doesn't kill the stem cell in the body gets
+amplified as that cell contributes to regrowing the worm. So as a result of this, for 400 million
+years, these planaria have accumulated mutations. Their genomes are an incredible mess. Their cells
+are basically mixoploid, meaning they're like a tumor. Every cell has a different number of
+chromosomes potentially. It just looks horrible. As an end result, you've got an animal that is
+immortal, incredibly good at regenerating with 100% fidelity and very resistant to cancer.
+Now, all of this is the exact opposite of the message you get from a typical course through
+biology, which says that, what is the genome for? The genome is for setting your body structure.
+If you mess with the genome, that information goes away. You get aging, you get cancer.
+Why does the animal with the worst genome have the best anatomical fidelity? I think we actually,
+a few months ago, we actually, I think, have some insight into this, but it's been bugging
+me for years. And this is the kind of thing that nobody ever talks about because it goes
+against the general assumption of what genomes actually do and what they're for. And this complete
+lack of correlation between the genome, in fact, an anti-correlation between the genome quality
+and the incredible ability of this animal to have a healthy anatomy.
+Yeah. What is that insight that you mentioned you acquired a few months ago, preliminary?
+Okay. In the name of throwing out kind of new unproven ideas, right? So this is just my
+conjecture. We've done some computational modeling of it, which I initially, this was a
+very clever student that I work with named Laxwin, who did some models with me. And
+I initially thought it was a bug. And then I realized that, no, actually, this is the feature.
+The idea is this, imagine... So we've been working for a long time on a concept of
+competency among embryonic parts. And what this means is basically the idea that
+there are homeostatic feedback loops among various cells and tissues and organs that
+attempt to reach specific outcomes in anatomical morphous space, despite various perturbations.
+So the idea is that if you have a tadpole and you do something to it, whether by a mutation
+or by a drug or something, you do something to it where the eye is a little off kilter,
+or the mouth is a little off. All of these organs pretty much know where they're supposed to be.
+They will try to minimize distance from other landmarks and they will remodel. And eventually
+you get a normal frog so that they will recover the correct anatomy, despite starting off in the
+wrong position, or even things like changes in the number of cells or the size of cells.
+They're really good at getting their job done despite various changes. So they have these
+competencies to optimize specific things like their position and the structure and things like
+that. So that's competency. Now, here's the interesting thing. Imagine that you have a
+species that has some degree of that competency. And so you've got an individual, if that species
+comes up for selection, fitness is high, looks pretty good. But here's the problem.
+Selection doesn't know whether the fitness is high because his genome was amazing,
+or the fitness is high because the genome was actually so-so, but the competency made up for it
+and now everything got back to where it needs to go. So what the competency apparently does
+is shield information from evolution about the actual genome. It makes it harder to pick the
+best genomes because your individuals that perform well don't necessarily have the best genomes.
+What they do have is competency. So what happens in our simulations is that if you start off with
+even a little bit of that competency, evolution loses some power in selecting the best genomes,
+but where all the work tends to happen is increasing the competency. So then the competency
+goes up. So the cells are even better and the tissues are even better at getting the job done
+despite the bad genome. That makes it even worse. That makes it even harder for evolution to see
+the best genomes, which relieves some of the pressure on having a good genome, but it basically
+puts all the pressure on being really competent. So basically what happens is that the genetic
+fitness basically levels out at a really suboptimal level. And in fact, the pressure
+is off of it. So it's tolerant to all kinds of craziness, but the competency and the mechanisms
+of competency get pushed up really high. So in many animals, and there are other factors that
+push against this ratchet, but it becomes a positive feedback loop. It becomes a ratchet
+for optimal performance despite a suboptimal genome. And so in some animals, this evens out
+at a particular point, but I think what happened in planaria is that this whole process ran away
+to its ultimate conclusion. The ultimate conclusion is the competency algorithm became so good that
+basically whatever the genome is, it's really good at creating and maintaining a proper worm
+because it is already being evolved in the presence of a genome whose quality we cannot control.
+So in computer science speak, it's kind of like, and Steve Frank put me onto this analogy,
+it's kind of like what happens in rate arrays. When you have a nice rate array where the software
+makes sure that you don't lose any data, the pressure is off to have really high quality
+media. And so now you can tolerate media with lots of mistakes because the software takes care of it
+in the rate and the architecture takes care of it. So basically what happens is you've got this
+animal where that runaway feedback loop went so far that the algorithm is amazing and it's been
+evolved specifically for the ability to do what it needs to do even though the hardware is kind
+of crap. And it's incredibly tolerant. So this has a number of implications that to my knowledge
+have never been explained before. For example, in every other kind of animal, you can call a stock
+center and you can get mutants. So you can get mice with kinky kind of kink tails. You can get
+flies with red eyes and you can get chickens without toes and you can get humans come with
+albinos and things. There's always mutants that you can get. Planaria, there are no abnormal lines
+of planaria anywhere except for the only exception is our two-headed line and that one's not genetic.
+That one's bioelectric. So isn't it amazing that nobody has been able, despite 120 years of
+experiments with planaria, nobody has isolated a line of planaria that is anything other than
+a perfect planaria. And I think this is why. I think it's because they have been actually selected
+for being able to do what they need to do despite the fact that the hardware is just very junky.
+So that's my current take on it. And really it puts more emphasis on the algorithm and the
+decision making among that cellular collective of what are we going to build and what's the
+algorithm for making sure that we're all working to build the correct thing.
+So if you translate this idea into computer science, a way to look at it is imagine that you
+find some computers that have hard disks that are very, very noisy and where the hard disk
+basically makes lots and lots of mistakes in encoding things and bits often flip and so on.
+And you will find that these computers still work and they work in pretty much the same way
+as the other computers that you have. And there is an orthodox sect of computer scientists that
+thinks it is necessary that every bit on the hard disk is completely reliable or reliable to
+such a degree that you only have a mistake once every 100 trillion copies. And you can
+have an error correction code running on the hard disk at the low level that corrects this.
+And after some point it doesn't become efficient anymore. So you need to have reliable hard disks
+to be able to have computers that work like this. But how would these other computers work?
+And it basically means that you create a virtual structure on top of the noisy structure
+that is correcting for whatever degree of uncertainty you have or the degree of
+randomness that gets injected into your substrate. Dave Eggley has a very nice metaphor for this.
+Do you know him, maybe? Yeah, I know him.
+Yeah, he's a beautiful artist who explores complexity by tinkering with computational models
+and really finds his work very inspiring. And he has this idea of best effort computing. So
+in his view, our own nervous system is a best effort computer. It's one that does not rely
+on the other neurons around you working perfectly, but make an effort to be better than random.
+And then you stack the improbabilities empirically by having a system that evolves to measure in
+effect the unreliability of its components. And then stack the probabilities until you get
+the system to be deterministic enough to do what you're doing with it. If you have a system that
+is, as in the planaria, inherently very noisy, where the genome is an unreliable witness of
+what should be done in the body, you just need to interpret it in a way that stacks the probabilities,
+that is evaluating things with much more error tolerance. And maybe this is always the case.
+Maybe there is a continuum, maybe not. It's also possible that there is some kind of phase shift
+where you switch from organisms with reliable genomes to organisms with noisy genomes. And you
+basically use a completely different way to construct the organism as a result. But it's
+a very interesting hypothesis then to see if this is a radical thing or a gradual thing that happens
+in all organisms to some degree. What I also like about this description that you give about
+how the organism emerges, it maps in some sense also in how perception works in our own mind.
+At the moment, machine learning is mostly focused on recognizing images or individual frames. And
+you feed in information frame by frame and the information is totally disconnected.
+A system like Dali2 is trained by giving it several hundreds of millions of images.
+And they are disconnected. They are not adjacent images in the space of images. And
+maybe you could not probably learn from giving 600 million images in a dark room and only looking
+at this introduced the structure of the world from this. Whereas Dali can, which gives testament to
+the power of our statistical methods and hardware that we have. That far surpasses, I think, the
+combined power and reliability of brains, which probably would not be able to integrate so much
+information over such a big distance. For us, the world is learnable because its adjacent frames
+are correlated. Basically, information gets preserved in the world through time. And we
+only need to learn the way in which the information gets transmogrified. And these
+transmogrification of information means that we have a dynamic world in which the static image
+is an exception. The identity function is a special case of how the universe changes. And
+we mostly learn change. I just got visited by my cat. And my cat has difficulty to recognize
+static objects compared to moving objects, where it's much, much easier to see a moving ball than
+a ball that is lying still. And it's because it's much easier to segment it out the environment
+when it moves. So the task of learning on a moving environment, a dynamic environment,
+is much easier because it imposes constraints on the world. And so how do we represent a moving
+world compared to a static world? The semantics of features changes. And an object is basically
+composed of features that can be objects themselves. And the scene is a decomposition
+of all the features that we see into a complete set of objects that explain the entirety of the
+scene. And the interaction between them and causality is the interaction between objects.
+And in a static image, these objects don't do anything. They don't interact with each other.
+They just stand in some kind of relationship that you need to infer, which is super difficult
+because you only have this static snapshot. And so the features are classifiers that tell you
+how to, whether a feature is a hand or a foot or a pen or a sun or a flashlight or whatever,
+and how they relate to the larger scene, in which, again, you have a static relationship
+in which you need to classify the object based on the features that contribute to them.
+And you need to find some kind of description where you interpret features, which are usually
+ambiguous and could be many different things, depending on the context in which you interpret
+them, into one optimal global configuration, right? But if the scene is moving, this changes
+a little bit. What happens now is that the features become operators. They're no longer
+classifiers that tell you how your internal state needs to change, how your world needs to change,
+how your simulation of the universe in your mind needs to change to track the sensory patterns.
+Right, so a feature now is a change operator, a transformation. And the feature is in some sense
+a controller that tells you how the bits are moving in your local model of the universe.
+And they're organized in a hierarchy of controllers. And these controllers need to
+be turned on and off at the level of the scene. And they have a lot of flexibility once you have
+them. They can move around in the scene. They're basically now self-organizing,
+self-stabilizing entities. In the same way as the mouse is moving around in your organism,
+a feature can move around in the organism and shift itself around to communicate with other
+features until they negotiate a valid interpretation of reality.
+That's incredibly interesting because as soon as you started saying that,
+I was starting to think that the virtualization that enables, right, so the earlier part of which
+we're saying the virtualization of the information that allows you to deal with unreliable
+hardware and everything, the bioelectric circuits that we deal with are a great candidate for that
+because actually we see exactly that. We see a bioelectric pattern that is very resistant to
+changes in the details and make sure that everybody does the right thing under a wide range of
+different defects and so on. But even more than that, the other thing that you were just
+emphasizing this, the fact that we learn the delta and that we're looking for change,
+very interesting. If you pivot the whole thing from the temporal domain to the spatial domain,
+so in development, when we look at these bioelectric patterns, now these patterns
+are across space, not across time. So unlike in neuroscience where everything is in the temporal
+domain for neurons, these are static voltage patterns across tissue, right, across the whole
+thing. So for the longest time, we asked this question, how are these read out? How do cells
+actually read these? Because one possibility early, this was a very early hypothesis 20 years ago,
+was that maybe the local voltage tells every cell what to be. So it's like a paint by numbers kind
+of thing. And each voltage value corresponds to some kind of outcome. That turned out to be false.
+What we did find is that, and we have computational models of how this works now,
+what is read out is the delta, the difference between regions. It doesn't care, nobody cares
+about what the absolute voltage is, what is read out in terms of outcomes for downstream cell
+behavior, gene expression, all that. What is actually read out is the voltage difference
+between two adjacent domains. So that is exactly actually what it's doing just in the spatial
+domain. It only keys off of the delta. And what is learned from that is exactly as you were saying,
+it modifies the controller for what's downstream of that. And there may be multiple ones that are
+sort of moving around and co-inhabiting. I mean, it's a very compelling picture actually and way
+to look at some of the simulations that we've been doing about how the bioelectric data are
+interpreted by the rest of the cells. It's very interesting.
+So Professor Levin used the word competence earlier, and I'd like you to define that.
+Yeah. In order to define it, I want to put out two concepts to this. One idea is that, to me,
+and this goes back to what we were talking about before as the engineering stance on things,
+I think that useful cognitive claims such as something, when you say this system has whatever
+or it can whatever, as far as various types of cognitive capacities, I think those kinds of
+claims are really engineering claims. That is, when you tell me that something is competent
+at a particular level, so you can think about Wiener and Rosenbluth scale of cognition that
+goes from simple passive materials and then reflexes and then all the way up to second
+order metacognition and all that. When you tell me that something is on that
+ladder and where it is, what you're really telling me is, if I want to predict its behavior or I
+want to use it in an engineering context or I want to interact with it or relate to it in some way,
+this is what I can expect. That's what you're really telling me. All of these terms,
+what they really are, are engineering protocols. If you tell me that something
+has the capacity to do associative learning or whatever, what you're telling me is that,
+hey, you can do something more with this than you could with a mechanical clock.
+You can provide certain types of stimuli or experiences and you can expect it to do this
+or that afterwards. Or if you tell me that something is a homeostat, that means that,
+hey, I can count on it to keep some variable at a particular range without having to be myself
+to control it all the way. It has a certain autonomy now. If you tell me that something
+is really intelligent and it can do XYZ, then I know that, okay, you're telling me that it
+has even more autonomous behavior in certain contexts. All of these terms, to me, what they
+really are, they're not... And that has an important implication. The implication is that
+they're observer dependent, that you've picked some kind of problem space, you've picked some
+kind of perspective. And from that problem space and that perspective, you're telling me that
+given certain goal states, this system has that much competency to pursue those goal states.
+And different observers can have different views on this for any given system. So for example,
+somebody might look at a brain, let's say a human brain and say, well, I'm pretty sure the only
+thing, this is a paperweight. So it's really pretty much just competent in going down gravitational
+gradients. So all it can do is hold down paper, that's it. And somebody else will look at it and
+say, you missed the whole point. This thing has competencies in behavioral space and
+linguistic space. So these are all empirically testable engineering claims about what you can
+expect the system to do. So when I say competency, what I mean is we specify a space, a problem
+space. And at the time when we were talking about this, the problem space that I was talking about
+was the anatomical morphous space. That was the space we were talking about. So the space of
+possible anatomical configurations and specifically navigating that morphous space. So you start off
+as an egg or you start off as a damaged limb or whatever, and you navigate that morphous space
+into the correct structure. So when I say competency, I mean, you have the ability to deploy
+certain kinds of tricks to navigate that morphous space with some level of performance that I can
+count on. And so the competency might be really low or it might be really high. And I would have to
+make specific claims about what I mean. Here's an example of a common, and there are many,
+if you just think about the behavioral science of navigation, there are many competencies you
+can think about. Does it know ahead of time where it's going? Does it have a memory of where it's
+been? Or is it a very simple sort of reflex arc is all it has? Or here's one example of a pretty
+cool competency that a lot of biological systems have. If we take some cells that are in the tail
+of a tadpole and we modify their ion channels such that they now acquire the goal of navigating to
+an eye fate in this morphous space, meaning that they're going to make an eye. These things,
+in fact, will create an eye and they'll make an eye in the tail, on the gut, wherever you want.
+But one of the cool, and so that's already pretty cool, but one of the amazing aspects is
+if I only modify a few cells, not enough to make an actual eye, just a handful of cells,
+and we've done this and you can see this work. One of the competencies they have is to recruit
+local neighbors that were themselves not in any way manipulated to help them achieve that goal.
+It's a little bit like in an ant colony. This idea of recruitment in ants and termites is an
+idea of recruitment where individuals can recruit others and talk about a flexible collective
+intelligence. This is it. You've re-specified the goal for that set of cells, but one of the
+things that they do without us telling them how to do it or having to micromanage it,
+they already have the competency to recruit as many cells as they need to get the job done.
+For an engineer, that's a very nice competency because it means that I don't need to worry
+about taking care of getting exactly the right number of cells. If I'm a little bit over,
+that's fine. If I'm way under, also fine. The system has that competency of recruiting
+other cells to get the job done. That's what I meant. To make any kind of a cognitive claim,
+you have to specify the problem space. You have to specify the goal towards which it's expressing
+competencies. Then you can make a claim about, well, how competent is it to get to that goal?
+I wish I could remember who it was, but somebody made this really nice analogy about the ends of
+that spectrum. They said two magnets try to get together and Romeo and Juliet try to get together,
+but the degree of flexible problem solving that you can expect out of those two systems is
+incredibly different. Within that range, there are all kinds of in-between systems that may be
+better or worse and may deploy different kinds of strategies. Can they avoid local optima? Can they
+have a memory of where they've been? Can they look further than their local environment? A
+million different things. That's what I meant by competency. It's a claim about
+what an engineer can expect the system to do given a particular problem space and a particular
+goal that you think it's trying to reach. The way in which you use the word competency
+could be treated as the capacity of a system for adaptive control.
+One issue that I have with the notion of goals and goal directedness is that sometimes you only
+have a tendency in a system to go in a certain direction. It's directed, but the goal is something
+that can be emergent. Sometimes it's not. Sometimes there is an explicit representation
+in the system of a discrete event that is associated or a class of events with fulfilling
+a certain condition that the system has committed itself to. If you don't have that, you don't have
+a proper goal. In real systems, it's difficult to say. When do we pursue goals? Sometimes we just
+vaguely hungry or moving towards the kitchen because we hope that something will opportunistically
+emerge that will deal with this vague tendency in our behavior. We could also say we have the
+goal of finding food, but that is a rationalization that is maybe stretching things sometimes.
+Sometimes a better distinction for me is going from a simple controller to an agent.
+We are very good at discovering agency in the world. What does it actually mean when we discover
+agency and when we discover our own agency and start to amplify it by making models of who we
+are and how we deal with the world and with others and so on? The minimal definition of agent that I
+found is a controller for future states. The thermostat doesn't have a goal by itself. It
+just has a target value and a sensor that tells its deviation from the target value and when that
+exceeds a certain threshold, the heating is turned on. If it goes below a certain threshold,
+the heating is turned off again and this is it. The thermostat is not an agent. It only reacts
+to the present frame. It's only a reactive system. Whereas an agent is proactive, which means that
+it's trying to not just minimize the current deviation from the target value, but the integral
+over the time span, the future deviation. It builds an expectation about how an action is
+going to change this trajectory of the universe. Over that trajectory, it tries to figure out some
+measure of how big the compound target deviation is going to be. As a result, you get a branching
+universe. The branches in this universe, some of these branches depend on actions that are
+available to you and that translate into decisions that you can make that move you
+into more or less preferable wealth states. Suddenly, you have a system with emergent
+beliefs, desires, and intentions. To make that happen, to move from a controller to agency,
+agent just being a controller with an integrated set point generator and the ability to control
+future states, that requires that you can make models that are counterfactual because the future
+universe doesn't exist right now. You need to create a counterfactual model of the future
+universe, maybe even a model of the past universe that allows you to reason about possible future
+universes and so on. To make these counterfactual causal models of the universe, you need to have a
+Turing machine. Without a computer, without something that is Turing complete, that insulates
+you from the causal structure of your substrate, that allows you to build representations regardless
+of what the universe says right now around you, you need to have that machine. The simplest
+system in nature that has a Turing machine integrated is the cell. It's very difficult to
+find a system in nature that is an agent, that is not made from cells as a result. Maybe there
+are systems in nature that are able to compute things and make models, but I'm not aware of any.
+The simplest one that I know that can do this reliably is the cells or arrangement of cells
+that can possess agency, which is an interesting thing that explains this coincidence that living
+things are agents and vice versa, that the agents that we discover are mostly living things,
+or there are robots that have computers built into them, or virtual robots that rely on
+computation. The ability to make models of the future is the prerequisite for agency.
+To make arbitrary models, which means structures that embody causal simulations of some sort,
+that requires computation. Yeah, yeah. I'm on board with that
+ladder, that taxonomy of goals and so on. One interesting thing about goals, and as you say,
+some are emergent and some are not, there's an interesting planarian version of this,
+which is this. We made this hypothesis about, so within planaria, you chop it up into pieces
+and every piece regenerates exactly the right rest of the work. If you chop it into pieces,
+each piece will have one head, one tail. Then, of course, what happens is it stops when it reaches
+a correct planarian, then it stops. We started to think that there are a couple of possibilities.
+One possibility is that this is a purely emergent process and that the goal of rebuilding a head is
+an emergent thing that comes about as a consequence of other things. Or could there be
+an actual explicit representation of what a correct planarian is that serves as a
+set point, as an explicitly encoded set point for these cells to follow?
+Because it's a cellular collective, we were communicating electrically. We thought, well,
+maybe what it's doing is basically storing a memory of what, like you would in a neural
+circuit, storing a memory of what it should be. We started looking for this and this is what we
+found. This is, I think, one important type of goal in a goal-seeking system is a goal that
+you can rewrite without changing the hardware and the system will now pursue that goal instead of
+something else. In a purely emergent system, that doesn't work. If you have a cellular automaton or
+a fractal or something that does some kind of complex thing, if you want to change what that
+complex thing is, you have to figure out how to change the local rules. That's very hard in most
+cases. But what we found in planaria is that we can literally, using a voltage reporter die,
+we can look at the worm and we can see now the pattern, and it's a distributed pattern,
+but we can see the pattern that tells this animal how many heads it's supposed to have.
+And what you can do is you can go in and using a brief transient manipulation of the ion channels
+with drugs, with ion channel drugs, and we have a computational model that tells you what those
+drugs should be, that briefly changes the electrical state of the circuit, but the circuit is amazing.
+Once you've changed that state, it holds. So by default, in a standard planaria, it always says
+one head, but it's kind of like a flip-flop in that when you temporarily shift it, it holds and
+you can push it to a state that says two heads. So now something very interesting happens. Two
+interesting things. One is that if you take those worms and you cut those into pieces,
+you get two headed worms, even though the hardware is all wild type. There's nothing wrong with the
+hardware. All the proteins are the same. All the genetics is the same, but the electric circuit
+now says make two heads instead of one. And so this is in an interesting way. It is an explicit
+goal because you can rewrite it because much like with your thermostat, there's an interface for
+changing what the goal state is, and then you don't even need to know how the rest of the
+thermostat works. As long as you know how to modify that interface, the system takes care of
+the rest. The other interesting thing is, and I love what you said about the counterfactuals,
+what you can do is you can change that electrical pattern in an intact worm and not cut it for a
+long time. And if you do that, when you look at that pattern, that is a counterfactual pattern
+because that two headed pattern is not a readout of the current state. It says two heads, but the
+animal only has one head. It's a normal planarian. So that pattern memory is not a readout of what
+the animal is doing right now. It is a representation of what the animal will do in the future if it
+happens to get injured. And you may never cut it or you may cut it, but if you do, then the cells
+consult the pattern and build a two headed worm, and then it becomes the current state. But until
+then, it's this weird like primitive, it's a primitive counterfactual system because it's
+able to, a body of a planarian is able to store at least two different representations of what a,
+probably many more, but we've found two so far, what a correct planarian should look like. It
+can have a memory of a one headed planarian or a memory of a two headed planarian. And both of
+those can live in exactly the same hardware and exactly the same body. The other kind of cool
+thing about this, and I'll just mention this even though this is disclaimer, this is not published
+yet. So take all this with a grain of salt, but the latest thing you can do is you can actually
+treat it with some of the same compounds that are used in neuroscience in humans and in rats as
+memory blockers. So things that block recall or memory consolidation. And when you do that,
+you can make the animal forget how many heads it's supposed to have. And then they basically
+turn into a featureless circle when you can just wipe the pattern memory completely.
+Were they using exactly the same techniques you would use in a rat or a human? They just forget
+what to do when they turn into, they fail to break symmetry and they just become a circle.
+So yeah, I think what you were saying is right on with this ability to store counterfactual
+states that are not true now, but may represent aspects of the future. I think that's a very
+important capacity. Another important notion is a constraint and constraint satisfaction. A
+constraint is a rule that tells you whether two things are compatible or not. And the constraint
+is satisfied if they're compatible. So you basically have a number of conditions that you
+establish by measuring that somehow, for instance, whether you have a head or multiple heads,
+and you try to find a solution where you can end up with exactly one head. And if you end up with
+exactly one head based on the starting state, then you have managed to find a way to satisfy
+your constraints. And so in a sense, what you call a competency is the ability of a system to take
+a region of the states of the space of the universe, basically some local region of possible
+state that the universe can be in, and move that region to a smaller region that is acceptable.
+So there is a region on the universe state space where you have only one head. And there's a larger
+region where you don't have any head at all, but the starting state of your organism. And then you
+try to get from A to B. So you get from this larger region to the one in which you want to be. Of
+course, if you have one head, you want to stay in the region in which you have one head, which,
+of course, is usually much easier. But the ability basically to condense the space, to bridge over
+many regions into the target region is what comes down to what this competency is. The system
+basically has an emergent wanting to go in this region, and it's trying to move there. And so
+there are constraints at the level of the substrate that are battling with the functional constraints
+that the organism wants to realize to fulfill its function. And sometimes you cannot satisfy this,
+and you end up with two heads because you don't know which one you get rid of, or how to digest
+one of the heads and so on. And you end up with some Siamese twin. And so this is an interesting
+constraint that you have to solve for when you are dealing with reality and how you battle with
+the substrate until you get to the functional solution that you evolved for. Yeah, that's
+interesting. I mean, we've also found that there are... So we look at exactly this
+the navigation, this kind of navigation and morphous space, how you get from here to there
+and what paths are possible to get from here to there and so on. One of the things that we found
+is that there are regions of that space that belong to other species. And you can push a
+planarian with a standard wild type genome into the goal state of a completely different species.
+So we can get them to grow a head. So there's a species that normally has a triangular head.
+You can make it grow a round head like a different species or a flat head or whatever.
+So those are about 100 to 150 million years of evolutionary distance. And you can do it
+within a few days just by perturbing that electrical circuit so that it lands in the
+wrong space. And then outside of that, there are regions that don't belong to planaria at all.
+So planaria are normally nice and flat. We've made planarians that look like they are a cylinder,
+like a ski cap. They become like a hemisphere or really weird ones that are spiky. They're
+like a ball with spikes on it. There are all kinds of other regions in that space that you can push
+them to. And so- Those are new. Those are not species that they diverge from. Those are new.
+No one's ever... To my knowledge, yes, there are no such species. It's easier to... And we've
+done this in frog too. You can push tadpoles to make it to look like those of other species
+or you can make... That's a whole interesting thing for evolution anyway. One species birth
+defect is a perfectly reasonable different species. So we can make tadpoles with a rounded tail,
+which for a Xenopus tadpole is a terrible tail, but for a zebrafish, that's exactly the right tail.
+So you can imagine evolution manipulating the different information processing by electrical
+circuits or other machinery that help the system explore that more of a space and start to move
+away from whatever that speciation is moving away from your standard attractor that you usually
+land on. How does this relate to intelligence? Well, intelligence is the ability to make models
+and usually in the service of control, at least that's the way I would explain intelligence.
+There are other definitions, but it's the simplest one that I've found.
+It also accounts for the fact that many intelligent people are not very good at getting
+things done. Basically, intelligence and goal rationality are somewhat orthogonal.
+And excessive intelligence is often a prosthesis for bad regulation.
+Have you read the intelligence trap? No.
+Okay. The author makes a similar case and he's coming on shortly, essentially saying that there
+are certain traps that people with high IQs have that are not beneficial for them as biological
+beings. They're mainly cognitive biases. So for instance, it's extremely interesting. So let's
+just give one of the biases to say you're either liberal biased or you're conservative biased,
+and then you were to give a test where there's some data that says that on the surface, it shows
+that the data shows that gun control prevents gun violence. Well, the liberals are more likely to
+say, yes, this data does show that. But if you're conservative, you're more likely to find, oh,
+actually the subtleties in the data show that gun control increases gun violence. And then they
+thought, okay, well, let's just switch this to make it such that the superficial data suggests that
+gun control increases violence. You need to look at the data carefully to show that it actually
+prevents violence. Well, the conservatives in that case would be more quickly to say, oh, look,
+the gun control increases violence, and the liberals would find the the loophole. Well,
+that's one of the reasons why I don't mind interviewing people who are biased. Because to
+me, they're more able to find a justification for something that may be true. But I or and others
+are so well, we all have our own biases. We're so inclined in some other direction that we just were
+blind to it. But anyway, the point is to affirm what you're saying, Yoshi. Okay, so I know Michael
+has a hard cut off at 2pm. So I want to ask the question for a GI that is artificial general
+intelligence. It seems as though we're far away or that our current methods of machine learning
+and what we learn in neuroscience or or what we learn in computer science is something that we're
+missing some paradigm shift or missing some new techniques. Is there something from Michael's
+work? Yoshi, I'm asking you this and then Michael, please respond. Is there something from Michael's
+work that you think can be applied to the development of a GI if such a creature mind
+can exist? Because there are some arguments against it. First of all, I don't know how far
+we are for a GI. It could be that the existing paradigms are sufficient to brute force it.
+But we don't know that yet. It's a we're going to find out in the next few months.
+But it could also be that we need to revive the stack to build systems that work in real time
+that are entangled with the environment that can build shared representations with the environment.
+And that we need to rewrite the stack. And there are actually a number of questions that I'd like
+to ask Michael. What I noticed that Michael is wisely reluctant to use certain words like
+consciousness a lot. And it's because a lot of people are very opinionated about what these
+concepts mean. And you first have to deal with these opinions before you come down to saying,
+oh, here I have the following proposal for implementing reflexive attention
+as a tool to form coherence in a representation. And this leads to the same phenomena as what you
+call consciousness. So that is a detailed discussion. Maybe you don't want to have
+that discussion in every forum. And then having this discussion, you may be looking at how to
+create coherence using a reflexive attention process that makes a real time model of what
+it's attending to and the fact that it's attending to it so it remains coherent but for itself.
+So this is a concrete thing. But I wonder how to implement this in a self-organized fashion
+if the substrate that you have are individual agents. And there is a similarity here between
+societies and brains and social networks. That is, if you have self-interested agents, in a way,
+that try to survive and that get their rewards from other agents that are similar to them
+structurally. And they have the capacity to learn to some degree. And that capacity is
+sufficient so they can, in the aggregate, learn arbitrary programs, arbitrary computable functions.
+And it's sufficient enough so they can converge on the functions that they need to
+as a group reap rewards that apply to the whole group because they have a shared
+destiny like the poor little cells that are locked in the same skull and they're all going
+to die together if they fuck up. So they have to get along, they have to form an organization
+that is distributing rewards among each other. And this gives us a search space for possible
+systems that can exist. And the search space is mostly given, I think, by the minimal agent
+that is able to learn how to distribute rewards efficiently while doing something useful. Using
+these rewards to change how you do something useful. So you have an emergent form of governance
+in these systems. There's not some centralized control that is imposed on the system from the
+outside as an existing machine learning approaches and AI approaches. But this only is an emergent
+pattern in the interactions between the individual small units, small reinforcement learning agents.
+And this control architecture leads to hierarchical government. It's not fully decentralized in any
+way. There are centralized structures that distribute rewards for instance via the dopaminergic
+system in a very centralized top-down manner. And that's because every regulation has an optimal
+layer where it needs to take place. Some stuff needs to be decided very high up, some stuff needs
+to be optimally regulated very low down depending on the incentives. Game theoretically, a government
+is an agent that imposes an offset on your payoff metrics to make your Nash equilibrium compatible
+with the globally best outcome. To do this you need to have agents that are sensitive to rewards.
+It's super interesting to think about these reward infrastructures. Elon Musk has bought Twitter I
+think because he has realized that Twitter is the network among all the social networks that is
+closest to a global brain. It's totally mind-blowing to realize that he basically trades a bunch of
+wealthy stock for the opportunity to become pope. Pope of a religion that has more active participants
+than Catholicism even, right? Daily practicing people who enter this church and think together.
+And it's a thing that is completely incoherent at this point, almost completely incoherent.
+There are bubbles of sentience but for the most part this thing is just screeching at itself.
+And now there is the question, can we fix the incentives of Twitter to turn it into a global
+brain? And Elon Musk is global brain-pilled. He believes that this is the case and that's the
+experiment that he's trying to do which makes me super excited, right? This might fail, there's a
+very big chance that it fails but there is also the chance that we get the global brain, that we get
+emerging collective intelligence that is working in real time using the internet in a way that
+didn't exist before. So super fascinating thing that might happen here. And it's fascinating that
+very few people are seeing that Elon Musk is crazy enough to spend 44 billion dollars on that
+experiment just because he can and has nothing else to do and thinks it's meaningful to do it,
+more meaningful than having so much money in the bank, right? So this makes me interested in
+this test bed for rules and this is something that translates into the way in which society
+is organized because social media is not different from society, not separate from it.
+Problem of governing social media is exactly the same thing as governing a society. You need a
+right form of government, you need a legal system, ultimately you need representation and all these
+issues, right? It's not just the moderation team and the same thing is also true for the brain.
+What is the government of the brain that emerges in what Gary Edelman calls neural Darwinism among
+different forms of organization in the mind until you have a model of a self-organizing agent that
+discovers that what it's computing is driving the behavior of an agent in the real world and
+it covers a first-person perspective and so on. How does that work? How can we get a system that
+is looking for the right incentive architecture? And that is basically the main topic where I
+think that Michael's research is pointing from my perspective that is super interesting. We have
+this overlap between looking at cells and looking at the world of humans and animals and stuff
+in general. Yeah, super interesting. Chris Fields and I are working on a framework to understand
+where collective agents first come from, right? How do they organize themselves?
+And we've got a model already about this idea of rewards and rewarding other cells with
+neurotransmitters and things like this to keep copies of themselves nearby because they're the
+most predictable. So this idea of reducing surprise, well, what's the least surprising thing?
+It's a copy of yourself. And so you can sort of, Chris calls it the imperial model of multicellularity.
+But one thing to really think about here is imagine an embryo. This is an amniote embryo,
+let's say a human or a bird or something like that. And what you have there is you have a flat disc
+of 10,000, 50,000 cells. And when people look at it, you say, what is that? They say it's an embryo,
+one embryo. Well, the reason it's one embryo is that under normal conditions, what's going to
+happen is that in this disc, one cell is symmetry breaking. One cell is going to decide that it's
+the organizer. It's going to do local activation, long range inhibition. It's going to tell all the
+other cells, you're not the organizer, I'm the organizer. And as a result, you get one special
+point that begins a process that's going to walk through this memorphous space and create a particular
+large scale structure with two eyes and four legs and whatever else it's going to have.
+But here's the interesting thing. Those cells, that's not really one embryo. That's a weird kind
+of Freudian ocean of potentiality. What I mean by that is if you take, and I did this as a grad
+student, you can take a needle and you can put a little scratch through that blastoderm, put a
+little scratch through it. What will happen is the cells on either side of that scratch don't
+feel each other. They don't hear each other's signals. So that symmetry breaking process will
+happen twice, once on each end. And then when it heals together, what you end up with is two
+conjoined twins because each side organized an embryo and now you've got two conjoined twins.
+Now, many interesting things happen there. One is that every cell is some other cell's
+external environment. So in order to make an embryo, you have to self-organize a system that
+puts an arbitrary boundary between itself and the outside world. You have to decide where do I end
+and the world begins. And it's not given to you somehow from outside for a biological system.
+Every biological system has to figure this out for itself, unlike modern robotics or whatever,
+where it's very clear. Here's where you are. Here's where the world is. These are your
+effectors. These are your sensors. Here's the boundary of the outside world. Living things
+don't have any of that. They have to figure all of this out from scratch.
+The benefit to being able to figure it out from scratch, having to figure it out from scratch,
+is that you are then compatible with all kinds of weird initial conditions. For example,
+if I separate you in half, you can make twins. You don't have a total failure because now
+you have half the number of cells. You can make twins. You can make triplets,
+probably many more than that. So if you ask the question, you look at that
+blastoderm and you ask how many individuals are there, you actually don't know. It could be zero.
+It could be one. It could be some small number of individuals. That process of autopolices has to
+happen. And here are a number of things that are uniquely biological that I think relate to
+the kind of flexibility plasticity that you need for AGI in whatever space. It doesn't have to be
+the same space that we work in, but your boundaries are not set for you by an outside creator.
+You have to figure out where your boundaries are. Where is the outside world? So you make
+hypotheses about where you end and where the world begins. You don't actually know what your
+structure is. Kind of like Vanguard's robots from 2006 where they didn't know their structure and
+they had to make hypotheses about, well, do I have wheels? Do I have legs? What do I have? And then
+make a model based on basically babbling, right? Like the way that babies babble. So you have to
+make a model of where the boundary is. You have to make a model of what your structure is.
+You are energy limited, which most AI and robotics nowadays are not. When you're energy and time
+limited, it means that you cannot pay attention to everything. You are forced to coarse grain in
+some way and lose a lot of information and compress it down. So you have to choose a lens,
+a coarse graining lens on the world and figure out how you're going to represent things.
+And all of this has to, and there are many more things that we could talk about, but all of these
+things are self-constructions from the very beginning. And then you start to act in various
+spaces, which again are not predefined for you. You have to solve problems that are metabolic,
+physiological, anatomical, maybe behavioral if you have muscles, but nobody's defining the space
+for you. For example, if you're a bacterium and Chris Fields points this out, if you're a bacterium
+and you're in some sort of chemical gradient, you want to increase the amount of sugar in your
+environment, you could act in three-dimensional space by physically swimming up the gradient,
+or you can act in transcriptional space by turning on other genes that are better at
+converting whatever sugar happens to be around and that solves your metabolic problem instead of,
+right? So you have these hybrid problem spaces. So all of this, I think what contributes in
+a strong sense to all the things that we were just talking about is the fact that everything
+is in biology is self-constructed from the beginning. You can't rely on, you don't know
+ahead of time when you're a new creature born into the world. And we have many examples of
+this kind of stuff. You don't know how many cells you have, how big your cells are. You can't count
+on any of the priors. So you have this weird thing that evolution makes these machines that
+don't take the past history too seriously. It doesn't over train on them. It makes
+problem-solving machines that use whatever hardware you have. This is why we can make
+weird chimeras and cyborgs. And you can mix things and mix and match biology in every way
+with other living things or with non-living things because all of this is interoperable,
+because it does not make assumptions about what you have to have. It tries to solve whatever
+problem is given. It plays the hands that it's dealt. And that results in that assumption that
+you cannot trust what you come into the world with. You cannot assume that the hardware is
+what it is. It gives rise to a lot of that intelligence, I think, and a lot of that plasticity.
+So if you translate this into necessary and sufficient conditions, what seems to be necessary
+for the emergence of general intelligence in a bunch of cells or units is that basically each
+of them is a small agent, which means it's able to behave with an expectation of minimizing future
+target value deviations. It learns that their configuration is environment that signal anticipated
+reward. Next thing, these units need to be not just agents, they need to be connected to each other.
+And they need to get their rewards or proxy rewards, something that allows them to anticipate
+whether the organism is going to feed them in the future from other units that also adaptive.
+So you need multiple message types and the ability to recognize and send them with a certain degree
+of reliability. What else do you need? You need enough of them, of course. What's not clear to me
+is how deterministic do the units need to be? How much memory do they need to be? How much state can
+they store? How deep in time does their recollection need to go? And how much forward in time do they
+need to be able to form expectations? So we see how large is this activation front that they can
+with this shape of the distribution that they can learn and have to learn to make this whole thing
+happen. And so basically conditions that are necessary are relatively simple. If you just
+wait for long enough and get such a system to percolate, I imagine that the compound agency
+will at some level emerge on the system, just in a competition of possibilities in the same way as
+emerging agency has emerged on Twitter in a way, with devoked religion in a way that people
+were starting to shift around their behavior to maximize likes and retweets. And there was no
+external reward that was given on Twitter. So as a result, a local structure emerged a local agency
+that was shifting the rewards by itself and emerging causal structure that was in some sense
+in downward causation going to organize groups of people into behavioral things. It's really
+as interesting to look at Twitter as something like a mind at some level, right? It's working slower,
+but it would probably be possible to make a simulation of these dynamics in a more abstract
+way and to use this for arbitrary problem solving. And so what would an experiment look like in which
+we start with these necessary conditions and narrow down the sufficient conditions?
+Yeah, right on. And yeah, we're doing some of that stuff, some of that kind of modeling.
+I apologize. I've got to run here. Thank you both for coming out for this. I appreciate it.
+Thank you so much. And thank you for bringing us together. So a great conversation. I really
+enjoyed it. Likewise. I enjoyed it very much. Thank you, Kurt. Thank you so much, Kurt.
+Thanks, Joshua. The podcast is now concluded. Thank you for watching. If you haven't subscribed
+or clicked on that like button now would be a great time to do so as each subscribe and like
+helps YouTube push this content to more people. Also, I recently found out that external links
+count plenty toward the algorithm, which means that when you share on Twitter, on Facebook,
+on Reddit, et cetera, it shows YouTube that people are talking about this outside of YouTube,
+which in turn greatly aids the distribution on YouTube as well.
+If you'd like to support more conversations like this, then do consider visiting theories
+of everything.org. Again, it's support from the sponsors and you that allow me to work on
+toe full time. You get early access to ad free audio episodes there as well. Every dollar helps
+far more than you may think. Either way, your viewership is generosity enough. Thank you.
