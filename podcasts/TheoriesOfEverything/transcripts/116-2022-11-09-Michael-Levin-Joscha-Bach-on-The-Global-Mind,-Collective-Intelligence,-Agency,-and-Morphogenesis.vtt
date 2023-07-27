@@ -1,0 +1,3536 @@
+WEBVTT
+
+00:00.000 --> 00:04.400
+Michael Levin's work on regulating intractable pattern formation in living systems has made
+
+00:04.400 --> 00:08.960
+him one of the most compelling biologists of our time. In translation, this means that his team is
+
+00:08.960 --> 00:13.680
+sussing out how to develop limbs, regenerate limbs, how to generate minds, and even life extension
+
+00:13.680 --> 00:18.000
+by manipulating electric signals rather than genetics or epigenetics. His work is something
+
+00:18.000 --> 00:21.360
+that I consider to be worthy of a Nobel Prize, and I don't think I've said that about anyone
+
+00:21.360 --> 00:25.840
+on the podcast. Michael Levin's previous podcast, On Toe, is in the description. That's a solo
+
+00:25.840 --> 00:30.080
+episode with him where we go into a two-hour deep dive, as well as there's a theolo-cution,
+
+00:30.080 --> 00:34.240
+so that is him and another guest, just like today, except between Carl Fursten and Chris
+
+00:34.240 --> 00:39.120
+Fields on consciousness. Josje Bach is widely considered to be the pinnacle of an AI researcher
+
+00:39.120 --> 00:44.080
+dealing with emotion, modeling, and multi-agent systems. A large focus of Bach's is to build a
+
+00:44.080 --> 00:49.040
+model of the mind from strong AI. Speaking of minds, Bach is one of the most inventive minds
+
+00:49.040 --> 00:53.520
+in the field of computer science and has appeared several times on Toe prior. Again, there's a solo
+
+00:53.520 --> 00:57.920
+episode. There's also a theolo-cution between Josje Bach and Donald Hoffman on consciousness,
+
+00:57.920 --> 01:02.160
+and Josje Bach and John Vervecky also on consciousness and reality. Biology has much to
+
+01:02.160 --> 01:07.120
+teach us about artificial intelligence and vice versa. This discussion between two brilliant
+
+01:07.120 --> 01:13.120
+researchers is something that I'm extremely lucky, blessed, fortunate to be a part of, as well as us
+
+01:13.120 --> 01:17.440
+as collective as an audience that are fortunate enough to witness. Thank you and enjoy this
+
+01:17.440 --> 01:22.880
+theolo-cution between Josje Bach and Michael Levin. Welcome both Professor Michael Levin
+
+01:22.880 --> 01:27.200
+and Josje Bach. It's an honor to have you on the Toe podcast. Again, both of you and then together
+
+01:27.200 --> 01:32.800
+right now. Thank you. It's great to be here. Likewise. I enjoy very much being here and look
+
+01:32.800 --> 01:37.520
+forward to this conversation. I look forward to it as well. So we'll start off with the question of
+
+01:38.160 --> 01:42.560
+what is it that you, Michael, find most interesting about Josje's work? And then
+
+01:42.560 --> 01:49.440
+Josje will go for you toward Michael. Yeah, I really enjoy the breadth. So I've been looking,
+
+01:49.440 --> 01:54.080
+I think I've probably read almost everything on your website, the short kind of blog pieces
+
+01:54.080 --> 02:02.000
+and everything. And yeah, I'm a big fan of the breadth of tackling a lot of the different issues
+
+02:02.000 --> 02:08.720
+that you do with respect to computation and cognition and AI and ethics and everything.
+
+02:08.800 --> 02:16.640
+I really like that aspect of it. And Josje? Yeah, my apologies. My blog is not up to date. I haven't
+
+02:19.440 --> 02:25.920
+done any updates for a few years now on it, I think. So, of course, I'm still
+
+02:26.640 --> 02:33.600
+in the process of progressing and having new ideas. And the ideas that I had in recent years,
+
+02:33.600 --> 02:38.320
+I have a great overlap with a lot of the things that you are working on.
+
+02:38.320 --> 02:45.440
+And when I listened to your Lex podcast last night, there were many thoughts that you had
+
+02:45.440 --> 02:51.760
+that I had stumbled on that I've never heard from anybody else. And so I found this very
+
+02:51.760 --> 02:57.280
+fascinating and thought, maybe let's look at some of these thoughts first and then go from there
+
+02:57.360 --> 03:05.920
+and expand beyond those ideas. What I, for instance, found after thinking about how cells work
+
+03:06.800 --> 03:11.040
+kind of obvious but missed by most people in neuroscience or in science in general,
+
+03:11.040 --> 03:17.280
+is that every cell has the ability to send multiple message types and receive multiple
+
+03:17.280 --> 03:21.360
+message types and do this conditionally and learn under which conditions to do that and to
+
+03:21.360 --> 03:27.200
+modulate this. Also, every cell is an individual reinforcement learning agent. Single-celled animal
+
+03:27.200 --> 03:31.840
+that tries to survive by cooperating with its environment gets most of its rewards from its
+
+03:31.840 --> 03:38.880
+environment. And as a result, this means that every cell can in principle function like a neuron.
+
+03:38.880 --> 03:44.640
+It can fulfill the same learning and information processing tasks as a neuron. The only difference
+
+03:44.640 --> 03:50.560
+that exists with respect to neurons or the main difference is that they cannot do this over very
+
+03:50.560 --> 03:56.960
+long distances because they are mostly connected only to cells that are directly adjacent. Of
+
+03:56.960 --> 04:01.760
+course, neurons also only communicate to adjacent cells but the adjacency of neurons is such that
+
+04:01.760 --> 04:06.960
+they have excellent parts of the cell that reach very far through the organism. So in some sense,
+
+04:06.960 --> 04:13.040
+a neuron is a telegraph cell that uses very specific messages that are encoded in a way
+
+04:13.760 --> 04:19.280
+like Morse signals in extremely short high-energy bursts that allow to send messages over very long
+
+04:19.280 --> 04:25.920
+distances very quickly to move the muscles of an animal at the limit of what physics allows.
+
+04:26.640 --> 04:31.520
+So it can compete with other animals in search for food. And in order to make that happen,
+
+04:31.520 --> 04:36.240
+it also needs to have a model of the world that gets updated at this higher rate. So there is
+
+04:36.240 --> 04:42.080
+going to be an information processing system that is duplicating basically this cellular brain that
+
+04:42.080 --> 04:47.120
+is made from all the other cells in the body of the organism. And at some point, these two systems
+
+04:47.120 --> 04:52.720
+get decoupled. They have their own codes, their own language, so to speak. But it still makes
+
+04:52.720 --> 04:58.400
+sense, I guess, to see the brain as a telegraphic extension of the community of cells in the body.
+
+04:58.960 --> 05:04.880
+And for me, this insight that I stumbled on just because means and motive that evolution would
+
+05:04.880 --> 05:11.120
+equip cells with doing that information processing if the organism lives long enough and if the cells
+
+05:11.120 --> 05:15.120
+share a common genetic destiny so they can get attuned to each other in an organism,
+
+05:15.840 --> 05:22.560
+that basically every organism has the potential to become intelligent. And if it gets old enough to
+
+05:22.560 --> 05:30.640
+possess enough data to get to a very high degree of understanding of its environment in principle.
+
+05:30.640 --> 05:36.560
+So of course, a normal house plant is not going to get very old compared to us because its
+
+05:36.560 --> 05:41.360
+information processing is so much slower. So they're not going to be very smart. But at the
+
+05:41.360 --> 05:46.720
+level of ecosystems, it's conceivable that there is quite considerable intelligence. And then
+
+05:46.720 --> 05:53.360
+I stumbled on this notion that our ancestors thought that one day in fairyland equals seven
+
+05:53.360 --> 06:00.800
+years in human land, which is told in the old myth. And also, at some point, I revised my
+
+06:00.800 --> 06:06.800
+notion of what the spirit is. For instance, a spirit is an old word for the operating system
+
+06:06.800 --> 06:13.680
+for an autonomous robot. And when this word was invented, the only autonomous robots that were
+
+06:13.680 --> 06:19.600
+known were people and plants and animals and nation states and ecosystems. There were no
+
+06:19.600 --> 06:27.440
+robots built by people yet. But there was this pattern of control in it that people could observe
+
+06:27.440 --> 06:33.040
+that was not directly tied to the hardware that was realized by the hardware but disembodied in
+
+06:33.040 --> 06:38.880
+a way. And this notion of spirit is something that we lost after the Enlightenment when we tried to
+
+06:38.880 --> 06:45.760
+deal with the wrong Christian metaphysics and superstition that came with it and threw out a
+
+06:45.760 --> 06:50.320
+lot of babies with the bathwater. And suddenly, we basically lost a lot of concepts, especially
+
+06:50.320 --> 06:57.360
+this concept of software that existed before in a way, this software being a control pattern or a
+
+06:57.360 --> 07:02.400
+pattern of causal structure that exists at a certain level of coarse graining as some type of
+
+07:02.400 --> 07:08.480
+very, very specific physical law that exists by looking at reality from a certain angle.
+
+07:09.120 --> 07:16.800
+And what I liked about your work is that you systematically have focused on this
+
+07:16.800 --> 07:22.000
+direction of what a cell can do, that a cell is an agent, and that levels of agency emerge
+
+07:22.000 --> 07:29.120
+in the interaction between cells. And you use a very clear language and clear concepts. And you
+
+07:29.120 --> 07:34.080
+obviously are driven by questions that you want to answer, which is unusual in science, I found.
+
+07:34.080 --> 07:40.400
+Like most of our contemporaries in science get broken, if it doesn't happen earlier during the
+
+07:40.400 --> 07:47.440
+PhD, into people who apply methods in teams instead of people who join academia because
+
+07:47.440 --> 07:51.680
+they think it's the most valuable thing they can do with their lives to pursue questions that they
+
+07:51.680 --> 07:57.520
+are interested in, want to make progress on. All right, Michael, there's plenty to respond to.
+
+07:57.520 --> 08:05.920
+Yeah, yeah. Lots of ideas. Yeah, I think your point is very interesting about what really
+
+08:05.920 --> 08:09.920
+fundamentally is the difference between neurons and other cells. Of course, evolutionarily,
+
+08:09.920 --> 08:14.960
+they're reusing machinery that has been around for a very long time, since the time of bacteria,
+
+08:14.960 --> 08:21.520
+basically, right? So our unicellular ancestors had a lot of the same machinery. And even, I mean,
+
+08:21.520 --> 08:28.160
+of course, axons can be very long, but there are sort of intermediate structures, right? There are
+
+08:28.160 --> 08:34.240
+tunneling nanotubes and things that allow cells to connect to maybe five or 10 cell diameters away,
+
+08:34.240 --> 08:38.480
+right? So not terribly long, but also not immediate neighbors necessarily. So that kind
+
+08:38.480 --> 08:46.240
+of architecture has been around for a while. And people like Gaurav Sohel look at very brain-like
+
+08:46.240 --> 08:53.840
+electrical signaling in bacterial colonies. So I think evolution began to reuse this toolkit
+
+08:53.840 --> 09:01.440
+specifically of using this kind of communication to scale up the computational and other kinds of
+
+09:03.440 --> 09:10.240
+tricks a really long time ago. And I like to imagine that if somebody had come to
+
+09:10.240 --> 09:15.280
+the people who were inventing connectionism and the first sort of perceptrons and neural networks
+
+09:15.280 --> 09:20.240
+and so on, if somebody had come to them and said, oh, by the way, sorry, we're the biologists,
+
+09:20.240 --> 09:24.640
+we got it wrong. Thinking isn't in the brain, it's in the liver. And so then the question is,
+
+09:24.640 --> 09:28.880
+what would they do, right? Would they have changed anything about what they're doing? And then we
+
+09:28.880 --> 09:32.880
+said, ah, now we have to rethink our model, or would they have said, fine, who cares? This is
+
+09:32.880 --> 09:38.480
+exactly the same model. Everything works just as well. So I often think about that question,
+
+09:38.480 --> 09:45.600
+what exactly do we mean by neurons? And isn't it interesting that we are able to steal most of
+
+09:45.600 --> 09:52.880
+the tools, the concepts, the frameworks, the math from neuroscience and apply it to problems in
+
+09:52.880 --> 09:57.600
+other spaces. So not movement in three-dimensional space with muscles, but for example, movement
+
+09:57.600 --> 10:01.760
+through a morphous space, right? Anatomical morphous space. The techniques can't tell the
+
+10:01.760 --> 10:06.800
+difference. We use all the same stuff, optogenetics, neurotransmitter signaling, we model active
+
+10:06.800 --> 10:14.560
+inference, and we see perceptual by stability, you name it. We take concepts from neuroscience,
+
+10:14.560 --> 10:20.400
+and we apply it elsewhere in the body. And generally speaking, everything works exactly
+
+10:20.400 --> 10:25.200
+the same. And that shows us, I think, what you were saying, that there's this really interesting
+
+10:28.080 --> 10:33.280
+symmetry between these, that a lot of the distinctions that we've been making are in terms
+
+10:33.280 --> 10:36.560
+of having different departments and different PhD programs and other things that say,
+
+10:36.560 --> 10:40.640
+no, this is neuroscience, this is developmental biology. A lot of these things are just not
+
+10:42.560 --> 10:49.360
+as firm distinctions as we used to think. And I suspect that people who insist on strong
+
+10:49.360 --> 10:56.000
+disciplinary boundaries do this out of a protective impulse. And what I noticed by
+
+10:56.000 --> 11:02.720
+studying many disciplines when I was young, that the different methodologies are so incompatible
+
+11:02.720 --> 11:09.360
+across fields, that when I was studying philosophy or psychology, I felt that computer scientists
+
+11:09.360 --> 11:14.320
+would be laughing about the methods that each of these fields are using to justify what they're
+
+11:14.320 --> 11:22.240
+doing. And this, I think, is indicative of a defect. Because if you take science into the
+
+11:22.240 --> 11:28.240
+current regime of regulating it entirely by peer review, there is no external authority. Even the
+
+11:28.240 --> 11:33.840
+grand authorities are mostly fields of people who have been trained in the sciences, in existing
+
+11:33.840 --> 11:38.560
+paradigms, and then are finding the continuation of those paradigms from the outside. This
+
+11:40.480 --> 11:46.720
+meta-paradigmatic thinking does not really exist that much in a peer-reviewed paradigm. And
+
+11:46.720 --> 11:51.040
+ultimately, when you do peer review for a couple generations, it also means that if your peers
+
+11:51.040 --> 11:57.200
+deteriorate, there is nothing who pulls your science back. And what I missed specifically in
+
+11:57.200 --> 12:01.280
+a lot of the way in which neuroscience is done is what you call the engineering stance.
+
+12:02.400 --> 12:07.120
+And this engineering sense is very powerful, and you get it automatically when you're a computer
+
+12:07.120 --> 12:11.280
+scientist, because you don't really care what language is it written in. What you care in is
+
+12:11.280 --> 12:17.680
+what causal pattern is realized. And how can this be realized? And how could I do it? How would I
+
+12:17.680 --> 12:23.280
+do it? How can evolution do it? What it means is disposal, and this determines the search space for
+
+12:23.280 --> 12:27.920
+the things that I'm looking for. But this requires that I think in causal systems.
+
+12:27.920 --> 12:34.640
+And this thinking in causal systems is impossible not to do for a computer scientist,
+
+12:35.360 --> 12:40.480
+but it is unusual outside of computer science. And once you realize that, it's very weird.
+
+12:41.120 --> 12:46.400
+Suddenly, you have notions that try to replace causal structure with, say, evidence. And then
+
+12:46.400 --> 12:53.200
+you notice that, for instance, evidence-based medicine is not about probabilities of how
+
+12:53.200 --> 12:58.080
+something is realized and must work. You see people on the cruise ship getting infected over
+
+12:58.080 --> 13:02.400
+distances, and you think, oh, this must be airborne. But no, there is no peer-controlled
+
+13:02.400 --> 13:07.040
+study, so there is no evidence that it's airborne. And when you look at its disciplines from the
+
+13:07.040 --> 13:13.120
+outside, like in this case, the medical profession or the medical messaging and decision-making,
+
+13:13.120 --> 13:20.160
+or I get terrified because it directly affects us. And in terms of neuroscience, of course,
+
+13:20.160 --> 13:25.440
+there's more theoretical for the most part, but there must be a reason why it's for the most part
+
+13:25.440 --> 13:33.120
+a theoretical, why there is no causal model that clinicians can use to explain what is happening
+
+13:33.120 --> 13:39.600
+in certain syndromes that people are exhibiting. And I notice this when I go to a doctor and
+
+13:40.240 --> 13:45.840
+even at a reputable institution like Stanford, that most of the neuroscientists at some level
+
+13:45.840 --> 13:52.080
+there, or most of the neurologists that I'm talking to, at some level dualists, that they
+
+13:53.200 --> 13:59.200
+don't have a causal model of the way in which the brain is realizing things. And a lot of studies
+
+13:59.200 --> 14:05.600
+which discover that very simple mechanisms like the ability of human beings to use grammatical
+
+14:05.600 --> 14:09.760
+structure are actually reflected in the brain. This is so amazing. Who would have thought?
+
+14:13.440 --> 14:18.240
+But the developments that existed in computer science have led us on a completely different
+
+14:18.240 --> 14:25.920
+track. The perceptron is vaguely inspired by what the brain might be doing, but I think it's really
+
+14:25.920 --> 14:31.120
+a toy model or a caricature of what cells are doing. Not in the sense that it's inferior,
+
+14:31.120 --> 14:37.440
+it's amazing what you can brute force with the modern perceptron variations. The current
+
+14:37.440 --> 14:42.560
+machine learning systems are mind blowing in what they can do, but they don't do it like
+
+14:42.560 --> 14:48.960
+biological organisms at all. It's very different. The cells do not form change in which they weight
+
+14:49.760 --> 14:56.640
+sums of real numbers. There is something going on that is roughly similar to it, but there's
+
+14:56.640 --> 15:01.040
+a self-organizing system that designs itself from the inside out, not by a machine learning
+
+15:01.040 --> 15:05.360
+principle that applies to the outside and updates weights after reading and comparing them
+
+15:05.360 --> 15:11.200
+and computing gradients to the system. So this perspective of local self-organization by
+
+15:11.200 --> 15:17.200
+reinforcement agents that try to trade rewards with each other, that is a perspective that I
+
+15:17.200 --> 15:23.760
+find totally fascinating. And I wish this would have come from neuroscience into computer science,
+
+15:23.760 --> 15:28.000
+but it hasn't. There are some people which have thought about these ideas to some degree,
+
+15:28.000 --> 15:33.600
+but there's been very little cross pollination. And I think all this talk of neuroscience
+
+15:33.600 --> 15:36.480
+influencing computer science is mostly visual thinking.
+
+15:38.880 --> 15:44.640
+Yeah. It's also, I find this, you know, what you were saying about the different disciplines,
+
+15:44.640 --> 15:52.000
+it's kind of amazing how, well, when I give a talk, I can always tell which department I'm in by
+
+15:52.000 --> 15:56.400
+which part of the talk makes people uncomfortable and upset. And it's always different depending on
+
+15:56.400 --> 16:00.000
+which department it is, right? So there are things you can say in one department that are
+
+16:00.000 --> 16:04.080
+completely obvious. And you say this in another group of people and they throw tomatoes. I think
+
+16:04.080 --> 16:12.400
+this is just craziness. For instance, I could say in a neuroscience department, I could say
+
+16:13.600 --> 16:18.640
+information can be processed without changes in gene expression. You don't need changes in
+
+16:18.640 --> 16:23.920
+gene expression to process information because the processing inside a neural network runs on
+
+16:23.920 --> 16:29.600
+the physics of action potentials, right? So you can do all kinds of interesting information
+
+16:29.600 --> 16:34.240
+processing and you don't need transcriptional or genetic change for that. If I say the same thing
+
+16:34.240 --> 16:38.640
+in a molecular genetics department that say, hey, these cells could be processing tons of information
+
+16:38.640 --> 16:44.320
+long before the transcriptome ever finds out about it, this is considered just completely wild
+
+16:44.320 --> 16:50.560
+because it's thought that most of the hard work or in fact, all of the hard work is done in gene
+
+16:50.560 --> 16:54.560
+regulatory circuits and things like that, right? There are other examples. If I say,
+
+16:57.600 --> 17:02.640
+here's a collection of cells that communicate electrically to remember a particular spatial
+
+17:02.640 --> 17:08.720
+pattern, again, molecular cell biology, what do you mean? How can a collection of cells
+
+17:08.720 --> 17:12.720
+remember a spatial pattern? But again, in neuroscience or in an engineering department,
+
+17:12.720 --> 17:17.520
+yeah, of course. Of course, they have electrical circuits that remember patterns and can do pattern
+
+17:17.520 --> 17:24.960
+completion and things like that. So views of causality, views of just lots of things like
+
+17:24.960 --> 17:32.960
+that that are very obvious to one group of people is completely taboo elsewhere. So that distinction,
+
+17:32.960 --> 17:40.400
+and yeah, and as Joshua just said, it impacts everything. It impacts education, it impacts
+
+17:40.480 --> 17:46.480
+grants, grant reviews, because when these kind of interdisciplinary grants come up,
+
+17:47.200 --> 17:51.280
+the study sections have a really hard time finding people that can actually review them
+
+17:51.280 --> 17:57.760
+because what often happens is you'll get some kind of computational biology grant and you put a
+
+17:57.760 --> 18:02.480
+proposal and you'll have some people on the panel who are biologists and some people who are the
+
+18:02.480 --> 18:07.600
+computational folks. And it's very hard to get people that actually can appreciate both sides of
+
+18:07.600 --> 18:12.080
+it and understand what's happening together. So they will sort of each critique a certain part
+
+18:12.080 --> 18:17.760
+of it. And the other part, they say, I don't know what this is. And as a result, grants like that
+
+18:17.760 --> 18:22.960
+don't tend to not have a champion, one person who can say, no, I get the whole thing and I think
+
+18:22.960 --> 18:31.520
+it's really good or not. So yeah, even to the point where I'm often asked when people want to
+
+18:31.520 --> 18:38.400
+you list me somewhere, they'll say, so what are you? What's your field? And I never know
+
+18:38.400 --> 18:41.440
+how to answer that question. To this day, it's been 30 years. I still don't know how to answer
+
+18:41.440 --> 18:47.280
+that question. I just can't boil it down to one. It just wouldn't make any sense to say any of the
+
+18:48.880 --> 18:53.520
+traditional fields. So what do you say, Joshua, when someone asks you what field you're in?
+
+18:54.480 --> 19:02.080
+And it depends on who's asking. So for instance, I found it quite useful to sometimes say,
+
+19:03.840 --> 19:13.200
+sorry, I'm not a philosopher, but this or I'm not that interested in machine learning. And I
+
+19:13.200 --> 19:18.960
+did publish papers in philosophy and in machine learning, but it's not my specialty in the sense
+
+19:18.960 --> 19:25.440
+that I need to identify with it. And in some sense, I guess that these categories are important
+
+19:25.440 --> 19:31.920
+when you try to write a grant proposal or when you try to find a job in a particular institution
+
+19:31.920 --> 19:37.520
+and they need to fill a position. But for me, it's more, what questions am I interested in?
+
+19:37.520 --> 19:41.200
+What is the thing that I want to make progress on or what is the thing that I want to build right
+
+19:41.200 --> 19:48.080
+now? And I guess that in terms of the intersection, I'm a cognitive scientist.
+
+19:49.920 --> 19:55.360
+So I was asking Michael, prior to you joining Yoshi, why is it Michael that you were doing
+
+19:55.360 --> 19:59.280
+podcasts? And if I understand correctly, part of the reason was because you think out loud,
+
+19:59.280 --> 20:02.720
+and you'd like to hear the other person's thoughts and take notes and espers your own.
+
+20:02.720 --> 20:06.400
+And firstly, like Michael, you can correct me if that's incorrect. And then secondly,
+
+20:06.400 --> 20:11.280
+Yoshi, I'm curious for an answer for this, the same question, what is it that you get out of
+
+20:11.280 --> 20:16.160
+doing podcasts other than, say, some marketing for if you were promoting something, which I
+
+20:16.240 --> 20:20.720
+don't imagine you are currently. No, I'm not marketing anything.
+
+20:21.840 --> 20:29.760
+What I like about podcasts is the ability to publish something in a format that is engaging
+
+20:29.760 --> 20:37.600
+to interesting to people who actually care about it. I like this informal way of holding on to some
+
+20:37.600 --> 20:43.920
+ideas and also like conversations as a medium to develop thought is this space in which we can
+
+20:44.880 --> 20:50.160
+reflect on each other, look into each other's minds, interact with the ideas of others in real
+
+20:50.160 --> 20:56.320
+time. The production format of a podcast creates a certain focus of the conversation that can be
+
+20:56.320 --> 21:04.160
+useful. And it's a pleasant kind of tension that focuses you to stay on task. And I also found that
+
+21:05.280 --> 21:11.840
+it's generally useful to some people. The feedback that I get is that people tell me,
+
+21:11.840 --> 21:18.000
+I had this really important question and I found this allowed me to make progress on it.
+
+21:18.000 --> 21:24.240
+And I feel much better now about these questions. I just clarified something for me that has plagued
+
+21:24.240 --> 21:30.320
+me for years and put me on track to solving it, or this has inspired the following work.
+
+21:30.320 --> 21:36.560
+So it's a form of publishing ideas and getting them into circulation in our global hive minds
+
+21:37.280 --> 21:45.200
+that is very informal in a way, but it's not useless. And also it relieves me in this instance,
+
+21:45.200 --> 21:50.320
+at least of the work of cutting, editing, and so on. But anyways, I'm very grateful that you
+
+21:50.320 --> 21:56.160
+provide the service of curating our conversation and putting it in a form that is useful to other
+
+21:56.160 --> 22:04.160
+people. Yeah, there's something, well, two things I was thinking of. One is that I have conversations
+
+22:04.160 --> 22:07.760
+with people all day long about these issues, right? So people in my lab, collaborators,
+
+22:07.760 --> 22:12.240
+whatever. And most, of course, the vast majority of those conversations are not recorded and they
+
+22:12.240 --> 22:16.560
+just sort of disappear into the ether. And then I take something away from it and the other person
+
+22:16.560 --> 22:21.600
+takes something away from it. But I've often thought that, isn't it a shame that all of this
+
+22:22.880 --> 22:27.440
+just kind of disappears and it would be amazing to have a record of it? And of course, not every
+
+22:27.440 --> 22:34.080
+conversation is gold, but a lot of them are useful and interesting. And there are plenty of
+
+22:34.080 --> 22:39.920
+people that could be interested and could benefit from it. So I really like this aspect
+
+22:39.920 --> 22:45.920
+that we can have conversations and then they're sort of canned and they're out there for people
+
+22:45.920 --> 22:51.040
+who are interested. The other kind of aspect of it, which I don't really understand, but it's kind
+
+22:51.040 --> 22:59.600
+of neat, is that when somebody asks me to pre-record a talk, it takes a crazy amount of time
+
+22:59.600 --> 23:03.120
+because I keep stopping and realizing, ah, I could have said that better. Let me start from
+
+23:03.120 --> 23:08.080
+the beginning. And it's just, it's an incredible ordeal. Whereas something like this that's real
+
+23:08.080 --> 23:13.920
+time, I'm sure has as many mistakes and things that I would have rather fixed later, but you
+
+23:13.920 --> 23:17.200
+can't do that, right? So you just sort of go with it and that's it. And then it's done and you can
+
+23:17.200 --> 23:23.200
+move on. So I like that real time aspect of it because it just helps you to get the ideas out
+
+23:23.200 --> 23:29.360
+without getting hung up and trying to redo things 50 times. Yeah, it's a format that allows
+
+23:29.360 --> 23:36.960
+tentativity. If we have published, we have a culture in sciences that requires us to
+
+23:37.600 --> 23:43.120
+publish the things that we can hope to prove and make the best proof that we can. But when we have
+
+23:43.120 --> 23:48.480
+anything complicated, especially when we take our engineering stance, we often cannot prove how
+
+23:48.480 --> 23:54.320
+things work. Instead, our answers are in the realm of the possible and we need to discuss the
+
+23:54.320 --> 24:00.800
+possibilities. And there is value in understanding these possibilities to direct our future
+
+24:00.800 --> 24:06.560
+experiments and the practical work that we do to see what's actually the case. And we don't really
+
+24:06.560 --> 24:12.880
+have a publication format for that. We don't get neuroscientists to publish their ideas on how the
+
+24:12.880 --> 24:17.280
+mind works because nobody has a theory that they can prove. And as a result, there is basically a
+
+24:17.280 --> 24:22.640
+vacuum where theories should be. And the theory building happens informally in conversations
+
+24:22.640 --> 24:28.320
+that basically requires personal contact, which is a big issue once conferences been virtual
+
+24:28.320 --> 24:33.920
+because that contact diminished. And you get a lot of important ideas by reading the publications
+
+24:33.920 --> 24:39.920
+and so on. But this what could be or connecting the dots or possibilities or ideas that might be
+
+24:39.920 --> 24:44.880
+proven wrong later that we just exchange as in the status of ideas. That is something that has
+
+24:44.880 --> 24:52.000
+a good place in a podcast. Is this podcast, not this TOE podcast, but podcast in general something
+
+24:52.000 --> 24:56.880
+new? So for instance, I was thinking about this and I well podcasts go back a while and Brogan
+
+24:56.880 --> 25:03.120
+invented this long form format or popularized it. However, on television, there are interviews,
+
+25:03.120 --> 25:07.760
+so there's Oprah and those are long one hour, there's 60 minutes. And then back in the 90s,
+
+25:07.760 --> 25:12.800
+there was a three and a half hour, it's essentially a podcast, it's like Charlie Rose, three and a
+
+25:12.800 --> 25:18.480
+half hour conversation. It's like a Theolocution with Freeman Dyson, Daniel Dennett, Stephen J.
+
+25:18.560 --> 25:26.640
+Gould, like the Rupert Sheldrake, all of those on the same one format, it's essentially a podcast
+
+25:26.640 --> 25:31.040
+talking about metaphysics. Like, man, oh, man, I can't believe that got published. And then also,
+
+25:31.040 --> 25:35.200
+I think about it, well, did Plato have the first podcast? Because he's just publishing these
+
+25:35.200 --> 25:38.720
+dialogues and you read them, but it's not as if they're maybe he would have published it in video.
+
+25:38.720 --> 25:44.960
+I think Plato was the first podcaster. So is there something new about this format of podcasting
+
+25:44.960 --> 25:49.840
+that wasn't there before? Or what's new about it? I think it's like it's like blogging. Blogging
+
+25:49.840 --> 25:57.920
+is also not new, right? Being able to write text that you publish, and people can follow what you
+
+25:57.920 --> 26:03.200
+are writing and so on, did exist in some sense before, but the internet made it possible to
+
+26:03.200 --> 26:08.480
+publish this for everyone. You don't need a publisher anymore. And you don't need a TV
+
+26:08.480 --> 26:13.120
+studio anymore. You don't need a broadcast station that is recording your talk show and sends it to
+
+26:13.120 --> 26:18.720
+an audience. There is no competition with all the other talk shows because there is no limitations
+
+26:18.720 --> 26:25.840
+on how many people can broadcast at the same time. And this allows an enormous diversity of thoughts
+
+26:25.840 --> 26:32.560
+and small productions that are done at a very low cost, lowering the threshold for putting
+
+26:32.560 --> 26:38.080
+something out there and seeing what happens. So in this sense, it's the ecosystem that emerged is new
+
+26:38.080 --> 26:42.080
+because a variable change that changed the cost of producing a talk show.
+
+26:43.440 --> 26:45.760
+Right. Michael, you agree?
+
+26:46.640 --> 26:54.560
+Yeah. Yeah. I mean, yes, that and all of that. And also just the fact that, as you just said,
+
+26:54.560 --> 26:59.040
+these kind of like long form things were fairly rare. So most of the time, if you're going to be
+
+26:59.040 --> 27:04.720
+in one of the traditional media, they tell you, okay, you've got three minutes. We're going to
+
+27:04.720 --> 27:08.640
+cut all this stuff and we're going to boil it down to three minutes. And this is often incredibly
+
+27:08.640 --> 27:13.760
+frustrating. And I understand. I mean, we're drowned in information. And so there is obviously
+
+27:13.760 --> 27:18.880
+a place for very short statement on things, but the kind of stuff that we're talking about cannot
+
+27:18.880 --> 27:25.120
+be boiled down to TV sound bites or anything. It's just not. And so the ability to have these
+
+27:25.120 --> 27:30.080
+long form things so that anybody who wants to really dig in can hear what the actual thought
+
+27:30.080 --> 27:37.520
+is as opposed to something that's been just boiled into a very, very, very short statement,
+
+27:37.520 --> 27:41.120
+I think is invaluable. Just being able to have it out there for people to find.
+
+27:41.680 --> 27:46.880
+What's some stance of yours, some belief that has changed most drastically in the past few years,
+
+27:46.880 --> 27:51.360
+let's say three, and it could be anywhere from something abstruse and academic to more colloquial,
+
+27:51.360 --> 27:55.520
+like I didn't realize the value of children or overvalued children. Now I'm stuck with them.
+
+27:55.520 --> 28:00.080
+Like, geez, that was a mistake. Yeah. So something where I changed
+
+28:00.080 --> 28:07.600
+my mind was RNA-based memory transfer. And I think it's a super interesting idea in this context
+
+28:07.600 --> 28:13.040
+because it's close to stuff that Michael has been working on and is interested in.
+
+28:13.840 --> 28:20.320
+There have been some experiments in the Soviet Union, I think in the 70s, where scientists took
+
+28:20.320 --> 28:27.200
+planaria, trained them to learn something. I think they learned how to be afraid of electric
+
+28:27.200 --> 28:33.040
+shocks and things like that. And then they put their brains into a blender, extracted the RNA,
+
+28:33.040 --> 28:36.400
+injected other planaria with it, and these other planaria had learned it.
+
+28:37.280 --> 28:43.440
+And I learned about this as a kid when I, in the 1980s, read Soviet science fiction literature.
+
+28:43.440 --> 28:51.680
+I grew up in Eastern Germany. And the evil scientist harvested the brains of geniuses
+
+28:51.680 --> 28:58.240
+and injected himself with RNA extracted from these brains and thereby acquired the skills.
+
+28:58.240 --> 29:03.760
+And even though I'm pretty sure this probably doesn't work if you do it at this level,
+
+29:05.920 --> 29:11.600
+this was inspired by this original research. And I later heard nothing about this anymore.
+
+29:11.600 --> 29:19.600
+And so I dismissed it as similar things as I read in Sputnik and other Russian publications,
+
+29:19.600 --> 29:26.240
+which create their own mythological universe about ball lightning that is agentic and possibly
+
+29:26.240 --> 29:31.280
+sentient and so on. And dismissed this all as basically another universe of another reader's
+
+29:31.280 --> 29:36.880
+digest culture that is producing its own ideas that then later on get dissolved once science
+
+29:36.880 --> 29:41.360
+advances. Because everybody knows it's synapses, it's connections between neurons that matter.
+
+29:41.360 --> 29:46.000
+The RNA is not that important for the information processing. It might change some state, but you
+
+29:46.000 --> 29:50.880
+cannot learn something by extracting RNA and re-injecting it into the next organism. Because
+
+29:50.880 --> 29:56.640
+how would that work if it's done in the synapses? And then recently there were some papers which
+
+29:56.640 --> 30:03.360
+replicated the original research and has been replicated from time to time in different types
+
+30:03.360 --> 30:12.160
+of organisms. But to my knowledge, not in, of course, macaques or not even mice. So it's not
+
+30:12.160 --> 30:17.360
+clear if their brains work according to the same principles as planaria. But planaria are not
+
+30:19.360 --> 30:23.440
+extremely simple organisms, only a handful of neurons. They are something intermediate.
+
+30:23.440 --> 30:28.560
+And so their main architecture is different from ours. And the functioning principles of
+
+30:28.560 --> 30:32.800
+their neurons might be slightly different, but it's worth following this idea and going down
+
+30:32.800 --> 30:38.560
+that rabbit hole. And then I looked from my computer science engineering perspective and
+
+30:38.560 --> 30:45.280
+I realized that there are always things about the synaptic story that I find confusing because
+
+30:45.280 --> 30:52.000
+they're very difficult to implement. For instance, weight sharing. As a computer scientist, I require
+
+30:52.000 --> 30:57.040
+weight sharing. I don't know how to get around this. If I want to entrain myself as computational
+
+30:57.040 --> 31:01.680
+primitives in the local area of my brain, for instance, the ability to rotate something,
+
+31:02.640 --> 31:09.680
+rotation is some operator that I apply on a pattern that allows this pattern to be represented in a
+
+31:09.680 --> 31:15.120
+slightly different way to have this object rotated a few degrees. But an object doesn't
+
+31:15.120 --> 31:20.800
+consist of a single point. It consists of many features that all need to get the same rotation
+
+31:20.800 --> 31:26.320
+applied to them using the same mathematical primitives. So how do you implement the same
+
+31:26.320 --> 31:32.800
+operator across an entire brain area? Do you make many, many copies of the same pattern?
+
+31:32.800 --> 31:36.640
+And so computer scientists solved that with so-called convolutional neural networks,
+
+31:36.640 --> 31:42.240
+which basically use the same weights again and again in different areas, only
+
+31:42.960 --> 31:46.800
+training them once and making them available everywhere. And that would be very difficult
+
+31:46.800 --> 31:53.520
+to implement in synapses. Maybe there are ways, but it's not straightforward. Another thing is
+
+31:53.520 --> 31:58.880
+if we see how training works in babies, they learn something and then they get rid of the
+
+31:58.880 --> 32:05.120
+surplus synapses. Initially, they have much more connectivity than they need. And after they've
+
+32:05.120 --> 32:10.800
+trained, they optimize the way in which the wiring works by discarding the things they don't need to
+
+32:10.800 --> 32:17.920
+compute what they want to compute. So it's like calling the synapses. It does not freeze or edge
+
+32:17.920 --> 32:22.960
+the learning into the brain, but it optimizes the energy usage of the brain. Another issue is that
+
+32:23.760 --> 32:27.920
+patterns of activation are not completely stable in the brain. In the cortex, if you look,
+
+32:28.480 --> 32:33.200
+you find that they might be moving the next day or even rotate a little bit, which is also difficult
+
+32:33.200 --> 32:38.080
+to do with synapses. You cannot read out the weights and copy them somewhere else in an easy,
+
+32:38.080 --> 32:43.520
+straightforward fashion. And another issue is defragmentation. If you learn, for instance,
+
+32:43.520 --> 32:48.960
+your body map into a brain area and then somebody changes your body map because you have an accident
+
+32:48.960 --> 32:53.440
+and lose a finger or somebody gives you an artificial limb and you start to integrate
+
+32:53.440 --> 32:58.560
+this into your body map, how do you shift all the representations around? How do you make space for
+
+32:58.560 --> 33:03.600
+something else and move it? Or also initially, when you set up your maps via happy and learning,
+
+33:03.600 --> 33:08.320
+how do you make sure that the neighborhoods are always correct and you don't need to realign
+
+33:08.320 --> 33:13.280
+anything? And I guess you need some kind of realignment. And all these things seem to be
+
+33:13.280 --> 33:20.560
+possible when you switch to a different paradigm. And so if you take this RNA base series seriously,
+
+33:20.560 --> 33:27.840
+go down this rabbit hole, what you get is the neurons are not learning a local function over
+
+33:27.840 --> 33:32.800
+its neighbors, but they are learning how to respond to the shape of an incoming activation front,
+
+33:33.600 --> 33:37.120
+like the spatial temporal pattern in their neighborhood. And they are densely enough
+
+33:37.120 --> 33:43.840
+connected so the neighborhood is just a space around them. And in this space, they basically
+
+33:43.840 --> 33:49.680
+interpret this according to a certain topology to say this is maybe a convolution that gives me
+
+33:49.680 --> 33:54.480
+two and a half D or it gives me two D or one D or whatever the type of function is that they want
+
+33:54.480 --> 34:03.520
+to compute and they learn how to fire in response to those patterns and thereby modulate the patterns
+
+34:03.520 --> 34:07.760
+when they're passed on. So the neurons act something like self-modulating ether,
+
+34:07.760 --> 34:14.880
+so which wavefronts propagate that perform the computations. And they store the responses to
+
+34:14.880 --> 34:22.400
+the distributions of incoming signals, possibly in RNA. So you have little mixtapes, little tape
+
+34:22.400 --> 34:27.680
+fragments that they store in a summa and that it can make more of very cheaply and easily. If
+
+34:27.680 --> 34:31.920
+they are successful mixtapes and they're useful computational primitives that they discovered,
+
+34:31.920 --> 34:37.520
+they can distribute this to other neurons through the entire cortex. So neurons of the same type
+
+34:37.520 --> 34:43.680
+will gain the knowledge to apply the same computational primitives. And that is something
+
+34:43.680 --> 34:47.440
+I don't know if the brain is doing that and if the human brain is using these principles
+
+34:47.440 --> 34:52.000
+or if it's using them a lot and how important this is and how many other mechanisms exist.
+
+34:52.000 --> 34:56.320
+But it's a mechanism that we haven't, to my knowledge, tried very much in AI and computer
+
+34:56.400 --> 35:03.040
+science. And it would work. There is something that is a very close analog, that is a neural
+
+35:03.040 --> 35:09.760
+cellular automaton. So basically instead of learning weight shifts or weight changes between
+
+35:09.760 --> 35:16.720
+adjacent neurons, what you learn is global functions that tell neurons on how to respond
+
+35:16.720 --> 35:22.960
+to patterns in the neighborhood. And these functions are the same for every point in your
+
+35:22.960 --> 35:29.520
+matrix. And you can learn arbitrary functions in this way. And what's nice about this is that you
+
+35:29.520 --> 35:34.960
+only need to learn computational primitives once. Our current neural networks need to learn the same
+
+35:35.600 --> 35:40.000
+linear algebra over and over again in many different corners of the neural network
+
+35:40.000 --> 35:44.000
+because you need vector algebra for many kinds of operations that we perform.
+
+35:44.640 --> 35:49.120
+For instance, operations in space where we shift things around or rotate them.
+
+35:49.760 --> 35:55.760
+And if they could exchange these useful operations with each other and just apply
+
+35:55.760 --> 36:00.800
+an operator whenever the environment dictates that this would be a good idea to try to apply
+
+36:00.800 --> 36:05.360
+this operator right now in this context, that could speed up learning. That could make training
+
+36:05.360 --> 36:10.320
+much more sample efficient. So something super interesting to try. And this is one of the rabbit
+
+36:10.320 --> 36:16.720
+holes I recently fell down over. I changed my thinking based on some experiment from
+
+36:16.720 --> 36:22.080
+neuroscience that doesn't have very big impact for the mainstream of neuroscience,
+
+36:22.080 --> 36:25.840
+but that I found reflected in Michael's work with planaria.
+
+36:27.600 --> 36:32.880
+Yeah, that's super interesting stuff. I can sprinkle a few details onto this.
+
+36:35.520 --> 36:41.840
+So the original finding in planaria was a guy named James McConnell at Michigan, actually,
+
+36:41.840 --> 36:46.320
+in the US. And then that was in the 60s, the early 60s. And then there were some really
+
+36:46.320 --> 36:51.680
+interesting Russian work that picked it up after that. We reproduced some of it recently
+
+36:51.680 --> 36:58.480
+in using modern quantitative automation and things like this. But one of the really cool
+
+36:58.480 --> 37:03.360
+aspects of this, and there's a whole community, by the way, with people like Randy Gallistil
+
+37:03.360 --> 37:09.280
+and Sam Gershman and, of course, Glantzman, David Glantzman, and people who are... That story of
+
+37:09.280 --> 37:15.200
+memory in the precise details of the synapses, that story is really starting to crack actually
+
+37:15.200 --> 37:19.280
+for a number of reasons. But one of the cool things that was done in the Russian work,
+
+37:19.280 --> 37:26.240
+and it was also done later on by Doug Blackiston, who's in my lab now as a staff scientist and other
+
+37:26.240 --> 37:32.560
+people, is this. Certain animals that go through larval stages. So you can take... So the Russians
+
+37:32.560 --> 37:40.160
+were using beetle larvae, and Doug and other people used moths and butterflies. So what happens is
+
+37:40.880 --> 37:46.560
+you train the larvae. So here you've got a caterpillar. So this caterpillar lives in a
+
+37:46.560 --> 37:50.800
+two-dimensional world. It's a soft-bodied robot. It lives in a two-dimensional world. It eats leaves
+
+37:50.800 --> 37:55.920
+and so on. And so you train this thing for a particular task. Well, during metamorphosis,
+
+37:55.920 --> 38:00.480
+it needs to become a moth or butterfly, which it lives in a three-dimensional world. Plus,
+
+38:00.480 --> 38:05.680
+it's a hard-bodied creature. So the controller is completely different for running a caterpillar
+
+38:05.680 --> 38:10.720
+versus a butterfly. So during that process, what happens is the brain is basically dissolved.
+
+38:10.720 --> 38:15.600
+So most of the connections are broken. Most of the cells are gone. They die. You put together
+
+38:15.600 --> 38:20.160
+a brand new brain that self-assembles, and you can ask all sorts of interesting philosophical
+
+38:20.160 --> 38:24.000
+questions of what it's like to be a creature whose brain is undergoing this massive change.
+
+38:24.640 --> 38:31.520
+But the information remains. And so one can ask, okay, certainly for computer science, it's amazing
+
+38:31.520 --> 38:38.400
+to have a memory medium that can survive this radical remodeling and reconstruction.
+
+38:38.400 --> 38:45.840
+And there's the RNA story, but also you had mentioned, does this work for mammals?
+
+38:45.840 --> 38:50.960
+So there was a guy in the 70s and 80s, there was a guy named George Ungar who did tons of,
+
+38:50.960 --> 38:57.920
+he's got tons of papers. He reproduced it in rats. So his was Fear of the Dark. And he actually,
+
+38:58.640 --> 39:06.400
+by establishing this assay and then fractionating their brains and extracting this activity,
+
+39:06.400 --> 39:12.320
+now he thought it was a peptide, not RNA. So he ended up with a thing called scotophobin,
+
+39:12.320 --> 39:15.760
+which turns out to be, I think, an eight mer peptide or something.
+
+39:15.760 --> 39:20.080
+And the claim was that you can transfer this scotophobin, you can synthesize it
+
+39:20.080 --> 39:26.320
+and then transfer it from brain to brain. And that's what he thought it was. And then I think
+
+39:26.320 --> 39:32.560
+David Glansman favors RNA again. But yeah, I agree with you. I think that's a super important
+
+39:32.560 --> 39:40.640
+story of how it is that this kind of information can survive just massive remodeling of the
+
+39:40.640 --> 39:46.480
+cognitive substrate. In planaria, what we did, and planaria, they have a true centralized brain.
+
+39:46.480 --> 39:50.720
+They have all the same neurotransmitters that we have. They're not a simple organism.
+
+39:51.920 --> 39:56.080
+What we did was McConnell's first experiments, which is to train them on something. And we
+
+39:56.080 --> 40:01.440
+train them to recognize a laser etched kind of bumpy pattern on the bottom of the dish and to
+
+40:01.440 --> 40:05.440
+recognize that that's where their food was going to be found. So they made this association between
+
+40:05.440 --> 40:10.800
+this pattern and getting food. And then we cut their heads off and we took the tails and the
+
+40:10.800 --> 40:15.040
+tails sit there for 10 days doing nothing. And then eventually they grow a new brain.
+
+40:15.040 --> 40:19.440
+And what happens is that information is then imprinted onto the new brain and then you can
+
+40:19.440 --> 40:25.840
+recover behavioral evidence that they remember the information. So that's pretty cool too,
+
+40:25.840 --> 40:31.360
+because it suggests that, well, we don't know if the information is everywhere or if it's in other
+
+40:31.360 --> 40:36.560
+places in the peripheral nervous system or in the nerve core that we don't know where it is yet.
+
+40:36.560 --> 40:41.280
+But it's clear that it can move around, that the information can move around in the body because
+
+40:41.280 --> 40:46.000
+it can be in the posterior half and then imprinted onto the brain, which actually drives all the
+
+40:46.000 --> 40:51.360
+behaviors. So thinking about that, I totally agree with you that this is a really important
+
+40:51.360 --> 40:56.800
+rabbit hole for asking, but there's an interesting puzzle here, which is this.
+
+40:57.440 --> 41:05.680
+It's one thing to remember things that are evolutionarily adaptive, like fear of the dark
+
+41:05.680 --> 41:10.160
+and things like this, but imagine, and this hasn't really been done well, but imagine for a moment
+
+41:10.720 --> 41:15.840
+if we could train them to something that is completely novel. Let's say we train them,
+
+41:16.880 --> 41:21.040
+three yellow life flashes means take a step to your left, otherwise you get shocked, something
+
+41:21.040 --> 41:25.200
+like that. And let's say they learn to do it. We haven't done this yet, but let's say this could
+
+41:25.200 --> 41:30.720
+work. One of the big puzzles is going to be when you extract whatever it is that you extract,
+
+41:30.720 --> 41:36.080
+let's say it's RNA or protein, whatever it is, you stick it into the brain of a recipient host.
+
+41:36.720 --> 41:40.240
+And in order for that memory to transfer, one of the things that the host has to be able to do is
+
+41:40.240 --> 41:45.040
+has to be able to decode it. And in order to decode it, it's one thing if we share the same
+
+41:45.040 --> 41:49.200
+codebook and by evolution, we could have the same codebook for things that come up all the time,
+
+41:49.200 --> 41:56.560
+like fear of the dark, things like that. But how would the recipient look at a weird
+
+41:56.560 --> 42:01.840
+sort of some kind of crazy hairpin RNA structure and analyze and be like, oh yes,
+
+42:01.840 --> 42:07.440
+that's three light flashes and then a step to the left, I see. So you would need to be able to
+
+42:07.440 --> 42:12.800
+interpret somehow this structure and convert it back to the behavior. And for behaviors that are
+
+42:12.800 --> 42:18.160
+truly arbitrary, that might be, I don't know actually how that would work. And so I think
+
+42:18.160 --> 42:25.920
+the frontier of this field is going to be to have a really convincing demonstration of a transfer
+
+42:25.920 --> 42:31.680
+of a memory that doesn't have a plausible pre-existing shared evolutionary decoding,
+
+42:31.680 --> 42:36.400
+because otherwise you have a real puzzle as to how the decoding is going to work.
+
+42:36.400 --> 42:41.760
+So this idea, and then even without the transfer, you can also think of it a different way.
+
+42:41.760 --> 42:46.960
+Every memory is like a message, is like basically a transplanted message from your past self to
+
+42:46.960 --> 42:50.960
+your future self, meaning that you still have to decode your memories. Whatever your memories are,
+
+42:50.960 --> 42:54.640
+in an important sense, you have to, those N-grams, you have to decode them somehow.
+
+42:54.640 --> 43:01.440
+So that whole issue of encoding and decoding, whatever the substrate of memory is, is maybe
+
+43:01.440 --> 43:07.760
+one of the most important questions there are. One of the ways we can think about these N-grams,
+
+43:07.760 --> 43:14.800
+I think that there are priors that condition what kinds of features are being spawned in
+
+43:14.800 --> 43:20.560
+which context. For instance, when we see a new scene, the way that perception seems to be working
+
+43:20.560 --> 43:27.680
+is that we spawn lots of feature controllers that then organize into objects that are controlled at
+
+43:27.680 --> 43:33.840
+the level of the scene. And this is basically a game engine that is forming in our brain,
+
+43:33.840 --> 43:40.640
+that is creating a population of interacting objects that are tuned to track our perceptual
+
+43:40.640 --> 43:46.160
+data at the lowest level. So all the patterns that we get from our retina and so on are samples,
+
+43:46.160 --> 43:51.920
+noisy samples that are difficult to interpret, but we are matching them into these hierarchies
+
+43:51.920 --> 43:58.800
+of features that are translated into objects that assign every feature to exactly one object and
+
+43:58.800 --> 44:05.040
+every pixel, so to speak, to exactly one, except in the case of transparency, and use this to
+
+44:05.040 --> 44:09.840
+interpret the scene that is happening in front of us. And when we are in the dark, what happens is
+
+44:09.840 --> 44:15.120
+that we spawn lots of object controllers without being able to disprove them, because there is no
+
+44:15.120 --> 44:21.440
+data that forces us to reject them. And if you have a vivid imagination, especially as a child,
+
+44:21.440 --> 44:26.000
+you will fill this darkness automatically with lots of objects, many of which will be scary.
+
+44:27.120 --> 44:32.960
+And so I think that lots of the fear of the dark doesn't need a lot of encoding in our brain. It
+
+44:32.960 --> 44:38.160
+is just an artifact of the fact that there are scary things in the world which we learn to
+
+44:38.160 --> 44:42.720
+represent at an early age, and that we cannot disprove them, that they will just spawn.
+
+44:44.000 --> 44:50.880
+I remember this vividly as a child, that whenever I had to go into the dark basement to get some
+
+44:50.880 --> 44:57.360
+food in our house in the countryside, that this darkness automatically filled with all sorts of
+
+44:57.360 --> 45:04.720
+shapes and things and possibilities. And it took me later to learn that you need to be much more
+
+45:04.720 --> 45:10.640
+afraid of the ghosts that can hide in the light. So what would be the implications of if you were
+
+45:10.640 --> 45:16.160
+able to transfer memory for something that's not trivial, so nothing that's like an archetype of
+
+45:16.160 --> 45:23.840
+fear of the dark between a mammal like rats? And when I say transfer memory, I mean, in this way
+
+45:23.840 --> 45:28.320
+that you blend up the brain or you, and also, can you explain what's meant by, I think I understand
+
+45:28.320 --> 45:31.760
+what it means to blend the brain of a planaria, but I don't think that's the same process that's
+
+45:31.760 --> 45:37.680
+going on in rats. Maybe it is. Well, Ungar did exactly the same thing. He would train rats
+
+45:37.680 --> 45:42.480
+for particular tasks. He would extract the brain, literally liquefy it to extract the chemical
+
+45:42.480 --> 45:47.840
+contents. He would then either inject the whole extract or a filtered extract where you would
+
+45:47.840 --> 45:52.800
+divide it up. You'd set fractionate it. So here's the RNAs, here's the proteins, here are other
+
+45:52.800 --> 45:59.440
+things. And then he would inject that liquid directly into the brains of recipient rats.
+
+46:00.400 --> 46:06.320
+When you do that, you lose spatial structure on the input because you just blended your brain.
+
+46:06.320 --> 46:10.720
+Whatever spatial structure there was, you just destroyed it. Also on the recipient,
+
+46:12.320 --> 46:16.560
+you just inject it. You're not finding that particular place where you're going to stick
+
+46:16.560 --> 46:20.720
+it. You just inject this thing right in the middle of the brain. Who knows where it goes,
+
+46:20.720 --> 46:26.720
+where the fluid goes. There's no spatial specificity there whatsoever. So if that works,
+
+46:26.960 --> 46:32.800
+what you're counting on is the ability of the brain to take up information via a completely
+
+46:32.800 --> 46:37.680
+novel route. So it's not information that's, for example, visual, right? Visual information
+
+46:37.680 --> 46:43.040
+that comes in exactly the same place all the time, right? There are optic nerves that connect to
+
+46:43.040 --> 46:48.320
+the same place in the brain, and that's where that information arrives. If you bathe the brain in
+
+46:48.320 --> 46:54.400
+some sort of informational extract, you're basically asking the cells to take it up almost
+
+46:54.400 --> 46:58.560
+as a primitive animal would with taste or touch you, right? That's kind of distributed all over
+
+46:58.560 --> 47:02.320
+the body, and you can sort of pick it up anywhere, and then you have to process this information.
+
+47:02.320 --> 47:06.800
+So you've got those issues right off the bat, right? That you've destroyed the incoming spatial
+
+47:06.800 --> 47:13.120
+structure. You can't really count on where it's going to land in the brain. And then the third
+
+47:13.120 --> 47:17.920
+thing, as you just mentioned, is the idea that, especially if we start with information that
+
+47:18.160 --> 47:26.880
+especially if we start with information that isn't any, that is so kind of specific and
+
+47:31.600 --> 47:35.920
+invented, that three light flashes means move to your left. I mean, there's never been an
+
+47:35.920 --> 47:40.000
+evolutionary reason to have that encoded. Like as you just said, having a fear of the dark is
+
+47:40.000 --> 47:44.720
+absolutely a natural kind of thing that you can expect. And then there are many other things like
+
+47:44.720 --> 47:50.880
+that. But something as contrived as three light flashes, and then you move to your left,
+
+47:50.880 --> 47:56.320
+there's no reason to think that we have a built-in way to recognize that. So when you as a recipient
+
+47:56.320 --> 48:01.680
+brain are handed this weird molecule with a particular structure or a set of molecules,
+
+48:02.240 --> 48:07.920
+being able to analyze that, having the cells in your brain or other parts of the body actually,
+
+48:07.920 --> 48:12.880
+that could analyze that and recover that original information would be extremely puzzling. I
+
+48:12.880 --> 48:17.680
+actually don't know how that would work. And I'm a big fan of unlikely sounding experiments
+
+48:17.680 --> 48:23.360
+that have implications if they would work. So this is something that I think should absolutely
+
+48:23.360 --> 48:29.360
+be done. And at some point we'll do it, but we haven't done it yet. So how far did the
+
+48:29.360 --> 48:35.200
+research in my school, what is the complexity of things that could be transmitted via this route?
+
+48:35.920 --> 48:45.120
+I don't remember everything that he did. The vast majority of, he did not go
+
+48:46.400 --> 48:50.400
+far to test all the complexities. What he tried to do was, because as you can imagine,
+
+48:50.400 --> 48:55.840
+he faced incredible opposition, right? So everybody sort of wanted to critique this thing.
+
+48:55.840 --> 49:01.120
+So he spent all of his time on, he picked one simple assay, which was this fear of the dark
+
+49:01.120 --> 49:08.640
+thing. And then he just bashed it for 20 years to just finally try to kind of crack that into the
+
+49:08.640 --> 49:14.560
+paradigm. He did not, as far as I know, do lots of different assays to try and make it more complex.
+
+49:14.560 --> 49:21.600
+I think it's very ripe for investigation. Did anyone else build upon his work?
+
+49:22.880 --> 49:27.280
+Not that I know. I mean, David Glansman is the best modern person who works on this, right? So
+
+49:27.280 --> 49:36.240
+he does a plesia and he does RNA. So he favors RNA. There's a little bit of work from Oded Rahavi
+
+49:36.240 --> 49:42.720
+in Israel with C. elegans. He's kind of looking into that. There's related work that has to do
+
+49:42.720 --> 49:52.000
+with cryogenics, which is this idea that if memories are a particular kind of dynamic electrical
+
+49:52.000 --> 49:57.760
+state, then some sort of cryogenic freezing is probably going to disrupt that. Whereas if
+
+49:57.760 --> 50:03.360
+it's a stable molecule, then it should survive. So again, I think there are people interested
+
+50:03.360 --> 50:07.360
+in that aspect of it, but I'm not sure. I'm not sure they've done anything with it.
+
+50:08.000 --> 50:16.000
+There's also Gaurav Venkataraman. I think he's at Berkeley. He told me that
+
+50:16.880 --> 50:20.720
+he has been working on this for several years, but he said it's sociologically tricky.
+
+50:21.520 --> 50:25.840
+And that's to me fascinating that we should care about that.
+
+50:26.560 --> 50:27.680
+What does he mean by that?
+
+50:28.480 --> 50:34.320
+What do you care about? What stupid people think? If this possibility exists that this works,
+
+50:34.320 --> 50:40.320
+the upside is so big that it's criminal to not research this. I think it's a disaster
+
+50:40.320 --> 50:45.040
+that you can read introductory textbooks on neuroscience and never ever hear about any of
+
+50:45.120 --> 50:51.200
+these experiments. Everybody who gets the introductory stuff on neuroscience only knows
+
+50:51.200 --> 50:57.920
+about information stored in the conic tome. And this leads to, for instance, the Blue Brain
+
+50:57.920 --> 51:03.440
+project. If RNA-based memory transfer is a thing, then this entire project is doomed,
+
+51:04.160 --> 51:10.080
+because you cannot get the story out of just recording the conic tome. Most of the research
+
+51:10.080 --> 51:15.520
+right now is focused on reconstructing the conic tome as it was circuitry and hoping that
+
+51:15.520 --> 51:21.280
+we can get the functionality of information processing and deduce the specificity of the
+
+51:21.920 --> 51:25.440
+particular brain, what it has learned from the connections between neurons.
+
+51:25.440 --> 51:32.000
+But what if it turns out this doesn't matter? You just need connections that are dense enough,
+
+51:32.000 --> 51:36.800
+and so basically stochastic lattice that is somewhat randomly wired. What matters is what
+
+51:36.800 --> 51:40.160
+the neurons are doing with the information that they're getting through this ether,
+
+51:40.160 --> 51:44.560
+through this lattice. It just changes the entire way in which we need to look at things.
+
+51:44.560 --> 51:48.160
+And if this possibility exists, and if this possibility is just 1%,
+
+51:48.960 --> 51:55.440
+but there are some experimental points in this direction, it is ridiculous to not pursue this
+
+51:55.440 --> 52:01.360
+with high pressure and focus on it and support research that goes in this direction. Basically,
+
+52:01.360 --> 52:06.240
+what's useful is not so much answering questions in science, it's discovering questions,
+
+52:06.240 --> 52:11.280
+it's discovering new uncertainty. Reducing the uncertainty is much easier than discovering new
+
+52:11.280 --> 52:17.920
+areas of where you thought that you were certain, but that allow you to get new insights. And it
+
+52:17.920 --> 52:23.120
+seems to me that a lot of neuroscience is stuck, that it does not produce results that seem to
+
+52:23.120 --> 52:30.000
+accumulate in an obvious way towards a theory on how the brain processes information. So the
+
+52:30.000 --> 52:36.400
+neuroscientists don't deliver input to the researchers, and the transformer is not the
+
+52:36.400 --> 52:42.720
+result of reading a lot of neuroscience. It's really mostly the result of people's thinking
+
+52:42.720 --> 52:50.640
+about statistics of data processing. And it would be great if we would focus on ideas that
+
+52:50.640 --> 52:54.800
+are promising and new and that have the power to shake existing paradigms.
+
+52:55.440 --> 53:01.760
+Yeah. This is so important, and it's not just neuroscience. In developmental biology,
+
+53:01.760 --> 53:06.720
+we have exactly the same thing. And I'll just give you two very simple examples of it where,
+
+53:06.720 --> 53:11.200
+and I tell the students, when I give talks to students, I say, isn't it amazing that
+
+53:12.240 --> 53:16.480
+in your whole course of biology and your developmental biology textbook, there's not
+
+53:16.480 --> 53:22.960
+a mention of any of this because it completely just undermines a lot of the basic assumptions.
+
+53:22.960 --> 53:28.640
+So here's a couple of examples. One example is that as of trophic memory in deer,
+
+53:28.640 --> 53:33.680
+so there are species of deer that every year they regenerate. So they make this antler
+
+53:33.680 --> 53:39.040
+rack on their heads, the whole thing falls off, and then it regrows the next year. So these two
+
+53:39.040 --> 53:44.960
+guys, Bobenak, which are a father and son team that did these experiments for 40 years, and I
+
+53:44.960 --> 53:50.640
+actually have all these antlers in my lab now because when the younger one retired, he sent me
+
+53:50.640 --> 53:55.360
+all these things, all these antlers. The idea is this, what you can do is you take a knife
+
+53:55.360 --> 54:01.360
+and somewhere in this branch structure, you make a wound and the bone will heal and you get a
+
+54:01.360 --> 54:06.640
+little callus and that's it for that year. Then the whole thing drops off. And then next year,
+
+54:07.840 --> 54:12.320
+it starts to grow and it will make an ectopic tine, an ectopic branch at the point where you
+
+54:12.320 --> 54:18.320
+injured it last year. And this goes on for five or six years, and then eventually it goes away and
+
+54:18.320 --> 54:28.160
+you get a normal rack again. And so the amazing thing about it is that the standard models for
+
+54:28.160 --> 54:36.400
+patterning for morphogenesis are these gene regulatory networks and genetic biochemical
+
+54:36.400 --> 54:44.080
+gradients and so on. If you try to come up with a model for this, so for encoding an arbitrary point
+
+54:44.080 --> 54:49.200
+within a branch structure that your cells at the scalp have to remember for months after the whole
+
+54:49.200 --> 54:54.000
+thing is dropped off, and then not only remember it, but then implement it so that when the bone
+
+54:54.000 --> 55:00.160
+starts to grow, something says, oh yes, that's the start another tine growing to your left exactly
+
+55:00.160 --> 55:07.200
+here. Trying to make a model of this using the standard tools of the field is just incredibly
+
+55:07.200 --> 55:12.960
+difficult. And there are other examples of this, but this kind of non-genetic memory that's just
+
+55:12.960 --> 55:17.440
+very difficult to explain with standard models. The other thing, which is I think an even bigger
+
+55:17.440 --> 55:24.400
+scandal, is the whole situation with planaria. Some species of planaria, the way they reproduce
+
+55:24.400 --> 55:28.400
+is they tear themselves in half, each half regenerates the missing piece, and now you've
+
+55:28.400 --> 55:33.040
+got two. That's how they reproduce. So if you're going to do that, what you end up avoiding is
+
+55:33.040 --> 55:37.360
+Weissman's barrier, this idea that when we get mutations in our body, our children don't inherit
+
+55:37.360 --> 55:42.800
+those mutations. So this means that any mutation that doesn't kill the stem cell in the body gets
+
+55:42.800 --> 55:48.960
+amplified as that cell contributes to regrowing the worm. So as a result of this, for 400 million
+
+55:48.960 --> 55:54.160
+years, these planaria have accumulated mutations. Their genomes are an incredible mess. Their cells
+
+55:54.160 --> 55:58.320
+are basically mixoploid, meaning they're like a tumor. Every cell has a different number of
+
+55:58.320 --> 56:05.600
+chromosomes potentially. It just looks horrible. As an end result, you've got an animal that is
+
+56:05.600 --> 56:12.240
+immortal, incredibly good at regenerating with 100% fidelity and very resistant to cancer.
+
+56:12.240 --> 56:19.280
+Now, all of this is the exact opposite of the message you get from a typical course through
+
+56:19.280 --> 56:24.000
+biology, which says that, what is the genome for? The genome is for setting your body structure.
+
+56:24.000 --> 56:28.720
+If you mess with the genome, that information goes away. You get aging, you get cancer.
+
+56:29.360 --> 56:36.320
+Why does the animal with the worst genome have the best anatomical fidelity? I think we actually,
+
+56:37.280 --> 56:41.120
+a few months ago, we actually, I think, have some insight into this, but it's been bugging
+
+56:41.120 --> 56:46.400
+me for years. And this is the kind of thing that nobody ever talks about because it goes
+
+56:46.400 --> 56:52.160
+against the general assumption of what genomes actually do and what they're for. And this complete
+
+56:52.160 --> 56:57.280
+lack of correlation between the genome, in fact, an anti-correlation between the genome quality
+
+56:57.280 --> 57:02.640
+and the incredible ability of this animal to have a healthy anatomy.
+
+57:02.640 --> 57:07.200
+Yeah. What is that insight that you mentioned you acquired a few months ago, preliminary?
+
+57:07.760 --> 57:15.200
+Okay. In the name of throwing out kind of new unproven ideas, right? So this is just my
+
+57:15.200 --> 57:20.720
+conjecture. We've done some computational modeling of it, which I initially, this was a
+
+57:22.320 --> 57:27.120
+very clever student that I work with named Laxwin, who did some models with me. And
+
+57:28.720 --> 57:33.440
+I initially thought it was a bug. And then I realized that, no, actually, this is the feature.
+
+57:33.440 --> 57:39.280
+The idea is this, imagine... So we've been working for a long time on a concept of
+
+57:40.800 --> 57:44.800
+competency among embryonic parts. And what this means is basically the idea that
+
+57:46.480 --> 57:53.920
+there are homeostatic feedback loops among various cells and tissues and organs that
+
+57:53.920 --> 57:59.920
+attempt to reach specific outcomes in anatomical morphous space, despite various perturbations.
+
+57:59.920 --> 58:05.200
+So the idea is that if you have a tadpole and you do something to it, whether by a mutation
+
+58:05.200 --> 58:09.760
+or by a drug or something, you do something to it where the eye is a little off kilter,
+
+58:09.760 --> 58:14.240
+or the mouth is a little off. All of these organs pretty much know where they're supposed to be.
+
+58:14.240 --> 58:19.200
+They will try to minimize distance from other landmarks and they will remodel. And eventually
+
+58:19.200 --> 58:27.040
+you get a normal frog so that they will recover the correct anatomy, despite starting off in the
+
+58:27.040 --> 58:31.040
+wrong position, or even things like changes in the number of cells or the size of cells.
+
+58:31.040 --> 58:36.640
+They're really good at getting their job done despite various changes. So they have these
+
+58:36.640 --> 58:42.160
+competencies to optimize specific things like their position and the structure and things like
+
+58:42.160 --> 58:49.760
+that. So that's competency. Now, here's the interesting thing. Imagine that you have a
+
+58:49.760 --> 58:56.560
+species that has some degree of that competency. And so you've got an individual, if that species
+
+58:56.560 --> 59:02.000
+comes up for selection, fitness is high, looks pretty good. But here's the problem.
+
+59:02.000 --> 59:07.120
+Selection doesn't know whether the fitness is high because his genome was amazing,
+
+59:07.120 --> 59:11.920
+or the fitness is high because the genome was actually so-so, but the competency made up for it
+
+59:11.920 --> 59:17.440
+and now everything got back to where it needs to go. So what the competency apparently does
+
+59:17.440 --> 59:23.440
+is shield information from evolution about the actual genome. It makes it harder to pick the
+
+59:23.440 --> 59:29.120
+best genomes because your individuals that perform well don't necessarily have the best genomes.
+
+59:29.120 --> 59:37.120
+What they do have is competency. So what happens in our simulations is that if you start off with
+
+59:37.120 --> 59:43.680
+even a little bit of that competency, evolution loses some power in selecting the best genomes,
+
+59:43.680 --> 59:48.880
+but where all the work tends to happen is increasing the competency. So then the competency
+
+59:48.880 --> 59:53.360
+goes up. So the cells are even better and the tissues are even better at getting the job done
+
+59:53.360 --> 01:00:00.960
+despite the bad genome. That makes it even worse. That makes it even harder for evolution to see
+
+01:00:00.960 --> 01:00:06.160
+the best genomes, which relieves some of the pressure on having a good genome, but it basically
+
+01:00:06.160 --> 01:00:13.920
+puts all the pressure on being really competent. So basically what happens is that the genetic
+
+01:00:13.920 --> 01:00:19.440
+fitness basically levels out at a really suboptimal level. And in fact, the pressure
+
+01:00:19.440 --> 01:00:24.880
+is off of it. So it's tolerant to all kinds of craziness, but the competency and the mechanisms
+
+01:00:24.880 --> 01:00:31.520
+of competency get pushed up really high. So in many animals, and there are other factors that
+
+01:00:31.520 --> 01:00:35.840
+push against this ratchet, but it becomes a positive feedback loop. It becomes a ratchet
+
+01:00:35.840 --> 01:00:43.760
+for optimal performance despite a suboptimal genome. And so in some animals, this evens out
+
+01:00:43.760 --> 01:00:48.960
+at a particular point, but I think what happened in planaria is that this whole process ran away
+
+01:00:48.960 --> 01:00:56.000
+to its ultimate conclusion. The ultimate conclusion is the competency algorithm became so good that
+
+01:00:56.000 --> 01:01:01.520
+basically whatever the genome is, it's really good at creating and maintaining a proper worm
+
+01:01:01.520 --> 01:01:06.960
+because it is already being evolved in the presence of a genome whose quality we cannot control.
+
+01:01:06.960 --> 01:01:12.720
+So in computer science speak, it's kind of like, and Steve Frank put me onto this analogy,
+
+01:01:12.720 --> 01:01:17.440
+it's kind of like what happens in rate arrays. When you have a nice rate array where the software
+
+01:01:17.440 --> 01:01:22.240
+makes sure that you don't lose any data, the pressure is off to have really high quality
+
+01:01:22.240 --> 01:01:29.520
+media. And so now you can tolerate media with lots of mistakes because the software takes care of it
+
+01:01:29.520 --> 01:01:34.960
+in the rate and the architecture takes care of it. So basically what happens is you've got this
+
+01:01:34.960 --> 01:01:43.120
+animal where that runaway feedback loop went so far that the algorithm is amazing and it's been
+
+01:01:45.520 --> 01:01:50.720
+evolved specifically for the ability to do what it needs to do even though the hardware is kind
+
+01:01:50.720 --> 01:01:56.400
+of crap. And it's incredibly tolerant. So this has a number of implications that to my knowledge
+
+01:01:56.400 --> 01:02:03.040
+have never been explained before. For example, in every other kind of animal, you can call a stock
+
+01:02:03.040 --> 01:02:09.280
+center and you can get mutants. So you can get mice with kinky kind of kink tails. You can get
+
+01:02:09.280 --> 01:02:15.200
+flies with red eyes and you can get chickens without toes and you can get humans come with
+
+01:02:16.640 --> 01:02:24.720
+albinos and things. There's always mutants that you can get. Planaria, there are no abnormal lines
+
+01:02:24.720 --> 01:02:30.000
+of planaria anywhere except for the only exception is our two-headed line and that one's not genetic.
+
+01:02:30.480 --> 01:02:39.040
+That one's bioelectric. So isn't it amazing that nobody has been able, despite 120 years of
+
+01:02:39.040 --> 01:02:45.280
+experiments with planaria, nobody has isolated a line of planaria that is anything other than
+
+01:02:45.280 --> 01:02:50.080
+a perfect planaria. And I think this is why. I think it's because they have been actually selected
+
+01:02:50.080 --> 01:02:55.200
+for being able to do what they need to do despite the fact that the hardware is just very junky.
+
+01:02:56.160 --> 01:03:06.080
+So that's my current take on it. And really it puts more emphasis on the algorithm and the
+
+01:03:06.080 --> 01:03:11.760
+decision making among that cellular collective of what are we going to build and what's the
+
+01:03:11.760 --> 01:03:15.120
+algorithm for making sure that we're all working to build the correct thing.
+
+01:03:16.000 --> 01:03:21.600
+So if you translate this idea into computer science, a way to look at it is imagine that you
+
+01:03:21.600 --> 01:03:29.360
+find some computers that have hard disks that are very, very noisy and where the hard disk
+
+01:03:29.360 --> 01:03:34.240
+basically makes lots and lots of mistakes in encoding things and bits often flip and so on.
+
+01:03:34.240 --> 01:03:38.880
+And you will find that these computers still work and they work in pretty much the same way
+
+01:03:38.880 --> 01:03:44.640
+as the other computers that you have. And there is an orthodox sect of computer scientists that
+
+01:03:44.640 --> 01:03:51.600
+thinks it is necessary that every bit on the hard disk is completely reliable or reliable to
+
+01:03:51.600 --> 01:03:57.760
+such a degree that you only have a mistake once every 100 trillion copies. And you can
+
+01:03:57.760 --> 01:04:01.600
+have an error correction code running on the hard disk at the low level that corrects this.
+
+01:04:01.600 --> 01:04:05.760
+And after some point it doesn't become efficient anymore. So you need to have reliable hard disks
+
+01:04:05.760 --> 01:04:11.200
+to be able to have computers that work like this. But how would these other computers work?
+
+01:04:11.200 --> 01:04:16.720
+And it basically means that you create a virtual structure on top of the noisy structure
+
+01:04:16.720 --> 01:04:22.160
+that is correcting for whatever degree of uncertainty you have or the degree of
+
+01:04:22.160 --> 01:04:29.200
+randomness that gets injected into your substrate. Dave Eggley has a very nice metaphor for this.
+
+01:04:29.200 --> 01:04:31.520
+Do you know him, maybe? Yeah, I know him.
+
+01:04:31.520 --> 01:04:39.120
+Yeah, he's a beautiful artist who explores complexity by tinkering with computational models
+
+01:04:39.120 --> 01:04:43.920
+and really finds his work very inspiring. And he has this idea of best effort computing. So
+
+01:04:43.920 --> 01:04:48.960
+in his view, our own nervous system is a best effort computer. It's one that does not rely
+
+01:04:48.960 --> 01:04:55.520
+on the other neurons around you working perfectly, but make an effort to be better than random.
+
+01:04:56.240 --> 01:05:03.440
+And then you stack the improbabilities empirically by having a system that evolves to measure in
+
+01:05:03.440 --> 01:05:10.160
+effect the unreliability of its components. And then stack the probabilities until you get
+
+01:05:10.160 --> 01:05:17.920
+the system to be deterministic enough to do what you're doing with it. If you have a system that
+
+01:05:17.920 --> 01:05:24.080
+is, as in the planaria, inherently very noisy, where the genome is an unreliable witness of
+
+01:05:24.080 --> 01:05:30.000
+what should be done in the body, you just need to interpret it in a way that stacks the probabilities,
+
+01:05:30.000 --> 01:05:36.080
+that is evaluating things with much more error tolerance. And maybe this is always the case.
+
+01:05:36.080 --> 01:05:41.200
+Maybe there is a continuum, maybe not. It's also possible that there is some kind of phase shift
+
+01:05:41.200 --> 01:05:46.640
+where you switch from organisms with reliable genomes to organisms with noisy genomes. And you
+
+01:05:46.640 --> 01:05:50.960
+basically use a completely different way to construct the organism as a result. But it's
+
+01:05:50.960 --> 01:05:56.960
+a very interesting hypothesis then to see if this is a radical thing or a gradual thing that happens
+
+01:05:56.960 --> 01:06:02.560
+in all organisms to some degree. What I also like about this description that you give about
+
+01:06:02.560 --> 01:06:10.000
+how the organism emerges, it maps in some sense also in how perception works in our own mind.
+
+01:06:10.960 --> 01:06:17.920
+At the moment, machine learning is mostly focused on recognizing images or individual frames. And
+
+01:06:17.920 --> 01:06:22.400
+you feed in information frame by frame and the information is totally disconnected.
+
+01:06:23.200 --> 01:06:28.080
+A system like Dali2 is trained by giving it several hundreds of millions of images.
+
+01:06:28.800 --> 01:06:32.720
+And they are disconnected. They are not adjacent images in the space of images. And
+
+01:06:33.280 --> 01:06:38.480
+maybe you could not probably learn from giving 600 million images in a dark room and only looking
+
+01:06:38.480 --> 01:06:44.000
+at this introduced the structure of the world from this. Whereas Dali can, which gives testament to
+
+01:06:44.000 --> 01:06:49.200
+the power of our statistical methods and hardware that we have. That far surpasses, I think, the
+
+01:06:49.200 --> 01:06:53.680
+combined power and reliability of brains, which probably would not be able to integrate so much
+
+01:06:53.680 --> 01:06:59.440
+information over such a big distance. For us, the world is learnable because its adjacent frames
+
+01:06:59.440 --> 01:07:04.800
+are correlated. Basically, information gets preserved in the world through time. And we
+
+01:07:04.800 --> 01:07:09.680
+only need to learn the way in which the information gets transmogrified. And these
+
+01:07:09.680 --> 01:07:14.240
+transmogrification of information means that we have a dynamic world in which the static image
+
+01:07:14.240 --> 01:07:18.800
+is an exception. The identity function is a special case of how the universe changes. And
+
+01:07:18.800 --> 01:07:25.120
+we mostly learn change. I just got visited by my cat. And my cat has difficulty to recognize
+
+01:07:25.120 --> 01:07:29.920
+static objects compared to moving objects, where it's much, much easier to see a moving ball than
+
+01:07:29.920 --> 01:07:34.640
+a ball that is lying still. And it's because it's much easier to segment it out the environment
+
+01:07:34.640 --> 01:07:39.680
+when it moves. So the task of learning on a moving environment, a dynamic environment,
+
+01:07:39.680 --> 01:07:45.280
+is much easier because it imposes constraints on the world. And so how do we represent a moving
+
+01:07:46.240 --> 01:07:52.240
+world compared to a static world? The semantics of features changes. And an object is basically
+
+01:07:52.240 --> 01:07:57.920
+composed of features that can be objects themselves. And the scene is a decomposition
+
+01:07:57.920 --> 01:08:03.440
+of all the features that we see into a complete set of objects that explain the entirety of the
+
+01:08:03.440 --> 01:08:07.280
+scene. And the interaction between them and causality is the interaction between objects.
+
+01:08:08.400 --> 01:08:12.720
+And in a static image, these objects don't do anything. They don't interact with each other.
+
+01:08:12.720 --> 01:08:16.880
+They just stand in some kind of relationship that you need to infer, which is super difficult
+
+01:08:16.880 --> 01:08:22.800
+because you only have this static snapshot. And so the features are classifiers that tell you
+
+01:08:22.800 --> 01:08:29.680
+how to, whether a feature is a hand or a foot or a pen or a sun or a flashlight or whatever,
+
+01:08:29.680 --> 01:08:34.240
+and how they relate to the larger scene, in which, again, you have a static relationship
+
+01:08:34.240 --> 01:08:38.640
+in which you need to classify the object based on the features that contribute to them.
+
+01:08:38.640 --> 01:08:42.400
+And you need to find some kind of description where you interpret features, which are usually
+
+01:08:42.400 --> 01:08:46.160
+ambiguous and could be many different things, depending on the context in which you interpret
+
+01:08:46.160 --> 01:08:51.760
+them, into one optimal global configuration, right? But if the scene is moving, this changes
+
+01:08:51.760 --> 01:08:56.240
+a little bit. What happens now is that the features become operators. They're no longer
+
+01:08:56.240 --> 01:09:01.200
+classifiers that tell you how your internal state needs to change, how your world needs to change,
+
+01:09:01.200 --> 01:09:05.760
+how your simulation of the universe in your mind needs to change to track the sensory patterns.
+
+01:09:06.400 --> 01:09:13.440
+Right, so a feature now is a change operator, a transformation. And the feature is in some sense
+
+01:09:13.440 --> 01:09:18.480
+a controller that tells you how the bits are moving in your local model of the universe.
+
+01:09:18.480 --> 01:09:23.760
+And they're organized in a hierarchy of controllers. And these controllers need to
+
+01:09:23.760 --> 01:09:27.760
+be turned on and off at the level of the scene. And they have a lot of flexibility once you have
+
+01:09:27.760 --> 01:09:31.200
+them. They can move around in the scene. They're basically now self-organizing,
+
+01:09:31.200 --> 01:09:36.320
+self-stabilizing entities. In the same way as the mouse is moving around in your organism,
+
+01:09:36.320 --> 01:09:40.800
+a feature can move around in the organism and shift itself around to communicate with other
+
+01:09:40.800 --> 01:09:44.480
+features until they negotiate a valid interpretation of reality.
+
+01:09:45.840 --> 01:09:51.840
+That's incredibly interesting because as soon as you started saying that,
+
+01:09:52.720 --> 01:09:58.400
+I was starting to think that the virtualization that enables, right, so the earlier part of which
+
+01:09:58.400 --> 01:10:07.600
+we're saying the virtualization of the information that allows you to deal with unreliable
+
+01:10:07.600 --> 01:10:13.440
+hardware and everything, the bioelectric circuits that we deal with are a great candidate for that
+
+01:10:13.440 --> 01:10:18.720
+because actually we see exactly that. We see a bioelectric pattern that is very resistant to
+
+01:10:18.720 --> 01:10:23.120
+changes in the details and make sure that everybody does the right thing under a wide range of
+
+01:10:24.080 --> 01:10:28.560
+different defects and so on. But even more than that, the other thing that you were just
+
+01:10:29.200 --> 01:10:33.120
+emphasizing this, the fact that we learn the delta and that we're looking for change,
+
+01:10:33.840 --> 01:10:39.280
+very interesting. If you pivot the whole thing from the temporal domain to the spatial domain,
+
+01:10:39.280 --> 01:10:46.080
+so in development, when we look at these bioelectric patterns, now these patterns
+
+01:10:46.080 --> 01:10:51.040
+are across space, not across time. So unlike in neuroscience where everything is in the temporal
+
+01:10:51.040 --> 01:10:57.040
+domain for neurons, these are static voltage patterns across tissue, right, across the whole
+
+01:10:57.040 --> 01:11:03.600
+thing. So for the longest time, we asked this question, how are these read out? How do cells
+
+01:11:03.600 --> 01:11:09.920
+actually read these? Because one possibility early, this was a very early hypothesis 20 years ago,
+
+01:11:09.920 --> 01:11:14.720
+was that maybe the local voltage tells every cell what to be. So it's like a paint by numbers kind
+
+01:11:14.720 --> 01:11:22.800
+of thing. And each voltage value corresponds to some kind of outcome. That turned out to be false.
+
+01:11:22.800 --> 01:11:27.200
+What we did find is that, and we have computational models of how this works now,
+
+01:11:29.520 --> 01:11:34.880
+what is read out is the delta, the difference between regions. It doesn't care, nobody cares
+
+01:11:34.880 --> 01:11:40.800
+about what the absolute voltage is, what is read out in terms of outcomes for downstream cell
+
+01:11:40.800 --> 01:11:44.720
+behavior, gene expression, all that. What is actually read out is the voltage difference
+
+01:11:44.720 --> 01:11:49.440
+between two adjacent domains. So that is exactly actually what it's doing just in the spatial
+
+01:11:49.440 --> 01:11:57.920
+domain. It only keys off of the delta. And what is learned from that is exactly as you were saying,
+
+01:11:57.920 --> 01:12:02.880
+it modifies the controller for what's downstream of that. And there may be multiple ones that are
+
+01:12:02.880 --> 01:12:08.880
+sort of moving around and co-inhabiting. I mean, it's a very compelling picture actually and way
+
+01:12:08.880 --> 01:12:15.200
+to look at some of the simulations that we've been doing about how the bioelectric data are
+
+01:12:15.200 --> 01:12:19.280
+interpreted by the rest of the cells. It's very interesting.
+
+01:12:19.280 --> 01:12:23.600
+So Professor Levin used the word competence earlier, and I'd like you to define that.
+
+01:12:24.640 --> 01:12:35.120
+Yeah. In order to define it, I want to put out two concepts to this. One idea is that, to me,
+
+01:12:35.120 --> 01:12:39.760
+and this goes back to what we were talking about before as the engineering stance on things,
+
+01:12:40.400 --> 01:12:48.800
+I think that useful cognitive claims such as something, when you say this system has whatever
+
+01:12:48.800 --> 01:12:53.680
+or it can whatever, as far as various types of cognitive capacities, I think those kinds of
+
+01:12:53.680 --> 01:12:59.280
+claims are really engineering claims. That is, when you tell me that something is competent
+
+01:12:59.280 --> 01:13:06.400
+at a particular level, so you can think about Wiener and Rosenbluth scale of cognition that
+
+01:13:06.400 --> 01:13:12.960
+goes from simple passive materials and then reflexes and then all the way up to second
+
+01:13:12.960 --> 01:13:16.320
+order metacognition and all that. When you tell me that something is on that
+
+01:13:16.880 --> 01:13:22.320
+ladder and where it is, what you're really telling me is, if I want to predict its behavior or I
+
+01:13:22.320 --> 01:13:27.920
+want to use it in an engineering context or I want to interact with it or relate to it in some way,
+
+01:13:27.920 --> 01:13:32.000
+this is what I can expect. That's what you're really telling me. All of these terms,
+
+01:13:32.800 --> 01:13:36.880
+what they really are, are engineering protocols. If you tell me that something
+
+01:13:36.880 --> 01:13:43.680
+has the capacity to do associative learning or whatever, what you're telling me is that,
+
+01:13:43.680 --> 01:13:47.520
+hey, you can do something more with this than you could with a mechanical clock.
+
+01:13:47.520 --> 01:13:53.040
+You can provide certain types of stimuli or experiences and you can expect it to do this
+
+01:13:53.040 --> 01:13:59.600
+or that afterwards. Or if you tell me that something is a homeostat, that means that,
+
+01:13:59.600 --> 01:14:06.080
+hey, I can count on it to keep some variable at a particular range without having to be myself
+
+01:14:06.080 --> 01:14:10.080
+to control it all the way. It has a certain autonomy now. If you tell me that something
+
+01:14:10.080 --> 01:14:14.640
+is really intelligent and it can do XYZ, then I know that, okay, you're telling me that it
+
+01:14:14.640 --> 01:14:19.520
+has even more autonomous behavior in certain contexts. All of these terms, to me, what they
+
+01:14:19.520 --> 01:14:23.360
+really are, they're not... And that has an important implication. The implication is that
+
+01:14:23.360 --> 01:14:30.320
+they're observer dependent, that you've picked some kind of problem space, you've picked some
+
+01:14:30.320 --> 01:14:34.960
+kind of perspective. And from that problem space and that perspective, you're telling me that
+
+01:14:36.800 --> 01:14:42.000
+given certain goal states, this system has that much competency to pursue those goal states.
+
+01:14:42.000 --> 01:14:45.840
+And different observers can have different views on this for any given system. So for example,
+
+01:14:46.400 --> 01:14:50.720
+somebody might look at a brain, let's say a human brain and say, well, I'm pretty sure the only
+
+01:14:50.720 --> 01:14:55.760
+thing, this is a paperweight. So it's really pretty much just competent in going down gravitational
+
+01:14:55.760 --> 01:14:59.360
+gradients. So all it can do is hold down paper, that's it. And somebody else will look at it and
+
+01:14:59.360 --> 01:15:03.520
+say, you missed the whole point. This thing has competencies in behavioral space and
+
+01:15:03.520 --> 01:15:10.560
+linguistic space. So these are all empirically testable engineering claims about what you can
+
+01:15:10.640 --> 01:15:16.880
+expect the system to do. So when I say competency, what I mean is we specify a space, a problem
+
+01:15:16.880 --> 01:15:21.040
+space. And at the time when we were talking about this, the problem space that I was talking about
+
+01:15:21.040 --> 01:15:26.480
+was the anatomical morphous space. That was the space we were talking about. So the space of
+
+01:15:26.480 --> 01:15:32.400
+possible anatomical configurations and specifically navigating that morphous space. So you start off
+
+01:15:32.400 --> 01:15:38.320
+as an egg or you start off as a damaged limb or whatever, and you navigate that morphous space
+
+01:15:38.320 --> 01:15:44.240
+into the correct structure. So when I say competency, I mean, you have the ability to deploy
+
+01:15:44.240 --> 01:15:51.600
+certain kinds of tricks to navigate that morphous space with some level of performance that I can
+
+01:15:51.600 --> 01:15:55.840
+count on. And so the competency might be really low or it might be really high. And I would have to
+
+01:15:55.840 --> 01:16:00.560
+make specific claims about what I mean. Here's an example of a common, and there are many,
+
+01:16:00.560 --> 01:16:04.320
+if you just think about the behavioral science of navigation, there are many competencies you
+
+01:16:04.320 --> 01:16:09.600
+can think about. Does it know ahead of time where it's going? Does it have a memory of where it's
+
+01:16:09.600 --> 01:16:17.440
+been? Or is it a very simple sort of reflex arc is all it has? Or here's one example of a pretty
+
+01:16:17.440 --> 01:16:25.600
+cool competency that a lot of biological systems have. If we take some cells that are in the tail
+
+01:16:25.680 --> 01:16:38.800
+of a tadpole and we modify their ion channels such that they now acquire the goal of navigating to
+
+01:16:38.800 --> 01:16:43.280
+an eye fate in this morphous space, meaning that they're going to make an eye. These things,
+
+01:16:43.280 --> 01:16:47.280
+in fact, will create an eye and they'll make an eye in the tail, on the gut, wherever you want.
+
+01:16:47.280 --> 01:16:52.640
+But one of the cool, and so that's already pretty cool, but one of the amazing aspects is
+
+01:16:52.640 --> 01:16:58.480
+if I only modify a few cells, not enough to make an actual eye, just a handful of cells,
+
+01:16:58.480 --> 01:17:04.080
+and we've done this and you can see this work. One of the competencies they have is to recruit
+
+01:17:04.080 --> 01:17:09.440
+local neighbors that were themselves not in any way manipulated to help them achieve that goal.
+
+01:17:09.440 --> 01:17:14.080
+It's a little bit like in an ant colony. This idea of recruitment in ants and termites is an
+
+01:17:14.080 --> 01:17:18.880
+idea of recruitment where individuals can recruit others and talk about a flexible collective
+
+01:17:18.960 --> 01:17:24.960
+intelligence. This is it. You've re-specified the goal for that set of cells, but one of the
+
+01:17:24.960 --> 01:17:29.680
+things that they do without us telling them how to do it or having to micromanage it,
+
+01:17:29.680 --> 01:17:34.640
+they already have the competency to recruit as many cells as they need to get the job done.
+
+01:17:36.400 --> 01:17:40.800
+For an engineer, that's a very nice competency because it means that I don't need to worry
+
+01:17:40.800 --> 01:17:46.240
+about taking care of getting exactly the right number of cells. If I'm a little bit over,
+
+01:17:46.240 --> 01:17:50.400
+that's fine. If I'm way under, also fine. The system has that competency of recruiting
+
+01:17:51.040 --> 01:17:56.960
+other cells to get the job done. That's what I meant. To make any kind of a cognitive claim,
+
+01:17:56.960 --> 01:18:02.640
+you have to specify the problem space. You have to specify the goal towards which it's expressing
+
+01:18:02.640 --> 01:18:09.200
+competencies. Then you can make a claim about, well, how competent is it to get to that goal?
+
+01:18:09.920 --> 01:18:13.760
+I wish I could remember who it was, but somebody made this really nice analogy about the ends of
+
+01:18:13.760 --> 01:18:19.840
+that spectrum. They said two magnets try to get together and Romeo and Juliet try to get together,
+
+01:18:19.840 --> 01:18:23.760
+but the degree of flexible problem solving that you can expect out of those two systems is
+
+01:18:23.760 --> 01:18:29.280
+incredibly different. Within that range, there are all kinds of in-between systems that may be
+
+01:18:29.280 --> 01:18:34.320
+better or worse and may deploy different kinds of strategies. Can they avoid local optima? Can they
+
+01:18:34.320 --> 01:18:38.480
+have a memory of where they've been? Can they look further than their local environment? A
+
+01:18:38.480 --> 01:18:43.360
+million different things. That's what I meant by competency. It's a claim about
+
+01:18:44.240 --> 01:18:49.680
+what an engineer can expect the system to do given a particular problem space and a particular
+
+01:18:49.680 --> 01:18:55.280
+goal that you think it's trying to reach. The way in which you use the word competency
+
+01:18:56.080 --> 01:19:00.960
+could be treated as the capacity of a system for adaptive control.
+
+01:19:05.440 --> 01:19:11.280
+One issue that I have with the notion of goals and goal directedness is that sometimes you only
+
+01:19:11.280 --> 01:19:18.000
+have a tendency in a system to go in a certain direction. It's directed, but the goal is something
+
+01:19:18.000 --> 01:19:22.560
+that can be emergent. Sometimes it's not. Sometimes there is an explicit representation
+
+01:19:22.560 --> 01:19:26.960
+in the system of a discrete event that is associated or a class of events with fulfilling
+
+01:19:26.960 --> 01:19:31.120
+a certain condition that the system has committed itself to. If you don't have that, you don't have
+
+01:19:31.120 --> 01:19:38.640
+a proper goal. In real systems, it's difficult to say. When do we pursue goals? Sometimes we just
+
+01:19:38.640 --> 01:19:44.160
+vaguely hungry or moving towards the kitchen because we hope that something will opportunistically
+
+01:19:44.160 --> 01:19:49.680
+emerge that will deal with this vague tendency in our behavior. We could also say we have the
+
+01:19:49.680 --> 01:19:55.040
+goal of finding food, but that is a rationalization that is maybe stretching things sometimes.
+
+01:19:56.720 --> 01:20:01.920
+Sometimes a better distinction for me is going from a simple controller to an agent.
+
+01:20:04.080 --> 01:20:08.400
+We are very good at discovering agency in the world. What does it actually mean when we discover
+
+01:20:08.400 --> 01:20:15.440
+agency and when we discover our own agency and start to amplify it by making models of who we
+
+01:20:15.440 --> 01:20:20.480
+are and how we deal with the world and with others and so on? The minimal definition of agent that I
+
+01:20:20.480 --> 01:20:26.160
+found is a controller for future states. The thermostat doesn't have a goal by itself. It
+
+01:20:26.160 --> 01:20:32.960
+just has a target value and a sensor that tells its deviation from the target value and when that
+
+01:20:32.960 --> 01:20:38.960
+exceeds a certain threshold, the heating is turned on. If it goes below a certain threshold,
+
+01:20:38.960 --> 01:20:44.320
+the heating is turned off again and this is it. The thermostat is not an agent. It only reacts
+
+01:20:44.320 --> 01:20:50.720
+to the present frame. It's only a reactive system. Whereas an agent is proactive, which means that
+
+01:20:50.720 --> 01:20:57.360
+it's trying to not just minimize the current deviation from the target value, but the integral
+
+01:20:58.000 --> 01:21:05.680
+over the time span, the future deviation. It builds an expectation about how an action is
+
+01:21:05.680 --> 01:21:12.160
+going to change this trajectory of the universe. Over that trajectory, it tries to figure out some
+
+01:21:12.160 --> 01:21:18.880
+measure of how big the compound target deviation is going to be. As a result, you get a branching
+
+01:21:18.880 --> 01:21:23.840
+universe. The branches in this universe, some of these branches depend on actions that are
+
+01:21:23.840 --> 01:21:29.920
+available to you and that translate into decisions that you can make that move you
+
+01:21:29.920 --> 01:21:33.600
+into more or less preferable wealth states. Suddenly, you have a system with emergent
+
+01:21:33.600 --> 01:21:40.240
+beliefs, desires, and intentions. To make that happen, to move from a controller to agency,
+
+01:21:41.040 --> 01:21:47.600
+agent just being a controller with an integrated set point generator and the ability to control
+
+01:21:47.600 --> 01:21:54.880
+future states, that requires that you can make models that are counterfactual because the future
+
+01:21:54.880 --> 01:22:00.640
+universe doesn't exist right now. You need to create a counterfactual model of the future
+
+01:22:00.640 --> 01:22:05.280
+universe, maybe even a model of the past universe that allows you to reason about possible future
+
+01:22:05.280 --> 01:22:11.360
+universes and so on. To make these counterfactual causal models of the universe, you need to have a
+
+01:22:11.360 --> 01:22:17.680
+Turing machine. Without a computer, without something that is Turing complete, that insulates
+
+01:22:17.680 --> 01:22:23.600
+you from the causal structure of your substrate, that allows you to build representations regardless
+
+01:22:23.600 --> 01:22:28.560
+of what the universe says right now around you, you need to have that machine. The simplest
+
+01:22:30.000 --> 01:22:36.000
+system in nature that has a Turing machine integrated is the cell. It's very difficult to
+
+01:22:36.000 --> 01:22:42.800
+find a system in nature that is an agent, that is not made from cells as a result. Maybe there
+
+01:22:42.800 --> 01:22:49.120
+are systems in nature that are able to compute things and make models, but I'm not aware of any.
+
+01:22:49.840 --> 01:22:56.320
+The simplest one that I know that can do this reliably is the cells or arrangement of cells
+
+01:22:57.280 --> 01:23:04.000
+that can possess agency, which is an interesting thing that explains this coincidence that living
+
+01:23:04.000 --> 01:23:09.200
+things are agents and vice versa, that the agents that we discover are mostly living things,
+
+01:23:09.200 --> 01:23:16.560
+or there are robots that have computers built into them, or virtual robots that rely on
+
+01:23:16.560 --> 01:23:21.600
+computation. The ability to make models of the future is the prerequisite for agency.
+
+01:23:22.400 --> 01:23:30.560
+To make arbitrary models, which means structures that embody causal simulations of some sort,
+
+01:23:30.560 --> 01:23:37.280
+that requires computation. Yeah, yeah. I'm on board with that
+
+01:23:37.280 --> 01:23:46.160
+ladder, that taxonomy of goals and so on. One interesting thing about goals, and as you say,
+
+01:23:46.160 --> 01:23:52.720
+some are emergent and some are not, there's an interesting planarian version of this,
+
+01:23:52.720 --> 01:23:59.680
+which is this. We made this hypothesis about, so within planaria, you chop it up into pieces
+
+01:23:59.680 --> 01:24:05.440
+and every piece regenerates exactly the right rest of the work. If you chop it into pieces,
+
+01:24:05.440 --> 01:24:12.480
+each piece will have one head, one tail. Then, of course, what happens is it stops when it reaches
+
+01:24:12.480 --> 01:24:19.440
+a correct planarian, then it stops. We started to think that there are a couple of possibilities.
+
+01:24:19.440 --> 01:24:25.200
+One possibility is that this is a purely emergent process and that the goal of rebuilding a head is
+
+01:24:25.200 --> 01:24:29.680
+an emergent thing that comes about as a consequence of other things. Or could there be
+
+01:24:30.560 --> 01:24:35.200
+an actual explicit representation of what a correct planarian is that serves as a
+
+01:24:35.200 --> 01:24:39.120
+set point, as an explicitly encoded set point for these cells to follow?
+
+01:24:39.920 --> 01:24:44.400
+Because it's a cellular collective, we were communicating electrically. We thought, well,
+
+01:24:44.400 --> 01:24:51.600
+maybe what it's doing is basically storing a memory of what, like you would in a neural
+
+01:24:51.600 --> 01:24:56.000
+circuit, storing a memory of what it should be. We started looking for this and this is what we
+
+01:24:56.000 --> 01:25:05.600
+found. This is, I think, one important type of goal in a goal-seeking system is a goal that
+
+01:25:05.600 --> 01:25:10.800
+you can rewrite without changing the hardware and the system will now pursue that goal instead of
+
+01:25:10.800 --> 01:25:15.920
+something else. In a purely emergent system, that doesn't work. If you have a cellular automaton or
+
+01:25:15.920 --> 01:25:19.840
+a fractal or something that does some kind of complex thing, if you want to change what that
+
+01:25:19.840 --> 01:25:24.400
+complex thing is, you have to figure out how to change the local rules. That's very hard in most
+
+01:25:24.400 --> 01:25:30.640
+cases. But what we found in planaria is that we can literally, using a voltage reporter die,
+
+01:25:30.640 --> 01:25:36.400
+we can look at the worm and we can see now the pattern, and it's a distributed pattern,
+
+01:25:36.400 --> 01:25:40.400
+but we can see the pattern that tells this animal how many heads it's supposed to have.
+
+01:25:40.400 --> 01:25:48.240
+And what you can do is you can go in and using a brief transient manipulation of the ion channels
+
+01:25:48.240 --> 01:25:52.720
+with drugs, with ion channel drugs, and we have a computational model that tells you what those
+
+01:25:52.720 --> 01:25:58.800
+drugs should be, that briefly changes the electrical state of the circuit, but the circuit is amazing.
+
+01:25:59.520 --> 01:26:04.960
+Once you've changed that state, it holds. So by default, in a standard planaria, it always says
+
+01:26:04.960 --> 01:26:10.320
+one head, but it's kind of like a flip-flop in that when you temporarily shift it, it holds and
+
+01:26:10.320 --> 01:26:16.000
+you can push it to a state that says two heads. So now something very interesting happens. Two
+
+01:26:16.000 --> 01:26:20.000
+interesting things. One is that if you take those worms and you cut those into pieces,
+
+01:26:20.720 --> 01:26:25.440
+you get two headed worms, even though the hardware is all wild type. There's nothing wrong with the
+
+01:26:25.440 --> 01:26:29.280
+hardware. All the proteins are the same. All the genetics is the same, but the electric circuit
+
+01:26:29.280 --> 01:26:35.520
+now says make two heads instead of one. And so this is in an interesting way. It is an explicit
+
+01:26:35.520 --> 01:26:39.760
+goal because you can rewrite it because much like with your thermostat, there's an interface for
+
+01:26:39.760 --> 01:26:42.480
+changing what the goal state is, and then you don't even need to know how the rest of the
+
+01:26:42.560 --> 01:26:47.200
+thermostat works. As long as you know how to modify that interface, the system takes care of
+
+01:26:47.200 --> 01:26:51.680
+the rest. The other interesting thing is, and I love what you said about the counterfactuals,
+
+01:26:52.480 --> 01:26:59.680
+what you can do is you can change that electrical pattern in an intact worm and not cut it for a
+
+01:26:59.680 --> 01:27:04.400
+long time. And if you do that, when you look at that pattern, that is a counterfactual pattern
+
+01:27:04.400 --> 01:27:10.320
+because that two headed pattern is not a readout of the current state. It says two heads, but the
+
+01:27:10.320 --> 01:27:16.080
+animal only has one head. It's a normal planarian. So that pattern memory is not a readout of what
+
+01:27:16.080 --> 01:27:21.920
+the animal is doing right now. It is a representation of what the animal will do in the future if it
+
+01:27:21.920 --> 01:27:28.320
+happens to get injured. And you may never cut it or you may cut it, but if you do, then the cells
+
+01:27:28.320 --> 01:27:33.280
+consult the pattern and build a two headed worm, and then it becomes the current state. But until
+
+01:27:33.280 --> 01:27:38.960
+then, it's this weird like primitive, it's a primitive counterfactual system because it's
+
+01:27:38.960 --> 01:27:46.480
+able to, a body of a planarian is able to store at least two different representations of what a,
+
+01:27:46.480 --> 01:27:50.560
+probably many more, but we've found two so far, what a correct planarian should look like. It
+
+01:27:50.560 --> 01:27:56.160
+can have a memory of a one headed planarian or a memory of a two headed planarian. And both of
+
+01:27:56.160 --> 01:28:01.760
+those can live in exactly the same hardware and exactly the same body. The other kind of cool
+
+01:28:01.760 --> 01:28:08.080
+thing about this, and I'll just mention this even though this is disclaimer, this is not published
+
+01:28:08.080 --> 01:28:15.120
+yet. So take all this with a grain of salt, but the latest thing you can do is you can actually
+
+01:28:15.120 --> 01:28:21.120
+treat it with some of the same compounds that are used in neuroscience in humans and in rats as
+
+01:28:21.120 --> 01:28:27.200
+memory blockers. So things that block recall or memory consolidation. And when you do that,
+
+01:28:27.200 --> 01:28:30.880
+you can make the animal forget how many heads it's supposed to have. And then they basically
+
+01:28:30.880 --> 01:28:36.000
+turn into a featureless circle when you can just wipe the pattern memory completely.
+
+01:28:36.000 --> 01:28:41.280
+Were they using exactly the same techniques you would use in a rat or a human? They just forget
+
+01:28:41.280 --> 01:28:45.200
+what to do when they turn into, they fail to break symmetry and they just become a circle.
+
+01:28:45.760 --> 01:28:53.520
+So yeah, I think what you were saying is right on with this ability to store counterfactual
+
+01:28:53.520 --> 01:28:59.280
+states that are not true now, but may represent aspects of the future. I think that's a very
+
+01:28:59.280 --> 01:29:05.840
+important capacity. Another important notion is a constraint and constraint satisfaction. A
+
+01:29:05.840 --> 01:29:11.360
+constraint is a rule that tells you whether two things are compatible or not. And the constraint
+
+01:29:11.360 --> 01:29:15.440
+is satisfied if they're compatible. So you basically have a number of conditions that you
+
+01:29:15.440 --> 01:29:21.920
+establish by measuring that somehow, for instance, whether you have a head or multiple heads,
+
+01:29:21.920 --> 01:29:27.680
+and you try to find a solution where you can end up with exactly one head. And if you end up with
+
+01:29:27.680 --> 01:29:32.800
+exactly one head based on the starting state, then you have managed to find a way to satisfy
+
+01:29:32.800 --> 01:29:41.040
+your constraints. And so in a sense, what you call a competency is the ability of a system to take
+
+01:29:41.040 --> 01:29:48.080
+a region of the states of the space of the universe, basically some local region of possible
+
+01:29:48.080 --> 01:29:55.920
+state that the universe can be in, and move that region to a smaller region that is acceptable.
+
+01:29:55.920 --> 01:30:00.960
+So there is a region on the universe state space where you have only one head. And there's a larger
+
+01:30:00.960 --> 01:30:05.600
+region where you don't have any head at all, but the starting state of your organism. And then you
+
+01:30:05.600 --> 01:30:11.280
+try to get from A to B. So you get from this larger region to the one in which you want to be. Of
+
+01:30:11.280 --> 01:30:15.440
+course, if you have one head, you want to stay in the region in which you have one head, which,
+
+01:30:15.440 --> 01:30:21.840
+of course, is usually much easier. But the ability basically to condense the space, to bridge over
+
+01:30:21.840 --> 01:30:28.240
+many regions into the target region is what comes down to what this competency is. The system
+
+01:30:28.240 --> 01:30:33.120
+basically has an emergent wanting to go in this region, and it's trying to move there. And so
+
+01:30:33.120 --> 01:30:38.880
+there are constraints at the level of the substrate that are battling with the functional constraints
+
+01:30:38.880 --> 01:30:44.880
+that the organism wants to realize to fulfill its function. And sometimes you cannot satisfy this,
+
+01:30:44.880 --> 01:30:49.760
+and you end up with two heads because you don't know which one you get rid of, or how to digest
+
+01:30:49.760 --> 01:30:57.360
+one of the heads and so on. And you end up with some Siamese twin. And so this is an interesting
+
+01:30:57.360 --> 01:31:02.320
+constraint that you have to solve for when you are dealing with reality and how you battle with
+
+01:31:02.320 --> 01:31:09.840
+the substrate until you get to the functional solution that you evolved for. Yeah, that's
+
+01:31:09.840 --> 01:31:16.240
+interesting. I mean, we've also found that there are... So we look at exactly this
+
+01:31:17.200 --> 01:31:20.960
+the navigation, this kind of navigation and morphous space, how you get from here to there
+
+01:31:20.960 --> 01:31:25.440
+and what paths are possible to get from here to there and so on. One of the things that we found
+
+01:31:25.440 --> 01:31:32.720
+is that there are regions of that space that belong to other species. And you can push a
+
+01:31:32.720 --> 01:31:38.560
+planarian with a standard wild type genome into the goal state of a completely different species.
+
+01:31:38.560 --> 01:31:42.400
+So we can get them to grow a head. So there's a species that normally has a triangular head.
+
+01:31:42.400 --> 01:31:47.520
+You can make it grow a round head like a different species or a flat head or whatever.
+
+01:31:49.280 --> 01:31:55.040
+So those are about 100 to 150 million years of evolutionary distance. And you can do it
+
+01:31:56.320 --> 01:32:02.080
+within a few days just by perturbing that electrical circuit so that it lands in the
+
+01:32:02.080 --> 01:32:08.400
+wrong space. And then outside of that, there are regions that don't belong to planaria at all.
+
+01:32:08.400 --> 01:32:14.240
+So planaria are normally nice and flat. We've made planarians that look like they are a cylinder,
+
+01:32:14.240 --> 01:32:20.160
+like a ski cap. They become like a hemisphere or really weird ones that are spiky. They're
+
+01:32:20.160 --> 01:32:25.680
+like a ball with spikes on it. There are all kinds of other regions in that space that you can push
+
+01:32:25.680 --> 01:32:31.520
+them to. And so- Those are new. Those are not species that they diverge from. Those are new.
+
+01:32:31.520 --> 01:32:38.160
+No one's ever... To my knowledge, yes, there are no such species. It's easier to... And we've
+
+01:32:38.160 --> 01:32:43.680
+done this in frog too. You can push tadpoles to make it to look like those of other species
+
+01:32:44.240 --> 01:32:50.080
+or you can make... That's a whole interesting thing for evolution anyway. One species birth
+
+01:32:50.080 --> 01:32:56.640
+defect is a perfectly reasonable different species. So we can make tadpoles with a rounded tail,
+
+01:32:56.640 --> 01:33:02.160
+which for a Xenopus tadpole is a terrible tail, but for a zebrafish, that's exactly the right tail.
+
+01:33:02.160 --> 01:33:11.040
+So you can imagine evolution manipulating the different information processing by electrical
+
+01:33:11.040 --> 01:33:20.720
+circuits or other machinery that help the system explore that more of a space and start to move
+
+01:33:20.720 --> 01:33:26.400
+away from whatever that speciation is moving away from your standard attractor that you usually
+
+01:33:26.480 --> 01:33:32.800
+land on. How does this relate to intelligence? Well, intelligence is the ability to make models
+
+01:33:32.800 --> 01:33:37.840
+and usually in the service of control, at least that's the way I would explain intelligence.
+
+01:33:39.360 --> 01:33:42.720
+There are other definitions, but it's the simplest one that I've found.
+
+01:33:42.720 --> 01:33:46.480
+It also accounts for the fact that many intelligent people are not very good at getting
+
+01:33:46.480 --> 01:33:52.320
+things done. Basically, intelligence and goal rationality are somewhat orthogonal.
+
+01:33:53.280 --> 01:33:58.320
+And excessive intelligence is often a prosthesis for bad regulation.
+
+01:33:58.320 --> 01:34:01.520
+Have you read the intelligence trap? No.
+
+01:34:02.400 --> 01:34:06.880
+Okay. The author makes a similar case and he's coming on shortly, essentially saying that there
+
+01:34:06.880 --> 01:34:12.160
+are certain traps that people with high IQs have that are not beneficial for them as biological
+
+01:34:12.160 --> 01:34:16.800
+beings. They're mainly cognitive biases. So for instance, it's extremely interesting. So let's
+
+01:34:16.800 --> 01:34:21.760
+just give one of the biases to say you're either liberal biased or you're conservative biased,
+
+01:34:21.760 --> 01:34:25.680
+and then you were to give a test where there's some data that says that on the surface, it shows
+
+01:34:25.680 --> 01:34:31.120
+that the data shows that gun control prevents gun violence. Well, the liberals are more likely to
+
+01:34:31.120 --> 01:34:35.520
+say, yes, this data does show that. But if you're conservative, you're more likely to find, oh,
+
+01:34:35.520 --> 01:34:40.800
+actually the subtleties in the data show that gun control increases gun violence. And then they
+
+01:34:40.800 --> 01:34:45.040
+thought, okay, well, let's just switch this to make it such that the superficial data suggests that
+
+01:34:45.040 --> 01:34:49.520
+gun control increases violence. You need to look at the data carefully to show that it actually
+
+01:34:49.520 --> 01:34:53.200
+prevents violence. Well, the conservatives in that case would be more quickly to say, oh, look,
+
+01:34:53.200 --> 01:34:58.400
+the gun control increases violence, and the liberals would find the the loophole. Well,
+
+01:34:58.400 --> 01:35:03.120
+that's one of the reasons why I don't mind interviewing people who are biased. Because to
+
+01:35:03.120 --> 01:35:09.520
+me, they're more able to find a justification for something that may be true. But I or and others
+
+01:35:09.520 --> 01:35:14.000
+are so well, we all have our own biases. We're so inclined in some other direction that we just were
+
+01:35:14.000 --> 01:35:18.560
+blind to it. But anyway, the point is to affirm what you're saying, Yoshi. Okay, so I know Michael
+
+01:35:18.560 --> 01:35:24.640
+has a hard cut off at 2pm. So I want to ask the question for a GI that is artificial general
+
+01:35:24.640 --> 01:35:30.480
+intelligence. It seems as though we're far away or that our current methods of machine learning
+
+01:35:30.480 --> 01:35:35.920
+and what we learn in neuroscience or or what we learn in computer science is something that we're
+
+01:35:35.920 --> 01:35:40.080
+missing some paradigm shift or missing some new techniques. Is there something from Michael's
+
+01:35:40.080 --> 01:35:44.480
+work? Yoshi, I'm asking you this and then Michael, please respond. Is there something from Michael's
+
+01:35:44.480 --> 01:35:50.000
+work that you think can be applied to the development of a GI if such a creature mind
+
+01:35:50.000 --> 01:35:54.000
+can exist? Because there are some arguments against it. First of all, I don't know how far
+
+01:35:54.000 --> 01:35:58.080
+we are for a GI. It could be that the existing paradigms are sufficient to brute force it.
+
+01:35:58.960 --> 01:36:02.640
+But we don't know that yet. It's a we're going to find out in the next few months.
+
+01:36:03.360 --> 01:36:08.320
+But it could also be that we need to revive the stack to build systems that work in real time
+
+01:36:08.320 --> 01:36:13.520
+that are entangled with the environment that can build shared representations with the environment.
+
+01:36:14.000 --> 01:36:19.120
+And that we need to rewrite the stack. And there are actually a number of questions that I'd like
+
+01:36:19.120 --> 01:36:27.040
+to ask Michael. What I noticed that Michael is wisely reluctant to use certain words like
+
+01:36:27.040 --> 01:36:31.040
+consciousness a lot. And it's because a lot of people are very opinionated about what these
+
+01:36:31.040 --> 01:36:35.600
+concepts mean. And you first have to deal with these opinions before you come down to saying,
+
+01:36:35.600 --> 01:36:39.520
+oh, here I have the following proposal for implementing reflexive attention
+
+01:36:39.520 --> 01:36:46.000
+as a tool to form coherence in a representation. And this leads to the same phenomena as what you
+
+01:36:46.000 --> 01:36:51.520
+call consciousness. So that is a detailed discussion. Maybe you don't want to have
+
+01:36:51.520 --> 01:36:57.440
+that discussion in every forum. And then having this discussion, you may be looking at how to
+
+01:36:57.440 --> 01:37:02.480
+create coherence using a reflexive attention process that makes a real time model of what
+
+01:37:02.480 --> 01:37:07.200
+it's attending to and the fact that it's attending to it so it remains coherent but for itself.
+
+01:37:07.760 --> 01:37:14.080
+So this is a concrete thing. But I wonder how to implement this in a self-organized fashion
+
+01:37:14.080 --> 01:37:19.280
+if the substrate that you have are individual agents. And there is a similarity here between
+
+01:37:19.280 --> 01:37:28.640
+societies and brains and social networks. That is, if you have self-interested agents, in a way,
+
+01:37:28.640 --> 01:37:34.240
+that try to survive and that get their rewards from other agents that are similar to them
+
+01:37:34.240 --> 01:37:42.960
+structurally. And they have the capacity to learn to some degree. And that capacity is
+
+01:37:43.520 --> 01:37:49.600
+sufficient so they can, in the aggregate, learn arbitrary programs, arbitrary computable functions.
+
+01:37:51.840 --> 01:37:55.840
+And it's sufficient enough so they can converge on the functions that they need to
+
+01:37:56.880 --> 01:38:01.200
+as a group reap rewards that apply to the whole group because they have a shared
+
+01:38:01.200 --> 01:38:05.360
+destiny like the poor little cells that are locked in the same skull and they're all going
+
+01:38:05.360 --> 01:38:11.520
+to die together if they fuck up. So they have to get along, they have to form an organization
+
+01:38:11.520 --> 01:38:16.400
+that is distributing rewards among each other. And this gives us a search space for possible
+
+01:38:16.400 --> 01:38:23.200
+systems that can exist. And the search space is mostly given, I think, by the minimal agent
+
+01:38:23.760 --> 01:38:30.160
+that is able to learn how to distribute rewards efficiently while doing something useful. Using
+
+01:38:30.160 --> 01:38:35.520
+these rewards to change how you do something useful. So you have an emergent form of governance
+
+01:38:35.520 --> 01:38:40.080
+in these systems. There's not some centralized control that is imposed on the system from the
+
+01:38:40.080 --> 01:38:45.920
+outside as an existing machine learning approaches and AI approaches. But this only is an emergent
+
+01:38:45.920 --> 01:38:50.960
+pattern in the interactions between the individual small units, small reinforcement learning agents.
+
+01:38:51.600 --> 01:38:56.960
+And this control architecture leads to hierarchical government. It's not fully decentralized in any
+
+01:38:56.960 --> 01:39:01.920
+way. There are centralized structures that distribute rewards for instance via the dopaminergic
+
+01:39:01.920 --> 01:39:06.880
+system in a very centralized top-down manner. And that's because every regulation has an optimal
+
+01:39:06.880 --> 01:39:11.440
+layer where it needs to take place. Some stuff needs to be decided very high up, some stuff needs
+
+01:39:11.440 --> 01:39:16.640
+to be optimally regulated very low down depending on the incentives. Game theoretically, a government
+
+01:39:16.640 --> 01:39:24.000
+is an agent that imposes an offset on your payoff metrics to make your Nash equilibrium compatible
+
+01:39:24.000 --> 01:39:31.200
+with the globally best outcome. To do this you need to have agents that are sensitive to rewards.
+
+01:39:31.200 --> 01:39:36.880
+It's super interesting to think about these reward infrastructures. Elon Musk has bought Twitter I
+
+01:39:36.880 --> 01:39:41.680
+think because he has realized that Twitter is the network among all the social networks that is
+
+01:39:41.680 --> 01:39:47.520
+closest to a global brain. It's totally mind-blowing to realize that he basically trades a bunch of
+
+01:39:47.520 --> 01:39:54.960
+wealthy stock for the opportunity to become pope. Pope of a religion that has more active participants
+
+01:39:54.960 --> 01:40:00.640
+than Catholicism even, right? Daily practicing people who enter this church and think together.
+
+01:40:00.640 --> 01:40:04.320
+And it's a thing that is completely incoherent at this point, almost completely incoherent.
+
+01:40:04.320 --> 01:40:08.320
+There are bubbles of sentience but for the most part this thing is just screeching at itself.
+
+01:40:09.040 --> 01:40:13.120
+And now there is the question, can we fix the incentives of Twitter to turn it into a global
+
+01:40:13.120 --> 01:40:19.360
+brain? And Elon Musk is global brain-pilled. He believes that this is the case and that's the
+
+01:40:19.360 --> 01:40:23.520
+experiment that he's trying to do which makes me super excited, right? This might fail, there's a
+
+01:40:23.520 --> 01:40:28.560
+very big chance that it fails but there is also the chance that we get the global brain, that we get
+
+01:40:28.560 --> 01:40:33.600
+emerging collective intelligence that is working in real time using the internet in a way that
+
+01:40:33.600 --> 01:40:39.280
+didn't exist before. So super fascinating thing that might happen here. And it's fascinating that
+
+01:40:39.280 --> 01:40:46.160
+very few people are seeing that Elon Musk is crazy enough to spend 44 billion dollars on that
+
+01:40:46.160 --> 01:40:50.560
+experiment just because he can and has nothing else to do and thinks it's meaningful to do it,
+
+01:40:50.560 --> 01:40:57.520
+more meaningful than having so much money in the bank, right? So this makes me interested in
+
+01:40:57.520 --> 01:41:02.480
+this test bed for rules and this is something that translates into the way in which society
+
+01:41:02.480 --> 01:41:06.480
+is organized because social media is not different from society, not separate from it.
+
+01:41:06.480 --> 01:41:11.280
+Problem of governing social media is exactly the same thing as governing a society. You need a
+
+01:41:11.280 --> 01:41:16.480
+right form of government, you need a legal system, ultimately you need representation and all these
+
+01:41:16.480 --> 01:41:21.840
+issues, right? It's not just the moderation team and the same thing is also true for the brain.
+
+01:41:21.840 --> 01:41:27.760
+What is the government of the brain that emerges in what Gary Edelman calls neural Darwinism among
+
+01:41:27.760 --> 01:41:32.720
+different forms of organization in the mind until you have a model of a self-organizing agent that
+
+01:41:32.720 --> 01:41:37.200
+discovers that what it's computing is driving the behavior of an agent in the real world and
+
+01:41:37.200 --> 01:41:42.160
+it covers a first-person perspective and so on. How does that work? How can we get a system that
+
+01:41:42.160 --> 01:41:48.320
+is looking for the right incentive architecture? And that is basically the main topic where I
+
+01:41:48.320 --> 01:41:54.480
+think that Michael's research is pointing from my perspective that is super interesting. We have
+
+01:41:54.480 --> 01:42:02.480
+this overlap between looking at cells and looking at the world of humans and animals and stuff
+
+01:42:02.480 --> 01:42:14.400
+in general. Yeah, super interesting. Chris Fields and I are working on a framework to understand
+
+01:42:17.280 --> 01:42:23.840
+where collective agents first come from, right? How do they organize themselves?
+
+01:42:23.840 --> 01:42:32.320
+And we've got a model already about this idea of rewards and rewarding other cells with
+
+01:42:32.720 --> 01:42:37.280
+neurotransmitters and things like this to keep copies of themselves nearby because they're the
+
+01:42:37.280 --> 01:42:41.840
+most predictable. So this idea of reducing surprise, well, what's the least surprising thing?
+
+01:42:41.840 --> 01:42:47.200
+It's a copy of yourself. And so you can sort of, Chris calls it the imperial model of multicellularity.
+
+01:42:47.200 --> 01:42:54.480
+But one thing to really think about here is imagine an embryo. This is an amniote embryo,
+
+01:42:54.480 --> 01:42:59.520
+let's say a human or a bird or something like that. And what you have there is you have a flat disc
+
+01:42:59.520 --> 01:43:07.200
+of 10,000, 50,000 cells. And when people look at it, you say, what is that? They say it's an embryo,
+
+01:43:07.200 --> 01:43:12.080
+one embryo. Well, the reason it's one embryo is that under normal conditions, what's going to
+
+01:43:12.080 --> 01:43:18.880
+happen is that in this disc, one cell is symmetry breaking. One cell is going to decide that it's
+
+01:43:18.880 --> 01:43:23.280
+the organizer. It's going to do local activation, long range inhibition. It's going to tell all the
+
+01:43:23.280 --> 01:43:28.000
+other cells, you're not the organizer, I'm the organizer. And as a result, you get one special
+
+01:43:28.000 --> 01:43:36.400
+point that begins a process that's going to walk through this memorphous space and create a particular
+
+01:43:36.400 --> 01:43:39.680
+large scale structure with two eyes and four legs and whatever else it's going to have.
+
+01:43:40.240 --> 01:43:46.560
+But here's the interesting thing. Those cells, that's not really one embryo. That's a weird kind
+
+01:43:46.560 --> 01:43:51.520
+of Freudian ocean of potentiality. What I mean by that is if you take, and I did this as a grad
+
+01:43:51.520 --> 01:43:56.160
+student, you can take a needle and you can put a little scratch through that blastoderm, put a
+
+01:43:56.160 --> 01:44:01.120
+little scratch through it. What will happen is the cells on either side of that scratch don't
+
+01:44:01.120 --> 01:44:05.120
+feel each other. They don't hear each other's signals. So that symmetry breaking process will
+
+01:44:05.120 --> 01:44:10.240
+happen twice, once on each end. And then when it heals together, what you end up with is two
+
+01:44:10.240 --> 01:44:15.760
+conjoined twins because each side organized an embryo and now you've got two conjoined twins.
+
+01:44:16.320 --> 01:44:23.120
+Now, many interesting things happen there. One is that every cell is some other cell's
+
+01:44:23.360 --> 01:44:28.560
+external environment. So in order to make an embryo, you have to self-organize a system that
+
+01:44:29.360 --> 01:44:33.760
+puts an arbitrary boundary between itself and the outside world. You have to decide where do I end
+
+01:44:33.760 --> 01:44:40.160
+and the world begins. And it's not given to you somehow from outside for a biological system.
+
+01:44:40.160 --> 01:44:44.480
+Every biological system has to figure this out for itself, unlike modern robotics or whatever,
+
+01:44:44.480 --> 01:44:47.280
+where it's very clear. Here's where you are. Here's where the world is. These are your
+
+01:44:47.280 --> 01:44:51.120
+effectors. These are your sensors. Here's the boundary of the outside world. Living things
+
+01:44:51.120 --> 01:44:54.240
+don't have any of that. They have to figure all of this out from scratch.
+
+01:44:54.240 --> 01:44:59.520
+The benefit to being able to figure it out from scratch, having to figure it out from scratch,
+
+01:44:59.520 --> 01:45:04.160
+is that you are then compatible with all kinds of weird initial conditions. For example,
+
+01:45:04.160 --> 01:45:10.000
+if I separate you in half, you can make twins. You don't have a total failure because now
+
+01:45:10.000 --> 01:45:12.960
+you have half the number of cells. You can make twins. You can make triplets,
+
+01:45:13.840 --> 01:45:18.400
+probably many more than that. So if you ask the question, you look at that
+
+01:45:18.400 --> 01:45:23.120
+blastoderm and you ask how many individuals are there, you actually don't know. It could be zero.
+
+01:45:23.120 --> 01:45:28.960
+It could be one. It could be some small number of individuals. That process of autopolices has to
+
+01:45:28.960 --> 01:45:36.560
+happen. And here are a number of things that are uniquely biological that I think relate to
+
+01:45:36.560 --> 01:45:43.360
+the kind of flexibility plasticity that you need for AGI in whatever space. It doesn't have to be
+
+01:45:43.360 --> 01:45:49.120
+the same space that we work in, but your boundaries are not set for you by an outside creator.
+
+01:45:49.120 --> 01:45:52.720
+You have to figure out where your boundaries are. Where is the outside world? So you make
+
+01:45:52.720 --> 01:45:57.440
+hypotheses about where you end and where the world begins. You don't actually know what your
+
+01:45:57.440 --> 01:46:01.840
+structure is. Kind of like Vanguard's robots from 2006 where they didn't know their structure and
+
+01:46:01.840 --> 01:46:06.000
+they had to make hypotheses about, well, do I have wheels? Do I have legs? What do I have? And then
+
+01:46:06.720 --> 01:46:12.640
+make a model based on basically babbling, right? Like the way that babies babble. So you have to
+
+01:46:13.520 --> 01:46:18.000
+make a model of where the boundary is. You have to make a model of what your structure is.
+
+01:46:18.000 --> 01:46:24.000
+You are energy limited, which most AI and robotics nowadays are not. When you're energy and time
+
+01:46:24.000 --> 01:46:29.680
+limited, it means that you cannot pay attention to everything. You are forced to coarse grain in
+
+01:46:29.680 --> 01:46:34.800
+some way and lose a lot of information and compress it down. So you have to choose a lens,
+
+01:46:34.800 --> 01:46:38.720
+a coarse graining lens on the world and figure out how you're going to represent things.
+
+01:46:38.720 --> 01:46:45.520
+And all of this has to, and there are many more things that we could talk about, but all of these
+
+01:46:45.520 --> 01:46:53.920
+things are self-constructions from the very beginning. And then you start to act in various
+
+01:46:53.920 --> 01:46:58.240
+spaces, which again are not predefined for you. You have to solve problems that are metabolic,
+
+01:46:58.240 --> 01:47:06.080
+physiological, anatomical, maybe behavioral if you have muscles, but nobody's defining the space
+
+01:47:06.080 --> 01:47:10.880
+for you. For example, if you're a bacterium and Chris Fields points this out, if you're a bacterium
+
+01:47:10.880 --> 01:47:16.320
+and you're in some sort of chemical gradient, you want to increase the amount of sugar in your
+
+01:47:16.320 --> 01:47:21.440
+environment, you could act in three-dimensional space by physically swimming up the gradient,
+
+01:47:21.440 --> 01:47:25.840
+or you can act in transcriptional space by turning on other genes that are better at
+
+01:47:25.840 --> 01:47:30.320
+converting whatever sugar happens to be around and that solves your metabolic problem instead of,
+
+01:47:30.320 --> 01:47:36.000
+right? So you have these hybrid problem spaces. So all of this, I think what contributes in
+
+01:47:36.000 --> 01:47:40.240
+a strong sense to all the things that we were just talking about is the fact that everything
+
+01:47:40.240 --> 01:47:44.560
+is in biology is self-constructed from the beginning. You can't rely on, you don't know
+
+01:47:44.560 --> 01:47:49.520
+ahead of time when you're a new creature born into the world. And we have many examples of
+
+01:47:49.520 --> 01:47:53.360
+this kind of stuff. You don't know how many cells you have, how big your cells are. You can't count
+
+01:47:53.360 --> 01:48:00.080
+on any of the priors. So you have this weird thing that evolution makes these machines that
+
+01:48:00.080 --> 01:48:04.240
+don't take the past history too seriously. It doesn't over train on them. It makes
+
+01:48:04.240 --> 01:48:08.400
+problem-solving machines that use whatever hardware you have. This is why we can make
+
+01:48:08.400 --> 01:48:15.440
+weird chimeras and cyborgs. And you can mix things and mix and match biology in every way
+
+01:48:16.320 --> 01:48:20.960
+with other living things or with non-living things because all of this is interoperable,
+
+01:48:20.960 --> 01:48:25.280
+because it does not make assumptions about what you have to have. It tries to solve whatever
+
+01:48:25.280 --> 01:48:32.640
+problem is given. It plays the hands that it's dealt. And that results in that assumption that
+
+01:48:32.640 --> 01:48:38.400
+you cannot trust what you come into the world with. You cannot assume that the hardware is
+
+01:48:38.400 --> 01:48:43.520
+what it is. It gives rise to a lot of that intelligence, I think, and a lot of that plasticity.
+
+01:48:43.520 --> 01:48:49.120
+So if you translate this into necessary and sufficient conditions, what seems to be necessary
+
+01:48:49.120 --> 01:48:57.440
+for the emergence of general intelligence in a bunch of cells or units is that basically each
+
+01:48:57.440 --> 01:49:04.160
+of them is a small agent, which means it's able to behave with an expectation of minimizing future
+
+01:49:04.160 --> 01:49:09.360
+target value deviations. It learns that their configuration is environment that signal anticipated
+
+01:49:09.360 --> 01:49:15.200
+reward. Next thing, these units need to be not just agents, they need to be connected to each other.
+
+01:49:16.080 --> 01:49:20.800
+And they need to get their rewards or proxy rewards, something that allows them to anticipate
+
+01:49:20.800 --> 01:49:25.920
+whether the organism is going to feed them in the future from other units that also adaptive.
+
+01:49:26.880 --> 01:49:31.680
+So you need multiple message types and the ability to recognize and send them with a certain degree
+
+01:49:31.680 --> 01:49:40.160
+of reliability. What else do you need? You need enough of them, of course. What's not clear to me
+
+01:49:40.160 --> 01:49:45.440
+is how deterministic do the units need to be? How much memory do they need to be? How much state can
+
+01:49:45.440 --> 01:49:53.680
+they store? How deep in time does their recollection need to go? And how much forward in time do they
+
+01:49:53.680 --> 01:50:00.720
+need to be able to form expectations? So we see how large is this activation front that they can
+
+01:50:00.720 --> 01:50:06.560
+with this shape of the distribution that they can learn and have to learn to make this whole thing
+
+01:50:06.560 --> 01:50:13.760
+happen. And so basically conditions that are necessary are relatively simple. If you just
+
+01:50:13.760 --> 01:50:19.120
+wait for long enough and get such a system to percolate, I imagine that the compound agency
+
+01:50:19.120 --> 01:50:27.040
+will at some level emerge on the system, just in a competition of possibilities in the same way as
+
+01:50:27.040 --> 01:50:32.800
+emerging agency has emerged on Twitter in a way, with devoked religion in a way that people
+
+01:50:32.800 --> 01:50:38.080
+were starting to shift around their behavior to maximize likes and retweets. And there was no
+
+01:50:38.080 --> 01:50:43.840
+external reward that was given on Twitter. So as a result, a local structure emerged a local agency
+
+01:50:43.840 --> 01:50:48.560
+that was shifting the rewards by itself and emerging causal structure that was in some sense
+
+01:50:48.560 --> 01:50:56.000
+in downward causation going to organize groups of people into behavioral things. It's really
+
+01:50:56.000 --> 01:51:02.960
+as interesting to look at Twitter as something like a mind at some level, right? It's working slower,
+
+01:51:02.960 --> 01:51:07.280
+but it would probably be possible to make a simulation of these dynamics in a more abstract
+
+01:51:07.280 --> 01:51:14.000
+way and to use this for arbitrary problem solving. And so what would an experiment look like in which
+
+01:51:14.000 --> 01:51:18.400
+we start with these necessary conditions and narrow down the sufficient conditions?
+
+01:51:20.080 --> 01:51:26.560
+Yeah, right on. And yeah, we're doing some of that stuff, some of that kind of modeling.
+
+01:51:26.560 --> 01:51:32.320
+I apologize. I've got to run here. Thank you both for coming out for this. I appreciate it.
+
+01:51:32.320 --> 01:51:35.680
+Thank you so much. And thank you for bringing us together. So a great conversation. I really
+
+01:51:35.680 --> 01:51:41.040
+enjoyed it. Likewise. I enjoyed it very much. Thank you, Kurt. Thank you so much, Kurt.
+
+01:51:41.040 --> 01:51:45.920
+Thanks, Joshua. The podcast is now concluded. Thank you for watching. If you haven't subscribed
+
+01:51:45.920 --> 01:51:51.440
+or clicked on that like button now would be a great time to do so as each subscribe and like
+
+01:51:51.440 --> 01:51:56.400
+helps YouTube push this content to more people. Also, I recently found out that external links
+
+01:51:56.400 --> 01:52:01.680
+count plenty toward the algorithm, which means that when you share on Twitter, on Facebook,
+
+01:52:01.680 --> 01:52:06.880
+on Reddit, et cetera, it shows YouTube that people are talking about this outside of YouTube,
+
+01:52:06.880 --> 01:52:10.080
+which in turn greatly aids the distribution on YouTube as well.
+
+01:52:10.080 --> 01:52:14.160
+If you'd like to support more conversations like this, then do consider visiting theories
+
+01:52:14.160 --> 01:52:19.600
+of everything.org. Again, it's support from the sponsors and you that allow me to work on
+
+01:52:19.600 --> 01:52:25.360
+toe full time. You get early access to ad free audio episodes there as well. Every dollar helps
+
+01:52:25.360 --> 01:52:30.000
+far more than you may think. Either way, your viewership is generosity enough. Thank you.
+
