@@ -21,6 +21,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [DemystifySci](https://demystifysci.com/)
 - [Wunderbar Together German](https://www.wunderbartogetherpodcast.de/)
 - [Theories of Everything with Curt Jaimungal](https://theoriesofeverything.org/)
+- [Zwischen Zwei Deckeln](https://zwischenzweideckeln.de/)
 
 ## Obsidian and Audio Notes
 
