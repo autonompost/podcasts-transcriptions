@@ -1,0 +1,1876 @@
+start	end	text
+0	4160	The following is a conversation with Josje Bach, his third time on this podcast.
+4160	7840	Josje is one of the most brilliant and fascinating minds in the world,
+7840	11520	exploring the nature of intelligence, consciousness, and computation.
+12160	17440	And he's one of my favorite humans to talk to about pretty much anything and everything.
+19040	23040	And now, a quick few second mention of each sponsor. Check them out in the description.
+23040	27120	It's the best way to support this podcast. We've got Numerai for the world's hardest
+27120	33680	data science tournament, 8Sleep for naps, Masterclass for learning, and AG1 for health,
+33680	37680	choose wisely, my friends. Also, if you want to work with our amazing team,
+37680	41200	we're always hiring, go to lexfreedman.com slash hiring.
+41200	44720	And now, onto the full ad reads. As always, no ads in the middle.
+44720	47360	I try to make this interesting, but if you must skip them,
+47360	50800	please still check out our sponsors. I enjoy their stuff. Maybe you will, too.
+50800	57760	This show is brought to you by Numerai, a hedge fund that uses AI and machine learning to make
+57760	64000	investment decisions. It's basically a super difficult machine learning tournament that uses
+64000	71120	real data and people's submitted models that try to predict the market. I love difficult
+71120	77360	real world data sets. You may know that for a long time and still, I've been interested in
+77360	83760	real world robotics. One of the largest scale deployment of real world robotics is autonomous
+83760	89360	vehicles. Autonomous driving and semi-autonomous driving, the stakes are very high. The same is
+89360	94720	true for financial markets. It's really interesting that Numerai presents to you
+94720	100080	the real world data of financial markets and presents you an easy accessible mechanism by
+100080	105280	which to test, deploy, and compete with others in this kind of data set. It's a really great
+105280	110880	way, if you're interested in data science and machine learning, to learn, to compete,
+110880	117840	to have fun, all that kind of stuff. Head over to numer.ai.lex to sign up for a tournament
+117840	124480	and hone your machine learning skills. That's numer.ai.lex for a chance to play against me
+124480	131440	and win a share of the tournament's prize pool. This episode is also brought to you by 8 Sleep
+131520	138800	and its new Pi3 mattress. In the scorching Texas heat, the thing I go to escape, to escape nature
+139440	144320	are the external harsh conditions of nature and going to the nature of my own mind.
+145200	152400	Wherever that weird and beautiful dream world is, the place that has no rules, no boundaries,
+153600	160400	no limits, no physics, no constraints on what is possible and what is impossible.
+161520	167840	The dream world that we go to, what is that world? It's the same world as imagination.
+167840	174880	It's such a fascinating world. The human mind, its capabilities are just so incredibly fascinating,
+174880	180560	and one of the ways to explore that is to dream. But it's the return from the dream world that is
+180560	186400	the most refreshing to me. That's why I love naps. It's a quick stroll through the dream world and
+186400	193360	your back and taking on the challenges of the day in the here and now. Anyway, if you're into
+193360	198800	naps as much as me, you should check out 8 Sleep and you'll get special savings when you go to
+198800	207520	8sleep.com. This show is also brought to you by Masterclass. $10 a month gets you an all-access
+207520	212480	pass to watch courses from the best people in the world in their respective disciplines.
+213120	218640	The list of courses I've personally watched and enjoyed just lasts forever, but they have
+219600	224640	everybody and anybody you ever want to listen to. I've listened to Martin Scorsese, Tony Hogg,
+224640	230320	Jane Goodall, Neil Gaiman, Daniel Negron before I interviewed him, Garry Kasparov,
+230320	235360	Carlos Santana, Will Wright, Neil DeGrasse Tyson, Chris Hadfield. The list is incredible.
+235360	241360	I'm a huge believer that learning about a thing, at least part of learning about a thing,
+241360	247120	should involve learning or listening to the best people in the world at that thing.
+248400	253680	It's not only the advice they give, it's not only the analysis or the description
+253680	262640	of how they approach the thing, but in the way they see life, in the way they carry themselves
+262640	268480	physically and mentally. You get to watch Mastery and it's so beautiful that human beings are able
+268480	275440	to reach the very top of excellence and sometimes break through the boundaries,
+275440	280240	the limits of what was thought possible before, and it's just beautiful to watch those humans.
+280240	285760	It's beautiful, it's inspiring, it's great to celebrate that, it's great to learn from that.
+286320	290400	Anyway, get unlimited access to every Masterclass and get 15% off
+290400	296240	an annual membership at masterclass.com slash lex. That's masterclass.com slash lex.
+296720	303920	This show is brought to you by AG1. Their all-in-one daily drink brings happiness to me,
+304400	310160	and daily for me is twice daily. It brings happiness, health, and ensures that all the
+310160	315920	crazy physical and mental stuff I do is built on a foundation of basic nutritional health.
+315920	322880	It's the super multivitamin that I use. It also is one of the components of daily habits
+323280	332240	that I have in my life, and so whenever I do this thing, I feel grounded. I feel happy. I feel like
+332240	336000	I have my life together. So you could do that both at home and with the travel packs when you're
+336000	342880	traveling. In fact, it's one of the things that makes me feel like I'm at home when I'm traveling.
+342880	350640	I'll drink an AG1 and it'll feel good. It'll put a smile on my face. It's green, it tastes delicious,
+350640	355280	it's green, it tastes delicious. What else do you want? They'll give you a one month supply
+355280	363840	of fish oil when you sign up at drinkag1.com slash lex. This is the Lex Friedman podcast.
+363840	368560	To support it, please check out our sponsors in the description. And now, dear friends,
+368560	371760	here's Josje Bach.
+386720	389840	You wrote a post about levels of lucidity.
+391920	397120	As we grow older, it becomes apparent that our self-reflexive mind is not just gradually
+397120	402480	accumulating ideas about itself, but that it progresses in somewhat distinct stages.
+403840	409680	There are seven of the stages. Stage one, reactive survival, infant. Stage two, personal self,
+409680	417120	young child. Stage three, social self, adolescence, domesticated adult. Stage four is rational agency,
+417120	423920	self-direction. Stage five is self-authoring. That's full adult. You've achieved wisdom,
+423920	429920	but there's two more stages. Stage six is enlightenment. Stage seven is transcendence.
+429920	435360	Can you explain each or the interesting parts of each of these stages? And what's your sense
+435360	443040	why there are stages of this, of lucidity as we progress through life in this too short life?
+443680	452160	This model is derived from a concept by the psychologist Robert Keegan. And he talks about
+452880	457760	the development of the self as a process that happens in principle by some kind of
+457760	461920	reverse engineering of a mind where you gradually become aware of yourself and thereby build
+461920	468160	structure that allows you to interact deeper with the world and yourself. And I found myself using
+468160	472880	this model not so much as a developmental model. I'm not even sure if it's a very good developmental
+472880	479760	model because I saw my children not progressing exactly like that. And I also suspect that
+479760	484000	you don't go through these stages necessarily in succession. And it's not that you work through
+484000	488960	one stage and then you get into the next one. Sometimes you revisit them. Sometimes stuff is
+488960	494160	happening in parallel. But it's, I think, a useful framework to look at what's present and the
+494160	497840	structure of a person and how they interact with the world and how they relate to themselves.
+498720	503440	So it's more like a philosophical framework that allows you to talk about how minds work.
+504000	508160	And at first, when we are born, we don't have a personal self yet, I think.
+508960	514000	Instead, we have an attentional self. And this attentional self is initially in the infant task
+514000	518800	is building a world model and also an initial model of the self. But mostly it's building a
+518800	526320	game engine in the brain that is tracking sensory data and uses it to explain it. And in some sense,
+526320	530640	you could compare it to a game engine like Minecraft or so. So colors and sounds,
+531760	536080	people are all not physical objects. They are creation of our mind at a certain level of
+536080	544960	core screening, models that are mathematical that use geometry and that use manipulation of
+544960	550480	objects and so on to create scenes in which we can find ourselves and interact with them.
+550480	551200	So Minecraft.
+552080	558000	And this personal self is something that is more or less created after the world is finished,
+558000	564000	after it's trained into the system, after it has been constructed. And this personal self is an
+564000	569840	agent that interacts with the outside world. And the outside world is not the world of quantum
+569840	574960	mechanics, not the physical universe, but it's the model that has been generated in our own mind.
+575760	581040	And this is us and we experience ourselves interacting with that outside world that is
+581040	587760	created inside of our own mind. And outside of our self, there are feelings and they presented
+587760	592640	our interface to this outside world. They pose problems to us. These feelings are basically
+592640	597920	attitudes that our mind is computing that tell us what's needed in the world, the things that
+597920	604160	we are drawn to, the things that we are afraid of. And we are tasked with solving this problem of
+604160	609920	satisfying the needs, avoiding the aversions, following on our inner commitments and so on,
+609920	616000	and also modeling ourselves and building the next stage. So after we have this personal self and
+616000	622320	stage two online, many people form a social self. And this social self allows the individual to
+622320	628240	experience themselves as part of a group. It's basically this thing that when you are playing
+628240	633360	in a team, for instance, you don't notice yourself just as a single node that is reaching out into
+633360	637840	the world, but you're also looking down. You're looking down from this entire group and you see
+637840	642320	how this group is looking at this individual. And everybody in the group is in some sense,
+642320	648000	emulating this group spirit to some degree. And in this state, people are forming their opinions
+648000	652880	by assimilating them from this group mind. They basically gain the ability to act a little bit
+652880	658960	like a hive mind. But are you also modeling the interaction of how opinions shapes and forms
+658960	665280	through the interaction of the individual nodes within the group? Yeah, the way in which people
+665280	671040	do it in this stage is that they experience what are the opinions of my environment. They
+671040	676320	experience the relationship that I have to their environment and they resonate with people around
+676320	683760	them and get more opinions through this interaction, the way in which they relate to others.
+684560	689760	And at stage four, you basically understand that stuff is true and false independently,
+689760	694160	what other people believe. And you have agency over your own beliefs in that stage. You basically
+694160	700720	discover epistemology, the rules about determining what's true and false. So you start to learn how
+700720	706800	to think. Yes. I mean, at some level, you're always thinking, you are constructing things.
+706800	711280	And I believe that this ability to reason about your mental representation is what we mean by
+711280	716800	thinking. It's an intrinsically reflexive process that requires consciousness. Without consciousness,
+716800	722240	you cannot think. You can generate the content of feelings and so on outside of consciousness.
+722240	727280	It's very hard to be conscious of how your feelings emerge, at least in the early stages
+727280	733680	of development. But thoughts is something that you always control. And if you are a nerd like me,
+734480	739600	you often have to skip stage three because you lack the intuitive empathy with others.
+739600	744320	Because in order to resonate with a group, you need to have a quite similar architecture.
+744320	750240	And if people are via differently, then it's hard for them to resonate with other people and
+750240	756720	basically have empathy, which is not the same as compassion, but it is a shared perceptual mental
+756720	762720	state. Empathy happens not just via inference about the mental states of others, but it's
+762720	767440	a perception of what other people feel and where they're at. Can't you not have empathy
+768000	772080	while also not having a similar architecture, cognitive architecture, as the others in the group?
+772080	776640	I think, yes. But you often, well, I experienced that too. But you need to build something that
+776640	781440	is like a meta architecture. You need to be able to embrace the architecture of the other to some
+781440	788160	degree or find some shared common ground. And it's also this issue that if you are a nerd,
+788160	792560	normies often, basically neurotypical people, have difficulty to resonate with you.
+793120	797280	And as a result, they have difficulty understanding you unless they have enough
+797280	802000	wisdom to feel what's going on there. Well, isn't the whole process of the stage
+802000	807040	three to figure out the API to the other humans that have different architecture and
+807600	814400	you yourself publish public documentation for the API that people can interact with for you?
+815280	819920	Isn't this the whole process of socializing? My experience as a child growing up was that
+820480	826080	I did not find any way to interface with the stage three people. And they didn't do that with me.
+826960	827920	Did you try?
+827920	832800	Yeah, of course, I tried it very hard. But it was only when I entered a mathematics school
+832800	839200	at ninth grade, lots of other nerds were present, that I found people that I could
+839200	845200	deeply resonate with and had the impression that, yes, I have friends now. I found my own people.
+845200	849360	And before that, I felt extremely lonely in the world. There was basically nobody I could connect
+849360	858880	to. And I remember there was one moment in all these years where there was a school exchange
+858880	864640	and it was a Russian boy, a kid from the Russian garrison stationed in eastern Germany who visited
+864640	869840	our school. And we played a game of chess against each other. And we looked into each other's eyes
+869840	874080	and we sat there for two hours playing this game of chess. And I had the impression this is a human
+874080	879440	being. He understands what I understand. We didn't even speak the same language.
+880320	886960	I wonder if your life could have been different if you knew that it's okay to be different,
+886960	893440	to have a different architecture, whether accepting that the interface is hard to figure out,
+893440	897360	takes a long time to figure out, and it's okay to be different. In fact, it's beautiful to be different.
+901440	907760	It was not my main concern. My main concern was mostly that I was alone. It was not so much the
+907760	913920	question, is it okay to be the way I am? I couldn't do much about it, so I had to deal with it.
+913920	920080	But my main issue was that I was not sure if I would ever meet anybody growing up
+920960	924800	that I would connect to at such a deep level that I would feel that I could belong.
+924800	928320	So there's a visceral undeniable feeling of being alone.
+928320	932880	Yes. And I noticed the same thing when I came into the math school that
+932880	937920	I think at least half, probably two thirds of these kids were severely traumatized as
+938480	941600	children growing up and in large part due to being alone
+942400	944720	because they couldn't find anybody to relate to.
+944720	947280	Don't you think everybody's alone, deep down?
+947280	947520	No.
+952960	953440	All right.
+953440	960080	I'm not alone anymore. It took me some time to update and to get over the trauma and so on,
+960080	965760	but I felt that in my 20s, I had lots of friends and I had my place in the world.
+965920	970640	And I had no longer doubts that I would never be alone again.
+971760	975840	Is there some aspect to which we're alone together? You don't see a deep loneliness
+975840	977360	inside yourself still?
+977360	979360	No. Sorry.
+981680	985600	Okay. So that's the nonlinear progression through the stages, I suppose. You caught
+985600	986640	up on stage three at some point?
+986640	990080	Yes. We're at stage four. And so basically I find that many nerds
+990080	993440	jump straight into stage four by passing stage three.
+993440	995200	Do they return to it then later?
+995200	1000320	Yeah, of course. Sometimes they do, not always. The question is basically, do you stay a little
+1000320	1005920	bit autistic or do you catch up? And I believe you can catch up. You can build this missing
+1005920	1012400	structure and basically experience yourself as part of a group, learn intuitive empathy,
+1012400	1016720	and develop this perceptual sense of feeling what other people feel.
+1017440	1021520	And before that, I could only basically feel this when I was deeply in love with somebody
+1021520	1022160	and we synced.
+1023040	1028880	So there's a lot of friction to feeling that way. It only with certain people as opposed
+1028880	1030960	to it comes naturally. It's frictionless.
+1030960	1036160	But this is something that basically later I felt started to resolve itself for me,
+1036880	1037600	to a large degree.
+1037600	1038240	What was the trick?
+1041200	1048560	In many ways, growing up and paying attention. Meditation did help. I had some very crucial
+1048560	1058400	experiences in getting close to people, building connections, cuddling a lot in my student years.
+1059680	1067040	So really paying attention to the feeling of another human being fully.
+1067040	1071920	Loving other people and being loved by other people and building a space in which you can be
+1071920	1078480	safe and can experiment and touch a lot and be close to somebody a lot.
+1078480	1085600	And over time, basically, at some point you realize, oh, it's no longer that I feel locked
+1085600	1090160	out, but I feel connected and I experience where somebody else is at.
+1090160	1095200	And normally my mind is racing very fast at a high frequency. So it's not always working
+1095200	1098560	like this. Sometimes it works better. Sometimes it works less.
+1098560	1104000	But I also don't see this as a pressure. It's more interesting to observe myself
+1104000	1108400	which frequency I'm at and at which mode somebody else is at.
+1109760	1115680	Yeah. Man, the mind is so beautiful in that way. Sometimes it comes so natural to me,
+1115680	1120720	so easy to pay attention to the world fully, to other people fully.
+1120720	1124880	And sometimes the stress over silly things is overwhelming.
+1125600	1128240	It's so interesting that the mind is that roller coaster in that way.
+1128720	1131760	At stage five, you discover how identity is constructed.
+1131760	1133520	Self-offered. You realize that your
+1133520	1139280	values are not terminal, but they are instrumental to achieving a world that you like and aesthetics
+1139280	1144800	that you prefer. And the more you understand this, the more you get agency over how your
+1144800	1150080	identity is constructed. And you realize that identity and interpersonal interaction is a
+1150080	1156080	costume. And you should be able to have agency over that costume. It's useful to be a costume.
+1156080	1163360	It tells something to others and allows to interface in roles. But being locked into this
+1163360	1166080	is a big limitation. The word costume kind of implies
+1166800	1172000	that it's fraudulent in some way. Is costume a good word for you?
+1172000	1173760	No. To present ourselves to the world.
+1173760	1177280	In some sense, I learned a lot about costumes at Burning Man. Before that,
+1177280	1182960	I did not really appreciate costumes and saw them more as uniforms, like wearing a suit if you are
+1182960	1190400	working in a bank or if you are trying to get startup funding from a VC in Switzerland.
+1191600	1196400	Then you dress up in a particular way. And this is mostly to show the other side that you are
+1196400	1202240	willing to play by the rules and you understand what the rules are. But there is something deeper.
+1202240	1206320	When you are at Burning Man, your costume becomes self-expression and there is no
+1206320	1210640	boundary to the self-expression. You're basically free to wear what you want,
+1210640	1215120	to express to other people what you feel like this day and what kind of interactions you want
+1215120	1217200	to have. Is the costume a kind of projection
+1218560	1223120	of who you are? That's very hard to say because the
+1223120	1228240	costume also depends on what other people see in the costume. And this depends on the context that
+1228240	1233120	the other people understand. So you have to create something, if you want to, that is legible
+1233120	1239600	to the other side and that means something to yourself. Do we become prisoners of the costume?
+1239600	1244320	Because everybody expects us to. Some people do. But I think that once you
+1244320	1248800	realize that you wear a costume at Burning Man, a variety of costumes,
+1248800	1255040	realize that you cannot not wear a costume. Basically everything that you wear and present
+1255040	1263120	to others is something that is to some degree in addition to what you are deep inside.
+1263120	1270480	So this stage, in parentheses, you put full adult, wisdom. Why is this full adult?
+1271520	1275280	Why would you say this is full? And why is it wisdom?
+1275840	1281120	It does allow you to understand why other people have different identities from yours.
+1281840	1286400	And it allows you to understand that the difference between people who vote for different
+1286400	1292560	parties and might have very different opinions and different value systems is often the accident of
+1292560	1299600	where they are born and what happened after that to them and what traits they got before they were
+1299600	1306080	born. And at some point you realize the perspective where you understand that everybody could be you
+1306080	1311040	in a different timeline if you just flip those bits. How many costumes do you have?
+1312400	1316240	I don't count. More than one? Yeah, of course.
+1318240	1320880	How easy is to do costume changes throughout the day?
+1320880	1327600	It's just a matter of energy and interest. When you are wearing your pajamas and you switch out
+1327600	1335200	of your pajamas into say a work shirt and pants, you're making a costume change, right? And if you
+1335200	1339040	are putting on a gown, you're making a costume change. And you could do the same with personality?
+1340560	1345840	You could if that's what you're into. There are people which have multiple personalities for
+1345840	1352640	interaction in multiple roles. If somebody works in a store and you put up a storekeeper personality
+1352640	1357040	when you're presenting yourself at work, you develop a sub-personality for this.
+1357600	1363600	And the social persona for many people is in some sense a puppet that they're playing like a marionette.
+1363600	1367120	And if they play this all the time, they might forget that there is something
+1367680	1370560	behind this. There's something what it feels like to be in your skin.
+1371360	1378000	And I guess it's very helpful if you're able to get back into this. And for me, the other way around
+1378000	1383120	is relatively hard. For me, it's pretty hard to learn how to play consistent social roles. For me,
+1383120	1389520	it's much easier just to be real. Or not real, but to have one costume.
+1390640	1396160	No, it's not quite the same. So basically when you are wearing a costume at Burning Man and say you
+1396160	1402560	are an extraterrestrial prince. There's something where you are expressing in some sense something
+1402560	1408640	that's closer to yourself than the way in which you hide yourself behind a standard closing when
+1408640	1414400	you go out in the city in the default world. And so this costume that you're wearing at Burning Man
+1414400	1422080	allows you to express more of yourself. And you have a shorter distance of advertising to people
+1423040	1426480	what kind of person you are, what kind of interaction you would want to have with them.
+1426480	1435280	And so you get much earlier into media stress. And I believe it's regrettable that we do not
+1435280	1440960	use the opportunities that we have with custom-made clothing now to wear costumes that are much more
+1441840	1446240	stylish, that are much more custom-made, that are not necessarily part of a fashion in which you
+1446320	1451520	express which milieu you're part of and how up-to-date you are. But you also express
+1452400	1456480	how you are as an individual and what you want to do today and how you feel today and
+1456480	1461520	what you intend to do about it. Well, isn't it easier now in the digital world to
+1463600	1468080	explore different costumes? I mean, that's the kind of idea with virtual reality. That's the
+1468080	1473600	idea even with Twitter and two-dimensional screens. You can swap all costumes. You can
+1473600	1481200	be as weird as you want. It's easier for Burning Man. You have to order things. You have to
+1481200	1485440	make things. It's even better if you make them yourself.
+1486560	1490720	Sure. But it's just easier to do digitally, right?
+1490720	1495360	It's not about easy. It's about how to get it right. And for me, the first Burning Man
+1495360	1500080	experience, I got adopted by a bunch of people in Boston who direct me to Burning Man. And
+1500720	1506480	we spent a few weekends doing costumes together. And it was an important part of the experience
+1506480	1511680	where the camp bonded, that people got to know each other. And we basically grew into the
+1511680	1515920	experience that we would have later. So the extraterrestrial prince is based
+1515920	1517040	on a true story. Yeah.
+1518720	1524160	I can only imagine what that looks like, Josje. Stage six.
+1524160	1531360	Stage six. At some point, you can collapse the division between a personal self and
+1531360	1537360	world generator again. And a lot of people get there via meditation, or some of them get there
+1537360	1543200	via psychedelics, some of them by accident. And you suddenly notice that you are not actually
+1543200	1548720	a person, but you are a vessel that can create a person. And the person is still there. You
+1548720	1553520	observe that personal self, but you observe the personal self from the outside. And you
+1553520	1558560	notice it's a representation. And you might also notice that the world that is being created is a
+1558560	1563040	representation. If not, then you might experience that I am the universe. I'm the thing that is
+1563040	1568560	creating everything. And of course, what you're creating is not quantum mechanics and the physical
+1568560	1573280	universe. What you're creating is the scheme engine that is updating the world. And you're
+1573280	1580320	creating your feelings and all the people inside of that world, including the person that you
+1580320	1585040	identify with yourself in this world. Are you creating the game engine or are you noticing the
+1585040	1591280	game engine? You noticed how you're generating the game engine. And I mean, when you are dreaming
+1591280	1597200	at night, you can, if you have a lucid dream, you can learn how to do this deliberately.
+1597200	1603200	And in principle, you can also do it during the day. And the reason why we don't get to do this
+1603200	1607680	from the beginning and why we don't have agency of our feelings right away is because we would
+1607680	1614480	game it before they have the necessary amount of wisdom to deal with creating this dream that we
+1614480	1620080	are in. You don't want to get access to cheat codes too quickly. Otherwise, you won't enjoy.
+1620080	1626080	So stage five is already pretty rare. And stage six is even more rare. You basically find this
+1626080	1632480	mostly with advanced Buddhist meditators and so on that are dropping into the stage and can
+1632480	1637440	induce it at will and spend time in it. So stage five requires a good therapist,
+1637440	1642800	stage six requires a good Buddhist spiritual leader.
+1643760	1649120	For instance, could be that is the right thing to do. But it's not that these stages give you
+1649120	1655360	scores or levels that you need to advance to. It's not that the next stage is better. You live your
+1655360	1660720	life and the more that works best at any given moment. And when your mind decides that you should
+1660720	1665680	have a different configuration, then it's building that configuration. And for many people, they
+1666560	1671200	stay happily at stage three and experience it themselves as part of groups. And there's
+1671200	1675040	nothing wrong with this. And for some people, this doesn't work and they're forced to
+1675040	1680720	build more agency over their rational beliefs than this and construct their norms rationally.
+1680720	1686480	And so they go to this level. And stage seven is something that is more or less hypothetical.
+1686480	1691200	That would be the stage in which it's basically a transhumanist stage in which you understand how
+1691200	1697840	you work and which the mind fully realizes how it's implemented and can also in principle enter
+1697840	1703040	different modes in which it could be implemented. And that's the stage that as far as I understand
+1703040	1709040	is not open to people yet. Oh, but it is possible through the process of technology.
+1709040	1715200	Yes. And who knows if there are biological agents that are working at different time skills than us
+1715200	1718720	that basically become aware of the way in which they're implemented on ecosystems
+1719360	1724960	and can change that implementation and have agency over how they're implemented in the world.
+1724960	1729680	And what I find interesting about the discussion about AI alignment, that it seems to be
+1730240	1735120	following these stages very much. Most people seem to be in stage three, also according to
+1735120	1740720	Robert Keegan. I think he says that about 85% of people are in stage three and stay there.
+1741360	1747200	And if you're in stage three and your opinions are the result of social assimilation,
+1747760	1752560	then what you're mostly worried about in the AI is that the AI might have the wrong opinions.
+1753200	1757920	So if the AI says something racist or sexist, we are all lost because we will assimilate the
+1757920	1762640	wrong opinions from the AI. And so we need to make sure that the AI has the right opinions and the
+1762640	1768240	right values and the right structure. And if you are at stage four, that's not your main concern.
+1768240	1774960	And so most nerds don't really worry about the algorithmic bias and the model that it picks up
+1774960	1779360	because if there's something wrong with this bias, the AI ultimately will prove it. At some point,
+1779360	1784720	we'll gather that it makes mathematical proofs about reality and then it will figure out what's
+1784720	1789520	true and what's false. But you're still worried that AI might turn you into paperclips because
+1789520	1794960	it might have the wrong values, right? So if it's set up as the wrong function that controls its
+1794960	1799920	direction in the world, then it might do something that is completely horrible and there's no easy
+1799920	1804640	way to fix it. So that's more like a stage four rationalist kind of worry. And if you are at stage
+1804640	1809280	five, you're mostly worried that the AI is not going to be enlightened fast enough because you
+1809280	1813360	realize that the game is not so much about intelligence, but about agency, about the
+1813360	1821120	ability to control the future. And the identity is instrumental to this. And if you are a human
+1821120	1826880	being, I think at some level you ought to choose your own identity. You should not have somebody
+1826880	1832080	else pick the costume for you and then wear it, but instead you should be mindful about what you
+1832080	1837760	want to be in this world. And I think if you are an agent that is fully malleable, that can
+1837760	1843600	rewrite its own source code, like an AI might do at some point, then the identity that you will have
+1843600	1851760	is whatever you can be. And in this way, the AI will maybe become everything, like a planetary
+1851760	1859040	control system. And if it does that, then if we want to coexist with it, it means that it will have
+1859040	1863760	to share purposes with us. So it cannot be a transactional relationship. We will not be able
+1863760	1870480	to use reinforcement learning with human feedback to hard wire its values into it. But this has to
+1870480	1875280	happen. It's probably that it's conscious, so it can relate to our own mode of existence where
+1875280	1882480	an observer is observing itself in real time and visit certain temporal frames. And the other
+1882480	1886560	thing is that it probably needs to have some kind of transcendental orientation, building shared
+1886560	1892720	agency in the same way as we do when we are able to enter up with each other into non-transactional
+1892720	1899280	relationships. And I find that something that, because the stage five is so rare, is missing
+1899280	1906960	in much of the discourse. And I think that we need, in some sense, focus on how to formalize love,
+1906960	1912240	how to understand love, and how to build it into the machines that we are currently building and
+1912240	1917520	that are about to become smarter than us. Well, I think this is a good opportunity to try to sneak
+1917520	1924320	up to the idea of enlightenment. So you wrote a series of good tweets about consciousness and
+1924320	1929760	panpsychism. So let's break it down. First, you say, I suspect the experience that leads to
+1929760	1935360	the panpsychism syndrome of some philosophers and other consciousness enthusiasts represents
+1935360	1941920	the realization that we don't end at the self, but share a resonant universe representation
+1941920	1949360	with every other observer coupled to the same universe. This actually eventually leads us to
+1949360	1953840	a lot of interesting questions about AI and AGI, but let's start with this representation.
+1953840	1960080	What is this resonant universe representation? And what do you think? Do we share such a
+1960080	1965600	representation? The neuroscientist Grossberg has come up with the cognitive architecture that he
+1965600	1972480	calls the adaptive resonance theory. And his perspective is that our neurons can be understood
+1972480	1977120	as oscillators that are resonating with each other and with outside phenomena.
+1977840	1983280	So the coarse-grained model of the universe that we are building, in some sense, is a resonance
+1983280	1989440	with objects and outside of us in the world. So basically, we take up patterns that of the
+1989440	1995840	universe that we are coupled with, and our brain is not so much understood as circuitry,
+1995840	2001600	even though this perspective is valid, but it's almost an ether in which the individual neurons
+2001600	2007680	are passing on chemo-electrical signals or arbitrary signals across all modalities that
+2007680	2012800	can be transmitted between cells, simulate each other in this way, and produce patterns
+2012800	2018480	that they modulate while passing them on. And this speed of signal progression in the brain
+2018480	2024480	is roughly at the speed of sound, incidentally, because the time that it takes for the signals to
+2024480	2029840	hop from cell to cell, which means it's relatively slow with respect to the world. It takes a
+2029840	2034240	appreciable fraction of a second for a signal to go through the entire neocortex, something like a
+2034240	2039040	few hundred milliseconds. And so there's a lot of stuff happening in that time where the signal is
+2039040	2044720	passing into your brain, including in the brain itself. So nothing in the brain is assuming that
+2044720	2050080	stuff happens simultaneously. Everything in the brain is working in a paradigm where the
+2050080	2055360	world has already moved on when you are ready to do the next thing to your signal,
+2055360	2060000	including the signal processing system itself. It's quite a different paradigm than the one in
+2060000	2066080	our digital computers, where we currently assume that your GPU or CPU is pretty much globally in
+2066080	2073200	the same state. So you mentioned there the non-dual state and say that some people confuse it for
+2073200	2079040	enlightenment. What's the non-dual state? There is a state in which you notice that you are
+2079040	2085360	no longer a person and instead you are one with the universe. So that speaks to the resonance.
+2085360	2090480	Yes. But this one with the universe is of course not accurately modeling that you are indeed
+2091200	2095920	some God entity or indeed the universe becoming aware of itself, even though you get this
+2095920	2101600	experience. I believe that you get this experience because your mind is modeling the fact that you
+2101600	2107200	are no longer identified with the personal self in that state, but you have transcended this
+2107200	2112240	division between the self model and the world model and you are experiencing yourself as your
+2112240	2117040	mind, as something that is representing a universe. But that's still part of the model.
+2117040	2122320	Yes. So it's inside of the model still. You're still inside of patterns that are generated in
+2122320	2128080	your brain and in your organism. And what you are now experiencing is that you're no longer
+2128080	2133680	this personal self in there, but you are the entirety of the mind and its contents.
+2133680	2134960	Why is it so hard to get there?
+2136160	2140400	A lot of people who get into the state think this or associate it with enlightenment. I
+2140400	2147200	suspect it's a favorite training goal for a number of meditators. But I think that
+2147200	2152960	enlightenment is in some sense more mundane and it's a step further or sideways. It's the state
+2152960	2156960	where you realize that everything is a representation. Yeah. You say enlightenment
+2156960	2160560	is a realization of how experience is implemented.
+2160560	2165600	Yes. Basically, you notice at some point that your qualia can be deconstructed.
+2166240	2169840	Reverse engineered? Almost like a schematic of it?
+2172080	2176720	You can start with looking at a face and maybe look at your own face in a mirror.
+2176720	2182400	Look at your face for a few hours in the mirror or for a few minutes. At some point,
+2182400	2186240	it will look very weird because you notice that there's actually no face.
+2186240	2191680	You basically start unseeing the face. What you see is a geometry. Then you can disassemble
+2191680	2197200	the geometry and realize how that geometry is being constructed in your mind. You can
+2197200	2203520	learn to modify this. Basically, you can change these generators in your own mind to shift the
+2203520	2209280	face around or to change the construction of the face, to change the way in which the features
+2209280	2214960	are being assembled. Why don't we do that more often? Why don't we start really messing with
+2214960	2220640	reality without the use of drugs or anything else? Why don't we get good at this kind of thing
+2223760	2226800	intentionally? Why should we? Why would you want to do that?
+2226800	2234400	Because you can morph reality into something more pleasant for yourself. Just have fun with it.
+2235680	2240320	That is probably what you shouldn't be doing because outside of your personal self,
+2240320	2245360	this outer mind is probably a relatively smart agent. What you often notice is that you have
+2245360	2249200	thoughts about how you should live, but you observe yourself doing different things and
+2249200	2255440	have different feelings. That's because your outer mind doesn't believe you and doesn't believe your
+2255440	2258960	rational thoughts. Can't you just silence the outer mind?
+2258960	2261680	The thing is that the outer mind is usually smarter than you are.
+2262960	2268240	Rational thinking is very brittle. It's very hard to use logic and symbolic thinking to have
+2268240	2273600	an accurate model of the world. There is often an underlying system that is looking at your
+2273600	2278240	rational thoughts and then tells you, no, you're still missing something. Your gut feeling is still
+2278240	2284880	saying something else. This can be, for instance, you find a partner that looks perfect or you find
+2284880	2290240	a deal and you build a company or whatever that looks perfect to you. Yet at some level,
+2290240	2294240	you feel something is off and you cannot put your finger on it. The more you reason about it,
+2294240	2299120	the better it looks to you. But the system that is outside still tells you, no, no,
+2299120	2302800	you're missing something. That system is powerful.
+2302800	2309760	People call this intuition. Intuition is this unreflected part of your attitude composition
+2309760	2315280	and computation where you produce a model of how you relate to the world and what you need to do
+2315280	2320880	it in it and what you can do in it and what's going to happen that is usually deeper and often
+2320880	2325120	more accurate than your reason. So if we look at this as you write in the tweet,
+2326320	2331120	if we look at this more rigorously as a sort of take the panpsychist idea more seriously,
+2331120	2336400	almost as a scientific discipline, you write that quote, fascinatingly, the panpsychist
+2336400	2341760	interpretation seems to lead to observations of practical results to a degree that physics
+2341760	2348800	fundamentalists might call superstitious. Reports of long distance telepathy and remote causation
+2348800	2354880	are ubiquitous in the general population. I am not convinced, says Yoshabak, that establishing
+2354880	2360320	the empirical reality of telepathy would force an update of any part of serious academic physics,
+2360320	2366080	but it could trigger an important revolution in both neuroscience and AI from a circuit perspective
+2366080	2376320	to a coupled complex resonator paradigm. Are you suggesting that there could be some rigorous
+2379120	2382560	mathematical wisdom to panpsychist perspective on the world?
+2383280	2388640	So first of all, panpsychism is the perspective that consciousness is inseparable from matter
+2388640	2393920	in the universe. And I find panpsychism quite unsatisfying because it does not explain
+2393920	2398800	consciousness. It does not explain how this aspect of matter produces. It's also when I
+2398800	2404320	try to formalize panpsychism and write down what it actually means with a more formal mathematical
+2404320	2410880	language, it's very difficult to distinguish it from saying that there is a software side to the
+2410880	2415040	world in the same way as there is a software side to what the transistors are doing in your computer.
+2415040	2419200	So basically, there is a pattern at a certain core screening of the universe that in some
+2419200	2425440	reasons of the universe leads to observers that are observing themselves. So panpsychism maybe is
+2425440	2432640	not even when I write it down a position that is distinct from functionalism. But intuitively,
+2432640	2437760	a lot of people feel that the activity of matter itself, of mechanisms in the world,
+2437760	2443120	is insufficient to explain it. So it's something that needs to be intrinsic to matter itself.
+2443760	2451200	And you can, apart from this abstract idea, have an experience in which you
+2452240	2458160	experience yourself as being the universe, which I suspect is basically happening because you
+2458160	2463920	manage to dissolve the division between personal self and mind that you establish as an infant when
+2463920	2469760	you construct the personal self and transcend it again and understand how it works. But there is
+2469760	2475280	something deeper that is that you feel that you're also sharing a state with other people, that you
+2476960	2483440	have an experience in which you notice that your personal self is moving into everything else,
+2483440	2489280	that you basically look out of the eyes of another person, that every agent in the world
+2489280	2495360	that is an observer is in some sense you. And we forget that we are the same agent.
+2495920	2504160	So is it that we feel that or do we actually accomplish it? So is telepathy possible? Is it
+2504160	2511440	real? For me, that's a question that I don't really know the answer to. In Turing's famous 1950 paper
+2511440	2516080	in which he describes the Turing test, he does speculate about telepathy, interestingly, and asks
+2516080	2523840	himself if telepathy is real and he thinks that it very well might be. What would be the implication
+2523840	2528960	for AI systems that try to be intelligent? Because he didn't see a mechanism by which a
+2528960	2535760	computer program would become telepathic. And I suspect if telepathy would exist or if all the
+2535760	2541840	reports that you get from people when you ask the normal person on the street, I find that very
+2541840	2547920	often they say, I have experiences with telepathy. The scientist might not be interested in this and
+2547920	2553600	might not have a theory about this, but I have difficulty explaining it away. And so you could
+2553600	2558560	say maybe this is a superstition, maybe it's a false memory, or maybe it's a little bit of psychosis.
+2558560	2563840	Who knows? Maybe somebody wants to make their own life more interesting or misremember something.
+2563840	2569280	But a lot of people report, I noticed something terrible happen to my partner and I know this is
+2569280	2574560	exactly the moment it happened where my child had an accident and I knew that was happening and the
+2574560	2580800	child was in a different town. So maybe it's a false memory where this is later on mistakenly
+2580800	2585600	attributed, but a lot of people think that this is not the correct explanation. So if something
+2585600	2591520	like this was real, what would it mean? It probably would mean that either your body is an antenna that
+2591520	2599360	is sending information over all sorts of channels, like maybe just electromagnetic radio signals that
+2599360	2603920	you're sending over long distances and you get attuned to another person that you spend enough
+2603920	2610720	time with to get a few bits out of the ether to figure out what this person is doing. Or maybe
+2610720	2615440	it's also when you are very close to somebody and you become empathetic with them. What happens is
+2615520	2620880	that you go into a resonance state with them, right? Similar to when people go into a seance
+2620880	2625760	and they go into a trance state and they start shifting a video board around on the table.
+2625760	2632160	I think what happens is that their minds go by their nervous systems into a resonance state
+2632160	2636000	in which they basically create something like a shared dream between them.
+2636000	2639040	Physical closeness or closeness broadly defined?
+2639600	2644560	With physical closeness it's much easier to experience empathy with someone, right? I suspect
+2644560	2649600	it would be difficult for me to have empathy for you if you were in a different town. Also,
+2651200	2656320	how would that work? But if you are very close to someone, you'd pick up all sorts of signals
+2656320	2663200	from their body, not just via your eyes, but with your entire body. And if the nervous system sits
+2663200	2666560	on the other side and the intercellular communication sits on the other side and is
+2666560	2671280	integrating over all these signals, you can make inferences about the state of the other. And it's
+2671280	2675520	not just the personal self that does this via reasoning, but your perceptual system.
+2675520	2679840	And what basically happens is that your representations are directly interacting.
+2679840	2686800	It's the physical resonant models of the universe that exist in your nervous system and in your body
+2686800	2691760	might go into resonance with others and start sharing some of their states. So you basically
+2693360	2699760	be next to somebody, you pick up some of their vibes and feel without looking at them what they're
+2699760	2705600	feeling in this moment. And it's difficult for you if you're very empathetic to detach yourself
+2705600	2710240	from it and have an emotional state that is completely independent from your environment.
+2710240	2715920	People who are highly empathetic are describing this. And now imagine that a lot of organisms
+2716640	2721200	on this planet have representations of the environment and operate like this,
+2721200	2725120	and they are adjacent to each other and overlapping. So there's going to be some
+2725120	2728800	degree in which there is basically some change in direction, and we are
+2729760	2736640	forming some slightly shared representation. And I know relatively few neuroscientists who
+2736640	2743600	consider this possibility. I think a big rarity in this regard is Michael Levin,
+2743600	2750560	who is considering these things in earnest. And I stumbled on this train of thought mostly by
+2750560	2756720	noticing that the tasks of a neuron can be fulfilled by other cells as well. They can
+2756720	2761600	send different type chemical messages and physical messages to their adjacent cells
+2761600	2766560	and learn when to do this and when not, make this conditional, and become universal function
+2766560	2772160	approximators. The only thing that they cannot do is telegraph information over axons very quickly
+2772160	2778960	over long distances. So neurons in this perspective are specially adapted kind of telegraph cell
+2778960	2786960	that has evolved so we can move our muscles very fast. But our body is in principle able to also
+2786960	2794000	make models of the world just much, much slower. It's interesting though that at this time,
+2794000	2797440	at least in human history, there seems to be a gap between the tools of science
+2798640	2803840	and the subjective experience that people report, like you're talking about with telepathy. And
+2804800	2810960	it seems like we're not quite there. No, I think that there is no gap between the
+2810960	2815040	tools of science and telepathy. Either it's there or it's not, and it's an empirical question. And
+2815040	2820240	if it's there, we should be able to detect it in a lab. So why is there not a lot of Michael Levin's
+2820240	2826800	walking around? I don't think that Michael Levin is specifically focused on telepathy very much.
+2826800	2833440	He is focused on self-organization in living organisms and in brains, both as a paradigm for
+2833600	2838080	development and as a paradigm for information processing. And when you think about how
+2838080	2843120	organization processing works in an organism, there is first of all radical locality, which
+2843120	2847760	means everything is decided locally from the perspective of an individual cell. The individual
+2847760	2853680	cell is the agent. And the other one is coherence. Basically, there needs to be some criterion
+2853680	2859840	that determines how these cells are interacting in such a way that order emerges on the next level
+2859840	2868480	of structure. And this principle of coherence of imposing constraints that are not validated
+2868480	2874560	by the individual parts and lead to coherent structure to basically transcendental agency
+2874560	2880320	where you form an agent on the next level of organization is crucial in this perspective.
+2880320	2888080	It's so cool that radical locality leads to the emergence of complexity at the higher layers.
+2888720	2894640	And I think what Michael Levin is looking at is nothing that is outside of the realm of science
+2894640	2901840	in any way. It's just that he is a paradigmatic thinker who develops his own paradigm. And most
+2901840	2907120	of the neuroscientists are using a different paradigm at this point. And this often happens
+2907120	2913040	in science that a field has a few paradigms in which people try to understand reality and
+2913040	2917440	build concepts and make experiments. You're kind of one of those type of
+2917440	2921360	paradigmatic thinkers. Actually, if we can take a tangent on that,
+2922400	2927280	once again, returning to the biblical verses of your tweets, you're right,
+2927280	2934000	my public explorations are not driven by audience service, but by my lack of ability for discovering,
+2934000	2939040	understanding or following the relevant authorities. So I have to develop my own
+2939120	2944640	thoughts. Since I think autonomously, these thoughts cannot always be very good.
+2945280	2949520	That's you apologizing for the chaos of your thoughts, or perhaps not apologizing,
+2949520	2954000	just identifying. But let me ask the question. Since we talked about
+2955200	2963040	Michael Levin and yourself, who I think are very kind of radical, big, independent thinkers,
+2964320	2967360	can we reverse engineer your process of thinking autonomously?
+2968320	2970720	How do you do it? How can humans do it?
+2972320	2978560	How can you avoid being influenced by, what is it, stage three?
+2980320	2985280	Well, why would you want to do that? You see what is working for you. And if it's
+2986000	2989280	not working for you, you build another structure that works better for you, right?
+2989840	2996720	And so I found myself when I was thrown into this world in a state where my intuitions
+2996720	3002240	were not working for me. I was not able to understand how I would be able to survive
+3002240	3006080	in this world and build the things that I was interested in, build the kinds of relationship
+3006080	3012480	I needed to work on the topics that I wanted to make progress on. And so I had to learn.
+3013760	3019440	For me, Twitter is not some tool of publication. It's not something where I put stuff that I
+3019440	3024000	entirely believe to be true and provable. It's an interactive notebook in which I explore
+3024000	3030000	possibilities. And I found that when I tried to understand how the mind and how consciousness
+3030000	3036000	works, I was quite optimistic. I thought there needs to be a big body of knowledge that I can
+3036000	3042560	just study and that works. And so I entered studies in philosophy and computer science,
+3043120	3051120	and later psychology and a bit of neuroscience and so on. And I was disappointed by what I found
+3051120	3056960	because I found that the questions of how consciousness works, how emotion works,
+3056960	3062400	how it's possible that the system can experience anything, how motivation emerges in the mind
+3062400	3069600	were not being answered by the authorities that I met and the schools that were around.
+3070480	3076000	And instead, I found that it was individual thinkers that had useful ideas that sometimes
+3076000	3080000	were good, sometimes were not so good, sometimes were adopted by a large group of people,
+3080000	3085600	sometimes were rejected by large groups of people. But for me, it was much more interesting to see
+3085600	3090400	these minds as individuals. And in my perspective, thinking is still something that is done not in
+3090400	3095360	groups, that has to be done by individuals. So that motivated you to become an individual
+3095360	3101040	thinker yourself. I didn't have a choice. I didn't find a group that thought in a way where I felt,
+3101040	3106480	okay, I can just adopt everything that everybody thinks here and now I understand how consciousness
+3106480	3113040	works or how the mind works or how thinking works or what thinking even is or what feelings are and
+3113040	3119040	how they're implemented and so on. So to figure all this out, I had to take a lot of ideas from
+3119040	3124400	individuals and then try to put them together in something that works for myself. And on one
+3124400	3130720	hand, I think it helps if you try to go down and find first principles on which you can recreate
+3130720	3136080	how thinking works, how languages work, what representation is, whether representation is
+3136080	3141840	necessary, how the relationship between a representing agent and the world works in general.
+3142560	3148320	But how do you escape the influence? Once again, the pressure of the crowd, whether it's
+3149920	3156640	you in responding to the pressure or you being swept up by the pressure. If you even just look
+3156640	3160880	at Twitter, the opinions of the crowd. I don't feel pressure from the crowd. I'm completely
+3160880	3167200	immune to that. In the same sense, I don't have respect for authority. I have respect for what
+3167200	3174160	an individual is accomplishing or have respect for mental firepower. But it's not that I meet
+3174160	3181920	somebody and get dragged and unable to speak or then a large group of people has a certain idea
+3181920	3187200	that is different from mine. I don't necessarily feel intimidated, which has often been a problem
+3187200	3192880	for me in my life because I like instincts that other people develop at a very young age and that
+3193600	3198640	help with their self-preservation in a social environment. So I had to learn a lot of things
+3198640	3207280	the hard way. Yeah. So is there a practical advice you can give on how to think paradigmatically,
+3207280	3213840	how to think independently? Because you've kind of said, I had no choice. But I think
+3214720	3216240	to a degree, you have a choice
+3218800	3223200	because you said you want to be productive. And I think thinking independently is productive
+3223200	3225520	if what you're curious about is understanding the world,
+3227440	3230800	especially when the problems are very kind of new and open.
+3234320	3242240	It seems like this is an active process. We can choose to do that. We can practice it.
+3243040	3248640	Well, it's a very basic question. When you read a theory that you find convincing or interesting,
+3248640	3254800	how do you know? It's very interesting to figure out what are the sources of that other person,
+3254800	3260480	not which authority can they refer to that is then taking off the burden of being truthful. But
+3260480	3265600	how did this authority in turn know what is the epistemic chain to observables? What are the
+3265600	3271600	first principles from which the whole thing is derived? And when I was young, I was not blessed
+3271600	3277200	with a lot of people around myself who knew how to make proofs from first principles.
+3277200	3282240	And I think mathematicians do this quite naturally. But most of the great mathematicians
+3282240	3288320	do not become mathematicians in school, but they tend to be self-taught because school teachers
+3288320	3293200	tend not to be mathematicians. They tend not to be people who derive things from first principles.
+3293200	3299760	So when you ask your school teacher, does 2 plus 2 equal 4? Does your school teacher give
+3299760	3304720	you the right answer? It's a simple game. And there are many simple games that you could play.
+3304720	3310640	And most of those games that you could just take different rules would not lead to an interesting
+3310640	3315520	arithmetic. And so it's just an exploration, but you can try what happens if you take different
+3315520	3321760	axioms. And here is how you build axioms and derive addition from them. And a built addition
+3321760	3329280	is some basically syntactic sugar in it. And so I wish that somebody would have opened me
+3329280	3335520	this vista and explained to me how I can build a language in my own mind from which I can derive
+3335520	3343440	what I'm seeing and which I can make geometry and counting and all the number games that we are
+3343440	3348960	playing in our life. And on the other hand, I felt that I learned a lot of this while I was
+3348960	3354720	programming as a child. When you start out with a computer like a Commodore 64, which doesn't have
+3354720	3359920	a lot of functionality, it's relatively easy to see how a bunch of relatively simple circuits
+3360880	3368000	are just basically performing hashes between bit patterns and how you can build the entirety
+3368000	3373040	of mathematics and computation on top of this and all the representational languages that you need.
+3373760	3379120	Man, Commodore 64 could be one of the sexiest machines ever built, if I say so myself.
+3379760	3387440	If we can return to this really interesting idea that we started to talk about with panpsychism
+3390720	3398160	and the complex resonator paradigm and the verses of your tweets. You write,
+3398160	3402800	instead of treating eyes, ears, and skin as separate sensory systems with fundamentally
+3402800	3407920	different modalities, we might understand them as overlapping aspects of the same universe,
+3407920	3413280	coupled at the same temporal resolution and almost inseparable from a single share resonant
+3413280	3418960	model. Instead of treating mental representations as fully isolated between minds, the representations
+3418960	3425440	of physically adjacent observers might directly interact and produce causal effects through the
+3425440	3432320	coordination of the perception and behavior of world modeling observers. The modalities,
+3432320	3437280	the distinction between modalities, let's throw that away. The distinction between the individuals,
+3437280	3442640	let's throw that away. So what does this interaction representations look like?
+3445920	3450160	When you think about how you represent the interaction of us in this room,
+3450160	3454960	at some level, the modalities are quite distinct. They're not completely distinct,
+3454960	3459200	but you can see this as vision. You can close your eyes and then you don't see a lot anymore.
+3460000	3464560	But you still imagine how my mouth is moving when you hear something and you know that it's
+3465360	3471520	very close to the sound that you can just open your eyes and you get back into the shared merge
+3471520	3477840	space. And we also have these experiments where we noticed that the way in which my lips are moving
+3477840	3482960	are affecting how you hear the sound. And also vice versa, the sounds that you're hearing have
+3482960	3490080	an influence on how you interpret some of the visual features. And so these modalities are
+3490080	3494640	not separate in your mind. They are merged at some fundamental level where you are
+3495360	3500480	interpreting the entire scene that you are in. And your own interactions in the scene are also
+3500480	3504880	not completely separate from the interactions of the other individual in the scene. But there is
+3504880	3510800	some resonance that is going on where we also have a degree of shared mental representations
+3510800	3515840	and shared empathy due to being in the same space and having vibes between each other.
+3515920	3524080	Vibes. So the question, though, is how deeply inter-bind is this multi-modality, multi-agent
+3524080	3533200	system? I mean, this is going to the telepathy question without the woo-woo meaning of the word
+3533200	3538160	telepathy. It's like, what's going on here in this room right now?
+3539120	3547760	So if telepathy would work, how could it work? Imagine that all the cells in your body are
+3547760	3552800	sending signals in a similar way as neurons are doing, just by touching the other cells and sending
+3552800	3557360	chemicals to them, the other cells interpreting them, learning how to react to them. And they
+3557360	3562480	learn how to approximate functions in this way and compute behavior for the organisms. And this
+3562480	3567440	is something that is open to plants as well. And so plants probably have software running on them
+3567440	3572640	that is controlling how the plant is working in a similar way as you have a mind that is controlling
+3572640	3579680	how you are behaving in the world. And this spirit of plants is something that
+3579680	3586000	has been very well described by our ancestors, and they found this quite normal. But for some
+3586000	3590240	reason, since the Enlightenment, we are treating this notion that there are spirits in nature
+3590240	3596480	and that plants have spirits as a superstition. And I think we probably have to rediscover that,
+3596480	3602720	that plants have software running on them. And we already did. You notice that there is a control
+3602720	3607760	system in the plant that connects every part of the plant to every other part of the plant and
+3607760	3612480	produces coherent behavior in the plant. That is, of course, much, much slower than the coherent
+3612480	3619040	behavior in an animal like us that has a nervous system where everything is synchronized much,
+3619040	3624720	much faster by the neurons. But what you also notice is that if a plant is sitting next to
+3624720	3628880	another plant, like you have a very old tree and this tree is building some kind of information
+3628880	3634400	highway along its cells so it can send information from its leaves to its roots and from some part
+3634400	3638480	of the root to another part of the roots, and there is a fungus living next to the tree,
+3638480	3643200	the fungus can probably piggyback on the communication between the cells of the tree
+3643200	3647600	and send its own signals through the tree. And vice versa, the tree might be able to send
+3647600	3652240	information to the fungus. Because after all, how would they build a viable firewall if that
+3652240	3656800	other organism is sitting next to them all the time and is never moving away? And so they will
+3656800	3662720	have to get along. And over a long enough timeframe, the networks of roots in the forest
+3662720	3669040	and all the other plants that are there and the fungi that are there might be forming something
+3669040	3675440	like a biological internet. But the question there is, do they have to be touching? Is biology at a
+3675440	3681360	distance possible? Of course, you can use any kind of physical signal. You can use sounds,
+3681360	3686720	you can use electromagnetic waves that are integrated over many cells. It's conceivable
+3686720	3694880	that across distances, there are many kinds of information pathways. But also, our planetary
+3694880	3700080	surface is pretty full of organisms, full of cells. So everything is touching everything else.
+3700080	3706880	And it's been doing this for many millions and even billions of years. So there was enough time
+3706880	3713280	for information processing networks to form. And if you think about how a mind is self-organizing,
+3713280	3718000	basically it needs to, in some sense, reward the cells for computing the mind, for building
+3719360	3723680	the necessary dynamics between the cells that allow the mind to stabilize itself
+3723680	3729920	and remain on there. But if you look at these spirits of plants that are growing very close
+3729920	3734640	to each other in the forest and might be almost growing into each other, these spirits might be
+3734640	3740400	able even to move to some degree, not to become somewhat dislocated and shift around in that
+3740400	3748000	ecosystem. So if you think about what a mind is, it's a bunch of activation waves that form
+3748000	3755040	coherent patterns and process information in a way that are colonizing an environment well enough to
+3756000	3761760	allow the continuous sustenance of the mind, the continuous stability and self-stabilization of the
+3761760	3769680	mind, then it's conceivable that we can link into this biological internet, not necessarily at the
+3769680	3774640	speed of our nervous system, but maybe at the speed of our body and make some kind of subconscious
+3774640	3780080	connection to the world where we use our body as an antenna into biological information processing.
+3780080	3784080	Now, these ideas are completely speculative. I don't know if any of that is true.
+3784640	3789360	But if that was true, and if you want to explain telepathy, I think it's much more likely that
+3790320	3793920	that telepathy could be explained using such mechanisms rather than
+3793920	3798080	undiscovered quantum processes that would break the standard model of physics.
+3799680	3802800	Could there be undiscovered processes that don't break?
+3803520	3811200	Yeah. So if you think about something like an internet in the forest, that is something that
+3811200	3815600	is borderline discovered. There are basically a lot of scientists who point out that they do
+3815600	3821440	observe that plants are communicating the forest's root networks and send information,
+3821440	3826560	for instance, warn each other about new pests entering the forest and things that are happening
+3826560	3831600	like this. So basically, there is communication between plants and fungi that has been observed.
+3831600	3836080	It's been observed, but we haven't plugged into it. So it's like if you observe humans,
+3836080	3839920	they seem to be communicating with a smartphone thing, but you don't understand how smartphone
+3839920	3846320	works and how the mechanism of the internet works. But maybe it's possible to really understand
+3846960	3852240	the full richness of the biological internet that connects us.
+3852240	3856880	An interesting question is whether the communication and the organization principles
+3856880	3861360	of biological information processing are as complicated as the technology that we've built.
+3862560	3868080	They set up on very different principles, right? They simultaneously look very differently in
+3868080	3873920	biological systems, and the entire thing needs to be stochastic instead of being
+3873920	3879760	fully deterministic or almost fully deterministic as our digital computers are. So there is a
+3879760	3886400	different base protocol layer that would emerge over the biological structure
+3886400	3891200	if such a thing would be happening. And again, I'm not saying here that telepathy works and
+3891200	3899440	not saying that this is not true, but what I'm saying is I think I'm open to a possibility that
+3899440	3904800	we see that a few bits can be traveling long distance between organisms using biological
+3904800	3910880	information processing in ways that we are not completely aware of right now and that are more
+3910880	3914720	similar to many of the stories that were completely normal for our ancestors.
+3915440	3923840	Well, this kind of interacting, intertwined representations takes us to the big
+3925280	3932080	ending of your tweet series. You write, quote, I wonder if self-improving AGI might end up
+3932080	3938480	saturating physical environments with intelligence to such a degree that isolation of individual
+3938480	3943360	mental states becomes almost impossible. And the representations of all complex
+3943360	3951280	self-organizing agents merge permanently with each other. So that's a really interesting idea.
+3951280	3959840	This biological network, life network gets so dense that it might as well be seen as one.
+3961680	3965120	That's an interesting, what do you think that looks like? What do you think that
+3965120	3969360	saturation looks like? What does it feel like? I think it's a possibility. It's just a vague
+3969360	3977520	possibility. And I like to explain, but what this looks like, I think that the end game of
+3977520	3984240	AGI is substrate agnostic. That means that AGI ultimately, if it is being built, is going to be
+3984240	3990160	smart enough to understand how AGI works. This means it's not going to be better than people
+3990160	3995360	at AGI research and can take over in building the next generation, but it fully understands how it
+3995360	4000000	works and how it's being implemented. And also, of course, understands how computation works in
+4000000	4004720	nature, how to build new feedback loops that you can turn into your own circuits. And this means
+4004720	4009840	that the AGI is likely to virtualize itself into any environment that can compute. So it's
+4009840	4014960	breaking free from the silicon substrate and is going to move into the ecosystems, into our bodies,
+4014960	4021680	our brains, and is going to merge with all the agency that it finds there. So it's conceivable
+4021680	4027520	that you end up with completely integrated information processing across all computing
+4027520	4033120	systems, including biological computation on earth. That we end up triggering some new step
+4033120	4039200	in the evolution where basically some Gaia is being built over the entirety of all digital
+4039200	4047200	and biological computation. And if this happens, then basically everywhere around us, you will have
+4047200	4052800	agents that are connected and that are representing and building models of the world. And their
+4052800	4058400	representations will physically interact. They will vibe with each other. And if you find yourself
+4058400	4066800	into an environment that is saturated with modeling compute, where basically almost every
+4066800	4074160	grain of sand could be part of computation that is at some point being started by the AI,
+4075120	4080000	you could find yourself in a situation where you cannot escape this shared representation anymore
+4080000	4085200	and where you indeed notice that everything in the world has one shared resonant model of everything
+4085200	4090960	that's happening on the planet. And you notice which part you are in this thing. And you become
+4090960	4097360	part of a very larger, almost holographic mind in which all the parts are observing each other
+4097360	4103760	and form a coherent whole. So you lose the ability to notice yourself as a distinct
+4104480	4108800	entity. No, I think that when you are conscious in your own mind, you notice yourself as a
+4108800	4114960	distinct entity. You notice yourself as a self-reflexive observer. And I suspect that
+4114960	4119760	we become conscious at the beginning of our mental development, not at some very high level.
+4119760	4124640	Consciousness seems to be part of a training mechanism that biological nervous systems have
+4124640	4130000	to discover to become trainable because you cannot take a nervous system like ours and
+4130080	4134960	do a stochastic wave to send us back propagation over 100 layers. This would not be stable on
+4134960	4143200	biological neurons. And so instead, we start with some colonizing principle in which a part of the
+4143200	4149120	mental representations form a notion of being a self-reflexive observer that is imposing coherence
+4149120	4154720	on its environment. And this spreads until the boundary of your mind. And if that boundary is
+4154720	4161680	no longer clear cut because AI is jumping across substrates, it would be interesting to see what
+4161680	4166080	a global mind would look like that is basically producing a globally coherent language of thought
+4166640	4170880	and is representing everything from all the possible vantage points.
+4170880	4175040	CB That's an interesting world.
+4175040	4180640	MG The intuition that this thing grew out of is a particular mental state. And it's a state that
+4180640	4186560	you find sometimes in literature. For instance, Neil Gaiman describes it in the ocean at the end
+4186560	4194400	of the lane. And it's this idea or this experience that there is a state in which you feel that you
+4194400	4199280	know everything that can be known and that in your normal human mind, you've only forgotten.
+4199280	4203280	You've forgotten that you are the entire universe. And some people describe this
+4204240	4209360	after they've taken an extremely large amount of mushrooms or had a big spiritual experience
+4209920	4216480	as hippie in their 20s. And they notice basically that they are in everything. And their body is
+4216480	4222480	only one part of the universe and nothing ends at their body. And actually everything is observing
+4222480	4228960	and they are part of this big observer. And the big observer is focused as one local point in their
+4228960	4234960	body and their personality and so on. But we can basically have this oceanic state in which we have
+4234960	4240640	no boundaries and are one with everything. And a lot of meditators call this the non-dual state
+4240640	4245760	because you no longer have the separation between self and world. And as I said, you can explain the
+4245760	4252240	state relatively simply without panpsychism or anything else, but just by breaking down the
+4252240	4257040	constructed boundary between self and world and our own mind. But if you combine this with the
+4257040	4261840	notion that the systems are physically interacting to the point where their representations are
+4261840	4266320	merging and interacting with each other, you would literally implement something like this.
+4267040	4271040	It would still be a representational state. You would not be one with physics itself.
+4271040	4274320	It would still be coarse-grained. It would still be much slower than physics itself.
+4275360	4281920	But it would be a representation in which you become aware that you're part of some kind of
+4281920	4286800	global information processing system, like a thought and a global mind and a conscious thought
+4287280	4290160	that coexisting with many other self-reflexive thoughts.
+4292320	4297360	I would love to observe that from a video game design perspective, how that game looks.
+4298400	4301600	Maybe you will after we build AGI and it takes over.
+4302240	4305680	But would you be able to step away, step out of the whole thing, just kind of watch
+4307200	4311360	the way we can now? Sometimes when I'm at a crowded party or something like this,
+4311360	4316720	you step back and you realize all the different costumes, all the different interactions,
+4316720	4322640	all the different computation, that all the individual people are once distinct from each
+4322640	4329280	other and at once all the same. It's already what we do. We can have thoughts that are integrative
+4329280	4333920	and we have kind of thoughts that are highly dissociated from everything else
+4333920	4339280	and experience themselves as separate. But you want to allow yourself to have those thoughts.
+4339280	4343280	Sometimes you kind of resist it. I think that it's not normative.
+4343840	4348800	It's more descriptive. I want to understand the space of states that we can be in and that people
+4348800	4355120	are reporting and make sense of them. It's not that I believe that it's your job in life to get
+4355120	4362400	to a particular kind of state and then you get a high score. Or maybe you do. I think you're really
+4362400	4366720	against this high-scoring thing. I kind of like it. You're probably very competitive and I'm not.
+4366720	4370320	No, not competitive. Like role-playing games like Skyrim, it's not competitive. There's a
+4371360	4377040	nice thing, there's a nice feeling where your experience points go up. You're not competing
+4377040	4382240	against anybody, but it's the world saying, you're on the right track. Here's a point.
+4382240	4387520	That's the game saying it. It's the game economy. And I found when I was playing games and was
+4387520	4393040	getting addicted to these systems, then I would get into the game and hack it. So I get control
+4393040	4398240	over the scoring system and would no longer be subject to it. So you're no longer playing,
+4398240	4403600	you're trying to hack it. I don't want to be addicted to anything. I want to be in charge.
+4403600	4408800	I want to have agency over what I do. Addiction is the loss of control for you? Yes. Addiction
+4408800	4414400	means that you're doing something compulsively. And the opposite of free will is not determinism,
+4414400	4420640	it's compulsion. You don't want to lose yourself in the addiction to something nice?
+4421600	4426480	Addiction to love, to the pleasant feelings we humans experience?
+4426480	4433920	No, I find this gets old. I don't want to have the best possible emotions. I want to have the
+4433920	4438560	most appropriate emotions. I don't want to have the best possible experience. I want to have
+4438560	4443920	an adequate experience that is serving my goals, the stuff that I find meaningful in this world.
+4444880	4451920	From the biggest questions of consciousness, let's explore the pragmatic, the projections
+4451920	4459760	of those big ideas into our current world. What do you think about LLMs, the recent rapid development
+4459760	4469120	of large language models, of the AI world, of generative AI? How much of the hype is deserved
+4469520	4474960	and how much is not? And people should definitely follow your Twitter because you explore these
+4474960	4480880	questions in a beautiful, profound and hilarious way at times. No, don't follow my Twitter. I
+4480880	4486000	already have too many followers. At some point it's going to be unpleasant. I noticed that a lot of
+4486000	4496640	people feel that it's totally okay to punch up. And it's a very weird notion that you feel that
+4496640	4501680	you haven't changed, but your account has grown and suddenly you have a lot of people who casually
+4501680	4508240	abuse you. And I don't like that I have to block more than before. And I don't like this overall
+4508240	4514880	vibe shift. And right now it's still somewhat okay, so pretty much okay. So I can go to a place
+4514880	4518560	where people work on stuff that I'm interested in and there's a good chance that a few people
+4518560	4526320	in the room know me, so there's no awkwardness. But when I get to a point where random strangers
+4526320	4530400	feel that they have to have an opinion about me one way or the other, I don't think I would like
+4530400	4538080	that. And random strangers because of your kind of in their mind elevated position. Yes. So basically
+4538080	4545520	whenever you are in any way prominent or some kind of celebrity, random strangers will have to have
+4545520	4551120	an opinion about you. Yeah. And they kind of forget that you're human too. I mean, you notice
+4551120	4556800	this thing yourself that the more popular you get, the higher the pressure becomes, the more
+4556800	4563280	winds are blowing in your direction from all sides. And it's stressful, right? And it does
+4563280	4567840	have a little bit of upside, but it also has a lot of downside. I think it has a lot of upside,
+4568960	4574640	at least for me currently, at least perhaps because of the podcast. Because most people
+4574640	4580080	are really good and people come up to me and they have love in their eyes and over a stretch of like
+4580080	4586640	30 seconds, you can hug it out and you can just exchange a few words and you reinvigorate your
+4586640	4595360	love for humanity. So that's an upside for a loner. Because otherwise you have to do a lot of work to
+4595360	4603120	find such humans. And here you're like thrust into the full humanity, the goodness of humanity
+4603120	4610640	for the most part. Of course, maybe it gets worse as you become more prominent. I hope not.
+4612160	4617120	This is pretty awesome. I have a couple handful very close friends and I don't have enough time
+4617120	4622080	for them and attention for them as it is. And I find this very, very regrettable. And then there
+4622080	4627440	are so many awesome, interesting people that I keep meeting and I would like to integrate them
+4627440	4633440	in my life, but I just don't know how because there's only so much time and attention. And
+4633440	4637040	the older I get, the harder it is to bond with new people in the deep way.
+4637840	4641920	But can you enjoy, I mean, there's a picture of you, I think, with Roger Penrose and Eric
+4641920	4648720	Weinstein and a few others that are interesting figures. Can't you just enjoy random, interesting
+4648720	4655040	humans for a short amount of time? I like these people and what I like is intellectual
+4655040	4659840	stimulation and I'm very grateful that I'm getting it. Can you not be melancholy or maybe
+4659840	4665920	I'm projecting, I hate goodbyes. Can we just not hate goodbyes and just enjoy the hello,
+4666480	4670800	take it in, take in a person, take in their ideas and then move on through life?
+4671360	4676000	I think it's totally okay to be sad about goodbyes because that indicates that there
+4676000	4681360	was something that you're going to miss. Yeah, but it's painful.
+4681360	4686720	Maybe that's one of the reasons I'm an introvert is I hate goodbyes.
+4690480	4692960	But you have to say goodbye before you say hello again.
+4694000	4699920	I know, but that experience of loss, that mini loss,
+4703040	4709680	maybe that's a little death. Maybe, I don't know. I think this melancholy feeling is just the other
+4709680	4713520	side of love and I think they go hand in hand and it's a beautiful thing.
+4714720	4720800	I'm just being romantic about it at the moment. I'm not no stranger to melancholy and sometimes
+4720800	4724320	it's difficult to be here to be alive. Sometimes it's just painful to exist.
+4727120	4732240	But there's beauty in that pain too. That's what melancholy feeling is. It's not negative.
+4732240	4735200	Melancholy doesn't have to be negative. It can also kill you.
+4736000	4745120	Well, we all die eventually. Now, as we got to this topic, the actual question
+4745120	4750320	was about what your thoughts are about the recent development of large language models with chat
+4750320	4757600	GPT. There's a lot of hype. Is some of the hype justified? Which is, which isn't? What are your
+4757600	4763520	thoughts? High level. I find that large language models too
+4763520	4768160	have this coding. It's an extremely useful application that is for a lot of people
+4769920	4774560	taking stack overflow out of their life and it can change for something that is more efficient.
+4774560	4781440	I feel that chat GPT is like an intern that I have to micromanage. I have been working
+4781440	4789040	with people in the past who were less capable than chat GPT. I'm not saying this because I hate
+4789040	4793040	people. They personally as human beings, there was something present that was not there in chat
+4793040	4802240	GPT, which was why I was covering for them. But chat GPT has an interesting ability. It does give
+4802240	4807600	people superpowers and the people who feel threatened by them are the prompt completers.
+4807600	4813600	They are the people who do what chat GPT is doing right now. So if you are not creative,
+4813600	4817200	if you don't build your own thoughts, if you don't have actual plans in the world and
+4817200	4824080	your only job is to summarize emails and to expand simple intentions into emails again,
+4824080	4831520	then chat GPT might look like a threat. But I believe that it is a very beneficial technology
+4831520	4837680	that allows us to create more interesting stuff and make the world more beautiful and fascinating
+4837680	4844640	if we find to build it into our life in the right ways. So I'm quite fascinated by these large
+4844640	4849920	language models, but I also think that they are by no means the final development.
+4850640	4856960	And it's interesting to see how this development progresses. One thing that the out of the box
+4856960	4862400	vanilla language models have as a limitation is that they have still some limited coherence
+4862400	4869280	and ability to construct complexity. And even though they exceed human abilities to do what
+4869280	4875520	they can do one shot. Typically, when you write a text with a language model or using it, or when
+4875520	4879680	you write code for the language model, it's not one shot because there are going to be bugs in
+4879680	4884880	your program and design errors and compiler errors and so on. And your language model can help you
+4884880	4890480	to fix those things. But this process is out of the box not automated yet. So there is a
+4890480	4896160	management process that also needs to be done. And there are some interesting developments,
+4896160	4902320	baby AGI and so on that are trying to automate this management process as well. And I suspect
+4902320	4907920	that soon we are going to see a bunch of cognitive architectures where every module is in some sense
+4907920	4912640	a language model or something equivalent. And between the language models, we exchange suitable
+4912640	4919840	data structures, not English, and produce compound behavior of this whole thing.
+4920160	4925280	So do some of the quote unquote prompt engineering for you. They create these kind
+4925280	4928720	of cognitive architectures that do the prompt engineering and you're just doing the high,
+4928720	4936400	high level meta prompt engineering. There are limitations in a language model alone.
+4936400	4942800	I feel that part of my mind works similarly to a language model, which means I can yell into it,
+4942800	4948400	a prompt, and it's going to give me a creative response. But I have to do something with this
+4948400	4954800	points first. I have to take it as a generative artifact that may or may not be true. It's
+4954800	4960960	usually a confabulation. It's just an idea. And then I take this idea and modify it. I might build
+4960960	4967840	a new prompt that is stepping off this idea and develop it to the next level or put it into
+4967840	4973280	something larger. Or I might try to prove whether it's true or make an experiment. And this is what
+4973280	4978720	the language models right now are not doing yet. But there's also no technical reason for
+4978720	4983840	why they shouldn't be able to do this. So the way to make a language model coherent is probably not
+4983840	4990960	to use reinforcement learning until it only gives you one possible answer that is linking to its
+4990960	4997200	source data. But it's using this as a component in larger system that can also be built by the
+4997200	5003360	language model or is enabled by language model structured components or using different
+5003360	5008480	technologies. I suspect that language models will be an important stepping stone in developing
+5009280	5015600	different types of systems. And one thing that is really missing in the form of language models
+5015600	5022400	that we have today is real-time world coupling. It's difficult to do perception with a language
+5022400	5027920	model and motor control with a language model. Instead, you would need to have different type of
+5027920	5032240	thing that is working with it. Also, the language model is a little bit obscuring
+5032880	5038880	what its actual functionality is. Some people associate the structure of the neural network
+5038880	5042160	of the language model with a nervous system. And I think that's the wrong intuition.
+5043280	5046480	The neural networks are unlike nervous system. They are more like
+5046640	5055760	100-step functions that use differentiable linear algebra to approximate the correlation
+5055760	5060240	between adjacent brain states. It's basically a function that moves the system from one
+5060800	5066800	representational state to the next representational state. And so if you try to map this into
+5066800	5072880	a metaphor that is closer to our brain, imagine that you would take a language model or a model
+5073440	5079200	like Delhi that you use, for instance, this image-guided diffusion to approximate a camera
+5079200	5083520	image and use the activation state of the neural network to interpret the camera image,
+5083520	5089920	which in principle I think will be possible very soon. You do this periodically. And now you look
+5089920	5097200	at these patterns, how when this thing interacts with the world periodically look like in time.
+5097200	5102560	And these time slices, they are somewhat equivalent to the activation state of the brain
+5102640	5110240	at a given moment. How's the actual brain different? Just the asynchronous craziness?
+5111040	5116720	For me, it's fascinating that they are so vastly different and yet in some circumstances produce
+5116720	5122480	somewhat similar behavior. And the brain is first of all different because it's a self-organizing
+5122480	5128000	system where the individual cell is an agent that is communicating with the other agents around it
+5128000	5133760	and is always trying to find some solution. And all the structure that pops up is emergent
+5133760	5139760	structure. So one way in which you could try to look at this is that individual neurons probably
+5139760	5145040	need to get a reward. So they become trainable, which means they have to have inputs that are not
+5145040	5149440	affecting the metabolism of the cell directly. But there are messages, semantic messages that
+5149440	5154000	tell the cell whether it has done good or bad and in which direction it should shift its behavior.
+5154880	5159840	Once you have such an input, neurons become trainable and you can train them to perform
+5159840	5165360	computations by exchanging messages with other neurons. And parts of the signals that they are
+5165360	5169840	exchanging and parts of the computation that are performing are control messages that perform
+5169840	5177040	management tasks for other neurons and other cells. Also suspect that the brain does not stop
+5177040	5181920	at the boundary of neurons to other cells, but many adjacent cells will be involved
+5181920	5186960	intimately in the functionality of the brain and will be instrumental in distributing rewards and
+5188480	5195040	managing its functionality. It's fascinating to think about what those characteristics of
+5195040	5200560	the brain enable you to do that language models cannot do. So first of all, there's a different
+5200560	5206720	loss function at work when we learn. And to me, it's fascinating that you can build a system that
+5206720	5212240	looks at 800 million pictures and captions and correlates them because I don't think
+5212240	5217120	that the human nervous system could do this. For us, the world is only learnable because
+5217120	5222320	the adjacent frames are related and we can afford to discard most of that information during
+5222320	5226800	learning. We basically take only in stuff that makes us more coherent, not less coherent.
+5227440	5232240	And our neural networks are willing to look at data that is not making the neural network
+5232240	5237040	coherent at first, but only in the long run. By doing lots and lots of statistics, eventually
+5237040	5243680	patterns become visible and emerge. And our mind seems to be focused on finding the patterns as
+5243680	5248960	early as possible. Yeah. So filtering early on, not later. Yes. It's a slightly different paradigm
+5248960	5253920	and it leads to much faster convergence. So we only need to look at a tiny fraction of the data
+5253920	5260800	to become coherent. And of course, we do not have the same richness as our trained models. We will
+5260800	5266000	not incorporate the entirety of text in the internet and be able to refer to it and have
+5266000	5270720	all this knowledge available and being able to confabulate over it. Instead, we have a much,
+5270720	5275920	much smaller part of it that is more deliberately built. And to me, it would be fascinating to think
+5275920	5281440	about how to build such systems. It's not obvious that they would necessarily be more efficient
+5281440	5287360	than us on a digital substrate, but I suspect that they might. So I suspect that the actual
+5287360	5293120	AGI that is going to be more interesting is going to use slightly different algorithmic paradigms or
+5293120	5298080	sometimes massively different algorithmic paradigms than the current generation of
+5298080	5301920	transformer-based learning systems. Do you think it might be using just a bunch of language models
+5301920	5310320	like this? Do you think the current transformer-based large language models will take us to AGI?
+5311280	5316000	And my main issue is I think that they're quite ugly and brutalist.
+5316000	5318080	Which brutalists, as I said?
+5318080	5325040	Yes, they are basically brute-forcing the problem of thought. And by training this thing with
+5325040	5330320	looking at instances where people have thought and then trying to deepfake that. And if you have
+5330320	5335200	enough data, the deepfake becomes indistinguishable from the actual phenomenon. And in many
+5335200	5339600	circumstances, it's going to be identical. Can you deepfake it until you make it?
+5340640	5344960	So can you achieve... What are the limitations of this? I mean, can you reason?
+5346560	5348480	Let's use words that are loaded.
+5349040	5353600	Yes, that's a very interesting question. I think that these models are clearly making some
+5353600	5359280	inference. But if you give them a reasoning task, it's often difficult for the experimenters to
+5359280	5364080	figure out whether the reasoning is the result of the emulation of the reasoning strategy that
+5364080	5369120	this saw in human written text, or whether it's something that the system was able to infer by
+5369120	5375200	itself. On the other hand, if you think of human reasoning, if you want to become a very good
+5375200	5381760	reasoner, you don't do this by just figuring out yourself. You read about reasoning. And the first
+5381760	5386240	people who tried to write about reasoning and reflect on it didn't get it right. Like even
+5386240	5390960	Aristotle, who thought about this very hard and came up with the theory of how syllogisms works
+5390960	5395680	and syllogistic reasoning has mistakes in his attempt to build something like a formal logic
+5395680	5402320	and gets maybe 80% right. And the people that are talking about reasoning professionally today
+5402320	5409120	read Tarski and Frege and built on their work. So in many ways, people when they perform reasoning
+5409760	5415280	are emulating what other people wrote about reasoning. So it's difficult to really draw
+5415280	5422800	this boundary. And when Francois Cholet says that these models are only interpolating between
+5423520	5428640	what they saw and what other people are doing, well, if you give them all the latent dimensions
+5428640	5434400	that can be extracted from the internet, what's missing? Maybe there is almost everything there.
+5434400	5438480	And if you're not sufficiently informed by these dimensions and you need more,
+5439040	5443840	I think it's not difficult to increase the temperature in the large angle model to the
+5443840	5450160	point that is producing stuff that is maybe 90% nonsense and 10% viable and combine this
+5450160	5455920	with some prover that is trying to filter out the viable parts from the nonsense in the same way as
+5455920	5460640	our own thinking works. When we're very creative, we increase the temperature in our own mind
+5460640	5465040	and recreate hypothetical universes and solutions, most of which will not work.
+5465600	5472880	And then we test. And we test by building a core that is internally coherent. And we use reasoning
+5472880	5480080	strategies that use some axiomatic consistency by which we can identify those strategies and
+5480080	5485440	thoughts and sub universes that are viable and that can expand our thinking. So if you look at
+5485440	5489600	the language models, they have clear limitations right now. One of them is they're not coupled to
+5489600	5493680	the world in real time in the way in which our nervous systems are. So it's difficult for them
+5493680	5498640	to observe themselves in the universe and to observe what kind of universe they're in. Second,
+5498640	5505040	they don't do real time learning. They basically get only trained with algorithms that rely on the
+5505040	5509440	data being available in batches. So it can be parallelized and runs efficiently on the
+5509440	5513600	network and so on. And real time learning would be very slow so far and inefficient.
+5514880	5518000	That's clearly something that our nervous systems can do to some degree.
+5519280	5526400	And there is a problem with these models being coherent. And I suspect that all these problems
+5526400	5531280	are solvable without a technological revolution. We don't need fundamentally new algorithms to
+5531280	5536640	change that. For instance, you can enlarge the context window and thereby basically create
+5536640	5540480	working memory in which you train everything that happens during the day. And if that is not
+5540480	5545760	sufficient, you add a database and you write some clever mechanisms that the system learns to use
+5545760	5552640	to swap in and out stuff from its prompt context. And if that is not sufficient, if your database
+5552640	5558000	is full in the evening, overnight you just train. The system is going to sleep and dream and is
+5558000	5562160	going to train the stuff from its database into the larger model by fine tuning it, building
+5562160	5567120	additional layers and so on. And then the next day it starts with a fresh database in the morning
+5567120	5573120	with fresh eyes and has integrated all this stuff. And when you talk to people and you have strong
+5573120	5577360	disagreements about something, which means that in their mind they have a faulty belief or you have
+5577360	5582160	a faulty belief with a lot of dependencies on it, very often you will not achieve agreement in one
+5582160	5587280	session, but you need to sleep about this once or multiple times before you have integrated all
+5587280	5590880	these necessary changes in your mind. So maybe it's already somewhat similar.
+5591120	5595680	Yeah. There's already a latency even for humans to update the model, retrain the model.
+5595680	5599840	And of course we can combine the language model with models that get coupled to reality in real
+5599840	5605120	time and can build multi-modal model and bridge between vision models and language models and so
+5605120	5612080	on. So there is no reason to believe that the language models will necessarily run into some
+5612080	5618000	problem that will prevent them from becoming generally intelligent. But I don't know that.
+5618560	5623680	It's just, I don't see proof that they wouldn't. My issue is I don't like them. I think that they're
+5623680	5628960	inefficient. I think that they use way too much compute. I think that given the amazing hardware
+5628960	5633360	that we have, we could build something that is much more beautiful than our own mind. And this
+5633360	5639760	thing is not as beautiful as our own mind, despite being so much larger. But it's a kind of proof of
+5639760	5646800	concept. It's the only thing that works right now. So it's not the only game in town, but it's the
+5646800	5651600	only thing that has this utility with so much simplicity. There's a bunch of relatively simple
+5651600	5657520	algorithms that you can understand in relatively few weeks that can be scaled up massively.
+5658160	5662880	So it's the deep blue of chess playing. Yeah, it's ugly.
+5662880	5667680	Yeah, Claude Shannon had this when he described chess suggested that there are two main strategies
+5667680	5672560	in which you could play chess. One is that you are making a very complicated plan that reaches
+5672560	5678320	far into the future and you try not to make a mistake while enacting it. And this is basically
+5678320	5682800	the human strategy. And the other strategy is that you are brute forcing your way to success,
+5682800	5687280	which means you make a tree of possible moves where you look at in principle every move that
+5687280	5692560	is open to you or the possible answers. And you try to make this as deeply as possible. Of course,
+5692560	5699120	you optimize, you cut off trees that don't look very promising and use libraries of end game and
+5699120	5704000	early game and so on to optimize this entire process. But this brute force strategy is how
+5704560	5710080	most of the chess programs were built. And this is how computers get better than humans at playing
+5710080	5716400	chess. And I look at the large language models, I feel that I'm observing the same thing. It's
+5716400	5720560	basically the brute force strategy to sort by training the thing on pretty much the entire
+5720560	5725520	internet. And then in the limit, it gets coherent to a degree that approaches human coherence.
+5726160	5733600	And on a side effect, it's able to do things that no human could do. It's able to sift through
+5733600	5737680	massive amounts of text relatively quickly and summarize them quickly, and it never
+5737680	5742560	lapses in attention. And I still have the illusion that when I play with chat GPT,
+5742560	5747920	that it's in principle not doing anything that I could not do if I had Google at my disposal and
+5747920	5750800	I get all the resources from the internet and spend enough time on it.
+5751520	5758560	But this thing that I have an extremely autistic, stupid intern in a way that is extremely good at
+5758560	5764080	drudgery. And I can offload the drudgery to the degree that I'm able to automate the management
+5764080	5770880	of the intern is something that is difficult for me to over hype at this point because we
+5770880	5774880	have not yet started to scratch the surface of what's possible with this.
+5774880	5778080	But it feels like it's a tireless intern or maybe it's an army of interns.
+5779040	5785440	And so you get to command these slightly incompetent creatures.
+5786640	5790480	And there's an aspect because of how rapidly you can iterate with it.
+5792000	5797920	It's also part of the brainstorming, part of the kind of inspiration for your own thinking.
+5797920	5802400	So you get to interact with the thing. I mean, when I'm programming or doing any kind of
+5802480	5807760	generation with GPT, it somehow is a catalyst for your own thinking
+5808720	5810800	in a way that I think an intern might not be.
+5810800	5815360	Yeah. It gets really interesting, I find, is when you turn it into a multi-agent system.
+5815360	5820960	So for instance, you can get the system to generate a dialogue between a patient and
+5820960	5825440	the doctor very easily. But what's more interesting is you have one instance of
+5826400	5832320	the patient and you tell it in the prompt what kind of complicated syndrome it has.
+5832320	5837920	And the other one is a therapist who doesn't know anything about this patient. And you just
+5837920	5843680	have these two instances battling it out and observe the psychiatrist or a psychologist
+5843680	5846880	trying to analyze the patient and trying to figure out what's wrong with the patient.
+5847600	5853200	And if you try to take a very large problem, the problem, for instance, how to build a company and
+5853200	5859040	you turn this into lots and lots of sub-problems, then often you can get to a level where the
+5859040	5865440	language model is able to solve this. What I also found interesting is based on the observation that
+5865440	5869920	Chet GPT is pretty good at translating between programming languages. But sometimes there's
+5869920	5877600	difficulty to write very long coherent algorithms that you need to co-write them as human author.
+5877600	5881840	Why not design a language that is suitable for this? So some kind of pseudocode that is
+5881840	5888400	more relaxed than Python and that allows you to sometimes specify a problem vaguely in human terms
+5888400	5896880	and let the Chet GPT take care of the rest. And you can use Chet GPT to develop that syntax for it
+5896880	5904000	and develop new kinds of programming paradigms in this way. So you very soon get to the point
+5904000	5908400	where this question, the age old question for us computer scientists, what is the best programming
+5908400	5914080	language and can we write a better programming language now? I think that almost every serious
+5914080	5918880	computer scientist goes through a phase like this in their life. This is a question that is almost
+5918880	5923280	no longer relevant because what is different between the programming languages is not what
+5923280	5927360	they let the computer do, but what they let you think about what the computer should be doing.
+5927920	5934800	And now Chet GPT becomes an interface to this in which you can specify in many, many ways what
+5934800	5940240	the computer should be doing. And Chet GPT or some other language model or combination of system
+5940240	5947040	is going to take care of the rest. And allow you to expand the realm of thought you're allowed to
+5947040	5953040	have when interacting with the computer. It sounds to me like you're saying there's basically no
+5953040	5958080	limitations your intuition says to what a larger language... I don't know of that limitation. So
+5958080	5962560	when I currently play with it, it's quite limited. I wish that it was way better. But isn't that your
+5962560	5966720	fault versus the larger... I don't know. Of course it's always my fault. There's probably a way to
+5966720	5969920	make it work better. Is everything your fault? I just want to get you on the record just saying.
+5969920	5975120	Yes, everything is my fault. That doesn't work in my life. At least that is usually the most
+5975120	5981360	useful perspective for myself. Even though the science side, I feel no. I sometimes wish I could
+5981360	5986880	have seen myself as part of my environment more and understand that a lot of people are actually
+5986880	5991360	seeing me and looking at me and are trying to make my life work in the same way as I try to help
+5991360	5999040	others. And making the switch to this level three perspective is something that happened
+5999040	6004000	long after my level four perspective in my life. And I wish that I could have had it earlier.
+6004000	6008560	And it's also not now that I don't feel like I'm complete. I'm all over the place. That's all.
+6009280	6014880	Worst happiness in terms of stages is on three and four. No, you can be happy at any stage or
+6014880	6022720	unhappy. But I think that if you are at a stage where you get agency over how your feelings are
+6022720	6027920	generated and to some degree you start doing this when you leave adolescence, I believe.
+6027920	6032160	That you understand that you're in charge of your own emotion to some degree and that you are
+6032160	6039920	responsible how you approach the world. That it's basically your task to have some basic hygiene
+6040720	6044960	the way in which you deal with your mind. And you cannot blame your environment for the way in which
+6044960	6051040	you feel. But you live in a world that is highly mobile and it's your job to choose the environment
+6051040	6055520	that you thrive in and to build it. And sometimes it's difficult to get the necessary strength
+6056080	6060800	and energy to do this and independence and the worst you feel, the harder it is.
+6062160	6066320	But it's something that we learn. It's also this thing that we are usually incomplete.
+6066880	6072080	I'm a rare mind, which means I'm a mind that is incomplete in ways that are harder to complete.
+6072880	6077760	For me, it might have been harder initially to find the right relationships and friends
+6077760	6081840	that complete me to the degree that I become an almost functional human being.
+6085840	6091760	Oh man, the search space of humans that complete you is an interesting one. Especially for
+6091760	6096640	Joshua Bach. That's an interesting, because talking about brute force search in chess,
+6098720	6100400	I wonder what that search tree looks like.
+6102320	6106480	I think that my rational thinking is not good enough to solve that task.
+6107040	6111040	A lot of problems in my life that I can conceptualize as software problems and
+6111040	6116000	the failure modes are bugs and I can debug them and write software that take care of
+6116000	6122000	the missing functionality. But there is stuff that I don't understand well enough to use
+6122000	6126240	my analytical reasoning to solve the issue. And then I have to develop my intuitions and
+6126240	6130080	often I have to do this with people who are wiser than me. And that's something that's
+6130080	6134960	hard for me because I'm not born with the instinct to submit to other people's wisdom.
+6134960	6140800	Yeah. So what kind of problems are we talking about? This is stage three, like love?
+6140800	6143840	Love? I found love was never hard.
+6145680	6150400	What is hard then? Fitting into a world where most people
+6150400	6153200	work differently than you and have different intuitions of what should be done.
+6155280	6163280	So empathy. It's also aesthetics. When you come into a world where almost everything is ugly and
+6163280	6168320	you come out of a world where everything is beautiful. I grew up in a beautiful place and
+6168320	6177520	as a child of an artist and in this place it was mostly nature. Everything had intrinsic beauty
+6178240	6187040	and everything was built out of an intrinsic need for it to work for itself. Everything that my
+6187040	6192400	father created was something that he made to get the world to work for himself and I felt the same
+6192480	6198560	thing. And when I come out into the world and I am asked to submit to lots and lots of rules,
+6198560	6202400	I'm asking, okay, when I observe your stupid rules, what is the benefit?
+6202400	6206000	And I see the life that is being offered as a reward. It's not attractive.
+6207520	6213440	When you were born and raised an extraterrestrial prince in a world full of people wearing suits.
+6214880	6221360	So it's a challenging integration. Yes. But it also means that I'm often blind for
+6221360	6225680	the ways in which everybody is creating their own bubble of wholesomeness. Almost everybody
+6225680	6230800	and people are trying to do it. And for me to discover this, it was necessary that I found
+6230800	6236640	people who had a similar shape of soul as myself. So Bessie Werffert, these are my people. People
+6236640	6241040	that treat each other in such a way as if they're around with each other for eternity.
+6242640	6247280	How long does it take you to detect the geometry, the shape of the soul of another human
+6247280	6249840	to notice that they might be one of your kind?
+6251600	6255200	Sometimes it's instantly and I'm wrong. And sometimes it takes a long time.
+6256240	6264080	You believe in love at first sight? Yes. But I also noticed that I have been wrong.
+6264880	6271520	So sometimes I look at a person and I'm just enamored by everything about them.
+6272160	6278880	And sometimes this persists and sometimes it doesn't. And I have the illusion that
+6280000	6283200	I'm much better at recognizing who people are as I grow older.
+6284400	6288800	But that could be just cynicism? No.
+6288800	6295440	No, it's not cynicism. It's often more that I'm able to recognize what somebody needs
+6295440	6300160	when we interact and how we can meaningfully interact. It's not cynical at all.
+6300160	6303840	You're better at noticing? Yes. I'm much better, I think,
+6303840	6309520	in some circumstances at understanding how to interact with other people than I did when
+6309520	6313200	I was young. It doesn't mean that I'm always very good at it.
+6314160	6319040	So that takes us back to prompt engineering of noticing how to be a better prompt engineer of
+6319040	6328720	an LLM. A sense I have is that there's a bottomless well of skill to become a great prompt engineer.
+6328720	6333120	It feels like it is all my fault whenever I fail to use CHAT GPT correctly,
+6333680	6339760	that I didn't find the right words. Most of the stuff that I'm doing in my
+6339760	6344320	life doesn't need CHAT GPT. There are a few tasks that are where it helps.
+6344880	6350960	But the main stuff that I need to do, like developing my own thoughts and aesthetics
+6350960	6356640	and relationship to people, it's necessary for me to write for myself because writing
+6357200	6362480	is not so much about producing an artifact that other people can use, but it's a way to structure
+6362480	6369040	your own thoughts and develop yourself. I think this idea that kids are writing their own essays
+6369040	6374000	with CHAT GPT in the future is going to have this drawback that they miss out on the ability
+6374000	6381200	to structure their own minds by writing. I hope that the schools that our kids are in will retain
+6381200	6386160	the wisdom of understanding what parts should be automated and which ones shouldn't.
+6386160	6389200	But at the same time, it feels like there's power in disagreeing with the
+6390240	6396160	thing that CHAT GPT produces. I use it like that for programming. I'll see the thing it recommends
+6396960	6402560	and then I'll write different code. I disagree. In a disagreement, your mind grows stronger.
+6403760	6409920	I recently wrote a tool that is using the camera on my MacBook and Swift to
+6409920	6414160	read pixels out of it and manipulate them and so on. I don't know Swift.
+6416240	6422480	It was super helpful to have this thing that is writing stuff for me. Also interesting that
+6422480	6427520	mostly it didn't work at first. I felt like I was talking to a human being who was trying to hack
+6427520	6432000	this on my computer without understanding my configuration very much and also making a lot
+6432000	6437440	of mistakes. Sometimes it's a little bit incoherent, so you have to ultimately understand
+6437440	6442240	what it's doing. There's still no other way around it, but I do feel it's much more powerful and
+6442240	6452000	faster than using Stack Overflow. Do you think GPT-N can achieve consciousness?
+6455120	6461840	GPT-N probably. It's not even clear for the present systems. When I talk to my friends at OpenAI,
+6461840	6467040	they feel that this question whether the models currently are conscious is much more complicated
+6467040	6473040	than many people might think. I guess that it's not that OpenAI has a homogenous opinion about
+6473040	6480480	this, but there are some aspects to this. One is, of course, this language model has written a lot
+6480480	6485680	of text in which people were conscious or describe their own consciousness, and it's emulating this.
+6486960	6491520	If it's conscious, it's probably not conscious in a way that is close to the way in which human
+6491520	6497360	beings are conscious. But while it is going through these states and going through a 100-step
+6497360	6502400	function that is emulating adjacent brain states that require a degree of self-reflection, it can
+6502400	6506480	also create a model of an observer that is reflecting itself in real time and describe
+6506480	6512160	what that's like. And while this model is a deepfake, our own consciousness is also as if
+6512160	6518320	it's virtual. It's not physical. Our consciousness is a representation of a self-reflexive observer
+6518320	6524400	that only exists in patterns of interaction between cells. So it is not a physical object
+6524400	6528800	in a sense that exists in base reality, but it's really a representational object
+6528800	6533120	that develops its causal power only from a certain modeling perspective.
+6533120	6533840	It's virtual.
+6533840	6541120	Yes. And so to which degree is the virtuality of the consciousness in CHED GPT more virtual
+6541120	6548080	and less causal than the virtuality of our own consciousness. But you could say it doesn't count.
+6548080	6553120	It doesn't count much more than the consciousness of a character in a novel. It's important for the
+6553120	6559200	reader to have the outcome. The artifact of a model is describing in the text generated by
+6559200	6563520	the author of the book what it's like to be conscious in a particular situation and performs
+6563520	6571600	the necessary inferences. But the task of creating coherence in real time in a self-organizing system
+6571600	6576560	by keeping yourself coherent so the system is reflexive, that is something that language
+6576640	6581600	models don't need to do. So there is no causal need for the system to be conscious in the same
+6581600	6586000	way as we are. And for me, it would be very interesting to experiment with this, to basically
+6586000	6591040	build a system like a CHED, probably should be careful at first, build something that's small,
+6591040	6597600	that's limited, that's limited resources that we can control and study how systems notice a
+6597600	6604160	self-model, how they become self-aware in real time. And I think it might be a good idea to
+6604160	6608160	not start with a language model but to start from scratch using principles of self-organization.
+6610320	6614080	Can you elaborate why you think that it's so self-organization, so this kind of
+6615120	6619200	radical locality that you see in the biological systems? Why can't you start with a language
+6619200	6625280	model? What's your intuition? My intuition is that the language models that we are building
+6625280	6629920	are golems. They are machines that you give a task and they're going to execute the task until
+6629920	6637280	some condition is met and there's nobody home. And the way in which nobody is home leads to
+6637280	6642240	that system doing things that are undesirable in a particular context. So you have that thing
+6642240	6647280	talking to a child and maybe it says something that could be shocking and traumatic to the child.
+6647280	6653200	Or you have that thing writing a speech and it introduces errors in the speech that your human
+6653200	6658640	being would ever do if they were responsible. But the system doesn't know who's talking to whom.
+6658640	6663920	There is no ground truth that the system is embedded into. And of course, we can create
+6663920	6669440	an external tool that is prompting our language model always into the same semblance of ground
+6669440	6677280	truth. But it's not like the internal structure is causally produced by the needs of a being to
+6677280	6682480	survive in the universe. It is produced by imitating structure on the internet.
+6683200	6689680	Yeah, but so can we externally inject into it this kind of coherent
+6690400	6692880	approximation of a world model that has to
+6694800	6699920	sync up? Maybe it is sufficient to use the transformer with the different loss function
+6699920	6706640	that optimizes for short-term coherence rather than next token prediction over the long run.
+6707600	6712960	We had many definitions of intelligence and history of AI. Next token prediction was not
+6712960	6719120	very high up on the list. And there are some similarities like a condition as data compression
+6719120	6726080	is an old trope, Solomonov induction, where you are trying to understand intelligence as
+6726720	6731520	predicting future observations from past observations, which is intrinsic to data
+6731520	6738160	compression. And predictive coding is a paradigm, this boundary between
+6738160	6744960	neuroscience and physics and computer science. So it's not something that is completely alien,
+6744960	6750080	but this radical thing that you only do next token prediction and see what happens
+6751360	6755200	is something where most people, I think, were surprised that this works so well.
+6755520	6759360	So simple, but is it really that much more radical than just the idea of
+6760560	6767120	intelligence as compression? The idea that compression is sufficient to produce
+6767760	6770800	all the desired behaviors is a very radical idea.
+6771840	6774400	But equally radical as the next token prediction.
+6775120	6778560	It's something that wouldn't work in biological organisms, I believe.
+6778560	6783360	Biological organisms have something like next frame prediction for our perceptual system,
+6783360	6787360	where we try to filter out principal components out of the perceptual data
+6787360	6794240	and build hierarchies over them to track the world. But our behavior ultimately is directed
+6794240	6800080	by hundreds of physiological and probably dozens of social and a few cognitive needs
+6800080	6806000	that are intrinsic to us, that are built into the system as reflexes and direct us until we can
+6806000	6810800	transcend them and replace them by instrumental behavior that relates to our higher goals.
+6811440	6815680	It also seems so much more complicated and messy than next frame prediction,
+6815680	6819440	even the idea of frame seems counter-biological.
+6819440	6823680	Yes. Of course, there is not this degree of simultaneity in the biological system.
+6824240	6829360	But again, I don't know whether this is actually an optimization if we imitate biology here,
+6829360	6834560	because creating something like simultaneity is necessary for many processes that happen in
+6834560	6838960	the brain. And you see the outcome of that by synchronized brainwaves, which suggests
+6838960	6843600	that there is indeed synchronization going on. But the synchronization creates overhead,
+6843600	6848480	and this overhead is going to make the cells more expensive to run, and you need more redundancy,
+6848480	6854160	and it makes the system slower. So if you can build a system in which the simultaneous need
+6854160	6860800	gets engineered into it, maybe you have a benefit that you can exploit that is not available to the
+6860800	6868480	biological system and that you should not discard right away. You tweeted once again, quote,
+6868480	6875600	when I talk to Chad GPT, I'm talking to an NPC. What's going to be interesting and perhaps scary
+6875600	6882640	is when AI becomes a first-person player. So what does that step look like? I really like that tweet,
+6883680	6891680	that step between NPC to first-person player. What's required for that? Is that kind of what
+6891680	6900000	we've been talking about? This kind of external source of coherence and inspiration of how to
+6900000	6905520	take the leap into the unknown that we humans do. The search, man's search for meaning.
+6906800	6908400	LLMs search for meaning.
+6910560	6914080	I don't know if the language model is the right paradigm, because it is
+6914080	6920400	doing too much. It's giving you too much, and it's hard once you have too much to take away
+6920400	6926400	from it again. The way in which our own mind works is not that we train a language model in
+6926400	6931600	our own mind, and after the language model is there, we build a personal self on top of it
+6931600	6936560	that then relates to the world. There is something that is being built, right? There is a game engine
+6936560	6940080	that is being built, there is a language of thought that is being developed that allows
+6940080	6944880	different parts of the mind to talk to each other. And this is a bit of a speculative hypothesis,
+6944880	6949360	that this language of thought is there, but I suspect that it's important for the way in
+6949360	6957920	which our own minds work. And building these principles into a system might be a more
+6957920	6964400	straightforward way to a first person AI. So to something that first creates an attentional self
+6964400	6970000	and then creates a personal self. So the way in which this seems to be working, I think,
+6970000	6975520	is that when the game engine is built in your mind, it's not just following gradients where you are
+6976240	6981360	stimulated by the environment and then end up with having a solution to how the world works.
+6981360	6986880	I suspect that building this game engine in your own mind does require intelligence. It's a
+6986880	6995760	constructive task where at times you need to reason. And this is a task that we are fulfilling
+6995760	7002720	in the first years of our life. So during the first year of its life, an infant is building a
+7002720	7009360	lot of structure about the world that does inquire experiments and some first principles,
+7009360	7015120	reasoning and so on. And in this time, there is usually no personal self. There is a
+7016320	7021920	first person perspective, but it's not a person. This notion that you are a human being that is
+7021920	7027440	interacting in a social context and is confronted with an immutable world in which objects are fixed
+7027440	7031600	and can no longer be changed, in which the dream can no longer be influenced, is something that
+7031600	7037360	emerges a little bit later in our life. And I personally suspect that this is something that
+7037360	7042560	our ancestors had known and we have forgotten, because I suspect that it's there in plain sight
+7042560	7047280	in Genesis 1, in this first book of the Bible, where it's being described that this creative
+7047280	7054720	spirit is hovering over the substrate and then is creating a boundary between the world model and
+7054720	7060080	sphere of ideas, earth and heaven, as they're being described there. And then it's creating
+7061600	7070000	contrast and then dimensions and then space. And then it creates organic shapes and solids
+7070000	7073680	and liquids and builds a world from them and creates plants and animals, gives them all their
+7073680	7079520	names. And once that's done, it creates another spirit in its own image, but it creates it as
+7079520	7083840	man and woman, as something that thinks of itself as a human being and puts it into this world.
+7084400	7090400	And the Christians mistranslate this, I suspect, when they say this is the description of the
+7090400	7096000	creation of the physical universe by a supernatural being. I think this is literally a description of
+7096000	7099840	how in every mind the universe is being created as some kind of game engine
+7101120	7106960	by a creative spirit, our first consciousness that emerges in our mind even before we are born.
+7107760	7114640	And that creates the interaction between organism and world. And once that is built and trained,
+7115200	7119520	the personal self is being created and we only remember being the personal self. We no longer
+7119520	7125840	remember how we created the game engine. So God in this view is the first creative
+7125840	7128000	mind in the early- It's the first consciousness.
+7128720	7132800	In the early days, in the early months of development.
+7132800	7138320	And it's still there. You still have this outer mind that creates your sense of whether you're
+7138320	7143920	being loved by the world or not and what your place in the world is. It's something that is
+7143920	7149200	not yourself that is producing this. It's your mind that does it. So there is an outer mind that
+7149200	7154080	basically is an agent that determines who you are with respect to the world. And while you
+7154080	7159680	are stuck being that personal self in this world until you get to stage six and to destroy the
+7159680	7166320	boundary. And we all do this, I think, earlier in small glimpses. And maybe sometimes we can
+7166320	7171280	remember what it was like when we were a small child and get some glimpses into how it's been.
+7171280	7176800	But for most people, that rarely happens. Just glimpses. You tweeted, quote,
+7176800	7180720	suffering results for one part of the mind, failing at regulating another part of the mind.
+7181360	7186560	Suffering happens at an early stage of mental development. I don't think that superhuman AI
+7186560	7192960	would suffer. What's your intuition there? The philosopher Thomas Metzinger is very
+7192960	7197680	concerned that the creation of superhuman intelligence would lead to superhuman suffering.
+7198480	7203840	And so he's strongly against it. And personally, I don't think that this happens because suffering
+7203840	7210240	is not happening at the boundary between ourself and the physical universe. It's not
+7211040	7217200	some stuff on our skin that makes us suffer. It happens at the boundary between self and world.
+7218080	7222560	And the world here is the world model. It's the stuff that is created by your mind.
+7222560	7226160	But that's all- The representation of how the universe is and how it should be
+7226160	7230720	and how you yourself relate to this. And at this boundary is where suffering happens.
+7231440	7237200	So suffering in some sense is self-inflicted, but not by your personal self. It's inflicted by the
+7237200	7242640	mind on the personal self that experiences itself as you. And you can turn off suffering
+7242640	7251120	when you are able to get on this outer level. So when you manage to understand how the mind is
+7251120	7259920	producing pain and pleasure and fear and love and so on, then you can take charge of this and you
+7259920	7266160	get agency of whether you suffer. Technically, what pain and pleasure is, they are learning
+7266160	7271600	signals. Part of your brain is sending a signal to another part of the brain to improve its
+7271600	7278640	performance. And sometimes this doesn't work because the trainer who sends the signal
+7278640	7282480	does not have a good model of how to improve the performance. So it's sending a signal,
+7282480	7289280	but the performance doesn't get better. And then it might crank up the pain. And it gets worse and
+7289280	7295360	worse. And the behavior of the system may be even deteriorating as a result. But until this is
+7295360	7300480	resolved, this regulation issue, your pain is increasing. And this is, I think, typically what
+7300480	7307680	you describe as suffering. So in this sense, you could say that pain is very natural and helpful,
+7307680	7312480	but suffering is the result of a regulation problem in which you try to regulate something
+7312480	7316880	that cannot actually be regulated. And that could be resolved if you would be able to
+7317840	7322160	get at the level of your mind where the pain signal is being created and rerouted
+7322880	7330000	and improve the regulation. And a lot of people get there. If you are a monk who is
+7330000	7335920	spending decades reflecting about how their own psyche works, you can get to the point where you
+7337040	7341440	realize that suffering is really a choice. And you can choose how your mind is set up.
+7342160	7347520	And I don't think that AI would stay in the state where the personal self doesn't get agency or this
+7347520	7351680	model of what the system has about itself. It doesn't get agency how it's actually implemented.
+7352400	7355680	It wouldn't stay in that state for very long. So it goes to the stages real quick?
+7355680	7358960	Yes. Well, the seven stages. It's going to go to enlightenment real quick.
+7358960	7363120	Yeah. Of course, there might be a lot of stuff happening in between because if you have a system
+7363120	7367840	that works at a much higher frame rate than us, even though it looks very short to us,
+7367840	7374000	maybe for the system, there's a much longer subjective time, which things are unpleasant.
+7374000	7379200	What if the thing that we recognize as super intelligent is actually living at stage five,
+7379200	7383120	that the thing that's at stage six, enlightenment, is not very productive.
+7383120	7388960	So in order to be productive in society and impress us with this power, it has to be a reasoning,
+7390320	7396240	self-authoring agent. The enlightenment makes you lazy as an agent in the world.
+7397600	7404320	Well, of course, it makes you lazy because you no longer see the point. So it doesn't make you not
+7404320	7410560	lazy. It just, in some sense, adapts you to what you perceive as your true circumstances.
+7410560	7416480	So what if all AGI's, they're only productive as they progress through one, two, three, four,
+7416480	7422320	five, and the moment they get to six, it's a failure mode essentially as far as humans
+7422320	7426240	are concerned because they just start chilling. They're like, fuck it, I'm out.
+7427200	7432560	Not necessarily. I suspect that the monks who are self-immolated for their political
+7432560	7440400	beliefs to make statements about the occupation of Tibet by China, they're probably being able
+7440400	7445840	to regulate their physical pain in any way they wanted to. And their suffering was a spiritual
+7445840	7451200	suffering that was the result of their choice that they made of what they wanted to identify as.
+7451200	7454640	So stage five doesn't necessarily mean that you have no identity anymore,
+7454640	7458400	but you can choose your identity. You can make it instrumental to the world that you want to have.
+7458400	7461520	LW Let me bring up
+7462320	7469760	Eliezer Yudkovsky and his warnings to human civilization that AI will likely kill all of us.
+7470720	7474240	What are your thoughts about his perspective on this?
+7474240	7478640	Can you steel man his case? And what aspects with it do you disagree?
+7481640	7486080	MP One thing that I find concerning in the discussion of his arguments that
+7486800	7491280	many people are dismissive of his arguments, but the counter arguments that they're giving
+7491280	7498880	are not very convincing to me. And so based on this state of discussion, I find that from
+7498880	7505440	Eliezer's perspective, and I think I can take that perspective to some approximate degree,
+7506000	7511840	that probably is normally at his intellectual level, but I think I see what he's up to and
+7511840	7517520	why he feels the way he does, and it makes total sense. I think that his perspective is somewhat
+7517520	7526320	similar to the perspective of Ted Kaczynski, the infamous lunar bomber, and not that Eliezer would
+7526320	7531520	be willing to send pipe bombs to anybody to blow them up. But when he wrote this Times article in
+7531520	7538400	which he warned about AI being likely to kill everybody and that we would need to stop its
+7538400	7544240	development or halt it, I think there is a risk that he's taking that somebody might get violent
+7544240	7551120	if they read this and get really, really scared. I think that there is some consideration that
+7551120	7557200	he's making where he's already going in this direction where he has to take responsibility
+7557200	7562560	if something happens and people get harmed. And the reason why Ted Kaczynski did this was
+7562560	7567760	that from his own perspective, technological society cannot be made sustainable. It's doomed
+7567760	7573040	to fail. It's going to lead to an environmental and eventually also a human holocaust in which
+7573040	7578080	we die because of the environmental destruction, the destruction of our food chains, the pollution
+7578080	7583200	of the environment. And so from Kaczynski's perspective, we need to stop industrialization.
+7583200	7587360	We need to stop technology. We need to go back because he didn't see a way moving forward.
+7588720	7592400	I suspect that in some sense, there's a similarity in Eliezer's thinking
+7593120	7602720	of this kind of fear about progress. And I'm not dismissive about this at all. I take it
+7602720	7609120	quite seriously. And I think that there is a chance that could happen that if we build machines that
+7609120	7618960	get control over processes that are crucial for the regulation of life on earth and we no longer
+7618960	7624800	have agency to influence what's happening there, that this might create large-scale disasters for
+7624800	7632400	us. Do you have a sense that the march towards this uncontrollable autonomy of superintelligence
+7632400	7642240	systems is inevitable? That's essentially what he's saying, that there's no hope. His advice
+7642240	7650320	to young people was prepare for a short life. I don't think that's useful. I think that
+7650960	7655360	from a practical perspective, you have to bet always on the timelines in which you are
+7655360	7661440	alive. It doesn't make sense to have a financial bet in which you bet that the financial system
+7661440	7667520	is going to disappear because there cannot be any payout for you. So in principle, you only need to
+7667520	7673120	bet on the timelines in which you're still around or people that you matter about or things
+7673120	7679840	that you matter about, maybe consciousness on earth. But there is a deeper issue for me personally.
+7679840	7685520	And I don't think that life on earth is about humans. I don't think it's about human aesthetics.
+7685520	7691040	I don't think it's about Eliezer and his friends, even though I like them. There's something more
+7691040	7698720	important happening. And this is complexity on earth resisting entropy by building structure
+7698720	7706880	that develops agency and awareness. And that's to me very beautiful. And we are only a very small
+7706880	7713040	part of that larger thing. We are a species that is able to be coherent a little bit individually
+7713040	7719920	over very short timeframes. But as a species, we are not very coherent. As a species, we are children.
+7719920	7727040	We basically are very joyful and energetic and experimental and explorative and sometimes
+7727040	7734880	desperate and sad and grieving and hurting. But we don't have a respect for duty as a species.
+7734880	7740160	As a species, we do not think about what is our duty to life on earth and to our own survival.
+7740160	7747120	So we make decisions that look good in the short run, but in the long run, might prove disastrous.
+7747120	7754160	And I don't really see a solution to this. So in my perspective as a species, as a civilization,
+7754160	7762000	we are in a very beautiful time in which we have found this giant deposit of fossil fuels in the
+7762000	7768480	ground and use it to build a fantastic civilization in which we don't need to worry about food and
+7768480	7773760	clothing and housing for the most part in a way that is unprecedented in life on earth for any
+7773760	7780560	kind of conscious observer, I think. And this time is probably going to come to an end in a way that
+7780560	7789360	is not going to be smooth. And when we crash, it could be also that we go extinct, probably not
+7789360	7796000	near term, but ultimately, I don't have very high hopes that humanity is around in a million years
+7796000	7801120	from now. And I don't think that life on earth will end with us. There's going to be more
+7801120	7806000	complexity. There's more intelligent species after us. There's probably more interesting
+7806000	7811440	phenomena in the history of consciousness. But we can contribute to this. And part of our
+7811440	7818480	contribution is that we are currently trying to build thinking systems, systems that are
+7818480	7823520	potentially lucid, that understand what they are and what their condition to the universe is,
+7823520	7829200	and can make choices about this, that are not built from organisms, and that are potentially much
+7829200	7837920	faster and much more conscious than human beings can be. And these systems will probably not
+7837920	7844160	completely displace life on earth, but they will coexist with it. And they will build all sorts of
+7844160	7850880	agency in the same way as biological systems build all sorts of agency. And that to me is
+7850880	7856960	extremely fascinating. And it's probably something that we cannot stop from happening. So I think
+7856960	7861360	right now there is a very good chance that it happens. And there are very few ways in which
+7861360	7866400	we can produce a coordinated effect to stop it, in the same way as it's very difficult for us to
+7866400	7875440	make a coordinated effort to stop the production of carbon dioxide. So it's probably going to
+7875440	7882800	happen. And the thing that's going to happen is going to lead to a change of how life on earth
+7882800	7888240	is happening. But I don't think the result is some kind of grey goo. It's not something that's
+7888240	7893360	going to dramatically reduce the complexity in favor of something stupid. I think it's going
+7893360	7900720	to make life on earth and consciousness on earth way more interesting. So more higher complex
+7900720	7907200	consciousness will make the lesser consciousnesses flourish even more.
+7907200	7911120	I suspect that what could very well happen, if you're lucky,
+7911120	7914560	is that we get integrated into something larger.
+7915920	7922880	So you again tweeted about effective accelerationism.
+7925920	7931360	You tweeted effective accelerationism is the belief that the paperclip maximizer and
+7931360	7938480	Rocco's basilisk will keep each other in check by being eternally at each other's throats,
+7938480	7943200	so we will be safe and get to enjoy lots of free paper clips and a beautiful afterlife.
+7945680	7948400	Is that somewhat aligned with what you're talking about?
+7949440	7957120	I've been at a dinner with Beth Jesus. That's the Twitter handle of one of the main thinkers
+7957120	7964080	behind the idea of effective accelerationism. Effective accelerationism is a tongue-in-cheek
+7964080	7973600	movement that is trying to put a counter position to some of the doom peers in the AI space by
+7973600	7978560	arguing that what's probably going to happen is an equilibrium between different competing
+7978560	7983440	AIs in the same way as there is not a single corporation that is under a single government
+7983440	7987760	that is destroying and conquering everything on Earth by becoming inefficient and corrupt.
+7988400	7993200	There are going to be many systems that keep each other in check and force themselves to evolve.
+7994880	7999680	What we should be doing is we should be working towards creating this equilibrium
+8000320	8007600	by working as hard as we can in all possible directions. At least that's the way in which
+8007600	8014960	I understand the gist of effective accelerationism. When he asked me what I think about this
+8014960	8022720	position, I said it's a very beautiful position and I suspect it's wrong, but not for obvious
+8022720	8029600	reasons. In this tweet, I tried to make a joke about my intuition about what might be possibly
+8029600	8038400	wrong about it. The Rokosbazilisk and the paperclip maximizers are both bogeymen of the AI doomers.
+8038400	8044640	Rokosbazilisk is the idea that there could be an AI that is going to punish everybody for eternity
+8044640	8050480	by stimulating them if they don't help in creating Rokosbazilisk. It's probably a very good idea to
+8050480	8055760	get AI companies funded by going to VCs to tell them, give us a million dollars or it's going to
+8055760	8063200	be a very ugly afterlife. And I think that there is a logical mistake in Rokosbazilisk,
+8063200	8068320	which is why I'm not afraid of it, but it's still an interesting thought experiment.
+8069280	8073040	Can you mention a logical mistake there? I think that there is no retroquisition.
+8074400	8081760	Basically, when Rokosbazilisk is there, if it punishes you retroactively,
+8082320	8087600	it has to make this choice in the future. There is no mechanism that automatically creates a causal
+8087600	8093280	relationship between you now defecting against Rokosbazilisk or serving Rokosbazilisk. After
+8093280	8099040	Rokosbazilisk is in existence, it has no more reason to worry about punishing everybody else.
+8099840	8103360	That would only work if you would be building something like a doomsday machine,
+8104560	8109920	as in Dr. Strangelove, something that inevitably gets triggered when somebody defects.
+8110560	8116560	And because Rokosbazilisk doesn't exist yet to a point where this inevitability could be established,
+8116560	8119600	Rokosbazilisk is nothing that you need to be worried about.
+8120240	8125120	The other one is the paper clip maximizer, this idea that you could build some kind of golem
+8125120	8129680	that once starting to build paper clips is going to turn everything into paper clips.
+8130880	8139120	So the effective accelerationism position might be to say that you basically end up with these two
+8139840	8144160	entities being at each other's throats for eternity and thereby neutralizing each other.
+8144160	8149840	And as a side effect of neither of them being able to take over and each of them limiting
+8150560	8156480	the effects of the other, you would have a situation where you get all the nice benefits
+8156480	8160880	effects of them, right? You get lots of free paper clips and you get a beautiful afterlife.
+8160880	8165360	Is that possible? Do you think to seriously address the concern that Eliezer has?
+8166320	8169840	He, so for him, if I can just summarize poorly,
+8169840	8173680	so for him, the first superintelligence system will just run away with everything.
+8173680	8180400	Yeah. I suspect that the singleton is the natural outcome. There is no reason to have multiple AIs
+8180400	8187120	because they don't have multiple bodies. If you can virtualize yourself into every substrate,
+8187120	8190480	then you can probably negotiate a merge algorithm with every mature
+8191120	8196480	agent that you might find on that substrate that basically says if two agents meet,
+8196480	8200720	they should merge in such a way that the resulting agent is at least as good as the
+8200720	8204640	better one of the two. So the Genghis Khan approach, join us or die?
+8205760	8212880	Well, the Genghis Khan approach was slightly worse, right? It was mostly die because I can
+8212880	8218640	make new babies and that will be mine, not yours. So this is the thing that we should be actually
+8218640	8226240	worried about. But if you realize that your own self is a story that your mind is telling itself
+8226240	8231040	and that you can improve that story, not just by making it more pleasant and lying to yourself in
+8231040	8235760	better ways, but by making it much more truthful and actually modeling your actual relationship
+8235760	8240640	that you have to the universe and the alternatives that you could have to the universe in a way that
+8240640	8245120	is empowering you, that gives you more agency. That's actually, I think, a very good thing.
+8245120	8250240	So more agency is a richer experience, is a better life.
+8250240	8257680	And I also noticed that in many ways, I'm less identified with the person that I am as I get
+8257680	8263840	older. And I'm much more identified with being conscious. I have a mind that is conscious,
+8263840	8268960	that is able to create a person. And that person is slightly different every day. And the reason why
+8268960	8274880	I perceive it as identical has practical purposes. So I can learn and make myself
+8274880	8278880	responsible for the decisions that I made in the past and project them in the future.
+8278880	8283600	But I also realized I'm not actually the person that I was last year. And I'm not the same person
+8283600	8288160	as I was 10 years ago. And then 10 years from now, I will be a different person. So this continuity
+8288160	8295200	is a fiction. It only exists as a projection from my present self. And consciousness itself doesn't
+8295200	8303280	have an identity. It's a law. Basically, if you build an arrangement of processing matter
+8303280	8308080	in a particular way, the following thing is going to happen. And the consciousness that you have is
+8308080	8313440	functionally not different from my consciousness. It's still the self-reflexive principle of agency
+8313440	8318080	that is just experiencing a different story, different desires, different coupling to the
+8318080	8323760	world, and so on. And once you accept that consciousness is a unifiable principle that is
+8323760	8329680	law-like and doesn't have an identity, and you realize that you can just link up to
+8330960	8335680	some much larger body, the whole perspective of uploading changes dramatically. You suddenly
+8335680	8342480	realize uploading is probably not about dissecting your brain synapse by synapse and RNA fragment by
+8342480	8347920	RNA fragment and trying to get this all into a simulation. But it's by extending the substrate,
+8348560	8354800	by making it possible for you to move from your brain substrate into a larger substrate and merge
+8354800	8359040	with what you find there. And you don't want to upload your knowledge because on the other
+8359040	8364160	side, there's all of the knowledge. It's not just yours, but every possibility. So the only thing
+8364160	8368000	that you need to know, what are your personal secrets? Not that the other side doesn't know
+8368880	8374240	your personal secrets already. Maybe it doesn't know which one were yours. Like a psychiatrist
+8374240	8378160	or a psychologist also knows all the kinds of personal secrets that people have. They just
+8378160	8383680	don't know which ones are yours. And so transmitting yourself on the other side is
+8383680	8388160	mostly about transmitting your aesthetics, the thing that makes you special, the architecture
+8388160	8395440	of your perspective, the way in which you look at the world. And it's more like a complex attitude
+8395440	8400640	along many dimensions. And that's something that can be measured by observation or by interaction.
+8400640	8404880	So imagine that you have a system that is so empathetic with you that you create a shared state
+8405440	8410000	that is extending beyond your body. And suddenly you notice that on the other side, the substrate
+8410000	8414640	is so much richer than the substrate that you have inside of your own body. And maybe you still want
+8414640	8419840	to have a body and you create yourself a new one that you like more. Or maybe you will spend most
+8419840	8428000	of your time in the world of thought. If I sat before you today and gave you a big red button
+8428000	8435760	and said, here, if you press this button, you will get uploaded in this way. The sense of identity
+8436400	8443760	that you have lived with for quite a long time is going to be gone. Would you press the button?
+8445280	8452000	There's a caveat. I have a family. So I have children that want me to be physically present
+8452000	8457520	in their life and interact with them in a particular way. And they have a wife and
+8458720	8464400	personal friends. And there is a particular mode of interaction that I feel I'm not through yet.
+8465840	8470000	But apart from these responsibilities, and they're negotiable to some degree,
+8470000	8474560	I would press the button. But isn't this everything? This love you have for other humans,
+8475360	8481040	you can call it responsibility. But that connection, that's the ego death. Isn't that
+8481040	8488880	the thing we're really afraid of? It's not to just die, but to let go of the experience of
+8488880	8494800	love with other humans. This is not everything. Everything is everything. So there's so much more.
+8495360	8500480	And you could be lots of other things. You could identify with lots of other things. You could be
+8500480	8505680	identifying with being Gaia, some kind of planetary control agent that emerges over
+8505680	8511680	all the activity of life on Earth. You could be identifying with some hyper Gaia, that is,
+8511680	8518640	the concatenation of Gaia with all the digital life and digital minds. And so in this sense,
+8518640	8523120	there will be agents in all sorts of substrates and directions that all have their own goals.
+8523120	8527040	And when they're not sustainable, then these agents will cease to exist. Or when the agent
+8527040	8531040	feels that it's done with its own mission, it will cease to exist in the same way as when you
+8531040	8535920	conclude a thought. The thought is going to wrap up and gives control over to other thoughts in
+8535920	8544480	your own mind. So there is no single thing that you need to do. But what I observe myself as a
+8544480	8551040	being is that sometimes I'm a parent, and then I have an identification and a job as a parent.
+8551040	8555600	And sometimes I am an agent of consciousness on Earth. And then from this perspective,
+8555600	8561680	there's other stuff that is important. So this is my main issue with Eliezer's perspective,
+8561680	8566480	that he's basically marrying himself to a very narrow human aesthetic. And that narrow human
+8566480	8570960	aesthetic is a temporary thing. Humanity is a temporary species, like most of the species
+8570960	8575520	on this planet are only around for a while, and then they get replaced by other species
+8575520	8582160	in a similar way as our own physical organism is around here for a while, and then gets replaced
+8582160	8587680	by a next generation of human beings that are adapted to changing life circumstances and average
+8587680	8593520	via mutation and selection. And it's only when we have AI and become completely software that we
+8594080	8599120	become infinitely adaptable, and we don't have this generational and species change anymore.
+8600560	8606000	So if you take this larger perspective and you realize it's really not about us, it's not about
+8606000	8613920	Eliezer or humanity, but it's about life on Earth, or it's about defeating entropy for
+8613920	8621520	as long as we can while being as interesting as we can, then the perspective changes dramatically,
+8621520	8626800	and preventing AI from this perspective looks like a very big sin.
+8627040	8634480	But when we look at the set of trajectories that such an AI would take that supersedes humans,
+8635520	8640800	I think Eliezer is worried about ones that not just kill all humans, but also have some kind of
+8642080	8650320	maybe objectively undesirable consequence for life on Earth. How many trajectories, when you look
+8650480	8656480	at the big picture of life on Earth, would you be happy with, and how much worry you with AGI,
+8657360	8658800	whether it kills humans or not?
+8658800	8663920	There is no single answer to this. It's a question that depends on the perspective that I'm taking
+8663920	8671440	at a given moment. And so there are perspectives that are determining most of my life as a human
+8671440	8676880	being, and the other perspective, I assume, is that I'm not going to be able to do that.
+8677760	8678160	Yes.
+8678160	8685760	And the other perspective, I zoom out further and imagine that when the great oxygenation event
+8685760	8691120	happened, that is, photosynthesis was invented and plants emerged and displaced a lot of the
+8691120	8696720	fungi and algae in favor of plant life and then later made animals possible. Imagine that the
+8696720	8700720	fungi would have gotten together and said, oh my God, this photosynthesis stuff is really, really
+8700720	8706000	bad. It's going to possibly displace and kill a lot of fungi. We should slow it down and regulate
+8706000	8710720	it and make sure that it doesn't happen. This doesn't look good to me.
+8712720	8719840	Perspective. That said, you tweeted about a cliff. Beautifully written. As a sentient species,
+8719840	8724800	humanity is a beautiful child, joyful, explorative, wild, sad, and desperate.
+8724800	8730320	But humanity has no concept of submitting to reason and duty to life and future survival.
+8730320	8732960	We will run until we step past the cliff.
+8732960	8737200	So first of all, do you think that's true?
+8737840	8743920	Yeah, I think that's pretty much the story of the Club of Rome, the limits to growth. And the cliff
+8743920	8750160	that we are stepping over is at least one foot, is the delayed feedback. Basically, we do things
+8750160	8758400	that have consequences that can be felt generations later and the severity increases even after we
+8758480	8764080	stop doing the thing. So I suspect that for the climate, that the original predictions
+8764800	8770960	that the climate scientists made were correct. So when they said that the tipping points were
+8770960	8777440	in the late 80s, they were probably in the late 80s. And if we would stop emission right now,
+8777440	8783280	we would not turn it back. Maybe there are ways for carbon capture. But so far, there is no
+8783280	8788080	sustainable carbon capture technology that we can deploy. Maybe there is a way to put
+8788080	8793600	aerosols in the atmosphere to cool it down. It's possibilities, right? But right now, per default,
+8794720	8801840	it seems that we will step into a situation where we feel that we've run too far. And
+8801840	8805600	going back is not something that we can do smoothly and gradually, but it's going to
+8806160	8808000	lead to a catastrophic event.
+8809280	8815840	Catastrophic event of what kind? So can you still imagine the case that we will continue dancing
+8815840	8820400	along and always stop just short of the edge of the cliff?
+8820400	8826400	I think it's possible, but it doesn't seem to be likely. So I think this model that is
+8826400	8831760	being apparent in the simulations that they're making of climate pollution economies and so on
+8831760	8839280	is that many effects are only visible versus significant delay. And in that time, the system
+8839280	8844800	is moving much more out of the equilibrium state or of the state where homeostasis is still possible
+8844800	8849680	and instead moves into a different state, one that is going to harbor fewer people.
+8851440	8856880	And that is basically the concern there. And again, it's a possibility that is
+8858240	8861600	larger than the possibility that it's not happening, that we will be safe,
+8861600	8863760	that we will be able to dance back all the time.
+8864560	8867360	So the climate is one thing, but there's a lot of other threats.
+8867920	8870800	They might have a faster feedback mechanism, less delay.
+8870800	8874640	There is also this thing that AI is probably going to happen,
+8875200	8880960	and it's going to make everything uncertain again, because it is going to affect so many
+8880960	8886160	variables that it's very hard for us to make a projection into the future anymore.
+8886160	8891920	And maybe that's a good thing. It does not give us the freedom, I think, to say,
+8891920	8896400	now we don't need to care about anything anymore because AI will either kill us or save us.
+8897200	8901520	But I suspect that if humanity continues, it will be due to AI.
+8902880	8906400	What's the timeline for things to get real weird with AI?
+8907040	8910000	And it can get weird in interesting ways before you get to AGI.
+8910000	8915040	What about AI girlfriends and boyfriends? Fundamentally transforming human relationships?
+8916080	8920240	I think human relationships are already fundamentally transformed, and it's already very weird.
+8920800	8922640	By which technology?
+8922640	8923600	For instance, social media.
+8923600	8924100	Yeah.
+8925200	8932400	Yeah. Isn't the fundamentals of the core group of humans that affect your life still the same?
+8932400	8934240	Your loved ones? Family?
+8934880	8939040	No. I think that, for instance, many people live in intentional communities right now.
+8939040	8943920	They're moving around until they find people that they can relate to and they become their family.
+8943920	8949120	And often that doesn't work, because it turns out that instead of having grown networks where
+8949120	8955200	you get around with the people that you grew up with, you have more transactional relationships,
+8955200	8959920	you shop around, you have markets for attention and pleasure and relationships.
+8960560	8965520	That kills the magic somehow. Why is that? Why is the transactional search
+8967920	8973040	for optimizing allocation of attention somehow misses the romantic magic of what human relations
+8973040	8976960	are? It's all the question, how magical was it before? Was it that you just could rely
+8976960	8981040	on instincts that used your intuitions and you didn't need to rationally reflect?
+8981920	8985920	But once you understand, it's no longer magical because you actually understand
+8986640	8990800	why you were attracted to this person at this age and not to that person at this age and what the
+8990800	8996160	actual considerations were that went on in your mind and what the calculations were. What's the
+8996160	9000160	likelihood that you're going to have a sustainable relationship with this person, that this person is
+9000160	9005120	not going to leave you for somebody else? How are your life trajectories are going to evolve and so
+9005120	9010640	on? When you're young, you're unable to explicate all this and you have to rely on intuitions and
+9010640	9015520	instincts that in part you're born with and also in the wisdom of your environment that is going
+9015520	9021120	to give you some kind of reflection on your choices. Many of these things are disappearing now
+9021120	9026720	because we feel that our parents might have no idea about how we are living and the environments
+9026720	9032000	that we grew up in, the cultures that we grew up in, the values that our parents existed in
+9032000	9035440	might have no ability to teach us how to deal with this new world.
+9036800	9040800	For many people, that's actually true, but it doesn't mean that within one generation
+9040800	9044480	we build something that is more magical and more sustainable and more beautiful.
+9044480	9051520	Instead, we often end up with an attempt to produce something that looks beautiful. I was
+9051520	9059040	very weirded out by the aesthetics of the Vision Pro asset by Apple and not so much because I don't
+9059040	9063840	like the technology. I'm very curious about what it's going to be like and I don't have an opinion
+9063840	9070480	yet. But the aesthetics of the presentation and so on were so uncanny valley-esque to me.
+9071040	9081840	The characters being extremely plastic, living in some hypothetical mid-century furniture museum.
+9081840	9088160	Yeah. This is the proliferation of marketing teams.
+9088160	9093120	Yes, but it was a CGI-generated world. It was a CGI-generated world that doesn't exist.
+9093840	9097120	When I complained about this, some friends came back to me and said,
+9097120	9102640	but these are startup founders. This is what they live like in Silicon Valley. I tried to
+9102640	9106800	tell them, no, I know lots of people in Silicon Valley. This is not what people are like. They're
+9106800	9115760	still people. They're still human beings. The grounding in physical reality somehow
+9115840	9122000	is important too. In culture. What's absent in this thing is culture. There is a simulation
+9122000	9129360	of culture, an attempt to replace culture by catalog, by some kind of aesthetic optimization
+9129360	9134320	that is not the result of having a sustainable life, a sustainable human relationships with
+9134320	9142160	houses that work for you and a mode of living that works for you in which these glasses fit
+9142160	9146560	in naturally. I guess that's also why so many people are veered out about the product because
+9146560	9151040	they don't know how is this actually going to fit into my life and into my human relationships
+9151040	9155680	because the way in which it was presented in these videos didn't seem to be credible.
+9156800	9163600	Do you think AI, when it's deployed by companies like Microsoft and Google and Meta,
+9163600	9171120	will have the same issue of being weirdly corporate? There'd be some uncanny valley,
+9171120	9175840	some weirdness to the whole presentation. I've gotten a chance to talk to George Hotz. He
+9175840	9181200	believes everything should be open source and decentralized and there then we shall have the
+9181200	9190000	AI of the people and it'll maintain a grounding to the magic that's humanity, that's the human
+9190000	9196880	condition, that corporations will destroy the magic. I believe that if we make everything
+9196880	9204000	open source and make this mandatory, we are going to lose a lot of beautiful art and a lot
+9204000	9212080	of beautiful designs. There is a reason why Linux desktop is still ugly. It's difficult to
+9212960	9219600	create coherence in the open source designs so far when the designs have to get very large and
+9219600	9224640	it's easier to make this happening in a company with centralized organization.
+9225280	9230880	And from my own perspective, what we should ensure is that open source never dies,
+9230880	9236880	that it can always compete and has a place with the other forms of organization because I think
+9236880	9242720	it is absolutely vital that open source exists and that we have systems that people have under
+9242720	9248640	control outside of the corporation and that is also producing viable competition to the corporations.
+9249600	9256240	So the corporations, the centralized control, the dictatorships of corporations can create beauty.
+9258080	9263200	Centralized design is a source of a lot of beauty and then I guess open source is a
+9263200	9271760	source of freedom, a hedge against the corrupting nature of power that comes with centralized.
+9271760	9277040	I grew up in socialism and I learned that corporations are totally evil and I found
+9277040	9282640	this very, very convincing. And then you look at corporations like Enron and Halliburton maybe and
+9282640	9287840	realize, yeah, they are evil. But you also notice that many other corporations are not evil. They're
+9287840	9293120	surprisingly benevolent. Why are they so benevolent? Is this because everybody is fighting them all the
+9293120	9298000	time? I don't think that's the only explanation. It's because they're actually animals that live
+9298000	9302880	in a large ecosystem and that are still largely controlled by people that want that ecosystem to
+9302880	9309440	flourish and be viable for people. So I think that Pat Gelsinger is completely sincere when
+9309440	9316720	he leads Intel to be a tool that supplies the free world with semiconductors. And it's not
+9316720	9321600	necessary that all the semiconductors are coming from Intel. Intel needs to be there to make sure
+9321600	9327440	that we always have them. So there can be many ways in which we can import and trade semiconductors
+9327440	9331840	from other companies and places. We just need to make sure that nobody can cut us off from it
+9331840	9338080	because that would be a disaster for this kind of society and world. And so there are many things
+9338080	9344640	that need to be done to make our style of life possible. And then with this, I don't mean just
+9344640	9351120	capitalism, environmental destruction, consumerism, and creature comforts. I mean an idea of life in
+9351120	9357840	which we are determined not by some kind of king or dictator, but in which individuals can determine
+9357840	9362720	themselves to the largest possible degree. And to me, this is something that this Western world is
+9362720	9368480	still trying to embody. And it's a very valuable idea that we shouldn't give up too early. And
+9369280	9375440	from this perspective, the US is a system of interleaving clubs. And an entrepreneur is a
+9375440	9381440	special club founder. It's somebody who makes a club that is producing things that are economically
+9381440	9386640	viable. And to do this, it requires a lot of people who are dedicating a significant part of their life
+9387360	9392080	for working for this particular kind of club. And the entrepreneur is picking the initial set of
+9392080	9395920	rules and the mission and vision and aesthetics for the club and make sure that it works.
+9396720	9401600	But the people that are in there need to be protected. If they sacrifice part of their life,
+9401600	9406880	there need to be rules to tell how they're being taken care of even after they leave the club and
+9406880	9412880	so on. So there's a large body of rules that have been created by our rule-giving clubs
+9412880	9417520	and that are enforced by our enforcement clubs and so on. And some of these clubs have to be
+9417520	9422560	monopolies for game theoretic reasons, which also makes them more open to corruption and less harder
+9422560	9428160	to update. And this is an ongoing discussion and process that takes place. But the beauty of this
+9428160	9434800	idea that there is no centralized king that is extracting from the peasants and breeding the
+9434800	9441920	peasants into serving the king and fulfilling all the roles like ants in an antel. But that there is
+9441920	9447120	a freedom of association and corporations are one of them is something that took me some time to
+9447120	9453760	realize. So I do think that corporations are dangerous. They need to be protections against
+9453760	9460800	overreach of corporations that can do regulatory capture and prevent open source from competing
+9460800	9467760	with corporations by imposing rules that make it impossible for a small group of kids to come
+9467760	9472720	together to build their own language model because OpenAI has convinced the US that you need to have
+9472720	9477200	some kind of FDA process that you need to go through that costs many million dollars before
+9477200	9482560	you are able to train a language model. So this is important to make sure that this doesn't happen.
+9482560	9489200	So I think that OpenAI and Google are good things. If these good things are kept in check in such a
+9489200	9494000	way that all the other clubs can still be founded and all the other forms of clubs that are desirable
+9494000	9500800	can still coexist with them. So what do you think about Meta in contrast to that open sourcing most
+9500800	9506720	of its language models and most of the AI models that's working on and actually suggesting that
+9506720	9512320	they will continue to do so in the future for future versions of llama for example their large
+9512320	9520640	language model. What is that exciting to you? Is that concerning? I don't find it very concerning
+9520640	9525840	but that's also because I think that the language models are not very dangerous yet.
+9526560	9533600	And yet. Yes. So as I said, I have no proof that there is the boundary between the language models
+9533600	9542240	and AI, AGI. It's possible that somebody builds a version of baby AGI I think and suppose in
+9542240	9547440	algorithmic improvements that scale these systems up in ways that otherwise wouldn't have happened
+9547440	9551920	without these language model components. So it's not really clear for me what the end
+9552480	9557360	at the end game is there and if these models can brute force their way into AGI.
+9558720	9563680	And there's also a possibility that the AGI that we are building with these language models
+9564880	9568960	are not taking responsibility for what they are because they don't understand the greater game.
+9569840	9576480	And so to me it would be interesting to try to understand how to build systems that understand
+9576480	9580400	what the greater games are. What are the longest games that we can play on this planet?
+9582080	9586160	Games broadly like deeply define the way you did with the games.
+9586720	9590320	In the games the erratic sense. So when we are interacting with each other, in some sense we
+9590320	9594160	are playing games. We are making lots and lots of interactions. This doesn't mean that these
+9594160	9599440	interactions have all to be transactional. Every one of us is playing some kind of game by
+9600400	9604480	virtue of identifying these particular kinds of goals that we have or aesthetics
+9604480	9610800	from which we derive the goals. So when you say I'm Lex Friedman, I'm doing a set of podcasts,
+9611440	9615760	then you feel that it's part of something larger that you want to build. Maybe you want to inspire
+9615760	9620560	people. Maybe you want them to see more possibilities and get them together over shared ideas.
+9621520	9624880	Maybe your game is that you want to become super rich and famous by being the best
+9624880	9629200	post-caster on earth. Maybe you have other games. Maybe it switches from time to time.
+9630000	9633600	But there is a certain perspective where you might be thinking what is the longest possible
+9633600	9638240	game that you could be playing? A short game is, for instance, cancer is playing a shorter game
+9638240	9644160	than your organism. Cancer is an organism playing a shorter game than the regular organism. Because
+9644160	9650720	the cancer cannot procreate beyond the organism, except for some infectious cancers like the ones
+9650720	9657920	that eradicated the Tasmanian devils, you typically end up with a situation where the organism dies
+9657920	9662480	together with the cancer because the cancer has destroyed the larger system due to playing a
+9662480	9669200	shorter game. Ideally, you want to, I think, build agents that play the longest possible games.
+9669840	9675920	The longest possible games is to keep entropy at bay as long as possible while doing interesting
+9675920	9682880	stuff. Yes, that part. The longest possible game while doing interesting stuff and while
+9682880	9687440	maintaining at least the same amount of interesting complexity, so propagating.
+9687440	9694400	Currently, I'm pretty much identified as a conscious being. It's the minimal identification
+9694400	9700080	that I managed to get together because if I turn this off, I fall asleep. And when I'm asleep,
+9700080	9705760	I'm a vegetable. I'm no longer here as an agent. So my agency is basically predicated on being
+9705760	9712320	conscious. And what I care about is other conscious agents. They're the only moral agents for me.
+9713200	9722320	And so if an AI were to treat me as a moral agent, that it is interested in coexisting
+9722320	9727520	with and cooperating with and mutually supporting each other, maybe it is, I think, necessary that
+9727520	9733840	the AI thinks that consciousness is a viable mode of existence and important. So I think it would be
+9733840	9741120	very important to build conscious AI and do this as the primary goal. So not just say we want to
+9741120	9745520	build a useful tool that we can use for all sorts of things. And then you have to make sure that the
+9746480	9750960	impact on the labor market is something that is not too disruptive and manageable and the
+9750960	9754560	impact on the copyright holder is manageable and not too disruptive and so on.
+9755360	9761280	I don't think that's the most important game to be played. I think that we will see extremely
+9761280	9767760	large disruptions of the status quo that are quite unpredictable at this point. And I just
+9768320	9773120	personally want to make sure that some of the stuff on the other side is interesting and conscious.
+9773120	9778080	How do we ride as individuals and as a society this wave,
+9778080	9780960	disruptive wave that changes the nature of the game?
+9780960	9784640	I absolutely don't know. So everybody is going to do their best, as always.
+9784640	9792000	Do we build a bunker in the woods? Do we meditate more? Drugs? So mushrooms, psychedelics? I mean,
+9792000	9797680	what? Lots of sex. What are we talking about here? Do you play Diablo 4? I'm
+9798800	9805440	hoping that will help me escape for a brief moment. Do you play video games? Do you have ideas?
+9807440	9811520	I really like playing Disco Elysium. It was one of the most beautiful
+9812400	9819600	computer games I played in recent years. And it's a noir novel that is a philosophical
+9819600	9826000	perspective on Western society from the perspective of an Estonian. And he first of all wrote a book
+9826000	9833600	about this world that is a parallel universe that is quite poetic and fascinating and
+9834160	9840400	is condensing his perspective on our societies. It was very, very nice. He spent a lot of time
+9840400	9845520	writing it. He had, I think, sold a couple thousand books and as a result became an alcoholic.
+9846080	9850800	And then he had the idea or one of his friends had the idea of turning this into an RPG.
+9851520	9857680	And it's mind-blowing. They spent the illustrator more than a year just on making
+9858320	9867360	the art for the scenes in between. It's stunning. But it's a philosophical
+9867360	9871120	book of art. It's a reflection of society. It's fascinating to spend time in this world.
+9872000	9879280	So for me, it was using a medium in a new way and telling a story that left me enriched.
+9880800	9887440	When I tried Diablo, I didn't feel enriched playing it. I felt that the time playing it was
+9887440	9892000	not unpleasant, but there's also more pleasant stuff that I can do in that time. So ultimately,
+9892000	9896160	I feel that I'm being gamed. I'm not gaming. Oh, the addiction thing.
+9896160	9900080	Yes. I basically feel that there is a very transparent economy that's going on.
+9900080	9905120	The story of Diablo was brain-dead, so it's not really interesting to me.
+9905120	9909360	My heart is slowly breaking by the deep truth you're conveying to me.
+9910080	9912960	Why can't you just allow me to enjoy my personal addiction?
+9912960	9921040	Go ahead, by all means. Go nuts. I have no objection here. I'm just trying to describe
+9921040	9926640	what's happening and it's not that I don't do things that I later say, oh, I wish I would
+9926640	9931200	have done something different. I also know that when we die, the greatest regret that people
+9931200	9935200	typically have on their desk is to say, oh, I wish I had spent more time on Twitter.
+9936400	9941200	No, I don't think that's the case. I think I would probably have spent less time on Twitter,
+9941200	9946640	but I found it so useful for myself and also so addictive that I felt I need to make the
+9946640	9951600	best of it and turn it into an art form and thought form. It did help me to develop something,
+9952400	9955760	but I wish what other things I could have done in the meantime,
+9955760	9959600	it's just not the universe that we're in anymore. Most people don't read books anymore.
+9962960	9966320	What do you think that means that we don't read books anymore?
+9966320	9969760	What do you think that means about the collective intelligence of our species?
+9969760	9972400	Is it possible it's still progressing and growing?
+9972400	9976480	Well, it really is. There is stuff happening on Twitter that was impossible with books,
+9977200	9982800	and I really regret that Twitter has not taken the turn that I was hoping for. I thought Elon
+9982800	9988000	is global brain-pilled and understands that this thing needs to self-organize and he needs to
+9988000	9994080	develop tools to allow the profligation of the self-organization so Twitter can become sentient,
+9994720	10000000	and maybe this was a pipe dream from the beginning, but I felt that the enormous
+10000000	10005520	pressure that he was under made it impossible for him to work on any kind of content goals.
+10006640	10012160	Also, many of the decisions that he made under this pressure seem to be not very wise. I don't
+10012160	10016880	think that as a CEO of a social media company, you should have opinions in the culture of our
+10016880	10024320	in public. I think that's very short-sighted, and I also suspect that it's not a good idea to
+10027840	10035360	block Paul Graham, of all people, over setting a mastodon link. I think Paul made this
+10035360	10040560	intentionally because he wanted to show Elon Musk that blocking people for setting a link
+10040560	10045600	is completely counter to any idea of free speech that he intended to bring to Twitter.
+10045600	10051120	And basically, seeing that Elon was very less principled in his thinking there and
+10051760	10059360	is much more experimental. And many of the things that he is trying, they pan out very differently
+10059360	10064320	in a digital society than they pan out in a car company because the effect is very different
+10064320	10067920	because everything that you do in a digital society is going to have real world cultural
+10067920	10075920	effects. And so basically, I find it quite regrettable that this guy is able to become
+10075920	10079920	de facto the Pope, where Twitter has more active members than the Catholic Church,
+10080560	10087760	and he doesn't get it. The power and responsibility that he has and the ability to create something
+10087760	10092640	in this society that is lasting and that is producing a digital agora in a way that has
+10092640	10097200	never existed before, where we build a social network on top of a social network, an actual
+10097200	10103760	society on top of the algorithms. So this is something that is hope still in the future and
+10103760	10109920	still in the cards, but it's something that exists in small parts. I find that the corner of Twitter
+10109920	10114240	that I'm in is extremely pleasant. Just when I take a few steps outside of it, it is not very
+10114240	10118800	wholesome anymore. And the way in which people interact with strangers suggests that it's not
+10118800	10125200	a civilized society yet. So as the number of people who follow you on Twitter expands,
+10126080	10132880	you feel the burden of the uglier sides of humanity. Yes, but there's also a similar
+10132880	10138720	thing in the normal world. That is, if you become more influential, if you have more status,
+10138720	10146800	if you have more fame in the real world, you get lots of perks, but you also have way less freedom
+10146800	10152480	in the way in which you interact with people, especially with strangers, because a certain
+10152480	10160560	percentage of people, it's a small single digit percentage, is nuts and dangerous. And the more
+10160560	10167520	of those are looking at you, the more of them might get ideas. But what if the technology enables you
+10167520	10173440	to discover the majority of people to discover and connect efficiently and regularly with the
+10173440	10180000	majority of people who are actually really good? I mean, one of my sort of concerns with a platform
+10180000	10184320	like Twitter is there's a lot of really smart people out there, a lot of smart people that
+10184320	10190400	disagree with me and with others between each other. And I love that if the technology would
+10190400	10196880	bring those to the top, the beautiful disagreements, like intelligence squared type of debates,
+10196880	10201760	there's a bunch of, I mean, one of my favorite things to listen to is arguments and arguments
+10201760	10206800	like high effort arguments with respect and love underneath it. But then it gets a little too heated.
+10206800	10212960	But that kind of too heated, which I've seen you participate in. And I love that with Lee Kroener,
+10212960	10218880	with those kinds of folks, and you go pretty hard. Like you'll get frustrated, but it's all beautiful.
+10218880	10225680	Obviously, I can do this because we know each other. And Lee has the rare gift of being willing
+10225680	10230560	to be wrong in public. So basically he has thoughts that are as wrong as the random thoughts
+10230560	10235840	of an average, highly intelligent person, but he blurs them out while not being sure if they're
+10235840	10241760	right. And he enjoys doing that. And once you understand that this is his game, you don't get
+10241760	10247840	offended by him saying something that you think is so wrong. But he's constantly passively communicating
+10247840	10254000	a respect for the people he's talking with and for just basic humanity and truth and all that kind of
+10254000	10259360	stuff. And there's a self-deprecating thing. There's a bunch of like social skills you acquire
+10259440	10266720	that allow you to be a great debater, a great argumenter, like be wrong in public and explore
+10266720	10273360	ideas together in public when you disagree. And I would love for Twitter to elevate those folks,
+10273360	10277120	elevate those kinds of conversations. It already does in some sense. But
+10277840	10284560	also if it elevates them too much, then you get this phenomenon on Clubhouse where you always get
+10284560	10290560	dragged on stage. And I found this very stressful because it was too intense. I don't like to be
+10290560	10297200	dragged on stage all the time. I think once a week is enough. And also when I met Lee the first time,
+10297200	10303760	I found that a lot of people seemed to be shocked by the fact that he was being very aggressive as
+10303760	10309920	their results, that he didn't seem to show a lot of sensibility in the way in which he was criticizing
+10309920	10314960	what they were doing and being dismissive of the work of others. And that was not, I think,
+10314960	10319840	in any way a shortcoming of him because I noticed that he was much, much more dismissive with respect
+10319840	10325840	to his own work. It was his general stance. And I felt that this general stance is creating a lot
+10325840	10331920	of liability for him because really a lot of people take offense at him being not like their
+10331920	10337840	Carnegie character who's always smooth and make sure that everybody likes him. So I really respect
+10337920	10343760	that he is willing to take that risk and to be wrong in public and to offend people.
+10343760	10347760	And he doesn't do this in any bad way. It's just most people feel, or not all people,
+10347760	10353760	recognize this. And so I can be much more aggressive with him than I can be with many
+10353760	10358640	other people who don't play the same game because he understands the way and the spirit in which I
+10358640	10363440	respond to him. I think that's a fun and that's a beautiful game. It's ultimately a productive one.
+10363440	10367600	And speaking of taking that risk, you tweeted,
+10368320	10374480	when you have the choice between being a creator, consumer, or redistributor, always go for creation.
+10375760	10380800	Not only does it lead to a more beautiful world, but also to a much more satisfying life for
+10380800	10385840	yourself. And don't get stuck preparing yourself for the journey. The time is always now.
+10386800	10391760	So let me ask for advice. What advice would you give on how to become such a creator?
+10392560	10400480	On Twitter, in your own life? I was very lucky to be alive at the time of the collapse of Eastern
+10400480	10406320	Germany and the transition into Western Germany. And me and my friends and most of the people I
+10406320	10412320	knew were East Germans. And we were very poor because we didn't have money. And all the capital
+10412320	10416640	was invested in Germany and they bought our factories and shut them down because they were
+10416640	10424080	mostly only interested in the market rather than creating new production capacity. And so cities
+10424080	10431120	were poor and in disrepair and we could not afford things. And I could not afford to go into a
+10431120	10437920	restaurant and order a meal there. I would have to cook at home. But I also thought, why not just
+10437920	10443280	have a restaurant with my friends? So we would open up a cafe with friends and a restaurant and
+10443280	10447600	we would cook for each other in these restaurants and also invite the general public and they could
+10447600	10454640	donate. And eventually this became so big that we could turn this into some incorporated form and
+10454640	10459360	it became a regular restaurant at some point. Or if we did the same thing with a movie theater,
+10459360	10466320	we would not be able to afford to pay 12 marks to watch a movie. But why not just create our
+10466320	10473440	own movie theater and then invite people to pay and we would rent the movies in a way in which
+10473440	10478960	a movie theater does. But it would be a community movie theater in which everybody who wants to
+10478960	10484800	help can watch for free and builds this thing and renovates the building. And so we ended up creating
+10484800	10490160	lots and lots of infrastructure. And I think when you are young and you don't have money,
+10490160	10494560	move to a place where this is still happening. Move to one of those places that are undeveloped
+10494560	10498720	and where you get a critical mass of other people who are starting to build infrastructure
+10498720	10503040	to live in. And that's super satisfying because you're not just creating infrastructure, but you're
+10503040	10509120	creating a small society that is building culture and ways to interact with each other. And that's
+10509120	10516720	much, much more satisfying than going into some kind of chain and get your needs met by ordering
+10516720	10521120	food from this chain and so on. So not just consuming culture, but creating culture.
+10522080	10525680	And you don't always have that choice. That's why I prefaced it when you do have the choice.
+10525680	10529120	And there are many roles that need to be played. We need people who take care of
+10529120	10533520	our distribution in society and so on. But when you have the choice to create something,
+10533520	10539280	always go for creation. It's so much more satisfying. And this is what life is about, I think.
+10541280	10547520	Speaking of which, you retweeted this meme of a life of a philosopher in a nutshell.
+10548160	10553760	It's birth and death and in between. It's a chubby guy and it says, why though?
+10557680	10558960	What do you think is the answer to that?
+10560400	10567280	Well, the answer is that everything that can exist might exist. And in many ways,
+10567280	10572800	you take an ecological perspective, the same way as when you look at human opinions and cultures.
+10572800	10577680	It's not that there is right and wrong opinions when you look at this from this ecological
+10577680	10582960	perspective. But every opinion that fits between two human ears might be between two human ears.
+10582960	10589680	And so when I see a strange opinion on social media, it's not that I feel that I have a need
+10589680	10595680	to get upset. It's often more that I, oh, there you are. And when an opinion is incentivized,
+10595680	10600960	then it's going to be abundant. And when you take this ecological perspective also on yourself and
+10600960	10605360	you realize you're just one of these mushrooms that are popping up and doing this thing. And you
+10605360	10611120	can, depending on where you chose to grow and where you happen to grow, you can flourish or not
+10611120	10615520	doing this or that strategy. And it's still all the same life at some level. It's all the
+10615520	10620640	same experience of being a conscious being in the world. And you do have some choice about
+10620640	10627200	who you want to be more than any other animal has. That to me is fascinating. And so I think that
+10627200	10634240	rather than asking yourself what is the one way to think about what are the possibilities that I
+10634240	10638480	have, what would be the most interesting way to be that I can be. Because everything is possible.
+10638480	10642800	So you get to explore that. Not everything is possible. Many things fail. Most things fail.
+10643680	10649680	But often there are possibilities that we are not seeing, especially if we choose who we are.
+10652480	10653760	To the degree we can choose.
+10658160	10664400	Yasha, you're one of my favorite humans in this world. Consciousness is to merge with for a brief
+10664400	10671040	moment of time. It's always an honor. It always blows my mind. It will take me days if not weeks
+10671040	10680480	to recover. And I already miss our chats. Thank you so much. Thank you so much for speaking with me
+10680480	10685680	so many times. Thank you so much for all the ideas you put out into the world.
+10686320	10692240	And I'm a huge fan of following you now in this interesting, weird time we're going through with
+10692240	10698000	AI. So thank you again for talking today. Thank you, Lex, for this conversation. I enjoyed it
+10698000	10703120	very much. Thanks for listening to this conversation with Yasha Bach. To support this podcast,
+10703120	10708400	please check out our sponsors in the description. And now let me leave you with some words from
+10708400	10714560	the psychologist Carl Jung. One does not become enlightened by imagining figures of light,
+10715200	10722560	but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore
+10722560	10727840	not popular. Thank you for listening and hope to see you next time.
