@@ -23,6 +23,8 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Theories of Everything with Curt Jaimungal](https://theoriesofeverything.org/)
 - [Zwischen Zwei Deckeln](https://zwischenzweideckeln.de/)
 - [Lex Fridman](https://lexfridman.com/podcast)
+- [Sein Und Streit](https://www.deutschlandfunkkultur.de/sein-und-streit-100.html)
+- [Dissens](https://dissenspodcast.de/)
 
 ## Obsidian and Audio Notes
 
