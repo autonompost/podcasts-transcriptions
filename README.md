@@ -25,6 +25,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Lex Fridman](https://lexfridman.com/podcast)
 - [Sein Und Streit](https://www.deutschlandfunkkultur.de/sein-und-streit-100.html)
 - [Dissens](https://dissenspodcast.de/)
+- [Songs & Argumente](https://www.youtube.com/channel/UCEvYBeQ1Rm1NV2HOD4FnKfQ)
 
 ## Obsidian and Audio Notes
 
