@@ -1,0 +1,3706 @@
+start	end	text
+60000	86520	So, for me, it was with the Meme that I had this ghostly flash and thought, okay, I notice
+86520	91760	that when I look back, I had a certain intellectual development and it's not quite
+91760	96240	like it's in the memes, but it's such a thing that I also notice with other people
+96240	102040	when they think about how logic works. And I thought, okay, we could just
+102040	106560	express it with this meme as if it were a journey. And of course it's not a
+106560	111480	journey, but it's more of a branch out into different branches and then you end up in
+111480	115640	different areas of the meaning space. But for myself, of course, I can
+115640	121880	understand my own path. And this first step is one that I haven't stayed in for a long time.
+121880	127440	It's about two and a half thousand years old and goes back to Plato and Aristotle. And these
+127440	134320	three laws of logic or laws of thought are derived from the syllogisms, i.e. from the forms
+134320	138360	in which linguistic logic worked, from the point of view of Aristotle, who tried to
+138360	143200	systematize it. And if you look at it from today's point of view, i.e. with the terms of logic
+143200	148400	of Tarski and others, then you have the impression that he was right about 80 percent, which is
+148400	153440	somehow much better than most contemporary philosophers, so not so bad. And the three
+153440	160800	rules he describes are on the one hand the law of identity and almost identity so that a thing
+160800	167120	cannot be itself if you do something about it or take it away. And that every thing
+167120	172240	has to be self-identical for all things. This is an action with which you can describe identity.
+172240	178120	And the next thing is that he says that a thing cannot be true and false at the same time.
+178120	185320	So a statement, a statement, a proposition can either be true or false. And the next thing is,
+185320	187920	every statement must be either true or false.
+187920	190000	Then we get problems afterwards.
+190000	194320	Yes, exactly. And I also had problems with all of these things, because at first it
+194320	198840	looks like it would work, but I looked at my own thinking and found that
+198920	203320	it was not like that in my own thinking. And one thing that I noticed is, for example,
+203320	208000	that it starts with identity. When I try to describe things about their identity,
+208000	213240	for example when I write a computer program, then it does not capture how identity really is.
+213240	217280	So, for example, when I play a computer game myself, when are two objects in this
+217280	221720	computer game identical from the point of view of the player? For example, two trees. I can, for example,
+221720	226000	define an object in a computer game in the same way as the tree that I then use several times in the
+226080	231160	computer game and put it in there. Is that the same tree or is it another tree if it has different
+231160	235960	coordinates? That depends on the context. So I can say that it is the same tree that I
+235960	240280	encounter several times or there are different trees that only look the same by chance.
+240280	245080	Well, you want a functional description level and on certain selected description levels
+245080	249920	it is the same, but it already seems to you that if you keep zooming out in the
+249920	253240	description, then at some point it is no longer identical, no matter what you want.
+253400	259680	There is also this famous ship of the T-Seus, which is such a philosophical paradox that
+259680	265720	philosophers like to dig up. It is about the T-Seus building a ship and
+265720	269640	that at some point it sank in the Mediterranean and it was so salty all around that it
+269640	273360	remained relatively well preserved. And the archaeologists then pull it out at some point,
+273360	278560	it is of course somehow weathered and they decide to restore it and take the
+278560	283120	individual boards off the ship and replace them with new boards of the same shape and
+283120	287560	color. And gradually the ship is restored and looks the same as before and
+287560	292120	next to it is a pile of boards. And that is the same ship as before, just renewed. And now
+292120	295920	someone else comes and takes this pile of boards and builds the original ship
+295920	301160	together again. And what is the ship of the T-Seus? Intuitively, it is
+301160	305720	not that easy to find out in which branch we are now entering. And what we
+305720	310080	find out is that this identity is not at all a natural category, but a
+310080	315240	cognitive category that we apply under certain conditions. And what these
+315240	320240	concepts, what these identities are all together is, from my point of view, that we add a world
+320240	329520	line to the thing. So we say that this object exists with a series of instances in time and
+329520	335040	we therefore bind the instances of this object into one single object. And what is important
+335040	338720	is not that it is identical in nature, but only that they share the identity. So this
+338760	342440	property of identity and that means in principle have to have a kind of common
+342440	347280	biography. And this attribution of the biography, i.e. an imaginary property,
+347280	352120	which objects have together over time or over different observations,
+352120	357960	that is the essence of the identity in the way I use it in my head. And this
+357960	360800	equality of property, which I have, for example, in a certain logical system,
+360800	364680	that these are two objects that are identical when they share all properties, is a much
+364680	372120	narrower form of identity that I can submit to the thing, i.e. to my identity concept,
+372120	378360	but only under certain conditions. We see that we can define identity in different ways
+378360	382200	and from this we get different mathematical concepts in which identity can exist.
+382200	388320	The next thing can be true or false. For example, I could say I have a variable
+388320	392440	in a computer program and that is a variable that can contain bulges, i.e. a truth value,
+392600	398320	binaries in this case, which you can have, for example, a logical true or false. And I can
+398320	403000	also define a ternary logic, i.e. which I have true and false and undetermined,
+403000	408960	or a probabilistic logic in which I have 100 percent or zero as true and false and the
+408960	414880	things in between are then further logic values. And in our own head we realize
+414880	418840	that we can use different such logics and convert between them under certain conditions.
+418840	423440	So a logic that is binary and only knows true and false and a logic that is true,
+423440	429440	false and undetermined. And that with the excluded third is even more complicated,
+429440	436080	because this logic works what Gödel has found out under certain conditions no longer.
+436080	441560	That is, these original laws of logic do not allow these axioms to be
+441560	444280	maintained under all conditions. For example, when I allow infinity,
+444280	448360	when I look at many features that lead to contradictions. And that was for Gödel,
+448840	453560	who thought that he could maintain the axioms, a catastrophe. But for a computer scientist
+453560	456520	this is not such a big problem, because the computer scientist says, okay,
+456520	462600	in this programming language I define my logic and my true and false in a very specific way.
+462600	467440	And that leads to the fact that I have the opportunity to calculate what I think in
+467440	473560	these and all conditions for true and false. There are still essays in which it is done as
+473560	478520	these three laws of thinking are absolutely elementary. And then maybe a fourth,
+478520	482920	that it is all basic. So, for example, biological organisms have the ability to
+482920	488240	compare things and all this is derived from them. And maybe it's very deep-seated,
+488240	491400	but from my point of view it doesn't seem deep-seated. I have the impression that it doesn't
+491400	493320	lead very far, I can't build a mind out of it.
+503560	523800	Logic cannot provide absolute truth, because it is based on unprovable axioms.
+533800	538640	Then it's not 2 and 2, 4, but 2 and 2 is 5. So maybe I could take an axiom system
+538640	542160	that works like that. And that's the next step you could take in your thinking,
+542160	548120	that you discover that mathematics and logic are in some way popular, that you can simply
+548120	553280	derive another logic from it if you use other rules. But that doesn't necessarily
+553280	559120	lead far in the end, because most of these logics are not very interesting, in the sense that they
+559120	563120	don't lead to interesting structures. Namely, not to structures with which I can describe
+563120	569280	any reality or interesting system. And the logics, the interesting
+569280	573240	structure forms with which I can describe worlds and arithmetic and so on,
+573240	576080	there are relatively few of them.
+589120	613240	Level 3. Truth depends on its consistent definition in a formal language. It can be
+613240	615320	defined in any way we want.
+615320	621640	As far as I understand it, that means that the truth is a predicate that we
+621640	631560	assign entities in our language. Is that right? What do you think I don't understand then?
+631560	634560	What do you think people should understand in order to reach level 3?
+634560	643000	There are often discussions at a place where people say define truth. And then you can
+643160	650800	refer to Stanford and Cyclopedia on philosophy, or to Wikipedia, or to a number of other websites,
+650800	659160	or to certain works by logicians, for example Tarski. And what we find is that they had
+659160	663480	a few approaches to logic. In philosophy, for example, there are correspondence theories
+663480	668880	that say that things become true by referring to facts in the real world. But then the
+668880	673800	question arises, what is actually a fact in the real world? Or there are coherence theories
+673800	679440	where you say something is true, when all statements that have a claim to truth are
+679440	683480	coherent with each other in a system. That means that there are no constraints.
+683480	689640	And usually these systems are not very precisely defined. And the really precise
+689640	696880	definitions usually exist in formal logic. And the main traditions use axioms
+696880	702480	that often lead to contradictions, for example, if you look at the Goethe proof,
+702480	710080	or Tarski's undefinability theorem, which is related to the Goethe set of incompleteness.
+710080	717120	I think I'd rather not go into detail. I think it is more important that we first
+717120	724680	become aware of what a language can say about the world. And in this tradition
+724720	728160	in which we are right now, it is the case that a language cannot say anything about a world
+728160	733360	outside of itself. That is different from natural languages, because the natural
+733360	737760	languages ​​that we use to communicate with each other say something about a perceptual
+737760	741960	world and about a mentally represented world that is not captured in the natural language at all,
+741960	748160	but which can show the natural language. And we share enough of this language of thinking
+748400	756400	in which we can depict perceptions, so that it is good enough to show. But in the end,
+756400	760840	we cannot prove that we are talking about the same thing if we only show, because we do not know
+760840	767200	what the other person is showing. And in formal logic you try to exclude that. And the hope
+767200	773040	is that what exists in the perceptual world can be depicted in a logical language. And
+773040	777200	it is also necessary that I get the whole world into this logical language. And
+777240	783280	what Gödel has found out is that the actions he has taken lead to contradictions. That
+783280	788000	means I cannot build a machine in mathematics that allows this specification of the language that
+788000	794680	Gödel has used to run without this machine flying around your ears,
+794680	800720	so that this computer crashes. And it is because the actions that he has used
+800720	807320	to run without this machine that the logic is state-free. This means that the truth exists
+807320	813480	regardless of the processing process of a program. So you do not have to be determined step by step
+813480	820560	with the algorithm, but in total. This state-freedom of mathematics has a very good
+820560	824640	property, which is why the mathematicians who want to have it, they allow me to deal with
+824640	830560	infinity. If I have to describe everything step by step, then I know how to do it,
+830720	834880	and I can decompose and put it together, i.e. conduct constructive mathematics.
+834880	840360	But the disadvantage is that I never get to infinity. I can only add step by step,
+840360	844960	but something like pi, for example, i.e. a number with an infinite number of places,
+844960	849200	I can never completely describe in this way. And that means I can
+849200	854640	create a system that runs continuously and, for example, emits a wave. And the wave
+854640	860000	is a periodic process, that is, a circle that is pulled apart over time.
+860480	864480	Pi has to be known until the end, so that the wave can run completely when the
+864480	869680	world is continuous. And that means if I want to describe such a world in my logic,
+869680	875280	then I have to deal with infinity and continuity. And that's all I can do
+875280	880160	if I have functions that take up an infinite number of bits at once as an argument,
+880160	884080	and then perform operations over this infinite number of bits at once, and in the end
+884080	888080	also be able to output an infinite number of bits again. If I want to do this step by step,
+888160	895040	it doesn't work. And what Gödel found out is that the assumptions that he had about
+895040	899520	truth in this language lead to contradictions. And how did he do that?
+900480	905360	He first found out that the language should not refer to the outside world,
+905360	910800	but it should build everything in itself. And if the language can only refer to things in itself,
+910800	914400	then you can't talk about yourself. And that's a problem. How can I
+914560	918800	make the language talk about itself? And the solution is that I have to build the language
+918800	924320	in itself. So the language has to be so powerful that it can build itself from scratch and that
+924320	929600	performance can build itself. In order to do that, in order for a language to be executed,
+929600	936080	I need a computer, a system that can, so to speak, go from one step to the next
+936080	942720	step. When Gödel did that, that was at the beginning of the 30s,
+943440	946880	and he had already started to think about it beforehand, there was no computer yet.
+947680	952880	So he looked for one that he could take and he actually discovered one. And those were the
+952880	957920	piano axioms. The piano axioms can be derived from all the natural numbers.
+957920	962080	And the nice thing is that it's really just a handful of rules with which you can define
+962080	966000	how they look. It's basically a kind of number stream that consists of discrete units,
+966000	970240	so if one is bigger. And what you need is an operator with which you can practically
+970240	974800	take one step forward and backward. And if you use it several times, then you can define the
+974800	980080	addition as simply the repeated forward and backward. And the multiplication
+980080	983840	can be done by repeated addition. Addition, so to speak, by counting, actually. Yes,
+983840	988800	so just counting is basically this teleporting on the number stream. And I can,
+988880	992800	by not just taking one step forward and backward, but teleporting. I do that by
+992800	995840	defining an operation, a function, that simply consists of the
+995840	1000640	automating of the forward and backward. And the multiplication is, so to speak,
+1000640	1006640	the automating of the addition, by doing that several times. And the relationship
+1006640	1012320	between the addition and the multiplication is the exponentialization. The cool thing is,
+1012400	1021200	I can define an operation with which I project the two numbers in a room and
+1021200	1025520	perform an addition in the room and then project it back, then with a logarithm,
+1025520	1029360	that's the reverse of the exponentiation, and then it's equivalent. That means,
+1029360	1034080	what it shows is that addition and multiplication are the same if I send them through such a
+1034080	1039120	projection. And this projection is the exponentiation or the logarithm back. And
+1039120	1044640	that means, I can build up the whole math step by step, just by taking these
+1044640	1049600	natural numbers. And the multiplication, so to speak, when the addition is
+1049600	1054160	teleporting, then it's the multiplication of zooming. I can zoom in and zoom out,
+1054160	1057920	and by doing that I can make numbers that are smaller than whole numbers,
+1057920	1062720	rational numbers. And a rational number I can describe as the ratio between
+1063680	1071600	two whole numbers. That's a break. And that means, just a few of the whole numbers
+1071600	1077120	results in any rational number. And Pythagoras hoped, that's it now,
+1077120	1083920	more won't come. But then he found out, and the people in his cult, in his
+1083920	1087760	Mathematica Club back then, that there are still irrational numbers. That means,
+1087920	1092400	those that unfortunately cannot be described as such, for example Pi or the root of two.
+1093200	1097600	And that's a terrible result, because it's the idea that you can lead the whole world from the
+1097600	1103680	integers, from the whole numbers, to nothing. And the legend says that this guy,
+1103680	1108560	who secretly betrayed the world, he shouldn't have betrayed it, he let him kill him,
+1108560	1114160	because it was really a secret that the world shouldn't find out. And from my point of view,
+1114480	1122400	Pythagoras was right. The world wasn't ready. The thing is, that the mathematicians were confused
+1122400	1127200	by that, because they thought there are these irrational numbers. And the computer scientists
+1127200	1131360	later discovered that there are these irrational numbers not as numbers, not as values,
+1131360	1136560	but as functions. That means, I can define such a program that calculates Pi for me,
+1136560	1140080	and this program does that little by little, there are more and more places for me, Pi makes me
+1140160	1144400	more and more precise. But it will never go to the point that it gives me the last place.
+1144960	1150160	And that also means that there can be no computer program from this point of view
+1150160	1155200	that creates a world in which a perfect circle takes place. But the circles that
+1155200	1159200	are described are always rounder, so to speak, but they are never completely round.
+1159920	1165280	And the world in which we are is not necessarily one in which round circles exist,
+1165360	1170000	but it is one in which, in the end, the resolution becomes smaller and smaller,
+1170000	1175280	but never infinitely small, but at some point the world falls apart in quantum effects.
+1175280	1179280	And it never becomes continuous, but it is always continuous, continuous.
+1179280	1185520	And from this point of view, there is no geometry. The geometry is not a real part of
+1185520	1189520	mathematics in the calculation, but something that exists only in the scope of approximation.
+1189520	1194480	That is, so to speak, the mathematics of the numbers that are too big to count them.
+1194480	1198400	And in an area where numbers are too big to count them, that is the world in which we
+1198400	1203040	are in general, where too many molecules are there to observe them individually,
+1203760	1206560	there are sometimes operators that, so to speak, converge at the limit.
+1207360	1213840	And they can be calculated efficiently. And the more the numbers get bigger,
+1213840	1218160	the closer you get to a certain value. And this area is exactly the geometry.
+1218240	1221680	And our own brain discovers a geometry to describe the world,
+1221680	1227200	a certain function with which we can describe continuous surfaces and waves in the ocean,
+1227200	1232880	and things that look like a circle and where we can zoom in at will within the resolution of our brain
+1232880	1237680	and can find simple algebraic expressions with which one can calculate that, so to speak.
+1237680	1241200	And we can also do that in computers. And from this point of view of constructive
+1241200	1245280	mathematics, the world is just like that. So there is no continuous mathematics.
+1245280	1248960	But before the calculation was discovered as a principle and the computer was discovered as a
+1248960	1254080	principle, mathematicians assumed that there was a continuous world.
+1254080	1258400	And what Gödel discovered was that this world, which we have, of course,
+1258400	1263200	foreseen and the languages ​​we have built for it, lead to contradictions.
+1263200	1267520	And that has shaken him very much. And from the point of view of computer scientists,
+1267520	1274880	that is not a problem at all. Now let's go back to what Gödel said.
+1275520	1277040	So we were at level three.
+1277040	1281840	So we were there, the other team was looking for a computer.
+1281840	1284800	The computer he found were the natural numbers.
+1284800	1288480	And the great thing is that he just saw that the natural numbers with which I can
+1288480	1294480	calculate any things. And so I can treat them as if I had a computer.
+1294480	1298640	How can I make logic with it? And his idea was that I can write down my logic with a
+1298640	1302160	formal system, i.e. as symbols, letters and characters.
+1302240	1306800	For example, if I make a sign for and and a sign for or and a sign for a follows from
+1306800	1310960	b and then I can have a sign for variables and then I have such a small alphabet.
+1310960	1314000	And I convert that into numbers.
+1314000	1317840	And ASCII code has not yet been invented, i.e. this American Standard Code of
+1317840	1321600	Information Interchange, which was later solved by Unicode in the computer.
+1321600	1326480	That's why he converted his alphabet into powers with prime numbers.
+1326480	1328240	It was mathematically super clever.
+1328320	1332320	It's called Goedelization and it's one of the main points when you try to understand
+1332320	1337120	the sentence by Goedel, how he exactly converted the letters into numbers.
+1337120	1339120	But that's not important, ASCII works just as well.
+1339120	1341120	With huge numbers, definitely pretty fast.
+1341120	1344240	Yes, but basically it's exactly like the numbers in the computer.
+1344240	1347280	In your computer, there are only numbers in there that are written down with b and n
+1347280	1353120	and you just have an alphabet that you can convert into numbers.
+1353120	1356560	And the cool thing about it is that you can only take these numbers and that you
+1356640	1364640	can develop formulas or functions that calculate your logical operations.
+1364640	1370640	They just say, if these and those numbers are there with which my logical expressions
+1370640	1374640	are written down and I calculate them together, how can I represent arithmetic,
+1374640	1378640	simple things on peony axioms, on the operations in the natural numbers
+1378640	1384640	with which I can calculate how the logic continues, what is the consequence of the logic.
+1384720	1388720	So he built a practical computer out of natural numbers with which he could calculate
+1388720	1390720	logical expressions, which is very clever.
+1390720	1392720	Turing took a different path.
+1392720	1394720	Turing invented the Turing machine for this.
+1394720	1400720	The Turing machine is a tape that is infinitely long and has discrete symbols on it
+1400720	1402720	that can be edited with a typewriter.
+1402720	1408720	And the typewriter has a series of evidence with a small table with which it says,
+1408720	1412720	if I read this symbol, I replace it with the following symbol, change my own condition
+1412800	1414800	and go one field to the right or left.
+1414800	1416800	And with that he can describe any operation.
+1416800	1422800	And this Turing machine is closer to how our current computer works,
+1422800	1426800	because there is an address pointer that points to an address in the memory of the computer
+1426800	1430800	and in there is not a number from a certain alphabet,
+1430800	1434800	for example a byte, 256 different values.
+1434800	1440800	And I can interpret them as letters or numbers and then I can define operations
+1440880	1446880	with these letters and numbers that I connect in a certain way to execute any computer program.
+1446880	1450880	And with any computer program I can then define any logic.
+1450880	1452880	That means they came to it on different paths.
+1452880	1456880	And at the same time with Turing, who was a student of Wittgenstein,
+1456880	1462880	who tried to translate the natural language into such a kind of logic,
+1462880	1468880	there was Alonso Church, who came up with a different formalization
+1468960	1470960	of the lambda calculation.
+1470960	1474960	And the lambda calculation is simply an attempt to define calculations
+1474960	1476960	by searching and substituting on symbols.
+1476960	1480960	And the cool thing is that with this Hütchen calculation,
+1480960	1484960	or with the lambda calculation, or with the searching and substituting calculation,
+1484960	1488960	you can not only do regular expressions practically,
+1488960	1490960	but you can also calculate the Turing machine with it.
+1490960	1494960	And vice versa, you can define the Turing machine that calculates the lambda calculation.
+1494960	1497960	And you can define the Turing machine that calculates the natural numbers.
+1498040	1500040	That means they are all equal.
+1500040	1504040	And the idea that all these calculation systems can do exactly the same thing
+1504040	1506040	is the Church-Turing thesis.
+1506040	1508040	So after naming Alonso Church and Alon Turing,
+1508040	1512040	who had different approaches to calculation and found that they both can do the same thing.
+1512040	1516040	So that we have a practical amount of languages that can do the same thing,
+1516040	1518040	that are equal in their expressive power.
+1518040	1524040	Yes, and Gödel was, so to speak, a pioneer of the whole in his thinking,
+1524120	1528120	who did this with the natural numbers.
+1528120	1530120	And in the end he found something similar.
+1530120	1532120	And he found that I can, in my language,
+1532120	1536120	which calculates itself by translating it into natural languages,
+1536120	1538120	express logical expressions.
+1538120	1540120	And these logical expressions can be self-reliant,
+1540120	1542120	because I can now build the language on myself.
+1542120	1546120	And I can unfortunately have linguistic expressions that define the truth
+1546120	1548120	and then say, I am wrong myself.
+1548120	1552120	And that is ultimately what Tarski did,
+1552200	1556200	he expressed expressions that were self-reliant and said, I am wrong myself.
+1556200	1560200	And that is not compatible with our three basic rules of logic,
+1560200	1562200	because now the thing is not true or false,
+1562200	1564200	but it is something else.
+1564200	1568200	It changes all the time, if you would evaluate it with a computer.
+1568200	1572200	And for an computer scientist this is not a big problem.
+1572200	1574200	The computer scientist simply says,
+1574200	1576200	in my programming language,
+1576200	1580200	you try to write the lambda calculation efficiently as computer programming language,
+1580280	1584280	I can define the truth with true and false.
+1584280	1586280	And then I have a function that calculates it for my expression.
+1586280	1588280	And now I calculate it and determine
+1588280	1590280	as long as I haven't calculated it, it has no value.
+1590280	1592280	And if the thing is self-reliant, it has no defined value,
+1592280	1594280	but it constantly changes.
+1594280	1596280	So no problem, I just defined it like that.
+1596280	1598280	If you don't like it, then define it differently.
+1598280	1602280	And in mathematics, is that a problem, at least in the way we understand it now?
+1602280	1604280	In classical mathematics, exactly.
+1604280	1606280	In pre-constructive mathematics.
+1606360	1608360	But there was a time in mathematics,
+1608360	1610360	before the mathematics of the way came
+1610360	1612360	and the computation was invented as a concept,
+1612360	1614360	already mathematicians like, for example, Brewer,
+1614360	1616360	who said,
+1616360	1618360	what we are doing here is not fine.
+1618360	1622360	It leads to contradictions that may not be cleared up.
+1622360	1624360	And he said,
+1624360	1626360	the problem I see is infinity.
+1626360	1628360	Maybe we shouldn't allow infinity.
+1628360	1630360	And then there was,
+1630360	1632360	that was called intuitionism in mathematics.
+1632360	1634360	And this intuitionism in mathematics
+1634440	1636440	did not go very far.
+1636440	1638440	Most mathematicians found what he said not convincing.
+1638440	1640440	And I think that's because
+1640440	1642440	he didn't express his intuition well enough.
+1642440	1644440	He saw something
+1644440	1646440	and tried to formalize it,
+1646440	1648440	but not so that the other mathematicians
+1648440	1650440	saw everything he meant.
+1650440	1652440	And that is in a certain way
+1652440	1654440	that it fell on our feet
+1654440	1656440	only later became visible.
+1656440	1658440	And where you could guess that
+1658440	1660440	were things like Hilbert's Hotel.
+1660440	1662440	Hilbert's Hotel is a hotel
+1662520	1664520	that has a lot of rooms.
+1664520	1666520	And these rooms are all fully booked.
+1666520	1668520	And now a new guest comes on the way.
+1668520	1670520	And the great thing is that this hotel
+1670520	1672520	can accommodate the guest
+1672520	1674520	because the porter simply
+1674520	1676520	calls all rooms
+1676520	1678520	and tells all guests,
+1678520	1680520	go all one room number to the right.
+1680520	1682520	And because it has an infinite number of rooms,
+1682520	1684520	it's not a problem.
+1684520	1686520	We now have one room free
+1686520	1688520	and can accommodate the new guest.
+1688520	1690520	And that's kind of very sad, isn't it?
+1690600	1692600	What do we do now?
+1692600	1694600	Then the porter says to all guests,
+1694600	1696600	please go to the double room number of yours.
+1696600	1698600	And voila, we now have
+1698600	1700600	an infinite number of rooms free
+1700600	1702600	and can accommodate an infinite number of buses
+1702600	1704600	with new guests.
+1704600	1706600	And the mathematicians,
+1706600	1708600	some of them thought it was good
+1708600	1710600	because it's nice when you
+1710600	1712600	get something out of nothing
+1712600	1714600	and even get a lot.
+1714600	1716600	But other people get stomach pain from it.
+1716600	1718600	Doesn't lead to problems at some point.
+1718680	1720680	And one of the problems
+1720680	1722680	was seen when Kantor
+1722680	1724680	dealt with it.
+1724680	1726680	And then he found that
+1726680	1728680	when we define numbers in such a way
+1728680	1730680	that it is the cardinality,
+1730680	1732680	that is, the number of members of a set,
+1732680	1734680	that is, how many we count,
+1734680	1736680	we define number by number.
+1736680	1738680	We simply say that a number is a number
+1738680	1740680	of things that are in a quantity, for example.
+1740680	1742680	Then we can say that the number of members
+1742680	1744680	that has a quantity is the number.
+1744680	1746680	And there is an empty quantity,
+1746760	1748760	and that corresponds to zero.
+1748760	1750760	And otherwise we get all the numbers,
+1750760	1752760	all the positive numbers,
+1752760	1754760	as the number of members in there.
+1754760	1756760	And because of the previous backward numbers
+1756760	1758760	we also get negative numbers and so on
+1758760	1760760	and can then deduct the rest from it.
+1760760	1762760	And that leads to problems.
+1762760	1764760	If we think about it,
+1764760	1766760	that the amount of all subsets
+1766760	1768760	of a quantity
+1768760	1770760	can also be defined
+1770760	1772760	and the amount of all subsets of a quantity
+1772760	1774760	is greater than the amount of all members
+1774840	1776840	It is clear, right?
+1776840	1778840	So for the quantity of all subsets
+1778840	1780840	for example, if we have four members,
+1780840	1782840	these are all combinations
+1782840	1784840	that these four members can have together.
+1784840	1786840	And that is always more
+1786840	1788840	than there are members.
+1788840	1790840	And that would mean
+1790840	1792840	if we have an infinitely large quantity
+1792840	1794840	and an infinitely many members,
+1794840	1796840	that the quantity of all subsets
+1796840	1798840	must be greater than infinity.
+1798840	1800840	So there are different infinities.
+1800840	1802840	And can we do that?
+1802920	1804920	But what happens
+1804920	1806920	if we do the total quantity?
+1806920	1808920	The quantity of all subsets
+1808920	1810920	also has infinitely many members
+1810920	1812920	and it is a very large kind of infinity
+1812920	1814920	because it also contains the quantity of subsets.
+1814920	1816920	But what about the quantity
+1816920	1818920	of all subsets of the total quantity?
+1818920	1820920	It also has more members
+1820920	1822920	than the total quantity.
+1822920	1824920	But the total quantity
+1824920	1826920	must also contain all of them.
+1826920	1828920	The quantity of all subsets.
+1828920	1830920	And that leads to the unpleasant result
+1831000	1833000	that the quantity of all subsets
+1833000	1835000	does not have as many members
+1835000	1837000	as the quantity of all subsets.
+1837000	1839000	That is, it leads to contradiction
+1839000	1841000	and this contradiction cannot be solved
+1841000	1843000	without further explanation,
+1843000	1845000	at least not in the quantity theory
+1845000	1847000	because it is defined this way.
+1847000	1849000	And for computer scientists
+1849000	1851000	this is not the problem
+1851000	1853000	because they never have the problem
+1853000	1855000	that infinitely many members are in there.
+1855000	1857000	The computer scientists would point out
+1857000	1859000	that this does not work at all
+1859080	1861080	because they can only multiply with two.
+1861080	1863080	And that means there are always only infinitely many
+1863080	1865080	even if they become very large.
+1865080	1867080	It will never go to infinity.
+1867080	1869080	The only thing I can deal with
+1869080	1871080	is unlimited, unboundedness.
+1871080	1873080	And unlimited means
+1873080	1875080	that I will never have a size
+1875080	1877080	but that I only look at an area
+1877080	1879080	where it gets bigger and bigger
+1879080	1881080	and where I can still add something.
+1881080	1883080	And I can find statements
+1883080	1885080	about how unlimited works.
+1885080	1887080	And at some point the numbers will become very large
+1887160	1889160	For example, I can find out
+1889160	1891160	that many corners
+1891160	1895080	that are
+1895080	1897080	and that have very large numbers of corners
+1897080	1899080	are getting closer and closer to a circle.
+1899080	1901080	And that is when I describe the ratio
+1901080	1903080	of circumference and diameter
+1903080	1905080	it always comes closer to a constant
+1905080	1907080	that I can never determine exactly
+1907080	1909080	but can always determine more precisely
+1909080	1911080	the more I add corners, so to speak.
+1911080	1913080	I can do that.
+1913080	1915080	And the computer scientists,
+1915080	1917080	that you mathematicians always wanted to have.
+1917080	1919080	You have never done more than that.
+1919080	1921080	And if you want to describe the world,
+1921080	1923080	that is exactly what you are doing.
+1923080	1925080	And if you claimed that you have always had
+1925080	1927080	infinity and continuity
+1927080	1929080	and you write the outside of your function on it
+1929080	1931080	and they unfold your functions
+1931080	1933080	and look what you have secretly done
+1933080	1935080	underneath the specification,
+1935080	1937080	we notice that you never had infinity
+1937080	1939080	but you have always only cheated.
+1939080	1941080	In your code base of mathematics
+1941080	1943080	you have always only dealt with finite things
+1943080	1945080	and you have always developed tricks
+1945080	1947080	with which you could deal with something similar
+1947080	1949080	as infinity, but there was never infinity
+1949080	1951080	but always only unlimitedness.
+1951080	1953080	Well, and that is possibly important
+1953080	1955080	when we describe reality
+1955080	1957080	because the physicists
+1957080	1959080	have already checked out this code base
+1959080	1961080	from mathematics in the 19th century.
+1961080	1963080	So long before Gödel and Thuring
+1963080	1965080	and Wittgenstein
+1965080	1967080	and have infinity in there.
+1967080	1969080	And that is not a big problem for the mechanics
+1969080	1971080	because the mechanics only works in a nutritional way
+1971080	1973080	and it is also not a problem for thermodynamics
+1973080	1975080	but it is a problem for the foundation physics.
+1975080	1977080	So for the basics of physics.
+1977080	1979080	Because where the lowest level of reality
+1979080	1981080	is to be described,
+1981080	1983080	if there are continuous objects in there
+1983080	1985080	and the continuous objects can not even exist
+1985080	1987080	because no reasonable language can exist
+1987080	1989080	that does not fly around the ears,
+1989080	1991080	then it means that we have to describe
+1991080	1993080	the basics of physics
+1993080	1995080	in a new way.
+1995080	1997080	Yes, and all because we did not
+1997080	1999080	listen to Brauer or Brewer.
+1999080	2001080	Yes, exactly.
+2001080	2003080	Or Pythagoras.
+2003080	2005080	Yes, Pythagoras.
+2005080	2007080	Yes, and Pythagoras did not know yet
+2007080	2009080	how to express it.
+2009080	2011080	And from the current point of view, I would say
+2011080	2013080	that the computer scientists express it correctly
+2013080	2015080	by saying that it must be expressed
+2015080	2017080	in a formal language that is predictable.
+2017080	2019080	That means not only on my particular computer
+2019080	2021080	but at least on theoretically
+2021080	2023080	existing computers.
+2023080	2025080	So on systems that
+2025080	2027080	go from state to state in any way.
+2029080	2031080	Music
+2059080	2061080	Music
+2061080	2063080	Music
+2063080	2065080	Music
+2065080	2067080	Music
+2067080	2069080	Music
+2069080	2071080	So level 3 meant
+2071080	2073080	that the formal language
+2073080	2075080	in which we define the truth must be consistent.
+2075080	2077080	And with Gödel we have now noticed
+2077080	2079080	that at least the classical mathematics
+2079080	2081080	does not have this consistency
+2081080	2083080	because we have statements that are self-contradictory.
+2083080	2085080	Consistency means we have no contradictions,
+2085080	2087080	we obviously have contradictions.
+2087080	2089080	We have a system where we eventually come out
+2089080	2091080	with computation
+2091080	2093080	or with state transitions
+2093080	2095080	within our formal language.
+2095080	2097080	Exactly.
+2097080	2099080	Franz, take level 4.
+2099080	2101080	Because we are currently
+2101080	2103080	moving from level 4 to level 5.
+2103080	2105080	We are now at level 4.
+2105080	2107080	We are now at level 4.
+2107080	2109080	We are now at level 4.
+2109080	2111080	This follows.
+2111080	2113080	Gödel's theory proves
+2113080	2115080	that logic is undecidable
+2115080	2117080	and truth cannot generally be determined
+2117080	2119080	by a mathematical procedure.
+2145080	2147080	We have to build something else
+2147080	2149080	that actually works.
+2149080	2151080	And the thing is that this Gödel's
+2151080	2153080	theory,
+2153080	2155080	his two non-completeness statements,
+2155080	2157080	the philosophers
+2157080	2159080	in my opinion
+2159080	2161080	did not really change the fabric.
+2161080	2163080	And what the philosophers
+2163080	2165080	find out when you look at
+2165080	2167080	the literature and the discussion in philosophy
+2167080	2169080	is, on the whole,
+2169080	2171080	the mathematicians have proven
+2171080	2173080	that mathematics is impotent to describe reality.
+2173080	2175080	Or even the ultimate relativism proof.
+2175080	2177080	We can't find any statements
+2177080	2179080	because everything is contradictory.
+2179080	2181080	That would only be true if the philosophers
+2181080	2183080	went home, which they don't do.
+2183080	2185080	But what the philosophers find out is
+2185080	2187080	that the mathematicians cannot describe the world.
+2187080	2189080	And that gives people
+2189080	2191080	who don't understand mathematics
+2191080	2193080	an advantage,
+2193080	2195080	namely the philosophers.
+2195080	2197080	That means that the philosophers have
+2197080	2199080	possibly techniques that are not accessible
+2199080	2201080	to the mathematicians with their formal languages
+2201080	2203080	and that the mathematicians can use
+2203080	2205080	to capture reality.
+2205080	2207080	And that is a very interesting question.
+2207080	2209080	It leads to the assumption
+2209080	2211080	that someone like Roger Penrose,
+2211080	2213080	similar to the philosopher Lukas
+2213080	2215080	in front of him,
+2215080	2217080	that our mind is able
+2217080	2219080	to perform operations
+2219080	2221080	that go beyond what computers can do.
+2221080	2223080	So for example to discover evidence
+2223080	2225080	and to lead evidence
+2225080	2227080	that computers cannot lead.
+2227080	2229080	But the thing is that the evidence itself,
+2229080	2231080	is a step-by-step
+2233080	2235080	conversion of a statement
+2235080	2237080	into axioms.
+2237080	2239080	That is an algorithm,
+2239080	2241080	that is what Greg Chaitin says.
+2241080	2243080	And of course there are a few evidences
+2243080	2245080	that work a little differently,
+2245080	2247080	but these evidences can be derived from such evidences.
+2247080	2249080	What do you say about the
+2249080	2251080	example of ZFC or ZF,
+2251080	2253080	that at least
+2253080	2255080	Russell's paradox
+2255080	2257080	emerges and I think
+2257080	2259080	you can also avoid
+2259080	2261080	the paradoxes
+2261080	2263080	that you just mentioned
+2263080	2265080	with the amounts of potential
+2265080	2267080	and the cardinalities.
+2267080	2269080	But you also can't get
+2269080	2271080	out of ZF, as far as I know.
+2271080	2273080	And that means
+2273080	2275080	that ZF is also
+2275080	2277080	condemned to failure from the perspective.
+2277080	2279080	They are all formal systems
+2279080	2281080	that work under certain conditions
+2281080	2283080	and do not work under other conditions.
+2283080	2285080	And that means that
+2285080	2287080	in order to bring the whole world into it,
+2287080	2289080	only certain parts fit in.
+2289080	2291080	And when I try to define
+2291080	2293080	numbers myself,
+2293080	2295080	and I am not a mathematician
+2295080	2297080	or a philosopher of mathematics,
+2297080	2299080	then it is quite informal. From my point of view,
+2299080	2301080	the best way to define numbers
+2301080	2303080	is a subsequent labeling scheme.
+2303080	2305080	So it is a procedure
+2305080	2307080	that allows me to
+2307080	2309080	give places a new label,
+2309080	2311080	in such a way that they are ordered.
+2311080	2313080	And that gives me everything
+2313080	2315080	that I want. It is simply an algorithm
+2315080	2317080	with which I can represent
+2317080	2319080	locations,
+2319080	2321080	I can assign
+2321080	2323080	a symbol to them.
+2323080	2325080	And the way we
+2325080	2327080	represent numbers in the simplest way
+2327080	2329080	is that we say
+2329080	2331080	zero, we don't need anything,
+2331080	2333080	one we knock once, two we knock twice,
+2333080	2335080	three we knock three times, four we knock
+2335080	2337080	four times, and so on. And that
+2337080	2339080	becomes very boring and long-winded
+2339080	2341080	very quickly. And that's why
+2341080	2343080	when we as humans
+2343080	2345080	talk about numbers,
+2345080	2347080	we try to compress them mentally.
+2347080	2349080	And the compression algorithm
+2349080	2351080	that we normally use for numbers
+2351080	2353080	is, in our cultural circle,
+2353080	2355080	that we form a tenor logarithm.
+2355080	2357080	That means that we represent the size
+2357080	2359080	of numbers. And that means
+2359080	2361080	that we have tenors, one,
+2361080	2363080	hundreds, thousands, and so on, and so on.
+2363080	2365080	But we could also do it with other powers.
+2365080	2367080	And the practical thing is
+2367080	2369080	that we now have numbers,
+2369080	2371080	we write numbers, describe them,
+2371080	2373080	these regularities of numbers
+2373080	2375080	in a small area, and we learn
+2375080	2377080	a hash function. That's a function
+2377080	2379080	that just represents a mapping,
+2379080	2381080	an image from one number
+2381080	2383080	to another, to make additions
+2383080	2385080	in our head more efficient.
+2385080	2387080	That means that we learn that
+2387080	2389080	if we put two and three together, we get five.
+2389080	2391080	And we learn that by heart.
+2391080	2393080	And if we don't know how to do that,
+2393080	2395080	we just count on our fingers. So we go back
+2395080	2397080	to the knock once, twice, three times.
+2397080	2399080	And by doing that, we can remember how
+2399080	2401080	this hash function worked. And also
+2401080	2403080	we have to learn how to transfer.
+2403080	2405080	That means how to get from one number to the other.
+2405080	2407080	That means we learn in simple algorithms
+2407080	2409080	with which we can transfer in numbers
+2409080	2411080	that we write cleverly and efficiently.
+2411080	2413080	The tenor system is not optimal.
+2413080	2415080	From my point of view,
+2415080	2417080	we should have taken hexadecimal,
+2417080	2419080	the sixteenth system.
+2419080	2421080	Because the nice thing about a sixteenth system
+2421080	2423080	is that it's a two-year potential.
+2423080	2425080	So that you can
+2425080	2427080	multiply and divide.
+2427080	2429080	Another system that is very nice
+2429080	2431080	is the twelfth system.
+2431080	2433080	What is totally cool about the twelfth system
+2433080	2435080	is that it has so many parts. That means
+2435080	2437080	you can describe circles very well with it.
+2437080	2439080	And that's why we still use the twelfth system
+2439080	2441080	to describe the clock and the angle.
+2441080	2443080	You can also describe everything else
+2443080	2445080	well with the twelfth system.
+2445080	2447080	The tenor system is kind of stupid.
+2447080	2449080	That's just because someone says,
+2449080	2451080	I have ten fingers, let's take the tenor system.
+2451080	2453080	It's totally suboptimal.
+2453080	2455080	It's almost as good as the tenor system.
+2455080	2457080	But you can do something much better
+2457080	2459080	with twelfth potential.
+2459080	2461080	There is of course another point.
+2461080	2463080	The twelfth system is so cool
+2463080	2465080	because you can work so well
+2465080	2467080	with binary logic,
+2467080	2469080	with true force 1.0,
+2469080	2471080	with one polarity.
+2471080	2473080	And this one polarity,
+2473080	2475080	this one noticeable difference
+2475080	2477080	to get back to our starting point
+2477080	2479080	is so great as the minimum
+2479080	2481080	from which you can build everything.
+2481080	2483080	It's optimal.
+2483080	2485080	Maybe you shouldn't use a fourth system
+2485080	2487080	or a fifth system as optimal and so on.
+2487080	2489080	And apparently the optimal
+2489080	2491080	is the third system,
+2491080	2493080	the tenor logic.
+2493080	2495080	Why is it optimal?
+2495080	2497080	That was explained to me
+2497080	2499080	by the physicist Ed Fredkin.
+2499080	2501080	And it has something to do with
+2501080	2503080	when I imagine
+2503080	2505080	I'm building a memory chip
+2505080	2507080	or a CPU,
+2507080	2509080	so electronics,
+2509080	2511080	and I try to build up the logic optimally,
+2511080	2513080	then the question is
+2513080	2515080	how does the size of my circuit behave,
+2515080	2517080	how many more circuits do I need
+2517080	2519080	if I want to form more possible states.
+2521080	2523080	And this surface growth
+2523080	2525080	that I need if I want to form more information
+2525080	2527080	has something to do with
+2527080	2529080	how many more digits I need.
+2529080	2531080	For example, in the twelfth system
+2531080	2533080	I can form 256 different values
+2533080	2535080	with 8 digits,
+2535080	2537080	with one byte.
+2537080	2539080	So a three-digit decimal number
+2539080	2541080	or a two-digit hexadecimal number.
+2541080	2543080	The hexadecimal would be the FF
+2543080	2545080	of the 16 digits.
+2545080	2547080	That's what you traditionally
+2547080	2549080	call ABCDEF
+2549080	2551080	for the digits
+2551080	2553080	from 10 to 16.
+2553080	2555080	And in the tenor system
+2555080	2557080	you would take
+2557080	2559080	for example 0 and minus 1 and 1
+2559080	2561080	or 0, 1 and 2
+2561080	2563080	and build up all the numbers from them.
+2563080	2565080	And the cool thing is
+2565080	2567080	that it's more about the optimal growth rate.
+2567080	2569080	And the optimal growth rate
+2569080	2571080	is the number E.
+2571080	2573080	And E is
+2573080	2575080	2.81,
+2575080	2577080	it goes on, I don't know exactly,
+2577080	2579080	embarrassingly.
+2579080	2581080	And 3 is the number
+2581080	2583080	that's next to it.
+2583080	2585080	And Fredkin
+2585080	2587080	was a very wild physicist
+2587080	2589080	who had totally crazy ideas.
+2589080	2591080	But this idea
+2591080	2593080	was checked.
+2593080	2595080	There was a Russian
+2595080	2597080	who built a computer in the Soviet Union
+2597080	2599080	who built terrestrial logic
+2599080	2601080	and they could show that they are more energy efficient
+2601080	2603080	and have less optimal
+2603080	2605080	circuits than the binary system.
+2605080	2607080	But since the world started
+2607080	2609080	with the binary system and already
+2609080	2611080	adjusted to it and so much theory and practice
+2611080	2613080	existed, we stayed with it.
+2613080	2615080	I just understand father-dependency
+2615080	2617080	like the tessitura layout and things like that.
+2617080	2619080	Exactly.
+2619080	2621080	We have to redesign at some point.
+2621080	2623080	But it's also not bad, because in the end
+2623080	2625080	it's equivalent.
+2625080	2627080	And the fourth shows that
+2627080	2629080	we haven't been able to use
+2629080	2631080	this original mathematical logic
+2631080	2633080	since Ergödel.
+2633080	2635080	By the way, the Russellian Antinomy
+2635080	2637080	maybe we can explain it for the listeners.
+2637080	2639080	Do you want to?
+2639080	2641080	The Russellian Antinomy
+2641080	2643080	is either used as
+2643080	2645080	Barbara's paradox, right?
+2645080	2647080	There's the
+2647080	2649080	razor, no, what's his name?
+2649080	2651080	The hairdresser.
+2651080	2653080	The one who razes everyone in his village
+2653080	2655080	except the ones who
+2655080	2657080	shave themselves.
+2657080	2659080	The ones who don't...
+2659080	2661080	We didn't catch that well.
+2661080	2663080	The ones who don't shave themselves.
+2663080	2665080	Exactly.
+2665080	2667080	And then of course the question is
+2667080	2669080	does he shave himself?
+2669080	2671080	That's a contradiction.
+2671080	2673080	Let's go through it so that we can listen
+2673080	2675080	and not think about it.
+2675080	2677080	Yes.
+2677080	2679080	Do you want to do it or what?
+2679080	2681080	Just go close to the microphone.
+2681080	2683080	You don't have to...
+2683080	2685080	So that you can think about it again.
+2685080	2687080	If the razor razes everyone who doesn't shave
+2687080	2689080	himself, it's of course the question who
+2689080	2691080	razes the razor.
+2691080	2693080	And if he doesn't shave himself,
+2693080	2695080	then it means he's one of the instances
+2695080	2697080	that are shaved, because he razes
+2697080	2699080	everyone who doesn't shave himself.
+2699080	2701080	And that means he razes himself, but as soon as
+2701080	2703080	he razes himself, he doesn't shave himself.
+2703080	2705080	It's always stupid when you express it in
+2705080	2707080	words.
+2707080	2709080	Of course, it's a theoretical amount.
+2709080	2711080	The amount of all the amounts that don't
+2711080	2713080	shave themselves.
+2713080	2715080	If they shave themselves, then they
+2715080	2717080	shouldn't shave themselves.
+2717080	2719080	If they don't shave themselves, then they
+2719080	2721080	have to shave themselves, because they
+2721080	2723080	have all the amounts that don't shave
+2723080	2725080	themselves.
+2725080	2727080	Maybe we'll show you some graphs.
+2727080	2729080	But why is that even a problem?
+2729080	2731080	It's a problem because the
+2731080	2733080	way that shaving is done in this
+2733080	2735080	place, and with the language they express
+2735080	2737080	an expression that is valid.
+2737080	2739080	It considers all rules of this
+2739080	2741080	language, and yet it leads
+2741080	2743080	this sentence into contradictions.
+2743080	2745080	It simply leads to the fact that you can't
+2745080	2747080	make a valid statement about the
+2747080	2749080	hairdresser himself and find out if
+2749080	2751080	he's shaving himself or not.
+2751080	2753080	It's not a problem for the computer scientists.
+2753080	2755080	The computer scientists are familiar with the fact
+2755080	2757080	that you can make specifications for
+2757080	2759080	which there is no implementation.
+2759080	2761080	That means that the thing doesn't even exist.
+2761080	2763080	The customer wants it,
+2763080	2765080	he says,
+2765080	2767080	I want this and that,
+2767080	2769080	and you as a computer scientist look at it
+2769080	2771080	and say, I'm sorry, it doesn't work, I can
+2771080	2773080	prove that it doesn't work.
+2773080	2775080	And for the computer scientists it's not a problem at all,
+2775080	2777080	they're used to the fact that the world works that way.
+2777080	2779080	That the language, if you use it
+2779080	2781080	inappropriately, leads to
+2781080	2783080	things that are said in the language
+2783080	2785080	that have nothing to do with the world.
+2785080	2787080	And the only languages that can say
+2787080	2789080	that always agree with the world
+2789080	2791080	are the languages in which
+2791080	2793080	the implementation itself takes place.
+2793080	2795080	That is, there is a difference between
+2795080	2797080	syntax and semantics, classically.
+2797080	2799080	Semantics is the meaning
+2799080	2801080	that the language has, and the syntax
+2801080	2803080	are the rules by which the language
+2803080	2805080	is calculated, that is, in which
+2805080	2807080	the language is written and evaluated.
+2807080	2809080	And originally
+2809080	2811080	people in mathematics
+2811080	2813080	assumed that
+2813080	2815080	the syntax and the semantics
+2815080	2817080	are related to each other, and that
+2817080	2819080	they can be depicted on top of each other,
+2819080	2821080	but that they are fundamentally different.
+2821080	2823080	And in computer science
+2823080	2825080	the semantics of a language is the
+2825080	2827080	causal structure that the language has,
+2827080	2829080	so what the computer program does at the end.
+2829080	2831080	And the computer program always does
+2831080	2833080	something, and maybe it doesn't do
+2833080	2835080	what you want, but that's not the problem
+2835080	2837080	of this language, that's your problem,
+2837080	2839080	that you use the language in a way
+2839080	2841080	that doesn't mean what the language actually means.
+2841080	2843080	And from my point of view
+2843080	2845080	you can interpret existence
+2845080	2847080	in such a way that you say
+2847080	2849080	to exist means to be implemented.
+2849080	2851080	To be implemented means
+2851080	2853080	that there is a system somewhere
+2853080	2855080	that works in such a way
+2855080	2857080	that what is described there happens.
+2857080	2859080	And that is exactly that.
+2859080	2861080	This is a very general term
+2861080	2863080	of implementation. You could, for example, say
+2863080	2865080	is there really money, or is it just
+2865080	2867080	a way of talking about things?
+2867080	2869080	And you could say, is there really money
+2869080	2871080	in the way that money is implemented?
+2871080	2873080	So there are symbol systems
+2873080	2875080	in the world, and there are agreements
+2875080	2877080	and meanings, there are causal structures
+2877080	2879080	that lead to money being there.
+2879080	2881080	And that exists from certain points of view,
+2881080	2883080	and it doesn't exist from other points of view.
+2883080	2885080	It depends on the language that I use
+2885080	2887080	and the causal structures
+2887080	2889080	that exist from the point of view
+2889080	2891080	of this language. And there are certain
+2891080	2893080	moments when the money doesn't exist,
+2893080	2895080	where, for example,
+2895080	2897080	a central bank looks at the thing
+2897080	2899080	and says, it doesn't work anymore, we have to
+2899080	2901080	change the currency.
+2901080	2903080	And at that moment the money stops
+2903080	2905080	to exist for a moment, and
+2905080	2907080	then the money is reinvented,
+2907080	2909080	so to speak, as a kind of software.
+2909080	2911080	And compared to our
+2911080	2913080	poor hairdresser,
+2913080	2915080	the whole thing looks like
+2915080	2917080	that the mathematician has taken the
+2917080	2919080	liberty of using a language
+2919080	2921080	that doesn't describe anything
+2921080	2923080	in the borderline.
+2923080	2925080	Or he has the claim
+2925080	2927080	that it describes something, and
+2927080	2929080	doesn't do anything about it.
+2929080	2931080	Because there obviously can't be this hairdresser.
+2931080	2933080	What the mathematician has done now,
+2933080	2935080	he has just invented a rule
+2935080	2937080	for a kind of game,
+2937080	2939080	and this rule is not solvable, not solvable.
+2939080	2941080	There can't be a game that works like that.
+2941080	2943080	And we can prove that it doesn't work like that.
+2943080	2945080	And that means, don't expect it to work like that.
+2945080	2947080	We can't build a computer program
+2947080	2949080	that works like that.
+2951080	2953080	Very briefly, sorry.
+2953080	2955080	So there is no hairdresser
+2955080	2957080	who doesn't shave themselves.
+2957080	2959080	Yes, there simply can't be one.
+2959080	2961080	There can't be one, and you can't even
+2961080	2963080	really imagine it, by the way.
+2963080	2965080	That's also a bit counterintuitive.
+2965080	2967080	You think, oh, there you imagine something
+2967080	2969080	that you can't implement, but even the
+2969080	2971080	imagination doesn't work. Even that breaks
+2971080	2973080	in when you switch back and forth,
+2973080	2975080	and you can't stabilize it.
+2975080	2977080	That's also important.
+2977080	2979080	If we now move on
+2979080	2981080	to the next stage,
+2981080	2983080	which says
+2983080	2985080	that all consistent notions
+2985080	2987080	of truth are computational,
+2987080	2989080	and the Church-Turing thesis says that
+2989080	2991080	all computational languages are equivalent.
+2991080	2993080	So what that means is
+2993080	2995080	that after Gürtel's theorem has proven
+2995080	2997080	to us that logic is
+2997080	2999080	indecisive and that truth
+2999080	3001080	cannot be defined in general by a mathematical
+3001080	3003080	procedure, it means that
+3003080	3005080	we have simply misdefined truth.
+3005080	3007080	If truth is defined in such a way
+3007080	3009080	that it doesn't have to
+3009080	3011080	rely on hairdressers who don't shave themselves,
+3011080	3013080	then the truth has simply been misdefined.
+3013080	3015080	That means we need
+3015080	3017080	a different theory of truth.
+3017080	3019080	We need a theory of truth that
+3019080	3021080	can be described in such a way
+3021080	3023080	that you can always determine what is true.
+3023080	3025080	That means the truth depends on the
+3025080	3027080	procedure with which you determine it.
+3027080	3029080	And that means, if you claim that
+3029080	3031080	something is true, you have to indicate
+3031080	3033080	with which procedure you come to the truth.
+3033080	3035080	And if this procedure doesn't exist
+3035080	3037080	or you can't indicate it,
+3037080	3039080	then you don't have a theory of truth.
+3039080	3041080	How long did it take you to come to the truth?
+3041080	3043080	That's the question.
+3043080	3045080	Are you able to build a system
+3045080	3047080	that takes endless steps?
+3047080	3049080	It's not just a practical question,
+3049080	3051080	but also a theoretical question.
+3051080	3053080	Is there a hypothetical universe
+3053080	3055080	in which mathematics exists
+3055080	3057080	where you can do that? And it doesn't work.
+3057080	3059080	You get the bounding,
+3059080	3061080	but what you don't get is
+3061080	3063080	the infinity.
+3063080	3065080	You only get the infinity
+3065080	3067080	if you assume it's already there.
+3067080	3069080	It's like a little black box
+3069080	3071080	from which the infinity comes out.
+3071080	3073080	But when you open the box,
+3073080	3075080	you don't see anything in there that makes sense.
+3075080	3077080	In ZF, for example, there's the infinity axiom.
+3077080	3079080	It's introduced by axiom.
+3079080	3081080	Exactly. That's the box you take
+3081080	3083080	and you look at a real universe
+3083080	3085080	as an observer.
+3085080	3087080	Real doesn't necessarily mean physical,
+3087080	3089080	but some hypothetical.
+3089080	3091080	For example, in a computer language,
+3091080	3093080	I build a hypothetical computer.
+3093080	3095080	What would it look like
+3095080	3097080	if I implemented it?
+3097080	3099080	What would the subroutine look like?
+3099080	3101080	That's not possible.
+3125080	3127080	We're still at level 4-5.
+3127080	3129080	We're going over to level 5.
+3129080	3131080	We refer to the mathematical logic
+3131080	3133080	that Götel believed in.
+3133080	3135080	And we say to Götel
+3135080	3137080	that the vibration doesn't come from
+3137080	3139080	the fact that you realized
+3139080	3141080	that mathematics doesn't work,
+3141080	3143080	but that you used the wrong mathematics.
+3143080	3145080	There's a mathematics that works,
+3145080	3147080	and that mathematics is
+3147080	3149080	the constructive mathematics.
+3149080	3151080	The modern name for constructive mathematics
+3151080	3153080	is computation.
+3153080	3155080	We've already talked about infinity.
+3155080	3157080	It's about the fact that
+3157080	3159080	you can't observe infinity.
+3159080	3161080	Every observation is necessarily
+3161080	3163080	a discrete, finite bit vector.
+3163080	3165080	You can't observe infinitely
+3165080	3167080	and then close it off.
+3167080	3169080	It doesn't work.
+3169080	3171080	Empirically, you can't get it in.
+3171080	3173080	You can't construct it.
+3173080	3175080	You can't start to formulate
+3175080	3177080	or build something and get it done.
+3177080	3179080	If it's infinite,
+3179080	3181080	it can't be finished by definition.
+3181080	3183080	If it's infinite, then you get
+3183080	3185080	contradictions like the razor paradox
+3185080	3187080	that we just talked about
+3187080	3189080	and like the problem of holding.
+3189080	3191080	I wanted to talk about holding.
+3191080	3193080	The question is, why is holding
+3193080	3195080	a problem at all?
+3195080	3197080	What Thuring tried to do
+3197080	3199080	was to train
+3199080	3201080	classical mathematics
+3201080	3203080	into computer programs.
+3203080	3205080	But that also means
+3205080	3207080	that I have computer programs
+3207080	3209080	that may have to run infinitely long.
+3209080	3211080	Where I can't determine
+3211080	3213080	the number of steps.
+3213080	3215080	The holding problem says
+3215080	3217080	that there is no algorithm
+3217080	3219080	that can determine for any
+3219080	3221080	unknown algorithm
+3221080	3223080	if it ever comes to an end.
+3223080	3225080	Whether you stop after an infinite number of steps
+3225080	3227080	or stay in an infinite loop.
+3227080	3229080	You can prove
+3229080	3231080	that the holding problem
+3231080	3233080	is due to
+3233080	3235080	reductio ad absurdum,
+3235080	3237080	through negation
+3237080	3239080	of the holding problem.
+3239080	3241080	If you assume
+3241080	3243080	that there is a computer
+3243080	3245080	that solves the holding problem,
+3245080	3247080	then you could build
+3247080	3249080	a loop
+3249080	3251080	that determines
+3251080	3253080	that the algorithm is terminated.
+3253080	3255080	Then the thing runs into an infinite loop.
+3255080	3257080	If I build the thing
+3257080	3259080	on the next step,
+3259080	3261080	to solve the holding problem,
+3261080	3263080	then the assumption that
+3263080	3265080	I can solve the holding problem leads
+3265080	3267080	to the fact that I can never build a computer
+3267080	3269080	that solves the holding problem
+3269080	3271080	for mathematical abstract reasons.
+3271080	3273080	In reality,
+3273080	3275080	the holding problem
+3275080	3277080	does not apply to computer science.
+3277080	3279080	The thing is that
+3279080	3281080	normally my program
+3281080	3283080	should come to an end
+3283080	3285080	after an infinite number of steps.
+3285080	3287080	I know how many there are.
+3287080	3289080	It should be finished today.
+3289080	3291080	Or it should be finished before I die.
+3291080	3293080	That means I can just let the computer run
+3293080	3295080	until it has a result.
+3295080	3297080	If it doesn't, I just stop.
+3297080	3299080	In our own consciousness,
+3299080	3301080	we can only perform
+3301080	3303080	so many operations in our cells
+3303080	3305080	and neurons.
+3305080	3307080	If we don't have a result
+3307080	3309080	after a certain time,
+3309080	3311080	we can't remember what happened before
+3311080	3313080	because we didn't live at that time
+3313080	3315080	or were already dead
+3315080	3317080	or asleep.
+3317080	3319080	We always have to assume
+3319080	3321080	that we can only perform
+3321080	3323080	until we have the result.
+3323080	3325080	The results of the holding problem
+3325080	3327080	are of theoretical interest,
+3327080	3329080	not practical.
+3329080	3331080	The theoretical interest
+3331080	3333080	has to do with the basics of logic
+3333080	3335080	or the basics of mathematics
+3335080	3337080	when I try to translate them into computer science.
+3337080	3339080	The holding problem is that
+3339080	3341080	there are classes of functions
+3341080	3343080	that are allowed in mathematics,
+3343080	3345080	but that are not determinable in computer science.
+3345080	3347080	I can't build a machine
+3347080	3349080	or a theory that is able
+3349080	3351080	to calculate these functions.
+3351080	3353080	The problem is that
+3353080	3355080	before the computer was invented
+3355080	3357080	or this concept was invented,
+3357080	3359080	people thought that
+3359080	3361080	the evaluation of logical expressions
+3361080	3363080	or the mathematics and interpretation
+3363080	3365080	of language worked.
+3365080	3367080	They thought that they could do more
+3367080	3369080	than what any interpretation system could do.
+3379080	3381080	Let's go back to the beginning.
+3381080	3383080	Let's go back to the beginning.
+3383080	3385080	Let's go back to the beginning.
+3385080	3387080	Let's go back to the beginning.
+3387080	3389080	Let's go back to the beginning.
+3389080	3391080	Let's go back to the beginning.
+3391080	3393080	Let's go back to the beginning.
+3393080	3395080	Let's go back to the beginning.
+3395080	3397080	Let's go back to the beginning.
+3397080	3399080	Let's go back to the beginning.
+3399080	3401080	Let's go back to the beginning.
+3403080	3405080	Let's go back to the beginning.
+3405080	3407080	Let's go back to the beginning.
+3408080	3410080	Let's go back to the beginning.
+3410080	3412080	Let's go back to the beginning.
+3412080	3414080	Let's go back to the beginning.
+3414080	3416080	Let's go back to the beginning.
+3416080	3418080	Let's go back to the beginning.
+3418080	3420080	Let's go back to the beginning.
+3420080	3422080	Let's go back to the beginning.
+3422080	3424080	Let's go back to the beginning.
+3424080	3426080	Let's go back to the beginning.
+3426080	3431080	I went to the Berlin School of Mind and Brain
+3431080	3433080	for some time.
+3433080	3435080	I worked on 손역은 because I was
+3435080	3440080	that didn't fit into the project that took place at the time.
+3440080	3445080	But at the same time, I found out that I was allowed to learn
+3445080	3450080	and organized a seminar on the philosophy of computationalism,
+3450080	3454080	the basics of representation in computationalism.
+3454080	3458080	Among other things, I went through the lambda calculus with the students,
+3458080	3462080	step by step, how it works. It's not that difficult to understand.
+3462080	3465080	The Turing machine, step by step, is also not that difficult to understand,
+3465080	3468080	except for the lowest basics and why they are equivalent.
+3468080	3472080	After that, I asked the students what they think is more powerful.
+3472080	3476080	A majority of the students in the vote said that the lambda calculus is more powerful
+3476080	3480080	because it can make things parallel and the Turing machine only sequentially.
+3480080	3483080	The thing is, however, that time doesn't matter at all,
+3483080	3485080	but I can represent them one by one.
+3485080	3489080	And there are no statements about how fast it runs in the world.
+3489080	3492080	In fact, they are exactly the same because I can represent them
+3492080	3495080	one by one with a very simple procedure.
+3495080	3500080	And this realization that all computational systems can do the same,
+3500080	3502080	that's the Church-Turing thesis.
+3502080	3506080	But that means that I can use any of these systems
+3506080	3509080	to describe the entire reality.
+3509080	3515080	That means I can just take a Turing machine and put it into nothing,
+3515080	3518080	and then the whole universe runs on it.
+3518080	3521080	And that brings us to the next point.
+3521080	3527080	That means, every consistently described universe is equivalent
+3527080	3530080	to some kind of Turing machine,
+3530080	3534080	which is actually a finite but possibly unbounded automaton,
+3534080	3539080	but we can never know what has put a Turing machine into the void.
+3539080	3543080	Maybe we should briefly talk about the term automaton.
+3543080	3547080	The automaton is a kind of calculation to be defined
+3547080	3549080	by discrete state transitions.
+3549080	3552080	And the cellular automaton is very well known.
+3552080	3557080	The cellular automaton is a thing that uses cells next to each other.
+3557080	3560080	They can be, for example, in 1D or 2D.
+3560080	3564080	And then there is a rule that says that the configuration
+3564080	3569080	of the states of the cells goes into the next configurations.
+3570080	3574080	A well-known automaton is, for example, the Game of Life.
+3574080	3578080	It is a very nice automaton that was discovered by John Conway,
+3578080	3580080	and it is two-dimensional.
+3580080	3583080	And that means that it is just a little box thing
+3583080	3586080	where each cell, like on a little box of paper,
+3586080	3588080	has eight neighbors around it.
+3588080	3592080	So three times three is exactly the eight neighbors of the middle cell.
+3592080	3595080	And each cell can have exactly one of two states,
+3595080	3598080	namely living or dead, that is, filled or empty.
+3598080	3605080	We can say in the Game of Life that if a cell has more than three neighbors,
+3605080	3609080	then it dies of infection.
+3609080	3614080	And if there are two or three, then you stay alive.
+3614080	3617080	Because if there are exactly three, you come to life.
+3617080	3619080	If there are less than two, more than three, you die.
+3619080	3622080	Exactly, so actually only two rules and the other implicit is already in there.
+3622080	3626080	And these rules lead to the fact that if you have a random configuration of cells
+3626080	3631080	that they start blubbering and that after a certain time patterns are created there.
+3631080	3635080	And these patterns are always periodic at the end.
+3635080	3641080	And in the boring case, the period is one or zero.
+3641080	3644080	And that means that nothing is there anymore.
+3644080	3647080	But the patterns can also have relatively complex periods.
+3647080	3649080	So very long, complicated patterns are created.
+3649080	3652080	And sometimes it takes a long time for them to go over to such a periodic pattern.
+3652080	3657080	And you can build very interesting structures in this world of the Game of Life,
+3657080	3659080	for example the so-called gliders.
+3659080	3663080	The glider is a kind of particle that plants itself.
+3663080	3668080	That is, it is a pattern that changes its surroundings in such a way
+3668080	3673080	that new cells come to life on its edge and die on the opposite edge of the cell.
+3673080	3676080	And this is how this glider walks through the world one by one.
+3676080	3679080	And the gliders that you see there, they are called gliders.
+3680080	3685080	And the gliders that you have discovered, they move horizontally or vertically.
+3685080	3690080	And from the gliders you can build structures that exchange information.
+3690080	3696080	For example, computers, where the glider is a kind of bit that flies through the area
+3696080	3701080	and then triggers a circuit that generates new gliders,
+3701080	3704080	a glider cannon that periodically shoots new gliders.
+3704080	3708080	And if you aim the glider cannon correctly, then you can shoot broken glider cannons
+3708080	3713080	or shoot again functionally and can practically build transistor logic with it
+3713080	3718080	and then build a new Game of Life on the next level, for example.
+3718080	3723080	If you zoom out, it looks like the Game of Life and re-images itself.
+3723080	3725080	The Game of Life is Turing complete.
+3725080	3729080	And there was a competition between Steven Wolfram and Marvin Minsky
+3729080	3733080	about what is the easiest cellular machine that is Turing complete.
+3733080	3740080	And it is also such a simple rule that can be defined in one-dimensionally automated machines.
+3740080	3746080	And that means that you look at the initial state as the tape of a Turing machine
+3746080	3750080	and the rule that is applied on it is what describes how the evolution is going on.
+3750080	3754080	Then you can convert that into any computer.
+3755080	3758080	Who won? Was it Wolfram and Rohan?
+3758080	3762080	They never really agreed because it depends on what you expect.
+3763080	3769080	With Wolfram it was like this, that one of his employees published the machines that they had found all over the place
+3769080	3771080	before Wolfram did that.
+3771080	3775080	Wolfram was so smart that he sued the employee for copyright infringement.
+3775080	3778080	I think in very rare cases in the history of mathematics,
+3778080	3783080	where a mathematician was sued for copyright for publishing a proof,
+3783080	3788080	which somehow made many people very angry at Wolfram.
+3822080	3826080	When you talk about Turing complete systems or abstract computers,
+3826080	3830080	they are actually only abstract definitions of computations,
+3830080	3833080	so what this system can theoretically do.
+3833080	3837080	And it turns out that such systems, Turing complete systems like the Game of Life
+3837080	3842080	or the abstract computer that Goethe came up with about the piano axioms or a Turing machine,
+3842080	3845080	what is the difference between these systems?
+3845080	3848080	Turing complete systems like the Game of Life or the abstract computer
+3848080	3852080	that Goethe came up with about the piano axioms or a Turing machine,
+3852080	3856080	which is also an abstract thing, or lambda calculus, and the rules of Wolfram.
+3856080	3859080	In the end, they are any pattern generator.
+3859080	3862080	So all patterns that can be generated can be generated from these things.
+3862080	3866080	A pattern is defined as a lot of recognizable differences.
+3866080	3870080	So patterns are discrete, finite structures, but they can be very large.
+3870080	3875080	And now you are at a point where you realize that when you talk about the universe,
+3875080	3878080	you are actually only talking about a large collection of recognizable differences,
+3878080	3881080	so a large collection of patterns.
+3881080	3885080	And then you can say, well, the universe for me is the amount of all my observations,
+3885080	3890080	in my case also the amount of all observations from other people or measuring instruments and so on and so forth.
+3890080	3895080	But in the end, what you mean by the universe, when you refer to the observation,
+3895080	3899080	is a very, very large and yet finally discrete bit vector.
+3899080	3902080	And this can be produced by a Turing complete system.
+3902080	3906080	That is, you are on the level that you simply say, well, from my perspective,
+3906080	3911080	the necessary condition for the amount of all my observations is a Turing complete system,
+3911080	3916080	some pattern generator. And from my perspective, the universe is a random pattern generator.
+3916080	3919080	So that was my step. But I don't know why that's there.
+3919080	3923080	That would be in the field of metaphysics, where cool people like Wolfram, for example,
+3923080	3929080	dare to get out of the field of metaphysics and really want to explain.
+3929080	3933080	Wolfram's idea of physics was, instead of, so to speak,
+3933080	3938080	to reverse-engineer physics, that is, to transfer our observations from the world
+3938080	3943080	into a series of formulas and then simplify these formulas so far
+3943080	3946080	that you have less and less at the end. Why is that?
+3946080	3949080	Standard model is practically half a page full of formulas,
+3949080	3952080	where you need a long time to understand the individual formulas, what they mean,
+3952080	3955080	but it's still half a page code, so to speak.
+3955080	3959080	And Wolfram's idea is, of course, that it's still way too long.
+3959080	3963080	There has to be a simple rule from which everything is derived.
+3963080	3965080	And what do I think of this simple rule?
+3965080	3969080	I could simply number all the cellular machines that exist
+3969080	3973080	and search for something like our universe at the end.
+3973080	3976080	And then I would find out which of these machines we are in.
+3977080	3980080	And the question that is still open, the spoiler,
+3980080	3983080	Wolfram has not been able to find these machines so far.
+3983080	3988080	And the idea is, I think, brilliant to say that we are trying to search for physics from another series,
+3988080	3991080	that we are trying to say all possible laws of the series,
+3991080	3994080	through which the world can be expressed.
+3994080	3999080	This is of course very difficult, because it could be that it is difficult
+3999080	4002080	to simulate a computer program that comes out clearly over the clock,
+4002080	4005080	simply because you have to look at so many elements at once.
+4005080	4010080	And the other question is, where does this Turing machine come from now?
+4010080	4013080	So what has this Turing machine done in the lesson?
+4013080	4015080	Why is there something rather than nothing?
+4015080	4019080	And that is the question that you are confronted with at this level.
+4019080	4022080	And this question has no obvious answer.
+4022080	4024080	By the way, with all theories that are still there,
+4024080	4026080	even if people say they find computation strange,
+4026080	4030080	so far everyone has had the problem that you need any first cause,
+4030080	4033080	the first movement or something, why is there nothing?
+4033080	4037080	Exactly. And Christianity was not so helpful,
+4037080	4044080	because many of these considerations, which played a role in defining a civilization spirit,
+4044080	4052080	so a total god, god is, I think we atheists often don't really understand what god means,
+4052080	4059080	but god is a technical term, and god is something similar to the human self,
+4059080	4064080	the self is a technical term, the self is a model of a person that is created in our brain
+4064080	4069080	about ourselves, and that we use to move and understand ourselves in the world.
+4069080	4072080	And this includes, for example, that we perceive ourselves as human beings,
+4072080	4076080	and that we have a biography, and that we make decisions ourselves,
+4076080	4080080	and have expectations of the future, and have certain identifications.
+4080080	4084080	And all of this is in a self-model and definitely what kind of agent we are,
+4084080	4087080	so this personal, human self.
+4087080	4090080	And this is not identical to our consciousness.
+4090080	4094080	Our consciousness is also a kind of self, but it is a more minimal self,
+4094080	4098080	in which practically an observer perceives himself while observing,
+4098080	4101080	even before he has a language or something else,
+4101080	4104080	and this minimal self is a kind of attention self,
+4104080	4111080	where practically the observer perceives himself as the thing that has attention.
+4111080	4115080	And the personal self is already much more charged up, has much more properties,
+4115080	4121080	it has a first-person perspective and the identification with the way we are in the world.
+4121080	4128080	And besides this personal self, from which exactly one normally exists per human spirit,
+4128080	4131080	then you have such a multiple personality disorder,
+4131080	4137080	there are also selfs that can exist beyond several spirits, and they are called gods.
+4137080	4143080	So gods are clusters of agentic properties that stabilize,
+4143080	4149080	and which, for example via memes or through interactions with each other,
+4149080	4155080	or through archetypes, that is, they are discovered regardless of each other on different spirits,
+4155080	4159080	but because of the same observer, the same world and the same mathematical principles,
+4159080	4166080	they lead to the fact that practically effective agents are created that exist beyond a single spirit.
+4166080	4172080	And political societies are some in which the problem of coordination
+4172080	4177080	over individual self-sufficient agents is solved in such a way that spirits are supported
+4177080	4180080	in their formation beyond the different spirits.
+4180080	4184080	That is, it is not only the case that the individual people in the world interact with each other,
+4184080	4187080	but also selfs that do not define themselves as human beings,
+4187080	4192080	but are there as principles beyond human beings, for example social principles.
+4192080	4197080	For example, there is a god of harvest that leads people to coordinate themselves
+4197080	4200080	so that they experience themselves as an agent who now brings in the harvest,
+4200080	4203080	and they all have to serve the individual spirit, the individual body.
+4203080	4209080	And in monotheism it is the case that all these gods are made illegal, forbidden,
+4209080	4213080	and say, no, there is only one god, and that is the god of our civilization.
+4213080	4216080	Originally for the Hebrews it is the god of the tribe,
+4216080	4220080	and for the Catholics it is the attempt to transfer the Roman Empire,
+4220080	4224080	which was relatively rational, but also partly political,
+4224080	4229080	into a kind of cult, and they branched or forged it from the Hebrew cult,
+4229080	4236080	and complemented it with Jesus, the Middle Eastern gnostic,
+4236080	4239080	who was killed by the Romans at the time because he was too arrogant.
+4239080	4242080	They take him in to define the aesthetics of this new cult,
+4242080	4244080	and then they define a single god.
+4244080	4248080	And we find this single god, each one of us,
+4248080	4251080	by searching for the perfect god,
+4251080	4256080	so after the one who is created by the fact that everyone does what should be done best.
+4256080	4260080	If you think about it, you can deduce from it what this agent looks like.
+4260080	4263080	Is that what is created when everyone does what should be done best,
+4263080	4267080	an agent at all, a control system for future conditions?
+4267080	4269080	Yes, otherwise it would be less perfect.
+4269080	4272080	So it should be something that performs control functions,
+4272080	4275080	and it should be the perfect thing that performs control functions.
+4275080	4278080	And compared to the Hebrew god, who is then, for example,
+4278080	4281080	jealous and angry, and makes a lot of decisions,
+4281080	4285080	from which you ask yourself, is it optimal to use a shark shark rain,
+4285080	4287080	or to kill the newborns, or something like that.
+4287080	4290080	This is expanded in Christianity, so to speak.
+4290080	4295080	Then we think, no, we are not looking for what this tribe thought back then,
+4295080	4298080	what this entity then did, or not,
+4298080	4300080	but we think about what would happen in the ideal case,
+4300080	4302080	what is the perfect system.
+4302080	4307080	And the philosophers of Catholicism, especially Thomas Aquinas,
+4307080	4310080	thought very seriously about how to specify this god.
+4310080	4313080	And he put a number of things into the specifications
+4313080	4316080	that do not belong in there from my point of view.
+4316080	4320080	And I say that now as someone who has no idea about theology
+4320080	4323080	and who only says it from his personal point of view,
+4323080	4326080	without any great demand to get it right.
+4326080	4329080	But the idea that the perfect god,
+4329080	4332080	even the one who created the universe,
+4332080	4335080	is more or less an empirical question for me,
+4335080	4337080	that I can decide a priori.
+4337080	4339080	So to consider whether God is an agent,
+4339080	4341080	if I try to see him as an optimal agent,
+4341080	4344080	which results in everyone who discovers him serving him,
+4344080	4347080	I see that one can derive this a priori,
+4347080	4350080	under certain circumstances, without any conditions.
+4350080	4355080	But the idea that our universe was created by him,
+4355080	4358080	that does not really show up.
+4358080	4361080	From my point of view, it is true that the monotheistic god
+4361080	4363080	was discovered only 6,000 years ago,
+4363080	4365080	and before that there are no traces of it.
+4365080	4369080	And that means that it is in its form a human discovery.
+4369080	4372080	And this human discovery is possibly not an absolute discovery,
+4372080	4374080	but has had certain conditions
+4374080	4377080	that people had to develop certain cultures
+4377080	4379080	that brought them to these ideas.
+4379080	4382080	And this entity may actually only arise
+4382080	4385080	through the interaction of people
+4385080	4388080	who discover this entity and want to serve it.
+4388080	4390080	That means as a civilisation spirit,
+4390080	4394080	not as a creator god who created a physical universe.
+4394080	4396080	So there is a trick,
+4396080	4399080	that you try to bring together the unknown
+4399080	4402080	with an answer that is comfortable,
+4402080	4405080	and the one with this god of civilisation,
+4405080	4409080	with whom you try to discipline and harmonize your population,
+4409080	4412080	and to make your behaviour coherent.
+4412080	4414080	And I think that's how you get into trouble,
+4414080	4417080	if you don't bring this back to an empirical question.
+4418080	4421080	Practically, this also leads to logical contradictions,
+4421080	4423080	because this god is not structureless,
+4423080	4426080	he has properties, so that he can be effective.
+4426080	4428080	He has to be structural.
+4428080	4430080	And that means that he is not free of conditions.
+4430080	4433080	And he is not suitable as a condition for the physical universe.
+4433080	4436080	So if he is a condition for the physical universe,
+4436080	4439080	then the physical universe becomes a kind of simulation
+4439080	4441080	that is created by him, is conceivable.
+4441080	4444080	Maybe our god is a being
+4444080	4447080	that existed in the next higher universe,
+4447080	4450080	and created this universe as a kind of computer simulation.
+4450080	4452080	But that doesn't change the fact,
+4452080	4454080	that this next higher universe
+4454080	4456080	also has to be conceivable in some language.
+4456080	4459080	In the broadest sense, with some mathematical language.
+4459080	4461080	And that's where this god has to fall out.
+4461080	4464080	How do I get this precondition-free universe
+4464080	4467080	where the world is created by itself?
+4467080	4471080	And this question, why is there anything at all,
+4471080	4476080	is a question that I haven't seen a satisfying answer for a long time.
+4476080	4480080	And for me it was the point where I realized,
+4480080	4482080	okay, now it's working.
+4482080	4486080	When I read a text by the philosopher Charles Sanders Peirce,
+4486080	4489080	he wrote about existence and non-existence
+4489080	4491080	in this short chapter.
+4491080	4494080	And he states that you can describe the non-existence
+4494080	4497080	by zero and the existence by one.
+4497080	4499080	And then he says,
+4499080	4501080	you could also describe the non-existence
+4501080	4503080	by the negation of existence,
+4503080	4505080	so by minus one.
+4505080	4507080	So there is one way to exist
+4507080	4509080	and two ways not to exist.
+4509080	4511080	And I read that and thought,
+4511080	4513080	that's nonsense.
+4513080	4515080	You didn't discover that there is one way to exist
+4515080	4517080	and two ways not to exist,
+4517080	4519080	but you found labels
+4519080	4521080	for existence and non-existence.
+4521080	4523080	And there are infinitely many,
+4523080	4525080	so unlimitedly many,
+4525080	4527080	that you can create.
+4527080	4529080	And what you used
+4529080	4531080	and put forward for that
+4531080	4533080	is a system of numbers.
+4533080	4535080	And the piano axiom,
+4535080	4537080	this system of numbers,
+4537080	4539080	is so powerful that you can build
+4539080	4541080	a whole universe out of it,
+4541080	4543080	so it's not conditional.
+4543080	4545080	That means you trick yourself,
+4545080	4547080	you pretend that zero and one
+4547080	4549080	are already there out of nothing.
+4549080	4551080	And from that you talk about existence
+4551080	4553080	and non-existence.
+4553080	4555080	But can we talk about non-existence
+4555080	4557080	out of existence?
+4557080	4559080	Actually not, right?
+4559080	4561080	That means we can't talk about existence
+4561080	4563080	and non-existence
+4563080	4565080	at the lowest level of the universe
+4565080	4567080	because there is nothing there.
+4567080	4569080	That means the universe itself
+4569080	4571080	outside of itself
+4571080	4573080	is not determined
+4573080	4575080	about its existence and non-existence.
+4575080	4577080	It doesn't know if it exists or not.
+4577080	4579080	And that means,
+4579080	4581080	if I assume it's conditional,
+4581080	4583080	that the default,
+4583080	4585080	is not that the universe doesn't exist
+4585080	4587080	or that there is nothing there,
+4587080	4589080	but that you can't know
+4589080	4591080	if it exists or not.
+4591080	4593080	If the universe is possible,
+4593080	4595080	that means there is an existing
+4595080	4597080	and non-existent branch.
+4597080	4599080	And the non-existent branch
+4599080	4601080	doesn't contain any observers
+4601080	4603080	who will complain.
+4603080	4605080	And all the observers who have complaints
+4605080	4607080	are us in the existing branch.
+4607080	4609080	And what we have to explain now
+4609080	4611080	is that after we have
+4611080	4613080	derived from the existence
+4613080	4615080	and the fact that
+4615080	4617080	there is nothing in the universe
+4617080	4619080	that prevents that,
+4619080	4621080	why are certain things there
+4621080	4623080	and other things not there?
+4623080	4625080	Why does the universe
+4625080	4627080	have this structure
+4627080	4629080	and not everything?
+4631080	4633080	And the simplest answer is
+4633080	4635080	that the universe is simply everything.
+4635080	4637080	That means that the universe
+4637080	4639080	is possibly used by all machines.
+4639080	4641080	How does it look exactly?
+4641080	4643080	We can take one more step
+4643080	4645080	before the Turing machine.
+4645080	4647080	The Turing machine
+4647080	4649080	that we normally use,
+4649080	4651080	this tape with the one head reader,
+4651080	4653080	is a way to talk about
+4653080	4655080	the calculation.
+4655080	4657080	And it has an interesting feature,
+4657080	4659080	it has an exact sequence state
+4659080	4661080	for every starting state.
+4661080	4663080	And this sequence state
+4663080	4665080	is deterministic,
+4665080	4667080	that means there is no coincidence,
+4667080	4669080	but when the same starting state is
+4669080	4671080	exactly in the same sequence state.
+4671080	4673080	The difference between deterministic
+4673080	4675080	and non-deterministic functions
+4675080	4677080	from this point of view would be
+4677080	4679080	that a non-deterministic function
+4679080	4681080	that can give a different result every time,
+4681080	4683080	would be a deterministic function
+4683080	4685080	every time under the same conditions
+4685080	4687080	that gives the same result.
+4687080	4689080	And the other feature
+4689080	4691080	besides the determinism of the Turing machine
+4691080	4693080	is that it is linear.
+4693080	4695080	That means that every state
+4695080	4697080	has a different function.
+4697080	4699080	But I could also define it differently.
+4699080	4701080	I could make one that is stochastic,
+4701080	4703080	that happens to go into one of several
+4703080	4705080	whether it is linear or non-linear.
+4705080	4707080	But you need coincidence.
+4707080	4709080	Yes, but the coincidence only means
+4709080	4711080	that I have to define a function
+4711080	4713080	that gives me a different result every time.
+4713080	4715080	And that means that it cannot be
+4715080	4717080	compressed over time,
+4717080	4719080	but it is different every time,
+4719080	4721080	and you can do that,
+4721080	4723080	it just gets very long.
+4723080	4725080	I could also make it branched.
+4727080	4729080	If I make a Turing machine
+4729080	4731080	that does not have one subsequent state,
+4731080	4733080	but has several subsequent states,
+4733080	4735080	then it will have more branches
+4735080	4737080	in every state, so to speak.
+4739080	4741080	And that is, in the mathematical sense,
+4741080	4743080	a non-deterministic Turing machine.
+4745080	4747080	That is one that is not so defined
+4747080	4749080	that I only have one subsequent state,
+4749080	4751080	but is less constrained.
+4751080	4753080	That means it can go into several,
+4753080	4755080	because you can't only decide for one.
+4757080	4759080	It's a bit of an unhappy label,
+4759080	4761080	because non-deterministic sounds
+4761080	4763080	a bit esoteric as if it's a real coincidence,
+4763080	4765080	but you can't define it at all,
+4765080	4767080	observe, formalize.
+4767080	4769080	Yes, we can define the real coincidence
+4769080	4771080	by simply saying that our function
+4771080	4773080	must or can give us a different value every time.
+4775080	4777080	But I don't quite understand that,
+4777080	4779080	because the real coincidence
+4779080	4781080	is the problem that you have to get
+4781080	4783080	something out of nothing.
+4783080	4785080	No, you don't have to.
+4785080	4787080	There is, for example,
+4787080	4789080	if you want to decode things,
+4789080	4791080	the problem is that you can
+4791080	4793080	get the key out
+4793080	4795080	with mathematical operations,
+4795080	4797080	which regularity you have
+4797080	4799080	executed in mathematics,
+4799080	4801080	to connect the key
+4801080	4803080	with the text,
+4803080	4805080	so that you get the result.
+4805080	4807080	But there is a trick with which
+4807080	4809080	you can get the key out,
+4809080	4811080	and that is the one-time-pad.
+4811080	4813080	The one-time-pad uses a key
+4813080	4815080	that is just as long as the text you want to decode.
+4815080	4817080	And you exchange it
+4817080	4819080	so that you only use it once.
+4819080	4821080	That means you meet
+4821080	4823080	with your secret agent at the beginning,
+4823080	4825080	and you both use a key
+4825080	4827080	that you generate in such a way
+4827080	4829080	that no one else can know,
+4829080	4831080	and it's only used once.
+4831080	4833080	And each of you has a copy of this key.
+4833080	4835080	And you calculate this key
+4835080	4837080	together with your text every time.
+4837080	4839080	And everything you used,
+4839080	4841080	you throw away and burn it.
+4841080	4843080	And you always know exactly
+4843080	4845080	where you are on your blog,
+4845080	4847080	where you have this long key on it.
+4847080	4849080	And because this function
+4849080	4851080	is not known to anyone else,
+4851080	4853080	so you interact with the other universe
+4853080	4855080	until you let it interact,
+4855080	4857080	this function, from the point of view
+4857080	4859080	of every observer, is absolutely random.
+4859080	4861080	Okay, yes, of course, from the point of view
+4861080	4863080	of every observer anyway,
+4863080	4865080	who often solve themselves
+4865080	4867080	and think that basically
+4867080	4869080	in the substrate universe
+4869080	4871080	there are undetermined things
+4871080	4873080	and there you don't need anything.
+4873080	4875080	Yes, but that just means
+4875080	4877080	in practice there is a bubble
+4877080	4879080	that is hermetically separated
+4879080	4881080	from the rest of the universe
+4881080	4883080	and is exactly the same format.
+4883080	4885080	There is no difference.
+4885080	4887080	If we formalize this in a language,
+4887080	4889080	it is by chance nothing else
+4889080	4891080	than a source that was
+4891080	4893080	nothing in connection with the universe
+4893080	4895080	and there are values that have not been known to you.
+4895080	4897080	Okay, I'll buy one.
+4897080	4899080	So in this respect this is not a problem.
+4899080	4901080	But the non-deterministic Turing machine
+4901080	4903080	was chosen for another reason,
+4903080	4905080	because it is deterministic.
+4905080	4907080	That is, if I have a machine
+4907080	4909080	that goes into several states at the same time,
+4909080	4911080	that goes in parallel,
+4911080	4913080	there is no coincidence in it,
+4913080	4915080	but it just goes into all these states.
+4915080	4917080	The non-determinism comes about
+4917080	4919080	by the fact that when I am calculated
+4919080	4921080	in the Turing machine,
+4921080	4923080	I do not know in which branch I am.
+4923080	4925080	Copies of me are in all other branches,
+4925080	4927080	but there is no criterion
+4927080	4929080	that tells me in which branch I go in,
+4929080	4931080	because these branches
+4931080	4933080	just all exist in parallel.
+4933080	4935080	They are not somehow privileged from each other.
+4935080	4937080	That is, it is not the case that
+4937080	4939080	one is calculated more than the other
+4939080	4941080	or has any properties that
+4941080	4943080	differ from the others,
+4943080	4945080	which you can check by looking at the others,
+4945080	4947080	because the branches do not see each other
+4947080	4949080	The thing that is a coincidence,
+4949080	4951080	so to speak, only affects you
+4951080	4953080	if you are the observer
+4953080	4955080	who is calculated by the machine.
+4955080	4957080	As a student, I got to know this
+4957080	4959080	non-deterministic Turing machine
+4959080	4961080	as an undergrad,
+4961080	4963080	in basic studies,
+4963080	4965080	in complexity theory,
+4965080	4967080	as a method to measure
+4967080	4969080	how the complexity of algorithms is.
+4969080	4971080	I saw this as unimportant,
+4971080	4973080	because I can emulate this
+4973080	4975080	non-deterministic Turing machine
+4975080	4977080	by simply giving the normal Turing machine
+4977080	4979080	a stack, and every time
+4979080	4981080	I do a branch,
+4981080	4983080	I add the condition to the stack,
+4983080	4985080	and later I go back to this point
+4985080	4987080	and then have to calculate
+4987080	4989080	the branch in the other direction.
+4989080	4991080	This makes it completely equivalent.
+4991080	4993080	The disadvantage is that
+4993080	4995080	this non-deterministic Turing machine
+4995080	4997080	of course needs more memory.
+4997080	4999080	I have to calculate the stack
+4999080	5001080	and need more calculation steps.
+5001080	5003080	And vice versa,
+5003080	5005080	it is also equivalent.
+5005080	5007080	I can calculate the non-deterministic Turing machine
+5007080	5009080	by simply ensuring
+5009080	5011080	that there is only one path
+5011080	5013080	that I look at.
+5013080	5015080	This is a real amount,
+5015080	5017080	and they are
+5017080	5019080	at a certain point
+5019080	5021080	equivalent,
+5021080	5023080	if I take into account that
+5023080	5025080	one needs more memory
+5025080	5027080	and calculation time than the other.
+5027080	5029080	But there are practical differences.
+5029080	5031080	For example, I imagine
+5031080	5033080	that our brain
+5033080	5035080	is not a Turing machine,
+5035080	5037080	but the individual neuron
+5037080	5039080	does not go through
+5039080	5041080	100% determinism in the next state
+5041080	5043080	when its environment is in this and that state,
+5043080	5045080	but it goes through a certain
+5045080	5047080	probability in that state.
+5047080	5049080	This means that if I have
+5049080	5051080	a population of neurons next to each other
+5051080	5053080	that have about the same environment
+5053080	5055080	and have a certain amount of coincidence,
+5055080	5057080	then they behave
+5057080	5059080	similarly to a non-deterministic Turing machine.
+5059080	5061080	That is, they are not so constrained
+5061080	5063080	that they only go down one path,
+5063080	5065080	but they sample a whole state space.
+5065080	5067080	They not only do one function,
+5067080	5069080	but they calculate several variants
+5069080	5071080	of this function at the same time.
+5071080	5073080	The substrate, of course,
+5073080	5075080	has a limited resolution,
+5075080	5077080	that is, the paths interact with each other
+5077080	5079080	and this leads to the fact that
+5079080	5081080	these states can collapse,
+5081080	5083080	the neurons can finally vote
+5083080	5085080	on the result.
+5085080	5087080	But the interesting thing is that our brain
+5087080	5089080	and our reasoning processes,
+5089080	5091080	which our mind runs through,
+5091080	5093080	have to be described in such a way that we do not
+5093080	5095080	go through a sequence of states step by step,
+5095080	5097080	but that we at the same time go through
+5097080	5099080	a space of possible states in parallel.
+5099080	5101080	And this space then votes with each other
+5101080	5103080	and collapses again.
+5103080	5105080	And if we try to go backwards through our thoughts,
+5105080	5107080	we do not know in what states we have been,
+5107080	5109080	because all these paths
+5109080	5111080	have no traces left.
+5111080	5113080	Nobody has noticed in what states we have all been.
+5113080	5115080	And we can reconstruct a path,
+5115080	5117080	that is, if we model our brain
+5117080	5119080	as a stochastic,
+5119080	5121080	non-deterministic Turing machine
+5121080	5123080	with a limited substrate resolution,
+5123080	5125080	we have a slightly different paradigm
+5125080	5127080	than a deterministic Turing machine
+5127080	5129080	that is calculated on a von Neumann computer.
+5129080	5131080	Even if it would still be implementable on it?
+5131080	5133080	Yes, it is still implementable on it, exactly.
+5133080	5135080	This leads to confusion
+5135080	5137080	in some philosophers,
+5137080	5139080	for example the integrated information theory,
+5139080	5141080	which is the consciousness theory
+5141080	5143080	of Tononi and his students.
+5143080	5145080	Philosophers believe in something like this.
+5145080	5147080	Tononi says that
+5147080	5149080	he can imagine
+5149080	5151080	that you can build a neuromorphic computer,
+5151080	5153080	one that behaves similarly,
+5153080	5155080	even if it is built artificially,
+5155080	5157080	like the distributed processes
+5157080	5159080	of the information calculation of our brain,
+5159080	5161080	that it can be conscious.
+5161080	5163080	That it says, I feel, so I have consciousness.
+5163080	5165080	But a von Neumann computer,
+5165080	5167080	the one we have implemented
+5167080	5169080	as a digital computer,
+5169080	5171080	which works sequentially, does not.
+5171080	5173080	And this leads to a problem,
+5173080	5175080	namely that
+5175080	5177080	we can,
+5177080	5179080	through the Turing thesis,
+5179080	5181080	which Tononi does not agree on,
+5181080	5183080	prove that we can
+5183080	5185080	emulate the neuromorphic computer
+5185080	5187080	on the sequential computer.
+5187080	5189080	That means we can build a computer
+5189080	5191080	on the von Neumann computer
+5191080	5193080	that behaves exactly like the neuromorphic computer.
+5193080	5195080	They are completely equivalent.
+5195080	5197080	And that means that it also says,
+5197080	5199080	I feel, so I am.
+5199080	5201080	In any case, it is a lie,
+5201080	5203080	because it cannot feel anything
+5203080	5205080	in the way it is conscious.
+5205080	5207080	And that leads to the problem
+5207080	5209080	that consciousness would be an epiphenomenon.
+5209080	5211080	That is, that our statements,
+5211080	5213080	that we are conscious,
+5213080	5215080	are not caused by consciousness itself,
+5215080	5217080	but we move our mouth mechanically by chance
+5217080	5219080	as if it were caused by consciousness,
+5219080	5221080	but it is not.
+5221080	5223080	Consciousness, so to speak,
+5223080	5225080	quietly on the side and observes
+5225080	5227080	our physical realities in our mind,
+5227080	5229080	which some people say, I have no consciousness,
+5229080	5231080	others say, I have a consciousness,
+5231080	5233080	and it cannot influence it somehow.
+5233080	5235080	And epiphenomenonism is therefore
+5235080	5237080	not a good theory,
+5237080	5239080	because epiphenomenonists are not epiphenomenonists,
+5239080	5241080	so they say, my consciousness
+5241080	5243080	will not be physically effective,
+5243080	5245080	because they have consciousness.
+5245080	5247080	Consciousness does not cause epiphenomenonism.
+5247080	5249080	The mouth movements of epiphenomenonist
+5249080	5251080	philosophers are not caused by his consciousness.
+5251080	5253080	And that is a very stupid theory,
+5253080	5255080	which is why Tononi would not sign.
+5255080	5257080	And that means, however,
+5257080	5259080	that the integrated information theory,
+5259080	5261080	if you have it in such a form,
+5261080	5263080	as Tononi has it,
+5263080	5265080	leads to a completely insolvent contradiction.
+5265080	5267080	If you dissolve it, then only
+5267080	5269080	global workspace theory remains.
+5269080	5271080	But this is not a real theory,
+5271080	5273080	but a framework, actually.
+5273080	5275080	It is more of a framework.
+5275080	5277080	But it does not explain functionally
+5277080	5279080	how it comes to such states.
+5279080	5281080	But that's what it means for me as a computer scientist,
+5281080	5283080	I look at it with a certain indifference
+5283080	5285080	and do not quite understand how you can do that.
+5285080	5287080	For me, this is more of a control group,
+5287080	5289080	a theory that has such an obvious logical contradiction
+5289080	5291080	that a computer scientist in elementary school
+5291080	5293080	recognizes that. How can you represent that?
+5295080	5297080	So we have existence and non-existence at the same time.
+5297080	5299080	And we are now in the second phase of existence.
+5303080	5305080	And the simplest form of this
+5305080	5307080	existing phase is
+5307080	5309080	that we apply all operators
+5309080	5311080	in parallel.
+5311080	5313080	And this means that the universe simply
+5313080	5315080	branches, in every step,
+5315080	5317080	maximum branching,
+5317080	5319080	because there is no selection function
+5319080	5321080	for the operators. That means
+5321080	5323080	that all operators are simply applied.
+5323080	5325080	And an operator is a function
+5325080	5327080	that takes a pattern from noticeable differences
+5327080	5329080	and converts it into another
+5329080	5331080	pattern from noticeable differences.
+5331080	5333080	And all operators are simply
+5333080	5335080	applied, and some of these operators
+5335080	5337080	are very often applied, because they are
+5337080	5339080	simple and often, and others are very rare.
+5339080	5341080	And this leads to an interesting concept
+5341080	5343080	of identity, because
+5343080	5345080	there is no one.
+5345080	5347080	What exists now is, for example, that
+5347080	5349080	the photon would be, in this way,
+5349080	5351080	an operator,
+5351080	5353080	which always takes place
+5353080	5355080	when there is an environment on which this operator
+5355080	5357080	fits. So if, so to speak,
+5357080	5359080	there is a photon-shaped hole in the universe,
+5359080	5361080	then this photon operator is used
+5361080	5363080	and shifts the environment
+5363080	5365080	so that
+5365080	5367080	the same hole is created,
+5367080	5369080	plus a little bit further away.
+5369080	5371080	And this way this photon operator
+5371080	5373080	fits again in the next step.
+5373080	5375080	That is, this is a sequence of
+5375080	5377080	related operators
+5377080	5379080	that can be applied one by one,
+5379080	5381080	which leads to the fact that a pattern
+5381080	5383080	continues in the space,
+5383080	5385080	just like the glider in Game of Life.
+5385080	5387080	With the difference that the space is not
+5387080	5389080	given at all, regardless of the patterns,
+5389080	5391080	but the space first arises by
+5391080	5393080	the fact that I collect certain noticeable
+5393080	5395080	differences in such a way that a
+5395080	5397080	pattern is created that can be described as a space.
+5397080	5399080	That is, the photon is an operator
+5399080	5401080	or a sequence of operator
+5401080	5403080	applications that lead to
+5403080	5405080	that first a regularity is created
+5405080	5407080	in which information can
+5407080	5409080	spread and interact with
+5409080	5411080	other information.
+5411080	5413080	And that just results
+5413080	5415080	by the fact that these operators
+5415080	5417080	are possible.
+5417080	5419080	And again to translate,
+5419080	5421080	the base level reality,
+5421080	5423080	that is, the lowest level of reality,
+5423080	5425080	has nothing that goes ahead of it.
+5425080	5427080	That is practically the definition of base level reality.
+5427080	5429080	Every other reality that goes ahead
+5429080	5431080	is practically a kind of simulation reality
+5431080	5433080	where in the
+5433080	5435080	parents' universe a computer
+5435080	5437080	stands in some form
+5437080	5439080	on which this underlying reality
+5439080	5441080	runs. And the physicalism
+5441080	5443080	is the idea that in our world
+5443080	5445080	there is a mechanical amount of rules,
+5445080	5447080	so not some refined
+5447080	5449080	computer program in which
+5449080	5451080	a programmer can intervene at any time,
+5451080	5453080	but simply
+5453080	5455080	a causally closed
+5455080	5457080	amount of simple rules
+5457080	5459080	from which everything emerges.
+5459080	5461080	And that we are already in this base reality.
+5461080	5463080	And the idea that is here
+5463080	5465080	is that this base level
+5465080	5467080	reality, because it has no priors,
+5467080	5469080	nothing that goes ahead of it,
+5469080	5471080	can be described
+5471080	5473080	as simply everything that is possible
+5473080	5475080	exists in it. And that
+5475080	5477080	we exist in the space of all these
+5477080	5479080	possibilities.
+5479080	5481080	And the universe is a
+5481080	5483080	tautology, so mathematically
+5483080	5485080	tautology is something that exists
+5485080	5487080	without conditions, for example A is equal to A
+5487080	5489080	exists through the axiom of identity
+5489080	5491080	in classical logic.
+5491080	5493080	And that means that nothing new is said,
+5493080	5495080	but it just results
+5495080	5497080	from the assumption of these rules
+5497080	5499080	as if there are no conditions.
+5499080	5501080	Tautology are all these conditions
+5501080	5503080	where nothing new is said.
+5505080	5507080	And it can be described
+5507080	5509080	as a non-deterministic
+5509080	5511080	Turing machine,
+5511080	5513080	so this machine that branches,
+5513080	5515080	in this case in all branches,
+5515080	5517080	and with all
+5517080	5519080	Kolmogorov complexity of zero.
+5519080	5521080	And Kolmogorov complexity
+5521080	5523080	describes how complicated the algorithm
+5523080	5525080	is.
+5525080	5527080	Kolmogorov had the idea
+5527080	5529080	that you can describe for different computer programs
+5529080	5531080	or for different
+5531080	5533080	functions how complicated they are.
+5533080	5535080	By this, how long
+5535080	5537080	is the program that you need
+5537080	5539080	to define this function?
+5541080	5543080	If you, like
+5543080	5545080	Stephen Wolfram, try to find a function
+5545080	5547080	from which our universe emerges,
+5547080	5549080	then this function has
+5549080	5551080	no length of zero, but it is an
+5551080	5553080	automatic machine that needs a certain
+5553080	5555080	number of steps to write it down
+5555080	5557080	and a certain number of bits
+5557080	5559080	to write it down.
+5559080	5561080	And that would be the number of bits
+5561080	5563080	that you need to write down an algorithm,
+5563080	5565080	that would be the Kolmogorov complexity.
+5565080	5567080	There is a problem
+5567080	5569080	with Kolmogorov complexity.
+5569080	5571080	When I write down the different computer languages,
+5571080	5573080	they are different in length, depending on the language.
+5573080	5575080	In practice, the problem is not that big,
+5575080	5577080	because I can often
+5577080	5579080	translate into these languages,
+5579080	5581080	and this translation program is not very long,
+5581080	5583080	so that I have a pretty good idea of what
+5583080	5585080	the shortest is.
+5585080	5587080	There are limits
+5587080	5589080	where it is difficult, but in practice
+5589080	5591080	the problem is not that big.
+5591080	5593080	The Solomonov induction has similar problems.
+5593080	5595080	Exactly.
+5595080	5597080	The Solomonov induction basically describes
+5597080	5599080	what a modeling system does.
+5599080	5601080	For example, our mind,
+5601080	5603080	Ray Solomonov had the idea
+5603080	5605080	to systematize it
+5605080	5607080	through a kind of Kolmogorov complexity.
+5607080	5609080	He says that
+5609080	5611080	what a mind does at the end of the day is that
+5611080	5613080	it tries to predict the present
+5613080	5615080	from the previous observations
+5615080	5617080	through the shortest possible program,
+5617080	5619080	that is, with the shortest possible Kolmogorov complexity.
+5619080	5621080	For all pairs of current and
+5621080	5623080	previous observations.
+5625080	5627080	What I just said informally
+5627080	5629080	is very nice to write down formally.
+5629080	5631080	With this, you have a specification
+5631080	5633080	for a universal modeling system,
+5633080	5635080	which has the disadvantage
+5635080	5637080	that it is so general
+5637080	5639080	that you can't calculate it yet.
+5639080	5641080	That means you have to find something
+5641080	5643080	in practice that somehow
+5643080	5645080	brings the Solomonov induction closer.
+5645080	5647080	But back to the Kolmogorov complexity,
+5647080	5649080	if we are in the base-level reality,
+5649080	5651080	then there is no program
+5651080	5653080	that is below this base-level reality.
+5653080	5655080	That means it has to be in tautology.
+5655080	5657080	That means the Kolmogorov complexity
+5657080	5659080	of our universe should be zero.
+5659080	5661080	That means a program of length zero.
+5661080	5663080	And the easiest program of length zero,
+5663080	5665080	if you do not assume
+5665080	5667080	that length zero is nothing,
+5667080	5669080	but all possibilities,
+5669080	5671080	is simply applied to all operators.
+5671080	5673080	And that means every operator is applied
+5673080	5675080	wherever it fits.
+5675080	5677080	There is always an operator
+5677080	5679080	that fits in our world relatively often,
+5679080	5681080	because there are many photon-shaped holes,
+5681080	5683080	because the photon is relatively simple.
+5683080	5685080	But you and I, we are operators
+5685080	5687080	that are very rare, that are very rarely used,
+5687080	5689080	because we need a relatively complex
+5689080	5691080	environment to exist.
+5691080	5693080	And that means we only appear
+5693080	5695080	very, very rarely in our universe.
+5695080	5697080	And then there are
+5697080	5699080	some operators
+5699080	5701080	that can only appear once,
+5701080	5703080	namely on the one hand the Highlander.
+5703080	5705080	You can only enter one of them,
+5705080	5707080	it is defined like this.
+5707080	5709080	And then the universe itself,
+5709080	5711080	the entirety of all possibilities that exist.
+5711080	5713080	And Stephen Wolfram calls it the Rolyard.
+5713080	5715080	That is the thing that occurs
+5715080	5717080	because you apply all operators
+5717080	5719080	unlimitedly to each other.
+5719080	5721080	Can you repeat the name
+5721080	5723080	in English?
+5723080	5725080	The entangled limit of everything.
+5725080	5727080	The entangled limit of all possible computations.
+5729080	5731080	But say it in English.
+5731080	5733080	The entangled limit of all possible computations.
+5733080	5735080	I don't like it that much,
+5735080	5737080	because there are so many terms in there
+5737080	5739080	that you have to explain first.
+5739080	5741080	For example, what does entangled mean at the point?
+5741080	5743080	And what is meant by that?
+5743080	5745080	That they all hang together on one big thing.
+5745080	5747080	That there is a path
+5747080	5749080	in every direction, in every direction.
+5749080	5751080	And limit means in the case that
+5751080	5753080	it is actually unlimited.
+5753080	5755080	In some places it is not unlimited.
+5755080	5757080	Locally it is often the case
+5757080	5759080	that when I have this Turing machine
+5759080	5761080	and I have a branch,
+5761080	5763080	then I don't always get
+5763080	5765080	unlimited different states,
+5765080	5767080	but sometimes the pattern is created by itself.
+5767080	5769080	That means the branches meet
+5769080	5771080	in a certain way by
+5771080	5773080	creating the same patterns
+5773080	5775080	on different paths.
+5775080	5777080	That does not mean that they physically meet
+5777080	5779080	and collide again,
+5779080	5781080	but that when I try to write down
+5781080	5783080	this calculation or to model from the outside,
+5783080	5785080	that I often don't have so many different states
+5785080	5787080	in which it goes,
+5787080	5789080	and that means, for example,
+5789080	5791080	that when I describe the particle,
+5791080	5793080	then it is so that the individual particle
+5793080	5795080	is often defined in such a way
+5795080	5797080	that there is not only a possibility
+5797080	5799080	in which it can exist, but there are many paths
+5799080	5801080	that it can take, but many paths
+5801080	5803080	then meet again. And where they meet,
+5803080	5805080	there is again a convergence.
+5805080	5807080	And this convergence leads to
+5807080	5809080	that a part of the universe can predict
+5809080	5811080	what another part of the universe will do.
+5811080	5813080	And that is the prerequisite
+5813080	5815080	for the creation of structure.
+5815080	5817080	The structure of the universe is created
+5817080	5819080	by the fact that there is control.
+5819080	5821080	That is, a part of the universe can predict
+5821080	5823080	what another part of the universe can do
+5823080	5825080	and this part of the universe
+5825080	5827080	can adjust to the other
+5827080	5829080	and thus produce the local,
+5829080	5831080	more stable structures.
+5831080	5833080	And in a place where this does not happen,
+5833080	5835080	there is no interaction and therefore no control.
+5835080	5837080	And that means that there is then
+5837080	5839080	no interesting structure,
+5839080	5841080	but these are just random fluctuations.
+5841080	5843080	And what you would expect
+5843080	5845080	is that you find a lowest level
+5845080	5847080	in which there are very, very many
+5847080	5849080	random fluctuations,
+5849080	5851080	which lead to nothing,
+5851080	5853080	which are therefore not predictable
+5853080	5855080	and are created by the fact that you do not know
+5855080	5857080	in which path you end.
+5857080	5859080	All paths are going at the same time,
+5859080	5861080	you are always on a certain path of them
+5861080	5863080	and in your path,
+5863080	5865080	which splits up all the time,
+5865080	5867080	that is, every bit in your universe
+5867080	5869080	changes in a random way all the time,
+5869080	5871080	there are these whole splinters
+5871080	5873080	and most of these splinters
+5873080	5875080	do nothing and sometimes
+5875080	5877080	they swing up to a structure
+5877080	5879080	and this structure gets bigger and bigger
+5879080	5881080	depending on how strong
+5881080	5883080	it leads to control processes.
+5883080	5885080	And on the simplest level,
+5885080	5887080	the control processes that occur
+5887080	5889080	are particles that lead
+5889080	5891080	to something like a space
+5891080	5893080	being created in which
+5893080	5895080	the particles can be assigned a momentum.
+5895080	5897080	The momentum is the direction
+5897080	5899080	from which the particles come
+5899080	5901080	and the space is addressable,
+5901080	5903080	that is, you can adjust to it,
+5903080	5905080	what comes from this direction?
+5905080	5907080	And these structures lead to
+5907080	5909080	that these particles,
+5909080	5911080	something like elemental particles,
+5911080	5913080	form, that is, swirls that arise from these particles
+5913080	5915080	that become stable and these swirls
+5915080	5917080	can then, I can try mathematically
+5917080	5919080	to guide which swirls are technically possible
+5919080	5921080	because I apply such functions
+5921080	5923080	to each other and at some point
+5923080	5925080	such swirls arise from swirls
+5925080	5927080	and these are the atoms
+5927080	5929080	and there is a whole zoo
+5929080	5931080	of such atoms that are stable
+5931080	5933080	under these conditions.
+5933080	5935080	And this zoo of atoms,
+5935080	5937080	the physics has not yet figured out
+5937080	5939080	how they can all guide them.
+5939080	5941080	But the suspicion is that
+5941080	5943080	there is a possibility, ultimately from the theory of numbers,
+5943080	5945080	to guide the periodic table of elements
+5945080	5947080	and to think about which things
+5947080	5949080	are stable under which conditions
+5949080	5951080	for how long and in which spaces,
+5951080	5953080	how high-dimensional they are.
+5953080	5955080	And what stands out, for example, is
+5955080	5957080	that most things are only stable
+5957080	5959080	in the three-dimensional space.
+5959080	5961080	That is, the electromagnetism,
+5961080	5963080	the forces with which
+5963080	5965080	the atoms interact,
+5965080	5967080	are ultimately all in this three-dimensional space.
+5967080	5969080	So the photons and neutrinos
+5969080	5971080	and so on are generations
+5971080	5973080	of the same particle classes.
+5973080	5975080	They all find themselves in
+5975080	5977080	such a confined three-dimensional space
+5977080	5979080	in which we are.
+5979080	5981080	And the strong force and the weak force
+5981080	5983080	are only within the atomic nucleus
+5983080	5985080	and do not affect each other
+5985080	5987080	over such a long distance.
+5987080	5989080	Possibly this is due to the fact that
+5989080	5991080	they form whirlpools in higher spaces
+5991080	5993080	than in three-dimensional spaces.
+5993080	5995080	And mathematically you can show that
+5995080	5997080	rotation, so to speak,
+5997080	5999080	is possible in two dimensions,
+5999080	6001080	and in four dimensions,
+6001080	6003080	and in eight dimensions.
+6003080	6005080	But not more in sixteen dimensions.
+6005080	6007080	They get a little more complicated every time.
+6007080	6009080	And if you think about
+6009080	6011080	what a whirlpool formation actually is,
+6011080	6013080	for example, imagine
+6013080	6015080	that you are in a bathtub
+6015080	6017080	and you move your hand and observe
+6017080	6019080	the whirlpools that form
+6019080	6021080	on the surface of the bathtub,
+6021080	6023080	most of these waves
+6023080	6025080	disappear after a short time
+6025080	6027080	in the background.
+6027080	6029080	And the ones that are stable, so to speak,
+6029080	6031080	are round whirlpools that remain
+6031080	6033080	and that, like particles,
+6033080	6035080	pull along the surface of the bathtub
+6035080	6037080	as long as they either
+6037080	6039080	go into other whirlpools
+6039080	6041080	or disappear by friction,
+6041080	6043080	or by interacting
+6043080	6045080	with other things,
+6045080	6047080	for example your hand
+6047080	6049080	or something like that.
+6049080	6051080	But for themselves they are stable.
+6051080	6053080	This is due to the fact that
+6053080	6055080	they rotate exactly into themselves.
+6055080	6057080	That is, that they have an exact angle
+6057080	6059080	in their momentum,
+6059080	6061080	that the information remains constant
+6061080	6063080	in the volume and does not disappear
+6063080	6065080	from this volume, that is,
+6065080	6067080	flows out into the room.
+6067080	6069080	For example, if I look at rotation
+6069080	6071080	in some discrete vector spaces
+6071080	6073080	or something like that,
+6073080	6075080	is that the mathematical formalization
+6075080	6077080	of these whirlpools?
+6077080	6079080	Yes, so if you think about it,
+6079080	6081080	what is a rotation?
+6081080	6083080	It is an operation for 2D,
+6083080	6085080	a vector operation in a
+6085080	6087080	two-dimensional space.
+6087080	6089080	If we think about it,
+6089080	6091080	what do dimensions actually mean?
+6091080	6093080	We get the first dimension
+6093080	6095080	by taking our whole numbers
+6095080	6097080	in the whirlpooling scheme
+6097080	6099080	as a kind of number stream.
+6099080	6101080	We had found that
+6101080	6103080	processes and sequences are sufficient
+6103080	6105080	to move around on a number stream
+6105080	6107080	when it is ordered.
+6107080	6109080	And then we can use additions
+6109080	6111080	to teleport and zoom with multiplication.
+6111080	6113080	And the same thing works
+6113080	6115080	with two-dimensional numbers.
+6115080	6117080	Two-dimensional numbers are created
+6117080	6119080	by taking our number stream
+6119080	6121080	and folding it, for example.
+6121080	6123080	In the computer you can create
+6123080	6125080	the one-dimensional address space
+6125080	6127080	where every memory cell
+6127080	6129080	in the computer gets an address.
+6129080	6131080	From which I can determine the process
+6131080	6133080	like on a Turing machine
+6133080	6135080	where one cell moves forward and backward.
+6135080	6137080	You can also simply say,
+6137080	6139080	I'm going 100 steps forward
+6139080	6141080	and I get to the next cell of my array.
+6141080	6143080	And this simple operation,
+6143080	6145080	right and left, I do plus or minus 1
+6145080	6147080	and up and down I do plus or minus 100.
+6147080	6149080	This way I have a possibility
+6149080	6151080	to fold my number stream in the computer
+6151080	6153080	into a lattice.
+6153080	6155080	And this lattice
+6155080	6157080	is a simple way to make it two-dimensional.
+6157080	6159080	There are many possibilities.
+6159080	6161080	I can do this as a spiral,
+6161080	6163080	then I have something like polar coordinates.
+6163080	6165080	Or as a Hilbert curve
+6165080	6167080	that fills space.
+6167080	6169080	And there are many tricks
+6169080	6171080	with which you can fill the space
+6171080	6173080	in such a way that you always get
+6173080	6175080	smaller 8-core points
+6175080	6177080	and get such an unboundedness.
+6177080	6179080	And in this two-dimensional number space
+6179080	6181080	that I can calculate all together,
+6181080	6183080	these two-dimensional lattice,
+6183080	6185080	I can define a rotation
+6185080	6187080	as an additional operation.
+6187080	6189080	So first of all I can do two-dimensional addition.
+6189080	6191080	That means I teleport
+6191080	6193080	into two dimensions.
+6193080	6195080	I can also zoom into two dimensions
+6195080	6197080	by multiplying my vector,
+6197080	6199080	my coordinate pair
+6199080	6201080	with a one-dimensional number.
+6201080	6203080	I zoom in and out.
+6203080	6205080	But I can also rotate
+6205080	6207080	by using the second coordinate
+6207080	6209080	by multiplying with the complex number.
+6211080	6213080	Rotating leads to
+6213080	6215080	that I can build a structure
+6215080	6217080	that remains constant
+6217080	6219080	even though I move it
+6219080	6221080	away from the dimension.
+6221080	6223080	In the simplest case I rotate
+6223080	6225080	it by 90 degrees.
+6225080	6227080	And I can also rotate it
+6227080	6229080	in parts of 90 degrees
+6229080	6231080	if I manage to define a function
+6231080	6233080	with which I can make the intervals smaller.
+6233080	6235080	And the function
+6235080	6237080	with which I can keep a structure constant
+6237080	6239080	even though I make the intervals smaller
+6239080	6241080	is a rotation.
+6241080	6243080	A kind of continuous permutation.
+6245080	6247080	And if I want to keep a dynamic structure
+6247080	6249080	constant,
+6249080	6251080	so that the information does not dissipate
+6251080	6253080	under information maintenance conditions,
+6253080	6255080	then it has to be a kind of rotation.
+6255080	6257080	Something where the information
+6257080	6259080	rotates back in itself.
+6259080	6261080	And such rotations,
+6261080	6263080	the easiest ones, are a multiplication
+6263080	6265080	with a complex number, with a two-dimensional number.
+6265080	6267080	And the thing is that
+6267080	6269080	in two dimensions
+6269080	6271080	this works, but in three dimensions
+6271080	6273080	I can only
+6273080	6275080	perform two-dimensional rotations,
+6275080	6277080	not three-dimensional.
+6277080	6279080	If you think about it, if we rotate something in 3D,
+6279080	6281080	then it's always about an axis in a plane.
+6283080	6285080	This is because in 3D
+6285080	6287080	there are no complex numbers,
+6287080	6289080	like an i,
+6289080	6291080	in complex numbers there are no
+6291080	6293080	i and j,
+6293080	6295080	which have this property
+6295080	6297080	that you can define multiplications
+6297080	6299080	that lead to a constant
+6299080	6301080	of the pattern.
+6301080	6303080	This means that all three-dimensional rotations
+6303080	6305080	are two-dimensional.
+6305080	6307080	We only use a subset
+6307080	6309080	of the three dimensions.
+6309080	6311080	There is always a certain exception to this.
+6311080	6313080	For example smoke rings.
+6313080	6315080	A smoke ring is a torus
+6315080	6317080	that rotates around a circle.
+6317080	6319080	And this works
+6319080	6321080	because you can compress the air.
+6321080	6323080	In order for the torus to rotate,
+6323080	6325080	you have to compress the air
+6325080	6327080	on the inside of the smoke ring
+6327080	6329080	while it turns inside and
+6329080	6331080	extends outwards.
+6331080	6333080	This works because the air is elastic.
+6333080	6335080	That's why you can blow
+6335080	6337080	air rings underwater.
+6337080	6339080	Many people do it for fun,
+6339080	6341080	because the air is compressible.
+6341080	6343080	But you can't blow water rings underwater,
+6343080	6345080	because the water is not compressible.
+6345080	6347080	The compressibility of the air
+6347080	6349080	means that the space is crumpled.
+6349080	6351080	It is weakly four-dimensional.
+6353080	6355080	This smoke ring is a rotation
+6355080	6357080	that is only possible in three-dimensional space,
+6357080	6359080	because the three-dimensional space
+6359080	6361080	has a little more than three dimensions
+6361080	6363080	if you can compress it.
+6363080	6365080	In four dimensions,
+6365080	6367080	I can define new rotations.
+6367080	6369080	For example, I can take a ball
+6369080	6371080	and rotate it around itself
+6371080	6373080	so that the inside turns outwards.
+6373080	6375080	This is not possible in three-dimensional space,
+6375080	6377080	because the surface will overlap with itself.
+6377080	6379080	But in four-dimensional space,
+6379080	6381080	I have an additional dimension.
+6381080	6383080	That means I have a rotation
+6383080	6385080	where I rotate 360 degrees,
+6385080	6387080	but it is not as precise as before.
+6387080	6389080	I tried to rotate a circle,
+6389080	6391080	but I have to rotate 360 degrees
+6391080	6393080	another time
+6393080	6395080	so that I get back to my starting point.
+6395080	6397080	So I rotate 720 degrees
+6397080	6399080	so that I get around it.
+6399080	6401080	Interestingly,
+6401080	6403080	in music there are rotations
+6403080	6405080	where you have to rotate 360 degrees
+6405080	6407080	so that you get back to your starting point.
+6407080	6409080	These are spinors.
+6409080	6411080	It is really cool
+6411080	6413080	that you can get into mathematics
+6413080	6415080	and derive from the theory of numbers
+6415080	6417080	what rotations are possible.
+6417080	6419080	The cool thing is that these spinor spaces
+6419080	6421080	are the algebras in which rotations are possible.
+6421080	6423080	That is the Fredkin thing, isn't it?
+6423080	6425080	I don't think Fredkin discovered it.
+6425080	6427080	I don't know who discovered it first.
+6427080	6429080	I can't give a reference,
+6429080	6431080	but a friend of mine
+6431080	6433080	gave me a series of texts.
+6433080	6435080	Unfortunately, I lost the source.
+6435080	6437080	You have to ask who it was.
+6437080	6439080	It is that you can derive
+6439080	6441080	the rotations from the theory of numbers
+6441080	6443080	and create the reference to quantum mechanics.
+6443080	6445080	What I find interesting
+6445080	6447080	philosophically and genealogically
+6447080	6449080	is that with methods
+6449080	6451080	of natural sciences
+6451080	6453080	or computer science
+6453080	6455080	in the end,
+6455080	6457080	you define it as a new
+6457080	6459080	rationalist program of philosophy.
+6459080	6461080	Of course.
+6461080	6463080	And I find that funny
+6463080	6465080	that rationalism
+6465080	6467080	finds the way back
+6467080	6469080	into philosophy
+6469080	6471080	via stem or something like that.
+6471080	6473080	That is a nice way back.
+6473080	6475080	I would express it a little differently.
+6475080	6477080	In my opinion,
+6477080	6479080	we have a number of
+6479080	6481080	philosophical fundamental questions.
+6481080	6483080	The famous four questions of philosophy.
+6483080	6485080	What is going on?
+6485080	6487080	Why does this happen to me?
+6489080	6491080	What should I do?
+6491080	6493080	That is the ethics.
+6493080	6495080	And what can I know?
+6495080	6497080	Epistemology,
+6497080	6499080	ontology,
+6499080	6501080	ethics and metaphysics.
+6501080	6503080	These questions can be put
+6503080	6505080	by computationalism
+6505080	6507080	on a common basis.
+6507080	6509080	Computationalism is nothing
+6509080	6511080	other than the amount of all formal languages.
+6511080	6513080	And the subset is implementable.
+6515080	6517080	And after we have seen
+6517080	6519080	that some of the formal languages
+6519080	6521080	are not implementable,
+6521080	6523080	there are specifications
+6523080	6525080	such as the hairdresser
+6525080	6527080	who cuts the beard of all men
+6527080	6529080	who shave themselves,
+6529080	6531080	which leads to contradictions.
+6531080	6533080	We only cut out the languages
+6533080	6535080	that are implementable.
+6535080	6537080	And these are the computational languages.
+6537080	6539080	And after I realized that all these
+6539080	6541080	languages are also equally powerful,
+6541080	6543080	that I can represent each one
+6543080	6545080	through each other,
+6545080	6547080	if they are so powerful that I can build a computer with them,
+6547080	6549080	I have a system with which I can describe reality.
+6549080	6551080	Every possible language in which
+6551080	6553080	something can be represented,
+6553080	6555080	but also every language in which
+6555080	6557080	structural education is possible.
+6557080	6559080	And that allows me
+6559080	6561080	to unite
+6561080	6563080	the philosophy into a system.
+6563080	6565080	And of course I am not the first
+6565080	6567080	who has done this.
+6567080	6569080	But the interesting thing is that
+6569080	6571080	the longer I do this,
+6571080	6573080	the later the parties get.
+6573080	6575080	And what is fascinating for me
+6575080	6577080	is that I did not find out
+6577080	6579080	anything about it in my own studies.
+6579080	6581080	And I was very depressed
+6581080	6583080	that these things, these building blocks,
+6583080	6585080	were not put together in a way that was not recognizable to me.
+6585080	6587080	And I do not have the claim
+6587080	6589080	to say that this is a good alternative
+6589080	6591080	to what my philosophy teachers have done
+6591080	6593080	in my studies,
+6593080	6595080	but in the end I am just a guy
+6595080	6597080	who has existential questions
+6597080	6599080	and who has the same questions from other people
+6599080	6601080	as I do.
+6601080	6603080	And to form a system in which I can understand
+6603080	6605080	how thinking works
+6605080	6607080	and who we are, and how consciousness
+6607080	6609080	and language and representation
+6609080	6611080	can work, but also how existence
+6611080	6613080	can work. And all of this
+6613080	6615080	all fits together.
+6617080	6619080	In addition to the
+6619080	6621080	split
+6621080	6623080	by the non-deterministic Turing machine,
+6623080	6625080	on the one hand,
+6625080	6627080	because a lot of operators are used
+6627080	6629080	in every condition,
+6629080	6631080	we have a loss of information
+6631080	6633080	all the time.
+6633080	6635080	Because only the things that
+6635080	6637080	are controllable, that are controllable
+6637080	6639080	and stabilize, they stay.
+6639080	6641080	And all other things are just
+6641080	6643080	new to us
+6643080	6645080	or they disappear completely.
+6647080	6649080	Nevertheless, there are
+6649080	6651080	these branches.
+6651080	6653080	And that would mean that we accept
+6653080	6655080	something like a multiversum theory,
+6655080	6657080	unless we assume
+6657080	6659080	that it is only certain branches
+6659080	6661080	that are allowed to stabilize at all,
+6661080	6663080	right?
+6663080	6665080	That does not exclude both. The thing is
+6665080	6667080	that it is often the case that several branches
+6667080	6669080	are allowed to stabilize, but you still
+6669080	6671080	do not know which one you are.
+6671080	6673080	That means that you get a situation
+6673080	6675080	that you have a double split experiment
+6675080	6677080	and you do not know through which split
+6677080	6679080	the photon goes, because it goes
+6679080	6681080	through the whole split, but not
+6681080	6683080	through your path. In your path
+6683080	6685080	it only goes through one.
+6685080	6687080	And you do not know which path it is.
+6687080	6689080	As an observer who is embedded
+6689080	6691080	and coexists with this photon,
+6691080	6693080	you do not know if you are in the path
+6693080	6695080	where the photon goes through the right or left split.
+6695080	6697080	The only thing you can say is that
+6697080	6699080	if you look at millions of photons,
+6699080	6701080	then there will be the following statistical
+6701080	6703080	pattern about the interactions.
+6703080	6705080	And this statistical pattern
+6705080	6707080	you can say in advance. And the photon
+6707080	6709080	is also such a statistical pattern.
+6709080	6711080	That means that this is also a regularity
+6711080	6713080	that results in structures in the universe
+6713080	6715080	beginning to be so predictable
+6715080	6717080	for each other that they
+6717080	6719080	can stabilize.
+6719080	6721080	Okay, and how do I make sure
+6721080	6723080	that I'm always on the right path?
+6723080	6725080	Yes, I think
+6725080	6727080	that's a totally nice greeting
+6727080	6729080	that you can derive from it,
+6729080	6731080	that you say, do you always
+6731080	6733080	want to be in the best path
+6733080	6735080	in the multiverse?
+6735080	6737080	But the thing is that this multiverse
+6737080	6739080	does not, so to speak,
+6739080	6741080	arise from the fact that the physicists
+6741080	6743080	have gone wild and
+6743080	6745080	have connections in the world that
+6745080	6747080	you can not check and that
+6747080	6749080	you can never prove and then
+6749080	6751080	postulate all these additional paths,
+6751080	6753080	but that there is simply no possibility
+6753080	6755080	to determine a priori
+6755080	6757080	that there is only one path.
+6757080	6759080	And that in the basic reality it is probably not
+6759080	6761080	possible that there is only one path,
+6761080	6763080	because there is simply nothing that
+6763080	6765080	there is only one path.
+6765080	6767080	I used this thing
+6767080	6769080	where you use all operators on all operators
+6769080	6771080	to discuss with students
+6771080	6773080	who told me, yes, Wolfram
+6773080	6775080	just wrote an article
+6775080	6777080	about it, he has the same idea.
+6777080	6779080	And then I read it and
+6779080	6781080	realized, yes, that looks like the same idea.
+6781080	6783080	I also tried to understand
+6783080	6785080	myself with him.
+6785080	6787080	In the time when I worked at
+6787080	6789080	Interlabs, I held
+6789080	6791080	a number of panel discussions with
+6791080	6793080	people that I found interesting,
+6793080	6795080	which I then invited to discuss
+6795080	6797080	topics with us that interested us.
+6797080	6799080	And Steven Wolfram kindly
+6799080	6801080	agreed to it.
+6801080	6803080	And I tried to ask him
+6803080	6805080	questions about the boundaries of the role.
+6805080	6807080	But unfortunately
+6807080	6809080	he was not ready at the points
+6809080	6811080	where we did not know the answers
+6811080	6813080	to discuss further.
+6813080	6815080	I think he had to figure it out for himself first.
+6815080	6817080	If everything
+6817080	6819080	that is possible is simply the case,
+6819080	6821080	because if you do not have any
+6821080	6823080	prior, no bid
+6823080	6825080	to specify that
+6825080	6827080	the possible is not there,
+6827080	6829080	then people think very quickly, okay, then
+6829080	6831080	everything I can imagine is going to happen somewhere.
+6831080	6833080	And then we asked ourselves if it was the same as the cover.
+6833080	6835080	Because everything that is possible means
+6835080	6837080	that if you apply all operators
+6837080	6839080	that all structures that arise from it
+6839080	6841080	are the possible structures. But it can be very likely
+6841080	6843080	that you can imagine something incomplete,
+6843080	6845080	I don't know, if the unicorn
+6845080	6847080	flies through or something,
+6847080	6849080	which is still not realized.
+6849080	6851080	And I think that would be the difference to this multiversum,
+6851080	6853080	where then suddenly everything that is imaginable
+6853080	6855080	has to exist, because there is everything,
+6855080	6857080	versus, well, everything that
+6857080	6859080	arises from the repeated application of one operator
+6859080	6861080	on all rules is then there.
+6861080	6863080	But do you know the difference?
+6863080	6865080	Yes, of course, the thing is
+6865080	6867080	the Boltzmann universe, so to speak,
+6867080	6869080	the global state of the universe
+6869080	6871080	goes into another global state
+6871080	6873080	that is not correlated with the previous one.
+6873080	6875080	Yes, it is possible,
+6875080	6877080	but extremely unlikely,
+6877080	6879080	because it is an extremely complex
+6879080	6881080	operator, which is therefore
+6881080	6883080	very rare. And that means
+6883080	6885080	the probability that you are currently
+6885080	6887080	in the Boltzmann state is extremely
+6887080	6889080	low, because normally
+6889080	6891080	structured structures in the
+6891080	6893080	Boltzmann universe do not arise.
+6893080	6895080	And that means that the
+6895080	6897080	probability that you are practically in a sequential
+6897080	6899080	or operator sequence
+6899080	6901080	is much, much greater, because there are much more
+6901080	6903080	possibilities, more paths on which
+6903080	6905080	a universe that looks like ours
+6905080	6907080	arises. That means you can't exactly
+6907080	6909080	know where you are in this big fractal,
+6909080	6911080	that you create by the rules, that you just
+6911080	6913080	generate everything from one, all the time
+6913080	6915080	with all possibilities.
+6915080	6917080	It is the probability that you are
+6917080	6919080	in the thing that is created
+6919080	6921080	by the sequential operator application
+6921080	6923080	of simple operators
+6923080	6925080	is astronomically larger.
+6925080	6927080	So the Boltzmann
+6927080	6929080	brain requires a maximum complex
+6929080	6931080	operator, in which you transfer the whole
+6931080	6933080	universe in one step
+6933080	6935080	into a state that is not correlated.
+6937080	6939080	And again,
+6939080	6941080	I want to break it down a bit
+6941080	6943080	again, but on one example.
+6943080	6945080	In the multiverse, one would think,
+6945080	6947080	there is now also a universe
+6947080	6949080	in which my hand is somehow
+6949080	6951080	just above my head.
+6951080	6953080	And in fact you don't know if
+6953080	6955080	that is possible. You don't know if
+6955080	6957080	through the repeated applications of one operator
+6957080	6959080	somewhere
+6959080	6961080	such a branch ends in the situation
+6961080	6963080	that I raise my arm.
+6963080	6965080	So I don't do it on purpose so that we
+6965080	6967080	can continue to doubt whether it is possible.
+6967080	6969080	But with the normal, what I meant,
+6969080	6971080	multiversum theories, they would say
+6971080	6973080	that everything is there,
+6973080	6975080	what is possible. So do you know a little
+6975080	6977080	what I mean? I know what you mean.
+6977080	6979080	You just answered and maybe I didn't
+6979080	6981080	really understand it, but...
+6981080	6983080	Yes, the thing is that it is not clear
+6983080	6985080	how we should prove
+6985080	6987080	that we come to a universe through the simple
+6987080	6989080	application of operators
+6989080	6991080	that looks so macroscopically similar to us
+6991080	6993080	and would be allowed,
+6993080	6995080	but possibly does not work
+6995080	6997080	microscopically. Exactly, okay.
+6997080	6999080	So it could just be that many imaginable things
+6999080	7001080	are not possible
+7001080	7003080	in the real world. They are
+7003080	7005080	still there. Even if we
+7005080	7007080	think, yes, if we could
+7007080	7009080	imagine it, of course the imagination is not complete
+7009080	7011080	and it is not implemented in the imagination,
+7011080	7013080	then it would still be possible. We had
+7013080	7015080	questions yesterday. Did I
+7015080	7017080	satisfy what you asked?
+7017080	7019080	Yes.
+7019080	7021080	Yes.
+7021080	7023080	That is also a bit Wolfram's idea
+7023080	7025080	that through the application of all operators
+7025080	7027080	still something specific happens
+7027080	7029080	and not somehow,
+7029080	7031080	so everything happens, but that the roulette
+7031080	7033080	still somehow has a structure or something.
+7033080	7035080	Everything is possible, it is something specific
+7035080	7037080	in the end. Yes.
+7037080	7039080	Yes. Exactly, but it is something
+7039080	7041080	not, so to speak, one percent homogeneous
+7041080	7043080	or something like that, which always looks exactly
+7043080	7045080	the same in every direction and so on.
+7045080	7047080	You could somehow think that.
+7047080	7049080	And that means,
+7049080	7051080	but if we now express ourselves in this
+7051080	7053080	classical language of philosophy,
+7053080	7055080	then there is something
+7055080	7057080	that we, well, then there is a difference
+7057080	7059080	between what is possible
+7059080	7061080	and what we can imagine.
+7061080	7063080	You could say,
+7063080	7065080	for example, that somehow God's face
+7065080	7067080	appears in the clouds there or
+7067080	7069080	the unicorn flies through here or something like that.
+7069080	7071080	We can imagine that, but we can
+7071080	7073080	perhaps not imagine
+7073080	7075080	that with the complete
+7075080	7077080	causality catch up to the beginning.
+7077080	7079080	And that's why we don't know
+7079080	7081080	whether it is actually a possibility,
+7081080	7083080	even if it is a possible possibility.
+7083080	7085080	Yes, that means
+7085080	7087080	if we say imaginable,
+7087080	7089080	then we have to make it clear that our
+7089080	7091080	representations are very fluid.
+7091080	7093080	We can imagine
+7093080	7095080	that we are millionaires,
+7095080	7097080	but the problem is to get the causal chain
+7097080	7099080	that leads us to become millionaires
+7099080	7101080	is very complex.
+7101080	7103080	That means,
+7103080	7105080	to trigger the control process
+7105080	7107080	that leads to a representation
+7107080	7109080	being justified,
+7109080	7111080	is the problem.
+7111080	7113080	And the control processes are ultimately
+7113080	7115080	on the lowest level of causality
+7115080	7117080	of the universe and then swing up.
+7117080	7119080	And a control process means,
+7119080	7121080	it's a term from the theory of regulation,
+7121080	7123080	from the humanistic theory,
+7123080	7125080	that you have a system that
+7125080	7127080	stabilizes its own structure,
+7127080	7129080	that can be described as if it were to do so.
+7129080	7131080	And that means that as soon as
+7131080	7133080	it runs out of certain parameters,
+7133080	7135080	a counter-force appears that leads
+7135080	7137080	to push it back into these parameters.
+7137080	7139080	And in the case of the
+7139080	7141080	whirl on the surface of the water,
+7141080	7143080	it is as simple as possible.
+7143080	7145080	Because with the whirl in the surface of the water,
+7145080	7147080	you move your hand at the beginning
+7147080	7149080	and all vectors arise in the water molecules.
+7149080	7151080	And most of these lead
+7151080	7153080	to the fact that the information
+7153080	7155080	that is created by the whirl
+7155080	7157080	is no longer recognizable.
+7157080	7159080	After a short time, the waves scatter
+7159080	7161080	and only a very small part of this information
+7161080	7163080	leads to the stable whirl structure.
+7163080	7165080	The rest
+7165080	7167080	simply dissipates out.
+7167080	7169080	It simply evaporates.
+7169080	7171080	It evaporates into the background.
+7171080	7173080	And only the part that, so to speak,
+7173080	7175080	selects itself for it,
+7175080	7177080	by having the exact right vector
+7177080	7179080	to keep itself in this circle, stays there.
+7179080	7181080	And at the next higher level,
+7181080	7183080	these systems can interact with each other.
+7183080	7185080	And they form stable systems
+7185080	7187080	that you can squish a little.
+7187080	7189080	And they come back
+7189080	7191080	to their starting point.
+7191080	7193080	This ideal whirl, as soon as you squish it,
+7193080	7195080	it dissolves.
+7195080	7197080	But in the whirl
+7197080	7199080	that you see in the surface of the water,
+7199080	7201080	it is already a bit more stable.
+7201080	7203080	For example, the surface of the water has viscosity.
+7203080	7205080	That means the molecules
+7205080	7207080	target the surface of the water
+7207080	7209080	in a certain way, so that it tries
+7209080	7211080	to stay stable, but is also stretchable.
+7211080	7213080	And that means that the thing already has a certain
+7213080	7215080	robustness when you push against it
+7215080	7217080	and cause disturbance,
+7217080	7219080	so that it moves back to its original form
+7219080	7221080	and is elastic.
+7221080	7223080	Or imagine a soap bubble.
+7223080	7225080	A soap bubble is such a thing
+7225080	7227080	where you have a structure
+7227080	7229080	in 3D
+7229080	7231080	that balances several
+7231080	7233080	criteria against each other,
+7233080	7235080	namely the surface tension of the fluid
+7235080	7237080	that forms the border of the soap bubble
+7237080	7239080	and the pressure of the air inside.
+7239080	7241080	And the two of them push against each other
+7241080	7243080	so strongly that a stable structure
+7243080	7245080	exists that can withstand many disturbances.
+7245080	7247080	Or imagine
+7247080	7249080	a water molecule
+7249080	7251080	in which you have
+7251080	7253080	two hydrogen atoms
+7253080	7255080	and a oxygen atom.
+7255080	7257080	And they are bound together
+7257080	7259080	by the actinomatism
+7259080	7261080	that arises in the atom shells
+7261080	7263080	and leads to electron pairs.
+7263080	7265080	You can squish the thing
+7265080	7267080	to a certain extent
+7267080	7269080	and it comes back to its original state.
+7269080	7271080	And the things that are stable
+7271080	7273080	over a wide range of squishings
+7273080	7275080	are the periodic table of elements.
+7275080	7277080	And those that are not, are things
+7277080	7279080	that fall apart relatively quickly.
+7279080	7281080	Or fall apart immediately.
+7281080	7283080	And the rare elements are the ones
+7283080	7285080	that fall apart very quickly
+7285080	7287080	under the conditions in which they exist.
+7287080	7289080	That is, they do not stay stable for long,
+7289080	7291080	but fall apart when there are small disturbances.
+7291080	7293080	But the interesting thing about them
+7293080	7295080	is that the disturbances
+7295080	7297080	are always regulated instantly.
+7297080	7299080	So similar to the thermostat.
+7299080	7301080	The thermostat is a controller
+7301080	7303080	that only measures the current
+7303080	7305080	and only regulates in the current.
+7305080	7307080	And the really interesting control systems
+7307080	7309080	are the ones that regulate the future.
+7309080	7311080	So they are prepared
+7311080	7313080	for a number of possible disturbances
+7313080	7315080	in the future and are able
+7315080	7317080	to intervene on future disturbances
+7317080	7319080	in such a way that they now
+7319080	7321080	lead the appropriate future.
+7321080	7323080	We call them agents.
+7323080	7325080	An agent is a controller
+7325080	7327080	for future conditions.
+7327080	7329080	And then it turns out that the easiest
+7329080	7331080	agents that we can see in nature,
+7331080	7333080	which at least I can see, are cells.
+7333080	7335080	It is a kind of super molecule
+7335080	7337080	that I can keep stable
+7337080	7339080	over many, many types of environmental conditions
+7339080	7341080	so that it can predict the future.
+7341080	7343080	And the cell is a totally fascinating system.
+7343080	7345080	It consists on the one hand
+7345080	7347080	of a self-replicator
+7347080	7349080	and on the other hand of a Turing machine.
+7349080	7351080	The Turing machine has a typewriter,
+7351080	7353080	the reprisome,
+7353080	7355080	and the DNA.
+7355080	7357080	And all of these are small tapes
+7357080	7359080	that spin around additionally.
+7359080	7361080	And then there is a neck entropy extractor,
+7361080	7363080	a system that is able
+7363080	7365080	to become stable against disturbances
+7365080	7367080	by spilling these disturbances
+7367080	7369080	out of the system.
+7369080	7371080	And the structures on which
+7371080	7373080	these disturbances are written,
+7373080	7375080	such as molecules that move quickly
+7375080	7377080	and are warm, are spilt out of the cell
+7377080	7379080	that you collect,
+7379080	7381080	do not have this information that disturbs you.
+7381080	7383080	In order to be stable,
+7383080	7385080	an agent has to be able to forget
+7385080	7387080	the disturbances that are added to him.
+7387080	7389080	Otherwise, the knowledge about these disturbances
+7389080	7391080	accumulates in the information collection.
+7393080	7395080	And in order to achieve this,
+7395080	7397080	you have to, so to speak,
+7397080	7399080	clean yourself all the time.
+7399080	7401080	And if you do something clean,
+7401080	7403080	something else becomes dirty.
+7403080	7405080	And what becomes dirty, you have to push out of yourself.
+7405080	7407080	We all live on Earth in a way
+7407080	7409080	that it encodes disturbances
+7409080	7411080	into particles,
+7411080	7413080	mostly as speed differences
+7413080	7415080	in particles.
+7415080	7417080	And this statistic of speed differences
+7417080	7419080	in particles is called heat.
+7419080	7421080	And it is then radiated
+7421080	7423080	into the deep space.
+7423080	7425080	This is the sink for the whole entropy.
+7425080	7427080	And we fill up these particles
+7427080	7429080	by collecting fresh photons
+7429080	7431080	that are nicely sorted from the sun.
+7431080	7433080	And the sun is, so to speak,
+7433080	7435080	a neck entropy of order
+7435080	7437080	that we convert into disorder.
+7437080	7439080	And we, as organisms,
+7439080	7441080	exist as pumps
+7441080	7443080	from order to disorder.
+7443080	7445080	This allows us to maintain
+7445080	7447080	our structure
+7447080	7449080	and by building more and more structures,
+7449080	7451080	building more and more complexity,
+7451080	7453080	we are able to convert more and more
+7453080	7455080	of this neck entropy
+7455080	7457080	into disorder.
+7459080	7461080	You just presented
+7461080	7463080	a fascinating model
+7463080	7465080	with which one can build
+7465080	7467080	a foundation for the four core questions
+7467080	7469080	of philosophy.
+7469080	7471080	And you also said
+7471080	7473080	that you are not the first
+7473080	7475080	to do this.
+7475080	7477080	But why have so few people
+7477080	7479080	accepted this so far?
+7479080	7481080	In physics, in philosophy,
+7481080	7483080	also in mathematics.
+7483080	7485080	Of course, I could say that many people
+7485080	7487080	in computer science have accepted this.
+7487080	7489080	You just talked about
+7489080	7491080	Paul Bauer,
+7491080	7493080	who has already tried
+7493080	7495080	to lead this struggle
+7495080	7497080	in the academy, so to speak.
+7497080	7499080	And I think,
+7499080	7501080	yes, exactly,
+7501080	7503080	Wildberger does it too.
+7503080	7505080	And I don't know, probably Ed Friedkin
+7505080	7507080	did it. And there are some people
+7507080	7509080	who have tried it.
+7509080	7511080	And the best explanation
+7511080	7513080	that I've heard so far
+7513080	7515080	why they don't accept it
+7515080	7517080	– well, I know a little bit
+7517080	7519080	about mathematics – is because
+7519080	7521080	the proofs are simply so inelegant.
+7521080	7523080	That means,
+7523080	7525080	if I now
+7525080	7527080	do a constructive or
+7527080	7529080	an intuitionist mathematics,
+7529080	7531080	then I just need for some proofs
+7531080	7533080	so much longer.
+7533080	7535080	Before that, I could just say, yes,
+7535080	7537080	assuming that it is not so
+7537080	7539080	contradictory, done,
+7539080	7541080	super fast,
+7541080	7543080	not followed by P,
+7543080	7545080	and that went
+7545080	7547080	on for half a page. And if I
+7547080	7549080	want to do this constructively,
+7549080	7551080	then I might need ten pages
+7551080	7553080	or so for it. That means, I think,
+7553080	7555080	why mathematicians don't accept it
+7555080	7557080	is because they first think,
+7557080	7559080	yes, it works, what we do.
+7559080	7561080	We don't have any problems. Why should we change anything?
+7561080	7563080	That you can't
+7563080	7565080	put it in a computer.
+7565080	7567080	The pure mathematicians are not really interested in that.
+7567080	7569080	And they find it somehow
+7569080	7571080	inelegant. Do you think
+7571080	7573080	that's an argument? Can you understand that?
+7573080	7575080	Do you think,
+7575080	7577080	while doing that,
+7577080	7579080	do you have an idea
+7579080	7581080	if there are people who try it?
+7581080	7583080	I have recently read a little introduction
+7583080	7585080	to constructive analysis.
+7585080	7587080	I think it was from 1967 or so.
+7587080	7589080	And then
+7589080	7591080	the introduction was like, yes, and I'm sure
+7591080	7593080	that in the end we will be kept right.
+7593080	7595080	And not,
+7595080	7597080	it won't take too long.
+7597080	7599080	Now it's 50 years
+7599080	7601080	or even longer, and nothing has
+7601080	7603080	been done.
+7603080	7605080	Do you see a way?
+7605080	7607080	I have the impression that something is already happening.
+7607080	7609080	Just like in philosophy
+7609080	7611080	something is happening. It's just
+7611080	7613080	that the rest doesn't go away.
+7613080	7615080	And what very rarely
+7615080	7617080	happens in science is that a group
+7617080	7619080	of people who have built
+7619080	7621080	a tradition for a long time
+7621080	7623080	looks at themselves
+7623080	7625080	and says, okay,
+7625080	7627080	we're giving it up now, or we're done now.
+7627080	7629080	But in the end
+7629080	7631080	these currents are all self-contained
+7631080	7633080	if there are enough time spaces
+7633080	7635080	over time.
+7635080	7637080	And the other problem is that so and so much
+7637080	7639080	fits into the human mind over the lifetime.
+7639080	7641080	I met
+7641080	7643080	Sam Adams, a computer scientist,
+7643080	7645080	an AI researcher.
+7645080	7647080	I went to a conference.
+7647080	7649080	He worked at IBM for many years
+7649080	7651080	and said he had a very
+7651080	7653080	vague feeling when he went to an AI
+7653080	7655080	conference with me,
+7655080	7657080	because he had the impression that he
+7657080	7659080	had been out of the current
+7659080	7661080	business for 20 years,
+7661080	7663080	in the artificial intelligence
+7663080	7665080	and that he was probably completely
+7665080	7667080	detached. He had continued
+7667080	7669080	building his own things all the time,
+7669080	7671080	but maybe since Minsky and so on
+7671080	7673080	what he read and thought back then
+7673080	7675080	is already so much further
+7675080	7677080	and the new generation
+7677080	7679080	has gone far away from him.
+7679080	7681080	And after we left the conference
+7681080	7683080	and went home, he said, we have to hurry.
+7683080	7685080	I mean, I'm old now, but if we can't do it,
+7685080	7687080	this generation can't do it,
+7687080	7689080	because they know less than we do.
+7691080	7693080	And this thing that you
+7693080	7695080	realize at some point, when I was young,
+7695080	7697080	I had the impression that a lot
+7697080	7699080	happened in cognitive science, that there was
+7699080	7701080	an extremely high frequency with which
+7701080	7703080	you had groundbreaking new insights
+7703080	7705080	that came in that changed everything.
+7705080	7707080	And now I have the impression
+7707080	7709080	that every generation still has to
+7709080	7711080	make all the mistakes of the previous generation
+7711080	7713080	again, because you can
+7713080	7715080	make things so difficult for yourself.
+7715080	7717080	And finally, to make progress,
+7717080	7719080	you as an individual
+7719080	7721080	have to dig yourself down a little bit
+7721080	7723080	from the basics and then come back
+7723080	7725080	to the limit and rebuild something at the limit.
+7725080	7727080	And this process takes so long
+7727080	7729080	that there is not always a shortcut.
+7729080	7731080	And you can't
+7731080	7733080	rely on others
+7733080	7735080	because there are so many schools
+7735080	7737080	that don't have a clear picture
+7737080	7739080	of their basics, or there are individuals
+7739080	7741080	that don't have a clear picture of their basics.
+7741080	7743080	And in computer science and mathematics
+7743080	7745080	it is even easier.
+7745080	7747080	In other sciences it is much more difficult.
+7747080	7749080	So, in short,
+7749080	7751080	the reason why
+7751080	7753080	there is no agreement about it,
+7753080	7755080	not even in mathematics itself,
+7755080	7757080	but also not about the different
+7757080	7759080	branches of philosophy or
+7759080	7761080	of science or of social
+7761080	7763080	flow that you try to recognize,
+7763080	7765080	is the Tower of Babel.
+7765080	7767080	The Tower of Babel is the idea that
+7767080	7769080	we are able to build
+7769080	7771080	the only building
+7771080	7773080	that conquers the entire sky.
+7773080	7775080	And the meaning of Heavens
+7775080	7777080	back then was different
+7777080	7779080	than what we understood later.
+7779080	7781080	Today we translate Heavens
+7781080	7783080	as an imaginary place that exists
+7783080	7785080	in a superstitious way
+7785080	7787080	and in which non-existent
+7787080	7789080	supernatural agents stay.
+7789080	7791080	God and angels and
+7791080	7793080	the souls of the dead
+7793080	7795080	or whatever.
+7795080	7797080	And I think that this is a
+7797080	7799080	very important point.
+7799080	7801080	Also a part of the Tower of Babel.
+7801080	7803080	Where Heaven and Earth
+7803080	7805080	first appear is in Genesis
+7805080	7807080	and it describes
+7807080	7809080	that consciousness
+7809080	7811080	is hanging over the substrate
+7811080	7813080	and I think that happens
+7813080	7815080	in every single one of us.
+7815080	7817080	And the border in the substrate
+7817080	7819080	is between the world model and the idea sphere.
+7819080	7821080	And we realize that
+7821080	7823080	in our mind there is a world model
+7823080	7825080	that is what we perceive as stuff in space
+7825080	7827080	not in the physical sense
+7827080	7829080	but in the sense where we see people
+7829080	7831080	with geometry and colors and ideas
+7831080	7833080	and thoughts that touch things.
+7833080	7835080	This stuff in space is a game engine
+7835080	7837080	that our brain generates.
+7837080	7839080	And this is a very special kind of mental state
+7839080	7841080	mental state
+7841080	7843080	because it is correlated to our perception.
+7843080	7845080	That means we are in resonance
+7845080	7847080	with the world around us
+7847080	7849080	through our nervous system
+7849080	7851080	that is coupled with the world
+7851080	7853080	and we build this world model
+7853080	7855080	and the processes around us are tracked.
+7855080	7857080	This world model is stuff in space.
+7857080	7859080	And in the text of Genesis 1
+7859080	7861080	they call it Earth
+7861080	7863080	or world.
+7863080	7865080	And the world is simply the world model.
+7865080	7867080	Rest extensa
+7867080	7869080	in the Dekarczian sense
+7869080	7871080	is not the physics
+7871080	7873080	but it is a mental state
+7873080	7875080	that describes the world model.
+7875080	7877080	And everything else
+7877080	7879080	that we have in our mind
+7879080	7881080	that is not the world model
+7881080	7883080	these are the heavens, the idea spheres
+7883080	7885080	the space in which we have thoughts
+7885080	7887080	about the world that are temporarily
+7887080	7889080	decoupled and can also be
+7889080	7891080	semantically decoupled from our perception.
+7891080	7893080	And in fact there are these two areas
+7893080	7895080	in our spirit and in every spirit
+7895080	7897080	that we know.
+7897080	7899080	So every human and most complicated
+7899080	7901080	animals have a world model
+7901080	7903080	and a space of ideas
+7903080	7905080	that cannot be directly reflected
+7905080	7907080	on perception in the outer environment
+7907080	7909080	or the proprioception.
+7909080	7911080	And if we now go back
+7911080	7913080	and think about what is heaven
+7913080	7915080	that is simply the idea sphere
+7915080	7917080	the noosphere.
+7917080	7919080	And to bring the idea into this space
+7919080	7921080	is the project of the tower
+7921080	7923080	to Babel in this myth.
+7923080	7925080	And this project failed
+7925080	7927080	because the people
+7927080	7929080	did not manage to find a common language
+7929080	7931080	that remained coherent.
+7931080	7933080	The more people worked on it
+7933080	7935080	the more special the languages were
+7935080	7937080	and the more difficult they were to translate.
+7937080	7939080	And that is why the tower fell apart.
+7939080	7941080	So the whole tower broke apart.
+7941080	7943080	God guided her somehow
+7943080	7945080	or gave her the language
+7945080	7947080	that she could no longer understand.
+7947080	7949080	He somehow found the project dangerous.
+7949080	7951080	How is that?
+7951080	7953080	It can be.
+7953080	7955080	But logically it is the case that
+7955080	7957080	the churches have the impression
+7957080	7959080	that the rationalists are trying
+7959080	7961080	to explain the world and forget God
+7961080	7963080	and can no longer explain
+7963080	7965080	and therefore cannot
+7965080	7967080	underline the world.
+7967080	7969080	And if we take our original definition
+7969080	7971080	of God from earlier
+7971080	7973080	from this afternoon
+7973080	7975080	then it was the small written God
+7975080	7977080	the general gods
+7977080	7979080	are simply themselves
+7979080	7981080	that surround different spirits
+7981080	7983080	and the big written God
+7983080	7985080	is the total God
+7985080	7987080	the greatest, best God
+7987080	7989080	that we can construct.
+7989080	7991080	And if we build a civilization
+7991080	7993080	like ours, then it works by doing
+7993080	7995080	even if no one is watching.
+7995080	7997080	That is, the agent that we build together
+7997080	7999080	the system of agency
+7999080	8001080	that we create together
+8001080	8003080	the system in which we control the future together
+8003080	8005080	in the most harmonious possible way
+8005080	8007080	that is God.
+8007080	8009080	God is created by the fact that we recognize
+8009080	8011080	that it makes sense to seek harmony
+8011080	8013080	that we make our behavior
+8013080	8015080	so coherent with each other
+8015080	8017080	as we make our behavior so coherent
+8017080	8019080	in our own spirit
+8019080	8021080	that our hands do something together
+8021080	8023080	In a way, a society should ideally work
+8023080	8025080	in such a way that the individuals
+8025080	8027080	do not work against each other
+8027080	8029080	but are coherent.
+8029080	8031080	But they are not coherent to do something similar
+8031080	8033080	but coherent according to the best possible
+8033080	8035080	set of structural principles
+8035080	8037080	that can be discovered.
+8037080	8039080	And that is what the churches
+8039080	8041080	try to stabilize.
+8041080	8043080	That is, they try to practically synchronize
+8043080	8045080	the gods with the people
+8045080	8047080	so that at the end a civilization is created
+8047080	8049080	that is harmonious
+8049080	8051080	and that the best possible survival
+8051080	8053080	and the longest possible survival is possible for us.
+8053080	8055080	That is the idea behind it.
+8055080	8057080	And the scientists often do not recognize that.
+8057080	8059080	And possibly the message
+8059080	8061080	why the story of the tower of Babel
+8061080	8063080	is told like that
+8063080	8065080	it is not only told as an observation
+8065080	8067080	but as a normative
+8067080	8069080	there is a message in it that God wants to send to the people
+8069080	8071080	is that if you believe too much
+8071080	8073080	in what you do in your private languages
+8073080	8075080	then at the end there is no coherent system
+8075080	8077080	that breaks together in your civilization.
+8079080	8081080	The interpretation is that
+8081080	8083080	I do not agree with the text.
+8083080	8085080	The thing is that there are computational languages
+8085080	8087080	that did not discover them back then.
+8087080	8089080	They did not discover the theory of the Church
+8089080	8091080	they did not discover that they are all equally powerful.
+8091080	8093080	And today we find that out.
+8093080	8095080	We find out why it is possible
+8095080	8097080	that our own spirit agrees with itself on a language
+8097080	8099080	and how it would be conceivable
+8099080	8101080	that one finds a harmonization
+8101080	8103080	over all possible spirits
+8103080	8105080	who are able to think so far
+8105080	8107080	that they can shape the foundations of their own thinking
+8107080	8109080	in the space of all metaphysics
+8109080	8111080	and find out which metaphysics
+8111080	8113080	can work
+8113080	8115080	build a metametaphysics
+8115080	8117080	from which one can derive all possible world models
+8117080	8119080	which are coherent in themselves
+8119080	8121080	and translate them into human beings.
+8123080	8125080	A short question, how is it with the light?
+8125080	8127080	It glows interesting
+8127080	8129080	but it is not a big problem
+8129080	8131080	because in front of me there are various microphones
+8131080	8133080	that I can use in between.
+8133080	8135080	How does it look on the camera?
+8135080	8137080	We can also do it like this
+8137080	8139080	that we turn the table
+8139080	8141080	with 90 degrees
+8141080	8143080	then the sun comes from the side.
+8143080	8145080	This meme is for me
+8145080	8147080	a strange thing
+8147080	8149080	when you express it here and say
+8149080	8151080	Franz that you want to hang it on the kitchen wall.
+8151080	8153080	For me it was more of a fleeting thing
+8153080	8155080	that you quickly
+8155080	8157080	produce within a few minutes.
+8157080	8159080	But it is a bit like that from the ...
+8159080	8161080	That's why I think it's so good
+8161080	8163080	because these are memes.
+8163080	8165080	It is this fleeting meme-like
+8165080	8167080	but there is so beautiful
+8167080	8169080	idea space in it
+8169080	8171080	and this combination makes it
+8171080	8173080	my favorite meme so far.
+8173080	8175080	The thing is that you ...
+8175080	8177080	The memes work because
+8177080	8179080	they capture something so quickly
+8179080	8181080	but what they capture is sometimes quite complex.
+8181080	8183080	For me the meme is a bit like
+8183080	8185080	the famous Chinese painter
+8185080	8187080	who is commissioned by the king
+8187080	8189080	to paint birds
+8189080	8191080	and he
+8191080	8193080	sits there all the time
+8193080	8195080	and sketches and throws away
+8195080	8197080	and sketches and throws away and so on and so forth
+8197080	8199080	and then the king comes to him and says to him
+8199080	8201080	where is the bird that you should paint for me?
+8201080	8203080	And the artist
+8203080	8205080	sits down, takes a fresh sheet of paper
+8205080	8207080	takes his brush and makes
+8207080	8209080	a complex stroke and has the bird.
+8209080	8211080	And the king is super
+8211080	8213080	disappointed and says
+8213080	8215080	why? You just did it so quickly.
+8215080	8217080	What is the thing?
+8217080	8219080	And he says, no, to make it
+8219080	8221080	I had to become the one who can do it all.
+8221080	8223080	And for me it is also like that.
+8223080	8225080	For me it is the result of
+8225080	8227080	thinking about all the stuff for several decades
+8227080	8229080	and then trying to draw my own path
+8229080	8231080	and to think about
+8231080	8233080	which steps I have come up with.
+8233080	8235080	And of course it is not the only
+8235080	8237080	possible path and probably
+8237080	8239080	not the end of the path because many details are missing.
+8239080	8241080	But it is interesting to
+8241080	8243080	get to know yourself.
+8243080	8245080	And the great thing about this medium Twitter
+8245080	8247080	is that you ...
+8247080	8249080	that there are so many people on it
+8249080	8251080	that you can develop very special thoughts.
+8251080	8253080	And then when you
+8253080	8255080	train your followers accordingly
+8255080	8257080	so that they are able to get along with it
+8257080	8259080	you just have among your
+8259080	8261080	tens of thousands of followers always some
+8261080	8263080	who can get along with your thoughts and who can interface
+8263080	8265080	and can bring you further into the discussion.
+8267080	8269080	And here you also have to shout out
+8269080	8271080	to the expanding brain thing itself
+8271080	8273080	because it really fits on it
+8273080	8275080	so I sometimes still get such jitters
+8275080	8277080	when I only concentrate on the pictures
+8277080	8279080	together with what is there
+8279080	8281080	and then it's always ...
+8281080	8283080	well.
+8283080	8285080	Yes, it was just such a spiritual ...
+8285080	8287080	it fits together so well that I quickly tap it down
+8287080	8289080	and put it on Twitter.
+8291080	8293080	It is also interesting because for me I would say
+8293080	8295080	if I had to think about
+8295080	8297080	what my intellectual
+8297080	8299080	trajectory has most influenced
+8299080	8301080	then it was probably
+8301080	8303080	this nerd Twitter bubble
+8303080	8305080	and for most people
+8305080	8307080	Twitter is not the place
+8307080	8309080	where you think you can find knowledge
+8309080	8311080	because at the same time so many nerdy things happen
+8311080	8313080	but also so beautiful.
+8313080	8315080	Sure, as soon as I get out of my filter bubble
+8315080	8317080	it gets uncomfortable.
+8317080	8319080	Some people think that filter bubble is something totally bad
+8319080	8321080	but filter bubble is the equivalent
+8321080	8323080	of a room in which you
+8323080	8325080	can play a concert, for example.
+8325080	8327080	Another is a box match, another is a kindergarten
+8327080	8329080	and another is a
+8329080	8331080	theater play and they can all
+8331080	8333080	only work because they are separated
+8333080	8335080	and because they can separate
+8335080	8337080	for the duration of the performance.
+8339080	8341080	We wrote a few more comments about this meme
+8341080	8343080	which was also
+8343080	8345080	part of the experience
+8345080	8347080	when the meme was aired on Twitter.
+8349080	8351080	One comment below was
+8351080	8353080	there is no independent truth
+8353080	8355080	then you answered welcome to level 2
+8355080	8357080	and the person answered with a smiley
+8357080	8359080	got me.
+8359080	8361080	Very nice interaction.
+8361080	8363080	At level 1 you think
+8363080	8365080	that logic is absolute
+8365080	8367080	and at level 2 you can see
+8367080	8369080	that the logic depends on
+8369080	8371080	the definition in the action system.
+8371080	8373080	We have not yet come to the point
+8373080	8375080	where we can have any action system
+8375080	8377080	which is not available
+8377080	8379080	so it is only level 2.
+8381080	8383080	What did you answer with level 3?
+8385080	8387080	What is that?
+8389080	8391080	What is the definition in a formal language?
+8391080	8393080	It can be defined in any way we want.
+8413080	8415080	What if the universe contains
+8415080	8417080	non-computable processes?
+8417080	8419080	Computation with general
+8419080	8421080	real-valued variables?
+8421080	8423080	Level 3.
+8423080	8425080	At this point we have not
+8425080	8427080	taken the step to constructive mathematics
+8427080	8429080	and believe that
+8429080	8431080	languages that are not implementable
+8431080	8433080	are suitable to
+8433080	8435080	describe truth in such a way
+8435080	8437080	that you can claim that all these things exist.
+8437080	8439080	Truth
+8439080	8441080	that can work with it
+8441080	8443080	must exist in the form
+8443080	8445080	that is, it must be implementable
+8445080	8447080	that is, it is pre-computationalist.
+8467080	8469080	Exactly, it is the case that
+8469080	8471080	he took the kettlebell
+8471080	8473080	but he has not yet come out
+8473080	8475080	and has understood the consequence.
+8475080	8477080	That is, he is exactly at the point
+8477080	8479080	where he sees that these languages
+8479080	8481080	that he uses to describe reality
+8481080	8483080	are running in boundaries
+8483080	8485080	because they run in self-contradictions
+8485080	8487080	and that means that the reality he builds with
+8487080	8489080	does not end and he does not see the way out of it.
+8503080	8505080	Universe is a computer
+8505080	8507080	but that we can build universal computers
+8507080	8509080	capable of simulating any physical system.
+8509080	8511080	Thoughts?
+8511080	8513080	Level 4.
+8533080	8535080	That he has not yet taken the step
+8535080	8537080	to recognize that
+8537080	8539080	the pre-computational languages
+8539080	8541080	are running in contradictions.
+8541080	8543080	The thing is, when we accept
+8543080	8545080	that nothing can be thought of
+8545080	8547080	that is not computational
+8547080	8549080	and nothing can be observed
+8549080	8551080	then we can not even
+8551080	8553080	refer to this universe
+8553080	8555080	in our thoughts.
+8555080	8557080	Of course, every system
+8557080	8559080	in which we speak about something
+8559080	8561080	can only refer to the system itself.
+8561080	8563080	If we have a representation system
+8563080	8565080	in which we can talk about the universe
+8565080	8567080	and think about it
+8567080	8569080	then we can only talk and think about
+8569080	8571080	universes that can be reproduced
+8571080	8573080	in the representation system.
+8573080	8575080	And to claim that they can exist
+8575080	8577080	does not make sense
+8577080	8579080	because every alternative to the system
+8579080	8581080	leads to contradictions.
+8581080	8583080	That is, the systems that we can think about
+8583080	8585080	and that we can claim
+8585080	8587080	that it is a universe
+8587080	8589080	must be in the class of systems
+8589080	8591080	that can be described in languages
+8591080	8593080	that are not self-contradictory
+8593080	8595080	because the others are not existent.
+8595080	8597080	And also not thinkable in that sense.
+8597080	8599080	Yes, that's what it means.
+8599080	8601080	We can not think about it
+8601080	8603080	in such a way that our language does not break.
+8603080	8605080	And I think that's the big thing
+8605080	8607080	that still confuses people
+8607080	8609080	even further.
+8609080	8611080	That they somehow think, well,
+8611080	8613080	it could be that it is continuous
+8613080	8615080	and they still do not notice
+8615080	8617080	that the idea of continuous
+8617080	8619080	has the same meaning
+8619080	8621080	as a direct contradiction at the end.
+8621080	8623080	Yes, but each of these ideas has confused me
+8623080	8625080	for a long time.
+8625080	8627080	For me it is really a progression
+8627080	8629080	that I have made myself
+8629080	8631080	because I had to find out why it is so and so.
+8631080	8633080	And I did not have the feeling
+8633080	8635080	that someone helped me, but on the contrary.
+8635080	8637080	I tried to get it out
+8637080	8639080	against the institutions
+8639080	8641080	that explained to me that they are the axioms
+8641080	8643080	and I realize, no,
+8643080	8645080	your identity concept is not mine
+8645080	8647080	because it does not work that way
+8647080	8649080	when I try to think.
+8667080	8669080	This is a complicated question.
+8669080	8671080	The thing is that on the lowest level
+8671080	8673080	where we do not need a memory,
+8673080	8675080	so to speak, and the universe
+8675080	8677080	only exists as a condition
+8677080	8679080	in the space of the possible,
+8679080	8681080	the question is, is there
+8681080	8683080	a limitation?
+8683080	8685080	So is the possible
+8685080	8687080	limited by something?
+8687080	8689080	Or if there is boundlessness
+8689080	8691080	on the lowest level of the possibility,
+8691080	8693080	then of course it leads
+8693080	8695080	to an infinity.
+8695080	8697080	It is just that the operators
+8697080	8699080	who work on it
+8699080	8701080	usually cannot lead to structures
+8701080	8703080	that inevitably integrate many elements
+8703080	8705080	from one step to the next.
+8705080	8707080	And that means
+8707080	8709080	that there is a limit
+8709080	8711080	where the question for me
+8711080	8713080	is not clear and I suspect
+8713080	8715080	that the unboundedness
+8715080	8717080	on the lowest level, because we do not
+8717080	8719080	need a memory and no sequential
+8719080	8721080	addition of operations,
+8721080	8723080	theoretically could lead to an infinity.
+8723080	8725080	But it is not
+8725080	8727080	a constructive infinity.
+8727080	8729080	That is, wherever we accept that the universe
+8729080	8731080	is constructive, where we describe things
+8731080	8733080	as transitions through other things
+8733080	8735080	and the world in which
+8735080	8737080	we have, for example, information
+8737080	8739080	and structure formation,
+8739080	8741080	wherever information and structure
+8741080	8743080	formation play a role, it probably
+8743080	8745080	cannot work.
+8745080	8747080	And that is something where I
+8747080	8749080	do not see the clear proof. I have the impression
+8749080	8751080	that I see it, but I cannot
+8751080	8753080	write it down formally. That is why
+8753080	8755080	it is so that I hallucinate it.
+8755080	8757080	But then I have another question, if you
+8757080	8759080	talk about the lowest possible level
+8759080	8761080	where the unboundedness becomes a real infinity,
+8761080	8763080	then we get the same
+8763080	8765080	problems, or that you
+8765080	8767080	simply cannot keep the concept infinity
+8767080	8769080	up at all, because if you look closely,
+8769080	8771080	it is exactly the same.
+8771080	8773080	It is above all the next
+8773080	8775080	problem is that I cannot talk about it,
+8775080	8777080	that is, I cannot think about it. And since I
+8777080	8779080	cannot think about it, it cannot
+8779080	8781080	be claimed in any way
+8781080	8783080	that we are in it.
+8783080	8785080	Because I cannot refer to the thing where
+8785080	8787080	we are supposed to be in it.
+8787080	8789080	I always imagine that when I have
+8789080	8791080	continual ideas about
+8791080	8793080	the universe, or space, or time,
+8793080	8795080	I simply replace it with
+8795080	8797080	x and not x. And then I say
+8797080	8799080	that what I am currently thinking
+8799080	8801080	about has exactly the same
+8801080	8803080	meaning as this. It is simply
+8803080	8805080	another token for contradiction.
+8805080	8807080	And that is it.
+8807080	8809080	But that is something where I say,
+8809080	8811080	as far as I understand it logically,
+8811080	8813080	there is no possibility that we are in
+8813080	8815080	the universe. But it is also the case
+8815080	8817080	that when I go through my one progression,
+8817080	8819080	through these steps, it was often the case
+8819080	8821080	that I am at a point where I say
+8821080	8823080	I cannot logically understand why
+8823080	8825080	there is something, instead of something else.
+8825080	8827080	This question seems, in principle,
+8827080	8829080	unanswerable.
+8829080	8831080	And that confused me, because I thought
+8831080	8833080	how can it be that there are questions that
+8833080	8835080	are unanswered, because you can always find a curve.
+8835080	8837080	And at some point you
+8837080	8839080	realize, oh, there is this
+8839080	8841080	solution. But that also shows
+8841080	8843080	how fragile our own thinking is
+8843080	8845080	and how unreliable it is.
+8845080	8847080	And in the end, unfortunately,
+8847080	8849080	that is something that we have to leave to the machines.
+8853080	8855080	I wanted to read a quote from Einstein
+8855080	8857080	where I wonder
+8857080	8859080	if he describes
+8859080	8861080	similar problems.
+8861080	8863080	I had that in a planning concept, but I don't know
+8863080	8865080	if you read it in such detail.
+8865080	8867080	Einstein on the discreteness of space-time.
+8867080	8869080	But you have correctly
+8869080	8871080	grasped
+8871080	8873080	the drawback
+8873080	8875080	that the continuum brings.
+8875080	8877080	If the molecular view of
+8877080	8879080	matter is the correct
+8879080	8881080	and appropriate one, that is,
+8881080	8883080	if a part of the universe
+8883080	8885080	is to be represented by a finite number
+8885080	8887080	of moving points,
+8887080	8889080	then the continuum
+8889080	8891080	of the present theory contains
+8891080	8893080	too great a manifold of possibilities.
+8893080	8895080	I also believe
+8895080	8897080	that this too great
+8897080	8899080	is responsible for the fact
+8899080	8901080	that our present means of description
+8901080	8903080	miscarry with the quantum theory.
+8903080	8905080	The problem seems to me
+8905080	8907080	how one can formulate statements
+8907080	8909080	about a discontinuum
+8909080	8911080	without calling
+8911080	8913080	upon a continuum
+8913080	8915080	as an aid.
+8915080	8917080	The letter, the continuum,
+8917080	8919080	should be banned from the theory
+8919080	8921080	as a supplementary construction
+8921080	8923080	not justified by the essence
+8923080	8925080	of the problem, which corresponds
+8925080	8927080	to nothing real.
+8927080	8929080	But we still lack
+8929080	8931080	the mathematical structure, unfortunately.
+8931080	8933080	How much have I already
+8933080	8935080	plagued myself in this way?
+8955080	8957080	The idea that one
+8957080	8959080	can assemble the universe
+8959080	8961080	from discrete units,
+8961080	8963080	but the idea that one
+8963080	8965080	derives geometry from discrete
+8965080	8967080	operations, from quantum theory
+8967080	8969080	and so on and so forth,
+8969080	8971080	he probably didn't have any tools for that.
+8971080	8973080	And even now it's problematic.
+8973080	8975080	Wolfram tries to do that,
+8975080	8977080	but it's not trivial.
+8977080	8979080	I don't know how much mathematics
+8979080	8981080	is in this area, but Einstein
+8981080	8983080	has seen this possibility.
+8983080	8985080	He has been confronted with the fact
+8985080	8987080	that there are singularities in space-time.
+8987080	8989080	And singularities
+8989080	8991080	are nothing positive.
+8991080	8993080	That is, that the mathematical description
+8993080	8995080	no longer works, that you
+8995080	8997080	practically get a division by zero
+8997080	8999080	and the value is no longer valid
+8999080	9001080	that you get.
+9001080	9003080	So singularity means
+9003080	9005080	that practically the dimensions
+9005080	9007080	in which a model is described
+9007080	9009080	are not sufficient to
+9009080	9011080	grasp the dynamics of the model.
+9011080	9013080	And he then noticed
+9013080	9015080	that one can push the singularities
+9015080	9017080	in space-time around,
+9017080	9019080	i.e. these places where space-time
+9019080	9021080	breaks down and then practically push them
+9021080	9023080	into the middle of masses.
+9023080	9025080	And that means that in the middle of masses
+9025080	9027080	there is a point where space-time
+9027080	9029080	no longer really works, but maybe
+9029080	9031080	it's not that bad, maybe it has to do with
+9031080	9033080	how space-time is knotted in a certain way
+9033080	9035080	and runs out of the rudder.
+9035080	9037080	But he was confronted with it relatively early
+9037080	9039080	that the possibility exists that
+9039080	9041080	the space-time description that he makes,
+9041080	9043080	i.e. the continuous geometric space-time
+9043080	9045080	is not suitable to describe the absolute
+9045080	9047080	basics of physics.
+9047080	9049080	And the other thing is this confrontation
+9049080	9051080	with the quantization of the universe
+9051080	9053080	that he saw relatively early.
+9053080	9055080	Einstein was a very broad thinker
+9055080	9057080	who did not focus on a certain idea
+9057080	9059080	because he knew
+9059080	9061080	how he made his ideas.
+9061080	9063080	He was not a member, he was not a type
+9063080	9065080	whose theories came about
+9065080	9067080	that he took over from other teachers
+9067080	9069080	that he did not modify easily.
+9069080	9071080	Instead, he is someone who has invented
+9071080	9073080	these ideas all by himself and together with
+9073080	9075080	other people who have also invented ideas
+9075080	9077080	that were discussed about it.
+9077080	9079080	That is, it is a completely different approach
+9079080	9081080	than what scientists experience today
+9081080	9083080	who practically think about subpar themes.
+9083080	9085080	That is, they marry into a school from the beginning
+9085080	9087080	and try to take over the concepts
+9087080	9089080	and try to understand as well as possible,
+9089080	9091080	to make them fit and then add an epsilon.
+9091080	9093080	So since it was clear to him
+9093080	9095080	that he had invented this continuous space-time
+9095080	9097080	to describe the world,
+9097080	9099080	that it was a good formalism,
+9099080	9101080	it is also clear to him
+9101080	9103080	that one can get out of it
+9103080	9105080	and find alternatives.
+9125080	9127080	...
+9127080	9129080	...
+9129080	9131080	...
+9131080	9133080	...
+9133080	9135080	...
+9135080	9137080	...
+9137080	9139080	...
+9139080	9141080	...
+9141080	9143080	...
+9143080	9145080	...
+9145080	9147080	...
+9149080	9151080	...
+9151080	9153080	...
+9153080	9155080	...
+9155080	9157080	...
+9157080	9159080	...
+9159080	9161080	...
+9161080	9163080	...
+9163080	9165080	...
+9165080	9167080	...
+9167080	9169080	...
+9169080	9171080	...
+9171080	9173080	...
+9173080	9175080	...
+9175080	9177080	...
+9177080	9179080	...
+9179080	9181080	...
+9211080	9218080	I love you, I love you, I love you, I love you, I love you, I love you, I love you,
+9241080	9248080	I love you, I love you, I love you, I love you, I love you,
+9271080	9278080	I love you, I love you, I love you,
+9301080	9308080	I love you, I love you, I love you, I love you,
+9331080	9338080	I love you, I love you, I love you, I love you,
+9361080	9368080	I love you, I love you, I love you,
+9369080	9376080	I love you, I love you, I love you,
+9377080	9384080	I love you, I love you, I love you,
+9384080	9391080	I love you, I love you, I love you,
+9392080	9399080	I love you, I love you,
+9400080	9406080	I love you, I love you,
+9526080	9528080	You
