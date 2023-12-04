@@ -13,6 +13,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Future Histories German/English](./podcasts/futurehistories)
 - [Corvus Corax](./podcasts/corvuscorax)
 - [Critical Infinity Shorts](./podcasts/CriticalInfinityShorts)
+- [morf mit Meinung](./podcasts/mmM)
 
 ### Incomplete Podcasts
 
