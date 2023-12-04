@@ -1,0 +1,4331 @@
+WEBVTT
+
+00:00.000 --> 00:15.480
+Test. Test, Test. So Leute, es gab mal eine Zeit, da bin ich in so Übungen rein und
+
+00:15.480 --> 00:19.320
+habe Leuten was vorgerechnet und da habe ich mich nicht wirklich vorbereitet oder so
+
+00:19.320 --> 00:25.960
+und so ist das heute auch. Ich habe mir nur ein paar Stichpunkte gemacht und für später
+
+00:25.960 --> 00:37.360
+noch ein Zettel mit so ein paar mit so ein paar Sachen. Aber sonst, was mache ich heute?
+
+00:37.360 --> 00:47.960
+Ich habe mir überlegt, ich weiß ja, die Leute brauchen Beispiele und es ist so, ich fange
+
+00:47.960 --> 00:51.960
+gleich mit einem Anwendungsbeispiel an, mit einem konkreten Ding, von dem ich glaube,
+
+00:51.960 --> 00:59.520
+dass es die meisten gar nicht auf dem Schirm haben, dass es schon da ist und zwar GPT-3. Das
+
+00:59.520 --> 01:06.720
+ist im Prinzip einfach nur ein Sprachmodell, was mit extrem vielen Parametern trainiert wurde und
+
+01:06.720 --> 01:11.800
+für normale Menschen, denen kommt es schon so vor, als wäre da ein echter Mensch, mit denen sie
+
+01:11.800 --> 01:18.160
+reden. Und ich zeige euch das gleich als Beispiel und danach, was mache ich danach? Danach hole ich
+
+01:18.160 --> 01:25.840
+weit aus. Ich habe vor, so ein bisschen Mathematik zu machen. Alles, damit ihr am Ende ungefähr
+
+01:25.840 --> 01:35.440
+begreifen könnt, was notwendig ist, um sowas wie GPT-3 zu bauen bzw. das, was die KI-Forscher
+
+01:35.440 --> 01:40.800
+lernen nennen in Deep Learning. Es ist nicht so, dass ihr das am Ende dann verstanden habt,
+
+01:40.800 --> 01:47.160
+sondern ihr habt das Rüstzeug, um euch selber was drauf zu schaffen. Das ist im Prinzip meine Idee.
+
+01:47.160 --> 01:53.640
+Ich will euch sozusagen meinen Erkenntnisgang nachvollziehbar machen. Bei mir ist es so,
+
+01:53.640 --> 01:58.280
+ich hatte das große Privileg, lange an der Hochschule rumzuschimmeln und natürlich habe
+
+01:58.280 --> 02:03.560
+ich Physik studiert, aber danach hatte ich immer noch die Möglichkeit, mir andere Sachen drauf zu
+
+02:03.560 --> 02:08.040
+ziehen. Zum Beispiel hatte ich mal einen Workshop mitgemacht, eine Woche lang, jeden Tag fünf
+
+02:08.040 --> 02:14.000
+Stunden Vorlesung bei so einem Typen, der gerade eine Professur angefangen hat zum Thema KI und
+
+02:14.040 --> 02:17.680
+da habe ich mir sozusagen die Grundlagen drauf geschafft bei den Typen und ich bilde mir halt
+
+02:17.680 --> 02:28.000
+ein, dass ich genug verstanden habe, um das zu vermitteln. Es ist halt auch so, abgesehen davon
+
+02:28.000 --> 02:33.880
+habe ich sonst Medizintechnik gemacht und da schreibe ich auch meine Doktorarbeit drüber und
+
+02:33.880 --> 02:38.640
+da gibt es ein extrem gutes Anwendungsbeispiel, was im Prinzip mit Geometrie auskommt und dass
+
+02:38.640 --> 02:44.960
+jeder nachvollziehen kann, wenn er nur will und ich würde sagen, der ganze Stream jetzt hier und
+
+02:44.960 --> 02:51.240
+auch das ganze Video, was ich später als Video veröffentlichen werde, das richtet sich eher an
+
+02:51.240 --> 02:57.160
+Leute, die so mal schon mal eine Mathevorlesung gesehen haben und nicht komplett ausgestiegen
+
+02:57.160 --> 03:02.800
+sind. Es geht sozusagen hier nur darum, für die Leute, die wirklich interessiert sind, aber warum
+
+03:02.800 --> 03:06.360
+auch immer keine Zeit dafür hatten oder nicht die Möglichkeit hatten, sich noch mal so ein
+
+03:06.360 --> 03:09.040
+bisschen was drauf zu schaffen, was in die Richtung geht, einfach weil, ist ja klar,
+
+03:09.040 --> 03:13.840
+da braucht man Zeit für, da braucht man Privileg für, um das zu machen und ich gebe euch davon
+
+03:13.840 --> 03:19.440
+was ab und das ist die Idee. So und jetzt checke ich erstmal mein Overlay, ob das hier alles so
+
+03:19.440 --> 03:27.240
+läuft. Ich habe hier, hier habe ich so meine Tafel, da schreibe ich was rein. Jetzt muss ich nur mal
+
+03:27.240 --> 03:31.800
+checken. Ich glaube, ich muss das Programm nochmal neu starten oder ach nee, ich muss
+
+03:31.800 --> 03:41.680
+meinen USB-Dingel reinstecken. Klar. Klären wir es hier rein. Und dann muss, glaube ich,
+
+03:41.680 --> 03:44.920
+muss ich so machen, genau, dann wird das noch nicht erkannt, dann muss ich den nochmal neu
+
+03:44.920 --> 03:51.640
+starten. Klar. Und dann zeige ich euch das Anwendungsbeispiel. Ich muss nur noch hier
+
+03:51.640 --> 04:00.360
+die Tafel funktionieren. Okay. So, das ist das, das geht und jetzt mache ich mal hier folgendes.
+
+04:00.360 --> 04:07.320
+Ich drücke jetzt mal diese Taste und jetzt habt ihr meinen Screen, okay? Und was ist das hier? Also
+
+04:07.320 --> 04:12.240
+als allererstes mache ich mir meinen Bier auf. Ich habe mir für heute extra mein Lieblingsbier
+
+04:12.240 --> 04:20.320
+vom lokalen Craft Beer Hipster besorgt zur Feier des Tages und das ist super nice. Und wenn ich
+
+04:20.320 --> 04:28.880
+das geöffnet habe, dann geht es los. Was ihr da seht ist eine Web-Applikation, die könnt ihr euch
+
+04:28.880 --> 04:36.440
+auch selber reinziehen, die heißt AI-Dungeon und die Nerds unter euch von früher, die werden das
+
+04:36.440 --> 04:44.600
+noch kennen. Damals, bevor es Computer gab, war das so richtig heftig mit den Rollenspielen. Da gab es
+
+04:44.600 --> 04:49.000
+Leute, die haben sich hingesetzt und den Game Master gemacht und andere haben sich zu ihm gesetzt
+
+04:49.000 --> 04:53.120
+und er war sozusagen der Admin und er hat euch eine Geschichte erzählt und ihr konntet mit ihm
+
+04:53.120 --> 04:57.480
+interagieren. Er hat zum Beispiel erzählt, ihr kommt in einen Raum und da ist eine Kiste und was
+
+04:57.480 --> 05:01.760
+macht er jetzt? Und dann konntet ihr völlig frei euch über total was zusammenspielen, was ihr jetzt
+
+05:01.760 --> 05:07.200
+macht und er musste darauf reagieren und eine Geschichte da rings herum moderieren und natürlich
+
+05:07.200 --> 05:10.920
+wurde das dann noch mit Rollenspielelementen versehen, so mit Würfeln und Wahrscheinlichkeitstabellen
+
+05:10.920 --> 05:17.360
+abzubilden und solche Sachen. Und das gibt es mittlerweile für einen Browser. Hier seht ihr das
+
+05:17.360 --> 05:22.920
+und der Witz ist, der Game Master hier, das ist nicht einfach nur irgendeine Software,
+
+05:22.920 --> 05:31.240
+nein das ist eine KI, die benimmt sich wie ein Mensch, der ein Game Master spielt. Also ihr könnt
+
+05:31.240 --> 05:35.640
+auch mit der reden und so und ihr könnt ihr halt beliebige Befehle geben und sie spinnt sich eine
+
+05:35.640 --> 05:41.520
+Geschichte raus. Ich klicke jetzt mal auf continue, ich hatte mir schon irgendwas überlegt und ich
+
+05:41.520 --> 05:44.840
+glaube, ich bin irgendein, das ist jetzt hier irgendeine Fantasywelt, ihr könnt alle möglichen
+
+05:44.840 --> 05:48.160
+Welten spielen, ihr könnt auch Cyberpunk machen, vielleicht mache ich einfach mal noch mal ein neues
+
+05:48.160 --> 05:59.440
+Game. Was habe ich hier, Worlds, nee das ist blöd, Promz, ach ja genau und da kann man sich jetzt
+
+05:59.440 --> 06:06.680
+überlegen, okay wir machen jetzt hier mal Cyberpunk, also 5 und es ist wie damals, also man hat jetzt
+
+06:06.680 --> 06:11.120
+hier sozusagen eine Konsole, man gibt was ein, ich bin jetzt hier mal ein Cyborg und dann gebe ich
+
+06:11.120 --> 06:18.920
+meinen Namen ein, klar und jetzt generiert er eine Story, er findet jetzt eine Geschichte und die
+
+06:18.920 --> 06:24.120
+steht jetzt hier und es geht los und jetzt sozusagen jetzt werde ich gefragt, was soll ich machen,
+
+06:24.120 --> 06:29.640
+so wie damals bei einem Rollenspiel auch und man kann halt jetzt wirklich, ja man kann jetzt alles
+
+06:29.640 --> 06:34.440
+mögliche sagen, zum Beispiel kann ich sagen also hey I know you are there, the man slowly turns
+
+06:35.440 --> 06:43.360
+a handgun from his pocket, okay so was macht man, jetzt sage ich einfach mal do nothing, okay,
+
+06:43.360 --> 06:53.280
+macht völlig bescheuert, so ich mache gar nichts, so und er findet jetzt eine Geschichte, also er
+
+06:53.280 --> 06:57.480
+findet jetzt eine Geschichte abhängig davon, was ich da eingebe, ja das ist nicht vorprogrammiert
+
+06:57.480 --> 07:01.960
+oder so, ich kann beliebige Sachen machen, ich kann auch jetzt behaupten, was weiß ich, ich zünde
+
+07:01.960 --> 07:06.880
+jetzt eine Silvesterrakete oder so oder ich kann anfangen mit den NPCs da drinnen zu reden und
+
+07:06.880 --> 07:10.880
+der Witz ist natürlich, die Story wird von dieser KI geschrieben, das heißt du redest quasi dann mit
+
+07:10.880 --> 07:15.960
+der KI direkt und das ist alles möglich heutzutage, ich habe jetzt diese App hier nicht gekauft,
+
+07:15.960 --> 07:20.720
+das heißt ich kann glaube ich 5-6 Dialoge machen und dann hört das irgendwann auf, aber das ist
+
+07:20.720 --> 07:27.880
+sozusagen die Power, die GPT-3 schon kann und GPT-3 kann noch viel mehr, also GPT-3 kann zum
+
+07:27.960 --> 07:35.000
+Beispiel gibt man ihm einen Text vor und er schreibt die Geschichte weiter, das ist tatsächlich,
+
+07:35.000 --> 07:38.640
+die Leute benutzen das schon, Schriftsteller, die sozusagen eine Schreibblockade haben, die geben
+
+07:38.640 --> 07:42.360
+einfach ihr ganzes Buch rein und die KI schreibt einfach, spinnt einfach mal ein bisschen weiter
+
+07:42.360 --> 07:47.160
+oder die KI, also ihr müsst euch vorstellen, die wurde gefüttert mit allen Daten, die im Internet
+
+07:47.160 --> 07:52.960
+da sind, so öffentlich mit Texten, die es so gibt, mit legit Texten, also Rechtstexte, Wikipedia und
+
+07:52.960 --> 07:58.840
+solchen Zeug, Chatprotokolle wahrscheinlich auch und die KI imitiert sozusagen Menschen und
+
+07:58.840 --> 08:03.440
+sie imitiert eine Intelligenz und was man halt, man kann wirklich mit ihr reden, so ganz normal,
+
+08:03.440 --> 08:06.320
+als wäre das ein normaler Mensch und da gibt es übelst viele Videos, ihr könnt euch das mal
+
+08:06.320 --> 08:11.640
+reinziehen, ich habe bloß den Eindruck, ist das nur in dieser Geek- und Nerd-Community bekannt?
+
+08:11.640 --> 08:19.000
+Ja und hier sagt er halt jetzt, okay, ich denke,
+
+08:19.000 --> 08:25.640
+you hear the gunshot and feel your body go numb, so, also ich wurde nicht getroffen,
+
+08:25.640 --> 08:31.240
+ich gucke an meinen linken Arm und jetzt habe ich da eine Knarre und dann denke ich mir so,
+
+08:31.240 --> 08:43.840
+warum habe ich die Knarre? Okay, inspect the gun. Und jetzt erfindet er eine Geschichte, er findet
+
+08:43.840 --> 08:51.040
+jetzt, dass die Knarre schwarz ist und irgendwie ein Trigger und so und er sagt jetzt sowas und
+
+08:51.040 --> 08:54.760
+das ist alles super interessant, ja, also ich könnte jetzt wahrscheinlich auch sowas sagen wie
+
+08:54.760 --> 09:09.720
+I do grab my jetpack and move on. Ich erfinde jetzt einfach mal eine Geschichte, es hat überhaupt
+
+09:09.720 --> 09:17.240
+nichts mit der Story zu tun und jetzt fliege ich weg und jetzt erfindet er als Infinity KI,
+
+09:17.240 --> 09:20.760
+also der Game Master, für mich eine Geschichte, also das ist wirklich völlig krass, was man hier
+
+09:20.760 --> 09:24.800
+machen kann und ihr könnt euch das mal reinziehen, das ist jetzt nur so ein Beispiel, ein ganz blödes
+
+09:24.800 --> 09:32.200
+Beispiel und ihr müsst euch reinziehen. Was man damit noch alles machen kann, also erstmal,
+
+09:32.200 --> 09:37.160
+wie gesagt, Leute können damit Rechtstexte auch zum Beispiel sich angucken und übersetzen lassen auf
+
+09:37.160 --> 09:41.440
+normale Sprache, das gibt es auch so als Anwendung, es gibt so Anwendungen wie hier schreibt mir mal
+
+09:41.440 --> 09:45.840
+eine E-Mail, ich gebe dir mal die Bullet Points und du verfasst die mal in einer schönen formellen
+
+09:45.840 --> 09:50.960
+Sprache, damit meine Business Casper keinen Herz Casper kriegen oder was man auch machen kann,
+
+09:50.960 --> 09:58.160
+es gibt eine App, die irgendwie so tut, als wäre sie einstein oder Leonhard Euler oder sonst
+
+09:58.160 --> 10:01.400
+irgendeine berühmte Persönlichkeit und da kannst du mit der reden, weil die sozusagen so viele
+
+10:01.400 --> 10:06.040
+Texte von denen und Bücher gelesen hat, dass sie weiß, wie die antworten würden und nur so ein
+
+10:06.040 --> 10:10.760
+Zeug und da gibt es halt super interessante Anwendungen schon und ich will euch jetzt Folgendes
+
+10:10.760 --> 10:18.720
+klar machen. Was diese KI macht, das hat nichts mit Intelligenz oder Verstehen zu tun. Die hat
+
+10:18.720 --> 10:24.200
+nur Korrelationen gelernt, die hat nur auswendig gelernt und sie wurde mit Brutforce unendlich
+
+10:24.200 --> 10:28.920
+vieler Performance gefüttert. Ich glaube, das ist von OpenAI, das muss ein Projekt sein,
+
+10:28.920 --> 10:32.080
+wo auch Elon Musk mit drin steckt und er hat einfach die Kohlen in die Hand genommen und
+
+10:32.080 --> 10:36.240
+dieses Ding gemacht. Das ist sozusagen eine große PR-Bubble, weil da nicht viel Erkenntnis
+
+10:36.240 --> 10:40.320
+rauskommt. Das war schon bekannt, dass das geht, es hat nur mal jemand machen müssen und es hat
+
+10:40.320 --> 10:44.240
+halt ein paar Millionen oder Milliarden Dollar gekostet, das mal zu trainieren, dieses Netzwerk,
+
+10:44.240 --> 10:50.960
+weil es halt wirklich unendlich viel Daten brauchte und die ursprüngliche Entwicklung davon kam aus
+
+10:50.960 --> 10:55.320
+den Google-Labs selbst, also die Google-Forscher in der Sachen KI, das sind eh die Top-Typen. Die
+
+10:55.320 --> 11:00.280
+haben die Sache mit den Transformern erfunden, die haben damals dieses Paper mit der Attention
+
+11:00.280 --> 11:06.560
+geschrieben und seitdem geht das voll durch die Decke und GPT-3 ist halt übelst heftig,
+
+11:06.560 --> 11:12.840
+was einfach mal das Machbare angeht. Das ist sozusagen das Krasseste, was man im Moment machen
+
+11:12.840 --> 11:16.280
+kann und viele Leute rasten völlig aus und denken so, das ist jetzt der Shit, das ist die KI,
+
+11:16.280 --> 11:20.080
+wir haben Angst, die Cyborgs kommen als nächstes und machen es fertig, aber das hat tatsächlich
+
+11:20.080 --> 11:26.120
+nichts mit echter Intelligenz zu tun, sondern tatsächlich eher was mit Lernen. Ihr müsst euch
+
+11:26.120 --> 11:33.440
+das wirklich so vorstellen, als würdet ihr irgendwie lesen lernen und dann alle Bücher dieser Welt
+
+11:33.440 --> 11:38.560
+lesen und auswendig lernen, wirklich striktes auswendig lernen. Es geht sozusagen nicht darum,
+
+11:38.560 --> 11:44.160
+das zu verstehen, was da gelesen wird, sondern nur die Worte und die Wortreihenfolgen zu lernen und
+
+11:44.160 --> 11:50.720
+wenn man das ernst genug nimmt, lernt die KI sozusagen bestimmte Korrelation und das sieht
+
+11:50.720 --> 11:55.440
+dann so aus, als würde sie verstehen, was der Sinn ist dieser Worte und das ist eine Riesenillusion
+
+11:55.440 --> 12:02.360
+und ich versuche das später am Ende des Streams vielleicht dann nochmal am konkreten Beispiel zu
+
+12:02.360 --> 12:07.360
+erklären, wie das geht. So und jetzt aber erstmal habe ich hier noch irgendein anderes Beispiel,
+
+12:07.360 --> 12:11.360
+habe ich hier noch ein anderes Beispiel, ja ich habe noch ein anderes Beispiel, ich habe noch
+
+12:11.360 --> 12:17.480
+This Person Does Not Exist, das mache ich auch mal noch an, also so und dann so klicke ich das
+
+12:17.480 --> 12:24.840
+hier rein. Das ist kein Archiv von Bildern, sondern das ist schon ein Archiv von Bildern,
+
+12:24.840 --> 12:30.000
+von Menschen, die nicht existieren, also die sind künstlich gebaut diese Bilder und
+
+12:30.000 --> 12:37.480
+es gibt halt mittlerweile, also das hat auch was mit den Deepfakes zu tun und diesen anderen
+
+12:37.480 --> 12:42.600
+Sachen, dass die Sache mit den Gesichtern völlig klar ist inzwischen. Es gibt Software, die baut
+
+12:42.600 --> 12:46.440
+Bilder und ich kann jetzt hier immer F5 drücken und kriege immer ein anderes Gesicht von einer
+
+12:46.440 --> 12:52.380
+Person, die so nicht existiert. Das sieht täuschend echt aus, weil klar die Auflösung ist halt hoch
+
+12:52.380 --> 12:58.040
+genug und die KI hat halt gelernt, wie Gesichter aussehen und sie kann halt, wenn man ihr ein
+
+12:58.040 --> 13:02.000
+bisschen Initialisierung gibt, ein Gesicht raus auseinander bauen, also wahrscheinlich
+
+13:02.000 --> 13:05.680
+braucht man nur so ein bisschen Initialisieren und weil sie nichts anderes kann außer Gesichter,
+
+13:05.680 --> 13:11.480
+macht sie aus allem Matsch, den man ihr gibt, macht sie ein Gesicht und wie gesagt, sie sind
+
+13:11.480 --> 13:16.040
+täuschend echt aus, diese Bilder sind es aber nicht und ich kann hier unendlich oft F5 drücken,
+
+13:16.040 --> 13:20.560
+das sind alles Menschen, die nicht existieren und das sieht aus wie ein Artifakt, das hier unten,
+
+13:20.560 --> 13:25.560
+das sieht aus könnte ein Bildartifakt sein, aber es gibt auf jeden Fall interessante Sachen,
+
+13:25.680 --> 13:31.560
+die alle so funktionieren. Und habe ich hier noch irgendwas? Nee, ich glaube, da geht es
+
+13:31.560 --> 13:37.640
+eigentlich dann direkt los, naja. So und jetzt aber mal zur Sache selbst, warum wollte ich jetzt hier
+
+13:37.640 --> 13:41.200
+Mathe machen? Also erstmal gucke ich in meinen Chat, okay? Ich gucke erstmal, lasst mir mal Zeit
+
+13:41.200 --> 13:46.600
+und ich lasse mir mal in meinen Chat gucken, wie es aussieht. Ist hier schon irgendjemand? Prost,
+
+13:46.680 --> 13:59.080
+guten Abend. Okay, so Leute, also ich fange erstmal ein bisschen an, ein bisschen Mathematik
+
+13:59.080 --> 14:04.120
+Grundlagen zu machen. Dafür hole ich jetzt mein Teilchen hier raus und ich habe jetzt hier kein
+
+14:04.120 --> 14:09.080
+großes Overlay oder so, ich habe das einfach mal vorhin schnell zusammengeklickt. Hier müsstet
+
+14:09.080 --> 14:13.000
+ihr jetzt links sozusagen meine Tafel sehen, die ist ungefähr ein paar tausend Pixel groß,
+
+14:13.000 --> 14:16.640
+das wird schon reichen und ich scroll dann hier runter und erzeuge jetzt sozusagen unendlich viel
+
+14:16.640 --> 14:23.160
+Skript. Ich weiß nicht, ob ich das später irgendwo uploaden werde, aber jetzt auf jeden Fall erstmal
+
+14:23.160 --> 14:30.160
+die Frage, mathematische Grundlagen. Ich habe immer den Eindruck, dass Leute erstmal schon
+
+14:30.160 --> 14:38.880
+grundsätzlich ein paar Sachen nicht verstehen. Was ist eine Funktion? Funktion und dann auch so
+
+14:38.880 --> 14:45.840
+was wie, was ist eigentlich eine Umkehrfunktion? Das ist sozusagen der Schritt daraus und ich
+
+14:45.840 --> 14:49.960
+nenne das jetzt erstmal schon mal f hoch minus eins, aber ihr werdet das später sehen, was ich
+
+14:49.960 --> 14:55.320
+damit meine, das ist nämlich super wichtig und ihr könnt euch vorstellen, also damals in der Schule
+
+14:55.320 --> 14:59.760
+und da fange ich jetzt an, ich fange jetzt sozusagen in der Grundschule an irgendwo. Ich mache nochmal
+
+14:59.760 --> 15:03.480
+diesen Vortrag zu den linearen Funktionen, den finde ich richtig gut. Damals gab es so was,
+
+15:03.480 --> 15:11.560
+Aufgaben die lauteten eins plus drei ist gleich vier und dann hat man irgendwann gelernt, okay was
+
+15:11.560 --> 15:17.680
+ist denn eins plus drei und dann kam hier keine vier hin, sondern ein Strich. Man sollte also
+
+15:17.680 --> 15:23.520
+einfügen, was da hinkommt, damit die Gleichung Sinn ergibt. So ging das los damals in der Schule, so
+
+15:23.520 --> 15:28.800
+hat man das gelernt mit der Arithmetik und die nächst kompliziertere Aufgabe, wenn das hier
+
+15:28.800 --> 15:35.400
+sozusagen völlig klar war, lautete eins plus unbekannt ist gleich vier und was man hier schon
+
+15:35.400 --> 15:40.440
+machen musste, war sich irgendwie im Kopf überlegen, warte mal, wie kann das sein, was muss jetzt hier
+
+15:40.440 --> 15:46.280
+rein und das beinhaltet das hier, diese Operation, die würde ich Vorwärtsschritt nennen, weil man
+
+15:46.280 --> 15:54.680
+macht etwas und das spuckt ein Ergebnis aus. Das hier ist eher so eine Art Fragestellung, das fragt
+
+15:54.680 --> 15:59.720
+einen, was muss ich hier eintragen, damit das wieder funktioniert. Das war sozusagen der erste
+
+15:59.720 --> 16:03.640
+Schwierigkeitsgrad in der Schule, den man hatte und dann natürlich auch noch mit den anderen
+
+16:03.640 --> 16:08.040
+Operationen. Aber worauf ich hinaus will, ist, dass irgendwann in der fünften oder sechsten Klasse
+
+16:08.040 --> 16:14.320
+auf einmal sowas da stand, eins plus x ist gleich vier und das ist erstmal absolut identisch. Die
+
+16:14.320 --> 16:21.520
+Aufgaben sind identisch, sie beide fragen, was muss x sein, das fragen sie beide und jetzt kommt
+
+16:21.520 --> 16:29.600
+folgende Situation dazu. Was ist, wenn hier y steht? Was dann? Also ursprünglich eigentlich waren
+
+16:29.600 --> 16:33.160
+hier zwei Striche, aber damit man die auseinanderhalten konnte, hat man das Konzept
+
+16:33.160 --> 16:39.920
+der Variablen eingeführt, damit man die unterscheiden kann und jetzt ist die Frage okay. Hier oben ist
+
+16:39.920 --> 16:45.880
+es klar, hier oben ist die Lösungsmenge eine einzige Zahl, die soll ich rausfinden. Hier unten,
+
+16:45.880 --> 16:50.080
+was ist denn da die Lösungsmenge? Was ist da die Lösungsmenge? Könnt ihr euch ja mal selber
+
+16:50.080 --> 16:59.200
+die Frage stellen, was muss x und y sein, damit das Gleichheitszeichen eine wahre Aussage ergibt.
+
+16:59.200 --> 17:05.760
+Und die Antwort ist klar, unendlich viele. Es gibt unendlich viele Lösungen von x und y Paaren,
+
+17:05.760 --> 17:12.720
+die das erfüllen und der Witz ist natürlich klar. Ich überlege mir ein x, zum Beispiel eins und
+
+17:12.720 --> 17:16.840
+daraus folgt dann automatisch mein y, denn dann steht ja hier eins plus eins ist gleich zwei.
+
+17:16.840 --> 17:22.760
+So und das kann ich auch noch mit anderen Zahlen machen. Ich mache mal hier minus eins,
+
+17:22.760 --> 17:28.640
+dann folgt hier null daraus, ich mache mal hier zwei und dann folgt hier drei daraus. Und wenn
+
+17:28.640 --> 17:32.840
+ich mir das einmal in einem Koordinatensystem, dann seht ihr gleich was passiert. Das ist überhaupt
+
+17:32.840 --> 17:39.280
+nichts Überraschendes. Ich trage jetzt hier diese Zahlenpaare ein. Eins, zwei liegt würde ich mal
+
+17:39.280 --> 17:47.440
+sagen ungefähr hier. Und null minus eins liegt ungefähr hier. Ja und zwei und drei liegt vielleicht
+
+17:47.440 --> 17:55.040
+hier ungefähr. So und dann seht ihr schon, aha krass, die liegen alle auf einer geraden. Das war
+
+17:55.040 --> 18:00.080
+sozusagen der erste Schritt, den man irgendwann in der Schule gemacht hat. Hin zu dem Konzept
+
+18:00.080 --> 18:04.680
+der Funktionen, denn ihr müsst euch klar machen, was ist hier passiert. Von dieser zu dieser
+
+18:04.680 --> 18:08.960
+Fragestellung wurde aus diesem ist gleich. Das stellt hier nicht, das hat nicht mehr diesen
+
+18:08.960 --> 18:14.480
+fragenden Charakter, sondern das hat eher einen zuweisenden Charakter. Ich lege mir ein y oder
+
+18:14.480 --> 18:19.120
+ein x vor und kann dann das eine in das andere umrechnen. Also in dem Fall konkret, ich habe
+
+18:19.120 --> 18:24.080
+mir ein x vorgegeben und dann folgt daraus ein y. Und ich stelle fest, ich kann das für beliebige
+
+18:24.080 --> 18:29.480
+x tun, in dem Fall alle reellen Zahlen oder auch alle komplexen Zahlen, wenn ihr krass seid. Und
+
+18:29.480 --> 18:33.360
+da kommt im Prinzip das raus, was wir später lineare Funktionen nennen oder auch geraden
+
+18:33.360 --> 18:38.960
+Gleichung. Und das ist der Witz. Ihr seht halt, es gibt offensichtlich einen Dualismus zwischen
+
+18:38.960 --> 18:45.600
+der Lösungsmenge dieser Gleichung und diesem Bild. Es gibt einen Dualismus zwischen einem
+
+18:45.600 --> 18:49.760
+Bild und einer Gleichung. Man könnte also sagen, es ist äquivalent, entweder ich male alle
+
+18:49.760 --> 18:56.440
+Bildpunkte hin oder dieses abstrakte Objekt und nenne es gerade oder ich gebe euch eine Gleichung
+
+18:56.440 --> 19:02.680
+und frage, was ist die Lösungsmenge dieser Gleichung. Auf einem gewissen abstrakten Level
+
+19:02.680 --> 19:09.360
+beschreiben beide diese Dinge dasselbe. Das ist nur eine unterschiedliche Darstellung derselben
+
+19:09.360 --> 19:15.360
+Sache. Und das ist erstmal das eine, weil jetzt habt ihr sozusagen diesen Formalismus, den wir
+
+19:15.360 --> 19:21.120
+Funktionen nennen im Allgemeinen. Man steckt ein x in einen Kasten rein, den nenne ich f von x und
+
+19:21.120 --> 19:30.200
+der spuckt ein y aus. Das verbirgt sich hinter dieser Gleichung f, y ist gleich f von x. Für viele
+
+19:30.200 --> 19:35.120
+ist das nur eine Symbolik und das kotzt mich richtig an, weil ich das jetzt in meiner Nachhilfe
+
+19:35.120 --> 19:39.360
+auch oft sehe, dass so wird das vermittelt. Das ist wirklich nur eine Symbolik für die Leute. Was
+
+19:39.360 --> 19:44.120
+aber sich dahinter versteckt ist doch klar, ich stecke hier ein x rein und weise es durch dieses
+
+19:44.120 --> 19:49.800
+Ist-Gleichzeichen einem anderen Wert zu. Und ihr denkt jetzt vielleicht, okay was ist das für ein
+
+19:49.800 --> 19:55.560
+akademischer Schwachsinn, das braucht doch kein Mensch. Aber das muss man jetzt mal wirklich
+
+19:55.720 --> 20:02.520
+erstmal gerafft haben, was das bedeutet. Und ich gebe euch jetzt mal eine ganz allgemeine Ansage,
+
+20:02.520 --> 20:07.080
+die euch vielleicht verblüfft, vielleicht auch nicht. Jede Aufgabe, die ihr an der Schule
+
+20:07.080 --> 20:16.400
+kriegt, kann man so hinschreiben wie y ist gleich f von x oder auch sagen wir mal, hier gibt es
+
+20:16.400 --> 20:24.560
+mehrere x1, x2, x3. Das sind irgendwelche Dinger und oft ist es so, dass in der Schule das hier
+
+20:24.560 --> 20:30.280
+gegeben ist, das hier ist gegeben und das hier ist gegeben und ihr sollt das ausrechnen. Oder einfach
+
+20:30.280 --> 20:38.800
+gesagt, ihr habt y gleich f von x gegeben, y gleich f von x, y ist gegeben, die Funktion f ist gegeben,
+
+20:38.800 --> 20:43.640
+aber das x selbst ist nicht gegeben. Und dann lautet, also das ist sozusagen der Umkehrschluss,
+
+20:43.640 --> 20:48.760
+wie kriegt ihr jetzt das x raus? Weil der einfache Schritt, okay ich setze hier ein x ein und rechne
+
+20:48.760 --> 20:52.480
+es aus, das ist der erste Schritt. Das ist das, was ihr in der dritten Klasse gemacht habt. Danach
+
+20:52.520 --> 20:57.080
+habt ihr festgestellt, alles, was kompliziert war, immer in eurem ganzen Leben, waren die Umkehrfunktion,
+
+20:57.080 --> 21:03.120
+waren sozusagen die Rückwärtsrechnung. Weil diese Richtung, die ist einfach, die ist in unserem
+
+21:03.120 --> 21:08.800
+Gehirn auch so verdrahtet, dass das einfach ist. Zum Beispiel nehme den Wert von x, addiere 1 drauf.
+
+21:08.800 --> 21:16.680
+Das ist einfach. Im Kopf aber schon umzurechnen, wenn ich x gegeben habe, wenn ich y gegeben habe,
+
+21:16.680 --> 21:22.360
+was ist x? Da muss man ja im Kopf schon was anderes machen. Also wenn ihr 1 plus x gleich y
+
+21:22.360 --> 21:26.880
+habt und y ist jetzt gegeben, dann müsst ihr mental auf beiden Seiten minus 1 machen und dann
+
+21:26.880 --> 21:32.160
+steht x ist gleich y minus 1 da. Das ist jetzt trivial, aber das hier, das hier würde ich jetzt
+
+21:32.160 --> 21:38.200
+mal als f hoch minus 1 betiteln und das ist natürlich von y abhängig. Ich würde das als
+
+21:38.200 --> 21:45.280
+Umkehrfunktion betiteln wollen, denn sie hat folgende Eigenschaft, wenn man jetzt mal ganz
+
+21:45.280 --> 21:50.960
+abstrakt f von f hoch minus 1, also die Umkehrfunktion, auf die Funktion selbst anwendet,
+
+21:50.960 --> 21:56.960
+dann muss wieder das hier selbst, da muss das wieder rauskommen. So würde ich das jetzt
+
+21:56.960 --> 22:02.680
+erst mal hinschreiben. Übrigens, ich bin kein Mathematiker, also die Klugscheißer brauchen
+
+22:02.680 --> 22:06.080
+sie mir jetzt hier nicht auf die Decke steigen, wegen irgendwelchen Bedingungen, die hier eventuell
+
+22:06.080 --> 22:10.760
+nicht erfüllt sind und so. Ich will euch nur sozusagen mal in das Mindset bringen, was jetzt
+
+22:10.760 --> 22:14.880
+erforderlich ist. Das muss jetzt hier nicht super krass exakt sein, insbesondere weil ich das gar
+
+22:14.880 --> 22:20.240
+nicht studiert habe. Ich bin ja nur Physiker. So, aber das hier, das ist klar und in dem Fall hier
+
+22:20.240 --> 22:24.480
+oben ist es einfach. Ihr habt diese Vorschrift und da können wir das machen. Wir können das mal
+
+22:24.480 --> 22:28.640
+machen. Ob das jetzt hier so funktioniert, wie ich mir das hingeschrieben habe, weil das hier ist f
+
+22:28.640 --> 22:34.120
+von x. Das heißt, ich nehme jetzt mein f von x und da setze ich jetzt mal, ich setze in das f hoch
+
+22:34.120 --> 22:44.200
+minus eins das y ein und y ist aber gerade f hoch minus eins, mal wartet, minus eins von und jetzt
+
+22:44.200 --> 22:49.160
+steht hier sozusagen f von x, weil y ist ja f von x und dann setze ich das ein. Dann steht hier
+
+22:49.160 --> 22:56.160
+sozusagen einfach nur f hoch minus eins von, ja hier steht jetzt aber gerade y minus eins und das
+
+22:56.160 --> 23:03.800
+ist aber jetzt das gleiche, nee warte ich muss überlegen, hier steht jetzt gerade x plus eins und
+
+23:03.800 --> 23:09.040
+da setze ich jetzt sozusagen das ein und dann steht da gerade wieder, dann steht gerade wieder x plus
+
+23:09.040 --> 23:13.920
+eins minus eins und das kürzt sich gerade weg und deswegen ist das x und das ist genau das, was ich
+
+23:13.920 --> 23:19.720
+haben wollte. Das ist jetzt mal ein richtig blödes Beispiel, aber das ist die Idee hinter Umkehrfunktion
+
+23:19.720 --> 23:27.280
+und in komplizierten Beispielen, wo das nicht so einfach ist, wo die Umkehrung nicht so einfach ist,
+
+23:27.280 --> 23:31.840
+das habt ihr auch schon in der Schule gehabt und eine ganz bekannte Anwendung davon ist jetzt zum
+
+23:31.840 --> 23:37.240
+Beispiel, ganz blöd, mal ein ganz blödes Beispiel, binomische Formel. Ich schreibe sie einfach mal
+
+23:37.240 --> 23:48.000
+hin, zum Beispiel a plus b² ist gleich a² plus 2ab plus b². So und jetzt würdet ihr sagen, okay,
+
+23:48.000 --> 23:52.480
+diese Richtung ist einfach, diese Richtung hinzurechnen ist immer einfach, die kann man
+
+23:52.480 --> 23:59.440
+sich im Kopf überlegen, weil das ist ja das gleiche wie a plus b mal a plus b, also das ist
+
+23:59.440 --> 24:04.040
+das mal dem plus das mal dem plus das mal dem plus das mal dem, klar und hier gibt es einmal ein ab
+
+24:04.040 --> 24:11.400
+und ein ba-Term und die gehen zusammen zu 2ab, klar. So, die Richtung ist einfach. In der Praxis ist es
+
+24:11.400 --> 24:15.360
+aber oft so, man hat solche Terme, die so aussehen und soll das so darstellen, das hat man bei
+
+24:15.360 --> 24:19.560
+quadratischen Gleichungen oft schon in der Schule gehabt und da kam einem das damals schon so vor
+
+24:19.560 --> 24:25.280
+wie Zauberei und das lag nur daran, dass sozusagen die Umkehrrichtung, wenn man das hier gegeben hat,
+
+24:25.280 --> 24:29.280
+so eine Struktur, das schon nicht mehr so einfach ist, das in diese Richtung umzurechnen und noch
+
+24:29.280 --> 24:33.520
+viel krasser ist das, was man quadratische Ergänzung nennt und das ist das, wenn man aus dieser
+
+24:33.520 --> 24:37.240
+Gleichung, wenn man an dieser Gleichung minus b² macht. Ich schreibe es erstmal hin, das seht ihr
+
+24:37.240 --> 24:45.280
+gleich, was man da macht, a plus b zum Quadrat minus b² ist gleich a² plus 2ab. So, das merken wir
+
+24:45.280 --> 24:51.760
+uns. Ich schreibe das hier mal so hin, so, das merken wir uns. Weil, wo braucht man das? Naja, das
+
+24:51.760 --> 24:55.240
+braucht man immer dann, wenn man eine allgemeine quadratische Gleichung hat und dann eine
+
+24:55.240 --> 25:01.600
+Nullstelle sucht, also ax² plus bx plus c. So, und ich habe jetzt natürlich a und b genommen,
+
+25:01.600 --> 25:06.840
+nur um euch zu verwirren, das ist völlig egal. Wenn ich hier die Nullstellen suche, dann könnt
+
+25:06.840 --> 25:13.000
+ihr euch ja so vorstellen, das ist ja hier, also normalerweise nennt man das ja hier, y ist gleich
+
+25:13.000 --> 25:18.280
+und dann f von x. Parabelfunktion, klar, mit drei Parametern. Und wenn man jetzt einen ganz
+
+25:18.280 --> 25:22.840
+bestimmten Wert von y sucht, dann ist genau das Problem, was ich gerade gesagt habe. Ihr habt
+
+25:22.840 --> 25:29.160
+nen y gegeben, nämlich in dem Fall Null und wollt wissen, was für ein x muss denn das sein. Und hier
+
+25:29.160 --> 25:35.840
+ist das Invertieren dieser Funktion f von x, also das ist ja hier gerade f von x, das ist schon nicht
+
+25:35.840 --> 25:43.240
+mehr so einfach. Also, wie macht man das? Naja, ich sag mal, die Streber damals, so schlau wie
+
+25:43.240 --> 25:48.360
+Schlumpf, die sagen, ist doch ganz klar, ich gucke in meine Formelsammlung rein, da steht hier
+
+25:48.360 --> 25:53.480
+Mitternachtsformel oder PQ-Formel. Klar, aber ich sag euch, was man da braucht, ist eigentlich das
+
+25:53.480 --> 25:57.120
+hier oben und das ist die Umkehrung von der binomischen Formel. Jetzt guckt ihr vielleicht so,
+
+25:57.120 --> 26:01.120
+hä, wieso denn das? Ja, als quadratische Ergänzung können wir jetzt machen, kein Ding. Ich klammer a
+
+26:01.120 --> 26:09.560
+aus, okay, als erstes. Dann habe ich hier x² plus b durch ax, so, plus c. So, das ist erstmal das
+
+26:09.560 --> 26:14.280
+Gleiche, da habe ich noch nichts geändert. Und jetzt möchte ich gern Folgendes. Ich möchte sehen,
+
+26:14.280 --> 26:18.880
+dass ich hier sowas habe, einen quadratischen Term und einen linearen Term, der ist quadratisch in a
+
+26:18.880 --> 26:24.200
+und linear in a. Und a ist jetzt mal x und nur um euch zu verwirren. Das, was ich jetzt hier machen
+
+26:24.200 --> 26:28.600
+kann, ist, okay, ich möchte gerne Folgendes schreiben, a, Klammer auf, Klammer auf, und was ich jetzt so
+
+26:28.600 --> 26:32.360
+mental machen will, ist, ich möchte dieses Quadrat hier rausziehen, damit ich später das umstellen
+
+26:32.360 --> 26:41.600
+kann. Werdet ihr gleich sehen, was da passiert. Ich mache jetzt x plus b durch 2a Quadrat. Und hier
+
+26:41.600 --> 26:46.280
+hinten schreibe ich schon mal plus c hin. Und jetzt müsst ihr euch klar machen. Moment, das ist ja
+
+26:46.280 --> 26:50.320
+gar nicht das Gleiche, was hier steht. Das ist nicht das Gleiche. Was muss ich hier machen? Naja,
+
+26:50.320 --> 26:55.560
+ich schreibe es mal noch mal in rot hin. Wenn ich das hier ausklamüsere, die binomische Formel mache,
+
+26:55.560 --> 27:07.320
+dann steht hier gerade x Quadrat plus 2 mal b durch a durch 2 mal x. Also gerade b durch a x plus
+
+27:07.320 --> 27:16.960
+b durch 2a zum Quadrat. Das steht da. So, und weil das hier oben nicht das ist, was hier steht,
+
+27:16.960 --> 27:24.240
+sondern nur dieser Schritt hier, das hier steht auch hier, aber das hier, das fehlt. Deswegen
+
+27:24.400 --> 27:30.880
+müssen wir das hier abziehen. Ganz klar. Damit das wieder eine Gleichung ist. Und das Ding hier,
+
+27:30.880 --> 27:34.760
+diesen Mindfuck, das nennt man quadratische Ergänzung. Und das ist, wenn ihr mal scharf
+
+27:34.760 --> 27:42.680
+hinguckt, diese Formel hier oben. Das meine ich damit, dass selbst ganz einfache Dinge invertieren,
+
+27:42.680 --> 27:47.800
+sozusagen. Umkehren. Das kann schon beliebig kompliziert werden. Und bei diesem speziellen
+
+27:47.800 --> 27:51.640
+Beispiel weiß ich das aus meiner Nachriffe jetzt inzwischen. Das ist das, wo viele richtig
+
+27:51.640 --> 27:56.760
+strugglen. Und ich kann mir vorstellen, dass ich damals da auch abgekackt bin. Oder ob wir das
+
+27:56.760 --> 27:59.520
+überhaupt nicht hatten. Weil wo braucht man das? Das braucht man bei der sogenannten Scheitelpunktform.
+
+27:59.520 --> 28:05.400
+Sonst macht das keiner. Um Nullstellen auszurechnen, macht man es eben nicht. Weil,
+
+28:05.400 --> 28:09.120
+wenn man jetzt hier weitergeht, dann kommt da die Mitternachtsformel raus. Das können wir ja
+
+28:09.120 --> 28:13.680
+noch schnell machen. Hier steht es gleich 0. Was ich jetzt machen muss, ist, ich muss das a hier
+
+28:13.680 --> 28:17.440
+reinmultiplizieren und dann das hier rüberbringen auf die andere Seite. Okay, ich mache es mal kurz.
+
+28:17.440 --> 28:24.800
+Dann steht hier a x plus b durch 2a zum Quadrat. Und jetzt bringe ich das schon mal auf die andere
+
+28:24.800 --> 28:31.840
+Seite. Dann steht hier minus c plus b durch 2a zum Quadrat. So, dann teile ich noch durch a, ziehe
+
+28:31.840 --> 28:38.320
+die Wurzel und mache minus b durch 2a. Dann steht da am Ende x ist gleich. So, hier steht jetzt
+
+28:38.320 --> 28:44.480
+erstmal. Also ich habe durch a geteilt. Dann steht hier, oh das ist zu kompliziert. Okay,
+
+28:44.480 --> 28:51.200
+ich mache es doch nicht. Das ist tatsächlich zu nervig. Ich mache es so rum. B durch 2a. Jetzt
+
+28:51.200 --> 28:55.280
+habe ich hier die Wurzel gezogen. So ist gleich. So, jetzt steht hier auf jeden Fall erstmal b durch
+
+28:55.280 --> 29:02.720
+2a Quadrat minus c durch a. Und dann habe ich die Wurzel gezogen. Plus Minus nicht vergessen. So,
+
+29:02.720 --> 29:06.880
+und jetzt seht ihr es schon. Das ist sozusagen das, was hinterher herauskommt, die PQ-Formel
+
+29:06.880 --> 29:10.480
+bzw. Mitternachtsformel. Wenn man das jetzt hier noch auf die andere Seite bringt, dann kann man
+
+29:10.480 --> 29:16.760
+hier noch das 2a irgendwie ausklammern. Dann steht hier am Ende sowas wie b Quadrat minus 4 mal a mal
+
+29:16.760 --> 29:21.720
+c. Das mache ich jetzt nicht, aber das ist sozusagen das, was ihr aus dem Tafelwerk kennt. Und was man
+
+29:21.720 --> 29:26.240
+dazu braucht, ist das hier. Das wird den Schülern noch nicht zugemutet. Deswegen sollen die die
+
+29:26.240 --> 29:31.520
+Formeln auswendig lernen. Und da geht es los. Formeln auswendig lernen. Kotz ich richtig ab.
+
+29:31.520 --> 29:36.440
+Da kriege ich so einen Hals. Und die Leute, die bei mir Nachhilfe machen, den habe ich voll hingebrettert
+
+29:36.440 --> 29:43.080
+und die finden das gut, weil sie es jetzt verstanden haben. Jedenfalls. Warum mache ich das jetzt
+
+29:43.080 --> 29:46.720
+alles? Übrigens, ihr könntet wahrscheinlich jetzt das hier nehmen. Also hier kommt jetzt sozusagen
+
+29:46.720 --> 29:52.040
+ein x raus. x12 nennt man das typischerweise. Wenn man das jetzt nimmt und oben in die Gleichung
+
+29:52.040 --> 29:59.960
+einsetzt, dann stellt man damit fest, dass f von x12 tatsächlich Null ist. Also das ist sozusagen
+
+29:59.960 --> 30:06.560
+die Probe, dass das erfüllt. Und was wir dabei eigentlich gemacht haben, ist, wir haben, wenn man
+
+30:06.560 --> 30:10.880
+jetzt mal so schreiben würde, f y ist eine Funktion von x. Was wir eigentlich gemacht haben, ist, wir
+
+30:10.880 --> 30:17.800
+haben x als Funktion von y dargestellt. Bloß, dass y gerade Null ist bei uns. So könnte man das
+
+30:17.800 --> 30:21.480
+schreiben. Das ist ein bisschen abstrakt, aber das ist das, was ich damit meine, wenn ich sage,
+
+30:21.480 --> 30:28.000
+Umkehrfunktion und so. Und warum mache ich das jetzt alles? Naja, das, was in der KI-Forschung
+
+30:28.000 --> 30:34.560
+Lernen genannt wird, das, was die typischerweise machen, ist den sogenannten Backpropagating
+
+30:34.560 --> 30:41.040
+Algorithmus anwenden. Und was das in Wahrheit bedeutet, ist sozusagen alle Rechenschritte zurückverfolgen,
+
+30:41.040 --> 30:45.160
+was man da macht, und dann bestimmte Anpassungen vornehmen. Was man da machen muss, ist, man muss
+
+30:45.160 --> 30:49.720
+sozusagen eine Inverse finden für eine Abbildung, die aber kein echtes Inverses hat, sondern nur so,
+
+30:49.720 --> 30:57.680
+die schwierig ist. So, und jetzt überlege ich, ob ich erstmal alles habe, was ich soweit sagen wollte,
+
+30:57.680 --> 31:03.280
+denn das war jetzt sozusagen wirklich nur das absolute Intro. Aber ich werde gleich mal ein
+
+31:03.280 --> 31:13.520
+neues Ding anfangen hier. Ich schweiche das schon mal ab. Einfach zum Haben. Und dann öffne ich
+
+31:13.520 --> 31:20.920
+ein neues. So, und dann gucke ich mir erstmal meinen Chat an. Gibt es hier schon einen Chat?
+
+31:20.920 --> 31:28.920
+Ah ne, Schaltepunkt. Ja doch, ich habe das schon gesehen, dass Leute noch den Schaltepunkt machen.
+
+31:28.920 --> 31:43.240
+Okay, so, hier noch nichts. Also, ja, dann machen wir doch erstmal weiter. Ich komme ja aus der,
+
+31:43.240 --> 31:49.720
+also ich habe jetzt die letzten Jahre Medizintechnik gemacht und speziell habe ich CT gemacht. Also ich
+
+31:49.720 --> 31:55.480
+habe Software geschrieben für Computertomographie. Das ist das mit der Röntgenstrahlung und wo ihr
+
+31:55.480 --> 31:59.280
+sozusagen in eine Röhre rein geschoben werdet und dann von allen Seiten Röntgenbilder gemacht
+
+31:59.280 --> 32:05.160
+werden und am Ende ihr ein 3D-Bild von eurem Körper kriegt. Das ist CT und was man da macht,
+
+32:05.160 --> 32:13.200
+ich sage es nur ungern, aber das ist erstmal nur Geometrie. Und das will ich euch jetzt sozusagen
+
+32:13.200 --> 32:19.080
+als Anwendungsbeispiel geben für mal einen komplexen Sachverhalt, bei dem ihr gleich die
+
+32:19.080 --> 32:24.480
+Sache mit der linearen Algebra als Sprache mal versteht, wozu das da ist. Weil der normale
+
+32:24.480 --> 32:29.000
+Ingenieur und der normale Naturwissenschaftler, der hat das im ersten Semester und dann wird immer
+
+32:29.000 --> 32:31.720
+die Frage gestellt, braucht man das überhaupt? Das ist doch total abstrakt und so. Und so ging es
+
+32:31.720 --> 32:36.520
+mir damals auch. Aber ja, in Wahrheit braucht man das überall. Lineare Algebra ist total krass und
+
+32:36.520 --> 32:40.840
+halt ist echt fundamental und super wichtig, weil irgendwann, wenn man das lang genug macht,
+
+32:40.840 --> 32:45.760
+ist das wirklich so eine Art Sprache. Das hat erstmal wirklich so einen Sprachcharakter, weil
+
+32:45.760 --> 32:53.840
+man auf einmal feststeht, dass man viele Dinge total kompakt hinschreiben kann. So und ich wollte
+
+32:53.840 --> 32:57.680
+jetzt einfach mal so ein bisschen das CT-Beispiel erklären, weil man beim CT, das ist halt wie
+
+32:57.680 --> 33:03.240
+gesagt reine Geometrie, jetzt mal wirklich versteht, wie so eine Anwendung aussieht und vor allem wie
+
+33:03.240 --> 33:09.520
+so Computerfratzen und IT-Menschen die Sache mit den Bildern und der Geometrie auch sehen können.
+
+33:09.520 --> 33:15.600
+Also ist so eine alternative Darstellung und Denkweise, die, wenn ihr euch das reinzieht,
+
+33:15.600 --> 33:20.440
+vielleicht langsam auf den Trichter kommt, wie das dann später mit dem Deep Learning ist. Weil
+
+33:20.440 --> 33:25.760
+beim Deep Learning ist das mit der Linearen Algebra super wichtig. Ohne das geht es da gar nicht.
+
+33:25.760 --> 33:32.960
+Und ihr müsst euch mal vorstellen, folgendes Setup. Ihr habt jetzt hier mal so zwei, was weiß ich,
+
+33:32.960 --> 33:47.720
+zwei Steine. Und ihr habt die Steine, die liegen auf einem Blatt Papier. Und ihr habt einen
+
+33:47.720 --> 33:53.920
+Lampenschirm, der ist jetzt da zum Beispiel hier. Oder ihr habt irgendwie eine Art Leinwand und ihr
+
+33:53.920 --> 33:58.120
+habt ein Projekt dort. Ihr habt eine Kerze oder irgendein Licht, was hier sozusagen das strahlt
+
+33:58.120 --> 34:04.360
+von hier. Und das macht Licht in dem Kegel, so in diese Richtung. Lichtstrahlen. Und das strahlt
+
+34:04.360 --> 34:09.640
+jetzt hier so und knallt hier drauf auf diese Objekte. Und was dann passiert ist, die werfen
+
+34:09.640 --> 34:17.080
+einen Schatten. Das heißt, was ihr hinten seht, ist im Prinzip Schatten. Und hier seht ihr das
+
+34:17.080 --> 34:22.760
+auch. Und wenn ihr nur diesen Winkel, diese Aufnahme habt aus diesem Winkel und ihr kriegt
+
+34:22.760 --> 34:28.560
+nur sozusagen die Position von diesem Punkt hier und ihr kriegt die Position von eurer Leinwand,
+
+34:28.560 --> 34:35.120
+dann lautet die Frage, könnt ihr die Position dieser Objekte hier bestimmen? Und die Antwort
+
+34:35.120 --> 34:40.600
+lautet nein. Mit einer Messung geht das nicht. Ist ja klar, ist ja eine Projektion. Ihr könnt
+
+34:40.600 --> 34:44.880
+sozusagen nur sagen, auf welcher Linie sie sich die befinden müssen. Ihr könnt die gerade angeben,
+
+34:44.880 --> 34:49.120
+auf denen sie sich befinden müssen. Das könnt ihr sagen. Und jetzt stellt euch mal vor, ihr habt
+
+34:49.120 --> 34:54.360
+noch einen zweiten Winkel. Zum Beispiel von hier. Guckt hier lang, zack, sagen wir mal, die
+
+34:54.360 --> 34:58.320
+Leinwand ist hier, völlig egal. Ich mache jetzt hier einfach mal so ein Bild. Dann habt ihr diese
+
+34:58.320 --> 35:03.440
+beiden Geraden. Und was ihr jetzt macht, um die Position rauszukriegen, ist klar, ihr bildet die
+
+35:03.440 --> 35:09.440
+Schnittpunkte dieser Geraden. Also hier und hier. Dann wisst ihr, ah, okay, meine Objekte müssen hier
+
+35:09.440 --> 35:16.960
+liegen. Und was ihr da macht, wenn ihr dieses Problem löst, also ich gebe euch Projektionsdaten und
+
+35:16.960 --> 35:21.480
+ihr sollt, zusammen mit der Information über die Geometrie dieser Projektionsdaten, und ihr
+
+35:21.480 --> 35:29.200
+sollt jetzt mal rausfinden, wo die sich befinden, dann löst ihr ein inverses Problem. Denn was
+
+35:29.200 --> 35:35.520
+bekannt ist, ist sozusagen, wie die Projektion stattfindet. Aber was nicht bekannt ist sozusagen,
+
+35:35.520 --> 35:41.360
+wie die Rückrechnung funktioniert. Und das ist jetzt mal so ein Beispiel von einer Abbildung,
+
+35:41.360 --> 35:46.280
+wo das wirklich nicht mehr trivial ist, das einfach mal hinzuschreiben, wie f hoch minus
+
+35:46.280 --> 35:51.840
+eins aussieht. Also wir nennen mal die Positionen von diesen Dingern x, okay? Und wir nennen mal
+
+35:51.840 --> 35:58.840
+die Abbildung, ich nenne sie schon mal, ach nee, ich nenne sie mal nochmal f. So, und das ergibt
+
+35:58.840 --> 36:05.160
+euch sozusagen jetzt mal eure Projektion p. Dann ist sozusagen die Fragestellung, okay, wenn ihr p
+
+36:05.160 --> 36:11.720
+gegeben habt mit den Geometriedaten, wie findet ihr das x raus? Das f hoch minus eins hier drauf
+
+36:11.720 --> 36:16.520
+anzuwenden, selbst wenn man es hätte, bringt das was. Denn die Frage ist ja sozusagen, hier geht
+
+36:16.520 --> 36:21.560
+ja Information verloren, ne? Das ist sozusagen schon eine viel kompliziertere Aufgabe als das,
+
+36:21.560 --> 36:25.120
+was man aus der Schule kennt, wo man jetzt mal eine einfache Gleichung hat. Das ist alles,
+
+36:25.120 --> 36:29.480
+also versteht nicht falsch, das kann man alles mit Gleichungen ausdrücken. Aber der Mathematiker
+
+36:29.480 --> 36:35.680
+würde jetzt sozusagen sagen, die Abbildung ist nicht injektiv. Das heißt, die Umkehrfunktion ist
+
+36:35.680 --> 36:40.320
+nicht eindeutig. Oder es existiert vielleicht gar keine Umkehrfunktion. Es existieren höchstens so
+
+36:40.320 --> 36:45.680
+Approximationen oder Pseudo-Umkehrfunktionen. So, und was man beim CT macht. Beim CT ist es
+
+36:45.680 --> 36:50.840
+noch ein bisschen komplizierter, ihr müsst euch vorstellen. Hier oben haben wir ja jetzt
+
+36:50.840 --> 36:55.040
+intransparente Objekte, also die werfen in Schatten. Und anhand der Schattens können wir sozusagen
+
+36:55.040 --> 36:59.760
+feststellen, wo die sind, nach zwei Messungen, in dem Fall, bei zwei Objekten. Ihr könnt euch
+
+36:59.760 --> 37:03.360
+ja mal vorstellen, wie das ist, wenn ihr jetzt hier fünf Kugeln liegen habt oder so. Wie viel
+
+37:03.360 --> 37:06.960
+Winkel braucht man dann? Geht es dann immer noch mit zweien oder braucht man dann mehr und wie viele
+
+37:06.960 --> 37:10.240
+und wie müssen die sein? Gibt es da bestimmte Eigenschaften? Über all diese Sachen kann man
+
+37:10.240 --> 37:14.880
+sich mal Gedanken machen, weil das alles sozusagen dazu beiträgt, dass man sich mal Gedanken macht
+
+37:14.880 --> 37:21.440
+über das sogenannte inverse Problem. Und im CT ist es jetzt so, ich gebe euch jetzt mal noch mal
+
+37:21.440 --> 37:26.840
+so ein richtig blödes Beispiel. Im CT stellt euch mal vor, oder wir nennen es mal noch nicht CT,
+
+37:26.840 --> 37:34.520
+ich nenne es später CT, okay? Ich nenne es jetzt erst mal nur, ja wie nenne ich es denn,
+
+37:34.520 --> 37:44.280
+Projektionsproblem. Ihr habt jetzt hier folgende Zahlenwerte drin. Eins, zwei, drei, vier. Und das
+
+37:44.280 --> 37:48.120
+sind jetzt mal unsere X, okay? Die sind jetzt nicht bekannt, die sollen wir ausrechnen. Aber
+
+37:48.120 --> 37:54.720
+was wir haben ist, wir leuchten hier mit etwas rein und was wir hier hinten rauskriegen, da messen
+
+37:54.720 --> 37:59.680
+wir das, da messen wir die Summe dieser beiden Zahlen. Und ich nehme jetzt mal wirklich dieses
+
+37:59.680 --> 38:04.400
+blöde Beispiel, wir messen einfach nur die Summe, die gewichtet ist mit der Durchstrahllänge,
+
+38:04.400 --> 38:10.200
+dieser Dinger hier. Und das sind Quadrate, das heißt, die haben jetzt mal die Länge L. Und ich setze
+
+38:10.200 --> 38:15.240
+mal L gleich 1, dann wird es noch einfacher. Was wir dann hier messen ist sozusagen, ich nenne das
+
+38:15.240 --> 38:20.760
+schon mal, gebe ich dem schon mal einen Namen, ja ich nenne es schon mal P1. Das ist die Messung und
+
+38:20.760 --> 38:26.880
+die heißt, ist 1 plus 2, also 3. Das ist das, was wir messen. Dasselbe machen wir hier, das nenne ich
+
+38:26.880 --> 38:32.640
+P2 und da messen wir natürlich 7. Hier, wenn wir von hier messen, das ist jetzt schon, das kommt
+
+38:32.640 --> 38:35.840
+schon so ein bisschen an diese CT-Optik ran. Ihr könnt euch vorstellen, ich gehe jetzt hier mit
+
+38:35.840 --> 38:39.480
+meiner Taschenlampe und meinem Schil schirmlang, bloß dass das keine Taschenlampe mehr ist, sondern
+
+38:39.480 --> 38:44.480
+eine Röntgenquelle. Und mein Schirm ist kein Schirm mehr, sondern ein Detektor. Und ich messe jetzt
+
+38:44.480 --> 38:52.520
+sozusagen hier hinten eine 6, das wäre dann, was weiß ich, P3. Und hier messe ich P4, das wäre eine
+
+38:52.520 --> 39:00.880
+4. So und das sind jetzt aber echt, ist ja klar, was das ist. Das ist jetzt hier X1, das ist X2,
+
+39:00.880 --> 39:06.200
+das nenne ich mal X3 und das nenne ich mal X4. Das sind meine Unbekannten. Und die Aufgabenstellung
+
+39:06.200 --> 39:11.760
+lautet jetzt, die Geometrie ist gegeben, also sprich, wie die Strahlen hier lang gehen. Die
+
+39:11.760 --> 39:18.720
+Messwerte hier sind gegeben. Ihr sollt die X rausfinden. Und jetzt ist es erstmal ganz einfach
+
+39:18.720 --> 39:22.920
+an diesem Beispiel, da würde man ja sagen, kein Ding, mache ich ein Gleichungssystem. Das sind ja
+
+39:22.920 --> 39:31.000
+offensichtlich vier Gleichungen für vier Unbekannte. Weil hier steht ja sozusagen P1 ist
+
+39:31.000 --> 39:42.880
+gleich X1 plus X2. P2, also 7, ist gleich X3 plus X4. Und so weiter. Ihr werdet, glaube ich,
+
+39:42.880 --> 39:48.720
+aber schon feststellen, ich glaube schon bei diesem Beispiel sind die Gleichungen linear abhängig,
+
+39:48.720 --> 39:52.440
+oder? Na, wir können es ja mal probieren. Wir können es ja einfach mal machen. Also wie gesagt,
+
+39:52.440 --> 39:55.680
+ich habe jetzt hier kein Skript vorbereitet. Das heißt, ich probiere es jetzt auch einfach.
+
+39:55.680 --> 40:03.880
+Ich stehe mal hier in den Steffern. So, das sind zwei Gleichungen. Ich schreibe sie nochmal
+
+40:03.880 --> 40:13.520
+ordentlich hin. Ich schreibe nochmal ordentlich hin. P1 ist gleich X1 plus X2. P2 ist gleich X3 plus
+
+40:13.520 --> 40:30.120
+X4. P3, das war der hier. Das ist X2 plus X4. Und P4, das ist jetzt mal echt X1 plus X3. So,
+
+40:30.120 --> 40:38.560
+X1 plus X3. So, völlig blödes Beispiel. Kann man das nochmal anders schreiben? Ja, kann man. Und
+
+40:38.560 --> 40:45.120
+zwar ich mache das gleich mal. Ich mache mal gleich diese Notation, die später relevant ist.
+
+40:45.120 --> 41:04.360
+Und zwar 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0. So, mal X1, X2, X3, X4, Klammer, ist gleich
+
+41:04.360 --> 41:18.200
+Vektor P. Also in dem Fall ist der Vektor P ja gerade 3, 7, 6, 4. So, das ist jetzt mal eine
+
+41:18.200 --> 41:23.160
+Ekelklaue, aber da müsst ihr euch auf jeden Fall dran gewöhnen. Die ist richtig widerlich. So,
+
+41:23.160 --> 41:27.280
+und das ist jetzt mal schon mal die Matrix-Schreibweise, um das klar zu machen.
+
+41:27.280 --> 41:31.520
+Das ist ja sozusagen ein Vektorprodukt. Ne, das ist kein Vektorprodukt, sondern das hier ist eine
+
+41:31.520 --> 41:37.480
+Matrix. Die würde man dann sozusagen so was schreiben. Matrix A mal Vektor X ist gleich
+
+41:37.480 --> 41:42.960
+Vektor P. Und die beiden haben die Dimension 4. Das heißt, die Matrix ist quadratisch. Das
+
+41:42.960 --> 41:51.080
+folgt aus der Dimensionsformel oder so. Das ist alles lineare Algebra. Das ist nur eine abstrakte
+
+41:51.080 --> 41:56.040
+Schreibweise für dieses Gleichungssystem hier. Und wenn man das jetzt lösen will, sieht man da
+
+41:56.040 --> 42:04.000
+eigentlich schon, ob das geht oder ob das nicht geht. Ich meine, wir können das mal formell lösen.
+
+42:04.000 --> 42:10.600
+Ich würde sagen, wenn wir das mal richtig so original mit einem Gauss machen, dann würde
+
+42:10.600 --> 42:15.320
+das wahrscheinlich schon gehen. Wie löst man das mit Gauss? Da schreibt man hier die Zahlen noch
+
+42:15.320 --> 42:21.280
+hin. Das heißt, hier folgt jetzt daraus, wenn ich das von dem abziehe, dann habe ich hier unten die
+
+42:21.280 --> 42:27.320
+Null erzeugt, die ich brauche. Da muss ich hier 3 minus 4 machen. Dann steht hier 1, 1, 0, 0. Hier
+
+42:27.320 --> 42:39.160
+steht 3. Hier unten steht 0, minus 1, 1, 0 und 1. Und hier bleibt alles so, wie es ist. Das sind
+
+42:39.160 --> 42:47.600
+alles Nullen. Das ist super. So, hier, was mache ich hier? Vertausche ich die oder lasse ich die so?
+
+42:47.600 --> 42:56.800
+Das ist eine interessante Frage. Eigentlich will ich ja sozusagen obere Dreiecksgestalt haben.
+
+42:56.800 --> 43:04.840
+Beim Gauss hier sowas. Aber das ist mir tatsächlich schon fast zu blöd. Was ich eigentlich nur machen
+
+43:04.840 --> 43:12.600
+muss, ich muss die beiden Zeilen hier vertauschen. Dann mache ich das mal 1, 0, dann steht hier 0,
+
+43:12.600 --> 43:18.760
+1. Hier steht 1, 1. Und hier steht jetzt in echt die 6 und hier steht die 7. Ich habe jetzt
+
+43:18.760 --> 43:23.480
+sozusagen die beiden einfach nur vertauscht. Das ist sozusagen kein Ding. Das ist so,
+
+43:23.480 --> 43:29.360
+wie ich vertausche einfach. Ich nenne die nicht 1, 2, 3, 4, sondern ich nenne die 1, 3, 2, 4.
+
+43:29.360 --> 43:35.000
+Die Gleichung. Der Inhalt ist immer noch derselbe. So, und jetzt habe ich ja hier schon fast obere
+
+43:35.000 --> 43:39.360
+Dreiecksgestalt. Da muss ich sozusagen hier nur noch das hier drauf addieren und das hier abziehen.
+
+43:39.680 --> 43:45.000
+Und dann habe ich es. Das kann ich mit einem Mal machen. Also hier, das bleibt erst mal stehen 1,
+
+43:45.000 --> 43:55.640
+1, 0, 0, 3, 0, 1 bleibt auch stehen 0, 1, 6. So, hier muss ich, was wollte ich denn hier machen?
+
+43:55.640 --> 44:03.520
+Ah, ich sehe schon, was das Problem ist. Hier ziehe ich, ach nee, okay, das ist auch blöd.
+
+44:03.520 --> 44:09.960
+Vielleicht vertausche ich die nochmal, aber dann ist es auch bescheuert. Ihr seht schon,
+
+44:09.960 --> 44:14.920
+das ist ein Problem. Aber nur weil ich das schon ewig nicht mehr gemacht habe. Das ist doch
+
+44:14.920 --> 44:22.120
+völlig trivial. Ich glaube, ich muss nur einfach die hier, wenn ich die hier drauf addiere, klar,
+
+44:22.120 --> 44:28.560
+dann habe ich hier die 0 erzeugt. Dann muss ich anschließend die hier noch abziehen. Okay,
+
+44:29.040 --> 44:36.160
+also ich addiere die hier drauf, dann ziehe ich die hier ab, dann habe ich hier eine 0 erzeugt.
+
+44:36.160 --> 44:44.200
+Okay, so machen wir das. Das heißt, ich habe hier 0, 0, 1, 1, 7 und jetzt die unterste Zeile ist
+
+44:44.200 --> 44:49.600
+klar. Einmal habe ich das hier drauf addiert, 0, 0, das macht hier die 0 und hier hinten habe ich
+
+44:49.600 --> 44:56.720
+eine, hier hinten habe ich erstmal eine 1, merke ich mir mal. Und hier habe ich eine 1 und hier habe
+
+44:56.800 --> 45:00.480
+ich eine 7. Und dann anschließend ziehe ich die noch hier ab. Und da seht ihr schon,
+
+45:00.480 --> 45:04.360
+die beiden sind identisch. Das ist das, was ich meinte. Ich hatte das schon im Kopf,
+
+45:04.360 --> 45:09.200
+dass in diesem Beispiel das schon nicht aufgeht. Was hier passiert ist sozusagen, dass der Kern
+
+45:09.200 --> 45:12.640
+der Matrix nicht 0 ist, das heißt, die Umkehrfunktion existiert nicht. Das ist eindeutig,
+
+45:12.640 --> 45:20.120
+weil die Abbildung sozusagen keine linear unabhängigen Spaltenvektoren hat. So würde
+
+45:20.120 --> 45:24.800
+man das sagen. Was ich damit sagen will ist, das geht schon mal rein von der Mathematik her,
+
+45:24.800 --> 45:28.240
+jetzt analytisch nicht so einfach. Ich habe hier sozusagen ein Gleichungssystem,
+
+45:28.240 --> 45:32.000
+was offensichtlich linear abhängige Gleichungen hat, das heißt, ich kann sie lösen. Was ich aber
+
+45:32.000 --> 45:37.240
+machen kann ist, ich kann mir überlegen, ich schreibe es noch mal hin. Ich habe jetzt hier folgendes,
+
+45:37.240 --> 45:47.360
+ich nehme eine andere Farbe. Ich habe jetzt hier echt meine 3, meine 7, meine 6 und meine 4. Ich
+
+45:47.360 --> 45:56.440
+gucke nochmal nach oben. 3, 7, 6, 4. So und ich überlege mir jetzt, könnte ich nicht auch so
+
+45:56.440 --> 46:02.920
+tun, als würde ich ja schon wissen, ich kenne ja meinen Vorwärtsoperator, ich kenne die Vorwärtsprojektion,
+
+46:02.920 --> 46:08.400
+die kenne ich. Die 3 ist entstanden, weil ich sie aus diesen beiden zusammengesetzt habe. Das heißt,
+
+46:08.400 --> 46:14.000
+mein blödeste Idee ist jetzt, ich tue jetzt mal so, als wären hier Nullen drin. Ich tue mal so,
+
+46:14.000 --> 46:18.320
+als wären hier Nullen drin und wenn hier Nullen drin sind und ich mache die Vorwärtsprojektion,
+
+46:18.320 --> 46:27.160
+dann kommt hier hinten in rot die Null raus und dann stelle ich fest, okay, in Wahrheit muss hier
+
+46:27.160 --> 46:33.680
+aber eine 3 stehen. Das heißt, ich muss diese Differenz von Null und 3, die muss ich hier irgendwie
+
+46:33.680 --> 46:39.240
+zurück verteilen und weil meine Geometrie mir sagt, dass diese beiden Kantenlängen hier jeweils
+
+46:39.240 --> 46:44.640
+gleich sind, muss ich die 3 gleichmäßig verteilen. Also teile ich hier 3,5 auf. Okay,
+
+46:44.640 --> 46:50.920
+das ist mein erster Schritt. Das ist die Idee. Das mache ich hier unten auch. Hier ist ja auch
+
+46:50.920 --> 46:58.800
+Null. Das heißt, ich habe hier 7,5, die ich verteilen muss. 7,5. So, jetzt gucke ich von hier
+
+46:58.800 --> 47:05.520
+unten und sehe, Moment, hier steht jetzt aber schon 3,5 plus 7,5. Das sind 10,5. 10,5 sind 5.
+
+47:05.520 --> 47:16.840
+So. 5 sind aber einer zu wenig. Das heißt, die Differenz 6 minus 5, da bleibt 1 über. Die 1,
+
+47:16.840 --> 47:20.120
+die muss ich jetzt hier gleichmäßig verteilen. Das muss ich deswegen gleichmäßig verteilen,
+
+47:20.120 --> 47:23.680
+weil hier dasselbe Ding ist. Ich weiß, dass diese Kanten hier gleich lang sind. Der Strahl ist hier
+
+47:23.680 --> 47:28.040
+gleichmäßig durchgegangen. Das Messergebnis, also dieser Messwert ist sozusagen, der muss
+
+47:28.040 --> 47:33.560
+gleich verteilt werden auf diese beiden Würfel, auf diese beiden Quadrate. Also verteile ich hier
+
+47:33.560 --> 47:39.440
+eine 1 und ich addiere die da drauf, damit am Ende das aus dieser Richtung wieder richtig aussieht.
+
+47:39.440 --> 47:43.000
+Weil was ich jetzt hier gemacht habe ist, wenn ich jetzt hier die Projektion in die Richtung machen
+
+47:43.000 --> 47:47.480
+würde, oh, hier würde eine 3 rauskommen. Das heißt, das ist jetzt konsistent mit meinem Messergebnis.
+
+47:47.480 --> 47:52.360
+Hier unten genauso. Hier würde eine 7 rauskommen. Das ist konsistent. Jetzt mache ich Folgendes. Ich
+
+47:52.360 --> 47:56.360
+addiere jetzt, ich verteile jetzt hier eine 1. Und zwar muss ich die 1 natürlich wieder durch
+
+47:56.360 --> 48:01.400
+2 teilen und auf beide aufteilen. Das heißt, ich muss auf beide 1,5 drauf tun. Das heißt,
+
+48:01.720 --> 48:10.000
+ich schreibe es nochmal hier unten hin. Als nächstes 2 und was ist denn das? 8,5 sind 4. Das ist
+
+48:10.000 --> 48:14.960
+schon gar nicht so schlecht. Das ist schon mein Ergebnis. Das selbe mache ich hier drüben. Hier
+
+48:14.960 --> 48:20.560
+kriege ich jetzt 5 raus und das ist größer als die 4. Das heißt, die 1, die hier über bleibt,
+
+48:20.560 --> 48:23.680
+die hat ja jetzt auch ein anderes Vorzeichen. Die Differenz hat ein anderes Vorzeichen. Die
+
+48:23.680 --> 48:28.000
+muss ich jetzt hier auch gleichmäßig aufteilen. Was hier jetzt passiert ist, hier kommt jetzt eine
+
+48:28.000 --> 48:34.120
+1 raus und hier kommt jetzt eine 3 raus. Hier kommt ja 6,5 raus. Und zufälligerweise habe ich
+
+48:34.120 --> 48:38.560
+es dann schon. Wenn ich jetzt den Schritt nochmal mache und die Vorwärtsprojektion durchführe,
+
+48:38.560 --> 48:43.760
+also checke, ob das mit meinem Messergebnis stimmt, dann steht hier 3 minus 3. Das ist 0. Wenn ich
+
+48:43.760 --> 48:48.520
+das zurückschmiere, ich nenne es schon mal so zurückschmieren, dann stelle ich fest, das ist
+
+48:48.520 --> 48:53.520
+0. Ich schmiere eine 0 zurück. Ich bin fertig. Wenn ich das mit allen Messungen mache und feststelle,
+
+48:53.520 --> 48:58.680
+dass das so ist, dass die Differenz, die ich hier habe, immer 0 ist, dann habe ich es geschafft.
+
+48:58.680 --> 49:05.360
+Das ist super. Dann habe ich mein Gleichungssystem gelöst, obwohl ich keine analytische Lösung
+
+49:05.360 --> 49:10.920
+finden konnte, weil hier drüben die Matrix sozusagen, die hat kein inverses. Das hat man
+
+49:10.920 --> 49:16.160
+jetzt übrigens, ich bin da nicht so firm, aber ich sehe das jetzt sozusagen nicht, dass die hier
+
+49:16.160 --> 49:25.000
+linear abhängig ist. Aber gut, sieht man es hier in dieser Richtung vielleicht? Nee, also da bin
+
+49:25.000 --> 49:28.400
+ich tatsächlich irgendwie Matsch auf dem Auge. Also es gibt Leute, die sehen das sofort. Ich sehe das
+
+49:28.400 --> 49:35.520
+nicht. Wie dem auch sei. Was wir hier gemacht haben, ist, wir haben eine Art Pseudoinverses
+
+49:35.520 --> 49:41.280
+gebaut. Wir haben ein Verfahren uns überlegt, was so ein bisschen diesen Prozess, dass wir wissen,
+
+49:41.280 --> 49:45.280
+wie die Vorwärtsoperation geht. Also wir wissen ja, wie die Vorwärtsoperation geht. Daher wissen
+
+49:45.280 --> 49:48.400
+wir, dass wir die Werte gleichmäßig verteilen müssen, beziehungsweise wir müssen sie so
+
+49:48.400 --> 49:55.400
+aufteilen, wie die Geometrie uns das vorgibt. Wenn jetzt zum Beispiel der Strahl nur hier so
+
+49:55.400 --> 49:59.760
+oben durch die Kante gehen würde, dann müssten wir diese Länge hier bestimmen. Das wäre dann
+
+49:59.760 --> 50:04.000
+nicht mehr die Kantenlänge von dem Würfel, aber wir könnten mit Geometrie rausfinden, wenn wir
+
+50:04.000 --> 50:08.000
+den Winkel haben und den Einschnittspunkt hier, können wir natürlich berechnen, wie lang der
+
+50:08.000 --> 50:12.840
+Strahl hier drin war. Dafür benutzt man typischerweise Raytracing. Das ist auch was, was ich in meiner
+
+50:12.920 --> 50:16.040
+Arbeit gemacht habe. Ich war so blöd, ich habe mir selber einen Raytracer geschrieben, anstatt
+
+50:16.040 --> 50:20.040
+einfach einzunehmen, den es schon gab. Ist doch egal. Wir können das machen, wir können das
+
+50:20.040 --> 50:24.240
+nachvollziehen. Dann ist bloß sozusagen diese Länge hier, die wichtet da anders rein. Aber ihr
+
+50:24.240 --> 50:29.040
+könnt euch vorstellen, dass wenn der Strahl hier so richtig durchgeht, dann ist das eher Wurzel 2
+
+50:29.040 --> 50:33.160
+und wenn er hier nur mal so ein bisschen an der Kante durchstrott, dann ist das ein ganz kleiner
+
+50:33.160 --> 50:38.560
+Beitrag nur von dem Messwert, der hier hinten rauskommt. Und in CT ist es jetzt so, ihr habt
+
+50:38.560 --> 50:43.560
+halt nicht ein Zweikreuz-Zweibild, sondern typischerweise habt ihr so Bilder, naja, ich
+
+50:43.560 --> 50:50.920
+würde mal sagen, wenigstens so 512 hoch 3. Ihr habt Volumen und ihr habt so eine ungefähr,
+
+50:50.920 --> 50:55.760
+na wie würde ich sagen, der Detektor. Wie sieht denn der aus? Der Detektor hat ungefähr so was
+
+50:55.760 --> 51:06.040
+wie 2000 mal, was weiß ich, sagen wir mal einfach mal 1000 und dann habt ihr noch so ungefähr 500
+
+51:06.040 --> 51:12.360
+Winkel. Also ihr nehmt jetzt Bilder auf mit einer Auflösung von 2000 mal 1000 aus 500
+
+51:12.360 --> 51:17.760
+verschiedenen Winkeln, da geht es einmal rum, also im Prinzip reichen 180 Grad und ihr habt
+
+51:17.760 --> 51:23.120
+ein Volumen, naja, ungefähr, das besteht aus so 512 hoch 3. Wuchsel nennt man das. Das nennt man
+
+51:23.120 --> 51:26.200
+dann nicht mehr Pixel, das nennt man Wuchsel. Und jetzt könnt ihr euch schon selber überlegen in
+
+51:26.200 --> 51:33.640
+dieser Schreibweise. Mit A mal meine unbekannte X ist gleich meine Projektion P. Da könnt ihr
+
+51:33.640 --> 51:39.600
+euch jetzt schon überlegen, das Ding hier, das hat offensichtlich die Dimension von 2000 mal
+
+51:39.600 --> 51:48.600
+1000 mal 500. Was ist denn das? Das sind 10, das sind 10 mal, so und jetzt müssen wir überlegen,
+
+51:48.600 --> 52:01.840
+1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Das ist ein großer Vektor. 10 hoch 9 Einträge und X ist 512 mal 3,
+
+52:01.840 --> 52:15.480
+das heißt A muss sowas sein wie 512 hoch 3. Was ist denn 512 hoch 3? Ist naja, 125 und dann
+
+52:15.480 --> 52:26.640
+noch mal 10 hoch 6. Das heißt, das ist auch sowas wie ungefähr 10 hoch 8, kreuz 10 hoch 9. Das ist
+
+52:26.640 --> 52:32.280
+sozusagen die Matrixgröße, von der wir bei einem normalen CT-Problem reden. Das ist eine riesige
+
+52:32.280 --> 52:38.480
+Zahl und die kann man nicht abspeichern. Wenn man das mit Float-Genauigkeit abspeichern will,
+
+52:38.480 --> 52:44.840
+das geht nicht, das kriegt man nicht hin. Das ist eine riesige Zahl. Und weil das so ist, ist
+
+52:44.840 --> 52:50.840
+sozusagen, ist auch, also übrigens, erstmal seht ihr, das Ding ist nicht quadratisch. Das ist keine
+
+52:50.840 --> 52:56.240
+quadratische Matrix. Man würde hier auch sozusagen, was ist das? Das ist ein überbestimmtes
+
+52:56.240 --> 53:01.800
+Gleichungssystem. Ihr habt mehr Messwerte als Unbekannte und da kommen jetzt noch viele andere
+
+53:01.800 --> 53:06.960
+Probleme. Ihr könnt euch vorstellen, dass sozusagen diese Messwerte hier, da ist Rauschen
+
+53:06.960 --> 53:10.840
+drauf, die können sich widersprechen. Es könnte sein, dass aus dieser Richtung irgendwie hier nicht
+
+53:10.840 --> 53:18.880
+gerade 3, sondern 3,1 rauskommt und hier unten kommt nicht 6 raus, sondern 5,078 oder so. Irgendwas
+
+53:18.880 --> 53:22.520
+völlig Absurdes und dann widersprechen die sich. Und was dann passiert, wenn ihr dieses Verfahren,
+
+53:22.520 --> 53:28.000
+was ich gerade gezeigt habe, mit dem Zurückschmieren, wenn ihr das macht, dann wackeln diese Werte immer
+
+53:28.000 --> 53:32.040
+hin und her und oszillieren. Und die werden jedenfalls nicht konvergieren. Und dann muss
+
+53:32.040 --> 53:36.320
+man sozusagen noch bestimmte Sachen machen. Was man hier typischerweise macht, wenn man jetzt
+
+53:36.320 --> 53:40.520
+sozusagen dieses Verfahren anwendet, was ich euch jetzt gezeigt habe, das geht da tatsächlich auch,
+
+53:40.520 --> 53:46.480
+man muss sozusagen den Strahl zurückverfolgen, wo der herkommt und dann entsprechend von seinen
+
+53:46.480 --> 53:53.120
+Durchschnittmengen durch die einzelnen Würfel, das kritisiert natürlich euer Volumen in Würfel,
+
+53:53.120 --> 53:59.080
+da muss man sozusagen dann entsprechend aufteilen, den Messwert, den man gemessen hat. Und übrigens
+
+53:59.080 --> 54:03.320
+dieses lineare Modell hier, das ist nur eine Approximation, das ist auch nicht ganz richtig,
+
+54:03.320 --> 54:08.280
+aber das ist die Approximation, mit der die CTs im Krankenhaus typischerweise funktionieren und das
+
+54:08.280 --> 54:12.360
+ist erstmal eine gute Nährung, das ist nicht ganz exakt. Da macht man viele Fehler und handelt sich
+
+54:12.360 --> 54:16.920
+auch viele Bildartifakte ein, aber diese lineare Nährung, die man hier macht, die ist schonmal okay.
+
+54:16.920 --> 54:20.720
+Und für unsere Zwecke hier, ich will euch eigentlich nur zeigen, ich will euch eigentlich nur eine
+
+54:20.720 --> 54:28.600
+Motivation geben für dieses Umkern, dafür reicht das völlig aus. So und ihr macht halt dieses Ding
+
+54:28.600 --> 54:37.000
+hier, aho minus eins, das existiert nicht. Und übrigens in dieser Matrix Schreibweise,
+
+54:37.000 --> 54:41.240
+da könnt ihr euch auch vorstellen, da kann man sich sozusagen auch noch eine richtige
+
+54:41.240 --> 54:47.520
+Vorstellung für diese Symbolik mit dem ahochminus eins überlegen. Stellt euch mal vor, ax gleich p
+
+54:47.520 --> 54:52.520
+wäre eine Gleichung mit Zahlen, dann würde man hier einfach auf beiden Seiten durch a teilen,
+
+54:52.520 --> 54:59.680
+dann würde hier a ist gleich, ich schreib's mal so hin, ahochminus eins mal p stehen. Weil
+
+54:59.680 --> 55:04.600
+durch a teilen ist dasselbe wie mit einem Kehrwert multiplizieren und wenn das Zahlen sind, dann ist
+
+55:04.600 --> 55:09.400
+das alles nice. Und daher kommt aber diese Idee, ahochminus eins hat nämlich gerade die Eigenschaft,
+
+55:09.400 --> 55:14.560
+dass wenn man ahochminus eins an a multipliziert, dass dann sozusagen die Einheitsmatrix rauskommt
+
+55:14.560 --> 55:21.080
+oder die eins sozusagen. Warte mal, wie mach ich denn das? Vielleicht erkläre ich mal noch schnell,
+
+55:21.080 --> 55:25.840
+ja ich denke das mache ich noch, ich erkläre das mal noch schnell. Ich mache mal, ich speichere mal kurz ab,
+
+55:25.840 --> 55:32.800
+mach noch mal ein neues Ding auf. Ich glaube das mache ich noch mal, einfach nur weil ich es kann,
+
+55:32.800 --> 55:42.880
+ich bock drauf hab. Also folgendermaßen, ich habe euch ja gesagt, in der Schule habt ihr immer das
+
+55:42.880 --> 55:52.040
+Problem, y ist gleich f von x und ihr sollt x suchen, wenn y gegeben ist und die Lösung sieht
+
+55:52.040 --> 55:58.120
+immer so aus, f hochminus eins von y ist gleich x. Das ist die Lösung. Ihr müsst sozusagen nur das
+
+55:58.120 --> 56:03.960
+inverse finden und bei einfachen Aufgaben wie zum Beispiel ax ist gleich b, da ist das klar, da folgt
+
+56:03.960 --> 56:13.360
+x ist gleich b durch a oder a hochminus eins mal b. Das wäre sozusagen einfach. Bei quadratischen
+
+56:13.360 --> 56:16.040
+Gleichungen habe ich schon gesagt, da wird das komplizierter und das wird generell dann
+
+56:16.040 --> 56:21.640
+immer beliebig komplizierter. Aber was ihr immer macht und was alle Schüler machen müssen, sie müssen
+
+56:21.640 --> 56:26.120
+für die entsprechende Operation die Umkehrung finden und was man damit meint ist, ihr habt eine
+
+56:26.120 --> 56:33.920
+Operation plus a plus b und die Umkehrung dazu wäre sozusagen Minusrechner. Das heißt, wenn ihr
+
+56:33.920 --> 56:43.720
+das hier habt, wenn ihr zum Beispiel a plus x ist gleich b habt, naja, dann folgt daraus ja x ist
+
+56:43.720 --> 56:49.040
+das gleiche wie b minus a. Das ist ganz formal, weil das sozusagen die Umkehrung zu diesem Pluszeichen
+
+56:49.040 --> 56:55.040
+ist. So könnt ihr euch das überlegen. Das heißt, das Minuszeichen ist direkt definiert als die
+
+56:55.040 --> 56:59.800
+Umkehrung vom Pluszeichen. Das selbe ist mit dem Malzeichen, da ist das geteilt, dann gibt es
+
+56:59.800 --> 57:06.320
+natürlich noch sowas wie Exponenten, da ist das Radizieren, die Wurzeln und solche Sachen. E hoch
+
+57:06.320 --> 57:12.360
+x, da ist die Umkehrung dann ln x. Das heißt, wenn man so macht, dann folgt daraus x. Diese Sachen,
+
+57:12.360 --> 57:18.320
+ihr müsst mal euch klar machen, ist es sozusagen immer als Umkehroperation definiert. Und es gibt
+
+57:18.320 --> 57:24.320
+halt genug Operationen, die keine eindeutige Umkehroperation haben. Und bei diesem Matrix-Problem
+
+57:24.320 --> 57:30.160
+aus der CT-Sache, da ist das so. Da gibt es sozusagen das a auch minus eins nicht, aber daher kommt
+
+57:30.160 --> 57:35.200
+diese Schreibweise, denn man stellt halt fest, man kann bei quadratischen Matrizen dieses
+
+57:35.200 --> 57:42.760
+Gleichungssystem lösen. Dieses hier. Also wenn ihr ein a gegeben habt, eine Matrix und von links eine
+
+57:42.760 --> 57:47.720
+unbekannte Matrix dran schmieren wollt, dann kann man sozusagen auch über Gauss-Jordan-Verfahren die
+
+57:47.720 --> 57:52.720
+Inverse rauskriegen oder auch noch, wenn es klein genug ist, kann man es auch noch so lösen, wenn die
+
+57:52.720 --> 57:58.200
+Matrix klein genug ist. Aber was auf keinen Fall geht, ist bei Matrizen, die irgendwie 10 hoch 20
+
+57:58.200 --> 58:03.160
+Einträge haben, irgendwas zu machen. Das ist unmöglich, das kriegt man nicht hin. So und deswegen
+
+58:03.160 --> 58:07.600
+ist diese Iteration so. Und übrigens hier mit diesen Inversen, da könnt ihr euch vielleicht noch mal,
+
+58:07.600 --> 58:12.800
+also man könnte es vielleicht noch mal ein bisschen abstrakter vorhin schreiben und sagen, was man
+
+58:12.800 --> 58:19.400
+braucht, ist sozusagen zuerst ein neutrales Element. Also bei, wenn ich jetzt sowas habe wie a plus
+
+58:19.400 --> 58:26.360
+neutrales Element, ist gleich a. Ich definiere mal ein neutrales Element bezüglich einer Operation so,
+
+58:26.360 --> 58:34.360
+dass hier nichts ändert. In dem Fall weiß ich schon, okay, n muss 0 sein. Das neutrale Element
+
+58:34.360 --> 58:41.000
+bezüglich Addition muss 0 sein. Über das neutrale Element kann man dann anschließend das Inverse
+
+58:41.000 --> 58:48.720
+definieren. Das Inverse i a plus i, könnte man es vielleicht so schreiben. Ich schreibe es jetzt mal
+
+58:48.720 --> 58:54.200
+ganz blöd so hin. Das muss so definiert, dass da das neutrale Element rauskommt. Und daraus folgt
+
+58:54.200 --> 59:03.600
+natürlich, weil n gleich 0 ist, könnte man hier einsetzen, dass i gleich minus a ist. Das ist so
+
+59:03.600 --> 59:08.280
+die allgemeine Idee, die dahintersteckt, wenn man von Inversen redet. Denn jetzt sozusagen können wir
+
+59:08.440 --> 59:12.120
+jetzt haben wir eine Sprache, um ganz klar zu machen, was wir damit meinen mit dem Inversen.
+
+59:12.120 --> 59:18.360
+Wir meinen das Inverse, wenn man die Operation anwendet und dann das neutrale Element rauskommt.
+
+59:18.360 --> 59:24.680
+Das ist eine total coole Definition. Da müsst ihr mal drüber nachdenken, weil so ist das ja bei
+
+59:24.680 --> 59:31.200
+Multiplizieren auch. a mal n zum Beispiel soll wieder a sein. Naja, daraus folgt n ist gleich
+
+59:31.200 --> 59:38.520
+eins. Und jetzt ist es so a mal Invers. Wenn da gleich eins rauskommen muss, weil n ist ja eins,
+
+59:38.520 --> 59:46.480
+dann folgt daraus, dass das i gleich a hoch minus eins ist. Also eins durch a, klar. Und so kann man
+
+59:46.480 --> 59:51.320
+die Division definieren. Da braucht man sozusagen nicht weitermachen und ich weiß auch nicht mehr,
+
+59:51.320 --> 59:54.680
+wie man das in der Schule, wie das kam, ob das sozusagen vom Himmel gefallen ist oder ob das
+
+59:54.680 --> 59:59.560
+schon als Umkehroperation definiert ist. Aber in diesen einfachen Sachen und in der Schule waren
+
+59:59.560 --> 01:00:03.400
+immer die Aufgaben schwierig, wo man irgendeine Vorwärtsrichtung gegeben hatte, die man im Kopf
+
+01:00:03.400 --> 01:00:07.560
+sich überlegen kann und die Umkehrung davon schwierig war. Und so ist das bei unserem CT-Problem
+
+01:00:07.560 --> 01:00:12.760
+auch. So und wenn man jetzt noch mal in echt zurückgeht und sagt, okay, ich habe jetzt halt
+
+01:00:12.760 --> 01:00:17.480
+hier mein riesengroßes Bild. Also ich habe jetzt wirklich hier so ein Menschen drinnen liegen. Sagen
+
+01:00:17.480 --> 01:00:20.680
+wir mal so einen Querschnitt von Menschen, wie sieht der aus? Ich habe hier irgendwie Organe,
+
+01:00:20.680 --> 01:00:27.800
+so und so und hier so und da ist jetzt so ein Körper drum. Und hier sind irgendwelche Arme. Das
+
+01:00:27.800 --> 01:00:30.840
+ist jetzt mal so ein Querschnitt und jetzt scannt ihr den von allen möglichen Seiten hier so durch,
+
+01:00:30.840 --> 01:00:35.160
+zack, zack, zack, dann kriegt ihr einen Haufen Messwerte. Ihr probiert dann sozusagen tatsächlich,
+
+01:00:35.160 --> 01:00:43.400
+also im einfachsten Fall schichtweise, diese Rückschmieroperation zu machen. Und das ist
+
+01:00:43.400 --> 01:00:46.840
+schon nicht mehr so einfach und da braucht man tatsächlich noch andere Filteroperationen,
+
+01:00:46.840 --> 01:00:50.920
+um das dann noch ordentlich hinzukriegen, einfach weil die Konditionierung des Systems so schwierig
+
+01:00:50.920 --> 01:00:56.760
+ist. Aber was ihr macht ist sozusagen, ihr könnt das A hoch minus eins nicht finden, aber ihr findet
+
+01:00:56.760 --> 01:01:02.960
+diesen Pseudo-Rückschmier-Schritt. Und das ist ganz wichtig. Das ist sozusagen genau das,
+
+01:01:02.960 --> 01:01:08.680
+diese Umkehrung von dem, was man kennt, nämlich die Vorwärtssituation. Wenn ich euch ein Objekt
+
+01:01:08.680 --> 01:01:15.240
+gebe, so ein Objekt und ich gebe euch die Geometrie, dann kann jeder sozusagen sofort die Projektionen
+
+01:01:15.240 --> 01:01:18.720
+davon ausrechnen, wie die aussehen. Hier müssen wir irgendwie so hoch gehen, dann gehen wir hier so
+
+01:01:18.720 --> 01:01:24.160
+hoch und dann gehen wir hier so und so. So sieht das ungefähr aus, so eine Vorwärtsprojektion. Und die
+
+01:01:24.160 --> 01:01:30.120
+kann man tatsächlich so schreiben als A, Vektor x ist gleich P. Weil das hier sozusagen jetzt meine
+
+01:01:30.120 --> 01:01:35.200
+Unbekannten sind und ihr müsst euch jetzt nur noch klar machen, das ist jetzt ein Vektor. Da steht
+
+01:01:35.200 --> 01:01:45.520
+jetzt sozusagen x1 bis x512 hoch 3 drin. Im Stück. Das ist so ein Vektor. Und was das meint,
+
+01:01:45.520 --> 01:01:51.640
+ist natürlich, ich fange hier an auf der ersten Zeile und zähle bis hier. 1, 2, 3, 4, 5 bis 512.
+
+01:01:51.640 --> 01:01:56.880
+Der nächste Eintrag fängt dann hier an und geht wieder die ganze Zeile lang. Das mache ich für das
+
+01:01:56.880 --> 01:02:02.920
+ganze Bild. Und dann gehe ich 512 in die Richtung noch weiter. Ich mache es also für jede Schicht.
+
+01:02:02.920 --> 01:02:07.640
+Das heißt, ich gehe Zeile um Zeile, bis ich ein Bild voll habe. Dann bin ich bei 512 zum
+
+01:02:07.640 --> 01:02:12.880
+Quadrat und dann gehe ich weiter und fange wieder mit der nächsten Schicht an. Bis ich 512 hoch 3
+
+01:02:12.880 --> 01:02:17.280
+voll habe. Auf die Art und Weise kann man ein dreidimensionales Volumen in einen Vektor packen.
+
+01:02:17.280 --> 01:02:21.400
+Das ist schon mal wichtig, dass es gibt Leute, die das bis heute nicht verstehen. Und so macht
+
+01:02:21.400 --> 01:02:28.040
+man das mit dem P auch. Da schreibt man sozusagen die Detektorzeilen rein. Alle nacheinander. Und
+
+01:02:28.040 --> 01:02:34.040
+dann den nächsten Winkel, also die nächste Fotografie, sozusagen der nächste Aufnahmewinkel.
+
+01:02:34.040 --> 01:02:37.840
+Er geht ja ungefähr 180 Grad bis 200 Grad typischerweise rum. Oder bei einem echten
+
+01:02:37.840 --> 01:02:43.760
+CT geht man komplett 360 Grad rum, um das aufzunehmen. Also sozusagen, so kann man sich
+
+01:02:43.760 --> 01:02:46.960
+das überlegen, dass man das tatsächlich in einen Vektor reinschreiben kann. Und mit dieser Idee
+
+01:02:46.960 --> 01:02:52.840
+kann man dann sozusagen nach dieser Geometrie das A bestimmen. Weil in dem A stehen jetzt wirklich
+
+01:02:52.840 --> 01:02:58.880
+nur, in dem A steht jetzt sozusagen drin, also A würde man so schreiben als Matrix A, I, J.
+
+01:02:58.880 --> 01:03:06.000
+In dem steht sozusagen der, was weiß ich, der Ithestrahl. Also der Ithestrahl, das ist sozusagen
+
+01:03:06.000 --> 01:03:11.680
+der Ithepixel auf einem Detektor zu einem bestimmten Winkel. Das ist genau eine Zahl I,
+
+01:03:11.680 --> 01:03:18.800
+ein Index, der läuft über die Dimension von P. Und J ist dann sozusagen der Volumenwuchse.
+
+01:03:18.800 --> 01:03:26.600
+Also dieses IJ gibt einem an, wie viel trägt der J-Wuchse zum Ithenstrahl bei. Und ihr könnt euch
+
+01:03:26.600 --> 01:03:33.560
+schon vorstellen, dass für viele Wuchse viele IJs Null sind. Weil sozusagen der Strahl hier
+
+01:03:33.560 --> 01:03:38.400
+gar nicht lang trifft. Ich messe nur bis hier, von hier bis hier. Das heißt, diese ganzen,
+
+01:03:38.560 --> 01:03:43.040
+die sind da gar nicht mehr drin. In diesem einen Winkel wären die ganzen IJs, die dazugehören,
+
+01:03:43.040 --> 01:03:48.640
+alle Null. Und die anderen haben halt bestimmte Zahlen. Das ist so eine Sache. Es wurde auch schon
+
+01:03:48.640 --> 01:03:51.840
+lange rumprobiert, ob man da irgendwie was tricksen kann, ob man das irgendwie abspeichern kann oder
+
+01:03:51.840 --> 01:03:58.000
+so. Aber das ist super schwierig. Diese Information ist tatsächlich so schwer zu kriegen, dass man sie
+
+01:03:58.000 --> 01:04:05.400
+immer und so vielleicht neu ausrechnet mit einem Raycaster. Und bei der Rückprojektion genauso. Und
+
+01:04:05.400 --> 01:04:09.040
+die Rückprojektion ist jetzt wirklich genau das, was ich euch am Anfang erklärt habe. Man nimmt
+
+01:04:09.040 --> 01:04:14.000
+sozusagen diese Zahlenwerte und schmiert die gleichmäßig auf die einzelnen Volumenelemente
+
+01:04:14.000 --> 01:04:19.520
+zurück. Anhand dieser Informationen. Die hat man gegeben. In meinem Beispiel vorhin waren alle IJ,
+
+01:04:19.520 --> 01:04:25.240
+die waren alle eins. Weil ich sozusagen nur diesen, diesen und diesen, diesen und diesen,
+
+01:04:25.240 --> 01:04:30.280
+diesen und diesen, diesen hatte. Wenn ich so einen gehabt hätte, dann hätte da schon so was wie
+
+01:04:30.280 --> 01:04:35.720
+Wurzel 2 drin stehen müssen. Weil die Diagonale durch einen Einheitswürfel ja gerade Wurzel 2 ist.
+
+01:04:35.720 --> 01:04:41.920
+Also ihr habt hier Kantenlänge 1, dann habt ihr Kantenlänge 1. Dann muss das hier wegen Satzes
+
+01:04:41.920 --> 01:04:49.120
+Pythagoras Wurzel aus 1² plus 1² sein. Also Wurzel 2. Daher kommt das. Und wenn ihr sozusagen einen
+
+01:04:49.120 --> 01:04:52.560
+kleineren Strahl habt, dann müsst ihr halt ausrechnen, wie das geht. Das kann man aber machen.
+
+01:04:52.560 --> 01:04:56.640
+Und vor allem moderne Grafikkarten können das super schnell machen. Also ich habe das dann später
+
+01:04:56.640 --> 01:05:00.960
+auf Multi-GPU-Systemen implementiert. Einfach nur, weil das sonst unendlich lange dauert.
+
+01:05:00.960 --> 01:05:04.560
+Solche Verfahren zu machen. Könnt ihr euch ja vorstellen. Die Zahlen sind riesig. Egal wieviel
+
+01:05:04.560 --> 01:05:13.080
+Flops ihr da habt. Ich habe das mit acht Grafikkarten gemacht und meine Implementation war so kacke,
+
+01:05:13.080 --> 01:05:16.080
+dass es nach zwei Grafikkarten schon nicht mehr schneller wurde. Aber egal, das ist eine andere
+
+01:05:16.080 --> 01:05:23.120
+Geschichte. So ist das, wenn Physiker und Nerds irgendwas implementieren. Aber das ist sozusagen
+
+01:05:23.400 --> 01:05:27.960
+jetzt die Idee. Ich hoffe, dass irgendjemand etwas verstanden hat. Ich gucke mal, was hier steht.
+
+01:05:27.960 --> 01:05:48.400
+Die Boys quatschen nur über Black Metal. Die Boys quatschen nur Zeug. Ist ja nicht schlimm. Das
+
+01:05:48.400 --> 01:05:54.400
+Video bleibt ja erhalten. Ich gieße mir erst mal noch ein Bier ein. Das ist wirklich ein
+
+01:05:54.400 --> 01:06:03.800
+richtig leckeres Ding. Ein absolutes Lieblingsbier. Wie gesagt, vom lokalen Hipster gebraut. Super
+
+01:06:03.800 --> 01:06:11.240
+nice. Der Weckte-Analyser kann es auf jeden Fall bestätigen. Das ist richtig lecker.
+
+01:06:11.240 --> 01:06:31.280
+Ihr habt jetzt hoffentlich verstanden oder zumindest ein Gefühl dafür bekommen, was das
+
+01:06:31.280 --> 01:06:37.000
+bedeutet. So ein A hoch minus eins. Und ich nenne es jetzt mal nicht A hoch minus eins. In der
+
+01:06:37.000 --> 01:06:42.800
+Literatur ist oft so Pseudoinverse. Da ist hier so ein Kreuz dran oder so. Später nennt man das
+
+01:06:42.800 --> 01:06:47.360
+dann, was weiß ich, hermetisch, adjugierte, was auch immer Matrix. Völlig absurde Dinger gibt es da.
+
+01:06:47.360 --> 01:06:53.760
+Kommt darauf an, ob man Quantenmechanik macht oder nicht. Solche Objekte hier, solche Inversen,
+
+01:06:53.760 --> 01:07:00.000
+solche ich schmier das mal zurück Ideen. Also ich kenne den Vorwärtsprozess und ich weiß,
+
+01:07:00.000 --> 01:07:03.920
+die Umkehrung gibt es nicht. Aber ich versuche irgendwie mir einen Plan zu machen,
+
+01:07:03.920 --> 01:07:10.320
+wie ich das hinkriege mit dem Rückwärtsrechnen. Diese Idee braucht man, wenn man das Backpropagating
+
+01:07:10.320 --> 01:07:13.960
+verstehen will. Und wenn ihr jetzt sozusagen euch ein Deep Learning Paper lest, dann versteht ihr
+
+01:07:13.960 --> 01:07:18.560
+gar nichts. Wenn ihr jetzt einen Vortrag euch anhört von so einem Boy. Ich kann euch übrigens
+
+01:07:18.560 --> 01:07:32.400
+Professor Andreas Meyer empfehlen. Der hat dank Corona seine kompletten Vorlesungen digitalisiert
+
+01:07:32.400 --> 01:07:37.120
+und die kann man sich rein knallen zum Thema Deep Learning. Wenn ihr also das mit der Linearen
+
+01:07:37.120 --> 01:07:41.400
+Algebra euch schon drauf geschafft habt, dann könnt ihr da direkt anfangen. Da wird das alles
+
+01:07:41.400 --> 01:07:51.480
+erklärt. Von ganz klein bis ganz groß. Das ist übrigens ein D. Der hat einen leichten Duktus,
+
+01:07:51.480 --> 01:07:55.040
+der erklärt das alles ziemlich gut finde ich. Auch wenn ich mir natürlich nicht alles reingeknallt
+
+01:07:55.040 --> 01:07:59.520
+habe. Dafür habe ich keine Zeit, aber ich habe mir ja wie gesagt damals schon diesen Hardcore Crash
+
+01:07:59.520 --> 01:08:02.840
+Kurs damals im Deep Learning reingezogen beim Stober. Das ist ein anderer Professor bei uns
+
+01:08:02.840 --> 01:08:07.280
+an der Uni gewesen. Das ist übrigens so ein Privileg, wenn man an der Uni arbeitet. Ich bin
+
+01:08:07.280 --> 01:08:10.320
+zu meinem Prof gegangen, habe gesagt, hier kann ich mir meine Woche frei nehmen, um mir meine
+
+01:08:10.320 --> 01:08:16.800
+Vorlesung rein zu knallen. Und dann bin ich da jeden Tag hin und habe mir von um 9 bis 15 Uhr
+
+01:08:16.800 --> 01:08:22.600
+oder so die Vorlesung von ihm rein geputzt. Das war einfach fantastisch. In einer Woche so viel
+
+01:08:22.600 --> 01:08:27.920
+Wissen vorfri einfach hingehen und das auch noch während der Arbeitszeit nicht schlecht.
+
+01:08:27.920 --> 01:08:39.240
+Ja und Andreas Meyer ist von der V in Erlangen. Das ist eine fette Uni. Die machen auch Medizintechnik,
+
+01:08:39.240 --> 01:08:44.920
+also wenn ihr auf sowas Bock habt, könnt ihr da auch hingehen. Aber das ist ziemlich nice,
+
+01:08:44.920 --> 01:08:49.320
+so Deep Learning. Und warum es jetzt aber in echt bei Deep Learning geht, ist vielleicht brauche ich
+
+01:08:49.320 --> 01:08:56.400
+noch eine Sache. Vielleicht brauche ich noch eine Sache, um es euch jetzt noch klar zu machen. Ja,
+
+01:08:56.400 --> 01:09:00.360
+ich denke das mache ich vorher. Das mache ich vorher, bevor ich jetzt anfange Deep Learning zu
+
+01:09:00.360 --> 01:09:08.120
+machen. Und zwar stellt euch mal vor, ich gebe euch eine Aufgabe. Und zwar ihr habt hier eine
+
+01:09:08.120 --> 01:09:19.400
+Wand und ihr habt die Aufgabe ein Gebiet A einzuzollen. Einzuzollen mit einem Zaun und zwar
+
+01:09:19.400 --> 01:09:28.040
+rechteckig. Das heißt ihr habt hier die Länge A und hier die Länge B und hier die Länge A und
+
+01:09:28.040 --> 01:09:34.760
+hier die Wand. Und ihr sollt in den Baumarkt gehen und die Fläche A ist konstant. Die ist gegeben.
+
+01:09:35.640 --> 01:09:41.000
+Sagen wir mal, ihr habt Farbteimer, die reichen genau für die Fläche A, um die voll zu malen. Und
+
+01:09:41.000 --> 01:09:46.080
+dann sollt ihr die einzollen. Und die Frage ist, ihr könnt frei wählen, wie ihr das Rechteck
+
+01:09:46.080 --> 01:09:53.800
+gestaltet. Ihr könnt es ganz breit machen oder ihr könnt es so ganz spitz machen. Irgendwo in
+
+01:09:53.800 --> 01:09:58.320
+der Mitte gibt es ein Optimum, weil ihr habt einfach mal ausprobiert und festgestellt,
+
+01:09:58.320 --> 01:10:03.440
+oha, wenn ich das eine ganz klein mache und das andere ganz groß, dann ist A bei A gleich
+
+01:10:03.440 --> 01:10:10.640
+konstant sozusagen, ist mein Zaun riesig. Weil der Zaun am Ende ist natürlich 2A plus B. Das ist
+
+01:10:10.640 --> 01:10:16.040
+der Umfang. Und jetzt ist sozusagen die Frage, ihr geht im Baumarkt und ihr wollt das Optimum
+
+01:10:16.040 --> 01:10:21.680
+finden. Das ist ein ganz, ganz blödes, einfaches Beispiel. Aber das brauchen wir gleich. Und zwar,
+
+01:10:21.680 --> 01:10:27.720
+wie würde man das machen? Na ja, ihr habt jetzt also den Umfang als Funktion von A und B. Und ihr
+
+01:10:27.720 --> 01:10:34.400
+habt die Nebenbedingungen, ist ja klar, A ist gleich konstant und ist gleich A mal B. A ist
+
+01:10:34.400 --> 01:10:40.400
+jetzt eine gegebene Zahl, zum Beispiel 10 m², völlig egal. Daraus folgt aber, dass ihr sozusagen
+
+01:10:40.400 --> 01:10:47.320
+das umstellen könnt. Ihr könnt B von A zum Beispiel erzeugen, indem ihr A durch A teilt.
+
+01:10:47.320 --> 01:10:56.600
+Und das könnt ihr hier oben einsetzen. Dann steht hier U von A und B von A. Also als reine Funktion
+
+01:10:56.600 --> 01:11:05.880
+von A. Und das ist jetzt einfach, da steht einfach nur 2A plus A durch A. So, und jetzt ist doch klar,
+
+01:11:05.880 --> 01:11:11.400
+was wir machen wollen ist, wenn wir den Umfang minimieren, minimieren wir auch unsere Kosten.
+
+01:11:11.400 --> 01:11:16.240
+Das ist klar, weil Umfang ist direkt proportional zu Geld. Ich gehe in den Supermarkt rein, nicht
+
+01:11:16.240 --> 01:11:20.040
+in den Supermarkt, ich gehe in den Baumarkt und kaufe so und so viel Meter Zaun. Das kostet halt
+
+01:11:20.040 --> 01:11:25.920
+linear so viel Kohle. Das heißt, das Ding hier will ich minimieren. Und was mache ich da? Ist ja klar,
+
+01:11:25.920 --> 01:11:34.280
+ich bilde die totale Ableitung. DAU. So, und die totale Ableitung von dem Ding, naja, das ist 2.
+
+01:11:34.280 --> 01:11:41.880
+Sieht zumindest so aus. Plus, und hier steht jetzt A und dann steht hier ein Durch und dann
+
+01:11:41.880 --> 01:11:47.360
+steht hier ein Quadrat, dann steht hier ein Minus. So, und das soll 0 sein. Das kann ich auf die
+
+01:11:47.360 --> 01:11:55.920
+andere Seite bringen. Dann steht hier 2 ist gleich A durch A Quadrat. Dann bilde ich den, dann ziehe
+
+01:11:55.920 --> 01:12:00.080
+ich das auf die andere Seite. Ich vertausche das hier und dann ziehe ich die Wurzel. Daraus folgt A
+
+01:12:00.080 --> 01:12:05.320
+ist gleich Pluswurzel. Also die Minuswurzel macht keinen Sinn, weil A ist sozusagen bei mir ja schon
+
+01:12:05.320 --> 01:12:13.760
+ein Parameter, der nur positiv sein kann. Das heißt, ich habe einfach nur A halbe. Das sieht
+
+01:12:13.760 --> 01:12:18.400
+erstmal so gut aus. So, und übrigens, ihr könnt euch vorstellen, der Umfang, diese Funktion hier,
+
+01:12:18.400 --> 01:12:24.880
+wie sieht die aus? Ich male sie mal hier hin. 2A, ich mache mal gleich in diesen Quadranten,
+
+01:12:24.880 --> 01:12:31.160
+weil wir sind ja eh nur positiv, als Funktion von A. Umfang als Funktion von A. Ihr habt hier
+
+01:12:31.160 --> 01:12:38.360
+einen linearen Term, den male ich mal so ein. Und ihr habt hier einen 1 durch A Term, der macht so.
+
+01:12:38.360 --> 01:12:51.760
+So, und beide zusammen machen dann wahrscheinlich sowas hier. Na ja, okay, sagen wir mal so. Ihr
+
+01:12:51.760 --> 01:12:55.840
+versteht, was ich meine. Hier gibt es auf jeden Fall ein Minimum. Das ist die Idee. Und jetzt ist die
+
+01:12:55.840 --> 01:12:59.920
+Frage, findet man das Minimum? Na ja, da haben wir gefunden. Wir haben das hier gefunden. Das
+
+01:12:59.920 --> 01:13:06.120
+setzen wir jetzt ein und dann haben wir es. Also wir können jetzt sozusagen aus diesem A
+
+01:13:06.120 --> 01:13:14.480
+B ausrechnen, weil B von A ist ja bekannt. Das ist nämlich A durch A. Und jetzt steht hier A durch
+
+01:13:14.480 --> 01:13:23.400
+Wurzel A halber. Das ist witzig, ne? Da kann man bestimmt was machen. A durch Wurzel A ist das
+
+01:13:23.400 --> 01:13:35.120
+gleiche wie Wurzel A. Also können wir mal als Nebenrechnung machen. A durch Wurzel A. Das kann
+
+01:13:35.160 --> 01:13:39.760
+man auf zwei Möglichkeiten machen. Entweder man erweitert das mit Wurzel A oder man schreibt es als
+
+01:13:39.760 --> 01:13:48.240
+Produkt hin. Das ist A mal A hoch minus ein halb. Und das ist das gleiche wie A hoch ein halb. Also
+
+01:13:48.240 --> 01:13:56.520
+die Wurzel A. Genau. Das heißt, hier steht im Wesentlichen Wurzel 2 mal A. Das steht hier. Das
+
+01:13:56.520 --> 01:14:01.560
+seht ihr jetzt vielleicht gerade nicht, aber das folgt hier raus. Das ist das. Und hier steht ja
+
+01:14:01.560 --> 01:14:06.680
+durch durch. Das heißt, das steht hier über dem Hochstrich, ist klar. So, das ist das. Das ist
+
+01:14:06.680 --> 01:14:14.160
+unser Ergebnis. B ist gleich Wurzel aus 2A. Das kleine A ist gerade Wurzel aus A halbe. Und damit
+
+01:14:14.160 --> 01:14:19.160
+ist es gegeben. Also A ist, wie gesagt, irgendeine gegebene Zahl. Ihr kriegt die sozusagen von dem
+
+01:14:19.160 --> 01:14:24.320
+Boy, der euch den Auftrag gibt. Hier 100 Quadratmeter ist die Zahl. So, und dann habt ihr das. So
+
+01:14:24.320 --> 01:14:27.600
+würdet ihr das machen. Und was ich jetzt hier gerade gemacht habe, ist, ich habe eine ganz,
+
+01:14:27.600 --> 01:14:32.800
+ganz, ganz primitive Kostenfunktion minimiert. Ich habe die A-Leitung gebildet und sie in Null
+
+01:14:32.800 --> 01:14:36.480
+gesetzt. Und natürlich könnte ich jetzt noch die zweite A-Leitung bilden und gucken, ob das wirklich
+
+01:14:36.480 --> 01:14:40.520
+ein Minimum ist. Den Spaß könnte man sich ja machen. Seht man das hier? Wenn ich das hier
+
+01:14:40.520 --> 01:14:45.640
+nochmal ableite, kommt hier ein Pluszeichen runter. Irgendwas mit hoch 3 und hier noch ein Faktor. Das
+
+01:14:45.640 --> 01:14:50.760
+verschwindet. Dann setze ich hier eine positive Zahl ein. Die ist auf jeden Fall positiv. Das heißt,
+
+01:14:50.760 --> 01:14:54.320
+der Konzent ist positiv. Das heißt, das ganze Ding ist positiv. Das heißt, das ist ein echtes
+
+01:14:54.320 --> 01:14:59.120
+Minimum. Fertig. Haben wir schnell im Kopf gemacht. Kein Bock, das hinzuschreiben. Reicht. So,
+
+01:14:59.120 --> 01:15:03.720
+aber jetzt, in echt, können wir eigentlich das Ding mit dem Deep Learning machen.
+
+01:15:03.720 --> 01:15:11.120
+Das ist jetzt sozusagen die Idee gewesen. Ich wollte jetzt nur mal schnell euch erklären,
+
+01:15:11.120 --> 01:15:18.280
+okay, was bedeutet Inverse? Gibt es das immer? Nein, nicht immer. Was macht man, wenn man das
+
+01:15:18.280 --> 01:15:23.520
+nicht hat? Tausend Möglichkeiten, iterative Prozesse, Verfahren, irgendwelche Nährungsverfahren.
+
+01:15:23.520 --> 01:15:27.880
+Im Übrigen, für die Vollständigkeit könnte man auch noch mal hinschreiben.
+
+01:15:27.880 --> 01:15:32.840
+Habe ich irgendwo Platz? Nee, ich muss noch einmal das Blatt anfangen. Ich schweiche das mal ab.
+
+01:15:32.840 --> 01:15:54.000
+Neue oben. Also, was wollte ich jetzt machen? Ich gucke erstmal in den Chat rein. Steht hier
+
+01:15:54.000 --> 01:16:08.160
+noch irgendwas? Die Boys. Acht halbe. Hattest du in der Schule keine Lösbarkeit vom linearen
+
+01:16:08.160 --> 01:16:12.720
+Gleichungssystem? Also, Vector Analyzer, du musst das ja wissen, weil wir waren zusammen auf der
+
+01:16:12.720 --> 01:16:20.680
+Schule. Aber die Sache mit dem Kern der Matrix und so, das hatte man natürlich nicht. Generell,
+
+01:16:21.440 --> 01:16:25.640
+dass da auch die Möglichkeit rauskommt, dass die Lösungsmenge eine Gerade ist. Ich glaube,
+
+01:16:25.640 --> 01:16:36.920
+das kam bei uns nicht so richtig an. So, aber jetzt mal was anderes. Was wollte ich jetzt machen?
+
+01:16:36.920 --> 01:16:43.560
+Ich wollte jetzt eigentlich das mit dem Deep Learning erklären. Also, im Übrigen,
+
+01:16:43.560 --> 01:16:48.680
+jetzt nur noch mal für die Vollständigkeit. Wir hatten bei dem CT-Problem jetzt, das konnten wir
+
+01:16:48.680 --> 01:16:55.280
+so schreiben, A mal Vector X, das ist eine riesengroße Matrix, ist gleich unsere Projektion.
+
+01:16:55.280 --> 01:17:00.840
+Das war das lineare Vorwärtsmodell. Wenn wir X gegeben haben, können wir ohne Probleme Matrix
+
+01:17:00.840 --> 01:17:06.960
+Multiplikation machen, also diese Vorwärtsprojektion und unsere ganzen Projektionen ausrechnen. Wir
+
+01:17:06.960 --> 01:17:11.760
+müssen das inverse Problem lösen, denn P ist gegeben, A ist gegeben, X ist gesucht. So,
+
+01:17:11.760 --> 01:17:16.640
+und bei diesem Rückschmieren, was man am Ende macht, tatsächlich, also das, was ich euch
+
+01:17:16.680 --> 01:17:20.480
+vorgestellt habe mit dem Zurückschmieren, das ist noch nicht exakt das, was man tatsächlich macht,
+
+01:17:20.480 --> 01:17:24.440
+sondern man macht eine kleine Modifikation davon. Aber am Ende des Tages, was man macht,
+
+01:17:24.440 --> 01:17:40.440
+ist man minimiert diesen Vektor in der Zweier Norm. Man schreibt sowas hin. Minimum davon. Minimum
+
+01:17:40.440 --> 01:17:48.720
+von X. Sowas sucht man. Das ist sozusagen die Funktion, also der Betrag oder die Zweier Norm,
+
+01:17:48.720 --> 01:17:53.160
+die kathesische Norm von diesem Vektor, der hier rauskommt, die wir mal minimieren. Man will sie
+
+01:17:53.160 --> 01:17:57.280
+nicht auf Null bringen, sondern man will sie nur kleiner machen als Epsilon. So im Prinzip muss
+
+01:17:57.280 --> 01:18:01.200
+man sich das überlegen, weil sozusagen in echt, hier sind noch Störungen drauf, zum Beispiel
+
+01:18:01.200 --> 01:18:06.040
+elektronisches Rauschen, aber auch andere Sachen. Und das ist die Idee. Also das ist Zweier Norm,
+
+01:18:06.040 --> 01:18:10.360
+meistens das Quadrat der Zweier Norm, weil das ist sowieso egal, wenn man das Quadrat minimiert
+
+01:18:10.360 --> 01:18:14.560
+hat, hat man auch die Norm minimiert. Bloß das Ding ist meistens irgendwie konvex und deswegen ist
+
+01:18:14.560 --> 01:18:19.200
+das noch geiler. Aber das ist sozusagen das, was man eigentlich mathematisch jetzt macht. Man sucht
+
+01:18:19.200 --> 01:18:23.040
+das Minimum davon und die meisten Verfahren, die tatsächlich, die minimieren dieses Ding.
+
+01:18:23.040 --> 01:18:27.400
+Meistens hat man dann noch so einen Plus-Regularisierungsterm, aber der hat jetzt
+
+01:18:27.400 --> 01:18:33.120
+sozusagen, das führt zu weit. Das ist aber das, was man macht. Also mathematisch gesehen,
+
+01:18:33.120 --> 01:18:37.800
+man minimiert eine Kostenfunktion. In echt jetzt. Das nennt man sogar manchmal Kostenfunktion. Auch
+
+01:18:37.800 --> 01:18:41.400
+wenn es nichts mit echten Kosten wie bei einem Zaun zu tun hat, wo ich in den Baumarkt gehe und
+
+01:18:41.400 --> 01:18:45.800
+weiß, der kostet jetzt Geld. Das nennt man trotzdem Kostenfunktion. Und das ist das, was man bei
+
+01:18:45.800 --> 01:18:50.720
+die Learning auch macht. Man findet jetzt eine Möglichkeit, einen Vorwärtsprozess zu finden,
+
+01:18:50.720 --> 01:19:00.880
+der sowas ähnliches abbildet, wie ich habe gelernt, wie ich ein Bild erkenne und dann
+
+01:19:00.880 --> 01:19:04.240
+trainiere ich mein Netzwerk, indem ich diesen Rückwärtsschritt mache. Also ihr müsst euch
+
+01:19:04.240 --> 01:19:10.120
+vorstellen, die Idee ist, ich finde einen Vorwärtsprozess, der kann beliebig kompliziert
+
+01:19:10.120 --> 01:19:14.800
+sein und glaubt mir, der ist maximal ekelhaft kompliziert, weil das einfach nur Matrix-Multiplikationen
+
+01:19:14.800 --> 01:19:21.320
+sind. Richtig viele. Der ist hinreichend kompliziert, aber der bildet mir diesen Prozess ab, dass zum
+
+01:19:21.320 --> 01:19:25.440
+Beispiel ich kriege als Input ein Bild und ich bin jetzt ein Computer und ich soll am Ende sagen,
+
+01:19:25.440 --> 01:19:32.720
+auf dem Bild ist eine Katze, ein Hund, ein Haus oder sonst was. Dann kann ich das sozusagen abbilden
+
+01:19:32.720 --> 01:19:37.080
+und wenn ich das einmal habe, diesen Vorwärtsprozess und glaube jetzt, ich habe den gut abgebildet,
+
+01:19:37.080 --> 01:19:41.880
+weil das ist das Problem. Das ist ein Error. Ich habe den geraten, wie der Prozess aussieht. Wenn
+
+01:19:41.880 --> 01:19:48.840
+ich den habe, dann kann ich den zurückprojizieren und ich kann mir vor allem aus meinem Ergebnis
+
+01:19:48.840 --> 01:19:56.080
+eine Kostenfunktion bauen. Und die Kostenfunktion kann ich als Funktion dieser Umkehrung hinschreiben
+
+01:19:56.080 --> 01:20:02.120
+und dann habe ich halt nicht eine Variable, über die ich ableiten muss, sondern 10 hoch 9
+
+01:20:02.120 --> 01:20:10.080
+Variable. Also richtig viele. Und in diesem hochdimensionalen Vektoraum will ich dann sozusagen
+
+01:20:10.080 --> 01:20:15.440
+meine Kostenfunktion minimieren und dann muss man dann verschiedene Tricks anwenden und iterative
+
+01:20:15.440 --> 01:20:21.880
+Verfahren und was weiß ich nicht alles, zum Beispiel stochastischen Gradienten, so was, falls euch das
+
+01:20:21.880 --> 01:20:28.120
+was sagt, um dann am Ende eine Kostenfunktion zu minimieren. Und der Witz ist, dieses Minimieren der
+
+01:20:28.120 --> 01:20:34.360
+Kostenfunktion, das ist das, was die Leute Lernen nennen. Das nennen die Lernen, weil das das Beste
+
+01:20:34.360 --> 01:20:41.160
+ist, was sie haben im Moment. Sie knüppeln im Prinzip Daten in ein Netzwerk rein, von dem sie
+
+01:20:41.160 --> 01:20:47.360
+glauben, dass die Architektur gut ist und am Ende kommt dabei so eine Art Erkenntnis rum und so eine
+
+01:20:47.360 --> 01:20:51.240
+Art Bildungsprozess, der aussieht wie Lernen, weil der Witz ist, dass was am Ende rauskommt,
+
+01:20:51.240 --> 01:20:56.200
+funktioniert tatsächlich. Also je nachdem, ob die Architektur angemessen ist oder nicht,
+
+01:20:56.200 --> 01:21:01.880
+kann man ein Netzwerk programmieren. Ich gebe dem Netzwerk zum Beispiel ein Bild und es kann mir
+
+01:21:01.880 --> 01:21:06.800
+genau sagen, was auf dem Bild drauf ist, mit setzen zum Beispiel. Der Input ist ein Bild,
+
+01:21:06.800 --> 01:21:15.480
+also ein JPEG als Input und als Output gibt es mir eine Zeichenkette, einen Satz, genauso wie das
+
+01:21:15.480 --> 01:21:20.120
+Ding da vorhin mit mir geredet hat in diesem Rollenspiel. Das redet mit einem, das kann sagen,
+
+01:21:20.120 --> 01:21:24.080
+das ist da und da sieht man auf dem Bild einen Hund mit einer Frisbee und im Hintergrund ist
+
+01:21:24.080 --> 01:21:30.280
+ein Mädchen auf einem Fahrrad. Das geht und das hat nichts mit Intelligenz zu tun, sondern was die
+
+01:21:30.280 --> 01:21:37.120
+da lernen, ist Korrelation und was sie nicht lernen, ist Kausalität und ich habe jetzt in
+
+01:21:37.120 --> 01:21:40.760
+der letzten Zeit immer noch mal ein bisschen darüber nachgedacht, über Lernen und Verstehen
+
+01:21:40.760 --> 01:21:47.680
+und was da jetzt der Unterschied ist und ich bin mit ein paar interessanten Gedanken rausgekommen
+
+01:21:47.680 --> 01:21:50.640
+aus diesen Sachen. Ich habe mir noch mal ein paar Interviews mit Joscha Bach reingezogen und noch
+
+01:21:50.640 --> 01:21:57.960
+ein paar anderen Vögeln und eine interessante Formulierung war, also erstmal klar, meiner
+
+01:21:57.960 --> 01:22:02.040
+Meinung nach ist das, wenn man verstanden hat etwas, wirklich verstanden und nicht nur gelernt,
+
+01:22:02.040 --> 01:22:08.040
+dann hat man die kausalen Prozesse bis ins kleinste nachvollziehen können. Man hat sozusagen die
+
+01:22:08.040 --> 01:22:12.800
+Kausalität der Sache verstanden, nicht die Korrelation. Lernen ist sozusagen Korrelation,
+
+01:22:12.800 --> 01:22:19.600
+Verstehen ist Kausalität, wenn man erklären kann, warum etwas so ist, nicht nur, dass es so ist.
+
+01:22:19.600 --> 01:22:28.320
+Und eine alternative Denkweise dafür ist, das hat Joscha Bach auch gesagt, das fand ich richtig
+
+01:22:28.320 --> 01:22:36.040
+geil, er hat gesagt, Verstehen tut man etwas nur, wenn man die Domäne, die man da hat, auf einen
+
+01:22:36.040 --> 01:22:44.440
+mathematischen Formulismus abbilden kann, in dem man dann alles ausrechnen kann bzw. wenn man es
+
+01:22:44.440 --> 01:22:48.640
+programmieren kann und das fand ich war ein geiler Spruch, weil ich kann mich noch genau
+
+01:22:48.640 --> 01:22:52.720
+daran erinnern an meine linearer Algebravorlesung und der Prof hat gesagt, hier das mit dem Gauss-Verfahren,
+
+01:22:52.720 --> 01:22:59.240
+wissen Sie, programmieren Sie sich doch einfach mal ein Gauss-Verfahren selber. Sie kriegen eine
+
+01:22:59.240 --> 01:23:03.760
+Matrix und sollen mal das inverse bilden oder so. Einfach mal machen. Und dann hat er gesagt, wenn
+
+01:23:03.760 --> 01:23:07.840
+man das gemacht hat, dann hat man es wirklich verstanden. Und der Witz ist, im Nachhinein würde
+
+01:23:07.840 --> 01:23:12.360
+ich sagen, das trifft auf alles zu. Man kann von sich selber behaupten, dass man es wirklich
+
+01:23:12.360 --> 01:23:17.800
+verstanden hat, wenn man es auch programmieren könnte und sonst nicht. Und wenn man länger
+
+01:23:17.800 --> 01:23:21.760
+darüber nachdenkt, trifft das auf alles zu. Also auch auf so Sachen, die jetzt hier draußen
+
+01:23:21.760 --> 01:23:27.960
+funktionieren, die jetzt nichts mit Bilddaten oder Messungen oder so zu tun haben. Einfache,
+
+01:23:27.960 --> 01:23:32.640
+in der Datenbank-Sprache würde man End-zu-End-Beziehungen sagen und so. Kausalitäten,
+
+01:23:32.640 --> 01:23:39.120
+irgendwie Abhängigkeiten. Wenn man das programmieren kann, wenn man sagen wir mal in C++ die
+
+01:23:39.120 --> 01:23:42.360
+Klassen entsprechend hinschreiben kann, wenn man das verstanden hat, wie das funktioniert,
+
+01:23:42.360 --> 01:23:47.240
+dann hat man auch das System selbst verstanden. Und das ist im Moment nicht das, was die KI macht.
+
+01:23:47.720 --> 01:23:52.680
+Die KI kann nur Korrelationen lernen. Und den Unterschied sieht man sofort. Wenn man dieses
+
+01:23:52.680 --> 01:23:58.880
+GPT-3 zum Beispiel nach Rechenaufgaben fragt, dann gibt es einem bei einfachen Multiplikationen
+
+01:23:58.880 --> 01:24:04.040
+noch korrekte Antworten, weil die irgendwo in dem Text mal stehen. Wenn man aber fast vierstellige
+
+01:24:04.040 --> 01:24:09.560
+Multiplikationen macht, dann hat es fast eine, keine Ahnung, zehn oder zwanzigprozentige Genauigkeit,
+
+01:24:09.560 --> 01:24:15.120
+das noch auszurechnen. Einfach nur, weil es Text gelernt hat, in dem das irgendwo drin steht. Und
+
+01:24:15.120 --> 01:24:18.000
+kompliziertere Fragen kann man gar nicht stellen. Also Fragen, die Verständnis erfordern. Zum
+
+01:24:18.000 --> 01:24:33.920
+Beispiel wenn man GPT-3 eine Zeichenkette hinschreibt, die jetzt sagen wir mal 1578398378 lautet und man
+
+01:24:33.920 --> 01:24:40.080
+sagt, GPT-3 kannst du mir die mal umdrehen und in anderer Reihenfolge hinschreiben. Das kann GPT-3
+
+01:24:40.080 --> 01:24:44.840
+dann nicht. Da kommt dann nur noch Schrott raus. Weil das sozusagen eine konkrete Anwendung ist,
+
+01:24:44.840 --> 01:24:52.040
+wo GPT-3 verstehen muss, was das bedeutet. Das ist nicht einfach nur Text, auf den GPT-3 eine
+
+01:24:52.040 --> 01:24:57.120
+Antwort kennt, weil GPT-3 einfach alle Antworten der Welt auswendig gelernt hat und einen dann die
+
+01:24:57.120 --> 01:25:02.000
+wahrscheinlichste ausspuckt. Nee, nee. Das ist etwas, was GPT-3 nicht kann. Es macht aber den
+
+01:25:02.000 --> 01:25:06.840
+Eindruck, als könnte es das. Und wenn ihr euch mal ein bisschen reinzieht, was die Leute so darüber
+
+01:25:06.840 --> 01:25:11.600
+berichten und es gibt unendlich viele YouTube Videos darüber, wo wirklich Leute total ausrasten
+
+01:25:11.600 --> 01:25:15.680
+und sagen, das ist jetzt hier das nächste Skynet und wir haben Angst davor, das ist so super schlau
+
+01:25:15.680 --> 01:25:21.880
+schon, viel zu krass und wir können es überhaupt nicht verstehen. Da sieht man auf jeden Fall,
+
+01:25:21.880 --> 01:25:25.280
+dass natürlich das überhaupt nicht verstanden wurde, wie das ist mit der Korrelation und der
+
+01:25:25.280 --> 01:25:33.920
+Kausalität. Ich glaube, dass man erst davon reden kann, dass GPT-3 was verstanden hat, wenn es selber
+
+01:25:33.920 --> 01:25:40.040
+programmieren können, ist vielleicht das falsche Wort, weil das kann es nämlich auch. Es gibt
+
+01:25:40.040 --> 01:25:46.520
+Anwendungen von GPT-3, wo man sagt, programmieren wir mal eine Oberfläche, eine App, die macht das
+
+01:25:46.520 --> 01:25:50.120
+und das. Also die hat einen Button, die macht das und das und dann, wenn man da drauf drückt,
+
+01:25:50.120 --> 01:25:54.480
+dann soll das und das passieren und so. Das kann GPT-3 auch. Er kann einem den Quelltext rausgeben,
+
+01:25:54.480 --> 01:26:01.920
+zum Beispiel in Java oder so. Fertig hingeschrieben. Das geht. Das ist auch krass, was es kann. Das hat
+
+01:26:01.920 --> 01:26:06.440
+trotzdem nichts mit Intelligenz zu tun. Das hat sozusagen nur was mit auswendig gelernt zu tun und
+
+01:26:06.440 --> 01:26:14.000
+gewissermaßen die Korrelation von Worten und deren Bedeutung in Anführungsstrichen, weil die echte
+
+01:26:14.000 --> 01:26:20.920
+Bedeutung sozusagen die begreift GPT-3 nicht. Es hat nur sozusagen eine Approximation dazu. So und
+
+01:26:20.920 --> 01:26:26.520
+jetzt aber mal ein Echt. Was ist bei Deep Learning das Problem? Naja, ich habe mir ja hier, ich habe
+
+01:26:26.520 --> 01:26:35.080
+mir extra noch mal aufgeschrieben. Stellt euch mal vor, ihr habt jetzt mal folgenden Task. Ich
+
+01:26:35.080 --> 01:26:41.280
+glaube, die allerersten richtigen Anwendungen von Deep Learning, die sahen so aus. Ihr kriegt jetzt
+
+01:26:41.280 --> 01:26:50.920
+irgendwie, was weiß ich, ein handgeschriebenes Alphabet oder handgeschriebene Worte. Arbeits-
+
+01:26:50.920 --> 01:27:00.920
+fetisch. Sowas. Und dieses Bild, sagen wir mal nicht nur dieses Bild, sondern diese einzelnen
+
+01:27:00.920 --> 01:27:08.480
+Buchstaben, die gibt ihr jetzt einem Menschen und der soll sagen, was sind das für Buchstaben. Dann
+
+01:27:08.480 --> 01:27:13.360
+würde der wahrscheinlich mit einer gewissen Genauigkeit, weil meine Handschrift ist ja eklig
+
+01:27:13.360 --> 01:27:18.280
+und so, mit einer gewissen Genauigkeit erkennen, was diese Zeichen hier bedeuten. Und er könnte
+
+01:27:18.280 --> 01:27:25.160
+das übersetzen in echten ASCII Code zum Beispiel. Das ist so eine Form von Automatisierung, um die es
+
+01:27:25.160 --> 01:27:31.840
+am Anfang ging. Kann jemand handgeschriebenes Zeug automatisiert digitalisieren? Und was man
+
+01:27:31.840 --> 01:27:37.120
+dazu machen muss, ist zum Beispiel noch ein einfaches Problem. Das war glaube ich so wirklich mit
+
+01:27:37.120 --> 01:27:43.320
+die erste Anwendung. Zahlen. Handgeschriebene Ziffern von 0 bis 9. Oder ich weiß gar nicht,
+
+01:27:43.320 --> 01:27:51.720
+ob die 0 mit dabei war. Kann schon sein 0, 1, 2 und so weiter bis 9. So und jetzt ist die Frage,
+
+01:27:51.720 --> 01:27:58.080
+wie macht man das? Also da gab es schon lange Machine Learning Algorithmen, die versucht haben,
+
+01:27:58.080 --> 01:28:02.520
+das zu klären und das ordentlich zu machen. Und die hatten auch eine relativ hohe Genauigkeit
+
+01:28:02.520 --> 01:28:08.360
+irgendwann, aber die waren halt nicht so nice für ganz spezielle Fälle. Und Deep Learning hat
+
+01:28:08.360 --> 01:28:12.640
+dann aber tatsächlich richtig geklärt. Ich glaube, Deep Learning kann so handgeschriebene
+
+01:28:12.640 --> 01:28:18.000
+Ziffern mit einer Wahrscheinlichkeit von, weiß nicht, mit einer Genauigkeit von 99 Prozent
+
+01:28:18.000 --> 01:28:23.040
+oder so zuordnen. Und ihr müsst euch wirklich vorstellen, was da passiert ist, ihr kriegt,
+
+01:28:23.040 --> 01:28:30.760
+die Software kriegt ein Bild. Also sowas hier, sagen wir mal 64 mal 64 Pixel. Und hier ist jetzt
+
+01:28:30.760 --> 01:28:36.440
+mal so ein Symbol drin. So und meistens sind handgeschriebene Bilder ja auch, wenn man da
+
+01:28:36.440 --> 01:28:41.560
+reinzoomt, die sind halt ein bisschen dicker. Das heißt, die sind wirklich so schraffuer und
+
+01:28:41.560 --> 01:28:44.960
+irgendwie ein bisschen räudig und alles ein bisschen verpixelt und so. Richtig scheiße.
+
+01:28:44.960 --> 01:28:51.040
+Und die KI sozusagen, die muss jetzt entscheiden, ist das eine 4 oder ist das was anderes? Und also
+
+01:28:51.040 --> 01:28:55.080
+wie gesagt, ihr kriegt sozusagen den Input, den könnt ihr euch vorstellen, der ist zehndimensional.
+
+01:28:55.080 --> 01:29:03.320
+Oder, nee warte, der ist 64 mal 64 dimensional, sagen wir mal 64 Quadrat. So viele Einträge hat
+
+01:29:03.320 --> 01:29:08.360
+das. Und ihr könnt euch das wirklich so vorstellen, wieder wie bei dem CT auch. Jeder Pixelwert hat
+
+01:29:08.360 --> 01:29:16.760
+einen Grauwert und wir haben halt 64 Quadrat davon, viele. 64 in die Richtung, 64 in die
+
+01:29:16.760 --> 01:29:20.240
+Richtung. Und die werden genauso sortiert. Die erste Zeile, zweite Zeile, dritte Zeile,
+
+01:29:20.240 --> 01:29:27.120
+alle nacheinander geschrieben. Das ist der Inputvektor. Jetzt passiert hier etwas und
+
+01:29:27.120 --> 01:29:37.400
+hinten raus kommt ein Output. Also sagen wir mal, der letzte Layer, der lautet 1, 2, 3 bis 9. Und
+
+01:29:37.400 --> 01:29:45.800
+dann entscheidet das Deep Learning, okay, es kommt genau eine Zahl raus. In dem Fall 4. Und dieser
+
+01:29:45.800 --> 01:29:50.840
+Prozess, der ist jetzt mal wirklich richtig, eigentlich wenn ich so länger darüber nachdenke,
+
+01:29:50.840 --> 01:29:56.600
+erstmal ist die Idee ziemlich doof. Die Idee ist extrem doof. Und zwar, ihr habt jetzt hier wirklich
+
+01:29:56.600 --> 01:30:02.840
+diese Zahlen. Das sind jetzt Grauwerte. Sagen wir mal, jeder Pixel hat einen Grauwert von 0 bis
+
+01:30:02.840 --> 01:30:13.280
+255 oder so. Ganz oldschool, mal so ein Bild. 64 Quadrat, viele Pixel. So und dann passiert
+
+01:30:13.280 --> 01:30:20.040
+folgendes. Diese Blackbox hier, die hier, die besteht aus vielen solchen Schichten und ihr könnt
+
+01:30:20.040 --> 01:30:24.200
+euch das wirklich so vorstellen, ihr kriegt jetzt hier den Input. Hier sind jetzt die ganzen,
+
+01:30:24.200 --> 01:30:32.840
+die ganzen 64 Quadrat vielen Pixel drin. Die nennen wir jetzt mal, ihr habt mir ja auch
+
+01:30:32.840 --> 01:30:40.240
+eine Notation abgeschrieben, die nenne ich mal A0i. Das ist sozusagen der Vektor A0,
+
+01:30:40.240 --> 01:30:47.840
+die erste Schicht. Und da wird jetzt jeder einzelne Punkt hier abgebildet und zwar mit
+
+01:30:47.840 --> 01:30:56.840
+einer linearen Abbildung auf einen weiteren Layer, der nochmal, also in dem Fall bei Pixel,
+
+01:30:56.840 --> 01:31:02.720
+bei Bilderkennung, beim CNN nennt man das, convolutional neural network, da haben die
+
+01:31:02.720 --> 01:31:08.760
+tatsächlich dieselbe Dimension, glaube ich sogar. Also die werden abgebildet auf eine weitere Ebene
+
+01:31:08.760 --> 01:31:16.880
+und die heißen sozusagen dann die A1s. Und der Zusammenhang zwischen diesen beiden, der geht über
+
+01:31:16.880 --> 01:31:24.200
+eine Multiplikation mit einem Gewicht V. Und jetzt muss man sich überlegen, dieses V hat sozusagen
+
+01:31:24.200 --> 01:31:31.080
+von jedem Pixel zu jedem anderen Bild, zu jedem anderen Hidden Layer hier drin, zu jedem anderen
+
+01:31:31.080 --> 01:31:39.440
+Knoten einfach nur eine Multiplikation und dieses V ist eine Matrix. Das ist dann einfach so was wie
+
+01:31:39.440 --> 01:31:46.800
+W, I, J oder so. Und da kann man dann auch noch sagen wir mal hier ein K dranbringen als Index,
+
+01:31:46.800 --> 01:31:52.400
+weil das sozusagen immer weitergeht. Hier geht das immer weiter. Jeder hat mit jedem eine Verknüpfung.
+
+01:31:52.400 --> 01:31:58.280
+Alle diese Knoten sind mit jedem Knoten in der nächsten Ebene verbunden. Und jede dieser
+
+01:31:58.280 --> 01:32:04.080
+Verbindungen kann man durchnummerieren mit so einem V. Und am Ende kann man sozusagen immer schreiben,
+
+01:32:04.080 --> 01:32:08.960
+von der einen in die nächste Hierarchie ist es einfach nur eine Matrix-Multiplikation. Von A,
+
+01:32:08.960 --> 01:32:19.640
+was haben wir hier? K mit W, K. Sowas. Und die erste Idee, die allererste für so einen neuronalen
+
+01:32:19.640 --> 01:32:25.400
+Abbildungsprozess, weil das ist die Idee sozusagen, das wurde einfach geklaut vom Gehirn, da wurde
+
+01:32:25.400 --> 01:32:29.560
+sozusagen draufgeguckt und gesehen, ah okay, da sind einen Haufen Verbindungen und die feuern und
+
+01:32:29.560 --> 01:32:33.000
+die nicht feuern und die sind alle miteinander verknüpft. Und die sind manchmal stärker und
+
+01:32:33.720 --> 01:32:39.400
+man weiß aber nicht wieso und warum und so. Das wurde beobachtet. Also hat Frank Rosenblatt
+
+01:32:39.400 --> 01:32:43.560
+damals das Paper geschrieben zu dem Perzeptron und ich glaube, da waren das direkt solche Sachen.
+
+01:32:43.560 --> 01:32:50.800
+Da waren das einfach nur Multiplikationen mit Zahlen. Und das Ergebnisding hier war dann so ein
+
+01:32:50.800 --> 01:32:56.800
+Brett. Da kamen andere Zahlen raus. Und die Idee ist, am Ende, typischerweise nach so, was weiß ich,
+
+01:32:56.800 --> 01:33:02.040
+vier Layers oder so, nach vier solchen Multiplikationen kommt man am Ende hierbei
+
+01:33:02.040 --> 01:33:07.880
+raus, wo dann wirklich der letzte Layer, der 1, der 2, der 3 und der 9 entspricht und hier
+
+01:33:07.880 --> 01:33:13.120
+drin stehen die Wahrscheinlichkeiten, die man angibt. Und was dann gemacht wird, ist im Wesentlichen,
+
+01:33:13.120 --> 01:33:17.680
+es wird die größte Zahl genommen. Da, wo die größte Zahl drin steht, das ist das, was der
+
+01:33:17.680 --> 01:33:26.040
+Output liefert. So und der Witz ist jetzt, weil das alles Matrix-Multiplikationen waren damals,
+
+01:33:26.040 --> 01:33:32.520
+konnte man sozusagen das rück, man konnte das zurückverfolgen. Man konnte sehen, okay,
+
+01:33:32.520 --> 01:33:37.600
+ich habe hier eine 4 reingesteckt, sagen wir mal, hier kommt eine 3 raus. Ich will aber,
+
+01:33:37.600 --> 01:33:43.840
+dass hier eine 4 rauskommt. Also muss ich mir überlegen, was hat jetzt die 3 verursacht? Und
+
+01:33:43.840 --> 01:33:47.680
+dann geht man genau den Schritt zurück, man guckt sich die 3 an. Die 3, woraus ist sie
+
+01:33:47.680 --> 01:33:54.000
+zusammengesetzt? Naja, die ist zusammengesetzt aus allen Verknüpfungen des Layers, die davor ist.
+
+01:33:54.000 --> 01:34:01.720
+Das heißt, man kann jede einzelne Verknüpfung zurückverfolgen, genauso wie bei dem CT-Problem
+
+01:34:01.720 --> 01:34:06.160
+jeden einzelnen Strahl zurückverfolgbar ist, wenn man das will. Man kann sich den jeden
+
+01:34:06.160 --> 01:34:12.040
+einzelnen angucken. Denn die Gewichtungen, die sind bekannt. Die hat man irgendwo stehen. Die
+
+01:34:12.040 --> 01:34:16.080
+sind sozusagen, diese Multiplikationen, diese Matrizen, die stehen irgendwo, die hat man da.
+
+01:34:16.080 --> 01:34:21.720
+Man kann die nachgucken. Das heißt, man kann jeden einzelnen Schritt zurückverfolgen. Und ihr könnt
+
+01:34:21.720 --> 01:34:26.920
+euch jetzt ein bisschen vorstellen, naja, wenn man das jetzt macht, man geht bis zum vorletzten Layer,
+
+01:34:26.920 --> 01:34:32.360
+dann kann man natürlich von jedem einzelnen Punkt im vorletzten Layer in den Layer davor auch wieder
+
+01:34:32.360 --> 01:34:38.640
+zurückgehen. Das ist einfach nur extrem kompliziert, weil es so viel ist, aber die Mathematik dahinter
+
+01:34:38.640 --> 01:34:43.320
+ist sehr einfach. Das ist nur lineare Algebra und Matrix-Multiplikation. Genau das, was ich
+
+01:34:43.320 --> 01:34:48.360
+vorhin auch schon gesagt habe, also wirklich W mal A. Das ist eine Matrix-Multiplikation mit einem
+
+01:34:48.360 --> 01:34:53.600
+Vektor. Die kann man zurückverfolgen auf dieselbe, auf eine ähnliche Art und Weise, wie ich das bei
+
+01:34:53.600 --> 01:34:58.560
+dem CT-Problem euch auch erklärt habe. Dass wenn man die Vorwärtsrichtung kennt, dass man dann
+
+01:34:58.560 --> 01:35:05.520
+sich über die Rückwärtsrichtung Gedanken machen kann. So, das Problem war, dass bei dem Perzeptron
+
+01:35:05.520 --> 01:35:13.040
+hier diese Verbindung angenommen wurde, dass es direkt so eine Multiplikation ist. Straight. Das
+
+01:35:13.040 --> 01:35:17.360
+hat aber nicht gereicht. Das hat deswegen nicht gereicht, weil das zu numerischen Instabilitäten
+
+01:35:17.360 --> 01:35:23.320
+geführt hat. Man kann sich sozusagen vorstellen, Zahlen, die besonders groß sind, da läuft Float
+
+01:35:23.320 --> 01:35:28.400
+oder Double oder was auch immer ihr für eine Genauigkeit habt, sofort über. Andere Zahlen werden
+
+01:35:28.400 --> 01:35:32.320
+sozusagen unterdrückt und verschwinden in der Kommastelle, weil Float-Zahlen werden ja mit
+
+01:35:32.320 --> 01:35:37.200
+Mantisse und Exponenten abgespeichert. Das heißt, wenn da zu viele Stellen waren, wenn ihr sozusagen
+
+01:35:37.200 --> 01:35:56.920
+auf 10 hoch 32, 3,21687, wenn ihr da noch 3,5 mal 10 hoch 2 drauf addiert in Float, dann ändert
+
+01:35:56.920 --> 01:36:05.320
+das gar nichts. Dann kommt wieder genau 3,21687 mal 10 hoch 32 raus. Das ändert gar nichts mehr.
+
+01:36:05.320 --> 01:36:11.440
+Und dieses Problem, das hat das Perzeptron abkacken lassen. Das war die erste Idee. Also was hat man
+
+01:36:11.440 --> 01:36:18.440
+gemacht? Man hat sich überlegt, na gut, ich brauche etwas, was diese riesen Zahlen monoton
+
+01:36:18.440 --> 01:36:23.200
+abbildet, so dass keine Information verloren geht, aber so, dass ich immer noch in meiner
+
+01:36:23.200 --> 01:36:27.000
+Bandbreite von meiner Genauigkeit bleiben kann. Und was man dann gemacht hat, ist, man hat folgende
+
+01:36:27.000 --> 01:36:36.080
+Funktionen sich überlegt, einen sogenannten Sigmoid. Das ist immer eine Funktion, die sowas macht.
+
+01:36:36.080 --> 01:36:44.760
+Die geht sozusagen von Minus 1, also die konvergiert für links gegen Minus 1 und für rechts gegen 1,
+
+01:36:44.760 --> 01:36:49.600
+trifft sich in der Mitte und sieht so aus. Jetzt mal ganz blöd geschrieben. So ein einfaches
+
+01:36:49.600 --> 01:36:56.840
+Beispiel wäre der Thangans-Hyperbolicus. Der macht sowas. Der kommt aus Minus 1 unendlich und
+
+01:36:56.840 --> 01:37:01.560
+geht für unendlich gegen 1. Ja, es gibt tausend andere Möglichkeiten, sich das zu überlegen. Was
+
+01:37:01.560 --> 01:37:06.840
+der halt macht, ist, der hat einen stetigen Verlauf zwischen diesen beiden Grenzwerten und
+
+01:37:06.840 --> 01:37:14.960
+der ist monoton. Das ist ganz wichtig. Das heißt, die Umkehrung davon ist eindeutig. Der ist
+
+01:37:14.960 --> 01:37:19.160
+injektiv. Auch wenn das jetzt vielleicht nicht so wirkt auf euch, aber der ist monoton. Der wird
+
+01:37:19.160 --> 01:37:24.800
+immer größer. Bloß, dass man sozusagen für immer höhere Zahlen fast keine Unterschiede mehr sehen
+
+01:37:24.800 --> 01:37:28.160
+kann. Die sind fast nicht mehr messbar. Damit hat man das Problem geklärt. Das Ding ist,
+
+01:37:28.160 --> 01:37:32.520
+dass man am Ende sozusagen Folgendes hat. Man hat nicht mehr diese Matrix-Multiplikation für
+
+01:37:32.520 --> 01:37:40.840
+jeden Layer, sondern man hat den Sigmoid oder sagen wir mal den Thangans-Hyperbolicus von W, K,
+
+01:37:40.840 --> 01:37:49.720
+A, K. Sowas. Und das ist jetzt ein Vektor und das ist eine Matrix. Und dann hat man auch noch hier
+
+01:37:49.720 --> 01:37:56.520
+einen konstanten Vektor B drauf addiert. Den nennt man so Bias. Der kontrolliert so ein bisschen die
+
+01:37:56.520 --> 01:38:04.200
+Sreshulz. Das heißt, das könnt ihr euch so vorstellen wie ein Neuron, das permanent Signale
+
+01:38:04.200 --> 01:38:09.760
+kriegt. Einfach weil das sozusagen von der Architektur so gegeben ist, dass es permanent
+
+01:38:09.760 --> 01:38:13.440
+Signale kriegt. Das soll aber nicht unbedingt feuern. Das soll erst später bei einem bestimmten
+
+01:38:13.440 --> 01:38:18.640
+Sreshulz, sobald irgendein Level überschritten wird, feuern. Und das kann man mit diesem B hier
+
+01:38:18.640 --> 01:38:22.600
+kontrollieren, weil man sozusagen ja damit den Sigmoid nach links und nach rechts verschieben kann.
+
+01:38:22.600 --> 01:38:26.640
+So könnt ihr euch das vorstellen, diese Transformation. Das macht das ja. Also wenn man
+
+01:38:26.640 --> 01:38:35.280
+irgendeine Funktion, ich muss mal ein neues Blatt anfangen. Hier muss ich save machen und dann so.
+
+01:38:35.280 --> 01:38:52.760
+Und dann mache ich open. Also ihr müsst euch vorstellen, jede Funktion, so f von x, wenn ihr f von x minus a
+
+01:38:52.760 --> 01:38:58.920
+macht und a ist eine positive Zahl, dann ist das einfach nur nach rechts verschoben. Diese Funktion,
+
+01:38:58.920 --> 01:39:07.280
+die hier. Die hat einfach nur, dieses Ding hier, diese Abbildung, x wird auf x minus a abgebildet.
+
+01:39:07.280 --> 01:39:13.760
+Die verschiebt nach rechts, wenn a positiv ist und nach links, wenn a negativ ist. Und so ist das mit
+
+01:39:13.760 --> 01:39:21.720
+dem mit dem Sigmoid von w a plus b auch. Bloß, dass das hier ein Vektor ist, das spielt aber keine
+
+01:39:21.720 --> 01:39:25.680
+Rolle. Das gilt ja dann für jede Komponente. Das heißt, ihr könnt für jede Komponente einzeln
+
+01:39:25.680 --> 01:39:32.200
+einstellen, dass ihr eine gewisse Bias haben wollt. So nennt man das dann auch in der Literatur. Das ist
+
+01:39:32.200 --> 01:39:37.240
+sozusagen einfach nur ein Aktivierungslevel für das Neuron. Ab wann feuert das? Und das ist
+
+01:39:37.240 --> 01:39:44.000
+erstaunlich, weil mehr braucht man nicht. Man hat jetzt sozusagen diese convolutional networks. Man
+
+01:39:44.000 --> 01:39:49.880
+hat jetzt wirklich viele solche Layer, die hintereinander geklebt sind. Ich denke mal,
+
+01:39:49.880 --> 01:39:54.840
+vier werden schon reichen wahrscheinlich. Wenn ihr jetzt mal, was weiß ich, ein 64x64 Bild hast.
+
+01:39:54.840 --> 01:39:59.720
+Und dann kommt am Ende wirklich nur noch so ein Zack, Zack, Zack, 1, 2, 3, 4, 5 bis 9. Und dann
+
+01:39:59.720 --> 01:40:04.680
+kommt eine Zahl raus und das ist der Output deines Layers. Ihr tut also ein Bild rein und hinten
+
+01:40:04.680 --> 01:40:11.000
+spuckt euch der Output einfach nur 1, 2, 3, 4, 5, 6 bis 9 raus. Das ist sozusagen der Image
+
+01:40:11.000 --> 01:40:15.920
+Classifier, einer der ersten einfachen trivialen Anwendungen, die es gab. Und die ist bis heute
+
+01:40:15.920 --> 01:40:20.200
+sozusagen völlig klar, wie die läuft. Aber an der kann man sich das erklären. Weil, was jetzt
+
+01:40:20.200 --> 01:40:29.360
+passiert ist, ihr könnt euch überlegen, hier in diesem letzten Step, da stehen jetzt Wahrscheinlichkeiten
+
+01:40:29.360 --> 01:40:37.920
+drin. Also das Netzwerk gibt eine Approximation an, mit welcher Wahrscheinlichkeit diese Ziffer
+
+01:40:37.920 --> 01:40:52.240
+ist. Also hier steht jetzt sowas wie 0,1, 0,5, 0,07, 0,28 und so weiter. Und die sind typischerweise
+
+01:40:52.240 --> 01:40:57.920
+über so einen Softmax so reguliert, dass die wirklich in Summe 1 ergeben. Der Witz ist sozusagen,
+
+01:40:57.920 --> 01:41:05.000
+ja, ihr habt sozusagen das Ding hier und ihr kriegt einen Output. Und ihr wisst aber, weil ihr
+
+01:41:05.000 --> 01:41:09.640
+gelabelte Daten habt, das heißt ihr wisst, ihr steckt eine 4 rein. Das wisst ihr schon, das heißt ihr
+
+01:41:09.640 --> 01:41:16.960
+erwartet hier hinten auch eine 4. Wenn hier keine 4 rauskommt, sondern eine 3, dann könnt ihr ja,
+
+01:41:16.960 --> 01:41:24.800
+weil ihr den Schritt zurückverfolgen könnt, euch überlegen, was hat zu dieser 3 geführt. Das könnt
+
+01:41:24.800 --> 01:41:29.840
+ihr euch überlegen. Und ihr könnt vor allem diese ganze Funktion hinschreiben, die Folgendes macht,
+
+01:41:29.840 --> 01:41:34.320
+wenn man sagt, also okay, ich will hier aber, wenn am Ende eine 4 rauskommt, okay, ich will
+
+01:41:34.320 --> 01:41:38.000
+dass hier eine 0 steht, hier eine 0 steht, hier eine 0 steht, hier soll eine 1 stehen, hier eine 0 und so
+
+01:41:38.000 --> 01:41:44.960
+weiter. Das weiß ich ja schon, dass das hier stehen soll, weil ich hier bei der 1, 2, 3, 4 so angefangen
+
+01:41:44.960 --> 01:41:50.040
+habe. Diese Zahlen sollen das hier sein, die sollen eigentlich 0 sein und das soll 1 sein. Diese
+
+01:41:50.040 --> 01:41:58.000
+Information, diese Differenz, die, das ist eine Zahl, die kann ich quantisieren. Das heißt, ich kann
+
+01:41:58.000 --> 01:42:02.880
+sozusagen die Summe bilden, über all diese, über all diese Dinger hier. Also sagen wir mal,
+
+01:42:02.880 --> 01:42:17.680
+ich nenne es jetzt mal, wie nenne ich das? G für Ground Truth minus, minus ja, Approximation. Das
+
+01:42:17.680 --> 01:42:22.920
+mache ich jetzt. Also ich habe jetzt sozusagen das hier und das hier und das hier. So würde ich das
+
+01:42:22.920 --> 01:42:26.040
+ungefähr hinschreiben. Das wäre jetzt mal so eine ganz einfache Kostenfunktion, da mache ich
+
+01:42:26.040 --> 01:42:29.960
+noch ein Quadrat dran zur Vorsicht selber, einfach nur, weil ja manchmal hat man bestimmte
+
+01:42:29.960 --> 01:42:36.960
+Ergebnissachen, wo hier vielleicht, ist auch egal. Wenn ich das Ding hier minimiere, das erinnert
+
+01:42:36.960 --> 01:42:53.880
+ein stark an diese Minimierung von AX minus P. Ich glaube, ich habe gerade voll gefehlt, oder? Ja,
+
+01:42:53.920 --> 01:43:04.520
+der hat es schon erkannt. Ich habe es auch gerade erkannt. Nicht schlecht. Ja, das ist ja klar. So,
+
+01:43:04.520 --> 01:43:12.080
+was habe ich hier erzählt? Naja, ich habe eigentlich nur erzählt, wie es ist. Ich habe erklärt,
+
+01:43:12.080 --> 01:43:18.000
+was habe ich denn erklärt? Könnt ihr mir mal sagen, wo ich stehen geblieben bin?
+
+01:43:18.000 --> 01:43:37.680
+Wenn nicht, ist es auch nicht so schlimm, dann gehe ich auf jeden Fall erstmal auf Klo. Das
+
+01:43:37.680 --> 01:43:43.600
+muss sowieso sein, ich brauche ein neues Bier auch. Ihr sagt mir mal, wo ich stehen geblieben bin und
+
+01:43:43.600 --> 01:43:46.880
+dann fühle ich das noch mal kurz vor. Ich habe zum Glück die Dinger abgespeichert.
+
+01:43:46.880 --> 01:43:58.480
+Das ist echt interessant, da muss ich mich an diesen Prozess hier gewöhnen. Ja,
+
+01:43:58.480 --> 01:44:02.280
+noch auf dem alten Blatt, okay, ist kein Ding. Ich hole mir erstmal ein Bier,
+
+01:44:02.280 --> 01:44:06.720
+aber jetzt mache ich erstmal Mucke an. So.
+
+01:48:02.280 --> 01:48:31.280
+Also ihr Boys, jetzt mal ohne Scheiß. Ich habe es doch jetzt sehr voll verrissen.
+
+01:48:31.280 --> 01:48:42.840
+Den Kram, den hatten wir noch. Den Arbeitsfetisch, da wart ihr schon weg. Ist das so?
+
+01:49:01.280 --> 01:49:16.760
+Na, okay. Gut, dann mache ich das einfach hier oben hin. Also, noch mal. Die Idee ist,
+
+01:49:16.760 --> 01:49:25.760
+sozusagen, ich gebe euch ein Input, nämlich ein handgeschriebenes Bild mit einer Vier
+
+01:49:25.760 --> 01:49:31.600
+drin und ihr wollt jetzt sozusagen das automatisieren. Ihr wollt nicht eine
+
+01:49:31.600 --> 01:49:35.320
+Menschen hinsetzen, der das klärt, sondern es muss klar sein, es muss sozusagen irgendwie
+
+01:49:35.320 --> 01:49:40.960
+automatisiert werden und die Idee ist jetzt wirklich, ihr habt dann dieses 64 Quadrat Bild,
+
+01:49:40.960 --> 01:49:51.560
+das hat jetzt Grauwerte drin. Jeder Pixel sozusagen und irgendwo hier wird es dann grün. Dann steht
+
+01:49:51.560 --> 01:50:01.200
+hier sozusagen die Vier und dann, wo haben wir hier das Weiß? Hier. So, so, so, so. Ihr habt
+
+01:50:01.200 --> 01:50:05.360
+dann sozusagen die Vier hier drin als Pixelinformation und die Frage ist jetzt irgendwie,
+
+01:50:05.360 --> 01:50:09.720
+wie kann man das abbilden? Und die Idee ist jetzt einfach, naja, was ist denn, wenn wir
+
+01:50:09.720 --> 01:50:14.360
+das so in dieses Layer packen? Wir packen das sozusagen hier rein und wir haben jetzt hier
+
+01:50:14.360 --> 01:50:19.840
+wirklich 64 Quadrat Fiele. Also das geht an mit 1, 2, 3, 4 und endet bei 64 Quadrat.
+
+01:50:19.840 --> 01:50:26.240
+64 Quadrat Fiele. Das ist sozusagen der Vektor, der wird einfach so,
+
+01:50:26.240 --> 01:50:30.440
+zeilenweise wird das Bild ausgelesen und hier reingepackt. Und die Idee ist jetzt,
+
+01:50:30.440 --> 01:50:35.880
+kann man das abbilden in solche Multiplikationen? Und die Antwort ist tatsächlich, ja, das kann man
+
+01:50:35.880 --> 01:50:43.320
+und es ist die einfachste Form gewesen. Das nennt man CNN, Convolution Neural Network. Die machen
+
+01:50:43.320 --> 01:50:47.440
+genau das. Da steckt man ein Bild rein und hinten raus kommt, am Ende, sagen wir mal,
+
+01:50:47.520 --> 01:50:52.080
+man hat hier so vier solche Layers, die sind alle mit Multiplikationen verknüpft und zwar
+
+01:50:52.080 --> 01:50:58.840
+zu jedem Punkt gibt es zu jedem anderen Punkt im nächsten Layer eine Multiplikation. Das ist
+
+01:50:58.840 --> 01:51:06.120
+ganz wichtig. Ihr kriegt sozusagen aus einem 64 Quadrat krassen Vektor einen anderen 64 Quadrat
+
+01:51:06.120 --> 01:51:11.520
+krassen Vektor und dazwischen die Abbildung, die nennt man halt W, die Weighting Matrix und
+
+01:51:11.520 --> 01:51:18.600
+dann nennt man sozusagen das hier Null, wenn das hier sozusagen der Nullte Vektor ist. Und der hat
+
+01:51:18.600 --> 01:51:23.400
+jetzt sozusagen i Einträge, deswegen könnte man auch so einen Vektorfall drauf machen. Und
+
+01:51:23.400 --> 01:51:28.520
+der hier hat sozusagen die 1 klar und dann geht das immer so weiter. Und am Ende, das ist das
+
+01:51:28.520 --> 01:51:33.160
+Krasse, am Ende kommt sozusagen ein letzter Layer, da steht wirklich die Bedeutung drin. Hier
+
+01:51:33.160 --> 01:51:41.040
+stehen die Wahrscheinlichkeiten drin von 1, 2, 3 bis Nullen. Die Nullen müssen wir noch mitnehmen,
+
+01:51:41.040 --> 01:51:45.400
+wir müssen die Nullen mitnehmen, dann haben wir 10. Also 10 verschiedene Ziffern können wir ja
+
+01:51:45.400 --> 01:51:50.280
+haben. Okay, können wir die Nullen auch nach vorne schreiben, spielt aber keine Rolle. Also das Ding
+
+01:51:50.280 --> 01:51:58.680
+ist, hier stehen jetzt Zahlen drin, also 0,1, 0,05 und so weiter. Und irgendwo bei der 4 müsste jetzt
+
+01:51:58.680 --> 01:52:03.720
+sozusagen irgendwie 0,8 stehen, eine hohe Wahrscheinlichkeit. Und die höchste von denen
+
+01:52:03.720 --> 01:52:13.160
+wird einfach genommen und ausgespuckt als Output. Das ist die Idee. Und diese Idee, die muss man jetzt
+
+01:52:13.160 --> 01:52:19.880
+nehmen und ernsthaft verfolgen. Also man muss sich überlegen, kann ich das irgendwie in einen
+
+01:52:19.880 --> 01:52:25.920
+mathematischen Formalismus stecken? Und die Antwort lautet ja, kann ich. Denn die Idee lautet jetzt,
+
+01:52:25.920 --> 01:52:31.200
+okay, ich habe jetzt hier diesen letzten Vektor. Ich schreibe mal nochmal groß. Hier steht jetzt
+
+01:52:31.200 --> 01:52:43.680
+sozusagen, wir machen es nochmal so, 0,01, 0,3, 0,02, 0,4, was auch immer. Hier stehen jetzt Zahlen
+
+01:52:43.680 --> 01:52:51.240
+drin, 0,001. Manchmal stehen hier auch größere Zahlen drin, das ist egal. Man kann sozusagen,
+
+01:52:51.240 --> 01:52:55.600
+wenn hier jetzt irgendwelche Zahlen stehen, positive, negative, völlig egal, reelle Zahlen,
+
+01:52:55.600 --> 01:53:03.680
+man kann die immer mit der Abbildung, x wird auf, naja, zum Beispiel Tangent Superbolicus x
+
+01:53:03.680 --> 01:53:11.120
+abgebildet. Die Funktion macht nämlich genau das, dass der sozusagen minus eins eins so was
+
+01:53:11.120 --> 01:53:17.080
+abbildet, so eine Kurve hier hinkriegt, damit man sozusagen am Ende, nee, ich glaube, warte mal,
+
+01:53:17.080 --> 01:53:21.480
+das ist ziemlich blöd, das ist, nee, das ist eine blöde Schreibweise. Ich glaube, was geiler ist,
+
+01:53:21.720 --> 01:53:28.240
+ich habe es mir, glaube ich, auch hingeschrieben, ist eins durch e hoch minus x plus eins, genau,
+
+01:53:28.240 --> 01:53:35.760
+die macht das. Für ganz große x wird das Ding nähert sich hier der eins an. Das wird immer
+
+01:53:35.760 --> 01:53:41.600
+einziger und je kleiner die Dinger werden, naja, desto größer wird sozusagen diese Zahl hier
+
+01:53:41.600 --> 01:53:45.480
+unterm Hochstrich und deswegen wird die Zahl immer kleiner. Und wenn man dann irgendwie,
+
+01:53:45.480 --> 01:53:50.640
+ich glaube, die gibt sozusagen von 0 bis 1, gibt die die Referenzen an. Da muss man sich mal
+
+01:53:50.640 --> 01:53:55.640
+überlegen, wie genau die aussieht. Aber so ungefähr wird die aussehen, die macht genau so was,
+
+01:53:55.640 --> 01:54:01.120
+die bildet sozusagen auf 0 und 1 ab, auf dieses Intervall. Und das kann man super gut als
+
+01:54:01.120 --> 01:54:05.920
+Wahrscheinlichkeiten interpretieren, weil man dann sozusagen, wenn man, wenn man jetzt einfach,
+
+01:54:05.920 --> 01:54:13.280
+dieses Ding hier hat e hoch minus x plus eins, also wenn man diese Wahrscheinlichkeiten hier nimmt,
+
+01:54:13.280 --> 01:54:21.200
+wenn man das hier jetzt mal als p identifizierte, p von x, dann kann man sozusagen hier die Summe
+
+01:54:21.200 --> 01:54:28.320
+von p von x durch, ne, wie war das, dann kann man hier sowas machen, man kann, das muss auf
+
+01:54:28.320 --> 01:54:32.240
+eins normiert sein, ja, also die Nummer, die Summe von allen x muss dann sozusagen auch noch auf
+
+01:54:32.240 --> 01:54:37.080
+eins normiert sein, ich denke, das macht das hier gerade. Ja, aber diese Abbildung, die tut das und
+
+01:54:37.080 --> 01:54:40.880
+das Schöne ist sozusagen, man kriegt dann tatsächlich am Ende Abbildungen, Wahrscheinlichkeiten raus,
+
+01:54:40.880 --> 01:54:44.960
+ja, also das heißt, egal, was der letzte Layer macht, wenn der jetzt nur noch 10 Einträge hat,
+
+01:54:44.960 --> 01:54:54.160
+der Betrag sozusagen spielt eine Rolle und das Vorzeichen spielt eine Rolle. Und je positiver
+
+01:54:54.160 --> 01:54:58.520
+und je größer, desto besser. Und das kann man auf Wahrscheinlichkeiten abbilden, das heißt,
+
+01:54:58.520 --> 01:55:03.160
+man kriegt am Ende so ein Ding hier. Egal, wie man das vorher designt hat, das Netzwerk, das kriegt
+
+01:55:03.160 --> 01:55:07.880
+man immer hin, weil es sich um reelle Zahlen handelt. Und dann nimmt man einfach den Größten,
+
+01:55:07.880 --> 01:55:15.240
+man nimmt den Größten und sagt, das ist der Output, ein einziger Output, zum Beispiel die 6 und dann
+
+01:55:15.240 --> 01:55:20.520
+sagt man, Moment, ich habe ja Labeled Data, ich weiß, ich kriege hier eine 4, ich erwarte eine 4,
+
+01:55:20.520 --> 01:55:26.160
+ich kriege aber eine 6 und jetzt kann ich genau jeden einzelnen Punkt zurückverfolgen in meinem
+
+01:55:26.160 --> 01:55:31.800
+Netzwerk. Ich kann sagen, okay, wenn hier jetzt eine 6 ist, wo ist denn die 6 hier? Was hatten die
+
+01:55:31.800 --> 01:55:38.520
+6 verursacht? Und dann kann man sich die 6 angucken und jeden einzelnen Punkt hier zurückverfolgen von
+
+01:55:38.520 --> 01:55:46.040
+der 6. Und das sind jetzt, was weiß ich, wie viele? Wahrscheinlich 10. Nee, wahrscheinlich 64 Quadrat viele.
+
+01:55:46.040 --> 01:55:51.680
+So und jeden einzelnen kann man machen. Man kann sozusagen das alles nachvollziehen und dann kann
+
+01:55:51.680 --> 01:55:56.080
+man genau diesen selben Schritt machen, den der bei der ZT Sache auch ist. Man kann sozusagen
+
+01:55:56.560 --> 01:56:03.960
+diesen Schritt zurückverfolgen. Und wenn man das machen kann, dann kann man das ja auch als Funktion
+
+01:56:03.960 --> 01:56:09.800
+hinschreiben. Man könnte also sozusagen Folgendes machen. Man kann sich überlegen, okay, ich möchte
+
+01:56:09.800 --> 01:56:13.800
+ja eigentlich, dass hier nicht glatt irgendwelche Wahrscheinlichkeiten stehen, sondern das hier steht
+
+01:56:13.800 --> 01:56:23.000
+0000000. Und dann kann ich diese Differenzen hier von diesen Zahlen, die kann ich ja sozusagen,
+
+01:56:23.400 --> 01:56:29.520
+das sind ja echte quantifizierbare Größen. Ich kann also eine Kostenfunktion bauen, eine Kostenfunktion
+
+01:56:29.520 --> 01:56:36.560
+K, die von diesen ganzen Differenzen abhängt und insbesondere von den ganzen Gewichten, also von den
+
+01:56:36.560 --> 01:56:43.600
+ganzen Matrizen I, die hier drin stehen. Weil jeder einzelne Verbindung, habe ich ja schon gesagt,
+
+01:56:43.600 --> 01:56:49.560
+jeder Knoten hier drin, jeder Vektor A, der wird auf den nächsten abgebildet, wird über eine Matrix
+
+01:56:49.560 --> 01:56:58.440
+WK sozusagen multipliziert. Diese Vorwärtsabbildung sozusagen ist immer noch linear. Erstmal,
+
+01:56:58.440 --> 01:57:03.640
+beim Perzeptron war das so. Das heißt, ich kann sie zurückverfolgen. Das ist klar eindeutig
+
+01:57:03.640 --> 01:57:09.280
+zurückverfolgbar. Und deswegen kann ich die komplette Kostenfunktion hinschreiben als Funktion
+
+01:57:09.280 --> 01:57:16.280
+von diesen Gewichten. Und später hat man dann noch Bias eingeführt und noch die Sigmoid-Funktion,
+
+01:57:16.280 --> 01:57:19.400
+die sozusagen das alles noch ein bisschen glättet, weil man auf numerische Probleme
+
+01:57:19.400 --> 01:57:23.960
+beim Perzeptron gekommen ist. Das ist aber jetzt nicht das Relevante. Das Relevante ist, man kann,
+
+01:57:23.960 --> 01:57:28.920
+wenn man diesen Fehler sieht, also ich weiß, ich erwarte eine 4, ich kriege aber keine 4,
+
+01:57:28.920 --> 01:57:35.000
+dann kann ich genauso wie vorhin, wenn ich bei den CD-Problemen das vorwärts projiziere und was
+
+01:57:35.000 --> 01:57:41.400
+anderes rauskriege als mein Messwert, diese Differenz, die kann ich nehmen und zurück in
+
+01:57:41.400 --> 01:57:47.640
+das System bringen. Und diese Differenz, wenn ich die zurückpropagiere, diese Backpropagation
+
+01:57:47.640 --> 01:57:53.400
+nennt man das, das ist das, was die Leute lernen nennen. Und das macht man tatsächlich. Und der
+
+01:57:53.400 --> 01:57:57.200
+Witz ist, diese Kostenfunktion, die will man natürlich immer noch minimieren. Das heißt,
+
+01:57:57.200 --> 01:58:02.120
+man will am Ende was rauskriegen, dass das Ding eine 4 ausspuckt, damit dann meine Kostenfunktion
+
+01:58:02.120 --> 01:58:07.200
+minimal wird. Weil dann sozusagen das genaue Mal im Erwartungswert am nächsten kommt. Ich kriege
+
+01:58:07.200 --> 01:58:13.200
+dann hier halt sagen wir mal 0,999 raus und die anderen sind super klein, dann ist die Differenz
+
+01:58:13.200 --> 01:58:17.160
+hier klein, alle anderen Differenzen sind klein und dann ist die Kostenfunktion minimal. Das heißt,
+
+01:58:17.160 --> 01:58:22.360
+ich habe ein globales Optimum gefunden, von dem ich schon weiß, dass es existiert, weil
+
+01:58:22.360 --> 01:58:28.040
+ich sozusagen diese Trainingsdaten da reinstecke. Könnt ihr das irgendwie nachvollziehen und habe
+
+01:58:28.040 --> 01:58:33.360
+ich euch nicht total jetzt kaputt gemacht mit diesem bescheuerten Fail, weil das ist sozusagen
+
+01:58:33.520 --> 01:58:45.680
+die Idee. Also es geht ja vor allem darum, dass ihr nicht sozusagen klar, ihr könnt nicht einfach
+
+01:58:45.680 --> 01:58:48.120
+einen Livestream gucken und danach habt ihr Deep Learning verstanden, sondern es geht darum,
+
+01:58:48.120 --> 01:58:52.760
+dass ihr diese Sprache versteht, in der diese Leute reden. Weil wenn ihr euch ein Video dazu
+
+01:58:52.760 --> 01:58:59.640
+anguckt, wo jemand das mal erklärt, dann geht das alles krachend. Dann geht das komplett weg. Ihr
+
+01:58:59.640 --> 01:59:04.320
+versteht ja gar nichts und ich habe auch mal, also das eins der wichtigsten Paper der letzten
+
+01:59:04.320 --> 01:59:08.840
+Jahre heißt irgendwie Attention is all you need, das ist von diesen Google-Fratzen und da versteht
+
+01:59:08.840 --> 01:59:14.280
+man halt 0. Insbesondere, wenn man nicht vorher sich diese ganzen Vorlesungen zu dem Deep Learning
+
+01:59:14.280 --> 01:59:22.440
+reingeknallt hat. Und die Idee ist aber wirklich jetzt original genau die gleiche. Ich mache jetzt
+
+01:59:22.440 --> 01:59:25.200
+diesen gefährlichen Fehler und drücke jetzt wieder auf diese Taste und mache wieder das
+
+01:59:25.200 --> 01:59:28.760
+Full-Bild an. Ich sehe jetzt aber den Chat und ich erinnere mich jetzt dran, dass ich diese Taste
+
+01:59:28.760 --> 01:59:36.440
+gedrückt habe. Und es ist halt wirklich dieser Rückprojektionsschritt. Diese Idee,
+
+01:59:36.440 --> 01:59:40.480
+die ist jetzt wirklich genau das gleiche wie beim CT. Also nicht genau das gleiche, aber die Idee
+
+01:59:40.480 --> 01:59:47.360
+ist dieselbe. Ihr habt einen Vorwärtsschritt, der ist beliebig kompliziert. Der ist wirklich
+
+01:59:47.360 --> 01:59:54.120
+beliebig kompliziert, aber er ist nur so weit kompliziert, dass ihr ihn trotzdem noch nachvollziehen
+
+01:59:54.120 --> 01:59:59.680
+könnt. Ihr könnt jede einzelne Multiplikation in jeder Ecke nachrechnen. Das heißt, ihr könnt
+
+01:59:59.680 --> 02:00:05.880
+auch den Rückschritt nachrechnen. Und weil die Gewichte gegeben sind, die Einträge der Hidden
+
+02:00:05.880 --> 02:00:09.240
+Layers sind sozusagen andere Zahlen, die spielen aber keine Rolle, die hängen von eurem Input ab.
+
+02:00:09.240 --> 02:00:13.760
+Und das ist auch nicht das Relevante. Denn ihr müsst euch jetzt überlegen, ihr macht das ja nicht für
+
+02:00:13.760 --> 02:00:23.440
+eine Zahl, sondern ihr macht diesen ganzen Schritt für eine Milliarde an Bilddateien. Und typischer
+
+02:00:23.440 --> 02:00:28.320
+Weise nimmt man dann die Hälfte. Man nimmt die Hälfte von der Milliarde, trainiert damit das
+
+02:00:28.320 --> 02:00:33.320
+Netzwerk und nimmt dann die andere Hälfte von der Milliarde und evaluiert seinen Datensatz. So ist das
+
+02:00:33.320 --> 02:00:38.640
+Vorgehen. Und hinterher kommt tatsächlich raus, also das ist zumindest, wenn man das richtig pimpt und
+
+02:00:38.640 --> 02:00:46.800
+richtig sich Mühe gibt, dass der Rekord ist irgendwie 99,8 Prozent oder so. Genauigkeit. Schrift, also
+
+02:00:46.800 --> 02:00:54.200
+einfache Zahlen, Ziffern zu erkennen. Und das ist insofern interessant, weil man erstmal denken
+
+02:00:54.200 --> 02:00:59.320
+könnte, okay, das Netzwerk hat das jetzt verstanden. Das hat es jetzt verstanden. Aber da darf man sich
+
+02:00:59.320 --> 02:01:04.800
+wirklich diesen Trugschluss nicht hergeben. Was das gelernt hat, ist Korrelation. Und das ist auch
+
+02:01:04.800 --> 02:01:09.160
+witzig, weil man am Anfang dachte, okay, das Ding, sie haben es schon so genannt, convolution in
+
+02:01:09.160 --> 02:01:14.520
+neural network, weil was es macht, es macht wahrscheinlich, es macht Faltungsoperation. Es
+
+02:01:14.520 --> 02:01:19.480
+guckt sozusagen nach Linien. Klar, durch Faltung kann man ja nach Linien in den Bildern suchen. Und
+
+02:01:19.480 --> 02:01:23.800
+dann guckt es, wie die zusammenpacken. Also es bildet sozusagen verschiedene Patches aus und
+
+02:01:23.800 --> 02:01:30.240
+guckt, welche Patches wo passen. Und dann erkennt es anhand dieser Features sozusagen, es macht
+
+02:01:30.240 --> 02:01:34.680
+dann sozusagen diese Feature Extraction, dass man dann erkennt, okay, das muss diese Zahl sein. Und
+
+02:01:34.680 --> 02:01:39.880
+bei Zahlen ist es sehr einfach, weil Ziffern, das gibt ja nur zehn verschiedene Ziffern. Aber
+
+02:01:39.880 --> 02:01:44.440
+das ist sozusagen die einfachste Anwendung. Und wenn ihr euch, es gibt halt wirklich richtig
+
+02:01:44.440 --> 02:01:49.640
+viele gute englische Videos, die das auch super erklären. Oder wie gesagt, ihr zieht euch die
+
+02:01:49.640 --> 02:01:54.920
+Vorlesungen von Professor Andreas Meyer rein, die ist herrlich, weil ihr das da auch wirklich
+
+02:01:54.920 --> 02:01:59.800
+alles hinschreibt. Also der fängt da auch ganz blöd und einfach an. Fängt da an mit diesen CNNs.
+
+02:01:59.800 --> 02:02:04.200
+Das ist wirklich oldschool. Das ist schon, das ist schon, das ist schon 100 Jahre alt geführt. Das
+
+02:02:04.200 --> 02:02:09.440
+ist der alte Shit. Das ist so wie klassische Mechanik. Das muss sozusagen klar sein, wenn
+
+02:02:09.440 --> 02:02:14.320
+man die neuen Sachen verstehen will. Und das, was beim GPT-3 abgeht, das ist sozusagen das,
+
+02:02:14.320 --> 02:02:18.040
+was ich Word embeddings nenne. Und das fand ich immer super geil. Ihr könnt euch vorstellen,
+
+02:02:18.040 --> 02:02:25.160
+und jetzt mache ich hier meine Tafel wieder an. Habe ich hier noch irgendwo Platz? Ich mache ein
+
+02:02:25.160 --> 02:02:49.120
+neues Fenster auf. So, ihr könnt euch vorstellen, bei dem, ich gucke jetzt nochmal nach,
+
+02:02:49.120 --> 02:02:55.560
+habe ich wirklich geändert? Ja, habe ich. Okay. Bei dem, bei Word embeddings, da ist das so. Ihr
+
+02:02:55.560 --> 02:03:02.160
+habt jetzt nicht so einen Datensatz von einer Milliarde geschriebenen Handzeichen, die gelabelt
+
+02:03:02.160 --> 02:03:07.040
+sind. Nein, ihr kriegt juristische Texte, ihr kriegt Wikipedia, ihr kriegt vollständige Textdokumente,
+
+02:03:07.040 --> 02:03:12.760
+wo einfach nur Sätze drinstehen. Richtig viele Sätze. Und der Erkenner, dass es sich um
+
+02:03:12.760 --> 02:03:17.080
+unterschiedliche Worte handelt, ist natürlich das Leerzeichen. Immer wenn ein Leerzeichen kommt,
+
+02:03:17.080 --> 02:03:20.600
+Punkte werden wahrscheinlich ignoriert. Oder, nein, vielleicht sind Punkte auch wichtig,
+
+02:03:20.600 --> 02:03:24.320
+das weiß ich jetzt nicht. Punkt ist vielleicht ein eigenes Zeichen, ein eigenes Wort. Das kann
+
+02:03:24.320 --> 02:03:30.520
+schon sein. Punkte, also alles, was irgendwie mit Punkten geht, sind eigene Zeichen. Leerzeichen
+
+02:03:30.520 --> 02:03:35.040
+sind die Trennungszeichen. Und Worte sind dann sozusagen die Zeichenketten, die dazwischen stehen.
+
+02:03:35.040 --> 02:03:46.280
+Und jetzt ist es so. Ihr trainiert so ein Netzwerk auf Folgendes. Ich gebe dir fünf Worte. Ich
+
+02:03:46.280 --> 02:03:59.880
+bin letztens auf Gold. Und jetzt fragt ihr das neue Netzwerk, was kommt hier als nächstes Wort?
+
+02:03:59.880 --> 02:04:08.520
+Das ist sozusagen die Fragestellung. Ihr gebt ihm fünf Worte und das Netzwerk soll sozusagen
+
+02:04:08.520 --> 02:04:12.920
+eine Autokorrektur machen oder einen Vorschlag für das Wort, was am nächsten wahrscheinlich ist.
+
+02:04:12.920 --> 02:04:24.560
+Das ist original das, was auf dem Smartphone passiert. Bloß extrem primitiv. Und GPT-3 hat
+
+02:04:24.560 --> 02:04:33.800
+einfach nur eine viel mehr sophisticated Variante davon. GPT-3 ist so heftig, dass wenn man GPT-3
+
+02:04:33.800 --> 02:04:42.680
+einen halben Aufsatz gibt, es einfach den Aufsatz zu Ende schreibt. Solange wie man will. Das hört
+
+02:04:42.680 --> 02:04:47.800
+einfach nicht auf. Und es ist halt so krass, dass man wirklich denkt, es ist ein Mensch, der das
+
+02:04:47.800 --> 02:04:54.400
+schreibt. Und jetzt ist es so, diese Worte im Bennings, was machen die? Naja, die wurden trainiert
+
+02:04:54.400 --> 02:05:01.240
+auf diesen Wortdatenbanken und man ist jetzt wirklich so, man steckt hier jetzt Worte rein. Es
+
+02:05:01.280 --> 02:05:06.880
+ist nicht mehr so, dass man Ziffern, also Bilder von Ziffern reinsteckt, sondern nein, man steckt
+
+02:05:06.880 --> 02:05:12.880
+Sätze rein, komplette Zeichenketten. Und die werden auch so interpretiert durch sozusagen
+
+02:05:12.880 --> 02:05:18.960
+Leerzeichen, trennt die unterschiedlichen Worte und unterschiedliche Worte sind halt einfach
+
+02:05:18.960 --> 02:05:26.200
+alphanumerisch. Das kann man sozusagen zum Beispiel, naja, das könnte man sich so vorstellen,
+
+02:05:26.400 --> 02:05:31.240
+dass man jedem Buchstaben irgendwie eine Gödelisierung vorschlägt. Also man kann sozusagen Worte
+
+02:05:31.240 --> 02:05:38.760
+eindeutig in Zahlen umrechnen oder in Vektorelemente, sodass am Ende aus einem Satz,
+
+02:05:38.760 --> 02:05:44.160
+also aus irgendeinem Zeicheninput, ein einziger Vektor wird. Das kann man sich immer überlegen,
+
+02:05:44.160 --> 02:05:47.960
+dass das geht. Man könnte sich zum Beispiel ein Wörterbuch überlegen, in dem jedes Wort ein
+
+02:05:47.960 --> 02:05:53.760
+einzelner Eintrag ist. Und wenn ich ein Wörterbuch von 30.000 Einträgen habe, dann ist mein
+
+02:05:53.760 --> 02:05:59.160
+Eintragsvektor für das Wort Ich halt wirklich ganz viele Nullen, dann kommt eine einzige Eins an
+
+02:05:59.160 --> 02:06:03.440
+der Stelle, wo das Ich steht und alle anderen Wörter sind Nullen. Das könnte man sich vorstellen.
+
+02:06:03.440 --> 02:06:09.920
+Einfach machen, also einfach erstmal anfangen, das numerisch als Vektor darzustellen. Es ist
+
+02:06:09.920 --> 02:06:13.600
+erstmal völlig egal, wie bescheuert das ist. Das klingt erstmal relativ bescheuert, aber das ist
+
+02:06:13.600 --> 02:06:18.000
+eine coole Sache, weil was dann am Ende rauskommt ist, wenn man dieses Netzwerk trainiert, genauso
+
+02:06:18.000 --> 02:06:24.760
+wie das bei den Ziffererkennungen ist. Man macht jetzt diese Netzwerkstruktur und man bildet die
+
+02:06:24.760 --> 02:06:30.720
+aufeinander ab. Hier sind jetzt immer diese ganzen N-Kreuz-N-Beziehungen dazwischen. Dann könnte man
+
+02:06:30.720 --> 02:06:34.960
+zum Beispiel, das ist tatsächlich das, was passiert, typischerweise kriegt man diesen riesengroßen
+
+02:06:34.960 --> 02:06:41.200
+Vektor, der hat jetzt sowas wie die Dimension, naja was hatten wir ja heutzutage wahrscheinlich
+
+02:06:41.200 --> 02:06:49.680
+sowas 30 mal 10 hoch, weiß ich jetzt nicht, 10 hoch 3, 10 hoch 3. Sagen wir mal 30.000 Einträge,
+
+02:06:49.680 --> 02:06:54.880
+sagen wir mal ein Wörterbuch von 30.000 Einträgen. Das wird relativ schnell runtergekocht auf kleinere
+
+02:06:54.880 --> 02:07:00.760
+Ebenen nach genau demselben Schema. Also jeder Punkt hat eine Verbindung zu jedem anderen Punkt
+
+02:07:00.760 --> 02:07:06.880
+hier drin. Hier drinne gibt es jetzt aber vielleicht nur noch 10 hoch 3 und hier drinne gibt es dann
+
+02:07:06.880 --> 02:07:12.960
+vielleicht nur noch 500. Ja und in echt glaube ich, also das ist das, was ich letztens gelesen habe,
+
+02:07:12.960 --> 02:07:19.520
+ist das nicht 500 sondern eher 300. Das sind eher 300 Einträge in diesem Layer hier und das Ding
+
+02:07:19.520 --> 02:07:25.000
+hier, da stellt man später fest, das kodiert tatsächlich die Worte und wenn man jetzt wieder
+
+02:07:25.000 --> 02:07:29.120
+rausgeht, das ist das, was dann meistens passiert, man geht wieder raus, macht es wieder größer und
+
+02:07:29.120 --> 02:07:34.080
+hinten kommt ein Output raus, der wieder genauso groß ist wie das hier und der prediktet einem das
+
+02:07:34.080 --> 02:07:42.920
+nächste Wort. Das ist die Idee. Also nochmal, ihr gebt dem Netzwerk folgenden Auftrag. Ich
+
+02:07:42.920 --> 02:07:51.440
+habe hier einen Satz und ich kenne das Original, gestoßen. Das habe ich aus einem Buch abgeschrieben.
+
+02:07:51.440 --> 02:07:57.000
+Ich kenne das Original. Es ist schon, weil ich es digitalisiert habe, da. Damit kann ich hier reingehen
+
+02:07:57.000 --> 02:08:02.960
+und das Netzwerk trainieren. Jetzt gibt mir das Netzteil irgendwas aus, wie zum Beispiel Disco.
+
+02:08:02.960 --> 02:08:10.960
+Völlig falsch. Ich suche ja das Wort gestoßen. Das heißt, ich kann auch hier eine Quantifizierung
+
+02:08:10.960 --> 02:08:15.920
+finden, die mir sozusagen die Differenz anbietet, weil ich genau weiß, wie bin ich denn auf Disco
+
+02:08:15.920 --> 02:08:21.440
+gekommen. Dann kann ich hier zurückgehen, jeden einzelnen Schritt zurückverfolgen und wieder
+
+02:08:21.440 --> 02:08:27.000
+sozusagen die Minimierung anwerfen. Das nennt man im Übrigen, also später dann bei diesem
+
+02:08:27.000 --> 02:08:37.800
+Backpropagating-Operator oder mit dieser Operation. Was man da eigentlich macht, das ist stochastic
+
+02:08:37.800 --> 02:08:48.840
+gradient descent. Das ist das, was man macht. Ihr müsst euch das so vorstellen, wie bei meinem
+
+02:08:48.840 --> 02:08:53.800
+CT-Problem gucke ich mir nicht alle Winkel gleichzeitig an, sondern ich nehme erst mal
+
+02:08:53.800 --> 02:08:59.480
+zum Beispiel nur einen zufällig und gucke erst mal, was das Rückschmieren da bringt und dann gucke
+
+02:08:59.480 --> 02:09:03.560
+ich noch mal aus einem anderen und schmiere noch mal separat zurück und nicht ich gucke mir alle
+
+02:09:03.560 --> 02:09:08.000
+Daten gleichzeitig an. Das führt oft dazu, dass man einfach nur ein riesen Overhead hat, weil ja
+
+02:09:08.000 --> 02:09:14.280
+bestimmte Sachen oft ziemlich hart reinknallen. Also wenn man zum Beispiel beim CT-Problem hier
+
+02:09:14.280 --> 02:09:19.720
+jetzt eine fette Kugel hätte, die erzeugt hier eigentlich eine Riesendifferenz zu meinen
+
+02:09:19.720 --> 02:09:24.120
+Beobachtungen, dann kann ich die sehr gut zurückschmieren und die liefert mir schon
+
+02:09:24.120 --> 02:09:27.640
+viel Veränderung. Dann brauche ich die anderen Winkel erst mal nicht betrachten, zum Beispiel
+
+02:09:27.640 --> 02:09:32.960
+die Winkel, die diese Kugel nicht mit drin haben. So ungefähr ist das auch. Der Stochastic gradient
+
+02:09:32.960 --> 02:09:37.760
+descent, der ist halt zufällig und das ist relativ gut, weil man durch Kompress-Sensing und die ganze
+
+02:09:37.760 --> 02:09:43.240
+Theorie, die dahinter ist, hat man ja verstanden, dass sozusagen der geilste Shit eine völlige Rinde
+
+02:09:43.240 --> 02:09:47.440
+im Matrix ist und da versucht man sich sozusagen dann zu orientieren. Es gibt sozusagen auch
+
+02:09:47.440 --> 02:09:51.120
+richtig geile YouTube-Videos, auf Englisch zumindest, die das so ein bisschen visuell
+
+02:09:51.120 --> 02:09:56.600
+erklären, warum Stochastic gradient descent nice ist. Das kann ich hier und das will ich
+
+02:09:56.600 --> 02:09:59.880
+ja auch gar nicht liefern. Ich will euch sozusagen nur an diese Sprache gewöhnen,
+
+02:09:59.880 --> 02:10:04.760
+die da sozusagen gebraucht wird, insbesondere für alle, die irgendwann mal Mathe gehört haben,
+
+02:10:04.760 --> 02:10:08.880
+aber sozusagen das schon total verpeilt haben. Klar, ist ja normal. Man macht heutzutage was
+
+02:10:08.880 --> 02:10:14.880
+ganz anderes. Man hat irgendwelche Betriebe zu führen und irgendwelche Herrscharen von
+
+02:10:14.960 --> 02:10:22.040
+Bediensteten in irgendwelchen Bürokratien durch zu hitlern. Da hat keiner mehr Zeit über sowas
+
+02:10:22.040 --> 02:10:27.280
+nachzudenken, aber so ist die Idee. Das steckt Disco aus, ich will aber eigentlich gestoßen
+
+02:10:27.280 --> 02:10:33.440
+als Wort, dann kann ich das sozusagen, diese Differenz, die da entsteht, die kann ich zurück
+
+02:10:33.440 --> 02:10:40.560
+hitlern in mein System rein und wenn ich das automatisieren will, dann mache ich typischerweise
+
+02:10:40.720 --> 02:10:46.040
+sowas, weil ich die Kostenfunktion mit Stochastic gradient descent füttere sozusagen. Das ist das,
+
+02:10:46.040 --> 02:10:50.520
+um die Kostenfunktion zu minimieren und das kann ich deswegen machen, weil jede dieser einzelnen
+
+02:10:50.520 --> 02:10:55.440
+Verbindungen meine Parameter sind. Das ist die Anzahl der Neuronen. Das heißt, wenn ihr lest,
+
+02:10:55.440 --> 02:11:06.160
+GPT-3 hat 1,7 mal 10 hoch 9 Neuronen. Das ist schon eine ganze Menge. Das ist das größte Language
+
+02:11:06.160 --> 02:11:12.920
+Model, was wir im Moment haben und deswegen ist es so mächtig. Übrigens, man könnte ja jetzt sagen,
+
+02:11:12.920 --> 02:11:22.000
+naja, Bilderkennung ist doch ganz einfach. Ich mache einfach 10 hoch 3.000 Neuronen,
+
+02:11:22.000 --> 02:11:27.960
+dann habe ich jedes mögliche Bild, was jemals überhaupt entstehen kann, gelernt und zwar
+
+02:11:27.960 --> 02:11:34.000
+auswendig gelernt. Das nennt man Overfitting. Das ist sozusagen das, was man nicht will. Man
+
+02:11:34.000 --> 02:11:39.360
+will eigentlich sozusagen, das ist das, was die Leute mit Lernen identifizieren,
+
+02:11:39.360 --> 02:11:45.160
+was ich aber nicht Lernen nennen würde. Sie wollen, dass das Netzwerk generalisiert. Sie
+
+02:11:45.160 --> 02:11:51.120
+wollen, dass man mit weitaus weniger Zahlen auskommt, als mein Pool an Möglichkeiten bietet.
+
+02:11:51.120 --> 02:11:57.520
+Dass ich 1.000 Bilder rein geben kann und danach 100.000 Bilder klassifizieren kann. Das ist die Idee.
+
+02:11:57.520 --> 02:12:02.080
+Das ist sozusagen das, warum die Leute diese Illusion kriegen, dass diese Netzwerke was
+
+02:12:02.080 --> 02:12:05.840
+verstanden haben. Was sie aber, sie haben nicht verstanden, sie haben nur diese Korrelationen
+
+02:12:05.840 --> 02:12:10.280
+verstanden. Und das Krasse ist an diesem Data Mining, was also, das könnte man auch immer so
+
+02:12:10.280 --> 02:12:19.000
+nennen. Im Prinzip könnte man immer sagen, das ist auch Data Mining. Das ist deswegen so krass,
+
+02:12:19.000 --> 02:12:25.640
+weil das auch völlig unentdeckte und für einen Menschen ungreifbare Korrelation entdeckt zwischen
+
+02:12:25.640 --> 02:12:36.320
+Dingen. Also ganz einfaches blödes Beispiel. Eines der ersten Bilderkennungsexperimente, die es gab,
+
+02:12:36.320 --> 02:12:40.960
+war so, dass man Screenshots von irgendwelchen Bildern reingegeben hat und dann sollte hinterher das
+
+02:12:40.960 --> 02:12:45.720
+auswendig gelernt werden. Und es hatte eine 100% Erfolgsquote und alle waren total überrascht. Wie
+
+02:12:45.720 --> 02:12:50.280
+kann das 100% erzählen? Und die haben folgenden Fehler gemacht. Die hatten in ihrem Screenshot
+
+02:12:50.280 --> 02:12:59.720
+oben links vom Windows noch den Dateilnamen stehen. Und der Dateilname war getaggt, also DOC 938 oder
+
+02:12:59.720 --> 02:13:05.440
+WOMEN 573. Und dann hat das Netzwerk einfach nur gelernt, was steht da oben. Steht da WOMEN, DOC oder
+
+02:13:05.440 --> 02:13:09.880
+sonst was und fertig. So ein blöder Schwachsinn. Das entdeckt natürlich ein Deep Learning Netzwerk
+
+02:13:09.880 --> 02:13:16.360
+sofort. Und dieses Data Mining ist super krass, weil ihr könnt euch überlegen, wenn ihr euer
+
+02:13:16.360 --> 02:13:26.520
+Netzwerk füttert mit Daten, also mit Daten, die in irgendeiner Form gebiased sind, dann reproduziert
+
+02:13:26.520 --> 02:13:34.720
+ihr auch nur diese Bias. Es ist nicht so, dass das Netzwerk irgendwie kreativ werden kann. Das ist
+
+02:13:34.720 --> 02:13:38.080
+ein absoluter Trugschluss. Das passiert nicht. Ich leg mal meinen Stift weg, sonst werde ich hier
+
+02:13:38.080 --> 02:13:48.920
+bescheuert. Ich stecke den am besten jetzt hier auch rein, wo das rein muss. Es hängt extrem davon
+
+02:13:48.920 --> 02:13:55.480
+ab, was man für eine Architektur wählt. Also zum Beispiel bei diesem Sprachkorpus, da ist das
+
+02:13:55.480 --> 02:14:00.600
+entscheidend, dass man das ein bisschen runterskaliert. Und dieses Word Embeddings, also das ist das,
+
+02:14:00.600 --> 02:14:05.440
+was das macht. Ich predikte die nächsten fünf Worte. Da könnt ihr euch jetzt vorstellen. Und
+
+02:14:05.440 --> 02:14:12.200
+das ist wirklich ziemlich krass. Ihr schneidet den Rest weg. Ihr geht runter, runter, runter bis
+
+02:14:12.200 --> 02:14:17.520
+auf diesen 300-dimensionalen Vektorraum und den Rest schneidet ihr weg. Und dann habt ihr einen
+
+02:14:17.520 --> 02:14:24.480
+sogenannten Decoder. Den habt ihr euch gebaut. Ihr steckt da ein Wort rein. Sagen wir mal eins
+
+02:14:24.480 --> 02:14:31.200
+aus diesem Wörterbuch mit den 30.000 Einträgen. Und da kommt jetzt, ihr steckt zum Beispiel das
+
+02:14:31.200 --> 02:14:37.120
+Wort Katze rein oder Haus. Und hinten raus kommt in diesem Hidden Layer, den könnt ihr auslesen.
+
+02:14:37.120 --> 02:14:44.120
+Das sind ja 300 Zahlen. Das ist ein 300-Zahlen-Tupel, irgendein Vektor. Und damit kann man rumspielen.
+
+02:14:44.120 --> 02:14:49.040
+Und da gibt es auch super geile Videos dazu, das kann ich euch nur empfehlen. Und dann könnt
+
+02:14:49.040 --> 02:14:53.360
+ihr tatsächlich Vektor-Arithmetik damit machen. Ihr könnt sozusagen die Differenz zwischen zwei
+
+02:14:53.360 --> 02:14:58.760
+Worten ausrechnen. Die ist wieder ein Vektor. Also ihr kriegt, was weiß ich, ne, das male ich
+
+02:14:58.760 --> 02:15:06.920
+nochmal an. Ich nehme meinen Stift hier und ich drücke wieder die Taste. Ihr stellt euch vor,
+
+02:15:06.920 --> 02:15:13.240
+ihr habt jetzt diesen 300-dimensionalen Raum und ich simplifiziere ihn jetzt mal auf zwei Dimensionen.
+
+02:15:13.240 --> 02:15:26.480
+Ihr habt jetzt hier irgendwo das Wort König. Und hier habt ihr irgendwo das Wort Königin.
+
+02:15:26.480 --> 02:15:33.360
+So und der Differenz-Vektor von diesen beiden, der hier, ich nenne ihn mal A.
+
+02:15:33.360 --> 02:15:48.640
+Der ist interessant, denn wenn ihr jetzt zum Beispiel das Wort Frau habt und ihr habt irgendwo das Wort
+
+02:15:48.640 --> 02:15:56.280
+Mann in diesem 300-dimensionalen Vektorraum, dann ist sozusagen die Verbindung, die Differenz dieser
+
+02:15:56.320 --> 02:16:04.080
+beiden, die ist gleich A. Diese beiden Vektoren sind identisch. Oder sagen wir mal innerhalb, also
+
+02:16:04.080 --> 02:16:09.120
+innerhalb, also sagen wir mal, nennen wir das mal A-Strich, dann ist sozusagen A-Strich minus A
+
+02:16:09.120 --> 02:16:16.800
+kleiner als Epsilon. Das ist beliebig klein, oder relativ klein. Der nächste Punkt, wenn man
+
+02:16:16.800 --> 02:16:22.160
+sozusagen damit Vektor-Arithmetik macht und man geht jetzt hierher und sagt, okay, ich gehe jetzt
+
+02:16:22.160 --> 02:16:29.120
+mal zu König. Jetzt ziehe ich Frau ab. Ich ziehe diesen Vektor ab. Dann lande ich irgendwo hier.
+
+02:16:29.120 --> 02:16:36.360
+Sagen wir mal, ich ziehe Frau ab. Was passiert denn da? Dann lande ich hier. Ich ziehe Frau ab.
+
+02:16:36.360 --> 02:16:48.320
+Dann lande ich hier. Und dann tue ich Mann drauf. Oder? Wie war das? Ach nee, genau. Ich ziehe Mann
+
+02:16:48.400 --> 02:16:56.320
+ab. Ich ziehe von König Mann ab. Und dann tue ich Frau drauf. Ich glaube, so war es. Dieser Vektor
+
+02:16:56.320 --> 02:17:03.360
+ist ja Mann. Den ziehe ich ab. Dann lande ich irgendwo hier unten im Nirwana. Und dann addiere
+
+02:17:03.360 --> 02:17:06.840
+ich da wieder Frau drauf. Und dann komme ich hier hin. Und dann sozusagen der Vektor, der da am
+
+02:17:06.840 --> 02:17:11.520
+nächsten dran ist, das ist der Vektor, der der Königin entspricht, weil ich sozusagen den Vektor
+
+02:17:11.520 --> 02:17:17.080
+wegen meinem Decoder auch wieder entcoden kann zu einem Wort. Das ist sozusagen das, was ich hier
+
+02:17:17.080 --> 02:17:25.640
+oben gemacht habe. Ich schneide das ab. Das nenne ich Decoder. Und das Ding hier, das nenne ich
+
+02:17:25.640 --> 02:17:31.400
+Encoder. Obwohl, nee, das ist mir egal. Ich gehe einfach diesen Schritt hier wieder zurück. Ich
+
+02:17:31.400 --> 02:17:35.640
+gehe den Schritt wieder zurück und nenne das Encoder, okay? Das heißt, ich kann ein Wort
+
+02:17:35.640 --> 02:17:41.000
+reintun, ein anderes Wort auch, kriege hier zwei Zahlentupel. Mit denen kann ich Arithmetik machen.
+
+02:17:41.000 --> 02:17:46.000
+Das, was ich da rauskriege, das tue ich in meinen Encoder und dann kriege ich Königin raus.
+
+02:17:46.000 --> 02:17:55.760
+Das ist so krass. Da hat man erstmal diese Intuition, dass man denkt, dieses Netzwerk hat
+
+02:17:55.760 --> 02:18:06.760
+jetzt echt Bedeutung gelernt. Also es hat jetzt wirklich verstanden, was das ist, was Bedeutung ist.
+
+02:18:06.760 --> 02:18:12.560
+Und das ist jetzt nicht irgendein philosophischer Scheiß, sondern das ist tatsächlich gemessen.
+
+02:18:12.840 --> 02:18:19.360
+Das ist echt brutale Algebra, lineare Algebra. Das sind einfach nur noch Zahlentupel, mit denen
+
+02:18:19.360 --> 02:18:23.320
+kann man das machen. Und ich finde das super heftig. Als ich das gesehen habe damals, das hat mich
+
+02:18:23.320 --> 02:18:28.920
+wirklich überzeugt. Ich hatte vorher so meine Bedenken, weil ich aus der Medizintechnik auch
+
+02:18:28.920 --> 02:18:33.560
+viele Anwendungen kenne, wo es um CT-Rekonstruktion und andere Sachen geht, wo ich sagen würde,
+
+02:18:33.560 --> 02:18:41.000
+das ist gefährlich, da Deep Learning drauf zu schmeißen. Aber das mit dem Wirdeinbeddings,
+
+02:18:41.000 --> 02:18:45.200
+da habe ich immer gesagt, okay, das ist super. Wittgenstein würde da richtig darauf abgehen,
+
+02:18:45.200 --> 02:18:50.640
+das ist hammermäßig. Weil einfach, es sieht so aus, als hätte das Deep Learning die tiefere
+
+02:18:50.640 --> 02:18:55.640
+Struktur unserer Sprache entschlüsselt. Das hat es aber nur durch die Korrelationen. Es hat nur
+
+02:18:55.640 --> 02:19:00.600
+Korrelationen zwischen Worten gefunden. Und natürlich, wenn man länger darüber nachdenkt,
+
+02:19:00.600 --> 02:19:07.680
+Bedeutung ist ja genau das. Bedeutung ist die Verbindung einzelner Worte in einen Kontext. Das
+
+02:19:07.680 --> 02:19:13.480
+ist das, was wir als Bedeutung identifizieren. Und das hat das Netzwerk gelernt. Und das ist das,
+
+02:19:13.480 --> 02:19:18.360
+was sich durch diese Arithmetik auch ausdrückt. Und GPT-3, müsst ihr euch vorstellen, ist so krass.
+
+02:19:18.360 --> 02:19:26.600
+Das kann man sozusagen mit einem Text-Input vor, da kann man sozusagen einen Prompt rein geben,
+
+02:19:26.600 --> 02:19:33.200
+und dann kann man sich mit ihm unterhalten. Also zum Beispiel, man gibt ihm einen Brief,
+
+02:19:33.200 --> 02:19:37.240
+einen Anfang von einem Brief, und es schreibt den Brief einfach weiter. Es hört einfach nicht auf,
+
+02:19:37.240 --> 02:19:42.160
+es schreibt immer weiter. Es erfindet die Geschichte weiter. Weil es sozusagen aus all seinen Quellen,
+
+02:19:42.160 --> 02:19:51.400
+die es gelernt hat, den wahrscheinlichsten Output erzeugt. Und das darf man auf keinen Fall verwechseln,
+
+02:19:51.400 --> 02:19:58.440
+mit dass das Netzwerk was verstanden hat. Und ihr müsst euch wirklich mal diese krassen Beispiele
+
+02:19:58.440 --> 02:20:02.200
+reinziehen. Da gibt es unendlich viele, also inzwischen gibt es unendlich viele. Weil das GPT-3,
+
+02:20:02.760 --> 02:20:09.600
+das ist jetzt ungefähr ein Jahr her, wo das so richtig Wellen geschlagen hat. Also im Sommer
+
+02:20:09.600 --> 02:20:13.680
+letzten Jahres, da ging das richtig durch die Decke, da gab es auch eine Menge YouTube-Videos dazu. Und
+
+02:20:13.680 --> 02:20:18.520
+die waren alle englisch. Ich verstehe überhaupt nicht, wieso das nicht mal, also keine Ahnung,
+
+02:20:18.520 --> 02:20:22.160
+vielleicht lebe ich auch einfach nicht in diesen deutschen Nerdbubbles. Wahrscheinlich gibt es bei
+
+02:20:22.160 --> 02:20:26.880
+Heise auch Artikel dazu. Die habe ich dann vielleicht nicht gelesen oder so. Aber trotzdem,
+
+02:20:26.880 --> 02:20:34.000
+das ist super interessant, was das GPT-3 macht. Aber da verfällt man sofort in diese Illusion,
+
+02:20:34.000 --> 02:20:40.400
+da ist jetzt KI, die hat das verstanden. Aber das hat es nicht. Interessant wäre sozusagen,
+
+02:20:40.400 --> 02:20:51.680
+wenn man, also GPT-3 kann ja nur Text. Es kann sozusagen, wenn man ihm Text gibt,
+
+02:20:51.680 --> 02:20:56.680
+Text extrapolieren. Es kann eine Vorhersage über den nächsten Text machen. Das ist das,
+
+02:20:56.680 --> 02:21:04.000
+was es tut, wenn man jetzt über zum Beispiel Vektorgrafiken, es schafft, dass man ihm
+
+02:21:04.000 --> 02:21:08.920
+Videomaterial gibt und das Video lernt. Weil was es ja auch kann, es kann Bilder, klar,
+
+02:21:08.920 --> 02:21:14.880
+wegen Vektorgrafiken. Und was es auch kann, ist Musik wegen Midi-Files. Also es kann zum
+
+02:21:14.880 --> 02:21:20.800
+Beispiel auch Musik komponieren. Wenn man es damit trainiert, dann kann es das auch. Das ist
+
+02:21:20.880 --> 02:21:27.120
+dasselbe Ding. Es entdeckt sozusagen Strukturen und Korrelationen in diesen Daten setzen und kann
+
+02:21:27.120 --> 02:21:35.320
+dann komponieren. Und das hört sich dann erstaunlich gut an. Wie gesagt, es geht das auch mit Quelltext
+
+02:21:35.320 --> 02:21:37.840
+und es gibt das auch mit allen möglichen anderen Dingen und es gibt es auch mit Übersetzung
+
+02:21:37.840 --> 02:21:41.320
+Software. Das gibt es eigentlich mit allen Dingen. Es gibt auch diese Apps von wegen,
+
+02:21:41.320 --> 02:21:44.800
+ich gebe dir nur Bullet Points und du schreibst die E-Mail für mich. Oder ich gebe dir einen
+
+02:21:44.800 --> 02:21:49.040
+juristischen Text und du schreibst ihn mir auch in einfacher Sprache hin, sodass ich auch verstehe,
+
+02:21:49.040 --> 02:21:56.160
+was das bedeutet. Wobei diese Summary-Funktion, die ist noch nicht ganz ausgereift. Da haben
+
+02:21:56.160 --> 02:22:00.200
+viele noch einige Artefakte und Probleme entdeckt, weil das tatsächlich was mit Verstehen zu tun
+
+02:22:00.200 --> 02:22:07.800
+hat. Da kommt GPT-3 an seine Grenzen. Das ist so wie mit diesen arithmetischen Operationen. Ich
+
+02:22:07.800 --> 02:22:14.680
+hatte mir überlegt, ob ich jetzt noch mal, nachdem ich das alles hingeschrieben habe und ich weiß
+
+02:22:14.680 --> 02:22:18.840
+natürlich auch nicht, ob das überhaupt irgendwas gebracht hat. Also klar, der Vector Analyzer ist ein
+
+02:22:18.840 --> 02:22:26.320
+totaler Scheiß-Fan. Der findet das gut. Aber ich weiß jetzt sozusagen nicht, ob das irgendetwas
+
+02:22:26.320 --> 02:22:33.040
+irgendwerem sonst was bringt. Dann würde ich vielleicht noch mal den Stream neu starten und
+
+02:22:33.040 --> 02:22:37.240
+noch mal einen neuen Stream starten und ein bisschen quatschen über sozusagen die Konsequenzen davon.
+
+02:22:37.240 --> 02:22:48.600
+Weil ich wollte einfach nur klar machen, was man da macht, wenn man jetzt dem Netzwerk etwas
+
+02:22:48.600 --> 02:22:55.400
+beibringt, also indem man ihm was lernt. Man tut vorne was rein, dann geht es da durch. Dann sieht
+
+02:22:55.400 --> 02:23:01.160
+man, was das Ergebnis ist. Man kennt diesen Prozess. Die Differenz davon, im Prinzip, nimmt man,
+
+02:23:01.160 --> 02:23:08.840
+schmiert die zurück ins System und dieser Prozess, das ist das, was man Lernen nennt.
+
+02:23:08.840 --> 02:23:17.840
+Und wenn die Architektur, also wenn die Layers, die Verknüpfungen, die sind relativ willkürlich,
+
+02:23:17.840 --> 02:23:21.840
+man hat da riesige Freiheiten. Das könnt ihr euch ja vorstellen. Man kann hochgehen mit der
+
+02:23:21.840 --> 02:23:26.960
+Dimensionatik, man kann runtergehen. Die Verknüpfungen kann man selber festlegen. Da gehört eine Menge
+
+02:23:27.080 --> 02:23:33.600
+Intuition dazu. Und das ist genau das, was die Forschung aktuell ausmacht und wo jetzt die
+
+02:23:33.600 --> 02:23:42.360
+krassen Sachen herkommen, wie man die Architekturen anlegt. Und was man da aber immer macht ist, im
+
+02:23:42.360 --> 02:23:50.320
+Moment zumindest, man lernt Korrelation. Das ist wirklich genau so. Es erzeugt für die einfachen
+
+02:23:50.320 --> 02:23:54.880
+Dows, die jetzt mit so einem Chatbot reden, das erzeugt die Illusion, als würde da ein Mensch
+
+02:23:54.880 --> 02:23:59.680
+sitzen. Weil alle normalen blöden Fragen schon mal gestellt wurden und daher kann der Chatbot
+
+02:23:59.680 --> 02:24:04.640
+alle Fragen. Das hat aber nichts damit zu tun, dass der irgendwas verstanden hat. Sobald man
+
+02:24:04.640 --> 02:24:11.080
+ihnen eine Verständnisfrage stellt, kackt der ab. Also das ist schon beobachtet worden. GPT-3 wurde
+
+02:24:11.080 --> 02:24:15.760
+schon an verschiedenen Anwendungsmodellen getestet, was es alles kann und was es alles nicht kann.
+
+02:24:15.760 --> 02:24:22.200
+Und wirklich, die besten Anwendungen sind die für kreative Leute, die irgendwie Geschichten erfinden,
+
+02:24:22.360 --> 02:24:31.280
+die irgendwie Kunst machen wollen. Für die ist das am besten. Aber ich gebe euch mal noch drei
+
+02:24:31.280 --> 02:24:41.640
+Namen von drei Intellektuellen, die ich auf jeden Fall gut finde. Und zwar, das ist einmal,
+
+02:24:41.640 --> 02:24:50.080
+wie heißt er, erstmal, klar, Joscha, oh das ist ja eklig, meine Schrift ist so widerlich,
+
+02:24:50.080 --> 02:25:06.880
+Joscha Bach, der ist krass der Boy. Dann Jürgen Schmidt Huber, der ist auch richtig nice der Boy.
+
+02:25:06.880 --> 02:25:10.680
+Das sind übrigens zwei Deutsche, das heißt mit ein bisschen Glück findet ihr auch deutsche
+
+02:25:10.680 --> 02:25:21.360
+Interviews von denen. Und den anderen, den ich richtig nice finde ist Ben Goerzel. Das ist ein
+
+02:25:21.360 --> 02:25:30.760
+Ami. Der ist nice. Alle diese Boys, vor allem der Schmidt Huber, ich weiß, übrigens ich bin mir
+
+02:25:30.760 --> 02:25:36.720
+gerade gar nicht sicher, ob er Jürgen heißt oder, aber Schmidt Huber, wenn ihr J. Schmidt Huber sucht,
+
+02:25:36.720 --> 02:25:41.200
+dann findet ihr den. Von dem habe ich zum Beispiel auch dieses Paper hier. Ich gehe mal hier in
+
+02:25:41.200 --> 02:25:44.920
+diesen Screen und dann gucke ich mal hier hin und dann klicke ich mal hier. Guckt mal hier,
+
+02:25:44.920 --> 02:25:53.680
+ich habe hier einen Bookmark zu dem Paper von dem Typen, das ist übelst krass. Das ist von 2003,
+
+02:25:53.680 --> 02:25:58.160
+Jürgen Schmidt Huber heißt er ja. Das ist ein nicer Boy, er hat das Paper über die
+
+02:25:58.160 --> 02:26:03.000
+Gürtelmaschinen hingeschrieben. Der Boy hat damals schon, also noch viel früher in seiner
+
+02:26:03.000 --> 02:26:07.680
+Diplomarbeit, da hat er schon erkannt, was das Problem ist, nämlich die Selbstbezüglichkeit.
+
+02:26:07.680 --> 02:26:12.760
+Und er will sozusagen eine Maschine bauen, die lernt, Probleme selbstständig zu lösen,
+
+02:26:12.760 --> 02:26:21.440
+also die sozusagen lernt, wie man Maschinen-Learning und Deep Learning konstruiert,
+
+02:26:21.440 --> 02:26:26.720
+um Probleme zu lösen, sozusagen Meta-Learning macht. Das hat er sich damals schon überlegt.
+
+02:26:26.720 --> 02:26:31.640
+Und dieses Paper ist jetzt von 2003, das ist schon ein neues Paper von ihm sozusagen. Der Typ ist
+
+02:26:31.640 --> 02:26:36.960
+richtig nice und wenn jemand schon mal so offensiv hingeht und Gürtelmaschinen in sein
+
+02:26:36.960 --> 02:26:42.920
+Paper reinschreibt, dann wisst er Bescheid, der Boy ist richtig krass. Und die Interviews von dem
+
+02:26:42.920 --> 02:26:46.600
+sind herrlich, der Mann ist einfach mal ein krasser Boy und ich habe es mir auch durchgelesen hier,
+
+02:26:46.600 --> 02:26:53.320
+aber ich bin relativ schnell abgekackt, das muss ich zugeben. Also ich bin relativ schnell abgekackt,
+
+02:26:53.320 --> 02:26:58.160
+weil ich wirklich nicht in diesem krassen, geilen Informatiker-Ductus drin bin. Ich glaube,
+
+02:26:58.200 --> 02:27:02.720
+da kommt man erst rein, wenn man sich theoretische Informatik 1, 2 reingeknallt hat und dann vielleicht
+
+02:27:02.720 --> 02:27:08.720
+noch mal so ein paar Bonus-Bücher durchliest oder so. Vorher rafft man das nicht, das ist wirklich
+
+02:27:08.720 --> 02:27:14.680
+viel zu heftig, aber das ist ein nicer Boy und der Schmidt Hoover, von dem gibt es geile Interviews.
+
+02:27:14.680 --> 02:27:19.000
+Zum Beispiel das Lex Friedman Interview, das kann ich euch nur empfehlen. Generell der Kanal
+
+02:27:19.000 --> 02:27:30.840
+von Lex Friedman, der YouTube-Kanal, der ist krass, der hat viele krasse Leute interviewt,
+
+02:27:30.840 --> 02:27:36.240
+also der interviewt eine ganze Menge Leute, aber der interviewt auch viele IT und Geeks und Nerds
+
+02:27:36.240 --> 02:27:41.880
+und so, weil der selber Professor am MIT ist und übelst viele Leute kennt auch. Aber diese drei
+
+02:27:41.960 --> 02:27:49.120
+Boys hier, die kann ich euch wirklich nur ans Herz legen, wenn ihr euch in diesen Sachen mal ein
+
+02:27:49.120 --> 02:27:53.720
+bisschen euch was reinziehen wollt, weil die haben es einfach mal drauf. Und viele andere,
+
+02:27:53.720 --> 02:27:57.240
+die ich mir so reingeknallt habe, da habe ich immer den Eindruck, das sind so PR-Muschis,
+
+02:27:57.240 --> 02:28:02.880
+also die stehen auf das Business, die verstehen nicht, wie viel Geld da verschwendet wird. Zum
+
+02:28:02.880 --> 02:28:08.440
+Beispiel bei GPT-3, da wurde übelst viel Geld verschwendet, um das zu trainieren. Da kam keine
+
+02:28:08.440 --> 02:28:14.120
+neue Erkenntnis raus. Es war sozusagen klar, dass wenn man, wenn man Wirt-Embeddings-Netzwerk,
+
+02:28:14.120 --> 02:28:19.280
+was auf Transformator-Logik basiert, also das ist sozusagen der neueste Shit von den Attention-
+
+02:28:19.280 --> 02:28:29.040
+Netzwerks, wenn man das macht, dann war sozusagen klar, dass das hammermäßig wird. Das war damals
+
+02:28:29.040 --> 02:28:33.840
+schon klar und niemand würde das machen, weil es einfach nur Geld kostet und Arbeit. Und ja,
+
+02:28:33.840 --> 02:28:41.240
+Elon Musk's Open AI Company hat es dann halt gemacht. Das heißt, das ist wirklich eher so
+
+02:28:41.240 --> 02:28:46.280
+ein PR-Trick. Klar, damit kann man viel rumspielen und das ist auch nice, aber naja. Da steckt nicht
+
+02:28:46.280 --> 02:28:50.960
+viel neue Erkenntnis dahinter. Die neue Erkenntnis wäre sozusagen, wenn man ein Netzwerk schaffen
+
+02:28:50.960 --> 02:28:55.120
+würde, was generalisieren könnte, was also wirklich objektorientiert programmieren könnte. Und da
+
+02:28:55.120 --> 02:29:02.040
+kommen wir jetzt wieder zu so einem Ding zurück. Diesen Spruch habe ich wirklich verinnerlicht.
+
+02:29:02.040 --> 02:29:09.800
+Ihr habt es erst verstanden, wenn ihr es programmieren könnt. Und so ein bisschen, so habe ich auch das
+
+02:29:09.800 --> 02:29:14.920
+Gefühl für diese künstliche Intelligenz, wenn man eine künstliche Intelligenz hinkriegen würde,
+
+02:29:14.920 --> 02:29:22.040
+die ein Problem hernimmt, es analysiert und dann programmieren kann, dann könnte man vielleicht
+
+02:29:22.040 --> 02:29:28.640
+davon reden, dass sie es verstanden hat. Weil die KI dann selber dazu in der Lage ist, zu abstrahieren
+
+02:29:28.640 --> 02:29:37.160
+und es auf eine Domäne abzubilden, die was mit Computation zu tun hat, also mit Berechnung. In
+
+02:29:37.160 --> 02:29:41.920
+dem Moment, wo man das Problem berechnen kann, quantifizieren kann. In dem Moment hat man das
+
+02:29:41.920 --> 02:29:49.120
+Problem verstanden. Und Mathematik ist ja auch zumindest insofern ein bisschen allgemeiner und
+
+02:29:49.120 --> 02:29:57.080
+abstrakter als das Joshua Bach zum Beispiel, der sagt ja, Mathematik ist, was sagt er,
+
+02:29:57.080 --> 02:30:05.880
+es ist die Domäne aller Sprachen. Ich glaube, so sagt das. Und da steckt viel Weisheit drin.
+
+02:30:05.880 --> 02:30:12.640
+Ich hatte damals, als ich 18 oder so, da hat mir mal ein Kumpel gesagt, Mathematik ist die Lehre
+
+02:30:12.640 --> 02:30:18.720
+der Abbildung. Und das war schon eine ziemlich fresche Beschreibung für das, was Mathematik ist.
+
+02:30:18.720 --> 02:30:22.920
+Aber ich finde, das, was Joshua Bach gesagt hat, ist noch ein bisschen geiler. Es ist sozusagen
+
+02:30:22.920 --> 02:30:34.600
+das Wesen aller Sprachen. Also jede Sprache ist in sich schon so ein bisschen Mathematik. Zumindest,
+
+02:30:34.600 --> 02:30:39.960
+weil es sozusagen Kausalität ausdrücken will. Es will nicht nur Korrelation ausdrücken, Sprache
+
+02:30:39.960 --> 02:30:46.280
+will Kausalität machen. Es will erklären, wenn, dann und deswegen ist das so und so. Es will
+
+02:30:46.280 --> 02:30:51.800
+sozusagen diese fundamentalen Zusammenhänge erklären. Das, was sozusagen der wesentliche
+
+02:30:51.800 --> 02:31:01.800
+Unterschied zwischen Lernen und Verstehen ist. Und ich denke, ich mache es jetzt folgendes. Ich
+
+02:31:01.800 --> 02:31:08.320
+habe nämlich jetzt noch einen guten Tag. Ich mache jetzt den Stream aus und dann mache ich den Stream
+
+02:31:08.320 --> 02:31:12.680
+wieder an. Einfach nur, damit ich zwei Streams habe. Damit ich das später besser trennen kann.
+
+02:31:12.680 --> 02:31:15.640
+Also sehen wir uns gleich.
+

@@ -1,0 +1,261 @@
+start	end	text
+0	6000	Das ist ja eine interessante Beobachtung. Mensch Morph, da sagst du mal was, das ist ja total einfach.
+6000	12000	Denn ist es jetzt nicht einfach so, dass die größten Unternehmen Inflation erzeugen?
+12000	16000	Ja, eigentlich schon, weil die ja die Preise festlegen.
+16000	20000	Und sind es dann nicht auch dieselben, sagen wir mal, die größten Kapitalisten,
+20000	25000	die in neoliberalen Thinktanks drin sitzen und andere dafür bezahlen,
+25000	29000	diese Lügenmärchen von Inflation zu erzählen, die Milton Friedman groß gemacht haben,
+29000	33000	weil er zum richtigen Zeitpunkt das Richtige erzählt hat, was Kapitalisten hören wollten?
+33000	38000	Oh Wunder, oh Wunder. Mir kommt es so vor, als wäre die Mainstream-Meinung
+38000	43000	über wirtschaftliche Prozesse irgendwie gelenkt von einflussreichen Thinktanks.
+43000	58000	Schwurbel jetzt.
+58000	64000	Eigentlich meint Schwurbel ja immer, wenn jemand argumentiert,
+64000	69000	ohne jetzt mal ganz konkret klar machen zu können, was er eigentlich meint.
+69000	73000	Also wenn er keine Quellenangaben zum Beispiel hat oder nicht genau weiß,
+73000	78000	worüber er eigentlich redet. Eigentlich dann redet man immer von Schwurbeln.
+78000	83000	Also wenn irgendwie alles ziemlich Fuzzy-Logic-mäßig ist bzw. so komplett verschwammigt.
+83000	90000	Und was ich damit aber auch oft verbinde, ist so, wenn Leute Annahmen treffen
+90000	97000	über Kausalitäten, sprich sich Modelle herbeifantasieren und dann einfach vermuten,
+97000	104000	dass die richtig sind. Also das ist etwas, was ich auch Schwurbeln nennen würde.
+104000	109000	Ich bin mir fast sicher, dass das der allgemeine Sprachgebrauch nicht hergibt,
+109000	115000	aber trotzdem mache ich das ständig. Ich sage das ständig und ein gutes Beispiel,
+115000	123000	um jetzt das Video einzulöten, ist, was man oft in so einer typischen Wirtschaftswissenschaften-Vorlesung
+123000	129000	hört, ist, wenn man jetzt so ein Beispiel hat, sagen wir mal ihr seid Jäger und Sammler und ihr geht raus
+129000	134000	und ihr habt irgendwie eine feste Zeit am Tag, die ihr das macht, sagen wir mal zwei Stunden lang.
+134000	141000	Und ihr könnt einfach entweder Bären sammeln oder Hasen jagen. Und sagen wir mal,
+141000	150000	ihr fangt irgendwie zehn Hasen und keine Bären, dann kriegt man so Tabellen mit fiktiven Werten.
+150000	157000	Wenn ihr jetzt einen Hasen weniger sammelt, dann könnt ihr dafür 100 Bären sammeln.
+157000	167000	Und dann kann man sogenannte Opportunitätskosten einführen und diesen Begriff damit klar machen.
+167000	172000	Und dann werden so fiktive Beispiele herbeifantasiert. Zum Beispiel ein weiterer Hase,
+172000	179000	den ihr nicht jagt, würde nur noch 90 weitere Bären bringen. Nicht 100, sondern nur noch 90.
+179000	186000	Und jetzt so als Beispiel. Und dahinter steht sozusagen die Idee, naja, es könnte Effekte geben,
+186000	191000	die dazu führen, dass die ersten 100 Bären leichter sind als die nächsten 100 Bären zu sammeln.
+191000	198000	Zum Beispiel, weil man weiter weggehen muss und wieder zurückkommen muss zu dem, wo man hergekommen ist oder so.
+198000	205000	Oder was weiß ich, weil die ersten Bären sammeln schlicht einfacher ist, weil sagen wir mal,
+205000	211000	ihr habt eine dichte Wiese voll mit Zeug. Sagen wir mal, das sind die 100 und dann sind die dünner besiedelt oder so.
+211000	216000	Oder man könnte auch sagen, Hasen werden zunehmend schwerer zu sammeln.
+216000	221000	Weil sagen wir mal, ihr schießt den ersten Tod, dann hören die das und dann sind die in Alarmbereitschaft oder so.
+221000	226000	Und je mehr ihr Tod schießt, desto mehr sind die in Alarmbereitschaft, desto schwieriger wird es, noch mehr zu fangen.
+226000	230000	Oder andersrum. Man könnte auch einen anderen Effekt sich überlegen.
+230000	238000	Zum Beispiel, ihr als Jäger, ihr werdet immer besser darin, je mehr Hasen ihr tötet, desto besser werdet ihr darin.
+238000	244000	Oder was weiß ich, ihr habt irgendwelche Formen von speziellen Rudeltieren, dass wenn ihr die ausbürdeln müsst
+244000	250000	und die verstecken sich in irgendwelchen ausgebürdelten Häuschen, dass ihr, wenn ihr einen tötet,
+250000	255000	dann gleich die ganze Schweinefamilie mit wegmetzeln könnt. Und deswegen ist es genau der andere Effekt.
+255000	262000	Je mehr ihr sammelt, desto mehr kriegt ihr als Bonus einen Tod geschlachtet und so.
+262000	270000	Also so oder so, man könnte sich Geschichten erfinden, sprich Modelle bauen, die den einen oder anderen Effekt modellieren.
+270000	277000	Und jetzt ist es so, für solche Dinge entwickelt man halt tatsächlich Modelle mit freien Parametern
+277000	282000	und sucht dann anhand von Messungen, sprich ihr geht raus, sammelt so und so viel Beeren in der und der Zeit
+282000	286000	und wie viele Hasen habt ihr dann noch? Wie viele Hasen könnt ihr dann noch schlachten oder so?
+286000	293000	Ihr versucht den Parameterraum mit diesen beiden Zahlen sozusagen abzutasten und guckt, wie weit ihr kommt bei gegebener Zeit.
+293000	298000	Und dann versucht man anhand von diesen Messungen später die Einflussfaktoren, die dazu führen,
+298000	304000	dass es halt steigende oder sinkende Opportunitätskosten gibt, irgendwie zu fitten an eurem Modell.
+304000	310000	Und das tut ihr, indem diese Parameter, die ihr freigelassen habt, die identifiziert ihr mit so, naja, mit Wichtung.
+310000	315000	Wie stark wichtet ein Effekt rein? Weil garantiert sind alle Effekte gleichzeitig da.
+315000	323000	Man muss weiter weggehen, wenn man mehr Beeren sammeln will. Man wird wahrscheinlich besser, wenn man Hasen schlachtet.
+323000	327000	Aber man wird wahrscheinlich nicht um so viel besser, wie die ängstlicher werden oder so.
+327000	330000	Das heißt, das muss sozusagen durch eine Messung bestätigt werden.
+330000	336000	Und dann gibt es sozusagen ganz normale Verfahren, mathematische Modelle an sowas ranzufitten, an solche Daten.
+336000	343000	Und das ist typischerweise übrigens ein Schritt, der in gewöhnlichen Mainstream-Wirtschaftswissenschaften überhaupt gar nicht erst gemacht wird.
+343000	346000	Das passiert gar nicht erst.
+346000	351000	Insbesondere passiert es deswegen nicht, weil solche Datenerhebungen gar nicht vorliegen.
+351000	355000	Ihr müsst euch das vorstellen.
+355000	359000	Da gibt es sozusagen angebliche Wissenschaften und die befassen sich mit irgendwas.
+359000	363000	Und alle Daten, die ihr in den Vorlesungen seht, sind fiktiv, die sind ausgedacht.
+364000	368000	Es gibt schlichtweg nicht die Datenerhebungen, um irgendwie deren Modelle überhaupt zu stützen.
+368000	374000	Weil offenbar gar kein Interesse daran besteht, überhaupt zu schauen, wie die Welt in Daten wirklich aussieht.
+374000	383000	Und ich habe jetzt hier sozusagen mir ein paar Beispiele überlegt, die immer dieses Ding innehaben, was ich Schwurbeln nenne.
+383000	385000	Weil das ist für mich Schwurbelei.
+385000	391000	Die CDU glaubt zum Beispiel, dass die Hartz-IV-Reform sich so und so auswirken wird.
+391000	393000	Das ist sozusagen so ein Standardding.
+393000	397000	Und alles, was sie glauben, ist aber tatsächlich einfach nur Glauben und Ideologie.
+397000	403000	Sie lassen gar keine empirischen Befunde zu, die ihrer Ideologie versprechen könnten.
+403000	405000	Das ist das, was sie tun.
+405000	414000	Und was weiß ich, so wie wenn Unternehmer überall und vor allem sozusagen die Konzerne rumheulen, wenn über Mindestlohn geredet wird.
+414000	425000	Und auch damals haben sie sich prophetisch dabei herbeigeredet, dass wenn die Kinderarbeit abgeschafft wird, dass dann alle Konzerne pleite gehen und so ein Scheiß.
+425000	430000	Und was weiß ich, Neoliberale meinen ja auch, dass Privatisierung immer was bringt.
+430000	434000	Und sie meinen auch, dass der Wettbewerb die Ursache für Fortschritt ist.
+434000	440000	All diese Sachen kann man eigentlich, wenn man kurz mal hinguckt, direkt falsifizieren, diese Aussagen.
+440000	445000	Sie meinen irgendwie typischerweise, irgendwas verstanden zu haben.
+445000	448000	Dabei vertauschen sie bestenfalls Korrelation mit Kausalität.
+448000	455000	Typischerweise muss ich aber sagen, was ich oft beobachte, ist, dass sie ihre Fiktion, ihre reine Fiktion mit der Realität verwechseln.
+455000	461000	Weil es nicht mal Daten gibt, die wenigstens die Korrelation unterstützen.
+461000	463000	Nicht mal das können sie oft zeigen.
+464000	471000	Und damit komme ich dann zu so einem Zitat, das habe ich gestern erst, wurde mir das in die Timeline geschissen.
+471000	475000	Es ist vermutlich ein Fake-Zitat, ich konnte es jedenfalls auf Deutsch nicht finden.
+475000	477000	Ich habe es aber mal auf Deutsch übersetzt.
+477000	485000	Eine falsche Zuschlussfolgerung, die einmal weithin akzeptiert wurde, lässt sich nicht so leicht aus dem Weg räumen.
+485000	490000	Und je weniger sie verstanden wird, desto hartnäckiger wird an ihr festgehalten.
+490000	495000	Das soll angeblich Cantor gesagt haben. Keine Ahnung, ob das so ist.
+495000	503000	Anderes Beispiel, aktuelles Beispiel, und das war eigentlich der Aufhänger für dieses Video, die sogenannte Lohn-Preisspirale.
+503000	509000	Alle Leute heulen rum und sagen, wenn die Löhne steigen, dann gibt es sofort Inflation, weil ja die Leute mehr Geld ausgeben.
+509000	517000	Was wir aber eigentlich beobachten, ist jetzt im Moment die sogenannte Profit-Preisspirale oder auch die Gewinnflation.
+517000	528000	Und es ist interessant, weil über diese Lohn-Preisspirale wurde jetzt gerade auch in Krisenzeiten immer übelst viel rumgeschwurbelt von den ganzen Wirtschaftsweisen und den Experten.
+528000	533000	Von wegen, wir können jetzt nicht die Löhne anheben, das würde die Inflation nur noch viel stärker machen und so.
+533000	544000	Und jetzt ist aber tatsächlich für meine Beobachtung in dem Mainstream angekommen, dass es sich tatsächlich um eine Gewinnflation handelt.
+544000	551000	Und es gibt irgendwie, ich habe ein paar Artikel jetzt für euch in der Beschreibung verlinkt, einen von der Zeit, einen vom Handelsblatt.
+551000	559000	Und selbst so Washington Post und New York Times und so, alle schreiben sie darüber oder auch die World Socialist Journal.
+559000	569000	Alle die, die machen das. Die haben jetzt alle sozusagen Artikel, Headlines, die sagen, ach guck mal hier, irgendwie sehen wir hier, dass alle Unternehmen übelst die Gewinne machen.
+569000	577000	Und Gewinn, erinnert euch mal, ist Erlös minus Kosten. Das heißt, da ist reiner Gewinn übrig und der korreliert richtig gut mit den Preissteigerungen.
+577000	583000	Ist ja erstaunlich. Wir hätten ja angenommen, dass die Krise die Inflation verursacht und deswegen alles teurer wird.
+583000	593000	Aber was soll ich sagen, das ist halt Müll. Und ihr müsst euch nochmal überlegen, wie war das nochmal mit dem Geld, was in der Energiekrise jetzt direkt in Profite umgewandelt wurde.
+593000	600000	Überraschung. Die Überraschung lautet jetzt, Preissteigerungen haben doch tatsächlich was mit den Leuten zu tun, die diese Preise festlegen.
+600000	607000	Das hätte ja niemand gedacht, weil die Wirtschaftswissenschaften tun ja immer so, als gäbe es da Naturgesetze und Naturkatastrophen und Mechanismen,
+607000	614000	die keiner so richtig durchblickt, so richtig schwurbelig und die dann dazu führen, dass jetzt einfach überall die Preise hochgehen.
+614000	620000	Aber was soll ich dazu sagen? Ich habe ja mein Video zur Inflation schon gemacht und genau das habe ich ja da rausgearbeitet.
+620000	628000	Dass es erstaunlicherweise eine extrem gute Korrelation gibt mit einem Indikator, der einfach nur zeigt, dass die mächtigsten Unternehmen,
+628000	636000	die mächtigsten Konzerne auch die Preise und somit die Inflation steuern und dass die Inflation eigentlich ein Indikator für Machtkampf ist.
+636000	643000	Und jetzt kommt aber die Frage und die habe ich im Video da jetzt nicht beantwortet, aber jetzt kommt meine schwurbelige Erklärung.
+643000	648000	Warum warten die immer auf eine Krise, um das zu machen? Warum warten sie auf eine Krise?
+648000	657000	Und ich denke, es ist einfach so, zu Krisenzeiten wird ja weniger investiert, weil ja zum Beispiel zu Krisenzeiten auch Geld mehr kostet.
+657000	666000	Die Zinsen gehen ja da typischerweise hoch und ich habe ja in meinem Zinsvideo gesagt, Zins kann man erstmal so auf der Linie interpretieren wie Preis für Geld.
+666000	673000	Und es ist schlicht unwahrscheinlich, dass wenn weniger investiert wird, dass dann noch jemand in den Markt reinkommt und eine Disruption schafft,
+673000	678000	beziehungsweise die Konkurrenz wieder belebt und deswegen die Preise wieder drücken kann.
+678000	685000	Gerade zu Krisenzeiten, sagen wir mal, irgend so ein Tanker steckt irgendwo in irgendeinem Kanal fest oder es gibt irgendeinen Krieg.
+685000	698000	Gerade zu Krisenzeiten können sich Oligopole darauf eher verlassen, dass ihre ungerechtfertigten Preisanstiege, ihre Kartellabsichten vom Markt nicht reguliert werden,
+698000	704000	weil schlicht niemand mehr sonst im Markt mal schnell reinkommt und das Business wieder über den Haufen wirft.
+704000	709000	Das ist jetzt sozusagen meine Erklärung, warum wir gerade in Krisenzeiten dann sozusagen sowas beobachten können.
+709000	712000	Weil sonst würde man ja sagen, das hätten sie doch schon vorher machen können.
+712000	714000	Sie hätten es doch schon vor der Ukraine-Krise machen können.
+714000	716000	Ja klar, hätten sie es machen können.
+716000	723000	Aber dann wäre es wahrscheinlich, dass aus irgendeinem anderen Business schnell mal jemand mit zu viel Kohle rüberkommt und versucht, das Business kaputt zu machen,
+723000	728000	weil er sieht, oh, da warten saftige Gewinne, wenn ich einfach nur den Preis drücken kann.
+728000	736000	So und andere Beispiele für jetzt nicht nachschauen, egal ob die Behauptung stimmt oder nicht, ist sowas wie, wusstet ihr,
+736000	745000	ich zeige euch auch das Bild dazu, dass Deutschland seit immer schon mehr Strom nach Frankreich verkauft als andersrum.
+745000	750000	Und erinnert euch mal, das ist immer so ein Ding von wegen ja die Franzosen mit ihrem Atomstrom und so.
+750000	757000	Ich gehe davon aus, der Grund dafür ist in Wahrheit, dass wir ja viel mehr sozusagen zum Beispiel Windenergie haben.
+757000	766000	Na ja und wir wissen ja alle, die nachhaltigen sozusagen Energieträger sind ja die, die einfach kommen und da müssen wir sie verbreiten.
+766000	772000	Und wenn sie im Netz eingespeist werden und niemand sie verbraucht, naja, dann führt das dazu, dass wir sie loswerden müssen.
+772000	776000	Und deswegen exportieren wir sie dann wahrscheinlich sogar für negative Preise.
+777000	782000	Das ist wahrscheinlich auch die Erklärung für dieses Bild jetzt, aber so oder so diese Aussage von wegen,
+782000	788000	ja wir sind abhängig von den anderen, weil die den Atomstrom haben, kann man sozusagen in dieser einfachen Bilanz schon mal nicht sehen.
+790000	797000	So und ein anderes Bild, was ich auch gerade noch dabei gesehen habe, ist, was Politiker zum Atomausstieg prognostiziert haben.
+797000	802000	Dass es irgendwie eine echte Gefahr für Deutschland ist und ein sehr schwarzer Tag für Deutschland, wenn wir jetzt aussteigen.
+802000	806000	Und dass es ein dramatischer Irrtum ist, das zu tun.
+806000	811000	Dabei, wie gesagt, wir haben eh nur so ein paar Atomkraftwerke und ob wir die jetzt stilllegen oder nicht.
+811000	816000	Wie viel Prozent war das jetzt irgendwie? Vier Prozent oder weniger? Egal.
+816000	824000	Dadurch eine andere Aussage, eine andere Aussage wäre, dadurch, dass mehr Frauen in Grundfühlen und in der Kita arbeiten haben, jungs, ist schwerer.
+824000	829000	Und ich sag mal so, für solche Bauchie-Bauchie-Schwurbelein gibt es Soziologie.
+829000	839000	Genau dafür gibt es Soziologie. Und wenn ich mich richtig erinnere an den Talk mit Aladin bei Thilo Jung, da hat er gesagt, das ist zum Beispiel auch widerlegt.
+839000	844000	Durch Soziologie, durch Nachmessen, durch geschickte Datenerhebung und Nachgucken.
+844000	855000	Und so ein anderes Ding, so ein Standardding jetzt, ist zum Beispiel Angebot- und Nachfragekurven, was man in der Standardwirtschaftswissenschaften Vorlesung hat.
+855000	865000	Und ich finde, natürlich ist das erst mal sozusagen das Gesetz der Nachfrage, dass es steigt und Supply-Kurven, dass die sozusagen monoton steigen bzw. monoton fallen.
+865000	870000	Das sind intuitive Sachen, abhängig vom Preis. Und sie sind garantiert auch nicht komplett falsch.
+870000	875000	Das Problem ist, aber ich nehme an, dass es eher sowas ist wie eine erste Ordnung Tellerentwicklung.
+875000	880000	Und wenn die Auslenkungen gar nicht klein sind, dann ist die Entwicklung gar nicht mal vollständig.
+881000	885000	Dann werden die thermo-höhere Ordnung meistens wichtig sein und deswegen kann man sie nicht vernachlässigen.
+885000	898000	Insbesondere denke ich, wenn es eigentlich um Differentialgleichungssysteme handelt, dann könnten kleine Parameteränderungen, die jetzt irgendwie schlecht geschätzt sind, eine Riesenauswirkung auf die Dynamik des Systems haben.
+898000	902000	Die könnten die komplette Dynamik des Systems kippen lassen und in eine komplett andere Richtung konvergieren lassen.
+902000	905000	Das nennt man typischerweise Bifurcation übrigens.
+905000	910000	Aber mit sowas haben die Wirtschaftswissenschaften ja tatsächlich überhaupt nichts am Hut, zumindest nicht die Neoklassik.
+910000	921000	Und ja, weil besonders die Wirtschaftswissenschaften eben überhaupt nicht versuchen, ihre eigene Modelle-Reality zu checken, deswegen taugen sie meiner Meinung nach auch nur dazu, was sie im Moment sind.
+921000	924000	Wirtschaftswissenschaften sind im Moment eine Pipeline nach rechts.
+924000	934000	Und ich finde, es ist auch so, weil es so eine Art Sekte ist, sind es auch wirklich nützliche Idioten mit Anzügen, die irgendwie diese Illusionen haben, dass sie einen Durchblick haben.
+934000	940000	Dabei ist diese Illusion, die wird nur von denjenigen aufrechterhalten, für die sie eben diese nützlichen Idioten darstellen.
+940000	943000	So, das ist das, was ich sehe.
+943000	956000	Und ja, die Kapitalinteressen, die einfach nur permanent ausreden brauchen, wieso sie jetzt ihre Hierarchiestellung aufrechterhalten wollen, die sagen, das sagen sie natürlich nicht, das sagen sie nicht.
+956000	960000	Was sie sagen ist, sie sagen sowas wie, wieso die Löhne nicht angehoben werden dürfen.
+960000	962000	Sie sagen nicht, wir wollen unsere Macht behalten.
+962000	963000	Das steckt aber dahinter.
+963000	972000	Oder wieso das 49-Euro-Ticket nicht kostenlos sein kann oder wieso das Arbeitslosengeld abgeschafft gehört oder warum wir keine Kohlen für Schule haben.
+972000	984000	All das sind sozusagen Standardsprüche, die immer nur eigentlich in der Konsequenz haben, dass Leute ihre Machtposition behalten wollen bzw. aus oder verstärken wollen.
+984000	987000	Das ist das, was eigentlich dahinter steht.
+987000	995000	Und ja, ich denke, Schwurbeln in dem Sinne ist ein Massenphänomen.
+995000	1004000	Wir haben jetzt irgendwie simple Modelle und extrem viele kognitive Verzerrungen, zum Beispiel selektive Wahrnehmungen oder irgendeine andere von diesen 1000 Fallacies, die man machen kann.
+1004000	1010000	Und wir vermischen dann unsere Meinung, zum Beispiel Gesetz der Nachfrage oder so.
+1010000	1014000	Das ist ja erst mal nur unsere Meinung, weil wir diesen Eindruck haben.
+1014000	1016000	Und die hat jetzt aber erst mal nichts mit Fakten zu tun.
+1016000	1026000	Denn nochmal, so eine Nachfragekurve für den Markt kann laut Theorie eine beliebige Form haben und in der Tat ist sie niemals monoton, sondern die macht irgendwie sowas hier, wenn man nachmisst.
+1031000	1040000	Was wir dann typischerweise machen, wenn wir diese Meinung haben und die irgendwie mit Fakten nichts zu tun haben muss, dann vermischen wir das mit der Kenntnis, dass es da noch andere Menschen gibt, die eine ähnliche Meinung haben.
+1040000	1042000	Und das reicht uns dann.
+1042000	1045000	Das bestätigt uns und dann bleiben wir einfach cool, damit sind wir zufrieden.
+1045000	1053000	Das ist aber natürlich überhaupt nicht rational und es ist eben auch nicht das Versuchen von Schwachstellen im eigenen Weltbild zu finden, sondern das Gegenteil davon.
+1053000	1056000	Und ja, ich denke, das ist das, was die Neoklassik definitiv macht.
+1056000	1060000	Das habe ich ja extra in meinem Video Teil 7 schon erklärt, dass das genau das passiert.
+1060000	1066000	Die vertuschen aktiv ihre eigenen Erkenntnisse dann und schreiben Sachbücher mit Fake News dran und so.
+1066000	1072000	Ja, und ich denke bei all diesen Sachen, da kommt gezielt sowas wie zum Beispiel Soziologie eigentlich ins Spiel.
+1072000	1082000	Die ist ja wichtig und es ist eben genau zur Klärung bestimmter Sachverhalte, ist die gedacht, die soll jetzt genau messen, wie viel Hasen und Bären man in einer gewissen Zeit zum Beispiel messen kann.
+1082000	1084000	Und wie ist es denn jetzt nun?
+1084000	1090000	Was weiß ich, sind jetzt alle Ausländer wirklich mit einem Messer bewaffnet und sind sie alle wirklich Vergewaltiger?
+1090000	1094000	Und was verursacht jetzt eigentlich die Einkommensverteilung überhaupt?
+1094000	1097000	Korreliert die etwa mit den Kriminalitätsraten?
+1097000	1100000	Das könnte man ja herausfinden und ich spoilere schon mal.
+1100000	1101000	Ja, die Antwort lautet Ja.
+1101000	1104000	Wie ist es mit der Schuldengrenze?
+1104000	1111000	Die FDP und hier die österreichische Schule, die wollen ja immer die Schuldengrenze ein, dass die wollen, dass die eingehalten bleibt.
+1111000	1112000	Warum machen sie das?
+1112000	1118000	Na ja, weil damit die Machtbefugnisse sozusagen weiterhin aufrecht erhalten bleiben.
+1118000	1121000	Das ist das, was passiert, wenn man Schuldengrenzen einfordert.
+1121000	1125000	Was sie nicht wollen, ist, dass die Wirtschaft anders abläuft, als sie glauben.
+1126000	1134000	Und ja, nur wurde sozusagen die zugrundelingende Theorie zu diesem ganzen Bullshit, insbesondere was die österreichische Schule auch glaubte,
+1134000	1138000	das wurde schon im Babybett von den eigenen Gurus ermordet und dann vertuscht.
+1138000	1143000	Ich habe dazu, wie gesagt, Wirtschaftswissenschaften Teil 7, das habe ich da erklärt, wie das ist.
+1143000	1145000	Zumindest für die Nachfragenkurve habe ich da schon erklärt.
+1145000	1152000	Soziologie erklärt oder Spieltheorie und Evolutionstheorie und so, die erklärt, wie das ist mit der Natur des Menschen.
+1152000	1154000	Ich habe dazu ein Video gemacht mit den ganzen Quellen.
+1154000	1156000	Wie verhalten sich Menschen?
+1156000	1157000	Was ist mit Menschenmassen?
+1157000	1160000	Was ist mit Altersgruppen, mit Milieus, mit Kulturen?
+1160000	1164000	Dafür gibt es Soziologie, Anthropologie, dafür gibt es das alles.
+1164000	1173000	Und ja, das Problem ist immer, dass unser eigenes Modell, zum Beispiel jetzt böse Absicht, die wir anderen unterstellen, einfach mal nicht ausreichend ist.
+1174000	1184000	Die falsche Annahme über andere Personen zum Beispiel oder deren Zielfunktionen, die wir angeblich da irgendwie sehen,
+1184000	1187000	daraus folgt dann oft, dass wir sozusagen falsches Urteil über andere fällen.
+1187000	1193000	Ja, und dann die einzig mögliche Schussfolgerung noch das Modell für die böse Absicht ist.
+1193000	1199000	Und das verwenden viele, das Modell, nicht nur Rechte, sondern zum Beispiel auch die Internetwarrior
+1199000	1202000	oder auch standardmäßig alle Verschwörungstheorien.
+1202000	1207000	Und ja, die Anthropologie, zum Beispiel, die versucht, die Entstehung von solchen Aspekten zu erklären.
+1207000	1211000	Zum Beispiel das mit dem Matriarchat oder mit der Patrilokalität.
+1211000	1219000	Ja, und natürlich ist das alles ziemlich schwierig, weil das eben nicht, meistens ist es nicht direkt messbar, sondern immer nur indirekt, weil das meiste davon ja Emergenz ist.
+1219000	1222000	Und ja, da muss man sich halt wirklich mal einen Plan machen.
+1222000	1223000	Und das ist nicht einfach.
+1223000	1225000	Das ist wirklich nicht einfach.
+1226000	1229000	Das heißt, wenn ihr das nächste Mal Friedrich Merz hört, wie er irgendwie erzählt,
+1229000	1233000	er weiß ganz genau, wie sich eine bestimmte Sache angeblich auswirken wird,
+1233000	1237000	dann muss man ihm unterstellen, okay, Boy, du bist ein Schwurbler.
+1237000	1238000	Er schwurbelt.
+1240000	1246000	Und das sieht man auch bei vielen Medienhäusern, die irgendwie in Wahrheit Steigbügelhalter für Faschos sind.
+1246000	1253000	Die versuchen dann zum Beispiel jetzt ganz aktuell den Grünen da die übelste Korruption- und Petternwirtschaft zu unterstellen.
+1253000	1254000	Deswegen sollen sie das machen.
+1254000	1255000	Versteht mich da nicht falsch.
+1255000	1258000	Ich bin kein Freund der Grünen oder so.
+1258000	1264000	Auch wenn ich keine Ahnung jetzt an diesem angeblichen Skandal jetzt erst mal nichts Schlimmes sehe.
+1264000	1269000	Ich habe jetzt nur gesehen, gelesen, dass da irgendwie die Leute miteinander irgendwie Trauzeugen sind
+1269000	1275000	und jetzt auch irgendwie der doch den Ministerpusten nicht kriegt wegen dem ganzen, wegen dem ganzen Toru Baburu, was da entsteht.
+1275000	1283000	Witzigerweise ist es aber nur so, dass diese ganzen Medien, die standardmäßig bekannten Korruptionsfälle der letzten Jahrzehnte,
+1283000	1288000	die treten sie nicht breit und von denen wissen wir, dass sie Milliarden Schäden verursachen.
+1288000	1292000	Und da habe ich jetzt mal dieses Bild gerade auch in meine Timeline geschissen bekommen.
+1292000	1295000	Das könnt ihr euch ja mal reinziehen, worüber wir hier eigentlich reden.
+1295000	1304000	Und ja, und so ist es auch irgendwie mit den klassischen, mit der klassischen Fossillobby und den Klimaleugnern.
+1304000	1310000	Die Klimaleugner sind natürlich Schwurbler und es ist auch so, dass irgendwie es ist ja.
+1310000	1315000	Also erst mal ist bekannt, die großen Fossilunternehmen wissen das seit 50 Jahren mit dem Klimawandel
+1315000	1322000	und haben Riesen-PR-Agenturen sozusagen gegründet mit dem Ziel, das alles zu verheimlichen.
+1322000	1324000	Also eine echte Verschwörung quasi.
+1324000	1331000	Und ich finde auch zum Beispiel so ein grüner Finanzminister aus Baden-Württemberg oder hier diese eine Finanzfrau von der FDP.
+1331000	1333000	Die schwurbeln auch die ganze Zeit.
+1333000	1340000	Und wenn ihr da Zeit dafür habt, guckt euch mal bei Critical Infinity die beiden Videos an von den beiden Politikern.
+1340000	1341000	Ich werde die euch verlinken.
+1341000	1348000	Da habe ich mit den Boys von Critical Infinity zwei Tilo jungen Interviews komplett kaputt gemacht und kommentiert sozusagen.
+1348000	1357000	Und ja, auch die Meister mit der Mut zur Wahrheit sind natürlich immer nur permanent am Lügen.
+1357000	1360000	Einfaches, ganz einfaches Beispiel einfach mal jetzt rausgepickt,
+1360000	1368000	wo sie Fake News über irgendwelche grünen Politiker erzeugen und einfach bewusst lügen, um irgendwie Stimmen zu fangen und so.
+1368000	1369000	Ganz normal.
+1369000	1374000	Ja, und immer wenn Politiker ihre Arbeitsverweigerung, insbesondere die Konservativen,
+1374000	1380000	ihre Arbeitsverweigerung mit Vermutungen und Glauben rechtfertigen, dann muss man sie als Schwurbler identifizieren.
+1380000	1386000	Es gibt nicht umsonst Forschung zu all den Themen, die heutzutage gesellschaftlich relevant sind.
+1386000	1387000	Dazu gibt es Forschung.
+1387000	1395000	Nur holen sich Politiker aufgrund des Systemdesigns offenbar nicht die Hilfe bei Leuten, die sich mit Inhalten auskennen,
+1395000	1398000	sondern grundsätzlich mit den Leuten, die Teil von Machthierarchien selbst sind.
+1398000	1404000	Und daher haben sie typischerweise dann am Ende mehr Interessen gemeint mit diesen Machthierarchien.
+1404000	1408000	Kapitalismus ist sozusagen die einzige Verschwörungstheorie, die wir brauchen.
+1408000	1417000	Und das ist auch das einzige, was wir brauchen, um die materiellen Erklärungen für die meisten gesellschaftlichen Aspekte heutzutage irgendwie hinzuschreiben.
+1417000	1428000	Und ich denke mal, wir checken das nicht als Gesellschaft, weil wir einfach zu viel Aufmerksamkeitsökonomie und Marktdynamik haben,
+1428000	1433000	die durch Kasualisierung, also als Resultat von Märkten, genau das verursacht.
+1433000	1438000	Und ja, ich denke mal, wir checken es nicht und werden weiterhin verbrennen.
+1438000	1441000	Aber ja, reingehauen, YouTube, viel Spaß.
+1643000	1645000	Das war's für heute.
+1645000	1647000	Vielen Dank fürs Zuschauen.
+1647000	1649000	Bis zum nächsten Mal.
+1649000	1651000	Tschüss.
+1703000	1719000	Übrigens, der Kanal ist wie eine schöne Vorlesung aufgebaut.
+1719000	1726000	Wenn ich unten Videos verlinke, dann wäre es angebracht, sich die auch reinzuziehen, weil das aufeinander aufbaut.
+1726000	1729000	Bestimmte Begriffe werden definiert, viele Beispiele werden genannt.
+1729000	1737000	Und ja, ich denke mir schon was dabei, weil es sozusagen meinen eigenen Erkenntnisprozess abbildet, die Reihenfolge, in denen ich die Videos hier hochlade.

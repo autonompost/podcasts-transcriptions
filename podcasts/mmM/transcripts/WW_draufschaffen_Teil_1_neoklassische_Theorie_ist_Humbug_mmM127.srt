@@ -1,0 +1,1436 @@
+1
+00:00:00,000 --> 00:00:05,500
+Sie haben sozusagen dann gesehen, sie kriegen überall Korrelationskoeffizienten von 99,9% oder so was.
+
+2
+00:00:05,500 --> 00:00:09,500
+Und waren total überrascht und dachten, sie sind die Allergeilsten, sie haben es voll drauf.
+
+3
+00:00:09,500 --> 00:00:12,500
+Das war sozusagen das, was sie beobachtet haben. Sie haben Folgendes gemacht.
+
+4
+00:00:12,500 --> 00:00:19,000
+Sie haben in ihr Modell neoklassische Theorie reingesteckt und waren dann total verwundert, dass die immer funktioniert.
+
+5
+00:00:19,000 --> 00:00:22,000
+Ganz einfach, weil sie per Definition immer wahr ist.
+
+6
+00:00:22,000 --> 00:00:26,500
+Egal wie man es anstellt, man kann dieses Ding überhaupt nicht falsifizieren.
+
+7
+00:00:26,500 --> 00:00:29,500
+Es ist nämlich eine Identität, die muss immer wahr sein per Definition.
+
+8
+00:00:29,500 --> 00:00:31,000
+Das ist so witzig.
+
+9
+00:00:45,000 --> 00:00:51,000
+So Leute, ich hatte mal irgendwann im sechsten Semester oder so, ich weiß nicht mehr genau,
+
+10
+00:00:51,000 --> 00:00:57,000
+eine Vorlesung, die hieß, nicht lineare Systeme oder dynamische Systeme oder so.
+
+11
+00:00:57,500 --> 00:01:02,500
+Und die war gemacht von so einem Typen, der auch so granulare Medien und so macht.
+
+12
+00:01:02,500 --> 00:01:06,000
+Aber was er da zeigen wollte in der Vorlesung öfter, war so Musterbildung.
+
+13
+00:01:06,000 --> 00:01:09,000
+Und sein Beispiel war zum Beispiel Zebrastreifen.
+
+14
+00:01:09,000 --> 00:01:14,500
+Kann man irgendwie ermitteln, wieso die jetzt eine gewisse, wieso die genau so einen Abstand haben,
+
+15
+00:01:14,500 --> 00:01:19,000
+wie das, was wir bei Zebras beobachten können. Oder irgendwelche Muster auf Muscheln oder so.
+
+16
+00:01:19,000 --> 00:01:23,500
+Oder wenn man irgendwie Flüssigkeiten hat, die an der Regenscheibe runtertropfen.
+
+17
+00:01:23,500 --> 00:01:27,500
+Kann man irgendwie sich überlegen, wie muss sozusagen die räumliche Frequenz,
+
+18
+00:01:27,500 --> 00:01:31,500
+also die Wellenlänge sein zwischen den einen Tropfen, der da runterkullert
+
+19
+00:01:31,500 --> 00:01:35,500
+und so ein Wasserfaden hinter sich herzieht und demnächst benachbarten Wasserfaden.
+
+20
+00:01:35,500 --> 00:01:39,000
+Und kann man da irgendwie im Schnitt so eine durchschnittliche Abstand ermitteln.
+
+21
+00:01:39,000 --> 00:01:40,500
+Kriegt man das irgendwie aus der Theorie raus.
+
+22
+00:01:40,500 --> 00:01:43,500
+Also in dem Fall hat es ja was mit Oberflächenspannung zu tun und so.
+
+23
+00:01:43,500 --> 00:01:46,000
+Das war sozusagen die Fragestellung in der Vorlesung.
+
+24
+00:01:46,000 --> 00:01:49,000
+Und ich hatte irgendwann so einen kurzen Moment in der Vorlesung,
+
+25
+00:01:49,000 --> 00:01:51,500
+wo ich mich dann auch gemeldet habe und ihn gefragt habe,
+
+26
+00:01:51,500 --> 00:01:56,000
+haben wir nicht gerade das reingesteckt, was wir hinterher beobachten wollen.
+
+27
+00:01:56,000 --> 00:02:01,500
+Also haben wir nicht sozusagen einen Zirkelschluss gemacht und jetzt gezeigt,
+
+28
+00:02:01,500 --> 00:02:07,000
+dass wir das, was wir vorher reingesteckt haben, auch tatsächlich rausbekommen als Ergebnis.
+
+29
+00:02:07,000 --> 00:02:08,500
+Und da brauchen wir ja gar nicht verwundert sein.
+
+30
+00:02:08,500 --> 00:02:10,500
+Ich hatte kurz diesen Eindruck.
+
+31
+00:02:10,500 --> 00:02:15,500
+Was ich aber irgendwie, was ich aber da an dem Tag nicht so richtig gecheckt hatte,
+
+32
+00:02:15,500 --> 00:02:19,500
+war, dass man da im Prinzip einfach nur einen Ansatz gemacht hat für eine Differenzialgleichung.
+
+33
+00:02:19,500 --> 00:02:22,500
+Und die Differenzialgleichung, die kam natürlich aus First Principles,
+
+34
+00:02:22,500 --> 00:02:26,500
+was man typischerweise die physikalischen Gesetze nennt.
+
+35
+00:02:26,500 --> 00:02:30,000
+Und das ist immer so, dass man einen Ansatz macht, wenn man Differenzialgleichung hat.
+
+36
+00:02:30,000 --> 00:02:32,500
+Und dann sozusagen, da sind typischerweise freie Parameter.
+
+37
+00:02:32,500 --> 00:02:36,000
+Und anhand dieser Dimension, wenn man das löst und die Parameter dann die Werte bestimmt,
+
+38
+00:02:36,000 --> 00:02:39,500
+indem man mal sozusagen Anfangsbedingungen oder echte Daten anwendet,
+
+39
+00:02:39,500 --> 00:02:44,000
+dann kriegt man sozusagen die Parameter raus und die sagen einem was über die Welt.
+
+40
+00:02:44,000 --> 00:02:45,500
+So funktioniert das eigentlich.
+
+41
+00:02:45,500 --> 00:02:48,500
+Ich hatte aber trotzdem kurz den Eindruck, dass das ein Zirkelschluss ist.
+
+42
+00:02:48,500 --> 00:02:49,500
+War aber keiner.
+
+43
+00:02:49,500 --> 00:02:52,500
+Und ganz anders ist das in der VWL.
+
+44
+00:02:52,500 --> 00:02:57,500
+Und ich habe ja schon gesagt, ich will mir jetzt dieses Buch von Anmar Scheik reinknallen,
+
+45
+00:02:57,500 --> 00:02:58,500
+diese 800 Seiten.
+
+46
+00:02:58,500 --> 00:02:59,500
+Ich habe noch nicht angefangen.
+
+47
+00:02:59,500 --> 00:03:01,500
+Aber wie bin ich überhaupt auf den Typen gekommen?
+
+48
+00:03:01,500 --> 00:03:07,500
+Na ja, ich habe so ein paar interessante Beiträge gefunden,
+
+49
+00:03:07,500 --> 00:03:10,500
+die so ein bisschen auf Inkonsistenzen in der VWL hinweisen.
+
+50
+00:03:10,500 --> 00:03:14,500
+Und da wurde ich sozusagen verlinkt auf dieses Paper von Anmar Scheik,
+
+51
+00:03:14,500 --> 00:03:17,500
+über das ich jetzt hier so ein bisschen reden will.
+
+52
+00:03:17,500 --> 00:03:18,500
+Und worum geht es?
+
+53
+00:03:18,500 --> 00:03:24,500
+Na ja, in der VWL gibt es die sogenannte neoklassische Theorie,
+
+54
+00:03:24,500 --> 00:03:28,500
+zum Beispiel der Produktionsfaktoren.
+
+55
+00:03:28,500 --> 00:03:32,500
+Und es gab zwei Typen, Cobb und Douglas heißen die.
+
+56
+00:03:32,500 --> 00:03:38,500
+Und die haben eine sogenannte Cobb-Douglas-Produktionsfunktion gefunden.
+
+57
+00:03:38,500 --> 00:03:41,500
+Es war sozusagen eine große Errungenschaft.
+
+58
+00:03:41,500 --> 00:03:46,500
+Und im Prinzip handelt es sich um eine Ersatzfunktion, eine sogenannte Serogate Function.
+
+59
+00:03:46,500 --> 00:03:49,500
+Die nehmen nämlich Folgendes an.
+
+60
+00:03:49,500 --> 00:03:54,500
+Der Ertrag, den man typischerweise aus einem Produktionsprozess bekommt
+
+61
+00:03:54,500 --> 00:03:59,500
+oder aus einer Firma oder aus einer Gesamtnationalökonomie,
+
+62
+00:03:59,500 --> 00:04:03,500
+der unterliegt bestimmten Gesetzmäßigkeiten,
+
+63
+00:04:03,500 --> 00:04:08,500
+die sozusagen die neoklassische Theorie einfach postuliert.
+
+64
+00:04:08,500 --> 00:04:14,500
+Und die stecken jetzt sozusagen diese Postulate der neoklassischen Theorie
+
+65
+00:04:14,500 --> 00:04:18,500
+sozusagen als Bedingung rein in ihre Funktion.
+
+66
+00:04:18,500 --> 00:04:20,500
+Und sie wollen eine Ersatzfunktion finden, die das macht.
+
+67
+00:04:20,500 --> 00:04:24,500
+Sie gehen also davon aus, es gibt einen funktionalen Zusammenhang
+
+68
+00:04:24,500 --> 00:04:29,500
+zwischen sogenannten Produktionsfaktoren und dem Erlös oder dem Output
+
+69
+00:04:29,500 --> 00:04:33,500
+eines Produktionsprozesses bzw. einer Nationalökonomie.
+
+70
+00:04:33,500 --> 00:04:39,500
+Dass sozusagen alles abbildbar ist mit so einer kleinen Touring-Maschine,
+
+71
+00:04:39,500 --> 00:04:42,500
+in die man sozusagen diese beiden Sachen zum Beispiel reinsteckt, Produktionsfaktoren.
+
+72
+00:04:42,500 --> 00:04:44,500
+Und hinten kommt sozusagen das Ergebnis heraus.
+
+73
+00:04:44,500 --> 00:04:45,500
+Das ist die Idee.
+
+74
+00:04:45,500 --> 00:04:48,500
+Und die Frage war sozusagen, finden wir einen funktionalen Zusammenhang?
+
+75
+00:04:48,500 --> 00:04:50,500
+Können wir das modellieren? Mit ein paar Parametern dran.
+
+76
+00:04:50,500 --> 00:04:53,500
+So ähnlich wie die Ansätze bei den Differential-Gleichungen auch.
+
+77
+00:04:53,500 --> 00:04:56,500
+Bloß dass sie sozusagen nicht auf First Principles beruhen,
+
+78
+00:04:56,500 --> 00:04:59,500
+sondern einfach auf neoklassische Theorie, die nicht weiter erklärt wird.
+
+79
+00:04:59,500 --> 00:05:05,500
+Und auch wie ich später wahrscheinlich noch mehr ausführen werde in dieser Videoreihe,
+
+80
+00:05:05,500 --> 00:05:11,500
+die ich jetzt anfange, die relativ eigentlich gar nicht gut begründet werden können.
+
+81
+00:05:11,500 --> 00:05:13,500
+Sondern eher esoterik sind.
+
+82
+00:05:13,500 --> 00:05:18,500
+Und alles so ab dem Zeitpunkt, wo so Milton Friedman und so Konsorten angefangen haben,
+
+83
+00:05:18,500 --> 00:05:22,500
+Wirtschaftswissenschaften zu betreiben, eigentlich der ganze Spaß erst richtig losging.
+
+84
+00:05:22,500 --> 00:05:26,500
+Und jetzt zu dieser Produktionsfunktion. Was sollte die machen?
+
+85
+00:05:26,500 --> 00:05:34,500
+Also erstmal haben sie sozusagen diese Funktion mehr oder weniger kaffeesatzmäßig erraten.
+
+86
+00:05:34,500 --> 00:05:39,500
+Also sie haben sozusagen übelst viele Daten sich angeguckt und einen riesen Aufsatz geschrieben.
+
+87
+00:05:39,500 --> 00:05:40,500
+Ich hab das Paper nicht komplett gelesen.
+
+88
+00:05:40,500 --> 00:05:43,500
+Es ist wirklich übelst lange Wall of Text, bis es dann losgeht im Punkt 6,
+
+89
+00:05:43,500 --> 00:05:47,500
+wo sie dann diese Funktion hinschreiben oder den Ansatz machen.
+
+90
+00:05:47,500 --> 00:05:53,500
+Und vielleicht werde ich auch ein paar Sachen einblenden aus den Papern, über die ich jetzt hier rede.
+
+91
+00:05:53,500 --> 00:05:54,500
+Was soll sie machen?
+
+92
+00:05:54,500 --> 00:06:00,500
+Sie soll den sogenannten Grenzertag bei konstantem Kapitalstock, der soll gegen eine Konstante gehen.
+
+93
+00:06:00,500 --> 00:06:01,500
+Was bedeutet das?
+
+94
+00:06:01,500 --> 00:06:09,500
+Wenn ihr den Kapitalstock, also sozusagen das Investment oder was ihr an Kapital reintut in den Produktionsprozess,
+
+95
+00:06:09,500 --> 00:06:17,500
+wenn der konstant bleibt, das könnte zum Beispiel sowas sein wie Material für eure Fließbrandproduktion von Kaffeetassen.
+
+96
+00:06:17,500 --> 00:06:19,500
+Das Beispiel aus meinem letzten Video.
+
+97
+00:06:19,500 --> 00:06:25,500
+Wenn das so ist, dann soll, wenn ihr zusätzliche Arbeit in den Produktionsprozess reintut,
+
+98
+00:06:26,500 --> 00:06:38,500
+dann soll das Output davon nur noch immer weniger effizient werden dadurch und de facto im Prinzip gegen eine Konstante gehen.
+
+99
+00:06:38,500 --> 00:06:43,500
+Das heißt, irgendwann ist es so, dass ein zusätzlicher Arbeiter am Fließband nicht mehr viel mehr bringt.
+
+100
+00:06:43,500 --> 00:06:47,500
+Am Anfang, wenn ihr sozusagen ein Fließband habt und ihr habt nur einen Arbeiter und ihr tut noch einen dazu,
+
+101
+00:06:47,500 --> 00:06:53,500
+dann ist es quasi eine Verdopplung, weil sozusagen so viel Material da ist, dass ihr den Produktionsprozess auf jeden Fall knüppeln könnt.
+
+102
+00:06:53,500 --> 00:06:55,500
+Aber irgendwann gibt es eine Sättigung.
+
+103
+00:06:55,500 --> 00:07:00,500
+Das ist sozusagen eine Sache, die die Produktionsfunktion, die Douglas Produktionsfunktion erfüllen soll.
+
+104
+00:07:00,500 --> 00:07:07,500
+Und das bedeutet im Prinzip, dass die Ableitung von dem Ding monoton gegen Null geht im Unendlichen.
+
+105
+00:07:07,500 --> 00:07:13,500
+Also die muss abnehmen mit der Arbeit, mit der Arbeitskraft, wenn ihr die wachsen lasst.
+
+106
+00:07:13,500 --> 00:07:19,500
+Die nächste Eigenschaft ist, es muss die sogenannte abnehmende Grenzrate der technischen Substitutionen da sein.
+
+107
+00:07:19,500 --> 00:07:21,500
+Was meint man damit?
+
+108
+00:07:21,500 --> 00:07:25,500
+Naja, man kann entweder Arbeit mit Kapital substituieren.
+
+109
+00:07:25,500 --> 00:07:32,500
+Also ich kann mehr Geld, mehr sozusagen investieren und dafür weniger Arbeiter haben, die ich dann teurer bezahle oder so.
+
+110
+00:07:32,500 --> 00:07:36,500
+Oder mehr Arbeiter reinstecken und dafür weniger bezahlen.
+
+111
+00:07:36,500 --> 00:07:38,500
+Das ist sozusagen, ich kann die umrechnen ineinander.
+
+112
+00:07:38,500 --> 00:07:41,500
+Es muss also irgendwie einen funktionalen Zusammenhang zwischen diesen beiden geben.
+
+113
+00:07:41,500 --> 00:07:43,500
+Das stecken die da sozusagen schon rein.
+
+114
+00:07:43,500 --> 00:07:48,500
+Wenn man den Output konstant lässt.
+
+115
+00:07:48,500 --> 00:07:51,500
+Und da redet man sozusagen von einer Isoquante.
+
+116
+00:07:51,500 --> 00:07:53,500
+Das erinnert mich so ein bisschen an Thermodynamik.
+
+117
+00:07:53,500 --> 00:07:55,500
+Da hat man sozusagen auch die Isokoren und die Isobanen und so.
+
+118
+00:07:55,500 --> 00:07:59,500
+Und da gibt es auch genau diese Sachen, dass sozusagen die Produkte von den Dingern eine Konstante sind.
+
+119
+00:07:59,500 --> 00:08:05,500
+Und daraus ergeben sich dann immer sozusagen die thermodynamischen Sonderfälle wie ideale Gasgleichung und so.
+
+120
+00:08:05,500 --> 00:08:11,500
+Und daraus kommt im Prinzip, folgt dann immer daraus, dass man immer so einen konvexen Graph kriegt.
+
+121
+00:08:11,500 --> 00:08:16,500
+Bei konstantem Output, dass sozusagen wenn das eine gegen unendlich geht, muss das andere gegen Null gehen.
+
+122
+00:08:16,500 --> 00:08:19,500
+Beziehungsweise wenn das eine gegen Null geht, muss das andere gegen unendlich gehen.
+
+123
+00:08:19,500 --> 00:08:23,500
+Und irgendwo da in der Mitte ist so ein Sweetspot, da will man am liebsten sein.
+
+124
+00:08:23,500 --> 00:08:28,500
+Weil da sozusagen die Raten die gleiche Dimension ungefähr haben.
+
+125
+00:08:28,500 --> 00:08:36,500
+Wenn ich also sagen wir mal einen Arbeiter hinzupacke, dann kann ich ein bisschen Kapital einsparen.
+
+126
+00:08:36,500 --> 00:08:37,500
+Ich kann aber auch den Freiheitsgrad haben.
+
+127
+00:08:37,500 --> 00:08:40,500
+Ich will, habe mehr Kapital und dann kann ich jemanden, also ich kann mehr investieren.
+
+128
+00:08:40,500 --> 00:08:43,500
+Und dafür kann ich aber ein Arbeiter wieder entlassen oder so.
+
+129
+00:08:43,500 --> 00:08:47,500
+Also sozusagen auf diesem Level spielt das und das ist halt eine konvexe Funktion, die sowas macht.
+
+130
+00:08:47,500 --> 00:08:49,500
+Typischerweise so ein 1 durch X Verlauf.
+
+131
+00:08:49,500 --> 00:08:54,500
+Muss, ist aber kein exakter 1 durch X Verlauf, das sieht man dann sozusagen am Ende was da rauskommt.
+
+132
+00:08:54,500 --> 00:09:03,500
+Und was es auch noch machen soll, die Surrogate Function, die muss sozusagen eine konstanten Skalenertrag in sich drin haben.
+
+133
+00:09:03,500 --> 00:09:04,500
+Was meinen die damit?
+
+134
+00:09:04,500 --> 00:09:09,500
+Naja, die Funktion, mathematisch gesehen, sie muss die Homogenität vom Grad 1 haben.
+
+135
+00:09:09,500 --> 00:09:11,500
+Ich glaube so heißt das.
+
+136
+00:09:11,500 --> 00:09:13,500
+Wie habe ich mir das hier hingeschrieben?
+
+137
+00:09:13,500 --> 00:09:21,500
+Ja genau, Homogenität vom Grad 1 bedeutet im Prinzip linear, wenn ich Arbeit und Kapital verdopple, dann verdoppelt sich auch das Output.
+
+138
+00:09:21,500 --> 00:09:23,500
+Wenn ich es verdreifache, dann verdreifacht sich das.
+
+139
+00:09:23,500 --> 00:09:24,500
+Das ist die Idee.
+
+140
+00:09:24,500 --> 00:09:26,500
+Und das ist so ungefähr die Idee.
+
+141
+00:09:26,500 --> 00:09:33,500
+Es soll aber auch noch, also ihr Modell sollte am besten auch noch Folgendes erzeugen, nämlich steigende und fallende Skalenerträge.
+
+142
+00:09:33,500 --> 00:09:39,500
+Das heißt, dass es nicht ganz sich verdoppelt, sondern vielleicht Faktor 1,1 oder so.
+
+143
+00:09:39,500 --> 00:09:47,500
+Also 101% zunehmend, wenn ich irgendwie, sagen wir mal, ich verdopple es und es soll sich nicht verdoppeln, sondern es soll ein bisschen mehr als verdoppelt werden.
+
+144
+00:09:47,500 --> 00:09:49,500
+Dann habe ich einen steigenden Skalenertrag.
+
+145
+00:09:49,500 --> 00:09:57,500
+Andersrum soll es vielleicht auch modellieren können, den Fall, dass selbst wenn ich es verdopple, es sich nicht ganz verdoppelt, sondern nur 90% noch oben draufkommt.
+
+146
+00:09:57,500 --> 00:09:59,500
+Also nicht ganz nochmal 100%.
+
+147
+00:09:59,500 --> 00:10:01,500
+Sowas soll das Modell auch können.
+
+148
+00:10:01,500 --> 00:10:06,500
+Und das stecken sie sozusagen rein in ihre Funktion und sie schlussfolgern, dass ihr Modell am Ende drei Parameter hat.
+
+149
+00:10:06,500 --> 00:10:09,500
+Zwei Exponenten und einen konstanten Skalenfaktor davor.
+
+150
+00:10:09,500 --> 00:10:11,500
+Der Skalenfaktor am Anfang war überhaupt nicht wichtig.
+
+151
+00:10:11,500 --> 00:10:14,500
+Später hat er sich gezeigt, dass man den auch noch gebrauchen kann für diese Theorie.
+
+152
+00:10:14,500 --> 00:10:24,500
+Der Witz ist, wenn man die jetzt sozusagen ableitet und sich das alles anguckt, dann stellt man fest, dass diese Exponenten, Alpha und Beta, die sie da drin haben, im Prinzip genau der Anteil ist der Produktionsfaktor.
+
+153
+00:10:24,500 --> 00:10:30,500
+Also zu wie viel Prozent konkret diese Exponenten, die gehen typischerweise zwischen 0 und 1, liegen die?
+
+154
+00:10:30,500 --> 00:10:34,500
+Sie können, und der Funktionalzusammenhang später soll sein, dass die Summe von den beiden eins ist.
+
+155
+00:10:34,500 --> 00:10:37,500
+Das heißt, man findet raus, die sind gar nicht unabhängig voneinander.
+
+156
+00:10:37,500 --> 00:10:48,500
+Je nachdem ist es auf jeden Fall so, die sollen sozusagen den prozentualen Anteil an Produktivität oder naja, wie viel sie sozusagen Anteil am Outcome haben.
+
+157
+00:10:48,500 --> 00:10:50,500
+Das sollen die machen. Und das machen die sozusagen.
+
+158
+00:10:50,500 --> 00:10:54,500
+Aus diesem Ansatz dieser Cop-Douglas-Funktion kommt das raus.
+
+159
+00:10:54,500 --> 00:11:01,500
+Und die waren damals, als sie das entwickelt haben oder mehr oder weniger geraten haben, mit vielleicht mathematischer Intuition, diese Funktion geraten.
+
+160
+00:11:01,500 --> 00:11:04,500
+Da waren sie selber total überrascht, wie gut das funktioniert.
+
+161
+00:11:04,500 --> 00:11:15,500
+Sie haben dann sich angeguckt, sie sind sozusagen den Schritt gegangen und haben sich sozusagen Bilanzen von Firmen angeguckt, von Nationen wahrscheinlich.
+
+162
+00:11:15,500 --> 00:11:21,500
+Sie haben sozusagen dann gesehen, sie kriegen überall Korrelationskoeffizienten von 99,9 Prozent oder so raus.
+
+163
+00:11:21,500 --> 00:11:25,500
+Und waren total überrascht und dachten, sie sind die Allergeilsten, sie haben es voll drauf.
+
+164
+00:11:25,500 --> 00:11:29,500
+Das war sozusagen das, was sie beobachtet haben. Keine Ahnung, wie lange das schon her ist, 50 Jahre oder so.
+
+165
+00:11:29,500 --> 00:11:33,500
+Ich werde euch das Original-Paper einfach verlinken, dann könnt ihr es euch reinziehen.
+
+166
+00:11:33,500 --> 00:11:38,500
+Der Witz ist, dass sie so dachten, so, oh, das ist aber großer Erfolg.
+
+167
+00:11:38,500 --> 00:11:43,500
+Und zu dem Zeitpunkt war Anwar Shaikh ein Student.
+
+168
+00:11:43,500 --> 00:11:50,500
+Und er hat das gelesen und offensichtlich ist es so, dass Anwar Shaikh ein Mathe-Nerd ist.
+
+169
+00:11:50,500 --> 00:11:58,500
+Und er auch mit dieser Rationale rangeht, er beobachtet was und steht fest, das, was die hier in der Vorlesung erzählen, das ist irgendwie Müll.
+
+170
+00:11:58,500 --> 00:12:02,500
+Mit dieser Intuition ist er da rangegangen und hat trotzdem Wirtschaftswissenschaften studiert.
+
+171
+00:12:02,500 --> 00:12:07,500
+Ich nehme mal an, es gibt so linke Wirtschaftswissenschaftler, aber die werden alle irgendwie tot ignoriert.
+
+172
+00:12:07,500 --> 00:12:12,500
+Ich habe ja auch den Eindruck, dass Ole und Wolfgang, also Ole studiert ja Wirtschaft, dass der auch so drauf ist.
+
+173
+00:12:12,500 --> 00:12:20,500
+Es gibt also tatsächlich scheinbar kritische Leute, die irgendwie sagen, hier, das, was da an der Uni gelehrt wird, das ist irgendwie Schwachsinn,
+
+174
+00:12:20,500 --> 00:12:22,500
+könnte man das nicht mal anders machen.
+
+175
+00:12:22,500 --> 00:12:26,500
+Na, jedenfalls, so bin ich auf den Anwar Shaikh gekommen, weil der nämlich jetzt Folgendes gemacht hat.
+
+176
+00:12:26,500 --> 00:12:38,500
+Der hat festgestellt, wenn ich die normale Buchhalteridentität nehme, nämlich mein gesamtes Einkommen besteht im Wesentlichen aus Einkommen pro Arbeiter oder pro Arbeitszeit,
+
+177
+00:12:38,500 --> 00:12:47,500
+Zeit multipliziert mit der Gesamtarbeitszeit, die ich habe in dem Prozess, plus der Renditerate multipliziert mit dem Investitionskapital, nenne ich es mal.
+
+178
+00:12:47,500 --> 00:12:50,500
+Oder Kapitalstock, würde man das vielleicht nennen.
+
+179
+00:12:50,500 --> 00:12:55,500
+Also das ist eine Buchhalteridentität. So ist das gesamte Einkommen definiert.
+
+180
+00:12:55,500 --> 00:13:03,500
+Das ist eine Identität. Das ist im Prinzip so eine Identität wie Gewinneserlös minus Kosten.
+
+181
+00:13:03,500 --> 00:13:06,500
+Das ist im Prinzip eine Identität. So ist das definiert.
+
+182
+00:13:06,500 --> 00:13:08,500
+Da braucht man gar nicht weiter darüber nachdenken.
+
+183
+00:13:08,500 --> 00:13:18,500
+Und Anwar Shaikh hat jetzt gezeigt, wenn ich diese Identität hernehme und ein bisschen daran rumspiele und Variablen so ein bisschen substituiere und Mathematik damit betreibe,
+
+184
+00:13:18,500 --> 00:13:20,500
+folgt dann eine Differentialgleichung daraus.
+
+185
+00:13:20,500 --> 00:13:28,500
+Und wenn ich diese Differentialgleichung löse, die ist relativ einfach, dann folgt da eine, dann ist die Lösung dieser Differentialgleichung eine Funktion,
+
+186
+00:13:28,500 --> 00:13:36,500
+die genau dieselbe Gestalt hat wie die Cop Douglas Produktionsfaktorfunktion oder wie sie das genannt haben.
+
+187
+00:13:36,500 --> 00:13:40,500
+Wie haben sie das genannt? Produktionsfunktion. Genauso.
+
+188
+00:13:40,500 --> 00:13:46,500
+Und dann hat er gesagt, aha, guck mal da. Kein Wunder, dass eure Funktion, dass euer Modell immer funktioniert.
+
+189
+00:13:46,500 --> 00:13:48,500
+Es basiert nämlich auf einer wahren Aussage.
+
+190
+00:13:48,500 --> 00:13:57,500
+Ihr habt eine wahre Aussage genommen und solange damit Mathematik betrieben, dass keiner mehr gesehen hat, dass es eigentlich eine Identität, eine Buchhalteridentität ist, die ihr da verwendet.
+
+191
+00:13:57,500 --> 00:13:59,500
+Wahrscheinlich haben Cop Douglas das nicht gemerkt.
+
+192
+00:13:59,500 --> 00:14:08,500
+Sie haben das sozusagen hintenrum durch Hintertürchen gemacht, weil sie ja diese drei Annahmen, von denen ich euch erzählt habe, reingesteckt haben in ihr Modell.
+
+193
+00:14:08,500 --> 00:14:12,500
+Und diese drei Annahmen sind, wie gesagt, neoklassisch Theorie.
+
+194
+00:14:12,500 --> 00:14:14,500
+Das heißt, sie haben folgendes gemacht.
+
+195
+00:14:14,500 --> 00:14:20,500
+Sie haben in ihr Modell neoklassische Theorie reingesteckt und waren dann total verwundert, dass die immer funktioniert.
+
+196
+00:14:20,500 --> 00:14:24,500
+Ganz einfach, weil sie per Definition immer wahr ist.
+
+197
+00:14:25,500 --> 00:14:34,500
+Und der Witz ist jetzt, Anwar ist so ein geiler Troll, er hat dann gesagt, Moment mal, wenn das so ist, dann kann ich ja eine beliebige Ökonomie mir definieren,
+
+198
+00:14:34,500 --> 00:14:42,500
+mit völlig absurden Konfigurationen und einem völlig bescheuerten Beispiel, das so dumm ist, dass es niemals in der echten Welt überhaupt passieren könnte.
+
+199
+00:14:42,500 --> 00:14:49,500
+Und trotzdem müsste die Theorie am Ende zeigen, dass da eine Korrelation von 99,9 rauskommt.
+
+200
+00:14:49,500 --> 00:14:51,500
+Und das hat er gemacht und ich zeige euch sogar, was er genommen hat.
+
+201
+00:14:51,500 --> 00:14:56,500
+Er hat sozusagen in den Phasenraum das Wort Humbuck reingeschrieben.
+
+202
+00:14:56,500 --> 00:15:00,500
+Und mit dieser Konfiguration hat es auch funktioniert.
+
+203
+00:15:00,500 --> 00:15:06,500
+Er hat sozusagen gezeigt, egal wie man es anstellt, man kann dieses Ding überhaupt nicht falsifizieren.
+
+204
+00:15:06,500 --> 00:15:09,500
+Es ist nämlich eine Identität, die muss immer wahr sein, per Definition.
+
+205
+00:15:09,500 --> 00:15:11,500
+Das ist so witzig.
+
+206
+00:15:11,500 --> 00:15:15,500
+Und ich werde euch sozusagen die Paper dazu verlinken, weil es einfach mal herrlich ist.
+
+207
+00:15:15,500 --> 00:15:19,500
+Und es gibt auch irgendwie zehn Jahre alte Paper, die da drüber noch philosophieren.
+
+208
+00:15:19,500 --> 00:15:21,500
+Aber was soll ich sagen, Ignoranz ist Bliss.
+
+209
+00:15:21,500 --> 00:15:23,500
+Ich nehme mal stark an.
+
+210
+00:15:23,500 --> 00:15:28,500
+Zumindest ist das, wie ich selbst verstanden habe, genau dieser Scheiß mit der Cop-Douglas-Produktionsfunktion,
+
+211
+00:15:28,500 --> 00:15:32,500
+der wird immer noch gelehrt und völlig unkritisch gezeigt.
+
+212
+00:15:32,500 --> 00:15:40,500
+Also es wird überhaupt nicht darüber geredet, dass das sozusagen eine Buchhalteridentität ist, die da im Wesentlichen steht.
+
+213
+00:15:40,500 --> 00:15:42,500
+Bloß sehr kryptisch dargestellt.
+
+214
+00:15:42,500 --> 00:15:47,500
+Man muss, wie gesagt, man muss ein bisschen rumspielen an den Variablen,
+
+215
+00:15:47,500 --> 00:15:50,500
+man muss mal ein paar neue Raten einfügen, damit man sozusagen Ableitungen reinkriegt.
+
+216
+00:15:50,500 --> 00:15:52,500
+Man muss feststellen, okay, das eine ist eine Rate.
+
+217
+00:15:52,500 --> 00:15:55,500
+Das hat also was mit einer zeitlichen Abhängigkeit zu tun und so.
+
+218
+00:15:55,500 --> 00:15:57,500
+Und dann die Differenzialgleichung lösen.
+
+219
+00:15:57,500 --> 00:16:00,500
+Und Anwar Scheik hat es halt einfach gemacht.
+
+220
+00:16:00,500 --> 00:16:03,500
+Und ich habe halt den Eindruck, der Typ, der hat wirklich mal ein Pfeil von Mathe.
+
+221
+00:16:03,500 --> 00:16:06,500
+Das gefällt mir, deswegen irgendwie weibe ich richtig gut auf ihn ab.
+
+222
+00:16:06,500 --> 00:16:09,500
+Und deswegen habe ich auch vor, mir das Buch reinzuknallen.
+
+223
+00:16:09,500 --> 00:16:11,500
+Also jetzt könnte ich da sagen, ist doch gar kein Problem.
+
+224
+00:16:11,500 --> 00:16:13,500
+Man hat da so eine Identität.
+
+225
+00:16:13,500 --> 00:16:17,500
+Und daraus kann man im Prinzip diese Produktionsfunktion raus Schluss folgern.
+
+226
+00:16:17,500 --> 00:16:20,500
+Dann ist doch alles super. Man hat ein super Modell gefunden.
+
+227
+00:16:20,500 --> 00:16:22,500
+Erst mal, wie gesagt, es handelt sich um eine echte Tautologie.
+
+228
+00:16:22,500 --> 00:16:25,500
+Die kann man gar nicht falsifizieren. Sie ist immer wahr.
+
+229
+00:16:25,500 --> 00:16:30,500
+Und zum anderen müsste verstehen, dieser ganze Unterbau jetzt,
+
+230
+00:16:30,500 --> 00:16:34,500
+der ist nur dazu da gewesen, um Propaganda zu machen.
+
+231
+00:16:34,500 --> 00:16:37,500
+Es war so, Marx hat im Prinzip den Leuten gesagt, guck mal hier,
+
+232
+00:16:37,500 --> 00:16:40,500
+die Arbeiter werden gar nicht korrekt entlohnt.
+
+233
+00:16:40,500 --> 00:16:43,500
+Und dann haben die Kapitalisten gesagt, na ja, guck mal hier.
+
+234
+00:16:43,500 --> 00:16:46,500
+Wir haben hier sozusagen diese ganze Theorie, die neoklasse Theorie.
+
+235
+00:16:46,500 --> 00:16:50,500
+Und da folgt jetzt sozusagen raus, Leute, die nicht produktiv sind,
+
+236
+00:16:50,500 --> 00:16:53,500
+kriegen auch nicht mehr Geld. Wenn sie sich mehr anstrengen würden,
+
+237
+00:16:53,500 --> 00:16:55,500
+würden sie es auch zu mehr bringen.
+
+238
+00:16:55,500 --> 00:16:58,500
+Dass da sozusagen Äpfel und Birnen verglichen werden,
+
+239
+00:16:58,500 --> 00:17:02,500
+aber alles sozusagen auf diese Bilanz mit dem Geld runtergebrochen wird,
+
+240
+00:17:02,500 --> 00:17:05,500
+um überhaupt Leute zu vergleichen. Das wird nicht gesagt.
+
+241
+00:17:05,500 --> 00:17:08,500
+Und dass sie jetzt sozusagen versuchen, Einkommensverteilung, die wir beobachten,
+
+242
+00:17:08,500 --> 00:17:11,500
+mit einer Tautologie zu beschreiben und dann zu sagen,
+
+243
+00:17:11,500 --> 00:17:14,500
+das ist so eine Art Naturwissenschaft, ihr müsst das mal glauben,
+
+244
+00:17:14,500 --> 00:17:17,500
+es ist alles fair und Leute, die mehr verdienen haben,
+
+245
+00:17:17,500 --> 00:17:20,500
+sind einfach produktiver und deswegen ist es auch okay.
+
+246
+00:17:20,500 --> 00:17:22,500
+Das ist sozusagen die Propaganda-Lüge dabei.
+
+247
+00:17:22,500 --> 00:17:26,500
+Und dass sie natürlich sozusagen hier schon wieder einen Zockelschluss machen,
+
+248
+00:17:26,500 --> 00:17:33,500
+nämlich im Prinzip irgendwie Einkommen, mit Einkommen irgendwie dann begründen,
+
+249
+00:17:33,500 --> 00:17:35,500
+darauf gehen sie dann nicht ein.
+
+250
+00:17:35,500 --> 00:17:37,500
+Das heißt, das ist das Problem eigentlich dabei.
+
+251
+00:17:37,500 --> 00:17:41,500
+Das habe ich jetzt irgendwie unterschlagen, deswegen habe ich das jetzt nochmal eingebaut.
+
+252
+00:17:41,500 --> 00:17:46,500
+Also das ist schon, das hat sozusagen alles einen tieferen Sinn,
+
+253
+00:17:46,500 --> 00:17:49,500
+dass die angefangen haben, die Wirtschaftswissenschaften irgendwann
+
+254
+00:17:49,500 --> 00:17:53,500
+sich nur noch selbst versuchen zu bestätigen, anstatt in einer Welt zu leben,
+
+255
+00:17:53,500 --> 00:17:56,500
+die überhaupt nichts mit der Realität zu tun hat,
+
+256
+00:17:56,500 --> 00:17:58,500
+sondern sich einfach nur versuchen, permanent selbst zu bestätigen
+
+257
+00:17:58,500 --> 00:18:00,500
+und fancy Mathematik zu betreiben.
+
+258
+00:18:00,500 --> 00:18:03,500
+Und ich gehe davon aus, Leute, die sich da in die Vorlesungen reinsetzen,
+
+259
+00:18:03,500 --> 00:18:05,500
+ich sehe ja selber schon bei den normalen Ingenieur-Studenten,
+
+260
+00:18:05,500 --> 00:18:08,500
+haben die Leute schon übelst viele Leute, keine Ahnung von Mathe.
+
+261
+00:18:08,500 --> 00:18:10,500
+Wie soll das erst in den VWL-Vorlesungen sein?
+
+262
+00:18:10,500 --> 00:18:13,500
+Die sind wahrscheinlich genauso völlig erschlagen von irgendwelchen Symbolen
+
+263
+00:18:13,500 --> 00:18:17,500
+und checken es halt einfach nicht, dass das da relativ triviale Schulmathematik ist.
+
+264
+00:18:17,500 --> 00:18:19,500
+Ich meine, Differenzialgleisungen lösen ist das eine,
+
+265
+00:18:19,500 --> 00:18:24,500
+aber diese Funktionseigenschaften zu zeigen
+
+266
+00:18:24,500 --> 00:18:27,500
+und dass die Cop-Douglas-Produktionsfunktion das macht,
+
+267
+00:18:27,500 --> 00:18:29,500
+das kann man relativ schnell nachrechnen.
+
+268
+00:18:29,500 --> 00:18:33,500
+Da kann man im Prinzip mit Schulmathematik kann man das alles zeigen.
+
+269
+00:18:33,500 --> 00:18:35,500
+Dass das sozusagen Wurzelfunktionen sind
+
+270
+00:18:35,500 --> 00:18:37,500
+und das Produkt und dann, wie man das ableitet und so,
+
+271
+00:18:37,500 --> 00:18:39,500
+das ist alles völlig klar.
+
+272
+00:18:39,500 --> 00:18:41,500
+Was soll ich dazu sagen?
+
+273
+00:18:41,500 --> 00:18:43,500
+Das wollte ich nur noch mal sagen.
+
+274
+00:18:43,500 --> 00:18:45,500
+Zukunftsmorph ist wieder raus.
+
+275
+00:18:45,500 --> 00:18:49,500
+Und ich denke halt, das Ding ist irgendwie das Problem von Wert.
+
+276
+00:18:49,500 --> 00:18:55,500
+Es geht ja immer sozusagen um Value bei dieser ganzen Nummer, Mehrwert und so.
+
+277
+00:18:55,500 --> 00:18:59,500
+Der Wert an sich ist natürlich irgendwie ein kulturelles oder soziales Konstrukt.
+
+278
+00:18:59,500 --> 00:19:03,500
+Es ist ja nicht so, dass Wert jetzt irgendwie aus der Natur herauskommt,
+
+279
+00:19:03,500 --> 00:19:06,500
+so wie Druck oder Temperatur oder so.
+
+280
+00:19:06,500 --> 00:19:10,500
+Das ist ja nichts, was sozusagen eine quantitative physikalische Größe ist,
+
+281
+00:19:10,500 --> 00:19:12,500
+sondern das ist etwas, was wir zuweisen.
+
+282
+00:19:12,500 --> 00:19:16,500
+Der Wert ist ein völlig willkürliches, menschliches Ding.
+
+283
+00:19:16,500 --> 00:19:22,500
+Und daher ist es auch irgendwie Schwachsinn anzunehmen, dass Wert produziert wird.
+
+284
+00:19:22,500 --> 00:19:27,500
+Also diese Annahme der Wirtschaftstheorie sozusagen, der neoklassischen Theorie,
+
+285
+00:19:27,500 --> 00:19:32,500
+dass Wert produziert wird, aus Faktoren der Produktion.
+
+286
+00:19:32,500 --> 00:19:35,500
+Das ist irgendwie Schwachsinn.
+
+287
+00:19:35,500 --> 00:19:42,500
+Und innerhalb sozusagen dieser VWL-Welt, wo man alles versucht zu quantifizieren,
+
+288
+00:19:42,500 --> 00:19:46,500
+mit Geld jetzt zum Beispiel, also mit Kapital,
+
+289
+00:19:46,500 --> 00:19:51,500
+da mag das sozusagen stimmen, weil das sozusagen eine selbsterfüllende Prophezeiung ist.
+
+290
+00:19:51,500 --> 00:19:58,500
+Aber im Prinzip habe ich den Eindruck, dass das irgendwie schon ein grundlegender Fehler ist.
+
+291
+00:19:58,500 --> 00:20:01,500
+Dass sozusagen da auch permanent Sachen verglichen werden,
+
+292
+00:20:01,500 --> 00:20:04,500
+die man eigentlich so Apfelbirnen-mäßig, die man eigentlich gar nicht vergleichen kann.
+
+293
+00:20:04,500 --> 00:20:06,500
+Das geht nur dann deshalb, weil man sozusagen ineinander umrechnet
+
+294
+00:20:06,500 --> 00:20:09,500
+und alles irgendwie mit Geld versucht zu quantifizieren.
+
+295
+00:20:09,500 --> 00:20:16,500
+Und bei Cobb Douglas ist es halt jetzt wie gesagt die Arbeit und das Kapital.
+
+296
+00:20:16,500 --> 00:20:18,500
+Das sind die beiden Produktionsfaktoren.
+
+297
+00:20:18,500 --> 00:20:25,500
+Wenn man den einen erhöht, dann kann man was an dem Output der Firma zum Beispiel oder der Fabrik sehen.
+
+298
+00:20:25,500 --> 00:20:28,500
+Das ist sozusagen die Idee. Das stecken die da rein.
+
+299
+00:20:28,500 --> 00:20:34,500
+Und ich habe ja schon erklärt, dass eine Gesellschaft jetzt, also zum Beispiel eine Nationalökonomie,
+
+300
+00:20:34,500 --> 00:20:37,500
+ist eine emergente Struktur.
+
+301
+00:20:37,500 --> 00:20:42,500
+Und ich sage immer, Emergenz ist immer das, was man nicht so greifen kann,
+
+302
+00:20:42,500 --> 00:20:45,500
+weil das sozusagen eine strukturhöhere Ordnung sein muss,
+
+303
+00:20:45,500 --> 00:20:50,500
+weil sie aus Wechselwirkungen zwischen einzelnen Teilnehmern dieser emergenten Struktur besteht.
+
+304
+00:20:50,500 --> 00:20:56,500
+Und genauso wie bei einem Metabolismus von jetzt einem Lebewesen oder so eine Zelle zum Beispiel
+
+305
+00:20:56,500 --> 00:20:59,500
+oder meine Katzen oder ich jetzt,
+
+306
+00:20:59,500 --> 00:21:03,500
+genauso verhält sich auch mit der Akkumulation von Kapital.
+
+307
+00:21:03,500 --> 00:21:08,500
+Ich habe ja schon gesagt, Kapitalismus und unsere Gesellschaft sind emergente Strukturen
+
+308
+00:21:08,500 --> 00:21:13,500
+und wir alle sind nur sozusagen kleine Schrauben und kleine Zahnräder innerhalb dieses Metabolismus.
+
+309
+00:21:13,500 --> 00:21:18,500
+Der Verstopf wechselt im Prinzip das Kapital und sorgt dafür, dass die Akkumulation, also das Kapital,
+
+310
+00:21:18,500 --> 00:21:21,500
+immer weiter wächst. Das ist sozusagen das, was wir beobachten können.
+
+311
+00:21:21,500 --> 00:21:29,500
+Und ich kann ja jetzt zum Beispiel auch nicht sagen, wie viel bei meiner Katze das Herz sozusagen
+
+312
+00:21:29,500 --> 00:21:36,500
+zum gesamten Output dieser Katze mitproduziert.
+
+313
+00:21:37,500 --> 00:21:44,500
+Ich kann schlicht einfach nicht sozusagen aufstellen, wie viel bei meiner Katze jetzt das Herz eine Rolle spielt
+
+314
+00:21:44,500 --> 00:21:47,500
+und wie viel die Lungen eine Rolle spielen.
+
+315
+00:21:47,500 --> 00:21:53,500
+Das Zusammenspiel und die, sagen wir mal, die ganzen Mikroben jetzt zum Beispiel in meinem Darm und in meinem Bauch und so.
+
+316
+00:21:53,500 --> 00:21:57,500
+Da kann ich auch nicht sagen, wie viel die da sozusagen mitspielen.
+
+317
+00:21:57,500 --> 00:21:59,500
+Das ist eine Emergenz.
+
+318
+00:21:59,500 --> 00:22:04,500
+Das sind unendlich viele Kreisprozesse, die da ablaufen und alle ineinander reingehen
+
+319
+00:22:04,500 --> 00:22:10,500
+und sozusagen Hystereseeffekte und nicht lineare Dynamik, die da irgendwie abgebildet wird.
+
+320
+00:22:12,500 --> 00:22:17,500
+Und offensichtlich ist sozusagen Faktoren der Produktion ein viel zu einfaches Modell.
+
+321
+00:22:17,500 --> 00:22:20,500
+Und in dem Fall ist es sogar ein Zockelschluss.
+
+322
+00:22:20,500 --> 00:22:25,500
+Und ich kann jetzt, um mal ein anderes Beispiel von Emergenz zu haben,
+
+323
+00:22:25,500 --> 00:22:31,500
+ich kann auch bei einem Fischschwarm nicht sagen, wie viel der einzelne Fisch zur Gesamtbewegung des Fischschwarms beiträgt.
+
+324
+00:22:31,500 --> 00:22:33,500
+Denn da ist es ja auch so.
+
+325
+00:22:33,500 --> 00:22:36,500
+Wenn ein einzelner Fisch auf einmal einen Rappel kriegt und links abbiegt,
+
+326
+00:22:36,500 --> 00:22:42,500
+dann kann es sein, dass es sich auf die Dynamik des Schwarms auswirkt oder auch nicht.
+
+327
+00:22:42,500 --> 00:22:48,500
+Das sind sozusagen ganz feine Schwarmintelligenzeffekte, also Emergenzeffekte,
+
+328
+00:22:48,500 --> 00:22:53,500
+die dafür sorgen, dass sich der Schwarm verhält wie ein großes Lebewesen, obwohl er aus vielen kleinen Fischen besteht.
+
+329
+00:22:53,500 --> 00:22:59,500
+Und ja, das soll es jetzt erstmal sein mit diesem Video.
+
+330
+00:22:59,500 --> 00:23:05,500
+Das soll euch sozusagen einen kleinen Vorgeschmack liefern, bis ich jetzt anfange, das Buch wirklich zu lesen.
+
+331
+00:23:05,500 --> 00:23:10,500
+Ich plane noch ein Video noch mal zur Inflation zu machen.
+
+332
+00:23:10,500 --> 00:23:16,500
+Bevor ich mit dem Buch anfange, ich denke, in dem Buch steht dann richtig viel Grundlagenzeug drin.
+
+333
+00:23:16,500 --> 00:23:22,500
+Ich habe aber schon meinen Textfeil zum Thema Inflation und sozusagen neoklassischer Theorie und VWL,
+
+334
+00:23:22,500 --> 00:23:26,500
+wie da sozusagen der Begriff Inflation geprägt wird und wo der herkommt.
+
+335
+00:23:26,500 --> 00:23:29,500
+Ich sage nur Milton Friedman.
+
+336
+00:23:29,500 --> 00:23:34,500
+Da ist übelst viel Esoterik dabei und 100% auch Zirkelschlüsse und sowas wie Buchhalteridentitäten,
+
+337
+00:23:34,500 --> 00:23:38,500
+also Aussagen, die per Definition wahr sind und dann auf einmal funktionieren sie da.
+
+338
+00:23:38,500 --> 00:23:41,500
+Und ach, die Theorie klappt ja so wunderbar.
+
+339
+00:23:41,500 --> 00:23:43,500
+Was für eine Überraschung.
+
+340
+00:23:43,500 --> 00:23:46,500
+Sowas. Und sowas wird es wahrscheinlich überall geben in der VWL.
+
+341
+00:23:46,500 --> 00:23:50,500
+Und das ist mein Plan, das jetzt aufzuzeigen in so einer Art Videoreihe.
+
+342
+00:23:50,500 --> 00:23:53,500
+Und wie ich sie nenne, das weiß ich noch nicht, aber ja.
+
+343
+00:23:53,500 --> 00:23:59,500
+Ich sage erstmal, viel Spaß und reingehauen. Gute Nacht.
+
+344
+00:25:23,500 --> 00:25:25,500
+Gute Nacht.
+
+345
+00:25:53,500 --> 00:25:55,500
+Gute Nacht.
+
+346
+00:26:23,500 --> 00:26:25,500
+Gute Nacht.
+
+347
+00:26:53,500 --> 00:26:55,500
+Gute Nacht.
+
+348
+00:26:55,500 --> 00:26:57,500
+Gute Nacht.
+
+349
+00:26:57,500 --> 00:26:59,500
+Gute Nacht.
+
+350
+00:26:59,500 --> 00:27:01,500
+Gute Nacht.
+
+351
+00:27:01,500 --> 00:27:03,500
+Gute Nacht.
+
+352
+00:27:03,500 --> 00:27:05,500
+Gute Nacht.
+
+353
+00:27:05,500 --> 00:27:07,500
+Gute Nacht.
+
+354
+00:27:07,500 --> 00:27:09,500
+Gute Nacht.
+
+355
+00:27:09,500 --> 00:27:11,500
+Gute Nacht.
+
+356
+00:27:11,500 --> 00:27:13,500
+Gute Nacht!
+
+357
+00:27:41,500 --> 00:27:47,380
+definiert, viele Beispiele werden genannt und ich denke mir schon was dabei, weil es sozusagen
+
+358
+00:27:47,380 --> 00:27:50,820
+meinen eigenen Erkenntnisprozess abbildet, die Reihenfolge, in denen ich die Videos hier
+
+359
+00:27:50,820 --> 00:27:51,320
+hochlade.
+

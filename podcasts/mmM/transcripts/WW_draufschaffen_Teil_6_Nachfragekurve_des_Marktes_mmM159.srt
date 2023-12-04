@@ -1,0 +1,1976 @@
+1
+00:00:00,000 --> 00:00:02,500
+Er kam mit seiner Annahme zu einem Widerspruch.
+
+2
+00:00:02,500 --> 00:00:04,200
+Wie nennt man das in der Mathematik?
+
+3
+00:00:04,200 --> 00:00:07,200
+Man nennt das ein Beweis durch Widerspruch.
+
+4
+00:00:07,200 --> 00:00:14,300
+Er hat damit bewiesen, dass das Gesetz der fallenden Nachfrage für den Markt nicht gilt.
+
+5
+00:00:14,300 --> 00:00:32,500
+So Leute, es hat lange gedauert, aber jetzt passiert es.
+
+6
+00:00:32,500 --> 00:00:38,000
+Es geht jetzt in diesem Video und in dem Video danach auch noch um die sogenannten Nachfragekurve
+
+7
+00:00:38,000 --> 00:00:43,500
+und das Gesetz der Nachfrage Law of Dement oder ich würde es eher nennen das Gesetz der fallenden Nachfrage.
+
+8
+00:00:43,500 --> 00:00:51,200
+Also quasi diese Idee, die man intuitiv hat, dass wenn der Preis von einem Produkt sinkt,
+
+9
+00:00:51,200 --> 00:00:55,700
+dass dann mehr Leute es kaufen bzw. wenn er steigt, dass dann weniger Leute es kaufen.
+
+10
+00:00:55,700 --> 00:01:02,200
+Und für jeden selber kann man sich das überlegen, dass das eigentlich irgendwie eine sinnvolle Annahme ist.
+
+11
+00:01:02,200 --> 00:01:08,700
+Und ich weiß noch damals zum Beispiel als ich meine Mathe Nachhilfe angeboten habe,
+
+12
+00:01:08,700 --> 00:01:12,000
+da habe ich den Preis erstmal irgendwie festgelegt, dann wurde ich zugeschissen
+
+13
+00:01:12,000 --> 00:01:16,900
+mit Leuten, die das kaufen wollten sozusagen von mir und dann habe ich halt gesagt,
+
+14
+00:01:16,900 --> 00:01:20,800
+na gut, dann gehe ich jetzt mit dem Preis so weit hoch, bis ich nur noch so ungefähr abschätzend,
+
+15
+00:01:20,800 --> 00:01:24,800
+also bis ich nur noch so viele Nachfragen kriege, die ich dann auch bedienen kann, ganz entspannt.
+
+16
+00:01:24,800 --> 00:01:28,300
+Und das hat sozusagen für mich dann quasi den Preis festgelegt.
+
+17
+00:01:28,300 --> 00:01:32,200
+Und aus dieser einfachen Idee schlussfolgern sozusagen Ökonomen,
+
+18
+00:01:32,200 --> 00:01:37,200
+na ja, es muss da eine Gesetzmäßigkeit geben und die ist hardcore, hart reingecoded
+
+19
+00:01:37,200 --> 00:01:39,700
+und die erzeugt am Ende Preise und so.
+
+20
+00:01:39,700 --> 00:01:45,400
+Und jetzt ist es so, in dem Video, was ich jetzt machen will, Ökonomen können zeigen,
+
+21
+00:01:45,400 --> 00:01:49,900
+dass ein Individuum sozusagen bei steigendem Preis, ich gebe jetzt sozusagen schon mal den Abstract,
+
+22
+00:01:49,900 --> 00:01:53,700
+bei steigendem Preis die Nachfrage für einzelnes Produkt wohl sinkt.
+
+23
+00:01:53,700 --> 00:01:56,700
+Aber was sie nicht zeigen können, ist, dass das für den gesamten Markt gilt.
+
+24
+00:01:56,700 --> 00:02:02,100
+Sprich, dass für die Gesellschaft aus vielen Teilnehmern die einzelnen Nachfragekurven sozusagen,
+
+25
+00:02:02,100 --> 00:02:05,500
+wenn man die addiert, dass dann da eine Marktkurve rauskommt,
+
+26
+00:02:05,500 --> 00:02:09,500
+die immer noch diesem Gesetz der fallenden Nachfrage folgt.
+
+27
+00:02:09,500 --> 00:02:13,800
+Und was die neoklassische Theorie unbedingt braucht, wenn sie das trotzdem zeigen will,
+
+28
+00:02:13,800 --> 00:02:16,300
+also sozusagen dieses Gesetz durchdrücken will,
+
+29
+00:02:16,300 --> 00:02:18,600
+da muss man eine Menge zusätzliche Annahmen reinstecken.
+
+30
+00:02:18,600 --> 00:02:22,300
+Und die beiden mächtigsten Annahmen sind, dass alle Teilnehmer identisch sind
+
+31
+00:02:22,300 --> 00:02:25,700
+und identische Vorleben haben und dass Teilnehmer im Wesentlichen
+
+32
+00:02:25,700 --> 00:02:29,400
+ihre Vorleben auch nicht verändern, wenn sich ihr Gehalt ändert.
+
+33
+00:02:29,400 --> 00:02:31,600
+Und das sind natürlich zwei völlig absurde Annahmen.
+
+34
+00:02:31,600 --> 00:02:34,900
+Aber ich erkläre jetzt in dem Video, wie die zustande kommen
+
+35
+00:02:34,900 --> 00:02:40,700
+und wie so neoklassische Theorie reine Esoterik und Ideologie ist.
+
+36
+00:02:40,700 --> 00:02:43,000
+So, und es ist so.
+
+37
+00:02:43,000 --> 00:02:45,800
+Ja, wir können das im Prinzip nicht beobachten.
+
+38
+00:02:45,800 --> 00:02:49,100
+Und wenn man sozusagen, wenn man von Nachfrage spricht,
+
+39
+00:02:49,100 --> 00:02:51,900
+meint man eigentlich die sogenannte Nachfragefunktion
+
+40
+00:02:51,900 --> 00:02:55,900
+bzw. meint man damit sozusagen die Kurve, die entsteht in einem Diagramm,
+
+41
+00:02:55,900 --> 00:02:57,900
+was ich später noch aufzeichnen werde.
+
+42
+00:02:57,900 --> 00:03:01,500
+Und eine konkrete Nachfrage ist immer sozusagen eine quantitative Nachfrage
+
+43
+00:03:01,500 --> 00:03:03,400
+bei einem gegebenen Preis.
+
+44
+00:03:03,400 --> 00:03:05,400
+Das sind sozusagen die Vokabeln, die man reinkriegt,
+
+45
+00:03:05,400 --> 00:03:06,900
+weil man jetzt die ganze Zeit Bücher liest und so.
+
+46
+00:03:06,900 --> 00:03:12,900
+Und ich sage schon mal hier, ich habe im Wesentlichen dieses Buch jetzt hier angefangen zu lesen.
+
+47
+00:03:12,900 --> 00:03:17,100
+Und ein bisschen hier bei Anwar Sheikh habe ich auch schon drin geschmökert,
+
+48
+00:03:17,100 --> 00:03:21,300
+aber der ist heftiger, deswegen lese ich erst das da, um die ganzen Vokabeln reinzukriegen.
+
+49
+00:03:21,300 --> 00:03:25,200
+Nebenbei ziehe ich mir noch zwei verschiedene Vorlesungen rein zu Mikro und Makro,
+
+50
+00:03:25,200 --> 00:03:27,400
+um sozusagen mehr ein Gefühl für diese Worte zu kriegen.
+
+51
+00:03:27,400 --> 00:03:31,800
+Aber ja, das ist jetzt sozusagen das Video, was jetzt mal wirklich anfängt,
+
+52
+00:03:31,800 --> 00:03:35,000
+wo ich jetzt mal hier mit meinem Wissen rumswaggern will,
+
+53
+00:03:35,000 --> 00:03:38,000
+weil die anderen Videos, die habe ich sozusagen on the fly noch gemacht,
+
+54
+00:03:38,000 --> 00:03:41,000
+wo ich im Prinzip von Webseiten Wissen zusammengetragen habe.
+
+55
+00:03:41,000 --> 00:03:46,000
+So, und hier ist es jetzt so, die Wirtschaftswissenschaften,
+
+56
+00:03:46,000 --> 00:03:51,500
+die wollen ja gerne sozusagen am Ende zeigen,
+
+57
+00:03:51,500 --> 00:03:58,500
+dass quasi aus der Angebots- und Nachfragefunktion die Preise im Marktequilibrium emergieren.
+
+58
+00:03:58,500 --> 00:04:01,000
+Also die nennen nicht das Wort emergieren und die sagen das auch nicht so,
+
+59
+00:04:01,000 --> 00:04:03,200
+aber das ergibt sich daraus, das ist für sie so.
+
+60
+00:04:03,200 --> 00:04:11,200
+Und naja, jetzt ist es quasi so, wie baut man jetzt eigentlich so eine Nachfragekurve für so ein Individuum?
+
+61
+00:04:11,200 --> 00:04:15,000
+Dafür braucht man erst mal, ganz wichtig, eine nicht messbare Größe,
+
+62
+00:04:15,000 --> 00:04:19,700
+nämlich eine sogenannte Indifferenzkurve, also eine Kurve, was erzähle ich eigentlich?
+
+63
+00:04:19,700 --> 00:04:24,200
+Am besten, ich fange einfach an und rechne es erst mal vor.
+
+64
+00:04:24,900 --> 00:04:28,900
+Also, folgendes Ding.
+
+65
+00:04:28,900 --> 00:04:34,900
+Erst mal, was man immer sieht, sind solche tollen Graphen, die irgendwie so aussehen, so aussehen
+
+66
+00:04:34,900 --> 00:04:39,900
+und jeder normale Mensch würde bei einer Demandfunktion, also jeder, der irgendwie was Technisches studiert hat,
+
+67
+00:04:39,900 --> 00:04:43,900
+würde eine Demandfunktion hier hinschreiben, das D und hier den Preis,
+
+68
+00:04:43,900 --> 00:04:46,900
+weil es ist ja klar, der Demand hängt vom Preis ab.
+
+69
+00:04:46,900 --> 00:04:48,900
+Das ist ja auch das Law of Demand.
+
+70
+00:04:48,900 --> 00:04:52,400
+Man sagt immer, wenn der Preis das und das macht, dann folgt das und das für den Demand.
+
+71
+00:04:52,600 --> 00:04:55,100
+Aber die Wirtschaftswissenschaften gehen genau anders herum und sagen,
+
+72
+00:04:55,100 --> 00:04:57,600
+hier kommt der Preis hin, hier kommt der Demand hin.
+
+73
+00:04:57,600 --> 00:05:01,600
+Das heißt, hier ist sozusagen die Anzahl der Nachfrage, wie viele Produkte,
+
+74
+00:05:01,600 --> 00:05:06,400
+wie viele, die konkrete Anzahl von Produkten, nachfrage ich bei einem konkreten Preis.
+
+75
+00:05:06,400 --> 00:05:10,100
+Und die sagen halt im Wesentlichen, es muss irgendwie eine abfallende Kurve sein, so was.
+
+76
+00:05:10,100 --> 00:05:12,600
+Es muss monoton fallen.
+
+77
+00:05:12,600 --> 00:05:16,300
+Und das sagen sie deswegen, weil man dann hier nämlich noch die Supply-Kurve hinmalen kann
+
+78
+00:05:16,300 --> 00:05:19,300
+und die muss natürlich aufsteigend sein, weil intuitiv ist klar,
+
+79
+00:05:19,300 --> 00:05:22,700
+wenn der Preis steigt, sind Produzenten eher da angehalten,
+
+80
+00:05:22,700 --> 00:05:24,800
+mehr davon zu verkaufen und mehr davon zu produzieren.
+
+81
+00:05:24,800 --> 00:05:27,200
+Und da, wo sie sich schneiden,
+
+82
+00:05:27,200 --> 00:05:30,900
+da ist sozusagen die Ansage, da trifft sich im Markteprioritum,
+
+83
+00:05:30,900 --> 00:05:33,900
+ich nenne es mal thermodynamischen Limes, der Preis.
+
+84
+00:05:33,900 --> 00:05:38,100
+So, und ich postuliere und ich kann euch jetzt schon mal sagen, das ist Müll.
+
+85
+00:05:38,100 --> 00:05:41,900
+Der Inhalt der nächsten vier bis fünf, sechs Videos wird sagen, dass das Müll ist.
+
+86
+00:05:41,900 --> 00:05:46,600
+Und wir werden gleich zeigen, dass die Kurve in Wahrheit eher so aussieht.
+
+87
+00:05:46,600 --> 00:05:48,900
+Der Demand macht sowas.
+
+88
+00:05:52,100 --> 00:05:53,800
+Zum Beispiel.
+
+89
+00:05:53,800 --> 00:05:56,300
+Und, ja, das ist richtig bescheuert.
+
+90
+00:05:56,300 --> 00:05:59,600
+Und übrigens, diese Tatsache, dass die hier die Achsen absichtlich vertauschen,
+
+91
+00:05:59,600 --> 00:06:01,000
+x und y quasi,
+
+92
+00:06:01,000 --> 00:06:04,000
+das führt dazu, dass wenn man hinterher sozusagen die Integrale bilden will
+
+93
+00:06:04,000 --> 00:06:06,800
+oder besser gesagt die Summen von den Demandfunktionen der einzelnen Teilnehmer,
+
+94
+00:06:06,800 --> 00:06:10,000
+um die Marktkurve zu kriegen, dass man in dieser Richtung addieren muss.
+
+95
+00:06:10,000 --> 00:06:12,400
+Was völlig unintuitiv ist, weil dann man das niemand macht.
+
+96
+00:06:12,400 --> 00:06:15,800
+Das heißt, immer wenn man Textbücher liest, checkt man überhaupt nicht, wovon die Leute reden,
+
+97
+00:06:15,800 --> 00:06:20,100
+weil ja hier alles sozusagen gespiegelt wird an dieser Achse hier.
+
+98
+00:06:20,100 --> 00:06:23,500
+Das macht die Textbücher super schwer zu lesen für jemanden, der Ahnung von Mathe hat
+
+99
+00:06:23,500 --> 00:06:27,600
+und viel schon mit Gleichungen und Plotz und so in seiner Intuition gearbeitet hat.
+
+100
+00:06:27,600 --> 00:06:29,200
+Hier muss man immer genau umdenken.
+
+101
+00:06:29,200 --> 00:06:30,800
+Völlig bescheuert, wirklich.
+
+102
+00:06:30,800 --> 00:06:34,400
+So, und jetzt machen wir erstmal folgendes Ding.
+
+103
+00:06:34,400 --> 00:06:37,200
+Die Ökonomen gehen erstmal davon aus.
+
+104
+00:06:37,200 --> 00:06:38,100
+Ganz einfaches Modell.
+
+105
+00:06:38,100 --> 00:06:40,100
+Wir haben jetzt hier mal so groß y.
+
+106
+00:06:40,100 --> 00:06:41,200
+Das ist unser Gehalt.
+
+107
+00:06:41,200 --> 00:06:43,100
+Das ist tatsächlich ein Wort, was sie oft benutzen.
+
+108
+00:06:43,100 --> 00:06:44,300
+Also diese Variable.
+
+109
+00:06:44,300 --> 00:06:48,800
+Und sie sagen, okay, wir spenden, wenn wir unser ganzes Gehalt pro Monat zum Beispiel ausgeben.
+
+110
+00:06:48,800 --> 00:06:51,100
+Und wir leben jetzt in einem Markt, wo es nur zwei Güter gibt.
+
+111
+00:06:51,100 --> 00:06:52,300
+Einfache Annahmen.
+
+112
+00:06:52,300 --> 00:06:58,000
+Und die haben Preis 1 und wie oft ich jetzt Produkt 1 kaufe ist x.
+
+113
+00:06:58,000 --> 00:07:03,500
+Und ich nenne mal den Preis 2 mal klein y die Anzahl, wie ich das Produkt 2 kaufe.
+
+114
+00:07:03,500 --> 00:07:07,600
+Dann kann ich sozusagen sofort sehen, ah, okay, diese Gleichung hier.
+
+115
+00:07:07,600 --> 00:07:11,800
+Jeder normale Mensch sieht sofort, das ist eine gerade Gleichung für x und y, weil das konstanten sind.
+
+116
+00:07:11,800 --> 00:07:13,000
+Ich kann es euch aber auch umstellen.
+
+117
+00:07:13,000 --> 00:07:25,100
+Da folgt hier für y raus minus P1 x durch P2 plus groß y durch P2.
+
+118
+00:07:25,100 --> 00:07:28,600
+Also das hier auf die andere Seite bringen und dann noch durch P2 teilen.
+
+119
+00:07:28,600 --> 00:07:30,900
+So, da sehen wir sofort, das kennt ihr aus der Schule.
+
+120
+00:07:30,900 --> 00:07:35,500
+Das Ding hier ist der Anstieg und das Ding hier ist die Schnittstelle mit der y-Achse.
+
+121
+00:07:35,500 --> 00:07:40,100
+Ihr kennt das wahrscheinlich so wie m mal x plus n oder so habt ihr das genannt.
+
+122
+00:07:40,600 --> 00:07:45,100
+Und wenn man das plotet, dann kriegen wir hier sowas.
+
+123
+00:07:47,100 --> 00:07:49,100
+x, y, so.
+
+124
+00:07:49,100 --> 00:07:51,100
+Hier ist der Schnittpunkt mit der y-Achse.
+
+125
+00:07:51,100 --> 00:07:53,100
+Der ist groß y durch P2.
+
+126
+00:07:53,100 --> 00:07:57,100
+Und das Verhältnis von P1 und P2 gibt jetzt sozusagen den Anstieg ab.
+
+127
+00:07:57,100 --> 00:08:00,600
+Da das immer positive Zahlen sind, sehen wir, das Ding muss auf jeden Fall runtergehen.
+
+128
+00:08:00,600 --> 00:08:03,600
+So wie wir es ja auch wollen, das Law of Dement sagt.
+
+129
+00:08:07,600 --> 00:08:09,100
+Das Law of Dement.
+
+130
+00:08:09,600 --> 00:08:11,100
+So wie wir das auch wollen.
+
+131
+00:08:11,100 --> 00:08:16,600
+Und das Law of Dement sagt sozusagen, okay klar, wir befinden uns jetzt hier sozusagen auf irgendwie auf so einer Kurve.
+
+132
+00:08:16,600 --> 00:08:18,100
+Das ist der Budget Constraint.
+
+133
+00:08:18,100 --> 00:08:21,100
+Wir können nicht hier drüber kommen, wir könnten sehr wohl hier unten sein.
+
+134
+00:08:21,100 --> 00:08:27,100
+Aber wir wollen ja unsere Nutzen, wir wollen eine sogenannte Nutzenfunktion maximieren durch Konsum, ist ja klar.
+
+135
+00:08:27,100 --> 00:08:29,100
+Das heißt, mehr ist immer gut.
+
+136
+00:08:29,100 --> 00:08:35,600
+So, und jetzt ist doch die Frage, wie kann denn der rationale Teilnehmer eigentlich seinen Nutzen maximieren?
+
+137
+00:08:35,600 --> 00:08:43,600
+Und die Frage ist sozusagen, ja, die klassische, neoklassische Theorie, ich mache mir erst mal ein Bier auf.
+
+138
+00:08:43,600 --> 00:08:48,600
+Die neoklassische Theorie fantasiert jetzt eine nicht messbare Größe herbei.
+
+139
+00:08:48,600 --> 00:08:50,600
+Und zwar eine Indifferenzkurve.
+
+140
+00:08:53,600 --> 00:08:59,600
+Das ist die Kurve, wo der Nutzen eine Konstante ist.
+
+141
+00:08:59,600 --> 00:09:07,600
+Und man wählt jetzt den Punkt auf dieser Kurve, wo die höchsten Nutzen-Isoquante gerade berührt.
+
+142
+00:09:07,600 --> 00:09:11,600
+Und was man dazu braucht, ist jetzt noch diesen Spruch von Hans-Hermann Hoppe.
+
+143
+00:09:11,600 --> 00:09:17,600
+Also der hat den aufgenutzt in dem Video, was ich da hatte mit der Grenzkotzen-Kosten-Abnutzung.
+
+144
+00:09:17,600 --> 00:09:24,600
+Das heißt, wenn wir jetzt sagen wir mal zwei Güter haben, nämlich Bier und Pizza, dann würde ich sagen, okay, das erste Bier bringt mir richtig viel Nutzen.
+
+145
+00:09:24,600 --> 00:09:26,600
+Die erste Pizza auch.
+
+146
+00:09:26,600 --> 00:09:28,600
+Die zweite Pizza ist schon nicht mehr so geil.
+
+147
+00:09:28,600 --> 00:09:30,600
+Das zweite Bier ist schon noch ein bisschen geiler.
+
+148
+00:09:30,600 --> 00:09:32,600
+Aber irgendwann sozusagen nutzt sich das ab.
+
+149
+00:09:32,600 --> 00:09:34,600
+Ich brauche nicht mehr so viel Bier irgendwann.
+
+150
+00:09:34,600 --> 00:09:36,600
+Ich brauche auch nicht mehr so viel Pizza.
+
+151
+00:09:36,600 --> 00:09:40,600
+Das heißt, was man kriegt, ist am Ende so eine Isoquante für einen konstanten Nutzen.
+
+152
+00:09:40,600 --> 00:09:42,600
+Die kann man sich überlegen, die muss so wie eins durch x gehen.
+
+153
+00:09:42,600 --> 00:09:48,600
+Die muss irgendwie so hier dran liegen.
+
+154
+00:09:48,600 --> 00:09:50,600
+Die muss hier irgendwie so liegen.
+
+155
+00:09:51,600 --> 00:09:54,600
+Und die darf ich nicht, ne, die muss so sein.
+
+156
+00:09:54,600 --> 00:09:58,600
+Die muss konstant, also die muss monoton fehlend sein.
+
+157
+00:09:58,600 --> 00:10:02,600
+Man könnte sowas so, so wie eins durch x muss die aussehen.
+
+158
+00:10:02,600 --> 00:10:04,600
+Die muss auf jeden Fall konvex sein und so weiter und so fort.
+
+159
+00:10:04,600 --> 00:10:10,600
+Und der Witz ist sozusagen, dadurch, dass man die jetzt hier sich so überlegt, das ist nichts, was man messen kann.
+
+160
+00:10:10,600 --> 00:10:13,600
+In der Quantenmechanik würde man sagen, das ist eine Hidden Variable.
+
+161
+00:10:13,600 --> 00:10:14,600
+Das ist etwas, was versteckt ist.
+
+162
+00:10:14,600 --> 00:10:19,600
+Aber es ist wichtig für unsere, um jetzt zu determinieren, was der Konsument jetzt macht.
+
+163
+00:10:19,600 --> 00:10:23,600
+Weil es gibt noch andere Inreferenz-Groben, die gehen so und die anderen gehen so.
+
+164
+00:10:23,600 --> 00:10:27,600
+Und naja, es gibt die zusätzliche Regel, mehr ist immer besser.
+
+165
+00:10:27,600 --> 00:10:31,600
+Das heißt, da wo man mehr Artikel hat, da ist der Nutzen auch größer.
+
+166
+00:10:31,600 --> 00:10:35,600
+Das heißt, je weiter weg wir vom Ursprung sind, desto geiler.
+
+167
+00:10:35,600 --> 00:10:40,600
+Und deswegen nehmen wir genau den Punkt auf unserer Budget Constraint Line,
+
+168
+00:10:40,600 --> 00:10:48,600
+also die, die sich aus unserem Gehalt vorgegeben ist, die gerade die höchste Inreferenz-Grobe schneidet.
+
+169
+00:10:48,600 --> 00:10:49,600
+So.
+
+170
+00:10:49,600 --> 00:10:51,600
+Und jetzt ist doch nur folgendes Ding.
+
+171
+00:10:51,600 --> 00:10:53,600
+Es gibt hier ein Problem.
+
+172
+00:10:53,600 --> 00:10:59,600
+Wenn wir jetzt eine Demand-Funktion konstruieren wollen,
+
+173
+00:10:59,600 --> 00:11:05,600
+also wenn wir einen Preis vorgeben, wie viel wird nachgefragt für das Individuum?
+
+174
+00:11:05,600 --> 00:11:10,600
+Um das zu konstruieren, müssen wir ja verschiedene Preise jetzt variieren
+
+175
+00:11:10,600 --> 00:11:15,600
+und immer gucken, was wird sozusagen nachgefragt.
+
+176
+00:11:15,600 --> 00:11:17,600
+Das heißt, wir brauchen ein Modell.
+
+177
+00:11:17,600 --> 00:11:18,600
+Und ich mache jetzt mal noch einen Möllengraf.
+
+178
+00:11:18,600 --> 00:11:20,600
+Ich mache ein bisschen größer.
+
+179
+00:11:21,600 --> 00:11:22,600
+So.
+
+180
+00:11:22,600 --> 00:11:23,600
+So.
+
+181
+00:11:23,600 --> 00:11:29,600
+Und wir plotten jetzt mal hier sozusagen den Preis von einem Produkt.
+
+182
+00:11:29,600 --> 00:11:31,600
+Und alles andere lassen wir konstant.
+
+183
+00:11:31,600 --> 00:11:33,600
+Und wir haben hier unsere Nachfrage.
+
+184
+00:11:33,600 --> 00:11:36,600
+Dann ist es ja klar, dass wir folgendes haben.
+
+185
+00:11:36,600 --> 00:11:46,600
+Wir haben einen, wir kriegen so eine Kurve hier, wenn ich mal, ich mach die mal weiß, denke ich.
+
+186
+00:11:46,600 --> 00:11:48,600
+Wir starten hier.
+
+187
+00:11:49,600 --> 00:11:52,600
+Und stellen folgendes fest.
+
+188
+00:11:52,600 --> 00:11:53,600
+Okay.
+
+189
+00:11:53,600 --> 00:11:58,600
+Wenn man jetzt annimmt, das Gesetz, der Fall der Nachfrage sieht so aus,
+
+190
+00:11:58,600 --> 00:12:00,600
+dann kriegen wir hier so eine Gerade.
+
+191
+00:12:00,600 --> 00:12:03,600
+Und jetzt ist es so.
+
+192
+00:12:03,600 --> 00:12:07,600
+Wenn sich der Preis ändert, also der Preis unseres Produkts,
+
+193
+00:12:07,600 --> 00:12:12,600
+dann können wir auf einmal, dann ändert sich im Prinzip im Wesentlichen der Anstieg hier.
+
+194
+00:12:12,600 --> 00:12:15,600
+Wir kriegen auf einmal eine andere Kurve.
+
+195
+00:12:15,600 --> 00:12:16,600
+So eine.
+
+196
+00:12:16,600 --> 00:12:17,600
+Ich nehme mal eine andere Farbe.
+
+197
+00:12:17,600 --> 00:12:20,600
+Ich mache mal, ich mache die andere Kurve mal grün.
+
+198
+00:12:20,600 --> 00:12:22,600
+Und was das jetzt bedeutet ist.
+
+199
+00:12:22,600 --> 00:12:23,600
+Aha.
+
+200
+00:12:23,600 --> 00:12:24,600
+Okay.
+
+201
+00:12:24,600 --> 00:12:25,600
+Interessant.
+
+202
+00:12:25,600 --> 00:12:27,600
+Der Anstieg hat sich verändert.
+
+203
+00:12:27,600 --> 00:12:32,600
+Und wir können hier effektiv mehr von dem Zeug kaufen.
+
+204
+00:12:32,600 --> 00:12:38,600
+An jedem einzelnen Punkt können wir sozusagen mehr kaufen, wenn sich der, weil sich der Preis verändert hat.
+
+205
+00:12:38,600 --> 00:12:40,600
+Das ist das, was wir hier sehen.
+
+206
+00:12:40,600 --> 00:12:42,600
+Der Demand ist immer höher an jeder Stelle.
+
+207
+00:12:42,600 --> 00:12:46,600
+Und jetzt ist sozusagen folgendes Problem.
+
+208
+00:12:46,600 --> 00:12:51,600
+Es gibt hier genau zwei Effekte, die wir voneinander, also die neoklassische Theorie gerne voneinander trennen will.
+
+209
+00:12:51,600 --> 00:12:55,600
+Nämlich den Income-Effekt und den Substitutionseffekt.
+
+210
+00:12:55,600 --> 00:13:02,600
+Denn wenn wir, wenn sich der Preis von etwas ändert, sagen wir mal irgendein billiges Produkt,
+
+211
+00:13:02,600 --> 00:13:04,600
+dann heißt das ja, wir können von allem mehr kaufen.
+
+212
+00:13:04,600 --> 00:13:11,600
+Insbesondere könnten wir ein bisschen was, ein bisschen teureres Produkt kaufen.
+
+213
+00:13:11,600 --> 00:13:17,600
+Sagen wir mal, wir haben irgendwie Scheißpizza und gute Pizza.
+
+214
+00:13:17,600 --> 00:13:18,600
+Tiefkühlpizza.
+
+215
+00:13:18,600 --> 00:13:20,600
+Und wir ernähren uns die ganze Zeit von Tiefkühlpizza.
+
+216
+00:13:20,600 --> 00:13:22,600
+Und jetzt geht der Preis ein bisschen runter.
+
+217
+00:13:22,600 --> 00:13:29,600
+Das würde bedeuten, wir können ein bisschen weniger von der Tiefkühlpizza kaufen und eine fettere, geilere Pizza kaufen.
+
+218
+00:13:29,600 --> 00:13:35,600
+Und immer noch sozusagen die Differenz sozusagen voll ausschöpfen, aber mehr Utility dadurch haben.
+
+219
+00:13:35,600 --> 00:13:37,600
+Und das bedeutet, wir sind eigentlich reicher geworden.
+
+220
+00:13:37,600 --> 00:13:43,600
+Unser relatives Einkommen hat zugenommen, weil ja der Preis für einen bestimmten Artikel geringer geworden ist.
+
+221
+00:13:43,600 --> 00:13:47,600
+Das heißt, wir befinden uns jetzt auf einer höheren Indifferenzkurve.
+
+222
+00:13:47,600 --> 00:13:51,600
+Und erinnert euch, das sind diese Kurven, die man nicht messen kann.
+
+223
+00:13:51,600 --> 00:13:54,600
+Und jetzt ist es so, ich male die mal hier so ein.
+
+224
+00:13:54,600 --> 00:14:02,600
+Wir sind jetzt irgendwie, also sagen wir mal, wir waren vorher hier auf dieser Indifferenzkurve und haben uns hierfür entschieden.
+
+225
+00:14:02,600 --> 00:14:04,600
+So, dann waren wir hier.
+
+226
+00:14:04,600 --> 00:14:07,600
+Und jetzt sind wir aber hier.
+
+227
+00:14:07,600 --> 00:14:12,600
+Bei einer Differenzkurve, die irgendwie, ich mach die auch mal rot.
+
+228
+00:14:12,600 --> 00:14:17,600
+Die, sagen wir mal, die geht jetzt hier so lang.
+
+229
+00:14:17,600 --> 00:14:21,600
+Die müssen immer so aussehen und die dürfen auch nicht irgendwie hier hoch gehen.
+
+230
+00:14:21,600 --> 00:14:23,600
+Das ist Schwachsinn, das darf nicht passieren.
+
+231
+00:14:23,600 --> 00:14:27,600
+Und jetzt ist es so, wir haben also offensichtlich hier einen Unterschied zwischen diesen beiden Größen.
+
+232
+00:14:27,600 --> 00:14:29,600
+Wir können jetzt einfach mehr nachfragen.
+
+233
+00:14:29,600 --> 00:14:33,600
+Und hier drin steckt jetzt aber die Tatsache, dass wir jetzt hier viel mehr Einkommen haben.
+
+234
+00:14:33,600 --> 00:14:38,600
+Und um die Sachen von nahe zu trennen, müssen wir jetzt sozusagen ein bisschen Geometrie betreiben.
+
+235
+00:14:38,600 --> 00:14:43,600
+Und was man da macht, ist die sogenannte Slatsdiezerlegung.
+
+236
+00:14:43,600 --> 00:14:48,600
+Und wir überlegen uns einfach, hier haben wir eine Gerade mit diesem Anstieg.
+
+237
+00:14:48,600 --> 00:14:51,600
+Dieser Anstieg, den halten wir jetzt konstant.
+
+238
+00:14:51,600 --> 00:14:58,600
+Und wir verschieben die jetzt parallel, bis wir wieder auf unserer alten Indifferenzkurve sind.
+
+239
+00:14:58,600 --> 00:15:04,600
+Also da, wo sozusagen unsere, also die Indifferenzkurve ist ja da, wo der Nutzen eine Konstante ist.
+
+240
+00:15:04,600 --> 00:15:08,600
+Also konstant gehalten wird. Und je weiter weg, erinnert euch, heißt mehr Nutzen.
+
+241
+00:15:08,600 --> 00:15:10,600
+Wir wollen also wieder zurück.
+
+242
+00:15:10,600 --> 00:15:14,600
+Und wenn wir das machen, dann kriegen wir hier quasi eine neue Kurve.
+
+243
+00:15:14,600 --> 00:15:17,600
+Ich mach die mal auch grün.
+
+244
+00:15:17,600 --> 00:15:23,600
+Ich probiere jetzt hier maximal parallel zu malen, so und so.
+
+245
+00:15:23,600 --> 00:15:27,600
+Sie sind jetzt mal parallel. Was dann passiert ist, wir landen hier.
+
+246
+00:15:30,600 --> 00:15:32,600
+Und ihr seht folgendes.
+
+247
+00:15:32,600 --> 00:15:35,600
+Diese Differenz hier ist positiv, diese Differenz ist negativ.
+
+248
+00:15:35,600 --> 00:15:37,600
+Das Ding nennen wir Substitutionseffekt.
+
+249
+00:15:37,600 --> 00:15:44,600
+Der ist immer negativ und der ist zuständig für das Gesetz der Fallende Nachfrage.
+
+250
+00:15:44,600 --> 00:15:46,600
+Und das Ding hier nennen wir Income-Effekt.
+
+251
+00:15:46,600 --> 00:15:49,600
+Der ist manchmal positiv, manchmal negativ.
+
+252
+00:15:49,600 --> 00:15:55,600
+Und die Art und Weise, wie positiv und negativ, das haben sich die Ökonomen damals tolles ausgedacht.
+
+253
+00:15:55,600 --> 00:15:58,600
+Sie unterscheiden verschiedene Produkte.
+
+254
+00:15:58,600 --> 00:16:03,600
+Inferior Goods, Luxury Goods, Normal Goods, Neutral Goods und so.
+
+255
+00:16:03,600 --> 00:16:05,600
+Das werde ich auch gleich noch mal ein bisschen näher erklären.
+
+256
+00:16:05,600 --> 00:16:09,600
+Aber weil es sozusagen auch sein kann, ihr seht schon, das hat etwas mit dem Anstieg hier zu tun.
+
+257
+00:16:09,600 --> 00:16:11,600
+Es könnte auch genau in die andere Richtung gehen.
+
+258
+00:16:11,600 --> 00:16:14,600
+Der Income-Effekt könnte auch in eine negative Richtung zeigen.
+
+259
+00:16:14,600 --> 00:16:20,600
+So oder so kann man aber immer, wenn man die Differenz Curves annimmt, sowas hier konstruieren
+
+260
+00:16:20,600 --> 00:16:24,600
+und die voneinander abziehen, um den reinen Substitutionseffekt messen zu können.
+
+261
+00:16:24,600 --> 00:16:27,600
+Und diese Korrektur, die hat auch einen Namen irgendwie.
+
+262
+00:16:27,600 --> 00:16:32,600
+Hicksche Demandfunktion, die da rauskommt oder Hicksche Korrektur Demandfunktion oder so.
+
+263
+00:16:32,600 --> 00:16:38,600
+Und die braucht man ganz zwingend, um jetzt für verschiedene Variationen von Preisen
+
+264
+00:16:38,600 --> 00:16:41,600
+eine individuelle Demandcurve zu konstruieren für ein Individuum.
+
+265
+00:16:41,600 --> 00:16:43,600
+Das braucht man.
+
+266
+00:16:43,600 --> 00:16:51,600
+Und das ist jetzt erstmal sozusagen der Kram mit den Gleichungen hier.
+
+267
+00:16:51,600 --> 00:16:54,600
+Ich glaube, mehr Gleichungen kommen nicht in den Video.
+
+268
+00:16:54,600 --> 00:17:00,600
+Deswegen können wir jetzt sozusagen uns ein bisschen entspannen und hier wieder den anklicken.
+
+269
+00:17:00,600 --> 00:17:02,600
+Es ist so.
+
+270
+00:17:02,600 --> 00:17:15,600
+Wir haben jetzt sozusagen unsere individuelle Demandcurve konstruiert.
+
+271
+00:17:15,600 --> 00:17:23,600
+Und wichtig hierbei ist sozusagen, dass wir angenommen haben, das Einkommen des Konsumenten
+
+272
+00:17:23,600 --> 00:17:27,600
+ist eine Konstante und die Preise von allen anderen Sachen sind auch eine Konstante.
+
+273
+00:17:27,600 --> 00:17:31,600
+Das steht auch in allen Textbooks drin, dass das so ist.
+
+274
+00:17:31,600 --> 00:17:35,600
+Und das erinnert mich auch schon wieder an Thermodynamik und Statistische Physik,
+
+275
+00:17:35,600 --> 00:17:37,600
+weil da macht man sowas ständig.
+
+276
+00:17:37,600 --> 00:17:41,600
+Und wir haben jetzt sozusagen den Parameter, Preis, und den wackeln wir, an dem wackeln wir rum,
+
+277
+00:17:41,600 --> 00:17:43,600
+dann haben wir diesen Winkel bekommen.
+
+278
+00:17:43,600 --> 00:17:50,600
+Und dann können wir sozusagen eine, durch diese nicht messbare Indifferenzkurve,
+
+279
+00:17:50,600 --> 00:17:52,600
+die jetzt einfach postuliert wird.
+
+280
+00:17:52,600 --> 00:17:55,600
+Nochmal, das ist eine hidden value, die sehen wir gar nicht.
+
+281
+00:17:55,600 --> 00:17:59,600
+Durch diese Idee, dass es die gibt, daraus können wir das sozusagen machen.
+
+282
+00:18:00,600 --> 00:18:05,600
+Und was ihr immer seht in Textbooks und in den Lehrbüchern und auch in den Vorlesungen ist,
+
+283
+00:18:05,600 --> 00:18:09,600
+dass die Zahlen, die die da verwenden, rein willkürlich festgelegt sind.
+
+284
+00:18:09,600 --> 00:18:16,600
+Die haben immer völlig fiktive Beispiele, weil es offenbar in der Realität überhaupt keine Messungen dazu gibt.
+
+285
+00:18:16,600 --> 00:18:19,600
+Weil, wie gesagt, die Indifferenzkurve existiert nicht.
+
+286
+00:18:19,600 --> 00:18:22,600
+Das ist ein Konstrukt, was man nicht beobachten kann.
+
+287
+00:18:22,600 --> 00:18:24,600
+So, aber egal.
+
+288
+00:18:24,600 --> 00:18:28,600
+Ich habe es euch gerade gezeigt, so funktioniert sozusagen Wirtschaftswissenschaft.
+
+289
+00:18:28,600 --> 00:18:30,600
+Die hat einfach nichts mit der Realität zu tun.
+
+290
+00:18:30,600 --> 00:18:33,600
+So, und jetzt ist es so.
+
+291
+00:18:33,600 --> 00:18:34,600
+Das Problem.
+
+292
+00:18:34,600 --> 00:18:40,600
+Bei einem konstanten Einkommen kann man bei einem sinkenden Preis nicht nur mehr von dem X kaufen,
+
+293
+00:18:40,600 --> 00:18:42,600
+sondern auch mehr von dem Y und allen anderen Sachen.
+
+294
+00:18:42,600 --> 00:18:46,600
+Man kann ja von allen Produkten mehr kaufen, wenn man mehr Geld übrig hat auf einmal.
+
+295
+00:18:46,600 --> 00:18:48,600
+Man muss ja sozusagen an dem anderen Produkt gar nichts erinnern.
+
+296
+00:18:48,600 --> 00:18:50,600
+Man hat ja einfach mehr Geld über.
+
+297
+00:18:50,600 --> 00:18:53,600
+Und wenn das Produkt sozusagen Schrott ist und man es nur kauft, weil man weißarm ist,
+
+298
+00:18:53,600 --> 00:18:57,600
+zum Beispiel T-Pizza, von der ich schon erzählt habe,
+
+299
+00:18:57,600 --> 00:19:05,600
+dann kann es halt irgendwie sein, dass der Preis, obwohl er fällt,
+
+300
+00:19:05,600 --> 00:19:07,600
+man immer noch weniger davon kauft.
+
+301
+00:19:07,600 --> 00:19:13,600
+Weil man zum Beispiel es sozusagen mit einem höherwertigen T-Pizza-Produkt austauschen kann.
+
+302
+00:19:13,600 --> 00:19:17,600
+Und die Nachfrage ist dann nicht Downwardsloped.
+
+303
+00:19:17,600 --> 00:19:18,600
+Also die geht nicht so runter.
+
+304
+00:19:18,600 --> 00:19:21,600
+Das ist das, was man dann sozusagen sieht.
+
+305
+00:19:21,600 --> 00:19:28,600
+Und das macht jetzt sozusagen diesen sogenannten Income-Effekt.
+
+306
+00:19:28,600 --> 00:19:34,600
+Und ich habe ja schon gesagt, man sieht dann sozusagen, in der Literatur habe ich jetzt gelesen,
+
+307
+00:19:34,600 --> 00:19:37,600
+Giffengoods, Normal Goods, Superior Luxury Goods.
+
+308
+00:19:37,600 --> 00:19:43,600
+Und jetzt ist es so.
+
+309
+00:19:43,600 --> 00:19:48,600
+Der Parameter, dieses relative Einkommen, wenn man an dem rumwackelt
+
+310
+00:19:48,600 --> 00:19:53,600
+und immer nach diesem Verfahren sozusagen die Indifferenzkurve schneidet
+
+311
+00:19:53,600 --> 00:19:59,600
+und über sozusagen den Plotz die Engelkurve, also wenn man das macht
+
+312
+00:19:59,600 --> 00:20:02,600
+und an dem relativen Einkommen sozusagen wackelt
+
+313
+00:20:02,600 --> 00:20:06,600
+und immer wieder den Punkt sucht von dem, was der Konsument dann kauft,
+
+314
+00:20:06,600 --> 00:20:08,600
+dann kann man eine sogenannte Engelkurve konstruieren.
+
+315
+00:20:08,600 --> 00:20:12,600
+Und die Engelkurve, die hat sozusagen bestimmte Formen.
+
+316
+00:20:12,600 --> 00:20:18,600
+Und über die Formen dieser Engelkurve kann man auch diese Inferior Goods,
+
+317
+00:20:18,600 --> 00:20:23,600
+Superior Goods, Giffengoods und Neutral Goods sozusagen hinschreiben.
+
+318
+00:20:23,600 --> 00:20:30,600
+Und besonders witzig ist eigentlich das sogenannte normale oder neutrale oder homothetische Gut.
+
+319
+00:20:30,600 --> 00:20:34,600
+Das ist nämlich das, wo die Engelkurve eine lineare Funktion ist,
+
+320
+00:20:34,600 --> 00:20:37,600
+wo sie einfach nur mit einem konstanten Anstieg hochgeht.
+
+321
+00:20:37,600 --> 00:20:41,600
+Und das bedeutet im Prinzip für euch intuitiv, das ist ein Artikel,
+
+322
+00:20:41,600 --> 00:20:48,600
+von dem ihr immer denselben Prozentsatz eures Einkommens ausgeben werdet, um ihn zu konsumieren.
+
+323
+00:20:48,600 --> 00:20:53,600
+Das heißt, wenn ich jetzt zehnmal mehr verdiene, würde ich bei Bier jetzt zum Beispiel,
+
+324
+00:20:53,600 --> 00:20:59,600
+wenn das ein homothetisches Gut wäre, dann würde ich dann zehnmal so viel Bier kaufen davon.
+
+325
+00:20:59,600 --> 00:21:05,600
+Und jetzt stellt euch mal die Frage, gibt es sowas überhaupt?
+
+326
+00:21:05,600 --> 00:21:08,600
+Ihr werdet feststellen, das existiert nicht.
+
+327
+00:21:08,600 --> 00:21:10,600
+Es gibt schlichtweg so einen Gut nicht.
+
+328
+00:21:10,600 --> 00:21:13,600
+Das brauchen wir aber später nochmal, das ist ganz wichtig, witzig,
+
+329
+00:21:13,600 --> 00:21:19,600
+dass sozusagen da, wo die Engelkurve eine lineare Funktion ist, eine gerade,
+
+330
+00:21:19,600 --> 00:21:24,600
+das bedeutet homothetisches Gut.
+
+331
+00:21:24,600 --> 00:21:28,600
+Ein ganz einfaches Beispiel wäre sozusagen ein Obdachloser und ein Millionär,
+
+332
+00:21:28,600 --> 00:21:34,600
+die scheren wahrscheinlich nicht einen einzigen Artikel, den sie sozusagen überhaupt kaufen, nicht einen.
+
+333
+00:21:34,600 --> 00:21:36,600
+Das heißt, es kann es nicht geben.
+
+334
+00:21:36,600 --> 00:21:40,600
+Man kann es sozusagen praktisch falsifizieren durch eine Überlegung, dass es das nicht geben kann.
+
+335
+00:21:40,600 --> 00:21:44,600
+Das ist einfach Schwachsinn.
+
+336
+00:21:44,600 --> 00:21:46,600
+Genauso wenig auf der Skala von Ländern würde das sehen.
+
+337
+00:21:46,600 --> 00:21:50,600
+Also sagen wir mal Senegal oder Kongo, da würde man wahrscheinlich Artikel haben,
+
+338
+00:21:50,600 --> 00:21:55,600
+die so gar nicht auftauchen in den USA oder so.
+
+339
+00:21:55,600 --> 00:22:00,600
+Und notwendige Güter wie Klopapier und so, die sinken relativ mit den steigenden Einkommen.
+
+340
+00:22:00,600 --> 00:22:03,600
+Einfach nur, weil man ja nicht mehr Klopapier braucht überhaupt.
+
+341
+00:22:03,600 --> 00:22:07,600
+Man kauft vielleicht besser und hochwertigeres Klopapier, aber irgendwann lässt man es auch sein.
+
+342
+00:22:07,600 --> 00:22:09,600
+Also mehr braucht man schlichtweg.
+
+343
+00:22:09,600 --> 00:22:13,600
+Und jetzt ist aber, was ist mit dem Markt?
+
+344
+00:22:13,600 --> 00:22:18,600
+Ihr wisst ja alle aus dem Talk mit Human, den ihr hoffentlich gesehen habt, der ist ziemlich cool,
+
+345
+00:22:18,600 --> 00:22:21,600
+dass die Wirtschaftswissenschaften schlicht das Wort Emergenz nicht anerkennen.
+
+346
+00:22:21,600 --> 00:22:23,600
+Sie kennen es nicht.
+
+347
+00:22:23,600 --> 00:22:25,600
+Und es gibt bei denen nur einzelne Akteure.
+
+348
+00:22:25,600 --> 00:22:29,600
+Und sowas wie Differenzialgleichung und dynamische Systeme sind für die ein Fremdwort.
+
+349
+00:22:29,600 --> 00:22:31,600
+Ich habe es bis jetzt zumindest noch nicht beobachtet.
+
+350
+00:22:31,600 --> 00:22:35,600
+Ich weiß, dass die auch mal mit Fischerseparationsansatz bestimmte Kostenprobleme lösen,
+
+351
+00:22:35,600 --> 00:22:42,600
+aber was sie nicht tun, ist dynamische Systeme und Emergenz anwenden auf das mit den Aggregatfunctions
+
+352
+00:22:42,600 --> 00:22:45,600
+und auf den Markt und so. Das checken die einfach nicht.
+
+353
+00:22:45,600 --> 00:22:51,600
+Sie versuchen einfach einzelne Individuen zu beschreiben durch ihre Kurven,
+
+354
+00:22:51,600 --> 00:22:55,600
+also durch ihre Demandkurven und dann einfach tatsächlich alle zu addieren.
+
+355
+00:22:55,600 --> 00:22:58,600
+Und selbst werden die sozusagen, und sie sagen ja alle,
+
+356
+00:22:58,600 --> 00:23:00,600
+alle diese Demandkurven müssen Downward Sloping sein.
+
+357
+00:23:00,600 --> 00:23:03,600
+Egal wie, sie müssen auf jeden Fall monoton fallen.
+
+358
+00:23:03,600 --> 00:23:11,600
+Und dabei vernachlässigen sind sie natürlich die Wechselwirkung dieser Teilnehmer untereinander,
+
+359
+00:23:11,600 --> 00:23:14,600
+weil sie kennen die Emergenz nicht. Das heißt, sie vernachlässigen die Wechselwirkung.
+
+360
+00:23:14,600 --> 00:23:19,600
+Konkret stellt euch vor, wir haben nicht ein Teilnehmer, sondern wir haben zwei.
+
+361
+00:23:19,600 --> 00:23:22,600
+Da zerbricht die Idee von dem ganzen Markt schon.
+
+362
+00:23:22,600 --> 00:23:25,600
+Da fängt das ganze Problem an, weil wenn man alleine auf einer Insel ist,
+
+363
+00:23:25,600 --> 00:23:28,600
+dann spielt das Einkommen schlichtweg keine Rolle.
+
+364
+00:23:28,600 --> 00:23:33,600
+Weil sozusagen das relative Einkommen bezüglich was soll sich irgendwie, was soll das machen.
+
+365
+00:23:33,600 --> 00:23:36,600
+Wenn aber jetzt zwei unterschiedliche Leute da sind, also wir gehen jetzt mal davon aus,
+
+366
+00:23:36,600 --> 00:23:39,600
+die sind unterschiedlich, sie unterscheiden sich.
+
+367
+00:23:39,600 --> 00:23:41,600
+Wenn sie identisch sind, wäre das ein trivialer Fall.
+
+368
+00:23:41,600 --> 00:23:45,600
+Wenn sie sich unterscheiden, ist es doch so, einer von beiden macht,
+
+369
+00:23:45,600 --> 00:23:50,600
+wenn sich der Preis für Bananen ändert, auf einmal mehr Gewinne als der andere.
+
+370
+00:23:50,600 --> 00:23:53,600
+Das ist ja klar.
+
+371
+00:23:53,600 --> 00:23:58,600
+Selbst wenn beide Bananen verkaufen, weil sie unterschiedlich sind, diese Typen,
+
+372
+00:23:58,600 --> 00:24:00,600
+haben sie auch unterschiedliche Profitraten.
+
+373
+00:24:00,600 --> 00:24:04,600
+Das heißt, einer von beiden macht mehr Gewinne als der andere. Das ist klar.
+
+374
+00:24:04,600 --> 00:24:09,600
+Und wenn das aber so ist, bedeutet das doch, dass wenn der Preis für Bananen steigt,
+
+375
+00:24:09,600 --> 00:24:12,600
+dass der eine mehr Einkommen als der andere hat danach.
+
+376
+00:24:12,600 --> 00:24:19,600
+Daraus folgt aber später, dass sozusagen die Einkommenslinie keine Gerade mehr sein kann eigentlich.
+
+377
+00:24:19,600 --> 00:24:25,600
+Weil in Relation zu dem anderen wird man ja reicher.
+
+378
+00:24:25,600 --> 00:24:27,600
+Das ist interessant.
+
+379
+00:24:27,600 --> 00:24:31,600
+Und das führt auch dazu, dass man sozusagen dieses Geometriespielchen mit den Indifferenzkurven
+
+380
+00:24:31,600 --> 00:24:35,600
+nicht mehr spielen kann, weil man hat ja gerade gebraucht, dass das eine Konstante ist.
+
+381
+00:24:35,600 --> 00:24:41,600
+Und der Income-Effekt, also das braucht man ja, um den Income-Effekt von dem Substitutionseffekt zu trennen.
+
+382
+00:24:41,600 --> 00:24:45,600
+Und daher gilt sozusagen das Gesetz der fallenden Nachfrage nicht mehr.
+
+383
+00:24:45,600 --> 00:24:50,600
+Das ist das, was man sozusagen beobachten kann im Fall für zwei verschiedene Teilnehmer schon.
+
+384
+00:24:50,600 --> 00:24:54,600
+Und je nachdem, wie die Preise liegen, wird sozusagen auch auf einem Marktlevel mit vielen Teilnehmern
+
+385
+00:24:54,600 --> 00:25:01,600
+immer der favorisiert, der gerade zufälligerweise dieses Produkt auch herstellt.
+
+386
+00:25:01,600 --> 00:25:06,600
+Das heißt, jeder Hersteller hat Anreiz, die Preise nach oben zu drücken irgendwie,
+
+387
+00:25:06,600 --> 00:25:13,600
+um seine Vormachtstellung quasi bezüglich der anderen nach oben sozusagen herzustellen.
+
+388
+00:25:13,600 --> 00:25:20,600
+Und das erinnert mich stark an das Beispiel an dieses HUNO-Experiment aus Teil 4 oder Teil 5 Wirtschaftswissenschaften.
+
+389
+00:25:20,600 --> 00:25:23,600
+Ich weiß jetzt nicht, wo ich das erklärt habe mit dem HUNO-Experiment.
+
+390
+00:25:23,600 --> 00:25:25,600
+Ich glaube, es war Teil 5.
+
+391
+00:25:25,600 --> 00:25:34,600
+Und jetzt ist es so, der Erste, der dieses Resultat jetzt beobachtet hat, war William Gorman, 1953.
+
+392
+00:25:34,600 --> 00:25:37,600
+Übrigens, Quellen sind alle in der Beschreibung.
+
+393
+00:25:37,600 --> 00:25:39,600
+Und ich zeige euch dieses Bild.
+
+394
+00:25:39,600 --> 00:25:46,600
+Gorman zeigte, dass die Engelkurven der Teilnehmer alle parallele Linien sein müssen.
+
+395
+00:25:49,600 --> 00:25:53,600
+Das zeigte der rein mathematisch, er hat es bewiesen.
+
+396
+00:25:53,600 --> 00:25:59,600
+Und erinnert euch, Engelkurven, die geraden sein müssen, was bedeutet das?
+
+397
+00:25:59,600 --> 00:26:02,600
+Ach ja, alle Produkte sind homothetisch.
+
+398
+00:26:02,600 --> 00:26:04,600
+Das sind gerade die, die nicht existieren.
+
+399
+00:26:04,600 --> 00:26:06,600
+Es gibt kein Produkt, auf das das zum Traf nicht eins.
+
+400
+00:26:06,600 --> 00:26:11,600
+Das bedeutet vor allem, dass man die Situation im Prinzip beschreiben kann,
+
+401
+00:26:11,600 --> 00:26:16,600
+nur dann, wenn Einkommenszuwachs direkt proportional zum Konsum ist.
+
+402
+00:26:18,600 --> 00:26:20,600
+Denkt mal in euer alltägliches Leben rein.
+
+403
+00:26:20,600 --> 00:26:21,600
+Was bedeutet das in Grenzwert?
+
+404
+00:26:21,600 --> 00:26:25,600
+Das bedeutet, es kann nur ein Produkt auf dieser Welt geben.
+
+405
+00:26:25,600 --> 00:26:30,600
+Nur dann und nur dann macht es Sinn, dass die Engelkurve so ist.
+
+406
+00:26:31,600 --> 00:26:35,600
+Nur dann macht es Sinn, dass ihr sozusagen, ihr gebt einfach 100% eures Inkommens dann nämlich aus.
+
+407
+00:26:35,600 --> 00:26:36,600
+Und das ist eine Konstante.
+
+408
+00:26:36,600 --> 00:26:39,600
+Und genau das ist ja das, was die Engelkurve als gerade aussagt.
+
+409
+00:26:40,600 --> 00:26:44,600
+Ihr gebt immer denselben Anteil eures Einkommens für etwas aus.
+
+410
+00:26:45,600 --> 00:26:49,600
+So, das ist nur möglich, wenn es nur einen Markt mit einem einzigen Produkt mehr gibt.
+
+411
+00:26:50,600 --> 00:26:51,600
+Schon mal völlig bescheuert.
+
+412
+00:26:57,600 --> 00:27:02,600
+Was er auch noch gezeigt hat, ist, alle Teilnehmer müssen identische Präferenzen haben.
+
+413
+00:27:02,600 --> 00:27:03,600
+Was bedeutet das?
+
+414
+00:27:03,600 --> 00:27:05,600
+Dass die Engelkurven alles parallel sein müssen.
+
+415
+00:27:06,600 --> 00:27:07,600
+Sie müssen denselben Anstieg haben.
+
+416
+00:27:08,600 --> 00:27:14,600
+So, und weil die jetzt aber auch Engelkurven logischerweise durch den Nullpunkt im Koordinatensystem gehen,
+
+417
+00:27:14,600 --> 00:27:20,600
+weil wenn man irgendwie sozusagen, also sie müssen durch den Nullpunkt gehen, es geht nicht anders.
+
+418
+00:27:22,600 --> 00:27:24,600
+Das bedeutet, alle Engelkurven sind identisch.
+
+419
+00:27:24,600 --> 00:27:30,600
+Denn ihr wisst aus Geometrie, also Geraden, die parallel sind und durch einen gemeinsamen Punkt gehen, sind identisch.
+
+420
+00:27:30,600 --> 00:27:31,600
+Geht nicht anders.
+
+421
+00:27:31,600 --> 00:27:35,600
+Das heißt, es gibt nicht nur ein einziges Produkt, sondern auch nur einen einzigen Konsumenten.
+
+422
+00:27:36,600 --> 00:27:40,600
+Und das ist sozusagen die Schlussfolgerung, die Gorman 1953 schon hatte.
+
+423
+00:27:41,600 --> 00:27:43,600
+William Gorman hat es hingeschrieben.
+
+424
+00:27:44,600 --> 00:27:45,600
+Jetzt ist aber das Problem.
+
+425
+00:27:45,600 --> 00:27:50,600
+William Gorman war kein echter Naturwissenschaftler in dem Sinne, sondern, und auch kein Wissenschaftler.
+
+426
+00:27:52,600 --> 00:27:57,600
+Er wollte ja, dass der Scheiß mit dem Gesetz der fallenden Nachfrage funktioniert.
+
+427
+00:27:57,600 --> 00:28:02,600
+Das heißt, er hat sein eigenes Ergebnis versucht, in den Skat zu drücken.
+
+428
+00:28:03,600 --> 00:28:11,600
+Also, wenn man sozusagen, das ist einfach interessant, weil er hat sozusagen versucht zu zeigen, dass es nicht so ist und dann gesehen, dass es so ist.
+
+429
+00:28:12,600 --> 00:28:13,600
+Man könnte es auch anders formulieren.
+
+430
+00:28:13,600 --> 00:28:19,600
+Er hat angefangen zu überlegen, wenn das Gesetz, dann fallende Nachfrage, war es.
+
+431
+00:28:19,600 --> 00:28:22,600
+Dann folgt das und das und das und das.
+
+432
+00:28:22,600 --> 00:28:31,600
+Insbesondere folgt daraus, dass es nicht gehen kann, weil alle Engelkurven müssen parallel sein und also parallele, lineare Funktionen sein.
+
+433
+00:28:31,600 --> 00:28:36,600
+Und dann folgt daraus sozusagen, es gibt nur einen einzigen Konsum und es gibt auch nur einen einzigen Konsumenten.
+
+434
+00:28:36,600 --> 00:28:38,600
+Das hat nichts mit einer Marktdynamik zu tun.
+
+435
+00:28:38,600 --> 00:28:41,600
+Das heißt, er kam mit seiner Annahme zu einem Widerspruch.
+
+436
+00:28:41,600 --> 00:28:43,600
+Wie nennt man das in der Mathematik?
+
+437
+00:28:43,600 --> 00:28:46,600
+Man nennt das ein Beweis durch Widerspruch.
+
+438
+00:28:46,600 --> 00:28:53,600
+Er hat damit bewiesen, dass das Gesetz der fallenden Nachfrage für den Markt nicht gilt.
+
+439
+00:28:53,600 --> 00:28:55,600
+Das hat er bewiesen.
+
+440
+00:28:55,600 --> 00:28:57,600
+Proof bei Kontradiktion nennt man das.
+
+441
+00:28:57,600 --> 00:29:02,600
+Und ernst zu nehmende Wirtschaftswissenschaftler müssten sozusagen das dann hinnehmen.
+
+442
+00:29:02,600 --> 00:29:06,600
+Aber natürlich kann man Wirtschaftswissenschaftler nicht ernst nehmen, genauso wie diesen Typen.
+
+443
+00:29:06,600 --> 00:29:10,600
+Und das ist völlig anders als das, was Kurt Gödel zum Beispiel gemacht hat.
+
+444
+00:29:10,600 --> 00:29:13,600
+Er wollte ja zeigen, dass die Mathematik konsistent ist und er hat bewiesen, dass es nicht so ist.
+
+445
+00:29:13,600 --> 00:29:21,600
+Beziehungsweise er hat bewiesen, dass die kontinuierliche Mathematik nicht konsistent ist und nur die Computation in der Mathematik konsistent ist.
+
+446
+00:29:21,600 --> 00:29:26,600
+Und Gorman hat sozusagen sein eigenes Ergebnis kleingeredet und vergraben.
+
+447
+00:29:26,600 --> 00:29:32,600
+Und übrigens, er zeigte auch, dass man mit Downward Sloping Demand Curves, wenn man solche Teilnehmer hat,
+
+448
+00:29:32,600 --> 00:29:39,600
+die alle Downward Sloping Demand Curves, jede erdenkliche Marktnachfrage Kurve erzeugen kann.
+
+449
+00:29:39,600 --> 00:29:46,600
+Sprich, es muss gar keine Kurve sein, die irgendwie so macht, sondern sie könnte irgendwie so machen, so machen.
+
+450
+00:29:46,600 --> 00:29:49,600
+Es ist überhaupt keine Rolle. Es muss nicht mal in dem Sinne eine Funktion sein.
+
+451
+00:29:49,600 --> 00:29:54,600
+Sie kann sogar so hoch runtergehen und so hoch runtergehen.
+
+452
+00:29:54,600 --> 00:29:57,600
+Sie kann richtig viele Lösungen haben, wenn man da geraden durchlegt.
+
+453
+00:29:57,600 --> 00:29:59,600
+Wichtig ist nur, dass sie sich nicht selbst schneiden darf.
+
+454
+00:29:59,600 --> 00:30:02,600
+Sie muss stetig sein. Das war's. Das muss die Kurve können.
+
+455
+00:30:03,600 --> 00:30:07,600
+Und Gorman hat das versucht sozusagen kleinzureden.
+
+456
+00:30:07,600 --> 00:30:11,600
+Und später gab es noch mal Boys, die haben das dann noch mal herausgefunden
+
+457
+00:30:11,600 --> 00:30:15,600
+und die sogenannten Sonnenschein-Mantel-de-Bereu-Bedingungen definiert.
+
+458
+00:30:15,600 --> 00:30:17,600
+Und da kam das auch aus.
+
+459
+00:30:17,600 --> 00:30:22,600
+Und das Ding ist, die Dudes haben es zwar ehrlicher hingeschrieben, aber trotzdem dasselbe Problem gehabt.
+
+460
+00:30:22,600 --> 00:30:25,600
+Sie wollten ja eigentlich zeigen, dass das Gesetz der Fallen in der Nachfrage gilt.
+
+461
+00:30:25,600 --> 00:30:32,600
+Und weil Wirtschaftswissenschaftler jetzt zweimal sozusagen das genaue Gegenteil gezeigt haben von dem, was sie eigentlich wollten.
+
+462
+00:30:32,600 --> 00:30:36,600
+Das heißt, wenn sich sozusagen...
+
+463
+00:30:36,600 --> 00:30:41,600
+Sie haben es im Prinzip einfach verschwiegen.
+
+464
+00:30:41,600 --> 00:30:43,600
+Sie haben verschwiegen, dass es so ist.
+
+465
+00:30:43,600 --> 00:30:47,600
+Und nicht ausdrücklich jedem Studenten der Wirtschaftswissenschaften in die Fresse gedrückt,
+
+466
+00:30:47,600 --> 00:30:56,600
+sondern wenn überhaupt, wenn diese Details nur sozusagen bei bestimmten Masters oder eigentlich eben erst als Doktorand sozusagen einem offeriert.
+
+467
+00:30:56,600 --> 00:31:03,600
+Das heißt, da wo die ganzen Boys schon längst in der sogenannten freien Wirtschaft sind und Finanzexperten sind und so.
+
+468
+00:31:03,600 --> 00:31:04,600
+Und das ist echt witzig.
+
+469
+00:31:04,600 --> 00:31:10,600
+Und Gorman selbst sagt auch, es sei irgendwie intuitiv und sinnvoll sein Ergebnis.
+
+470
+00:31:10,600 --> 00:31:11,600
+Und das ist völlig bescheuert.
+
+471
+00:31:12,600 --> 00:31:23,600
+Wenn man sozusagen das Einkommen verändert von Leuten, dann sagt er, es sei intuitiv und sinnvoll, dass das Konsumverhalten weiterhin exakt genau dasselbe Verhältnis beibehält.
+
+472
+00:31:23,600 --> 00:31:25,600
+Das nennt er intuitiv und sinnvoll.
+
+473
+00:31:25,600 --> 00:31:29,600
+Okay, das heißt, er hat hier dieses Ergebnis.
+
+474
+00:31:29,600 --> 00:31:33,600
+Es ist total bescheuert und dann behauptet er einfach, es sei intuitiv und sinnvoll.
+
+475
+00:31:33,600 --> 00:31:34,600
+Und darüber freuen sich alle.
+
+476
+00:31:34,600 --> 00:31:37,600
+So funktioniert Ideologie, meine Freunde.
+
+477
+00:31:37,600 --> 00:31:40,600
+Das hat nichts mit wissenschaftlichen Denken zu tun.
+
+478
+00:31:40,600 --> 00:31:45,600
+Und ich habe gelesen, es gibt so einen geilen Typen, der heißt Frank Ackermann.
+
+479
+00:31:45,600 --> 00:31:50,600
+Er nennt es den Newsflash, der noch einige Jahrzehnte zu wiederholen sein muss.
+
+480
+00:31:50,600 --> 00:31:54,600
+Also damit es überhaupt in die Welt kommt, dass das Schwachsinn ist.
+
+481
+00:31:54,600 --> 00:32:04,600
+Und diese ganze Theorie und dieses sogenannte Preisequilibrium, das folgt ja erst aus dieser Sache mit der Nachfrage und auch aus der Sache mit dem Supply.
+
+482
+00:32:04,600 --> 00:32:07,600
+Supply kommt sozusagen viel später das Video.
+
+483
+00:32:07,600 --> 00:32:17,600
+Ich habe jetzt erst mal nur das mit der Nachfrage aufgearbeitet, aber daraus folgt im Prinzip meiner Meinung nach, dass die ganze neoklassische Theorie eine gottfordernde Todgeburt ist.
+
+484
+00:32:17,600 --> 00:32:27,600
+Und erinnert euch, die waren nur dazu da, um Marx, Ricardo und die ganzen anderen Boys, Keynes, die wirklich angefangen haben ernsthaft über Wirtschaft nachzudenken, Tod zu kaspern.
+
+485
+00:32:27,600 --> 00:32:44,600
+Und ja, ich weiß auch nicht, es sieht halt einfach so aus, als würde das simple Zusammenstecken von Angebot und Nachfrage kurven immer mehr instabile Schnittpunkte haben, als das, was uns sozusagen Hans-Werner Sinn erzählen würde.
+
+486
+00:32:44,600 --> 00:32:48,600
+Es macht nicht einfach nur so und so und dann schneidet sich das, sondern es macht so.
+
+487
+00:32:48,600 --> 00:32:56,600
+Und wenn man da irgendwas so was durchlegt, dann gibt es halt mehrere Schnittpunkte und das sind dann mehrere instabile Gleichgewichte.
+
+488
+00:32:56,600 --> 00:33:03,600
+Das heißt, es ist irgendwie, man kann sozusagen daraus auch Schluss folgern, dass wenn sich Preise ändern, sich auch die Einkommensverteilungen ändern.
+
+489
+00:33:03,600 --> 00:33:12,600
+Und das geht zurück zu meinem Video zur Inflation, wo ich sage, ja, Inflation manifestiert, da manifestiert sich eigentlich ein Machtkampf.
+
+490
+00:33:12,600 --> 00:33:30,600
+Und im nächsten Video, das habe ich schon vorbereitet, das mache ich jetzt gleich im Anschluss, geht es um das sogenannte, also im Prinzip um so eine Art Cover-Up-Aktion, wie in so einem Verschwörungsfilm auch oder in so einem Verschwörungstheorielager, wenn man da drin, in einem schlechten Film.
+
+491
+00:33:30,600 --> 00:33:41,600
+Wie die Leute jetzt versucht haben, dieses Ergebnis, was ein mathematisches, sozusagen mathematischer Beweis war, wie man das versucht zu verheimlichen, weil das hat auch interessante Implikationen.
+
+492
+00:33:41,600 --> 00:33:45,600
+Und wie gesagt, ich werde das Video jetzt gleich im Anschluss aufnehmen, aber jetzt erstmal viel Spaß reingehauen, YouTube.
+
+493
+00:37:11,600 --> 00:37:36,600
+Übrigens, der Kanal ist wie eine schöne Vorlesung aufgebaut, wenn ich unten Videos verlinke, dann wäre es angebracht, sich die auch reinzuziehen, weil das aufeinander aufbaut.
+
+494
+00:37:36,600 --> 00:37:47,600
+Bestimmte Begriffe werden definiert, viele Beispiele werden genannt und ja, ich denke mir schon was dabei, weil es sozusagen meinen eigenen Erkenntnisprozess abbildet, die Reihenfolge, in denen ich die Videos hier hochlade.
+

@@ -1,0 +1,1443 @@
+Test. Test, Test. So Leute, es gab mal eine Zeit, da bin ich in so Übungen rein und
+habe Leuten was vorgerechnet und da habe ich mich nicht wirklich vorbereitet oder so
+und so ist das heute auch. Ich habe mir nur ein paar Stichpunkte gemacht und für später
+noch ein Zettel mit so ein paar mit so ein paar Sachen. Aber sonst, was mache ich heute?
+Ich habe mir überlegt, ich weiß ja, die Leute brauchen Beispiele und es ist so, ich fange
+gleich mit einem Anwendungsbeispiel an, mit einem konkreten Ding, von dem ich glaube,
+dass es die meisten gar nicht auf dem Schirm haben, dass es schon da ist und zwar GPT-3. Das
+ist im Prinzip einfach nur ein Sprachmodell, was mit extrem vielen Parametern trainiert wurde und
+für normale Menschen, denen kommt es schon so vor, als wäre da ein echter Mensch, mit denen sie
+reden. Und ich zeige euch das gleich als Beispiel und danach, was mache ich danach? Danach hole ich
+weit aus. Ich habe vor, so ein bisschen Mathematik zu machen. Alles, damit ihr am Ende ungefähr
+begreifen könnt, was notwendig ist, um sowas wie GPT-3 zu bauen bzw. das, was die KI-Forscher
+lernen nennen in Deep Learning. Es ist nicht so, dass ihr das am Ende dann verstanden habt,
+sondern ihr habt das Rüstzeug, um euch selber was drauf zu schaffen. Das ist im Prinzip meine Idee.
+Ich will euch sozusagen meinen Erkenntnisgang nachvollziehbar machen. Bei mir ist es so,
+ich hatte das große Privileg, lange an der Hochschule rumzuschimmeln und natürlich habe
+ich Physik studiert, aber danach hatte ich immer noch die Möglichkeit, mir andere Sachen drauf zu
+ziehen. Zum Beispiel hatte ich mal einen Workshop mitgemacht, eine Woche lang, jeden Tag fünf
+Stunden Vorlesung bei so einem Typen, der gerade eine Professur angefangen hat zum Thema KI und
+da habe ich mir sozusagen die Grundlagen drauf geschafft bei den Typen und ich bilde mir halt
+ein, dass ich genug verstanden habe, um das zu vermitteln. Es ist halt auch so, abgesehen davon
+habe ich sonst Medizintechnik gemacht und da schreibe ich auch meine Doktorarbeit drüber und
+da gibt es ein extrem gutes Anwendungsbeispiel, was im Prinzip mit Geometrie auskommt und dass
+jeder nachvollziehen kann, wenn er nur will und ich würde sagen, der ganze Stream jetzt hier und
+auch das ganze Video, was ich später als Video veröffentlichen werde, das richtet sich eher an
+Leute, die so mal schon mal eine Mathevorlesung gesehen haben und nicht komplett ausgestiegen
+sind. Es geht sozusagen hier nur darum, für die Leute, die wirklich interessiert sind, aber warum
+auch immer keine Zeit dafür hatten oder nicht die Möglichkeit hatten, sich noch mal so ein
+bisschen was drauf zu schaffen, was in die Richtung geht, einfach weil, ist ja klar,
+da braucht man Zeit für, da braucht man Privileg für, um das zu machen und ich gebe euch davon
+was ab und das ist die Idee. So und jetzt checke ich erstmal mein Overlay, ob das hier alles so
+läuft. Ich habe hier, hier habe ich so meine Tafel, da schreibe ich was rein. Jetzt muss ich nur mal
+checken. Ich glaube, ich muss das Programm nochmal neu starten oder ach nee, ich muss
+meinen USB-Dingel reinstecken. Klar. Klären wir es hier rein. Und dann muss, glaube ich,
+muss ich so machen, genau, dann wird das noch nicht erkannt, dann muss ich den nochmal neu
+starten. Klar. Und dann zeige ich euch das Anwendungsbeispiel. Ich muss nur noch hier
+die Tafel funktionieren. Okay. So, das ist das, das geht und jetzt mache ich mal hier folgendes.
+Ich drücke jetzt mal diese Taste und jetzt habt ihr meinen Screen, okay? Und was ist das hier? Also
+als allererstes mache ich mir meinen Bier auf. Ich habe mir für heute extra mein Lieblingsbier
+vom lokalen Craft Beer Hipster besorgt zur Feier des Tages und das ist super nice. Und wenn ich
+das geöffnet habe, dann geht es los. Was ihr da seht ist eine Web-Applikation, die könnt ihr euch
+auch selber reinziehen, die heißt AI-Dungeon und die Nerds unter euch von früher, die werden das
+noch kennen. Damals, bevor es Computer gab, war das so richtig heftig mit den Rollenspielen. Da gab es
+Leute, die haben sich hingesetzt und den Game Master gemacht und andere haben sich zu ihm gesetzt
+und er war sozusagen der Admin und er hat euch eine Geschichte erzählt und ihr konntet mit ihm
+interagieren. Er hat zum Beispiel erzählt, ihr kommt in einen Raum und da ist eine Kiste und was
+macht er jetzt? Und dann konntet ihr völlig frei euch über total was zusammenspielen, was ihr jetzt
+macht und er musste darauf reagieren und eine Geschichte da rings herum moderieren und natürlich
+wurde das dann noch mit Rollenspielelementen versehen, so mit Würfeln und Wahrscheinlichkeitstabellen
+abzubilden und solche Sachen. Und das gibt es mittlerweile für einen Browser. Hier seht ihr das
+und der Witz ist, der Game Master hier, das ist nicht einfach nur irgendeine Software,
+nein das ist eine KI, die benimmt sich wie ein Mensch, der ein Game Master spielt. Also ihr könnt
+auch mit der reden und so und ihr könnt ihr halt beliebige Befehle geben und sie spinnt sich eine
+Geschichte raus. Ich klicke jetzt mal auf continue, ich hatte mir schon irgendwas überlegt und ich
+glaube, ich bin irgendein, das ist jetzt hier irgendeine Fantasywelt, ihr könnt alle möglichen
+Welten spielen, ihr könnt auch Cyberpunk machen, vielleicht mache ich einfach mal noch mal ein neues
+Game. Was habe ich hier, Worlds, nee das ist blöd, Promz, ach ja genau und da kann man sich jetzt
+überlegen, okay wir machen jetzt hier mal Cyberpunk, also 5 und es ist wie damals, also man hat jetzt
+hier sozusagen eine Konsole, man gibt was ein, ich bin jetzt hier mal ein Cyborg und dann gebe ich
+meinen Namen ein, klar und jetzt generiert er eine Story, er findet jetzt eine Geschichte und die
+steht jetzt hier und es geht los und jetzt sozusagen jetzt werde ich gefragt, was soll ich machen,
+so wie damals bei einem Rollenspiel auch und man kann halt jetzt wirklich, ja man kann jetzt alles
+mögliche sagen, zum Beispiel kann ich sagen also hey I know you are there, the man slowly turns
+a handgun from his pocket, okay so was macht man, jetzt sage ich einfach mal do nothing, okay,
+macht völlig bescheuert, so ich mache gar nichts, so und er findet jetzt eine Geschichte, also er
+findet jetzt eine Geschichte abhängig davon, was ich da eingebe, ja das ist nicht vorprogrammiert
+oder so, ich kann beliebige Sachen machen, ich kann auch jetzt behaupten, was weiß ich, ich zünde
+jetzt eine Silvesterrakete oder so oder ich kann anfangen mit den NPCs da drinnen zu reden und
+der Witz ist natürlich, die Story wird von dieser KI geschrieben, das heißt du redest quasi dann mit
+der KI direkt und das ist alles möglich heutzutage, ich habe jetzt diese App hier nicht gekauft,
+das heißt ich kann glaube ich 5-6 Dialoge machen und dann hört das irgendwann auf, aber das ist
+sozusagen die Power, die GPT-3 schon kann und GPT-3 kann noch viel mehr, also GPT-3 kann zum
+Beispiel gibt man ihm einen Text vor und er schreibt die Geschichte weiter, das ist tatsächlich,
+die Leute benutzen das schon, Schriftsteller, die sozusagen eine Schreibblockade haben, die geben
+einfach ihr ganzes Buch rein und die KI schreibt einfach, spinnt einfach mal ein bisschen weiter
+oder die KI, also ihr müsst euch vorstellen, die wurde gefüttert mit allen Daten, die im Internet
+da sind, so öffentlich mit Texten, die es so gibt, mit legit Texten, also Rechtstexte, Wikipedia und
+solchen Zeug, Chatprotokolle wahrscheinlich auch und die KI imitiert sozusagen Menschen und
+sie imitiert eine Intelligenz und was man halt, man kann wirklich mit ihr reden, so ganz normal,
+als wäre das ein normaler Mensch und da gibt es übelst viele Videos, ihr könnt euch das mal
+reinziehen, ich habe bloß den Eindruck, ist das nur in dieser Geek- und Nerd-Community bekannt?
+Ja und hier sagt er halt jetzt, okay, ich denke,
+you hear the gunshot and feel your body go numb, so, also ich wurde nicht getroffen,
+ich gucke an meinen linken Arm und jetzt habe ich da eine Knarre und dann denke ich mir so,
+warum habe ich die Knarre? Okay, inspect the gun. Und jetzt erfindet er eine Geschichte, er findet
+jetzt, dass die Knarre schwarz ist und irgendwie ein Trigger und so und er sagt jetzt sowas und
+das ist alles super interessant, ja, also ich könnte jetzt wahrscheinlich auch sowas sagen wie
+I do grab my jetpack and move on. Ich erfinde jetzt einfach mal eine Geschichte, es hat überhaupt
+nichts mit der Story zu tun und jetzt fliege ich weg und jetzt erfindet er als Infinity KI,
+also der Game Master, für mich eine Geschichte, also das ist wirklich völlig krass, was man hier
+machen kann und ihr könnt euch das mal reinziehen, das ist jetzt nur so ein Beispiel, ein ganz blödes
+Beispiel und ihr müsst euch reinziehen. Was man damit noch alles machen kann, also erstmal,
+wie gesagt, Leute können damit Rechtstexte auch zum Beispiel sich angucken und übersetzen lassen auf
+normale Sprache, das gibt es auch so als Anwendung, es gibt so Anwendungen wie hier schreibt mir mal
+eine E-Mail, ich gebe dir mal die Bullet Points und du verfasst die mal in einer schönen formellen
+Sprache, damit meine Business Casper keinen Herz Casper kriegen oder was man auch machen kann,
+es gibt eine App, die irgendwie so tut, als wäre sie einstein oder Leonhard Euler oder sonst
+irgendeine berühmte Persönlichkeit und da kannst du mit der reden, weil die sozusagen so viele
+Texte von denen und Bücher gelesen hat, dass sie weiß, wie die antworten würden und nur so ein
+Zeug und da gibt es halt super interessante Anwendungen schon und ich will euch jetzt Folgendes
+klar machen. Was diese KI macht, das hat nichts mit Intelligenz oder Verstehen zu tun. Die hat
+nur Korrelationen gelernt, die hat nur auswendig gelernt und sie wurde mit Brutforce unendlich
+vieler Performance gefüttert. Ich glaube, das ist von OpenAI, das muss ein Projekt sein,
+wo auch Elon Musk mit drin steckt und er hat einfach die Kohlen in die Hand genommen und
+dieses Ding gemacht. Das ist sozusagen eine große PR-Bubble, weil da nicht viel Erkenntnis
+rauskommt. Das war schon bekannt, dass das geht, es hat nur mal jemand machen müssen und es hat
+halt ein paar Millionen oder Milliarden Dollar gekostet, das mal zu trainieren, dieses Netzwerk,
+weil es halt wirklich unendlich viel Daten brauchte und die ursprüngliche Entwicklung davon kam aus
+den Google-Labs selbst, also die Google-Forscher in der Sachen KI, das sind eh die Top-Typen. Die
+haben die Sache mit den Transformern erfunden, die haben damals dieses Paper mit der Attention
+geschrieben und seitdem geht das voll durch die Decke und GPT-3 ist halt übelst heftig,
+was einfach mal das Machbare angeht. Das ist sozusagen das Krasseste, was man im Moment machen
+kann und viele Leute rasten völlig aus und denken so, das ist jetzt der Shit, das ist die KI,
+wir haben Angst, die Cyborgs kommen als nächstes und machen es fertig, aber das hat tatsächlich
+nichts mit echter Intelligenz zu tun, sondern tatsächlich eher was mit Lernen. Ihr müsst euch
+das wirklich so vorstellen, als würdet ihr irgendwie lesen lernen und dann alle Bücher dieser Welt
+lesen und auswendig lernen, wirklich striktes auswendig lernen. Es geht sozusagen nicht darum,
+das zu verstehen, was da gelesen wird, sondern nur die Worte und die Wortreihenfolgen zu lernen und
+wenn man das ernst genug nimmt, lernt die KI sozusagen bestimmte Korrelation und das sieht
+dann so aus, als würde sie verstehen, was der Sinn ist dieser Worte und das ist eine Riesenillusion
+und ich versuche das später am Ende des Streams vielleicht dann nochmal am konkreten Beispiel zu
+erklären, wie das geht. So und jetzt aber erstmal habe ich hier noch irgendein anderes Beispiel,
+habe ich hier noch ein anderes Beispiel, ja ich habe noch ein anderes Beispiel, ich habe noch
+This Person Does Not Exist, das mache ich auch mal noch an, also so und dann so klicke ich das
+hier rein. Das ist kein Archiv von Bildern, sondern das ist schon ein Archiv von Bildern,
+von Menschen, die nicht existieren, also die sind künstlich gebaut diese Bilder und
+es gibt halt mittlerweile, also das hat auch was mit den Deepfakes zu tun und diesen anderen
+Sachen, dass die Sache mit den Gesichtern völlig klar ist inzwischen. Es gibt Software, die baut
+Bilder und ich kann jetzt hier immer F5 drücken und kriege immer ein anderes Gesicht von einer
+Person, die so nicht existiert. Das sieht täuschend echt aus, weil klar die Auflösung ist halt hoch
+genug und die KI hat halt gelernt, wie Gesichter aussehen und sie kann halt, wenn man ihr ein
+bisschen Initialisierung gibt, ein Gesicht raus auseinander bauen, also wahrscheinlich
+braucht man nur so ein bisschen Initialisieren und weil sie nichts anderes kann außer Gesichter,
+macht sie aus allem Matsch, den man ihr gibt, macht sie ein Gesicht und wie gesagt, sie sind
+täuschend echt aus, diese Bilder sind es aber nicht und ich kann hier unendlich oft F5 drücken,
+das sind alles Menschen, die nicht existieren und das sieht aus wie ein Artifakt, das hier unten,
+das sieht aus könnte ein Bildartifakt sein, aber es gibt auf jeden Fall interessante Sachen,
+die alle so funktionieren. Und habe ich hier noch irgendwas? Nee, ich glaube, da geht es
+eigentlich dann direkt los, naja. So und jetzt aber mal zur Sache selbst, warum wollte ich jetzt hier
+Mathe machen? Also erstmal gucke ich in meinen Chat, okay? Ich gucke erstmal, lasst mir mal Zeit
+und ich lasse mir mal in meinen Chat gucken, wie es aussieht. Ist hier schon irgendjemand? Prost,
+guten Abend. Okay, so Leute, also ich fange erstmal ein bisschen an, ein bisschen Mathematik
+Grundlagen zu machen. Dafür hole ich jetzt mein Teilchen hier raus und ich habe jetzt hier kein
+großes Overlay oder so, ich habe das einfach mal vorhin schnell zusammengeklickt. Hier müsstet
+ihr jetzt links sozusagen meine Tafel sehen, die ist ungefähr ein paar tausend Pixel groß,
+das wird schon reichen und ich scroll dann hier runter und erzeuge jetzt sozusagen unendlich viel
+Skript. Ich weiß nicht, ob ich das später irgendwo uploaden werde, aber jetzt auf jeden Fall erstmal
+die Frage, mathematische Grundlagen. Ich habe immer den Eindruck, dass Leute erstmal schon
+grundsätzlich ein paar Sachen nicht verstehen. Was ist eine Funktion? Funktion und dann auch so
+was wie, was ist eigentlich eine Umkehrfunktion? Das ist sozusagen der Schritt daraus und ich
+nenne das jetzt erstmal schon mal f hoch minus eins, aber ihr werdet das später sehen, was ich
+damit meine, das ist nämlich super wichtig und ihr könnt euch vorstellen, also damals in der Schule
+und da fange ich jetzt an, ich fange jetzt sozusagen in der Grundschule an irgendwo. Ich mache nochmal
+diesen Vortrag zu den linearen Funktionen, den finde ich richtig gut. Damals gab es so was,
+Aufgaben die lauteten eins plus drei ist gleich vier und dann hat man irgendwann gelernt, okay was
+ist denn eins plus drei und dann kam hier keine vier hin, sondern ein Strich. Man sollte also
+einfügen, was da hinkommt, damit die Gleichung Sinn ergibt. So ging das los damals in der Schule, so
+hat man das gelernt mit der Arithmetik und die nächst kompliziertere Aufgabe, wenn das hier
+sozusagen völlig klar war, lautete eins plus unbekannt ist gleich vier und was man hier schon
+machen musste, war sich irgendwie im Kopf überlegen, warte mal, wie kann das sein, was muss jetzt hier
+rein und das beinhaltet das hier, diese Operation, die würde ich Vorwärtsschritt nennen, weil man
+macht etwas und das spuckt ein Ergebnis aus. Das hier ist eher so eine Art Fragestellung, das fragt
+einen, was muss ich hier eintragen, damit das wieder funktioniert. Das war sozusagen der erste
+Schwierigkeitsgrad in der Schule, den man hatte und dann natürlich auch noch mit den anderen
+Operationen. Aber worauf ich hinaus will, ist, dass irgendwann in der fünften oder sechsten Klasse
+auf einmal sowas da stand, eins plus x ist gleich vier und das ist erstmal absolut identisch. Die
+Aufgaben sind identisch, sie beide fragen, was muss x sein, das fragen sie beide und jetzt kommt
+folgende Situation dazu. Was ist, wenn hier y steht? Was dann? Also ursprünglich eigentlich waren
+hier zwei Striche, aber damit man die auseinanderhalten konnte, hat man das Konzept
+der Variablen eingeführt, damit man die unterscheiden kann und jetzt ist die Frage okay. Hier oben ist
+es klar, hier oben ist die Lösungsmenge eine einzige Zahl, die soll ich rausfinden. Hier unten,
+was ist denn da die Lösungsmenge? Was ist da die Lösungsmenge? Könnt ihr euch ja mal selber
+die Frage stellen, was muss x und y sein, damit das Gleichheitszeichen eine wahre Aussage ergibt.
+Und die Antwort ist klar, unendlich viele. Es gibt unendlich viele Lösungen von x und y Paaren,
+die das erfüllen und der Witz ist natürlich klar. Ich überlege mir ein x, zum Beispiel eins und
+daraus folgt dann automatisch mein y, denn dann steht ja hier eins plus eins ist gleich zwei.
+So und das kann ich auch noch mit anderen Zahlen machen. Ich mache mal hier minus eins,
+dann folgt hier null daraus, ich mache mal hier zwei und dann folgt hier drei daraus. Und wenn
+ich mir das einmal in einem Koordinatensystem, dann seht ihr gleich was passiert. Das ist überhaupt
+nichts Überraschendes. Ich trage jetzt hier diese Zahlenpaare ein. Eins, zwei liegt würde ich mal
+sagen ungefähr hier. Und null minus eins liegt ungefähr hier. Ja und zwei und drei liegt vielleicht
+hier ungefähr. So und dann seht ihr schon, aha krass, die liegen alle auf einer geraden. Das war
+sozusagen der erste Schritt, den man irgendwann in der Schule gemacht hat. Hin zu dem Konzept
+der Funktionen, denn ihr müsst euch klar machen, was ist hier passiert. Von dieser zu dieser
+Fragestellung wurde aus diesem ist gleich. Das stellt hier nicht, das hat nicht mehr diesen
+fragenden Charakter, sondern das hat eher einen zuweisenden Charakter. Ich lege mir ein y oder
+ein x vor und kann dann das eine in das andere umrechnen. Also in dem Fall konkret, ich habe
+mir ein x vorgegeben und dann folgt daraus ein y. Und ich stelle fest, ich kann das für beliebige
+x tun, in dem Fall alle reellen Zahlen oder auch alle komplexen Zahlen, wenn ihr krass seid. Und
+da kommt im Prinzip das raus, was wir später lineare Funktionen nennen oder auch geraden
+Gleichung. Und das ist der Witz. Ihr seht halt, es gibt offensichtlich einen Dualismus zwischen
+der Lösungsmenge dieser Gleichung und diesem Bild. Es gibt einen Dualismus zwischen einem
+Bild und einer Gleichung. Man könnte also sagen, es ist äquivalent, entweder ich male alle
+Bildpunkte hin oder dieses abstrakte Objekt und nenne es gerade oder ich gebe euch eine Gleichung
+und frage, was ist die Lösungsmenge dieser Gleichung. Auf einem gewissen abstrakten Level
+beschreiben beide diese Dinge dasselbe. Das ist nur eine unterschiedliche Darstellung derselben
+Sache. Und das ist erstmal das eine, weil jetzt habt ihr sozusagen diesen Formalismus, den wir
+Funktionen nennen im Allgemeinen. Man steckt ein x in einen Kasten rein, den nenne ich f von x und
+der spuckt ein y aus. Das verbirgt sich hinter dieser Gleichung f, y ist gleich f von x. Für viele
+ist das nur eine Symbolik und das kotzt mich richtig an, weil ich das jetzt in meiner Nachhilfe
+auch oft sehe, dass so wird das vermittelt. Das ist wirklich nur eine Symbolik für die Leute. Was
+aber sich dahinter versteckt ist doch klar, ich stecke hier ein x rein und weise es durch dieses
+Ist-Gleichzeichen einem anderen Wert zu. Und ihr denkt jetzt vielleicht, okay was ist das für ein
+akademischer Schwachsinn, das braucht doch kein Mensch. Aber das muss man jetzt mal wirklich
+erstmal gerafft haben, was das bedeutet. Und ich gebe euch jetzt mal eine ganz allgemeine Ansage,
+die euch vielleicht verblüfft, vielleicht auch nicht. Jede Aufgabe, die ihr an der Schule
+kriegt, kann man so hinschreiben wie y ist gleich f von x oder auch sagen wir mal, hier gibt es
+mehrere x1, x2, x3. Das sind irgendwelche Dinger und oft ist es so, dass in der Schule das hier
+gegeben ist, das hier ist gegeben und das hier ist gegeben und ihr sollt das ausrechnen. Oder einfach
+gesagt, ihr habt y gleich f von x gegeben, y gleich f von x, y ist gegeben, die Funktion f ist gegeben,
+aber das x selbst ist nicht gegeben. Und dann lautet, also das ist sozusagen der Umkehrschluss,
+wie kriegt ihr jetzt das x raus? Weil der einfache Schritt, okay ich setze hier ein x ein und rechne
+es aus, das ist der erste Schritt. Das ist das, was ihr in der dritten Klasse gemacht habt. Danach
+habt ihr festgestellt, alles, was kompliziert war, immer in eurem ganzen Leben, waren die Umkehrfunktion,
+waren sozusagen die Rückwärtsrechnung. Weil diese Richtung, die ist einfach, die ist in unserem
+Gehirn auch so verdrahtet, dass das einfach ist. Zum Beispiel nehme den Wert von x, addiere 1 drauf.
+Das ist einfach. Im Kopf aber schon umzurechnen, wenn ich x gegeben habe, wenn ich y gegeben habe,
+was ist x? Da muss man ja im Kopf schon was anderes machen. Also wenn ihr 1 plus x gleich y
+habt und y ist jetzt gegeben, dann müsst ihr mental auf beiden Seiten minus 1 machen und dann
+steht x ist gleich y minus 1 da. Das ist jetzt trivial, aber das hier, das hier würde ich jetzt
+mal als f hoch minus 1 betiteln und das ist natürlich von y abhängig. Ich würde das als
+Umkehrfunktion betiteln wollen, denn sie hat folgende Eigenschaft, wenn man jetzt mal ganz
+abstrakt f von f hoch minus 1, also die Umkehrfunktion, auf die Funktion selbst anwendet,
+dann muss wieder das hier selbst, da muss das wieder rauskommen. So würde ich das jetzt
+erst mal hinschreiben. Übrigens, ich bin kein Mathematiker, also die Klugscheißer brauchen
+sie mir jetzt hier nicht auf die Decke steigen, wegen irgendwelchen Bedingungen, die hier eventuell
+nicht erfüllt sind und so. Ich will euch nur sozusagen mal in das Mindset bringen, was jetzt
+erforderlich ist. Das muss jetzt hier nicht super krass exakt sein, insbesondere weil ich das gar
+nicht studiert habe. Ich bin ja nur Physiker. So, aber das hier, das ist klar und in dem Fall hier
+oben ist es einfach. Ihr habt diese Vorschrift und da können wir das machen. Wir können das mal
+machen. Ob das jetzt hier so funktioniert, wie ich mir das hingeschrieben habe, weil das hier ist f
+von x. Das heißt, ich nehme jetzt mein f von x und da setze ich jetzt mal, ich setze in das f hoch
+minus eins das y ein und y ist aber gerade f hoch minus eins, mal wartet, minus eins von und jetzt
+steht hier sozusagen f von x, weil y ist ja f von x und dann setze ich das ein. Dann steht hier
+sozusagen einfach nur f hoch minus eins von, ja hier steht jetzt aber gerade y minus eins und das
+ist aber jetzt das gleiche, nee warte ich muss überlegen, hier steht jetzt gerade x plus eins und
+da setze ich jetzt sozusagen das ein und dann steht da gerade wieder, dann steht gerade wieder x plus
+eins minus eins und das kürzt sich gerade weg und deswegen ist das x und das ist genau das, was ich
+haben wollte. Das ist jetzt mal ein richtig blödes Beispiel, aber das ist die Idee hinter Umkehrfunktion
+und in komplizierten Beispielen, wo das nicht so einfach ist, wo die Umkehrung nicht so einfach ist,
+das habt ihr auch schon in der Schule gehabt und eine ganz bekannte Anwendung davon ist jetzt zum
+Beispiel, ganz blöd, mal ein ganz blödes Beispiel, binomische Formel. Ich schreibe sie einfach mal
+hin, zum Beispiel a plus b² ist gleich a² plus 2ab plus b². So und jetzt würdet ihr sagen, okay,
+diese Richtung ist einfach, diese Richtung hinzurechnen ist immer einfach, die kann man
+sich im Kopf überlegen, weil das ist ja das gleiche wie a plus b mal a plus b, also das ist
+das mal dem plus das mal dem plus das mal dem plus das mal dem, klar und hier gibt es einmal ein ab
+und ein ba-Term und die gehen zusammen zu 2ab, klar. So, die Richtung ist einfach. In der Praxis ist es
+aber oft so, man hat solche Terme, die so aussehen und soll das so darstellen, das hat man bei
+quadratischen Gleichungen oft schon in der Schule gehabt und da kam einem das damals schon so vor
+wie Zauberei und das lag nur daran, dass sozusagen die Umkehrrichtung, wenn man das hier gegeben hat,
+so eine Struktur, das schon nicht mehr so einfach ist, das in diese Richtung umzurechnen und noch
+viel krasser ist das, was man quadratische Ergänzung nennt und das ist das, wenn man aus dieser
+Gleichung, wenn man an dieser Gleichung minus b² macht. Ich schreibe es erstmal hin, das seht ihr
+gleich, was man da macht, a plus b zum Quadrat minus b² ist gleich a² plus 2ab. So, das merken wir
+uns. Ich schreibe das hier mal so hin, so, das merken wir uns. Weil, wo braucht man das? Naja, das
+braucht man immer dann, wenn man eine allgemeine quadratische Gleichung hat und dann eine
+Nullstelle sucht, also ax² plus bx plus c. So, und ich habe jetzt natürlich a und b genommen,
+nur um euch zu verwirren, das ist völlig egal. Wenn ich hier die Nullstellen suche, dann könnt
+ihr euch ja so vorstellen, das ist ja hier, also normalerweise nennt man das ja hier, y ist gleich
+und dann f von x. Parabelfunktion, klar, mit drei Parametern. Und wenn man jetzt einen ganz
+bestimmten Wert von y sucht, dann ist genau das Problem, was ich gerade gesagt habe. Ihr habt
+nen y gegeben, nämlich in dem Fall Null und wollt wissen, was für ein x muss denn das sein. Und hier
+ist das Invertieren dieser Funktion f von x, also das ist ja hier gerade f von x, das ist schon nicht
+mehr so einfach. Also, wie macht man das? Naja, ich sag mal, die Streber damals, so schlau wie
+Schlumpf, die sagen, ist doch ganz klar, ich gucke in meine Formelsammlung rein, da steht hier
+Mitternachtsformel oder PQ-Formel. Klar, aber ich sag euch, was man da braucht, ist eigentlich das
+hier oben und das ist die Umkehrung von der binomischen Formel. Jetzt guckt ihr vielleicht so,
+hä, wieso denn das? Ja, als quadratische Ergänzung können wir jetzt machen, kein Ding. Ich klammer a
+aus, okay, als erstes. Dann habe ich hier x² plus b durch ax, so, plus c. So, das ist erstmal das
+Gleiche, da habe ich noch nichts geändert. Und jetzt möchte ich gern Folgendes. Ich möchte sehen,
+dass ich hier sowas habe, einen quadratischen Term und einen linearen Term, der ist quadratisch in a
+und linear in a. Und a ist jetzt mal x und nur um euch zu verwirren. Das, was ich jetzt hier machen
+kann, ist, okay, ich möchte gerne Folgendes schreiben, a, Klammer auf, Klammer auf, und was ich jetzt so
+mental machen will, ist, ich möchte dieses Quadrat hier rausziehen, damit ich später das umstellen
+kann. Werdet ihr gleich sehen, was da passiert. Ich mache jetzt x plus b durch 2a Quadrat. Und hier
+hinten schreibe ich schon mal plus c hin. Und jetzt müsst ihr euch klar machen. Moment, das ist ja
+gar nicht das Gleiche, was hier steht. Das ist nicht das Gleiche. Was muss ich hier machen? Naja,
+ich schreibe es mal noch mal in rot hin. Wenn ich das hier ausklamüsere, die binomische Formel mache,
+dann steht hier gerade x Quadrat plus 2 mal b durch a durch 2 mal x. Also gerade b durch a x plus
+b durch 2a zum Quadrat. Das steht da. So, und weil das hier oben nicht das ist, was hier steht,
+sondern nur dieser Schritt hier, das hier steht auch hier, aber das hier, das fehlt. Deswegen
+müssen wir das hier abziehen. Ganz klar. Damit das wieder eine Gleichung ist. Und das Ding hier,
+diesen Mindfuck, das nennt man quadratische Ergänzung. Und das ist, wenn ihr mal scharf
+hinguckt, diese Formel hier oben. Das meine ich damit, dass selbst ganz einfache Dinge invertieren,
+sozusagen. Umkehren. Das kann schon beliebig kompliziert werden. Und bei diesem speziellen
+Beispiel weiß ich das aus meiner Nachriffe jetzt inzwischen. Das ist das, wo viele richtig
+strugglen. Und ich kann mir vorstellen, dass ich damals da auch abgekackt bin. Oder ob wir das
+überhaupt nicht hatten. Weil wo braucht man das? Das braucht man bei der sogenannten Scheitelpunktform.
+Sonst macht das keiner. Um Nullstellen auszurechnen, macht man es eben nicht. Weil,
+wenn man jetzt hier weitergeht, dann kommt da die Mitternachtsformel raus. Das können wir ja
+noch schnell machen. Hier steht es gleich 0. Was ich jetzt machen muss, ist, ich muss das a hier
+reinmultiplizieren und dann das hier rüberbringen auf die andere Seite. Okay, ich mache es mal kurz.
+Dann steht hier a x plus b durch 2a zum Quadrat. Und jetzt bringe ich das schon mal auf die andere
+Seite. Dann steht hier minus c plus b durch 2a zum Quadrat. So, dann teile ich noch durch a, ziehe
+die Wurzel und mache minus b durch 2a. Dann steht da am Ende x ist gleich. So, hier steht jetzt
+erstmal. Also ich habe durch a geteilt. Dann steht hier, oh das ist zu kompliziert. Okay,
+ich mache es doch nicht. Das ist tatsächlich zu nervig. Ich mache es so rum. B durch 2a. Jetzt
+habe ich hier die Wurzel gezogen. So ist gleich. So, jetzt steht hier auf jeden Fall erstmal b durch
+2a Quadrat minus c durch a. Und dann habe ich die Wurzel gezogen. Plus Minus nicht vergessen. So,
+und jetzt seht ihr es schon. Das ist sozusagen das, was hinterher herauskommt, die PQ-Formel
+bzw. Mitternachtsformel. Wenn man das jetzt hier noch auf die andere Seite bringt, dann kann man
+hier noch das 2a irgendwie ausklammern. Dann steht hier am Ende sowas wie b Quadrat minus 4 mal a mal
+c. Das mache ich jetzt nicht, aber das ist sozusagen das, was ihr aus dem Tafelwerk kennt. Und was man
+dazu braucht, ist das hier. Das wird den Schülern noch nicht zugemutet. Deswegen sollen die die
+Formeln auswendig lernen. Und da geht es los. Formeln auswendig lernen. Kotz ich richtig ab.
+Da kriege ich so einen Hals. Und die Leute, die bei mir Nachhilfe machen, den habe ich voll hingebrettert
+und die finden das gut, weil sie es jetzt verstanden haben. Jedenfalls. Warum mache ich das jetzt
+alles? Übrigens, ihr könntet wahrscheinlich jetzt das hier nehmen. Also hier kommt jetzt sozusagen
+ein x raus. x12 nennt man das typischerweise. Wenn man das jetzt nimmt und oben in die Gleichung
+einsetzt, dann stellt man damit fest, dass f von x12 tatsächlich Null ist. Also das ist sozusagen
+die Probe, dass das erfüllt. Und was wir dabei eigentlich gemacht haben, ist, wir haben, wenn man
+jetzt mal so schreiben würde, f y ist eine Funktion von x. Was wir eigentlich gemacht haben, ist, wir
+haben x als Funktion von y dargestellt. Bloß, dass y gerade Null ist bei uns. So könnte man das
+schreiben. Das ist ein bisschen abstrakt, aber das ist das, was ich damit meine, wenn ich sage,
+Umkehrfunktion und so. Und warum mache ich das jetzt alles? Naja, das, was in der KI-Forschung
+Lernen genannt wird, das, was die typischerweise machen, ist den sogenannten Backpropagating
+Algorithmus anwenden. Und was das in Wahrheit bedeutet, ist sozusagen alle Rechenschritte zurückverfolgen,
+was man da macht, und dann bestimmte Anpassungen vornehmen. Was man da machen muss, ist, man muss
+sozusagen eine Inverse finden für eine Abbildung, die aber kein echtes Inverses hat, sondern nur so,
+die schwierig ist. So, und jetzt überlege ich, ob ich erstmal alles habe, was ich soweit sagen wollte,
+denn das war jetzt sozusagen wirklich nur das absolute Intro. Aber ich werde gleich mal ein
+neues Ding anfangen hier. Ich schweiche das schon mal ab. Einfach zum Haben. Und dann öffne ich
+ein neues. So, und dann gucke ich mir erstmal meinen Chat an. Gibt es hier schon einen Chat?
+Ah ne, Schaltepunkt. Ja doch, ich habe das schon gesehen, dass Leute noch den Schaltepunkt machen.
+Okay, so, hier noch nichts. Also, ja, dann machen wir doch erstmal weiter. Ich komme ja aus der,
+also ich habe jetzt die letzten Jahre Medizintechnik gemacht und speziell habe ich CT gemacht. Also ich
+habe Software geschrieben für Computertomographie. Das ist das mit der Röntgenstrahlung und wo ihr
+sozusagen in eine Röhre rein geschoben werdet und dann von allen Seiten Röntgenbilder gemacht
+werden und am Ende ihr ein 3D-Bild von eurem Körper kriegt. Das ist CT und was man da macht,
+ich sage es nur ungern, aber das ist erstmal nur Geometrie. Und das will ich euch jetzt sozusagen
+als Anwendungsbeispiel geben für mal einen komplexen Sachverhalt, bei dem ihr gleich die
+Sache mit der linearen Algebra als Sprache mal versteht, wozu das da ist. Weil der normale
+Ingenieur und der normale Naturwissenschaftler, der hat das im ersten Semester und dann wird immer
+die Frage gestellt, braucht man das überhaupt? Das ist doch total abstrakt und so. Und so ging es
+mir damals auch. Aber ja, in Wahrheit braucht man das überall. Lineare Algebra ist total krass und
+halt ist echt fundamental und super wichtig, weil irgendwann, wenn man das lang genug macht,
+ist das wirklich so eine Art Sprache. Das hat erstmal wirklich so einen Sprachcharakter, weil
+man auf einmal feststeht, dass man viele Dinge total kompakt hinschreiben kann. So und ich wollte
+jetzt einfach mal so ein bisschen das CT-Beispiel erklären, weil man beim CT, das ist halt wie
+gesagt reine Geometrie, jetzt mal wirklich versteht, wie so eine Anwendung aussieht und vor allem wie
+so Computerfratzen und IT-Menschen die Sache mit den Bildern und der Geometrie auch sehen können.
+Also ist so eine alternative Darstellung und Denkweise, die, wenn ihr euch das reinzieht,
+vielleicht langsam auf den Trichter kommt, wie das dann später mit dem Deep Learning ist. Weil
+beim Deep Learning ist das mit der Linearen Algebra super wichtig. Ohne das geht es da gar nicht.
+Und ihr müsst euch mal vorstellen, folgendes Setup. Ihr habt jetzt hier mal so zwei, was weiß ich,
+zwei Steine. Und ihr habt die Steine, die liegen auf einem Blatt Papier. Und ihr habt einen
+Lampenschirm, der ist jetzt da zum Beispiel hier. Oder ihr habt irgendwie eine Art Leinwand und ihr
+habt ein Projekt dort. Ihr habt eine Kerze oder irgendein Licht, was hier sozusagen das strahlt
+von hier. Und das macht Licht in dem Kegel, so in diese Richtung. Lichtstrahlen. Und das strahlt
+jetzt hier so und knallt hier drauf auf diese Objekte. Und was dann passiert ist, die werfen
+einen Schatten. Das heißt, was ihr hinten seht, ist im Prinzip Schatten. Und hier seht ihr das
+auch. Und wenn ihr nur diesen Winkel, diese Aufnahme habt aus diesem Winkel und ihr kriegt
+nur sozusagen die Position von diesem Punkt hier und ihr kriegt die Position von eurer Leinwand,
+dann lautet die Frage, könnt ihr die Position dieser Objekte hier bestimmen? Und die Antwort
+lautet nein. Mit einer Messung geht das nicht. Ist ja klar, ist ja eine Projektion. Ihr könnt
+sozusagen nur sagen, auf welcher Linie sie sich die befinden müssen. Ihr könnt die gerade angeben,
+auf denen sie sich befinden müssen. Das könnt ihr sagen. Und jetzt stellt euch mal vor, ihr habt
+noch einen zweiten Winkel. Zum Beispiel von hier. Guckt hier lang, zack, sagen wir mal, die
+Leinwand ist hier, völlig egal. Ich mache jetzt hier einfach mal so ein Bild. Dann habt ihr diese
+beiden Geraden. Und was ihr jetzt macht, um die Position rauszukriegen, ist klar, ihr bildet die
+Schnittpunkte dieser Geraden. Also hier und hier. Dann wisst ihr, ah, okay, meine Objekte müssen hier
+liegen. Und was ihr da macht, wenn ihr dieses Problem löst, also ich gebe euch Projektionsdaten und
+ihr sollt, zusammen mit der Information über die Geometrie dieser Projektionsdaten, und ihr
+sollt jetzt mal rausfinden, wo die sich befinden, dann löst ihr ein inverses Problem. Denn was
+bekannt ist, ist sozusagen, wie die Projektion stattfindet. Aber was nicht bekannt ist sozusagen,
+wie die Rückrechnung funktioniert. Und das ist jetzt mal so ein Beispiel von einer Abbildung,
+wo das wirklich nicht mehr trivial ist, das einfach mal hinzuschreiben, wie f hoch minus
+eins aussieht. Also wir nennen mal die Positionen von diesen Dingern x, okay? Und wir nennen mal
+die Abbildung, ich nenne sie schon mal, ach nee, ich nenne sie mal nochmal f. So, und das ergibt
+euch sozusagen jetzt mal eure Projektion p. Dann ist sozusagen die Fragestellung, okay, wenn ihr p
+gegeben habt mit den Geometriedaten, wie findet ihr das x raus? Das f hoch minus eins hier drauf
+anzuwenden, selbst wenn man es hätte, bringt das was. Denn die Frage ist ja sozusagen, hier geht
+ja Information verloren, ne? Das ist sozusagen schon eine viel kompliziertere Aufgabe als das,
+was man aus der Schule kennt, wo man jetzt mal eine einfache Gleichung hat. Das ist alles,
+also versteht nicht falsch, das kann man alles mit Gleichungen ausdrücken. Aber der Mathematiker
+würde jetzt sozusagen sagen, die Abbildung ist nicht injektiv. Das heißt, die Umkehrfunktion ist
+nicht eindeutig. Oder es existiert vielleicht gar keine Umkehrfunktion. Es existieren höchstens so
+Approximationen oder Pseudo-Umkehrfunktionen. So, und was man beim CT macht. Beim CT ist es
+noch ein bisschen komplizierter, ihr müsst euch vorstellen. Hier oben haben wir ja jetzt
+intransparente Objekte, also die werfen in Schatten. Und anhand der Schattens können wir sozusagen
+feststellen, wo die sind, nach zwei Messungen, in dem Fall, bei zwei Objekten. Ihr könnt euch
+ja mal vorstellen, wie das ist, wenn ihr jetzt hier fünf Kugeln liegen habt oder so. Wie viel
+Winkel braucht man dann? Geht es dann immer noch mit zweien oder braucht man dann mehr und wie viele
+und wie müssen die sein? Gibt es da bestimmte Eigenschaften? Über all diese Sachen kann man
+sich mal Gedanken machen, weil das alles sozusagen dazu beiträgt, dass man sich mal Gedanken macht
+über das sogenannte inverse Problem. Und im CT ist es jetzt so, ich gebe euch jetzt mal noch mal
+so ein richtig blödes Beispiel. Im CT stellt euch mal vor, oder wir nennen es mal noch nicht CT,
+ich nenne es später CT, okay? Ich nenne es jetzt erst mal nur, ja wie nenne ich es denn,
+Projektionsproblem. Ihr habt jetzt hier folgende Zahlenwerte drin. Eins, zwei, drei, vier. Und das
+sind jetzt mal unsere X, okay? Die sind jetzt nicht bekannt, die sollen wir ausrechnen. Aber
+was wir haben ist, wir leuchten hier mit etwas rein und was wir hier hinten rauskriegen, da messen
+wir das, da messen wir die Summe dieser beiden Zahlen. Und ich nehme jetzt mal wirklich dieses
+blöde Beispiel, wir messen einfach nur die Summe, die gewichtet ist mit der Durchstrahllänge,
+dieser Dinger hier. Und das sind Quadrate, das heißt, die haben jetzt mal die Länge L. Und ich setze
+mal L gleich 1, dann wird es noch einfacher. Was wir dann hier messen ist sozusagen, ich nenne das
+schon mal, gebe ich dem schon mal einen Namen, ja ich nenne es schon mal P1. Das ist die Messung und
+die heißt, ist 1 plus 2, also 3. Das ist das, was wir messen. Dasselbe machen wir hier, das nenne ich
+P2 und da messen wir natürlich 7. Hier, wenn wir von hier messen, das ist jetzt schon, das kommt
+schon so ein bisschen an diese CT-Optik ran. Ihr könnt euch vorstellen, ich gehe jetzt hier mit
+meiner Taschenlampe und meinem Schil schirmlang, bloß dass das keine Taschenlampe mehr ist, sondern
+eine Röntgenquelle. Und mein Schirm ist kein Schirm mehr, sondern ein Detektor. Und ich messe jetzt
+sozusagen hier hinten eine 6, das wäre dann, was weiß ich, P3. Und hier messe ich P4, das wäre eine
+4. So und das sind jetzt aber echt, ist ja klar, was das ist. Das ist jetzt hier X1, das ist X2,
+das nenne ich mal X3 und das nenne ich mal X4. Das sind meine Unbekannten. Und die Aufgabenstellung
+lautet jetzt, die Geometrie ist gegeben, also sprich, wie die Strahlen hier lang gehen. Die
+Messwerte hier sind gegeben. Ihr sollt die X rausfinden. Und jetzt ist es erstmal ganz einfach
+an diesem Beispiel, da würde man ja sagen, kein Ding, mache ich ein Gleichungssystem. Das sind ja
+offensichtlich vier Gleichungen für vier Unbekannte. Weil hier steht ja sozusagen P1 ist
+gleich X1 plus X2. P2, also 7, ist gleich X3 plus X4. Und so weiter. Ihr werdet, glaube ich,
+aber schon feststellen, ich glaube schon bei diesem Beispiel sind die Gleichungen linear abhängig,
+oder? Na, wir können es ja mal probieren. Wir können es ja einfach mal machen. Also wie gesagt,
+ich habe jetzt hier kein Skript vorbereitet. Das heißt, ich probiere es jetzt auch einfach.
+Ich stehe mal hier in den Steffern. So, das sind zwei Gleichungen. Ich schreibe sie nochmal
+ordentlich hin. Ich schreibe nochmal ordentlich hin. P1 ist gleich X1 plus X2. P2 ist gleich X3 plus
+X4. P3, das war der hier. Das ist X2 plus X4. Und P4, das ist jetzt mal echt X1 plus X3. So,
+X1 plus X3. So, völlig blödes Beispiel. Kann man das nochmal anders schreiben? Ja, kann man. Und
+zwar ich mache das gleich mal. Ich mache mal gleich diese Notation, die später relevant ist.
+Und zwar 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0. So, mal X1, X2, X3, X4, Klammer, ist gleich
+Vektor P. Also in dem Fall ist der Vektor P ja gerade 3, 7, 6, 4. So, das ist jetzt mal eine
+Ekelklaue, aber da müsst ihr euch auf jeden Fall dran gewöhnen. Die ist richtig widerlich. So,
+und das ist jetzt mal schon mal die Matrix-Schreibweise, um das klar zu machen.
+Das ist ja sozusagen ein Vektorprodukt. Ne, das ist kein Vektorprodukt, sondern das hier ist eine
+Matrix. Die würde man dann sozusagen so was schreiben. Matrix A mal Vektor X ist gleich
+Vektor P. Und die beiden haben die Dimension 4. Das heißt, die Matrix ist quadratisch. Das
+folgt aus der Dimensionsformel oder so. Das ist alles lineare Algebra. Das ist nur eine abstrakte
+Schreibweise für dieses Gleichungssystem hier. Und wenn man das jetzt lösen will, sieht man da
+eigentlich schon, ob das geht oder ob das nicht geht. Ich meine, wir können das mal formell lösen.
+Ich würde sagen, wenn wir das mal richtig so original mit einem Gauss machen, dann würde
+das wahrscheinlich schon gehen. Wie löst man das mit Gauss? Da schreibt man hier die Zahlen noch
+hin. Das heißt, hier folgt jetzt daraus, wenn ich das von dem abziehe, dann habe ich hier unten die
+Null erzeugt, die ich brauche. Da muss ich hier 3 minus 4 machen. Dann steht hier 1, 1, 0, 0. Hier
+steht 3. Hier unten steht 0, minus 1, 1, 0 und 1. Und hier bleibt alles so, wie es ist. Das sind
+alles Nullen. Das ist super. So, hier, was mache ich hier? Vertausche ich die oder lasse ich die so?
+Das ist eine interessante Frage. Eigentlich will ich ja sozusagen obere Dreiecksgestalt haben.
+Beim Gauss hier sowas. Aber das ist mir tatsächlich schon fast zu blöd. Was ich eigentlich nur machen
+muss, ich muss die beiden Zeilen hier vertauschen. Dann mache ich das mal 1, 0, dann steht hier 0,
+1. Hier steht 1, 1. Und hier steht jetzt in echt die 6 und hier steht die 7. Ich habe jetzt
+sozusagen die beiden einfach nur vertauscht. Das ist sozusagen kein Ding. Das ist so,
+wie ich vertausche einfach. Ich nenne die nicht 1, 2, 3, 4, sondern ich nenne die 1, 3, 2, 4.
+Die Gleichung. Der Inhalt ist immer noch derselbe. So, und jetzt habe ich ja hier schon fast obere
+Dreiecksgestalt. Da muss ich sozusagen hier nur noch das hier drauf addieren und das hier abziehen.
+Und dann habe ich es. Das kann ich mit einem Mal machen. Also hier, das bleibt erst mal stehen 1,
+1, 0, 0, 3, 0, 1 bleibt auch stehen 0, 1, 6. So, hier muss ich, was wollte ich denn hier machen?
+Ah, ich sehe schon, was das Problem ist. Hier ziehe ich, ach nee, okay, das ist auch blöd.
+Vielleicht vertausche ich die nochmal, aber dann ist es auch bescheuert. Ihr seht schon,
+das ist ein Problem. Aber nur weil ich das schon ewig nicht mehr gemacht habe. Das ist doch
+völlig trivial. Ich glaube, ich muss nur einfach die hier, wenn ich die hier drauf addiere, klar,
+dann habe ich hier die 0 erzeugt. Dann muss ich anschließend die hier noch abziehen. Okay,
+also ich addiere die hier drauf, dann ziehe ich die hier ab, dann habe ich hier eine 0 erzeugt.
+Okay, so machen wir das. Das heißt, ich habe hier 0, 0, 1, 1, 7 und jetzt die unterste Zeile ist
+klar. Einmal habe ich das hier drauf addiert, 0, 0, das macht hier die 0 und hier hinten habe ich
+eine, hier hinten habe ich erstmal eine 1, merke ich mir mal. Und hier habe ich eine 1 und hier habe
+ich eine 7. Und dann anschließend ziehe ich die noch hier ab. Und da seht ihr schon,
+die beiden sind identisch. Das ist das, was ich meinte. Ich hatte das schon im Kopf,
+dass in diesem Beispiel das schon nicht aufgeht. Was hier passiert ist sozusagen, dass der Kern
+der Matrix nicht 0 ist, das heißt, die Umkehrfunktion existiert nicht. Das ist eindeutig,
+weil die Abbildung sozusagen keine linear unabhängigen Spaltenvektoren hat. So würde
+man das sagen. Was ich damit sagen will ist, das geht schon mal rein von der Mathematik her,
+jetzt analytisch nicht so einfach. Ich habe hier sozusagen ein Gleichungssystem,
+was offensichtlich linear abhängige Gleichungen hat, das heißt, ich kann sie lösen. Was ich aber
+machen kann ist, ich kann mir überlegen, ich schreibe es noch mal hin. Ich habe jetzt hier folgendes,
+ich nehme eine andere Farbe. Ich habe jetzt hier echt meine 3, meine 7, meine 6 und meine 4. Ich
+gucke nochmal nach oben. 3, 7, 6, 4. So und ich überlege mir jetzt, könnte ich nicht auch so
+tun, als würde ich ja schon wissen, ich kenne ja meinen Vorwärtsoperator, ich kenne die Vorwärtsprojektion,
+die kenne ich. Die 3 ist entstanden, weil ich sie aus diesen beiden zusammengesetzt habe. Das heißt,
+mein blödeste Idee ist jetzt, ich tue jetzt mal so, als wären hier Nullen drin. Ich tue mal so,
+als wären hier Nullen drin und wenn hier Nullen drin sind und ich mache die Vorwärtsprojektion,
+dann kommt hier hinten in rot die Null raus und dann stelle ich fest, okay, in Wahrheit muss hier
+aber eine 3 stehen. Das heißt, ich muss diese Differenz von Null und 3, die muss ich hier irgendwie
+zurück verteilen und weil meine Geometrie mir sagt, dass diese beiden Kantenlängen hier jeweils
+gleich sind, muss ich die 3 gleichmäßig verteilen. Also teile ich hier 3,5 auf. Okay,
+das ist mein erster Schritt. Das ist die Idee. Das mache ich hier unten auch. Hier ist ja auch
+Null. Das heißt, ich habe hier 7,5, die ich verteilen muss. 7,5. So, jetzt gucke ich von hier
+unten und sehe, Moment, hier steht jetzt aber schon 3,5 plus 7,5. Das sind 10,5. 10,5 sind 5.
+So. 5 sind aber einer zu wenig. Das heißt, die Differenz 6 minus 5, da bleibt 1 über. Die 1,
+die muss ich jetzt hier gleichmäßig verteilen. Das muss ich deswegen gleichmäßig verteilen,
+weil hier dasselbe Ding ist. Ich weiß, dass diese Kanten hier gleich lang sind. Der Strahl ist hier
+gleichmäßig durchgegangen. Das Messergebnis, also dieser Messwert ist sozusagen, der muss
+gleich verteilt werden auf diese beiden Würfel, auf diese beiden Quadrate. Also verteile ich hier
+eine 1 und ich addiere die da drauf, damit am Ende das aus dieser Richtung wieder richtig aussieht.
+Weil was ich jetzt hier gemacht habe ist, wenn ich jetzt hier die Projektion in die Richtung machen
+würde, oh, hier würde eine 3 rauskommen. Das heißt, das ist jetzt konsistent mit meinem Messergebnis.
+Hier unten genauso. Hier würde eine 7 rauskommen. Das ist konsistent. Jetzt mache ich Folgendes. Ich
+addiere jetzt, ich verteile jetzt hier eine 1. Und zwar muss ich die 1 natürlich wieder durch
+2 teilen und auf beide aufteilen. Das heißt, ich muss auf beide 1,5 drauf tun. Das heißt,
+ich schreibe es nochmal hier unten hin. Als nächstes 2 und was ist denn das? 8,5 sind 4. Das ist
+schon gar nicht so schlecht. Das ist schon mein Ergebnis. Das selbe mache ich hier drüben. Hier
+kriege ich jetzt 5 raus und das ist größer als die 4. Das heißt, die 1, die hier über bleibt,
+die hat ja jetzt auch ein anderes Vorzeichen. Die Differenz hat ein anderes Vorzeichen. Die
+muss ich jetzt hier auch gleichmäßig aufteilen. Was hier jetzt passiert ist, hier kommt jetzt eine
+1 raus und hier kommt jetzt eine 3 raus. Hier kommt ja 6,5 raus. Und zufälligerweise habe ich
+es dann schon. Wenn ich jetzt den Schritt nochmal mache und die Vorwärtsprojektion durchführe,
+also checke, ob das mit meinem Messergebnis stimmt, dann steht hier 3 minus 3. Das ist 0. Wenn ich
+das zurückschmiere, ich nenne es schon mal so zurückschmieren, dann stelle ich fest, das ist
+0. Ich schmiere eine 0 zurück. Ich bin fertig. Wenn ich das mit allen Messungen mache und feststelle,
+dass das so ist, dass die Differenz, die ich hier habe, immer 0 ist, dann habe ich es geschafft.
+Das ist super. Dann habe ich mein Gleichungssystem gelöst, obwohl ich keine analytische Lösung
+finden konnte, weil hier drüben die Matrix sozusagen, die hat kein inverses. Das hat man
+jetzt übrigens, ich bin da nicht so firm, aber ich sehe das jetzt sozusagen nicht, dass die hier
+linear abhängig ist. Aber gut, sieht man es hier in dieser Richtung vielleicht? Nee, also da bin
+ich tatsächlich irgendwie Matsch auf dem Auge. Also es gibt Leute, die sehen das sofort. Ich sehe das
+nicht. Wie dem auch sei. Was wir hier gemacht haben, ist, wir haben eine Art Pseudoinverses
+gebaut. Wir haben ein Verfahren uns überlegt, was so ein bisschen diesen Prozess, dass wir wissen,
+wie die Vorwärtsoperation geht. Also wir wissen ja, wie die Vorwärtsoperation geht. Daher wissen
+wir, dass wir die Werte gleichmäßig verteilen müssen, beziehungsweise wir müssen sie so
+aufteilen, wie die Geometrie uns das vorgibt. Wenn jetzt zum Beispiel der Strahl nur hier so
+oben durch die Kante gehen würde, dann müssten wir diese Länge hier bestimmen. Das wäre dann
+nicht mehr die Kantenlänge von dem Würfel, aber wir könnten mit Geometrie rausfinden, wenn wir
+den Winkel haben und den Einschnittspunkt hier, können wir natürlich berechnen, wie lang der
+Strahl hier drin war. Dafür benutzt man typischerweise Raytracing. Das ist auch was, was ich in meiner
+Arbeit gemacht habe. Ich war so blöd, ich habe mir selber einen Raytracer geschrieben, anstatt
+einfach einzunehmen, den es schon gab. Ist doch egal. Wir können das machen, wir können das
+nachvollziehen. Dann ist bloß sozusagen diese Länge hier, die wichtet da anders rein. Aber ihr
+könnt euch vorstellen, dass wenn der Strahl hier so richtig durchgeht, dann ist das eher Wurzel 2
+und wenn er hier nur mal so ein bisschen an der Kante durchstrott, dann ist das ein ganz kleiner
+Beitrag nur von dem Messwert, der hier hinten rauskommt. Und in CT ist es jetzt so, ihr habt
+halt nicht ein Zweikreuz-Zweibild, sondern typischerweise habt ihr so Bilder, naja, ich
+würde mal sagen, wenigstens so 512 hoch 3. Ihr habt Volumen und ihr habt so eine ungefähr,
+na wie würde ich sagen, der Detektor. Wie sieht denn der aus? Der Detektor hat ungefähr so was
+wie 2000 mal, was weiß ich, sagen wir mal einfach mal 1000 und dann habt ihr noch so ungefähr 500
+Winkel. Also ihr nehmt jetzt Bilder auf mit einer Auflösung von 2000 mal 1000 aus 500
+verschiedenen Winkeln, da geht es einmal rum, also im Prinzip reichen 180 Grad und ihr habt
+ein Volumen, naja, ungefähr, das besteht aus so 512 hoch 3. Wuchsel nennt man das. Das nennt man
+dann nicht mehr Pixel, das nennt man Wuchsel. Und jetzt könnt ihr euch schon selber überlegen in
+dieser Schreibweise. Mit A mal meine unbekannte X ist gleich meine Projektion P. Da könnt ihr
+euch jetzt schon überlegen, das Ding hier, das hat offensichtlich die Dimension von 2000 mal
+1000 mal 500. Was ist denn das? Das sind 10, das sind 10 mal, so und jetzt müssen wir überlegen,
+1, 2, 3, 4, 5, 6, 7, 8, 9, 0. Das ist ein großer Vektor. 10 hoch 9 Einträge und X ist 512 mal 3,
+das heißt A muss sowas sein wie 512 hoch 3. Was ist denn 512 hoch 3? Ist naja, 125 und dann
+noch mal 10 hoch 6. Das heißt, das ist auch sowas wie ungefähr 10 hoch 8, kreuz 10 hoch 9. Das ist
+sozusagen die Matrixgröße, von der wir bei einem normalen CT-Problem reden. Das ist eine riesige
+Zahl und die kann man nicht abspeichern. Wenn man das mit Float-Genauigkeit abspeichern will,
+das geht nicht, das kriegt man nicht hin. Das ist eine riesige Zahl. Und weil das so ist, ist
+sozusagen, ist auch, also übrigens, erstmal seht ihr, das Ding ist nicht quadratisch. Das ist keine
+quadratische Matrix. Man würde hier auch sozusagen, was ist das? Das ist ein überbestimmtes
+Gleichungssystem. Ihr habt mehr Messwerte als Unbekannte und da kommen jetzt noch viele andere
+Probleme. Ihr könnt euch vorstellen, dass sozusagen diese Messwerte hier, da ist Rauschen
+drauf, die können sich widersprechen. Es könnte sein, dass aus dieser Richtung irgendwie hier nicht
+gerade 3, sondern 3,1 rauskommt und hier unten kommt nicht 6 raus, sondern 5,078 oder so. Irgendwas
+völlig Absurdes und dann widersprechen die sich. Und was dann passiert, wenn ihr dieses Verfahren,
+was ich gerade gezeigt habe, mit dem Zurückschmieren, wenn ihr das macht, dann wackeln diese Werte immer
+hin und her und oszillieren. Und die werden jedenfalls nicht konvergieren. Und dann muss
+man sozusagen noch bestimmte Sachen machen. Was man hier typischerweise macht, wenn man jetzt
+sozusagen dieses Verfahren anwendet, was ich euch jetzt gezeigt habe, das geht da tatsächlich auch,
+man muss sozusagen den Strahl zurückverfolgen, wo der herkommt und dann entsprechend von seinen
+Durchschnittmengen durch die einzelnen Würfel, das kritisiert natürlich euer Volumen in Würfel,
+da muss man sozusagen dann entsprechend aufteilen, den Messwert, den man gemessen hat. Und übrigens
+dieses lineare Modell hier, das ist nur eine Approximation, das ist auch nicht ganz richtig,
+aber das ist die Approximation, mit der die CTs im Krankenhaus typischerweise funktionieren und das
+ist erstmal eine gute Nährung, das ist nicht ganz exakt. Da macht man viele Fehler und handelt sich
+auch viele Bildartifakte ein, aber diese lineare Nährung, die man hier macht, die ist schonmal okay.
+Und für unsere Zwecke hier, ich will euch eigentlich nur zeigen, ich will euch eigentlich nur eine
+Motivation geben für dieses Umkern, dafür reicht das völlig aus. So und ihr macht halt dieses Ding
+hier, aho minus eins, das existiert nicht. Und übrigens in dieser Matrix Schreibweise,
+da könnt ihr euch auch vorstellen, da kann man sich sozusagen auch noch eine richtige
+Vorstellung für diese Symbolik mit dem ahochminus eins überlegen. Stellt euch mal vor, ax gleich p
+wäre eine Gleichung mit Zahlen, dann würde man hier einfach auf beiden Seiten durch a teilen,
+dann würde hier a ist gleich, ich schreib's mal so hin, ahochminus eins mal p stehen. Weil
+durch a teilen ist dasselbe wie mit einem Kehrwert multiplizieren und wenn das Zahlen sind, dann ist
+das alles nice. Und daher kommt aber diese Idee, ahochminus eins hat nämlich gerade die Eigenschaft,
+dass wenn man ahochminus eins an a multipliziert, dass dann sozusagen die Einheitsmatrix rauskommt
+oder die eins sozusagen. Warte mal, wie mach ich denn das? Vielleicht erkläre ich mal noch schnell,
+ja ich denke das mache ich noch, ich erkläre das mal noch schnell. Ich mache mal, ich speichere mal kurz ab,
+mach noch mal ein neues Ding auf. Ich glaube das mache ich noch mal, einfach nur weil ich es kann,
+ich bock drauf hab. Also folgendermaßen, ich habe euch ja gesagt, in der Schule habt ihr immer das
+Problem, y ist gleich f von x und ihr sollt x suchen, wenn y gegeben ist und die Lösung sieht
+immer so aus, f hochminus eins von y ist gleich x. Das ist die Lösung. Ihr müsst sozusagen nur das
+inverse finden und bei einfachen Aufgaben wie zum Beispiel ax ist gleich b, da ist das klar, da folgt
+x ist gleich b durch a oder a hochminus eins mal b. Das wäre sozusagen einfach. Bei quadratischen
+Gleichungen habe ich schon gesagt, da wird das komplizierter und das wird generell dann
+immer beliebig komplizierter. Aber was ihr immer macht und was alle Schüler machen müssen, sie müssen
+für die entsprechende Operation die Umkehrung finden und was man damit meint ist, ihr habt eine
+Operation plus a plus b und die Umkehrung dazu wäre sozusagen Minusrechner. Das heißt, wenn ihr
+das hier habt, wenn ihr zum Beispiel a plus x ist gleich b habt, naja, dann folgt daraus ja x ist
+das gleiche wie b minus a. Das ist ganz formal, weil das sozusagen die Umkehrung zu diesem Pluszeichen
+ist. So könnt ihr euch das überlegen. Das heißt, das Minuszeichen ist direkt definiert als die
+Umkehrung vom Pluszeichen. Das selbe ist mit dem Malzeichen, da ist das geteilt, dann gibt es
+natürlich noch sowas wie Exponenten, da ist das Radizieren, die Wurzeln und solche Sachen. E hoch
+x, da ist die Umkehrung dann ln x. Das heißt, wenn man so macht, dann folgt daraus x. Diese Sachen,
+ihr müsst mal euch klar machen, ist es sozusagen immer als Umkehroperation definiert. Und es gibt
+halt genug Operationen, die keine eindeutige Umkehroperation haben. Und bei diesem Matrix-Problem
+aus der CT-Sache, da ist das so. Da gibt es sozusagen das a auch minus eins nicht, aber daher kommt
+diese Schreibweise, denn man stellt halt fest, man kann bei quadratischen Matrizen dieses
+Gleichungssystem lösen. Dieses hier. Also wenn ihr ein a gegeben habt, eine Matrix und von links eine
+unbekannte Matrix dran schmieren wollt, dann kann man sozusagen auch über Gauss-Jordan-Verfahren die
+Inverse rauskriegen oder auch noch, wenn es klein genug ist, kann man es auch noch so lösen, wenn die
+Matrix klein genug ist. Aber was auf keinen Fall geht, ist bei Matrizen, die irgendwie 10 hoch 20
+Einträge haben, irgendwas zu machen. Das ist unmöglich, das kriegt man nicht hin. So und deswegen
+ist diese Iteration so. Und übrigens hier mit diesen Inversen, da könnt ihr euch vielleicht noch mal,
+also man könnte es vielleicht noch mal ein bisschen abstrakter vorhin schreiben und sagen, was man
+braucht, ist sozusagen zuerst ein neutrales Element. Also bei, wenn ich jetzt sowas habe wie a plus
+neutrales Element, ist gleich a. Ich definiere mal ein neutrales Element bezüglich einer Operation so,
+dass hier nichts ändert. In dem Fall weiß ich schon, okay, n muss 0 sein. Das neutrale Element
+bezüglich Addition muss 0 sein. Über das neutrale Element kann man dann anschließend das Inverse
+definieren. Das Inverse i a plus i, könnte man es vielleicht so schreiben. Ich schreibe es jetzt mal
+ganz blöd so hin. Das muss so definiert, dass da das neutrale Element rauskommt. Und daraus folgt
+natürlich, weil n gleich 0 ist, könnte man hier einsetzen, dass i gleich minus a ist. Das ist so
+die allgemeine Idee, die dahintersteckt, wenn man von Inversen redet. Denn jetzt sozusagen können wir
+jetzt haben wir eine Sprache, um ganz klar zu machen, was wir damit meinen mit dem Inversen.
+Wir meinen das Inverse, wenn man die Operation anwendet und dann das neutrale Element rauskommt.
+Das ist eine total coole Definition. Da müsst ihr mal drüber nachdenken, weil so ist das ja bei
+Multiplizieren auch. a mal n zum Beispiel soll wieder a sein. Naja, daraus folgt n ist gleich
+eins. Und jetzt ist es so a mal Invers. Wenn da gleich eins rauskommen muss, weil n ist ja eins,
+dann folgt daraus, dass das i gleich a hoch minus eins ist. Also eins durch a, klar. Und so kann man
+die Division definieren. Da braucht man sozusagen nicht weitermachen und ich weiß auch nicht mehr,
+wie man das in der Schule, wie das kam, ob das sozusagen vom Himmel gefallen ist oder ob das
+schon als Umkehroperation definiert ist. Aber in diesen einfachen Sachen und in der Schule waren
+immer die Aufgaben schwierig, wo man irgendeine Vorwärtsrichtung gegeben hatte, die man im Kopf
+sich überlegen kann und die Umkehrung davon schwierig war. Und so ist das bei unserem CT-Problem
+auch. So und wenn man jetzt noch mal in echt zurückgeht und sagt, okay, ich habe jetzt halt
+hier mein riesengroßes Bild. Also ich habe jetzt wirklich hier so ein Menschen drinnen liegen. Sagen
+wir mal so einen Querschnitt von Menschen, wie sieht der aus? Ich habe hier irgendwie Organe,
+so und so und hier so und da ist jetzt so ein Körper drum. Und hier sind irgendwelche Arme. Das
+ist jetzt mal so ein Querschnitt und jetzt scannt ihr den von allen möglichen Seiten hier so durch,
+zack, zack, zack, dann kriegt ihr einen Haufen Messwerte. Ihr probiert dann sozusagen tatsächlich,
+also im einfachsten Fall schichtweise, diese Rückschmieroperation zu machen. Und das ist
+schon nicht mehr so einfach und da braucht man tatsächlich noch andere Filteroperationen,
+um das dann noch ordentlich hinzukriegen, einfach weil die Konditionierung des Systems so schwierig
+ist. Aber was ihr macht ist sozusagen, ihr könnt das A hoch minus eins nicht finden, aber ihr findet
+diesen Pseudo-Rückschmier-Schritt. Und das ist ganz wichtig. Das ist sozusagen genau das,
+diese Umkehrung von dem, was man kennt, nämlich die Vorwärtssituation. Wenn ich euch ein Objekt
+gebe, so ein Objekt und ich gebe euch die Geometrie, dann kann jeder sozusagen sofort die Projektionen
+davon ausrechnen, wie die aussehen. Hier müssen wir irgendwie so hoch gehen, dann gehen wir hier so
+hoch und dann gehen wir hier so und so. So sieht das ungefähr aus, so eine Vorwärtsprojektion. Und die
+kann man tatsächlich so schreiben als A, Vektor x ist gleich P. Weil das hier sozusagen jetzt meine
+Unbekannten sind und ihr müsst euch jetzt nur noch klar machen, das ist jetzt ein Vektor. Da steht
+jetzt sozusagen x1 bis x512 hoch 3 drin. Im Stück. Das ist so ein Vektor. Und was das meint,
+ist natürlich, ich fange hier an auf der ersten Zeile und zähle bis hier. 1, 2, 3, 4, 5 bis 512.
+Der nächste Eintrag fängt dann hier an und geht wieder die ganze Zeile lang. Das mache ich für das
+ganze Bild. Und dann gehe ich 512 in die Richtung noch weiter. Ich mache es also für jede Schicht.
+Das heißt, ich gehe Zeile um Zeile, bis ich ein Bild voll habe. Dann bin ich bei 512 zum
+Quadrat und dann gehe ich weiter und fange wieder mit der nächsten Schicht an. Bis ich 512 hoch 3
+voll habe. Auf die Art und Weise kann man ein dreidimensionales Volumen in einen Vektor packen.
+Das ist schon mal wichtig, dass es gibt Leute, die das bis heute nicht verstehen. Und so macht
+man das mit dem P auch. Da schreibt man sozusagen die Detektorzeilen rein. Alle nacheinander. Und
+dann den nächsten Winkel, also die nächste Fotografie, sozusagen der nächste Aufnahmewinkel.
+Er geht ja ungefähr 180 Grad bis 200 Grad typischerweise rum. Oder bei einem echten
+CT geht man komplett 360 Grad rum, um das aufzunehmen. Also sozusagen, so kann man sich
+das überlegen, dass man das tatsächlich in einen Vektor reinschreiben kann. Und mit dieser Idee
+kann man dann sozusagen nach dieser Geometrie das A bestimmen. Weil in dem A stehen jetzt wirklich
+nur, in dem A steht jetzt sozusagen drin, also A würde man so schreiben als Matrix A, I, J.
+In dem steht sozusagen der, was weiß ich, der Ithestrahl. Also der Ithestrahl, das ist sozusagen
+der Ithepixel auf einem Detektor zu einem bestimmten Winkel. Das ist genau eine Zahl I,
+ein Index, der läuft über die Dimension von P. Und J ist dann sozusagen der Volumenwuchse.
+Also dieses IJ gibt einem an, wie viel trägt der J-Wuchse zum Ithenstrahl bei. Und ihr könnt euch
+schon vorstellen, dass für viele Wuchse viele IJs Null sind. Weil sozusagen der Strahl hier
+gar nicht lang trifft. Ich messe nur bis hier, von hier bis hier. Das heißt, diese ganzen,
+die sind da gar nicht mehr drin. In diesem einen Winkel wären die ganzen IJs, die dazugehören,
+alle Null. Und die anderen haben halt bestimmte Zahlen. Das ist so eine Sache. Es wurde auch schon
+lange rumprobiert, ob man da irgendwie was tricksen kann, ob man das irgendwie abspeichern kann oder
+so. Aber das ist super schwierig. Diese Information ist tatsächlich so schwer zu kriegen, dass man sie
+immer und so vielleicht neu ausrechnet mit einem Raycaster. Und bei der Rückprojektion genauso. Und
+die Rückprojektion ist jetzt wirklich genau das, was ich euch am Anfang erklärt habe. Man nimmt
+sozusagen diese Zahlenwerte und schmiert die gleichmäßig auf die einzelnen Volumenelemente
+zurück. Anhand dieser Informationen. Die hat man gegeben. In meinem Beispiel vorhin waren alle IJ,
+die waren alle eins. Weil ich sozusagen nur diesen, diesen und diesen, diesen und diesen,
+diesen und diesen, diesen hatte. Wenn ich so einen gehabt hätte, dann hätte da schon so was wie
+Wurzel 2 drin stehen müssen. Weil die Diagonale durch einen Einheitswürfel ja gerade Wurzel 2 ist.
+Also ihr habt hier Kantenlänge 1, dann habt ihr Kantenlänge 1. Dann muss das hier wegen Satzes
+Pythagoras Wurzel aus 1² plus 1² sein. Also Wurzel 2. Daher kommt das. Und wenn ihr sozusagen einen
+kleineren Strahl habt, dann müsst ihr halt ausrechnen, wie das geht. Das kann man aber machen.
+Und vor allem moderne Grafikkarten können das super schnell machen. Also ich habe das dann später
+auf Multi-GPU-Systemen implementiert. Einfach nur, weil das sonst unendlich lange dauert.
+Solche Verfahren zu machen. Könnt ihr euch ja vorstellen. Die Zahlen sind riesig. Egal wieviel
+Flops ihr da habt. Ich habe das mit acht Grafikkarten gemacht und meine Implementation war so kacke,
+dass es nach zwei Grafikkarten schon nicht mehr schneller wurde. Aber egal, das ist eine andere
+Geschichte. So ist das, wenn Physiker und Nerds irgendwas implementieren. Aber das ist sozusagen
+jetzt die Idee. Ich hoffe, dass irgendjemand etwas verstanden hat. Ich gucke mal, was hier steht.
+Die Boys quatschen nur über Black Metal. Die Boys quatschen nur Zeug. Ist ja nicht schlimm. Das
+Video bleibt ja erhalten. Ich gieße mir erst mal noch ein Bier ein. Das ist wirklich ein
+richtig leckeres Ding. Ein absolutes Lieblingsbier. Wie gesagt, vom lokalen Hipster gebraut. Super
+nice. Der Weckte-Analyser kann es auf jeden Fall bestätigen. Das ist richtig lecker.
+Ihr habt jetzt hoffentlich verstanden oder zumindest ein Gefühl dafür bekommen, was das
+bedeutet. So ein A hoch minus eins. Und ich nenne es jetzt mal nicht A hoch minus eins. In der
+Literatur ist oft so Pseudoinverse. Da ist hier so ein Kreuz dran oder so. Später nennt man das
+dann, was weiß ich, hermetisch, adjugierte, was auch immer Matrix. Völlig absurde Dinger gibt es da.
+Kommt darauf an, ob man Quantenmechanik macht oder nicht. Solche Objekte hier, solche Inversen,
+solche ich schmier das mal zurück Ideen. Also ich kenne den Vorwärtsprozess und ich weiß,
+die Umkehrung gibt es nicht. Aber ich versuche irgendwie mir einen Plan zu machen,
+wie ich das hinkriege mit dem Rückwärtsrechnen. Diese Idee braucht man, wenn man das Backpropagating
+verstehen will. Und wenn ihr jetzt sozusagen euch ein Deep Learning Paper lest, dann versteht ihr
+gar nichts. Wenn ihr jetzt einen Vortrag euch anhört von so einem Boy. Ich kann euch übrigens
+Professor Andreas Meyer empfehlen. Der hat dank Corona seine kompletten Vorlesungen digitalisiert
+und die kann man sich rein knallen zum Thema Deep Learning. Wenn ihr also das mit der Linearen
+Algebra euch schon drauf geschafft habt, dann könnt ihr da direkt anfangen. Da wird das alles
+erklärt. Von ganz klein bis ganz groß. Das ist übrigens ein D. Der hat einen leichten Duktus,
+der erklärt das alles ziemlich gut finde ich. Auch wenn ich mir natürlich nicht alles reingeknallt
+habe. Dafür habe ich keine Zeit, aber ich habe mir ja wie gesagt damals schon diesen Hardcore Crash
+Kurs damals im Deep Learning reingezogen beim Stober. Das ist ein anderer Professor bei uns
+an der Uni gewesen. Das ist übrigens so ein Privileg, wenn man an der Uni arbeitet. Ich bin
+zu meinem Prof gegangen, habe gesagt, hier kann ich mir meine Woche frei nehmen, um mir meine
+Vorlesung rein zu knallen. Und dann bin ich da jeden Tag hin und habe mir von um 9 bis 15 Uhr
+oder so die Vorlesung von ihm rein geputzt. Das war einfach fantastisch. In einer Woche so viel
+Wissen vorfri einfach hingehen und das auch noch während der Arbeitszeit nicht schlecht.
+Ja und Andreas Meyer ist von der V in Erlangen. Das ist eine fette Uni. Die machen auch Medizintechnik,
+also wenn ihr auf sowas Bock habt, könnt ihr da auch hingehen. Aber das ist ziemlich nice,
+so Deep Learning. Und warum es jetzt aber in echt bei Deep Learning geht, ist vielleicht brauche ich
+noch eine Sache. Vielleicht brauche ich noch eine Sache, um es euch jetzt noch klar zu machen. Ja,
+ich denke das mache ich vorher. Das mache ich vorher, bevor ich jetzt anfange Deep Learning zu
+machen. Und zwar stellt euch mal vor, ich gebe euch eine Aufgabe. Und zwar ihr habt hier eine
+Wand und ihr habt die Aufgabe ein Gebiet A einzuzollen. Einzuzollen mit einem Zaun und zwar
+rechteckig. Das heißt ihr habt hier die Länge A und hier die Länge B und hier die Länge A und
+hier die Wand. Und ihr sollt in den Baumarkt gehen und die Fläche A ist konstant. Die ist gegeben.
+Sagen wir mal, ihr habt Farbteimer, die reichen genau für die Fläche A, um die voll zu malen. Und
+dann sollt ihr die einzollen. Und die Frage ist, ihr könnt frei wählen, wie ihr das Rechteck
+gestaltet. Ihr könnt es ganz breit machen oder ihr könnt es so ganz spitz machen. Irgendwo in
+der Mitte gibt es ein Optimum, weil ihr habt einfach mal ausprobiert und festgestellt,
+oha, wenn ich das eine ganz klein mache und das andere ganz groß, dann ist A bei A gleich
+konstant sozusagen, ist mein Zaun riesig. Weil der Zaun am Ende ist natürlich 2A plus B. Das ist
+der Umfang. Und jetzt ist sozusagen die Frage, ihr geht im Baumarkt und ihr wollt das Optimum
+finden. Das ist ein ganz, ganz blödes, einfaches Beispiel. Aber das brauchen wir gleich. Und zwar,
+wie würde man das machen? Na ja, ihr habt jetzt also den Umfang als Funktion von A und B. Und ihr
+habt die Nebenbedingungen, ist ja klar, A ist gleich konstant und ist gleich A mal B. A ist
+jetzt eine gegebene Zahl, zum Beispiel 10 m², völlig egal. Daraus folgt aber, dass ihr sozusagen
+das umstellen könnt. Ihr könnt B von A zum Beispiel erzeugen, indem ihr A durch A teilt.
+Und das könnt ihr hier oben einsetzen. Dann steht hier U von A und B von A. Also als reine Funktion
+von A. Und das ist jetzt einfach, da steht einfach nur 2A plus A durch A. So, und jetzt ist doch klar,
+was wir machen wollen ist, wenn wir den Umfang minimieren, minimieren wir auch unsere Kosten.
+Das ist klar, weil Umfang ist direkt proportional zu Geld. Ich gehe in den Supermarkt rein, nicht
+in den Supermarkt, ich gehe in den Baumarkt und kaufe so und so viel Meter Zaun. Das kostet halt
+linear so viel Kohle. Das heißt, das Ding hier will ich minimieren. Und was mache ich da? Ist ja klar,
+ich bilde die totale Ableitung. DAU. So, und die totale Ableitung von dem Ding, naja, das ist 2.
+Sieht zumindest so aus. Plus, und hier steht jetzt A und dann steht hier ein Durch und dann
+steht hier ein Quadrat, dann steht hier ein Minus. So, und das soll 0 sein. Das kann ich auf die
+andere Seite bringen. Dann steht hier 2 ist gleich A durch A Quadrat. Dann bilde ich den, dann ziehe
+ich das auf die andere Seite. Ich vertausche das hier und dann ziehe ich die Wurzel. Daraus folgt A
+ist gleich Pluswurzel. Also die Minuswurzel macht keinen Sinn, weil A ist sozusagen bei mir ja schon
+ein Parameter, der nur positiv sein kann. Das heißt, ich habe einfach nur A halbe. Das sieht
+erstmal so gut aus. So, und übrigens, ihr könnt euch vorstellen, der Umfang, diese Funktion hier,
+wie sieht die aus? Ich male sie mal hier hin. 2A, ich mache mal gleich in diesen Quadranten,
+weil wir sind ja eh nur positiv, als Funktion von A. Umfang als Funktion von A. Ihr habt hier
+einen linearen Term, den male ich mal so ein. Und ihr habt hier einen 1 durch A Term, der macht so.
+So, und beide zusammen machen dann wahrscheinlich sowas hier. Na ja, okay, sagen wir mal so. Ihr
+versteht, was ich meine. Hier gibt es auf jeden Fall ein Minimum. Das ist die Idee. Und jetzt ist die
+Frage, findet man das Minimum? Na ja, da haben wir gefunden. Wir haben das hier gefunden. Das
+setzen wir jetzt ein und dann haben wir es. Also wir können jetzt sozusagen aus diesem A
+B ausrechnen, weil B von A ist ja bekannt. Das ist nämlich A durch A. Und jetzt steht hier A durch
+Wurzel A halber. Das ist witzig, ne? Da kann man bestimmt was machen. A durch Wurzel A ist das
+gleiche wie Wurzel A. Also können wir mal als Nebenrechnung machen. A durch Wurzel A. Das kann
+man auf zwei Möglichkeiten machen. Entweder man erweitert das mit Wurzel A oder man schreibt es als
+Produkt hin. Das ist A mal A hoch minus ein halb. Und das ist das gleiche wie A hoch ein halb. Also
+die Wurzel A. Genau. Das heißt, hier steht im Wesentlichen Wurzel 2 mal A. Das steht hier. Das
+seht ihr jetzt vielleicht gerade nicht, aber das folgt hier raus. Das ist das. Und hier steht ja
+durch durch. Das heißt, das steht hier über dem Hochstrich, ist klar. So, das ist das. Das ist
+unser Ergebnis. B ist gleich Wurzel aus 2A. Das kleine A ist gerade Wurzel aus A halbe. Und damit
+ist es gegeben. Also A ist, wie gesagt, irgendeine gegebene Zahl. Ihr kriegt die sozusagen von dem
+Boy, der euch den Auftrag gibt. Hier 100 Quadratmeter ist die Zahl. So, und dann habt ihr das. So
+würdet ihr das machen. Und was ich jetzt hier gerade gemacht habe, ist, ich habe eine ganz,
+ganz, ganz primitive Kostenfunktion minimiert. Ich habe die A-Leitung gebildet und sie in Null
+gesetzt. Und natürlich könnte ich jetzt noch die zweite A-Leitung bilden und gucken, ob das wirklich
+ein Minimum ist. Den Spaß könnte man sich ja machen. Seht man das hier? Wenn ich das hier
+nochmal ableite, kommt hier ein Pluszeichen runter. Irgendwas mit hoch 3 und hier noch ein Faktor. Das
+verschwindet. Dann setze ich hier eine positive Zahl ein. Die ist auf jeden Fall positiv. Das heißt,
+der Konzent ist positiv. Das heißt, das ganze Ding ist positiv. Das heißt, das ist ein echtes
+Minimum. Fertig. Haben wir schnell im Kopf gemacht. Kein Bock, das hinzuschreiben. Reicht. So,
+aber jetzt, in echt, können wir eigentlich das Ding mit dem Deep Learning machen.
+Das ist jetzt sozusagen die Idee gewesen. Ich wollte jetzt nur mal schnell euch erklären,
+okay, was bedeutet Inverse? Gibt es das immer? Nein, nicht immer. Was macht man, wenn man das
+nicht hat? Tausend Möglichkeiten, iterative Prozesse, Verfahren, irgendwelche Nährungsverfahren.
+Im Übrigen, für die Vollständigkeit könnte man auch noch mal hinschreiben.
+Habe ich irgendwo Platz? Nee, ich muss noch einmal das Blatt anfangen. Ich schweiche das mal ab.
+Neue oben. Also, was wollte ich jetzt machen? Ich gucke erstmal in den Chat rein. Steht hier
+noch irgendwas? Die Boys. Acht halbe. Hattest du in der Schule keine Lösbarkeit vom linearen
+Gleichungssystem? Also, Vector Analyzer, du musst das ja wissen, weil wir waren zusammen auf der
+Schule. Aber die Sache mit dem Kern der Matrix und so, das hatte man natürlich nicht. Generell,
+dass da auch die Möglichkeit rauskommt, dass die Lösungsmenge eine Gerade ist. Ich glaube,
+das kam bei uns nicht so richtig an. So, aber jetzt mal was anderes. Was wollte ich jetzt machen?
+Ich wollte jetzt eigentlich das mit dem Deep Learning erklären. Also, im Übrigen,
+jetzt nur noch mal für die Vollständigkeit. Wir hatten bei dem CT-Problem jetzt, das konnten wir
+so schreiben, A mal Vector X, das ist eine riesengroße Matrix, ist gleich unsere Projektion.
+Das war das lineare Vorwärtsmodell. Wenn wir X gegeben haben, können wir ohne Probleme Matrix
+Multiplikation machen, also diese Vorwärtsprojektion und unsere ganzen Projektionen ausrechnen. Wir
+müssen das inverse Problem lösen, denn P ist gegeben, A ist gegeben, X ist gesucht. So,
+und bei diesem Rückschmieren, was man am Ende macht, tatsächlich, also das, was ich euch
+vorgestellt habe mit dem Zurückschmieren, das ist noch nicht exakt das, was man tatsächlich macht,
+sondern man macht eine kleine Modifikation davon. Aber am Ende des Tages, was man macht,
+ist man minimiert diesen Vektor in der Zweier Norm. Man schreibt sowas hin. Minimum davon. Minimum
+von X. Sowas sucht man. Das ist sozusagen die Funktion, also der Betrag oder die Zweier Norm,
+die kathesische Norm von diesem Vektor, der hier rauskommt, die wir mal minimieren. Man will sie
+nicht auf Null bringen, sondern man will sie nur kleiner machen als Epsilon. So im Prinzip muss
+man sich das überlegen, weil sozusagen in echt, hier sind noch Störungen drauf, zum Beispiel
+elektronisches Rauschen, aber auch andere Sachen. Und das ist die Idee. Also das ist Zweier Norm,
+meistens das Quadrat der Zweier Norm, weil das ist sowieso egal, wenn man das Quadrat minimiert
+hat, hat man auch die Norm minimiert. Bloß das Ding ist meistens irgendwie konvex und deswegen ist
+das noch geiler. Aber das ist sozusagen das, was man eigentlich mathematisch jetzt macht. Man sucht
+das Minimum davon und die meisten Verfahren, die tatsächlich, die minimieren dieses Ding.
+Meistens hat man dann noch so einen Plus-Regularisierungsterm, aber der hat jetzt
+sozusagen, das führt zu weit. Das ist aber das, was man macht. Also mathematisch gesehen,
+man minimiert eine Kostenfunktion. In echt jetzt. Das nennt man sogar manchmal Kostenfunktion. Auch
+wenn es nichts mit echten Kosten wie bei einem Zaun zu tun hat, wo ich in den Baumarkt gehe und
+weiß, der kostet jetzt Geld. Das nennt man trotzdem Kostenfunktion. Und das ist das, was man bei
+die Learning auch macht. Man findet jetzt eine Möglichkeit, einen Vorwärtsprozess zu finden,
+der sowas ähnliches abbildet, wie ich habe gelernt, wie ich ein Bild erkenne und dann
+trainiere ich mein Netzwerk, indem ich diesen Rückwärtsschritt mache. Also ihr müsst euch
+vorstellen, die Idee ist, ich finde einen Vorwärtsprozess, der kann beliebig kompliziert
+sein und glaubt mir, der ist maximal ekelhaft kompliziert, weil das einfach nur Matrix-Multiplikationen
+sind. Richtig viele. Der ist hinreichend kompliziert, aber der bildet mir diesen Prozess ab, dass zum
+Beispiel ich kriege als Input ein Bild und ich bin jetzt ein Computer und ich soll am Ende sagen,
+auf dem Bild ist eine Katze, ein Hund, ein Haus oder sonst was. Dann kann ich das sozusagen abbilden
+und wenn ich das einmal habe, diesen Vorwärtsprozess und glaube jetzt, ich habe den gut abgebildet,
+weil das ist das Problem. Das ist ein Error. Ich habe den geraten, wie der Prozess aussieht. Wenn
+ich den habe, dann kann ich den zurückprojizieren und ich kann mir vor allem aus meinem Ergebnis
+eine Kostenfunktion bauen. Und die Kostenfunktion kann ich als Funktion dieser Umkehrung hinschreiben
+und dann habe ich halt nicht eine Variable, über die ich ableiten muss, sondern 10 hoch 9
+Variable. Also richtig viele. Und in diesem hochdimensionalen Vektoraum will ich dann sozusagen
+meine Kostenfunktion minimieren und dann muss man dann verschiedene Tricks anwenden und iterative
+Verfahren und was weiß ich nicht alles, zum Beispiel stochastischen Gradienten, so was, falls euch das
+was sagt, um dann am Ende eine Kostenfunktion zu minimieren. Und der Witz ist, dieses Minimieren der
+Kostenfunktion, das ist das, was die Leute Lernen nennen. Das nennen die Lernen, weil das das Beste
+ist, was sie haben im Moment. Sie knüppeln im Prinzip Daten in ein Netzwerk rein, von dem sie
+glauben, dass die Architektur gut ist und am Ende kommt dabei so eine Art Erkenntnis rum und so eine
+Art Bildungsprozess, der aussieht wie Lernen, weil der Witz ist, dass was am Ende rauskommt,
+funktioniert tatsächlich. Also je nachdem, ob die Architektur angemessen ist oder nicht,
+kann man ein Netzwerk programmieren. Ich gebe dem Netzwerk zum Beispiel ein Bild und es kann mir
+genau sagen, was auf dem Bild drauf ist, mit setzen zum Beispiel. Der Input ist ein Bild,
+also ein JPEG als Input und als Output gibt es mir eine Zeichenkette, einen Satz, genauso wie das
+Ding da vorhin mit mir geredet hat in diesem Rollenspiel. Das redet mit einem, das kann sagen,
+das ist da und da sieht man auf dem Bild einen Hund mit einer Frisbee und im Hintergrund ist
+ein Mädchen auf einem Fahrrad. Das geht und das hat nichts mit Intelligenz zu tun, sondern was die
+da lernen, ist Korrelation und was sie nicht lernen, ist Kausalität und ich habe jetzt in
+der letzten Zeit immer noch mal ein bisschen darüber nachgedacht, über Lernen und Verstehen
+und was da jetzt der Unterschied ist und ich bin mit ein paar interessanten Gedanken rausgekommen
+aus diesen Sachen. Ich habe mir noch mal ein paar Interviews mit Joscha Bach reingezogen und noch
+ein paar anderen Vögeln und eine interessante Formulierung war, also erstmal klar, meiner
+Meinung nach ist das, wenn man verstanden hat etwas, wirklich verstanden und nicht nur gelernt,
+dann hat man die kausalen Prozesse bis ins kleinste nachvollziehen können. Man hat sozusagen die
+Kausalität der Sache verstanden, nicht die Korrelation. Lernen ist sozusagen Korrelation,
+Verstehen ist Kausalität, wenn man erklären kann, warum etwas so ist, nicht nur, dass es so ist.
+Und eine alternative Denkweise dafür ist, das hat Joscha Bach auch gesagt, das fand ich richtig
+geil, er hat gesagt, Verstehen tut man etwas nur, wenn man die Domäne, die man da hat, auf einen
+mathematischen Formulismus abbilden kann, in dem man dann alles ausrechnen kann bzw. wenn man es
+programmieren kann und das fand ich war ein geiler Spruch, weil ich kann mich noch genau
+daran erinnern an meine linearer Algebravorlesung und der Prof hat gesagt, hier das mit dem Gauss-Verfahren,
+wissen Sie, programmieren Sie sich doch einfach mal ein Gauss-Verfahren selber. Sie kriegen eine
+Matrix und sollen mal das inverse bilden oder so. Einfach mal machen. Und dann hat er gesagt, wenn
+man das gemacht hat, dann hat man es wirklich verstanden. Und der Witz ist, im Nachhinein würde
+ich sagen, das trifft auf alles zu. Man kann von sich selber behaupten, dass man es wirklich
+verstanden hat, wenn man es auch programmieren könnte und sonst nicht. Und wenn man länger
+darüber nachdenkt, trifft das auf alles zu. Also auch auf so Sachen, die jetzt hier draußen
+funktionieren, die jetzt nichts mit Bilddaten oder Messungen oder so zu tun haben. Einfache,
+in der Datenbank-Sprache würde man End-zu-End-Beziehungen sagen und so. Kausalitäten,
+irgendwie Abhängigkeiten. Wenn man das programmieren kann, wenn man sagen wir mal in C++ die
+Klassen entsprechend hinschreiben kann, wenn man das verstanden hat, wie das funktioniert,
+dann hat man auch das System selbst verstanden. Und das ist im Moment nicht das, was die KI macht.
+Die KI kann nur Korrelationen lernen. Und den Unterschied sieht man sofort. Wenn man dieses
+GPT-3 zum Beispiel nach Rechenaufgaben fragt, dann gibt es einem bei einfachen Multiplikationen
+noch korrekte Antworten, weil die irgendwo in dem Text mal stehen. Wenn man aber fast vierstellige
+Multiplikationen macht, dann hat es fast eine, keine Ahnung, zehn oder zwanzigprozentige Genauigkeit,
+das noch auszurechnen. Einfach nur, weil es Text gelernt hat, in dem das irgendwo drin steht. Und
+kompliziertere Fragen kann man gar nicht stellen. Also Fragen, die Verständnis erfordern. Zum
+Beispiel wenn man GPT-3 eine Zeichenkette hinschreibt, die jetzt sagen wir mal 1578398378 lautet und man
+sagt, GPT-3 kannst du mir die mal umdrehen und in anderer Reihenfolge hinschreiben. Das kann GPT-3
+dann nicht. Da kommt dann nur noch Schrott raus. Weil das sozusagen eine konkrete Anwendung ist,
+wo GPT-3 verstehen muss, was das bedeutet. Das ist nicht einfach nur Text, auf den GPT-3 eine
+Antwort kennt, weil GPT-3 einfach alle Antworten der Welt auswendig gelernt hat und einen dann die
+wahrscheinlichste ausspuckt. Nee, nee. Das ist etwas, was GPT-3 nicht kann. Es macht aber den
+Eindruck, als könnte es das. Und wenn ihr euch mal ein bisschen reinzieht, was die Leute so darüber
+berichten und es gibt unendlich viele YouTube Videos darüber, wo wirklich Leute total ausrasten
+und sagen, das ist jetzt hier das nächste Skynet und wir haben Angst davor, das ist so super schlau
+schon, viel zu krass und wir können es überhaupt nicht verstehen. Da sieht man auf jeden Fall,
+dass natürlich das überhaupt nicht verstanden wurde, wie das ist mit der Korrelation und der
+Kausalität. Ich glaube, dass man erst davon reden kann, dass GPT-3 was verstanden hat, wenn es selber
+programmieren können, ist vielleicht das falsche Wort, weil das kann es nämlich auch. Es gibt
+Anwendungen von GPT-3, wo man sagt, programmieren wir mal eine Oberfläche, eine App, die macht das
+und das. Also die hat einen Button, die macht das und das und dann, wenn man da drauf drückt,
+dann soll das und das passieren und so. Das kann GPT-3 auch. Er kann einem den Quelltext rausgeben,
+zum Beispiel in Java oder so. Fertig hingeschrieben. Das geht. Das ist auch krass, was es kann. Das hat
+trotzdem nichts mit Intelligenz zu tun. Das hat sozusagen nur was mit auswendig gelernt zu tun und
+gewissermaßen die Korrelation von Worten und deren Bedeutung in Anführungsstrichen, weil die echte
+Bedeutung sozusagen die begreift GPT-3 nicht. Es hat nur sozusagen eine Approximation dazu. So und
+jetzt aber mal ein Echt. Was ist bei Deep Learning das Problem? Naja, ich habe mir ja hier, ich habe
+mir extra noch mal aufgeschrieben. Stellt euch mal vor, ihr habt jetzt mal folgenden Task. Ich
+glaube, die allerersten richtigen Anwendungen von Deep Learning, die sahen so aus. Ihr kriegt jetzt
+irgendwie, was weiß ich, ein handgeschriebenes Alphabet oder handgeschriebene Worte. Arbeits-
+fetisch. Sowas. Und dieses Bild, sagen wir mal nicht nur dieses Bild, sondern diese einzelnen
+Buchstaben, die gibt ihr jetzt einem Menschen und der soll sagen, was sind das für Buchstaben. Dann
+würde der wahrscheinlich mit einer gewissen Genauigkeit, weil meine Handschrift ist ja eklig
+und so, mit einer gewissen Genauigkeit erkennen, was diese Zeichen hier bedeuten. Und er könnte
+das übersetzen in echten ASCII Code zum Beispiel. Das ist so eine Form von Automatisierung, um die es
+am Anfang ging. Kann jemand handgeschriebenes Zeug automatisiert digitalisieren? Und was man
+dazu machen muss, ist zum Beispiel noch ein einfaches Problem. Das war glaube ich so wirklich mit
+die erste Anwendung. Zahlen. Handgeschriebene Ziffern von 0 bis 9. Oder ich weiß gar nicht,
+ob die 0 mit dabei war. Kann schon sein 0, 1, 2 und so weiter bis 9. So und jetzt ist die Frage,
+wie macht man das? Also da gab es schon lange Machine Learning Algorithmen, die versucht haben,
+das zu klären und das ordentlich zu machen. Und die hatten auch eine relativ hohe Genauigkeit
+irgendwann, aber die waren halt nicht so nice für ganz spezielle Fälle. Und Deep Learning hat
+dann aber tatsächlich richtig geklärt. Ich glaube, Deep Learning kann so handgeschriebene
+Ziffern mit einer Wahrscheinlichkeit von, weiß nicht, mit einer Genauigkeit von 99 Prozent
+oder so zuordnen. Und ihr müsst euch wirklich vorstellen, was da passiert ist, ihr kriegt,
+die Software kriegt ein Bild. Also sowas hier, sagen wir mal 64 mal 64 Pixel. Und hier ist jetzt
+mal so ein Symbol drin. So und meistens sind handgeschriebene Bilder ja auch, wenn man da
+reinzoomt, die sind halt ein bisschen dicker. Das heißt, die sind wirklich so schraffuer und
+irgendwie ein bisschen räudig und alles ein bisschen verpixelt und so. Richtig scheiße.
+Und die KI sozusagen, die muss jetzt entscheiden, ist das eine 4 oder ist das was anderes? Und also
+wie gesagt, ihr kriegt sozusagen den Input, den könnt ihr euch vorstellen, der ist zehndimensional.
+Oder, nee warte, der ist 64 mal 64 dimensional, sagen wir mal 64 Quadrat. So viele Einträge hat
+das. Und ihr könnt euch das wirklich so vorstellen, wieder wie bei dem CT auch. Jeder Pixelwert hat
+einen Grauwert und wir haben halt 64 Quadrat davon, viele. 64 in die Richtung, 64 in die
+Richtung. Und die werden genauso sortiert. Die erste Zeile, zweite Zeile, dritte Zeile,
+alle nacheinander geschrieben. Das ist der Inputvektor. Jetzt passiert hier etwas und
+hinten raus kommt ein Output. Also sagen wir mal, der letzte Layer, der lautet 1, 2, 3 bis 9. Und
+dann entscheidet das Deep Learning, okay, es kommt genau eine Zahl raus. In dem Fall 4. Und dieser
+Prozess, der ist jetzt mal wirklich richtig, eigentlich wenn ich so länger darüber nachdenke,
+erstmal ist die Idee ziemlich doof. Die Idee ist extrem doof. Und zwar, ihr habt jetzt hier wirklich
+diese Zahlen. Das sind jetzt Grauwerte. Sagen wir mal, jeder Pixel hat einen Grauwert von 0 bis
+255 oder so. Ganz oldschool, mal so ein Bild. 64 Quadrat, viele Pixel. So und dann passiert
+folgendes. Diese Blackbox hier, die hier, die besteht aus vielen solchen Schichten und ihr könnt
+euch das wirklich so vorstellen, ihr kriegt jetzt hier den Input. Hier sind jetzt die ganzen,
+die ganzen 64 Quadrat vielen Pixel drin. Die nennen wir jetzt mal, ihr habt mir ja auch
+eine Notation abgeschrieben, die nenne ich mal A0i. Das ist sozusagen der Vektor A0,
+die erste Schicht. Und da wird jetzt jeder einzelne Punkt hier abgebildet und zwar mit
+einer linearen Abbildung auf einen weiteren Layer, der nochmal, also in dem Fall bei Pixel,
+bei Bilderkennung, beim CNN nennt man das, convolutional neural network, da haben die
+tatsächlich dieselbe Dimension, glaube ich sogar. Also die werden abgebildet auf eine weitere Ebene
+und die heißen sozusagen dann die A1s. Und der Zusammenhang zwischen diesen beiden, der geht über
+eine Multiplikation mit einem Gewicht V. Und jetzt muss man sich überlegen, dieses V hat sozusagen
+von jedem Pixel zu jedem anderen Bild, zu jedem anderen Hidden Layer hier drin, zu jedem anderen
+Knoten einfach nur eine Multiplikation und dieses V ist eine Matrix. Das ist dann einfach so was wie
+W, I, J oder so. Und da kann man dann auch noch sagen wir mal hier ein K dranbringen als Index,
+weil das sozusagen immer weitergeht. Hier geht das immer weiter. Jeder hat mit jedem eine Verknüpfung.
+Alle diese Knoten sind mit jedem Knoten in der nächsten Ebene verbunden. Und jede dieser
+Verbindungen kann man durchnummerieren mit so einem V. Und am Ende kann man sozusagen immer schreiben,
+von der einen in die nächste Hierarchie ist es einfach nur eine Matrix-Multiplikation. Von A,
+was haben wir hier? K mit W, K. Sowas. Und die erste Idee, die allererste für so einen neuronalen
+Abbildungsprozess, weil das ist die Idee sozusagen, das wurde einfach geklaut vom Gehirn, da wurde
+sozusagen draufgeguckt und gesehen, ah okay, da sind einen Haufen Verbindungen und die feuern und
+die nicht feuern und die sind alle miteinander verknüpft. Und die sind manchmal stärker und
+man weiß aber nicht wieso und warum und so. Das wurde beobachtet. Also hat Frank Rosenblatt
+damals das Paper geschrieben zu dem Perzeptron und ich glaube, da waren das direkt solche Sachen.
+Da waren das einfach nur Multiplikationen mit Zahlen. Und das Ergebnisding hier war dann so ein
+Brett. Da kamen andere Zahlen raus. Und die Idee ist, am Ende, typischerweise nach so, was weiß ich,
+vier Layers oder so, nach vier solchen Multiplikationen kommt man am Ende hierbei
+raus, wo dann wirklich der letzte Layer, der 1, der 2, der 3 und der 9 entspricht und hier
+drin stehen die Wahrscheinlichkeiten, die man angibt. Und was dann gemacht wird, ist im Wesentlichen,
+es wird die größte Zahl genommen. Da, wo die größte Zahl drin steht, das ist das, was der
+Output liefert. So und der Witz ist jetzt, weil das alles Matrix-Multiplikationen waren damals,
+konnte man sozusagen das rück, man konnte das zurückverfolgen. Man konnte sehen, okay,
+ich habe hier eine 4 reingesteckt, sagen wir mal, hier kommt eine 3 raus. Ich will aber,
+dass hier eine 4 rauskommt. Also muss ich mir überlegen, was hat jetzt die 3 verursacht? Und
+dann geht man genau den Schritt zurück, man guckt sich die 3 an. Die 3, woraus ist sie
+zusammengesetzt? Naja, die ist zusammengesetzt aus allen Verknüpfungen des Layers, die davor ist.
+Das heißt, man kann jede einzelne Verknüpfung zurückverfolgen, genauso wie bei dem CT-Problem
+jeden einzelnen Strahl zurückverfolgbar ist, wenn man das will. Man kann sich den jeden
+einzelnen angucken. Denn die Gewichtungen, die sind bekannt. Die hat man irgendwo stehen. Die
+sind sozusagen, diese Multiplikationen, diese Matrizen, die stehen irgendwo, die hat man da.
+Man kann die nachgucken. Das heißt, man kann jeden einzelnen Schritt zurückverfolgen. Und ihr könnt
+euch jetzt ein bisschen vorstellen, naja, wenn man das jetzt macht, man geht bis zum vorletzten Layer,
+dann kann man natürlich von jedem einzelnen Punkt im vorletzten Layer in den Layer davor auch wieder
+zurückgehen. Das ist einfach nur extrem kompliziert, weil es so viel ist, aber die Mathematik dahinter
+ist sehr einfach. Das ist nur lineare Algebra und Matrix-Multiplikation. Genau das, was ich
+vorhin auch schon gesagt habe, also wirklich W mal A. Das ist eine Matrix-Multiplikation mit einem
+Vektor. Die kann man zurückverfolgen auf dieselbe, auf eine ähnliche Art und Weise, wie ich das bei
+dem CT-Problem euch auch erklärt habe. Dass wenn man die Vorwärtsrichtung kennt, dass man dann
+sich über die Rückwärtsrichtung Gedanken machen kann. So, das Problem war, dass bei dem Perzeptron
+hier diese Verbindung angenommen wurde, dass es direkt so eine Multiplikation ist. Straight. Das
+hat aber nicht gereicht. Das hat deswegen nicht gereicht, weil das zu numerischen Instabilitäten
+geführt hat. Man kann sich sozusagen vorstellen, Zahlen, die besonders groß sind, da läuft Float
+oder Double oder was auch immer ihr für eine Genauigkeit habt, sofort über. Andere Zahlen werden
+sozusagen unterdrückt und verschwinden in der Kommastelle, weil Float-Zahlen werden ja mit
+Mantisse und Exponenten abgespeichert. Das heißt, wenn da zu viele Stellen waren, wenn ihr sozusagen
+auf 10 hoch 32, 3,21687, wenn ihr da noch 3,5 mal 10 hoch 2 drauf addiert in Float, dann ändert
+das gar nichts. Dann kommt wieder genau 3,21687 mal 10 hoch 32 raus. Das ändert gar nichts mehr.
+Und dieses Problem, das hat das Perzeptron abkacken lassen. Das war die erste Idee. Also was hat man
+gemacht? Man hat sich überlegt, na gut, ich brauche etwas, was diese riesen Zahlen monoton
+abbildet, so dass keine Information verloren geht, aber so, dass ich immer noch in meiner
+Bandbreite von meiner Genauigkeit bleiben kann. Und was man dann gemacht hat, ist, man hat folgende
+Funktionen sich überlegt, einen sogenannten Sigmoid. Das ist immer eine Funktion, die sowas macht.
+Die geht sozusagen von Minus 1, also die konvergiert für links gegen Minus 1 und für rechts gegen 1,
+trifft sich in der Mitte und sieht so aus. Jetzt mal ganz blöd geschrieben. So ein einfaches
+Beispiel wäre der Thangans-Hyperbolicus. Der macht sowas. Der kommt aus Minus 1 unendlich und
+geht für unendlich gegen 1. Ja, es gibt tausend andere Möglichkeiten, sich das zu überlegen. Was
+der halt macht, ist, der hat einen stetigen Verlauf zwischen diesen beiden Grenzwerten und
+der ist monoton. Das ist ganz wichtig. Das heißt, die Umkehrung davon ist eindeutig. Der ist
+injektiv. Auch wenn das jetzt vielleicht nicht so wirkt auf euch, aber der ist monoton. Der wird
+immer größer. Bloß, dass man sozusagen für immer höhere Zahlen fast keine Unterschiede mehr sehen
+kann. Die sind fast nicht mehr messbar. Damit hat man das Problem geklärt. Das Ding ist,
+dass man am Ende sozusagen Folgendes hat. Man hat nicht mehr diese Matrix-Multiplikation für
+jeden Layer, sondern man hat den Sigmoid oder sagen wir mal den Thangans-Hyperbolicus von W, K,
+A, K. Sowas. Und das ist jetzt ein Vektor und das ist eine Matrix. Und dann hat man auch noch hier
+einen konstanten Vektor B drauf addiert. Den nennt man so Bias. Der kontrolliert so ein bisschen die
+Sreshulz. Das heißt, das könnt ihr euch so vorstellen wie ein Neuron, das permanent Signale
+kriegt. Einfach weil das sozusagen von der Architektur so gegeben ist, dass es permanent
+Signale kriegt. Das soll aber nicht unbedingt feuern. Das soll erst später bei einem bestimmten
+Sreshulz, sobald irgendein Level überschritten wird, feuern. Und das kann man mit diesem B hier
+kontrollieren, weil man sozusagen ja damit den Sigmoid nach links und nach rechts verschieben kann.
+So könnt ihr euch das vorstellen, diese Transformation. Das macht das ja. Also wenn man
+irgendeine Funktion, ich muss mal ein neues Blatt anfangen. Hier muss ich save machen und dann so.
+Und dann mache ich open. Also ihr müsst euch vorstellen, jede Funktion, so f von x, wenn ihr f von x minus a
+macht und a ist eine positive Zahl, dann ist das einfach nur nach rechts verschoben. Diese Funktion,
+die hier. Die hat einfach nur, dieses Ding hier, diese Abbildung, x wird auf x minus a abgebildet.
+Die verschiebt nach rechts, wenn a positiv ist und nach links, wenn a negativ ist. Und so ist das mit
+dem mit dem Sigmoid von w a plus b auch. Bloß, dass das hier ein Vektor ist, das spielt aber keine
+Rolle. Das gilt ja dann für jede Komponente. Das heißt, ihr könnt für jede Komponente einzeln
+einstellen, dass ihr eine gewisse Bias haben wollt. So nennt man das dann auch in der Literatur. Das ist
+sozusagen einfach nur ein Aktivierungslevel für das Neuron. Ab wann feuert das? Und das ist
+erstaunlich, weil mehr braucht man nicht. Man hat jetzt sozusagen diese convolutional networks. Man
+hat jetzt wirklich viele solche Layer, die hintereinander geklebt sind. Ich denke mal,
+vier werden schon reichen wahrscheinlich. Wenn ihr jetzt mal, was weiß ich, ein 64x64 Bild hast.
+Und dann kommt am Ende wirklich nur noch so ein Zack, Zack, Zack, 1, 2, 3, 4, 5 bis 9. Und dann
+kommt eine Zahl raus und das ist der Output deines Layers. Ihr tut also ein Bild rein und hinten
+spuckt euch der Output einfach nur 1, 2, 3, 4, 5, 6 bis 9 raus. Das ist sozusagen der Image
+Classifier, einer der ersten einfachen trivialen Anwendungen, die es gab. Und die ist bis heute
+sozusagen völlig klar, wie die läuft. Aber an der kann man sich das erklären. Weil, was jetzt
+passiert ist, ihr könnt euch überlegen, hier in diesem letzten Step, da stehen jetzt Wahrscheinlichkeiten
+drin. Also das Netzwerk gibt eine Approximation an, mit welcher Wahrscheinlichkeit diese Ziffer
+ist. Also hier steht jetzt sowas wie 0,1, 0,5, 0,07, 0,28 und so weiter. Und die sind typischerweise
+über so einen Softmax so reguliert, dass die wirklich in Summe 1 ergeben. Der Witz ist sozusagen,
+ja, ihr habt sozusagen das Ding hier und ihr kriegt einen Output. Und ihr wisst aber, weil ihr
+gelabelte Daten habt, das heißt ihr wisst, ihr steckt eine 4 rein. Das wisst ihr schon, das heißt ihr
+erwartet hier hinten auch eine 4. Wenn hier keine 4 rauskommt, sondern eine 3, dann könnt ihr ja,
+weil ihr den Schritt zurückverfolgen könnt, euch überlegen, was hat zu dieser 3 geführt. Das könnt
+ihr euch überlegen. Und ihr könnt vor allem diese ganze Funktion hinschreiben, die Folgendes macht,
+wenn man sagt, also okay, ich will hier aber, wenn am Ende eine 4 rauskommt, okay, ich will
+dass hier eine 0 steht, hier eine 0 steht, hier eine 0 steht, hier soll eine 1 stehen, hier eine 0 und so
+weiter. Das weiß ich ja schon, dass das hier stehen soll, weil ich hier bei der 1, 2, 3, 4 so angefangen
+habe. Diese Zahlen sollen das hier sein, die sollen eigentlich 0 sein und das soll 1 sein. Diese
+Information, diese Differenz, die, das ist eine Zahl, die kann ich quantisieren. Das heißt, ich kann
+sozusagen die Summe bilden, über all diese, über all diese Dinger hier. Also sagen wir mal,
+ich nenne es jetzt mal, wie nenne ich das? G für Ground Truth minus, minus ja, Approximation. Das
+mache ich jetzt. Also ich habe jetzt sozusagen das hier und das hier und das hier. So würde ich das
+ungefähr hinschreiben. Das wäre jetzt mal so eine ganz einfache Kostenfunktion, da mache ich
+noch ein Quadrat dran zur Vorsicht selber, einfach nur, weil ja manchmal hat man bestimmte
+Ergebnissachen, wo hier vielleicht, ist auch egal. Wenn ich das Ding hier minimiere, das erinnert
+ein stark an diese Minimierung von AX minus P. Ich glaube, ich habe gerade voll gefehlt, oder? Ja,
+der hat es schon erkannt. Ich habe es auch gerade erkannt. Nicht schlecht. Ja, das ist ja klar. So,
+was habe ich hier erzählt? Naja, ich habe eigentlich nur erzählt, wie es ist. Ich habe erklärt,
+was habe ich denn erklärt? Könnt ihr mir mal sagen, wo ich stehen geblieben bin?
+Wenn nicht, ist es auch nicht so schlimm, dann gehe ich auf jeden Fall erstmal auf Klo. Das
+muss sowieso sein, ich brauche ein neues Bier auch. Ihr sagt mir mal, wo ich stehen geblieben bin und
+dann fühle ich das noch mal kurz vor. Ich habe zum Glück die Dinger abgespeichert.
+Das ist echt interessant, da muss ich mich an diesen Prozess hier gewöhnen. Ja,
+noch auf dem alten Blatt, okay, ist kein Ding. Ich hole mir erstmal ein Bier,
+aber jetzt mache ich erstmal Mucke an. So.
+Also ihr Boys, jetzt mal ohne Scheiß. Ich habe es doch jetzt sehr voll verrissen.
+Den Kram, den hatten wir noch. Den Arbeitsfetisch, da wart ihr schon weg. Ist das so?
+Na, okay. Gut, dann mache ich das einfach hier oben hin. Also, noch mal. Die Idee ist,
+sozusagen, ich gebe euch ein Input, nämlich ein handgeschriebenes Bild mit einer Vier
+drin und ihr wollt jetzt sozusagen das automatisieren. Ihr wollt nicht eine
+Menschen hinsetzen, der das klärt, sondern es muss klar sein, es muss sozusagen irgendwie
+automatisiert werden und die Idee ist jetzt wirklich, ihr habt dann dieses 64 Quadrat Bild,
+das hat jetzt Grauwerte drin. Jeder Pixel sozusagen und irgendwo hier wird es dann grün. Dann steht
+hier sozusagen die Vier und dann, wo haben wir hier das Weiß? Hier. So, so, so, so. Ihr habt
+dann sozusagen die Vier hier drin als Pixelinformation und die Frage ist jetzt irgendwie,
+wie kann man das abbilden? Und die Idee ist jetzt einfach, naja, was ist denn, wenn wir
+das so in dieses Layer packen? Wir packen das sozusagen hier rein und wir haben jetzt hier
+wirklich 64 Quadrat Fiele. Also das geht an mit 1, 2, 3, 4 und endet bei 64 Quadrat.
+64 Quadrat Fiele. Das ist sozusagen der Vektor, der wird einfach so,
+zeilenweise wird das Bild ausgelesen und hier reingepackt. Und die Idee ist jetzt,
+kann man das abbilden in solche Multiplikationen? Und die Antwort ist tatsächlich, ja, das kann man
+und es ist die einfachste Form gewesen. Das nennt man CNN, Convolution Neural Network. Die machen
+genau das. Da steckt man ein Bild rein und hinten raus kommt, am Ende, sagen wir mal,
+man hat hier so vier solche Layers, die sind alle mit Multiplikationen verknüpft und zwar
+zu jedem Punkt gibt es zu jedem anderen Punkt im nächsten Layer eine Multiplikation. Das ist
+ganz wichtig. Ihr kriegt sozusagen aus einem 64 Quadrat krassen Vektor einen anderen 64 Quadrat
+krassen Vektor und dazwischen die Abbildung, die nennt man halt W, die Weighting Matrix und
+dann nennt man sozusagen das hier Null, wenn das hier sozusagen der Nullte Vektor ist. Und der hat
+jetzt sozusagen i Einträge, deswegen könnte man auch so einen Vektorfall drauf machen. Und
+der hier hat sozusagen die 1 klar und dann geht das immer so weiter. Und am Ende, das ist das
+Krasse, am Ende kommt sozusagen ein letzter Layer, da steht wirklich die Bedeutung drin. Hier
+stehen die Wahrscheinlichkeiten drin von 1, 2, 3 bis Nullen. Die Nullen müssen wir noch mitnehmen,
+wir müssen die Nullen mitnehmen, dann haben wir 10. Also 10 verschiedene Ziffern können wir ja
+haben. Okay, können wir die Nullen auch nach vorne schreiben, spielt aber keine Rolle. Also das Ding
+ist, hier stehen jetzt Zahlen drin, also 0,1, 0,05 und so weiter. Und irgendwo bei der 4 müsste jetzt
+sozusagen irgendwie 0,8 stehen, eine hohe Wahrscheinlichkeit. Und die höchste von denen
+wird einfach genommen und ausgespuckt als Output. Das ist die Idee. Und diese Idee, die muss man jetzt
+nehmen und ernsthaft verfolgen. Also man muss sich überlegen, kann ich das irgendwie in einen
+mathematischen Formalismus stecken? Und die Antwort lautet ja, kann ich. Denn die Idee lautet jetzt,
+okay, ich habe jetzt hier diesen letzten Vektor. Ich schreibe mal nochmal groß. Hier steht jetzt
+sozusagen, wir machen es nochmal so, 0,01, 0,3, 0,02, 0,4, was auch immer. Hier stehen jetzt Zahlen
+drin, 0,001. Manchmal stehen hier auch größere Zahlen drin, das ist egal. Man kann sozusagen,
+wenn hier jetzt irgendwelche Zahlen stehen, positive, negative, völlig egal, reelle Zahlen,
+man kann die immer mit der Abbildung, x wird auf, naja, zum Beispiel Tangent Superbolicus x
+abgebildet. Die Funktion macht nämlich genau das, dass der sozusagen minus eins eins so was
+abbildet, so eine Kurve hier hinkriegt, damit man sozusagen am Ende, nee, ich glaube, warte mal,
+das ist ziemlich blöd, das ist, nee, das ist eine blöde Schreibweise. Ich glaube, was geiler ist,
+ich habe es mir, glaube ich, auch hingeschrieben, ist eins durch e hoch minus x plus eins, genau,
+die macht das. Für ganz große x wird das Ding nähert sich hier der eins an. Das wird immer
+einziger und je kleiner die Dinger werden, naja, desto größer wird sozusagen diese Zahl hier
+unterm Hochstrich und deswegen wird die Zahl immer kleiner. Und wenn man dann irgendwie,
+ich glaube, die gibt sozusagen von 0 bis 1, gibt die die Referenzen an. Da muss man sich mal
+überlegen, wie genau die aussieht. Aber so ungefähr wird die aussehen, die macht genau so was,
+die bildet sozusagen auf 0 und 1 ab, auf dieses Intervall. Und das kann man super gut als
+Wahrscheinlichkeiten interpretieren, weil man dann sozusagen, wenn man, wenn man jetzt einfach,
+dieses Ding hier hat e hoch minus x plus eins, also wenn man diese Wahrscheinlichkeiten hier nimmt,
+wenn man das hier jetzt mal als p identifizierte, p von x, dann kann man sozusagen hier die Summe
+von p von x durch, ne, wie war das, dann kann man hier sowas machen, man kann, das muss auf
+eins normiert sein, ja, also die Nummer, die Summe von allen x muss dann sozusagen auch noch auf
+eins normiert sein, ich denke, das macht das hier gerade. Ja, aber diese Abbildung, die tut das und
+das Schöne ist sozusagen, man kriegt dann tatsächlich am Ende Abbildungen, Wahrscheinlichkeiten raus,
+ja, also das heißt, egal, was der letzte Layer macht, wenn der jetzt nur noch 10 Einträge hat,
+der Betrag sozusagen spielt eine Rolle und das Vorzeichen spielt eine Rolle. Und je positiver
+und je größer, desto besser. Und das kann man auf Wahrscheinlichkeiten abbilden, das heißt,
+man kriegt am Ende so ein Ding hier. Egal, wie man das vorher designt hat, das Netzwerk, das kriegt
+man immer hin, weil es sich um reelle Zahlen handelt. Und dann nimmt man einfach den Größten,
+man nimmt den Größten und sagt, das ist der Output, ein einziger Output, zum Beispiel die 6 und dann
+sagt man, Moment, ich habe ja Labeled Data, ich weiß, ich kriege hier eine 4, ich erwarte eine 4,
+ich kriege aber eine 6 und jetzt kann ich genau jeden einzelnen Punkt zurückverfolgen in meinem
+Netzwerk. Ich kann sagen, okay, wenn hier jetzt eine 6 ist, wo ist denn die 6 hier? Was hatten die
+6 verursacht? Und dann kann man sich die 6 angucken und jeden einzelnen Punkt hier zurückverfolgen von
+der 6. Und das sind jetzt, was weiß ich, wie viele? Wahrscheinlich 10. Nee, wahrscheinlich 64 Quadrat viele.
+So und jeden einzelnen kann man machen. Man kann sozusagen das alles nachvollziehen und dann kann
+man genau diesen selben Schritt machen, den der bei der ZT Sache auch ist. Man kann sozusagen
+diesen Schritt zurückverfolgen. Und wenn man das machen kann, dann kann man das ja auch als Funktion
+hinschreiben. Man könnte also sozusagen Folgendes machen. Man kann sich überlegen, okay, ich möchte
+ja eigentlich, dass hier nicht glatt irgendwelche Wahrscheinlichkeiten stehen, sondern das hier steht
+0000000. Und dann kann ich diese Differenzen hier von diesen Zahlen, die kann ich ja sozusagen,
+das sind ja echte quantifizierbare Größen. Ich kann also eine Kostenfunktion bauen, eine Kostenfunktion
+K, die von diesen ganzen Differenzen abhängt und insbesondere von den ganzen Gewichten, also von den
+ganzen Matrizen I, die hier drin stehen. Weil jeder einzelne Verbindung, habe ich ja schon gesagt,
+jeder Knoten hier drin, jeder Vektor A, der wird auf den nächsten abgebildet, wird über eine Matrix
+WK sozusagen multipliziert. Diese Vorwärtsabbildung sozusagen ist immer noch linear. Erstmal,
+beim Perzeptron war das so. Das heißt, ich kann sie zurückverfolgen. Das ist klar eindeutig
+zurückverfolgbar. Und deswegen kann ich die komplette Kostenfunktion hinschreiben als Funktion
+von diesen Gewichten. Und später hat man dann noch Bias eingeführt und noch die Sigmoid-Funktion,
+die sozusagen das alles noch ein bisschen glättet, weil man auf numerische Probleme
+beim Perzeptron gekommen ist. Das ist aber jetzt nicht das Relevante. Das Relevante ist, man kann,
+wenn man diesen Fehler sieht, also ich weiß, ich erwarte eine 4, ich kriege aber keine 4,
+dann kann ich genauso wie vorhin, wenn ich bei den CD-Problemen das vorwärts projiziere und was
+anderes rauskriege als mein Messwert, diese Differenz, die kann ich nehmen und zurück in
+das System bringen. Und diese Differenz, wenn ich die zurückpropagiere, diese Backpropagation
+nennt man das, das ist das, was die Leute lernen nennen. Und das macht man tatsächlich. Und der
+Witz ist, diese Kostenfunktion, die will man natürlich immer noch minimieren. Das heißt,
+man will am Ende was rauskriegen, dass das Ding eine 4 ausspuckt, damit dann meine Kostenfunktion
+minimal wird. Weil dann sozusagen das genaue Mal im Erwartungswert am nächsten kommt. Ich kriege
+dann hier halt sagen wir mal 0,999 raus und die anderen sind super klein, dann ist die Differenz
+hier klein, alle anderen Differenzen sind klein und dann ist die Kostenfunktion minimal. Das heißt,
+ich habe ein globales Optimum gefunden, von dem ich schon weiß, dass es existiert, weil
+ich sozusagen diese Trainingsdaten da reinstecke. Könnt ihr das irgendwie nachvollziehen und habe
+ich euch nicht total jetzt kaputt gemacht mit diesem bescheuerten Fail, weil das ist sozusagen
+die Idee. Also es geht ja vor allem darum, dass ihr nicht sozusagen klar, ihr könnt nicht einfach
+einen Livestream gucken und danach habt ihr Deep Learning verstanden, sondern es geht darum,
+dass ihr diese Sprache versteht, in der diese Leute reden. Weil wenn ihr euch ein Video dazu
+anguckt, wo jemand das mal erklärt, dann geht das alles krachend. Dann geht das komplett weg. Ihr
+versteht ja gar nichts und ich habe auch mal, also das eins der wichtigsten Paper der letzten
+Jahre heißt irgendwie Attention is all you need, das ist von diesen Google-Fratzen und da versteht
+man halt 0. Insbesondere, wenn man nicht vorher sich diese ganzen Vorlesungen zu dem Deep Learning
+reingeknallt hat. Und die Idee ist aber wirklich jetzt original genau die gleiche. Ich mache jetzt
+diesen gefährlichen Fehler und drücke jetzt wieder auf diese Taste und mache wieder das
+Full-Bild an. Ich sehe jetzt aber den Chat und ich erinnere mich jetzt dran, dass ich diese Taste
+gedrückt habe. Und es ist halt wirklich dieser Rückprojektionsschritt. Diese Idee,
+die ist jetzt wirklich genau das gleiche wie beim CT. Also nicht genau das gleiche, aber die Idee
+ist dieselbe. Ihr habt einen Vorwärtsschritt, der ist beliebig kompliziert. Der ist wirklich
+beliebig kompliziert, aber er ist nur so weit kompliziert, dass ihr ihn trotzdem noch nachvollziehen
+könnt. Ihr könnt jede einzelne Multiplikation in jeder Ecke nachrechnen. Das heißt, ihr könnt
+auch den Rückschritt nachrechnen. Und weil die Gewichte gegeben sind, die Einträge der Hidden
+Layers sind sozusagen andere Zahlen, die spielen aber keine Rolle, die hängen von eurem Input ab.
+Und das ist auch nicht das Relevante. Denn ihr müsst euch jetzt überlegen, ihr macht das ja nicht für
+eine Zahl, sondern ihr macht diesen ganzen Schritt für eine Milliarde an Bilddateien. Und typischer
+Weise nimmt man dann die Hälfte. Man nimmt die Hälfte von der Milliarde, trainiert damit das
+Netzwerk und nimmt dann die andere Hälfte von der Milliarde und evaluiert seinen Datensatz. So ist das
+Vorgehen. Und hinterher kommt tatsächlich raus, also das ist zumindest, wenn man das richtig pimpt und
+richtig sich Mühe gibt, dass der Rekord ist irgendwie 99,8 Prozent oder so. Genauigkeit. Schrift, also
+einfache Zahlen, Ziffern zu erkennen. Und das ist insofern interessant, weil man erstmal denken
+könnte, okay, das Netzwerk hat das jetzt verstanden. Das hat es jetzt verstanden. Aber da darf man sich
+wirklich diesen Trugschluss nicht hergeben. Was das gelernt hat, ist Korrelation. Und das ist auch
+witzig, weil man am Anfang dachte, okay, das Ding, sie haben es schon so genannt, convolution in
+neural network, weil was es macht, es macht wahrscheinlich, es macht Faltungsoperation. Es
+guckt sozusagen nach Linien. Klar, durch Faltung kann man ja nach Linien in den Bildern suchen. Und
+dann guckt es, wie die zusammenpacken. Also es bildet sozusagen verschiedene Patches aus und
+guckt, welche Patches wo passen. Und dann erkennt es anhand dieser Features sozusagen, es macht
+dann sozusagen diese Feature Extraction, dass man dann erkennt, okay, das muss diese Zahl sein. Und
+bei Zahlen ist es sehr einfach, weil Ziffern, das gibt ja nur zehn verschiedene Ziffern. Aber
+das ist sozusagen die einfachste Anwendung. Und wenn ihr euch, es gibt halt wirklich richtig
+viele gute englische Videos, die das auch super erklären. Oder wie gesagt, ihr zieht euch die
+Vorlesungen von Professor Andreas Meyer rein, die ist herrlich, weil ihr das da auch wirklich
+alles hinschreibt. Also der fängt da auch ganz blöd und einfach an. Fängt da an mit diesen CNNs.
+Das ist wirklich oldschool. Das ist schon, das ist schon, das ist schon 100 Jahre alt geführt. Das
+ist der alte Shit. Das ist so wie klassische Mechanik. Das muss sozusagen klar sein, wenn
+man die neuen Sachen verstehen will. Und das, was beim GPT-3 abgeht, das ist sozusagen das,
+was ich Word embeddings nenne. Und das fand ich immer super geil. Ihr könnt euch vorstellen,
+und jetzt mache ich hier meine Tafel wieder an. Habe ich hier noch irgendwo Platz? Ich mache ein
+neues Fenster auf. So, ihr könnt euch vorstellen, bei dem, ich gucke jetzt nochmal nach,
+habe ich wirklich geändert? Ja, habe ich. Okay. Bei dem, bei Word embeddings, da ist das so. Ihr
+habt jetzt nicht so einen Datensatz von einer Milliarde geschriebenen Handzeichen, die gelabelt
+sind. Nein, ihr kriegt juristische Texte, ihr kriegt Wikipedia, ihr kriegt vollständige Textdokumente,
+wo einfach nur Sätze drinstehen. Richtig viele Sätze. Und der Erkenner, dass es sich um
+unterschiedliche Worte handelt, ist natürlich das Leerzeichen. Immer wenn ein Leerzeichen kommt,
+Punkte werden wahrscheinlich ignoriert. Oder, nein, vielleicht sind Punkte auch wichtig,
+das weiß ich jetzt nicht. Punkt ist vielleicht ein eigenes Zeichen, ein eigenes Wort. Das kann
+schon sein. Punkte, also alles, was irgendwie mit Punkten geht, sind eigene Zeichen. Leerzeichen
+sind die Trennungszeichen. Und Worte sind dann sozusagen die Zeichenketten, die dazwischen stehen.
+Und jetzt ist es so. Ihr trainiert so ein Netzwerk auf Folgendes. Ich gebe dir fünf Worte. Ich
+bin letztens auf Gold. Und jetzt fragt ihr das neue Netzwerk, was kommt hier als nächstes Wort?
+Das ist sozusagen die Fragestellung. Ihr gebt ihm fünf Worte und das Netzwerk soll sozusagen
+eine Autokorrektur machen oder einen Vorschlag für das Wort, was am nächsten wahrscheinlich ist.
+Das ist original das, was auf dem Smartphone passiert. Bloß extrem primitiv. Und GPT-3 hat
+einfach nur eine viel mehr sophisticated Variante davon. GPT-3 ist so heftig, dass wenn man GPT-3
+einen halben Aufsatz gibt, es einfach den Aufsatz zu Ende schreibt. Solange wie man will. Das hört
+einfach nicht auf. Und es ist halt so krass, dass man wirklich denkt, es ist ein Mensch, der das
+schreibt. Und jetzt ist es so, diese Worte im Bennings, was machen die? Naja, die wurden trainiert
+auf diesen Wortdatenbanken und man ist jetzt wirklich so, man steckt hier jetzt Worte rein. Es
+ist nicht mehr so, dass man Ziffern, also Bilder von Ziffern reinsteckt, sondern nein, man steckt
+Sätze rein, komplette Zeichenketten. Und die werden auch so interpretiert durch sozusagen
+Leerzeichen, trennt die unterschiedlichen Worte und unterschiedliche Worte sind halt einfach
+alphanumerisch. Das kann man sozusagen zum Beispiel, naja, das könnte man sich so vorstellen,
+dass man jedem Buchstaben irgendwie eine Gödelisierung vorschlägt. Also man kann sozusagen Worte
+eindeutig in Zahlen umrechnen oder in Vektorelemente, sodass am Ende aus einem Satz,
+also aus irgendeinem Zeicheninput, ein einziger Vektor wird. Das kann man sich immer überlegen,
+dass das geht. Man könnte sich zum Beispiel ein Wörterbuch überlegen, in dem jedes Wort ein
+einzelner Eintrag ist. Und wenn ich ein Wörterbuch von 30.000 Einträgen habe, dann ist mein
+Eintragsvektor für das Wort Ich halt wirklich ganz viele Nullen, dann kommt eine einzige Eins an
+der Stelle, wo das Ich steht und alle anderen Wörter sind Nullen. Das könnte man sich vorstellen.
+Einfach machen, also einfach erstmal anfangen, das numerisch als Vektor darzustellen. Es ist
+erstmal völlig egal, wie bescheuert das ist. Das klingt erstmal relativ bescheuert, aber das ist
+eine coole Sache, weil was dann am Ende rauskommt ist, wenn man dieses Netzwerk trainiert, genauso
+wie das bei den Ziffererkennungen ist. Man macht jetzt diese Netzwerkstruktur und man bildet die
+aufeinander ab. Hier sind jetzt immer diese ganzen N-Kreuz-N-Beziehungen dazwischen. Dann könnte man
+zum Beispiel, das ist tatsächlich das, was passiert, typischerweise kriegt man diesen riesengroßen
+Vektor, der hat jetzt sowas wie die Dimension, naja was hatten wir ja heutzutage wahrscheinlich
+sowas 30 mal 10 hoch, weiß ich jetzt nicht, 10 hoch 3, 10 hoch 3. Sagen wir mal 30.000 Einträge,
+sagen wir mal ein Wörterbuch von 30.000 Einträgen. Das wird relativ schnell runtergekocht auf kleinere
+Ebenen nach genau demselben Schema. Also jeder Punkt hat eine Verbindung zu jedem anderen Punkt
+hier drin. Hier drinne gibt es jetzt aber vielleicht nur noch 10 hoch 3 und hier drinne gibt es dann
+vielleicht nur noch 500. Ja und in echt glaube ich, also das ist das, was ich letztens gelesen habe,
+ist das nicht 500 sondern eher 300. Das sind eher 300 Einträge in diesem Layer hier und das Ding
+hier, da stellt man später fest, das kodiert tatsächlich die Worte und wenn man jetzt wieder
+rausgeht, das ist das, was dann meistens passiert, man geht wieder raus, macht es wieder größer und
+hinten kommt ein Output raus, der wieder genauso groß ist wie das hier und der prediktet einem das
+nächste Wort. Das ist die Idee. Also nochmal, ihr gebt dem Netzwerk folgenden Auftrag. Ich
+habe hier einen Satz und ich kenne das Original, gestoßen. Das habe ich aus einem Buch abgeschrieben.
+Ich kenne das Original. Es ist schon, weil ich es digitalisiert habe, da. Damit kann ich hier reingehen
+und das Netzwerk trainieren. Jetzt gibt mir das Netzteil irgendwas aus, wie zum Beispiel Disco.
+Völlig falsch. Ich suche ja das Wort gestoßen. Das heißt, ich kann auch hier eine Quantifizierung
+finden, die mir sozusagen die Differenz anbietet, weil ich genau weiß, wie bin ich denn auf Disco
+gekommen. Dann kann ich hier zurückgehen, jeden einzelnen Schritt zurückverfolgen und wieder
+sozusagen die Minimierung anwerfen. Das nennt man im Übrigen, also später dann bei diesem
+Backpropagating-Operator oder mit dieser Operation. Was man da eigentlich macht, das ist stochastic
+gradient descent. Das ist das, was man macht. Ihr müsst euch das so vorstellen, wie bei meinem
+CT-Problem gucke ich mir nicht alle Winkel gleichzeitig an, sondern ich nehme erst mal
+zum Beispiel nur einen zufällig und gucke erst mal, was das Rückschmieren da bringt und dann gucke
+ich noch mal aus einem anderen und schmiere noch mal separat zurück und nicht ich gucke mir alle
+Daten gleichzeitig an. Das führt oft dazu, dass man einfach nur ein riesen Overhead hat, weil ja
+bestimmte Sachen oft ziemlich hart reinknallen. Also wenn man zum Beispiel beim CT-Problem hier
+jetzt eine fette Kugel hätte, die erzeugt hier eigentlich eine Riesendifferenz zu meinen
+Beobachtungen, dann kann ich die sehr gut zurückschmieren und die liefert mir schon
+viel Veränderung. Dann brauche ich die anderen Winkel erst mal nicht betrachten, zum Beispiel
+die Winkel, die diese Kugel nicht mit drin haben. So ungefähr ist das auch. Der Stochastic gradient
+descent, der ist halt zufällig und das ist relativ gut, weil man durch Kompress-Sensing und die ganze
+Theorie, die dahinter ist, hat man ja verstanden, dass sozusagen der geilste Shit eine völlige Rinde
+im Matrix ist und da versucht man sich sozusagen dann zu orientieren. Es gibt sozusagen auch
+richtig geile YouTube-Videos, auf Englisch zumindest, die das so ein bisschen visuell
+erklären, warum Stochastic gradient descent nice ist. Das kann ich hier und das will ich
+ja auch gar nicht liefern. Ich will euch sozusagen nur an diese Sprache gewöhnen,
+die da sozusagen gebraucht wird, insbesondere für alle, die irgendwann mal Mathe gehört haben,
+aber sozusagen das schon total verpeilt haben. Klar, ist ja normal. Man macht heutzutage was
+ganz anderes. Man hat irgendwelche Betriebe zu führen und irgendwelche Herrscharen von
+Bediensteten in irgendwelchen Bürokratien durch zu hitlern. Da hat keiner mehr Zeit über sowas
+nachzudenken, aber so ist die Idee. Das steckt Disco aus, ich will aber eigentlich gestoßen
+als Wort, dann kann ich das sozusagen, diese Differenz, die da entsteht, die kann ich zurück
+hitlern in mein System rein und wenn ich das automatisieren will, dann mache ich typischerweise
+sowas, weil ich die Kostenfunktion mit Stochastic gradient descent füttere sozusagen. Das ist das,
+um die Kostenfunktion zu minimieren und das kann ich deswegen machen, weil jede dieser einzelnen
+Verbindungen meine Parameter sind. Das ist die Anzahl der Neuronen. Das heißt, wenn ihr lest,
+GPT-3 hat 1,7 mal 10 hoch 9 Neuronen. Das ist schon eine ganze Menge. Das ist das größte Language
+Model, was wir im Moment haben und deswegen ist es so mächtig. Übrigens, man könnte ja jetzt sagen,
+naja, Bilderkennung ist doch ganz einfach. Ich mache einfach 10 hoch 3.000 Neuronen,
+dann habe ich jedes mögliche Bild, was jemals überhaupt entstehen kann, gelernt und zwar
+auswendig gelernt. Das nennt man Overfitting. Das ist sozusagen das, was man nicht will. Man
+will eigentlich sozusagen, das ist das, was die Leute mit Lernen identifizieren,
+was ich aber nicht Lernen nennen würde. Sie wollen, dass das Netzwerk generalisiert. Sie
+wollen, dass man mit weitaus weniger Zahlen auskommt, als mein Pool an Möglichkeiten bietet.
+Dass ich 1.000 Bilder rein geben kann und danach 100.000 Bilder klassifizieren kann. Das ist die Idee.
+Das ist sozusagen das, warum die Leute diese Illusion kriegen, dass diese Netzwerke was
+verstanden haben. Was sie aber, sie haben nicht verstanden, sie haben nur diese Korrelationen
+verstanden. Und das Krasse ist an diesem Data Mining, was also, das könnte man auch immer so
+nennen. Im Prinzip könnte man immer sagen, das ist auch Data Mining. Das ist deswegen so krass,
+weil das auch völlig unentdeckte und für einen Menschen ungreifbare Korrelation entdeckt zwischen
+Dingen. Also ganz einfaches blödes Beispiel. Eines der ersten Bilderkennungsexperimente, die es gab,
+war so, dass man Screenshots von irgendwelchen Bildern reingegeben hat und dann sollte hinterher das
+auswendig gelernt werden. Und es hatte eine 100% Erfolgsquote und alle waren total überrascht. Wie
+kann das 100% erzählen? Und die haben folgenden Fehler gemacht. Die hatten in ihrem Screenshot
+oben links vom Windows noch den Dateilnamen stehen. Und der Dateilname war getaggt, also DOC 938 oder
+WOMEN 573. Und dann hat das Netzwerk einfach nur gelernt, was steht da oben. Steht da WOMEN, DOC oder
+sonst was und fertig. So ein blöder Schwachsinn. Das entdeckt natürlich ein Deep Learning Netzwerk
+sofort. Und dieses Data Mining ist super krass, weil ihr könnt euch überlegen, wenn ihr euer
+Netzwerk füttert mit Daten, also mit Daten, die in irgendeiner Form gebiased sind, dann reproduziert
+ihr auch nur diese Bias. Es ist nicht so, dass das Netzwerk irgendwie kreativ werden kann. Das ist
+ein absoluter Trugschluss. Das passiert nicht. Ich leg mal meinen Stift weg, sonst werde ich hier
+bescheuert. Ich stecke den am besten jetzt hier auch rein, wo das rein muss. Es hängt extrem davon
+ab, was man für eine Architektur wählt. Also zum Beispiel bei diesem Sprachkorpus, da ist das
+entscheidend, dass man das ein bisschen runterskaliert. Und dieses Word Embeddings, also das ist das,
+was das macht. Ich predikte die nächsten fünf Worte. Da könnt ihr euch jetzt vorstellen. Und
+das ist wirklich ziemlich krass. Ihr schneidet den Rest weg. Ihr geht runter, runter, runter bis
+auf diesen 300-dimensionalen Vektorraum und den Rest schneidet ihr weg. Und dann habt ihr einen
+sogenannten Decoder. Den habt ihr euch gebaut. Ihr steckt da ein Wort rein. Sagen wir mal eins
+aus diesem Wörterbuch mit den 30.000 Einträgen. Und da kommt jetzt, ihr steckt zum Beispiel das
+Wort Katze rein oder Haus. Und hinten raus kommt in diesem Hidden Layer, den könnt ihr auslesen.
+Das sind ja 300 Zahlen. Das ist ein 300-Zahlen-Tupel, irgendein Vektor. Und damit kann man rumspielen.
+Und da gibt es auch super geile Videos dazu, das kann ich euch nur empfehlen. Und dann könnt
+ihr tatsächlich Vektor-Arithmetik damit machen. Ihr könnt sozusagen die Differenz zwischen zwei
+Worten ausrechnen. Die ist wieder ein Vektor. Also ihr kriegt, was weiß ich, ne, das male ich
+nochmal an. Ich nehme meinen Stift hier und ich drücke wieder die Taste. Ihr stellt euch vor,
+ihr habt jetzt diesen 300-dimensionalen Raum und ich simplifiziere ihn jetzt mal auf zwei Dimensionen.
+Ihr habt jetzt hier irgendwo das Wort König. Und hier habt ihr irgendwo das Wort Königin.
+So und der Differenz-Vektor von diesen beiden, der hier, ich nenne ihn mal A.
+Der ist interessant, denn wenn ihr jetzt zum Beispiel das Wort Frau habt und ihr habt irgendwo das Wort
+Mann in diesem 300-dimensionalen Vektorraum, dann ist sozusagen die Verbindung, die Differenz dieser
+beiden, die ist gleich A. Diese beiden Vektoren sind identisch. Oder sagen wir mal innerhalb, also
+innerhalb, also sagen wir mal, nennen wir das mal A-Strich, dann ist sozusagen A-Strich minus A
+kleiner als Epsilon. Das ist beliebig klein, oder relativ klein. Der nächste Punkt, wenn man
+sozusagen damit Vektor-Arithmetik macht und man geht jetzt hierher und sagt, okay, ich gehe jetzt
+mal zu König. Jetzt ziehe ich Frau ab. Ich ziehe diesen Vektor ab. Dann lande ich irgendwo hier.
+Sagen wir mal, ich ziehe Frau ab. Was passiert denn da? Dann lande ich hier. Ich ziehe Frau ab.
+Dann lande ich hier. Und dann tue ich Mann drauf. Oder? Wie war das? Ach nee, genau. Ich ziehe Mann
+ab. Ich ziehe von König Mann ab. Und dann tue ich Frau drauf. Ich glaube, so war es. Dieser Vektor
+ist ja Mann. Den ziehe ich ab. Dann lande ich irgendwo hier unten im Nirwana. Und dann addiere
+ich da wieder Frau drauf. Und dann komme ich hier hin. Und dann sozusagen der Vektor, der da am
+nächsten dran ist, das ist der Vektor, der der Königin entspricht, weil ich sozusagen den Vektor
+wegen meinem Decoder auch wieder entcoden kann zu einem Wort. Das ist sozusagen das, was ich hier
+oben gemacht habe. Ich schneide das ab. Das nenne ich Decoder. Und das Ding hier, das nenne ich
+Encoder. Obwohl, nee, das ist mir egal. Ich gehe einfach diesen Schritt hier wieder zurück. Ich
+gehe den Schritt wieder zurück und nenne das Encoder, okay? Das heißt, ich kann ein Wort
+reintun, ein anderes Wort auch, kriege hier zwei Zahlentupel. Mit denen kann ich Arithmetik machen.
+Das, was ich da rauskriege, das tue ich in meinen Encoder und dann kriege ich Königin raus.
+Das ist so krass. Da hat man erstmal diese Intuition, dass man denkt, dieses Netzwerk hat
+jetzt echt Bedeutung gelernt. Also es hat jetzt wirklich verstanden, was das ist, was Bedeutung ist.
+Und das ist jetzt nicht irgendein philosophischer Scheiß, sondern das ist tatsächlich gemessen.
+Das ist echt brutale Algebra, lineare Algebra. Das sind einfach nur noch Zahlentupel, mit denen
+kann man das machen. Und ich finde das super heftig. Als ich das gesehen habe damals, das hat mich
+wirklich überzeugt. Ich hatte vorher so meine Bedenken, weil ich aus der Medizintechnik auch
+viele Anwendungen kenne, wo es um CT-Rekonstruktion und andere Sachen geht, wo ich sagen würde,
+das ist gefährlich, da Deep Learning drauf zu schmeißen. Aber das mit dem Wirdeinbeddings,
+da habe ich immer gesagt, okay, das ist super. Wittgenstein würde da richtig darauf abgehen,
+das ist hammermäßig. Weil einfach, es sieht so aus, als hätte das Deep Learning die tiefere
+Struktur unserer Sprache entschlüsselt. Das hat es aber nur durch die Korrelationen. Es hat nur
+Korrelationen zwischen Worten gefunden. Und natürlich, wenn man länger darüber nachdenkt,
+Bedeutung ist ja genau das. Bedeutung ist die Verbindung einzelner Worte in einen Kontext. Das
+ist das, was wir als Bedeutung identifizieren. Und das hat das Netzwerk gelernt. Und das ist das,
+was sich durch diese Arithmetik auch ausdrückt. Und GPT-3, müsst ihr euch vorstellen, ist so krass.
+Das kann man sozusagen mit einem Text-Input vor, da kann man sozusagen einen Prompt rein geben,
+und dann kann man sich mit ihm unterhalten. Also zum Beispiel, man gibt ihm einen Brief,
+einen Anfang von einem Brief, und es schreibt den Brief einfach weiter. Es hört einfach nicht auf,
+es schreibt immer weiter. Es erfindet die Geschichte weiter. Weil es sozusagen aus all seinen Quellen,
+die es gelernt hat, den wahrscheinlichsten Output erzeugt. Und das darf man auf keinen Fall verwechseln,
+mit dass das Netzwerk was verstanden hat. Und ihr müsst euch wirklich mal diese krassen Beispiele
+reinziehen. Da gibt es unendlich viele, also inzwischen gibt es unendlich viele. Weil das GPT-3,
+das ist jetzt ungefähr ein Jahr her, wo das so richtig Wellen geschlagen hat. Also im Sommer
+letzten Jahres, da ging das richtig durch die Decke, da gab es auch eine Menge YouTube-Videos dazu. Und
+die waren alle englisch. Ich verstehe überhaupt nicht, wieso das nicht mal, also keine Ahnung,
+vielleicht lebe ich auch einfach nicht in diesen deutschen Nerdbubbles. Wahrscheinlich gibt es bei
+Heise auch Artikel dazu. Die habe ich dann vielleicht nicht gelesen oder so. Aber trotzdem,
+das ist super interessant, was das GPT-3 macht. Aber da verfällt man sofort in diese Illusion,
+da ist jetzt KI, die hat das verstanden. Aber das hat es nicht. Interessant wäre sozusagen,
+wenn man, also GPT-3 kann ja nur Text. Es kann sozusagen, wenn man ihm Text gibt,
+Text extrapolieren. Es kann eine Vorhersage über den nächsten Text machen. Das ist das,
+was es tut, wenn man jetzt über zum Beispiel Vektorgrafiken, es schafft, dass man ihm
+Videomaterial gibt und das Video lernt. Weil was es ja auch kann, es kann Bilder, klar,
+wegen Vektorgrafiken. Und was es auch kann, ist Musik wegen Midi-Files. Also es kann zum
+Beispiel auch Musik komponieren. Wenn man es damit trainiert, dann kann es das auch. Das ist
+dasselbe Ding. Es entdeckt sozusagen Strukturen und Korrelationen in diesen Daten setzen und kann
+dann komponieren. Und das hört sich dann erstaunlich gut an. Wie gesagt, es geht das auch mit Quelltext
+und es gibt das auch mit allen möglichen anderen Dingen und es gibt es auch mit Übersetzung
+Software. Das gibt es eigentlich mit allen Dingen. Es gibt auch diese Apps von wegen,
+ich gebe dir nur Bullet Points und du schreibst die E-Mail für mich. Oder ich gebe dir einen
+juristischen Text und du schreibst ihn mir auch in einfacher Sprache hin, sodass ich auch verstehe,
+was das bedeutet. Wobei diese Summary-Funktion, die ist noch nicht ganz ausgereift. Da haben
+viele noch einige Artefakte und Probleme entdeckt, weil das tatsächlich was mit Verstehen zu tun
+hat. Da kommt GPT-3 an seine Grenzen. Das ist so wie mit diesen arithmetischen Operationen. Ich
+hatte mir überlegt, ob ich jetzt noch mal, nachdem ich das alles hingeschrieben habe und ich weiß
+natürlich auch nicht, ob das überhaupt irgendwas gebracht hat. Also klar, der Vector Analyzer ist ein
+totaler Scheiß-Fan. Der findet das gut. Aber ich weiß jetzt sozusagen nicht, ob das irgendetwas
+irgendwerem sonst was bringt. Dann würde ich vielleicht noch mal den Stream neu starten und
+noch mal einen neuen Stream starten und ein bisschen quatschen über sozusagen die Konsequenzen davon.
+Weil ich wollte einfach nur klar machen, was man da macht, wenn man jetzt dem Netzwerk etwas
+beibringt, also indem man ihm was lernt. Man tut vorne was rein, dann geht es da durch. Dann sieht
+man, was das Ergebnis ist. Man kennt diesen Prozess. Die Differenz davon, im Prinzip, nimmt man,
+schmiert die zurück ins System und dieser Prozess, das ist das, was man Lernen nennt.
+Und wenn die Architektur, also wenn die Layers, die Verknüpfungen, die sind relativ willkürlich,
+man hat da riesige Freiheiten. Das könnt ihr euch ja vorstellen. Man kann hochgehen mit der
+Dimensionatik, man kann runtergehen. Die Verknüpfungen kann man selber festlegen. Da gehört eine Menge
+Intuition dazu. Und das ist genau das, was die Forschung aktuell ausmacht und wo jetzt die
+krassen Sachen herkommen, wie man die Architekturen anlegt. Und was man da aber immer macht ist, im
+Moment zumindest, man lernt Korrelation. Das ist wirklich genau so. Es erzeugt für die einfachen
+Dows, die jetzt mit so einem Chatbot reden, das erzeugt die Illusion, als würde da ein Mensch
+sitzen. Weil alle normalen blöden Fragen schon mal gestellt wurden und daher kann der Chatbot
+alle Fragen. Das hat aber nichts damit zu tun, dass der irgendwas verstanden hat. Sobald man
+ihnen eine Verständnisfrage stellt, kackt der ab. Also das ist schon beobachtet worden. GPT-3 wurde
+schon an verschiedenen Anwendungsmodellen getestet, was es alles kann und was es alles nicht kann.
+Und wirklich, die besten Anwendungen sind die für kreative Leute, die irgendwie Geschichten erfinden,
+die irgendwie Kunst machen wollen. Für die ist das am besten. Aber ich gebe euch mal noch drei
+Namen von drei Intellektuellen, die ich auf jeden Fall gut finde. Und zwar, das ist einmal,
+wie heißt er, erstmal, klar, Joscha, oh das ist ja eklig, meine Schrift ist so widerlich,
+Joscha Bach, der ist krass der Boy. Dann Jürgen Schmidt Huber, der ist auch richtig nice der Boy.
+Das sind übrigens zwei Deutsche, das heißt mit ein bisschen Glück findet ihr auch deutsche
+Interviews von denen. Und den anderen, den ich richtig nice finde ist Ben Goerzel. Das ist ein
+Ami. Der ist nice. Alle diese Boys, vor allem der Schmidt Huber, ich weiß, übrigens ich bin mir
+gerade gar nicht sicher, ob er Jürgen heißt oder, aber Schmidt Huber, wenn ihr J. Schmidt Huber sucht,
+dann findet ihr den. Von dem habe ich zum Beispiel auch dieses Paper hier. Ich gehe mal hier in
+diesen Screen und dann gucke ich mal hier hin und dann klicke ich mal hier. Guckt mal hier,
+ich habe hier einen Bookmark zu dem Paper von dem Typen, das ist übelst krass. Das ist von 2003,
+Jürgen Schmidt Huber heißt er ja. Das ist ein nicer Boy, er hat das Paper über die
+Gürtelmaschinen hingeschrieben. Der Boy hat damals schon, also noch viel früher in seiner
+Diplomarbeit, da hat er schon erkannt, was das Problem ist, nämlich die Selbstbezüglichkeit.
+Und er will sozusagen eine Maschine bauen, die lernt, Probleme selbstständig zu lösen,
+also die sozusagen lernt, wie man Maschinen-Learning und Deep Learning konstruiert,
+um Probleme zu lösen, sozusagen Meta-Learning macht. Das hat er sich damals schon überlegt.
+Und dieses Paper ist jetzt von 2003, das ist schon ein neues Paper von ihm sozusagen. Der Typ ist
+richtig nice und wenn jemand schon mal so offensiv hingeht und Gürtelmaschinen in sein
+Paper reinschreibt, dann wisst er Bescheid, der Boy ist richtig krass. Und die Interviews von dem
+sind herrlich, der Mann ist einfach mal ein krasser Boy und ich habe es mir auch durchgelesen hier,
+aber ich bin relativ schnell abgekackt, das muss ich zugeben. Also ich bin relativ schnell abgekackt,
+weil ich wirklich nicht in diesem krassen, geilen Informatiker-Ductus drin bin. Ich glaube,
+da kommt man erst rein, wenn man sich theoretische Informatik 1, 2 reingeknallt hat und dann vielleicht
+noch mal so ein paar Bonus-Bücher durchliest oder so. Vorher rafft man das nicht, das ist wirklich
+viel zu heftig, aber das ist ein nicer Boy und der Schmidt Hoover, von dem gibt es geile Interviews.
+Zum Beispiel das Lex Friedman Interview, das kann ich euch nur empfehlen. Generell der Kanal
+von Lex Friedman, der YouTube-Kanal, der ist krass, der hat viele krasse Leute interviewt,
+also der interviewt eine ganze Menge Leute, aber der interviewt auch viele IT und Geeks und Nerds
+und so, weil der selber Professor am MIT ist und übelst viele Leute kennt auch. Aber diese drei
+Boys hier, die kann ich euch wirklich nur ans Herz legen, wenn ihr euch in diesen Sachen mal ein
+bisschen euch was reinziehen wollt, weil die haben es einfach mal drauf. Und viele andere,
+die ich mir so reingeknallt habe, da habe ich immer den Eindruck, das sind so PR-Muschis,
+also die stehen auf das Business, die verstehen nicht, wie viel Geld da verschwendet wird. Zum
+Beispiel bei GPT-3, da wurde übelst viel Geld verschwendet, um das zu trainieren. Da kam keine
+neue Erkenntnis raus. Es war sozusagen klar, dass wenn man, wenn man Wirt-Embeddings-Netzwerk,
+was auf Transformator-Logik basiert, also das ist sozusagen der neueste Shit von den Attention-
+Netzwerks, wenn man das macht, dann war sozusagen klar, dass das hammermäßig wird. Das war damals
+schon klar und niemand würde das machen, weil es einfach nur Geld kostet und Arbeit. Und ja,
+Elon Musk's Open AI Company hat es dann halt gemacht. Das heißt, das ist wirklich eher so
+ein PR-Trick. Klar, damit kann man viel rumspielen und das ist auch nice, aber naja. Da steckt nicht
+viel neue Erkenntnis dahinter. Die neue Erkenntnis wäre sozusagen, wenn man ein Netzwerk schaffen
+würde, was generalisieren könnte, was also wirklich objektorientiert programmieren könnte. Und da
+kommen wir jetzt wieder zu so einem Ding zurück. Diesen Spruch habe ich wirklich verinnerlicht.
+Ihr habt es erst verstanden, wenn ihr es programmieren könnt. Und so ein bisschen, so habe ich auch das
+Gefühl für diese künstliche Intelligenz, wenn man eine künstliche Intelligenz hinkriegen würde,
+die ein Problem hernimmt, es analysiert und dann programmieren kann, dann könnte man vielleicht
+davon reden, dass sie es verstanden hat. Weil die KI dann selber dazu in der Lage ist, zu abstrahieren
+und es auf eine Domäne abzubilden, die was mit Computation zu tun hat, also mit Berechnung. In
+dem Moment, wo man das Problem berechnen kann, quantifizieren kann. In dem Moment hat man das
+Problem verstanden. Und Mathematik ist ja auch zumindest insofern ein bisschen allgemeiner und
+abstrakter als das Joshua Bach zum Beispiel, der sagt ja, Mathematik ist, was sagt er,
+es ist die Domäne aller Sprachen. Ich glaube, so sagt das. Und da steckt viel Weisheit drin.
+Ich hatte damals, als ich 18 oder so, da hat mir mal ein Kumpel gesagt, Mathematik ist die Lehre
+der Abbildung. Und das war schon eine ziemlich fresche Beschreibung für das, was Mathematik ist.
+Aber ich finde, das, was Joshua Bach gesagt hat, ist noch ein bisschen geiler. Es ist sozusagen
+das Wesen aller Sprachen. Also jede Sprache ist in sich schon so ein bisschen Mathematik. Zumindest,
+weil es sozusagen Kausalität ausdrücken will. Es will nicht nur Korrelation ausdrücken, Sprache
+will Kausalität machen. Es will erklären, wenn, dann und deswegen ist das so und so. Es will
+sozusagen diese fundamentalen Zusammenhänge erklären. Das, was sozusagen der wesentliche
+Unterschied zwischen Lernen und Verstehen ist. Und ich denke, ich mache es jetzt folgendes. Ich
+habe nämlich jetzt noch einen guten Tag. Ich mache jetzt den Stream aus und dann mache ich den Stream
+wieder an. Einfach nur, damit ich zwei Streams habe. Damit ich das später besser trennen kann.
+Also sehen wir uns gleich.

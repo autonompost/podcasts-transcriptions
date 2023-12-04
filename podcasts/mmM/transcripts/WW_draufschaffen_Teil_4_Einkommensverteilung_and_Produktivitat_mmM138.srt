@@ -1,0 +1,1040 @@
+1
+00:00:00,000 --> 00:00:04,920
+Ein Physiker oder jemand, der Ahnung von einem echten wissenschaftlichen Vorgehen hat, der
+
+2
+00:00:04,920 --> 00:00:09,880
+würde einfach sagen, Moment mal, diese beiden Größen, das sind überhaupt keine statistisch
+
+3
+00:00:09,880 --> 00:00:13,920
+unabhängigen Zufallsgrößen, das heißt, wenn ich da eine lineare Regression mache,
+
+4
+00:00:13,920 --> 00:00:15,800
+dann ist das eine Farce.
+
+5
+00:00:15,800 --> 00:00:16,960
+Es ist eine Farce, okay?
+
+6
+00:00:16,960 --> 00:00:23,400
+Ich erwarte schon, weil sie miteinander definiert sind, über die Buchhalteridentität, das ist
+
+7
+00:00:23,400 --> 00:00:28,040
+eine Korrelation, dass da eine Korrelation ist in den Messdaten und das ist genau das,
+
+8
+00:00:28,040 --> 00:00:29,040
+was sie tun.
+
+9
+00:00:29,040 --> 00:00:46,520
+So Leute, ich beginne das Video direkt mit einem Bild.
+
+10
+00:00:46,520 --> 00:00:58,160
+Was ihr hier seht, ist die Kurve von irgendwie über 60.000 Unternehmen in den USA von 1950
+
+11
+00:00:58,160 --> 00:01:06,400
+bis 2015 geplottet und zwar, wie viel die Arbeiter von dem Profit, den sie erwirtschaften,
+
+12
+00:01:06,400 --> 00:01:07,400
+abbekommen.
+
+13
+00:01:07,400 --> 00:01:12,640
+Und da seht ihr, das geht so ungefähr bei 10% los und endet so ungefähr bei 50%.
+
+14
+00:01:12,640 --> 00:01:18,200
+Das ist im Prinzip nichts anderes als die Mehrwerttheorie von Marx.
+
+15
+00:01:18,200 --> 00:01:24,200
+Die Arbeiter erwirtschaften Profit und kriegen davon nur einen Bruchteil ab.
+
+16
+00:01:24,240 --> 00:01:29,480
+So und dieser Bruchteil ist ungefähr, also der Mittelwert von dieser Kurve, die ihr da
+
+17
+00:01:29,480 --> 00:01:30,480
+seht, ist ungefähr 25%.
+
+18
+00:01:30,480 --> 00:01:35,520
+So und ihr alle wisst, was das Problem dann ist.
+
+19
+00:01:35,520 --> 00:01:43,240
+Wenn sich das rumspricht, dann sind die Leute unzufrieden und vor diesem Problem stand die
+
+20
+00:01:43,240 --> 00:01:44,240
+Wirtschaft.
+
+21
+00:01:44,240 --> 00:01:50,960
+Die hatten ein Problem, weil sich rumgesprochen hat, hier Moment mal, Marx und so, das Proletariat,
+
+22
+00:01:50,960 --> 00:01:55,520
+wir müssen mal eine Geschichte erfinden, damit die Leute die Fresse halten und nicht
+
+23
+00:01:55,520 --> 00:01:57,400
+irgendwie mehr vom Kuchen abhaben wollen.
+
+24
+00:01:57,400 --> 00:02:05,920
+Und es gibt diesen sogenannten John Bates Clark, einer der Godfathers of neoklassische Theorie
+
+25
+00:02:05,920 --> 00:02:12,080
+und er hat halt einfach diese Ideologie, die da lautet im Kapitalismus, jeder bekommt,
+
+26
+00:02:12,080 --> 00:02:16,920
+was er verdient, streng dich mehr an, sei produktiver, dann kriegst du auch mehr Geld.
+
+27
+00:02:17,120 --> 00:02:24,320
+Und das wollte er einfach nur irgendwie rauspelzen, um Marx, um sozusagen eine Antithese zu Marx
+
+28
+00:02:24,320 --> 00:02:25,320
+zu sein.
+
+29
+00:02:25,320 --> 00:02:30,040
+Und daraus spurte später dann auch die ganze Geschichte mit dem humanen Kapital, aber
+
+30
+00:02:30,040 --> 00:02:32,160
+das mache ich in einem anderen Video.
+
+31
+00:02:32,160 --> 00:02:35,200
+Jetzt geht es erstmal darum, zu zeigen, was von Taschenspielertrick man da schon wieder
+
+32
+00:02:35,200 --> 00:02:41,480
+braucht, um das zu zeigen und wie lächerlich die neoklassische Theorie und im Prinzip die
+
+33
+00:02:41,480 --> 00:02:46,360
+ganzen Wirtschaftswissenschaften, die an der Uni gelehrt werden, wie lächerlich die sind.
+
+34
+00:02:47,000 --> 00:02:48,600
+Weil sie nichts mit Wissenschaft zu tun haben.
+
+35
+00:02:48,600 --> 00:02:49,600
+So.
+
+36
+00:02:49,600 --> 00:02:54,200
+Und allererstes Problem, also erstmal, ich muss sagen, ich habe schon wieder ein supergeiles
+
+37
+00:02:54,200 --> 00:02:57,800
+Paper gefunden, ich werde es unten verlinken, weil der hat da auch diese Bilder drin und
+
+38
+00:02:57,800 --> 00:02:58,800
+so und das ist einfach herrlich.
+
+39
+00:02:58,800 --> 00:03:05,840
+Das erste Problem, was man jetzt hat, wenn man das mal machen will, also wir wollen jetzt
+
+40
+00:03:05,840 --> 00:03:11,560
+sozusagen aufzeigen, dass Leute, die produktiver sind, auch mehr verdienen und Einkommen sozusagen
+
+41
+00:03:11,560 --> 00:03:15,400
+gerecht verteilt sind, weil Leute, die einfach mehr verdienen, es auch verdient haben.
+
+42
+00:03:15,560 --> 00:03:19,160
+Weil sie einfach produktiver sind und krasser und sind einfach die krasseren Leute.
+
+43
+00:03:19,160 --> 00:03:20,160
+So.
+
+44
+00:03:20,160 --> 00:03:25,880
+Das erste Problem ist, was ihr sofort seht, was jeder sofort einsieht, man kann Arbeiter,
+
+45
+00:03:25,880 --> 00:03:29,640
+die in unterschiedlichen Tätigkeitsfeldern arbeiten, überhaupt nicht miteinander vergleichen.
+
+46
+00:03:29,640 --> 00:03:35,800
+Produktivität ist eine Illusion, das ist was, was hier oben drin ist, sowas wie ein Schönheitskoeffizient,
+
+47
+00:03:35,800 --> 00:03:39,520
+weil das liegt halt im Auge des Betrachters oder irgend solche Sachen.
+
+48
+00:03:39,520 --> 00:03:43,520
+Das ist eher ein soziales Konstrukt und die Wirtschaftswissenschaften, die sogenannten,
+
+49
+00:03:43,640 --> 00:03:47,720
+das halt in einer Art Theorie zu pressen und wollen euch jetzt weismachen, dass das so
+
+50
+00:03:47,720 --> 00:03:48,720
+ist.
+
+51
+00:03:48,720 --> 00:03:56,000
+Und da wir jetzt sozusagen einen Birnenpflücker nicht vergleichen können mit einem Radiomoderator
+
+52
+00:03:56,000 --> 00:04:00,800
+oder nicht vergleichen können mit einem Künstler oder nicht vergleichen können mit einem Straßenbahnfahrer,
+
+53
+00:04:00,800 --> 00:04:03,960
+wie wollen wir sozusagen, wie wollen wir die Produktivität von diesen Tätigkeiten
+
+54
+00:04:03,960 --> 00:04:07,360
+miteinander vergleichen, haben wir schon mal das erste Problem.
+
+55
+00:04:07,360 --> 00:04:11,240
+Was man überhaupt nur vergleichen könnte, wären identische Tätigkeiten, am besten
+
+56
+00:04:11,240 --> 00:04:13,480
+auch noch in einer identischen Fabrik oder so.
+
+57
+00:04:13,480 --> 00:04:14,480
+Da kann man das machen.
+
+58
+00:04:14,480 --> 00:04:19,160
+Da kann man überhaupt nur anfangen, darüber nachzudenken, irgendwie sowas zu messen, wie
+
+59
+00:04:19,160 --> 00:04:25,200
+ja, du flückst halt 130 Zitronen pro Stunde und der andere 150, der scheint produktiver
+
+60
+00:04:25,200 --> 00:04:28,200
+zu sein, so nach dem Motto.
+
+61
+00:04:28,200 --> 00:04:33,880
+Die Wirtschaftswissenschaften, die kümmern sich natürlich nicht um solche kleinen Details.
+
+62
+00:04:33,880 --> 00:04:39,080
+Es gibt halt einfach unendlich viele Paper in den Wirtschaftswissenschaften, die halt
+
+63
+00:04:39,080 --> 00:04:46,560
+einfach mal belegen, dass der Unterschied zwischen Einkommen und Produktivität, also
+
+64
+00:04:46,560 --> 00:04:50,520
+dass es da einfach, dass die miteinander korrelieren und dass das alles gerecht ist
+
+65
+00:04:50,520 --> 00:04:52,760
+und die neoklassische Theorie super funktioniert.
+
+66
+00:04:52,760 --> 00:04:54,080
+Und wie machen die das?
+
+67
+00:04:54,080 --> 00:04:59,520
+Na ja, wir fangen mal wieder an mit einer, mit der gewöhnlichen Buchhalteridentität
+
+68
+00:04:59,520 --> 00:05:02,600
+und zwar das Geld aus Verkäufen von einer Firma jetzt.
+
+69
+00:05:02,600 --> 00:05:04,280
+Wir machen es mal ganz einfach.
+
+70
+00:05:04,320 --> 00:05:07,160
+Die sogenannte Umsatz, das Geld, das reinkommt.
+
+71
+00:05:07,160 --> 00:05:11,400
+Das ist jetzt eine Bilanzgleichung.
+
+72
+00:05:11,400 --> 00:05:16,960
+Das ist gleich die Kohle, die man ausgibt für Lohn, also für die Arbeiter, die Profite,
+
+73
+00:05:16,960 --> 00:05:21,800
+die ich erwirtschafte und andere Kosten, sowas wie Materialkosten, Rechnungen an andere
+
+74
+00:05:21,800 --> 00:05:22,800
+Firmen und so.
+
+75
+00:05:22,800 --> 00:05:26,040
+Das ist im Prinzip wieder das Gleiche.
+
+76
+00:05:26,040 --> 00:05:29,560
+Gewinne ist Erlös minus Kosten, Umsatz minus Kosten, so nach dem Motto.
+
+77
+00:05:29,560 --> 00:05:33,240
+Und in den Kosten stecken die Arbeitskosten halt auch mit drin als Summe.
+
+78
+00:05:33,440 --> 00:05:41,000
+Und aus dieser einfachen Identität folgt, wenn ich mehr verkauft habe als Firma, dann
+
+79
+00:05:41,000 --> 00:05:42,800
+steigen auch die Einkommen.
+
+80
+00:05:42,800 --> 00:05:48,440
+Weil ihr habt sozusagen auf der rechten Seite, habt ihr Lohnkosten und Profite.
+
+81
+00:05:48,440 --> 00:05:56,280
+Und wenn sozusagen die linke Seite, also Einkommen, also besser gesagt, wenn Umsatz, wenn ich
+
+82
+00:05:56,280 --> 00:05:59,840
+mehr verkauft habe und der Umsatz steigt, dann kann man auf der rechten Seite der Bilanz
+
+83
+00:05:59,840 --> 00:06:01,600
+sozusagen die anderen Größen auch erhöhen.
+
+84
+00:06:02,480 --> 00:06:04,880
+Das heißt, das ist wegen der Buchhalteridentität klar.
+
+85
+00:06:04,880 --> 00:06:10,320
+Und daraus folgt jetzt im Prinzip nichts, außer, dass die Lohnkosten korrelieren mit
+
+86
+00:06:10,320 --> 00:06:12,560
+den Umsätzen aus dieser Bilanzgleichung.
+
+87
+00:06:12,560 --> 00:06:16,800
+So, und jetzt ist nur noch die Frage, wie definiert man Produktivität und ihr werdet
+
+88
+00:06:16,800 --> 00:06:17,800
+es nicht glauben.
+
+89
+00:06:17,800 --> 00:06:23,840
+In den Wirtschaftswissenschaften ist der Standard vorgehend zu sagen, okay, ich definiere den
+
+90
+00:06:23,840 --> 00:06:27,640
+Umsatz als Produktivität einer Firma.
+
+91
+00:06:28,600 --> 00:06:32,720
+Die Gesamtproduktivität einer Firma ist der Umsatz der Firma.
+
+92
+00:06:32,720 --> 00:06:37,520
+Sprich, die Wirtschaftswissenschaften, die definieren Produktivität einfach eines Unternehmens
+
+93
+00:06:37,520 --> 00:06:38,520
+mit seinem Einkommen.
+
+94
+00:06:38,520 --> 00:06:43,600
+Und Erinnerung, Produktivität ist typischerweise das, was hinten rauskommt.
+
+95
+00:06:43,600 --> 00:06:45,960
+So ist es das, was wir im Volksmund damit sehen.
+
+96
+00:06:45,960 --> 00:06:51,640
+Aber jetzt haben wir das, was vorne reinkommt, als Output definiert in den Wirtschaftswissenschaften.
+
+97
+00:06:51,640 --> 00:06:58,240
+Der Output eines Unternehmens haben wir jetzt mit seinem Umsatzgleich gesetzt, sprich das,
+
+98
+00:06:58,240 --> 00:06:59,240
+was reinkommt.
+
+99
+00:06:59,240 --> 00:07:04,040
+Völlig schizophren, aber das wird tatsächlich so gemacht und die Idee ist klar.
+
+100
+00:07:04,040 --> 00:07:08,760
+Dinge, die man nicht vergleichen kann, werden vergleichbar gemacht, indem man alles auf
+
+101
+00:07:08,760 --> 00:07:13,600
+dieselbe Metrik abbildet und das ist im Kapitalismus klar auf was, nämlich auf Kohle.
+
+102
+00:07:13,600 --> 00:07:18,960
+Das heißt, wie der Markt das bewertet, so und dadurch, dass die das so machen, kann
+
+103
+00:07:18,960 --> 00:07:25,960
+man immer zeigen, dass aus Produktivität Einkommen folgt oder dass Produktivität Einkommen
+
+104
+00:07:25,960 --> 00:07:26,960
+erklären kann.
+
+105
+00:07:26,960 --> 00:07:28,960
+Habt ihr das verstanden?
+
+106
+00:07:28,960 --> 00:07:36,440
+Produktivität ist die Ursache für das Einkommen der Arbeiter, weil wir den Umsatz der Firma
+
+107
+00:07:36,440 --> 00:07:39,120
+mit der Produktivität der Firma gleichgesetzt haben.
+
+108
+00:07:39,120 --> 00:07:45,880
+Wir haben es einfach definiert und wir haben ja vorher gesagt, Umsatz ist Arbeitskosten
+
+109
+00:07:45,880 --> 00:07:46,880
+plus Profite.
+
+110
+00:07:47,040 --> 00:07:52,080
+Also ich habe sozusagen Profit, also Gewinn ist Erlös minus Kosten umgestellt.
+
+111
+00:07:52,080 --> 00:07:56,520
+Ich habe einfach auf beiden Seiten die Kosten drauf addiert, sodass dann auf einmal dasteht,
+
+112
+00:07:56,520 --> 00:07:59,560
+Umsatz ist gleich Profit plus Arbeitskosten.
+
+113
+00:07:59,560 --> 00:08:02,360
+So und das ist wie gesagt eine Buchhalteridentität.
+
+114
+00:08:02,360 --> 00:08:06,880
+Das ist eine klassische einfache Zustandsgleichung, aus der man keinen kausalen Zusammenhang
+
+115
+00:08:06,880 --> 00:08:07,880
+feststellen kann.
+
+116
+00:08:07,880 --> 00:08:14,960
+Wie in dem anderen Video, was ich davor jetzt gemacht habe, auch so und jetzt ist es doch
+
+117
+00:08:14,960 --> 00:08:15,960
+so.
+
+118
+00:08:15,960 --> 00:08:20,960
+Wenn wir also jetzt Verkäufe pro Arbeiter auftragen, stellen wir fest, dass das korreliert
+
+119
+00:08:20,960 --> 00:08:21,960
+mit den Löhnen.
+
+120
+00:08:21,960 --> 00:08:24,280
+Das ist ja der totale Zufall.
+
+121
+00:08:24,280 --> 00:08:29,320
+Es ist ja klar, dass das so korreliert, weil das halt eine Buchhalteridentität ist und
+
+122
+00:08:29,320 --> 00:08:34,400
+wenn wir jetzt sozusagen zwei Glühbirnenfabriken haben, stellt euch mal vor, wir haben zwei
+
+123
+00:08:34,400 --> 00:08:40,800
+Glühbirnenfabrikanten und der eine verkauft seine Glühbirnen einfach doppelt so teuer
+
+124
+00:08:40,800 --> 00:08:45,760
+wie der andere, dann bedeutet das doch nicht, dass der Arbeiter am Ende doppelt so produktiver
+
+125
+00:08:45,760 --> 00:08:47,400
+als der aus der anderen Fabrik.
+
+126
+00:08:47,400 --> 00:08:51,440
+Das bedeutet einfach nur, dass hier was vermischt wird, was eigentlich nicht zusammengehört
+
+127
+00:08:51,440 --> 00:08:56,120
+und zwar über, es ist gekoppelt über den sogenannten Preis der Glühbirne.
+
+128
+00:08:56,120 --> 00:08:59,240
+Das ist ein Trugschluss, die Arbeiter sind gleich produktiv.
+
+129
+00:08:59,240 --> 00:09:05,000
+Aber laut unserer Buchhalteridentität identifizieren wir Produktivität halt mit dem Umsatz der
+
+130
+00:09:05,000 --> 00:09:06,000
+Firma.
+
+131
+00:09:06,000 --> 00:09:11,760
+So und es ist natürlich so, dass irgendwie theoretisch möglich die Löhne nichts mit
+
+132
+00:09:12,240 --> 00:09:16,800
+zu tun haben könnten, weil das ja eigentlich eine Sache ist, die der Arbeitgeber heutzutage
+
+133
+00:09:16,800 --> 00:09:17,800
+definiert.
+
+134
+00:09:17,800 --> 00:09:18,800
+Das entscheiden die Firmen.
+
+135
+00:09:18,800 --> 00:09:23,640
+Aber in der Praxis ist es natürlich so, dass das immer zwischen 10 bis 50 Prozent liegt
+
+136
+00:09:23,640 --> 00:09:26,440
+laut der blauen Grafik, die ich euch am Anfang gezeigt habe.
+
+137
+00:09:26,440 --> 00:09:32,800
+Und die Buchhalteridentität, die gilt so oder so, weil es nun mal ein Zirkelschluss
+
+138
+00:09:32,800 --> 00:09:33,800
+ist.
+
+139
+00:09:33,800 --> 00:09:39,760
+Wir haben eine Annahme mit der Annahme selbst bestätigt, also hochgradig unwissenschaftlich.
+
+140
+00:09:40,160 --> 00:09:46,600
+So wie in der Humbug-Kostproduktion, in der CopDouglas-Produktionsfunktion auch.
+
+141
+00:09:46,600 --> 00:09:48,320
+Bloß, dass es hier ein bisschen einfacher ist.
+
+142
+00:09:48,320 --> 00:09:52,800
+Ich hätte vielleicht zuerst das mit der Produktivitätstheorie als erste Folge machen
+
+143
+00:09:52,800 --> 00:09:56,760
+sollen und dann die CopDouglas-Produktionsfunktion erst später machen sollen, aber egal.
+
+144
+00:09:56,760 --> 00:10:01,280
+Manchmal kommt es halt so, wie der Boy hier die Textfiles im Ordner liegen hat.
+
+145
+00:10:02,240 --> 00:10:10,240
+Das heißt nochmal, es wird ein Einkommen mit einem direkt daraus folgenden Einkommen definiert.
+
+146
+00:10:10,240 --> 00:10:12,320
+Also wir haben zwei verschiedene Formen von Einkommen.
+
+147
+00:10:12,320 --> 00:10:15,640
+Einmal Umsatz und einmal die Löhne, die wir den Arbeitern zahlen.
+
+148
+00:10:15,640 --> 00:10:17,920
+Die nennen wir Einkommen für die Arbeiter.
+
+149
+00:10:17,920 --> 00:10:21,280
+Und diese beiden vergleichen wir einfach miteinander über diese Bilanzgleichung.
+
+150
+00:10:21,280 --> 00:10:27,680
+Und das tun wir natürlich, um zu zeigen, dass Löhne aus dem wirtschaftlichen Naturgesetz
+
+151
+00:10:27,680 --> 00:10:29,040
+sozusagen folgen.
+
+152
+00:10:29,600 --> 00:10:31,800
+Leute, die mehr verdienen, sind einfach geiler.
+
+153
+00:10:31,800 --> 00:10:35,400
+Sie haben einen höheren sozialen Status, weil sie mehr verdienen und sind vermutlich einfach
+
+154
+00:10:35,400 --> 00:10:37,440
+auch besser für die Gesellschaft.
+
+155
+00:10:37,440 --> 00:10:40,200
+Und Arbeitslosen sind in dieser Logik natürlich Parasiten.
+
+156
+00:10:40,200 --> 00:10:44,960
+Und übrigens, das Wort Geringverdiener geht ja gerade richtig nochmal in Mode.
+
+157
+00:10:44,960 --> 00:10:48,880
+Und das ist natürlich so ein Wort, was völlig zu Recht die Runde macht.
+
+158
+00:10:48,880 --> 00:10:53,600
+Weil ohne die ganzen Geringverdiener, und das muss man sich klarmachen, würde ja nichts laufen.
+
+159
+00:10:53,600 --> 00:10:58,240
+Und aus dieser Betrachtungsweise, die ich jetzt hier in dem Video für euch klarmachen will,
+
+160
+00:10:58,320 --> 00:11:03,600
+wird das auch klar, die großen Banker in Manhattan, die würden ohne Food Delivery, ohne Taxiservice
+
+161
+00:11:03,600 --> 00:11:08,720
+und ohne, was weiß ich, das ganze Servicepersonal ja auch nur nicht klarkommen.
+
+162
+00:11:08,720 --> 00:11:10,960
+Die würden ja einfach ihren Job nicht machen können.
+
+163
+00:11:10,960 --> 00:11:13,200
+Ganz einfach, weil alle Jobs relevant sind.
+
+164
+00:11:13,200 --> 00:11:14,680
+Die sind alle produktiv.
+
+165
+00:11:14,680 --> 00:11:18,800
+Man kann sie bloß nicht vergleichen, weil sie unterschiedliche Tätigkeiten ausführen.
+
+166
+00:11:18,800 --> 00:11:24,680
+Und der Markt bewertet typischerweise die eine Tätigkeit als nicht so wertvoll wie die andere.
+
+167
+00:11:24,680 --> 00:11:27,920
+Das ist aber kapitalistische Ideologie, die dahinter steht, dass das eine jetzt auf einmal
+
+168
+00:11:27,920 --> 00:11:33,280
+mehr wert ist, weil sie Geld mit allen anderen Dingen gleichsetzen, weil es scheiß Kapitalisten sind.
+
+169
+00:11:33,280 --> 00:11:35,360
+Sie können nur in dieser bekackten Metrik denken.
+
+170
+00:11:35,360 --> 00:11:41,120
+Und ich hab schon tausendmal gesagt, Kapitalisten brechen alles auf oberflächliche Metriken zurück.
+
+171
+00:11:41,120 --> 00:11:43,600
+Und ich hab auch schon definiert, was oberflächlich bedeutet.
+
+172
+00:11:43,600 --> 00:11:47,520
+Oberflächlich ist eine Metrik immer dann, wenn sie soweit Komplexität reduziert,
+
+173
+00:11:47,520 --> 00:11:52,160
+dass man das, was man eigentlich beschreiben will, nicht mehr akkurat charakterisieren kann.
+
+174
+00:11:52,160 --> 00:11:53,520
+Dann nenne ich es etwas oberflächlich.
+
+175
+00:11:53,520 --> 00:11:55,200
+Und das ist hier genau der Fall.
+
+176
+00:11:55,200 --> 00:11:56,320
+So.
+
+177
+00:11:56,400 --> 00:12:03,200
+Und übrigens, so immer, wenn die Kapitalisten ankommen mit, das ist natürlich und das sieht man in der Natur und so.
+
+178
+00:12:03,200 --> 00:12:09,520
+Ich hab ja schon vor längerer Zeit ein Video dazu gemacht, dass die dem sogenannten naturalistischen Fehlschluss aufsitzen.
+
+179
+00:12:09,520 --> 00:12:16,960
+Und das sieht man immer, dass Rechte mit der Natur argumentieren, weil die Natur in ihren Augen so schön hierarchisch funktioniert.
+
+180
+00:12:16,960 --> 00:12:19,280
+Und sie stehen halt einfach auf Machthierarchien.
+
+181
+00:12:19,360 --> 00:12:28,800
+Und deswegen versuchen sie natürlich ihren Fetisch, ihre Ideologie mit irgendwelchen sogenannten Naturgesetzen zu rechtfertigen.
+
+182
+00:12:28,800 --> 00:12:31,840
+Und das ist natürlich totaler Bullshit, das habe ich auch alles schon gebannt.
+
+183
+00:12:31,840 --> 00:12:37,920
+Das sozusagen, dass das einfach eine Selectionbias ist.
+
+184
+00:12:37,920 --> 00:12:41,280
+Und wenn man das länger genug betreibt, dann wird man so wie Jordan B. Peterson,
+
+185
+00:12:41,280 --> 00:12:44,000
+und glaubt, die Hummer sind irgendwie eine überlegene Spezies oder so.
+
+186
+00:12:44,000 --> 00:12:45,360
+Das wollte ich nur noch mal dazu sagen.
+
+187
+00:12:45,360 --> 00:12:54,000
+Es ging also darum, zu zeigen, dass es eine Art Naturgesetz ist und es irgendwie fast so aussieht wie eine echte Wissenschaft.
+
+188
+00:12:54,000 --> 00:12:57,280
+Und das hat sozusagen der Bates gemacht.
+
+189
+00:12:57,280 --> 00:13:03,840
+Und was ist jetzt aber, wenn wir wirklich mal wissen wollen, wie es in Wahrheit ist?
+
+190
+00:13:03,840 --> 00:13:08,560
+Hierzu muss man ja irgendwie Arbeiter vergleichen, die die gleiche Tätigkeit machen.
+
+191
+00:13:08,560 --> 00:13:14,880
+Und schönerweise gibt es Datenbanken und Leute, die sich die Mühe gemacht haben, das mal genau zu tun.
+
+192
+00:13:14,880 --> 00:13:17,600
+Und man stellt halt fest, dass es überhaupt nicht korreliert.
+
+193
+00:13:17,600 --> 00:13:20,880
+Und ich zeige euch jetzt dieses Bild. Was sehen wir hier in dem Bild?
+
+194
+00:13:20,880 --> 00:13:32,560
+Die rote Kurve, da wurde der Gini-Koeffizient von 52 verschiedenen Tätigkeitsbereichen aufgetragen.
+
+195
+00:13:32,560 --> 00:13:43,280
+Gini-Koeffizient ist ein Maß für die Gleichmäßigkeit oder die Gleichverteilung einer Sache.
+
+196
+00:13:43,280 --> 00:13:46,560
+Wenn der Kleine es gegen Null geht, dann ist die Gleichverteilung maximal.
+
+197
+00:13:46,560 --> 00:13:53,600
+Stellt euch vor, ihr habt ein ungeordnetes Tuple für einen Zahlen, zum Beispiel so etwas wie Einkommen.
+
+198
+00:13:53,600 --> 00:13:58,080
+Und jeder, der in dieser Statistik auftaucht, kriegt eine Nummer.
+
+199
+00:13:58,080 --> 00:14:02,560
+Ihr nummeriert die einfach durch, dann sortiert ihr die, der Größe nach aufsteigend.
+
+200
+00:14:02,560 --> 00:14:09,360
+Bei einem gleichverteilten Einkommen, wo jeder identisch viel verdient, würde man erwarten, dass man so eine Kurve hat.
+
+201
+00:14:09,360 --> 00:14:19,920
+Das bedeutet, wenn wir von links nach rechts aufsummieren würden, würden wir einen linearen ansteigenden, und zwar mit einem 45°-Winkel ansteigenden Bereich haben.
+
+202
+00:14:19,920 --> 00:14:23,440
+Das wäre maximale Normalverteilung.
+
+203
+00:14:23,440 --> 00:14:32,080
+Wenn das jetzt abweicht davon, weil die großen Einkommen eher dahinten sind, beobachten wir typischerweise so eine Kurve hier.
+
+204
+00:14:32,080 --> 00:14:38,400
+Wenn wir jetzt sozusagen die Flächen unter diesen Graphen vergleichen, das ist so, wie es der Gini-Koeffizient definiert ist,
+
+205
+00:14:38,400 --> 00:14:41,200
+dann kriegen wir halt immer eine Zahl, die zwischen 0 und 1 liegt.
+
+206
+00:14:41,200 --> 00:14:48,320
+0 bedeutet maximale Normalverteilung, also absolut gleichverteilt alles, also nicht normalverteilt, sondern gleichverteilt.
+
+207
+00:14:48,320 --> 00:14:53,440
+Und wenn das davon abweicht, gegen 1 geht, haben wir die maximale Ungleichverteilung.
+
+208
+00:14:53,440 --> 00:14:57,120
+Also wenn er gegen 1 geht, bedeutet das, einer verdient alles und alle anderen verdienen 0.
+
+209
+00:14:57,120 --> 00:15:01,040
+Dann geht unsere Kurve so und hinten geht sie einmal hoch.
+
+210
+00:15:01,440 --> 00:15:09,680
+Und erinnert mich euch mal bitte an die Oxfam-Studien, die sagen, dass irgendwie die reichsten, was weiß ich, 1% der Welt
+
+211
+00:15:09,680 --> 00:15:18,320
+halt irgendwie über, was auch immer, wie viel, 99% des gesamten Vermögens haben, oder, keine Ahnung, 70%, oder was auch immer.
+
+212
+00:15:18,320 --> 00:15:23,680
+Die Zahlen sind mir gerade nicht geläufig, aber das sind solche unfassbaren Zahlen, die sehen wir in jedem Land und so.
+
+213
+00:15:23,680 --> 00:15:30,960
+Und das ist klar, das ist die Einkommensverteilung, die spiegelt sich da wieder, das heißt der Gini-Koeffizient sagt einfach, wie ungleich etwas verteilt ist.
+
+214
+00:15:31,920 --> 00:15:41,040
+So, und jetzt noch mal zu dem Bild zurück, roter Plot, der Gini-Koeffizient für diese 52 Tätigkeiten, die Produktivität wurde da verglichen.
+
+215
+00:15:41,040 --> 00:15:50,400
+Wir haben 52 verschiedene Tätigkeiten und deren Produktivität ist nicht sehr unterschiedlich, weil der Gini-Koeffizient im Mittel bei 0,1 liegt, okay?
+
+216
+00:15:50,400 --> 00:16:00,000
+0,1, das ist im Übrigen sogar der Erwartungswert, den man haben würde, wenn man davon ausgeht, dass so ziemlich alle menschlichen Eigenschaften, die wir hier sehen können und messen können,
+
+217
+00:16:00,320 --> 00:16:02,800
+immer eine Gaussglocke normal verteilt sind.
+
+218
+00:16:03,680 --> 00:16:07,120
+Das ist so eine Sache, ich weiß gar nicht, wo das herkommt, ich kann ja immer noch mal die Quelle raussuchen.
+
+219
+00:16:07,120 --> 00:16:15,360
+Witzigerweise beobachtet man bei sowas wie IQ und Körpergröße und allen möglichen Sachen, die man messen kann, immer einen Gini-Koeffizient von 0,1.
+
+220
+00:16:15,360 --> 00:16:20,640
+Oh Wunder, oh Wunder, das trifft auch auf die sogenannte Produktivität im Prinzip zu.
+
+221
+00:16:20,640 --> 00:16:25,520
+Und das ist witzig, ne? Und die blaue Kurve jetzt, naja, was ist die blaue Kurve wohl?
+
+222
+00:16:25,600 --> 00:16:32,320
+Die blaue Kurve ist die Einkommensverteilung und die hat einen Gini-Koeffizienten, der nicht 0,1 ist, sondern viel höher.
+
+223
+00:16:32,320 --> 00:16:35,840
+Das heißt, die beiden Dinger korrelieren überhaupt nicht miteinander.
+
+224
+00:16:35,840 --> 00:16:47,520
+Es gibt schlicht keine Korrelation in diesem Bild, da kann man nix erkennen, dass irgendwas, die Produktivität von Tätigkeiten, irgendwas mit der Einkommensverteilung zu tun hat.
+
+225
+00:16:47,520 --> 00:16:53,120
+Und das ist ja das, was die neoklassische Theorie behauptet und das ist halt Schwachsinn.
+
+226
+00:16:53,120 --> 00:17:03,600
+Das ist einfach mal Bullshit. Und dieser Taschenspielertrick mit der Buchhalteridentität diente nur dazu, immer wieder Paper schreiben zu können, wo man Korrelationen von über 99,9 Prozent rauskriegt, ne?
+
+227
+00:17:03,600 --> 00:17:12,080
+So. Und jetzt kommen alle und sagen und schreien und sagen Morph, Morph, aber so einfach ist es doch nicht und ich sage euch, doch, das ist so einfach.
+
+228
+00:17:12,080 --> 00:17:17,360
+Ökonomen versuchen, durchschnittlichen Lohn mit Gewinnzuwachs pro Arbeitsstunde zu korrelieren, ne?
+
+229
+00:17:17,600 --> 00:17:26,640
+Das ist sozusagen, wie nennen die das, die Grenzproduktivitätsentlohnungstheorie oder so, nennen die das.
+
+230
+00:17:26,640 --> 00:17:33,520
+Also das ist Teil von dieser neoklassischen Theorie, da geht es immer um diese Marginal Costs und so und das ist alles so, das ist Grenznutzen und so ein Scheiß.
+
+231
+00:17:33,520 --> 00:17:47,200
+Das ist pure Ideologie, ne? Weil das nicht irgendwas ist, was man jetzt unbedingt mit so ein paar, ja, wie soll ich sagen, First Principles sich überlegen kann und daraus herleiten kann.
+
+232
+00:17:47,200 --> 00:17:57,680
+So ist es nicht, sondern die Kapitalisten wollen, dass etwas stimmt, definieren dann ne Buchhalter, nehmen sich dann irgendwelche Identitäten her und wurschteln daran so lange rum, bis es aussieht wie Wissenschaft.
+
+233
+00:17:57,680 --> 00:18:14,400
+Das ist das, was sie tun. So und wenn die jetzt sozusagen danach suchen, dass die Produktivität, also oder sagen wir mal so, dass es einen Zusammenhang gibt zwischen Arbeitskraft mal Arbeitszeit und die irgendwie proportional sein soll zum Erlös, ne?
+
+234
+00:18:14,400 --> 00:18:21,280
+Das ist erstmal irgendwie klar, wenn wir also sowas wieder machen wie Gewinn ist Erlös minus Kosten und das umstellen, ne? Macht jetzt mal alle mit im Kopf.
+
+235
+00:18:21,280 --> 00:18:28,080
+Gewinn ist Erlös minus Kosten. Das ist jetzt mal ganz einfach und in diesen Kosten sagen wir mal der Einfachheit, das sind nur die Arbeitskosten, okay?
+
+236
+00:18:28,080 --> 00:18:34,400
+Dann addieren wir auf beiden Seiten Arbeitskosten dazu, dann steht da Erlös ist Gewinn plus Arbeitskosten, okay?
+
+237
+00:18:34,720 --> 00:18:45,920
+Jetzt teilen wir Erlös ist Gewinn plus Arbeitskosten durch die Arbeitszeit, also durch die Arbeitsstunden, die wir haben, sagen wir mal in einem Monat oder so.
+
+238
+00:18:45,920 --> 00:18:53,280
+Dann kriegen wir Erlös pro Arbeitsstunde ist gleich Gewinn pro Arbeitsstunde plus Arbeitskosten pro Arbeitsstunde.
+
+239
+00:18:53,280 --> 00:18:58,560
+So, Arbeitskosten pro Arbeitsstunde, das ist nichts anderes als der durchschnittliche Stundenlohn.
+
+240
+00:18:59,120 --> 00:19:10,080
+So, der Gewinn pro Arbeitsstunde ist quasi ein Störtherm in dieser Gleichung, ne? Aber mal angenommen, der ist klein, also sagen wir mal, das ist ein Rauschtherm,
+
+241
+00:19:10,080 --> 00:19:19,920
+dann ist es doch trotzdem so, dass der Erlös direkt an den Stundenlohn koppelt. Ist ja klar, weil das ein linearer Zusammenhang ist, den wir da haben.
+
+242
+00:19:20,400 --> 00:19:28,080
+Das ist die Buchhalteridentität, die ich gerade umgestellt habe. Und in der Praxis ist es ja so, dass jetzt dadurch, dass die Arbeitsstunden,
+
+243
+00:19:28,080 --> 00:19:34,800
+also dass sogar der Profit durch die Arbeitsstunden geteilt wird, man wird sogar da auch noch die Korrelation sich nochmal reinschummelt,
+
+244
+00:19:34,800 --> 00:19:42,320
+weil die alle durch die Arbeitsstunden geteilt werden in dieser Buchhalteridentität und das garantiert quasi eine Korrelation.
+
+245
+00:19:42,320 --> 00:19:48,480
+Und das ist genau das, was die Paper dann alle, oh Wunder, oh Wunder, immer feststellen, oh super, wir haben hier unsere Theorie bestätigt,
+
+246
+00:19:48,480 --> 00:19:57,920
+ja, weil sie die Theorie mit sich selber bestätigt haben. Und man kann im Prinzip alternativ, ein Physiker oder jemand, der Ahnung von einem echten wissenschaftlichen Vorgehen hat,
+
+247
+00:19:57,920 --> 00:20:04,800
+der würde einfach sagen, Moment mal, diese beiden Größen, das sind überhaupt keine statistisch unabhängigen Zufallsgrößen,
+
+248
+00:20:04,800 --> 00:20:10,400
+das heißt, wenn ich da eine linearere Regression mache, dann ist das eine Farce. Es ist eine Farce, okay?
+
+249
+00:20:11,360 --> 00:20:20,240
+Ich erwarte schon, weil sie miteinander definiert sind, über die Buchhalteridentität, dass da eine Korrelation ist in den Messdaten.
+
+250
+00:20:20,240 --> 00:20:33,040
+Und das ist genau das, was sie tun. Das grundlegende Problem ist jetzt, also die Theorie der Grenzproduktivitätsentlohnung kann nicht getestet werden, okay?
+
+251
+00:20:33,280 --> 00:20:42,160
+Also das, was John Bates hingeschrieben hat, das kann man einfach nicht testen, einfach weil die Produktivität nicht quantifiziert werden kann, ordentlich.
+
+252
+00:20:42,160 --> 00:20:50,960
+Und soweit ich das sehe, trifft das übrigens, also dieses Problem, das trifft auch auf die marxistische Theorie zu, weil da wird auch von Produktivität geredet,
+
+253
+00:20:50,960 --> 00:20:57,040
+soweit wie ich das jetzt bis jetzt verstanden habe. Ich habe ja keine Ahnung von Marx, das habe ich schon tausendmal gesagt, aber so wirkt das auf mich.
+
+254
+00:20:57,520 --> 00:21:05,040
+Und dieses kurze Video wollte ich nur kurz machen, denn als nächstes, darauf baut jetzt das nächste Video auf mit dem humanen Kapital.
+
+255
+00:21:05,040 --> 00:21:09,360
+Weil jetzt ist nur noch die Frage, okay, wie kann man denn Lohnunterschiede überhaupt erklären?
+
+256
+00:21:09,360 --> 00:21:14,000
+Und im nächsten Video soll es dann darum gehen, wie man Lohnunterschiede überhaupt erklären kann.
+
+257
+00:21:14,000 --> 00:21:20,800
+Und freut euch schonmal, aber die ganze Theorie mit dem humanen Kapital ist es auf jeden Fall nicht. Das ist nicht die Erklärung dafür, okay?
+
+258
+00:21:22,800 --> 00:21:24,800
+Viel Spaß, YouTube. Reingehauen.
+
+259
+00:23:27,040 --> 00:23:52,240
+Übrigens, der Kanal ist wie eine schöne Vorlesung aufgebaut. Wenn ich unten Videos verlinke, dann wäre es angebracht, sich die auch reinzuziehen, weil das aufeinander aufbaut.
+
+260
+00:23:52,240 --> 00:24:03,200
+Bestimmte Begriffe werden definiert, viele Beispiele werden genannt und ja, ich denke mir schon was dabei, weil es sozusagen meinen eigenen Erkenntnisprozess abbildet, die Reihenfolge, in denen ich die Videos hier hochlade.
+

@@ -1,0 +1,620 @@
+WEBVTT
+
+00:00.000 --> 00:19.200
+So Leute, erinnert euch an das Video zum ersten Mal mit dem eigentlichen Zweck von
+
+00:19.200 --> 00:20.200
+Hierarchien.
+
+00:20.200 --> 00:24.200
+Da beginne ich mit ein bisschen Mathe-Analogie und am Ende kommt ein relativ sexy Gedanke
+
+00:24.200 --> 00:30.640
+dabei herum, der irgendwie die Alternativlosigkeit von Anarchismus klarmacht und auch eigentlich
+
+00:30.640 --> 00:34.280
+ziemlich klarmacht, was der eigentliche Zweck von Hierarchien ist und dass sie nicht dafür
+
+00:34.280 --> 00:36.640
+da sind, irgendwas auch nur irgendwie gut zu machen.
+
+00:36.640 --> 00:42.360
+Und ich habe noch mal so ein Video jetzt für euch und ich fange auch diesmal an mit einem
+
+00:42.360 --> 00:48.160
+Beispiel aus der einfachen Schulmathematik und zwar, ihr habt einen Sechserwürfel und
+
+00:48.160 --> 00:50.280
+ihr wollt den fünfmal würfeln.
+
+00:50.280 --> 00:54.440
+Wie hoch ist die Wahrscheinlichkeit, dass ihr exakt fünfmal eine Sechs dabei würfelt?
+
+00:54.440 --> 00:58.040
+Die Wahrscheinlichkeit ist ein Sechstel hoch fünf, klar.
+
+00:58.040 --> 01:04.240
+Und wir wissen aber auch aus der Wahrscheinlichkeitsrechnung, wenn wir jetzt das Gegenteil ausrechnen von
+
+01:04.240 --> 01:08.800
+diesem Ereignis und eins Minus dieser Wahrscheinlichkeit machen, dann muss das dieselbe Zahl ergeben.
+
+01:08.800 --> 01:14.440
+Und dann könnte man sich jetzt überlegen, so ganz naiv, naja, wäre das also jetzt so,
+
+01:14.440 --> 01:20.760
+das Gegenteil ist ja, das Gegenteil von sechs Würfeln ist ja keine Sechs Würfeln, die
+
+01:20.760 --> 01:26.360
+Wahrscheinlichkeit, keine Sechs zu würfeln, ist eins Minus ein Sechstel, also fünf Sechstel.
+
+01:26.360 --> 01:29.960
+Und wenn man das jetzt hoch fünf nimmt, ist dann das das Gleiche.
+
+01:29.960 --> 01:34.880
+Nee, ist es nicht, oder ist es doch, nee, es ist fünf Sechstel dann, fünf Sechstel
+
+01:34.880 --> 01:35.880
+hoch fünf.
+
+01:35.880 --> 01:39.920
+Und eins Minus fünf Sechstel hoch fünf kann nicht das Gleiche sein, wie ein Sechstel hoch
+
+01:39.920 --> 01:44.840
+fünf, denn ein Sechstel hoch fünf ergibt sich ja aus eins Minus fünf Sechstel hoch
+
+01:44.840 --> 01:47.120
+fünf, also in Klammern hoch fünf.
+
+01:47.120 --> 01:53.680
+Das heißt, da geht irgendwo, bei dieser naiven Vorstellung geht was verloren, und ich spoilere
+
+01:53.680 --> 01:57.000
+schon mal, was da verloren geht, ist die Tatsache, dass das nicht das Gegenteil ist, das Gegenteil
+
+01:57.000 --> 02:01.400
+von genau fünf Mal eine Sechs Würfeln nach fünf Versuchen.
+
+02:01.400 --> 02:06.520
+Das Gegenteil davon, im mathematischen Sinne, das Komplement dazu, bedeutet nämlich nur
+
+02:06.520 --> 02:09.040
+mindestens einmal keine Sechs zu würfeln.
+
+02:09.040 --> 02:15.200
+Das bedeutet aber auch zwei oder fünf Mal keine Sechs zu würfeln, aber auch einmal
+
+02:15.200 --> 02:16.200
+keine Sechs zu würfeln.
+
+02:16.200 --> 02:20.080
+Das sind zwei unterschiedliche Dinge, und da braucht man die Binomial-Verteilung für.
+
+02:20.080 --> 02:24.280
+Könnt ihr euch vielleicht noch so drunkel daran erinnern, jedenfalls, wenn man das ausrechnet
+
+02:24.280 --> 02:27.960
+und das Ding nimmt und eins Minus davon macht, dann kommt exakt dieselbe Zahl raus wie ein
+
+02:27.960 --> 02:28.960
+Sechstel hoch fünf.
+
+02:28.960 --> 02:36.720
+Und ich denke, dieser Denkfehler, dieser Denkfehler, den ich euch gerade skizziert habe, den machen
+
+02:36.720 --> 02:38.240
+Leute auch beim Anarchismus.
+
+02:38.240 --> 02:44.480
+Denn ich finde, diese Definition vom Anarchismus, die sie alle möglichen Definitionen vom Anarchismus
+
+02:44.480 --> 02:47.720
+inne haben, ist no gods, no masters.
+
+02:47.720 --> 02:49.520
+Keine Machtherarchie darf existieren.
+
+02:49.520 --> 02:55.000
+Und das ist im Prinzip eine komplementäre Definition, weil da steht keine drin.
+
+02:55.000 --> 02:59.520
+Der Anarchismus definiert sich offenbar nur durch etwas, was er nicht haben will.
+
+02:59.520 --> 03:01.160
+Alles andere wird völlig offen gelassen.
+
+03:01.160 --> 03:06.280
+Und das ist interessant, denn wenn man jetzt so eine komplementäre Definition, wenn man
+
+03:06.280 --> 03:10.960
+da mal darüber nachdenkt, dann darf man jetzt eigentlich nur noch diesen Fehler, den ich
+
+03:10.960 --> 03:14.400
+euch gerade skizziert habe, beim Kompliment, den darf man jetzt nicht machen.
+
+03:14.400 --> 03:18.560
+So kommen nämlich die Leute zu dieser klassischen Propagandaschlussfolgerung, dass Anarchie
+
+03:18.560 --> 03:19.560
+pures Chaos ist.
+
+03:19.560 --> 03:25.880
+Und das ist witzig, denn dieser Propagandadruckschluss von wegen Anarchie bedeutet pures Chaos und
+
+03:25.880 --> 03:31.040
+Tod und Verderben und die stärkste Gang setzt sich durch und so, das ist ziemlich interessant.
+
+03:31.040 --> 03:35.880
+Denn ich würde sagen, das ist genau das, was wir in unserer jetzigen Welt beobachten können.
+
+03:36.480 --> 03:40.520
+Wir haben den stärksten School-Yard-Bully, das ist typischerweise der größte Imperialist.
+
+03:40.520 --> 03:44.760
+Im Moment ist das halt die letzten, was weiß ich, seit den 1950s, ist das die USA.
+
+03:44.760 --> 03:49.440
+Die können machen, was sie wollen und sie sind im Prinzip Kriegsverbrecher, aber trotzdem
+
+03:49.440 --> 03:51.560
+treiben alle mit Handeln mit ihnen und so weiter und so fort.
+
+03:51.560 --> 03:52.560
+Ihr wisst, wie das läuft.
+
+03:52.560 --> 03:59.400
+Ich sage nur, was weiß ich, Guatemala oder Lateinamerika, was die da für einen Scheiß
+
+03:59.400 --> 04:03.280
+veranstaltet haben, Emiran und so und ihr wisst das Spiel.
+
+04:03.680 --> 04:11.680
+Die ganzen Kriegslügen halt und nochmal, Anarchismus definiert sich erst mal durch
+
+04:11.680 --> 04:15.520
+no Gods und no Masters, das heißt, wir wollen keine Machtherarchien, das übersetze ich jetzt
+
+04:15.520 --> 04:16.520
+mal so.
+
+04:16.520 --> 04:19.360
+Wir wollen keine Machtherarchien und was bedeutet das jetzt ganz praktisch?
+
+04:19.360 --> 04:26.320
+Das bedeutet für mich jetzt aber auch, dass es keine Geheimnisse geben darf, denn ich
+
+04:26.320 --> 04:31.840
+habe ja schon mal erwähnt, dass das wichtige Tool sozusagen die Transparenz ist und in
+
+04:31.840 --> 04:35.680
+einer sogenannten Demokratie ist ein wichtiges Instrument, das Recht auf Geheimnisse.
+
+04:35.680 --> 04:38.880
+Das ist das, was wir heutzutage haben in der sogenannten Demokratie.
+
+04:38.880 --> 04:43.680
+Wir haben Patentrechte, wir haben irgendwie geheime Cola-Rezepte, das ist das harmlose
+
+04:43.680 --> 04:44.680
+Zeug.
+
+04:44.680 --> 04:48.720
+Wir haben Geheimdienste, die außerhalb der Verfassung organisiert sind und im Prinzip
+
+04:48.720 --> 04:51.760
+machen können, was sie wollen und das ist das, was wir zum Beispiel bei der CIA beobachten,
+
+04:51.760 --> 04:56.080
+aber auch beim NSU-Skandal oder so, das beobachten wir überall.
+
+04:56.080 --> 05:00.760
+Wir beobachten, dass unser Kanzler Dinge vergisst und Akten schreddert und wahrscheinlich kriminell
+
+05:00.760 --> 05:01.760
+ist.
+
+05:01.760 --> 05:04.120
+Das können wir beobachten und wieso kann er das machen?
+
+05:04.120 --> 05:08.040
+Weil er einfach die Schnauze hält und nicht rausrückt mit der Sprache.
+
+05:08.040 --> 05:14.920
+Durch diese Tatsache, dass er das tut, delegitimiert er sich ja eigentlich.
+
+05:14.920 --> 05:19.160
+Er ist ja eigentlich in dem Moment eigentlich kein Demokrat, in meiner Meinung nach.
+
+05:19.160 --> 05:28.680
+Das gehört für mich eigentlich dazu und es ist auch irgendwie so, weil Geheimnisse
+
+05:28.680 --> 05:32.760
+immer irgendwie nur dazu da sind, ich nenne es jetzt mal Wettbewerbsvorteile sich zu
+
+05:32.760 --> 05:40.040
+sichern, sollte es schlichtweg auch kein Anspruch oder Anrecht auf Geheimnisse geben
+
+05:40.040 --> 05:41.400
+in diesem Sinne.
+
+05:41.400 --> 05:46.400
+Genauso wie man sagen könnte, okay, keine Machthierarchien sollte es geben, beziehungsweise
+
+05:46.400 --> 05:50.840
+Machthierarchien, wenn sie existieren, müssen sich gegenüber der Mehrheit rechtfertigen,
+
+05:50.840 --> 05:54.720
+das geht nur durch Transparenz, genauso impliziert das automatisch, dass es keine Geheimnisse
+
+05:54.720 --> 05:55.720
+geben darf.
+
+05:56.680 --> 06:00.840
+Und da denkt man dann noch mal ein bisschen droher nach, weil ganz ähnlich wie das jetzt
+
+06:00.840 --> 06:08.120
+mit den Vergesellschaften von Produktionsmitteln ist, sollte es in einer Demokratisierung,
+
+06:08.120 --> 06:10.080
+so sollte das mit Transparenz auch sein.
+
+06:10.080 --> 06:18.160
+Es darf schlicht keine Patente und solche Recht auf Geheimnis geben und ich finde im
+
+06:18.160 --> 06:21.920
+schlimmsten Fall sind Geheimnisse ja auch wirklich einfach dazu da, um irgendwas Schlechtes
+
+06:21.920 --> 06:22.920
+zu machen.
+
+06:23.880 --> 06:29.200
+Man müsste die Dinge ja gar nicht geheim halten, wenn sie eigentlich zu was Gutem da sind,
+
+06:29.200 --> 06:33.720
+sie sind nur in einer Wettbewerbsdynamik sinnvoll, immer nur da sind Geheimnisse sinnvoll.
+
+06:33.720 --> 06:39.520
+Also in dem anderen Video habe ich ja gesagt, wenn man jetzt die Erde zerstören wollen
+
+06:39.520 --> 06:44.960
+würde, schafft man das überhaupt nur mit Machthierarchien und aus dieser Schlussfolgerung
+
+06:44.960 --> 06:49.480
+habe ich festgestellt, okay, zu was sind die noch gut und da habe ich mir überlegt, na gut,
+
+06:49.480 --> 06:53.160
+für alles andere gibt es alternative Lösungen, nur für diese eine Sache, nämlich wie zerstöre
+
+06:53.160 --> 06:57.440
+ich die ganze gottverdammte Zivilisation, nur dafür brauche ich Machthierarchien definitiv
+
+06:57.440 --> 07:01.360
+und daraus habe ich dann einen Schlussfolger, dass das sozusagen der Zweck ist und so ein
+
+07:01.360 --> 07:07.440
+bisschen ist das jetzt hier mit diesen Geheimnissen auch, das ist einfach ein Tool von Machthierarchien
+
+07:07.440 --> 07:12.160
+und das reiht sich richtig gut in Anarchismus Teil 2 ein, wo ich ja sage, das Vertrauen
+
+07:12.160 --> 07:18.840
+oder Kontrolle, dass das zwei Seiten derselben Medaille sind und nur durch dieses Prinzip,
+
+07:18.840 --> 07:26.960
+dass technisch gesehen, die Öffentlichkeit immer zuguckt, die Demokratie gewinnen kann.
+
+07:26.960 --> 07:31.640
+Also das habe ich da sozusagen lange und breit, wie es sich für ein Mordvideo gehört,
+
+07:31.640 --> 07:35.040
+natürlich ausgebreitet, aber ja, das wollte ich nur nochmal dazu sagen, dass ich das jetzt
+
+07:35.040 --> 07:38.960
+sozusagen alles in diesen Kontext einbettet und das ist im Prinzip die Fortführung von
+
+07:38.960 --> 07:43.440
+dem Gedanken, den ich hatte, als ich am Tag der Arbeit gerade noch einen Kaffee getrunken
+
+07:43.440 --> 07:44.440
+habe.
+
+07:44.440 --> 07:45.440
+So, das wollte ich nur nochmal sagen.
+
+07:46.320 --> 07:50.400
+Also wie gesagt, im einfachsten Fall geht es darum Wettbewerb zu treiben, das heißt,
+
+07:50.400 --> 07:55.520
+man zerstört irgendwie alle auf Wettbewerb resultierenden Dinge durch so eine Art Transparenzzwang.
+
+07:55.520 --> 08:00.920
+Und das ist ja cool, weil ich habe ja auf dem Kanal schon einige Beispiele gebracht,
+
+08:00.920 --> 08:02.720
+was jetzt mit dem Wettbewerb eigentlich mal das Problem ist.
+
+08:02.720 --> 08:07.880
+Ich habe ja verschiedene Videos mit einer relativ allgemein angelegten Wettbewerbskritik
+
+08:07.880 --> 08:08.880
+als solcher.
+
+08:08.880 --> 08:14.040
+Und den Wettbewerb würde man komplett aushebeln, wenn es kein Recht auf Geheimnisse gäbe.
+
+08:14.040 --> 08:20.920
+Man denkt ja mal drüber nach, das ist schon ein interessanter Gedanke, finde ich.
+
+08:20.920 --> 08:26.320
+Und natürlich müsste es schlicht so eine Art Grundkonsens geben oder meinetwegen auch
+
+08:26.320 --> 08:30.640
+ein Menschenrecht darauf, dass Geheimnisse zu schlagen gehören.
+
+08:30.640 --> 08:35.720
+Und ich höre euch sozusagen jetzt schon alle schreien so von wegen, aber Moment mal, was
+
+08:35.720 --> 08:36.720
+ist jetzt mit Privatsphäre?
+
+08:36.720 --> 08:45.440
+Aber ich finde, das ist exakt analog zu diesem normalen Talking Point mit dem Privateigentum,
+
+08:45.440 --> 08:46.440
+das abgeschafft gehört.
+
+08:46.440 --> 08:50.080
+So wie mit der Zahnbürste, wenn die Kapitalisten ankommen, jetzt wollen mir die Kommunisten
+
+08:50.080 --> 08:51.840
+auch noch mal eine Zahnbürste klauen.
+
+08:51.840 --> 08:56.560
+Es geht nicht um deine Zahnbürste, es geht um Privatbesitz von Produktionsmitteln.
+
+08:56.560 --> 09:02.080
+Das bedeutet immer da, wo du durch deinen Privatbesitz Macht auf andere ausübst.
+
+09:02.080 --> 09:07.640
+Da müsste man das vergesellschaften, denn es sollte denjenigen gehören, die davon
+
+09:07.640 --> 09:11.760
+betroffen sind, in dem Fall zum Beispiel die Fabrik, in der die Zahnbürsten hergestellt
+
+09:11.760 --> 09:12.760
+werden.
+
+09:12.760 --> 09:14.960
+Und genau so müsste man das mit Geheimnissen machen.
+
+09:14.960 --> 09:21.320
+Wenn man Macht auf andere hat und sie dadurch verlieren würde, dass man das Geheimnis preisgibt,
+
+09:21.320 --> 09:22.320
+dann muss man es preisgeben.
+
+09:22.320 --> 09:23.720
+So rum könnte man es definieren.
+
+09:23.720 --> 09:28.720
+Und mit dieser handlichen Definition, finde ich, könnte man dann auch wirklich überall
+
+09:28.720 --> 09:30.920
+hingehen und genau diese Devise anwenden.
+
+09:30.920 --> 09:35.280
+Man könnte sagen, wenn sich eine Institution nicht rechtfertigen kann, dann ist sie nicht
+
+09:35.280 --> 09:36.280
+legitimiert.
+
+09:36.280 --> 09:40.920
+Das ist ja sowieso das Prinzip, aber das geht vor allem dann, wenn sie einen Rechtfertigungszwang
+
+09:40.920 --> 09:41.920
+hätte.
+
+09:41.920 --> 09:49.720
+Also wenn wir jetzt sozusagen einen Grundkonsens hätten, dass das so nicht geht, dass sich
+
+09:49.720 --> 09:54.400
+jemand einfach auf ein Recht, auf ein Geheimnis berufen darf oder so.
+
+09:54.400 --> 09:59.320
+Und letzten Zeit hat ein sehr schlauer Mensch in meiner Gegenwart es auch noch mal anders
+
+09:59.320 --> 10:00.320
+formuliert.
+
+10:00.320 --> 10:04.680
+Das ist der einzige Moment in einer Welt, in der von Zetteln Gewalt ausgeht und ich
+
+10:04.680 --> 10:09.480
+rede jetzt von der Gewalt, von der Definition von Gewalt, die ich in meinem Video dazu angebracht
+
+10:09.480 --> 10:10.480
+habe.
+
+10:10.480 --> 10:11.480
+Ich glaube Teil 3.
+
+10:11.480 --> 10:12.480
+Anarchismus Teil 3 ist das.
+
+10:12.480 --> 10:16.760
+Und natürlich habe ich dazu schon Worte, ich nenne es Zettellogik und das ist nichts
+
+10:16.760 --> 10:18.760
+anderes als die totale Entfremdung durch Bürokratie.
+
+10:18.760 --> 10:25.680
+Irgendwie hatte ich den Tag noch mal diese Formulierung gefunden, dass ich eigentlich
+
+10:25.680 --> 10:28.640
+den Anarchismus gerne über sein Komplement definieren würde.
+
+10:28.960 --> 10:33.040
+Und das finde ich, das ist eine ziemlich konsistente und einfache Definition.
+
+10:33.040 --> 10:34.040
+Überlegt euch das nochmal.
+
+10:34.040 --> 10:40.320
+Wir definieren jetzt den Anarchismus einfach darüber, dass es keine Machthierarchien geben
+
+10:40.320 --> 10:46.160
+darf und wenn es welche gibt, dann müssen sie sich von unten nach oben rechtfertigen
+
+10:46.160 --> 10:47.160
+können.
+
+10:47.160 --> 10:52.720
+Das impliziert Transparenzzwang und bedeutet, Geheimnisse, die Macht auf andere ausüben,
+
+10:52.720 --> 10:58.440
+dürfen nicht existieren, die dürfen nicht geheim gehalten werden.
+
+10:59.240 --> 11:03.200
+Und in dem Moment, wo jemand, naja, da könnte man ganz praktisch dahergehen, in dem Moment,
+
+11:03.200 --> 11:08.680
+wo jemand das Geheimnis nicht preisgeben möchte, in dem Moment ist er nicht mehr legitimiert
+
+11:08.680 --> 11:14.600
+in seiner Machtposition, die er vielleicht inne hat, in irgendeiner Rolle, die ihm die
+
+11:14.600 --> 11:16.160
+Gesellschaft vorher zugeteilt hat.
+
+11:16.160 --> 11:17.160
+So könnte man das machen.
+
+11:17.160 --> 11:24.520
+Dieses kurze Video wollte ich nur kurz machen, einfach weil ich diesen Gedanken den Tag
+
+11:24.520 --> 11:25.520
+hatte.
+
+11:25.520 --> 11:26.520
+Reingehau in YouTube.
+
+11:28.520 --> 11:29.520
+Das war's für heute.
+
+11:29.520 --> 11:30.520
+Vielen Dank für's Zuschauen.
+
+11:30.520 --> 11:31.040
+Bis zum nächsten Mal.
+
+12:28.440 --> 12:33.440
+Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+12:33.440 --> 12:38.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+12:38.440 --> 12:43.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+12:43.440 --> 12:48.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+12:48.440 --> 12:53.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+12:53.440 --> 12:58.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+12:58.440 --> 13:03.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:03.440 --> 13:08.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:08.440 --> 13:13.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:13.440 --> 13:18.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:18.440 --> 13:23.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:23.440 --> 13:28.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:28.440 --> 13:33.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:33.440 --> 13:38.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:38.440 --> 13:43.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:43.440 --> 13:48.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:48.440 --> 13:53.440
+hey, hey, hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:53.440 --> 13:58.440
+hey, hey, hey, hey, hey, hey, hey, hey,
+
+13:58.440 --> 14:03.440
+hey, hey, hey, hey, hey, hey, hey, hey,
+
+14:03.440 --> 14:08.440
+hey, hey, hey, hey, hey, hey, hey,
+
+14:08.440 --> 14:13.440
+hey, hey, hey, hey, hey, hey, hey, hey,
+
+14:13.440 --> 14:18.440
+hey, hey, hey, hey, hey, hey,
+
+14:18.440 --> 14:23.440
+hey, hey, hey, hey, hey, hey,
+
+14:23.440 --> 14:28.440
+hey, hey, hey, hey, hey,
+
+14:28.440 --> 14:33.440
+hey, hey, hey, hey, hey,
+
+14:33.440 --> 14:37.440
+hey, hey, hey, hey,
+
+14:37.440 --> 14:42.440
+hey, hey, hey, hey, hey,
+
+14:42.440 --> 14:47.440
+hey, hey, hey, hey,
+
+14:47.440 --> 14:52.440
+hey, hey, hey, hey, hey,
+
+14:52.440 --> 14:57.440
+hey, hey, hey,
+
+14:57.440 --> 15:00.440
+hey, hey, hey,
+
+15:00.440 --> 15:05.440
+Geht's dir gut? Geht's dir gut?
+
+15:30.440 --> 15:50.880
+Übrigens, der Kanal ist wie eine schöne Vorlesung aufgebaut. Wenn ich unten Videos
+
+15:50.880 --> 15:56.360
+verlinke, dann wäre es angebracht, sich die auch reinzuziehen, weil das aufeinander aufbaut.
+
+15:56.360 --> 16:01.840
+Bestimmte Begriffe werden definiert, viele Beispiele werden genannt und ich denke
+
+16:01.840 --> 16:05.080
+mir schon was dabei, weil es sozusagen meinen eigenen Erkenntnisprozess abbildet,
+
+16:05.080 --> 16:07.240
+die Reihenfolge, in denen ich die Videos hier hochlade.
+

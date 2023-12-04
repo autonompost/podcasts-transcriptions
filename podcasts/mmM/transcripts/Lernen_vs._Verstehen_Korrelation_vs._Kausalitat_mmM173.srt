@@ -1,0 +1,868 @@
+1
+00:00:00,000 --> 00:00:18,280
+Ich rede ja ständig davon, dass der Unterschied zwischen Lernen und Verstehen beziehungsweise
+
+2
+00:00:18,280 --> 00:00:24,400
+Korrelation und Kausalität super wichtig ist und so ein klassisches Ding, was ich mir
+
+3
+00:00:24,400 --> 00:00:27,080
+irgendwann mal überlegt habe oder ob ich das irgendwo mal aufgeschnappt habe, ich
+
+4
+00:00:27,080 --> 00:00:34,040
+weiß nicht, wäre diese völlig hirnrissige Schlussfolgerung. Zwillinge haben nicht so
+
+5
+00:00:34,040 --> 00:00:41,120
+eine hohe Lebenserwartung, weil ich selber so selten ältere Zwillinge beobachte. Das wäre
+
+6
+00:00:41,120 --> 00:00:46,960
+so eine maximal hirnrissige Schlussfolgerung, die man aus einer Korrelation sozusagen
+
+7
+00:00:46,960 --> 00:00:54,560
+Schlussfolgerung könnte. Und ich habe als Kind folgende Beobachtungen gemacht. Ich habe in
+
+8
+00:00:54,560 --> 00:00:59,600
+der Schule viel gezeichnet, weil mir halt extrem langweilig war. Und ich konnte immer dann,
+
+9
+00:00:59,600 --> 00:01:03,680
+wenn ich bestimmte Sachen nicht gut zeichnen konnte, lag das daran, dass ich noch gar
+
+10
+00:01:03,680 --> 00:01:08,960
+kein richtiges Verständnis davon hatte, wie die Geometrie wirklich ist von dem,
+
+11
+00:01:08,960 --> 00:01:14,040
+was ich da zeichnen will. Und später ging es dann auch sozusagen bei Händen und Gesichtern
+
+12
+00:01:14,040 --> 00:01:18,680
+natürlich auch um vor allem die Proportionen. Aber ganz am Anfang war es erstmal wirklich
+
+13
+00:01:18,680 --> 00:01:25,840
+reine Geometrie. Räumliches Denkvermögen und so. Und ich hatte diesen ganz ähnlichen Erkenntnisprozess
+
+14
+00:01:25,840 --> 00:01:28,760
+einen Moment später auch noch mal, als ich festgestellt habe, und das habe ich auch schon
+
+15
+00:01:28,760 --> 00:01:33,800
+tausendmal jetzt erklärt, wenn man etwas programmieren kann, dann hat man es auch verstanden. Also ich
+
+16
+00:01:33,800 --> 00:01:37,680
+hatte als erstes das Gefühl, irgendwas wirklich durchdrungen zu haben, wenn ich es programmieren
+
+17
+00:01:37,680 --> 00:01:42,920
+konnte. Also quasi mit einem Automaten gehen konnte und mit simpler Arithmetik dieses Problem
+
+18
+00:01:42,920 --> 00:01:51,040
+beschreiben. Und ganz ähnlich könnte man auch formulieren, wenn ich etwas erklären kann,
+
+19
+00:01:51,040 --> 00:01:57,680
+habe ich auch den Eindruck, dass ich es auch verstanden habe. Und ja, ich denke, was man
+
+20
+00:01:57,680 --> 00:02:03,120
+braucht, um jetzt mal wirklich klar zu machen, was jetzt eigentlich Korrelation und Kausalität wurde,
+
+21
+00:02:03,120 --> 00:02:06,480
+der jetzt wirklich der Unterschied ist. Das ist gar nicht mal so einfach. Und ich versuche das jetzt
+
+22
+00:02:06,480 --> 00:02:10,720
+mal in diesem Video hier zu machen, mit meinen Worten auszudrücken, was ich unter Kausalität,
+
+23
+00:02:10,720 --> 00:02:18,160
+ja, was ich unter Kausalität verstehe. Und was wir als erstes brauchen ist, wir stellen uns jetzt
+
+24
+00:02:18,160 --> 00:02:26,240
+mal vor, dass alle Objekte, die wir in unserer Realität haben, kleine Punkte sind und die Bedeutung
+
+25
+00:02:26,240 --> 00:02:32,320
+kommt, die Bedeutung dieser Gegenstände und Objekte, also diese Bedeutung dieser Punkte,
+
+26
+00:02:32,320 --> 00:02:37,600
+kommt erst zustande, die emergiert erst aus der Beziehung aller möglichen Punkte untereinander.
+
+27
+00:02:37,600 --> 00:02:44,280
+Also Gegenstände haben an sich erstmal keine Bedeutung. Die Bedeutung kommt erst, wenn man
+
+28
+00:02:44,280 --> 00:02:50,520
+damit etwas macht oder so oder wie die zu anderen in Beziehung stehen. Und diese Beziehung würde ich
+
+29
+00:02:50,520 --> 00:02:56,960
+jetzt, wenn einzelne Objekte Punkte sind, dann sind die Verbindungen, die grafen zwischen diesen Knoten,
+
+30
+00:02:56,960 --> 00:03:06,000
+sozusagen in der Sprache der Grafentheorie. Und ja, wenn man jetzt sozusagen so sagt,
+
+31
+00:03:06,000 --> 00:03:11,800
+okay, wir haben jetzt Bedeutung und wir nennen Bedeutung die Grafen, wenn man jetzt in einem
+
+32
+00:03:11,800 --> 00:03:18,320
+anderen Bereich eine ähnliche Verteilung von Knoten hat, die aber anders heißen, und man dieselbe
+
+33
+00:03:18,320 --> 00:03:22,120
+Maske an Grafen, die man schon mal irgendwo von irgendwas, was man schon mal verstanden hat,
+
+34
+00:03:22,120 --> 00:03:28,680
+da drauf werfen kann und mit vielleicht ein paar kleinen Abweichungen wieder ganz ähnliche Netze
+
+35
+00:03:28,680 --> 00:03:33,440
+von Beziehungen zueinander herstellen kann, dann würde ich sagen, hat man eine Analogie gebildet,
+
+36
+00:03:33,440 --> 00:03:39,720
+weil man die grundlegende Struktur erkannt hat der Beziehung und die dann über übertragen kann
+
+37
+00:03:39,720 --> 00:03:47,840
+auf einen anderen Prozess oder auf einen anderen Mechanismus. Ich rede ja auch gerne davon,
+
+38
+00:03:47,840 --> 00:03:52,720
+dass man etwas verstanden hat, wenn man die Analogie gebilden kann. Und ich denke,
+
+39
+00:03:52,720 --> 00:03:59,120
+da Mathematik die Lehre der Abbildung ist, geht das alles irgendwie einher, auch damit,
+
+40
+00:03:59,120 --> 00:04:02,720
+dass man sozusagen es verstanden hat, wenn man es programmiert hat. Irgendwie so ergibt das in meinem
+
+41
+00:04:02,720 --> 00:04:08,600
+Sinn, das ergibt in meinem Kopf immer alles irgendwie Sinn. Naja, und wenn man jetzt das
+
+42
+00:04:08,600 --> 00:04:14,200
+Erstellen von Grafen zwischen Punkten, wenn man das jetzt macht und sagt, okay, das bedeutet jetzt
+
+43
+00:04:14,200 --> 00:04:20,520
+verstehen, dann, also das könnte man ja auch sagen. Damals habe ich halt gedacht, okay,
+
+44
+00:04:20,520 --> 00:04:26,200
+Analogien bilden bedeutet verstehen, aber ich denke, der Schritt ist schon davor. Also das
+
+45
+00:04:26,200 --> 00:04:31,960
+Ausfüllen aller möglichen Beziehungen zwischen allen Knoten, das Erstellen dieser Grafen sozusagen.
+
+46
+00:04:31,960 --> 00:04:36,280
+Beim ersten Mal, das würde ich verstehen meinen. Wenn man sozusagen alle Beziehungen zwischen
+
+47
+00:04:36,280 --> 00:04:42,280
+allen Knoten hat, dann hat man es auch verstanden. So, und Lernen zum Beispiel ist jetzt in dieser
+
+48
+00:04:42,280 --> 00:04:47,880
+Welt sozusagen ganz einfaches Beispiel die Idee, okay, Feuer, das ist das, was hell ist, was leuchtet
+
+49
+00:04:47,880 --> 00:04:56,680
+und heiß ist. Verstehen wäre jetzt aber, warum ist es so? Und was ist der Grund dafür? Denn es gibt
+
+50
+00:04:56,680 --> 00:05:00,400
+sicherlich auch andere Dinge, die könnte man sich vorstellen, die leuchten und heiß sind oder auch
+
+51
+00:05:00,400 --> 00:05:08,080
+leuchten und nicht heiß sind. Wenn ich einen Fernsehmonitor habe, in dem ein Feuer abgebildet
+
+52
+00:05:08,080 --> 00:05:13,960
+ist, dann sieht es aus wie Feuer, ist aber nicht heiß. Oder ich habe einen Spiegel, der spiegelt mir
+
+53
+00:05:13,960 --> 00:05:20,200
+Feuer und hinter dem Spiegel ist aber auch noch ein Lagerfeuer und das wärmt den Spiegel und dann
+
+54
+00:05:20,200 --> 00:05:24,040
+ist der Spiegel zum Beispiel auch tatsächlich heiß. Das ist ein anderer Grund, aber es sieht
+
+55
+00:05:24,040 --> 00:05:27,760
+erstmal genauso aus, so nach dem Motto, sowas könnte man sich vorstellen. Und ich hatte den Tag,
+
+56
+00:05:27,760 --> 00:05:32,640
+als ich mit den Jungs zu Cannibal Corpse nach Leipzig gefahren bin, meinen MP3-Player dabei und da
+
+57
+00:05:32,640 --> 00:05:38,080
+hatte ich irgendwie drei Podcasts drauf und irgendwie 200, 300 Songs und wir haben All-Rennen-Button
+
+58
+00:05:38,080 --> 00:05:43,440
+gedrückt in seinem Auto-Radio und trotzdem war jeder Zweite, immer wenn ein Song zu Ende war,
+
+59
+00:05:43,440 --> 00:05:50,160
+kam erstmal ein Podcast, obwohl die Verteilung ja eigentlich sowas wie 200 zu 3 war. Naja und weil
+
+60
+00:05:50,160 --> 00:05:54,280
+wir aber alle programmieren können, haben wir sofort geschlussfolgert, ah, okay, offensichtlich
+
+61
+00:05:54,280 --> 00:05:59,520
+ist das scheiße programmiert. Was es macht ist, es guckt in den Root-Ordner rein, sieht da zwei
+
+62
+00:05:59,520 --> 00:06:05,080
+Ordner, nämlich Podcasts und Musik und dann würfelt es erstmal da zufällig aus, dann ist die Verteilung
+
+63
+00:06:05,080 --> 00:06:10,880
+50-50 und dann in diesen Ordner noch mal zufällig, sodass man am Ende erkennt, ah, okay, das ist
+
+64
+00:06:10,880 --> 00:06:14,720
+wirklich vom Kind programmiert. Ein richtiger Suchheitsgenerator müsste quasi interne IDs
+
+65
+00:06:14,720 --> 00:06:20,920
+vergeben für jede MP3 und dann daraus zufällig wählen. Aber gut, das übrigens zeigt einem schon,
+
+66
+00:06:20,920 --> 00:06:25,160
+Leute, die so einen technischen Verstand haben, können sich schon eher überlegen,
+
+67
+00:06:25,160 --> 00:06:28,240
+wie es wahrscheinlich intern strukturiert ist. Das ist ja nur eine Vermutung, es könnte auch
+
+68
+00:06:28,240 --> 00:06:32,280
+anders codet sein, aber das war unsere erste Vermutung, wie es codet ist, diese scheiße
+
+69
+00:06:32,280 --> 00:06:43,560
+Autoradio-Random-Funktion. Und ja, also wenn wir jetzt eine Sache verstanden haben, also noch mal
+
+70
+00:06:43,560 --> 00:06:47,520
+in diesem Bild mit den Grafen, quasi wenn man alle Grafen zwischen allen Punkten hat, dann hat man
+
+71
+00:06:47,520 --> 00:06:54,600
+etwas verstanden. Und es bedeutet, dass alle zur Beschreibung notwendigen Grafen zwischen den
+
+72
+00:06:54,600 --> 00:07:01,080
+Bestandteilen des Systems vorliegen. Das bedeutet es. So, und neue Sachen lernen heißt jetzt erst
+
+73
+00:07:01,080 --> 00:07:10,000
+mal nur die Knoten zu kennen, also die Punkte, die ganzen Bestandteile eines Systems. Das ist
+
+74
+00:07:10,000 --> 00:07:16,880
+meiner Meinung nach lernen und sich die einzuprägen. Wenn man jetzt diese Knoten auf etwas bereits
+
+75
+00:07:16,880 --> 00:07:21,920
+verstandenes abbilden kann, weil sie sozusagen wie eine Schablone auf den drauf liegen, dann
+
+76
+00:07:21,920 --> 00:07:26,160
+kann man wahrscheinlich auch schneller verstehen, diese Beziehungen und dann diesen Knoten wieder
+
+77
+00:07:26,160 --> 00:07:33,200
+zu lernen und damit das System zu verstehen. Und ich denke, so kann man auch richtig gut sich klar
+
+78
+00:07:33,200 --> 00:07:37,960
+machen, wieso es Leuten, die sechs Fremdsprachen können, richtig einfach fällt oder nicht so
+
+79
+00:07:37,960 --> 00:07:41,800
+schwer fällt, noch eine siebte Fremdsprache zu lernen. Einfach weil sie schon so viele
+
+80
+00:07:41,800 --> 00:07:49,120
+Fremdsprachen gelernt haben. Und manchmal reicht es ja auch aus, nur Teile, nur bestimmte Teile mit
+
+81
+00:07:49,120 --> 00:07:55,400
+Grafen sozusagen aufzufüllen und dieses emergente Objekt dann abzuschließen. Also was meine ich
+
+82
+00:07:55,400 --> 00:07:59,440
+jetzt, was weiß ich, zum Beispiel meine Bierdose, die Atome von meiner Bierdose haben mit den
+
+83
+00:07:59,440 --> 00:08:02,600
+Molekülen von meinem Tisch hier erst mal nichts zu tun, auch wenn ich die da drauf stelle,
+
+84
+00:08:02,600 --> 00:08:08,320
+dann sind es nur bestimmte davon, nicht alle des Tisches und so. Und dieses Abschließen, dieses
+
+85
+00:08:08,320 --> 00:08:16,120
+Trennen von bestimmten Knoten und bestimmten Objekten, die aus Grafenbündeln sozusagen
+
+86
+00:08:16,120 --> 00:08:20,600
+bestehen zu anderen disjunkten Mengen, das ist das, was wir typischerweise machen, wenn
+
+87
+00:08:20,600 --> 00:08:24,840
+wir Modellbildung machen. Wir machen diese Heuristik schon, wir trennen Dinge voneinander in
+
+88
+00:08:24,840 --> 00:08:30,440
+unserer Modellbildung und geben denen dann noch zwischen diesen Grafenbündeln sozusagen einzelne
+
+89
+00:08:30,440 --> 00:08:36,120
+wenige Grafen, die wir dann quasi Beziehungen zwischen diesen Objekten nennen würden. Wobei
+
+90
+00:08:36,120 --> 00:08:40,040
+laut Quantenmechanik ist es ja sozusagen anders. Also laut Quantenmechanik würde ich sagen,
+
+91
+00:08:40,040 --> 00:08:47,400
+zu einem Zeitpunkt unseres Universums haben wir sozusagen den kompletten Zustand des Universums
+
+92
+00:08:47,400 --> 00:08:53,800
+da, den Phasenraum, da sind auch die Impulse der Teilchen mit drin und dieser Zustand hängt
+
+93
+00:08:53,800 --> 00:09:00,040
+nur von dem Zustand des vorherigen Universums sozusagen ab. Und die Art und Weise, wie das
+
+94
+00:09:00,040 --> 00:09:05,280
+den Zustand wechselt, das modellieren wir mit dem, was wir Physik nennen, mit den physikalischen
+
+95
+00:09:05,280 --> 00:09:16,200
+Modellen. Katzen machen hier irgendwas. So sprechen wir typischerweise immer übrigens von
+
+96
+00:09:16,200 --> 00:09:20,400
+Kausalität. Wenn wir sozusagen getränkte Objekte haben, die nur noch mit ganz wenigen Grafen
+
+97
+00:09:20,400 --> 00:09:24,160
+miteinander verbunden werden, dann sind diese Beziehungen, die nennen wir typischerweise
+
+98
+00:09:24,160 --> 00:09:29,080
+kausale Beziehungen. Also wenn wir nicht den gesamten Phasenraum des Universums nehmen,
+
+99
+00:09:29,080 --> 00:09:36,160
+sondern den Phasenraum in ganz, ganz viele kleine Stücke unterscheiden, aufbrechen sozusagen in
+
+100
+00:09:36,160 --> 00:09:44,960
+Objekte. Und ich denke, wenn wir den kleinstmöglichen Satz an Grafen haben, um eine Wenn-Dann-Beziehung
+
+101
+00:09:44,960 --> 00:09:50,200
+zu modellieren, dann nennen wir das Kausalität. Dann nennen wir das einen kausalen Zusammenhang.
+
+102
+00:09:50,200 --> 00:09:58,600
+Und das Schöne ist, Kausalität ist also schon auch irgendwas, was grundsätzlich von unseren
+
+103
+00:09:58,600 --> 00:10:03,800
+Modellen abhängt, ist ja klar, sprich von unseren Grafen. Und Joscha Bach hat es schon mal so schön
+
+104
+00:10:03,800 --> 00:10:10,000
+formuliert, zwischen Kausalität und Korrelation hat man leider immer eine sehr starke Korrelation.
+
+105
+00:10:10,000 --> 00:10:17,560
+Und Physik ist in dem Sinne auch der Versuch, die Funktion sozusagen zu finden, für zwei
+
+106
+00:10:17,560 --> 00:10:23,160
+aufeinander folgende Zustände oder Phasenräume, die miteinander zu korrelieren. Das ist das,
+
+107
+00:10:23,160 --> 00:10:29,720
+was Physik eigentlich macht. Also kann man auch sagen, naja, Kausalität immergiert also erst aus
+
+108
+00:10:29,720 --> 00:10:38,120
+dem Vernachlässigen der größtmöglichen Menge an Grafen zwischen zwei nunmehr getrennten Phasenräumen,
+
+109
+00:10:38,120 --> 00:10:44,200
+also Objekten in diesem Phasenraum des Universums sozusagen. Und wenn diese Objekte in direkter
+
+110
+00:10:44,200 --> 00:10:50,240
+Wechselwirkung stehen, haben sie quasi ein Interface für kausalen Zusammenhang. So könnte
+
+111
+00:10:50,240 --> 00:10:55,520
+man Kausalität jetzt sozusagen auch vorkonieren. Blöd gesagt, kann man aber auch einfach sagen,
+
+112
+00:10:55,520 --> 00:11:01,320
+okay, Kausalität ist immer sozusagen unsere Kategorie, um auf Wieso- und Warum-Fragen zu
+
+113
+00:11:01,320 --> 00:11:09,320
+antworten. Klar, das ist eh klar. Aber ja, so, und wenn man jetzt typischerweise als menschlicher
+
+114
+00:11:09,320 --> 00:11:15,520
+Verstand über die Korrelationsschwelle nicht drüberkommt, sprich, keinen Warum hat, dann denke
+
+115
+00:11:15,520 --> 00:11:21,040
+ich einfach mal, dann lebt man in einer sehr oberflächlichen Beschreibung des Universums oder
+
+116
+00:11:21,040 --> 00:11:26,080
+in einer oberflächlichen Realität sozusagen und wird permanent auch überrascht sein. Weil man ja,
+
+117
+00:11:26,080 --> 00:11:30,720
+wenn man keine kausalen Zusammenhänge versteht, schlechte Predictions haben wird. Und wenn man
+
+118
+00:11:30,720 --> 00:11:34,200
+jetzt sozusagen keine Antwort auf die Warum-Frage hat und dann nicht überrascht ist, denke ich mal,
+
+119
+00:11:34,200 --> 00:11:40,080
+dass aus dieser permanenten Überraschung auch eine Reizung und ein Offendismus entsteht. Und dann ist
+
+120
+00:11:40,080 --> 00:11:44,080
+man halt wahrscheinlich auch super aggressiv. Und zack, hat man damit auch direkt Rassisten erklärt.
+
+121
+00:11:44,080 --> 00:11:50,320
+Und beziehungsweise, ich habe auch hier dieses schöne Bild, von wegen für dich sieht natürlich
+
+122
+00:11:50,320 --> 00:11:53,680
+alles aus wie eine Verschwörungstheorie, weil du einfach gar nicht verstanden hast, wie überhaupt
+
+123
+00:11:53,680 --> 00:12:00,800
+irgendwas funktionieren kann. Ja, und apropos Rassisten und so, ich habe hier noch ein Nature
+
+124
+00:12:00,800 --> 00:12:06,000
+Paper, was ich unbedingt lesen muss. Es heißt, why do inequality and deprivation produce high
+
+125
+00:12:06,000 --> 00:12:11,320
+crime and low trust? Und die Frage, die man sich ja ernsthaft stellen muss, wenn man so eine
+
+126
+00:12:11,320 --> 00:12:14,720
+Datenerhebung hat, also man beobachtet offensichtlich eine Korrelation zwischen,
+
+127
+00:12:14,720 --> 00:12:19,240
+wie groß ist die Einkommensverteilung, die Ungleichheit der Einkommensverteilung in einer
+
+128
+00:12:19,240 --> 00:12:25,720
+gegebenen Gruppe und damit korrigiert unfassbar stark Kriminalitätsraten und auch Social Trust.
+
+129
+00:12:25,720 --> 00:12:29,440
+Und jetzt ist doch die Frage, Menschen, die in so einer Gruppe sind, die haben ja gar nicht die
+
+130
+00:12:29,440 --> 00:12:34,120
+vollständigen Satz an Informationen da. Die kennen ja gar nicht die konkrete, quantitative
+
+131
+00:12:34,120 --> 00:12:38,720
+Einkommensverteilungskurve. Das Histogramm haben sie ja gar nicht vorliegen. Und trotzdem beobachten
+
+132
+00:12:38,720 --> 00:12:43,720
+wir, dass diese Korrelation immergiert. Das heißt, ich stelle es mir so schon ziemlich schwer vor,
+
+133
+00:12:43,720 --> 00:12:47,960
+dass überhaupt da ein Paper drüber zu schreiben. Deswegen bin ich auf jeden Fall gespannt,
+
+134
+00:12:47,960 --> 00:12:51,920
+mir das mal reinzuknallen. Ich denke mal, in einigen Zugfahrten werde ich es mir mal reinknallen. Und
+
+135
+00:12:51,920 --> 00:12:55,080
+wenn ich dann soweit bin, werde ich wahrscheinlich sogar ein Video dazu machen, weil das sieht nach
+
+136
+00:12:55,080 --> 00:13:00,680
+einem richtig guten Paper aus zu meinem Nature Paper. Ich habe jetzt hier für das Ende des Videos
+
+137
+00:13:00,680 --> 00:13:06,640
+noch so ein paar klassische Korrelations- und Kausalitäts-Fails rausgesucht, die ich mir im
+
+138
+00:13:06,800 --> 00:13:11,320
+Laufe des letzten Jahres immer notiert hatte, wenn ich mal einen gesehen habe. Ein Artikel hieß jetzt
+
+139
+00:13:11,320 --> 00:13:19,440
+zum Beispiel, Kinder von Helikoptereltern sind später reicher. Mögliche Korrelationen gibt es
+
+140
+00:13:19,440 --> 00:13:23,040
+da sicherlich, aber ich denke mal, es ist kein kausaler Zusammenhang, dass es an dem Helikoptereltern
+
+141
+00:13:23,040 --> 00:13:27,360
+Dasein liegt, also dem Verhalten, was die Helikoptereltern an den Tag legen. Ich denke,
+
+142
+00:13:27,360 --> 00:13:32,840
+es hat einfach was mit Klassismus zu tun. Leute, die es sich leisten können, Helikoptereltern zu
+
+143
+00:13:32,840 --> 00:13:39,240
+sein, sind wahrscheinlich erst mal auch reicher und Privileg vererbt sich am Kapitalismus. Und es
+
+144
+00:13:39,240 --> 00:13:42,760
+ist auch klar, typischerweise sind reiche Leute auch die, die weniger Kinder haben. Das heißt,
+
+145
+00:13:42,760 --> 00:13:50,400
+die projizieren mehr in dieses eine Kind rein. Ein anderes Ding ist, Metalmusik macht fett. Also
+
+146
+00:13:50,400 --> 00:13:53,880
+gäbe es offensichtlich eine Korrelation, aber ich gehe mal davon aus, das ist kein kausaler
+
+147
+00:13:53,880 --> 00:13:59,400
+Zusammenhang. Dann gibt es, von der Tagesschau habe ich einen übelst lächerlichen Fail gesehen,
+
+148
+00:13:59,400 --> 00:14:05,280
+nämlich der Anstieg von Cannabis-Produkten. Konsum korreliert offensichtlich mit der Anzahl
+
+149
+00:14:05,280 --> 00:14:10,440
+von psychischen Krankheiten. Dass es da aber jetzt vielleicht also noch ganz andere Gründe gibt,
+
+150
+00:14:10,440 --> 00:14:16,200
+wie zum Beispiel Kapitalismus und Sachzwänge und furchtbare Gesellschaft und Krisenhaftigkeit des
+
+151
+00:14:16,200 --> 00:14:21,560
+Systems und so. Dass das vielleicht irgendwas mit den Mental Disorders zu tun haben könnte,
+
+152
+00:14:21,560 --> 00:14:27,240
+naja, das egal. Es muss auf jeden Fall mit dem Cannabis zusammenhängen. Vor allem könnte man
+
+153
+00:14:27,400 --> 00:14:31,960
+sagen, Leute, die eher gestresst sind, kiffen halt viel lieber, um runterzukommen. Aber gut,
+
+154
+00:14:31,960 --> 00:14:35,280
+das ist auch noch eine ganz andere Sache. Und dann habe ich auch noch dieses lustige Bild mit,
+
+155
+00:14:35,280 --> 00:14:43,400
+wenn man hier Fitness, dann ist man auf jeden Fall eher rechtsaußen. Oder was man zum Beispiel auch
+
+156
+00:14:43,400 --> 00:14:48,160
+hat, ist, ich habe den Tag gesehen, Ola und Wolfgang hatten eine Folge zum GenderPay-Git,
+
+157
+00:14:48,160 --> 00:14:52,600
+die habe ich mir leider noch nicht reingezogen. Aber beim GenderPay-Git kann man zum Beispiel auch
+
+158
+00:14:52,600 --> 00:14:56,520
+beobachten, dass es einfach bestimmte Berufe gibt, die deutlich weniger verdienen, obwohl sie
+
+159
+00:14:56,520 --> 00:15:01,600
+eigentlich viel härter sind. Und die Schlussfolgerung jetzt irgendwie, dass es sich um Jobs handelt,
+
+160
+00:15:01,600 --> 00:15:07,200
+die weniger verdienen, in Anführungsstrichen, ist natürlich reine Ideologie. Nur weil dort
+
+161
+00:15:07,200 --> 00:15:10,800
+weniger Geld gezahlt wird, was heißt das jetzt eigentlich genau? Na ja, ich würde sagen,
+
+162
+00:15:10,800 --> 00:15:15,600
+das heißt, der Markt bewertet das niedriger. Aber wieso eigentlich? Na ja, dazu muss man
+
+163
+00:15:15,600 --> 00:15:21,480
+erstmal anerkennen, dass der Markt sozial immergiert und dass Wirtschaftswissenschaften
+
+164
+00:15:21,520 --> 00:15:26,720
+eigentlich in den Soziologie-Teilbereich sein müssen. Es könnte also wahrscheinlich sich
+
+165
+00:15:26,720 --> 00:15:32,440
+um einen sozial emergenten Effekt handeln. Und ich nehme mal stark an, dass typische Männerberufe
+
+166
+00:15:32,440 --> 00:15:38,680
+höher bezahlt werden, wenn sie sozusagen mehr Qualifikation in Anführungsstrichen haben. Ganz
+
+167
+00:15:38,680 --> 00:15:42,600
+einfach deswegen, weil höhere Qualifikation bedeutet typischerweise, man muss dafür länger
+
+168
+00:15:42,600 --> 00:15:47,920
+greinden. Das heißt, es machen einfach weniger. Und deswegen, weil es weniger machen, können
+
+169
+00:15:47,920 --> 00:15:53,040
+sozusagen einige wenige ein besseres Kartell im Sinne des Gefangendilemmas, das sie spielen,
+
+170
+00:15:53,040 --> 00:15:59,240
+aufbauen, um dann sich selber höhere Löhne sozial immergieren zu lassen. Und das sieht man
+
+171
+00:15:59,240 --> 00:16:03,640
+ja zum Beispiel bei Ärzten gegenüber dem Pflegepersonal oder Ingenieure gegenüber dem
+
+172
+00:16:03,640 --> 00:16:09,240
+Bauarbeiter. Ja, und es ist ja auch nicht so, dass Pflegeberufe irgendwie entspannter sind.
+
+173
+00:16:09,240 --> 00:16:16,680
+Das sind einfach übelst knallharte Berufe. Und Pflegeberufe sind natürlich auch die,
+
+174
+00:16:16,680 --> 00:16:21,000
+die die schlechteste Verhandlungsbasis haben. Die fangen ja nicht an zu streiken oder so.
+
+175
+00:16:21,000 --> 00:16:25,400
+Menschen mit Empathie können ja nicht einfach zusehen, für mehr Gehalt Menschen sterben zu
+
+176
+00:16:25,400 --> 00:16:30,560
+sehen oder so. Das ist ja Schwachsinn. Aber ja, ich wollte nur mal dieses kurze, knappe Video
+
+177
+00:16:30,560 --> 00:16:34,840
+machen, um jetzt noch mal ganz klar zu machen, Korrelation und Kausalität, damit ihr jetzt mal
+
+178
+00:16:34,840 --> 00:16:37,840
+wirklich Bescheid wisst. Weil ich sag's ja auch ständig und so. Und irgendwie hab ich das noch
+
+179
+00:16:37,840 --> 00:16:42,480
+nie gemacht, dieses Video. Grafentheorie, ihr wisst schon Bescheid. Das ist echt eine gute
+
+180
+00:16:42,480 --> 00:16:52,480
+Beschreibung, finde ich. Rengar und YouTuber. Man bekommt nicht automatisch, nur dadurch,
+
+181
+00:16:52,480 --> 00:16:56,280
+dass man Ralph Lauren trägt, bessere Noten. Aber man bekommt meistens bessere Noten dadurch,
+
+182
+00:16:56,280 --> 00:17:03,000
+dass man dann halt einfach motivierter ist, durchzuziehen. Man ist auch in einem anderen
+
+183
+00:17:03,000 --> 00:17:10,120
+Umfeld automatisch. Man ist von so einer gewissen Aura auch umgeben. Und das führt dann quasi in
+
+184
+00:17:10,120 --> 00:17:13,040
+einem indirekten Schritt dazu, dass man schon bessere Noten trägt.
+
+185
+00:19:40,120 --> 00:20:10,120
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+
+186
+00:20:10,120 --> 00:20:23,080
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh fell
+
+187
+00:20:25,620 --> 00:20:27,120
+Surprise
+
+188
+00:20:31,380 --> 00:20:32,620
+Oh
+
+189
+00:20:40,120 --> 00:21:10,120
+Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh
+
+190
+00:21:10,120 --> 00:21:17,020
+...
+
+191
+00:21:40,120 --> 00:21:42,120
+Das war's für heute.
+
+192
+00:21:42,120 --> 00:21:44,120
+Bis zum nächsten Mal.
+
+193
+00:22:10,120 --> 00:22:12,120
+Das war's für heute.
+
+194
+00:22:12,120 --> 00:22:14,120
+Bis zum nächsten Mal.
+
+195
+00:22:14,120 --> 00:22:16,120
+Bis zum nächsten Mal.
+
+196
+00:22:40,120 --> 00:22:42,120
+Das war's für heute.
+
+197
+00:22:42,120 --> 00:22:44,120
+Bis zum nächsten Mal.
+
+198
+00:22:44,120 --> 00:22:46,120
+Bis zum nächsten Mal.
+
+199
+00:22:46,120 --> 00:22:48,120
+Bis zum nächsten Mal.
+
+200
+00:22:48,120 --> 00:22:50,120
+Bis zum nächsten Mal.
+
+201
+00:22:50,120 --> 00:22:52,120
+Bis zum nächsten Mal.
+
+202
+00:22:52,120 --> 00:22:54,120
+Bis zum nächsten Mal.
+
+203
+00:22:54,120 --> 00:22:56,120
+Bis zum nächsten Mal.
+
+204
+00:22:56,120 --> 00:22:58,120
+Bis zum nächsten Mal.
+
+205
+00:22:58,120 --> 00:23:00,120
+Bis zum nächsten Mal.
+
+206
+00:23:00,120 --> 00:23:02,120
+Bis zum nächsten Mal.
+
+207
+00:23:02,120 --> 00:23:04,120
+Bis zum nächsten Mal.
+
+208
+00:23:04,120 --> 00:23:06,120
+Bis zum nächsten Mal.
+
+209
+00:23:06,120 --> 00:23:08,580
+ưỏ
+
+210
+00:23:25,920 --> 00:23:27,920
+übrigens...
+
+211
+00:23:27,920 --> 00:23:30,580
+der Kanal ist wie eine schöne Vorlesung aufgebaut.
+
+212
+00:23:30,580 --> 00:23:32,480
+Wenn ich unten Videos verlinke meatw Nicole
+
+213
+00:23:32,480 --> 00:23:34,480
+Dann ähm...
+
+214
+00:23:34,480 --> 00:23:38,240
+angebracht, sich die auch reinzuziehen, weil das aufeinander aufbaut. Bestimmte Begriffe
+
+215
+00:23:38,240 --> 00:23:43,480
+werden definiert, viele Beispiele werden genannt und ich denke mir schon was dabei,
+
+216
+00:23:43,480 --> 00:23:47,720
+weil es sozusagen meinen eigenen Erkenntnisprozess abbildet, die Reihenfolge in denen ich die Videos
+
+217
+00:23:47,720 --> 00:23:48,220
+hier hoch lade.
+

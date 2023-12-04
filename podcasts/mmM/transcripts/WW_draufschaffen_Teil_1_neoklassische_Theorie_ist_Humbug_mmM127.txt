@@ -1,0 +1,359 @@
+Sie haben sozusagen dann gesehen, sie kriegen überall Korrelationskoeffizienten von 99,9% oder so was.
+Und waren total überrascht und dachten, sie sind die Allergeilsten, sie haben es voll drauf.
+Das war sozusagen das, was sie beobachtet haben. Sie haben Folgendes gemacht.
+Sie haben in ihr Modell neoklassische Theorie reingesteckt und waren dann total verwundert, dass die immer funktioniert.
+Ganz einfach, weil sie per Definition immer wahr ist.
+Egal wie man es anstellt, man kann dieses Ding überhaupt nicht falsifizieren.
+Es ist nämlich eine Identität, die muss immer wahr sein per Definition.
+Das ist so witzig.
+So Leute, ich hatte mal irgendwann im sechsten Semester oder so, ich weiß nicht mehr genau,
+eine Vorlesung, die hieß, nicht lineare Systeme oder dynamische Systeme oder so.
+Und die war gemacht von so einem Typen, der auch so granulare Medien und so macht.
+Aber was er da zeigen wollte in der Vorlesung öfter, war so Musterbildung.
+Und sein Beispiel war zum Beispiel Zebrastreifen.
+Kann man irgendwie ermitteln, wieso die jetzt eine gewisse, wieso die genau so einen Abstand haben,
+wie das, was wir bei Zebras beobachten können. Oder irgendwelche Muster auf Muscheln oder so.
+Oder wenn man irgendwie Flüssigkeiten hat, die an der Regenscheibe runtertropfen.
+Kann man irgendwie sich überlegen, wie muss sozusagen die räumliche Frequenz,
+also die Wellenlänge sein zwischen den einen Tropfen, der da runterkullert
+und so ein Wasserfaden hinter sich herzieht und demnächst benachbarten Wasserfaden.
+Und kann man da irgendwie im Schnitt so eine durchschnittliche Abstand ermitteln.
+Kriegt man das irgendwie aus der Theorie raus.
+Also in dem Fall hat es ja was mit Oberflächenspannung zu tun und so.
+Das war sozusagen die Fragestellung in der Vorlesung.
+Und ich hatte irgendwann so einen kurzen Moment in der Vorlesung,
+wo ich mich dann auch gemeldet habe und ihn gefragt habe,
+haben wir nicht gerade das reingesteckt, was wir hinterher beobachten wollen.
+Also haben wir nicht sozusagen einen Zirkelschluss gemacht und jetzt gezeigt,
+dass wir das, was wir vorher reingesteckt haben, auch tatsächlich rausbekommen als Ergebnis.
+Und da brauchen wir ja gar nicht verwundert sein.
+Ich hatte kurz diesen Eindruck.
+Was ich aber irgendwie, was ich aber da an dem Tag nicht so richtig gecheckt hatte,
+war, dass man da im Prinzip einfach nur einen Ansatz gemacht hat für eine Differenzialgleichung.
+Und die Differenzialgleichung, die kam natürlich aus First Principles,
+was man typischerweise die physikalischen Gesetze nennt.
+Und das ist immer so, dass man einen Ansatz macht, wenn man Differenzialgleichung hat.
+Und dann sozusagen, da sind typischerweise freie Parameter.
+Und anhand dieser Dimension, wenn man das löst und die Parameter dann die Werte bestimmt,
+indem man mal sozusagen Anfangsbedingungen oder echte Daten anwendet,
+dann kriegt man sozusagen die Parameter raus und die sagen einem was über die Welt.
+So funktioniert das eigentlich.
+Ich hatte aber trotzdem kurz den Eindruck, dass das ein Zirkelschluss ist.
+War aber keiner.
+Und ganz anders ist das in der VWL.
+Und ich habe ja schon gesagt, ich will mir jetzt dieses Buch von Anmar Scheik reinknallen,
+diese 800 Seiten.
+Ich habe noch nicht angefangen.
+Aber wie bin ich überhaupt auf den Typen gekommen?
+Na ja, ich habe so ein paar interessante Beiträge gefunden,
+die so ein bisschen auf Inkonsistenzen in der VWL hinweisen.
+Und da wurde ich sozusagen verlinkt auf dieses Paper von Anmar Scheik,
+über das ich jetzt hier so ein bisschen reden will.
+Und worum geht es?
+Na ja, in der VWL gibt es die sogenannte neoklassische Theorie,
+zum Beispiel der Produktionsfaktoren.
+Und es gab zwei Typen, Cobb und Douglas heißen die.
+Und die haben eine sogenannte Cobb-Douglas-Produktionsfunktion gefunden.
+Es war sozusagen eine große Errungenschaft.
+Und im Prinzip handelt es sich um eine Ersatzfunktion, eine sogenannte Serogate Function.
+Die nehmen nämlich Folgendes an.
+Der Ertrag, den man typischerweise aus einem Produktionsprozess bekommt
+oder aus einer Firma oder aus einer Gesamtnationalökonomie,
+der unterliegt bestimmten Gesetzmäßigkeiten,
+die sozusagen die neoklassische Theorie einfach postuliert.
+Und die stecken jetzt sozusagen diese Postulate der neoklassischen Theorie
+sozusagen als Bedingung rein in ihre Funktion.
+Und sie wollen eine Ersatzfunktion finden, die das macht.
+Sie gehen also davon aus, es gibt einen funktionalen Zusammenhang
+zwischen sogenannten Produktionsfaktoren und dem Erlös oder dem Output
+eines Produktionsprozesses bzw. einer Nationalökonomie.
+Dass sozusagen alles abbildbar ist mit so einer kleinen Touring-Maschine,
+in die man sozusagen diese beiden Sachen zum Beispiel reinsteckt, Produktionsfaktoren.
+Und hinten kommt sozusagen das Ergebnis heraus.
+Das ist die Idee.
+Und die Frage war sozusagen, finden wir einen funktionalen Zusammenhang?
+Können wir das modellieren? Mit ein paar Parametern dran.
+So ähnlich wie die Ansätze bei den Differential-Gleichungen auch.
+Bloß dass sie sozusagen nicht auf First Principles beruhen,
+sondern einfach auf neoklassische Theorie, die nicht weiter erklärt wird.
+Und auch wie ich später wahrscheinlich noch mehr ausführen werde in dieser Videoreihe,
+die ich jetzt anfange, die relativ eigentlich gar nicht gut begründet werden können.
+Sondern eher esoterik sind.
+Und alles so ab dem Zeitpunkt, wo so Milton Friedman und so Konsorten angefangen haben,
+Wirtschaftswissenschaften zu betreiben, eigentlich der ganze Spaß erst richtig losging.
+Und jetzt zu dieser Produktionsfunktion. Was sollte die machen?
+Also erstmal haben sie sozusagen diese Funktion mehr oder weniger kaffeesatzmäßig erraten.
+Also sie haben sozusagen übelst viele Daten sich angeguckt und einen riesen Aufsatz geschrieben.
+Ich hab das Paper nicht komplett gelesen.
+Es ist wirklich übelst lange Wall of Text, bis es dann losgeht im Punkt 6,
+wo sie dann diese Funktion hinschreiben oder den Ansatz machen.
+Und vielleicht werde ich auch ein paar Sachen einblenden aus den Papern, über die ich jetzt hier rede.
+Was soll sie machen?
+Sie soll den sogenannten Grenzertag bei konstantem Kapitalstock, der soll gegen eine Konstante gehen.
+Was bedeutet das?
+Wenn ihr den Kapitalstock, also sozusagen das Investment oder was ihr an Kapital reintut in den Produktionsprozess,
+wenn der konstant bleibt, das könnte zum Beispiel sowas sein wie Material für eure Fließbrandproduktion von Kaffeetassen.
+Das Beispiel aus meinem letzten Video.
+Wenn das so ist, dann soll, wenn ihr zusätzliche Arbeit in den Produktionsprozess reintut,
+dann soll das Output davon nur noch immer weniger effizient werden dadurch und de facto im Prinzip gegen eine Konstante gehen.
+Das heißt, irgendwann ist es so, dass ein zusätzlicher Arbeiter am Fließband nicht mehr viel mehr bringt.
+Am Anfang, wenn ihr sozusagen ein Fließband habt und ihr habt nur einen Arbeiter und ihr tut noch einen dazu,
+dann ist es quasi eine Verdopplung, weil sozusagen so viel Material da ist, dass ihr den Produktionsprozess auf jeden Fall knüppeln könnt.
+Aber irgendwann gibt es eine Sättigung.
+Das ist sozusagen eine Sache, die die Produktionsfunktion, die Douglas Produktionsfunktion erfüllen soll.
+Und das bedeutet im Prinzip, dass die Ableitung von dem Ding monoton gegen Null geht im Unendlichen.
+Also die muss abnehmen mit der Arbeit, mit der Arbeitskraft, wenn ihr die wachsen lasst.
+Die nächste Eigenschaft ist, es muss die sogenannte abnehmende Grenzrate der technischen Substitutionen da sein.
+Was meint man damit?
+Naja, man kann entweder Arbeit mit Kapital substituieren.
+Also ich kann mehr Geld, mehr sozusagen investieren und dafür weniger Arbeiter haben, die ich dann teurer bezahle oder so.
+Oder mehr Arbeiter reinstecken und dafür weniger bezahlen.
+Das ist sozusagen, ich kann die umrechnen ineinander.
+Es muss also irgendwie einen funktionalen Zusammenhang zwischen diesen beiden geben.
+Das stecken die da sozusagen schon rein.
+Wenn man den Output konstant lässt.
+Und da redet man sozusagen von einer Isoquante.
+Das erinnert mich so ein bisschen an Thermodynamik.
+Da hat man sozusagen auch die Isokoren und die Isobanen und so.
+Und da gibt es auch genau diese Sachen, dass sozusagen die Produkte von den Dingern eine Konstante sind.
+Und daraus ergeben sich dann immer sozusagen die thermodynamischen Sonderfälle wie ideale Gasgleichung und so.
+Und daraus kommt im Prinzip, folgt dann immer daraus, dass man immer so einen konvexen Graph kriegt.
+Bei konstantem Output, dass sozusagen wenn das eine gegen unendlich geht, muss das andere gegen Null gehen.
+Beziehungsweise wenn das eine gegen Null geht, muss das andere gegen unendlich gehen.
+Und irgendwo da in der Mitte ist so ein Sweetspot, da will man am liebsten sein.
+Weil da sozusagen die Raten die gleiche Dimension ungefähr haben.
+Wenn ich also sagen wir mal einen Arbeiter hinzupacke, dann kann ich ein bisschen Kapital einsparen.
+Ich kann aber auch den Freiheitsgrad haben.
+Ich will, habe mehr Kapital und dann kann ich jemanden, also ich kann mehr investieren.
+Und dafür kann ich aber ein Arbeiter wieder entlassen oder so.
+Also sozusagen auf diesem Level spielt das und das ist halt eine konvexe Funktion, die sowas macht.
+Typischerweise so ein 1 durch X Verlauf.
+Muss, ist aber kein exakter 1 durch X Verlauf, das sieht man dann sozusagen am Ende was da rauskommt.
+Und was es auch noch machen soll, die Surrogate Function, die muss sozusagen eine konstanten Skalenertrag in sich drin haben.
+Was meinen die damit?
+Naja, die Funktion, mathematisch gesehen, sie muss die Homogenität vom Grad 1 haben.
+Ich glaube so heißt das.
+Wie habe ich mir das hier hingeschrieben?
+Ja genau, Homogenität vom Grad 1 bedeutet im Prinzip linear, wenn ich Arbeit und Kapital verdopple, dann verdoppelt sich auch das Output.
+Wenn ich es verdreifache, dann verdreifacht sich das.
+Das ist die Idee.
+Und das ist so ungefähr die Idee.
+Es soll aber auch noch, also ihr Modell sollte am besten auch noch Folgendes erzeugen, nämlich steigende und fallende Skalenerträge.
+Das heißt, dass es nicht ganz sich verdoppelt, sondern vielleicht Faktor 1,1 oder so.
+Also 101% zunehmend, wenn ich irgendwie, sagen wir mal, ich verdopple es und es soll sich nicht verdoppeln, sondern es soll ein bisschen mehr als verdoppelt werden.
+Dann habe ich einen steigenden Skalenertrag.
+Andersrum soll es vielleicht auch modellieren können, den Fall, dass selbst wenn ich es verdopple, es sich nicht ganz verdoppelt, sondern nur 90% noch oben draufkommt.
+Also nicht ganz nochmal 100%.
+Sowas soll das Modell auch können.
+Und das stecken sie sozusagen rein in ihre Funktion und sie schlussfolgern, dass ihr Modell am Ende drei Parameter hat.
+Zwei Exponenten und einen konstanten Skalenfaktor davor.
+Der Skalenfaktor am Anfang war überhaupt nicht wichtig.
+Später hat er sich gezeigt, dass man den auch noch gebrauchen kann für diese Theorie.
+Der Witz ist, wenn man die jetzt sozusagen ableitet und sich das alles anguckt, dann stellt man fest, dass diese Exponenten, Alpha und Beta, die sie da drin haben, im Prinzip genau der Anteil ist der Produktionsfaktor.
+Also zu wie viel Prozent konkret diese Exponenten, die gehen typischerweise zwischen 0 und 1, liegen die?
+Sie können, und der Funktionalzusammenhang später soll sein, dass die Summe von den beiden eins ist.
+Das heißt, man findet raus, die sind gar nicht unabhängig voneinander.
+Je nachdem ist es auf jeden Fall so, die sollen sozusagen den prozentualen Anteil an Produktivität oder naja, wie viel sie sozusagen Anteil am Outcome haben.
+Das sollen die machen. Und das machen die sozusagen.
+Aus diesem Ansatz dieser Cop-Douglas-Funktion kommt das raus.
+Und die waren damals, als sie das entwickelt haben oder mehr oder weniger geraten haben, mit vielleicht mathematischer Intuition, diese Funktion geraten.
+Da waren sie selber total überrascht, wie gut das funktioniert.
+Sie haben dann sich angeguckt, sie sind sozusagen den Schritt gegangen und haben sich sozusagen Bilanzen von Firmen angeguckt, von Nationen wahrscheinlich.
+Sie haben sozusagen dann gesehen, sie kriegen überall Korrelationskoeffizienten von 99,9 Prozent oder so raus.
+Und waren total überrascht und dachten, sie sind die Allergeilsten, sie haben es voll drauf.
+Das war sozusagen das, was sie beobachtet haben. Keine Ahnung, wie lange das schon her ist, 50 Jahre oder so.
+Ich werde euch das Original-Paper einfach verlinken, dann könnt ihr es euch reinziehen.
+Der Witz ist, dass sie so dachten, so, oh, das ist aber großer Erfolg.
+Und zu dem Zeitpunkt war Anwar Shaikh ein Student.
+Und er hat das gelesen und offensichtlich ist es so, dass Anwar Shaikh ein Mathe-Nerd ist.
+Und er auch mit dieser Rationale rangeht, er beobachtet was und steht fest, das, was die hier in der Vorlesung erzählen, das ist irgendwie Müll.
+Mit dieser Intuition ist er da rangegangen und hat trotzdem Wirtschaftswissenschaften studiert.
+Ich nehme mal an, es gibt so linke Wirtschaftswissenschaftler, aber die werden alle irgendwie tot ignoriert.
+Ich habe ja auch den Eindruck, dass Ole und Wolfgang, also Ole studiert ja Wirtschaft, dass der auch so drauf ist.
+Es gibt also tatsächlich scheinbar kritische Leute, die irgendwie sagen, hier, das, was da an der Uni gelehrt wird, das ist irgendwie Schwachsinn,
+könnte man das nicht mal anders machen.
+Na, jedenfalls, so bin ich auf den Anwar Shaikh gekommen, weil der nämlich jetzt Folgendes gemacht hat.
+Der hat festgestellt, wenn ich die normale Buchhalteridentität nehme, nämlich mein gesamtes Einkommen besteht im Wesentlichen aus Einkommen pro Arbeiter oder pro Arbeitszeit,
+Zeit multipliziert mit der Gesamtarbeitszeit, die ich habe in dem Prozess, plus der Renditerate multipliziert mit dem Investitionskapital, nenne ich es mal.
+Oder Kapitalstock, würde man das vielleicht nennen.
+Also das ist eine Buchhalteridentität. So ist das gesamte Einkommen definiert.
+Das ist eine Identität. Das ist im Prinzip so eine Identität wie Gewinneserlös minus Kosten.
+Das ist im Prinzip eine Identität. So ist das definiert.
+Da braucht man gar nicht weiter darüber nachdenken.
+Und Anwar Shaikh hat jetzt gezeigt, wenn ich diese Identität hernehme und ein bisschen daran rumspiele und Variablen so ein bisschen substituiere und Mathematik damit betreibe,
+folgt dann eine Differentialgleichung daraus.
+Und wenn ich diese Differentialgleichung löse, die ist relativ einfach, dann folgt da eine, dann ist die Lösung dieser Differentialgleichung eine Funktion,
+die genau dieselbe Gestalt hat wie die Cop Douglas Produktionsfaktorfunktion oder wie sie das genannt haben.
+Wie haben sie das genannt? Produktionsfunktion. Genauso.
+Und dann hat er gesagt, aha, guck mal da. Kein Wunder, dass eure Funktion, dass euer Modell immer funktioniert.
+Es basiert nämlich auf einer wahren Aussage.
+Ihr habt eine wahre Aussage genommen und solange damit Mathematik betrieben, dass keiner mehr gesehen hat, dass es eigentlich eine Identität, eine Buchhalteridentität ist, die ihr da verwendet.
+Wahrscheinlich haben Cop Douglas das nicht gemerkt.
+Sie haben das sozusagen hintenrum durch Hintertürchen gemacht, weil sie ja diese drei Annahmen, von denen ich euch erzählt habe, reingesteckt haben in ihr Modell.
+Und diese drei Annahmen sind, wie gesagt, neoklassisch Theorie.
+Das heißt, sie haben folgendes gemacht.
+Sie haben in ihr Modell neoklassische Theorie reingesteckt und waren dann total verwundert, dass die immer funktioniert.
+Ganz einfach, weil sie per Definition immer wahr ist.
+Und der Witz ist jetzt, Anwar ist so ein geiler Troll, er hat dann gesagt, Moment mal, wenn das so ist, dann kann ich ja eine beliebige Ökonomie mir definieren,
+mit völlig absurden Konfigurationen und einem völlig bescheuerten Beispiel, das so dumm ist, dass es niemals in der echten Welt überhaupt passieren könnte.
+Und trotzdem müsste die Theorie am Ende zeigen, dass da eine Korrelation von 99,9 rauskommt.
+Und das hat er gemacht und ich zeige euch sogar, was er genommen hat.
+Er hat sozusagen in den Phasenraum das Wort Humbuck reingeschrieben.
+Und mit dieser Konfiguration hat es auch funktioniert.
+Er hat sozusagen gezeigt, egal wie man es anstellt, man kann dieses Ding überhaupt nicht falsifizieren.
+Es ist nämlich eine Identität, die muss immer wahr sein, per Definition.
+Das ist so witzig.
+Und ich werde euch sozusagen die Paper dazu verlinken, weil es einfach mal herrlich ist.
+Und es gibt auch irgendwie zehn Jahre alte Paper, die da drüber noch philosophieren.
+Aber was soll ich sagen, Ignoranz ist Bliss.
+Ich nehme mal stark an.
+Zumindest ist das, wie ich selbst verstanden habe, genau dieser Scheiß mit der Cop-Douglas-Produktionsfunktion,
+der wird immer noch gelehrt und völlig unkritisch gezeigt.
+Also es wird überhaupt nicht darüber geredet, dass das sozusagen eine Buchhalteridentität ist, die da im Wesentlichen steht.
+Bloß sehr kryptisch dargestellt.
+Man muss, wie gesagt, man muss ein bisschen rumspielen an den Variablen,
+man muss mal ein paar neue Raten einfügen, damit man sozusagen Ableitungen reinkriegt.
+Man muss feststellen, okay, das eine ist eine Rate.
+Das hat also was mit einer zeitlichen Abhängigkeit zu tun und so.
+Und dann die Differenzialgleichung lösen.
+Und Anwar Scheik hat es halt einfach gemacht.
+Und ich habe halt den Eindruck, der Typ, der hat wirklich mal ein Pfeil von Mathe.
+Das gefällt mir, deswegen irgendwie weibe ich richtig gut auf ihn ab.
+Und deswegen habe ich auch vor, mir das Buch reinzuknallen.
+Also jetzt könnte ich da sagen, ist doch gar kein Problem.
+Man hat da so eine Identität.
+Und daraus kann man im Prinzip diese Produktionsfunktion raus Schluss folgern.
+Dann ist doch alles super. Man hat ein super Modell gefunden.
+Erst mal, wie gesagt, es handelt sich um eine echte Tautologie.
+Die kann man gar nicht falsifizieren. Sie ist immer wahr.
+Und zum anderen müsste verstehen, dieser ganze Unterbau jetzt,
+der ist nur dazu da gewesen, um Propaganda zu machen.
+Es war so, Marx hat im Prinzip den Leuten gesagt, guck mal hier,
+die Arbeiter werden gar nicht korrekt entlohnt.
+Und dann haben die Kapitalisten gesagt, na ja, guck mal hier.
+Wir haben hier sozusagen diese ganze Theorie, die neoklasse Theorie.
+Und da folgt jetzt sozusagen raus, Leute, die nicht produktiv sind,
+kriegen auch nicht mehr Geld. Wenn sie sich mehr anstrengen würden,
+würden sie es auch zu mehr bringen.
+Dass da sozusagen Äpfel und Birnen verglichen werden,
+aber alles sozusagen auf diese Bilanz mit dem Geld runtergebrochen wird,
+um überhaupt Leute zu vergleichen. Das wird nicht gesagt.
+Und dass sie jetzt sozusagen versuchen, Einkommensverteilung, die wir beobachten,
+mit einer Tautologie zu beschreiben und dann zu sagen,
+das ist so eine Art Naturwissenschaft, ihr müsst das mal glauben,
+es ist alles fair und Leute, die mehr verdienen haben,
+sind einfach produktiver und deswegen ist es auch okay.
+Das ist sozusagen die Propaganda-Lüge dabei.
+Und dass sie natürlich sozusagen hier schon wieder einen Zockelschluss machen,
+nämlich im Prinzip irgendwie Einkommen, mit Einkommen irgendwie dann begründen,
+darauf gehen sie dann nicht ein.
+Das heißt, das ist das Problem eigentlich dabei.
+Das habe ich jetzt irgendwie unterschlagen, deswegen habe ich das jetzt nochmal eingebaut.
+Also das ist schon, das hat sozusagen alles einen tieferen Sinn,
+dass die angefangen haben, die Wirtschaftswissenschaften irgendwann
+sich nur noch selbst versuchen zu bestätigen, anstatt in einer Welt zu leben,
+die überhaupt nichts mit der Realität zu tun hat,
+sondern sich einfach nur versuchen, permanent selbst zu bestätigen
+und fancy Mathematik zu betreiben.
+Und ich gehe davon aus, Leute, die sich da in die Vorlesungen reinsetzen,
+ich sehe ja selber schon bei den normalen Ingenieur-Studenten,
+haben die Leute schon übelst viele Leute, keine Ahnung von Mathe.
+Wie soll das erst in den VWL-Vorlesungen sein?
+Die sind wahrscheinlich genauso völlig erschlagen von irgendwelchen Symbolen
+und checken es halt einfach nicht, dass das da relativ triviale Schulmathematik ist.
+Ich meine, Differenzialgleisungen lösen ist das eine,
+aber diese Funktionseigenschaften zu zeigen
+und dass die Cop-Douglas-Produktionsfunktion das macht,
+das kann man relativ schnell nachrechnen.
+Da kann man im Prinzip mit Schulmathematik kann man das alles zeigen.
+Dass das sozusagen Wurzelfunktionen sind
+und das Produkt und dann, wie man das ableitet und so,
+das ist alles völlig klar.
+Was soll ich dazu sagen?
+Das wollte ich nur noch mal sagen.
+Zukunftsmorph ist wieder raus.
+Und ich denke halt, das Ding ist irgendwie das Problem von Wert.
+Es geht ja immer sozusagen um Value bei dieser ganzen Nummer, Mehrwert und so.
+Der Wert an sich ist natürlich irgendwie ein kulturelles oder soziales Konstrukt.
+Es ist ja nicht so, dass Wert jetzt irgendwie aus der Natur herauskommt,
+so wie Druck oder Temperatur oder so.
+Das ist ja nichts, was sozusagen eine quantitative physikalische Größe ist,
+sondern das ist etwas, was wir zuweisen.
+Der Wert ist ein völlig willkürliches, menschliches Ding.
+Und daher ist es auch irgendwie Schwachsinn anzunehmen, dass Wert produziert wird.
+Also diese Annahme der Wirtschaftstheorie sozusagen, der neoklassischen Theorie,
+dass Wert produziert wird, aus Faktoren der Produktion.
+Das ist irgendwie Schwachsinn.
+Und innerhalb sozusagen dieser VWL-Welt, wo man alles versucht zu quantifizieren,
+mit Geld jetzt zum Beispiel, also mit Kapital,
+da mag das sozusagen stimmen, weil das sozusagen eine selbsterfüllende Prophezeiung ist.
+Aber im Prinzip habe ich den Eindruck, dass das irgendwie schon ein grundlegender Fehler ist.
+Dass sozusagen da auch permanent Sachen verglichen werden,
+die man eigentlich so Apfelbirnen-mäßig, die man eigentlich gar nicht vergleichen kann.
+Das geht nur dann deshalb, weil man sozusagen ineinander umrechnet
+und alles irgendwie mit Geld versucht zu quantifizieren.
+Und bei Cobb Douglas ist es halt jetzt wie gesagt die Arbeit und das Kapital.
+Das sind die beiden Produktionsfaktoren.
+Wenn man den einen erhöht, dann kann man was an dem Output der Firma zum Beispiel oder der Fabrik sehen.
+Das ist sozusagen die Idee. Das stecken die da rein.
+Und ich habe ja schon erklärt, dass eine Gesellschaft jetzt, also zum Beispiel eine Nationalökonomie,
+ist eine emergente Struktur.
+Und ich sage immer, Emergenz ist immer das, was man nicht so greifen kann,
+weil das sozusagen eine strukturhöhere Ordnung sein muss,
+weil sie aus Wechselwirkungen zwischen einzelnen Teilnehmern dieser emergenten Struktur besteht.
+Und genauso wie bei einem Metabolismus von jetzt einem Lebewesen oder so eine Zelle zum Beispiel
+oder meine Katzen oder ich jetzt,
+genauso verhält sich auch mit der Akkumulation von Kapital.
+Ich habe ja schon gesagt, Kapitalismus und unsere Gesellschaft sind emergente Strukturen
+und wir alle sind nur sozusagen kleine Schrauben und kleine Zahnräder innerhalb dieses Metabolismus.
+Der Verstopf wechselt im Prinzip das Kapital und sorgt dafür, dass die Akkumulation, also das Kapital,
+immer weiter wächst. Das ist sozusagen das, was wir beobachten können.
+Und ich kann ja jetzt zum Beispiel auch nicht sagen, wie viel bei meiner Katze das Herz sozusagen
+zum gesamten Output dieser Katze mitproduziert.
+Ich kann schlicht einfach nicht sozusagen aufstellen, wie viel bei meiner Katze jetzt das Herz eine Rolle spielt
+und wie viel die Lungen eine Rolle spielen.
+Das Zusammenspiel und die, sagen wir mal, die ganzen Mikroben jetzt zum Beispiel in meinem Darm und in meinem Bauch und so.
+Da kann ich auch nicht sagen, wie viel die da sozusagen mitspielen.
+Das ist eine Emergenz.
+Das sind unendlich viele Kreisprozesse, die da ablaufen und alle ineinander reingehen
+und sozusagen Hystereseeffekte und nicht lineare Dynamik, die da irgendwie abgebildet wird.
+Und offensichtlich ist sozusagen Faktoren der Produktion ein viel zu einfaches Modell.
+Und in dem Fall ist es sogar ein Zockelschluss.
+Und ich kann jetzt, um mal ein anderes Beispiel von Emergenz zu haben,
+ich kann auch bei einem Fischschwarm nicht sagen, wie viel der einzelne Fisch zur Gesamtbewegung des Fischschwarms beiträgt.
+Denn da ist es ja auch so.
+Wenn ein einzelner Fisch auf einmal einen Rappel kriegt und links abbiegt,
+dann kann es sein, dass es sich auf die Dynamik des Schwarms auswirkt oder auch nicht.
+Das sind sozusagen ganz feine Schwarmintelligenzeffekte, also Emergenzeffekte,
+die dafür sorgen, dass sich der Schwarm verhält wie ein großes Lebewesen, obwohl er aus vielen kleinen Fischen besteht.
+Und ja, das soll es jetzt erstmal sein mit diesem Video.
+Das soll euch sozusagen einen kleinen Vorgeschmack liefern, bis ich jetzt anfange, das Buch wirklich zu lesen.
+Ich plane noch ein Video noch mal zur Inflation zu machen.
+Bevor ich mit dem Buch anfange, ich denke, in dem Buch steht dann richtig viel Grundlagenzeug drin.
+Ich habe aber schon meinen Textfeil zum Thema Inflation und sozusagen neoklassischer Theorie und VWL,
+wie da sozusagen der Begriff Inflation geprägt wird und wo der herkommt.
+Ich sage nur Milton Friedman.
+Da ist übelst viel Esoterik dabei und 100% auch Zirkelschlüsse und sowas wie Buchhalteridentitäten,
+also Aussagen, die per Definition wahr sind und dann auf einmal funktionieren sie da.
+Und ach, die Theorie klappt ja so wunderbar.
+Was für eine Überraschung.
+Sowas. Und sowas wird es wahrscheinlich überall geben in der VWL.
+Und das ist mein Plan, das jetzt aufzuzeigen in so einer Art Videoreihe.
+Und wie ich sie nenne, das weiß ich noch nicht, aber ja.
+Ich sage erstmal, viel Spaß und reingehauen. Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht.
+Gute Nacht!
+definiert, viele Beispiele werden genannt und ich denke mir schon was dabei, weil es sozusagen
+meinen eigenen Erkenntnisprozess abbildet, die Reihenfolge, in denen ich die Videos hier
+hochlade.
