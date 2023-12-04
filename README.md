@@ -13,7 +13,6 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Future Histories German/English](./podcasts/futurehistories)
 - [Corvus Corax](./podcasts/corvuscorax)
 - [Critical Infinity Shorts](./podcasts/CriticalInfinityShorts)
-- [morf mit Meinung](./podcasts/mmM)
 
 ### Incomplete Podcasts
 
@@ -27,6 +26,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Sein Und Streit](https://www.deutschlandfunkkultur.de/sein-und-streit-100.html)
 - [Dissens](https://dissenspodcast.de/)
 - [Songs & Argumente](https://www.youtube.com/channel/UCEvYBeQ1Rm1NV2HOD4FnKfQ)
+- [morf mit Meinung](./podcasts/mmM)
 
 ## Obsidian and Audio Notes
 
