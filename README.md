@@ -29,7 +29,6 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [morf mit Meinung](https://www.youtube.com/channel/UCHZMZyHHpciQLfhT5Zvt5kA)
 - [Alternativlos](https://alternativlos.org/)
 
-
 ## Obsidian and Audio Notes
 
 If you are [Obsidian](https://obsidian.md) User and want to use the plugin [obsidian-audio-notes](https://github.com/jjmaldonis/obsidian-audio-notes) you will find ready to use notes with embedded Metadata for this plugin.
