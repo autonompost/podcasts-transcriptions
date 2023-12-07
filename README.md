@@ -26,7 +26,9 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Sein Und Streit](https://www.deutschlandfunkkultur.de/sein-und-streit-100.html)
 - [Dissens](https://dissenspodcast.de/)
 - [Songs & Argumente](https://www.youtube.com/channel/UCEvYBeQ1Rm1NV2HOD4FnKfQ)
-- [morf mit Meinung](./podcasts/mmM)
+- [morf mit Meinung](https://www.youtube.com/channel/UCHZMZyHHpciQLfhT5Zvt5kA)
+- [Alternativlos](https://alternativlos.org/)
+
 
 ## Obsidian and Audio Notes
 
