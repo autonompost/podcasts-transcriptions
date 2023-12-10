@@ -28,6 +28,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Songs & Argumente](https://www.youtube.com/channel/UCEvYBeQ1Rm1NV2HOD4FnKfQ)
 - [morf mit Meinung](https://www.youtube.com/channel/UCHZMZyHHpciQLfhT5Zvt5kA)
 - [Alternativlos](https://alternativlos.org/)
+- [This Machine Kills](https://soundcloud.com/thismachinekillspod)
 
 ## Obsidian and Audio Notes
 
