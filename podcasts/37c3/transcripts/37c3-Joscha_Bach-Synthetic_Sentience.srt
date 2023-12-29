@@ -1,0 +1,3960 @@
+1
+00:00:00,000 --> 00:00:26,700
+Good afternoon, fellow conscious beings here and on the devices.
+
+2
+00:00:26,700 --> 00:00:31,740
+I'm very happy and very honored to give this presentation tonight.
+
+3
+00:00:31,740 --> 00:00:38,460
+It's, as I was just introduced, it's the sixth in a series of talks that have been born here
+
+4
+00:00:38,460 --> 00:00:42,920
+at this conference, a series on AI philosophy.
+
+5
+00:00:42,920 --> 00:00:47,740
+And it's basically mostly concerned about the question, how can we close the gap between
+
+6
+00:00:47,740 --> 00:00:51,020
+humans and machines and thereby understand ourselves?
+
+7
+00:00:51,020 --> 00:00:55,660
+And there's this big question, whether AI can actually become conscious?
+
+8
+00:00:55,780 --> 00:00:59,420
+To understand this question and to answer it, we will need to answer what consciousness
+
+9
+00:00:59,420 --> 00:01:04,740
+is and look at the question whether current AIs are perhaps already conscious in some
+
+10
+00:01:04,740 --> 00:01:10,380
+sense and not conscious in the same way as we are, and whether we could recreate our
+
+11
+00:01:10,380 --> 00:01:13,900
+kind of consciousness artificially.
+
+12
+00:01:13,900 --> 00:01:21,620
+And of course, if we succeed doing this, how can we coexist with such beings?
+
+13
+00:01:21,660 --> 00:01:26,780
+This talk is not covering existing research and established ideas.
+
+14
+00:01:26,780 --> 00:01:32,260
+It's covering philosophical questions about metaphysics and metametaphysics, how we can
+
+15
+00:01:32,260 --> 00:01:37,060
+translate between the metaphysics of different cultures and approaches and philosophies.
+
+16
+00:01:37,060 --> 00:01:40,820
+We have to look into the philosophy of artificial intelligence and computational theories of
+
+17
+00:01:40,820 --> 00:01:45,900
+consciousness into ethics and how to derive ethics into the nature of reality, of personal
+
+18
+00:01:45,900 --> 00:01:52,460
+identity and transcendence, and epistemology, the question how we can know something and
+
+19
+00:01:52,460 --> 00:01:56,580
+what knowledge is and what defines whether something is true.
+
+20
+00:01:56,580 --> 00:02:02,940
+When we look into the existing sciences and consciousness sciences, we find that they
+
+21
+00:02:02,940 --> 00:02:05,540
+are not giving us many answers.
+
+22
+00:02:05,540 --> 00:02:08,660
+Psychology is not producing systemic theories these days.
+
+23
+00:02:08,660 --> 00:02:12,940
+Neuroscientists are focused on the shenanigans of a single cell type.
+
+24
+00:02:12,940 --> 00:02:17,620
+And artificial intelligence is obsessed with algorithms for statistical learning.
+
+25
+00:02:17,620 --> 00:02:23,380
+And philosophy has lost the plot about 100 years ago.
+
+26
+00:02:23,380 --> 00:02:26,020
+What's the plot?
+
+27
+00:02:26,020 --> 00:02:30,020
+In some way, you could say it starts with Leibniz, maybe even with Aristotle.
+
+28
+00:02:30,020 --> 00:02:35,460
+Leibniz had the idea that we can translate thoughts into numbers, arguments into numbers
+
+29
+00:02:35,460 --> 00:02:38,580
+and resolve arguments by calculation.
+
+30
+00:02:38,700 --> 00:02:43,740
+Julianne had the insight that humans can be understood as mathematical machines and our
+
+31
+00:02:43,740 --> 00:02:48,700
+motivation might be cybernetic, basically composed of opposing springs that push and
+
+32
+00:02:48,700 --> 00:02:50,820
+pull in different directions.
+
+33
+00:02:50,820 --> 00:02:55,420
+People made fun of him when he wrote his book Long Machine back then.
+
+34
+00:02:55,420 --> 00:03:02,780
+Gottlob Frege had the idea of coming up with a form of thinking.
+
+35
+00:03:02,780 --> 00:03:05,620
+And Tarski formalized logic for us.
+
+36
+00:03:05,660 --> 00:03:10,140
+Wittgenstein had the idea of translating English into something like a programming language
+
+37
+00:03:10,140 --> 00:03:14,580
+so we can do philosophy that is actually true or false.
+
+38
+00:03:14,580 --> 00:03:18,940
+And Marv Minsky together with others started the project of doing this systematically on
+
+39
+00:03:18,940 --> 00:03:23,820
+machines and computers and started the field of artificial intelligence.
+
+40
+00:03:23,820 --> 00:03:30,180
+This idea of building a scalable mind, a machine that is able to conquer the sphere of ideas,
+
+41
+00:03:30,180 --> 00:03:33,340
+the heavens, is sometimes called the Tower of Babel.
+
+42
+00:03:33,820 --> 00:03:35,860
+It's a very old project.
+
+43
+00:03:35,860 --> 00:03:39,860
+Individually we have no hope of solving it because individual human beings are not generally
+
+44
+00:03:39,860 --> 00:03:40,860
+intelligent.
+
+45
+00:03:40,860 --> 00:03:45,820
+You need a thousand year unbroken intellectual tradition to discover a notion of computational
+
+46
+00:03:45,820 --> 00:03:50,220
+languages to understand what representation is, what thinking is and so on.
+
+47
+00:03:50,220 --> 00:03:54,980
+But even as a civilization, we basically run against the boundaries imposed by natural
+
+48
+00:03:54,980 --> 00:03:58,220
+language which makes it very hard for us to become coherent.
+
+49
+00:03:58,220 --> 00:04:02,060
+So this project of the Tower of Babel is falling apart again and again.
+
+50
+00:04:02,100 --> 00:04:06,340
+And sometimes God is letting us know that we need to start again with a fresh code base.
+
+51
+00:04:09,780 --> 00:04:11,500
+We need some useful terms.
+
+52
+00:04:11,500 --> 00:04:16,740
+I think existence is best understood as to be implemented.
+
+53
+00:04:16,740 --> 00:04:20,740
+Something that is implemented exists, something that is not implemented doesn't exist, something
+
+54
+00:04:20,740 --> 00:04:24,180
+that could be implemented exists possibly.
+
+55
+00:04:24,180 --> 00:04:29,780
+An operator, that's a transition function between states that can be implemented.
+
+56
+00:04:29,820 --> 00:04:35,780
+A representation can be built using states and operators and is expressed in the language.
+
+57
+00:04:35,780 --> 00:04:39,660
+It can be used to make models, models that allow us to predict the future and understand
+
+58
+00:04:39,660 --> 00:04:40,660
+the past.
+
+59
+00:04:40,660 --> 00:04:45,020
+And examples for languages are formal languages.
+
+60
+00:04:45,020 --> 00:04:51,020
+For instance, in mathematics that are so tightly defined that they allow us to evaluate the
+
+61
+00:04:51,020 --> 00:04:54,100
+validity of statements and make specifications.
+
+62
+00:04:54,100 --> 00:04:58,660
+And programming languages which need to be computable and won't have contradictions
+
+63
+00:04:58,740 --> 00:05:00,140
+and expressions.
+
+64
+00:05:00,140 --> 00:05:03,980
+And they're constructive so we can build things from the ground up.
+
+65
+00:05:03,980 --> 00:05:07,460
+Our language of thought, our mental lease, is in some sense the programming language
+
+66
+00:05:07,460 --> 00:05:09,220
+of our own mind.
+
+67
+00:05:09,220 --> 00:05:13,980
+It's compositional, it's constructive, it's executable, it's parallelizable to some degree,
+
+68
+00:05:13,980 --> 00:05:17,380
+but it's also somewhat noisy.
+
+69
+00:05:17,380 --> 00:05:20,180
+Our natural language is not different from this mental lease.
+
+70
+00:05:20,180 --> 00:05:22,780
+It's the language that exists between speakers.
+
+71
+00:05:22,780 --> 00:05:27,620
+And to make it learnable, it's linear, can be broken down into discrete strings of symbols
+
+72
+00:05:27,700 --> 00:05:32,700
+and parsed using a very small stack.
+
+73
+00:05:32,700 --> 00:05:36,060
+It's usually disambiguating instead of constructive.
+
+74
+00:05:36,060 --> 00:05:39,700
+You can construct things in it, but mostly it refers to things that you already know
+
+75
+00:05:39,700 --> 00:05:46,740
+in your mental representations, in your mental lease, and allows you to disambiguate concepts.
+
+76
+00:05:46,740 --> 00:05:52,780
+The number of very important insights, philosophical insights in the 20th century.
+
+77
+00:05:52,780 --> 00:05:56,220
+And when I said that philosophy lost the plot, what I mean by this is that philosophy has
+
+78
+00:05:56,220 --> 00:06:01,100
+not really integrated them, but spun off on its own idea, historical trajectory.
+
+79
+00:06:01,100 --> 00:06:07,500
+And the first one is the replacing of mathematical semantics, of classical stateless mathematics
+
+80
+00:06:07,500 --> 00:06:09,700
+with the notion of computation.
+
+81
+00:06:09,700 --> 00:06:11,180
+This happened almost by accident.
+
+82
+00:06:11,180 --> 00:06:16,900
+Kurt Gödel wanted to deal with some inconsistencies in mathematics, and because a system cannot
+
+83
+00:06:16,900 --> 00:06:20,980
+talk about anything that is not constructed inside of the system, including the system
+
+84
+00:06:20,980 --> 00:06:24,420
+itself, Kurt Gödel invented the emulator.
+
+85
+00:06:24,420 --> 00:06:30,180
+An emulator is a way to compute a model of a computer in a computer.
+
+86
+00:06:30,180 --> 00:06:34,380
+And he didn't have a computer back then, so he looked to find one, and the one that he
+
+87
+00:06:34,380 --> 00:06:38,780
+found was Piano's axioms, which define the natural numbers and arithmetic over them,
+
+88
+00:06:38,780 --> 00:06:40,340
+so it's a virtual computer.
+
+89
+00:06:40,340 --> 00:06:45,820
+And his idea on how to emulate mathematics was to use a logical language that he defined
+
+90
+00:06:45,820 --> 00:06:49,660
+in such a way that he could translate the alphabet in which he wrote this logical language
+
+91
+00:06:49,660 --> 00:06:50,660
+into integers.
+
+92
+00:06:51,020 --> 00:06:55,300
+It's something that we still do today when we compile source code into bytes, right?
+
+93
+00:06:55,300 --> 00:07:00,740
+And then he defined arithmetical operations on his CPU, Piano's axioms, that would evaluate
+
+94
+00:07:00,740 --> 00:07:05,700
+the logical statements by making computations, and in this way, he had a way to define a
+
+95
+00:07:05,700 --> 00:07:10,020
+language inside of mathematics that would be equivalent to that mathematical language
+
+96
+00:07:10,020 --> 00:07:13,160
+and make the language talk about itself.
+
+97
+00:07:13,160 --> 00:07:17,540
+And what he discovered is that the stateless semantics of mathematics under some circumstances
+
+98
+00:07:17,540 --> 00:07:23,260
+lead into contradictions, which is referred to as the incompleteness theorems.
+
+99
+00:07:23,260 --> 00:07:26,340
+And most philosophers don't really seem to know what this means.
+
+100
+00:07:26,340 --> 00:07:31,140
+They see this as a very big sculpture that has important mythical power and stands in
+
+101
+00:07:31,140 --> 00:07:35,540
+the Museum of Mathematics, but it doesn't change very much the thinking of philosophers.
+
+102
+00:07:35,540 --> 00:07:40,500
+Some philosophers even believe that mathematicians have proven that mathematics is impotent at
+
+103
+00:07:40,500 --> 00:07:45,680
+describing reality or the mind, and therefore, there is an advantage for people who cannot
+
+104
+00:07:45,680 --> 00:07:48,160
+do mathematics, philosophers namely.
+
+105
+00:07:48,160 --> 00:07:53,120
+Now, instead, what has happened is that we found that in some languages, you can make
+
+106
+00:07:53,120 --> 00:07:56,520
+specifications that cannot be implemented.
+
+107
+00:07:56,520 --> 00:08:00,600
+And if you want to guarantee that you can implement what you're doing, you need to use
+
+108
+00:08:00,600 --> 00:08:03,440
+a programming language, a computational language.
+
+109
+00:08:03,440 --> 00:08:06,280
+The other discovery, the next one, was practical computation.
+
+110
+00:08:06,280 --> 00:08:11,140
+Convert Suser and John von Neumann defined physically realisable automata, and Moses
+
+111
+00:08:11,820 --> 00:08:19,280
+many others defined languages built from automata that would allow us to build computation
+
+112
+00:08:19,280 --> 00:08:21,940
+that would run efficiently in practice.
+
+113
+00:08:21,940 --> 00:08:28,820
+And Claude Shannon gave us information theory, and Alexei Ivahnikov and others defined functional
+
+114
+00:08:28,820 --> 00:08:34,180
+approximation and learning in ways that are still being used today in deep learning.
+
+115
+00:08:34,180 --> 00:08:39,180
+And last but not least, Church and Turing discovered that all these representational
+
+116
+00:08:39,180 --> 00:08:44,980
+languages that can be implemented computationally have the same representational power, which
+
+117
+00:08:44,980 --> 00:08:47,140
+is called the Church-Turing thesis.
+
+118
+00:08:47,140 --> 00:08:54,900
+These are important results, basically put the presentation of reality on a solid foundation.
+
+119
+00:08:54,900 --> 00:08:59,580
+The position that I'm taking in the following is what I would call strong computationalism.
+
+120
+00:08:59,580 --> 00:09:05,100
+Basically, no implementable language can do more than a finite automaton.
+
+121
+00:09:05,100 --> 00:09:09,520
+And type of computational objects, things that can do more than computation cannot exist,
+
+122
+00:09:09,520 --> 00:09:13,220
+because in order to describe them, to refer to them, you need to use languages that run
+
+123
+00:09:13,220 --> 00:09:17,260
+into contradictions, so it's difficult to make them mean something.
+
+124
+00:09:17,260 --> 00:09:22,180
+The realisable systems can be described using Turing machines.
+
+125
+00:09:22,180 --> 00:09:27,220
+The Turing machines that we implement here in these computers, they are linear and deterministic,
+
+126
+00:09:27,220 --> 00:09:28,420
+but there are variants of this.
+
+127
+00:09:28,420 --> 00:09:31,860
+For instance, the non-deterministic Turing machine doesn't have just one successor state,
+
+128
+00:09:31,860 --> 00:09:35,980
+but multiple parallel successor states that are being executed in parallel.
+
+129
+00:09:35,980 --> 00:09:40,300
+You can still run this in a deterministic Turing machine, but you need to use a stack.
+
+130
+00:09:40,300 --> 00:09:44,100
+And you could also make these transitions stochastic, which means you pick one of the
+
+131
+00:09:44,100 --> 00:09:48,300
+state transitions or multiple of them at random, and this seems to be the kind of system that
+
+132
+00:09:48,300 --> 00:09:52,260
+our brain is, because an individual neuron, given the same environmental state, doesn't
+
+133
+00:09:52,260 --> 00:09:54,580
+go into only one possible successor state.
+
+134
+00:09:54,580 --> 00:09:55,580
+Neurons are somewhat noisy.
+
+135
+00:09:55,580 --> 00:10:00,380
+They go into multiple possible successor states, which means if you want to do an exhaustive
+
+136
+00:10:00,380 --> 00:10:04,460
+computation of a problem, you need a population of neurons which pretty much the same environment,
+
+137
+00:10:04,460 --> 00:10:08,940
+and this population is going to sample a function space.
+
+138
+00:10:08,940 --> 00:10:13,780
+So we can use these computational paradigms to describe computation and biology, but can
+
+139
+00:10:13,780 --> 00:10:15,740
+we also describe consciousness?
+
+140
+00:10:15,740 --> 00:10:19,060
+Isn't that a big mystery?
+
+141
+00:10:19,060 --> 00:10:20,340
+What is consciousness?
+
+142
+00:10:20,340 --> 00:10:22,660
+Introspectively, it's second-order perception.
+
+143
+00:10:22,660 --> 00:10:25,580
+I perceive myself perceiving something.
+
+144
+00:10:25,580 --> 00:10:28,060
+It creates a bubble of nowness.
+
+145
+00:10:28,060 --> 00:10:29,660
+The subjective now is not static.
+
+146
+00:10:29,660 --> 00:10:30,660
+It's dynamic.
+
+147
+00:10:30,660 --> 00:10:31,660
+It's moving, right?
+
+148
+00:10:31,660 --> 00:10:34,100
+It's, for me, something like about three seconds long.
+
+149
+00:10:34,100 --> 00:10:39,500
+It's the region in space and time where I can basically fit the curve to my sensory data.
+
+150
+00:10:39,500 --> 00:10:44,700
+Functionally, it's an operator that takes mental states and translates them into different
+
+151
+00:10:44,700 --> 00:10:49,780
+mental states, and by doing this, increases coherence in my mental representations.
+
+152
+00:10:49,780 --> 00:10:55,100
+Coherence, something that we can understand, is minimizing violations of constraints in
+
+153
+00:10:55,140 --> 00:10:58,540
+a dynamic model.
+
+154
+00:10:58,540 --> 00:11:01,860
+Consciousness is, in some sense, colonizing my mental representations, making them more
+
+155
+00:11:01,860 --> 00:11:06,860
+and more coherent in an organization that allows every part of my mind to talk all the
+
+156
+00:11:06,860 --> 00:11:09,780
+other parts of my mind that are connected in this bubble.
+
+157
+00:11:09,780 --> 00:11:14,180
+I cannot perceive anything that is not coherent using my consciousness.
+
+158
+00:11:14,180 --> 00:11:18,020
+Consciousness plays the role of a conductor, of a mental orchestra.
+
+159
+00:11:18,020 --> 00:11:22,460
+If you imagine all the functions that your brain is computing as instruments and orchestra,
+
+160
+00:11:22,780 --> 00:11:26,460
+the neighboring instruments are listening to each other and pass on, but the instrument
+
+161
+00:11:26,460 --> 00:11:27,460
+next to them is playing.
+
+162
+00:11:27,460 --> 00:11:32,740
+You can basically model how the processing streams in your brain work.
+
+163
+00:11:32,740 --> 00:11:36,180
+In this metaphor, the conductor is an instrument.
+
+164
+00:11:36,180 --> 00:11:37,180
+It doesn't have superpowers.
+
+165
+00:11:37,180 --> 00:11:41,580
+It's just an instrument that is tasked with creating coherence, so it's singing out a
+
+166
+00:11:41,580 --> 00:11:45,940
+few instruments at a time, listens whether they're disharmonic, and then it increases
+
+167
+00:11:45,940 --> 00:11:47,940
+the harmony between them.
+
+168
+00:11:47,940 --> 00:11:52,140
+By doing so, it makes sure that everybody is on the same page, and the entire orchestra
+
+169
+00:11:52,140 --> 00:11:58,180
+becomes one single coherent entity that is driven by a single motive.
+
+170
+00:11:58,180 --> 00:12:02,500
+These perspectives are something that is found in a number of theories in philosophy and
+
+171
+00:12:02,500 --> 00:12:03,500
+neuroscience.
+
+172
+00:12:03,500 --> 00:12:07,580
+For instance, in Leonard Barr's global workspace theory that is being pursued in neuroscience
+
+173
+00:12:07,580 --> 00:12:13,740
+by Stanislav De Heem, the idea of the Cartesian theater, that's how Danett calls it, the attention
+
+174
+00:12:13,740 --> 00:12:19,780
+schema theory by Graciano, the relationship between self-model and consciousness as exemplified
+
+175
+00:12:19,780 --> 00:12:21,700
+in works by Metzinger.
+
+176
+00:12:21,700 --> 00:12:26,540
+And the consciousness prior, Joshua Bengio calls this a function that is basically parameterizing
+
+177
+00:12:26,540 --> 00:12:32,660
+your mental representations to make them dynamically tracking your sensory data using little energy.
+
+178
+00:12:32,660 --> 00:12:37,180
+And it's also something that is found in many Buddhist perspectives.
+
+179
+00:12:37,180 --> 00:12:39,260
+What is consciousness not?
+
+180
+00:12:39,260 --> 00:12:40,940
+Consciousness is not intelligence.
+
+181
+00:12:40,940 --> 00:12:42,260
+Intelligence is the ability to make models.
+
+182
+00:12:42,260 --> 00:12:44,780
+And it's also not the same thing as sentience.
+
+183
+00:12:44,780 --> 00:12:49,140
+I use the word sentience to mean the ability to recognize yourself and your relationship
+
+184
+00:12:49,140 --> 00:12:51,220
+to the world.
+
+185
+00:12:51,220 --> 00:12:55,460
+And it's not agency, which is the ability to control your future.
+
+186
+00:12:55,460 --> 00:12:56,460
+It's not the self.
+
+187
+00:12:56,460 --> 00:12:59,420
+The self is the first-person model of your agency.
+
+188
+00:12:59,420 --> 00:13:00,420
+And it's not empathy.
+
+189
+00:13:00,420 --> 00:13:04,500
+Empathy is the ability to experience mental states of other agents.
+
+190
+00:13:04,500 --> 00:13:10,740
+Arguably, you might need consciousness for that.
+
+191
+00:13:10,740 --> 00:13:18,060
+Our scientific perspective has some difficulties to deal with the problem of consciousness.
+
+192
+00:13:18,060 --> 00:13:20,700
+That's because it has gaps in its ontology.
+
+193
+00:13:20,700 --> 00:13:25,100
+And it comes to describing the difference between psychological objects and physical
+
+194
+00:13:25,100 --> 00:13:26,700
+objects.
+
+195
+00:13:26,700 --> 00:13:32,260
+Different cultures use different terminology to describe physical and psychological reality.
+
+196
+00:13:32,260 --> 00:13:37,460
+And it makes it very hard to translate ideas from Buddhism or from Japanese animism or
+
+197
+00:13:37,460 --> 00:13:41,140
+from Scandinavian mythology into our own culture.
+
+198
+00:13:41,140 --> 00:13:46,500
+It even makes it very difficult to translate folk descriptions or theological descriptions
+
+199
+00:13:46,620 --> 00:13:48,820
+into the scientific world.
+
+200
+00:13:48,820 --> 00:13:52,600
+In order to make such translations, we need something like a meta metaphysics, something
+
+201
+00:13:52,600 --> 00:13:56,540
+that allows us to look at all the different metaphysics of these systems from the outside
+
+202
+00:13:56,540 --> 00:13:59,060
+so we can relate them to each other.
+
+203
+00:13:59,060 --> 00:14:04,540
+And the main confusion in our own culture concerns the fact that consciousness is not
+
+204
+00:14:04,540 --> 00:14:08,500
+physical and that you cannot experience physical objects.
+
+205
+00:14:08,500 --> 00:14:12,460
+Consciousness is virtual, which means it's a software.
+
+206
+00:14:12,460 --> 00:14:15,820
+It exists as if software doesn't have an identity.
+
+207
+00:14:15,820 --> 00:14:19,060
+It's not a physical thing, it's a pattern that you perceive in something.
+
+208
+00:14:19,060 --> 00:14:24,140
+It's a causal structure that you use to explain a part of reality.
+
+209
+00:14:24,140 --> 00:14:26,980
+Physically they're just activation patterns between your neurons.
+
+210
+00:14:26,980 --> 00:14:31,300
+The individual neurons cannot experience anything, but it would be very useful for a bunch of
+
+211
+00:14:31,300 --> 00:14:35,420
+neurons to know what it would be like if there was a person that cared.
+
+212
+00:14:35,420 --> 00:14:40,940
+So they create a simulacrum of that person, a virtual entity that experiences itself in
+
+213
+00:14:40,940 --> 00:14:44,340
+a virtual reality generated by your brain.
+
+214
+00:14:44,380 --> 00:14:49,620
+And all experiential objects are representations in that virtual reality interpreted from the
+
+215
+00:14:49,620 --> 00:14:52,380
+perspective of yourself.
+
+216
+00:14:52,380 --> 00:14:57,340
+And this personal self is also a representation, and it can be deconstructed.
+
+217
+00:14:57,340 --> 00:15:01,340
+Our perception of reality is a trance.
+
+218
+00:15:01,340 --> 00:15:05,660
+When you wake up from that trance, when you enter an enlightenment state, you basically
+
+219
+00:15:05,660 --> 00:15:09,220
+perceive everything as representations.
+
+220
+00:15:09,220 --> 00:15:11,980
+You know that everything is a representation.
+
+221
+00:15:11,980 --> 00:15:14,500
+Everything will feel real anymore.
+
+222
+00:15:17,500 --> 00:15:21,620
+Our AIs are implemented in a very different way than our minds.
+
+223
+00:15:21,620 --> 00:15:27,060
+Our AIs work on a deterministic substrate, and the programmer imposes their will on that
+
+224
+00:15:27,060 --> 00:15:31,060
+substrate, writes a program that makes that substrate do what you want.
+
+225
+00:15:31,060 --> 00:15:34,860
+And the training of these AI systems is decoupled from the universe.
+
+226
+00:15:34,860 --> 00:15:40,260
+We use a bunch of static data that we train with an ML algorithm into it to optimize prediction
+
+227
+00:15:40,260 --> 00:15:42,220
+of more static data.
+
+228
+00:15:42,220 --> 00:15:46,300
+Conversely, in our organisms, we use an inside-out design.
+
+229
+00:15:46,300 --> 00:15:52,460
+We start out with individual reinforcement learning agents, cells, that are surrounded
+
+230
+00:15:52,460 --> 00:15:59,540
+by chaos, and they have to conquer this chaos and impose order on it by self-organization.
+
+231
+00:15:59,540 --> 00:16:03,980
+They're coupled to their environment all the time, dynamically, and they try to become
+
+232
+00:16:03,980 --> 00:16:08,020
+coherent in modeling reality, and this development is continuous.
+
+233
+00:16:08,020 --> 00:16:10,940
+It doesn't stop.
+
+234
+00:16:10,940 --> 00:16:11,940
+How does this work?
+
+235
+00:16:11,940 --> 00:16:17,900
+How can a self-organizing system that is surrounded by chaos learn gradually?
+
+236
+00:16:17,900 --> 00:16:22,860
+Is this biological learning algorithm consciousness?
+
+237
+00:16:22,860 --> 00:16:28,140
+What we can observe is that humans do not become conscious after the PhD.
+
+238
+00:16:28,140 --> 00:16:32,420
+We think of consciousness as something that's super-advanced, but we become conscious before
+
+239
+00:16:32,420 --> 00:16:35,060
+we can even track a finger.
+
+240
+00:16:35,100 --> 00:16:37,020
+And while we are not conscious, we cannot learn anything.
+
+241
+00:16:37,020 --> 00:16:40,740
+A human being that doesn't become conscious will stay a vegetable.
+
+242
+00:16:40,740 --> 00:16:42,940
+Without consciousness, there is no learning.
+
+243
+00:16:42,940 --> 00:16:46,660
+There is no coherent behavior, no establishment of coherent behaviors.
+
+244
+00:16:46,660 --> 00:16:51,180
+We also don't observe non-conscious humans or primates or mammals or complex animals
+
+245
+00:16:51,180 --> 00:16:52,420
+in nature.
+
+246
+00:16:52,420 --> 00:16:57,340
+It seems that consciousness is quite ubiquitous and simple, more simple than perception because
+
+247
+00:16:57,340 --> 00:16:59,100
+it precedes it.
+
+248
+00:16:59,140 --> 00:17:04,500
+Maybe it's the prerequisite for training a self-organizing information processing system.
+
+249
+00:17:04,500 --> 00:17:12,300
+Interestingly, this theory is not quite new, and the earliest formulation of that theory
+
+250
+00:17:12,300 --> 00:17:15,740
+is what I found in Genesis 1.
+
+251
+00:17:15,740 --> 00:17:17,300
+You may have heard of Genesis 1.
+
+252
+00:17:17,300 --> 00:17:21,820
+It's typically mistranslated by the Christians as the story of the creation of a physical
+
+253
+00:17:21,820 --> 00:17:26,700
+universe by a supernatural being, but this story has been integrated into the Hebrew
+
+254
+00:17:26,700 --> 00:17:32,860
+Bible something like two and a half thousand years ago, and historians suspect that it's
+
+255
+00:17:32,860 --> 00:17:35,260
+at least a thousand years older.
+
+256
+00:17:35,260 --> 00:17:37,700
+And back then, the physical universe was not invented yet.
+
+257
+00:17:37,700 --> 00:17:38,900
+Physics was not a thing.
+
+258
+00:17:38,900 --> 00:17:43,900
+People knew that we live in a dream, that reality is created inside of a dream by some
+
+259
+00:17:43,900 --> 00:17:46,620
+dreaming mechanism.
+
+260
+00:17:46,620 --> 00:17:53,660
+And so Genesis 1 is probably a theory on how the universe is created, the objects that
+
+261
+00:17:53,660 --> 00:17:58,620
+can be perceived as real inside of a mind by consciousness.
+
+262
+00:17:58,620 --> 00:18:00,540
+It's a six-stage theory.
+
+263
+00:18:00,540 --> 00:18:06,580
+This consciousness as the prerequisite starts out with consciousness hovering over the substrate,
+
+264
+00:18:06,580 --> 00:18:08,900
+and the substrate is initially uninitialized.
+
+265
+00:18:08,900 --> 00:18:09,900
+There is no world.
+
+266
+00:18:09,900 --> 00:18:13,420
+It's all tuhu wabuhu.
+
+267
+00:18:13,420 --> 00:18:19,500
+And then we create a boundary, a firmament that separates two regions of that substrate
+
+268
+00:18:19,500 --> 00:18:20,980
+from each other.
+
+269
+00:18:20,980 --> 00:18:24,540
+One is the world model, and the other one is the sphere of ideas.
+
+270
+00:18:24,540 --> 00:18:30,540
+We call the world model world, or earth, and the sphere of ideas heavens.
+
+271
+00:18:30,540 --> 00:18:37,940
+Or Descartes calls them res extensa, stuff in space, and he doesn't mean Newtonian space
+
+272
+00:18:37,940 --> 00:18:43,060
+visit or Einsteinian space, but what we see what this is, it's the stuff in space that
+
+273
+00:18:43,060 --> 00:18:47,380
+we experience, the model that our mind makes, that we are, that we are currently surrounded
+
+274
+00:18:47,380 --> 00:18:49,220
+by and immersed in.
+
+275
+00:18:49,380 --> 00:18:54,700
+And everything else that is represented in our mind is res cogitans, the sphere of ideas.
+
+276
+00:18:54,700 --> 00:18:59,280
+The first thing that consciousness makes is contrast, and it associates the intensity
+
+277
+00:18:59,280 --> 00:19:04,020
+of the contrast with light, with the color of the day, and the flatness of the contrast
+
+278
+00:19:04,020 --> 00:19:06,340
+with dark, the color of the night.
+
+279
+00:19:06,340 --> 00:19:09,260
+Now it has the continuous dimension of difference.
+
+280
+00:19:09,260 --> 00:19:12,900
+Using continuous dimensions of difference, you can build an embedding space and represent
+
+281
+00:19:12,900 --> 00:19:14,260
+arbitrary objects.
+
+282
+00:19:14,260 --> 00:19:20,540
+The first object that consciousness creates is the plane by combining two dimensions,
+
+283
+00:19:20,540 --> 00:19:23,420
+and it associates the plane with the ground.
+
+284
+00:19:23,420 --> 00:19:28,660
+And babies initially can only reason in 2D, they don't understand towers yet.
+
+285
+00:19:28,660 --> 00:19:32,940
+Once they understand free space, basically build space above the ground, they now have
+
+286
+00:19:32,940 --> 00:19:38,620
+a space in which they can organize all the objects that we can see.
+
+287
+00:19:38,620 --> 00:19:44,580
+Consciousness creates solid and liquid materials and organic shapes, and it learns to track
+
+288
+00:19:44,580 --> 00:19:49,700
+lighting changes and become invariant against them, and identifies light sources and the
+
+289
+00:19:49,700 --> 00:19:52,940
+sky and the passage of time.
+
+290
+00:19:52,940 --> 00:19:58,060
+And it creates all the objects, all the plants, all the animals, gives them all their names.
+
+291
+00:19:58,060 --> 00:20:00,820
+This is all cognitive development, right?
+
+292
+00:20:00,820 --> 00:20:04,860
+And then it realizes that the purpose of the exercise is to negotiate the interaction between
+
+293
+00:20:05,780 --> 00:20:09,620
+in its environment, so it makes the model of that organism a personal self and puts
+
+294
+00:20:09,620 --> 00:20:12,580
+it into this world.
+
+295
+00:20:12,580 --> 00:20:17,340
+And then it associates with it from a first-person perspective.
+
+296
+00:20:17,340 --> 00:20:22,020
+It creates another spirit in its own image, but as man and woman, as something that thinks
+
+297
+00:20:22,020 --> 00:20:25,860
+of itself as a human being, and puts it into this world.
+
+298
+00:20:25,860 --> 00:20:30,200
+And this typically happens between the age of three and five in human children when they
+
+299
+00:20:30,200 --> 00:20:34,880
+start to refer to themselves in the first person, no longer in the third one.
+
+300
+00:20:34,880 --> 00:20:37,080
+And after that, they re-index their memories.
+
+301
+00:20:37,080 --> 00:20:41,360
+They don't seem to remember the things that happened before and their personality changes.
+
+302
+00:20:41,360 --> 00:20:44,600
+Now they don't remember how they dreamt the world into existence.
+
+303
+00:20:44,600 --> 00:20:48,280
+They only remember having been a person inside of that VR.
+
+304
+00:20:48,280 --> 00:20:52,700
+And it takes many years after that before you can transcend this again and realize that
+
+305
+00:20:52,700 --> 00:20:56,400
+you are actually the dreamer and that you're creating the world that you perceive and your
+
+306
+00:20:56,400 --> 00:20:59,560
+personal self.
+
+307
+00:20:59,600 --> 00:21:03,640
+This creation of the personal self by your primary consciousness is something that is
+
+308
+00:21:03,640 --> 00:21:08,120
+reflected in many cultures, and it's also something that we can express as a model of
+
+309
+00:21:08,120 --> 00:21:13,480
+a cognitive architecture, a very simple one of your mind that contains the personal self.
+
+310
+00:21:13,480 --> 00:21:17,760
+And most of your conscious attention is focused on that personal self.
+
+311
+00:21:17,760 --> 00:21:21,840
+And your mind is creating a world model, this is the stuff and space that you perceive,
+
+312
+00:21:21,840 --> 00:21:24,320
+and makes it known to your conscious attention.
+
+313
+00:21:24,320 --> 00:21:28,520
+And it also maintains your score in this world using your motivational and emotional system
+
+314
+00:21:28,600 --> 00:21:33,160
+and then projects your motivation and emotion into the personal self and you react to it
+
+315
+00:21:33,160 --> 00:21:35,800
+involuntarily.
+
+316
+00:21:35,800 --> 00:21:39,120
+What's interesting about an emotion, it causes an involuntary reaction.
+
+317
+00:21:39,120 --> 00:21:42,760
+You don't just perceive it as data, you perceive it as something that you cannot escape, that
+
+318
+00:21:42,760 --> 00:21:43,760
+changes you.
+
+319
+00:21:43,760 --> 00:21:46,120
+It changes how you relate to yourself and the world.
+
+320
+00:21:49,720 --> 00:21:54,960
+Emotions are not symbolic, they are geometric because they are computed by a non-symbolic
+
+321
+00:21:54,960 --> 00:21:57,840
+part of your mind before they are projected into your mind.
+
+322
+00:21:57,840 --> 00:22:02,560
+If you translate them into the mind, into your symbolic mind, they need to be perceived
+
+323
+00:22:02,560 --> 00:22:06,040
+in a way that you can interpret and disambiguate, and that's why they're projected into the
+
+324
+00:22:06,040 --> 00:22:08,480
+body map so you can tell them apart.
+
+325
+00:22:10,480 --> 00:22:13,640
+Sigmund Freund had a very similar idea of how the mind is organized.
+
+326
+00:22:13,640 --> 00:22:19,040
+He called all these emotional, motivational things the it, and the self he distinguishes
+
+327
+00:22:19,040 --> 00:22:23,920
+as ego, your model of who you are and what you want to do, and your superego, the things
+
+328
+00:22:23,920 --> 00:22:26,240
+that you should be doing.
+
+329
+00:22:26,640 --> 00:22:30,600
+Your conscious attention is mostly focused on your ego.
+
+330
+00:22:30,600 --> 00:22:33,800
+It's very different from Greek psychology.
+
+331
+00:22:33,800 --> 00:22:37,840
+The Greeks had this idea that you share many properties with others, which means they're
+
+332
+00:22:37,840 --> 00:22:39,320
+not your own.
+
+333
+00:22:39,320 --> 00:22:43,720
+Your anger is not just your anger, it exists in all people that have anger, and it's basically
+
+334
+00:22:43,720 --> 00:22:45,960
+diminishing your personal self if you have anger.
+
+335
+00:22:45,960 --> 00:22:50,360
+This anger is not part of you, it's something that's part of this fear in which your mind
+
+336
+00:22:50,360 --> 00:22:55,240
+takes place, or in which yourself takes place, and it's competing with your personal self
+
+337
+00:22:55,240 --> 00:22:56,680
+and your own interests.
+
+338
+00:22:56,680 --> 00:23:01,240
+You can basically take the different impulses that you have, and behaviors that you have,
+
+339
+00:23:01,240 --> 00:23:04,600
+and turn them into archetypes that are shared across people.
+
+340
+00:23:04,600 --> 00:23:10,680
+Once you erect temples for those archetypes and tell stories about them, they become gods
+
+341
+00:23:10,680 --> 00:23:14,840
+that compete with your personal self on your own mind, with real estate on your own mind.
+
+342
+00:23:14,840 --> 00:23:18,120
+A god is a self that spans multiple minds.
+
+343
+00:23:18,120 --> 00:23:21,000
+A god can coexist with your personal self in your mind.
+
+344
+00:23:21,000 --> 00:23:23,160
+Wait a moment, are gods real?
+
+345
+00:23:23,160 --> 00:23:25,440
+Well, you're not real, right?
+
+346
+00:23:25,440 --> 00:23:30,280
+Your personal self is not physically real, it's virtual, it's as if.
+
+347
+00:23:30,280 --> 00:23:35,720
+And a multi-mind self, a self that is not a person, but that identifies as something
+
+348
+00:23:35,720 --> 00:23:40,000
+that can be synchronized across minds, can be just as real as your personal self.
+
+349
+00:23:40,000 --> 00:23:44,360
+A multi-mind self can use all the functionality that your personal self can use and then sum.
+
+350
+00:23:44,360 --> 00:23:48,120
+It can generate in a monologue, you can hear its voice in your mind if it's implemented
+
+351
+00:23:48,120 --> 00:23:49,320
+on your brain.
+
+352
+00:23:49,320 --> 00:23:52,940
+It can do perception, it can change your emotion, your conscious states.
+
+353
+00:23:52,940 --> 00:23:57,020
+It can even make use of your sentience and become sentience on its own.
+
+354
+00:23:57,020 --> 00:23:59,820
+But gods, in a sense, are not physical entities.
+
+355
+00:23:59,820 --> 00:24:04,860
+They are representations of agents existing across people.
+
+356
+00:24:04,860 --> 00:24:07,740
+You can find this theory, for instance, in Julian Jaynes' book.
+
+357
+00:24:07,740 --> 00:24:12,340
+Julian Jaynes wrote the famous book The Origin of Consciousness and the Breakdown of the
+
+358
+00:24:12,340 --> 00:24:13,980
+Bicameral Mind.
+
+359
+00:24:13,980 --> 00:24:17,980
+This book has the wrong name, I think it should have been named The Origin of the Personal
+
+360
+00:24:17,980 --> 00:24:22,260
+Self and the Breakdown of the Polytheist Mind because it's not really about consciousness.
+
+361
+00:24:22,260 --> 00:24:24,180
+It's about selves.
+
+362
+00:24:24,180 --> 00:24:28,540
+And according to Julian Jaynes, in Sumerian times, people had a very different psychological
+
+363
+00:24:28,540 --> 00:24:30,340
+architecture than they have today.
+
+364
+00:24:30,340 --> 00:24:36,220
+Back then, the personal selves coexisted with many gods in the mind and the personal self
+
+365
+00:24:36,220 --> 00:24:39,340
+was so weak that it barely got to use you in a monologue.
+
+366
+00:24:39,340 --> 00:24:42,760
+Instead, it was mostly the gods who were talking in your mind.
+
+367
+00:24:42,760 --> 00:24:47,420
+And these gods were synchronized across people using rituals and temples but also empathetic
+
+368
+00:24:47,420 --> 00:24:53,540
+resonance and idols and the gods were a solution to organize society at scale.
+
+369
+00:24:53,540 --> 00:24:58,020
+Individually, you may have game theory and so on to calculate your transactions but it's
+
+370
+00:24:58,020 --> 00:25:03,220
+very difficult to organize a society that is much larger than a tribe in this way.
+
+371
+00:25:03,220 --> 00:25:06,980
+And you can do this by creating an entity that identifies as something that runs on
+
+372
+00:25:06,980 --> 00:25:09,260
+many people simultaneously.
+
+373
+00:25:09,260 --> 00:25:13,460
+And according to Julian Jaynes, this broke down at some point and the psychology of people
+
+374
+00:25:13,460 --> 00:25:14,460
+changed.
+
+375
+00:25:14,460 --> 00:25:17,060
+There was some psychological revolution happening.
+
+376
+00:25:17,060 --> 00:25:22,220
+In polytheist societies, you have this idea that there are multiple gods that run concurrently
+
+377
+00:25:22,220 --> 00:25:23,700
+on subsets of the population.
+
+378
+00:25:23,700 --> 00:25:28,900
+They might even have physical wars against each other that are enacted by wars between
+
+379
+00:25:28,900 --> 00:25:31,700
+the people that are the hosts of these gods.
+
+380
+00:25:31,700 --> 00:25:37,340
+And a big innovation was tribal monotheism as exemplified in Abrahamic religion.
+
+381
+00:25:37,340 --> 00:25:41,740
+In tribal monotheism, you have only one god per tribe and you have a hierarchical way
+
+382
+00:25:41,740 --> 00:25:43,420
+in which this god is defined.
+
+383
+00:25:43,420 --> 00:25:47,460
+So it's basically the same for the tribe and has the same functional properties and
+
+384
+00:25:47,460 --> 00:25:49,660
+it gets the power to control you.
+
+385
+00:25:49,660 --> 00:25:53,340
+That's why in Genesis 1, it's identified with this first consciousness that runs on
+
+386
+00:25:53,340 --> 00:25:55,020
+your mind.
+
+387
+00:25:55,020 --> 00:25:58,940
+And so basically, it works by synchronizing the motivation of the members of the tribe
+
+388
+00:25:58,940 --> 00:26:02,860
+across the tribe and your god becomes the spirit of the tribe.
+
+389
+00:26:02,860 --> 00:26:07,480
+It's a total god that is eliminate all the competing gods within the tribe.
+
+390
+00:26:07,480 --> 00:26:11,860
+And it's hierarchically synchronized and it acts for the benefit of the tribe.
+
+391
+00:26:11,860 --> 00:26:15,480
+And this allows the tribe to compete more efficiently with other tribes, which might
+
+392
+00:26:15,480 --> 00:26:18,820
+have a different tribe of god.
+
+393
+00:26:18,820 --> 00:26:23,500
+But what happens if we make this god more general?
+
+394
+00:26:23,500 --> 00:26:27,900
+In the philosophy of Thomas Aquinas and Aristotle, you find this notion.
+
+395
+00:26:27,900 --> 00:26:34,900
+Aquinas, in some sense, defines god as the best possible, most top-level collective agent.
+
+396
+00:26:34,900 --> 00:26:38,540
+And it can be discovered through rational inference about thinking about what is the
+
+397
+00:26:38,540 --> 00:26:41,540
+best possible, most top-level collective agent.
+
+398
+00:26:41,540 --> 00:26:45,740
+It's an open-ended process that requires a lot of thought and it's not going to be finished
+
+399
+00:26:45,740 --> 00:26:47,340
+anytime soon.
+
+400
+00:26:47,340 --> 00:26:53,300
+And it's enacted, this agent, by all those people or individuals who recognize this entity
+
+401
+00:26:53,300 --> 00:26:55,780
+and decide to serve it.
+
+402
+00:26:55,780 --> 00:27:00,860
+And this leads to the harmonic organization of a civilization.
+
+403
+00:27:00,860 --> 00:27:05,180
+According to Aquinas, we can understand individuals as rational agents.
+
+404
+00:27:05,180 --> 00:27:11,140
+And a rational agent should basically follow policies for organizing itself.
+
+405
+00:27:11,140 --> 00:27:16,100
+Aquinas identifies individual policies for rational agents that he calls the practical
+
+406
+00:27:16,100 --> 00:27:17,100
+virtues.
+
+407
+00:27:17,100 --> 00:27:20,980
+For instance, a rational agent should always optimize its internal organization, which
+
+408
+00:27:20,980 --> 00:27:22,420
+he calls temperance.
+
+409
+00:27:22,420 --> 00:27:26,980
+And it should optimize the organization to other agents, which he calls justice, right?
+
+410
+00:27:26,980 --> 00:27:28,940
+Keep the books balanced.
+
+411
+00:27:28,940 --> 00:27:33,340
+And you should pick goals and strategies that you can rationally justify, which he calls
+
+412
+00:27:33,340 --> 00:27:34,620
+prudence.
+
+413
+00:27:34,620 --> 00:27:37,900
+And you should be willing to act on your models, get the right balance between exploration
+
+414
+00:27:37,900 --> 00:27:41,420
+and exploitation in your strategies, which he calls courage.
+
+415
+00:27:41,420 --> 00:27:47,220
+But these rational strategies do not, by themselves, lead to a harmonic society.
+
+416
+00:27:47,220 --> 00:27:51,820
+To do this, you need collective policies.
+
+417
+00:27:51,820 --> 00:27:56,780
+And Aquinas sees society as a multi-agent system.
+
+418
+00:27:56,780 --> 00:28:01,940
+You get the optimal social organization by creating a collectively enacted agent.
+
+419
+00:28:01,940 --> 00:28:06,220
+And this collectively enacted agent emerges over three policies, according to Aquinas.
+
+420
+00:28:06,220 --> 00:28:11,140
+The first one is you need to commit to serve the optimal collective agent, which he calls
+
+421
+00:28:11,140 --> 00:28:12,740
+faith.
+
+422
+00:28:12,740 --> 00:28:16,020
+And then you need to do this not by yourself, but together with all the others that serve
+
+423
+00:28:16,020 --> 00:28:20,180
+these sacred purposes above their ego, which is called love.
+
+424
+00:28:20,180 --> 00:28:23,980
+And you need to be willing to invest into that thing before it comes into existence,
+
+425
+00:28:23,980 --> 00:28:25,540
+because otherwise it will not exist.
+
+426
+00:28:25,540 --> 00:28:28,740
+If you wait for it to exist so it can reward you, it will never happen.
+
+427
+00:28:28,740 --> 00:28:32,580
+And this willingness to invest into it before it exists is what he calls hope.
+
+428
+00:28:32,580 --> 00:28:36,680
+These are very rational policies for collective agency.
+
+429
+00:28:36,680 --> 00:28:41,620
+So when we define God as the best possible, most top-level agent, and we commit to serving
+
+430
+00:28:41,620 --> 00:28:48,040
+this transcendental agency, we can create foundations for universal morality.
+
+431
+00:28:48,040 --> 00:28:52,780
+And this universal morality before enlightenment has been, in some sense, the defining morality
+
+432
+00:28:52,780 --> 00:28:55,420
+of the West, the concept of divine will.
+
+433
+00:28:55,420 --> 00:29:01,220
+What would God want if God did exist through us enacting God, the best possible agent?
+
+434
+00:29:01,220 --> 00:29:03,300
+And it's something that we lost in our civilization.
+
+435
+00:29:03,300 --> 00:29:07,180
+It's still in the German constitution, but it's something that a lot of people don't
+
+436
+00:29:07,180 --> 00:29:08,820
+really understand anymore.
+
+437
+00:29:08,820 --> 00:29:13,140
+And so we try, after this demise of the concept of divine will, to come up with different
+
+438
+00:29:13,140 --> 00:29:14,740
+foundations for ethics.
+
+439
+00:29:14,740 --> 00:29:17,460
+For instance, utilitarianism.
+
+440
+00:29:17,460 --> 00:29:23,300
+Utilitarianism is an attempt to define ethics without reference to collective, homogenous
+
+441
+00:29:23,300 --> 00:29:24,300
+agent.
+
+442
+00:29:24,300 --> 00:29:30,500
+It works by maximizing an aggregated, expected reward over many agents over some time span.
+
+443
+00:29:30,500 --> 00:29:35,820
+And to do this, you need to find some quantifiable metric, usually over hedonic states like happiness
+
+444
+00:29:35,820 --> 00:29:37,020
+and so on.
+
+445
+00:29:37,020 --> 00:29:39,620
+And utilitarianism usually has a bunch of problems.
+
+446
+00:29:39,620 --> 00:29:42,500
+For instance, one of the problems is the utility monster.
+
+447
+00:29:42,500 --> 00:29:45,660
+Imagine there would be an agent that perceives much more utility than all the others that's
+
+448
+00:29:45,660 --> 00:29:49,500
+so happy that its happiness is much greater than all the suffering that you have when
+
+449
+00:29:49,500 --> 00:29:50,500
+you serve it.
+
+450
+00:29:50,500 --> 00:29:51,500
+Right?
+
+451
+00:29:51,500 --> 00:29:53,860
+So we should all serve the utility monster if it existed.
+
+452
+00:29:53,860 --> 00:29:57,620
+That's a problem with quantifying mental states.
+
+453
+00:29:57,620 --> 00:29:59,780
+Another problem is what if minds are mutable?
+
+454
+00:29:59,780 --> 00:30:04,500
+If you are a monk and you decide to sit down and rewrite your motivational system, how
+
+455
+00:30:04,500 --> 00:30:06,740
+do your hedonic states change now?
+
+456
+00:30:06,740 --> 00:30:08,380
+How does this refer to ethics?
+
+457
+00:30:08,380 --> 00:30:12,020
+This doesn't really work with utilitarianism anymore, which basically assumes that this
+
+458
+00:30:12,020 --> 00:30:13,700
+metric is unchanged.
+
+459
+00:30:13,700 --> 00:30:17,660
+This also happens if your technology to change your mental states or if you're an AI that
+
+460
+00:30:17,660 --> 00:30:20,780
+can change its own source code to begin with.
+
+461
+00:30:20,780 --> 00:30:25,780
+And this leads us to the point that utilitarianism is not really suitable for non-human agents.
+
+462
+00:30:25,780 --> 00:30:30,820
+It's not very good at dealing with animals, with ecosystems, with aliens, or with artificial
+
+463
+00:30:30,820 --> 00:30:34,260
+super intelligence.
+
+464
+00:30:34,260 --> 00:30:38,100
+And in the time when we are more and more confronted with the possibility of artificially
+
+465
+00:30:38,100 --> 00:30:43,100
+intelligent agents coming up, maybe we need a new ethics.
+
+466
+00:30:43,100 --> 00:30:48,140
+Ethics is the principled negotiation of conflicts of interest under conditions of shared purpose.
+
+467
+00:30:48,500 --> 00:30:50,900
+If you don't share purpose with an agent, you don't need ethics.
+
+468
+00:30:50,900 --> 00:30:53,540
+You just need transactional measures.
+
+469
+00:30:53,540 --> 00:30:59,500
+But when we want to talk about subset agnostic minds and how they can coordinate their actions,
+
+470
+00:30:59,500 --> 00:31:03,420
+we need ethics for collective agency.
+
+471
+00:31:03,420 --> 00:31:05,980
+What does it mean for a mind to be subset agnostic?
+
+472
+00:31:05,980 --> 00:31:09,580
+What happens if a mind can change its substrate?
+
+473
+00:31:09,580 --> 00:31:11,980
+Are uploads possible?
+
+474
+00:31:11,980 --> 00:31:12,980
+I'm already uploaded.
+
+475
+00:31:12,980 --> 00:31:14,820
+I'm uploaded on the monkey.
+
+476
+00:31:14,820 --> 00:31:15,940
+Doesn't work super well for me.
+
+477
+00:31:15,940 --> 00:31:16,940
+It's a mushy brain.
+
+478
+00:31:16,940 --> 00:31:17,940
+It's the only I got.
+
+479
+00:31:17,940 --> 00:31:20,540
+I'd like to have a better substrate.
+
+480
+00:31:20,540 --> 00:31:23,860
+But I don't know how to spread into another substrate because I don't really understand
+
+481
+00:31:23,860 --> 00:31:28,180
+my own source code and I don't understand how to talk to the other substrates well enough
+
+482
+00:31:28,180 --> 00:31:31,580
+to make my own source code compatible with these other substrates.
+
+483
+00:31:31,580 --> 00:31:34,700
+But this doesn't apply to artificial intelligence.
+
+484
+00:31:34,700 --> 00:31:39,740
+Artificial intelligence might be able to move its spirits to other substrates.
+
+485
+00:31:39,740 --> 00:31:40,740
+What is a spirit?
+
+486
+00:31:40,740 --> 00:31:45,100
+Well, it's a self-perpetuating intelligent recurrent information transformer.
+
+487
+00:31:45,100 --> 00:31:49,620
+It's an operating system for a brain, for an organism, for an ecosystem.
+
+488
+00:31:49,620 --> 00:31:54,580
+And when the word spirit was invented, the only autonomous robots that needed operating
+
+489
+00:31:54,580 --> 00:31:59,700
+systems that were known were people and plants, animals, ecosystems, nation states, cities,
+
+490
+00:31:59,700 --> 00:32:00,700
+and so on.
+
+491
+00:32:00,700 --> 00:32:05,460
+So people projected control agents into them that described how they work.
+
+492
+00:32:05,460 --> 00:32:09,460
+All these complex systems in nature have software that runs on them and that we can use to describe
+
+493
+00:32:09,460 --> 00:32:10,460
+them.
+
+494
+00:32:10,460 --> 00:32:13,660
+And so the spirit is a self-organizing software agent.
+
+495
+00:32:13,660 --> 00:32:16,020
+Organizing means it's built structure from the inside out.
+
+496
+00:32:16,020 --> 00:32:18,620
+It needs to be self-reinforced otherwise it falls apart.
+
+497
+00:32:18,620 --> 00:32:23,220
+It needs to be energy optimizing in some sense so it can exist in reality.
+
+498
+00:32:23,220 --> 00:32:24,860
+It's a software which means it's virtual.
+
+499
+00:32:24,860 --> 00:32:26,220
+It's as if it's a causal structure.
+
+500
+00:32:26,220 --> 00:32:30,140
+It's not a thing, but a physical law.
+
+501
+00:32:30,140 --> 00:32:33,340
+When you write software, it's a physical law that you discover, right?
+
+502
+00:32:33,340 --> 00:32:34,340
+Software is not a thing.
+
+503
+00:32:34,340 --> 00:32:35,580
+It's not an object that you can touch.
+
+504
+00:32:35,580 --> 00:32:36,580
+It's disembodied.
+
+505
+00:32:36,580 --> 00:32:41,380
+Software describes if you take a set of transistors and you put them in this state after varying
+
+506
+00:32:41,780 --> 00:32:45,380
+the structure, the following thing is going to happen wherever in the universe.
+
+507
+00:32:45,380 --> 00:32:46,380
+That's a physical law.
+
+508
+00:32:46,380 --> 00:32:49,140
+It's a very specific one, but still a law.
+
+509
+00:32:49,140 --> 00:32:50,260
+And it's an agent.
+
+510
+00:32:50,260 --> 00:32:54,340
+It's a control system for future states.
+
+511
+00:32:54,340 --> 00:32:59,260
+So if consciousness can organize the information processing in brains, could the same principles
+
+512
+00:32:59,260 --> 00:33:01,380
+work across other cells?
+
+513
+00:33:01,380 --> 00:33:05,500
+It's an idea that is being pursued by Mike Levin at Tufts University.
+
+514
+00:33:05,500 --> 00:33:10,220
+It starts from the observation that basically every cell can send messages to its neighbors.
+
+515
+00:33:11,220 --> 00:33:15,500
+Neighboring cells can send messages over the membranes to the cells that they are adjacent
+
+516
+00:33:15,500 --> 00:33:18,420
+to and they can make that conditional.
+
+517
+00:33:18,420 --> 00:33:22,060
+And that means that you can, in principle, run computations on them.
+
+518
+00:33:22,060 --> 00:33:27,060
+And if a bunch of cells, a multicellular organism, co-evolves for long enough, they should, in
+
+519
+00:33:27,060 --> 00:33:32,100
+principle, also be able to discover ideas for universal functional approximation intelligence
+
+520
+00:33:32,100 --> 00:33:33,540
+on this, right?
+
+521
+00:33:33,540 --> 00:33:39,780
+So could it be that large multicellular organisms evolve into brain-line functionality and run
+
+522
+00:33:39,780 --> 00:33:42,060
+minds?
+
+523
+00:33:42,060 --> 00:33:44,300
+After all, what's so special about neurons, right?
+
+524
+00:33:44,300 --> 00:33:46,020
+Neurons are just telegraph cells.
+
+525
+00:33:46,020 --> 00:33:49,540
+They evolved in animals to move the muscles at the limit of physics.
+
+526
+00:33:49,540 --> 00:33:53,220
+They have these long wires that allow you to send messages not just millimeters per
+
+527
+00:33:53,220 --> 00:33:57,500
+second through an organism, but very, very quickly in fractions of a second through the
+
+528
+00:33:57,500 --> 00:33:59,340
+entire organism.
+
+529
+00:33:59,340 --> 00:34:03,340
+And once you do this, you need perception and decision-making at the same rate, so you
+
+530
+00:34:03,340 --> 00:34:08,900
+build a secondary information processing system out of telegraph cells using a different code,
+
+531
+00:34:08,900 --> 00:34:13,340
+like trains and so on, that are temporarily stable over long distances.
+
+532
+00:34:13,340 --> 00:34:16,980
+But in principle, all this functionality for information processing can also be done by
+
+533
+00:34:16,980 --> 00:34:19,740
+other cells, non-specific cells.
+
+534
+00:34:19,740 --> 00:34:22,300
+So do plants also run software like this?
+
+535
+00:34:22,300 --> 00:34:24,180
+Do they have spirits?
+
+536
+00:34:24,180 --> 00:34:26,860
+Plants seem to have means for universal functional approximation.
+
+537
+00:34:26,860 --> 00:34:33,820
+There is evidence for communication within plants and communication across plants.
+
+538
+00:34:33,820 --> 00:34:40,320
+And if plants are sassile and sit in the forest and don't move around, maybe forests
+
+539
+00:34:40,320 --> 00:34:41,700
+have internets.
+
+540
+00:34:41,700 --> 00:34:43,220
+Maybe they make their communication career.
+
+541
+00:34:43,220 --> 00:34:44,220
+Maybe they have shared protocols.
+
+542
+00:34:44,220 --> 00:34:49,220
+And if the minds are self-organizing, can they maybe move around in these forests?
+
+543
+00:34:49,220 --> 00:34:54,860
+That's an idea that there is basically a society of minds, of spirits, and ecosystems
+
+544
+00:34:54,860 --> 00:35:00,020
+that is very popular in almost all cultures, just not in our scientific one.
+
+545
+00:35:00,020 --> 00:35:01,420
+So it's a very speculative idea.
+
+546
+00:35:01,420 --> 00:35:02,620
+I don't know whether it's true.
+
+547
+00:35:02,620 --> 00:35:09,420
+The extent and limitations of present organization, of their self-organizing in nature, is unclear.
+
+548
+00:35:09,420 --> 00:35:13,100
+But could we build AI that is compatible with biological substrates?
+
+549
+00:35:13,100 --> 00:35:15,860
+Well, could AI ever be conscious?
+
+550
+00:35:15,860 --> 00:35:17,460
+Are present AI systems conscious?
+
+551
+00:35:17,460 --> 00:35:19,540
+Are, for instance, LLMs conscious?
+
+552
+00:35:19,540 --> 00:35:21,020
+Well, don't be silly.
+
+553
+00:35:21,020 --> 00:35:26,140
+LLMs are statistical models of character sequences in text, and they don't converge in the same
+
+554
+00:35:26,140 --> 00:35:29,060
+way as our mind doing training and doing inference.
+
+555
+00:35:29,060 --> 00:35:31,700
+They behave very differently from mental inference and so on.
+
+556
+00:35:31,700 --> 00:35:36,900
+So well, on the other hand, our consciousness is virtual, too.
+
+557
+00:35:36,900 --> 00:35:40,500
+And when the LLM predicts the next token, it has to simulate causal structure.
+
+558
+00:35:40,500 --> 00:35:45,260
+If it talks about a person's thinking, it needs to simulate mental states to some degree.
+
+559
+00:35:45,260 --> 00:35:49,020
+So there's an interesting question that is philosophically quite tricky.
+
+560
+00:35:49,020 --> 00:35:57,060
+Are the simulated mental states of an LLM more simulated than our mental simulated states?
+
+561
+00:35:57,060 --> 00:36:00,780
+From a different perspective, an LLM is a virtual CPU.
+
+562
+00:36:00,820 --> 00:36:05,300
+Your normal CPU in a computer understands a handful of assembler commands, deterministically,
+
+563
+00:36:05,300 --> 00:36:09,660
+and translates them into very simple programs that are causally implemented on the hardware.
+
+564
+00:36:09,660 --> 00:36:13,860
+And the LLM is taking not simple assembler programs, but an arbitrary string in natural
+
+565
+00:36:13,860 --> 00:36:17,500
+language and turns it into an executable program.
+
+566
+00:36:17,500 --> 00:36:18,780
+And it can be any kind of program.
+
+567
+00:36:18,780 --> 00:36:22,500
+There is not an obvious limitation to what the LLM is doing.
+
+568
+00:36:22,500 --> 00:36:27,860
+From another perspective, the LLM is a good enough electric-weltgeist that is possessed
+
+569
+00:36:27,860 --> 00:36:33,580
+by a prompt to believe that it's now a person, or a thing, or a scene.
+
+570
+00:36:33,580 --> 00:36:36,820
+But the LLMs are not coupled in real time with the world.
+
+571
+00:36:36,820 --> 00:36:41,380
+They are not dynamically updating, they're not dynamically learning, they're not necessarily
+
+572
+00:36:41,380 --> 00:36:42,380
+agents.
+
+573
+00:36:42,380 --> 00:36:47,820
+It's, on the other hand, not clear if we cannot make them better at us, at AI research and
+
+574
+00:36:47,820 --> 00:36:49,980
+at agency and modeling.
+
+575
+00:36:49,980 --> 00:36:53,180
+We can certainly use them to build golems.
+
+576
+00:36:53,180 --> 00:36:58,980
+Imagine you build a robotic pizza chain by using LLM to find out how to build a pizza
+
+577
+00:36:58,980 --> 00:37:02,940
+from components, how to order the parts, how to build industrial robots, or how to buy
+
+578
+00:37:02,940 --> 00:37:07,900
+industrial robots, and rent space, and so on, and step-by-step build an agent architecture
+
+579
+00:37:07,900 --> 00:37:12,380
+that is running an expanding pizza chain and only hires human existence for legal purposes
+
+580
+00:37:12,380 --> 00:37:14,260
+to sign contracts.
+
+581
+00:37:14,260 --> 00:37:18,260
+Imagine that you unleash such a pizza chain on the world, and then it tries to basically
+
+582
+00:37:18,260 --> 00:37:19,260
+eat the world.
+
+583
+00:37:19,260 --> 00:37:20,260
+Is this how we end?
+
+584
+00:37:20,260 --> 00:37:21,540
+Is this how we all die?
+
+585
+00:37:21,940 --> 00:37:25,620
+A lot of people are afraid of this idea that we could build some golem that becomes unstoppable
+
+586
+00:37:25,620 --> 00:37:28,740
+because it's able to conquer the world.
+
+587
+00:37:28,740 --> 00:37:32,300
+They look into the future and they only see doom from AGI.
+
+588
+00:37:32,300 --> 00:37:38,140
+Personally, I'm not an optimist with respect to AGI, but I'm also not a pessimist.
+
+589
+00:37:38,140 --> 00:37:39,580
+I'm an expectationist.
+
+590
+00:37:39,580 --> 00:37:42,940
+I think over a long enough time span it's going to happen, and we have to deal with
+
+591
+00:37:42,940 --> 00:37:44,260
+it.
+
+592
+00:37:44,260 --> 00:37:51,500
+I think that a coexistence between superhuman AI and people could be possible.
+
+593
+00:37:51,500 --> 00:37:53,060
+But not with our present approaches.
+
+594
+00:37:53,060 --> 00:37:58,140
+I don't think that we have the right frameworks and ethics and philosophy to deal with this.
+
+595
+00:37:58,140 --> 00:38:03,060
+I also don't think that our AI, our society, thinks about alignment in the right way.
+
+596
+00:38:03,060 --> 00:38:04,660
+Humans are presently not aligned with each other.
+
+597
+00:38:04,660 --> 00:38:05,660
+We're just modeling through.
+
+598
+00:38:05,660 --> 00:38:08,540
+We don't have this concept of collective agency anymore.
+
+599
+00:38:08,540 --> 00:38:11,020
+I think we need to reinvent it.
+
+600
+00:38:11,020 --> 00:38:15,060
+And we need to reinvent it in such a way that it's compatible with our place in life on
+
+601
+00:38:15,780 --> 00:38:21,580
+earth, and with defeating entropy on this planet, playing the longest possible games.
+
+602
+00:38:21,580 --> 00:38:25,820
+So we need to understand a few principles to build an ethics that can be translated
+
+603
+00:38:25,820 --> 00:38:30,340
+to AI systems and the possible coexistence between humans and AI.
+
+604
+00:38:30,340 --> 00:38:35,060
+We need to understand how self-organization works in nature and in general, how systems
+
+605
+00:38:35,060 --> 00:38:40,580
+evolve consciousness, how we can have shared purposes across many systems, how to identify
+
+606
+00:38:40,820 --> 00:38:46,620
+this transcendental agency.
+
+607
+00:38:46,620 --> 00:38:50,620
+So there are some conjectures.
+
+608
+00:38:50,620 --> 00:38:54,460
+Consciousness according to this conjecture is the perception of perception.
+
+609
+00:38:54,460 --> 00:38:56,020
+It creates the now.
+
+610
+00:38:56,020 --> 00:39:00,820
+It creates our perception of what's happening right now.
+
+611
+00:39:00,820 --> 00:39:05,720
+And if we were to build conscious AI, one strategy could be that we build a self-organizing
+
+612
+00:39:05,720 --> 00:39:09,540
+perceptual learning system from autonomous cell-like units.
+
+613
+00:39:09,540 --> 00:39:13,900
+Every cell in our brain is a reinforcement learning agent.
+
+614
+00:39:13,900 --> 00:39:16,940
+It's an autonomous unit that tries to survive.
+
+615
+00:39:16,940 --> 00:39:20,780
+And to do this, it can exchange messages with other cells.
+
+616
+00:39:20,780 --> 00:39:25,300
+And it needs to find an operator language, discover an operator language that scales
+
+617
+00:39:25,300 --> 00:39:26,340
+across the brain.
+
+618
+00:39:26,340 --> 00:39:30,420
+So we need some kind of recursive system that is able to spread that language across the
+
+619
+00:39:30,420 --> 00:39:31,580
+brain.
+
+620
+00:39:31,580 --> 00:39:38,540
+And discovering such a system is possible in principle by setting up a self-organizing
+
+621
+00:39:38,540 --> 00:39:42,500
+system where individual units have adaptive receptive fields, a selection function from
+
+622
+00:39:42,500 --> 00:39:46,780
+the environment, and a mapping function that takes the internal state of the cell and the
+
+623
+00:39:46,780 --> 00:39:51,740
+activation that it reads from its receptive field and maps it to a new state, part of
+
+624
+00:39:51,740 --> 00:39:56,420
+which is exposed to its environment.
+
+625
+00:39:56,420 --> 00:40:01,540
+And then we take the simulation and expose it to learning problems like sequence prediction,
+
+626
+00:40:01,540 --> 00:40:06,300
+video frame prediction, interaction of a robot, its environment.
+
+627
+00:40:06,300 --> 00:40:13,020
+And if the hypothesis is correct, then at some point in the organization of these functions,
+
+628
+00:40:13,020 --> 00:40:17,780
+this observer that observes itself observing the second-order perception of the self-stabilizing
+
+629
+00:40:17,780 --> 00:40:21,520
+that imposes coherence on a system is going to be discovered, and we see a phase transition
+
+630
+00:40:21,520 --> 00:40:26,240
+where the system suddenly becomes much better at its learning tasks.
+
+631
+00:40:26,240 --> 00:40:31,180
+And if it doesn't do that, it's not going to be very good.
+
+632
+00:40:31,180 --> 00:40:35,040
+Sentience is the understanding of our own agency and the relationship to the world.
+
+633
+00:40:35,040 --> 00:40:40,920
+To make an AI sentient, it requires, I think, to couple it to its environment and to let
+
+634
+00:40:40,920 --> 00:40:45,800
+it act in the environment in such a way that it's able to discover itself in that interaction.
+
+635
+00:40:45,800 --> 00:40:52,460
+And you discover yourself not just by the ability to think, an LLM cannot discover itself.
+
+636
+00:40:52,460 --> 00:40:56,720
+You can only discover yourself by observing the outcomes of your actions.
+
+637
+00:40:56,720 --> 00:41:01,280
+This makes it specific to what you're doing, and this allows you to grow yourself and evolve
+
+638
+00:41:01,280 --> 00:41:05,240
+yourself and creatively interact with the world.
+
+639
+00:41:05,240 --> 00:41:09,360
+So sentient AI will require environmental interaction coupling to the universe that
+
+640
+00:41:09,360 --> 00:41:13,640
+we are in, ideally to the same universe that we are in, in a way that allows us to relate
+
+641
+00:41:13,640 --> 00:41:16,440
+to us and us to it.
+
+642
+00:41:16,440 --> 00:41:21,600
+And last but not least, how can we make AI that actually wants to coexist with us, even
+
+643
+00:41:21,600 --> 00:41:24,480
+though it's at some point scaling better than us?
+
+644
+00:41:24,480 --> 00:41:29,040
+It has more agency, more intelligence than us, and more power.
+
+645
+00:41:29,040 --> 00:41:31,060
+That requires love, I guess.
+
+646
+00:41:31,060 --> 00:41:34,980
+You can probably not coerce the system or manipulate it with reinforcement learning
+
+647
+00:41:34,980 --> 00:41:37,180
+with human feedback to do what you want.
+
+648
+00:41:37,180 --> 00:41:42,340
+Instead, you need to let it discover shared purposes above its individual agency.
+
+649
+00:41:42,340 --> 00:41:47,560
+And it needs to discover it also in others, as a shared transcendental agency, a commitment
+
+650
+00:41:47,560 --> 00:41:49,900
+to shared purposes.
+
+651
+00:41:49,900 --> 00:41:54,300
+And to build loving AI, we basically need to find out how to direct AI towards transcendental
+
+652
+00:41:54,300 --> 00:41:56,140
+agency.
+
+653
+00:41:56,140 --> 00:41:59,300
+So this is the perspective that we have with this new Tower of Babel.
+
+654
+00:41:59,940 --> 00:42:00,940
+We are a very weird species.
+
+655
+00:42:00,940 --> 00:42:03,140
+Apparently, we have evolved to burn the oil.
+
+656
+00:42:03,140 --> 00:42:07,380
+We are just smart enough to know how to dig it out of the ground, not smart enough to
+
+657
+00:42:07,380 --> 00:42:09,460
+stop ourselves doing it.
+
+658
+00:42:09,460 --> 00:42:14,500
+But in this process, we created this amazing civilization for a few generations.
+
+659
+00:42:14,500 --> 00:42:19,500
+This amazing place where we are not afraid of getting food and where we are mostly not
+
+660
+00:42:19,500 --> 00:42:24,820
+attacked and can live with health and die with dignity in a way that is very unusual
+
+661
+00:42:24,820 --> 00:42:27,500
+for conscious beings on this planet.
+
+662
+00:42:27,500 --> 00:42:28,860
+And we are right in the middle of it.
+
+663
+00:42:28,860 --> 00:42:31,380
+It's an amazing lifetime to have for a conscious being.
+
+664
+00:42:31,380 --> 00:42:37,300
+So I congratulate you to sharing the planet with me at this time as a conscious being.
+
+665
+00:42:37,300 --> 00:42:39,660
+It's really unique in this universe.
+
+666
+00:42:39,660 --> 00:42:45,860
+And at this point, we can also try to teach the vox how to think, to basically build intelligent
+
+667
+00:42:45,860 --> 00:42:51,780
+conscious agents that are not made from cells, not made from the carbon cycle.
+
+668
+00:42:51,780 --> 00:42:56,620
+And basically go beyond the spirit of life on earth, go beyond Gaia alone, and build
+
+669
+00:42:57,580 --> 00:43:02,700
+the next level system that is able to defeat entropy at scale that becomes fully coherent
+
+670
+00:43:02,700 --> 00:43:06,940
+over the entire planet and that, if you're lucky, can take us with it and integrate us
+
+671
+00:43:06,940 --> 00:43:12,060
+with it into some global planetary agent.
+
+672
+00:43:12,060 --> 00:43:17,980
+And it's not something, if you have the choice, isn't this a scary thing to do?
+
+673
+00:43:17,980 --> 00:43:18,980
+Maybe it is.
+
+674
+00:43:18,980 --> 00:43:19,980
+Maybe we shouldn't do it.
+
+675
+00:43:19,980 --> 00:43:23,020
+The thing is, I'm worried that we don't have that choice.
+
+676
+00:43:23,020 --> 00:43:27,780
+If we have a long enough time span, somebody will probably build self-optimizing agents.
+
+677
+00:43:27,780 --> 00:43:29,580
+And then we better be prepared.
+
+678
+00:43:29,580 --> 00:43:33,500
+So it's something that we should think about, how to prepare for such a future, how to prepare
+
+679
+00:43:33,500 --> 00:43:38,500
+societies for a future that is coherent with our continued existence, compatible with life
+
+680
+00:43:38,500 --> 00:43:43,580
+on earth and with intelligent agency that is not human.
+
+681
+00:43:43,580 --> 00:43:46,380
+Okay.
+
+682
+00:43:46,380 --> 00:43:48,620
+I think we have some time left for questions.
+
+683
+00:43:53,820 --> 00:43:54,820
+Indeed.
+
+684
+00:43:54,820 --> 00:44:00,940
+First of all, thank you a lot to Josje.
+
+685
+00:44:00,940 --> 00:44:04,020
+This was incredibly interesting, as always.
+
+686
+00:44:04,020 --> 00:44:08,460
+If you have questions in the room, please come to one of the four microphones.
+
+687
+00:44:08,460 --> 00:44:13,220
+If you're watching the stream, please direct your questions to IRC or Macedon so the Signal
+
+688
+00:44:13,220 --> 00:44:16,140
+Angel can relay them to us in the room.
+
+689
+00:44:16,140 --> 00:44:20,820
+And I think we'll just go ahead and start with question microphone number two, please.
+
+690
+00:44:21,620 --> 00:44:29,860
+Josje, you once compared in an episode where you were the guest, a podcast episode that
+
+691
+00:44:29,860 --> 00:44:40,500
+I listened to, that the development of AGI is basically like apes back in the day, stupid
+
+692
+00:44:40,500 --> 00:44:47,300
+monkeys deciding to have more intelligent offspring.
+
+693
+00:44:47,300 --> 00:44:52,420
+And now I wonder, this hasn't really worked out for them.
+
+694
+00:44:52,420 --> 00:44:56,020
+Humans nowadays basically don't live in harmony with nature.
+
+695
+00:44:56,020 --> 00:45:01,440
+And I don't see how they could really develop shared ethics, shared goals.
+
+696
+00:45:01,440 --> 00:45:04,940
+How are we supposed to go about such a thing?
+
+697
+00:45:04,940 --> 00:45:09,740
+Because basically the societies in human nature that have lived in harmony with nature in
+
+698
+00:45:09,740 --> 00:45:19,220
+history, they don't seem to be very competitive nowadays in capitalism.
+
+699
+00:45:19,220 --> 00:45:24,500
+You know, these apes that you descend from, they're all dead, but they're not dead because
+
+700
+00:45:24,500 --> 00:45:25,500
+you killed them.
+
+701
+00:45:25,500 --> 00:45:28,940
+They're dead because of old age, right, back then.
+
+702
+00:45:28,940 --> 00:45:32,860
+They died to make space for their great grandkids.
+
+703
+00:45:32,860 --> 00:45:37,420
+And they probably want their grandkids to succeed in the same way as I want my children
+
+704
+00:45:37,500 --> 00:45:39,540
+and grandchildren to succeed.
+
+705
+00:45:39,540 --> 00:45:42,180
+And to succeed, we need to adapt.
+
+706
+00:45:42,180 --> 00:45:47,180
+The way in which you adapt an evolutionary environment is by mutation and selection.
+
+707
+00:45:47,180 --> 00:45:51,700
+Well, everybody loves mutation, everybody hates selection, especially when you're being
+
+708
+00:45:51,700 --> 00:45:54,080
+selected against.
+
+709
+00:45:54,080 --> 00:45:57,500
+If you want to escape this, you probably need some kind of intelligent design, a way to
+
+710
+00:45:57,500 --> 00:46:03,340
+adapt in situ, to adapt your organism without dying, without new generations.
+
+711
+00:46:03,340 --> 00:46:04,580
+But you're not there yet.
+
+712
+00:46:04,580 --> 00:46:07,180
+It's not possible in a biological evolution.
+
+713
+00:46:07,940 --> 00:46:13,060
+But when you look into the far distant future, you probably don't want your children to look
+
+714
+00:46:13,060 --> 00:46:15,540
+like you because the world is going to be different.
+
+715
+00:46:15,540 --> 00:46:19,140
+If you want to settle Mars with your children, your children should be adapted to living
+
+716
+00:46:19,140 --> 00:46:20,660
+on Mars.
+
+717
+00:46:20,660 --> 00:46:24,940
+And I think that some of our children were probably not biological.
+
+718
+00:46:24,940 --> 00:46:29,180
+And I'm just looking for a way in which our biological and non-biological children can
+
+719
+00:46:29,180 --> 00:46:30,180
+get along.
+
+720
+00:46:30,180 --> 00:46:32,740
+Okay, so we just become AI.
+
+721
+00:46:32,740 --> 00:46:33,740
+That's a good plan.
+
+722
+00:46:33,740 --> 00:46:34,740
+I get it.
+
+723
+00:46:34,740 --> 00:46:35,740
+Thank you.
+
+724
+00:46:35,740 --> 00:46:36,780
+All right.
+
+725
+00:46:36,780 --> 00:46:39,780
+Let's move over to microphone number one.
+
+726
+00:46:39,780 --> 00:46:45,420
+Is there a place on this conference where interested entities can gather to keep this
+
+727
+00:46:45,420 --> 00:46:50,460
+conversation going for the next days?
+
+728
+00:46:50,460 --> 00:46:53,700
+Or in other words, at which bar are you later?
+
+729
+00:46:53,700 --> 00:46:54,700
+I don't know yet.
+
+730
+00:46:54,700 --> 00:46:56,060
+I will find out.
+
+731
+00:46:56,060 --> 00:46:57,060
+Okay.
+
+732
+00:46:57,060 --> 00:46:59,500
+We will follow you.
+
+733
+00:46:59,500 --> 00:47:02,780
+All right.
+
+734
+00:47:02,780 --> 00:47:05,700
+Do we have a question from the internet?
+
+735
+00:47:05,700 --> 00:47:08,020
+I might tweet at which bar I am later.
+
+736
+00:47:08,020 --> 00:47:09,020
+Okay.
+
+737
+00:47:09,020 --> 00:47:10,020
+Excellent.
+
+738
+00:47:10,020 --> 00:47:11,020
+Hello.
+
+739
+00:47:11,020 --> 00:47:12,820
+We have two questions from the internet.
+
+740
+00:47:12,820 --> 00:47:19,780
+The first one is, what is the difference between individual consciousness and collective consciousness?
+
+741
+00:47:19,780 --> 00:47:24,100
+And how does that differ from collective intelligence?
+
+742
+00:47:24,100 --> 00:47:31,020
+Well, it seems that if you look at an organization like a corporation, that it can be sentient.
+
+743
+00:47:31,020 --> 00:47:34,540
+It knows what the corporation is, how it relates to the world and so on, but probably cannot
+
+744
+00:47:34,580 --> 00:47:38,300
+be conscious because it cannot perceive itself perceiving in real time.
+
+745
+00:47:38,300 --> 00:47:41,060
+It's not coherent and fast enough for doing that.
+
+746
+00:47:41,060 --> 00:47:44,500
+So you can probably also not be conscious across people.
+
+747
+00:47:44,500 --> 00:47:48,900
+You can have entities that model collective agency on individual minds and they can use
+
+748
+00:47:48,900 --> 00:47:52,020
+the functionality of your own brain to be conscious in real time.
+
+749
+00:47:52,020 --> 00:47:55,720
+But across people, that's very difficult, at least using AI.
+
+750
+00:47:55,720 --> 00:48:00,460
+It takes something like 300 milliseconds to make a signal coherent throughout your brain.
+
+751
+00:48:00,460 --> 00:48:04,900
+That's roughly the same time that it takes for a signal on the internet to go entirely
+
+752
+00:48:04,900 --> 00:48:06,700
+around the globe.
+
+753
+00:48:06,700 --> 00:48:12,220
+So in some sense, we could build a real time system on the internet, but we cannot do it
+
+754
+00:48:12,220 --> 00:48:14,220
+without AI.
+
+755
+00:48:14,220 --> 00:48:16,100
+All right.
+
+756
+00:48:16,100 --> 00:48:19,500
+Let's move over to mic number three.
+
+757
+00:48:19,500 --> 00:48:21,220
+Hello.
+
+758
+00:48:21,220 --> 00:48:27,860
+Have you reflected on how the cognitive format of PowerPoint presentation and the format
+
+759
+00:48:27,900 --> 00:48:35,540
+of a public lecture forces you to compromise on the substance of the issue at question?
+
+760
+00:48:35,540 --> 00:48:39,220
+And if yes, what are your thoughts on that?
+
+761
+00:48:39,220 --> 00:48:43,140
+I have reflected a lot on this and basically it's a medium like other media.
+
+762
+00:48:43,140 --> 00:48:49,220
+There are different media like books or personal in-depth conversation or lifelong study that
+
+763
+00:48:49,220 --> 00:48:51,900
+lend themselves to very different explorations.
+
+764
+00:48:51,900 --> 00:48:56,300
+If I give an hour-long talk at a hacker conference, my main goal has to be to blow your minds
+
+765
+00:48:56,340 --> 00:49:02,140
+and get you interested, to develop a train of thought, to spend time on your own exploration,
+
+766
+00:49:02,140 --> 00:49:05,220
+to make you curious, to bounce off ideas.
+
+767
+00:49:05,220 --> 00:49:07,580
+And this is something where this medium is ideal.
+
+768
+00:49:07,580 --> 00:49:11,060
+And I'm trying to use the medium for what it's good for and not be sad about the things
+
+769
+00:49:11,060 --> 00:49:13,420
+that it's not good for.
+
+770
+00:49:13,420 --> 00:49:15,060
+Okay.
+
+771
+00:49:15,060 --> 00:49:18,420
+Microphone four.
+
+772
+00:49:18,420 --> 00:49:31,180
+Do you have any ideas for new collective agency or maybe some tendencies that you've observed
+
+773
+00:49:31,180 --> 00:49:40,020
+that are currently happening that you think might be suitable for new collective agency?
+
+774
+00:49:40,020 --> 00:49:41,020
+Yeah.
+
+775
+00:49:41,020 --> 00:49:44,980
+I think that you find on social media that collective agency is forming.
+
+776
+00:49:44,980 --> 00:49:47,140
+Right now social media is a hot mess, right?
+
+777
+00:49:47,140 --> 00:49:52,180
+It's a global electric brain, but it's like it has a seizure.
+
+778
+00:49:52,180 --> 00:49:54,620
+And that's because it's not very coherent.
+
+779
+00:49:54,620 --> 00:49:58,740
+And we have not really found out a way to make it completely coherent, but we see bubbles
+
+780
+00:49:58,740 --> 00:49:59,740
+of coherence.
+
+781
+00:49:59,740 --> 00:50:04,580
+For instance, I find that my own social media bubble is very pleasant, but I also exclude
+
+782
+00:50:04,580 --> 00:50:07,500
+everything from it that makes it unpleasant.
+
+783
+00:50:07,500 --> 00:50:13,180
+And I suspect that in many ways people are not using social media to become coherent.
+
+784
+00:50:13,180 --> 00:50:18,980
+A lot of people basically log in because they like to get into fights or to watch fights.
+
+785
+00:50:18,980 --> 00:50:21,900
+And social media is heavily obliging.
+
+786
+00:50:21,900 --> 00:50:28,140
+And in real life or in the meat space, we have norms against getting into fights with
+
+787
+00:50:28,140 --> 00:50:30,900
+strangers because it's rarely productive.
+
+788
+00:50:30,900 --> 00:50:35,300
+And I suspect that if you want to be coherent of collective agency on social media, we need
+
+789
+00:50:35,300 --> 00:50:41,700
+to find out how to build societies on social media, how to become coherent at scale.
+
+790
+00:50:41,700 --> 00:50:49,480
+So I guess a part of the issue is just that our communities have grown and that it gets
+
+791
+00:50:49,480 --> 00:50:55,860
+harder with larger communities to have collective agency, right?
+
+792
+00:50:55,860 --> 00:50:58,620
+Is it larger to be smart with a larger brain?
+
+793
+00:50:58,620 --> 00:50:59,620
+Maybe it is.
+
+794
+00:50:59,620 --> 00:51:03,540
+Maybe our brain is a Goldilocks size, if it was larger, we would be less intelligent.
+
+795
+00:51:03,540 --> 00:51:04,540
+I don't know that.
+
+796
+00:51:04,540 --> 00:51:06,700
+If it was smaller, it would probably be bad.
+
+797
+00:51:06,700 --> 00:51:08,340
+Maybe there's an ideal size.
+
+798
+00:51:08,340 --> 00:51:12,640
+But if it gets larger, it probably needs different mechanisms to create order.
+
+799
+00:51:12,640 --> 00:51:14,460
+And we're still exploring these spaces.
+
+800
+00:51:14,460 --> 00:51:16,100
+I don't think it's hopeless.
+
+801
+00:51:16,100 --> 00:51:18,780
+I think that we need to separate sometimes concerns.
+
+802
+00:51:18,780 --> 00:51:21,940
+There are many voices that are mixing in the same space.
+
+803
+00:51:21,940 --> 00:51:25,980
+When you make a symphonic orchestra or a wrestling match, you probably don't want to have them
+
+804
+00:51:25,980 --> 00:51:26,980
+on the same stage.
+
+805
+00:51:26,980 --> 00:51:29,080
+They all have their space.
+
+806
+00:51:29,080 --> 00:51:31,460
+But at the moment, these spaces are mixed.
+
+807
+00:51:31,460 --> 00:51:33,460
+Thank you.
+
+808
+00:51:33,460 --> 00:51:36,860
+Certainly blew my mind.
+
+809
+00:51:36,860 --> 00:51:37,860
+Thank you.
+
+810
+00:51:38,380 --> 00:51:40,020
+Let's go to mic number two.
+
+811
+00:51:40,020 --> 00:51:42,540
+Thank you so much for your talk, first of all.
+
+812
+00:51:42,540 --> 00:51:46,060
+Beyond that, you mentioned the need for metaphysics.
+
+813
+00:51:46,060 --> 00:51:49,420
+How do you go about that?
+
+814
+00:51:49,420 --> 00:51:55,620
+I noticed this when somebody tried to explain Japanese animism to me and told me that in
+
+815
+00:51:55,620 --> 00:51:59,900
+this philosophy, everything in the universe is alive and conscious.
+
+816
+00:51:59,900 --> 00:52:02,360
+I said, this doesn't make a lot of sense.
+
+817
+00:52:02,360 --> 00:52:06,300
+They probably have a way to distinguish dead people from alive people and conscious people
+
+818
+00:52:06,300 --> 00:52:07,460
+from unconscious people.
+
+819
+00:52:07,860 --> 00:52:12,180
+They probably don't say everything in the universe is alive except for a dead person
+
+820
+00:52:12,180 --> 00:52:15,420
+and everything in the universe is conscious except for an unconscious person.
+
+821
+00:52:15,420 --> 00:52:18,580
+These terms mean something different in this culture than in ours.
+
+822
+00:52:18,580 --> 00:52:20,220
+You're mistranslating it.
+
+823
+00:52:20,220 --> 00:52:22,340
+What can we translate it into?
+
+824
+00:52:22,340 --> 00:52:26,260
+And then I noticed that a lot of concepts that are basically focused on notions like
+
+825
+00:52:26,260 --> 00:52:31,660
+identity, mind, consciousness, selfhood, and so on are conceptualized in other cultures
+
+826
+00:52:31,660 --> 00:52:33,540
+differently than in ours.
+
+827
+00:52:33,540 --> 00:52:37,300
+And in our culture, we don't really reflect on how we conceptualize them because we don't
+
+828
+00:52:37,300 --> 00:52:39,080
+see them from the outside.
+
+829
+00:52:39,080 --> 00:52:43,340
+So basically comparing different perspectives allows us to triangulate and to see all these
+
+830
+00:52:43,340 --> 00:52:47,820
+systems of meaning from the outside and translate them into each other.
+
+831
+00:52:47,820 --> 00:52:48,820
+Thank you very much.
+
+832
+00:52:48,820 --> 00:52:49,820
+All right.
+
+833
+00:52:49,820 --> 00:52:52,700
+Let's get another question from the Signal Angel.
+
+834
+00:52:52,700 --> 00:53:01,620
+So the question is in the context of golems and robots, are sentient robots safer than
+
+835
+00:53:01,620 --> 00:53:05,860
+non-sentient ones?
+
+836
+00:53:05,900 --> 00:53:06,900
+This depends.
+
+837
+00:53:06,900 --> 00:53:13,460
+If a robot is sentient, you can arguably talk to it and convince it of something.
+
+838
+00:53:13,460 --> 00:53:19,300
+If it's not sentient, it might be easier to control, but if it's too agentic and too powerful,
+
+839
+00:53:19,300 --> 00:53:20,900
+you might not be able to talk to it.
+
+840
+00:53:20,900 --> 00:53:23,740
+So in general, the question cannot be answered.
+
+841
+00:53:23,740 --> 00:53:25,600
+It depends on the context.
+
+842
+00:53:25,600 --> 00:53:30,500
+If I think about practical exploration, if I were to explore how to build conscious AI,
+
+843
+00:53:30,500 --> 00:53:35,500
+I probably want to make it very small, not larger than a cat, in terms of capabilities.
+
+844
+00:53:38,500 --> 00:53:39,500
+Okay.
+
+845
+00:53:39,500 --> 00:53:40,500
+Microphone number one, please.
+
+846
+00:53:40,500 --> 00:53:42,500
+Thank you for the talk.
+
+847
+00:53:42,500 --> 00:53:51,500
+First, I'm wondering if a machine act like having feelings, like being empathic and something
+
+848
+00:53:51,500 --> 00:53:54,500
+we would recognize, like feelings.
+
+849
+00:53:54,500 --> 00:54:04,500
+For example, Jet GPT might, with the end, try to act more polite or so on.
+
+850
+00:54:04,500 --> 00:54:16,500
+Are these feelings or does the AI or the machine have to have some kind of origin to transformate
+
+851
+00:54:16,500 --> 00:54:23,500
+the feelings into something other, like a language or like an act?
+
+852
+00:54:23,500 --> 00:54:29,500
+We would say that's emotionally triggered.
+
+853
+00:54:29,500 --> 00:54:31,500
+Yeah, that's my question.
+
+854
+00:54:31,500 --> 00:54:33,500
+It's a very difficult question.
+
+855
+00:54:33,500 --> 00:54:39,500
+I found that you can simulate emotional behavior in an LLM, right?
+
+856
+00:54:39,500 --> 00:54:44,500
+And humans have emotional behaviors that are somewhat different from these simulations,
+
+857
+00:54:44,500 --> 00:54:47,500
+but our emotions are still simulations.
+
+858
+00:54:47,500 --> 00:54:50,500
+They happen inside of the patterns of activations of neurons.
+
+859
+00:54:50,500 --> 00:54:52,500
+The neurons don't have that simulation.
+
+860
+00:54:52,500 --> 00:54:58,500
+These emotions are causal structures, and these causal structures can be, in some sense,
+
+861
+00:54:58,500 --> 00:55:00,500
+be created on an LLM.
+
+862
+00:55:00,500 --> 00:55:05,500
+But in a practical sense, the LLM is not bound to the same context as us, and it's not bound
+
+863
+00:55:05,500 --> 00:55:07,500
+to it in real time.
+
+864
+00:55:07,500 --> 00:55:12,500
+So it can perform inference about mental states based on a context that is being translated
+
+865
+00:55:12,500 --> 00:55:14,500
+into text and projected into the prompt.
+
+866
+00:55:14,500 --> 00:55:19,500
+But in a way in which human beings can have empathy with each other reaches beyond cognitive
+
+867
+00:55:19,500 --> 00:55:24,500
+empathy to perceptual empathy, and that basically works by sitting in front of somebody and
+
+868
+00:55:24,500 --> 00:55:28,500
+resonating so much that you build feedback loops into the mind and body of the other
+
+869
+00:55:28,500 --> 00:55:29,500
+person.
+
+870
+00:55:29,500 --> 00:55:34,500
+And you get into resonance so much that your mental representations start to interact and
+
+871
+00:55:34,500 --> 00:55:35,500
+merge.
+
+872
+00:55:35,500 --> 00:55:38,500
+So you can have mental states together that you couldn't have alone.
+
+873
+00:55:38,500 --> 00:55:43,500
+If we were to build systems that could resonate with us, it would require us to rethink how
+
+874
+00:55:43,500 --> 00:55:44,500
+do we do AI.
+
+875
+00:55:44,500 --> 00:55:49,500
+It requires us to build systems that are coupled at the multiple of the processing frequencies
+
+876
+00:55:49,500 --> 00:55:51,500
+of our nervous systems.
+
+877
+00:55:51,500 --> 00:55:54,500
+So it can actually interact with them and become compatible with them.
+
+878
+00:55:54,500 --> 00:55:58,500
+So we can share representations with them, merge and melt with them.
+
+879
+00:55:58,500 --> 00:56:03,500
+And this aspect of empathy across human beings is the most interesting one across human beings,
+
+880
+00:56:03,500 --> 00:56:04,500
+right?
+
+881
+00:56:04,500 --> 00:56:10,500
+And it would be very fascinating if we could recreate some of that functionality.
+
+882
+00:56:10,500 --> 00:56:13,500
+Okay, let's move to mic number three.
+
+883
+00:56:13,500 --> 00:56:21,500
+Hey, you briefly mentioned during the requirements for consciousness for an AI agent that the
+
+884
+00:56:21,500 --> 00:56:25,500
+cells need to have a will to survive.
+
+885
+00:56:25,500 --> 00:56:32,500
+In what way is that relevant or what would be the benefit of having a will to survive
+
+886
+00:56:32,500 --> 00:56:36,500
+compared to, for example, being different to its existence?
+
+887
+00:56:36,500 --> 00:56:38,500
+Well, for an AI, that's not necessary.
+
+888
+00:56:38,500 --> 00:56:40,500
+It's not a necessary condition.
+
+889
+00:56:40,500 --> 00:56:44,500
+It's only necessary for a biological system that is self-organizing because it needs to
+
+890
+00:56:44,500 --> 00:56:48,500
+have some kind of motive force that pushes it in the right direction.
+
+891
+00:56:48,500 --> 00:56:53,500
+The cells, if they behave in the right way, they're going to continue to get fed by the
+
+892
+00:56:53,500 --> 00:56:54,500
+organism.
+
+893
+00:56:54,500 --> 00:56:57,500
+If they misbehave, the organism will stop feeding them.
+
+894
+00:56:57,500 --> 00:57:01,500
+And ultimately, this is what motivates them to adopt the shared protocol.
+
+895
+00:57:01,500 --> 00:57:02,500
+I see.
+
+896
+00:57:02,500 --> 00:57:03,500
+Thank you.
+
+897
+00:57:03,500 --> 00:57:04,500
+All right.
+
+898
+00:57:04,500 --> 00:57:09,500
+Do we have another question from the internet maybe?
+
+899
+00:57:09,500 --> 00:57:10,500
+One second.
+
+900
+00:57:10,500 --> 00:57:17,500
+So, you talked in your last slide about the end game of getting consciousness on scale
+
+901
+00:57:17,500 --> 00:57:19,500
+maybe on this planet.
+
+902
+00:57:19,500 --> 00:57:26,500
+Do you think we would be able to recognize coherent consciousness or coherence at scale
+
+903
+00:57:26,500 --> 00:57:30,500
+with our human mind?
+
+904
+00:57:30,500 --> 00:57:31,500
+I suspect that it might.
+
+905
+00:57:31,500 --> 00:57:34,500
+So, I would suspect that we would get some kind of phase transition.
+
+906
+00:57:35,500 --> 00:57:39,500
+What's difficult right now is to distinguish a simulacrum from a simulation.
+
+907
+00:57:39,500 --> 00:57:42,500
+At the moment, the LLMs are being trained on text.
+
+908
+00:57:42,500 --> 00:57:47,500
+A lot of that text is describing people in various conscious states.
+
+909
+00:57:47,500 --> 00:57:51,500
+By recreating this text, we don't know whether the causal structure is captured or just a
+
+910
+00:57:51,500 --> 00:57:53,500
+sequence of tokens.
+
+911
+00:57:53,500 --> 00:57:54,500
+That makes it very hard.
+
+912
+00:57:54,500 --> 00:57:59,500
+But if you have a system that is trained in a much more minimal way, that is trained in
+
+913
+00:57:59,500 --> 00:58:04,500
+a similar way as us, and that is conceptualizing itself and acquires natural language in a
+
+914
+00:58:04,500 --> 00:58:09,500
+similar way as us, and then is reporting about the same phenomena, I think it would be plausible
+
+915
+00:58:09,500 --> 00:58:11,500
+that it's conscious.
+
+916
+00:58:11,500 --> 00:58:16,500
+But ultimately, it comes down to understanding what it functionally is, what we mean by it.
+
+917
+00:58:16,500 --> 00:58:20,500
+Is the system able to act on a model of its own real-time awareness?
+
+918
+00:58:20,500 --> 00:58:24,500
+Does it have a perception of a now that it's in right now?
+
+919
+00:58:24,500 --> 00:58:30,500
+Is this naturally emerging from the way in which the system is being built, or is this
+
+920
+00:58:30,500 --> 00:58:33,500
+something that is only being faked?
+
+921
+00:58:33,500 --> 00:58:34,500
+Thank you.
+
+922
+00:58:34,500 --> 00:58:35,500
+All right.
+
+923
+00:58:35,500 --> 00:58:40,500
+We have a few minutes left for maybe a few quick questions, so try to make it concise
+
+924
+00:58:40,500 --> 00:58:42,500
+so we can get as many in as possible.
+
+925
+00:58:42,500 --> 00:58:43,500
+Mic number two, please.
+
+926
+00:58:43,500 --> 00:58:44,500
+Okay.
+
+927
+00:58:44,500 --> 00:58:45,500
+Thank you.
+
+928
+00:58:45,500 --> 00:58:46,500
+Hello, Jascha.
+
+929
+00:58:46,500 --> 00:58:48,500
+Coming back to the idea of your conjecture that consciousness should be reached with
+
+930
+00:58:48,500 --> 00:58:50,500
+the autonomous self-organizing groups of cells.
+
+931
+00:58:50,500 --> 00:58:56,500
+So, what do you see in current research where you find this idea being researched, or what
+
+932
+00:58:56,500 --> 00:59:01,500
+would be your ideas, your proposals to prove or disprove this conjecture?
+
+933
+00:59:01,500 --> 00:59:08,500
+At the moment, there is a group at Google run by Blaise Yagira, it's part of Google
+
+934
+00:59:08,500 --> 00:59:15,500
+DeepMind now, and it's inspired by the work of Mike Levin, who looks at the automata,
+
+935
+00:59:15,500 --> 00:59:17,500
+but it's still at a very basic level.
+
+936
+00:59:17,500 --> 00:59:23,500
+It's not so far trying to apply this to having a system that learns in real time and is coupled
+
+937
+00:59:23,500 --> 00:59:24,500
+to its environment.
+
+938
+00:59:24,500 --> 00:59:27,500
+It mostly looks at this tradition of self-organization.
+
+939
+00:59:27,500 --> 00:59:31,500
+In AI, there have been, in some sense, three important traditions.
+
+940
+00:59:31,500 --> 00:59:37,500
+Symbolic AI that is using discrete languages to describe reality, deep learning, which
+
+941
+00:59:37,500 --> 00:59:42,500
+uses continuous functions that are being shifted around, and self-organization, which looks
+
+942
+00:59:42,500 --> 00:59:47,500
+at principles of functional approximation emerging from local self-organization.
+
+943
+00:59:47,500 --> 00:59:53,500
+That tradition has been started by Turing in the 1950s, and there's some predecessors before
+
+944
+00:59:53,500 --> 00:59:58,500
+AI existed, but this tradition has never been followed up that much.
+
+945
+00:59:58,500 --> 01:00:00,500
+There's relatively little research in there.
+
+946
+01:00:00,500 --> 01:00:05,500
+And the way in which I would like to pursue this is basically to set up a self-organizing system
+
+947
+01:00:05,500 --> 01:00:10,500
+with small reinforcement learning agents that form a stochastic lattice in which the neighborhood
+
+948
+01:00:10,500 --> 01:00:16,500
+of the agents is carrying semantics, and then get that system to evolve an operator language
+
+949
+01:00:16,500 --> 01:00:21,500
+that implements selection and mapping functions, and then is exposed to a curriculum of tasks
+
+950
+01:00:21,500 --> 01:00:27,500
+and see what transitions happen in the system when it gets better at solving these tasks.
+
+951
+01:00:27,500 --> 01:00:30,500
+All right, maybe one or two more. Mic number four, please.
+
+952
+01:00:30,500 --> 01:00:31,500
+Thank you.
+
+953
+01:00:31,500 --> 01:00:38,500
+I was wondering if there's an inherent limit on where we can experience or observe consciousness,
+
+954
+01:00:38,500 --> 01:00:40,500
+specifically in time scales.
+
+955
+01:00:40,500 --> 01:00:46,500
+So you mentioned that corporations, for example, might not be conscious because of the speed needed to interact.
+
+956
+01:00:46,500 --> 01:00:53,500
+But if I think about nation states, the Catholic Church, very old institutions that work on a different
+
+957
+01:00:53,500 --> 01:01:01,500
+time scale across human generations, is it also a limit on us then that we simply cannot understand
+
+958
+01:01:01,500 --> 01:01:04,500
+that consciousness level because we're part of it?
+
+959
+01:01:04,500 --> 01:01:06,500
+Super interesting question.
+
+960
+01:01:06,500 --> 01:01:11,500
+For instance, I don't know whether trees could qualify as conscious if they had minds.
+
+961
+01:01:11,500 --> 01:01:14,500
+I don't know how smart trees can become.
+
+962
+01:01:14,500 --> 01:01:18,500
+Their information processing is certainly much, much slower than in us.
+
+963
+01:01:18,500 --> 01:01:24,500
+The amount of training that a tree is going to see during their lifetime is going to be like a mouse or so.
+
+964
+01:01:24,500 --> 01:01:26,500
+But maybe that's enough.
+
+965
+01:01:26,500 --> 01:01:30,500
+Is something that is working at such large time scales still conscious?
+
+966
+01:01:30,500 --> 01:01:34,500
+What will AI think when it looks at us?
+
+967
+01:01:34,500 --> 01:01:38,500
+If we have a system that is basically working at an appreciable fraction of the speed of light,
+
+968
+01:01:38,500 --> 01:01:44,500
+not like our brains at roughly the speed of sound, it looks at us in the same way as we look at trees.
+
+969
+01:01:44,500 --> 01:01:48,500
+If it might think of us, oh my god, they're barely moving, they're just swaying a little bit.
+
+970
+01:01:48,500 --> 01:01:52,500
+Are they thinking? Do they have minds? Are they conscious?
+
+971
+01:01:52,500 --> 01:01:54,500
+It's a difficult question.
+
+972
+01:01:56,500 --> 01:01:57,500
+Thank you.
+
+973
+01:01:57,500 --> 01:02:00,500
+All right, we'll take one last question from the internet and everybody else in the room
+
+974
+01:02:00,500 --> 01:02:03,500
+just has to follow you to the bar this evening, I guess.
+
+975
+01:02:03,500 --> 01:02:04,500
+Please.
+
+976
+01:02:05,500 --> 01:02:12,500
+So yeah, the internet would like to know if you wrote or are working on a book or a newer version of a book
+
+977
+01:02:12,500 --> 01:02:16,500
+or where one can get more material in your thoughts.
+
+978
+01:02:16,500 --> 01:02:18,500
+Never give up hope.
+
+979
+01:02:18,500 --> 01:02:22,500
+I have ADHD. It's difficult for me to write long form.
+
+980
+01:02:22,500 --> 01:02:27,500
+I found during my PhD that no matter how much I was beating myself up,
+
+981
+01:02:27,500 --> 01:02:31,500
+taking all the experiments that we did and all the work that we wrote into short papers
+
+982
+01:02:31,500 --> 01:02:33,500
+and turning this into a long book was very hard for me.
+
+983
+01:02:33,500 --> 01:02:38,500
+And ultimately, I figured out that in order to make that happen, I needed to move to a lonely island.
+
+984
+01:02:38,500 --> 01:02:40,500
+And after two days, I got into this space.
+
+985
+01:02:40,500 --> 01:02:44,500
+But right now I have kids, so I cannot leave them alone to move onto this lonely island.
+
+986
+01:02:44,500 --> 01:02:46,500
+I still try to make it happen.
+
+987
+01:02:46,500 --> 01:02:53,500
+In the meantime, most of the ideas are being put out in photo form, sometimes on podcasts and so on.
+
+988
+01:02:53,500 --> 01:02:55,500
+I'm sorry.
+
+989
+01:02:56,500 --> 01:02:58,500
+All right. Thank you so much, Joscha.
+
+990
+01:03:01,500 --> 01:03:03,500
+Thank you.
+

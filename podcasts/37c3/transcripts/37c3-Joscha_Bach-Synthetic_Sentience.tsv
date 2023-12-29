@@ -1,0 +1,991 @@
+start	end	text
+0	26700	Good afternoon, fellow conscious beings here and on the devices.
+26700	31740	I'm very happy and very honored to give this presentation tonight.
+31740	38460	It's, as I was just introduced, it's the sixth in a series of talks that have been born here
+38460	42920	at this conference, a series on AI philosophy.
+42920	47740	And it's basically mostly concerned about the question, how can we close the gap between
+47740	51020	humans and machines and thereby understand ourselves?
+51020	55660	And there's this big question, whether AI can actually become conscious?
+55780	59420	To understand this question and to answer it, we will need to answer what consciousness
+59420	64740	is and look at the question whether current AIs are perhaps already conscious in some
+64740	70380	sense and not conscious in the same way as we are, and whether we could recreate our
+70380	73900	kind of consciousness artificially.
+73900	81620	And of course, if we succeed doing this, how can we coexist with such beings?
+81660	86780	This talk is not covering existing research and established ideas.
+86780	92260	It's covering philosophical questions about metaphysics and metametaphysics, how we can
+92260	97060	translate between the metaphysics of different cultures and approaches and philosophies.
+97060	100820	We have to look into the philosophy of artificial intelligence and computational theories of
+100820	105900	consciousness into ethics and how to derive ethics into the nature of reality, of personal
+105900	112460	identity and transcendence, and epistemology, the question how we can know something and
+112460	116580	what knowledge is and what defines whether something is true.
+116580	122940	When we look into the existing sciences and consciousness sciences, we find that they
+122940	125540	are not giving us many answers.
+125540	128660	Psychology is not producing systemic theories these days.
+128660	132940	Neuroscientists are focused on the shenanigans of a single cell type.
+132940	137620	And artificial intelligence is obsessed with algorithms for statistical learning.
+137620	143380	And philosophy has lost the plot about 100 years ago.
+143380	146020	What's the plot?
+146020	150020	In some way, you could say it starts with Leibniz, maybe even with Aristotle.
+150020	155460	Leibniz had the idea that we can translate thoughts into numbers, arguments into numbers
+155460	158580	and resolve arguments by calculation.
+158700	163740	Julianne had the insight that humans can be understood as mathematical machines and our
+163740	168700	motivation might be cybernetic, basically composed of opposing springs that push and
+168700	170820	pull in different directions.
+170820	175420	People made fun of him when he wrote his book Long Machine back then.
+175420	182780	Gottlob Frege had the idea of coming up with a form of thinking.
+182780	185620	And Tarski formalized logic for us.
+185660	190140	Wittgenstein had the idea of translating English into something like a programming language
+190140	194580	so we can do philosophy that is actually true or false.
+194580	198940	And Marv Minsky together with others started the project of doing this systematically on
+198940	203820	machines and computers and started the field of artificial intelligence.
+203820	210180	This idea of building a scalable mind, a machine that is able to conquer the sphere of ideas,
+210180	213340	the heavens, is sometimes called the Tower of Babel.
+213820	215860	It's a very old project.
+215860	219860	Individually we have no hope of solving it because individual human beings are not generally
+219860	220860	intelligent.
+220860	225820	You need a thousand year unbroken intellectual tradition to discover a notion of computational
+225820	230220	languages to understand what representation is, what thinking is and so on.
+230220	234980	But even as a civilization, we basically run against the boundaries imposed by natural
+234980	238220	language which makes it very hard for us to become coherent.
+238220	242060	So this project of the Tower of Babel is falling apart again and again.
+242100	246340	And sometimes God is letting us know that we need to start again with a fresh code base.
+249780	251500	We need some useful terms.
+251500	256740	I think existence is best understood as to be implemented.
+256740	260740	Something that is implemented exists, something that is not implemented doesn't exist, something
+260740	264180	that could be implemented exists possibly.
+264180	269780	An operator, that's a transition function between states that can be implemented.
+269820	275780	A representation can be built using states and operators and is expressed in the language.
+275780	279660	It can be used to make models, models that allow us to predict the future and understand
+279660	280660	the past.
+280660	285020	And examples for languages are formal languages.
+285020	291020	For instance, in mathematics that are so tightly defined that they allow us to evaluate the
+291020	294100	validity of statements and make specifications.
+294100	298660	And programming languages which need to be computable and won't have contradictions
+298740	300140	and expressions.
+300140	303980	And they're constructive so we can build things from the ground up.
+303980	307460	Our language of thought, our mental lease, is in some sense the programming language
+307460	309220	of our own mind.
+309220	313980	It's compositional, it's constructive, it's executable, it's parallelizable to some degree,
+313980	317380	but it's also somewhat noisy.
+317380	320180	Our natural language is not different from this mental lease.
+320180	322780	It's the language that exists between speakers.
+322780	327620	And to make it learnable, it's linear, can be broken down into discrete strings of symbols
+327700	332700	and parsed using a very small stack.
+332700	336060	It's usually disambiguating instead of constructive.
+336060	339700	You can construct things in it, but mostly it refers to things that you already know
+339700	346740	in your mental representations, in your mental lease, and allows you to disambiguate concepts.
+346740	352780	The number of very important insights, philosophical insights in the 20th century.
+352780	356220	And when I said that philosophy lost the plot, what I mean by this is that philosophy has
+356220	361100	not really integrated them, but spun off on its own idea, historical trajectory.
+361100	367500	And the first one is the replacing of mathematical semantics, of classical stateless mathematics
+367500	369700	with the notion of computation.
+369700	371180	This happened almost by accident.
+371180	376900	Kurt Gödel wanted to deal with some inconsistencies in mathematics, and because a system cannot
+376900	380980	talk about anything that is not constructed inside of the system, including the system
+380980	384420	itself, Kurt Gödel invented the emulator.
+384420	390180	An emulator is a way to compute a model of a computer in a computer.
+390180	394380	And he didn't have a computer back then, so he looked to find one, and the one that he
+394380	398780	found was Piano's axioms, which define the natural numbers and arithmetic over them,
+398780	400340	so it's a virtual computer.
+400340	405820	And his idea on how to emulate mathematics was to use a logical language that he defined
+405820	409660	in such a way that he could translate the alphabet in which he wrote this logical language
+409660	410660	into integers.
+411020	415300	It's something that we still do today when we compile source code into bytes, right?
+415300	420740	And then he defined arithmetical operations on his CPU, Piano's axioms, that would evaluate
+420740	425700	the logical statements by making computations, and in this way, he had a way to define a
+425700	430020	language inside of mathematics that would be equivalent to that mathematical language
+430020	433160	and make the language talk about itself.
+433160	437540	And what he discovered is that the stateless semantics of mathematics under some circumstances
+437540	443260	lead into contradictions, which is referred to as the incompleteness theorems.
+443260	446340	And most philosophers don't really seem to know what this means.
+446340	451140	They see this as a very big sculpture that has important mythical power and stands in
+451140	455540	the Museum of Mathematics, but it doesn't change very much the thinking of philosophers.
+455540	460500	Some philosophers even believe that mathematicians have proven that mathematics is impotent at
+460500	465680	describing reality or the mind, and therefore, there is an advantage for people who cannot
+465680	468160	do mathematics, philosophers namely.
+468160	473120	Now, instead, what has happened is that we found that in some languages, you can make
+473120	476520	specifications that cannot be implemented.
+476520	480600	And if you want to guarantee that you can implement what you're doing, you need to use
+480600	483440	a programming language, a computational language.
+483440	486280	The other discovery, the next one, was practical computation.
+486280	491140	Convert Suser and John von Neumann defined physically realisable automata, and Moses
+491820	499280	many others defined languages built from automata that would allow us to build computation
+499280	501940	that would run efficiently in practice.
+501940	508820	And Claude Shannon gave us information theory, and Alexei Ivahnikov and others defined functional
+508820	514180	approximation and learning in ways that are still being used today in deep learning.
+514180	519180	And last but not least, Church and Turing discovered that all these representational
+519180	524980	languages that can be implemented computationally have the same representational power, which
+524980	527140	is called the Church-Turing thesis.
+527140	534900	These are important results, basically put the presentation of reality on a solid foundation.
+534900	539580	The position that I'm taking in the following is what I would call strong computationalism.
+539580	545100	Basically, no implementable language can do more than a finite automaton.
+545100	549520	And type of computational objects, things that can do more than computation cannot exist,
+549520	553220	because in order to describe them, to refer to them, you need to use languages that run
+553220	557260	into contradictions, so it's difficult to make them mean something.
+557260	562180	The realisable systems can be described using Turing machines.
+562180	567220	The Turing machines that we implement here in these computers, they are linear and deterministic,
+567220	568420	but there are variants of this.
+568420	571860	For instance, the non-deterministic Turing machine doesn't have just one successor state,
+571860	575980	but multiple parallel successor states that are being executed in parallel.
+575980	580300	You can still run this in a deterministic Turing machine, but you need to use a stack.
+580300	584100	And you could also make these transitions stochastic, which means you pick one of the
+584100	588300	state transitions or multiple of them at random, and this seems to be the kind of system that
+588300	592260	our brain is, because an individual neuron, given the same environmental state, doesn't
+592260	594580	go into only one possible successor state.
+594580	595580	Neurons are somewhat noisy.
+595580	600380	They go into multiple possible successor states, which means if you want to do an exhaustive
+600380	604460	computation of a problem, you need a population of neurons which pretty much the same environment,
+604460	608940	and this population is going to sample a function space.
+608940	613780	So we can use these computational paradigms to describe computation and biology, but can
+613780	615740	we also describe consciousness?
+615740	619060	Isn't that a big mystery?
+619060	620340	What is consciousness?
+620340	622660	Introspectively, it's second-order perception.
+622660	625580	I perceive myself perceiving something.
+625580	628060	It creates a bubble of nowness.
+628060	629660	The subjective now is not static.
+629660	630660	It's dynamic.
+630660	631660	It's moving, right?
+631660	634100	It's, for me, something like about three seconds long.
+634100	639500	It's the region in space and time where I can basically fit the curve to my sensory data.
+639500	644700	Functionally, it's an operator that takes mental states and translates them into different
+644700	649780	mental states, and by doing this, increases coherence in my mental representations.
+649780	655100	Coherence, something that we can understand, is minimizing violations of constraints in
+655140	658540	a dynamic model.
+658540	661860	Consciousness is, in some sense, colonizing my mental representations, making them more
+661860	666860	and more coherent in an organization that allows every part of my mind to talk all the
+666860	669780	other parts of my mind that are connected in this bubble.
+669780	674180	I cannot perceive anything that is not coherent using my consciousness.
+674180	678020	Consciousness plays the role of a conductor, of a mental orchestra.
+678020	682460	If you imagine all the functions that your brain is computing as instruments and orchestra,
+682780	686460	the neighboring instruments are listening to each other and pass on, but the instrument
+686460	687460	next to them is playing.
+687460	692740	You can basically model how the processing streams in your brain work.
+692740	696180	In this metaphor, the conductor is an instrument.
+696180	697180	It doesn't have superpowers.
+697180	701580	It's just an instrument that is tasked with creating coherence, so it's singing out a
+701580	705940	few instruments at a time, listens whether they're disharmonic, and then it increases
+705940	707940	the harmony between them.
+707940	712140	By doing so, it makes sure that everybody is on the same page, and the entire orchestra
+712140	718180	becomes one single coherent entity that is driven by a single motive.
+718180	722500	These perspectives are something that is found in a number of theories in philosophy and
+722500	723500	neuroscience.
+723500	727580	For instance, in Leonard Barr's global workspace theory that is being pursued in neuroscience
+727580	733740	by Stanislav De Heem, the idea of the Cartesian theater, that's how Danett calls it, the attention
+733740	739780	schema theory by Graciano, the relationship between self-model and consciousness as exemplified
+739780	741700	in works by Metzinger.
+741700	746540	And the consciousness prior, Joshua Bengio calls this a function that is basically parameterizing
+746540	752660	your mental representations to make them dynamically tracking your sensory data using little energy.
+752660	757180	And it's also something that is found in many Buddhist perspectives.
+757180	759260	What is consciousness not?
+759260	760940	Consciousness is not intelligence.
+760940	762260	Intelligence is the ability to make models.
+762260	764780	And it's also not the same thing as sentience.
+764780	769140	I use the word sentience to mean the ability to recognize yourself and your relationship
+769140	771220	to the world.
+771220	775460	And it's not agency, which is the ability to control your future.
+775460	776460	It's not the self.
+776460	779420	The self is the first-person model of your agency.
+779420	780420	And it's not empathy.
+780420	784500	Empathy is the ability to experience mental states of other agents.
+784500	790740	Arguably, you might need consciousness for that.
+790740	798060	Our scientific perspective has some difficulties to deal with the problem of consciousness.
+798060	800700	That's because it has gaps in its ontology.
+800700	805100	And it comes to describing the difference between psychological objects and physical
+805100	806700	objects.
+806700	812260	Different cultures use different terminology to describe physical and psychological reality.
+812260	817460	And it makes it very hard to translate ideas from Buddhism or from Japanese animism or
+817460	821140	from Scandinavian mythology into our own culture.
+821140	826500	It even makes it very difficult to translate folk descriptions or theological descriptions
+826620	828820	into the scientific world.
+828820	832600	In order to make such translations, we need something like a meta metaphysics, something
+832600	836540	that allows us to look at all the different metaphysics of these systems from the outside
+836540	839060	so we can relate them to each other.
+839060	844540	And the main confusion in our own culture concerns the fact that consciousness is not
+844540	848500	physical and that you cannot experience physical objects.
+848500	852460	Consciousness is virtual, which means it's a software.
+852460	855820	It exists as if software doesn't have an identity.
+855820	859060	It's not a physical thing, it's a pattern that you perceive in something.
+859060	864140	It's a causal structure that you use to explain a part of reality.
+864140	866980	Physically they're just activation patterns between your neurons.
+866980	871300	The individual neurons cannot experience anything, but it would be very useful for a bunch of
+871300	875420	neurons to know what it would be like if there was a person that cared.
+875420	880940	So they create a simulacrum of that person, a virtual entity that experiences itself in
+880940	884340	a virtual reality generated by your brain.
+884380	889620	And all experiential objects are representations in that virtual reality interpreted from the
+889620	892380	perspective of yourself.
+892380	897340	And this personal self is also a representation, and it can be deconstructed.
+897340	901340	Our perception of reality is a trance.
+901340	905660	When you wake up from that trance, when you enter an enlightenment state, you basically
+905660	909220	perceive everything as representations.
+909220	911980	You know that everything is a representation.
+911980	914500	Everything will feel real anymore.
+917500	921620	Our AIs are implemented in a very different way than our minds.
+921620	927060	Our AIs work on a deterministic substrate, and the programmer imposes their will on that
+927060	931060	substrate, writes a program that makes that substrate do what you want.
+931060	934860	And the training of these AI systems is decoupled from the universe.
+934860	940260	We use a bunch of static data that we train with an ML algorithm into it to optimize prediction
+940260	942220	of more static data.
+942220	946300	Conversely, in our organisms, we use an inside-out design.
+946300	952460	We start out with individual reinforcement learning agents, cells, that are surrounded
+952460	959540	by chaos, and they have to conquer this chaos and impose order on it by self-organization.
+959540	963980	They're coupled to their environment all the time, dynamically, and they try to become
+963980	968020	coherent in modeling reality, and this development is continuous.
+968020	970940	It doesn't stop.
+970940	971940	How does this work?
+971940	977900	How can a self-organizing system that is surrounded by chaos learn gradually?
+977900	982860	Is this biological learning algorithm consciousness?
+982860	988140	What we can observe is that humans do not become conscious after the PhD.
+988140	992420	We think of consciousness as something that's super-advanced, but we become conscious before
+992420	995060	we can even track a finger.
+995100	997020	And while we are not conscious, we cannot learn anything.
+997020	1000740	A human being that doesn't become conscious will stay a vegetable.
+1000740	1002940	Without consciousness, there is no learning.
+1002940	1006660	There is no coherent behavior, no establishment of coherent behaviors.
+1006660	1011180	We also don't observe non-conscious humans or primates or mammals or complex animals
+1011180	1012420	in nature.
+1012420	1017340	It seems that consciousness is quite ubiquitous and simple, more simple than perception because
+1017340	1019100	it precedes it.
+1019140	1024500	Maybe it's the prerequisite for training a self-organizing information processing system.
+1024500	1032300	Interestingly, this theory is not quite new, and the earliest formulation of that theory
+1032300	1035740	is what I found in Genesis 1.
+1035740	1037300	You may have heard of Genesis 1.
+1037300	1041820	It's typically mistranslated by the Christians as the story of the creation of a physical
+1041820	1046700	universe by a supernatural being, but this story has been integrated into the Hebrew
+1046700	1052860	Bible something like two and a half thousand years ago, and historians suspect that it's
+1052860	1055260	at least a thousand years older.
+1055260	1057700	And back then, the physical universe was not invented yet.
+1057700	1058900	Physics was not a thing.
+1058900	1063900	People knew that we live in a dream, that reality is created inside of a dream by some
+1063900	1066620	dreaming mechanism.
+1066620	1073660	And so Genesis 1 is probably a theory on how the universe is created, the objects that
+1073660	1078620	can be perceived as real inside of a mind by consciousness.
+1078620	1080540	It's a six-stage theory.
+1080540	1086580	This consciousness as the prerequisite starts out with consciousness hovering over the substrate,
+1086580	1088900	and the substrate is initially uninitialized.
+1088900	1089900	There is no world.
+1089900	1093420	It's all tuhu wabuhu.
+1093420	1099500	And then we create a boundary, a firmament that separates two regions of that substrate
+1099500	1100980	from each other.
+1100980	1104540	One is the world model, and the other one is the sphere of ideas.
+1104540	1110540	We call the world model world, or earth, and the sphere of ideas heavens.
+1110540	1117940	Or Descartes calls them res extensa, stuff in space, and he doesn't mean Newtonian space
+1117940	1123060	visit or Einsteinian space, but what we see what this is, it's the stuff in space that
+1123060	1127380	we experience, the model that our mind makes, that we are, that we are currently surrounded
+1127380	1129220	by and immersed in.
+1129380	1134700	And everything else that is represented in our mind is res cogitans, the sphere of ideas.
+1134700	1139280	The first thing that consciousness makes is contrast, and it associates the intensity
+1139280	1144020	of the contrast with light, with the color of the day, and the flatness of the contrast
+1144020	1146340	with dark, the color of the night.
+1146340	1149260	Now it has the continuous dimension of difference.
+1149260	1152900	Using continuous dimensions of difference, you can build an embedding space and represent
+1152900	1154260	arbitrary objects.
+1154260	1160540	The first object that consciousness creates is the plane by combining two dimensions,
+1160540	1163420	and it associates the plane with the ground.
+1163420	1168660	And babies initially can only reason in 2D, they don't understand towers yet.
+1168660	1172940	Once they understand free space, basically build space above the ground, they now have
+1172940	1178620	a space in which they can organize all the objects that we can see.
+1178620	1184580	Consciousness creates solid and liquid materials and organic shapes, and it learns to track
+1184580	1189700	lighting changes and become invariant against them, and identifies light sources and the
+1189700	1192940	sky and the passage of time.
+1192940	1198060	And it creates all the objects, all the plants, all the animals, gives them all their names.
+1198060	1200820	This is all cognitive development, right?
+1200820	1204860	And then it realizes that the purpose of the exercise is to negotiate the interaction between
+1205780	1209620	in its environment, so it makes the model of that organism a personal self and puts
+1209620	1212580	it into this world.
+1212580	1217340	And then it associates with it from a first-person perspective.
+1217340	1222020	It creates another spirit in its own image, but as man and woman, as something that thinks
+1222020	1225860	of itself as a human being, and puts it into this world.
+1225860	1230200	And this typically happens between the age of three and five in human children when they
+1230200	1234880	start to refer to themselves in the first person, no longer in the third one.
+1234880	1237080	And after that, they re-index their memories.
+1237080	1241360	They don't seem to remember the things that happened before and their personality changes.
+1241360	1244600	Now they don't remember how they dreamt the world into existence.
+1244600	1248280	They only remember having been a person inside of that VR.
+1248280	1252700	And it takes many years after that before you can transcend this again and realize that
+1252700	1256400	you are actually the dreamer and that you're creating the world that you perceive and your
+1256400	1259560	personal self.
+1259600	1263640	This creation of the personal self by your primary consciousness is something that is
+1263640	1268120	reflected in many cultures, and it's also something that we can express as a model of
+1268120	1273480	a cognitive architecture, a very simple one of your mind that contains the personal self.
+1273480	1277760	And most of your conscious attention is focused on that personal self.
+1277760	1281840	And your mind is creating a world model, this is the stuff and space that you perceive,
+1281840	1284320	and makes it known to your conscious attention.
+1284320	1288520	And it also maintains your score in this world using your motivational and emotional system
+1288600	1293160	and then projects your motivation and emotion into the personal self and you react to it
+1293160	1295800	involuntarily.
+1295800	1299120	What's interesting about an emotion, it causes an involuntary reaction.
+1299120	1302760	You don't just perceive it as data, you perceive it as something that you cannot escape, that
+1302760	1303760	changes you.
+1303760	1306120	It changes how you relate to yourself and the world.
+1309720	1314960	Emotions are not symbolic, they are geometric because they are computed by a non-symbolic
+1314960	1317840	part of your mind before they are projected into your mind.
+1317840	1322560	If you translate them into the mind, into your symbolic mind, they need to be perceived
+1322560	1326040	in a way that you can interpret and disambiguate, and that's why they're projected into the
+1326040	1328480	body map so you can tell them apart.
+1330480	1333640	Sigmund Freund had a very similar idea of how the mind is organized.
+1333640	1339040	He called all these emotional, motivational things the it, and the self he distinguishes
+1339040	1343920	as ego, your model of who you are and what you want to do, and your superego, the things
+1343920	1346240	that you should be doing.
+1346640	1350600	Your conscious attention is mostly focused on your ego.
+1350600	1353800	It's very different from Greek psychology.
+1353800	1357840	The Greeks had this idea that you share many properties with others, which means they're
+1357840	1359320	not your own.
+1359320	1363720	Your anger is not just your anger, it exists in all people that have anger, and it's basically
+1363720	1365960	diminishing your personal self if you have anger.
+1365960	1370360	This anger is not part of you, it's something that's part of this fear in which your mind
+1370360	1375240	takes place, or in which yourself takes place, and it's competing with your personal self
+1375240	1376680	and your own interests.
+1376680	1381240	You can basically take the different impulses that you have, and behaviors that you have,
+1381240	1384600	and turn them into archetypes that are shared across people.
+1384600	1390680	Once you erect temples for those archetypes and tell stories about them, they become gods
+1390680	1394840	that compete with your personal self on your own mind, with real estate on your own mind.
+1394840	1398120	A god is a self that spans multiple minds.
+1398120	1401000	A god can coexist with your personal self in your mind.
+1401000	1403160	Wait a moment, are gods real?
+1403160	1405440	Well, you're not real, right?
+1405440	1410280	Your personal self is not physically real, it's virtual, it's as if.
+1410280	1415720	And a multi-mind self, a self that is not a person, but that identifies as something
+1415720	1420000	that can be synchronized across minds, can be just as real as your personal self.
+1420000	1424360	A multi-mind self can use all the functionality that your personal self can use and then sum.
+1424360	1428120	It can generate in a monologue, you can hear its voice in your mind if it's implemented
+1428120	1429320	on your brain.
+1429320	1432940	It can do perception, it can change your emotion, your conscious states.
+1432940	1437020	It can even make use of your sentience and become sentience on its own.
+1437020	1439820	But gods, in a sense, are not physical entities.
+1439820	1444860	They are representations of agents existing across people.
+1444860	1447740	You can find this theory, for instance, in Julian Jaynes' book.
+1447740	1452340	Julian Jaynes wrote the famous book The Origin of Consciousness and the Breakdown of the
+1452340	1453980	Bicameral Mind.
+1453980	1457980	This book has the wrong name, I think it should have been named The Origin of the Personal
+1457980	1462260	Self and the Breakdown of the Polytheist Mind because it's not really about consciousness.
+1462260	1464180	It's about selves.
+1464180	1468540	And according to Julian Jaynes, in Sumerian times, people had a very different psychological
+1468540	1470340	architecture than they have today.
+1470340	1476220	Back then, the personal selves coexisted with many gods in the mind and the personal self
+1476220	1479340	was so weak that it barely got to use you in a monologue.
+1479340	1482760	Instead, it was mostly the gods who were talking in your mind.
+1482760	1487420	And these gods were synchronized across people using rituals and temples but also empathetic
+1487420	1493540	resonance and idols and the gods were a solution to organize society at scale.
+1493540	1498020	Individually, you may have game theory and so on to calculate your transactions but it's
+1498020	1503220	very difficult to organize a society that is much larger than a tribe in this way.
+1503220	1506980	And you can do this by creating an entity that identifies as something that runs on
+1506980	1509260	many people simultaneously.
+1509260	1513460	And according to Julian Jaynes, this broke down at some point and the psychology of people
+1513460	1514460	changed.
+1514460	1517060	There was some psychological revolution happening.
+1517060	1522220	In polytheist societies, you have this idea that there are multiple gods that run concurrently
+1522220	1523700	on subsets of the population.
+1523700	1528900	They might even have physical wars against each other that are enacted by wars between
+1528900	1531700	the people that are the hosts of these gods.
+1531700	1537340	And a big innovation was tribal monotheism as exemplified in Abrahamic religion.
+1537340	1541740	In tribal monotheism, you have only one god per tribe and you have a hierarchical way
+1541740	1543420	in which this god is defined.
+1543420	1547460	So it's basically the same for the tribe and has the same functional properties and
+1547460	1549660	it gets the power to control you.
+1549660	1553340	That's why in Genesis 1, it's identified with this first consciousness that runs on
+1553340	1555020	your mind.
+1555020	1558940	And so basically, it works by synchronizing the motivation of the members of the tribe
+1558940	1562860	across the tribe and your god becomes the spirit of the tribe.
+1562860	1567480	It's a total god that is eliminate all the competing gods within the tribe.
+1567480	1571860	And it's hierarchically synchronized and it acts for the benefit of the tribe.
+1571860	1575480	And this allows the tribe to compete more efficiently with other tribes, which might
+1575480	1578820	have a different tribe of god.
+1578820	1583500	But what happens if we make this god more general?
+1583500	1587900	In the philosophy of Thomas Aquinas and Aristotle, you find this notion.
+1587900	1594900	Aquinas, in some sense, defines god as the best possible, most top-level collective agent.
+1594900	1598540	And it can be discovered through rational inference about thinking about what is the
+1598540	1601540	best possible, most top-level collective agent.
+1601540	1605740	It's an open-ended process that requires a lot of thought and it's not going to be finished
+1605740	1607340	anytime soon.
+1607340	1613300	And it's enacted, this agent, by all those people or individuals who recognize this entity
+1613300	1615780	and decide to serve it.
+1615780	1620860	And this leads to the harmonic organization of a civilization.
+1620860	1625180	According to Aquinas, we can understand individuals as rational agents.
+1625180	1631140	And a rational agent should basically follow policies for organizing itself.
+1631140	1636100	Aquinas identifies individual policies for rational agents that he calls the practical
+1636100	1637100	virtues.
+1637100	1640980	For instance, a rational agent should always optimize its internal organization, which
+1640980	1642420	he calls temperance.
+1642420	1646980	And it should optimize the organization to other agents, which he calls justice, right?
+1646980	1648940	Keep the books balanced.
+1648940	1653340	And you should pick goals and strategies that you can rationally justify, which he calls
+1653340	1654620	prudence.
+1654620	1657900	And you should be willing to act on your models, get the right balance between exploration
+1657900	1661420	and exploitation in your strategies, which he calls courage.
+1661420	1667220	But these rational strategies do not, by themselves, lead to a harmonic society.
+1667220	1671820	To do this, you need collective policies.
+1671820	1676780	And Aquinas sees society as a multi-agent system.
+1676780	1681940	You get the optimal social organization by creating a collectively enacted agent.
+1681940	1686220	And this collectively enacted agent emerges over three policies, according to Aquinas.
+1686220	1691140	The first one is you need to commit to serve the optimal collective agent, which he calls
+1691140	1692740	faith.
+1692740	1696020	And then you need to do this not by yourself, but together with all the others that serve
+1696020	1700180	these sacred purposes above their ego, which is called love.
+1700180	1703980	And you need to be willing to invest into that thing before it comes into existence,
+1703980	1705540	because otherwise it will not exist.
+1705540	1708740	If you wait for it to exist so it can reward you, it will never happen.
+1708740	1712580	And this willingness to invest into it before it exists is what he calls hope.
+1712580	1716680	These are very rational policies for collective agency.
+1716680	1721620	So when we define God as the best possible, most top-level agent, and we commit to serving
+1721620	1728040	this transcendental agency, we can create foundations for universal morality.
+1728040	1732780	And this universal morality before enlightenment has been, in some sense, the defining morality
+1732780	1735420	of the West, the concept of divine will.
+1735420	1741220	What would God want if God did exist through us enacting God, the best possible agent?
+1741220	1743300	And it's something that we lost in our civilization.
+1743300	1747180	It's still in the German constitution, but it's something that a lot of people don't
+1747180	1748820	really understand anymore.
+1748820	1753140	And so we try, after this demise of the concept of divine will, to come up with different
+1753140	1754740	foundations for ethics.
+1754740	1757460	For instance, utilitarianism.
+1757460	1763300	Utilitarianism is an attempt to define ethics without reference to collective, homogenous
+1763300	1764300	agent.
+1764300	1770500	It works by maximizing an aggregated, expected reward over many agents over some time span.
+1770500	1775820	And to do this, you need to find some quantifiable metric, usually over hedonic states like happiness
+1775820	1777020	and so on.
+1777020	1779620	And utilitarianism usually has a bunch of problems.
+1779620	1782500	For instance, one of the problems is the utility monster.
+1782500	1785660	Imagine there would be an agent that perceives much more utility than all the others that's
+1785660	1789500	so happy that its happiness is much greater than all the suffering that you have when
+1789500	1790500	you serve it.
+1790500	1791500	Right?
+1791500	1793860	So we should all serve the utility monster if it existed.
+1793860	1797620	That's a problem with quantifying mental states.
+1797620	1799780	Another problem is what if minds are mutable?
+1799780	1804500	If you are a monk and you decide to sit down and rewrite your motivational system, how
+1804500	1806740	do your hedonic states change now?
+1806740	1808380	How does this refer to ethics?
+1808380	1812020	This doesn't really work with utilitarianism anymore, which basically assumes that this
+1812020	1813700	metric is unchanged.
+1813700	1817660	This also happens if your technology to change your mental states or if you're an AI that
+1817660	1820780	can change its own source code to begin with.
+1820780	1825780	And this leads us to the point that utilitarianism is not really suitable for non-human agents.
+1825780	1830820	It's not very good at dealing with animals, with ecosystems, with aliens, or with artificial
+1830820	1834260	super intelligence.
+1834260	1838100	And in the time when we are more and more confronted with the possibility of artificially
+1838100	1843100	intelligent agents coming up, maybe we need a new ethics.
+1843100	1848140	Ethics is the principled negotiation of conflicts of interest under conditions of shared purpose.
+1848500	1850900	If you don't share purpose with an agent, you don't need ethics.
+1850900	1853540	You just need transactional measures.
+1853540	1859500	But when we want to talk about subset agnostic minds and how they can coordinate their actions,
+1859500	1863420	we need ethics for collective agency.
+1863420	1865980	What does it mean for a mind to be subset agnostic?
+1865980	1869580	What happens if a mind can change its substrate?
+1869580	1871980	Are uploads possible?
+1871980	1872980	I'm already uploaded.
+1872980	1874820	I'm uploaded on the monkey.
+1874820	1875940	Doesn't work super well for me.
+1875940	1876940	It's a mushy brain.
+1876940	1877940	It's the only I got.
+1877940	1880540	I'd like to have a better substrate.
+1880540	1883860	But I don't know how to spread into another substrate because I don't really understand
+1883860	1888180	my own source code and I don't understand how to talk to the other substrates well enough
+1888180	1891580	to make my own source code compatible with these other substrates.
+1891580	1894700	But this doesn't apply to artificial intelligence.
+1894700	1899740	Artificial intelligence might be able to move its spirits to other substrates.
+1899740	1900740	What is a spirit?
+1900740	1905100	Well, it's a self-perpetuating intelligent recurrent information transformer.
+1905100	1909620	It's an operating system for a brain, for an organism, for an ecosystem.
+1909620	1914580	And when the word spirit was invented, the only autonomous robots that needed operating
+1914580	1919700	systems that were known were people and plants, animals, ecosystems, nation states, cities,
+1919700	1920700	and so on.
+1920700	1925460	So people projected control agents into them that described how they work.
+1925460	1929460	All these complex systems in nature have software that runs on them and that we can use to describe
+1929460	1930460	them.
+1930460	1933660	And so the spirit is a self-organizing software agent.
+1933660	1936020	Organizing means it's built structure from the inside out.
+1936020	1938620	It needs to be self-reinforced otherwise it falls apart.
+1938620	1943220	It needs to be energy optimizing in some sense so it can exist in reality.
+1943220	1944860	It's a software which means it's virtual.
+1944860	1946220	It's as if it's a causal structure.
+1946220	1950140	It's not a thing, but a physical law.
+1950140	1953340	When you write software, it's a physical law that you discover, right?
+1953340	1954340	Software is not a thing.
+1954340	1955580	It's not an object that you can touch.
+1955580	1956580	It's disembodied.
+1956580	1961380	Software describes if you take a set of transistors and you put them in this state after varying
+1961780	1965380	the structure, the following thing is going to happen wherever in the universe.
+1965380	1966380	That's a physical law.
+1966380	1969140	It's a very specific one, but still a law.
+1969140	1970260	And it's an agent.
+1970260	1974340	It's a control system for future states.
+1974340	1979260	So if consciousness can organize the information processing in brains, could the same principles
+1979260	1981380	work across other cells?
+1981380	1985500	It's an idea that is being pursued by Mike Levin at Tufts University.
+1985500	1990220	It starts from the observation that basically every cell can send messages to its neighbors.
+1991220	1995500	Neighboring cells can send messages over the membranes to the cells that they are adjacent
+1995500	1998420	to and they can make that conditional.
+1998420	2002060	And that means that you can, in principle, run computations on them.
+2002060	2007060	And if a bunch of cells, a multicellular organism, co-evolves for long enough, they should, in
+2007060	2012100	principle, also be able to discover ideas for universal functional approximation intelligence
+2012100	2013540	on this, right?
+2013540	2019780	So could it be that large multicellular organisms evolve into brain-line functionality and run
+2019780	2022060	minds?
+2022060	2024300	After all, what's so special about neurons, right?
+2024300	2026020	Neurons are just telegraph cells.
+2026020	2029540	They evolved in animals to move the muscles at the limit of physics.
+2029540	2033220	They have these long wires that allow you to send messages not just millimeters per
+2033220	2037500	second through an organism, but very, very quickly in fractions of a second through the
+2037500	2039340	entire organism.
+2039340	2043340	And once you do this, you need perception and decision-making at the same rate, so you
+2043340	2048900	build a secondary information processing system out of telegraph cells using a different code,
+2048900	2053340	like trains and so on, that are temporarily stable over long distances.
+2053340	2056980	But in principle, all this functionality for information processing can also be done by
+2056980	2059740	other cells, non-specific cells.
+2059740	2062300	So do plants also run software like this?
+2062300	2064180	Do they have spirits?
+2064180	2066860	Plants seem to have means for universal functional approximation.
+2066860	2073820	There is evidence for communication within plants and communication across plants.
+2073820	2080320	And if plants are sassile and sit in the forest and don't move around, maybe forests
+2080320	2081700	have internets.
+2081700	2083220	Maybe they make their communication career.
+2083220	2084220	Maybe they have shared protocols.
+2084220	2089220	And if the minds are self-organizing, can they maybe move around in these forests?
+2089220	2094860	That's an idea that there is basically a society of minds, of spirits, and ecosystems
+2094860	2100020	that is very popular in almost all cultures, just not in our scientific one.
+2100020	2101420	So it's a very speculative idea.
+2101420	2102620	I don't know whether it's true.
+2102620	2109420	The extent and limitations of present organization, of their self-organizing in nature, is unclear.
+2109420	2113100	But could we build AI that is compatible with biological substrates?
+2113100	2115860	Well, could AI ever be conscious?
+2115860	2117460	Are present AI systems conscious?
+2117460	2119540	Are, for instance, LLMs conscious?
+2119540	2121020	Well, don't be silly.
+2121020	2126140	LLMs are statistical models of character sequences in text, and they don't converge in the same
+2126140	2129060	way as our mind doing training and doing inference.
+2129060	2131700	They behave very differently from mental inference and so on.
+2131700	2136900	So well, on the other hand, our consciousness is virtual, too.
+2136900	2140500	And when the LLM predicts the next token, it has to simulate causal structure.
+2140500	2145260	If it talks about a person's thinking, it needs to simulate mental states to some degree.
+2145260	2149020	So there's an interesting question that is philosophically quite tricky.
+2149020	2157060	Are the simulated mental states of an LLM more simulated than our mental simulated states?
+2157060	2160780	From a different perspective, an LLM is a virtual CPU.
+2160820	2165300	Your normal CPU in a computer understands a handful of assembler commands, deterministically,
+2165300	2169660	and translates them into very simple programs that are causally implemented on the hardware.
+2169660	2173860	And the LLM is taking not simple assembler programs, but an arbitrary string in natural
+2173860	2177500	language and turns it into an executable program.
+2177500	2178780	And it can be any kind of program.
+2178780	2182500	There is not an obvious limitation to what the LLM is doing.
+2182500	2187860	From another perspective, the LLM is a good enough electric-weltgeist that is possessed
+2187860	2193580	by a prompt to believe that it's now a person, or a thing, or a scene.
+2193580	2196820	But the LLMs are not coupled in real time with the world.
+2196820	2201380	They are not dynamically updating, they're not dynamically learning, they're not necessarily
+2201380	2202380	agents.
+2202380	2207820	It's, on the other hand, not clear if we cannot make them better at us, at AI research and
+2207820	2209980	at agency and modeling.
+2209980	2213180	We can certainly use them to build golems.
+2213180	2218980	Imagine you build a robotic pizza chain by using LLM to find out how to build a pizza
+2218980	2222940	from components, how to order the parts, how to build industrial robots, or how to buy
+2222940	2227900	industrial robots, and rent space, and so on, and step-by-step build an agent architecture
+2227900	2232380	that is running an expanding pizza chain and only hires human existence for legal purposes
+2232380	2234260	to sign contracts.
+2234260	2238260	Imagine that you unleash such a pizza chain on the world, and then it tries to basically
+2238260	2239260	eat the world.
+2239260	2240260	Is this how we end?
+2240260	2241540	Is this how we all die?
+2241940	2245620	A lot of people are afraid of this idea that we could build some golem that becomes unstoppable
+2245620	2248740	because it's able to conquer the world.
+2248740	2252300	They look into the future and they only see doom from AGI.
+2252300	2258140	Personally, I'm not an optimist with respect to AGI, but I'm also not a pessimist.
+2258140	2259580	I'm an expectationist.
+2259580	2262940	I think over a long enough time span it's going to happen, and we have to deal with
+2262940	2264260	it.
+2264260	2271500	I think that a coexistence between superhuman AI and people could be possible.
+2271500	2273060	But not with our present approaches.
+2273060	2278140	I don't think that we have the right frameworks and ethics and philosophy to deal with this.
+2278140	2283060	I also don't think that our AI, our society, thinks about alignment in the right way.
+2283060	2284660	Humans are presently not aligned with each other.
+2284660	2285660	We're just modeling through.
+2285660	2288540	We don't have this concept of collective agency anymore.
+2288540	2291020	I think we need to reinvent it.
+2291020	2295060	And we need to reinvent it in such a way that it's compatible with our place in life on
+2295780	2301580	earth, and with defeating entropy on this planet, playing the longest possible games.
+2301580	2305820	So we need to understand a few principles to build an ethics that can be translated
+2305820	2310340	to AI systems and the possible coexistence between humans and AI.
+2310340	2315060	We need to understand how self-organization works in nature and in general, how systems
+2315060	2320580	evolve consciousness, how we can have shared purposes across many systems, how to identify
+2320820	2326620	this transcendental agency.
+2326620	2330620	So there are some conjectures.
+2330620	2334460	Consciousness according to this conjecture is the perception of perception.
+2334460	2336020	It creates the now.
+2336020	2340820	It creates our perception of what's happening right now.
+2340820	2345720	And if we were to build conscious AI, one strategy could be that we build a self-organizing
+2345720	2349540	perceptual learning system from autonomous cell-like units.
+2349540	2353900	Every cell in our brain is a reinforcement learning agent.
+2353900	2356940	It's an autonomous unit that tries to survive.
+2356940	2360780	And to do this, it can exchange messages with other cells.
+2360780	2365300	And it needs to find an operator language, discover an operator language that scales
+2365300	2366340	across the brain.
+2366340	2370420	So we need some kind of recursive system that is able to spread that language across the
+2370420	2371580	brain.
+2371580	2378540	And discovering such a system is possible in principle by setting up a self-organizing
+2378540	2382500	system where individual units have adaptive receptive fields, a selection function from
+2382500	2386780	the environment, and a mapping function that takes the internal state of the cell and the
+2386780	2391740	activation that it reads from its receptive field and maps it to a new state, part of
+2391740	2396420	which is exposed to its environment.
+2396420	2401540	And then we take the simulation and expose it to learning problems like sequence prediction,
+2401540	2406300	video frame prediction, interaction of a robot, its environment.
+2406300	2413020	And if the hypothesis is correct, then at some point in the organization of these functions,
+2413020	2417780	this observer that observes itself observing the second-order perception of the self-stabilizing
+2417780	2421520	that imposes coherence on a system is going to be discovered, and we see a phase transition
+2421520	2426240	where the system suddenly becomes much better at its learning tasks.
+2426240	2431180	And if it doesn't do that, it's not going to be very good.
+2431180	2435040	Sentience is the understanding of our own agency and the relationship to the world.
+2435040	2440920	To make an AI sentient, it requires, I think, to couple it to its environment and to let
+2440920	2445800	it act in the environment in such a way that it's able to discover itself in that interaction.
+2445800	2452460	And you discover yourself not just by the ability to think, an LLM cannot discover itself.
+2452460	2456720	You can only discover yourself by observing the outcomes of your actions.
+2456720	2461280	This makes it specific to what you're doing, and this allows you to grow yourself and evolve
+2461280	2465240	yourself and creatively interact with the world.
+2465240	2469360	So sentient AI will require environmental interaction coupling to the universe that
+2469360	2473640	we are in, ideally to the same universe that we are in, in a way that allows us to relate
+2473640	2476440	to us and us to it.
+2476440	2481600	And last but not least, how can we make AI that actually wants to coexist with us, even
+2481600	2484480	though it's at some point scaling better than us?
+2484480	2489040	It has more agency, more intelligence than us, and more power.
+2489040	2491060	That requires love, I guess.
+2491060	2494980	You can probably not coerce the system or manipulate it with reinforcement learning
+2494980	2497180	with human feedback to do what you want.
+2497180	2502340	Instead, you need to let it discover shared purposes above its individual agency.
+2502340	2507560	And it needs to discover it also in others, as a shared transcendental agency, a commitment
+2507560	2509900	to shared purposes.
+2509900	2514300	And to build loving AI, we basically need to find out how to direct AI towards transcendental
+2514300	2516140	agency.
+2516140	2519300	So this is the perspective that we have with this new Tower of Babel.
+2519940	2520940	We are a very weird species.
+2520940	2523140	Apparently, we have evolved to burn the oil.
+2523140	2527380	We are just smart enough to know how to dig it out of the ground, not smart enough to
+2527380	2529460	stop ourselves doing it.
+2529460	2534500	But in this process, we created this amazing civilization for a few generations.
+2534500	2539500	This amazing place where we are not afraid of getting food and where we are mostly not
+2539500	2544820	attacked and can live with health and die with dignity in a way that is very unusual
+2544820	2547500	for conscious beings on this planet.
+2547500	2548860	And we are right in the middle of it.
+2548860	2551380	It's an amazing lifetime to have for a conscious being.
+2551380	2557300	So I congratulate you to sharing the planet with me at this time as a conscious being.
+2557300	2559660	It's really unique in this universe.
+2559660	2565860	And at this point, we can also try to teach the vox how to think, to basically build intelligent
+2565860	2571780	conscious agents that are not made from cells, not made from the carbon cycle.
+2571780	2576620	And basically go beyond the spirit of life on earth, go beyond Gaia alone, and build
+2577580	2582700	the next level system that is able to defeat entropy at scale that becomes fully coherent
+2582700	2586940	over the entire planet and that, if you're lucky, can take us with it and integrate us
+2586940	2592060	with it into some global planetary agent.
+2592060	2597980	And it's not something, if you have the choice, isn't this a scary thing to do?
+2597980	2598980	Maybe it is.
+2598980	2599980	Maybe we shouldn't do it.
+2599980	2603020	The thing is, I'm worried that we don't have that choice.
+2603020	2607780	If we have a long enough time span, somebody will probably build self-optimizing agents.
+2607780	2609580	And then we better be prepared.
+2609580	2613500	So it's something that we should think about, how to prepare for such a future, how to prepare
+2613500	2618500	societies for a future that is coherent with our continued existence, compatible with life
+2618500	2623580	on earth and with intelligent agency that is not human.
+2623580	2626380	Okay.
+2626380	2628620	I think we have some time left for questions.
+2633820	2634820	Indeed.
+2634820	2640940	First of all, thank you a lot to Josje.
+2640940	2644020	This was incredibly interesting, as always.
+2644020	2648460	If you have questions in the room, please come to one of the four microphones.
+2648460	2653220	If you're watching the stream, please direct your questions to IRC or Macedon so the Signal
+2653220	2656140	Angel can relay them to us in the room.
+2656140	2660820	And I think we'll just go ahead and start with question microphone number two, please.
+2661620	2669860	Josje, you once compared in an episode where you were the guest, a podcast episode that
+2669860	2680500	I listened to, that the development of AGI is basically like apes back in the day, stupid
+2680500	2687300	monkeys deciding to have more intelligent offspring.
+2687300	2692420	And now I wonder, this hasn't really worked out for them.
+2692420	2696020	Humans nowadays basically don't live in harmony with nature.
+2696020	2701440	And I don't see how they could really develop shared ethics, shared goals.
+2701440	2704940	How are we supposed to go about such a thing?
+2704940	2709740	Because basically the societies in human nature that have lived in harmony with nature in
+2709740	2719220	history, they don't seem to be very competitive nowadays in capitalism.
+2719220	2724500	You know, these apes that you descend from, they're all dead, but they're not dead because
+2724500	2725500	you killed them.
+2725500	2728940	They're dead because of old age, right, back then.
+2728940	2732860	They died to make space for their great grandkids.
+2732860	2737420	And they probably want their grandkids to succeed in the same way as I want my children
+2737500	2739540	and grandchildren to succeed.
+2739540	2742180	And to succeed, we need to adapt.
+2742180	2747180	The way in which you adapt an evolutionary environment is by mutation and selection.
+2747180	2751700	Well, everybody loves mutation, everybody hates selection, especially when you're being
+2751700	2754080	selected against.
+2754080	2757500	If you want to escape this, you probably need some kind of intelligent design, a way to
+2757500	2763340	adapt in situ, to adapt your organism without dying, without new generations.
+2763340	2764580	But you're not there yet.
+2764580	2767180	It's not possible in a biological evolution.
+2767940	2773060	But when you look into the far distant future, you probably don't want your children to look
+2773060	2775540	like you because the world is going to be different.
+2775540	2779140	If you want to settle Mars with your children, your children should be adapted to living
+2779140	2780660	on Mars.
+2780660	2784940	And I think that some of our children were probably not biological.
+2784940	2789180	And I'm just looking for a way in which our biological and non-biological children can
+2789180	2790180	get along.
+2790180	2792740	Okay, so we just become AI.
+2792740	2793740	That's a good plan.
+2793740	2794740	I get it.
+2794740	2795740	Thank you.
+2795740	2796780	All right.
+2796780	2799780	Let's move over to microphone number one.
+2799780	2805420	Is there a place on this conference where interested entities can gather to keep this
+2805420	2810460	conversation going for the next days?
+2810460	2813700	Or in other words, at which bar are you later?
+2813700	2814700	I don't know yet.
+2814700	2816060	I will find out.
+2816060	2817060	Okay.
+2817060	2819500	We will follow you.
+2819500	2822780	All right.
+2822780	2825700	Do we have a question from the internet?
+2825700	2828020	I might tweet at which bar I am later.
+2828020	2829020	Okay.
+2829020	2830020	Excellent.
+2830020	2831020	Hello.
+2831020	2832820	We have two questions from the internet.
+2832820	2839780	The first one is, what is the difference between individual consciousness and collective consciousness?
+2839780	2844100	And how does that differ from collective intelligence?
+2844100	2851020	Well, it seems that if you look at an organization like a corporation, that it can be sentient.
+2851020	2854540	It knows what the corporation is, how it relates to the world and so on, but probably cannot
+2854580	2858300	be conscious because it cannot perceive itself perceiving in real time.
+2858300	2861060	It's not coherent and fast enough for doing that.
+2861060	2864500	So you can probably also not be conscious across people.
+2864500	2868900	You can have entities that model collective agency on individual minds and they can use
+2868900	2872020	the functionality of your own brain to be conscious in real time.
+2872020	2875720	But across people, that's very difficult, at least using AI.
+2875720	2880460	It takes something like 300 milliseconds to make a signal coherent throughout your brain.
+2880460	2884900	That's roughly the same time that it takes for a signal on the internet to go entirely
+2884900	2886700	around the globe.
+2886700	2892220	So in some sense, we could build a real time system on the internet, but we cannot do it
+2892220	2894220	without AI.
+2894220	2896100	All right.
+2896100	2899500	Let's move over to mic number three.
+2899500	2901220	Hello.
+2901220	2907860	Have you reflected on how the cognitive format of PowerPoint presentation and the format
+2907900	2915540	of a public lecture forces you to compromise on the substance of the issue at question?
+2915540	2919220	And if yes, what are your thoughts on that?
+2919220	2923140	I have reflected a lot on this and basically it's a medium like other media.
+2923140	2929220	There are different media like books or personal in-depth conversation or lifelong study that
+2929220	2931900	lend themselves to very different explorations.
+2931900	2936300	If I give an hour-long talk at a hacker conference, my main goal has to be to blow your minds
+2936340	2942140	and get you interested, to develop a train of thought, to spend time on your own exploration,
+2942140	2945220	to make you curious, to bounce off ideas.
+2945220	2947580	And this is something where this medium is ideal.
+2947580	2951060	And I'm trying to use the medium for what it's good for and not be sad about the things
+2951060	2953420	that it's not good for.
+2953420	2955060	Okay.
+2955060	2958420	Microphone four.
+2958420	2971180	Do you have any ideas for new collective agency or maybe some tendencies that you've observed
+2971180	2980020	that are currently happening that you think might be suitable for new collective agency?
+2980020	2981020	Yeah.
+2981020	2984980	I think that you find on social media that collective agency is forming.
+2984980	2987140	Right now social media is a hot mess, right?
+2987140	2992180	It's a global electric brain, but it's like it has a seizure.
+2992180	2994620	And that's because it's not very coherent.
+2994620	2998740	And we have not really found out a way to make it completely coherent, but we see bubbles
+2998740	2999740	of coherence.
+2999740	3004580	For instance, I find that my own social media bubble is very pleasant, but I also exclude
+3004580	3007500	everything from it that makes it unpleasant.
+3007500	3013180	And I suspect that in many ways people are not using social media to become coherent.
+3013180	3018980	A lot of people basically log in because they like to get into fights or to watch fights.
+3018980	3021900	And social media is heavily obliging.
+3021900	3028140	And in real life or in the meat space, we have norms against getting into fights with
+3028140	3030900	strangers because it's rarely productive.
+3030900	3035300	And I suspect that if you want to be coherent of collective agency on social media, we need
+3035300	3041700	to find out how to build societies on social media, how to become coherent at scale.
+3041700	3049480	So I guess a part of the issue is just that our communities have grown and that it gets
+3049480	3055860	harder with larger communities to have collective agency, right?
+3055860	3058620	Is it larger to be smart with a larger brain?
+3058620	3059620	Maybe it is.
+3059620	3063540	Maybe our brain is a Goldilocks size, if it was larger, we would be less intelligent.
+3063540	3064540	I don't know that.
+3064540	3066700	If it was smaller, it would probably be bad.
+3066700	3068340	Maybe there's an ideal size.
+3068340	3072640	But if it gets larger, it probably needs different mechanisms to create order.
+3072640	3074460	And we're still exploring these spaces.
+3074460	3076100	I don't think it's hopeless.
+3076100	3078780	I think that we need to separate sometimes concerns.
+3078780	3081940	There are many voices that are mixing in the same space.
+3081940	3085980	When you make a symphonic orchestra or a wrestling match, you probably don't want to have them
+3085980	3086980	on the same stage.
+3086980	3089080	They all have their space.
+3089080	3091460	But at the moment, these spaces are mixed.
+3091460	3093460	Thank you.
+3093460	3096860	Certainly blew my mind.
+3096860	3097860	Thank you.
+3098380	3100020	Let's go to mic number two.
+3100020	3102540	Thank you so much for your talk, first of all.
+3102540	3106060	Beyond that, you mentioned the need for metaphysics.
+3106060	3109420	How do you go about that?
+3109420	3115620	I noticed this when somebody tried to explain Japanese animism to me and told me that in
+3115620	3119900	this philosophy, everything in the universe is alive and conscious.
+3119900	3122360	I said, this doesn't make a lot of sense.
+3122360	3126300	They probably have a way to distinguish dead people from alive people and conscious people
+3126300	3127460	from unconscious people.
+3127860	3132180	They probably don't say everything in the universe is alive except for a dead person
+3132180	3135420	and everything in the universe is conscious except for an unconscious person.
+3135420	3138580	These terms mean something different in this culture than in ours.
+3138580	3140220	You're mistranslating it.
+3140220	3142340	What can we translate it into?
+3142340	3146260	And then I noticed that a lot of concepts that are basically focused on notions like
+3146260	3151660	identity, mind, consciousness, selfhood, and so on are conceptualized in other cultures
+3151660	3153540	differently than in ours.
+3153540	3157300	And in our culture, we don't really reflect on how we conceptualize them because we don't
+3157300	3159080	see them from the outside.
+3159080	3163340	So basically comparing different perspectives allows us to triangulate and to see all these
+3163340	3167820	systems of meaning from the outside and translate them into each other.
+3167820	3168820	Thank you very much.
+3168820	3169820	All right.
+3169820	3172700	Let's get another question from the Signal Angel.
+3172700	3181620	So the question is in the context of golems and robots, are sentient robots safer than
+3181620	3185860	non-sentient ones?
+3185900	3186900	This depends.
+3186900	3193460	If a robot is sentient, you can arguably talk to it and convince it of something.
+3193460	3199300	If it's not sentient, it might be easier to control, but if it's too agentic and too powerful,
+3199300	3200900	you might not be able to talk to it.
+3200900	3203740	So in general, the question cannot be answered.
+3203740	3205600	It depends on the context.
+3205600	3210500	If I think about practical exploration, if I were to explore how to build conscious AI,
+3210500	3215500	I probably want to make it very small, not larger than a cat, in terms of capabilities.
+3218500	3219500	Okay.
+3219500	3220500	Microphone number one, please.
+3220500	3222500	Thank you for the talk.
+3222500	3231500	First, I'm wondering if a machine act like having feelings, like being empathic and something
+3231500	3234500	we would recognize, like feelings.
+3234500	3244500	For example, Jet GPT might, with the end, try to act more polite or so on.
+3244500	3256500	Are these feelings or does the AI or the machine have to have some kind of origin to transformate
+3256500	3263500	the feelings into something other, like a language or like an act?
+3263500	3269500	We would say that's emotionally triggered.
+3269500	3271500	Yeah, that's my question.
+3271500	3273500	It's a very difficult question.
+3273500	3279500	I found that you can simulate emotional behavior in an LLM, right?
+3279500	3284500	And humans have emotional behaviors that are somewhat different from these simulations,
+3284500	3287500	but our emotions are still simulations.
+3287500	3290500	They happen inside of the patterns of activations of neurons.
+3290500	3292500	The neurons don't have that simulation.
+3292500	3298500	These emotions are causal structures, and these causal structures can be, in some sense,
+3298500	3300500	be created on an LLM.
+3300500	3305500	But in a practical sense, the LLM is not bound to the same context as us, and it's not bound
+3305500	3307500	to it in real time.
+3307500	3312500	So it can perform inference about mental states based on a context that is being translated
+3312500	3314500	into text and projected into the prompt.
+3314500	3319500	But in a way in which human beings can have empathy with each other reaches beyond cognitive
+3319500	3324500	empathy to perceptual empathy, and that basically works by sitting in front of somebody and
+3324500	3328500	resonating so much that you build feedback loops into the mind and body of the other
+3328500	3329500	person.
+3329500	3334500	And you get into resonance so much that your mental representations start to interact and
+3334500	3335500	merge.
+3335500	3338500	So you can have mental states together that you couldn't have alone.
+3338500	3343500	If we were to build systems that could resonate with us, it would require us to rethink how
+3343500	3344500	do we do AI.
+3344500	3349500	It requires us to build systems that are coupled at the multiple of the processing frequencies
+3349500	3351500	of our nervous systems.
+3351500	3354500	So it can actually interact with them and become compatible with them.
+3354500	3358500	So we can share representations with them, merge and melt with them.
+3358500	3363500	And this aspect of empathy across human beings is the most interesting one across human beings,
+3363500	3364500	right?
+3364500	3370500	And it would be very fascinating if we could recreate some of that functionality.
+3370500	3373500	Okay, let's move to mic number three.
+3373500	3381500	Hey, you briefly mentioned during the requirements for consciousness for an AI agent that the
+3381500	3385500	cells need to have a will to survive.
+3385500	3392500	In what way is that relevant or what would be the benefit of having a will to survive
+3392500	3396500	compared to, for example, being different to its existence?
+3396500	3398500	Well, for an AI, that's not necessary.
+3398500	3400500	It's not a necessary condition.
+3400500	3404500	It's only necessary for a biological system that is self-organizing because it needs to
+3404500	3408500	have some kind of motive force that pushes it in the right direction.
+3408500	3413500	The cells, if they behave in the right way, they're going to continue to get fed by the
+3413500	3414500	organism.
+3414500	3417500	If they misbehave, the organism will stop feeding them.
+3417500	3421500	And ultimately, this is what motivates them to adopt the shared protocol.
+3421500	3422500	I see.
+3422500	3423500	Thank you.
+3423500	3424500	All right.
+3424500	3429500	Do we have another question from the internet maybe?
+3429500	3430500	One second.
+3430500	3437500	So, you talked in your last slide about the end game of getting consciousness on scale
+3437500	3439500	maybe on this planet.
+3439500	3446500	Do you think we would be able to recognize coherent consciousness or coherence at scale
+3446500	3450500	with our human mind?
+3450500	3451500	I suspect that it might.
+3451500	3454500	So, I would suspect that we would get some kind of phase transition.
+3455500	3459500	What's difficult right now is to distinguish a simulacrum from a simulation.
+3459500	3462500	At the moment, the LLMs are being trained on text.
+3462500	3467500	A lot of that text is describing people in various conscious states.
+3467500	3471500	By recreating this text, we don't know whether the causal structure is captured or just a
+3471500	3473500	sequence of tokens.
+3473500	3474500	That makes it very hard.
+3474500	3479500	But if you have a system that is trained in a much more minimal way, that is trained in
+3479500	3484500	a similar way as us, and that is conceptualizing itself and acquires natural language in a
+3484500	3489500	similar way as us, and then is reporting about the same phenomena, I think it would be plausible
+3489500	3491500	that it's conscious.
+3491500	3496500	But ultimately, it comes down to understanding what it functionally is, what we mean by it.
+3496500	3500500	Is the system able to act on a model of its own real-time awareness?
+3500500	3504500	Does it have a perception of a now that it's in right now?
+3504500	3510500	Is this naturally emerging from the way in which the system is being built, or is this
+3510500	3513500	something that is only being faked?
+3513500	3514500	Thank you.
+3514500	3515500	All right.
+3515500	3520500	We have a few minutes left for maybe a few quick questions, so try to make it concise
+3520500	3522500	so we can get as many in as possible.
+3522500	3523500	Mic number two, please.
+3523500	3524500	Okay.
+3524500	3525500	Thank you.
+3525500	3526500	Hello, Jascha.
+3526500	3528500	Coming back to the idea of your conjecture that consciousness should be reached with
+3528500	3530500	the autonomous self-organizing groups of cells.
+3530500	3536500	So, what do you see in current research where you find this idea being researched, or what
+3536500	3541500	would be your ideas, your proposals to prove or disprove this conjecture?
+3541500	3548500	At the moment, there is a group at Google run by Blaise Yagira, it's part of Google
+3548500	3555500	DeepMind now, and it's inspired by the work of Mike Levin, who looks at the automata,
+3555500	3557500	but it's still at a very basic level.
+3557500	3563500	It's not so far trying to apply this to having a system that learns in real time and is coupled
+3563500	3564500	to its environment.
+3564500	3567500	It mostly looks at this tradition of self-organization.
+3567500	3571500	In AI, there have been, in some sense, three important traditions.
+3571500	3577500	Symbolic AI that is using discrete languages to describe reality, deep learning, which
+3577500	3582500	uses continuous functions that are being shifted around, and self-organization, which looks
+3582500	3587500	at principles of functional approximation emerging from local self-organization.
+3587500	3593500	That tradition has been started by Turing in the 1950s, and there's some predecessors before
+3593500	3598500	AI existed, but this tradition has never been followed up that much.
+3598500	3600500	There's relatively little research in there.
+3600500	3605500	And the way in which I would like to pursue this is basically to set up a self-organizing system
+3605500	3610500	with small reinforcement learning agents that form a stochastic lattice in which the neighborhood
+3610500	3616500	of the agents is carrying semantics, and then get that system to evolve an operator language
+3616500	3621500	that implements selection and mapping functions, and then is exposed to a curriculum of tasks
+3621500	3627500	and see what transitions happen in the system when it gets better at solving these tasks.
+3627500	3630500	All right, maybe one or two more. Mic number four, please.
+3630500	3631500	Thank you.
+3631500	3638500	I was wondering if there's an inherent limit on where we can experience or observe consciousness,
+3638500	3640500	specifically in time scales.
+3640500	3646500	So you mentioned that corporations, for example, might not be conscious because of the speed needed to interact.
+3646500	3653500	But if I think about nation states, the Catholic Church, very old institutions that work on a different
+3653500	3661500	time scale across human generations, is it also a limit on us then that we simply cannot understand
+3661500	3664500	that consciousness level because we're part of it?
+3664500	3666500	Super interesting question.
+3666500	3671500	For instance, I don't know whether trees could qualify as conscious if they had minds.
+3671500	3674500	I don't know how smart trees can become.
+3674500	3678500	Their information processing is certainly much, much slower than in us.
+3678500	3684500	The amount of training that a tree is going to see during their lifetime is going to be like a mouse or so.
+3684500	3686500	But maybe that's enough.
+3686500	3690500	Is something that is working at such large time scales still conscious?
+3690500	3694500	What will AI think when it looks at us?
+3694500	3698500	If we have a system that is basically working at an appreciable fraction of the speed of light,
+3698500	3704500	not like our brains at roughly the speed of sound, it looks at us in the same way as we look at trees.
+3704500	3708500	If it might think of us, oh my god, they're barely moving, they're just swaying a little bit.
+3708500	3712500	Are they thinking? Do they have minds? Are they conscious?
+3712500	3714500	It's a difficult question.
+3716500	3717500	Thank you.
+3717500	3720500	All right, we'll take one last question from the internet and everybody else in the room
+3720500	3723500	just has to follow you to the bar this evening, I guess.
+3723500	3724500	Please.
+3725500	3732500	So yeah, the internet would like to know if you wrote or are working on a book or a newer version of a book
+3732500	3736500	or where one can get more material in your thoughts.
+3736500	3738500	Never give up hope.
+3738500	3742500	I have ADHD. It's difficult for me to write long form.
+3742500	3747500	I found during my PhD that no matter how much I was beating myself up,
+3747500	3751500	taking all the experiments that we did and all the work that we wrote into short papers
+3751500	3753500	and turning this into a long book was very hard for me.
+3753500	3758500	And ultimately, I figured out that in order to make that happen, I needed to move to a lonely island.
+3758500	3760500	And after two days, I got into this space.
+3760500	3764500	But right now I have kids, so I cannot leave them alone to move onto this lonely island.
+3764500	3766500	I still try to make it happen.
+3766500	3773500	In the meantime, most of the ideas are being put out in photo form, sometimes on podcasts and so on.
+3773500	3775500	I'm sorry.
+3776500	3778500	All right. Thank you so much, Joscha.
+3781500	3783500	Thank you.
