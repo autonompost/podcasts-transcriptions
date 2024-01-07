@@ -29,6 +29,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [morf mit Meinung](https://www.youtube.com/channel/UCHZMZyHHpciQLfhT5Zvt5kA)
 - [Alternativlos](https://alternativlos.org/)
 - [This Machine Kills](https://soundcloud.com/thismachinekillspod)
+- [The Great Simplification](https://www.thegreatsimplification.com)
 - [CCC 37c3](https://media.ccc.de/b/congress/2023)
 
 ## Obsidian and Audio Notes
