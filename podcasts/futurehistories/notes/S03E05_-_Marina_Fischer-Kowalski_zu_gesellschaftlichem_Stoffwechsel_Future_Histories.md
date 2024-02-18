@@ -1,7 +1,7 @@
 # S03E05 - Marina Fischer-Kowalski zu gesellschaftlichem Stoffwechsel | Future Histories
 
 ```audio-note
-audio: podcasts/futurehistories/audio/S03E05-Marina-Fischer-Kowalski-zu-gesellschaftlichem-Stoffwechsel.srt
+audio: podcasts/futurehistories/audio/S03E05-Marina-Fischer-Kowalski-zu-gesellschaftlichem-Stoffwechsel.mp3
 title: S03E05 - Marina Fischer-Kowalski zu gesellschaftlichem Stoffwechsel | Future Histories
 transcript: podcasts/futurehistories/transcripts/S03E05-Marina-Fischer-Kowalski-zu-gesellschaftlichem-Stoffwechsel.srt
 liveUpdate: true
