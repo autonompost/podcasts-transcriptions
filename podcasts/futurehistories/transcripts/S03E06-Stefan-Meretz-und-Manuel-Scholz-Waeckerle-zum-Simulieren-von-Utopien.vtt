@@ -1,0 +1,2936 @@
+WEBVTT
+
+00:00.000 --> 00:05.160
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+
+00:05.160 --> 00:11.840
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Stefan Mehretz und Manuel Scholz-Weckele
+
+00:11.840 --> 00:17.400
+begrüßen zu dürfen. Beide waren Teil des mittlerweile ja abgeschlossenen und überaus
+
+00:17.400 --> 00:23.240
+spannenden Projekts Die Gesellschaft nach dem Geld. Ich hatte ja hierzu schon Jens Schröter,
+
+00:23.240 --> 00:27.680
+den Leiter des Projektes, zu Gast und auch Stefan durfte ich bereits in einer frühen
+
+00:27.680 --> 00:34.000
+Episode von Future Histories zum Kommunismus begrüßen. Nun kam vor kurzem sozusagen im
+
+00:34.000 --> 00:41.000
+Nachklang des Projektes eine Special Issue des Journals Review of Evolutionary Political Economy
+
+00:41.000 --> 00:49.440
+heraus mit dem Titel Envisioning Post-Capitalist Utopias via Simulation und das finde ich natürlich
+
+00:49.440 --> 00:55.760
+ungemein spannend und so wird es zu dieser Special Issue gleich mehrere Future Histories-Gespräche
+
+00:55.760 --> 01:00.400
+geben, konkret zwei, wobei das zweite noch in Planung ist, da werde ich jetzt nicht zu viel
+
+01:00.400 --> 01:06.640
+zu verraten. Mit Stefan und Manuel, da spreche ich über die agentenbasierte Simulation des
+
+01:06.640 --> 01:13.880
+Kommunismus, beschrieben im Paper Simulating the Utopia of Communism. Wir haben ungefähr
+
+01:13.880 --> 01:17.800
+zweieinhalb Stunden gesprochen, über zweieinhalb Stunden glaube ich und so habe ich das Ganze in
+
+01:17.800 --> 01:23.760
+zwei Teile aufgeteilt. Ihr hört heute den ersten Teil und in zwei Wochen erscheint dann der zweite
+
+01:23.760 --> 01:29.640
+auf Patreon, das sei zumindest erwähnt, findet sich für Patreon-UnterstützerInnen auch schon
+
+01:29.640 --> 01:36.160
+das Gespräch in voller Länge. Das Paper über das wir heute sprechen werden Simulating the Utopia of
+
+01:36.160 --> 01:41.560
+Communism und natürlich auch die restliche Special Issue sind in den Show Notes verlinkt und ihr
+
+01:41.560 --> 01:46.960
+findet dort auch einen Link zum Buch des Projekts Die Gesellschaft nach dem Geld in Deutsch und in
+
+01:46.960 --> 01:53.440
+Englisch. Die englische Fassung liegt glaube ich sogar als komplettes PDF vor. Bevor es jetzt losgeht,
+
+01:53.600 --> 01:59.440
+möchte ich noch Samuel, Lukas, Karl und Marie-Therese für ihre Spenden danken. Vielen,
+
+01:59.440 --> 02:05.280
+vielen Dank, ich weiß es wirklich sehr zu schätzen. Und jetzt viel Freude mit der heutigen
+
+02:05.280 --> 02:12.880
+Episode Future Histories mit Stefan Meritz und Manuel Scholz-Weckele zum Simulieren von Utopien.
+
+02:12.880 --> 02:25.640
+Herzlich willkommen, Stefan und Manuel. Hallo, danke für die Einladung. Hallo. Ja,
+
+02:25.640 --> 02:28.560
+vielleicht fangen wir kurz aber trotzdem noch mal mit einer Vorstellungsrunde an,
+
+02:28.560 --> 02:32.120
+denn ich bin zum Teil gar nicht so ganz am Laufenden, was der aktuelle Stand der Dinge
+
+02:32.120 --> 02:36.640
+ist. Vielleicht könnt ihr euch kurz einmal vorstellen. Ja, dann fange ich an, Stefan
+
+02:36.640 --> 02:43.200
+Meritz. Ich bin derzeit in Elternzeit und das Projekt ist ja beendet und das,
+
+02:43.200 --> 02:49.840
+was wir jetzt noch gemeinsam machen, sind noch so Nachklapp-Paper, weitere Experimente,
+
+02:49.840 --> 02:54.240
+also wir versuchen schon auch die Ergebnisse des Projekts weiter zu nutzen und daran bin ich
+
+02:54.240 --> 03:00.880
+beteiligt. Ich bin aktiv im Commons-Institut, bin auch in der Gruppe Akut, Assoziation, Kritik,
+
+03:00.880 --> 03:08.760
+Utopie und Transformation, also weiter so weit es neben der Elternzeit möglich ist, aktiv.
+
+03:08.760 --> 03:14.840
+Dann gehe ich mal weiter. Mein Name ist Manuel Scholz-Weckele. Ich bin Senior Lecturer am
+
+03:14.840 --> 03:22.160
+Department Sozioökonomie an der Wirtschaftsuniversität Wien und habe dort einiges zu tun im Masterprogramm
+
+03:22.160 --> 03:29.080
+Social Ecological Economics and Policy, wo ich sehr viel unterrichte. Zusätzlich bin ich aktiv
+
+03:29.360 --> 03:35.080
+in der European Association for Evolutionary Political Economy. Das ist ein wissenschaftlicher
+
+03:35.080 --> 03:41.160
+Verein zur Förderung des Pluralismus in den Sozialwissenschaften und zur Förderung der
+
+03:41.160 --> 03:46.960
+heterodoxen Ökonomie. Also wenn man so weit kann, kann man sagen, ich bin ein heterodoxer Ökonom mit
+
+03:46.960 --> 03:54.960
+Fokus auf evolutionäre politische Ökonomie. Also mich hat immer interessiert, wie menschliche
+
+03:54.960 --> 04:01.760
+Gesellschaften dann doch Teil des evolutionären Prozesses sind und wie man das zusammen denken
+
+04:01.760 --> 04:08.360
+kann. Und dazu habe ich mich dann irgendwann auch auf Basis meines Studiums an der Technischen
+
+04:08.360 --> 04:14.880
+Universität Wien für Computersimulationen interessiert und da war damals Agent-Based
+
+04:14.880 --> 04:22.360
+Modeling in und solche Sachen wie Netzwerktheorie und da bin ich heute noch dabei. Ich hatte es in
+
+04:22.440 --> 04:26.760
+der Moderation jetzt schon angedeutet, ihr habt im Rahmen des Projektes die Gesellschaft nach dem
+
+04:26.760 --> 04:32.800
+Geld, das ja hier in Future History es auch schon mehrfach vorkam, eine Computersimulation des
+
+04:32.800 --> 04:38.240
+Kommunismus erschaffen, die auf Agent-Based Modeling basiert. Nicht alle HörerInnen werden
+
+04:38.240 --> 04:43.520
+sowohl den Kommunismus als auch das Agent-Based Modeling kennen. Vielleicht können wir das
+
+04:43.520 --> 04:47.840
+zunächst einmal ein wenig einführen. Manuel, vielleicht kannst du uns da helfen, was versteht
+
+04:47.840 --> 04:52.680
+man unter Agent-Based Modeling? Was sind seine Stärken und Schwächen und was kann man damit machen?
+
+04:52.680 --> 05:00.520
+Ja, gern. Also das Agent-Based Modeling ist irgendwie in der zweiten Hälfte des 20. Jahrhunderts
+
+05:00.520 --> 05:09.880
+groß geworden. Es haben in der Denke ist es vielleicht schon, kann man sagen, bei John von
+
+05:09.880 --> 05:17.800
+Neumann auch gut angelegt, der damals zelluläre Automaten gebaut hat. Das sind so kleine quasi
+
+05:17.800 --> 05:25.960
+grid-based, tabellarische Systeme, wo sich Zellen gegenüberstehen. Und das Agent-Based Modeling,
+
+05:25.960 --> 05:33.160
+was auch viel in Papierform, in Konzepten schon überlegt wurde, wurde dann halt stärker wie
+
+05:33.160 --> 05:38.920
+die Computerberechenbarkeit und die Computer besser geworden sind, sodass man das dann auch
+
+05:38.920 --> 05:43.560
+in einem Büro machen kann und nicht an irgendeinem Großrechner im Keller von irgendeiner großen
+
+05:43.560 --> 05:49.880
+Universität in den USA. Und in den 90er Jahren hat sich das Agent-Based Modeling dann stärker
+
+05:49.880 --> 05:56.200
+entwickelt, auch im Zusammenhang mit der Spieltheorie. Das gefangenen Dilemma ist ein berühmtes
+
+05:56.200 --> 06:02.480
+Beispiel, was da modelliert wurde. Der Unterschied zu anderen Arten der Modellierung liegt dort,
+
+06:02.480 --> 06:11.320
+dass Agent-Based Modeling einen disaggregierten Ansatz hat. Es ist am ehesten mit systemdynamischen
+
+06:11.320 --> 06:17.240
+Modellen verwandt, die aber noch aggregiert sind. Was spielt eine Rolle bei Systemdynamik?
+
+06:17.240 --> 06:23.880
+Da spielt eine Rolle, es gibt Bestandsgrößen und Flussgrößen, also Stocks und Flows. Und das
+
+06:23.880 --> 06:29.000
+System entwickelt sich diskret über die Zeit hinweg. Das heißt, es gibt einen diskreten
+
+06:29.000 --> 06:35.960
+Fortschritt der Zeit, T, T plus eins, T plus zwei und keine kontinuierliche Zeit, so wie es in
+
+06:35.960 --> 06:42.440
+aggregierten analytischen Modellen jetzt Differenzialgleichungssystemen zum Beispiel
+
+06:42.440 --> 06:47.200
+der Fall ist, wo die Zeit immer kontinuierlich ist. Und beim Agent-Based Modeling ist es so,
+
+06:47.200 --> 06:54.080
+dass quasi pro Zeitschritt dann nicht eine einzige Einheit repräsentativ als Aggregat oder mehrere
+
+06:54.080 --> 06:59.840
+solche Aggregate sich gegenüberstehen und die Stocks und Flows zwischen diesen Aggregaten laufen,
+
+06:59.840 --> 07:09.560
+sondern man hat dann eine Vielzahl an kleinen Entitäten, Einheiten, die miteinander vernetzt
+
+07:09.560 --> 07:14.960
+sein können, aber nichts vernetzt sein müssen. Also es gibt, man kann Agent-Based Models mit
+
+07:14.960 --> 07:22.040
+einem abstrakten geografischen Raum sich vorstellen, wo die Agenteneinheiten auf Zellen herum wandern.
+
+07:22.040 --> 07:29.520
+Also man kann auch quasi Bewegung der Akteure auch hinein modellieren und dann halt auch Sichtradius
+
+07:29.520 --> 07:36.840
+und solche Dinge. Wichtig ist zum Vergleich zu systemdynamischen Modellen, dass die Agenten
+
+07:36.840 --> 07:44.400
+eigene Bestandsgrößen haben, eigene Flussgrößen und dass die Interaktion der Agenten in den
+
+07:44.400 --> 07:52.760
+Vordergrund gestellt wird. Das heißt, man kann sehr gut soziale Prozesse darstellen, weil es darum
+
+07:52.760 --> 07:59.240
+geht, wie die Akteure interagieren und wie aus diesen Interaktionen dann gemeinsame Räume entstehen.
+
+07:59.240 --> 08:06.400
+Und komplexe Systementwicklungen. Das heißt, da geht es dann auch, kann man sich mit der Frage der
+
+08:06.400 --> 08:12.440
+Emergenz beschäftigen, inwiefern das System dann emergiert aus der Interaktion einzelner
+
+08:12.440 --> 08:19.720
+Agenten. Insofern spricht man beim Agent-Based Models von einem Bottom-Up Modeling Ansatz, weil
+
+08:19.720 --> 08:26.840
+von unten die Agenten miteinander in Verbindung gesetzt werden und dann daraus eine emergierende
+
+08:26.840 --> 08:31.440
+Struktur entsteht. Aber man kann durchaus auch Strukturen vorwegnehmen. Das wäre sozusagen der
+
+08:31.440 --> 08:36.360
+größte Unterschied zur Systemdynamik und zu den herkömmlichen ökonomischen Modellen besteht auch
+
+08:36.360 --> 08:43.160
+ein größerer Unterschied, weil dort die Aggregate in kontinuierlicher Zeit in Gleichgewichtsmodellen
+
+08:43.160 --> 08:48.920
+dargestellt werden. Okay, wir haben jetzt schon gehört emergente Bottom-Up Strukturen. Das ist
+
+08:48.920 --> 08:54.440
+natürlich dann jetzt eigentlich eine Steilvorlage, dass man irgendwie eine Brücke schlägt zum
+
+08:54.600 --> 08:59.440
+Kommunismus, denn auch der kennt emergente Strukturen. Stefan, vielleicht magst du kurz mal
+
+08:59.440 --> 09:05.000
+einführen, worum es da geht beim Kommunismus, der eben nicht der Kommunismus ist, sondern von
+
+09:05.000 --> 09:13.240
+Commons kommend der Kommunismus. Genau, Kommunismus von Commons. Ja, gerne. Ja, Kommunismus ist die
+
+09:13.240 --> 09:20.560
+Bezeichnung für eben eine auf Commons basierende Gesellschaft. Commons sind selbst organisierte
+
+09:20.560 --> 09:26.600
+Zusammenschlüsse von Menschen, die gemeinsam bestimmte Ziele verfolgen, also Dinge herstellen,
+
+09:26.600 --> 09:32.320
+um Bedürfnisse zu befriedigen, sich um Menschen kümmern, sei es, weil sie krank, sehr jung oder
+
+09:32.320 --> 09:38.720
+sehr alt sind oder aus anderen Gründen Unterstützung benötigen oder auch sich um die
+
+09:38.720 --> 09:45.160
+ökologischen Netze kümmern, deren Teil wir ja sind, die aber im Kapitalismus nur als von uns
+
+09:45.160 --> 09:52.640
+getrenntes Material betrachtet wird und folglich auch im Kapitalismus systematisch ausgebeutet und
+
+09:52.640 --> 09:58.720
+zerstört werden. Bei all diesen Tätigkeiten gibt es keine Hierarchie wie im Kapitalismus,
+
+09:58.720 --> 10:05.800
+wo ja die endlose Produktion zwecks Geldvermehrung im Zentrum steht, während die Kümmertätigkeiten,
+
+10:05.800 --> 10:14.040
+die Care-Tätigkeiten oft abgewälzt werden, häufig in den Privatbereich, häufig auf Frauen. Alle
+
+10:14.120 --> 10:19.440
+Tätigkeiten, die notwendig sind, sind auch wichtig und bekommen die Aufmerksamkeit und Ressourcen,
+
+10:19.440 --> 10:25.720
+die sie brauchen im Kommunismus. Diese Überlegungen sind auch in das Modell eingeflossen, über das
+
+10:25.720 --> 10:32.760
+wir gleich sprechen. Vielleicht jetzt noch ein paar Features, um das nicht zu lang werden zu
+
+10:32.760 --> 10:39.440
+lassen, ein paar Features sein noch genannt. Es gibt kein Geld, kein Markt und kein Staat. Im
+
+10:39.440 --> 10:44.120
+Kapitalismus sind das ja Institutionen der Vermittlung und Geld ist das Medium der
+
+10:44.120 --> 10:51.720
+Vermittlung. Vermittlung bedeutet die Stiftung von Beziehungen zwischen Menschen, um bestimmte Dinge
+
+10:51.720 --> 10:59.400
+zu erhalten oder zu erschaffen, die ich für meine Existenzsicherung brauche. Also zum Beispiel auf
+
+10:59.400 --> 11:05.960
+dem Markt Dinge zu kaufen oder vom Staat Leistung zu bekommen. Es ist klar, dass nur Menschen mit
+
+11:05.960 --> 11:11.880
+ausreichend Geld ihre Existenz sichern können. Ohne Moos nichts los. So ist das im Kapitalismus.
+
+11:11.880 --> 11:18.400
+Im Kommunismus werden diese Beziehungen durch Communing hergestellt. Und Communing kann man
+
+11:18.400 --> 11:23.600
+verstehen als eben selbst organisierte Kooperation zwischen Menschen oder auch zwischen Gruppen,
+
+11:23.600 --> 11:30.680
+um bestimmte Ziele zu erreichen. Produktionsziele, Pflegeziele, ökologische Ziele.
+
+11:30.680 --> 11:38.840
+Freiwilligkeit ist dabei die Grundlage. Dabei können wir jetzt zwischen zwei Arten von
+
+11:38.840 --> 11:43.520
+Kooperation unterscheiden. So das ist auch in der Diskussion immer ziemlich wichtig,
+
+11:43.520 --> 11:49.120
+zwischen interpersonaler Kooperation, also der direkten Absprache von Menschen, die sich auch
+
+11:49.120 --> 11:56.400
+kennen können, zu unterscheiden und transpersonaler Kooperation, also Vereinbarung zwischen einander
+
+11:56.400 --> 12:02.640
+anonymen Personen. Die direkte Kooperation kann sich jede und jeder noch schnell vorstellen und
+
+12:02.640 --> 12:08.240
+meistens wird das auch mit dem Begriff der Commons assoziiert. Wird auch sehr stark das Vorurteil
+
+12:08.240 --> 12:14.160
+reproduziert, dass Commons haben irgendwie nur was mit Lokalem zu tun. Und wir wollten eben zeigen,
+
+12:14.160 --> 12:20.280
+das kann man aber vorallgemeinern. Die vermittelte Kooperation zwischen Unbekannten, also das,
+
+12:20.280 --> 12:25.520
+was wir zum Beispiel auch regionale, kontinentale oder globale Arbeitsteilung nennen können,
+
+12:25.520 --> 12:31.160
+ist für jede Gesellschaft eine große Herausforderung. Und hier kommt das Thema
+
+12:31.160 --> 12:36.160
+gesellschaftlicher Planung ins Spiel, auf das ich jetzt aber hier nicht weiter eingehe,
+
+12:36.160 --> 12:43.080
+weil das ist hier nicht unser Hauptthema. Ich würde noch gerne was zu den Beziehungen der
+
+12:43.080 --> 12:49.920
+Menschen sagen, denn um einen Begriff von Bini Adamchak aufzunehmen, Kommunismus ist vor allem
+
+12:49.920 --> 12:57.200
+eine neue Beziehungsweise. Im Kommunismus haben die Beziehungen eine besondere Qualität. Aufgrund
+
+12:57.200 --> 13:02.840
+der weitgehenden Abwesenheit von Machtmitteln, also Geld und Herrschaft, kann ich eben andere
+
+13:02.840 --> 13:08.240
+nicht zwingen, das zu tun, was ich gerade brauche, sondern ich kann sie nur einladen, mit mir in
+
+13:08.240 --> 13:14.040
+eine Kooperation zu gehen, in der unser beider Bedürfnisse berücksichtigt sind. Im Kommunismus
+
+13:14.040 --> 13:20.200
+kann ich anders meine Ziele nicht erreichen, ich muss sozusagen kooperieren. Diese positive
+
+13:20.200 --> 13:27.720
+Logik der Einladung nennen wir Inklusionslogik und sie gilt sowohl für die Interpersonale wie
+
+13:27.720 --> 13:32.280
+für die transpersonalen Beziehungen, ohne dass ich das jetzt vertiefen kann, vor allen Dingen
+
+13:32.280 --> 13:37.160
+wie die transpersonalen Beziehungen kann es jetzt nicht vertiefen. Um sich das im Vergleich vielleicht
+
+13:37.160 --> 13:43.320
+besser vorstellen zu können, der Kapitalismus ist exklusionslogisch strukturiert. Hier komme
+
+13:43.320 --> 13:48.080
+ich zu meinen Zielen, wenn ich mich auf Kosten anderer durchsetze. Ob ich das will oder nicht,
+
+13:48.080 --> 13:53.880
+also das ist keine Frage der persönlichen Haltung oder Eigenschaft, sondern es ist eine Sache der
+
+13:53.880 --> 13:59.480
+Strukturen. Und wir haben dafür auch Worte, die wir dafür verwenden, wie Ausbeutung,
+
+13:59.480 --> 14:04.240
+Instrumentalisierung, Bescheißen, Ausnutzen und so weiter. Das ist einfach in den Strukturen
+
+14:04.240 --> 14:10.720
+angelegt, so komme ich im Kapitalismus voran, auf Kosten anderer. Und das auch wieder interpersonal
+
+14:10.720 --> 14:17.280
+wie transpersonal. Also auch in den internationalen, globalen Produktionsketten und Handelsbeziehungen
+
+14:17.280 --> 14:24.520
+finden wir genau diese exklusionslogische Struktur. Nicht notwendig immer und überall. Im Gegenteil,
+
+14:24.520 --> 14:29.280
+das darf nicht überall so sein, sonst würde der Kapitalismus zusammenbrechen, sondern es gibt
+
+14:29.280 --> 14:36.200
+abgespaltene Sphären, wo das nicht gilt, die als Hort der Befriedung gelten. Und das sind Familien
+
+14:36.200 --> 14:41.360
+und der Kehrbereich. Vor allen Dingen dort soll das Menschenmaterial wieder repariert werden.
+
+14:41.360 --> 14:49.000
+Beides, Inklusionslogik wie Exklusionslogik sind ursächlich keine Eigenschaften von Menschen,
+
+14:49.000 --> 14:55.640
+das habe ich schon gesagt. Auch wenn natürlich diese naheliegende Logik in uns eindiffundiert
+
+14:55.640 --> 15:00.880
+und auch unsere Haltung beeinflusst. Also gierige Menschen sind nicht per se gierig,
+
+15:00.880 --> 15:05.720
+sondern sie sind gierig, weil sie in den Strukturen damit auch gut funktionieren. Also die
+
+15:05.720 --> 15:13.360
+Gier wird quasi nahegelegt. Es sind Eigenschaften der von uns geschaffenen Strukturen und das ist
+
+15:13.360 --> 15:20.040
+wichtig. Wir sprechen auch immer von Nahelegung von bestimmten Verhalten und Nahelegung setzt
+
+15:20.040 --> 15:24.480
+Strukturen voraus. Deswegen gucken wir immer sehr auf die Strukturen, die eben ein bestimmtes
+
+15:24.480 --> 15:31.000
+Verhalten nicht erzeugen, determinieren, sondern naheliegen. So ist es im Kapitalismus naheliegend,
+
+15:31.000 --> 15:37.480
+eben funktional sich gegen Konkurrenten durchzusetzen und sie einfach auszuboten. Im
+
+15:37.480 --> 15:43.000
+Kommunismus ist es naheliegend und funktional mit anderen in eine Kooperationsbeziehung zu gehen,
+
+15:43.000 --> 15:52.200
+um gemeinsam Ziele zu erreichen. So viel vielleicht als grobes Gitz. Super. Jetzt wissen wir,
+
+15:52.440 --> 15:56.920
+was Agent-Based Modeling ist. Wir wissen, was der Kommunismus ist. Zumindest eine grundlegende
+
+15:56.920 --> 16:02.600
+Idee davon haben wir jetzt. Ihr seid jetzt dran gegangen und habt versucht, beides zueinander zu
+
+16:02.600 --> 16:06.040
+bringen. Ich bin schon unglaublich gespannt, das ein bisschen besser verstehen zu lernen,
+
+16:06.040 --> 16:11.760
+weil mir leuchtet das durchaus ein, dass diese beiden Dinge in interessanter Weise eben zueinander
+
+16:11.760 --> 16:16.600
+gebracht werden können. Ich würde gerne ein bisschen weiter da eintauchen, wie ihr das
+
+16:16.600 --> 16:21.520
+gemacht habt. Vielleicht fangen wir da mit dem Prozess an, denn das ist ja wahrscheinlich einiges
+
+16:21.520 --> 16:26.120
+an Arbeit, dass man erst mal irgendwie zu einem Punkt kommt, tatsächlich dann auch das Modell
+
+16:26.120 --> 16:32.120
+machen zu können, weil es ja überhaupt nicht so selbstverständlich ist, dass man diese theoretischen
+
+16:32.120 --> 16:37.520
+Ideen, die Stefan da jetzt vorgestellt hat, eben auch eins zu eins in sein Modell, eins zu eins
+
+16:37.520 --> 16:41.320
+sowieso nicht, aber überhaupt in so ein Modell übertragen kann und wie man das überhaupt angehen
+
+16:41.320 --> 16:46.160
+will. Vielleicht könnt ihr uns ein bisschen was erzählen über den Prozess. Wie seid ihr das Ganze
+
+16:46.160 --> 16:52.720
+angegangen? Was braucht es eigentlich, um so ein Modell überhaupt zu erschaffen und auf was stößt
+
+16:52.720 --> 17:01.040
+man auf dem Weg dahin? Zwei Dinge. Der eine, der gruppendynamische Prozess, auf den kann ich eingehen
+
+17:01.040 --> 17:08.000
+und das zweite ist, warum das heute geht oder warum man da reingehen kann in so eine Fragestellung,
+
+17:08.000 --> 17:14.320
+auch mit diesen Simulationsmethoden, ist, wir haben in der agentenbasierten Modellierung, da ist
+
+17:14.320 --> 17:18.880
+einiges weitergegangen in den letzten 20 Jahren, also vor allem auch in der heterodoxen Ökonomie,
+
+17:18.880 --> 17:27.400
+was makroekonomische Modellierung betrifft, da gibt es schon sehr gute Modelle heute, die, glaube ich,
+
+17:27.400 --> 17:34.240
+den neoklassischen oder sagen wir mal, anstrengend ökonomischen Modellen durchaus das Wasser reichen
+
+17:34.240 --> 17:41.240
+können und das heißt, wir sind weit weg von agent-based Modelling der 80er, 90er Jahre,
+
+17:41.240 --> 17:49.920
+wo man so ganz kleine, abstrakte Fragestellungen hauptsächlich diskutiert hat und heute können
+
+17:49.920 --> 17:58.040
+wir ganze Makroökonomien darstellen und das ist quasi dieser Möglichkeitenraum, der da entstanden
+
+17:58.040 --> 18:06.360
+ist, weil viele kritische Ökonomen, Ökonominnen diese Modellierungstechnik jetzt verwendet haben,
+
+18:06.520 --> 18:12.400
+um aktuelle Fragestellungen der Wirtschaftspolitik und Umweltpolitik und Sozialpolitik zu untersuchen
+
+18:12.400 --> 18:17.400
+mit dieser Methode, da das ist quasi, das hat auch uns quasi eine Möglichkeit gegeben,
+
+18:17.400 --> 18:26.240
+diese Fragestellung der Commons, so wie es Stefan erklärt hat, zu simulieren in einem relativ großen
+
+18:26.240 --> 18:36.160
+Raum. Die Frage eben, wie kommen die Commons dann zu einer large scale society, das war eine zentrale
+
+18:36.160 --> 18:41.920
+Frage. Das ist auch nur möglich, weil wir einfach mit agent-basiert Modellierung so viel
+
+18:41.920 --> 18:46.280
+dazugelernt haben, wie man größere Systeme auch mit agent-basierter Modellierung modelliert und
+
+18:46.280 --> 18:52.640
+nicht nur kleine, abstrakte Fragestellungen als quasi wissenschaftliches Dokus da jetzt sich
+
+18:52.640 --> 18:57.920
+anschaut. Und der zweite möchte ich kurz eingehen, den gruppdynamischen Prozess, er war nämlich super,
+
+18:57.920 --> 19:05.080
+wir sind zusammengekommen als Gruppe mit einem Projekt zur Gesellschaft nach dem Geld mit
+
+19:05.200 --> 19:11.640
+Jens Schröter, Hanno Pahl, Stefan und ich bin dazu der Gruppe hinzugestoßen und da haben wir
+
+19:11.640 --> 19:17.200
+Geld von der Volkswagen Stiftung gehabt, um theoretisch aus verschiedenen disziplinären
+
+19:17.200 --> 19:25.840
+Hintergründen, Medienwissenschaft, Commons-Theorie, Soziologie, Wissenschaftstheorie und halt auch
+
+19:25.840 --> 19:31.720
+heterodoxe Ökonomie sich die Frage zu stellen, was kann eine Gesellschaft nach dem Geld sein oder
+
+19:31.800 --> 19:36.920
+wie kann man sich der Frage nähern. Und das hat sehr gut funktioniert, da haben wir uns als Gruppe
+
+19:36.920 --> 19:43.200
+sozusagen gefunden, haben ein schönes Buch publiziert, Bloomsbury Society of the Money,
+
+19:43.200 --> 19:51.320
+auch in Deutsch, im Springer Verlag, Postmonitär Denken kann ich durchaus empfehlen, war auch schön
+
+19:51.320 --> 19:58.080
+ein Buch zu arbeiten, ist glaube ich mal eben auch wie im Titel ein Dialog, ein erster Schritt
+
+19:58.200 --> 20:04.840
+gewesen und auf Basis dessen haben wir überlegt, der Volkswagen Stiftung auch, waren wir in Kontakt,
+
+20:04.840 --> 20:08.720
+ob man nicht ein Nachfolgeprojekt machen kann und da war uns ziemlich klar, dass wir jetzt nicht
+
+20:08.720 --> 20:15.520
+einfach ein zweites Buch, so ein Sammelband an netten Essays produzieren wollen und können,
+
+20:15.520 --> 20:22.800
+sondern dass wir halt was Neues machen wollen und da war zuerst die Idee, ob man nicht ein Spiel
+
+20:22.800 --> 20:28.240
+macht, ein Serious Game, ich habe mich da unabhängig auch schon länger damit beschäftigt
+
+20:28.240 --> 20:35.720
+mit Computerspielwelten und wie man diesen Game-Gedanken auch in so topische Denken
+
+20:35.720 --> 20:43.800
+reinbringen kann, gerade auch mit agentenbasierter Modellierung, nur ist das eine sehr herausfordernde
+
+20:43.800 --> 20:50.600
+Aufgabe, würde ich mal sagen, die mehr Fördermittel bräuchte und viel mehr Mitarbeiterinnen und
+
+20:50.640 --> 20:58.560
+Expertise auch aus der Computerspielszene, das ist Expertise, die haben wir nicht und dann haben
+
+20:58.560 --> 21:06.880
+wir uns zusammen gefunden und die Frage gestellt, ob wir eine Computersimulation dazu machen können
+
+21:06.880 --> 21:16.320
+und haben das Stefan und ich relativ im Tandem Design überlegt innerhalb von ein paar Monaten,
+
+21:16.320 --> 21:25.560
+wie man das entwickeln kann, so ein Modell zum Commonism und wie die Skizze da war,
+
+21:25.560 --> 21:32.400
+Antrag geschrieben, an die Volksfang Stiftung gesendet, da gab es dann noch, so wie ich mich
+
+21:32.400 --> 21:39.360
+erinnern kann, ein Hearing, also das war ein zweistufiger Prozess und zum Erstaunen von uns
+
+21:39.360 --> 21:46.920
+und zur Überraschung haben wir dann Zusage zu den Mitteln bekommen und haben losgelegt. Stefan,
+
+21:46.920 --> 21:50.480
+vielleicht wirst du noch was dazu sagen. Ja, ich sag vielleicht noch was wirklich zu dem
+
+21:50.480 --> 21:54.840
+Entwicklungsprozess, den ich sehr spannend fand, also dann als der zweite Teil des
+
+21:54.840 --> 21:59.640
+Projekts auf der Schiene war, ging es ja darum, ja was machen wir denn da jetzt genau und wir
+
+21:59.640 --> 22:05.400
+hatten ja den großen Vorteil, dass wir mit dem Buch Kapitalismus aufheben von Simon Sotolytis
+
+22:05.400 --> 22:11.280
+und mir, da hatten wir schon eine Textgrundlage und auch quasi eine konzeptionelle Grundlage und da
+
+22:11.280 --> 22:16.640
+war relativ schnell klar, bevor wir jetzt selber noch mal in dem Prozess ein Konzept entwickeln,
+
+22:16.640 --> 22:23.560
+nehmen wir das und versuchen das eben zu simulieren. Wir haben also echt viel diskutiert,
+
+22:23.560 --> 22:28.920
+wie wir die verschiedenen Ansätze zusammenbringen und dann war klar, also zumindest für uns als
+
+22:28.920 --> 22:35.720
+Commons-Gruppe, wir können nicht direkt der Programmiergruppe, der Modellierungsgruppe sagen,
+
+22:35.720 --> 22:40.040
+mach das jetzt, implementiert das so und so, sondern wir brauchen einen Zwischenschritt und dieser
+
+22:40.040 --> 22:47.080
+Zwischenschritt war dann das Narrativ. Das Narrativ ist eine Erzählung mit den Elementen,
+
+22:47.080 --> 22:51.400
+die später im Modell und dann auch in der Implementierung, in der computertechnischen
+
+22:51.400 --> 22:58.200
+Implementierung auftauchen sollen und diese Erzählung ist einerseits eine Geschichte und
+
+22:58.200 --> 23:04.400
+andererseits hat sie semi-formalen Charakter. Also semi-formal, halbformal ja deswegen, weil wir
+
+23:04.400 --> 23:12.680
+eben diese ABM-Bausteine, also die Bausteine des Modells im Blick haben, aber noch nicht den
+
+23:12.680 --> 23:17.800
+Programmcode formulieren, sondern wir haben so eine Halbformalsprache dann aufgeschrieben,
+
+23:17.800 --> 23:23.520
+haben zum Beispiel auch gesagt, ja wie kann man dann zum Beispiel so etwas wie eine Emotion,
+
+23:24.160 --> 23:29.000
+das ist ein Baustein, die wir als Eigenschaft von den Agenten im Modell drin hatten, wie kann man
+
+23:29.000 --> 23:35.600
+das dann letztlich abbilden? Weil klar ist, das ist eigentlich ja was super Komplexes, eine Emotion,
+
+23:35.600 --> 23:40.440
+kann ich glaube ich jede und jeder nachvollziehen, aber dennoch, wenn wir es simulieren wollen,
+
+23:40.440 --> 23:44.840
+wenn wir das zu einer Eigenschaft von Agenten machen wollen, dann müssen wir es formalisieren
+
+23:44.840 --> 23:51.320
+und dem irgendwie einen Wertebereich zuweisen und damit dann operieren und diesen Schritt haben wir
+
+23:51.320 --> 23:57.200
+versucht im Narrativ zu machen und dieses Narrativ ist dann sozusagen nochmal kritisch
+
+23:57.200 --> 24:03.720
+umgearbeitet worden von der Modellierungsgruppe in den Programmcode, sodass wir quasi zwei,
+
+24:03.720 --> 24:09.080
+wenn man so will, Reduktionsschritte hatten, also zwei Übergänge waren von uns zu leisten,
+
+24:09.080 --> 24:17.480
+ja einmal von der Theorie ins semi-formale Narrativ und dann vom Narrativ in den Programmcode und
+
+24:17.480 --> 24:24.080
+bei beiden Schritten mussten wir Entscheidungen treffen, was wir darstellen und was wir nicht
+
+24:24.080 --> 24:29.280
+darstellen können und das sind natürlich immer Reduktionen dessen, was eigentlich die Wirklichkeit
+
+24:29.280 --> 24:36.080
+ist, die wir abbilden wollen oder auch die bedachte Utopie. Genau, ich will noch hinzufügen,
+
+24:36.080 --> 24:45.720
+das Narrativ, es ist irgendwie noch kein Pseudocode, das wäre quasi, Pseudocode wäre quasi fürs
+
+24:45.720 --> 24:52.000
+Programmieren, eine Kurzanleitung, sich mal den Code aufzuschreiben, damit man die Prozesse
+
+24:52.000 --> 24:56.640
+durchdenkt, das ist sehr üblich, wenn man, also in der Softwareentwicklung sowieso, aber auch
+
+24:56.640 --> 25:04.200
+beim Modellieren macht das Sinn und der Schritt zum Pseudocode, das dauert dann noch, aber muss
+
+25:04.200 --> 25:07.920
+auch hinzufügen, quasi wenn man so ein Narrativ hat, dann hat man ja schon mal ein Modell,
+
+25:07.920 --> 25:14.080
+also ein theoretisches Modell, das ist schon mal da, ein Konzept und dann der Schritt zur Simulation,
+
+25:14.240 --> 25:20.960
+ist dann eine wirklich konkrete Umsetzung, wie kriege ich das da rein und da haben wir, da möchte
+
+25:20.960 --> 25:28.440
+ich auch ganz groß hervorheben, die Projektmitarbeiterin Elena Gerdes und Ernest Eigner,
+
+25:28.440 --> 25:34.040
+wir haben da zu dritt am Anfang viel herumgetüftelt, gemeinsam mit Stefan und Simon,
+
+25:34.040 --> 25:41.440
+wie man das dann umsetzen kann, wir verwenden dazu, es kommt immer wieder die Frage, na wie
+
+25:41.440 --> 25:45.760
+soll man das überhaupt, weil wir jetzt schon von Computertechnik gesprochen haben, in welcher
+
+25:45.760 --> 25:53.400
+Programmiersprache soll man sowas umsetzen, generell gibt es da keine Rules, man kann verwenden,
+
+25:53.400 --> 26:00.360
+was man will, wir verwenden traditionell hier, ich habe das schon immer verwendet, Netlogo,
+
+26:00.360 --> 26:09.920
+das ist eine Simulationssoftware Open Source, die für Agent-Based Modeling geschrieben wurde extra
+
+26:10.040 --> 26:17.840
+und die bietet viele Vorteile, es ist jetzt nicht gerade die schnellste Engine, aber mit
+
+26:17.840 --> 26:23.520
+den modernen Computern ist das jetzt nicht so wild und man hat vor allem auch eine sehr gute
+
+26:23.520 --> 26:30.000
+Testumgebung und wir waren da gewohnt und man kann sich bei Netlogo, wo es wirklich darum geht,
+
+26:30.000 --> 26:35.720
+dass man soziale Prozesse modelliert, das ist genauer angelegt dafür, kann man sich dann auch
+
+26:35.720 --> 26:40.600
+mehr auf das Modell konzentrieren, weil das ist dann schon noch eine zweite Sache, wenn ich sage,
+
+26:40.600 --> 26:46.400
+okay, ich möchte das in Java oder in C++ umsetzen oder heute wieder in Python machen,
+
+26:46.400 --> 26:53.360
+dann muss ich schon mehr Code produzieren, konstrukte, abstrakte produzieren, damit ich
+
+26:53.360 --> 26:59.280
+dann meine Modelleinheit da überhaupt in den Lauf bekomme. Bei Netlogo zum Beispiel oder bei
+
+26:59.280 --> 27:05.640
+anderen Simulations-Toolkits gibt es Libraries, die kann man dann verwenden, für Agents zum
+
+27:05.640 --> 27:12.240
+Beispiel oder für bestimmte Prozesse, die einfach öfters vorkommen bei der Modellierung, die dann
+
+27:12.240 --> 27:17.720
+schon da drinnen implementiert sind und kann sich dann mehr auf das Modell konzentrieren und muss
+
+27:17.720 --> 27:24.720
+jetzt nicht quasi da eine neue Software für jedes Modell schreiben. Ja, das sind jetzt schon super
+
+27:24.720 --> 27:30.680
+spannende Anknüpfungspunkte, denn mich würden diese Übersetzungsprozesse in jedem Fall sehr
+
+27:30.680 --> 27:36.160
+interessieren. Also vielleicht fangen wir mal erst damit an, Stefan, als ihr das Narrativ entwickelt
+
+27:36.160 --> 27:45.600
+habt, was waren denn die Bedingungen, die ihr von der Programmiererinnengruppe aus bekommen habt
+
+27:45.600 --> 27:52.040
+oder sozusagen einen Rahmen, den ihr bekommen habt, innerhalb dessen ihr euch bewegen solltet? Also
+
+27:52.040 --> 27:58.680
+was musstet ihr berücksichtigen in der Art und Weise, wie ihr dieses Narrativ entworfen habt und
+
+27:58.680 --> 28:06.200
+was waren das vielleicht für euch schon für Restriktion oder auch Möglichkeiten? Das können
+
+28:06.200 --> 28:11.480
+ja auch sein, also vielleicht war das ja auch was, wo ihr das Gefühl hattet, aha, okay, durch diesen
+
+28:11.480 --> 28:18.560
+Anspruch der Formalisierung haben sich bestimmte Gedankengänge in einer spezifischen Art und Weise
+
+28:19.000 --> 28:25.000
+konkretisiert, die vielleicht sonst so nicht forciert worden wäre oder sowas. Also was in
+
+28:25.000 --> 28:31.800
+diesem ersten Transformationsprozess hin zum Narrativ, was waren da so die Bedingungen,
+
+28:31.800 --> 28:37.640
+die da mit einhergingen? Also im Grunde hatten wir keine Vorgaben und Constraints, sondern wir
+
+28:37.640 --> 28:42.760
+haben vorher, kann ich mich erinnern, etliche Workshops gemacht, wo wir auch sozusagen schon
+
+28:42.760 --> 28:50.040
+einfach schlicht an der Tafel mit Skizzen und Pfeilen und so weiter ein abstraktes Modell in
+
+28:50.040 --> 28:56.880
+unserem Kopf sich geformt hat, wie man sowas machen kann. Und das, was wir eingebracht haben,
+
+28:56.880 --> 29:02.240
+sind ja auch zwei Theoriequellen, die da nachher zusammengebracht wurden. Das eine kommt aus der
+
+29:02.240 --> 29:06.880
+kritischen Psychologie, weil wir nämlich eine Individualtheorie brauchten, denn wir wollten
+
+29:06.880 --> 29:14.680
+nicht so ein Simple Agent als so ein Homo economicus Simple Automaten implementieren,
+
+29:14.680 --> 29:20.640
+sondern wir wollten eine, ja in der Annahme, dass in einer kommunistischen Gesellschaft eben die
+
+29:20.640 --> 29:25.840
+Bedürfnisse und damit auch die Gefühle, Motivation, Erfahrungen und so weiter eine große
+
+29:25.840 --> 29:31.520
+Rolle spielen, weil die auch das gesellschaftliche, in das gesellschaftliche Gesamt in der
+
+29:31.520 --> 29:35.840
+Auseinandersetzung, in der Verhandlung mit den anderen einfließen. Deswegen wollten wir die
+
+29:35.840 --> 29:39.760
+unbedingt auf der Individualebene modellieren. Und da haben wir als Grundlage die kritische
+
+29:39.760 --> 29:47.200
+Psychologie genommen. Und auf der Gesellschaftstheorie haben wir sehr viel von der Wertkritik genommen,
+
+29:47.200 --> 29:54.000
+die uns da inspiriert hat. Also das waren so die beiden Theoriequellen. Und bei der
+
+29:54.000 --> 29:59.440
+Modellentwicklung, kann ich mich erinnern, war es halt schon in der Commons-Gruppe sehr wichtig,
+
+29:59.440 --> 30:04.440
+einen Informatiker dabei zu haben. Ich war das. Weil nämlich die beiden anderen,
+
+30:04.440 --> 30:10.360
+Simon Sotoli und Annette Schlemme, die kommen eher aus der Soziologie, Philosophie und so weiter.
+
+30:10.360 --> 30:16.320
+Und genau diesen Schritt zu machen von den Realweltverhältnissen, die ich als Philosophin zum
+
+30:16.320 --> 30:22.520
+Beispiel mit bestimmten Kategorien beschreiben kann oder als Soziologe mit bestimmte gesellschaftliche
+
+30:22.520 --> 30:27.360
+Strukturen mit bestimmten Kategorien erfassen kann, wenn ich von denen dann eine Formalisierung mache,
+
+30:27.360 --> 30:32.280
+dann muss ich ganz viel abschneiden. Und ich kann mich an ganz viele Gespräche erinnern,
+
+30:32.280 --> 30:37.440
+wo ich dann immer sagte, ja, jetzt überlegt es euch, wie kann man das zwischen 0 und 1 abbilden?
+
+30:37.440 --> 30:42.880
+Was würdet ihr da für einen Wert vorsehen? Wie kann man das mit Emotionen machen? Und die haben
+
+30:42.880 --> 30:48.120
+dann immer gestöhnt, oh Gott, da geht ja alles verloren. Und so weiter sage ich, na ja, es geht
+
+30:48.120 --> 30:55.080
+zwar was verloren, aber wir machen ja kein psychologisches Modell, sondern wir machen
+
+30:55.080 --> 31:00.520
+ja eher ein soziologisches Modell, ein Gesellschaftsmodell. Das heißt, es kommt nicht
+
+31:00.520 --> 31:06.520
+darauf an, dass wir am Ende zum Beispiel Emotionen, Motivationen usw. formalisieren
+
+31:06.520 --> 31:11.560
+und damit algorithmisieren, also sie verhalten sich ja dann auch irgendwie, die Agenten miteinander,
+
+31:11.560 --> 31:18.280
+damit sind sie wieder kleine Automaten, sondern es kommt darauf an, dass wir eine Verteilung haben,
+
+31:18.280 --> 31:24.280
+also dass wir individuelle Agenten erzeugen. Und das ist halt die große Möglichkeit, die Manu
+
+31:24.280 --> 31:28.640
+gerade beschrieben hat, das ist die große Möglichkeit, dass AWM das kann oder dieses
+
+31:28.640 --> 31:34.720
+Tool, Netlogo das kann, dass wir nämlich lauter individuelle Agenten erzeugen. Also wir machen
+
+31:34.720 --> 31:40.240
+nicht tausend gleiche am Anfang, sondern tausend unterschiedliche und würfeln dabei, um eine
+
+31:40.240 --> 31:46.160
+gewisse Verteilung von Eigenschaften zu haben, die dann aber in ihrer Interaktion wieder automatisch
+
+31:46.160 --> 31:51.400
+oder algorithmisch sind. Uns interessiert aber nicht die einzelnen Agenten, sondern die
+
+31:51.400 --> 31:58.560
+Gesamtverteilung. Wie ist die Gesamtverteilung geschaffen und kann man die auch mitbestimmen?
+
+31:58.560 --> 32:07.760
+Ja, also wir haben ja auch in unseren Publikationen drin, dass wir sagen, naja, es gibt Überlegungen zu
+
+32:07.760 --> 32:14.440
+bestimmten Gruppenkulturen und von daher können wir die Formalisierung dieser Gruppenkulturen,
+
+32:14.440 --> 32:22.160
+die wir dann gemacht haben, plausibilisieren und eben auch einen Realgehalt versuchen zuzugeben.
+
+32:22.160 --> 32:29.960
+Also unsere Begründung, warum wir dann auch Schlüsse ziehen können, ist eben genau die. Wir
+
+32:29.960 --> 32:37.040
+haben eine Verteilung von bestimmten Verhaltensweisen, die im Durchschnitt mutmaßlich
+
+32:37.040 --> 32:43.480
+einer Verteilung von Verhaltensweisen in einer solchen Gesellschaft entspricht. Uns interessiert
+
+32:43.480 --> 32:50.680
+nicht das einzelne Individuum. Ja und nein, würde ich sagen, also oder beziehungsweise noch mal
+
+32:50.680 --> 32:56.880
+nachgefragt, also gerade im Bezug auf die Emotionen wäre das ja jetzt eigentlich dann interessant,
+
+32:56.880 --> 33:02.200
+da nochmal genauer drauf zu gucken, weil die Tatsache, dass es am Ende eine Vielzahl von
+
+33:02.200 --> 33:08.640
+unterschiedlich orientierten Agentinnen innerhalb der Simulation sind, ändert ja noch nichts daran,
+
+33:08.640 --> 33:18.240
+dass die einzelnen Emotionen innerhalb der Agentin dann doch eigentlich binär orientiert
+
+33:18.240 --> 33:23.080
+modelliert worden ist, oder? Also das bleibt ja trotzdem erhalten, dass, wenn ich mich richtig
+
+33:23.080 --> 33:30.760
+erinnere, im Narrativ die Emotion eigentlich eine Funktion aus unterschiedlichen Bewertungen eigentlich
+
+33:30.760 --> 33:37.640
+eher eben funktionalen Bewertungen ist. Also das ist quasi das Ergebnis einer mehr oder minder
+
+33:37.640 --> 33:46.800
+kalkulierenden Abschätzung von wie sehr meine Umgebung und die Dinge, die sich mir nahelegen,
+
+33:46.800 --> 33:52.320
+meine Bedürfnisse befriedigen oder sowas, jetzt mal ein bisschen verkürzt dargestellt. Und das
+
+33:52.320 --> 33:58.520
+wird dann als Emotion modelliert, als eine Art von auch Bewertung des Ist-Zustands oder der
+
+33:58.520 --> 34:04.080
+Potenzialität des Zustands, auch in die Zukunft gedacht, aber eben eigentlich trotzdem immer noch
+
+34:04.080 --> 34:09.640
+in einer binären, auch algorithmisierten Logik, wenn man so will. Also das heißt,
+
+34:09.640 --> 34:15.280
+dann habe ich zwar innerhalb des einzelnen Agenten, der einzelnen Agentin, habe ich zwar was,
+
+34:15.280 --> 34:19.520
+was ihr Emotion nennt, aber das ist halt bei weitem natürlich, hast du ja selber auch gesagt,
+
+34:19.520 --> 34:28.000
+überhaupt nicht das, was man jetzt allgemein als Emotion bezeichnen würde, die ja sogar oft eben
+
+34:28.000 --> 34:36.240
+gar nicht in so einem, auch so ein bisschen rational kalkulierenden Modus eigentlich operiert.
+
+34:36.240 --> 34:42.200
+Und das bleibt sozusagen in der Modellierung ja dann trotzdem noch außen vor, auch wenn ich
+
+34:42.240 --> 34:50.120
+sozusagen eine Vielzahl unterschiedlichster Agentinnen habe, die dann eine eben ermergierende
+
+34:50.120 --> 34:53.880
+Struktur entwickeln können. Aber ich sehe schon, Manuel hat seine Hand gehoben, um wahrscheinlich
+
+34:53.880 --> 34:58.120
+darauf einzukriegen, auch Stefan möchte nochmal. Leg los Stefan, wenn du was hast. Ja, vielleicht
+
+34:58.120 --> 35:04.080
+einfach direkt dazu, also nochmal aus der kritischen Psychologie geguckt. Tatsächlich sind Emotionen,
+
+35:04.080 --> 35:09.640
+sind unsere Emotionen, ist unsere Bewertung von dem, wie wir gerade uns befinden. Also wie
+
+35:09.640 --> 35:14.080
+gerade unsere Lebenslage ist, was gerade los ist mit uns und so weiter. Das spiegeln uns unsere
+
+35:14.080 --> 35:19.720
+Emotionen wieder. Ja, die zeigen uns, wie gerade, wie wir gerade drauf sind, wie wir gerade in
+
+35:19.720 --> 35:25.400
+welcher Lage wir, mit welchen Aufgaben, welchen Ängsten und so weiter, was vielleicht nicht
+
+35:25.400 --> 35:29.440
+geschafft werden kann, etc., etc., das spiegeln uns unsere Emotionen wieder. Also man könnte
+
+35:29.440 --> 35:35.000
+verkürzt sagen, Emotionen bewerten Situation. So hast du es auch formuliert. Und genau diesen
+
+35:35.000 --> 35:42.400
+Aspekt der Bewertung der jeweiligen Situation, das haben wir quasi implementiert. Und da die
+
+35:42.400 --> 35:47.880
+Agenten halt unterschiedlich sind, ist zwar diese Emotion sozusagen von der Funktionalität ja die
+
+35:47.880 --> 35:53.400
+gleiche, die bewertet immer nur, wie ist meine Situation. Also zum Beispiel, wie geht es mir
+
+35:53.400 --> 36:01.680
+gerade, wie gut bin ich versorgt angesichts meiner Bedürfnisse und welche Aktivitätsorientierung habe
+
+36:01.680 --> 36:09.280
+ich jetzt, was dann die Gruppenkulturen aus sind. Und diese Bewertung fließt dann ein in die Handlung,
+
+36:09.280 --> 36:15.920
+sozusagen. Und das in der Tat algorithmisch, aber durch die Verteilung eben mal so und mal so
+
+36:15.920 --> 36:21.400
+und mal so. Und das ergibt dann ein Gesamtspektrum. Manuel, Entschuldigung, ich mag dir noch einmal
+
+36:21.400 --> 36:25.800
+kurz drauf eingehen. Ich mag nur noch mal nachfragen. Das finde ich nämlich eine sehr
+
+36:25.880 --> 36:32.640
+relevante Aussage eigentlich jetzt von dir, Stefan, weil das ja eigentlich eine Modellierung der
+
+36:32.640 --> 36:37.400
+Akteurin, nicht nur im Modell, sondern du sagst dir jetzt eigentlich auch realweltlich gesehen,
+
+36:37.400 --> 36:46.240
+sozusagen, die Modellierung der Akteurin als eine rationale Akteurin ist, also ein Rational Agent,
+
+36:46.240 --> 36:51.480
+sozusagen. Aber das stimmt doch, also das ist interessant, dass das jetzt sozusagen in der
+
+36:51.480 --> 36:58.160
+kritischen Psychologie, die du ja dann hernimmst, quasi so gedacht wird. Aber es ist nicht so,
+
+36:58.160 --> 37:04.360
+dass es ist ja nicht so, dass wir die ganze Zeit in dieser Art und Weise kalkulierend durch die
+
+37:04.360 --> 37:10.360
+Welt rennen, sondern gerade Emotionen sind ja eigentlich oft etwas, was sich einer solchen
+
+37:10.360 --> 37:16.320
+rationalen Bewertung eigentlich auch entzieht, die in so einer Art und Weise, die jetzt fast schon
+
+37:16.320 --> 37:21.920
+nach einer Kosten-Nutzen-Rechnung klingt, eigentlich ihre Umwelt permanent bewerten würde. Also das
+
+37:21.920 --> 37:26.720
+finde ich interessant, dass das jetzt sozusagen deiner Perspektive eigentlich so ein sehr, sehr
+
+37:26.720 --> 37:32.480
+stark rational-rationalistische Perspektive fast schon zugrunde liegt. So klingt das jetzt fast.
+
+37:32.480 --> 37:37.920
+Ich finde interessant, dass du das als rationalistisch hörst. Ich mein's ganz und
+
+37:37.920 --> 37:42.640
+gar nicht. Ganz und gar nicht. Bei Emotionen sind gerade nichts, was durch meinen Kopf
+
+37:42.640 --> 37:48.800
+hindurchgeht, sondern Emotionen hab ich. Emotionen hab ich. Ich kann mich dann dazu verhalten,
+
+37:48.800 --> 37:54.400
+dass es mir zum Beispiel schlecht oder gut geht, aber erstmal hab ich die Emotionen. Und diese
+
+37:54.400 --> 37:58.680
+Emotionen, die ich habe, und das ist dann die kategoriale Überlegung der kritischen Psychologie,
+
+37:58.680 --> 38:05.160
+die haben was mit meinem In-der-Welt-Sein zu tun. Das ist nicht nur eine Innerlichkeit. Ich hab die
+
+38:05.160 --> 38:11.400
+ganz privat für mich, sondern die sagen was über meine Beziehung zur Welt, zu meiner Lebenswelt aus.
+
+38:11.960 --> 38:16.040
+Das ist eine kategoriale Überlegung und das ist auch begründet und so weiter. Da will ich jetzt
+
+38:16.040 --> 38:21.000
+gar nicht drauf eingehen. Und jetzt kommt dann auch in der kritischen Psychologie, was mache
+
+38:21.000 --> 38:26.000
+ich jetzt mit diesen Emotionen? Ich kann die nämlich jetzt nutzen als Erkenntnismittel. Das
+
+38:26.000 --> 38:29.680
+ist dann aber eine psychologische Fragestellung. Die hatten wir gar nicht. Die war für uns
+
+38:29.680 --> 38:35.360
+uninteressant. Für uns war nur interessant, die Agenten bewerten ihre Situation und diese Bewertung
+
+38:35.360 --> 38:42.240
+fließt danach in, wenn du so willst, rationale Überlegungen ein. Was möchte ich eigentlich haben?
+
+38:42.240 --> 38:49.600
+Wie sind meine Bedürfnisse? Wie will ich tätig sein? Und was verspricht für mich die beste
+
+38:49.600 --> 38:56.000
+Versorgung und Zufriedenheit? Also das sind zwei Ebenen und wir wollten gerade auch die
+
+38:56.000 --> 39:03.280
+nicht-rationale Ebene mit drin haben. Spannend. Ich bin gespannt, wie das für mich klingt,
+
+39:03.280 --> 39:08.920
+wenn ich dann die Folge später nochmal anhöre. Manuel, bitte. Ja, also ich glaube, dass mit
+
+39:08.920 --> 39:14.800
+Stephans Lektüre der kritischen Psychologie da wesentliche Komponente reinkommt. Ich selber
+
+39:14.800 --> 39:20.360
+kenne mich da nicht so gut aus. Beim Umsetzen von dem, wenn ich dann so einen Agenten habe,
+
+39:20.360 --> 39:28.520
+der verlauft rational. Das ist ganz klar. Also da gibt es Regeln, nachdem sich dieser künstliche
+
+39:28.520 --> 39:41.720
+Agent verhält und man kann natürlich einen Faktor, Irrationalität, also rational im Gegensatz zum
+
+39:41.720 --> 39:46.720
+rational Actor oder das rational Choice, der Neoklassik, da ist schon nochmal ein großer
+
+39:46.720 --> 39:52.080
+Unterschied, weil ja das Modell des rationalen Akteurs in der Neoklassik aufgebaut auf dem
+
+39:52.080 --> 39:59.440
+Prinzip der vollständigen Information. Das heißt, der repräsentative Agent in einem
+
+39:59.440 --> 40:06.320
+neoklassischen Modell verfügt über vollständige Informations- oder zumindest nach Lehrbuch und kann
+
+40:06.320 --> 40:11.760
+dann eine optimale Entscheidung fällen. Zum Beispiel ein klassisches Lehrbuch-Exempel aus
+
+40:11.760 --> 40:18.440
+der Ökonomie, die Haushaltsentscheidung. Der Agent hat ein Budget zur Verfügung und hat dann
+
+40:18.440 --> 40:24.920
+irgendwelche fixen Präferenzen und wählt dann ein bestimmtes Güterbündel zu einem bestimmten
+
+40:24.920 --> 40:29.120
+Preis. Das ist dann die optimale Entscheidung. Aber das kann die Agentin oder der Agent auch
+
+40:29.120 --> 40:35.600
+nur machen, wenn sie eher die vollständige Information über den Marktprozess hat. Und
+
+40:35.600 --> 40:41.120
+die agentbasierte Modellierung kann da jetzt einen Faktor reinbringen, der bei Herbert Simon
+
+40:41.120 --> 40:48.480
+oft gedeutet ist, der bounded rationality. Das heißt, die aktuelle Handlung rational,
+
+40:48.480 --> 40:53.000
+aber auf Basis lokaler Informationen. Das heißt, es spielt Nachbarschaft,
+
+40:53.000 --> 41:00.600
+Neighborhood, soziale Gruppe eine Rolle und die Frage, woher denn die Information kommt und welche
+
+41:00.600 --> 41:07.040
+Informationsflüsse es gibt, auf welchen Ebenen. Ob das jetzt immer eine aggregierte Information ist,
+
+41:07.040 --> 41:13.440
+die da zurückgespielt wird. Das wäre dann noch lange kein agent-based Model. Da könnte man auch
+
+41:13.440 --> 41:18.920
+von einer Mikrosimulation sprechen. Wenn die Akteure quasi immer nur ihren eigenen isolierten
+
+41:18.920 --> 41:29.160
+Pfad verfolgen und das Feedback in ihrer, also die Response im nächsten Zug, eine Response ist ein
+
+41:29.160 --> 41:36.440
+Aggregat, zum Beispiel das Produktionsniveau in Runde 1 und das Produktionsniveau in Runde 2 und
+
+41:36.440 --> 41:45.280
+dann agieren die Agenten darauf. Das ist auch eher langweilig für die Frage der sozialen Prozesse.
+
+41:45.280 --> 41:51.480
+Für die Frage der sozialen Prozesse ist natürlich entscheidend, wie sind diese Agenten vernetzt und
+
+41:51.480 --> 41:56.120
+in welchen Gruppen und in welchen Räumen bewegen sie sich und wo kriegen sie ihre Information her.
+
+41:56.120 --> 42:04.520
+Und dann bin ich schon in einem, soll ich jetzt nicht realistischeren, also realistischen Abbild,
+
+42:04.520 --> 42:11.840
+aber in einen realistischeren Abbild, weil wir alle natürlich von lokaler Information abhängig sind,
+
+42:11.840 --> 42:18.040
+wo diese Information herkommt und wie wir die dann verarbeiten. Und so sind da halt auch im
+
+42:18.040 --> 42:24.000
+agentenbasierten Modell, agieren dann über die Zeit manche Agenten anders als andere,
+
+42:24.000 --> 42:32.720
+weil sie eben von bestimmten Agenten lernen und Informationen übernehmen und die in ihr Verhalten
+
+42:32.720 --> 42:40.120
+übertragen. Die Frage der Emotion, wie wir das genannt haben, für mich war das immer eine gewisse
+
+42:40.120 --> 42:47.680
+Art des Well-Be, also das ist sozusagen ein Abbild des individuellen Wohlbefindens und bewertet,
+
+42:47.680 --> 42:55.920
+genauso wie Stefan das sagt, eine Distanz zu einer Lage. Das heißt, das ist quasi, da wird dann im
+
+42:55.920 --> 43:02.200
+Modell, also dann später in der Simulation, im Code, geht es da um Distanzen, wie weit bin ich weg
+
+43:02.200 --> 43:09.160
+von meinem Bild der Agenten und dann kann man hinzunehmen, das haben wir natürlich auch getan,
+
+43:09.160 --> 43:16.080
+in diesem Modell wollen wir halt hervorheben, wie die Agenten lernen von anderen. Dann geht es darum,
+
+43:16.080 --> 43:20.760
+wie weit bin ich weg von einem bestimmten Durchschnitt, von einer Peer Group und das
+
+43:20.760 --> 43:26.560
+kann jetzt eine Produktivgruppe sein, also wo die Agenten produzieren, kann aber auch eine
+
+43:26.560 --> 43:34.280
+Lebensgruppe sein oder ein anderer Querschnitt in den sozialen Netzwerken und von dort kommt dann
+
+43:34.280 --> 43:41.000
+die Information her und somit dann das individuelle Wohlbefinden bewertet. Was ist die Distanz? Im
+
+43:41.000 --> 43:47.160
+Modell geht es dann darum oder haben wir halt auch im Entwicklungsprozess so gemacht, wie machen wir
+
+43:47.160 --> 43:53.720
+diese Bewertung und wo sind quasi die Bemessungsgrundlagen? Was sind die Lagen,
+
+43:53.720 --> 43:59.640
+die bemessen werden sollen und wie wird bemessen und wie entsteht daraus dann zukünftiges Verhalten,
+
+43:59.640 --> 44:05.720
+weil die haben jetzt nicht forward-looking expectations da drinnen, dass sie ihr zukünftiges
+
+44:05.720 --> 44:12.400
+Verhalten im Trend vorberechnen und daraus eine Verhaltenskurve quasi entwickeln, nach der sie
+
+44:12.400 --> 44:18.520
+stur agieren. Also sie sind jetzt nicht besonders intelligente Agenten, sie reagieren kurzfristig.
+
+44:18.520 --> 44:26.360
+Also sie haben jetzt nicht eine Langzeit-Memory, das wäre dann eine nächste Untersuchungsform. Man
+
+44:26.360 --> 44:29.800
+muss sich dann überlegen, Zeit sich das auszuuntersuchen oder nicht, aber mit dem
+
+44:29.800 --> 44:34.880
+kann man natürlich spielen, gibt es ein Kurzzeitgedächtnis der Agenten, gibt es ein
+
+44:34.880 --> 44:42.280
+Langzeitgedächtnis, inwiefern spielt die eigene Historie der Entscheidungen eine Rolle und wird
+
+44:42.360 --> 44:47.920
+der Entscheidungsprozess mehr abgebildet durch die individuelle Geschichte an Entscheidungen oder
+
+44:47.920 --> 44:52.840
+durch die soziale Geschichte der Entscheidungen und welche sozialen Geschichten sind dann eben
+
+44:52.840 --> 44:59.960
+entscheidend, das das Modellierungsteam bewährt. Das ist ganz klar, das kann der Agent nicht machen
+
+44:59.960 --> 45:06.280
+und insofern glaube ich, haben wir mit der Emotion schon, man kann den Begriff natürlich
+
+45:06.280 --> 45:13.520
+diskutieren, ich finde das natürlich passt, weil es geht genau um diese Lage, aber es ist
+
+45:13.520 --> 45:21.480
+eine Art individuelles Wohlbefinden für mich und daraus kann man dann sich anschauen, wie ist das in
+
+45:21.480 --> 45:26.240
+der Gesamtheit, was ist soziale Wohlfahrt, das muss ja auch bewertet werden. Wenn man jetzt in so einem
+
+45:26.240 --> 45:31.080
+Modell ist, in so einem utopistischen, dann geht es mir ja nicht darum, dass ich ein Produktivitätsmaß
+
+45:31.080 --> 45:35.840
+habe wie das Bruttoinlandsprodukt und ich bewerte alle Entscheidungen danach oder es wird alles
+
+45:35.920 --> 45:42.960
+danach hinten angestellt. Da muss ich mal überlegen, was sind jetzt unsere Messungen, auch für uns zur
+
+45:42.960 --> 45:50.480
+Analyse, was sollen wir denn da jetzt von dem Modell als Ziel sehen, wo sollten diese Gesellschaft hin?
+
+45:50.480 --> 45:56.880
+Ja wunderbar, also da kamen jetzt schon ganz viele Sachen auf, die wir auf jeden Fall noch
+
+45:56.880 --> 46:01.880
+besprechen wollen, also zum einen kam natürlich auf, dass man sehr stark herausgehört hat Manuel,
+
+46:01.880 --> 46:09.440
+dass natürlich der Modellierer, die Modelliererin dadurch, dass er oder sie bestimmt,
+
+46:09.440 --> 46:15.880
+was die Parameter sind entlang derer bewertet wird und was eben die Ziele sind und so weiter,
+
+46:15.880 --> 46:21.760
+wie der Aufbau insgesamt natürlich einen ganz großen Einfluss hat auf das Modell,
+
+46:21.760 --> 46:27.680
+logischerweise, was aber natürlich auch noch mal unterstreicht und das denke ich mal,
+
+46:27.760 --> 46:32.000
+braucht ja zwischen uns hier nicht gesagt werden, aber vielleicht an die allgemeine
+
+46:32.000 --> 46:36.680
+Zuhörer-Innschaft noch mal gerichtet, dass natürlich so ein Modell in keiner Form irgendwie
+
+46:36.680 --> 46:42.000
+eine objektive Abbildung in einer Gegebenheit darstellt oder sowas, sondern dass natürlich
+
+46:42.000 --> 46:48.280
+die Modelliererin da einen großen Einfluss darauf hat, wie die Dinge aufgestellt sind und
+
+46:48.280 --> 46:52.200
+allein schon durch die Art und Weise der Fragestellung natürlich eine bestimmte
+
+46:52.200 --> 46:57.160
+Perspektivierung auch mitgibt, würde ich sagen. Aber vielleicht wollen wir da mal ein bisschen
+
+46:57.440 --> 47:01.560
+tiefer eintauchen, einfach in diese verschiedenen Aspekte, die du da jetzt angesprochen hast,
+
+47:01.560 --> 47:07.880
+Manuel, die ja letztlich viel einfach eben mit dem Aufbau dieses spezifischen Modells zu tun hat,
+
+47:07.880 --> 47:12.760
+weil die HörerInnen, die kennen das ja jetzt nicht. Du hattest jetzt verschiedene Aspekte
+
+47:12.760 --> 47:17.480
+eingebracht, die aus dem Kommunismus kommen, sowie Lebensgruppen zum Beispiel. Da gibt es
+
+47:17.480 --> 47:23.040
+also verschiedenste Einheiten, die man jetzt so noch nicht kennt, aber eben natürlich dann auch
+
+47:23.040 --> 47:28.960
+die Frage, bei so einer Emotion, was bedeutet das denn? Was sind denn die verschiedenen Parameter,
+
+47:28.960 --> 47:35.940
+aus denen sich diese modellierte Emotion zusammenstellt? Also was wird da genau abgefragt?
+
+47:35.940 --> 47:40.880
+Vielleicht können wir versuchen, da so ein bisschen ein Bild davon zu zeichnen,
+
+47:40.880 --> 47:47.120
+woraus dieses Modell denn jetzt eigentlich gebaut worden ist. Was gibt es für verschiedene
+
+47:47.120 --> 47:54.560
+Ebenen und welche verschiedenen Einheiten werden da in das Modell hineingesetzt,
+
+47:54.560 --> 48:02.280
+um den Kommunismus zu modellieren? Zuerst zur Frage der Ontologie und Methodologie noch kurz,
+
+48:02.280 --> 48:09.760
+ein Modell ist kein objektives Abbild und kann auch nicht sein. Es gibt natürlich in der
+
+48:09.760 --> 48:14.640
+Wissenschaftstheorie Debatten, ob Modellessimulationen für Vorhersagen genutzt werden
+
+48:15.400 --> 48:23.000
+keine Ahnung. Der IPCC, die machen ja auch Berechnungen über den Klimawandel und da wird
+
+48:23.000 --> 48:28.200
+simuliert, wie denn eine bestimmte durchschnittliche Gradveränderung Auswirkungen hat auf extrem
+
+48:28.200 --> 48:33.680
+eigenes. Das braucht es alles. Wir verwenden hier jetzt Modelle, also bei mir auch in der
+
+48:33.680 --> 48:39.160
+Lehre und in der Forschung. Wenn ich ein solches Modell verwende, dann ist der Anreiz ein didaktischer
+
+48:39.160 --> 48:46.960
+und nicht ein Anreiz der Vorhersage und Prognose oder der Zieltreffergenauigkeit auf die Realität.
+
+48:46.960 --> 48:54.360
+Ich möchte allen noch jetzt in den Kursen oder Forschungskolleginnen vermitteln, dass es darum
+
+48:54.360 --> 48:59.600
+geht, Systeme zu bauen, Welten zu bauen, von denen man was lernen kann, weil sie ein bestimmtes Design
+
+48:59.600 --> 49:05.400
+haben. Dass ich daraus jetzt eins zu eins Schlüsse machen kann, was ich da in der Welt ändern soll,
+
+49:05.480 --> 49:12.160
+das sei jetzt mal dahingestellt. Es geht eher darum zu verstehen, wie konstruiere ich so ein Modell,
+
+49:12.160 --> 49:17.840
+was kann ich daraus lernen für die Gesellschaft durch diesen Konkretisierungsprozess. Es war ja
+
+49:17.840 --> 49:24.600
+auch bei dem Modell, bei dem Projekt stets im Vordergrund. Diese Frage der Konkretisierung
+
+49:24.600 --> 49:34.000
+kann ja auch die Philosophie und die Debatte, was ist ein Kommunismus, verbessern.
+
+49:34.000 --> 49:42.320
+Weil man sich präzise Gedanken, Überlegungen machen muss, die man vielleicht vorher gar nicht
+
+49:42.320 --> 49:49.080
+im Sinn hat. Und so ist es auch eben beim Abbild, wenn du fragst, welche Komponenten
+
+49:49.080 --> 49:54.240
+sind da drinnen. Unser Modell hat eine biophysikalische Grundlage, das war uns
+
+49:54.240 --> 50:00.000
+ganz wichtig, weil wir halt auch stark aus der ökologischen Ökonomie kommen. Und da gibt es
+
+50:00.000 --> 50:07.440
+also Ressourcen, wenn wir jetzt quasi von dort beginnen wollen. Es gibt verschiedene Gruppen,
+
+50:07.440 --> 50:14.760
+Produktivgruppen. Und eine von diesen Produktivgruppen sind Ressourcengruppen,
+
+50:14.760 --> 50:23.440
+die quasi Harvest, Minen, Resources und geben die dann weiter. Das heißt, was wir haben,
+
+50:23.440 --> 50:30.400
+vom ökonomischen Aspekt her haben wir ein Input-Output-Modell, wo die Komponenten,
+
+50:30.400 --> 50:37.480
+die für die Erzeugung von Mitteln notwendig sind, durch eine Kette durchgehen. Input und Output.
+
+50:37.480 --> 50:47.280
+Auf der Frage der Agenten, die sind in Lebensgruppen und in diesen Lebensgruppen machen sie interpersonale
+
+50:47.280 --> 50:55.840
+Pflege und leben zusammen. Dann gibt es eben die Produktivgruppen, die beginnen bei der
+
+50:55.840 --> 51:04.600
+Ressourcengruppe. Dann gibt es Senken, also ökologische Senken, die quasi CO2 umsetzen
+
+51:04.600 --> 51:15.760
+können. Auch dort braucht es Agenten, die das machen. Dann gibt es einen Input-Output-Block
+
+51:15.840 --> 51:21.000
+an mehreren Produktionslevels, wo es unterschiedliche Produktivgruppen gibt,
+
+51:21.000 --> 51:26.720
+die vorige Inputs brauchen, um andere Mittel zu erzeugen, die dann weitergegeben werden,
+
+51:26.720 --> 51:32.640
+bereitgestellt werden an Gruppen, die immer näher in Richtung des Verbrauchs gehen.
+
+51:32.640 --> 51:42.520
+Und wir haben ein Bereitstellungssystem. Es gibt also keinen Markt. Das ist genau die Konzeption,
+
+51:42.680 --> 51:51.920
+die wir zentral aus dem Kommunismuskonzept übernehmen wollten. Eine exante Koordination
+
+51:51.920 --> 51:58.160
+der Bedürfnisse. Und da spielt eben eine große Rolle die Produktivbedürfnisse,
+
+51:58.160 --> 52:03.840
+die der Stefan der Vorgehung hat. Das kann er sicher genauer noch betonen, wie das funktioniert.
+
+52:03.840 --> 52:08.760
+Wichtig ist, dass auf Basis der Produktivbedürfnisse Agenten in unterschiedlichen
+
+52:08.760 --> 52:17.000
+Gruppen arbeiten wollen, weil sie bestimmte Arbeitsprozesse priorisieren über andere. Und
+
+52:17.000 --> 52:23.200
+es kann auch sein, dass Agenten lieber in Pflegeeinrichtungen, in Care Mean Groups
+
+52:23.200 --> 52:30.240
+arbeiten wollen. Also das wären jetzt Altersheime, Kindergärten, Krankenhäuser. Das wäre die
+
+52:30.240 --> 52:39.240
+transpersonale Pflege, Transpersonal Care. Und dann gibt es noch die Lebensmittel, also die
+
+52:39.240 --> 52:46.600
+Life Means Groups. Das ist aber jetzt nicht auf Lebensmittelbezug auf die Ernährung, sondern alle
+
+52:46.600 --> 52:54.720
+Mittel, die zum Leben gebraucht werden. Und so ist das Modell quasi auf der ökonomischen Seite
+
+52:54.720 --> 53:01.160
+ein Input-Output-Modell und daneben quasi die Pflegeeinrichtungen abgebildet, die aber auch
+
+53:01.160 --> 53:08.680
+Inputs brauchen, zum Beispiel Maschinen. Alle Produktivgruppen produzieren Maschinen oder
+
+53:08.680 --> 53:17.320
+Zwischengegenstände, Zwischenmittel, die weitergegeben werden. Und auf Basis von dieser Input ist halt dann
+
+53:17.320 --> 53:22.680
+der schlussendliche Output abhängig. Das heißt, es ist bei diesem Modell dann schon darum gegangen,
+
+53:23.000 --> 53:31.920
+wie man diese Kette stabilisiert. Also da hat sich dann vor allem auch die Lena im Coden vertieft,
+
+53:31.920 --> 53:38.480
+dann schlussendlich das System stabil hinzubekommen. Vielleicht nur nochmal kurz, weil ich da jetzt noch
+
+53:38.480 --> 53:44.520
+gerade dran hänge, Manuel, weil du das jetzt ebenso formuliert hast, dass es also das
+
+53:44.520 --> 53:51.400
+Bereitstellungssystem gibt und daneben dann die Pflege. Inwiefern? Weil ja im Kommunismus,
+
+53:52.000 --> 53:57.880
+wirklich richtigerweise immer betont wird, dass es eigentlich keine Produktion ohne Reproduktion
+
+53:57.880 --> 54:02.800
+gibt. Und ich hatte das aber immer so verstanden und fände das auch konsequenter. Und wie gesagt,
+
+54:02.800 --> 54:07.920
+so habe ich es auch verstanden, dass eigentlich es gibt keine Produktion, die nicht immer auch
+
+54:07.920 --> 54:15.120
+zwingend zeitgleich quasi Reproduktion ist. Also das war immer die Auffassung, wie ich das
+
+54:15.600 --> 54:21.440
+verstanden hatte, dass man eben ja diese Trennung eigentlich überwinden soll. Wenn jetzt aber,
+
+54:21.440 --> 54:24.920
+vielleicht habe ich es aber auch nur falsch verstanden, wenn jetzt sozusagen innerhalb
+
+54:24.920 --> 54:29.200
+der Modellierung die Reproduktion wieder eigentlich außen, also nicht außen vor,
+
+54:29.200 --> 54:34.760
+sie wird ja mit hineingenommen ins Modell, aber quasi getrennt gedacht wird, dann würde das ja
+
+54:34.760 --> 54:42.440
+eigentlich diese notwendige Zeitgleichheit oder zwingende Verbindungen wieder aufheben,
+
+54:42.440 --> 54:46.840
+von der ich immer dachte, dass sie im Kommunismus eigentlich wie so ein Fundament darstellt,
+
+54:46.840 --> 54:50.240
+was ich ja auch mal extrem gut daran fand, muss ich sagen. Aber vielleicht habe ich es
+
+54:50.240 --> 54:55.080
+auch nur falsch verstanden oder den Nebensatz war quasi einfach so formuliert, dass ich das
+
+54:55.080 --> 54:59.720
+falsch verstanden habe. Ja, damit ist eigentlich nur gemeint, wenn wir jetzt ein Krankenhaus
+
+54:59.720 --> 55:04.880
+hernehmen. Also es wird im Kommunismus eher durchaus, wenn es kein Krankenhaus gibt, dann
+
+55:04.880 --> 55:08.720
+wird es irgendein Primärversorgungszentrum kommen, weil wenn sie über den Arm bricht,
+
+55:08.720 --> 55:15.160
+wird man das irgendwie behandeln müssen. Und diese Gruppe steht dann neben einer
+
+55:15.160 --> 55:23.600
+Fahrradwerkstatt. Das ist gemeint, man steht daneben. Also das wird nicht dieselbe Gruppe sein,
+
+55:23.600 --> 55:30.800
+werden nicht dieselben Akteure sein, die ein Fahrrad reparieren und eine Hand. Ich meine,
+
+55:30.800 --> 55:36.320
+vielleicht, das weiß ich nicht, wie das in der Zukunft aussehen mag, ob das alles Multitasking-
+
+55:36.480 --> 55:40.920
+Menschen sind, die zugleich ein Fahrrad reparieren können und eine Hand oder ein
+
+55:40.920 --> 55:50.880
+Herd oder eine komplexe Cloud-Server-Infrastruktur aufstellen. Ich denke, da wird schon auch
+
+55:50.880 --> 55:58.560
+Spezialisierungen geben. Also auch wenn Produktion und Reproduktion simultan passieren muss,
+
+55:58.560 --> 56:05.080
+wird es unterschiedliche Ratte geben der Produktion und der Pflege. Das ist gemeint mit der
+
+56:05.400 --> 56:13.440
+Hand. Also wir könnten das auch genauso für den produktiven Bereich anschauen und auch dort
+
+56:13.440 --> 56:19.120
+gibt es Produktion und Reproduktion sozusagen. Auch die Maschinen wollen gepflegt werden. Auch
+
+56:19.120 --> 56:26.440
+die zum Beispiel CO2-Emissionen wollen dann behandelt werden, eben in den Senken und so. Das
+
+56:26.440 --> 56:34.080
+ist ja wieder Teil der Reproduktion und dieses eben nicht mehr auch von der Tätigkeitslogik
+
+56:34.080 --> 56:38.520
+auseinander zu reißen wie im Kapitalismus. Das ist das Entscheidende. Nicht so sehr,
+
+56:38.520 --> 56:44.240
+dass es Tätigkeitsteilung gibt und Spezialisierung und so weiter, wie Manuel gerade sagte. Das ist
+
+56:44.240 --> 56:50.360
+nicht der Punkt und wir wollten einfach den Aspekt des Care, dass das ein sehr, also auch
+
+56:50.360 --> 56:54.240
+gesellschaftlich gesehen von der Dimension her, ist es ein sehr wichtiger Bereich und deswegen
+
+56:54.240 --> 56:58.000
+wollten wir den unbedingt explizit als Tätigkeitsbereich drin haben.
+
+56:58.000 --> 57:03.640
+Jaja, voll. Ne, ne, das verstehe ich eh. Natürlich muss es Arbeitsteilung geben,
+
+57:03.640 --> 57:10.240
+aber zum Beispiel, es muss ja, also ich glaube, warum es mir ging und das hattest du jetzt
+
+57:10.240 --> 57:17.920
+eigentlich auch angesprochen, also es muss ja die Herstellung bestimmter Dinge komplett anders
+
+57:17.920 --> 57:25.680
+angegangen werden, wenn man aufhört die bestimmte Bereiche einfach aus Externalitäten abzutun.
+
+57:26.160 --> 57:31.000
+Und deswegen muss es dann eigentlich auch eine bestimmte Trennung, auch vom Prozess her eine
+
+57:31.000 --> 57:35.560
+bestimmte Trennung überwunden werden, in der ich quasi in erster Instanz erstmal hoffenweise
+
+57:35.560 --> 57:40.200
+Scheiß erzeuge, also Schmutz erzeugen oder Abfälle oder was auch immer erzeugen darf und dann später
+
+57:40.200 --> 57:45.120
+kümmert man sich drum, wie man mit denen umgeht, sondern nein, es muss ja eben im Prozess der
+
+57:45.120 --> 57:50.560
+Herstellung eigentlich dieser Gedanke der Reproduktion immer schon mit eingeflochten sein.
+
+57:50.560 --> 57:54.000
+So hatte ich das jetzt, aber da sind wir überhaupt nicht mit, das sehen wir alles so.
+
+57:54.000 --> 57:59.960
+Na fein, also dann gehen wir doch über mal so ein bisschen dazu, diese Fragestellungen,
+
+57:59.960 --> 58:05.160
+die ihr jetzt an dieses Modell gestellt habt, ein bisschen genauer anzugucken, weil es hatte
+
+58:05.160 --> 58:10.440
+ja einen Grund, warum ihr das gemacht habt. Ihr wolltet ja was rausfinden über den Kommunismus.
+
+58:10.440 --> 58:15.640
+Und also das, was ich ja so spannend fand, jetzt genau an dieser spezifischen Konstellation war,
+
+58:15.640 --> 58:21.360
+dass es, also ich finde intuitiv zumindest mal recht plausibel erscheint, dass eine solche
+
+58:21.520 --> 58:27.760
+spezifische Form des Simulierens, wie es das Agent-Based Modeling eben ist, dass die sehr
+
+58:27.760 --> 58:32.440
+gut geeignet erscheint, um so etwas wie den Kommunismus eben zu modellieren und
+
+58:32.440 --> 58:37.320
+daraus dann bestimmte Erkenntnisse auch zu gewinnen. Ihr hattet da auch eine relativ
+
+58:37.320 --> 58:42.720
+konkrete Fragestellung, die ihr an das Modell herangetragen habt und die war, welche Rolle
+
+58:42.720 --> 58:48.480
+spielt die inkludierende Versorgung innerhalb und zwischen Kulturen bzw. Gruppenkulturen für
+
+58:48.480 --> 58:53.320
+die stabile soziale und wirtschaftliche Reproduktion in einem großräumigen Netz
+
+58:53.320 --> 58:59.000
+von Commons? Und wie kann die Kooperation durch bestimmte institutionelle Mechanismen
+
+58:59.000 --> 59:05.960
+stabilisiert werden, wenn es keine inkludierende Versorgung gibt? Das ist jetzt Zitatende sozusagen.
+
+59:05.960 --> 59:10.480
+Das wäre quasi die Fragestellung. Das klingt jetzt so ein bisschen kompliziert vielleicht für
+
+59:10.480 --> 59:16.640
+Leute, die mit dem Kommunismus nicht so vertraut sind. Vielleicht Stefan, vielleicht magst du einfach
+
+59:16.640 --> 59:22.960
+nochmal so ein bisschen uns näher bringen, was ihr auch für euer eigenes Modell oder eure
+
+59:22.960 --> 59:29.840
+eigene Idee des Kommunismus mit dieser Simulation herausfinden wolltet. Was war das, was ihr das
+
+59:29.840 --> 59:36.400
+Gefühl hattet, was ihr da, ja, was ihr daraus gewinnen könnt für euch? Verschiedenes. Also
+
+59:36.400 --> 59:50.360
+wie Manuel betonte, geht es auch um ein Lernen am Modell und deswegen haben wir teilweise Dinge
+
+59:50.360 --> 59:56.000
+herausgefunden, die wir auch so erwartet haben. Also es ist nicht so, dass wir völlig überrascht
+
+59:56.000 --> 01:00:01.280
+wurden, sondern wir haben ja in gewisser Weise das Modell auch so zugeschnitten, dass das,
+
+01:00:01.280 --> 01:00:05.680
+was wir sehen wollen, auch tatsächlich eintritt. Für uns war immer dann interessant,
+
+01:00:05.680 --> 01:00:11.240
+wenn irgendwelche Hinterungsgründe auftreten, wenn irgendwas aus dem Ruder lief und so weiter. Das
+
+01:00:11.240 --> 01:00:16.400
+konnte man sehr schnell in der laufenden Simulation sehen und dann war immer die Frage, haben wir da
+
+01:00:16.400 --> 01:00:20.720
+falsche Annahmen reingesteckt und so, weil wir würden ja erwarten, dass zum Beispiel Kooperation
+
+01:00:20.720 --> 01:00:27.120
+sich durchsetzt. Deswegen klingt das vielleicht profan. Wir haben herausgefunden, was wir auch
+
+01:00:27.120 --> 01:00:33.160
+erwartet haben. Ja, wenn sich Kooperation maximal entfalten kann, dann sind Gesellschaften
+
+01:00:33.160 --> 01:00:38.480
+besonders stabil. Das ist nicht weiter verwunderlich, weil ja alle Gesellschaften
+
+01:00:38.480 --> 01:00:44.480
+auf Kooperation basieren und man könnte sagen, eine Gesellschaft ist per Definition ein
+
+01:00:44.480 --> 01:00:51.400
+Kooperationszusammenhang. Wenn man das so sieht, dann ist es allerdings eine historische Merkwürdigkeit,
+
+01:00:51.400 --> 01:00:57.000
+dass der Kapitalismus Kooperation durch Trennung herstellt. Erst werden alle Menschen und Betriebe
+
+01:00:57.000 --> 01:01:02.000
+und so weiter voneinander getrennt, um sie dann über ein drittes Geld und Markt wieder zu
+
+01:01:02.000 --> 01:01:08.680
+verbinden. Also für uns ist das so selbstverständlich, aber ich glaube ein außerirdischer Beobachter würde
+
+01:01:08.680 --> 01:01:13.960
+sagen, was macht ihr da für einen totalen Quatsch und Umweg und dann produziert ihr noch unglaublich
+
+01:01:13.960 --> 01:01:19.080
+viele Externalitäten, die ihr dann im Nachhinein aufräumen müsst. Kann man das nicht alles schon
+
+01:01:19.080 --> 01:01:28.200
+vorher inkludieren in die Kooperation? Und das ist das, was wir gemacht haben. Also genau dieses
+
+01:01:28.200 --> 01:01:33.160
+wir können auch vorher alles inkludieren und schon in dem Prozess der Produktion und Reproduktion
+
+01:01:33.160 --> 01:01:39.320
+einbeziehen und damit auch vermeiden, dass dieses auseinanderfällt, die Trennungen auch vermeiden,
+
+01:01:39.320 --> 01:01:45.640
+das erscheint uns utopisch. Aber dabei entspricht es sozusagen eigentlich der Qualität von
+
+01:01:45.640 --> 01:01:52.120
+Gesellschaft. Die Gesellschaft, wenn man die als Kooperationszusammenhang versteht, dann ist die
+
+01:01:52.120 --> 01:01:57.600
+Gesellschaft, die sozusagen ihre Kooperation maximiert, die stabilste und ich glaube auch für
+
+01:01:57.600 --> 01:02:03.240
+die Menschen geeignetste Gesellschaft. Und das wollten wir zeigen, also wenn wir quasi die
+
+01:02:03.240 --> 01:02:11.120
+Kooperationsbremsen, Hindernisse, Hürden, Trennungen und so weiter versuchen rauszunehmen, stellt sich
+
+01:02:11.200 --> 01:02:16.800
+das raus, zeigt sich das, was wir auch erwarten. Und so war es dann auch. Und das haben wir dann
+
+01:02:16.800 --> 01:02:23.040
+mit Gruppenkulturen gemacht und da würde ich an Manuel jetzt mal übergeben. Ja, sehr gern. Also
+
+01:02:23.040 --> 01:02:30.440
+noch zum Design des Modells, diese Input Output Struktur, von der ich gesprochen habe. Das ist
+
+01:02:30.440 --> 01:02:38.840
+jetzt nicht so, dass pro Produktionsniveau da eine Gruppe ist, die das dann produziert. Nein,
+
+01:02:39.000 --> 01:02:46.280
+es ist so konzipiert, dass pro Produktionsniveau es mehrere Produktivgruppen gibt, die das erzeugen.
+
+01:02:46.280 --> 01:02:52.160
+Und die Agenten, die sind ja nach Konzept auch freiwillig in diesen Gruppen. Das heißt,
+
+01:02:52.160 --> 01:02:56.480
+die können da aus- und einsteigen, wie sie wollen. Auch das muss man alles modellieren,
+
+01:02:56.480 --> 01:03:00.560
+wie die ein- und aussteigen, warum die ein- und aussteigen. Es sind dann sehr viele Details,
+
+01:03:00.560 --> 01:03:07.280
+die man dann auch im Papier nachlesen kann, wie wir das spezifisch ausmodelliert haben. Aber das
+
+01:03:07.280 --> 01:03:14.160
+hat einen großen Effekt und das muss man sich überlegen. Und das sind so Präzisionsfragen,
+
+01:03:14.160 --> 01:03:20.880
+die man, wenn man jetzt eine Utopie konzipiert, ich meine, wer schon immer das Privileg hat,
+
+01:03:20.880 --> 01:03:25.160
+eine Utopie konzipieren zu dürfen, der sollte schlussendlich auch mal darüber nachdenken,
+
+01:03:25.160 --> 01:03:31.680
+wie, warum Personen, Agenten, wie auch immer, da bei der einen Produktivgruppe aktiv sind und
+
+01:03:31.680 --> 01:03:37.760
+nicht bei der anderen und warum die sich jetzt darum kümmern, ein Ökosystem aufrechtzuerhalten
+
+01:03:37.760 --> 01:03:43.680
+und zu reproduzieren oder andere lieber eben eine Hand reparieren oder ein Herz und der nächste ein
+
+01:03:43.680 --> 01:03:51.360
+Fahrrad reparieren sollen. Diese Fragen muss man dann umsetzen. Das ist im Modell abgebildet. Wir
+
+01:03:51.360 --> 01:03:58.320
+haben dazu viel überlegt, wie dieser Entry und Exit von Agenten in Gruppen stattfindet. Deswegen
+
+01:03:58.320 --> 01:04:05.080
+ergeben sich auch unterschiedliche Größen an Gruppen. Was dann hinzukommt, was Stefan angesprochen
+
+01:04:05.080 --> 01:04:14.480
+hat, für uns war die Fragestellung relevant. Ist das so eine commonsbasierte Gesellschaft stabil
+
+01:04:14.480 --> 01:04:21.840
+im großen und large scale? Und die Frage ist dann langweilig zu beantworten, wenn man sagt,
+
+01:04:21.840 --> 01:04:31.240
+okay, die Agenten, die sind von Start auf alle gleich, weil dann wird sich das entweder leicht
+
+01:04:31.240 --> 01:04:37.040
+stabilisieren oder nie stabilisieren. Für uns war dann als nächste Fragestellung relevant,
+
+01:04:37.040 --> 01:04:43.280
+was ist, wenn die Agenten, die ja an sich heterogene Merkmale von Beginn an haben,
+
+01:04:43.280 --> 01:04:49.040
+aber dann noch klassifiziert sind nach unterschiedlichen Kulturen oder kulturellen
+
+01:04:49.040 --> 01:04:55.880
+Gruppen. Ist auch eine Fragestellung, die übrigens in der Cultural Evolution Debate und auch
+
+01:04:55.880 --> 01:05:01.280
+natürlich in der Anthropologie und evolutionären Anthropologie eine große Rolle spielt, warum sich
+
+01:05:01.280 --> 01:05:06.440
+bestimmte Kulturen so und so entwickelt haben und andere nicht und wie Kulturen miteinander umgehen.
+
+01:05:06.440 --> 01:05:12.520
+Und wir haben jetzt hier relativ große Gruppen Kulturen skizziert. Es gibt eine ökologische
+
+01:05:12.520 --> 01:05:18.320
+Gruppe, es gibt eine traditionalistische Gruppe und eine modernistische Gruppe und eine Zufallskultur.
+
+01:05:18.320 --> 01:05:27.000
+Diese Kulturen unterscheiden sich auf Basis von vier Charakteristika, die alle Agenten haben. Sie
+
+01:05:27.000 --> 01:05:35.960
+haben alle ein Level innerhalb eines Ego-Spektrums. Die haben alle ein Level innerhalb eines Leisure
+
+01:05:35.960 --> 01:05:45.320
+Spektrums. Also Leisure im Sinne von, wie viel ist mir das wert, dass ich den Dingen nachgebe,
+
+01:05:45.320 --> 01:05:51.280
+die mich selbst am meisten interessieren sozusagen. Es ist aber nicht Ego, sondern eher in Richtung,
+
+01:05:51.280 --> 01:05:59.400
+wie viel möchte ich in Produktion sein mit in Produktivgruppen und wie viel nicht. Dann gibt
+
+01:05:59.400 --> 01:06:06.320
+es ein Öko-Level, innerhalb eines Öko-Spektrums. Wie sehr ist es mir als Agentin, als Agent wichtig,
+
+01:06:06.320 --> 01:06:13.200
+dass die ökologische Reproduktion, sprich Nachhaltigkeit, Priorität hat und dann noch
+
+01:06:13.280 --> 01:06:20.720
+eine Gegensatzparameter, nämlich die Produktivität. Und da unterscheiden sich die Kulturen. Also die
+
+01:06:20.720 --> 01:06:28.140
+ökologische Kultur hat vor allem eher ein niedrigeres Ego-Level, also sind, wenn man so
+
+01:06:28.140 --> 01:06:37.400
+will, altruistischer. Ein gemitteltes Leisure-Level, die wollen quasi halbhalb in Produktivgruppen aktiv
+
+01:06:37.400 --> 01:06:44.240
+sein, als auch in Lebensgruppen die Zeit verbringen. Da geht es natürlich auch um Zeit und wie Zeit
+
+01:06:44.240 --> 01:06:51.000
+verwendet wird, weil es gibt nun mal nur so und so viele Stunden am Tag und so und so viele Tage
+
+01:06:51.000 --> 01:06:56.520
+in der Woche. Da muss man ja schon irgendwie eine Vorstellung haben, wie man die verwenden will. Und
+
+01:06:56.520 --> 01:07:02.240
+dann das Öko-Level gegenüber ist das Produktivitäts-Level. Da ist die ökologische Kultur ein niedriges
+
+01:07:02.240 --> 01:07:09.320
+Ego-Level, ein mittleres Leisure-Level, ein hohes Eko-Level, also Nachhaltigkeits-Priorität und
+
+01:07:09.320 --> 01:07:14.920
+ein niedrigeres Produktivitäts-Level. Das heißt, da ist die Produktivität, wie viel Output am Ende
+
+01:07:14.920 --> 01:07:20.840
+des Tages produziert wird, nicht so gewichtet wie zum Beispiel die Nachhaltigkeit. Bei den
+
+01:07:20.840 --> 01:07:26.120
+Traditionalisten ist das gespiegelt, da brauche ich jetzt nicht näher drauf eingehen. Dann gibt es eben
+
+01:07:26.120 --> 01:07:34.160
+diese modernistische Kultur, die ist so eine Mischung, wo auch eher altruistischer, aber der
+
+01:07:34.160 --> 01:07:43.040
+Gegensatz zur Ökokultur ist quasi, dass die Produktivität dann höhere Priorität hat. Die
+
+01:07:43.040 --> 01:07:48.920
+Zufallskultur, das wird gewürfelt und das sind all jene dann drinnen, die halt nicht in diesen
+
+01:07:48.920 --> 01:07:55.640
+Spektren vorhanden sind. Auf welcher Basis können wir solche Kulturen überhaupt annehmen? Wir
+
+01:07:55.640 --> 01:08:00.840
+diskutieren eine zukünftige Gesellschaft in einer fernen Zukunft. Dafür gibt es keine empirischen
+
+01:08:00.840 --> 01:08:05.200
+Werte, da können wir auch keine empirische Validierung durchführen, weil wir kennen keine
+
+01:08:05.200 --> 01:08:13.880
+Leute aus der Zukunft, also ich zumindest nicht. Und deswegen haben wir sozial-soziologische Studien
+
+01:08:13.880 --> 01:08:22.920
+herangezogen von einem Kollegen aus Deutschland, Dennis Ebersberg, der hat untersucht, inwiefern es
+
+01:08:23.000 --> 01:08:32.320
+Mentalitäten gibt, sozial-ökologische Mentalitäten in Deutschland und das ist empirisch erhoben. Ich
+
+01:08:32.320 --> 01:08:36.400
+möchte jetzt nicht auf die Methoden eingehen und auf die Theorie dahinter, das kann man alles im
+
+01:08:36.400 --> 01:08:41.480
+Detail nachlesen, das Papier ist bei uns referenziert und wir haben das quasi als Ausgangspunkt für
+
+01:08:41.480 --> 01:08:47.200
+diese Kulturen verwendet. Da mich eben diese Frage der Evolution von Kulturen im Zusammenhang mit
+
+01:08:47.200 --> 01:08:51.360
+politischer Ökonomie und Gesellschaftsentwicklung langfristiger auch immer interessiert hat,
+
+01:08:51.360 --> 01:08:56.080
+habe ich das als interessanten Aspekt gefunden, mit dem wir dieses Modell hinzufügen können,
+
+01:08:56.080 --> 01:09:04.120
+weil es ja darum geht, welche Mechanismen braucht man, dass diese unterschiedlichen Kulturen sich
+
+01:09:04.120 --> 01:09:10.960
+gegenseitig auch Dinge zur Verfügung stellen und warum sollten sie anderen Kulturen Dinge zur
+
+01:09:10.960 --> 01:09:16.840
+Verfügung stellen. Bei den Traditionalisten ist es zum Beispiel so, die haben jetzt nicht so ein
+
+01:09:16.840 --> 01:09:22.000
+Interesse daran, als anderen Gruppen zur Verfügung stellen, sondern referieren die Bereitstellung zu
+
+01:09:22.000 --> 01:09:28.000
+Gruppen ähnlicher Kultur. Wenn es jetzt aber, wenn man absieht von allen institutionellen Mechanismen,
+
+01:09:28.000 --> 01:09:36.640
+die diese Kooperation zwischen den Gruppen und innerhalb der Gruppen, weil man könnte ja quasi
+
+01:09:36.640 --> 01:09:43.280
+jetzt einen Querschnitt in der Produktionskette haben, der rein nach Kultur A funktioniert,
+
+01:09:43.280 --> 01:09:51.240
+dann hat man von der Kultur in jedem Produktionsschritt und in der Versorgung und
+
+01:09:51.240 --> 01:09:59.000
+Pflege diese Kultur A. Das ist natürlich instabil. Also wenn die Kulturen jetzt nicht
+
+01:09:59.000 --> 01:10:03.920
+sich gegenseitig Mittel zur Verfügung stellen und sie darauf angewiesen sind,
+
+01:10:03.920 --> 01:10:10.320
+dass andere Produktivgruppen, die in anderen Produktionsniveaus produzieren,
+
+01:10:10.320 --> 01:10:17.440
+dass sie von denen die Mittel bekommen, dann ist das fragil. Und die Frage ist,
+
+01:10:17.440 --> 01:10:22.960
+welche institutionellen Mechanismen braucht man dann oder braucht man eben nicht, dass
+
+01:10:22.960 --> 01:10:28.920
+sich das trotzdem stabilisiert. Und das wollten wir dann untersuchen. Ein Mechanismus, den man
+
+01:10:28.920 --> 01:10:35.800
+auch aus der Cultural Evolution Theory immer besprochen hat, ist halt die Frage der direkten
+
+01:10:35.800 --> 01:10:42.800
+und indirekten Reziprozität zum Beispiel. Oder die Frage, die wir dann, also ein Mechanismus,
+
+01:10:42.800 --> 01:10:50.120
+den wir als institutionelle Allokation hinzugenommen haben, ist, dass es Lagerstätten gibt,
+
+01:10:50.120 --> 01:10:57.920
+Inventories, die kulturübergreifend sind. Quasi pro Produktionsniveau gibt es dann Lagerstätten,
+
+01:10:57.920 --> 01:11:03.440
+oder ich glaube, haben wir jetzt dann schlussendlich über die Produktionsniveaus hinweg. Aber es gibt
+
+01:11:03.440 --> 01:11:08.120
+allgemeine Lagerstätten, worauf die unterschiedlichen Kulturen dann zugreifen können,
+
+01:11:08.120 --> 01:11:15.400
+falls es Versorgungsengpässe gibt. Das ist ja immer quasi zur Abfederung des Produktionsprozesses.
+
+01:11:15.400 --> 01:11:22.360
+Wenn ein bestimmter Produktionslevel die Mittel nicht mehr erzeugen kann, die für andere Levels
+
+01:11:22.360 --> 01:11:28.960
+notwendig sind, eine bestimmte Maschine oder bestimmte Zwischenmittel, dann kann die ganze
+
+01:11:28.960 --> 01:11:35.520
+Produktion ja erliegen. Und das ist eben der Spannende in komplexen adaptiven Systemen. Das
+
+01:11:35.520 --> 01:11:41.080
+kann ein bestimmter Moment sein. Und dann braucht es eben ein Konzept in so einer Gesellschaft,
+
+01:11:41.080 --> 01:11:47.000
+wie mit so einem Moment umgegangen wird. Und in den Gesellschaften haben sich halt institutionelle
+
+01:11:47.000 --> 01:11:54.040
+Mechanismen entwickelt, die das dann stabilisieren. Da haben wir bestimmte untersucht. Das war der
+
+01:11:54.040 --> 01:12:01.000
+Anreiz dazu, wie exklusive Verteilung, inklusive Verteilung und kulturabhängige Verteilung
+
+01:12:01.000 --> 01:12:10.040
+schlussendlich einen Effekt hat auf die Versorgung aller in diesem System und auf den generellen
+
+01:12:10.040 --> 01:12:16.040
+Systemzustand dieser künstlichen Gesellschaft. Ja, auch dort konnte man dann sehen, dass die
+
+01:12:16.040 --> 01:12:22.520
+Kulturen, die eher sozusagen an Mitglieder ihrer eigenen Kultur denken und mit denen kooperieren,
+
+01:12:22.600 --> 01:12:27.560
+aber mit anderen weniger, also die eher eine, ich sag jetzt mal, eine boniertere Sicht haben,
+
+01:12:27.560 --> 01:12:34.120
+dass die auch die größeren Probleme kriegen, während die großzügigeren Kulturen, die in
+
+01:12:34.120 --> 01:12:38.240
+Anführungsstrichen altruistisch orientiert sind, die also nichts dagegen haben, dass sie auch andere
+
+01:12:38.240 --> 01:12:43.920
+mitversorgen, dass die also stärker auf Kooperation ausgerichtet sind, dass die weniger Probleme
+
+01:12:43.920 --> 01:12:51.320
+bekamen. Also auch hier der Effekt sozusagen mehr Kooperation sorgt für größere Stabilität. Aber
+
+01:12:51.320 --> 01:12:55.480
+das kann man natürlich nicht voraussetzen in der Gesellschaft und deswegen die Frage, was kann
+
+01:12:55.480 --> 01:13:01.480
+man denn trotzdem tun, um bestimmte Stabilität zusätzlich sicherzustellen, denn wir wollen eben
+
+01:13:01.480 --> 01:13:06.760
+gerade nicht mit der Annahme in den Kommunismus sozusagen gehen, alle Menschen sind Altruisten
+
+01:13:06.760 --> 01:13:12.320
+und denken immer nur an die anderen, sondern die Regel wird eher sein, ich denke mal erst mal nur
+
+01:13:12.320 --> 01:13:18.200
+an mich und meine Nächsten und an denen orientiere ich mich, auch von denen lerne ich und dann müssen
+
+01:13:18.280 --> 01:13:24.280
+wir auch mit dieser Heterogenität die Probleme machen kann umgehen und das war eben eine der
+
+01:13:24.280 --> 01:13:30.040
+Fragestellungen, ob das gelingen kann und mit welchen Mitteln. Also ich habe ganz viele andere
+
+01:13:30.040 --> 01:13:34.000
+Fragen noch, aber vielleicht knüpfen wir trotzdem jetzt erst mal noch dort an. Was waren denn dann
+
+01:13:34.000 --> 01:13:42.760
+die Bedingungen, die es brauchte, damit eine solche Nahelegung funktionieren kann und dann auch ihre
+
+01:13:42.760 --> 01:13:48.880
+stabilisierende Funktion erfüllen? Also es wurden jetzt schon zwei Sachen angesprochen, einmal die
+
+01:13:48.880 --> 01:13:58.480
+indirekte Rezipozität und die Lagerstätten. Das sind quasi zwei Elemente, die jetzt innerhalb der
+
+01:13:58.480 --> 01:14:04.440
+Simulation ausgetestet worden sind, aber so ganz bringe ich es in meinem Kopf jetzt noch nicht
+
+01:14:04.440 --> 01:14:12.000
+zusammen, weil das sind ja an sich jetzt eben keine, also Lagerstätten sicher schon, aber jetzt sowas
+
+01:14:12.000 --> 01:14:19.360
+wie die indirekte Rezipozität ist ja nichts, was im Kommunismus als ein solcher Mechanismus für die
+
+01:14:19.360 --> 01:14:25.000
+Herstellung von Stabilität vorgesehen ist. Das heißt, wir befinden uns jetzt eigentlich, nur damit
+
+01:14:25.000 --> 01:14:29.000
+ich das gedanklich finde ich das so ein bisschen zusammen bekomme, korrigiert mich dann bitte gerne,
+
+01:14:29.000 --> 01:14:36.560
+wir befinden uns eigentlich in einer Testsituation, die wenn man so will auch eine
+
+01:14:36.560 --> 01:14:44.080
+Transformationsphase ist, in der eben noch viele unterschiedliche Kulturen, von denen eine
+
+01:14:44.080 --> 01:14:50.280
+kommunistisch orientierte ist, aber gleichzeitig gibt es eben auch die Traditionellisten und die,
+
+01:14:50.280 --> 01:14:55.520
+oder die traditionären Kulturen und die modernistischen und so. Es gibt diese
+
+01:14:55.520 --> 01:15:04.280
+verschiedenen Kulturen und man guckt jetzt quasi wie ein Übergang hin zu einem, wenn man so will,
+
+01:15:04.280 --> 01:15:10.440
+vollentwickelten Kommunismus, der dann auch umfassender ist, aussehen kann. Verstehe ich
+
+01:15:10.440 --> 01:15:16.000
+das richtig? Also einfach jetzt noch mal kurz um zu checken, ob ich jetzt quasi diesen Aufbau
+
+01:15:16.000 --> 01:15:24.240
+richtig verstanden habe. Also der Kommunismus ist kein Erziehungsprojekt, sondern der geht schon
+
+01:15:24.240 --> 01:15:31.480
+davon aus, dass gerade dort sich Individualität und damit Unterschiedlichkeit entfalten kann. Und
+
+01:15:31.520 --> 01:15:35.800
+er schöpft sozusagen ja auch seine Kraft aus dieser Unterschiedlichkeit und Individualität,
+
+01:15:35.800 --> 01:15:39.640
+weil Individualität bedeutet ja auch unterschiedliche Formen von Kreativität,
+
+01:15:39.640 --> 01:15:45.560
+um in kritischen Situationen dann bessere Lösungen zu finden. Also das kriegst du ja
+
+01:15:45.560 --> 01:15:49.440
+nicht in gleichförmigen Gesellschaften, sondern kriegst du eher in individuell orientierten
+
+01:15:49.440 --> 01:15:56.080
+Gesellschaften. Das heißt, das ist eine wichtige Grundannahme, die Menschen sind eher unterschiedlich
+
+01:15:56.080 --> 01:16:00.440
+und eine zweite Grundannahme, dass es jetzt auf theoretischer Ebene ist, wir werden sehr viele
+
+01:16:00.440 --> 01:16:07.200
+Konflikte haben, weil die Unterschiedlichkeit da ist. Nur die Konflikte werden jetzt aufgrund
+
+01:16:07.200 --> 01:16:12.600
+der maximalen Abwesenheit vollständig. Würde es das nie geben, aber maximalen Abwesenheit von
+
+01:16:12.600 --> 01:16:18.400
+Machtmitteln kann ich nicht einfach den Konflikt abkürzen, indem ich sage, ich diskutiere jetzt mit
+
+01:16:18.400 --> 01:16:22.800
+dir nicht, sondern ich haue dir einen über die Rübe, wenn du nicht, oder ich kaufe etwas,
+
+01:16:22.800 --> 01:16:28.640
+weil ich das Geld habe. Ja, das ist ja auch der Einsatz von Machtmitteln, Geld, um über die
+
+01:16:28.640 --> 01:16:35.080
+Arbeitskraft von anderen zu verfügen. Und wenn ich diese Mittel nicht mehr habe, dann muss ich
+
+01:16:35.080 --> 01:16:40.040
+kooperieren, um Ziele durchzusetzen. Aber ja nicht für jeden und überall in jeder Situation,
+
+01:16:40.040 --> 01:16:47.200
+sondern das muss ich auch erst mal kapieren. Das zum Beispiel indirekte Reziprozität, was ja bedeutet,
+
+01:16:47.200 --> 01:16:55.160
+ich stelle Dinge zur Verfügung und hoffe, ahne oder weiß, irgendwann kriege ich über einen anderen
+
+01:16:55.160 --> 01:17:00.080
+Weg ja auch wieder was zurück. Also das ist eine reziproke Beziehung, die ich eingehe, die ist nur
+
+01:17:00.080 --> 01:17:05.680
+nicht direkt. Also das ist nicht interpersonal, sondern es ist sozusagen eine transpersonale
+
+01:17:05.680 --> 01:17:11.640
+Zirkulation von Mitteln, die ich am Schluss aber brauche, um meine Bedürfnisse zu befriedigen. Wenn
+
+01:17:11.640 --> 01:17:16.760
+ich das mal gecheckt habe, dann ändert sich natürlich auch meine Haltung. Aber wir können
+
+01:17:16.760 --> 01:17:23.240
+es nicht zur Voraussetzung machen, sondern es muss auch mit den, sage ich mal, narrow-minded Leuten
+
+01:17:23.240 --> 01:17:27.720
+passieren, die sagen, mich interessieren die anderen erst mal nicht, ich gucke erst mal nur
+
+01:17:27.720 --> 01:17:33.760
+auf meine Leute und funktioniert das trotzdem. Inwieweit die dann irgendwann lernen, dass mehr
+
+01:17:33.760 --> 01:17:40.400
+Kooperationen sich, wenn man so will, auszahlt? Ja, würde ich auch mal von ausgehen, dass es eine
+
+01:17:40.400 --> 01:17:46.920
+Tendenz gibt, wie in jeder Gesellschaft, Strukturen einfach bestimmte Verhaltensweisen als funktional
+
+01:17:46.920 --> 01:17:52.360
+erscheinen lassen. Und im Kommunismus ist es eben die Kooperation, im Kapitalismus ist es die
+
+01:17:52.360 --> 01:17:57.720
+Konkurrenz. Also es wird schon auch einen Trend in die Richtung geben, aber zur Voraussetzung kann
+
+01:17:57.720 --> 01:18:02.000
+man es nicht erheben. Und besonders brisant wird es, und ich glaube, da wirst du noch nach Fragen
+
+01:18:02.000 --> 01:18:05.800
+ist, wenn man da eigentlich Transformation denkt. Also wir kommen ja nicht aus einer Situation,
+
+01:18:05.800 --> 01:18:11.600
+wo alle schon dieses Mindset haben, sondern wir kommen ja eher aus einer Situation, wo Leute
+
+01:18:11.600 --> 01:18:16.920
+eher das gegenteilige, konkurrenzförmige Mindset noch haben. Aber wir müssen trotzdem die
+
+01:18:16.920 --> 01:18:22.080
+Transformation auch uns vorstellen können. Ja, also ich merke, ich habe anscheinend auch die
+
+01:18:22.080 --> 01:18:27.240
+indirekte Reziprozität falsch verstanden, weil ich das jetzt, als ich das im entweder Narrative oder
+
+01:18:27.240 --> 01:18:32.280
+in dem Paper gelesen hatte, so verstanden hatte, als ob es nicht, wie du jetzt gerade gesagt hast,
+
+01:18:32.280 --> 01:18:37.600
+bedeuten würde, dass ich davon ausgehe, dass wahrscheinlich, aber vielleicht auch nicht,
+
+01:18:37.600 --> 01:18:41.600
+sozusagen, wenn ich jetzt was gebe, ich auch irgendwann mal was zurückbekomme, sondern ich
+
+01:18:41.600 --> 01:18:47.760
+hatte es eigentlich so verstanden, dass das eine Bedingung ist, dass es eigentlich dann auf
+
+01:18:47.760 --> 01:18:51.680
+eine Art Pausch darstellt, aber das meintest du ja jetzt eigentlich nicht, dann hatte ich das
+
+01:18:51.680 --> 01:18:55.720
+glaube ich einfach falsch verstanden. Ich hätte gedacht, dass es quasi ist, ich gebe nur etwas,
+
+01:18:55.720 --> 01:19:01.000
+wenn ich auch zwingend weiß, dass etwas zurückkommt, dann ist das eigentlich genau was anderes. Okay,
+
+01:19:01.000 --> 01:19:07.080
+bevor wir weitergehen, ich mag aber trotzdem noch kurz darauf eingehen, weil das glaube ich schon
+
+01:19:07.080 --> 01:19:12.480
+was ist, was man natürlich unmittelbar denkt. Wenn Stefan du jetzt sagst, wir haben herausgefunden,
+
+01:19:12.480 --> 01:19:18.520
+was wir erwartet haben herauszufinden, dass natürlich wahrscheinlich viele ZuhörerInnen,
+
+01:19:18.520 --> 01:19:24.920
+ich eingeschlossen als Moderator, natürlich sofort denke so, aha naja gut, dann haben die
+
+01:19:24.920 --> 01:19:31.200
+halt das Modell so getweekt, damit das herauskommt, was sie wollten, dass herauskommt. Das heißt,
+
+01:19:31.200 --> 01:19:37.280
+die sofort sich anschließende Frage wäre, also welche Annahmen habt ihr mit einbauen müssen,
+
+01:19:37.280 --> 01:19:44.640
+damit das so rauskommt, wie ihr euch gedacht habt, dass es rauskommt. Was waren sozusagen
+
+01:19:44.640 --> 01:19:49.960
+die ersten Schritte, weil das wird ja ein sich herantasten gewesen sein und das wird nicht sofort
+
+01:19:49.960 --> 01:19:55.800
+alles so aufgegangen sein, wie ihr euch das gedacht hattet. Was waren denn die Dinge auf,
+
+01:19:55.800 --> 01:20:01.000
+die ihr dann gestoßen seid, wo es dann eben wahrscheinlich mutmaßlich eben nicht geklappt
+
+01:20:01.000 --> 01:20:08.480
+hat und was wurde wie verändert, damit es dann geklappt hat, in Anführungsstrichen. Weil das ist
+
+01:20:08.480 --> 01:20:14.840
+ja ein total interessanter Prozess dann eigentlich. Das kann ich im Detail gar nicht sagen, weil das
+
+01:20:14.840 --> 01:20:22.280
+ist eine Frage der Implementierung und das immer wieder laufen lassen und feststellen,
+
+01:20:22.280 --> 01:20:26.920
+das läuft aus dem Ruder und da müssen wir noch was verbessern. Ja, ich kann dazu schon mal sagen,
+
+01:20:26.920 --> 01:20:36.640
+also die Sache der Inventarist zum Beispiel. Also es ist auch generell so in der heterodoxen
+
+01:20:36.640 --> 01:20:40.360
+Ökonomie, es kommt halt sehr stark auch aus dem Post-Kinzernismus und aus dem Institutionalismus,
+
+01:20:40.360 --> 01:20:48.360
+dass die Lager eine große Rolle spielen für den Koordinationsprozess. Jetzt unabhängig,
+
+01:20:48.360 --> 01:20:54.960
+ob das eine Marktgesellschaft ist oder eine kommonsbasierte Gesellschaft. Also Produktionseinheiten,
+
+01:20:54.960 --> 01:21:03.040
+die Gesamtkoordination ist sehr stark abhängig von diesen Lagergrößen und wie viel man auf Lager
+
+01:21:03.040 --> 01:21:08.960
+produziert. Weil es natürlich individuell für die Gruppe, ja auch aus reproduktions-, aus
+
+01:21:08.960 --> 01:21:14.920
+ökologischer Reproduktionslogik, darf es ja nicht sein, dass ich da jetzt Massen auf Lager
+
+01:21:14.920 --> 01:21:20.560
+produziere, weil dann habe ich natürlich einen enormen Waste. Das will ich ja auch nicht. Und das
+
+01:21:20.560 --> 01:21:28.760
+sind halt so Dinge, wie groß diese Lager sein sollen und ob es eben Lager gibt, auf die mehrere
+
+01:21:28.760 --> 01:21:34.200
+zugreifen können, die wir jetzt bei einem simulieren, erlernt haben, wie das in dieser
+
+01:21:34.200 --> 01:21:40.360
+günstlichen Gesellschaft schlussendlich zum Tragen kommt. Und da haben wir natürlich, da geht es dann
+
+01:21:40.360 --> 01:21:46.960
+ums Test. Das ist der Spannende an einer Simulation. Man macht diese Experimente. Ab Schluss von einer
+
+01:21:46.960 --> 01:21:55.160
+Simulation muss man natürlich Monte-Carlo-Simulationen machen, den Random Factor, damit man den die
+
+01:21:55.160 --> 01:22:01.120
+Stochastizität des Modells der Simulation schlussendlich eingreifen kann in irgendeiner
+
+01:22:01.120 --> 01:22:06.680
+Art und Weise. Das heißt, wenn ich jetzt so eine Simulation durchlaufen lasse, einmal, dann kann ich
+
+01:22:06.680 --> 01:22:14.480
+aus dieser einmaligen Abwicklung des Prozesses ja nicht viel lernen. Beim Programmieren selber und
+
+01:22:14.480 --> 01:22:20.160
+in der Entwicklung bin ich natürlich immer nur in einem singulären Durchlauf und teste mich da
+
+01:22:20.160 --> 01:22:26.000
+heran, wie zum Beispiel diese Lagergrößen zum Beispiel oder inwiefern der Einstieg in
+
+01:22:26.000 --> 01:22:30.080
+Produktivgruppen und der Ausstieg in Produktivgruppen oder der Einstieg in Pflegegruppen oder der
+
+01:22:30.080 --> 01:22:34.400
+Ausstieg in Pflegegruppen, wie der reguliert ist, inwiefern auch das soziale Lernen eine Rolle
+
+01:22:34.400 --> 01:22:40.720
+spielt. All das sind Dinge, die man im Vorhinein nicht weiß und da einfach nicht reinstecken kann.
+
+01:22:40.720 --> 01:22:49.520
+Und dann am Ende ist das herausgekommen, was wir angenommen haben. Das stimmt natürlich im Großen
+
+01:22:49.520 --> 01:22:56.080
+eventuell, aber in der ganzen Komplexität haben wir hier enorm viel dazugelernt. Wie kann man das
+
+01:22:56.080 --> 01:23:01.680
+abbilden? Was ist das soziale Lernverhalten? Wie müssen diese Größen ausschauen? Und das lernt
+
+01:23:01.680 --> 01:23:09.120
+man, finde ich, das ist eben das didaktische Element an Computer-Simulation, dass man da
+
+01:23:09.120 --> 01:23:17.640
+halt Experimente machen kann mit Gesellschaften, die halt empirisch nicht möglich sind oder auch
+
+01:23:17.640 --> 01:23:21.800
+wirtschaftspolitisch. Ich kann jetzt nicht hergehen und sagen, probiere mal aus, eine Million Menschen
+
+01:23:21.800 --> 01:23:27.600
+oder 100.000 Menschen, kann man es ökonomieren. Es wird schwierig umzusetzen sein. Das heißt,
+
+01:23:27.680 --> 01:23:32.720
+in irgendeiner Art und Weise muss ich mich dorthin annähern und die Simulation, die
+
+01:23:32.720 --> 01:23:40.480
+Computersimulation erlaubt das Erstellen solcher Räume, wo ich dann eben lernen kann, wie entscheidend
+
+01:23:40.480 --> 01:23:46.800
+sind diese Lagergrößen und reicht es aus, wenn die ein individuelles Lager haben, auf das diese eine
+
+01:23:46.800 --> 01:23:53.360
+eine Produktivgruppe zugreifen kann oder wie wichtig ist es, dass diese Produktivgruppen über die
+
+01:23:53.360 --> 01:24:00.600
+Kulturen hinaus auf gemeinsame Lager zugreifen können? Das stabilisiert enorm. Und wie groß ist
+
+01:24:00.600 --> 01:24:05.840
+die Rolle vom sozialen Lernen? Wenn sich jetzt alle nur an den Mittelwert eines sozialen Netzwerkes,
+
+01:24:05.840 --> 01:24:11.600
+sind ja auch alles unterschiedliche soziale Netzwerke, orientieren, dann ist es ein anderer
+
+01:24:11.600 --> 01:24:18.480
+Lernprozess, als wenn der vielfältiger ausgestaltet ist. Und das bekommt man damit. Das ist die
+
+01:24:18.480 --> 01:24:24.360
+Komplexität. Das ist sehr didaktisch, weil man natürlich lernt, wo sind die Stehschrauben,
+
+01:24:24.360 --> 01:24:30.880
+wie man sich da annähert. Aber das sind Details. Und das kann ich schlussendlich dann nur herausfinden
+
+01:24:30.880 --> 01:24:38.880
+mit Monte Carlo Simulationen. Das heißt, ich muss ein Parameter-Setting, das ich definiere,
+
+01:24:38.880 --> 01:24:45.960
+die und die Parameter möchte ich testen. Was kommt da bei den Variablen für unterschiedliche
+
+01:24:45.960 --> 01:24:55.560
+Verläufe heraus? Wenn ich das testen will, dann muss ich eine einzige Simulation mindestens 20,
+
+01:24:55.560 --> 01:25:03.280
+30 mal, besser 50 bis 100 mal wiederholen. Dann muss ich diese Würfel einfach 50, 100 mal werfen,
+
+01:25:03.280 --> 01:25:09.920
+damit ich herausfinde, was im Mittel da für eine Verteilung rauskommt. Weil sonst habe ich nur ein
+
+01:25:09.920 --> 01:25:18.520
+singuläres Ergebnis, einen Schnappschuss des Modells, der ein kompletter Ausreiter sein kann.
+
+01:25:18.520 --> 01:25:23.880
+Ein Verlauf, der nicht repräsentativ ist. Und natürlich muss ich das für so eine Computer-
+
+01:25:23.880 --> 01:25:28.040
+Simulation machen, weil sonst kann ich gar keine Aussagen treffen. Deswegen wird man bei uns im
+
+01:25:28.040 --> 01:25:34.840
+Paper, in der Results-Section von den Simulationsexperten, findet man Zeitreihen
+
+01:25:34.840 --> 01:25:42.400
+vom Variablen, die, wie man jetzt sicher durchschnitt oder median, enthalten über,
+
+01:25:42.400 --> 01:25:48.760
+sage ich jetzt mal, 50 Wiederholungen für genau, oder 100 haben wir gemacht, für genau dieses eine
+
+01:25:48.760 --> 01:25:57.640
+Parameter-Setting. Und dann schaue ich mir an, als Wissenschaftler, wie ist die Verteilung über
+
+01:25:57.640 --> 01:26:03.400
+diese Wiederholungen? Das heißt, wie groß ist das Zufallselement? Wenn diese Verteilung enorm ist,
+
+01:26:03.400 --> 01:26:10.560
+dann ist das Modell und die dazugehörige Simulation sehr chaotisch. Das heißt,
+
+01:26:10.560 --> 01:26:17.000
+würde dann überhaupt sehr abhängig sein, einfach nur vom Zufallselement. Wenn dieser Raum, diese
+
+01:26:17.000 --> 01:26:26.040
+Bandbreite an Ergebnissen enger ist, dann bewegt sich das Modell auf einen geordneten Fahrrad.
+
+01:26:26.040 --> 01:26:33.240
+Bei komplexen adaptiven Systemen ist man natürlich daran interessiert, genau an Systeme
+
+01:26:33.240 --> 01:26:38.840
+Entwicklungen, die dazwischen liegen, die weder chaotisch noch vollkommen geordnet sind. Und das
+
+01:26:38.840 --> 01:26:44.080
+überprüfen wir mit Wiederholung an Simulationsexperimenten. Dadurch können wir dann
+
+01:26:44.080 --> 01:26:50.120
+erst Schlüsse ziehen über das generelle Systemverhalten. Da sind wir dann natürlich weit
+
+01:26:50.120 --> 01:26:56.200
+vom einzelnen Agenten weg, sondern versuchen dann am Schluss natürlich schon eine Makroperspektive
+
+01:26:56.200 --> 01:27:01.200
+daraus zu gewinnen, mit welchen Parameter-Veränderungen es zu unterschiedlichen
+
+01:27:01.280 --> 01:27:08.800
+Zeiträumen verläuft. Und so kann man das dann auch wissenschaftlich abschließen. Sonst hat man ja
+
+01:27:08.800 --> 01:27:15.680
+nur Momentaufnahmen. Ich hätte mal noch zwei Nachfragen, bevor wir weiter gehen zu den
+
+01:27:15.680 --> 01:27:20.800
+emergenten Strukturen, die mich auch sehr interessieren, wegen den Lagerstätten. Das wird
+
+01:27:20.800 --> 01:27:27.400
+dann aber einfach gesetzt oder wird auch ein Prozess modelliert, der verhandelt, unter welchen
+
+01:27:27.400 --> 01:27:32.480
+Bedingungen die Agentinnen und Agenten bereit sind, solche Lagerstätten herzustellen.
+
+01:27:32.480 --> 01:27:39.320
+Na, das könnte man schon machen, aber wir haben da Vereinfachungen. Also das wird gesetzt.
+
+01:27:39.320 --> 01:27:40.320
+Wird einfach gesetzt.
+
+01:27:40.320 --> 01:27:41.320
+Die Lagergröße, ja.
+
+01:27:41.320 --> 01:27:48.000
+Und ähnliche Richtung von der Frage her. Woher kommen die Eigenschaften der Kulturen und in
+
+01:27:48.000 --> 01:27:55.560
+wiefern gibt es da wechselseitige Wirkprozesse, wenn man so will? Weil jetzt zum Beispiel bei der
+
+01:27:55.600 --> 01:28:04.160
+ökologisch orientierten Kultur, es ist ja unmittelbar mit der, also mit infrastrukturellen Fragen zum
+
+01:28:04.160 --> 01:28:09.080
+Beispiel verbunden, ob ich es mir leisten kann, jetzt mal so ganz banal gesprochen,
+
+01:28:09.080 --> 01:28:16.080
+ökologisch zu denken. Also Leute, die, was weiß ich, in einem permanenten Prekariat verhaftet sind
+
+01:28:16.080 --> 01:28:22.480
+und in jetzt heutigen Gesellschaften gesprochen quasi keine großartigen monetären Mittel zur
+
+01:28:22.520 --> 01:28:28.560
+Verfügung haben, denen wird es natürlich viel schwieriger fallen, ökologische Aspekte mit
+
+01:28:28.560 --> 01:28:34.480
+einzubeziehen in ihre alltägliche Praxis, was einfach faktisch teurer ist zum Teil. Also da
+
+01:28:34.480 --> 01:28:40.120
+müsste es ja eigentlich irgendwie ein Wechselspiel geben, weil man nicht einfach, sonst würde man ja
+
+01:28:40.120 --> 01:28:45.280
+eigentlich auf eine Art diesen Fehler begehen, dass man das sowieso individualisiert. Also wie
+
+01:28:45.280 --> 01:28:51.320
+wenn jetzt beim CO2-Abdruck die Leute so tun, als wäre dann die einzelne Person individuell
+
+01:28:51.480 --> 01:28:57.760
+schuld an diesem und jenen CO2-Fußabdruck und dabei ausgeblendet wird, dass das natürlich einen
+
+01:28:57.760 --> 01:29:03.200
+ganzen Kontext ausblendet und infrastrukturelle Bedingtheit ausblendet, die dazu beigetragen hat,
+
+01:29:03.200 --> 01:29:08.600
+dass dieser spezifische Fußabdruck zustande gekommen ist und so weiter. Bei der ökologischen Frage,
+
+01:29:08.600 --> 01:29:15.800
+da sind wir gerade auch an einer Erweiterung des Modells, weil was im Modell noch nicht abgebildet
+
+01:29:15.800 --> 01:29:21.800
+in dem Modell, was in der Publikation, von der wir da die ganze Zeit sprechen, ist die Feedback Loop
+
+01:29:21.800 --> 01:29:28.360
+nicht vollständig abgebildet. Das heißt, was heißt das? Es wird CO2 emittiert von allen
+
+01:29:28.360 --> 01:29:41.520
+Produktiv-Einheiten und das wird gemessen und es wird darauf auch geantwortet mit der Ökosystemförderung,
+
+01:29:42.000 --> 01:29:48.800
+mit den Bilden von Sinks. Aber was nicht drinnen ist, ist schlussendlich für die Frage des
+
+01:29:48.800 --> 01:29:54.640
+Klimawandels und der globalen Erwärmung der Feedback von den CO2-Emissionen auf den
+
+01:29:54.640 --> 01:30:01.200
+Durchschnittlichen Temperaturanstieg und vom Durchschnittlichen Temperaturanstieg der Feedback
+
+01:30:01.200 --> 01:30:07.480
+auf die Extremwetterereignisse. Das heißt, da spricht man dann im standardökonomischen Sinn,
+
+01:30:07.480 --> 01:30:14.080
+aber auch Heterodox von Integrated Assessment Models sprechen. Das sind jene Modelle,
+
+01:30:14.080 --> 01:30:19.400
+die halt auch der Weltklimarat verwendet. Integrated Assessment insofern, weil die
+
+01:30:19.400 --> 01:30:24.560
+Produktion einen Einfluss hat auf die CO2-Emission, die CO2-Emission Einfluss hat auf die
+
+01:30:24.560 --> 01:30:27.680
+durchschnittlichen Temperaturanstieg, der durchschnittliche Temperaturanstieg, wird
+
+01:30:27.680 --> 01:30:34.960
+dann modelliert in einer Klimabox und erzeugt Wetterereignisse. Das Spannende wäre dann eben
+
+01:30:34.960 --> 01:30:41.360
+auch bei uns im Modell, dort wollen wir dann hin. Das ist schon, im Grunde haben wir das schon
+
+01:30:41.360 --> 01:30:48.880
+ausprogrammiert, dass eben solche Wetterereignisse dann Schaden verursachen. Das kann Struktur
+
+01:30:48.880 --> 01:30:56.040
+betreffen und würde dazu führen, dass es zu Ausfällen kommen kann. Zum Beispiel in der
+
+01:30:56.040 --> 01:31:03.280
+transpersonalen Pflege, wenn da jetzt Krankenhäuser getroffen sind oder Schulen oder Kindergärten,
+
+01:31:03.280 --> 01:31:12.000
+dann wird das einen Effekt haben. Zum Beispiel, wenn Menschen dann mehr Care-Bedürfnisse haben
+
+01:31:12.000 --> 01:31:17.440
+als vorher. Oder es werden Produktionsstätten getroffen, dann hat man dort einen Ausfall an
+
+01:31:17.440 --> 01:31:24.840
+Maschinen und die müssen wieder nachgebaut werden etc. Und diese Feedback Loop, die ist es wichtig,
+
+01:31:24.840 --> 01:31:31.560
+da noch abzubilden, dass man auf die ökologische Frage und unter Anführungszeichen, was du meinst,
+
+01:31:31.560 --> 01:31:37.280
+die Kosten der Nachhaltigkeit, die sozialen Kosten der Nachhaltigkeit, sprichst du ja an,
+
+01:31:37.280 --> 01:31:43.760
+wenn ich das richtig verstanden habe, muss man das wieder einbeziehen. Da sind wir jetzt noch nicht
+
+01:31:43.760 --> 01:31:49.840
+voll dort, weil die Feedback Loop nicht geschlossen war. Also was wir integrieren wollen, sind zwei
+
+01:31:49.840 --> 01:31:58.560
+Aspekte. Einerseits den globalen Effekt eben, dass die CO2-Emissionen zu erhöhten Wetterereignissen
+
+01:31:58.560 --> 01:32:04.040
+Katastrophen führt, die dann Schaden verursachen. Das ist bei agentenpassierten Simulationen schön
+
+01:32:04.040 --> 01:32:09.360
+darzustellen, weil der Schaden ja nicht unbedingt immer gleich auftreten muss. Man weiß ja nicht,
+
+01:32:09.360 --> 01:32:16.160
+wo der Wirbelsturm schlussendlich durchzieht oder welcher Fluss am Ende des Tages bei Starkregen
+
+01:32:16.160 --> 01:32:23.720
+überflutet. Genau das macht ja die reale Situation auch so schwierig für viele Menschen,
+
+01:32:23.720 --> 01:32:29.160
+diesen Abstraktionsschritt zu machen, dass meine Emissionen und die Emissionen einer
+
+01:32:29.160 --> 01:32:37.760
+Großkonzern ökonomischen Struktur der fossilen Industrie Schaden erzeugen an anderen Orten der
+
+01:32:37.760 --> 01:32:46.120
+Welt. Dass das ein vernetztes System ist, ist ja eine entscheidende Reflexion, wo ja die Menschheit
+
+01:32:46.120 --> 01:32:51.880
+ja noch lange nicht angekommen ist. Das ist aber wichtig. Der zweite Aspekt ist der lokale,
+
+01:32:51.880 --> 01:32:57.880
+dass bei Produktion irgendeine Art von lokaler, regionaler Verschmutzung eintreten wird,
+
+01:32:57.880 --> 01:33:04.760
+ist auch klar, weil man ja mit Baustoffen irgendwie arbeiten muss, die an Schaden auf
+
+01:33:04.760 --> 01:33:11.200
+die Umwelt verursachen wird. Und das kann natürlich zu Gesundheitsproblemen führen bei
+
+01:33:11.200 --> 01:33:18.200
+den Menschen oder Agenten dann im System, die dann dort wohnen oder arbeiten. Das heißt,
+
+01:33:18.280 --> 01:33:23.680
+diese zwei Aspekte, glaube ich, muss man da im Modell integrieren, um dann schlussendlich zu
+
+01:33:23.680 --> 01:33:29.200
+beantworten, wie geht sich das gesellschaftlich aus, wie können wir das gesellschaftlich
+
+01:33:29.200 --> 01:33:34.880
+stabilisieren, dass Einzelne getroffen werden, aber dafür gesorgt wird, dass die Reproduktion
+
+01:33:34.880 --> 01:33:39.120
+nicht unterbrochen wird. Ein bisschen war es, glaube ich, ein Missverständnis, weil ich meinte,
+
+01:33:39.120 --> 01:33:44.080
+eigentlich was anderes, aber wir brauchen das gar nicht unbedingt jetzt nochmal durchgehen,
+
+01:33:44.080 --> 01:33:48.200
+weil ich glaube, ich kann es in die nächste Frage mit hineinpacken, weil also was mich ja
+
+01:33:48.200 --> 01:33:53.600
+eigentlich interessiert hätte oder was ich sagen wollte, war, dass die, ihr hattet diese
+
+01:33:53.600 --> 01:33:58.400
+verschiedenen Kulturen gesetzt und dass die Eigenschaften dieser Kulturen, die entstehen
+
+01:33:58.400 --> 01:34:02.440
+ja nicht im luftleeren Raum. Das war so ein bisschen der Punkt, beziehungsweise die Eigenschaften der
+
+01:34:02.440 --> 01:34:08.240
+Agentinnen innerhalb dieser Kulturen entstehen nicht im luftleeren Raum. Also dass ich in der
+
+01:34:08.240 --> 01:34:14.240
+Art und Weise, wie ich mich auf andere und meine Umwelt beziehe, eine ökologische Perspektive
+
+01:34:14.240 --> 01:34:19.880
+einnehmen kann, sage ich jetzt mal bewusster ein bisschen polemisch, ist auch bis zu einem
+
+01:34:19.880 --> 01:34:25.760
+gewissen Grad, nicht vollständig, aber bis zu einem gewissen Grad, ein Luxus oder für manche
+
+01:34:25.760 --> 01:34:30.720
+ist es ein Luxus, die sich eben, weil für sie, sagen die Infrastruktur, das infrastrukturell
+
+01:34:30.720 --> 01:34:36.240
+nicht gegeben ist, dass sie die Ressourcen haben, um das quasi vollumfassend tun zu können, weil
+
+01:34:36.240 --> 01:34:40.680
+es, ja genau, weil es halt zum Teil was kostet sozusagen. Aber das ist einfach nochmal ein
+
+01:34:40.680 --> 01:34:46.680
+bisschen anderer Aspekt, glaube ich. Ich versuche das mal hineinzuweben in die nächste Frage,
+
+01:34:46.680 --> 01:34:53.320
+weil ich würde gerne auf jeden Fall noch darauf eingehen, inwiefern das agent-based modeling in
+
+01:34:53.320 --> 01:35:00.200
+der Lage ist, eine Grundannahme des Kommunismus, nämlich die Grundannahme emergenter Strukturen,
+
+01:35:00.200 --> 01:35:06.680
+nämlich tragfähige Strukturen zu bestätigen oder zu widerlegen. Also ich habe mich gefragt,
+
+01:35:06.680 --> 01:35:13.520
+ob ihr wohl ja so eine Transformationsphase, wenn man so will, auch modelliert habt, in der
+
+01:35:13.520 --> 01:35:21.800
+einmal durchgespielt worden ist, ob und wenn ja wie sich ein Kommunismus denn herausentwickeln kann,
+
+01:35:21.800 --> 01:35:29.440
+hin zu einer tragfähigen Struktur und welche Eigenschaften und welche ja eben vielleicht auch
+
+01:35:29.440 --> 01:35:37.680
+institutionellen Parameter es braucht, um diese Nahelegung der Kooperation, die im Kommunismus
+
+01:35:37.680 --> 01:35:43.960
+ja angenommen wird, sozusagen vollumfassend auch Wirklichkeit werden zu lassen. Also vielleicht
+
+01:35:43.960 --> 01:35:48.360
+auch nochmal zu der ersten Frage, die du wiederholt hast. Im Kommunismus gibt es ja kein Geld. Das
+
+01:35:48.360 --> 01:35:53.860
+heißt, erstmal gibt es sowas wie universal basic services für alle. Das heißt, alle haben
+
+01:35:53.860 --> 01:35:59.620
+erstmal bei aller Unterschiedlichkeit den gleichen Luxus auf dem jeweiligen
+
+01:35:59.620 --> 01:36:04.980
+gesellschaftlichen Niveau, sich ökologisch zu verhalten. Dennoch wollen wir das nicht
+
+01:36:04.980 --> 01:36:11.060
+voraussetzen. Und natürlich gibt es da Learnings und so weiter. Und wenn du mich fragst, würde ich
+
+01:36:11.060 --> 01:36:15.780
+denken, wenn wir diesen Luxus haben, eben zum Beispiel existenziell abgesichert zu sein,
+
+01:36:15.780 --> 01:36:20.620
+also auch dieses Gefühl zu entwickeln, ich bin erstmal grundsätzlich sicher, dann kann ich mich
+
+01:36:20.620 --> 01:36:27.100
+auf, sag mal, anderen Dingen zuwenden. Wie geht es uns allgemein global auf dieser Welt und was
+
+01:36:27.100 --> 01:36:35.380
+brauchen wir insgesamt langfristig, damit es uns allen gut geht, damit auch mir. Diese Haltung,
+
+01:36:35.380 --> 01:36:41.620
+denke ich, wird sich ausbilden, aber wir wollen sie eben nicht voraussetzen. Aber ich glaube,
+
+01:36:41.620 --> 01:36:48.220
+die Ausgangsbedingungen sind erstmal da, dass diese ökologische Orientierung sich bilden kann. Viel,
+
+01:36:48.580 --> 01:36:54.860
+viel stärker als im Kapitalismus. Da würde ich dir total zustimmen. Da spielt eben der individuelle
+
+01:36:54.860 --> 01:36:58.260
+soziale Faktor eine Rolle. Und Manu hat es gerade versucht, so zu beantworten. Es ist eine
+
+01:36:58.260 --> 01:37:05.380
+gesellschaftlich-soziale Frage und nicht eine individuelle, ob wir das hinkriegen oder nicht.
+
+01:37:05.380 --> 01:37:12.100
+Die zweite Frage habe ich jetzt vergessen. Ja, ich bin mir auch nicht sicher, ob ich nicht
+
+01:37:12.100 --> 01:37:17.980
+vielleicht so ein bisschen ein Dreher drin habe im Bezug auf, welchen Entwicklungsstand,
+
+01:37:17.980 --> 01:37:23.100
+wenn man so will, das Kommunismus ihr im Modell jetzt tatsächlich angesetzt habt. Also die Frage,
+
+01:37:23.100 --> 01:37:27.620
+die ich jetzt eigentlich eben vorhin noch mal versucht hatte zu stellen, war, inwiefern diese
+
+01:37:27.620 --> 01:37:34.380
+Grundannahme des sich emergent herausbildens von tragfähigen Strukturen innerhalb der
+
+01:37:34.380 --> 01:37:41.860
+Simulation bestätigt oder widerlegt, also ihr habt ja eh schon gesagt, wie das bestätigt worden ist.
+
+01:37:42.500 --> 01:37:49.700
+Also ich finde, das ist was, was, wenn ich den Kommunismus, mit dem Kommunismus interagiere,
+
+01:37:49.700 --> 01:38:00.380
+einfach etwas ist, was halt sehr laut ist, dass halt ihr bestimmte Annahmen setzt im Bezug auf eben
+
+01:38:00.380 --> 01:38:09.060
+das polyzentrische Selbstorganisation und Stigmatgie ausreichend auch, um Metakoordination
+
+01:38:09.540 --> 01:38:16.420
+hervorzubringen, die am Ende eben in der Lage ist tragfähige Strukturen herzustellen und dass
+
+01:38:16.420 --> 01:38:26.380
+es so eine Art von Ausbreitungsmechanismus geben kann, in dem der Kommunismus als Praxis zeigt,
+
+01:38:26.380 --> 01:38:33.180
+dass das Nahelegen von Kooperation am Ende für alle quasi die bessere Lösung ist. Das ist im
+
+01:38:33.260 --> 01:38:40.020
+Grunde quasi das, wofür dieses Modell ja jetzt auch noch mal dienen soll. Aber um das glaubwürdig
+
+01:38:40.020 --> 01:38:47.660
+darstellen zu können, muss glaube ich auch diese Annahme des sich heraus entwickelnden dieser
+
+01:38:47.660 --> 01:38:55.540
+Strukturen als ein Prozess modelliert werden und gezeigt werden, dass das plausibel ist,
+
+01:38:55.540 --> 01:39:01.620
+dieses emergente sich herausbilden. Und das hängt glaube ich auch damit zusammen, mit der Frage
+
+01:39:02.180 --> 01:39:07.780
+was das ist, wo ihr diese Agentinnen jetzt hineingesetzt habt. Weil meine Hoffnung war
+
+01:39:07.780 --> 01:39:14.260
+so ein bisschen, dass man eben weil Agent-Based Modelling einen Bottom-Up-Prozess erlaubt,
+
+01:39:14.260 --> 01:39:19.860
+man in der Lage sein könnte, auch diesen Prozess des sich heraus entwickelnden von tragfähigen
+
+01:39:19.860 --> 01:39:28.380
+Strukturen zu zeigen und darzulegen. Im Gegensatz zu einem Zugang, wo man sagt, wir setzen jetzt
+
+01:39:28.380 --> 01:39:34.940
+schon einen mehr oder minder ausentwickelten Kommunismus voraus mit all den verschiedenen
+
+01:39:34.940 --> 01:39:41.900
+Grundannahmen und setzen in diesen hinein, dann Agentinnen, die quasi dann schon in diesem Setting,
+
+01:39:41.900 --> 01:39:47.020
+also in dieser mehr oder minder vollentwickelten, also vollentwickelten klingt blöd, aber in dieser
+
+01:39:47.020 --> 01:39:52.500
+ausentwickelten Utopie agierende Agentinnen. Das sind jetzt zwei sehr unterschiedliche Dinge. Das
+
+01:39:52.540 --> 01:40:00.780
+eine ist schwieriger als das andere und das eine würde eben so ein bisschen in die Richtung der
+
+01:40:00.780 --> 01:40:06.580
+Transformationsfrage halt auch tendieren, nämlich ja, genau, spezifisch in Hinblick auf diese
+
+01:40:06.580 --> 01:40:13.940
+Annahme des sich heraus entwickelnden von emergenten Strukturen. Es ist die Transformationsfrage. Es
+
+01:40:13.940 --> 01:40:19.940
+gibt sozusagen, ich unterscheide gerne wirklich auch scharf zwei Diskurse, den Transformationsdiskurs
+
+01:40:19.940 --> 01:40:26.020
+und den Utopie-Diskurs. Und es ist gut sozusagen nicht die Argumente zu vermischen, also sozusagen
+
+01:40:26.020 --> 01:40:33.140
+Argumente aus dem Transformationsdiskurs zu nehmen und dann zum Beispiel Einwände gegen die Utopie
+
+01:40:33.140 --> 01:40:39.020
+zu formulieren, weil das einfach nicht so funktioniert. Es wäre super spannend, wenn wir
+
+01:40:39.020 --> 01:40:45.780
+eine Transformation mit zig Annahmen natürlich modellieren könnten, aber ich würde jetzt mutmaßen,
+
+01:40:45.780 --> 01:40:50.700
+Manuel kann das gleich qualifizierter beurteilen. Ich würde mutmaßen, das ist eine um Größenordnungen
+
+01:40:50.700 --> 01:40:57.500
+komplexere Simulation, weil man einfach noch viel mehr Annahmen stecken muss. Und was wir dort ja
+
+01:40:57.500 --> 01:41:02.580
+machen, ist eine andere Art von Emergenz, weil es gibt ja sozusagen zwei Arten von Emergenz. Die
+
+01:41:02.580 --> 01:41:08.980
+einmal ist, emergiert der Kommunismus als stabile Gesellschaft aus der Logik heraus, die wir
+
+01:41:08.980 --> 01:41:13.380
+implementiert haben. Und da haben wir gesagt, ja, das macht es. Immerhin ist das rausgekommen. Das
+
+01:41:13.380 --> 01:41:18.620
+funktioniert hätte auch scheitern können. Und das andere ist, emergiert der Kommunismus
+
+01:41:18.620 --> 01:41:25.740
+historisch aus einem Prozess der sozialen Transformation. Kann er das? Hat er die
+
+01:41:25.740 --> 01:41:32.500
+Potenz dazu? Das ist eine andere Fragestellung. Das ist eher ein historisches Hervorgehen aus einem
+
+01:41:32.500 --> 01:41:37.100
+Prozess. Und da muss man ja ganz andere Fragen diskutieren. Ist dieser Umbruchsprozess eher
+
+01:41:37.100 --> 01:41:44.260
+einer der Reformen des langsamen Übergehens oder eines der Brüche, wo bestimmte Dinge auch
+
+01:41:44.260 --> 01:41:52.100
+schlagartig sich verändern können, auch zeitlich schlagartig? Und wie müsste man das dann in der
+
+01:41:52.100 --> 01:41:57.180
+Simulation abbilden? Da habe ich noch gar keine Idee, aber ich stelle mir das mega komplex vor.
+
+01:41:57.180 --> 01:41:58.620
+Ich glaube, das ist machbar.
+
+01:42:27.180 --> 01:42:33.100
+Wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet,
+
+01:42:33.100 --> 01:42:39.740
+schreibt mir gerne unter jan at futurehistories.today. Ich freue mich immer sehr über interessante
+
+01:42:39.740 --> 01:42:45.260
+Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt
+
+01:42:45.260 --> 01:42:51.020
+ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf unserer
+
+01:42:51.020 --> 01:42:58.340
+Homepage. Future Histories ist eine Produktion von MetaLapses zu finden auf meta lapses.net.
+
+01:42:58.340 --> 01:43:01.420
+Bis zum nächsten Mal. Ich freue mich.
+

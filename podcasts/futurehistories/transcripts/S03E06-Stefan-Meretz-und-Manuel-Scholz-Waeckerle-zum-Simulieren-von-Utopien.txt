@@ -1,0 +1,978 @@
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Stefan Mehretz und Manuel Scholz-Weckele
+begrüßen zu dürfen. Beide waren Teil des mittlerweile ja abgeschlossenen und überaus
+spannenden Projekts Die Gesellschaft nach dem Geld. Ich hatte ja hierzu schon Jens Schröter,
+den Leiter des Projektes, zu Gast und auch Stefan durfte ich bereits in einer frühen
+Episode von Future Histories zum Kommunismus begrüßen. Nun kam vor kurzem sozusagen im
+Nachklang des Projektes eine Special Issue des Journals Review of Evolutionary Political Economy
+heraus mit dem Titel Envisioning Post-Capitalist Utopias via Simulation und das finde ich natürlich
+ungemein spannend und so wird es zu dieser Special Issue gleich mehrere Future Histories-Gespräche
+geben, konkret zwei, wobei das zweite noch in Planung ist, da werde ich jetzt nicht zu viel
+zu verraten. Mit Stefan und Manuel, da spreche ich über die agentenbasierte Simulation des
+Kommunismus, beschrieben im Paper Simulating the Utopia of Communism. Wir haben ungefähr
+zweieinhalb Stunden gesprochen, über zweieinhalb Stunden glaube ich und so habe ich das Ganze in
+zwei Teile aufgeteilt. Ihr hört heute den ersten Teil und in zwei Wochen erscheint dann der zweite
+auf Patreon, das sei zumindest erwähnt, findet sich für Patreon-UnterstützerInnen auch schon
+das Gespräch in voller Länge. Das Paper über das wir heute sprechen werden Simulating the Utopia of
+Communism und natürlich auch die restliche Special Issue sind in den Show Notes verlinkt und ihr
+findet dort auch einen Link zum Buch des Projekts Die Gesellschaft nach dem Geld in Deutsch und in
+Englisch. Die englische Fassung liegt glaube ich sogar als komplettes PDF vor. Bevor es jetzt losgeht,
+möchte ich noch Samuel, Lukas, Karl und Marie-Therese für ihre Spenden danken. Vielen,
+vielen Dank, ich weiß es wirklich sehr zu schätzen. Und jetzt viel Freude mit der heutigen
+Episode Future Histories mit Stefan Meritz und Manuel Scholz-Weckele zum Simulieren von Utopien.
+Herzlich willkommen, Stefan und Manuel. Hallo, danke für die Einladung. Hallo. Ja,
+vielleicht fangen wir kurz aber trotzdem noch mal mit einer Vorstellungsrunde an,
+denn ich bin zum Teil gar nicht so ganz am Laufenden, was der aktuelle Stand der Dinge
+ist. Vielleicht könnt ihr euch kurz einmal vorstellen. Ja, dann fange ich an, Stefan
+Meritz. Ich bin derzeit in Elternzeit und das Projekt ist ja beendet und das,
+was wir jetzt noch gemeinsam machen, sind noch so Nachklapp-Paper, weitere Experimente,
+also wir versuchen schon auch die Ergebnisse des Projekts weiter zu nutzen und daran bin ich
+beteiligt. Ich bin aktiv im Commons-Institut, bin auch in der Gruppe Akut, Assoziation, Kritik,
+Utopie und Transformation, also weiter so weit es neben der Elternzeit möglich ist, aktiv.
+Dann gehe ich mal weiter. Mein Name ist Manuel Scholz-Weckele. Ich bin Senior Lecturer am
+Department Sozioökonomie an der Wirtschaftsuniversität Wien und habe dort einiges zu tun im Masterprogramm
+Social Ecological Economics and Policy, wo ich sehr viel unterrichte. Zusätzlich bin ich aktiv
+in der European Association for Evolutionary Political Economy. Das ist ein wissenschaftlicher
+Verein zur Förderung des Pluralismus in den Sozialwissenschaften und zur Förderung der
+heterodoxen Ökonomie. Also wenn man so weit kann, kann man sagen, ich bin ein heterodoxer Ökonom mit
+Fokus auf evolutionäre politische Ökonomie. Also mich hat immer interessiert, wie menschliche
+Gesellschaften dann doch Teil des evolutionären Prozesses sind und wie man das zusammen denken
+kann. Und dazu habe ich mich dann irgendwann auch auf Basis meines Studiums an der Technischen
+Universität Wien für Computersimulationen interessiert und da war damals Agent-Based
+Modeling in und solche Sachen wie Netzwerktheorie und da bin ich heute noch dabei. Ich hatte es in
+der Moderation jetzt schon angedeutet, ihr habt im Rahmen des Projektes die Gesellschaft nach dem
+Geld, das ja hier in Future History es auch schon mehrfach vorkam, eine Computersimulation des
+Kommunismus erschaffen, die auf Agent-Based Modeling basiert. Nicht alle HörerInnen werden
+sowohl den Kommunismus als auch das Agent-Based Modeling kennen. Vielleicht können wir das
+zunächst einmal ein wenig einführen. Manuel, vielleicht kannst du uns da helfen, was versteht
+man unter Agent-Based Modeling? Was sind seine Stärken und Schwächen und was kann man damit machen?
+Ja, gern. Also das Agent-Based Modeling ist irgendwie in der zweiten Hälfte des 20. Jahrhunderts
+groß geworden. Es haben in der Denke ist es vielleicht schon, kann man sagen, bei John von
+Neumann auch gut angelegt, der damals zelluläre Automaten gebaut hat. Das sind so kleine quasi
+grid-based, tabellarische Systeme, wo sich Zellen gegenüberstehen. Und das Agent-Based Modeling,
+was auch viel in Papierform, in Konzepten schon überlegt wurde, wurde dann halt stärker wie
+die Computerberechenbarkeit und die Computer besser geworden sind, sodass man das dann auch
+in einem Büro machen kann und nicht an irgendeinem Großrechner im Keller von irgendeiner großen
+Universität in den USA. Und in den 90er Jahren hat sich das Agent-Based Modeling dann stärker
+entwickelt, auch im Zusammenhang mit der Spieltheorie. Das gefangenen Dilemma ist ein berühmtes
+Beispiel, was da modelliert wurde. Der Unterschied zu anderen Arten der Modellierung liegt dort,
+dass Agent-Based Modeling einen disaggregierten Ansatz hat. Es ist am ehesten mit systemdynamischen
+Modellen verwandt, die aber noch aggregiert sind. Was spielt eine Rolle bei Systemdynamik?
+Da spielt eine Rolle, es gibt Bestandsgrößen und Flussgrößen, also Stocks und Flows. Und das
+System entwickelt sich diskret über die Zeit hinweg. Das heißt, es gibt einen diskreten
+Fortschritt der Zeit, T, T plus eins, T plus zwei und keine kontinuierliche Zeit, so wie es in
+aggregierten analytischen Modellen jetzt Differenzialgleichungssystemen zum Beispiel
+der Fall ist, wo die Zeit immer kontinuierlich ist. Und beim Agent-Based Modeling ist es so,
+dass quasi pro Zeitschritt dann nicht eine einzige Einheit repräsentativ als Aggregat oder mehrere
+solche Aggregate sich gegenüberstehen und die Stocks und Flows zwischen diesen Aggregaten laufen,
+sondern man hat dann eine Vielzahl an kleinen Entitäten, Einheiten, die miteinander vernetzt
+sein können, aber nichts vernetzt sein müssen. Also es gibt, man kann Agent-Based Models mit
+einem abstrakten geografischen Raum sich vorstellen, wo die Agenteneinheiten auf Zellen herum wandern.
+Also man kann auch quasi Bewegung der Akteure auch hinein modellieren und dann halt auch Sichtradius
+und solche Dinge. Wichtig ist zum Vergleich zu systemdynamischen Modellen, dass die Agenten
+eigene Bestandsgrößen haben, eigene Flussgrößen und dass die Interaktion der Agenten in den
+Vordergrund gestellt wird. Das heißt, man kann sehr gut soziale Prozesse darstellen, weil es darum
+geht, wie die Akteure interagieren und wie aus diesen Interaktionen dann gemeinsame Räume entstehen.
+Und komplexe Systementwicklungen. Das heißt, da geht es dann auch, kann man sich mit der Frage der
+Emergenz beschäftigen, inwiefern das System dann emergiert aus der Interaktion einzelner
+Agenten. Insofern spricht man beim Agent-Based Models von einem Bottom-Up Modeling Ansatz, weil
+von unten die Agenten miteinander in Verbindung gesetzt werden und dann daraus eine emergierende
+Struktur entsteht. Aber man kann durchaus auch Strukturen vorwegnehmen. Das wäre sozusagen der
+größte Unterschied zur Systemdynamik und zu den herkömmlichen ökonomischen Modellen besteht auch
+ein größerer Unterschied, weil dort die Aggregate in kontinuierlicher Zeit in Gleichgewichtsmodellen
+dargestellt werden. Okay, wir haben jetzt schon gehört emergente Bottom-Up Strukturen. Das ist
+natürlich dann jetzt eigentlich eine Steilvorlage, dass man irgendwie eine Brücke schlägt zum
+Kommunismus, denn auch der kennt emergente Strukturen. Stefan, vielleicht magst du kurz mal
+einführen, worum es da geht beim Kommunismus, der eben nicht der Kommunismus ist, sondern von
+Commons kommend der Kommunismus. Genau, Kommunismus von Commons. Ja, gerne. Ja, Kommunismus ist die
+Bezeichnung für eben eine auf Commons basierende Gesellschaft. Commons sind selbst organisierte
+Zusammenschlüsse von Menschen, die gemeinsam bestimmte Ziele verfolgen, also Dinge herstellen,
+um Bedürfnisse zu befriedigen, sich um Menschen kümmern, sei es, weil sie krank, sehr jung oder
+sehr alt sind oder aus anderen Gründen Unterstützung benötigen oder auch sich um die
+ökologischen Netze kümmern, deren Teil wir ja sind, die aber im Kapitalismus nur als von uns
+getrenntes Material betrachtet wird und folglich auch im Kapitalismus systematisch ausgebeutet und
+zerstört werden. Bei all diesen Tätigkeiten gibt es keine Hierarchie wie im Kapitalismus,
+wo ja die endlose Produktion zwecks Geldvermehrung im Zentrum steht, während die Kümmertätigkeiten,
+die Care-Tätigkeiten oft abgewälzt werden, häufig in den Privatbereich, häufig auf Frauen. Alle
+Tätigkeiten, die notwendig sind, sind auch wichtig und bekommen die Aufmerksamkeit und Ressourcen,
+die sie brauchen im Kommunismus. Diese Überlegungen sind auch in das Modell eingeflossen, über das
+wir gleich sprechen. Vielleicht jetzt noch ein paar Features, um das nicht zu lang werden zu
+lassen, ein paar Features sein noch genannt. Es gibt kein Geld, kein Markt und kein Staat. Im
+Kapitalismus sind das ja Institutionen der Vermittlung und Geld ist das Medium der
+Vermittlung. Vermittlung bedeutet die Stiftung von Beziehungen zwischen Menschen, um bestimmte Dinge
+zu erhalten oder zu erschaffen, die ich für meine Existenzsicherung brauche. Also zum Beispiel auf
+dem Markt Dinge zu kaufen oder vom Staat Leistung zu bekommen. Es ist klar, dass nur Menschen mit
+ausreichend Geld ihre Existenz sichern können. Ohne Moos nichts los. So ist das im Kapitalismus.
+Im Kommunismus werden diese Beziehungen durch Communing hergestellt. Und Communing kann man
+verstehen als eben selbst organisierte Kooperation zwischen Menschen oder auch zwischen Gruppen,
+um bestimmte Ziele zu erreichen. Produktionsziele, Pflegeziele, ökologische Ziele.
+Freiwilligkeit ist dabei die Grundlage. Dabei können wir jetzt zwischen zwei Arten von
+Kooperation unterscheiden. So das ist auch in der Diskussion immer ziemlich wichtig,
+zwischen interpersonaler Kooperation, also der direkten Absprache von Menschen, die sich auch
+kennen können, zu unterscheiden und transpersonaler Kooperation, also Vereinbarung zwischen einander
+anonymen Personen. Die direkte Kooperation kann sich jede und jeder noch schnell vorstellen und
+meistens wird das auch mit dem Begriff der Commons assoziiert. Wird auch sehr stark das Vorurteil
+reproduziert, dass Commons haben irgendwie nur was mit Lokalem zu tun. Und wir wollten eben zeigen,
+das kann man aber vorallgemeinern. Die vermittelte Kooperation zwischen Unbekannten, also das,
+was wir zum Beispiel auch regionale, kontinentale oder globale Arbeitsteilung nennen können,
+ist für jede Gesellschaft eine große Herausforderung. Und hier kommt das Thema
+gesellschaftlicher Planung ins Spiel, auf das ich jetzt aber hier nicht weiter eingehe,
+weil das ist hier nicht unser Hauptthema. Ich würde noch gerne was zu den Beziehungen der
+Menschen sagen, denn um einen Begriff von Bini Adamchak aufzunehmen, Kommunismus ist vor allem
+eine neue Beziehungsweise. Im Kommunismus haben die Beziehungen eine besondere Qualität. Aufgrund
+der weitgehenden Abwesenheit von Machtmitteln, also Geld und Herrschaft, kann ich eben andere
+nicht zwingen, das zu tun, was ich gerade brauche, sondern ich kann sie nur einladen, mit mir in
+eine Kooperation zu gehen, in der unser beider Bedürfnisse berücksichtigt sind. Im Kommunismus
+kann ich anders meine Ziele nicht erreichen, ich muss sozusagen kooperieren. Diese positive
+Logik der Einladung nennen wir Inklusionslogik und sie gilt sowohl für die Interpersonale wie
+für die transpersonalen Beziehungen, ohne dass ich das jetzt vertiefen kann, vor allen Dingen
+wie die transpersonalen Beziehungen kann es jetzt nicht vertiefen. Um sich das im Vergleich vielleicht
+besser vorstellen zu können, der Kapitalismus ist exklusionslogisch strukturiert. Hier komme
+ich zu meinen Zielen, wenn ich mich auf Kosten anderer durchsetze. Ob ich das will oder nicht,
+also das ist keine Frage der persönlichen Haltung oder Eigenschaft, sondern es ist eine Sache der
+Strukturen. Und wir haben dafür auch Worte, die wir dafür verwenden, wie Ausbeutung,
+Instrumentalisierung, Bescheißen, Ausnutzen und so weiter. Das ist einfach in den Strukturen
+angelegt, so komme ich im Kapitalismus voran, auf Kosten anderer. Und das auch wieder interpersonal
+wie transpersonal. Also auch in den internationalen, globalen Produktionsketten und Handelsbeziehungen
+finden wir genau diese exklusionslogische Struktur. Nicht notwendig immer und überall. Im Gegenteil,
+das darf nicht überall so sein, sonst würde der Kapitalismus zusammenbrechen, sondern es gibt
+abgespaltene Sphären, wo das nicht gilt, die als Hort der Befriedung gelten. Und das sind Familien
+und der Kehrbereich. Vor allen Dingen dort soll das Menschenmaterial wieder repariert werden.
+Beides, Inklusionslogik wie Exklusionslogik sind ursächlich keine Eigenschaften von Menschen,
+das habe ich schon gesagt. Auch wenn natürlich diese naheliegende Logik in uns eindiffundiert
+und auch unsere Haltung beeinflusst. Also gierige Menschen sind nicht per se gierig,
+sondern sie sind gierig, weil sie in den Strukturen damit auch gut funktionieren. Also die
+Gier wird quasi nahegelegt. Es sind Eigenschaften der von uns geschaffenen Strukturen und das ist
+wichtig. Wir sprechen auch immer von Nahelegung von bestimmten Verhalten und Nahelegung setzt
+Strukturen voraus. Deswegen gucken wir immer sehr auf die Strukturen, die eben ein bestimmtes
+Verhalten nicht erzeugen, determinieren, sondern naheliegen. So ist es im Kapitalismus naheliegend,
+eben funktional sich gegen Konkurrenten durchzusetzen und sie einfach auszuboten. Im
+Kommunismus ist es naheliegend und funktional mit anderen in eine Kooperationsbeziehung zu gehen,
+um gemeinsam Ziele zu erreichen. So viel vielleicht als grobes Gitz. Super. Jetzt wissen wir,
+was Agent-Based Modeling ist. Wir wissen, was der Kommunismus ist. Zumindest eine grundlegende
+Idee davon haben wir jetzt. Ihr seid jetzt dran gegangen und habt versucht, beides zueinander zu
+bringen. Ich bin schon unglaublich gespannt, das ein bisschen besser verstehen zu lernen,
+weil mir leuchtet das durchaus ein, dass diese beiden Dinge in interessanter Weise eben zueinander
+gebracht werden können. Ich würde gerne ein bisschen weiter da eintauchen, wie ihr das
+gemacht habt. Vielleicht fangen wir da mit dem Prozess an, denn das ist ja wahrscheinlich einiges
+an Arbeit, dass man erst mal irgendwie zu einem Punkt kommt, tatsächlich dann auch das Modell
+machen zu können, weil es ja überhaupt nicht so selbstverständlich ist, dass man diese theoretischen
+Ideen, die Stefan da jetzt vorgestellt hat, eben auch eins zu eins in sein Modell, eins zu eins
+sowieso nicht, aber überhaupt in so ein Modell übertragen kann und wie man das überhaupt angehen
+will. Vielleicht könnt ihr uns ein bisschen was erzählen über den Prozess. Wie seid ihr das Ganze
+angegangen? Was braucht es eigentlich, um so ein Modell überhaupt zu erschaffen und auf was stößt
+man auf dem Weg dahin? Zwei Dinge. Der eine, der gruppendynamische Prozess, auf den kann ich eingehen
+und das zweite ist, warum das heute geht oder warum man da reingehen kann in so eine Fragestellung,
+auch mit diesen Simulationsmethoden, ist, wir haben in der agentenbasierten Modellierung, da ist
+einiges weitergegangen in den letzten 20 Jahren, also vor allem auch in der heterodoxen Ökonomie,
+was makroekonomische Modellierung betrifft, da gibt es schon sehr gute Modelle heute, die, glaube ich,
+den neoklassischen oder sagen wir mal, anstrengend ökonomischen Modellen durchaus das Wasser reichen
+können und das heißt, wir sind weit weg von agent-based Modelling der 80er, 90er Jahre,
+wo man so ganz kleine, abstrakte Fragestellungen hauptsächlich diskutiert hat und heute können
+wir ganze Makroökonomien darstellen und das ist quasi dieser Möglichkeitenraum, der da entstanden
+ist, weil viele kritische Ökonomen, Ökonominnen diese Modellierungstechnik jetzt verwendet haben,
+um aktuelle Fragestellungen der Wirtschaftspolitik und Umweltpolitik und Sozialpolitik zu untersuchen
+mit dieser Methode, da das ist quasi, das hat auch uns quasi eine Möglichkeit gegeben,
+diese Fragestellung der Commons, so wie es Stefan erklärt hat, zu simulieren in einem relativ großen
+Raum. Die Frage eben, wie kommen die Commons dann zu einer large scale society, das war eine zentrale
+Frage. Das ist auch nur möglich, weil wir einfach mit agent-basiert Modellierung so viel
+dazugelernt haben, wie man größere Systeme auch mit agent-basierter Modellierung modelliert und
+nicht nur kleine, abstrakte Fragestellungen als quasi wissenschaftliches Dokus da jetzt sich
+anschaut. Und der zweite möchte ich kurz eingehen, den gruppdynamischen Prozess, er war nämlich super,
+wir sind zusammengekommen als Gruppe mit einem Projekt zur Gesellschaft nach dem Geld mit
+Jens Schröter, Hanno Pahl, Stefan und ich bin dazu der Gruppe hinzugestoßen und da haben wir
+Geld von der Volkswagen Stiftung gehabt, um theoretisch aus verschiedenen disziplinären
+Hintergründen, Medienwissenschaft, Commons-Theorie, Soziologie, Wissenschaftstheorie und halt auch
+heterodoxe Ökonomie sich die Frage zu stellen, was kann eine Gesellschaft nach dem Geld sein oder
+wie kann man sich der Frage nähern. Und das hat sehr gut funktioniert, da haben wir uns als Gruppe
+sozusagen gefunden, haben ein schönes Buch publiziert, Bloomsbury Society of the Money,
+auch in Deutsch, im Springer Verlag, Postmonitär Denken kann ich durchaus empfehlen, war auch schön
+ein Buch zu arbeiten, ist glaube ich mal eben auch wie im Titel ein Dialog, ein erster Schritt
+gewesen und auf Basis dessen haben wir überlegt, der Volkswagen Stiftung auch, waren wir in Kontakt,
+ob man nicht ein Nachfolgeprojekt machen kann und da war uns ziemlich klar, dass wir jetzt nicht
+einfach ein zweites Buch, so ein Sammelband an netten Essays produzieren wollen und können,
+sondern dass wir halt was Neues machen wollen und da war zuerst die Idee, ob man nicht ein Spiel
+macht, ein Serious Game, ich habe mich da unabhängig auch schon länger damit beschäftigt
+mit Computerspielwelten und wie man diesen Game-Gedanken auch in so topische Denken
+reinbringen kann, gerade auch mit agentenbasierter Modellierung, nur ist das eine sehr herausfordernde
+Aufgabe, würde ich mal sagen, die mehr Fördermittel bräuchte und viel mehr Mitarbeiterinnen und
+Expertise auch aus der Computerspielszene, das ist Expertise, die haben wir nicht und dann haben
+wir uns zusammen gefunden und die Frage gestellt, ob wir eine Computersimulation dazu machen können
+und haben das Stefan und ich relativ im Tandem Design überlegt innerhalb von ein paar Monaten,
+wie man das entwickeln kann, so ein Modell zum Commonism und wie die Skizze da war,
+Antrag geschrieben, an die Volksfang Stiftung gesendet, da gab es dann noch, so wie ich mich
+erinnern kann, ein Hearing, also das war ein zweistufiger Prozess und zum Erstaunen von uns
+und zur Überraschung haben wir dann Zusage zu den Mitteln bekommen und haben losgelegt. Stefan,
+vielleicht wirst du noch was dazu sagen. Ja, ich sag vielleicht noch was wirklich zu dem
+Entwicklungsprozess, den ich sehr spannend fand, also dann als der zweite Teil des
+Projekts auf der Schiene war, ging es ja darum, ja was machen wir denn da jetzt genau und wir
+hatten ja den großen Vorteil, dass wir mit dem Buch Kapitalismus aufheben von Simon Sotolytis
+und mir, da hatten wir schon eine Textgrundlage und auch quasi eine konzeptionelle Grundlage und da
+war relativ schnell klar, bevor wir jetzt selber noch mal in dem Prozess ein Konzept entwickeln,
+nehmen wir das und versuchen das eben zu simulieren. Wir haben also echt viel diskutiert,
+wie wir die verschiedenen Ansätze zusammenbringen und dann war klar, also zumindest für uns als
+Commons-Gruppe, wir können nicht direkt der Programmiergruppe, der Modellierungsgruppe sagen,
+mach das jetzt, implementiert das so und so, sondern wir brauchen einen Zwischenschritt und dieser
+Zwischenschritt war dann das Narrativ. Das Narrativ ist eine Erzählung mit den Elementen,
+die später im Modell und dann auch in der Implementierung, in der computertechnischen
+Implementierung auftauchen sollen und diese Erzählung ist einerseits eine Geschichte und
+andererseits hat sie semi-formalen Charakter. Also semi-formal, halbformal ja deswegen, weil wir
+eben diese ABM-Bausteine, also die Bausteine des Modells im Blick haben, aber noch nicht den
+Programmcode formulieren, sondern wir haben so eine Halbformalsprache dann aufgeschrieben,
+haben zum Beispiel auch gesagt, ja wie kann man dann zum Beispiel so etwas wie eine Emotion,
+das ist ein Baustein, die wir als Eigenschaft von den Agenten im Modell drin hatten, wie kann man
+das dann letztlich abbilden? Weil klar ist, das ist eigentlich ja was super Komplexes, eine Emotion,
+kann ich glaube ich jede und jeder nachvollziehen, aber dennoch, wenn wir es simulieren wollen,
+wenn wir das zu einer Eigenschaft von Agenten machen wollen, dann müssen wir es formalisieren
+und dem irgendwie einen Wertebereich zuweisen und damit dann operieren und diesen Schritt haben wir
+versucht im Narrativ zu machen und dieses Narrativ ist dann sozusagen nochmal kritisch
+umgearbeitet worden von der Modellierungsgruppe in den Programmcode, sodass wir quasi zwei,
+wenn man so will, Reduktionsschritte hatten, also zwei Übergänge waren von uns zu leisten,
+ja einmal von der Theorie ins semi-formale Narrativ und dann vom Narrativ in den Programmcode und
+bei beiden Schritten mussten wir Entscheidungen treffen, was wir darstellen und was wir nicht
+darstellen können und das sind natürlich immer Reduktionen dessen, was eigentlich die Wirklichkeit
+ist, die wir abbilden wollen oder auch die bedachte Utopie. Genau, ich will noch hinzufügen,
+das Narrativ, es ist irgendwie noch kein Pseudocode, das wäre quasi, Pseudocode wäre quasi fürs
+Programmieren, eine Kurzanleitung, sich mal den Code aufzuschreiben, damit man die Prozesse
+durchdenkt, das ist sehr üblich, wenn man, also in der Softwareentwicklung sowieso, aber auch
+beim Modellieren macht das Sinn und der Schritt zum Pseudocode, das dauert dann noch, aber muss
+auch hinzufügen, quasi wenn man so ein Narrativ hat, dann hat man ja schon mal ein Modell,
+also ein theoretisches Modell, das ist schon mal da, ein Konzept und dann der Schritt zur Simulation,
+ist dann eine wirklich konkrete Umsetzung, wie kriege ich das da rein und da haben wir, da möchte
+ich auch ganz groß hervorheben, die Projektmitarbeiterin Elena Gerdes und Ernest Eigner,
+wir haben da zu dritt am Anfang viel herumgetüftelt, gemeinsam mit Stefan und Simon,
+wie man das dann umsetzen kann, wir verwenden dazu, es kommt immer wieder die Frage, na wie
+soll man das überhaupt, weil wir jetzt schon von Computertechnik gesprochen haben, in welcher
+Programmiersprache soll man sowas umsetzen, generell gibt es da keine Rules, man kann verwenden,
+was man will, wir verwenden traditionell hier, ich habe das schon immer verwendet, Netlogo,
+das ist eine Simulationssoftware Open Source, die für Agent-Based Modeling geschrieben wurde extra
+und die bietet viele Vorteile, es ist jetzt nicht gerade die schnellste Engine, aber mit
+den modernen Computern ist das jetzt nicht so wild und man hat vor allem auch eine sehr gute
+Testumgebung und wir waren da gewohnt und man kann sich bei Netlogo, wo es wirklich darum geht,
+dass man soziale Prozesse modelliert, das ist genauer angelegt dafür, kann man sich dann auch
+mehr auf das Modell konzentrieren, weil das ist dann schon noch eine zweite Sache, wenn ich sage,
+okay, ich möchte das in Java oder in C++ umsetzen oder heute wieder in Python machen,
+dann muss ich schon mehr Code produzieren, konstrukte, abstrakte produzieren, damit ich
+dann meine Modelleinheit da überhaupt in den Lauf bekomme. Bei Netlogo zum Beispiel oder bei
+anderen Simulations-Toolkits gibt es Libraries, die kann man dann verwenden, für Agents zum
+Beispiel oder für bestimmte Prozesse, die einfach öfters vorkommen bei der Modellierung, die dann
+schon da drinnen implementiert sind und kann sich dann mehr auf das Modell konzentrieren und muss
+jetzt nicht quasi da eine neue Software für jedes Modell schreiben. Ja, das sind jetzt schon super
+spannende Anknüpfungspunkte, denn mich würden diese Übersetzungsprozesse in jedem Fall sehr
+interessieren. Also vielleicht fangen wir mal erst damit an, Stefan, als ihr das Narrativ entwickelt
+habt, was waren denn die Bedingungen, die ihr von der Programmiererinnengruppe aus bekommen habt
+oder sozusagen einen Rahmen, den ihr bekommen habt, innerhalb dessen ihr euch bewegen solltet? Also
+was musstet ihr berücksichtigen in der Art und Weise, wie ihr dieses Narrativ entworfen habt und
+was waren das vielleicht für euch schon für Restriktion oder auch Möglichkeiten? Das können
+ja auch sein, also vielleicht war das ja auch was, wo ihr das Gefühl hattet, aha, okay, durch diesen
+Anspruch der Formalisierung haben sich bestimmte Gedankengänge in einer spezifischen Art und Weise
+konkretisiert, die vielleicht sonst so nicht forciert worden wäre oder sowas. Also was in
+diesem ersten Transformationsprozess hin zum Narrativ, was waren da so die Bedingungen,
+die da mit einhergingen? Also im Grunde hatten wir keine Vorgaben und Constraints, sondern wir
+haben vorher, kann ich mich erinnern, etliche Workshops gemacht, wo wir auch sozusagen schon
+einfach schlicht an der Tafel mit Skizzen und Pfeilen und so weiter ein abstraktes Modell in
+unserem Kopf sich geformt hat, wie man sowas machen kann. Und das, was wir eingebracht haben,
+sind ja auch zwei Theoriequellen, die da nachher zusammengebracht wurden. Das eine kommt aus der
+kritischen Psychologie, weil wir nämlich eine Individualtheorie brauchten, denn wir wollten
+nicht so ein Simple Agent als so ein Homo economicus Simple Automaten implementieren,
+sondern wir wollten eine, ja in der Annahme, dass in einer kommunistischen Gesellschaft eben die
+Bedürfnisse und damit auch die Gefühle, Motivation, Erfahrungen und so weiter eine große
+Rolle spielen, weil die auch das gesellschaftliche, in das gesellschaftliche Gesamt in der
+Auseinandersetzung, in der Verhandlung mit den anderen einfließen. Deswegen wollten wir die
+unbedingt auf der Individualebene modellieren. Und da haben wir als Grundlage die kritische
+Psychologie genommen. Und auf der Gesellschaftstheorie haben wir sehr viel von der Wertkritik genommen,
+die uns da inspiriert hat. Also das waren so die beiden Theoriequellen. Und bei der
+Modellentwicklung, kann ich mich erinnern, war es halt schon in der Commons-Gruppe sehr wichtig,
+einen Informatiker dabei zu haben. Ich war das. Weil nämlich die beiden anderen,
+Simon Sotoli und Annette Schlemme, die kommen eher aus der Soziologie, Philosophie und so weiter.
+Und genau diesen Schritt zu machen von den Realweltverhältnissen, die ich als Philosophin zum
+Beispiel mit bestimmten Kategorien beschreiben kann oder als Soziologe mit bestimmte gesellschaftliche
+Strukturen mit bestimmten Kategorien erfassen kann, wenn ich von denen dann eine Formalisierung mache,
+dann muss ich ganz viel abschneiden. Und ich kann mich an ganz viele Gespräche erinnern,
+wo ich dann immer sagte, ja, jetzt überlegt es euch, wie kann man das zwischen 0 und 1 abbilden?
+Was würdet ihr da für einen Wert vorsehen? Wie kann man das mit Emotionen machen? Und die haben
+dann immer gestöhnt, oh Gott, da geht ja alles verloren. Und so weiter sage ich, na ja, es geht
+zwar was verloren, aber wir machen ja kein psychologisches Modell, sondern wir machen
+ja eher ein soziologisches Modell, ein Gesellschaftsmodell. Das heißt, es kommt nicht
+darauf an, dass wir am Ende zum Beispiel Emotionen, Motivationen usw. formalisieren
+und damit algorithmisieren, also sie verhalten sich ja dann auch irgendwie, die Agenten miteinander,
+damit sind sie wieder kleine Automaten, sondern es kommt darauf an, dass wir eine Verteilung haben,
+also dass wir individuelle Agenten erzeugen. Und das ist halt die große Möglichkeit, die Manu
+gerade beschrieben hat, das ist die große Möglichkeit, dass AWM das kann oder dieses
+Tool, Netlogo das kann, dass wir nämlich lauter individuelle Agenten erzeugen. Also wir machen
+nicht tausend gleiche am Anfang, sondern tausend unterschiedliche und würfeln dabei, um eine
+gewisse Verteilung von Eigenschaften zu haben, die dann aber in ihrer Interaktion wieder automatisch
+oder algorithmisch sind. Uns interessiert aber nicht die einzelnen Agenten, sondern die
+Gesamtverteilung. Wie ist die Gesamtverteilung geschaffen und kann man die auch mitbestimmen?
+Ja, also wir haben ja auch in unseren Publikationen drin, dass wir sagen, naja, es gibt Überlegungen zu
+bestimmten Gruppenkulturen und von daher können wir die Formalisierung dieser Gruppenkulturen,
+die wir dann gemacht haben, plausibilisieren und eben auch einen Realgehalt versuchen zuzugeben.
+Also unsere Begründung, warum wir dann auch Schlüsse ziehen können, ist eben genau die. Wir
+haben eine Verteilung von bestimmten Verhaltensweisen, die im Durchschnitt mutmaßlich
+einer Verteilung von Verhaltensweisen in einer solchen Gesellschaft entspricht. Uns interessiert
+nicht das einzelne Individuum. Ja und nein, würde ich sagen, also oder beziehungsweise noch mal
+nachgefragt, also gerade im Bezug auf die Emotionen wäre das ja jetzt eigentlich dann interessant,
+da nochmal genauer drauf zu gucken, weil die Tatsache, dass es am Ende eine Vielzahl von
+unterschiedlich orientierten Agentinnen innerhalb der Simulation sind, ändert ja noch nichts daran,
+dass die einzelnen Emotionen innerhalb der Agentin dann doch eigentlich binär orientiert
+modelliert worden ist, oder? Also das bleibt ja trotzdem erhalten, dass, wenn ich mich richtig
+erinnere, im Narrativ die Emotion eigentlich eine Funktion aus unterschiedlichen Bewertungen eigentlich
+eher eben funktionalen Bewertungen ist. Also das ist quasi das Ergebnis einer mehr oder minder
+kalkulierenden Abschätzung von wie sehr meine Umgebung und die Dinge, die sich mir nahelegen,
+meine Bedürfnisse befriedigen oder sowas, jetzt mal ein bisschen verkürzt dargestellt. Und das
+wird dann als Emotion modelliert, als eine Art von auch Bewertung des Ist-Zustands oder der
+Potenzialität des Zustands, auch in die Zukunft gedacht, aber eben eigentlich trotzdem immer noch
+in einer binären, auch algorithmisierten Logik, wenn man so will. Also das heißt,
+dann habe ich zwar innerhalb des einzelnen Agenten, der einzelnen Agentin, habe ich zwar was,
+was ihr Emotion nennt, aber das ist halt bei weitem natürlich, hast du ja selber auch gesagt,
+überhaupt nicht das, was man jetzt allgemein als Emotion bezeichnen würde, die ja sogar oft eben
+gar nicht in so einem, auch so ein bisschen rational kalkulierenden Modus eigentlich operiert.
+Und das bleibt sozusagen in der Modellierung ja dann trotzdem noch außen vor, auch wenn ich
+sozusagen eine Vielzahl unterschiedlichster Agentinnen habe, die dann eine eben ermergierende
+Struktur entwickeln können. Aber ich sehe schon, Manuel hat seine Hand gehoben, um wahrscheinlich
+darauf einzukriegen, auch Stefan möchte nochmal. Leg los Stefan, wenn du was hast. Ja, vielleicht
+einfach direkt dazu, also nochmal aus der kritischen Psychologie geguckt. Tatsächlich sind Emotionen,
+sind unsere Emotionen, ist unsere Bewertung von dem, wie wir gerade uns befinden. Also wie
+gerade unsere Lebenslage ist, was gerade los ist mit uns und so weiter. Das spiegeln uns unsere
+Emotionen wieder. Ja, die zeigen uns, wie gerade, wie wir gerade drauf sind, wie wir gerade in
+welcher Lage wir, mit welchen Aufgaben, welchen Ängsten und so weiter, was vielleicht nicht
+geschafft werden kann, etc., etc., das spiegeln uns unsere Emotionen wieder. Also man könnte
+verkürzt sagen, Emotionen bewerten Situation. So hast du es auch formuliert. Und genau diesen
+Aspekt der Bewertung der jeweiligen Situation, das haben wir quasi implementiert. Und da die
+Agenten halt unterschiedlich sind, ist zwar diese Emotion sozusagen von der Funktionalität ja die
+gleiche, die bewertet immer nur, wie ist meine Situation. Also zum Beispiel, wie geht es mir
+gerade, wie gut bin ich versorgt angesichts meiner Bedürfnisse und welche Aktivitätsorientierung habe
+ich jetzt, was dann die Gruppenkulturen aus sind. Und diese Bewertung fließt dann ein in die Handlung,
+sozusagen. Und das in der Tat algorithmisch, aber durch die Verteilung eben mal so und mal so
+und mal so. Und das ergibt dann ein Gesamtspektrum. Manuel, Entschuldigung, ich mag dir noch einmal
+kurz drauf eingehen. Ich mag nur noch mal nachfragen. Das finde ich nämlich eine sehr
+relevante Aussage eigentlich jetzt von dir, Stefan, weil das ja eigentlich eine Modellierung der
+Akteurin, nicht nur im Modell, sondern du sagst dir jetzt eigentlich auch realweltlich gesehen,
+sozusagen, die Modellierung der Akteurin als eine rationale Akteurin ist, also ein Rational Agent,
+sozusagen. Aber das stimmt doch, also das ist interessant, dass das jetzt sozusagen in der
+kritischen Psychologie, die du ja dann hernimmst, quasi so gedacht wird. Aber es ist nicht so,
+dass es ist ja nicht so, dass wir die ganze Zeit in dieser Art und Weise kalkulierend durch die
+Welt rennen, sondern gerade Emotionen sind ja eigentlich oft etwas, was sich einer solchen
+rationalen Bewertung eigentlich auch entzieht, die in so einer Art und Weise, die jetzt fast schon
+nach einer Kosten-Nutzen-Rechnung klingt, eigentlich ihre Umwelt permanent bewerten würde. Also das
+finde ich interessant, dass das jetzt sozusagen deiner Perspektive eigentlich so ein sehr, sehr
+stark rational-rationalistische Perspektive fast schon zugrunde liegt. So klingt das jetzt fast.
+Ich finde interessant, dass du das als rationalistisch hörst. Ich mein's ganz und
+gar nicht. Ganz und gar nicht. Bei Emotionen sind gerade nichts, was durch meinen Kopf
+hindurchgeht, sondern Emotionen hab ich. Emotionen hab ich. Ich kann mich dann dazu verhalten,
+dass es mir zum Beispiel schlecht oder gut geht, aber erstmal hab ich die Emotionen. Und diese
+Emotionen, die ich habe, und das ist dann die kategoriale Überlegung der kritischen Psychologie,
+die haben was mit meinem In-der-Welt-Sein zu tun. Das ist nicht nur eine Innerlichkeit. Ich hab die
+ganz privat für mich, sondern die sagen was über meine Beziehung zur Welt, zu meiner Lebenswelt aus.
+Das ist eine kategoriale Überlegung und das ist auch begründet und so weiter. Da will ich jetzt
+gar nicht drauf eingehen. Und jetzt kommt dann auch in der kritischen Psychologie, was mache
+ich jetzt mit diesen Emotionen? Ich kann die nämlich jetzt nutzen als Erkenntnismittel. Das
+ist dann aber eine psychologische Fragestellung. Die hatten wir gar nicht. Die war für uns
+uninteressant. Für uns war nur interessant, die Agenten bewerten ihre Situation und diese Bewertung
+fließt danach in, wenn du so willst, rationale Überlegungen ein. Was möchte ich eigentlich haben?
+Wie sind meine Bedürfnisse? Wie will ich tätig sein? Und was verspricht für mich die beste
+Versorgung und Zufriedenheit? Also das sind zwei Ebenen und wir wollten gerade auch die
+nicht-rationale Ebene mit drin haben. Spannend. Ich bin gespannt, wie das für mich klingt,
+wenn ich dann die Folge später nochmal anhöre. Manuel, bitte. Ja, also ich glaube, dass mit
+Stephans Lektüre der kritischen Psychologie da wesentliche Komponente reinkommt. Ich selber
+kenne mich da nicht so gut aus. Beim Umsetzen von dem, wenn ich dann so einen Agenten habe,
+der verlauft rational. Das ist ganz klar. Also da gibt es Regeln, nachdem sich dieser künstliche
+Agent verhält und man kann natürlich einen Faktor, Irrationalität, also rational im Gegensatz zum
+rational Actor oder das rational Choice, der Neoklassik, da ist schon nochmal ein großer
+Unterschied, weil ja das Modell des rationalen Akteurs in der Neoklassik aufgebaut auf dem
+Prinzip der vollständigen Information. Das heißt, der repräsentative Agent in einem
+neoklassischen Modell verfügt über vollständige Informations- oder zumindest nach Lehrbuch und kann
+dann eine optimale Entscheidung fällen. Zum Beispiel ein klassisches Lehrbuch-Exempel aus
+der Ökonomie, die Haushaltsentscheidung. Der Agent hat ein Budget zur Verfügung und hat dann
+irgendwelche fixen Präferenzen und wählt dann ein bestimmtes Güterbündel zu einem bestimmten
+Preis. Das ist dann die optimale Entscheidung. Aber das kann die Agentin oder der Agent auch
+nur machen, wenn sie eher die vollständige Information über den Marktprozess hat. Und
+die agentbasierte Modellierung kann da jetzt einen Faktor reinbringen, der bei Herbert Simon
+oft gedeutet ist, der bounded rationality. Das heißt, die aktuelle Handlung rational,
+aber auf Basis lokaler Informationen. Das heißt, es spielt Nachbarschaft,
+Neighborhood, soziale Gruppe eine Rolle und die Frage, woher denn die Information kommt und welche
+Informationsflüsse es gibt, auf welchen Ebenen. Ob das jetzt immer eine aggregierte Information ist,
+die da zurückgespielt wird. Das wäre dann noch lange kein agent-based Model. Da könnte man auch
+von einer Mikrosimulation sprechen. Wenn die Akteure quasi immer nur ihren eigenen isolierten
+Pfad verfolgen und das Feedback in ihrer, also die Response im nächsten Zug, eine Response ist ein
+Aggregat, zum Beispiel das Produktionsniveau in Runde 1 und das Produktionsniveau in Runde 2 und
+dann agieren die Agenten darauf. Das ist auch eher langweilig für die Frage der sozialen Prozesse.
+Für die Frage der sozialen Prozesse ist natürlich entscheidend, wie sind diese Agenten vernetzt und
+in welchen Gruppen und in welchen Räumen bewegen sie sich und wo kriegen sie ihre Information her.
+Und dann bin ich schon in einem, soll ich jetzt nicht realistischeren, also realistischen Abbild,
+aber in einen realistischeren Abbild, weil wir alle natürlich von lokaler Information abhängig sind,
+wo diese Information herkommt und wie wir die dann verarbeiten. Und so sind da halt auch im
+agentenbasierten Modell, agieren dann über die Zeit manche Agenten anders als andere,
+weil sie eben von bestimmten Agenten lernen und Informationen übernehmen und die in ihr Verhalten
+übertragen. Die Frage der Emotion, wie wir das genannt haben, für mich war das immer eine gewisse
+Art des Well-Be, also das ist sozusagen ein Abbild des individuellen Wohlbefindens und bewertet,
+genauso wie Stefan das sagt, eine Distanz zu einer Lage. Das heißt, das ist quasi, da wird dann im
+Modell, also dann später in der Simulation, im Code, geht es da um Distanzen, wie weit bin ich weg
+von meinem Bild der Agenten und dann kann man hinzunehmen, das haben wir natürlich auch getan,
+in diesem Modell wollen wir halt hervorheben, wie die Agenten lernen von anderen. Dann geht es darum,
+wie weit bin ich weg von einem bestimmten Durchschnitt, von einer Peer Group und das
+kann jetzt eine Produktivgruppe sein, also wo die Agenten produzieren, kann aber auch eine
+Lebensgruppe sein oder ein anderer Querschnitt in den sozialen Netzwerken und von dort kommt dann
+die Information her und somit dann das individuelle Wohlbefinden bewertet. Was ist die Distanz? Im
+Modell geht es dann darum oder haben wir halt auch im Entwicklungsprozess so gemacht, wie machen wir
+diese Bewertung und wo sind quasi die Bemessungsgrundlagen? Was sind die Lagen,
+die bemessen werden sollen und wie wird bemessen und wie entsteht daraus dann zukünftiges Verhalten,
+weil die haben jetzt nicht forward-looking expectations da drinnen, dass sie ihr zukünftiges
+Verhalten im Trend vorberechnen und daraus eine Verhaltenskurve quasi entwickeln, nach der sie
+stur agieren. Also sie sind jetzt nicht besonders intelligente Agenten, sie reagieren kurzfristig.
+Also sie haben jetzt nicht eine Langzeit-Memory, das wäre dann eine nächste Untersuchungsform. Man
+muss sich dann überlegen, Zeit sich das auszuuntersuchen oder nicht, aber mit dem
+kann man natürlich spielen, gibt es ein Kurzzeitgedächtnis der Agenten, gibt es ein
+Langzeitgedächtnis, inwiefern spielt die eigene Historie der Entscheidungen eine Rolle und wird
+der Entscheidungsprozess mehr abgebildet durch die individuelle Geschichte an Entscheidungen oder
+durch die soziale Geschichte der Entscheidungen und welche sozialen Geschichten sind dann eben
+entscheidend, das das Modellierungsteam bewährt. Das ist ganz klar, das kann der Agent nicht machen
+und insofern glaube ich, haben wir mit der Emotion schon, man kann den Begriff natürlich
+diskutieren, ich finde das natürlich passt, weil es geht genau um diese Lage, aber es ist
+eine Art individuelles Wohlbefinden für mich und daraus kann man dann sich anschauen, wie ist das in
+der Gesamtheit, was ist soziale Wohlfahrt, das muss ja auch bewertet werden. Wenn man jetzt in so einem
+Modell ist, in so einem utopistischen, dann geht es mir ja nicht darum, dass ich ein Produktivitätsmaß
+habe wie das Bruttoinlandsprodukt und ich bewerte alle Entscheidungen danach oder es wird alles
+danach hinten angestellt. Da muss ich mal überlegen, was sind jetzt unsere Messungen, auch für uns zur
+Analyse, was sollen wir denn da jetzt von dem Modell als Ziel sehen, wo sollten diese Gesellschaft hin?
+Ja wunderbar, also da kamen jetzt schon ganz viele Sachen auf, die wir auf jeden Fall noch
+besprechen wollen, also zum einen kam natürlich auf, dass man sehr stark herausgehört hat Manuel,
+dass natürlich der Modellierer, die Modelliererin dadurch, dass er oder sie bestimmt,
+was die Parameter sind entlang derer bewertet wird und was eben die Ziele sind und so weiter,
+wie der Aufbau insgesamt natürlich einen ganz großen Einfluss hat auf das Modell,
+logischerweise, was aber natürlich auch noch mal unterstreicht und das denke ich mal,
+braucht ja zwischen uns hier nicht gesagt werden, aber vielleicht an die allgemeine
+Zuhörer-Innschaft noch mal gerichtet, dass natürlich so ein Modell in keiner Form irgendwie
+eine objektive Abbildung in einer Gegebenheit darstellt oder sowas, sondern dass natürlich
+die Modelliererin da einen großen Einfluss darauf hat, wie die Dinge aufgestellt sind und
+allein schon durch die Art und Weise der Fragestellung natürlich eine bestimmte
+Perspektivierung auch mitgibt, würde ich sagen. Aber vielleicht wollen wir da mal ein bisschen
+tiefer eintauchen, einfach in diese verschiedenen Aspekte, die du da jetzt angesprochen hast,
+Manuel, die ja letztlich viel einfach eben mit dem Aufbau dieses spezifischen Modells zu tun hat,
+weil die HörerInnen, die kennen das ja jetzt nicht. Du hattest jetzt verschiedene Aspekte
+eingebracht, die aus dem Kommunismus kommen, sowie Lebensgruppen zum Beispiel. Da gibt es
+also verschiedenste Einheiten, die man jetzt so noch nicht kennt, aber eben natürlich dann auch
+die Frage, bei so einer Emotion, was bedeutet das denn? Was sind denn die verschiedenen Parameter,
+aus denen sich diese modellierte Emotion zusammenstellt? Also was wird da genau abgefragt?
+Vielleicht können wir versuchen, da so ein bisschen ein Bild davon zu zeichnen,
+woraus dieses Modell denn jetzt eigentlich gebaut worden ist. Was gibt es für verschiedene
+Ebenen und welche verschiedenen Einheiten werden da in das Modell hineingesetzt,
+um den Kommunismus zu modellieren? Zuerst zur Frage der Ontologie und Methodologie noch kurz,
+ein Modell ist kein objektives Abbild und kann auch nicht sein. Es gibt natürlich in der
+Wissenschaftstheorie Debatten, ob Modellessimulationen für Vorhersagen genutzt werden
+keine Ahnung. Der IPCC, die machen ja auch Berechnungen über den Klimawandel und da wird
+simuliert, wie denn eine bestimmte durchschnittliche Gradveränderung Auswirkungen hat auf extrem
+eigenes. Das braucht es alles. Wir verwenden hier jetzt Modelle, also bei mir auch in der
+Lehre und in der Forschung. Wenn ich ein solches Modell verwende, dann ist der Anreiz ein didaktischer
+und nicht ein Anreiz der Vorhersage und Prognose oder der Zieltreffergenauigkeit auf die Realität.
+Ich möchte allen noch jetzt in den Kursen oder Forschungskolleginnen vermitteln, dass es darum
+geht, Systeme zu bauen, Welten zu bauen, von denen man was lernen kann, weil sie ein bestimmtes Design
+haben. Dass ich daraus jetzt eins zu eins Schlüsse machen kann, was ich da in der Welt ändern soll,
+das sei jetzt mal dahingestellt. Es geht eher darum zu verstehen, wie konstruiere ich so ein Modell,
+was kann ich daraus lernen für die Gesellschaft durch diesen Konkretisierungsprozess. Es war ja
+auch bei dem Modell, bei dem Projekt stets im Vordergrund. Diese Frage der Konkretisierung
+kann ja auch die Philosophie und die Debatte, was ist ein Kommunismus, verbessern.
+Weil man sich präzise Gedanken, Überlegungen machen muss, die man vielleicht vorher gar nicht
+im Sinn hat. Und so ist es auch eben beim Abbild, wenn du fragst, welche Komponenten
+sind da drinnen. Unser Modell hat eine biophysikalische Grundlage, das war uns
+ganz wichtig, weil wir halt auch stark aus der ökologischen Ökonomie kommen. Und da gibt es
+also Ressourcen, wenn wir jetzt quasi von dort beginnen wollen. Es gibt verschiedene Gruppen,
+Produktivgruppen. Und eine von diesen Produktivgruppen sind Ressourcengruppen,
+die quasi Harvest, Minen, Resources und geben die dann weiter. Das heißt, was wir haben,
+vom ökonomischen Aspekt her haben wir ein Input-Output-Modell, wo die Komponenten,
+die für die Erzeugung von Mitteln notwendig sind, durch eine Kette durchgehen. Input und Output.
+Auf der Frage der Agenten, die sind in Lebensgruppen und in diesen Lebensgruppen machen sie interpersonale
+Pflege und leben zusammen. Dann gibt es eben die Produktivgruppen, die beginnen bei der
+Ressourcengruppe. Dann gibt es Senken, also ökologische Senken, die quasi CO2 umsetzen
+können. Auch dort braucht es Agenten, die das machen. Dann gibt es einen Input-Output-Block
+an mehreren Produktionslevels, wo es unterschiedliche Produktivgruppen gibt,
+die vorige Inputs brauchen, um andere Mittel zu erzeugen, die dann weitergegeben werden,
+bereitgestellt werden an Gruppen, die immer näher in Richtung des Verbrauchs gehen.
+Und wir haben ein Bereitstellungssystem. Es gibt also keinen Markt. Das ist genau die Konzeption,
+die wir zentral aus dem Kommunismuskonzept übernehmen wollten. Eine exante Koordination
+der Bedürfnisse. Und da spielt eben eine große Rolle die Produktivbedürfnisse,
+die der Stefan der Vorgehung hat. Das kann er sicher genauer noch betonen, wie das funktioniert.
+Wichtig ist, dass auf Basis der Produktivbedürfnisse Agenten in unterschiedlichen
+Gruppen arbeiten wollen, weil sie bestimmte Arbeitsprozesse priorisieren über andere. Und
+es kann auch sein, dass Agenten lieber in Pflegeeinrichtungen, in Care Mean Groups
+arbeiten wollen. Also das wären jetzt Altersheime, Kindergärten, Krankenhäuser. Das wäre die
+transpersonale Pflege, Transpersonal Care. Und dann gibt es noch die Lebensmittel, also die
+Life Means Groups. Das ist aber jetzt nicht auf Lebensmittelbezug auf die Ernährung, sondern alle
+Mittel, die zum Leben gebraucht werden. Und so ist das Modell quasi auf der ökonomischen Seite
+ein Input-Output-Modell und daneben quasi die Pflegeeinrichtungen abgebildet, die aber auch
+Inputs brauchen, zum Beispiel Maschinen. Alle Produktivgruppen produzieren Maschinen oder
+Zwischengegenstände, Zwischenmittel, die weitergegeben werden. Und auf Basis von dieser Input ist halt dann
+der schlussendliche Output abhängig. Das heißt, es ist bei diesem Modell dann schon darum gegangen,
+wie man diese Kette stabilisiert. Also da hat sich dann vor allem auch die Lena im Coden vertieft,
+dann schlussendlich das System stabil hinzubekommen. Vielleicht nur nochmal kurz, weil ich da jetzt noch
+gerade dran hänge, Manuel, weil du das jetzt ebenso formuliert hast, dass es also das
+Bereitstellungssystem gibt und daneben dann die Pflege. Inwiefern? Weil ja im Kommunismus,
+wirklich richtigerweise immer betont wird, dass es eigentlich keine Produktion ohne Reproduktion
+gibt. Und ich hatte das aber immer so verstanden und fände das auch konsequenter. Und wie gesagt,
+so habe ich es auch verstanden, dass eigentlich es gibt keine Produktion, die nicht immer auch
+zwingend zeitgleich quasi Reproduktion ist. Also das war immer die Auffassung, wie ich das
+verstanden hatte, dass man eben ja diese Trennung eigentlich überwinden soll. Wenn jetzt aber,
+vielleicht habe ich es aber auch nur falsch verstanden, wenn jetzt sozusagen innerhalb
+der Modellierung die Reproduktion wieder eigentlich außen, also nicht außen vor,
+sie wird ja mit hineingenommen ins Modell, aber quasi getrennt gedacht wird, dann würde das ja
+eigentlich diese notwendige Zeitgleichheit oder zwingende Verbindungen wieder aufheben,
+von der ich immer dachte, dass sie im Kommunismus eigentlich wie so ein Fundament darstellt,
+was ich ja auch mal extrem gut daran fand, muss ich sagen. Aber vielleicht habe ich es
+auch nur falsch verstanden oder den Nebensatz war quasi einfach so formuliert, dass ich das
+falsch verstanden habe. Ja, damit ist eigentlich nur gemeint, wenn wir jetzt ein Krankenhaus
+hernehmen. Also es wird im Kommunismus eher durchaus, wenn es kein Krankenhaus gibt, dann
+wird es irgendein Primärversorgungszentrum kommen, weil wenn sie über den Arm bricht,
+wird man das irgendwie behandeln müssen. Und diese Gruppe steht dann neben einer
+Fahrradwerkstatt. Das ist gemeint, man steht daneben. Also das wird nicht dieselbe Gruppe sein,
+werden nicht dieselben Akteure sein, die ein Fahrrad reparieren und eine Hand. Ich meine,
+vielleicht, das weiß ich nicht, wie das in der Zukunft aussehen mag, ob das alles Multitasking-
+Menschen sind, die zugleich ein Fahrrad reparieren können und eine Hand oder ein
+Herd oder eine komplexe Cloud-Server-Infrastruktur aufstellen. Ich denke, da wird schon auch
+Spezialisierungen geben. Also auch wenn Produktion und Reproduktion simultan passieren muss,
+wird es unterschiedliche Ratte geben der Produktion und der Pflege. Das ist gemeint mit der
+Hand. Also wir könnten das auch genauso für den produktiven Bereich anschauen und auch dort
+gibt es Produktion und Reproduktion sozusagen. Auch die Maschinen wollen gepflegt werden. Auch
+die zum Beispiel CO2-Emissionen wollen dann behandelt werden, eben in den Senken und so. Das
+ist ja wieder Teil der Reproduktion und dieses eben nicht mehr auch von der Tätigkeitslogik
+auseinander zu reißen wie im Kapitalismus. Das ist das Entscheidende. Nicht so sehr,
+dass es Tätigkeitsteilung gibt und Spezialisierung und so weiter, wie Manuel gerade sagte. Das ist
+nicht der Punkt und wir wollten einfach den Aspekt des Care, dass das ein sehr, also auch
+gesellschaftlich gesehen von der Dimension her, ist es ein sehr wichtiger Bereich und deswegen
+wollten wir den unbedingt explizit als Tätigkeitsbereich drin haben.
+Jaja, voll. Ne, ne, das verstehe ich eh. Natürlich muss es Arbeitsteilung geben,
+aber zum Beispiel, es muss ja, also ich glaube, warum es mir ging und das hattest du jetzt
+eigentlich auch angesprochen, also es muss ja die Herstellung bestimmter Dinge komplett anders
+angegangen werden, wenn man aufhört die bestimmte Bereiche einfach aus Externalitäten abzutun.
+Und deswegen muss es dann eigentlich auch eine bestimmte Trennung, auch vom Prozess her eine
+bestimmte Trennung überwunden werden, in der ich quasi in erster Instanz erstmal hoffenweise
+Scheiß erzeuge, also Schmutz erzeugen oder Abfälle oder was auch immer erzeugen darf und dann später
+kümmert man sich drum, wie man mit denen umgeht, sondern nein, es muss ja eben im Prozess der
+Herstellung eigentlich dieser Gedanke der Reproduktion immer schon mit eingeflochten sein.
+So hatte ich das jetzt, aber da sind wir überhaupt nicht mit, das sehen wir alles so.
+Na fein, also dann gehen wir doch über mal so ein bisschen dazu, diese Fragestellungen,
+die ihr jetzt an dieses Modell gestellt habt, ein bisschen genauer anzugucken, weil es hatte
+ja einen Grund, warum ihr das gemacht habt. Ihr wolltet ja was rausfinden über den Kommunismus.
+Und also das, was ich ja so spannend fand, jetzt genau an dieser spezifischen Konstellation war,
+dass es, also ich finde intuitiv zumindest mal recht plausibel erscheint, dass eine solche
+spezifische Form des Simulierens, wie es das Agent-Based Modeling eben ist, dass die sehr
+gut geeignet erscheint, um so etwas wie den Kommunismus eben zu modellieren und
+daraus dann bestimmte Erkenntnisse auch zu gewinnen. Ihr hattet da auch eine relativ
+konkrete Fragestellung, die ihr an das Modell herangetragen habt und die war, welche Rolle
+spielt die inkludierende Versorgung innerhalb und zwischen Kulturen bzw. Gruppenkulturen für
+die stabile soziale und wirtschaftliche Reproduktion in einem großräumigen Netz
+von Commons? Und wie kann die Kooperation durch bestimmte institutionelle Mechanismen
+stabilisiert werden, wenn es keine inkludierende Versorgung gibt? Das ist jetzt Zitatende sozusagen.
+Das wäre quasi die Fragestellung. Das klingt jetzt so ein bisschen kompliziert vielleicht für
+Leute, die mit dem Kommunismus nicht so vertraut sind. Vielleicht Stefan, vielleicht magst du einfach
+nochmal so ein bisschen uns näher bringen, was ihr auch für euer eigenes Modell oder eure
+eigene Idee des Kommunismus mit dieser Simulation herausfinden wolltet. Was war das, was ihr das
+Gefühl hattet, was ihr da, ja, was ihr daraus gewinnen könnt für euch? Verschiedenes. Also
+wie Manuel betonte, geht es auch um ein Lernen am Modell und deswegen haben wir teilweise Dinge
+herausgefunden, die wir auch so erwartet haben. Also es ist nicht so, dass wir völlig überrascht
+wurden, sondern wir haben ja in gewisser Weise das Modell auch so zugeschnitten, dass das,
+was wir sehen wollen, auch tatsächlich eintritt. Für uns war immer dann interessant,
+wenn irgendwelche Hinterungsgründe auftreten, wenn irgendwas aus dem Ruder lief und so weiter. Das
+konnte man sehr schnell in der laufenden Simulation sehen und dann war immer die Frage, haben wir da
+falsche Annahmen reingesteckt und so, weil wir würden ja erwarten, dass zum Beispiel Kooperation
+sich durchsetzt. Deswegen klingt das vielleicht profan. Wir haben herausgefunden, was wir auch
+erwartet haben. Ja, wenn sich Kooperation maximal entfalten kann, dann sind Gesellschaften
+besonders stabil. Das ist nicht weiter verwunderlich, weil ja alle Gesellschaften
+auf Kooperation basieren und man könnte sagen, eine Gesellschaft ist per Definition ein
+Kooperationszusammenhang. Wenn man das so sieht, dann ist es allerdings eine historische Merkwürdigkeit,
+dass der Kapitalismus Kooperation durch Trennung herstellt. Erst werden alle Menschen und Betriebe
+und so weiter voneinander getrennt, um sie dann über ein drittes Geld und Markt wieder zu
+verbinden. Also für uns ist das so selbstverständlich, aber ich glaube ein außerirdischer Beobachter würde
+sagen, was macht ihr da für einen totalen Quatsch und Umweg und dann produziert ihr noch unglaublich
+viele Externalitäten, die ihr dann im Nachhinein aufräumen müsst. Kann man das nicht alles schon
+vorher inkludieren in die Kooperation? Und das ist das, was wir gemacht haben. Also genau dieses
+wir können auch vorher alles inkludieren und schon in dem Prozess der Produktion und Reproduktion
+einbeziehen und damit auch vermeiden, dass dieses auseinanderfällt, die Trennungen auch vermeiden,
+das erscheint uns utopisch. Aber dabei entspricht es sozusagen eigentlich der Qualität von
+Gesellschaft. Die Gesellschaft, wenn man die als Kooperationszusammenhang versteht, dann ist die
+Gesellschaft, die sozusagen ihre Kooperation maximiert, die stabilste und ich glaube auch für
+die Menschen geeignetste Gesellschaft. Und das wollten wir zeigen, also wenn wir quasi die
+Kooperationsbremsen, Hindernisse, Hürden, Trennungen und so weiter versuchen rauszunehmen, stellt sich
+das raus, zeigt sich das, was wir auch erwarten. Und so war es dann auch. Und das haben wir dann
+mit Gruppenkulturen gemacht und da würde ich an Manuel jetzt mal übergeben. Ja, sehr gern. Also
+noch zum Design des Modells, diese Input Output Struktur, von der ich gesprochen habe. Das ist
+jetzt nicht so, dass pro Produktionsniveau da eine Gruppe ist, die das dann produziert. Nein,
+es ist so konzipiert, dass pro Produktionsniveau es mehrere Produktivgruppen gibt, die das erzeugen.
+Und die Agenten, die sind ja nach Konzept auch freiwillig in diesen Gruppen. Das heißt,
+die können da aus- und einsteigen, wie sie wollen. Auch das muss man alles modellieren,
+wie die ein- und aussteigen, warum die ein- und aussteigen. Es sind dann sehr viele Details,
+die man dann auch im Papier nachlesen kann, wie wir das spezifisch ausmodelliert haben. Aber das
+hat einen großen Effekt und das muss man sich überlegen. Und das sind so Präzisionsfragen,
+die man, wenn man jetzt eine Utopie konzipiert, ich meine, wer schon immer das Privileg hat,
+eine Utopie konzipieren zu dürfen, der sollte schlussendlich auch mal darüber nachdenken,
+wie, warum Personen, Agenten, wie auch immer, da bei der einen Produktivgruppe aktiv sind und
+nicht bei der anderen und warum die sich jetzt darum kümmern, ein Ökosystem aufrechtzuerhalten
+und zu reproduzieren oder andere lieber eben eine Hand reparieren oder ein Herz und der nächste ein
+Fahrrad reparieren sollen. Diese Fragen muss man dann umsetzen. Das ist im Modell abgebildet. Wir
+haben dazu viel überlegt, wie dieser Entry und Exit von Agenten in Gruppen stattfindet. Deswegen
+ergeben sich auch unterschiedliche Größen an Gruppen. Was dann hinzukommt, was Stefan angesprochen
+hat, für uns war die Fragestellung relevant. Ist das so eine commonsbasierte Gesellschaft stabil
+im großen und large scale? Und die Frage ist dann langweilig zu beantworten, wenn man sagt,
+okay, die Agenten, die sind von Start auf alle gleich, weil dann wird sich das entweder leicht
+stabilisieren oder nie stabilisieren. Für uns war dann als nächste Fragestellung relevant,
+was ist, wenn die Agenten, die ja an sich heterogene Merkmale von Beginn an haben,
+aber dann noch klassifiziert sind nach unterschiedlichen Kulturen oder kulturellen
+Gruppen. Ist auch eine Fragestellung, die übrigens in der Cultural Evolution Debate und auch
+natürlich in der Anthropologie und evolutionären Anthropologie eine große Rolle spielt, warum sich
+bestimmte Kulturen so und so entwickelt haben und andere nicht und wie Kulturen miteinander umgehen.
+Und wir haben jetzt hier relativ große Gruppen Kulturen skizziert. Es gibt eine ökologische
+Gruppe, es gibt eine traditionalistische Gruppe und eine modernistische Gruppe und eine Zufallskultur.
+Diese Kulturen unterscheiden sich auf Basis von vier Charakteristika, die alle Agenten haben. Sie
+haben alle ein Level innerhalb eines Ego-Spektrums. Die haben alle ein Level innerhalb eines Leisure
+Spektrums. Also Leisure im Sinne von, wie viel ist mir das wert, dass ich den Dingen nachgebe,
+die mich selbst am meisten interessieren sozusagen. Es ist aber nicht Ego, sondern eher in Richtung,
+wie viel möchte ich in Produktion sein mit in Produktivgruppen und wie viel nicht. Dann gibt
+es ein Öko-Level, innerhalb eines Öko-Spektrums. Wie sehr ist es mir als Agentin, als Agent wichtig,
+dass die ökologische Reproduktion, sprich Nachhaltigkeit, Priorität hat und dann noch
+eine Gegensatzparameter, nämlich die Produktivität. Und da unterscheiden sich die Kulturen. Also die
+ökologische Kultur hat vor allem eher ein niedrigeres Ego-Level, also sind, wenn man so
+will, altruistischer. Ein gemitteltes Leisure-Level, die wollen quasi halbhalb in Produktivgruppen aktiv
+sein, als auch in Lebensgruppen die Zeit verbringen. Da geht es natürlich auch um Zeit und wie Zeit
+verwendet wird, weil es gibt nun mal nur so und so viele Stunden am Tag und so und so viele Tage
+in der Woche. Da muss man ja schon irgendwie eine Vorstellung haben, wie man die verwenden will. Und
+dann das Öko-Level gegenüber ist das Produktivitäts-Level. Da ist die ökologische Kultur ein niedriges
+Ego-Level, ein mittleres Leisure-Level, ein hohes Eko-Level, also Nachhaltigkeits-Priorität und
+ein niedrigeres Produktivitäts-Level. Das heißt, da ist die Produktivität, wie viel Output am Ende
+des Tages produziert wird, nicht so gewichtet wie zum Beispiel die Nachhaltigkeit. Bei den
+Traditionalisten ist das gespiegelt, da brauche ich jetzt nicht näher drauf eingehen. Dann gibt es eben
+diese modernistische Kultur, die ist so eine Mischung, wo auch eher altruistischer, aber der
+Gegensatz zur Ökokultur ist quasi, dass die Produktivität dann höhere Priorität hat. Die
+Zufallskultur, das wird gewürfelt und das sind all jene dann drinnen, die halt nicht in diesen
+Spektren vorhanden sind. Auf welcher Basis können wir solche Kulturen überhaupt annehmen? Wir
+diskutieren eine zukünftige Gesellschaft in einer fernen Zukunft. Dafür gibt es keine empirischen
+Werte, da können wir auch keine empirische Validierung durchführen, weil wir kennen keine
+Leute aus der Zukunft, also ich zumindest nicht. Und deswegen haben wir sozial-soziologische Studien
+herangezogen von einem Kollegen aus Deutschland, Dennis Ebersberg, der hat untersucht, inwiefern es
+Mentalitäten gibt, sozial-ökologische Mentalitäten in Deutschland und das ist empirisch erhoben. Ich
+möchte jetzt nicht auf die Methoden eingehen und auf die Theorie dahinter, das kann man alles im
+Detail nachlesen, das Papier ist bei uns referenziert und wir haben das quasi als Ausgangspunkt für
+diese Kulturen verwendet. Da mich eben diese Frage der Evolution von Kulturen im Zusammenhang mit
+politischer Ökonomie und Gesellschaftsentwicklung langfristiger auch immer interessiert hat,
+habe ich das als interessanten Aspekt gefunden, mit dem wir dieses Modell hinzufügen können,
+weil es ja darum geht, welche Mechanismen braucht man, dass diese unterschiedlichen Kulturen sich
+gegenseitig auch Dinge zur Verfügung stellen und warum sollten sie anderen Kulturen Dinge zur
+Verfügung stellen. Bei den Traditionalisten ist es zum Beispiel so, die haben jetzt nicht so ein
+Interesse daran, als anderen Gruppen zur Verfügung stellen, sondern referieren die Bereitstellung zu
+Gruppen ähnlicher Kultur. Wenn es jetzt aber, wenn man absieht von allen institutionellen Mechanismen,
+die diese Kooperation zwischen den Gruppen und innerhalb der Gruppen, weil man könnte ja quasi
+jetzt einen Querschnitt in der Produktionskette haben, der rein nach Kultur A funktioniert,
+dann hat man von der Kultur in jedem Produktionsschritt und in der Versorgung und
+Pflege diese Kultur A. Das ist natürlich instabil. Also wenn die Kulturen jetzt nicht
+sich gegenseitig Mittel zur Verfügung stellen und sie darauf angewiesen sind,
+dass andere Produktivgruppen, die in anderen Produktionsniveaus produzieren,
+dass sie von denen die Mittel bekommen, dann ist das fragil. Und die Frage ist,
+welche institutionellen Mechanismen braucht man dann oder braucht man eben nicht, dass
+sich das trotzdem stabilisiert. Und das wollten wir dann untersuchen. Ein Mechanismus, den man
+auch aus der Cultural Evolution Theory immer besprochen hat, ist halt die Frage der direkten
+und indirekten Reziprozität zum Beispiel. Oder die Frage, die wir dann, also ein Mechanismus,
+den wir als institutionelle Allokation hinzugenommen haben, ist, dass es Lagerstätten gibt,
+Inventories, die kulturübergreifend sind. Quasi pro Produktionsniveau gibt es dann Lagerstätten,
+oder ich glaube, haben wir jetzt dann schlussendlich über die Produktionsniveaus hinweg. Aber es gibt
+allgemeine Lagerstätten, worauf die unterschiedlichen Kulturen dann zugreifen können,
+falls es Versorgungsengpässe gibt. Das ist ja immer quasi zur Abfederung des Produktionsprozesses.
+Wenn ein bestimmter Produktionslevel die Mittel nicht mehr erzeugen kann, die für andere Levels
+notwendig sind, eine bestimmte Maschine oder bestimmte Zwischenmittel, dann kann die ganze
+Produktion ja erliegen. Und das ist eben der Spannende in komplexen adaptiven Systemen. Das
+kann ein bestimmter Moment sein. Und dann braucht es eben ein Konzept in so einer Gesellschaft,
+wie mit so einem Moment umgegangen wird. Und in den Gesellschaften haben sich halt institutionelle
+Mechanismen entwickelt, die das dann stabilisieren. Da haben wir bestimmte untersucht. Das war der
+Anreiz dazu, wie exklusive Verteilung, inklusive Verteilung und kulturabhängige Verteilung
+schlussendlich einen Effekt hat auf die Versorgung aller in diesem System und auf den generellen
+Systemzustand dieser künstlichen Gesellschaft. Ja, auch dort konnte man dann sehen, dass die
+Kulturen, die eher sozusagen an Mitglieder ihrer eigenen Kultur denken und mit denen kooperieren,
+aber mit anderen weniger, also die eher eine, ich sag jetzt mal, eine boniertere Sicht haben,
+dass die auch die größeren Probleme kriegen, während die großzügigeren Kulturen, die in
+Anführungsstrichen altruistisch orientiert sind, die also nichts dagegen haben, dass sie auch andere
+mitversorgen, dass die also stärker auf Kooperation ausgerichtet sind, dass die weniger Probleme
+bekamen. Also auch hier der Effekt sozusagen mehr Kooperation sorgt für größere Stabilität. Aber
+das kann man natürlich nicht voraussetzen in der Gesellschaft und deswegen die Frage, was kann
+man denn trotzdem tun, um bestimmte Stabilität zusätzlich sicherzustellen, denn wir wollen eben
+gerade nicht mit der Annahme in den Kommunismus sozusagen gehen, alle Menschen sind Altruisten
+und denken immer nur an die anderen, sondern die Regel wird eher sein, ich denke mal erst mal nur
+an mich und meine Nächsten und an denen orientiere ich mich, auch von denen lerne ich und dann müssen
+wir auch mit dieser Heterogenität die Probleme machen kann umgehen und das war eben eine der
+Fragestellungen, ob das gelingen kann und mit welchen Mitteln. Also ich habe ganz viele andere
+Fragen noch, aber vielleicht knüpfen wir trotzdem jetzt erst mal noch dort an. Was waren denn dann
+die Bedingungen, die es brauchte, damit eine solche Nahelegung funktionieren kann und dann auch ihre
+stabilisierende Funktion erfüllen? Also es wurden jetzt schon zwei Sachen angesprochen, einmal die
+indirekte Rezipozität und die Lagerstätten. Das sind quasi zwei Elemente, die jetzt innerhalb der
+Simulation ausgetestet worden sind, aber so ganz bringe ich es in meinem Kopf jetzt noch nicht
+zusammen, weil das sind ja an sich jetzt eben keine, also Lagerstätten sicher schon, aber jetzt sowas
+wie die indirekte Rezipozität ist ja nichts, was im Kommunismus als ein solcher Mechanismus für die
+Herstellung von Stabilität vorgesehen ist. Das heißt, wir befinden uns jetzt eigentlich, nur damit
+ich das gedanklich finde ich das so ein bisschen zusammen bekomme, korrigiert mich dann bitte gerne,
+wir befinden uns eigentlich in einer Testsituation, die wenn man so will auch eine
+Transformationsphase ist, in der eben noch viele unterschiedliche Kulturen, von denen eine
+kommunistisch orientierte ist, aber gleichzeitig gibt es eben auch die Traditionellisten und die,
+oder die traditionären Kulturen und die modernistischen und so. Es gibt diese
+verschiedenen Kulturen und man guckt jetzt quasi wie ein Übergang hin zu einem, wenn man so will,
+vollentwickelten Kommunismus, der dann auch umfassender ist, aussehen kann. Verstehe ich
+das richtig? Also einfach jetzt noch mal kurz um zu checken, ob ich jetzt quasi diesen Aufbau
+richtig verstanden habe. Also der Kommunismus ist kein Erziehungsprojekt, sondern der geht schon
+davon aus, dass gerade dort sich Individualität und damit Unterschiedlichkeit entfalten kann. Und
+er schöpft sozusagen ja auch seine Kraft aus dieser Unterschiedlichkeit und Individualität,
+weil Individualität bedeutet ja auch unterschiedliche Formen von Kreativität,
+um in kritischen Situationen dann bessere Lösungen zu finden. Also das kriegst du ja
+nicht in gleichförmigen Gesellschaften, sondern kriegst du eher in individuell orientierten
+Gesellschaften. Das heißt, das ist eine wichtige Grundannahme, die Menschen sind eher unterschiedlich
+und eine zweite Grundannahme, dass es jetzt auf theoretischer Ebene ist, wir werden sehr viele
+Konflikte haben, weil die Unterschiedlichkeit da ist. Nur die Konflikte werden jetzt aufgrund
+der maximalen Abwesenheit vollständig. Würde es das nie geben, aber maximalen Abwesenheit von
+Machtmitteln kann ich nicht einfach den Konflikt abkürzen, indem ich sage, ich diskutiere jetzt mit
+dir nicht, sondern ich haue dir einen über die Rübe, wenn du nicht, oder ich kaufe etwas,
+weil ich das Geld habe. Ja, das ist ja auch der Einsatz von Machtmitteln, Geld, um über die
+Arbeitskraft von anderen zu verfügen. Und wenn ich diese Mittel nicht mehr habe, dann muss ich
+kooperieren, um Ziele durchzusetzen. Aber ja nicht für jeden und überall in jeder Situation,
+sondern das muss ich auch erst mal kapieren. Das zum Beispiel indirekte Reziprozität, was ja bedeutet,
+ich stelle Dinge zur Verfügung und hoffe, ahne oder weiß, irgendwann kriege ich über einen anderen
+Weg ja auch wieder was zurück. Also das ist eine reziproke Beziehung, die ich eingehe, die ist nur
+nicht direkt. Also das ist nicht interpersonal, sondern es ist sozusagen eine transpersonale
+Zirkulation von Mitteln, die ich am Schluss aber brauche, um meine Bedürfnisse zu befriedigen. Wenn
+ich das mal gecheckt habe, dann ändert sich natürlich auch meine Haltung. Aber wir können
+es nicht zur Voraussetzung machen, sondern es muss auch mit den, sage ich mal, narrow-minded Leuten
+passieren, die sagen, mich interessieren die anderen erst mal nicht, ich gucke erst mal nur
+auf meine Leute und funktioniert das trotzdem. Inwieweit die dann irgendwann lernen, dass mehr
+Kooperationen sich, wenn man so will, auszahlt? Ja, würde ich auch mal von ausgehen, dass es eine
+Tendenz gibt, wie in jeder Gesellschaft, Strukturen einfach bestimmte Verhaltensweisen als funktional
+erscheinen lassen. Und im Kommunismus ist es eben die Kooperation, im Kapitalismus ist es die
+Konkurrenz. Also es wird schon auch einen Trend in die Richtung geben, aber zur Voraussetzung kann
+man es nicht erheben. Und besonders brisant wird es, und ich glaube, da wirst du noch nach Fragen
+ist, wenn man da eigentlich Transformation denkt. Also wir kommen ja nicht aus einer Situation,
+wo alle schon dieses Mindset haben, sondern wir kommen ja eher aus einer Situation, wo Leute
+eher das gegenteilige, konkurrenzförmige Mindset noch haben. Aber wir müssen trotzdem die
+Transformation auch uns vorstellen können. Ja, also ich merke, ich habe anscheinend auch die
+indirekte Reziprozität falsch verstanden, weil ich das jetzt, als ich das im entweder Narrative oder
+in dem Paper gelesen hatte, so verstanden hatte, als ob es nicht, wie du jetzt gerade gesagt hast,
+bedeuten würde, dass ich davon ausgehe, dass wahrscheinlich, aber vielleicht auch nicht,
+sozusagen, wenn ich jetzt was gebe, ich auch irgendwann mal was zurückbekomme, sondern ich
+hatte es eigentlich so verstanden, dass das eine Bedingung ist, dass es eigentlich dann auf
+eine Art Pausch darstellt, aber das meintest du ja jetzt eigentlich nicht, dann hatte ich das
+glaube ich einfach falsch verstanden. Ich hätte gedacht, dass es quasi ist, ich gebe nur etwas,
+wenn ich auch zwingend weiß, dass etwas zurückkommt, dann ist das eigentlich genau was anderes. Okay,
+bevor wir weitergehen, ich mag aber trotzdem noch kurz darauf eingehen, weil das glaube ich schon
+was ist, was man natürlich unmittelbar denkt. Wenn Stefan du jetzt sagst, wir haben herausgefunden,
+was wir erwartet haben herauszufinden, dass natürlich wahrscheinlich viele ZuhörerInnen,
+ich eingeschlossen als Moderator, natürlich sofort denke so, aha naja gut, dann haben die
+halt das Modell so getweekt, damit das herauskommt, was sie wollten, dass herauskommt. Das heißt,
+die sofort sich anschließende Frage wäre, also welche Annahmen habt ihr mit einbauen müssen,
+damit das so rauskommt, wie ihr euch gedacht habt, dass es rauskommt. Was waren sozusagen
+die ersten Schritte, weil das wird ja ein sich herantasten gewesen sein und das wird nicht sofort
+alles so aufgegangen sein, wie ihr euch das gedacht hattet. Was waren denn die Dinge auf,
+die ihr dann gestoßen seid, wo es dann eben wahrscheinlich mutmaßlich eben nicht geklappt
+hat und was wurde wie verändert, damit es dann geklappt hat, in Anführungsstrichen. Weil das ist
+ja ein total interessanter Prozess dann eigentlich. Das kann ich im Detail gar nicht sagen, weil das
+ist eine Frage der Implementierung und das immer wieder laufen lassen und feststellen,
+das läuft aus dem Ruder und da müssen wir noch was verbessern. Ja, ich kann dazu schon mal sagen,
+also die Sache der Inventarist zum Beispiel. Also es ist auch generell so in der heterodoxen
+Ökonomie, es kommt halt sehr stark auch aus dem Post-Kinzernismus und aus dem Institutionalismus,
+dass die Lager eine große Rolle spielen für den Koordinationsprozess. Jetzt unabhängig,
+ob das eine Marktgesellschaft ist oder eine kommonsbasierte Gesellschaft. Also Produktionseinheiten,
+die Gesamtkoordination ist sehr stark abhängig von diesen Lagergrößen und wie viel man auf Lager
+produziert. Weil es natürlich individuell für die Gruppe, ja auch aus reproduktions-, aus
+ökologischer Reproduktionslogik, darf es ja nicht sein, dass ich da jetzt Massen auf Lager
+produziere, weil dann habe ich natürlich einen enormen Waste. Das will ich ja auch nicht. Und das
+sind halt so Dinge, wie groß diese Lager sein sollen und ob es eben Lager gibt, auf die mehrere
+zugreifen können, die wir jetzt bei einem simulieren, erlernt haben, wie das in dieser
+günstlichen Gesellschaft schlussendlich zum Tragen kommt. Und da haben wir natürlich, da geht es dann
+ums Test. Das ist der Spannende an einer Simulation. Man macht diese Experimente. Ab Schluss von einer
+Simulation muss man natürlich Monte-Carlo-Simulationen machen, den Random Factor, damit man den die
+Stochastizität des Modells der Simulation schlussendlich eingreifen kann in irgendeiner
+Art und Weise. Das heißt, wenn ich jetzt so eine Simulation durchlaufen lasse, einmal, dann kann ich
+aus dieser einmaligen Abwicklung des Prozesses ja nicht viel lernen. Beim Programmieren selber und
+in der Entwicklung bin ich natürlich immer nur in einem singulären Durchlauf und teste mich da
+heran, wie zum Beispiel diese Lagergrößen zum Beispiel oder inwiefern der Einstieg in
+Produktivgruppen und der Ausstieg in Produktivgruppen oder der Einstieg in Pflegegruppen oder der
+Ausstieg in Pflegegruppen, wie der reguliert ist, inwiefern auch das soziale Lernen eine Rolle
+spielt. All das sind Dinge, die man im Vorhinein nicht weiß und da einfach nicht reinstecken kann.
+Und dann am Ende ist das herausgekommen, was wir angenommen haben. Das stimmt natürlich im Großen
+eventuell, aber in der ganzen Komplexität haben wir hier enorm viel dazugelernt. Wie kann man das
+abbilden? Was ist das soziale Lernverhalten? Wie müssen diese Größen ausschauen? Und das lernt
+man, finde ich, das ist eben das didaktische Element an Computer-Simulation, dass man da
+halt Experimente machen kann mit Gesellschaften, die halt empirisch nicht möglich sind oder auch
+wirtschaftspolitisch. Ich kann jetzt nicht hergehen und sagen, probiere mal aus, eine Million Menschen
+oder 100.000 Menschen, kann man es ökonomieren. Es wird schwierig umzusetzen sein. Das heißt,
+in irgendeiner Art und Weise muss ich mich dorthin annähern und die Simulation, die
+Computersimulation erlaubt das Erstellen solcher Räume, wo ich dann eben lernen kann, wie entscheidend
+sind diese Lagergrößen und reicht es aus, wenn die ein individuelles Lager haben, auf das diese eine
+eine Produktivgruppe zugreifen kann oder wie wichtig ist es, dass diese Produktivgruppen über die
+Kulturen hinaus auf gemeinsame Lager zugreifen können? Das stabilisiert enorm. Und wie groß ist
+die Rolle vom sozialen Lernen? Wenn sich jetzt alle nur an den Mittelwert eines sozialen Netzwerkes,
+sind ja auch alles unterschiedliche soziale Netzwerke, orientieren, dann ist es ein anderer
+Lernprozess, als wenn der vielfältiger ausgestaltet ist. Und das bekommt man damit. Das ist die
+Komplexität. Das ist sehr didaktisch, weil man natürlich lernt, wo sind die Stehschrauben,
+wie man sich da annähert. Aber das sind Details. Und das kann ich schlussendlich dann nur herausfinden
+mit Monte Carlo Simulationen. Das heißt, ich muss ein Parameter-Setting, das ich definiere,
+die und die Parameter möchte ich testen. Was kommt da bei den Variablen für unterschiedliche
+Verläufe heraus? Wenn ich das testen will, dann muss ich eine einzige Simulation mindestens 20,
+30 mal, besser 50 bis 100 mal wiederholen. Dann muss ich diese Würfel einfach 50, 100 mal werfen,
+damit ich herausfinde, was im Mittel da für eine Verteilung rauskommt. Weil sonst habe ich nur ein
+singuläres Ergebnis, einen Schnappschuss des Modells, der ein kompletter Ausreiter sein kann.
+Ein Verlauf, der nicht repräsentativ ist. Und natürlich muss ich das für so eine Computer-
+Simulation machen, weil sonst kann ich gar keine Aussagen treffen. Deswegen wird man bei uns im
+Paper, in der Results-Section von den Simulationsexperten, findet man Zeitreihen
+vom Variablen, die, wie man jetzt sicher durchschnitt oder median, enthalten über,
+sage ich jetzt mal, 50 Wiederholungen für genau, oder 100 haben wir gemacht, für genau dieses eine
+Parameter-Setting. Und dann schaue ich mir an, als Wissenschaftler, wie ist die Verteilung über
+diese Wiederholungen? Das heißt, wie groß ist das Zufallselement? Wenn diese Verteilung enorm ist,
+dann ist das Modell und die dazugehörige Simulation sehr chaotisch. Das heißt,
+würde dann überhaupt sehr abhängig sein, einfach nur vom Zufallselement. Wenn dieser Raum, diese
+Bandbreite an Ergebnissen enger ist, dann bewegt sich das Modell auf einen geordneten Fahrrad.
+Bei komplexen adaptiven Systemen ist man natürlich daran interessiert, genau an Systeme
+Entwicklungen, die dazwischen liegen, die weder chaotisch noch vollkommen geordnet sind. Und das
+überprüfen wir mit Wiederholung an Simulationsexperimenten. Dadurch können wir dann
+erst Schlüsse ziehen über das generelle Systemverhalten. Da sind wir dann natürlich weit
+vom einzelnen Agenten weg, sondern versuchen dann am Schluss natürlich schon eine Makroperspektive
+daraus zu gewinnen, mit welchen Parameter-Veränderungen es zu unterschiedlichen
+Zeiträumen verläuft. Und so kann man das dann auch wissenschaftlich abschließen. Sonst hat man ja
+nur Momentaufnahmen. Ich hätte mal noch zwei Nachfragen, bevor wir weiter gehen zu den
+emergenten Strukturen, die mich auch sehr interessieren, wegen den Lagerstätten. Das wird
+dann aber einfach gesetzt oder wird auch ein Prozess modelliert, der verhandelt, unter welchen
+Bedingungen die Agentinnen und Agenten bereit sind, solche Lagerstätten herzustellen.
+Na, das könnte man schon machen, aber wir haben da Vereinfachungen. Also das wird gesetzt.
+Wird einfach gesetzt.
+Die Lagergröße, ja.
+Und ähnliche Richtung von der Frage her. Woher kommen die Eigenschaften der Kulturen und in
+wiefern gibt es da wechselseitige Wirkprozesse, wenn man so will? Weil jetzt zum Beispiel bei der
+ökologisch orientierten Kultur, es ist ja unmittelbar mit der, also mit infrastrukturellen Fragen zum
+Beispiel verbunden, ob ich es mir leisten kann, jetzt mal so ganz banal gesprochen,
+ökologisch zu denken. Also Leute, die, was weiß ich, in einem permanenten Prekariat verhaftet sind
+und in jetzt heutigen Gesellschaften gesprochen quasi keine großartigen monetären Mittel zur
+Verfügung haben, denen wird es natürlich viel schwieriger fallen, ökologische Aspekte mit
+einzubeziehen in ihre alltägliche Praxis, was einfach faktisch teurer ist zum Teil. Also da
+müsste es ja eigentlich irgendwie ein Wechselspiel geben, weil man nicht einfach, sonst würde man ja
+eigentlich auf eine Art diesen Fehler begehen, dass man das sowieso individualisiert. Also wie
+wenn jetzt beim CO2-Abdruck die Leute so tun, als wäre dann die einzelne Person individuell
+schuld an diesem und jenen CO2-Fußabdruck und dabei ausgeblendet wird, dass das natürlich einen
+ganzen Kontext ausblendet und infrastrukturelle Bedingtheit ausblendet, die dazu beigetragen hat,
+dass dieser spezifische Fußabdruck zustande gekommen ist und so weiter. Bei der ökologischen Frage,
+da sind wir gerade auch an einer Erweiterung des Modells, weil was im Modell noch nicht abgebildet
+in dem Modell, was in der Publikation, von der wir da die ganze Zeit sprechen, ist die Feedback Loop
+nicht vollständig abgebildet. Das heißt, was heißt das? Es wird CO2 emittiert von allen
+Produktiv-Einheiten und das wird gemessen und es wird darauf auch geantwortet mit der Ökosystemförderung,
+mit den Bilden von Sinks. Aber was nicht drinnen ist, ist schlussendlich für die Frage des
+Klimawandels und der globalen Erwärmung der Feedback von den CO2-Emissionen auf den
+Durchschnittlichen Temperaturanstieg und vom Durchschnittlichen Temperaturanstieg der Feedback
+auf die Extremwetterereignisse. Das heißt, da spricht man dann im standardökonomischen Sinn,
+aber auch Heterodox von Integrated Assessment Models sprechen. Das sind jene Modelle,
+die halt auch der Weltklimarat verwendet. Integrated Assessment insofern, weil die
+Produktion einen Einfluss hat auf die CO2-Emission, die CO2-Emission Einfluss hat auf die
+durchschnittlichen Temperaturanstieg, der durchschnittliche Temperaturanstieg, wird
+dann modelliert in einer Klimabox und erzeugt Wetterereignisse. Das Spannende wäre dann eben
+auch bei uns im Modell, dort wollen wir dann hin. Das ist schon, im Grunde haben wir das schon
+ausprogrammiert, dass eben solche Wetterereignisse dann Schaden verursachen. Das kann Struktur
+betreffen und würde dazu führen, dass es zu Ausfällen kommen kann. Zum Beispiel in der
+transpersonalen Pflege, wenn da jetzt Krankenhäuser getroffen sind oder Schulen oder Kindergärten,
+dann wird das einen Effekt haben. Zum Beispiel, wenn Menschen dann mehr Care-Bedürfnisse haben
+als vorher. Oder es werden Produktionsstätten getroffen, dann hat man dort einen Ausfall an
+Maschinen und die müssen wieder nachgebaut werden etc. Und diese Feedback Loop, die ist es wichtig,
+da noch abzubilden, dass man auf die ökologische Frage und unter Anführungszeichen, was du meinst,
+die Kosten der Nachhaltigkeit, die sozialen Kosten der Nachhaltigkeit, sprichst du ja an,
+wenn ich das richtig verstanden habe, muss man das wieder einbeziehen. Da sind wir jetzt noch nicht
+voll dort, weil die Feedback Loop nicht geschlossen war. Also was wir integrieren wollen, sind zwei
+Aspekte. Einerseits den globalen Effekt eben, dass die CO2-Emissionen zu erhöhten Wetterereignissen
+Katastrophen führt, die dann Schaden verursachen. Das ist bei agentenpassierten Simulationen schön
+darzustellen, weil der Schaden ja nicht unbedingt immer gleich auftreten muss. Man weiß ja nicht,
+wo der Wirbelsturm schlussendlich durchzieht oder welcher Fluss am Ende des Tages bei Starkregen
+überflutet. Genau das macht ja die reale Situation auch so schwierig für viele Menschen,
+diesen Abstraktionsschritt zu machen, dass meine Emissionen und die Emissionen einer
+Großkonzern ökonomischen Struktur der fossilen Industrie Schaden erzeugen an anderen Orten der
+Welt. Dass das ein vernetztes System ist, ist ja eine entscheidende Reflexion, wo ja die Menschheit
+ja noch lange nicht angekommen ist. Das ist aber wichtig. Der zweite Aspekt ist der lokale,
+dass bei Produktion irgendeine Art von lokaler, regionaler Verschmutzung eintreten wird,
+ist auch klar, weil man ja mit Baustoffen irgendwie arbeiten muss, die an Schaden auf
+die Umwelt verursachen wird. Und das kann natürlich zu Gesundheitsproblemen führen bei
+den Menschen oder Agenten dann im System, die dann dort wohnen oder arbeiten. Das heißt,
+diese zwei Aspekte, glaube ich, muss man da im Modell integrieren, um dann schlussendlich zu
+beantworten, wie geht sich das gesellschaftlich aus, wie können wir das gesellschaftlich
+stabilisieren, dass Einzelne getroffen werden, aber dafür gesorgt wird, dass die Reproduktion
+nicht unterbrochen wird. Ein bisschen war es, glaube ich, ein Missverständnis, weil ich meinte,
+eigentlich was anderes, aber wir brauchen das gar nicht unbedingt jetzt nochmal durchgehen,
+weil ich glaube, ich kann es in die nächste Frage mit hineinpacken, weil also was mich ja
+eigentlich interessiert hätte oder was ich sagen wollte, war, dass die, ihr hattet diese
+verschiedenen Kulturen gesetzt und dass die Eigenschaften dieser Kulturen, die entstehen
+ja nicht im luftleeren Raum. Das war so ein bisschen der Punkt, beziehungsweise die Eigenschaften der
+Agentinnen innerhalb dieser Kulturen entstehen nicht im luftleeren Raum. Also dass ich in der
+Art und Weise, wie ich mich auf andere und meine Umwelt beziehe, eine ökologische Perspektive
+einnehmen kann, sage ich jetzt mal bewusster ein bisschen polemisch, ist auch bis zu einem
+gewissen Grad, nicht vollständig, aber bis zu einem gewissen Grad, ein Luxus oder für manche
+ist es ein Luxus, die sich eben, weil für sie, sagen die Infrastruktur, das infrastrukturell
+nicht gegeben ist, dass sie die Ressourcen haben, um das quasi vollumfassend tun zu können, weil
+es, ja genau, weil es halt zum Teil was kostet sozusagen. Aber das ist einfach nochmal ein
+bisschen anderer Aspekt, glaube ich. Ich versuche das mal hineinzuweben in die nächste Frage,
+weil ich würde gerne auf jeden Fall noch darauf eingehen, inwiefern das agent-based modeling in
+der Lage ist, eine Grundannahme des Kommunismus, nämlich die Grundannahme emergenter Strukturen,
+nämlich tragfähige Strukturen zu bestätigen oder zu widerlegen. Also ich habe mich gefragt,
+ob ihr wohl ja so eine Transformationsphase, wenn man so will, auch modelliert habt, in der
+einmal durchgespielt worden ist, ob und wenn ja wie sich ein Kommunismus denn herausentwickeln kann,
+hin zu einer tragfähigen Struktur und welche Eigenschaften und welche ja eben vielleicht auch
+institutionellen Parameter es braucht, um diese Nahelegung der Kooperation, die im Kommunismus
+ja angenommen wird, sozusagen vollumfassend auch Wirklichkeit werden zu lassen. Also vielleicht
+auch nochmal zu der ersten Frage, die du wiederholt hast. Im Kommunismus gibt es ja kein Geld. Das
+heißt, erstmal gibt es sowas wie universal basic services für alle. Das heißt, alle haben
+erstmal bei aller Unterschiedlichkeit den gleichen Luxus auf dem jeweiligen
+gesellschaftlichen Niveau, sich ökologisch zu verhalten. Dennoch wollen wir das nicht
+voraussetzen. Und natürlich gibt es da Learnings und so weiter. Und wenn du mich fragst, würde ich
+denken, wenn wir diesen Luxus haben, eben zum Beispiel existenziell abgesichert zu sein,
+also auch dieses Gefühl zu entwickeln, ich bin erstmal grundsätzlich sicher, dann kann ich mich
+auf, sag mal, anderen Dingen zuwenden. Wie geht es uns allgemein global auf dieser Welt und was
+brauchen wir insgesamt langfristig, damit es uns allen gut geht, damit auch mir. Diese Haltung,
+denke ich, wird sich ausbilden, aber wir wollen sie eben nicht voraussetzen. Aber ich glaube,
+die Ausgangsbedingungen sind erstmal da, dass diese ökologische Orientierung sich bilden kann. Viel,
+viel stärker als im Kapitalismus. Da würde ich dir total zustimmen. Da spielt eben der individuelle
+soziale Faktor eine Rolle. Und Manu hat es gerade versucht, so zu beantworten. Es ist eine
+gesellschaftlich-soziale Frage und nicht eine individuelle, ob wir das hinkriegen oder nicht.
+Die zweite Frage habe ich jetzt vergessen. Ja, ich bin mir auch nicht sicher, ob ich nicht
+vielleicht so ein bisschen ein Dreher drin habe im Bezug auf, welchen Entwicklungsstand,
+wenn man so will, das Kommunismus ihr im Modell jetzt tatsächlich angesetzt habt. Also die Frage,
+die ich jetzt eigentlich eben vorhin noch mal versucht hatte zu stellen, war, inwiefern diese
+Grundannahme des sich emergent herausbildens von tragfähigen Strukturen innerhalb der
+Simulation bestätigt oder widerlegt, also ihr habt ja eh schon gesagt, wie das bestätigt worden ist.
+Also ich finde, das ist was, was, wenn ich den Kommunismus, mit dem Kommunismus interagiere,
+einfach etwas ist, was halt sehr laut ist, dass halt ihr bestimmte Annahmen setzt im Bezug auf eben
+das polyzentrische Selbstorganisation und Stigmatgie ausreichend auch, um Metakoordination
+hervorzubringen, die am Ende eben in der Lage ist tragfähige Strukturen herzustellen und dass
+es so eine Art von Ausbreitungsmechanismus geben kann, in dem der Kommunismus als Praxis zeigt,
+dass das Nahelegen von Kooperation am Ende für alle quasi die bessere Lösung ist. Das ist im
+Grunde quasi das, wofür dieses Modell ja jetzt auch noch mal dienen soll. Aber um das glaubwürdig
+darstellen zu können, muss glaube ich auch diese Annahme des sich heraus entwickelnden dieser
+Strukturen als ein Prozess modelliert werden und gezeigt werden, dass das plausibel ist,
+dieses emergente sich herausbilden. Und das hängt glaube ich auch damit zusammen, mit der Frage
+was das ist, wo ihr diese Agentinnen jetzt hineingesetzt habt. Weil meine Hoffnung war
+so ein bisschen, dass man eben weil Agent-Based Modelling einen Bottom-Up-Prozess erlaubt,
+man in der Lage sein könnte, auch diesen Prozess des sich heraus entwickelnden von tragfähigen
+Strukturen zu zeigen und darzulegen. Im Gegensatz zu einem Zugang, wo man sagt, wir setzen jetzt
+schon einen mehr oder minder ausentwickelten Kommunismus voraus mit all den verschiedenen
+Grundannahmen und setzen in diesen hinein, dann Agentinnen, die quasi dann schon in diesem Setting,
+also in dieser mehr oder minder vollentwickelten, also vollentwickelten klingt blöd, aber in dieser
+ausentwickelten Utopie agierende Agentinnen. Das sind jetzt zwei sehr unterschiedliche Dinge. Das
+eine ist schwieriger als das andere und das eine würde eben so ein bisschen in die Richtung der
+Transformationsfrage halt auch tendieren, nämlich ja, genau, spezifisch in Hinblick auf diese
+Annahme des sich heraus entwickelnden von emergenten Strukturen. Es ist die Transformationsfrage. Es
+gibt sozusagen, ich unterscheide gerne wirklich auch scharf zwei Diskurse, den Transformationsdiskurs
+und den Utopie-Diskurs. Und es ist gut sozusagen nicht die Argumente zu vermischen, also sozusagen
+Argumente aus dem Transformationsdiskurs zu nehmen und dann zum Beispiel Einwände gegen die Utopie
+zu formulieren, weil das einfach nicht so funktioniert. Es wäre super spannend, wenn wir
+eine Transformation mit zig Annahmen natürlich modellieren könnten, aber ich würde jetzt mutmaßen,
+Manuel kann das gleich qualifizierter beurteilen. Ich würde mutmaßen, das ist eine um Größenordnungen
+komplexere Simulation, weil man einfach noch viel mehr Annahmen stecken muss. Und was wir dort ja
+machen, ist eine andere Art von Emergenz, weil es gibt ja sozusagen zwei Arten von Emergenz. Die
+einmal ist, emergiert der Kommunismus als stabile Gesellschaft aus der Logik heraus, die wir
+implementiert haben. Und da haben wir gesagt, ja, das macht es. Immerhin ist das rausgekommen. Das
+funktioniert hätte auch scheitern können. Und das andere ist, emergiert der Kommunismus
+historisch aus einem Prozess der sozialen Transformation. Kann er das? Hat er die
+Potenz dazu? Das ist eine andere Fragestellung. Das ist eher ein historisches Hervorgehen aus einem
+Prozess. Und da muss man ja ganz andere Fragen diskutieren. Ist dieser Umbruchsprozess eher
+einer der Reformen des langsamen Übergehens oder eines der Brüche, wo bestimmte Dinge auch
+schlagartig sich verändern können, auch zeitlich schlagartig? Und wie müsste man das dann in der
+Simulation abbilden? Da habe ich noch gar keine Idee, aber ich stelle mir das mega komplex vor.
+Ich glaube, das ist machbar.
+Wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet,
+schreibt mir gerne unter jan at futurehistories.today. Ich freue mich immer sehr über interessante
+Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt
+ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf unserer
+Homepage. Future Histories ist eine Produktion von MetaLapses zu finden auf meta lapses.net.
+Bis zum nächsten Mal. Ich freue mich.
