@@ -1,0 +1,1220 @@
+WEBVTT
+
+00:00.000 --> 00:05.800
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:05.800 --> 00:16.560
+Mein Name ist Jan Groß und ihr hört heute den zweiten Teil der Episode mit Stefan Mehretz und Manuel Scholz-Weckerle zum Simulieren von Utopien.
+
+00:16.560 --> 00:24.800
+Ich werde mich insofern auch einfach ganz kurz halten und Axel und Christian ganz herzlich als Unterstützer bei Patreon begrüßen
+
+00:24.800 --> 00:27.840
+und Fabian und Wilfried für ihre Spenden danken.
+
+00:27.840 --> 00:32.400
+Viel Freude mit dem zweiten Teil zum Simulieren von Utopien.
+
+00:38.040 --> 00:47.080
+Und das andere ist, immergiert der Kommunismus historisch aus einem Prozess der sozialen Transformation?
+
+00:47.080 --> 00:49.480
+Kann er das? Hat er die Potenz dazu?
+
+00:49.560 --> 00:55.520
+Das ist eine andere Fragestellung. Das ist eher ein historisches Hervorgehen aus einem Prozess.
+
+00:55.520 --> 00:57.800
+Und da muss man ja ganz andere Fragen diskutieren.
+
+00:57.800 --> 01:05.160
+Ist dieser Umbruchsprozess eher einer der Reformen des langsamen Übergehens oder eines der Brüche,
+
+01:05.160 --> 01:10.440
+wo bestimmte Dinge auch schlagartig sich verändern können, auch zeitlich schlagartig?
+
+01:10.440 --> 01:16.160
+Und wie müsste man das dann historisch, wie müsste man das dann in der Simulation abbilden?
+
+01:16.200 --> 01:20.320
+Da habe ich noch gar keine Idee, aber ich stelle mir das mega komplex vor.
+
+01:20.320 --> 01:22.400
+Ich glaube, das ist machbar.
+
+01:22.400 --> 01:24.120
+Es braucht nur Zeit.
+
+01:24.120 --> 01:26.440
+Ja, die Konzepte sind ja alle da.
+
+01:26.440 --> 01:34.600
+Und so eine Simulation, ich meine, wir haben jetzt zum Beispiel die agendenbasierten Makrosysteme,
+
+01:34.600 --> 01:39.840
+jetzt nicht nur ich und Kollege und wir haben solche Sachen implementiert,
+
+01:39.880 --> 01:41.600
+noch viele andere Forschergruppen.
+
+01:41.600 --> 01:47.920
+Das ist eben gerade auch spannenderweise in Europa das aktivste geografische Raum
+
+01:47.920 --> 01:49.560
+für agendenbasierte Makroökonomie.
+
+01:49.560 --> 01:57.360
+Und da gibt es Modelle dazu jetzt von den jetzigen aktuellen kapitalistischen Ökonomien,
+
+01:57.360 --> 02:02.840
+ja, so quasi Abstraktionen unserer industriellen Volkswirtschaft,
+
+02:02.840 --> 02:08.000
+aber auch Weite-Country-Modelle, also nicht jetzt nur Nationale Ökonomie.
+
+02:08.080 --> 02:13.800
+Und diese könnte man natürlich hier nehmen und die vermengen mit unserem Modell.
+
+02:13.800 --> 02:15.920
+Das habe ich konzeptionell auch schon mal durchdacht.
+
+02:15.920 --> 02:20.360
+Wir haben auch da schon Projektantrag mal versucht zu formulieren.
+
+02:20.360 --> 02:25.120
+Eine Schiene, wo das gehen kann, theoretisch und auch vom Modell her,
+
+02:25.120 --> 02:29.800
+ist, glaube ich, der ganze Diskurs zum Social Ecological Provisioning.
+
+02:29.800 --> 02:34.240
+Und was man auch jetzt liest immer wieder, der Diskurs, der auch,
+
+02:34.280 --> 02:38.960
+sage ich mal, wieder vorkommt, ist die Alltagsökonomie oder foundationale
+
+02:38.960 --> 02:43.120
+Ökonomie, wo man so eine multilevel Perspektive hat.
+
+02:44.520 --> 02:50.240
+Auch Kollege Andreas Nobby bei uns am Departement Sozialökonomie arbeitet da dazu.
+
+02:51.080 --> 02:53.120
+Da kommen dann auch Fragen der Raumplanung hinein.
+
+02:54.040 --> 02:55.920
+Also wie werden Städte geplant und so.
+
+02:56.600 --> 02:59.080
+Wie man das umsetzen kann, was passiert?
+
+02:59.080 --> 03:01.760
+Man kann ja gewisse Sektoren veröffentlichen.
+
+03:02.360 --> 03:07.200
+Das kann man in einer Simulation leichter als historisch, wenn man so will.
+
+03:07.960 --> 03:11.800
+Natürlich kann man in der Simulation sagen, der Sektor Wohnen, wenn ich jetzt
+
+03:12.880 --> 03:17.160
+das Wohnen drinnen haben will, das ist was, was wir zum Beispiel bei unserem
+
+03:17.160 --> 03:21.400
+Communism-Modell nicht irgendwie explizit ausformuliert haben.
+
+03:21.920 --> 03:25.120
+Wenn man so will, ist das vielleicht implizit irgendwo drinnen,
+
+03:25.520 --> 03:27.720
+aber eigentlich konkret nicht.
+
+03:28.000 --> 03:30.640
+Also Wohnen, Behausung, etc.
+
+03:30.640 --> 03:32.880
+Das sind halt dann auch so, halt kann man es.
+
+03:33.240 --> 03:37.520
+Aber in erster Linie müsste man das verstaatlichen, den Sektor.
+
+03:37.720 --> 03:42.120
+Und das könnte man in einer Simulation machen mit Social Housing
+
+03:43.320 --> 03:49.640
+und das Ganze mit den Primärsektoren, also Essensversorgung, Wohnversorgung.
+
+03:51.680 --> 03:56.720
+Mobilitätsversorgung sage ich mal, wenn man die drei Sektoren mal veröffentlicht.
+
+03:57.920 --> 03:59.680
+Vergesellschaftet.
+
+03:59.680 --> 04:02.080
+Das kann man in einer Simulation experimentell umsetzen.
+
+04:03.080 --> 04:05.240
+Und dann ist halt der Schritt, der schwierige.
+
+04:06.120 --> 04:08.680
+Historisch natürlich unfassbar.
+
+04:08.680 --> 04:10.840
+Man weiß nicht, wie das passieren wird oder kann.
+
+04:11.160 --> 04:12.840
+Stefan hat vollkommen recht.
+
+04:12.840 --> 04:16.880
+Es wird sicher eine Mischung sein aus Brüchen und Kontinuitäten.
+
+04:16.920 --> 04:18.840
+Es kann immer nur eine Mischung sein.
+
+04:18.840 --> 04:22.760
+Auch Brüche sind Sachen, die sich über lange Zeit aufbauen
+
+04:22.760 --> 04:27.320
+und Widersprüche sich da gegenseitig so lang aufschaukeln,
+
+04:27.440 --> 04:29.480
+bis dann halt irgendwas bricht.
+
+04:30.440 --> 04:35.240
+Aber das sind ja nicht komplett aus der Zeit genommene Momente.
+
+04:36.240 --> 04:39.240
+Auch Brüche haben Geschichte.
+
+04:39.240 --> 04:44.160
+Und wenn man das veröffentlicht hat, dann der Schritt zu den Cummins,
+
+04:44.520 --> 04:48.800
+dass es quasi aus der staatlichen Hand in die selbstorganisierte Versorgung geht,
+
+04:48.800 --> 04:50.520
+in diese polizentrische Versorgung.
+
+04:50.520 --> 04:54.600
+Das ist mit Sicherheit die größte Herausforderung bei so einer Transformation.
+
+04:54.600 --> 04:58.760
+Und was man machen könnte, ist, dass man so eine Art Plattformdesign hat,
+
+04:58.760 --> 05:03.200
+also Plattformen, es gibt ja auch eine Plattformökonomie, große Debatte,
+
+05:03.200 --> 05:07.680
+dass man so Plattformen verstaatlicht, vergesellschaftlich, kooperativ macht.
+
+05:07.680 --> 05:10.400
+Und aus diesen Kooperativen, dann kann man es entstehen.
+
+05:10.400 --> 05:14.080
+So kann man schon einen Prozess zeichnen und das in einer Simulation umstellen.
+
+05:14.080 --> 05:17.560
+Und dann hat man halt so unter Anführungszeichen Ökosysteme
+
+05:17.560 --> 05:21.960
+oder unterschiedliche Produktionstechnologien nebeneinander.
+
+05:22.000 --> 05:25.080
+Und man simuliert dann diese Koexistenz an unterschiedlichen.
+
+05:25.080 --> 05:29.560
+Da gibt es ein paar Lukkusgüter, die sind da jetzt noch irgendwie privatwirtschaftlich.
+
+05:29.560 --> 05:37.080
+Und da soll eine Vermögendeschichte, ist irrsinnig viel Geld besteuert, dafür zahlen.
+
+05:37.080 --> 05:41.040
+Und auf der anderen Seite ist die Grundversorgung
+
+05:41.040 --> 05:44.720
+in erster Hand vergesellschaftet auf staatlicher Ebene.
+
+05:44.720 --> 05:49.520
+Und dann in zweiter Hand mit immer mehr Nischexperimenten,
+
+05:49.520 --> 05:56.080
+der Nischexperiment in die selbstorganisierte Versorgung übergeht.
+
+05:56.080 --> 05:59.640
+Und da kann man in der Simulation dann tatsächlich vielleicht testen,
+
+05:59.640 --> 06:04.480
+wo da die Limits sind und wie da auch Geschwindigkeit eine Rolle spielt
+
+06:04.480 --> 06:11.120
+in einen Übergang von staatlicher Vergesellschaftung in kommonsbasierter Vergesellschaftung.
+
+06:11.120 --> 06:18.440
+Da wird mit Sicherheit auch Zeit die Frage, wie schnell dieser Prozess ist, eine große Rolle spielen.
+
+06:18.440 --> 06:22.200
+Also in der Simulation glaube ich, kann man das sehr wohl umsetzen.
+
+06:22.200 --> 06:27.240
+Da wird man dann wieder sagen, na ja, ihr habt ja das reingesteckt, was ihr haben wolltet.
+
+06:27.240 --> 06:29.280
+Das ist bei Modells.
+
+06:29.280 --> 06:31.040
+Ich würde nie was anderes behaupten.
+
+06:31.040 --> 06:32.520
+Das ist natürlich klar.
+
+06:32.520 --> 06:37.560
+Auch dann werde ich das natürlich oft so sagen, wenn man das macht.
+
+06:37.560 --> 06:41.880
+Ich hoffe, dass das irgendwer macht, weil es wäre eine spannende Aufgabe,
+
+06:41.880 --> 06:48.080
+wo man viel lernen kann und wo vor allem auch unterschiedliche Gruppen,
+
+06:48.080 --> 06:52.760
+soziale Bewegungen und auch staatliche Akteure voneinander lernen können.
+
+06:52.760 --> 07:00.120
+Aber Kammern sind ja doch sehr von den sozialen Bewegungen geprägt.
+
+07:00.120 --> 07:08.080
+Und dann gibt es, ich meine, am Beispiel von Wien staatliche oder Landesinstitutionen,
+
+07:08.080 --> 07:14.120
+die den Wohnbau übernehmen und die da halt sehr viel Know-how und Expertise und
+
+07:14.120 --> 07:16.680
+ja, da muss man viel lernen davon.
+
+07:16.680 --> 07:23.880
+Das ist jetzt nicht so, dass man sagt, okay, na ja, das wird von heute auf morgen alles über Kammern funktionieren.
+
+07:23.880 --> 07:28.640
+Ja, weil das sind doch Dimensionen.
+
+07:28.640 --> 07:34.360
+Ich würde gerne an der Stelle auf ein Buch hinweisen, was sich mit der Frage nämlich beschäftigt.
+
+07:34.360 --> 07:42.720
+In gewisser Weise schließt es an das Buch Kapitalismus aufheben an und beschäftigt sich fast ausschließlich mit der Transformation
+
+07:42.720 --> 07:48.400
+und diskutiert sozusagen die verschiedenen Möglichkeiten, die es gibt, Voraussetzungen, Bedingungen.
+
+07:48.400 --> 07:54.640
+Man könnte es fast so als theoretische Grundlage für eine mögliche Simulation dann verwenden.
+
+07:54.640 --> 07:59.480
+Aber ich kenne das Manuskript, das kommt demnächst raus, heißt Alles für Alle,
+
+07:59.480 --> 08:07.120
+Revolution durch Kommunisierung von Indigo Drau und Jonna Klick im Schmetterling Verlag.
+
+08:07.120 --> 08:11.520
+Und ich habe das Manuskript gelesen und ich sage mal, es ist halt nicht so einfach.
+
+08:11.520 --> 08:18.080
+Und dieses nicht so einfache der Transformation wird dort sehr breit diskutiert.
+
+08:18.080 --> 08:23.920
+Und deswegen gibt das nicht das Modell her, sondern man muss sich dann entscheiden,
+
+08:23.920 --> 08:28.920
+welche Fragestellung will ich vielleicht in so ein Modell packen, wenn man das macht.
+
+08:28.920 --> 08:35.080
+Aber Respekt, wenn das jemandem auch nur ausschnittweise gelingen sollte.
+
+08:35.080 --> 08:36.880
+Klasse, hier kommt alles zusammen.
+
+08:36.880 --> 08:43.000
+Also ich sehe schon, ja, das ist schon das Folgeprojekt, zeichnet sich schon ab.
+
+08:43.000 --> 08:50.840
+Gut, also Stefan, du hattest ja vorhin schon gesagt, okay, das, was das Modell immerhin geschafft hat,
+
+08:50.840 --> 09:00.000
+ist, dass gegeben eure Annahmen rund um den Kommunismus implementiert in ein solches Modell entstehen tragfähige Strukturen.
+
+09:00.000 --> 09:03.720
+Und das ist sozusagen schon mal ein Zugewinn als eine Erkenntnis.
+
+09:03.800 --> 09:07.480
+Jetzt würde ich gerne mal noch so ein bisschen mehr nachbohren.
+
+09:07.480 --> 09:14.120
+Wie weit ihr denn in Bezug auf, was man vielleicht einen Stress-Test nennen könnte, gegangen seid.
+
+09:14.120 --> 09:20.120
+Also es gibt ja so ein paar Sachen, bei denen, wenn ich jetzt zumindest den Kommunismus höre,
+
+09:20.120 --> 09:26.280
+ich denke, aha, okay, ja, aber vielleicht könnte es auch ganz anders ausgehen.
+
+09:26.280 --> 09:33.600
+Also zum Beispiel, was die Frage der Sanktionierung anbelangt oder überhaupt diese Idee,
+
+09:33.600 --> 09:41.440
+dass eigentlich im Grunde der Kooperationsentzug sowieso das entscheidende Mittel ist,
+
+09:41.440 --> 09:49.080
+mit dem quasi geregelt wird, wenn jetzt eine Form von, ja, ich weiß nicht, Fehlverhalten,
+
+09:49.080 --> 09:54.400
+wenn man das so nennen will, irgendwie vorliegt, dass im Grunde, so habe ich das zumindest verstanden,
+
+09:54.400 --> 09:59.240
+im Kommunismus davon ausgegangen wird, zum einen vielleicht erst mal das vorausgeschickt,
+
+09:59.240 --> 10:02.800
+dass das alles irgendwie sichtbar ist, also dass die Leute mitbekommen,
+
+10:02.800 --> 10:09.360
+dass da zum Beispiel eine exkludierende Aneignung von Ressourcen geschieht oder sowas
+
+10:09.360 --> 10:17.560
+und dass dann die anderen in das Kommunik involvierten Parteien sozusagen auch dementsprechend,
+
+10:17.560 --> 10:22.160
+wenn sie sehen, dass es da zu Missständen verschiedenster Art kommt,
+
+10:22.200 --> 10:27.360
+sozusagen sie auch erst mal natürlich kommunikativ versuchen da zu intervenieren
+
+10:27.360 --> 10:34.600
+und aber als drastisch das Mittel letztlich der Sanktionierung dann der Kooperationsentzug verbleibt,
+
+10:34.600 --> 10:39.280
+quasi. Und dass das aber eigentlich, so habe ich das verstanden, ein wichtiges regulierendes
+
+10:39.280 --> 10:45.280
+Element ist innerhalb der Art und Weise, wie Communik sich eben strukturiert hin zu,
+
+10:45.360 --> 10:52.400
+so nehmt ihr das hier eben an, zu eben eigentlich einer Dominanz oder eine weitreichende Vorherrschaft
+
+10:52.400 --> 10:57.560
+des kooperativen Verhaltens, das auch nahegelegt wird. Und jetzt kann man sich aber, wenn man da
+
+10:57.560 --> 11:04.120
+so ein bisschen ja ein bisschen Druck ausübt, irgendwie auf dieses Bild zu sagen, ja relativ
+
+11:04.120 --> 11:08.760
+schnell vorstellen, dass sich bestimmte Machtstrukturen bilden rund um strategisch wichtige
+
+11:08.760 --> 11:15.880
+Commons. Also wenn ich das richtig verstehe, setzt ihr voraus, dass eigentlich die Commons,
+
+11:15.880 --> 11:22.760
+oder die Leute, die in das Communing rund um diese Ressource in dem Fall involviert sind,
+
+11:22.760 --> 11:30.360
+dass die auch darüber entscheiden eben mit wem da dann weiter kooperiert wird, also an wem das
+
+11:30.360 --> 11:35.600
+weitergegeben wird und so weiter. Und wenn man dieses Szenario hört, dann finde ich, kommen
+
+11:35.680 --> 11:41.320
+relativ schnell zum Beispiel Bedenken auf, es könnte zu Form der Kartellbildung kommen,
+
+11:41.320 --> 11:47.360
+es könnte eigentlich letztlich zu einer Machtausübung kommen, basierend auf dieser eben
+
+11:47.360 --> 11:51.840
+in Anführungsstrichen, so seht ihr das nicht, aber in Anführungsstrichen Vormachtstellung,
+
+11:51.840 --> 11:58.920
+weil man eben über die Verteilung dieses spezifischen Gutes, das vielleicht ein
+
+11:58.920 --> 12:04.520
+seltenes und nicht so einfach woanders eben wieder herstellbares Gut ist, verfügt. Also das
+
+12:04.520 --> 12:09.720
+ist eigentlich einfach eine Gefahr. Das kann man sehen bei physischen Gütern, könnte man sich aber
+
+12:09.720 --> 12:14.400
+zum Beispiel eben auch bei Informationen vorstellen, dass halt natürlich Leute einen strategischen
+
+12:14.400 --> 12:19.120
+Vorteil haben, wenn sie über bestimmte Informationen verfügen, liegen bei anderen und so weiter und
+
+12:19.120 --> 12:27.440
+so fort. Und jetzt wäre natürlich spannend, ob ihr innerhalb des Agent-based Modells irgendwie
+
+12:27.440 --> 12:36.320
+Tests ausgeführt habt, um herauszufinden, unter welchen Bedingungen eben Kooperationsentzug als
+
+12:36.320 --> 12:44.720
+eine hinreichende Form der Sanktionierung anzusehen ist. Also was muss insgesamt gegeben sein, damit
+
+12:44.720 --> 12:52.400
+das wirklich diese Wirkmacht entfalten kann, die ihr innerhalb des Kommunismus euch dazu vorstellt.
+
+12:52.400 --> 13:01.200
+Ja, also zunächst mal möchte ich gerne davorheben, dass Kooperationsentzug als Sanktion ja nicht den
+
+13:01.200 --> 13:06.880
+Charakter hat, wie wir jetzt heute ein Gesetz mit einer Bestrafung oder so. Also es ist nicht formal
+
+13:06.880 --> 13:11.600
+festgeschrieben, wenn du das tust, dann droht dir Sanktion durch Kooperationsentzug, sondern das
+
+13:11.600 --> 13:18.280
+entscheiden die Leute ja aufgrund ihrer konkreten Situation selbst. Und ich glaube, sie machen es
+
+13:18.280 --> 13:24.240
+auch nicht, um die andere Gruppe, die andere Person jetzt zu erziehen und zu maßregeln, sondern auch
+
+13:24.240 --> 13:29.280
+um selber die eigenen Bedürfnisse und Interessen zu schützen. Wenn zum Beispiel die Kooperation nicht
+
+13:29.280 --> 13:34.320
+gut läuft und für uns schlecht ist und so, warum sollte ich da nicht rausgehen? Also das ist im
+
+13:34.320 --> 13:42.880
+Grunde auch nichts anderes, als wir heute haben. Ja, Jan, du hast so… Ja, Entschuldigung, darf ich da nur kurz anmerken,
+
+13:42.880 --> 13:50.920
+das muss nichts Positives sein, gell? Also dieses Fehlen an Formalisierung, wann ein Kooperationsentzug
+
+13:50.920 --> 13:57.160
+passiert, kann ja auch als eine Form von Wahllosigkeit und dadurch eigentlich als ein Element der
+
+13:57.160 --> 14:01.320
+Machtausübung dieser Vormachtstellung angesehen werden. Also es muss nicht nur was Positives sein.
+
+14:01.320 --> 14:10.440
+Richtig, genau. Und da kommen wir auf die Problematik der ungleichen Handlungs- und Verhandlungsmacht.
+
+14:10.440 --> 14:17.400
+Die kann aus sehr, sehr vielen Gründen auftreten. Man kann sogar sagen, in der Gesellschaft wird es
+
+14:17.400 --> 14:23.680
+immer eine Asymmetrie geben zwischen den Personen, was ihre Handlungsmöglichkeiten und ihre
+
+14:23.680 --> 14:28.800
+Handlungsmacht und damit Verhandlungsmacht angeht. Die wird es immer geben. Also ich denke nicht nur
+
+14:28.800 --> 14:34.200
+an die Leute, die jetzt auf strategischen Ressourcen sitzen, sondern auch zum Beispiel an alte,
+
+14:34.200 --> 14:40.280
+kranke Menschen, die einfach davon abhängig sind, dass sich andere um sie kümmern und sie unterstützen.
+
+14:40.280 --> 14:49.160
+Oder psychisch beeinträchtigte Menschen etc. etc. Die gibt es ja. Und wie auch andere aus
+
+14:49.160 --> 14:54.200
+feministischer Sicht, von Heide Luthers zum Beispiel formuliert, sind die eben auch eine
+
+14:54.200 --> 14:59.360
+große Zahl. Ob sie die Mehrheit sind, weiß ich nicht. Aber sie sind eine sehr, sehr große Gruppe,
+
+14:59.360 --> 15:04.960
+zumindest im Kapitalismus. Das heißt, das ist nicht irgendwie eine mitzuversorgende Minderheit,
+
+15:05.200 --> 15:13.120
+sondern von dort aus muss man auch die Problematik, denke ich, aufziehen und denken. Also was an diesen
+
+15:13.120 --> 15:19.400
+Stellen sichtbar wird, doch sichtbar wird, ist die Abhängigkeit, die wir voneinander haben. Die haben
+
+15:19.400 --> 15:26.400
+wir aber alle voneinander. Nur an den Stellen, wo ich eben nichts einbringen kann, um meine
+
+15:26.400 --> 15:33.560
+Verhandlungsposition zu stärken in Gesprächen oder so, spüre ich diese Abhängigkeit viel,
+
+15:33.640 --> 15:39.520
+viel stärker. Aber wichtig ist, es ist für alle vorhanden. Denn wenn man so will,
+
+15:39.520 --> 15:46.680
+ist Abhängigkeit die Kehrseite von Kooperation. Wenn wir ein Kooperationsnetz haben, dann sind
+
+15:46.680 --> 15:50.720
+wir auch alle davon abhängig, dass dieses Netz funktioniert. Weil ich eben nicht mehr für mich
+
+15:50.720 --> 15:55.520
+alleine die Dinge aller Regeln, was ich im Kapitalismus durchaus kann, ich muss nur ein großes
+
+15:55.520 --> 16:00.880
+Bankkonto aufhäufen, dann schneide ich quasi auch die Kooperation oder kann die Kooperationsbeziehung
+
+16:01.200 --> 16:06.320
+zu anderen abschneiden, weil ich mit genug Geld kann ich alles machen. Das geht im Kommunismus
+
+16:06.320 --> 16:10.720
+nicht mehr, sondern die Abhängigkeit ist real. Und zwar eine Abhängigkeit, die wir in allen
+
+16:10.720 --> 16:18.320
+Gesellschaften haben. Für diese Problematik der asymmetrischen Handlungsmacht, die in jeder
+
+16:18.320 --> 16:25.040
+Gesellschaft existiert, sehe ich jetzt für den Kommunismus zwei Antworten. Und die klingen
+
+16:25.040 --> 16:31.000
+gleich profan. Das eine ist Gewöhnung und das andere ist Schutz. Mit Gewöhnung meine ich,
+
+16:31.000 --> 16:36.480
+dass wir in jeder Gesellschaft lernen, wie die Dinge halt alltäglich funktionieren. Will ich
+
+16:36.480 --> 16:41.640
+im Kapitalismus ein Brot haben, so gehe ich halt in den Laden und kaufe das. Und dafür brauche
+
+16:41.640 --> 16:48.000
+ich Geld, das muss ich verdienen und so weiter und so fort. Das ist doch völlig normal. So läuft das.
+
+16:48.000 --> 16:53.200
+Im Kommunismus gehe ich vielleicht, wenn das so organisiert ist, in ein Depot, hole mir das
+
+16:53.240 --> 16:59.760
+Brot, weil ich weiß, dass dort die Brote liegen und befriedige meinen Brotbedürfnis. Ja, das ist
+
+16:59.760 --> 17:07.000
+doch völlig normal. Und diese Normalität, diese Gewöhnung, glaube ich, ist ein sehr großer Faktor.
+
+17:07.000 --> 17:11.960
+Es ist ein Moment der Trägheit, was uns dann auf die Füße fällt, wenn wir was verändern
+
+17:11.960 --> 17:17.440
+wollen. Weil Leute aus dieser Gewöhnung eine Schwere auch rauszubringen sind. Also gesellschaftliche
+
+17:17.440 --> 17:21.120
+Transformation sehen wir jetzt bei, weiß ich nicht, dem Energiewandel und dann wollen die
+
+17:21.160 --> 17:27.000
+Leute nicht ihre Gasheizung loslassen, weil die funktioniert ja. Und dieses Moment von
+
+17:27.000 --> 17:32.600
+Gewöhnung gibt es auch im Kommunismus. Und ich bin es halt gewohnt, die anderen mit einzubeziehen,
+
+17:32.600 --> 17:39.400
+weil ich das so gelernt habe. Das ist das eine Moment. Darauf aber total zu hoffen, dass das
+
+17:39.400 --> 17:44.760
+immer automatisch auftritt und sich damit alle Probleme irgendwie automatisch auflösen funktioniert.
+
+17:44.760 --> 17:49.920
+Ich reicht nicht aus, sondern ich kann mir gut vorstellen, dass gesellschaftlich dann entschieden
+
+17:49.920 --> 17:57.640
+wird, bestimmte Schutzmechanismen aufzubauen. Weil es um den Ausgleich von Asymmetrie in der
+
+17:57.640 --> 18:02.320
+Handlungsmacht geht. Und das kann ja erkannt werden und diskutiert werden und Maßnahmen dafür
+
+18:02.320 --> 18:07.200
+vorgesehen werden. Um ein Beispiel zu nennen, an dem Beispiel der strategischen Ressourcen. Also
+
+18:07.200 --> 18:11.840
+da gibt es eine seltene Ressource. Und da gibt es eine Gruppe, sagen wir mal, um es extrem zu machen.
+
+18:11.840 --> 18:15.760
+Die sitzt da drauf. Die hat natürlich eine unheimlich große Verhandlungsmacht. Wem sie das
+
+18:15.760 --> 18:20.320
+dann gibt. Da könnte jetzt aber gesellschaftlich entschieden werden. Wir kehren dieses Prinzip.
+
+18:20.320 --> 18:27.600
+Diejenigen, die die Dinge produzieren, entscheiden auch, wem sie es geben. Ob frei verteilt oder
+
+18:27.600 --> 18:33.760
+gezielt im allgemeinen Fall. Dass das eingeschränkt wird oder aufgehoben wird. Und diejenigen,
+
+18:33.760 --> 18:40.040
+die es empfangen und dringend brauchen, die entscheiden, wie es verteilt wird. Das könnte
+
+18:40.040 --> 18:44.040
+gesellschaftlich entschieden werden. Und nur unter der Prämisse, dass die Gruppe diese
+
+18:44.120 --> 18:50.160
+Voraussetzung akzeptiert, kann sie dann diese seltene Ressource zum Beispiel weiter fördern
+
+18:50.160 --> 18:54.960
+und produzieren. Das sind Schutzmechanismen, die ich mir auch genauso für den Kehrbereich
+
+18:54.960 --> 18:59.800
+vorstellen kann. Wo keine Ahnung, was sich dann alles ausgedacht wird, für Menschen,
+
+18:59.800 --> 19:04.280
+die nicht mehr sprechen können. Andere für sie sprechen und ihre Bedürfnisse vertreten und
+
+19:04.280 --> 19:08.840
+artikulieren. Also Kinder zum Beispiel können bestimmte Bedürfnisse nicht artikulieren,
+
+19:08.840 --> 19:14.240
+haben die aber. Und die müssen mit in den gesellschaftlichen Prozess rein, damit die
+
+19:14.240 --> 19:22.000
+auch gesehen werden etc. Wie diese Schutzmechanismen konkret organisiert werden, das weiß ich nicht.
+
+19:22.000 --> 19:26.400
+Das ist dann Auspinsellei und da würde ich mich jetzt auch zurückhalten wollen. Aber die
+
+19:26.400 --> 19:31.640
+Beispiele sollten andeuten, dass es eben eine Möglichkeit gibt, bewusst mit diesen Asymmetrien
+
+19:31.640 --> 19:38.480
+in der Handlungs- und Verhandlungsmacht umzugehen, sodass der Mechanismus der Sanktionen möglichst
+
+19:38.480 --> 19:46.360
+auch subjektiv gewollt nicht eingesetzt werden muss. Also das ist natürlich jetzt extrem
+
+19:46.360 --> 19:53.000
+spannend und ich muss danach fragen, auch wenn du jetzt sagst, das wäre dann Auspinsellei. Aber es
+
+19:53.000 --> 19:59.360
+geht nicht um die Frage der Auspinsellei, sondern es geht um die Frage, was das Gesellschaftliche
+
+19:59.360 --> 20:05.680
+ist im Kommunismus. Weil wenn du sagst, das kann dann gesellschaftlich entschieden werden. Das ist
+
+20:05.680 --> 20:11.440
+ja einer der großen Knackpunkte. Wie kann das innerhalb des Kommunismus gesellschaftlich,
+
+20:11.440 --> 20:17.640
+Ausrufezeichen dahinter, mehrere, entschieden werden? Und wie kann diese gesellschaftliche
+
+20:17.640 --> 20:26.960
+Entscheidung dann auch durchgesetzt werden entgegen der spezifischen individuellen Interessen derer,
+
+20:26.960 --> 20:32.400
+die da auf dem strategisch wichtigen Kommens sitzen? Das ist ja eben genau einer der großen
+
+20:32.400 --> 20:38.920
+Knackpunkte, die es zu beantworten gilt, wenn man sich, wie es im Kommunismus der Fall ist,
+
+20:38.920 --> 20:46.280
+so sehr dagegen wehrt, dass es da irgendwelche Formen der, ja, weiß ich nicht, wie man das
+
+20:46.280 --> 20:52.280
+dann nennen will, ja, Institu- Startlichkeit. Startlichkeit, ja, genau, gibt, ja. Also oder
+
+20:52.280 --> 20:56.680
+übergeordneten Entscheidungsebene, die auch Weisungsbefugnis hat oder wie auch immer, ja.
+
+20:56.680 --> 21:01.680
+Also das ist ja der Knackpunkt, ne? Also insofern kommen wir da nicht drum rum. Und da geht es jetzt
+
+21:01.760 --> 21:07.040
+nicht um Auspinselei, sondern das ist einfach eine strukturelle Frage auch an den Kommunismus,
+
+21:07.040 --> 21:12.280
+weil ich finde, ich teile das ja total, ne? Gerne entscheiden wir dann gesellschaftlich,
+
+21:12.280 --> 21:16.800
+dass die sich bitte nicht da einfach auf das Kommens setzen und irgendwie die anderen
+
+21:16.800 --> 21:21.640
+drangsalierenden Macht ausüben, weil sie halt da eine strategisch wichtige Ressource zurückhalten.
+
+21:21.640 --> 21:27.520
+Voll, ja. Aber wie? Wie wird das dann gesellschaftlich entschieden? Ups, wie wird das
+
+21:27.520 --> 21:31.560
+gesellschaftlich entschieden? Und was bedeutet das innerhalb des Kommunismus,
+
+21:31.560 --> 21:35.360
+diese gesellschaftliche Ebene? Völlig klar die Frage und die wird auch,
+
+21:35.360 --> 21:40.280
+ich sage es mal, innerhalb des Kommunismus als Theorie-Strömung unterschiedlich diskutiert.
+
+21:40.280 --> 21:47.400
+Es gibt Personen, die, also TheoretikerInnen, die dann in Richtung von dafür muss es auch
+
+21:47.400 --> 21:54.760
+von dem sonstigen produktiven und reproduktiven Prozess getrennte Strukturen geben, die sich
+
+21:54.760 --> 21:59.840
+dieser Fragen annehmen. Rätestrukturen zum Beispiel. Was natürlich sofort die ganzen
+
+21:59.840 --> 22:04.560
+Folgefragen aufwirft, die du schon genannt hast, wie wird das dann durchgesetzt, was haben die für
+
+22:04.560 --> 22:10.640
+Entscheidungsmacht etc. etc. Andere sagen, ja, es muss auch in dieser Gesellschaft so was geben,
+
+22:10.640 --> 22:18.640
+wie die Konfliktbehandlung über Interessenkämpfe, also dass bestimmte Gruppen dann auch sozusagen
+
+22:18.640 --> 22:24.480
+auf die Straße gehen und ihre Bedürfnisse als Interessen formulieren und dann versuchen durch
+
+22:24.560 --> 22:30.720
+zu setzen. Und es gibt solche, zu denen gehöre ich dann eher, die sagen, ja, das müssen wir
+
+22:30.720 --> 22:37.640
+commonsmäßig lösen. Was heißt commonsmäßig lösen? Commonsmäßig lösen heißt eben nicht
+
+22:37.640 --> 22:44.600
+eine außerhalb des kommunistischen Prozesses der Produktion und Reproduktion liegenden Struktur
+
+22:44.600 --> 22:50.160
+zu versuchen aufzubauen, weil ich glaube, dass das unglaublich viele Nachteile und Rückfälle
+
+22:50.160 --> 22:56.400
+produziert, so nahe das liegt, sondern dass wir gucken, wie kann man das commonsmäßig lösen.
+
+22:56.400 --> 23:02.000
+Mein Standardbeispiel an der Stelle ist, ja, wie sollen globale Fragen wie zum Beispiel die
+
+23:02.000 --> 23:06.080
+Klimakatastrophe, wie sollen die gehandelt werden, wenn du nicht eine globale Struktur dafür hast,
+
+23:06.080 --> 23:10.840
+ein Globalstaat oder was auch immer. Dann sage ich, na ja, wir haben dafür auch schon ja Ansätze,
+
+23:10.840 --> 23:17.280
+nicht? Also das IPCC ist ja nur beratendes Gremium, aber das ist, wenn man so will,
+
+23:17.280 --> 23:23.400
+ein wissenschaftliches Commons. Die haben sich zusammengefunden, weil sie diese Frage bewegen
+
+23:23.400 --> 23:31.320
+wollen. Und so stelle ich mir vor, dass auch gesellschaftlich wichtige zentrale Fragen von
+
+23:31.320 --> 23:38.240
+denen bewegt werden, die sich dafür selber mandatieren, weil sie da Bescheid wissen oder
+
+23:38.240 --> 23:45.040
+weil sie betroffen sind oder weil sie einfach an der Lösung mitarbeiten wollen. Und dann eine
+
+23:45.040 --> 23:52.000
+selbstorganisierte Gruppe zur Lösung dieser Fragestellung gründen, meinetwegen Sprechfähigkeit
+
+23:52.000 --> 23:57.520
+derjenigen, die krank sind und nicht mehr sprechen können. Wie können wir dafür eine Lösung
+
+23:57.520 --> 24:04.480
+etablieren? Und dafür bildet sich ein Lösungsfindungs Commons, was dann einen Vorschlag macht. Und dieser
+
+24:04.480 --> 24:12.040
+Vorschlag, wie immer, muss so formuliert sein, dass er möglichst viele Bedürfnisse einbeziehen,
+
+24:12.040 --> 24:16.640
+inkludieren kann, weil nur wenn er inkludierend genug ist, wird er so viel Unterstützung finden,
+
+24:16.640 --> 24:23.880
+dass er umgesetzt wird. Und das könnte man jetzt auf die strategischen Ressourcen anwenden. Dafür
+
+24:23.880 --> 24:30.640
+kann man genauso gut Vorschläge entwickeln. Allerdings funktioniert das schlecht in einer
+
+24:30.640 --> 24:37.160
+Situation der laufenden Produktion, wo die schon diese Ressourcen innehaben und darüber verfügen.
+
+24:37.640 --> 24:41.520
+Das ist aber für mich wieder eine Transformationsfrage, ob man da nicht diesen
+
+24:41.520 --> 24:46.160
+noch kapitalistischen Konzern, der auf dieser strategischen Ressource sitzt, tatsächlich
+
+24:46.160 --> 24:53.480
+enteignet und kommunisiert, das heißt in die Hände von Commoners überführt, um dann nach ganz
+
+24:53.480 --> 24:58.920
+anderen Kriterien diese Ressource zu fördern und zu verteilen. Das ist für mich aber dann eher ein
+
+24:58.920 --> 25:03.920
+Prozess, der in der Transformation geschehen muss, sodass wir nicht auf einmal plötzlich entdecken,
+
+25:04.680 --> 25:08.000
+da ist eine Commons-Gruppe und die sitzt jetzt darauf, die hat eine riesige Verhandlungsmacht
+
+25:08.000 --> 25:11.560
+und wir kriegen die auch nicht mehr weg, selbst wenn wir da noch einen Commons gründen,
+
+25:11.560 --> 25:17.440
+was eine Lösung erarbeitet. Also diese Situation würde ich gerne möglichst vermeiden und in der
+
+25:17.440 --> 25:23.120
+Transformation, glaube ich, wird die aufpoppen, weil das ja das Charakteristikum im Kapitalismus
+
+25:23.120 --> 25:28.680
+ist. Wer das Eigentum hat, der entscheidet. Okay, wir werden das wahrscheinlich jetzt hier nicht
+
+25:28.680 --> 25:33.480
+abschließend klären können. Das IPCC ist natürlich insofern ein interessantes Beispiel,
+
+25:33.480 --> 25:39.520
+weil ja relativ konsequent nicht das gemacht wird, was die empfehlen, insofern ist das natürlich
+
+25:39.520 --> 25:44.600
+immer das erste, was mir auffällt. Wir haben ja auch keine Commons gesetzt. Ja genau, ich wollte
+
+25:44.600 --> 25:48.080
+gerade sagen, ich verstehe schon, dass du das natürlich aus einer anderen Perspektive heraus
+
+25:48.080 --> 25:52.640
+verwendest, das Beispiel, und ja gerade eigentlich auch schon angedeutet hast, dass innerhalb des
+
+25:52.640 --> 25:56.760
+Transformationsprozesses wiederum, das ja auch mit eingeflochten werden muss, dass eben diese
+
+25:56.760 --> 26:01.280
+Vormachtstellung über einzelne Ressourcen nicht entstehen sollen, dass strukturell unterbunden
+
+26:01.280 --> 26:06.520
+werden soll. Gut, da gäbe es natürlich noch viele Fragen an das Ganze, aber das werden wir
+
+26:06.520 --> 26:12.720
+wahrscheinlich mal anders dann nochmal in aller Tiefe bearbeiten können. Ich würde gerne jetzt
+
+26:12.720 --> 26:17.720
+trotzdem nochmal, obwohl wir das eigentlich zu Beginn unseres Gesprächs auch schon mit dabei
+
+26:17.720 --> 26:24.480
+hatten, würde ich trotzdem gerne nochmal dieser Frage oder dieser Frage nochmal einen Raum geben,
+
+26:24.640 --> 26:31.000
+was denn jetzt ausbleibt oder was vielleicht verloren geht, wenn man ein solches Modellieren
+
+26:31.000 --> 26:34.720
+macht. Ich hatte das hier überschrieben mit die Lücke, die der Rechner lässt. Ich glaube,
+
+26:34.720 --> 26:39.880
+ein Buch von Deck Becker heißt so, aber ich fand einfach den Titel ganz passend. Stefan,
+
+26:39.880 --> 26:43.480
+du hattest da in einem Chat, in einem ganz anderen Chat bezüglich des Projektes mal
+
+26:43.480 --> 26:47.920
+geschrieben und ich zitiere dich jetzt einfach mal, doch wie immer bei solchen Implementierungen
+
+26:47.920 --> 26:53.840
+verändert sich bei jedem Umwandlungsschritt immer auch der Inhalt, also Theorie zu Narrativ zu Code.
+
+26:53.840 --> 26:59.120
+Das bedürfte nochmal einer eigenen Reflektion, die wir noch nicht geleistet haben. Was bleibt auf
+
+26:59.120 --> 27:05.480
+der Strecke, wenn wir Theorien formalisieren und als Code implementieren? Zitat Ende. Und das ist
+
+27:05.480 --> 27:10.320
+natürlich eine der großen Fragen, die jetzt hier mit im Raum stehen und wir hatten sie ja auch schon
+
+27:10.320 --> 27:16.400
+so ein bisschen gestreift. Was bleibt da auf der Strecke? Und ich würde gerne einfach nochmal so
+
+27:16.400 --> 27:21.560
+ein bisschen abfragen, was ihr ja was ihr meint dazu. Was bleibt denn jetzt wirklich auf der
+
+27:21.560 --> 27:26.280
+Strecke, wenn man sich dieser Mittel bedient? Wir hatten jetzt schon ein paar Vorzüge genannt und
+
+27:26.280 --> 27:30.640
+die gibt es glaube ich ohne Zweifel, aber eben es gelte glaube ich schon nochmal sich zu fragen,
+
+27:30.640 --> 27:38.120
+was kann da nicht nur nicht abgebildet werden, sondern was verzerrt sich innerhalb des Prozesses
+
+27:38.120 --> 27:43.920
+dieser verschiedenen Transformationen und was bedeutet das für diesen gesamten Zugang? Also
+
+27:43.920 --> 27:48.200
+mich würde das wirklich sehr interessieren, was ihr da für eine Einschätzung zu habt. Stefan,
+
+27:48.200 --> 27:54.240
+natürlich nicht zuletzt deine Meinung. Manuel, du bist da natürlich ja schon ein bisschen durch
+
+27:54.240 --> 27:58.920
+deine Profession sowieso schon vorher gefärbt, das muss ja nichts schlechtes sein. Also mich
+
+27:58.920 --> 28:02.960
+würde interessieren, wie denkt ihr dazu? Womit haben wir es da zu tun und was eben gelte, ist da
+
+28:02.960 --> 28:07.000
+vielleicht nochmal zu reflektieren? Ich werde mal dazu allgemein was sagen, da kann Stefan nochmal
+
+28:07.000 --> 28:13.520
+konkreter darüber nachdenken. Ich sehe das natürlich nicht so eng alles mit den Modellen
+
+28:13.520 --> 28:21.680
+und Simulationen und so, weil wir leben mit Modellen, wir sind von Simulationen umgeben,
+
+28:21.680 --> 28:29.440
+das heißt was bleibt auf der Strecke und so, das kann ich konkret noch nicht beantworten. Allgemein
+
+28:29.440 --> 28:35.600
+würde ich sagen, diese Dinge sind alles was formalisiert wird, das ist halt komplementär
+
+28:35.600 --> 28:42.040
+zu sehen. Wenn ich jetzt eine Idee habe und das aufschreibe, was bleibt auf der Strecke,
+
+28:42.120 --> 28:48.200
+wenn ich es auf Papier bringe, das kann man überall, wenn ich ein Modell habe, wenn ich
+
+28:48.200 --> 28:54.360
+es thematisch aufschreibe, bleibt vielleicht sehr viel auf der Strecke, aber das ist vielleicht
+
+28:54.360 --> 29:00.440
+extremst elegant und hat eine bestimmte Schönheit und hat auch einen Sinn, irgendeinen Mehrwert.
+
+29:00.440 --> 29:07.160
+Es kommt halt auf den Gebrauch drauf an, für was verwende ich das, was ist der Zweck von dem,
+
+29:07.160 --> 29:16.160
+das ist für mich entscheidend. Und was ist ein Modell, ist eine Frage, die ich auch von meinen
+
+29:16.160 --> 29:23.320
+Kursen eingangs behandeln muss. Man kann sich das, da ist ganz gut ein Buch von Milan Page über
+
+29:23.320 --> 29:30.120
+Complex Adaptive Systems, man kann Modelle als Karten verstehen, als Maps, das heißt da wird
+
+29:30.120 --> 29:38.280
+irgendwas gemapt. Wenn ich jetzt mal eine Karte anschaue, die ich verwende, um in einer Stadt,
+
+29:38.280 --> 29:47.000
+wie Wien von A nach B zu kommen, dann ist das natürlich ein Modell, weil die Karte hat bestimmte
+
+29:47.000 --> 29:56.600
+Informationen drauf und andere nicht. Das ist eine Abstraktion und da gibt es Filter und es kommt auf
+
+29:56.600 --> 30:03.000
+den Zweck drauf an. Wenn ich jetzt ein Restaurant finden will, dann brauche ich eine Karte, wo es
+
+30:03.000 --> 30:10.080
+Infos gibt über Restaurants. Wenn ich jetzt einfach nur den kürzesten Weg finden will, dann müssen
+
+30:10.080 --> 30:17.280
+da alle Straßen genau drinnen sein. Das sind ja jetzt alles Beispiele. Was ist bei einem Mapping?
+
+30:17.280 --> 30:23.480
+Bei einem Mapping wird ein bestimmter Zustand in einen anderen Zustand gebracht. Da ist die
+
+30:23.480 --> 30:34.320
+Grundmenge immer größer als der Transition Space. Bei dem Mapping, bei der Abstraktion,
+
+30:34.320 --> 30:42.920
+da geht es um Äquivalenzen und es kommt darauf an, welche Äquivalenzen ich genau ausformulieren
+
+30:42.920 --> 30:48.520
+will und welche nicht. So sind Modelle zu verstehen, als Karten glaube ich. Das hilft,
+
+30:48.520 --> 30:55.880
+als didaktische Karten, die einem helfen, sich in einem bestimmten theoretischen Raum oder ein
+
+30:55.880 --> 31:01.360
+bestimmtes Problem zu orientieren, zu navigieren. So würde ich das mal sehen. Ich fand das eine
+
+31:01.360 --> 31:07.440
+sehr gute, allgemeine Fassung und ich würde es vielleicht in meiner Denke so formulieren,
+
+31:07.440 --> 31:17.200
+es bleibt immer die jeweilige Kategorialität auf der Strecke. Der wirkliche Park, wenn ich
+
+31:17.200 --> 31:24.480
+durch den gehe und ihn für mich erfasse mit bestimmten angemessenen Kategorien, dann verstehe
+
+31:24.480 --> 31:28.320
+ich, was ein Park ist. Wenn ich jetzt dann aber diese Landkarte nehme und auf den gleichen Park
+
+31:28.320 --> 31:33.720
+gucke, dann ist diese Kategorialität, also diese Ebene der, was kann ich überhaupt ausdrücken,
+
+31:33.720 --> 31:39.480
+die ist komplett weg. Aber was anderes kommt in den Mittelpunkt, wie lang die Wege sind und ob
+
+31:39.480 --> 31:46.600
+ich von da günstig nach da durchkomme, also eben der Zweck, wo ich die Abstraktion vollziehe. Wichtig
+
+31:46.600 --> 31:52.680
+scheint mir zu sein, sich bewusst zu machen, von was abstrahiere ich, wovon abstrahiere ich,
+
+31:52.680 --> 31:59.880
+wenn ich zum Beispiel in unserem Modell Emotionen implementiere, allgemeine Emotionen verstehe als
+
+31:59.880 --> 32:07.160
+Bewertungsfunktionen des Individuums der Welt, wie es sie erfährt und dann aber nicht die ganze
+
+32:07.160 --> 32:12.160
+Bandbreite dieser möglichen Bewertungen, die sich für uns ja konkret anfühlt, also unsere
+
+32:12.160 --> 32:18.760
+eigene Kategorialität hat, die kann ich niemals abbilden, sondern ich muss dann sagen, das
+
+32:18.760 --> 32:24.520
+changiert dann nur zwischen, meine Situation als Gesamtsituation ist gut oder schlecht, also das,
+
+32:24.520 --> 32:32.160
+was Manuel sagte, ist dann ein Wellbeing. Und das reicht mir aber für meinen Zweck aus, wenn ich
+
+32:32.160 --> 32:37.240
+dieses, mir geht es gut oder mir geht es schlecht, dann wiederum inhaltlich füttere und sage, da
+
+32:37.240 --> 32:42.440
+fließt ein das Level an Bedürfnissen, was ich ausdrückt in dem Wunsch nach bestimmten
+
+32:42.440 --> 32:47.760
+Befriedigungsmitteln, da fließt ein, wie ich meine produktiven Bedürfnisse, also meinen Wunsch auch
+
+32:47.760 --> 32:56.080
+beizutragen erfüllen kann, da fließt ein, wie es meinen Fellows geht etc. Und dann ist das für mich
+
+32:56.080 --> 33:00.200
+der Parameter und ich weiß, an jeder Stelle, an jeder einzelnen Stelle in dem Modell habe ich
+
+33:00.200 --> 33:05.640
+abgeschnitten und habe mich konzentriert, um einen bestimmten Zweck zu erreichen, nämlich eine
+
+33:05.640 --> 33:11.840
+Erkenntnis zu gewinnen, die ich dadurch definiere. Definition selber ist ja auch immer eine
+
+33:11.840 --> 33:18.000
+Eingrenzung. Ich sage, zur Definition gehört das und das gehört nicht dazu. Und das ist so
+
+33:18.000 --> 33:23.160
+ähnlich wie bei Modellieren, da definiere ich und schneide ab. Und das gehört da rein und das
+
+33:23.160 --> 33:29.880
+gehört nicht da rein und was rein gehört, kann ich am Ziel messen, am Zweck messen. Ja, wunderbar,
+
+33:29.880 --> 33:35.200
+also ich finde das auf jeden Fall unglaublich spannend und finde, dass das auf jeden Fall
+
+33:35.320 --> 33:42.480
+interessante Räume eröffnet, unterschiedlichste Erkenntnisse mit hervorzubringen aus dieser
+
+33:42.480 --> 33:49.680
+Kombination von in dem Fall jetzt Kommunismus und Agent-Based Modeling. Und ich möchte auch
+
+33:49.680 --> 33:55.040
+allen ZuhörerInnen in diesem Sinne jetzt quasi, weil wir das jetzt alles natürlich nicht in der
+
+33:55.040 --> 34:00.280
+vollen Tiefe irgendwie erkunden können in diesem Gespräch, nochmal das Paper ans Herz legen,
+
+34:00.280 --> 34:06.120
+das in jedem Fall auch in den Show Notes verlinkt sein wird und möchte euch beiden zum Abschluss noch
+
+34:06.120 --> 34:12.840
+die Frage stellen, wenn ihr euch Zukunft vorstellt, was stimmt euch freudig? Also wenn ich mir die
+
+34:12.840 --> 34:19.600
+nähere Zukunft vorstelle, dann gehört für mich dazu der Future Histories Podcast und mich stimmt
+
+34:19.600 --> 34:26.320
+freudig, dass es den gibt und dass er weiterläuft und sich vertieft auch dem Thema gesellschaftlicher
+
+34:26.400 --> 34:31.640
+Planung widmet. Also das ist ein großes Kompliment an dich, Jan. Das stimmt mich freudig, was die
+
+34:31.640 --> 34:39.240
+ganz nahe Zukunft in diesem Jahr vielleicht angeht. Langfristig stimmt mich freudig, dass nicht nur
+
+34:39.240 --> 34:43.880
+durch Future Histories, sondern auch durch viele, viele andere Beteiligte das Thema überhaupt wieder
+
+34:43.880 --> 34:49.440
+breiter diskutiert wird und hoffentlich überschreiten wir auch gemeinsam irgendwann die
+
+34:49.440 --> 34:55.080
+Schwelle der Subkultur, sage ich mal. Also noch ist es so ein Subthema, die Planungsdiskussion,
+
+34:55.160 --> 34:58.920
+die Zukunftsgesellschaftsdiskussion und so weiter, aber ich hoffe, dass wir irgendwann die Schwelle
+
+34:58.920 --> 35:02.600
+auch unterschreiten, sodass sozusagen gesellschaftlich der Bedarf nach Antworten
+
+35:02.600 --> 35:12.800
+hochpoppt und dann sind wir da und sagen, wir haben 97 Antworten, mindestens. Ja, ebenfalls stimmt
+
+35:12.800 --> 35:16.960
+mich freudig der Future Histories Podcast. Das ist wirklich großartige Arbeit, ich kann das nur
+
+35:16.960 --> 35:24.600
+wiederholen. Prinzipiell, weil in den letzten 20 Jahren, wo ich halt auch zum Studieren begonnen
+
+35:24.880 --> 35:31.640
+habe und dann den Ökonomiediskuss verfolgt habe, da stimmt mich freudig, dass heute schon Ökonomie
+
+35:31.640 --> 35:40.880
+viel breiter und bunter vor allem dargestellt wird, dass der Diskuss viel größer ist und dass vor
+
+35:40.880 --> 35:50.840
+allem jetzt schon langsam auch die Hegemonie sich da ändert. Das mag vielleicht in manchen Fällen
+
+35:50.840 --> 35:57.480
+nicht so konkret sein, aber generell denke ich schon, es gibt einfach viel mehr Journals,
+
+35:57.480 --> 36:05.760
+Fachzeitschriften, Gruppen, die Ökonomie unter verschiedenen Perspektiven sich anschauen, vor
+
+36:05.760 --> 36:13.840
+allem heterodoxe Ökonomie und pluralistische Ökonomie und das ist extrem positiv und da stimmt
+
+36:13.840 --> 36:23.320
+mich wirklich positiv, dass da was passiert, weil da steckt ja die Hegemonie des Kapitales und eine
+
+36:23.320 --> 36:29.960
+mehr differenzierte Betrachtung des Kapitales von den verschiedenen Gruppen, die es da gibt,
+
+36:29.960 --> 36:37.920
+sei es jetzt Gensianer, Institutionalisten, Marxisten, Kammerns, Gruppen oder ökologische
+
+36:37.920 --> 36:43.960
+Ökonomie, das fließt alles zusammen und das bildet jetzt eine neue Basis für ökonomisches Denken
+
+36:43.960 --> 36:50.120
+oder politoökonomisches Denken und auch stärker Interdisziplinen mit den Naturwissenschaften und
+
+36:50.120 --> 36:55.880
+Formalwissenschaften und das ist durchaus positiv. Was bei der Frage, was stimmt mich natürlich,
+
+36:55.880 --> 37:00.720
+steht jetzt nicht drinnen, was stimmt mich negativ, aber was mich negativ stimmt, ist schon etwas auch
+
+37:00.720 --> 37:04.400
+die Entwicklung der Universitäten und des Bildungssystems, weil eigentlich das, was da
+
+37:04.400 --> 37:09.600
+passiert auf theoretischer und wissenschaftlicher Ebene, ist ein großes Momentum, aber das ist
+
+37:09.600 --> 37:16.960
+schwierig umzusetzen, weil die Universitäten und das Bildungssystem gerade schlecht dasteht. Man
+
+37:16.960 --> 37:25.120
+sollte dort mit Kammerns mehr offenem System denken ansetzen. Wunderbar, dann sage ich vielen,
+
+37:25.120 --> 37:30.800
+vielen Dank für die Blumen, die in euren Worten erhalten waren und vielen Dank, dass ihr überhaupt
+
+37:30.960 --> 37:42.080
+dabei wart bei Future Histories. Das war Future Histories für heute. Vielen Dank fürs Zuhören,
+
+37:42.080 --> 37:49.320
+Shownotizen und vieles mehr findet ihr auf www.futurehistories.today. Diskutiert mit
+
+37:49.320 --> 37:55.160
+auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit. Ihr könnt Future
+
+37:55.160 --> 37:59.440
+Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren,
+
+37:59.520 --> 38:05.800
+sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen
+
+38:05.800 --> 38:12.280
+einzelner Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich freue
+
+38:12.280 --> 38:18.520
+mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future Histories unterstützen
+
+38:18.520 --> 38:24.920
+wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories oder auch via Spende auf
+
+38:24.960 --> 38:30.640
+unserer Homepage. Future Histories ist eine Produktion von MetaLapses zu finden auf
+
+38:30.640 --> 38:35.640
+meta-lapses.net. Bis zum nächsten Mal. Ich freue mich.
+
