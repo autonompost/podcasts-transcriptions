@@ -32,6 +32,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [The Great Simplification](https://www.thegreatsimplification.com)
 - [CCC 37c3](https://media.ccc.de/b/congress/2023)
 - [Was Tun](https://was-tun.podigee.io/)
+- [Raetsel des Unbewussten](https://psy-cast.org/de/)
 
 ## Obsidian and Audio Notes
 
