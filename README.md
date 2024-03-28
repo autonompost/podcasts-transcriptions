@@ -33,6 +33,8 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [CCC 37c3](https://media.ccc.de/b/congress/2023)
 - [Was Tun](https://was-tun.podigee.io/)
 - [Raetsel des Unbewussten](https://psy-cast.org/de/)
+- [Disintegrator](https://podcasts.apple.com/us/podcast/disintegrator/id1716416573)
+- [Antikythera](https://antikythera.org)
 
 ## Obsidian and Audio Notes
 

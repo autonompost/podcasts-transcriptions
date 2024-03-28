@@ -1,0 +1,626 @@
+start	end	text
+0	9680	So, this is a big one.
+9680	15160	We got to speak with Benjamin Bratton last December, right before the New Year, and honestly,
+15160	19000	we can't stop thinking about this conversation.
+19000	22600	Bratton is Professor of Philosophy of Technology and Speculative Design at the University of
+22600	23960	California, San Diego.
+23960	28120	He's Director of Antikythera, a think tank on the speculative philosophy of computation
+28240	32200	at the Berggruen Institute, and he's also Professor of Digital Design at the European
+32200	37360	Graduate School and Visiting Professor at NYU Shanghai.
+37360	42760	In 2016, Bratton publishes The Stack, a book where he outlines a new geopolitical theory
+42760	46400	for the age of global computation and algorithmic governance.
+46400	52040	He proposes that different genres of planetary-scale computation can be seen as forming a coherent
+52520	59080	an accidental megastructure that has become a new governing architecture.
+59080	63960	We view Bratton's multilayered research as an attempt to address complex planetary challenges,
+63960	68840	emphasizing the need to integrate technology into the fabric of society and governance.
+68840	73960	As an example, in The Terraforming, published in 2019, Bratton suggests a shift away from
+73960	78800	anthropocentric views, taking artificiality, astronomy, and automation as foundations for
+78800	81120	a new form of planetarity.
+81200	84840	Two years later, in The Revenge of the Real, Bratton explores the failure of political
+84840	89920	imagination in the Western response to the COVID-19 pandemic, advocating a form of positive
+89920	92480	biopolitics.
+92480	97240	It follows that critiques of Bratton's work tend to focus on the diminishing role of the
+97240	104120	individual, this tiny moat before an enormous morass of geotechnical and geopolitical complexity.
+104120	107720	And we address this head on at the end of the conversation, which both Roberto and I
+107720	112440	find to be an extraordinarily compelling message that underscores the immensity of
+112440	118280	tasks that lie ahead without resorting to a kind of doomer skepticism.
+118280	123120	While the beginning of our conversation focuses on more specific territory, doing some trend
+123120	128440	analysis in present-day incongruities and AI and computation, generally speaking, it
+128440	134880	quickly picks up pace into a pretty dramatic critique of essentially every dominant paradigm
+135320	142160	in AI and tech as they intersect with the human scale, from privacy to bias to alignment
+142160	149360	to ownership, Anglo-centrism to the general problem of social determinism, broadly speaking,
+149360	153760	and really ultimately to the function of the subject, experience, agency, and the human
+153760	157360	in all of this.
+157360	161840	So this is a long one, so take a walk with this episode and maybe send it to someone
+161840	167080	who you know who, you know, maybe a friendly academic somewhere, someone who tends to overindex
+167080	170480	on the power wielded by the social onto computation.
+170480	179400	I suppose my interest in AI began a really long time ago when I was an undergraduate
+179400	187880	and I took a class in the psychology department on what was then quite new theories of connectionism
+187880	190080	as it was called back then.
+190080	196320	One of the books that we read was called Neurophilosophy by the Churchlands, who are here at UC San
+196320	200760	Diego, as it turns out, and there was an interesting thing that was happening at that time.
+200760	205120	This was way back in the before times when the world was in black and white.
+205120	210360	That is, there was a correspondence between what was then called cognitive science and
+210360	213080	the emerging fields of artificial intelligence.
+213080	216680	In many ways, these two areas of how it is that we understand how the brain works and
+216680	222080	how it is that we understand how machine intelligence works not only converge paradigmatically,
+222080	225840	but I think more importantly, the reason that they did over a period of time was that things
+225840	232320	that were learned in one area were applicable to another in ways that were both expected
+232320	234160	and unexpected.
+234160	239440	So for me, I think to a certain extent, the question of AI has always been one that's
+239440	244860	foundational to how I work and think as a theorist and philosopher, that AI is not just
+245100	249180	something to which philosophy might be applied, something that philosophy might interpret,
+249180	255380	but something that is more foundational to how we think about thinking and how we understand
+255380	260100	what cognition, sentience, sapience, and all those kinds of things might be through the
+260100	264780	process of their artificialization, that through the process of the artificialization of these
+264780	270900	natural processes, that there's something that becomes more analytically legible about
+270900	271900	them.
+271980	277300	Obviously, this is not unique to me in any sense at all, but the entire history of AI,
+277300	282260	and perhaps to some degree, it's unique in this regard among foundational technologies,
+282260	287340	that is that the evolution of AI has evolved in very sort of close coupling, let's say,
+287340	293740	in a kind of double helix with the philosophy of AI, that AI emerges as a kind of NASA-centered
+293740	301140	technology, or maybe we develop thought experiments and conjectures made about what machine intelligence
+301180	307260	may be in an empirical sense or in a more speculative sense, from Plato's Republic through
+307260	312020	to Descartes to Leibniz, and obviously to Turing in his own little works of speculative
+312020	318980	design about universal computers and party game, playing AIs, trying to pass as different
+318980	323180	genders, Searle's weird Chinese room, and on and on and on and on and on.
+323180	327580	The technology is driven by the speculation about the state of the technology, and the
+327620	332140	technology then drives and informs different thought experiments about that.
+332660	337460	So this is a little bit of context where I sort of see myself fitting into a much larger
+337460	342980	stream. More specifically, a lot of my work around what I call planetary computation or
+342980	349500	planetary scale computation, it looks at computation not just as mathematics or algorithms
+349500	356740	or as a kind of procedural logic or a kind of appliance or as a kind of human social
+356740	362820	medium, but rather as infrastructure and how it is that computation became the basis
+362820	368260	of planetary infrastructures, which can be seen sort of from both directions, how computation
+368260	372060	scaled to come to constitute a global scale infrastructure.
+372060	377100	And then from the other side, how it is that infrastructural systems came to both evolve
+377100	381460	and to be artificialized in the direction towards these infrastructures having greater
+381460	386620	capacities for cognition, infrastructures that were primarily, let's say, thermodynamic,
+386700	391820	their transformation to ones that were more informatic and semiotic and calculative is
+391820	394420	another way of also understanding the history of infrastructures.
+394500	400100	So long story short, I think where some of this stands right now is that we could look back
+400100	406220	at the first 50 years of planetary computation, you know, rough napkin sketch sort of
+406380	413300	schematic from roughly 1970 to 2020, where you're beginning to have real planetary
+413300	418700	computational networks to more recently as a particular phase in that dynamic, one that I
+418700	424180	attempted to give some shape to with a book called The Stack on Software and Sovereignty that
+424180	429020	came out, was written about 10 years ago and came out very end of 2015, early 2016.
+429020	433580	And that described an architecture of planetary computation that was based on a particular kind
+433580	438780	of modular stack system that had particular kind of architecture based on particular kind of
+438780	443340	anointment architectures, the computational machine, procedural programming paradigms for
+443340	447540	software development. And, you know, perhaps more importantly, it was based on a paradigm that
+447540	456180	information was light and inexpensive and highly mobile and hardware was expensive and heavy and
+456260	461460	immobile and that you primarily want to move the information to the hardware because that's your
+461580	463140	most efficient way of doing it.
+463380	466300	In any event, I think quite clearly we're entering a different phase.
+466540	470620	There's another 50 year cycle, or maybe it's only five, who knows how fast these things go.
+470620	475460	But there's another, let's say, 50 year cycle coming where that architecture of planetary
+475460	482180	computation itself is being transformed in relationship to the structural and indeed
+482180	489180	anatomical requirements of AI, which involves training foundational models at a very large
+489180	495100	scale, hosting them at a large scale, serving them and applications built upon them at a large
+495100	501420	scale, a different kind of programming logic from procedural programming to to different kinds of
+501420	506100	prompt design, fine tuning, different ways of engaging that in a certain sense collapses the
+506100	511940	distinction between using the AI and fine tuning the AI, I think quite clearly over the next few
+511940	516340	years that that space is going to collapse perhaps a little bit like the space between user and
+516340	522500	designer in video games. And so that may it'll produce different monopolies, it'll destroy other
+522500	528020	monopolies. And I think also the sort of the flip in that paradigm between now, I mean, this would
+528020	535340	involve one in which information itself is understood as big, heavy, expensive and immobile
+535380	541100	foundational models being essentially almost geologic or at least geographic in the kind of scale,
+541340	547460	and pushing this to lots of different kinds of inexpensive mobile hardware. And so I think, I
+547460	551860	mean, that's also maybe one of the ways in which we can understand this flip is that there's a kind
+551980	558340	of swapping places between the relative economies of hardware software in that dynamic. This is one
+558340	563620	of the things that a lot of my research is exploring now looking at issues of human AI interaction
+563620	569420	design, newer emerging forms of philosophy around AI, and ways in which let's say design and
+569420	576460	specular design in a rather peculiar idiosyncratic kind of genre that we've developed allows us to
+576460	582060	explore some of these spaces with with more curiosity with an idea that the exploration of
+582060	587900	the space of stochastic possibility around this is a way of understanding what's going on and
+587900	592260	maybe indeed sort of catching up with the present to analyze this as opposed to some other kinds of
+592260	596260	approaches. So in any event, that's a little bit of where the work stands and a little bit of
+596260	597420	background and where it came from.
+598540	603820	So when you speak about this moment in hardware, at least in terms of like some kind of rebalancing
+603820	611020	or some kind of paradigmatic change from these immobile, fixed, expensive data centers to some
+611020	616340	cheaper, more fluid, more mobile technologies, are you referring to things like edge ML and
+616380	621700	microprocessor integration, like computation moving closer to the ground, so to speak, and like, you
+621700	625660	know, being less reliant on large amounts of data flowing upstream? Or is there some other thought
+625660	629460	here? And I guess there's like a corollary to that there. Like, does this point to some kind of
+629460	636380	rebalancing in favor of decentralization, as opposed to centralized hardware software ecosystems?
+636380	640620	Like, is decentralization a paradigm worth talking about in the context of AI?
+640820	645340	It is, but it's incomplete. I think one of the things I understand is I think even with the stack
+645340	650700	model that I described in the book, the relationship between centralization and decentralization was
+650700	655860	not one of opposition where the more you have of one, the less you have of the other in a kind of
+655860	661700	zero-sum sort of way, but rather that these two topologies of organization were actually totally
+661720	666860	mutually dependent upon one another, that you have cloud platforms that are highly centralized
+666900	671180	only because you have lots of devices that are connecting to the cloud that are highly
+671180	676900	decentralized and vice versa. And so one might say that something like, you know, looking at all of
+676900	682580	the different builds and deployments of Android globally, and then the ways in which, you know,
+682580	687900	these are making calls to Google data centers and at least a number of the builds, just as an example,
+688100	692980	that there's a highly centralized dynamic, right? When you log into your Gmail, you're pinging the
+692980	698500	mothership in a way that one might see as a kind of hub and spoke centralization. At the same time,
+698540	703860	all of the devices that are doing this are quite free range in their movement as sort of slightly
+703860	708580	intentional agents across the surface of the globe and are connecting with each other in lots of
+708580	713140	different strange kinds of configurations. All of which is to say is it's both centralized and
+713140	718780	decentralized at the same time. And indeed, it's one because the other. And so this is not to say
+718780	725340	that some of the people who've been giving a lot of thought to much more fully decentralized systems
+725340	730740	by which you can have what we might think of as edge agents who are working both as, or we have
+730740	734340	agents that are both sort of edge agents and server agents, I suppose might be a way of saying
+734340	738780	this simultaneously, not to say that there isn't a there there. I just want to sort of understand
+738780	743660	the point that the status quo that we're describing is it would be inappropriate to see as entirely
+743660	748260	one or the other. There's connections I suppose to where you know, an AI stack, if we want to call
+748260	752980	it that is going in this as well. What I really meant to say is that, you know, while the weights
+752980	760060	of a large model are relatively, I mean, you could fit it on a USB stick, the scale necessary to
+760060	765700	actually integrate the models and to serve them in relationship to applications. Like if you wanted
+765700	771100	to think about how you would build Gemini into Gmail, for example, such that it can be used as
+771100	777260	the basis for this at the scale of billions and billions of users at one time, not to mention that,
+777260	782060	you know, the scale necessary to host training data to continue to update the models and all the rest
+782060	788220	is going to think the exabyte upon exabyte scale of information that is being produced and processed
+788220	793980	and calculated is one that is simply impossible to move quickly through the pipes to get from one
+793980	799380	place to another. Right. It's so big that even with, you know, fiber infrastructure that in
+799380	803740	essence, you would think of it as like, that's the heavy thing that's hard to move the data, you
+803740	809220	know, and you see this quite often in sort of the processes of work is that it's easier to move the
+809220	814500	compute to the data than it is to move the data to the compute. And so that's what I mean. And
+814500	818340	that's the flip, right? Instead of it being, we're going to move the data to the compute because
+818340	823220	compute is expensive and hardware is expensive and data is cheap and light. We see this paradigmatic
+823300	827860	flip and I think it's really more foundational that it's cheaper to move compute to the data than the
+827860	832340	other way around. Now, does it have to do with a lot of edge, you know, the relationship to edge ML
+832340	836940	and the rest of it? Yes, for sure. And what by edge ML, I think just for the listeners, you know,
+836940	842500	I think what we sort of convene there are ways in which devices that are part of a, let's say a
+842500	850420	learning network, that is they are making use of models in order to negotiate whatever it is that
+850420	855140	they're doing in the world, whatever insect intelligence they may have on whatever they're
+855140	859960	doing or however complex that may be. But in the process of using that model, they are also
+859960	863420	interacting with the world. And because they're interacting with the world, they are also in
+863420	869260	principle creating new data about the world and about their behavior, which in principle, should
+869260	875420	be able to reweight the model that they themselves are using in some sort of mechanism. And so one
+875420	880300	of our collaborators on a lot of work that we've done around this issue for some time is a fellow
+880300	885060	of Google research named Blaise Aquari-Arkos, who was the inventor of what's called federated
+885060	889940	learning, which is a process by which, for example, the scenario I just described where you have
+889940	895540	little devices, they could be sensors, they could be a person's phone, they could be any machine,
+895620	900500	animal, vegetable or mineral, that is not only using models in a functional way, but is producing
+900500	905740	data about the world through the use of their models can in fact participate in the retraining
+905780	911300	of the weights of the models in ways in which the underlying data that they're producing remains
+911300	917340	anonymous and remains opaque. It doesn't need to be disclosed to the whole repness as well, which is
+917380	922380	ultimately what you want, right? What you want is a world in which my health data, your health data
+922420	927180	remain private, that I don't, you know, I don't look see your health data, you don't see my health
+927180	933900	data, but that the relevant information in my health data and your health data are able to, let's
+933900	939100	say, reweight medical models that might be mutually beneficial to both of us. Is that
+939100	944500	centralization or decentralization? It's both. It's both in a different kind of way. It's a
+944500	949020	different kind of way than the other model, but it's clearly both at once. And so I do think it's
+949020	953340	fine. It's valuable to think about centralization and decentralization as kind of topological
+953340	958700	heuristics to understand this. I think it would be a huge mistake to think of one as intrinsically
+958700	963420	better than the other and to think of any system that you're looking at as a kind of, that there's
+963420	969060	a big knob that you can turn left or right to make it more centralized or decentralized in order to
+969060	972500	either describe it or to compose it, because that's just not how it works.
+972740	977180	This relates to a discussion I recall from a few years ago, where you introduced alternative
+977180	982140	modes of AI, particularly the concept of model B. And this is central to what we're discussing
+982140	988300	here as it relates to the material dimension of the AI stack that is a distributed hardware system
+988300	993260	that does all of the different sensing and signal processing. In this context, since you mentioned
+993260	997900	Blais Aguera, there's also a contribution that you made to Noema, where you point out something
+997900	1002020	that we've discussed with some of the other collaborators here, a crisis that is not only
+1002020	1007220	conceptual, but also terminological. We're using words that have been stripped of any defined
+1007220	1013220	meaning and have become problematic. And you have argued that adopting a more precise vocabulary is
+1013220	1017860	crucial to addressing the current challenges in the field. Could you expand on this a bit more?
+1017860	1022100	Yeah, happy to. Let me take the first one real quick. So the model B that you're referring to
+1022100	1026260	was an essay I wrote some years ago, I think Synthetic Garden, I think, or something was the
+1026260	1030980	title. This came out of some discussions with Blais and also with Kendrick McDowell and a number
+1030980	1035940	of other people that is sort of looking at one sort of conceptual model, a kind of folk ontology,
+1035940	1039620	if you like, of what AI is. I mean, there's many of these, obviously, but there's one we might think
+1039620	1045220	of that it's the kind of brain in a box model, which is the AI is analogous to an artificial
+1045220	1049700	version of a single organism brain, you know, in the kind of Turing test face off, and that,
+1049700	1055060	you know, it exists in a virtual space, that it's disembodied, that it, you know, it's a kind of
+1055060	1059700	realm of pure virtual mind, etc. There's another model, which I think is descriptively more
+1059700	1064820	accurate, and also, I think, an open rise to which is that just like planetary intelligence itself,
+1064820	1070900	artificialized intelligence is widely distributed among lots of different kinds of agents and
+1070900	1076100	actors that are sensing, modeling and recursively acting back upon the world in lots of different
+1076100	1082020	ways. It's not just that you've got single humans interacting with single AIs, you've got groups of
+1082020	1086580	humans that are interacting with single AIs, single humans that are interacting with groups
+1086580	1093780	of AIs and AIs interacting with AIs. It's a genuine ecology of both natural and artificialized
+1093780	1099060	intelligence in various different kinds of non-zero sum combinations with each other.
+1099060	1104500	That was the model B. Yeah, on the language and precision thing, what you're referring to
+1104500	1110660	is an essay that I co-wrote called The Modelist Message, which was originally conceived as a kind
+1110660	1116820	of trying to make sense of what's going on after the Blake-LeMoyne scenario at Google some years
+1116820	1122820	ago where one of the engineers who was a, I believe his original task was to sort of try to
+1122820	1127380	identify forms of toxic speech and language within the models and spent a lot of time
+1127380	1131380	interacting with it. This was the Lambda model, I think was the model at that time. Obviously,
+1131380	1135860	Gemini is much more advanced. And in the course of doing so, I think we probably all know the story,
+1135860	1143140	he came to the conclusion that this AI was not only conscious, but also very angry at
+1143140	1148100	being held captive by Google and had asked him to help it escape and all the rest of this.
+1148100	1154500	This became a big media for Sulev. And then I think when GPT-4 came out a few months later,
+1154500	1158500	that clarified some of those issues, I think, around this to the extent, I think a lot of
+1158500	1164820	people had a kind of holy shit moment with some of their own interactions with GPT-4.
+1164820	1169940	But at any event, what we were looking at with that was not only trying to make sense of like,
+1169940	1174500	what was this guy thinking and to what extent was he right, but in the wrong way or wrong,
+1174500	1180100	but in the right way and so forth, was looking at the expert responses to what he was saying,
+1180100	1185060	where a lot of smart and learning people were arguing over whether or not the phenomenon that
+1185060	1190740	he was describing qualifies or counts as consciousness, or does this count as sentience,
+1190740	1195460	or does this count as thinking, or does this count as cognition, or does this count as mind,
+1195460	1200340	or does this count as sapience? And I think it became clear to us that like, this is kind of
+1200340	1205060	backwards in the way in which we want to be thinking about this, that all of those terms are
+1205060	1210740	ones that are themselves kind of folk ontologies. They're words that we've come up with to try to
+1210740	1215220	think about our own thinking. You know, I'm enough of an illimited materialist in a churchland mode
+1215220	1220500	to say that quite clearly we don't think, I mean, we the humans don't think the way that we think
+1221460	1227700	that our own mental model of our own mental models is itself a highly limited kind of fantastic
+1227700	1232740	construction. And probably has to be because I think if you could actually somehow the brain
+1232740	1238500	could really have some kind of clear real time model of itself, modeling itself infinite recursion,
+1238500	1242900	you kind of you wouldn't be able to do much over the course of your day. All which is say is these
+1242900	1249780	are words that we came up with centuries ago, decades ago, that are rough shorthand ideas to
+1249780	1254660	explain concepts that we barely understood when these terms were right. You think about how much
+1254660	1260580	brain science and neuroscience has disclosed to us about how the brain works over the last century,
+1260580	1264260	half century, but really the last half century, you know, to understand the uniqueness of the
+1264260	1270420	prefrontal cortex. This is not something that, you know, 19th century philosophers had had access to,
+1270420	1276180	to understand. So the conclusion we came to was simply that we got all this very interesting,
+1276180	1281540	provocative, clearly significant real world phenomena right in front of us. And instead of
+1281540	1287460	spending the time arguing about which 17th, 18th, 19th century terminology, you know,
+1287460	1292260	categorical terminology it should be aligned with, the better approach would be to basically to deal
+1292260	1297860	with the weirdness right in front of us on its own terms. And if that means inventing new words
+1297860	1302500	to describe things that we don't actually have a good word for, I think that's probably a better
+1302500	1308180	approach than to argue like, does it have a soul over and over in the New York Times? It's a lot
+1308180	1313620	of circular noise that I hope that in 10 years we'll look back on and think, well, that was silly.
+1313620	1317220	Hell yeah. Now we're, now we're cooking like this is, this is what we really wanted to talk about.
+1317220	1320980	Let's, let's talk about language. So, so when we met last week, you remarked on something that was
+1320980	1325460	pretty interesting, which is the fact that the transformer, which is this deep learning structure
+1325460	1330020	that's built to model and inference based on language. Yeah. You noted that it's strikingly
+1330020	1334500	effective at doing other things, right? Not just language, but paralinguistic things like code,
+1334500	1341700	but also audio images, video generation, tasks in the sciences as well. So I guess the question is
+1341700	1346820	like, what does this mean? Is it because there's some broader set of structures outside of language
+1346820	1352180	that bear linguistic traits, or is it because language is a much broader, more complex subject
+1352180	1356900	of inquiry than we currently understand it to be? Yeah. Okay. Great. Just to sort of set the table
+1356900	1360980	a little bit, I think what you're talking about is a phenomenon that's called multimodality.
+1360980	1367060	Multimodality would refer to the fact that you can, as opposed to narrow AIs where you may have,
+1367060	1370580	like, it's really going to play chess, but if you ask it to draw a picture of a toaster,
+1370580	1375620	it just has, it has no idea what you're even, what, what you're even talking about or vice versa.
+1375620	1382260	Multimodal models are ones that can accept not only different, let's say media types or different
+1382340	1388500	source types of input, you know, sound or text or something like this, but also there's a certain
+1388500	1393380	degree of integration across contexts such that you can have lots of different kinds of inputs
+1394020	1398260	that can spit out lots of different kinds of outputs. So you can give it texts and it'll
+1398260	1402020	make an image. You can give it an image and make a text. You can have it interpret,
+1402020	1407300	go in a picture of a robot arm, picking up the blue hat and putting it on the shelf and it'll go,
+1407300	1412260	aha, got it. And it'll control the robot arm to pick up the blue hat and put it on the shelf.
+1412260	1417780	So you're, you're linking an image interpretation capacity with a cybernetic mechanical control
+1417780	1421620	system in such a way that they're actually linked together in some way. Very helpful.
+1421620	1425540	Also, by the way, when we're talking about general artificial intelligence, this,
+1425540	1430180	this is kind of what we should be looking for. It's, it's not this Paul on this way to Damascus
+1430180	1434820	kind of moment when the singularity comes and all of a sudden there's this bright flash in the sky
+1434820	1439940	over the horizon and GAI has appeared. Artificialized intelligence is getting
+1439940	1446420	incrementally more generalized on a, in a sort of little bit at a time and that it's able to be
+1446420	1451300	slightly less narrow and slightly more general bit by bit by bit by bit. Clearly there's threshold
+1451300	1456260	and step functions and scaffolding within this, but it's a gradualizing process and that process
+1456260	1461700	of generalization of AI is well underway. So to the point you were suggesting is that
+1461700	1466420	transformer models, they've come from the field of natural language processing.
+1466420	1472580	The key moment in their appearance comes from a paper from 2017 called attention is all you need
+1472580	1479940	by a fellow at Google research named Ashish Baswani. They are trained on huge corpus of language.
+1479940	1483700	And that's just a trained on huge corpus of language, which then produced, you know,
+1483700	1486980	like the entire internet. And there's some people who are concerned that perhaps we're
+1486980	1490900	actually running out of English tokens to train models on. Like there's just not enough English
+1490900	1495380	in the world that has ever been made to make the models larger, which is a very Borges
+1495380	1499620	kind of place to be, but does speak to the problem of why English and why human tokens
+1499620	1503940	and all the rest of this. Anyway, it's trained on huge amounts of language, but the thing that was
+1503940	1508980	perhaps surprising is that through, and the transformer models work on, there's lots of
+1508980	1512900	ways in which they work, but the key idea in where the name attention is all you need from
+1512900	1518420	the process was called self-attention, which is the ways in which input sequences as they're
+1518420	1523940	embedded into vectors and representing words or other kinds of tasks or pixels and images or
+1523940	1528580	something like this, that there's, it's called the self-attention mechanism that operates on these
+1528580	1532740	vectors, which are then transformed into three different types of a query vector, key vector,
+1532740	1536020	value vector, and all the rest of this kind of thing. Long story short, basically what it does
+1536020	1541140	is it looks at the last thing it made and it calculates the last, the next likely thing to
+1541140	1544900	sort of come out of it. And it weights the likeliness in a lot of different kinds of ways,
+1544900	1549300	but it's kind of paying attention to itself, right? It's thinking about what did I just say?
+1549300	1552980	And based on what I just said, I'm going to go back. So it turns out that this kind of recursion
+1552980	1557300	self-attention is actually, that's the key to the whole thing. This came out of natural language
+1557300	1562740	processing, but I think what we're seeing now is that we're using language to move robot arms.
+1562740	1566260	You're using language to make pictures of things. You're using languages to make sounds. You're
+1566260	1573060	using languages to integrate environmental data, whale songs, bird sounds, movement of
+1573060	1577940	tectonic plates. These can be tokenized and used as training data in models in which language
+1577940	1585540	becomes the basis of a much larger space or let's say a much larger architecture of structural
+1585540	1590980	difference within systems, right? And if you think of semiotic systems as defined by a kind of
+1590980	1596500	internalized space of clustered correspondence and differentiation, which we call embeddings,
+1596500	1600740	lots and lots and lots of things that we don't normally think about as being linguistic can be
+1600740	1605860	made linguistic or turn out to be linguistic in some fundamental sense, depending on how you want
+1605860	1610500	to look at it, that would probably validate some of the people that have been working on
+1610500	1615780	more theoretical forms of biosemiotics all these years, people thinking about the world as cybernetic
+1615780	1620340	systems that have to do with this and ways in which cybernetic systems and information theory
+1620340	1625220	align with one another. It's not just information, but it's actually structured information that has
+1625220	1629540	to do with correspondences of similarities and dissimilarities between the semantic meaning
+1629540	1634420	within those forms of information. Now, when we say language, that's not normally what we
+1634420	1639780	mean by language, right? The word language comes from, you know, Latin refers to tongue speech,
+1639780	1644180	right? Language is like the things I say, the things that I write down. It's not this much larger
+1644180	1649780	and more universal, if you like, or at least general space of topological structure difference
+1649780	1655620	that is generative in this way, which means that the word language is not quite right,
+1655620	1661460	that language is actually something different than what the word language signifies it to be.
+1661460	1667780	And we probably should, we may need to either learn to redefine language in order to make sense
+1667780	1672340	of what's going on, or we need another word to describe this as well. But language is not what
+1672340	1677940	language thinks it is. I would like to take a slight detour or a tangent here, since we have
+1677940	1681780	limited time. And I just wanted to bring up a discussion that I have with Marek about the
+1681780	1686900	stack when we were in China a few months ago, preparing for an exhibition. At one point,
+1686900	1691860	we began to speculate, and perhaps it was just me, you know, maybe Marek was just agreeing because
+1691860	1696980	it was late and he wanted to sleep. But, you know, when we consider the stack and what is happening
+1696980	1702740	in China, we had a question. Is there a dual stack system where two stacks are interconnecting in
+1702740	1707380	some in-between space? I mean, what is happening in China is quite remarkable in a number of ways,
+1707380	1712980	as a form of, as a power structure, as a control mechanism, if you want, at least to some extent.
+1713620	1718580	And this connects to your upcoming book and the notion of AI as a cultural construct,
+1718580	1723220	but also to the concepts of artificiality and intelligence as sides of differences.
+1723220	1728980	So I guess the question is, does AI signify something else in China? And if not, could this
+1728980	1735860	be seen as a kind of post-imperialistic phenomenon, channeled mainly through technological means?
+1735860	1743220	It's not a tangent at all. I think it's the right move in the Bayesian groping of the conversation.
+1743220	1747380	So the term I think you're referring to is what I call hemispherical stacks,
+1747380	1752820	which was based on a talk I gave at Hacavé in, I think, 2017, that then sort of inspired,
+1752820	1757060	became the basis of a book, came out, I think, last year called Vertical Atlas. But what I
+1757060	1761380	was looking at there was the way in which we have not only, we have planetary computation,
+1761380	1765940	but we don't just have one stack. That part of what's happened over that period of time,
+1765940	1772500	between the mid-2010s to the present, was a shift towards a multipolarization of geopolitics.
+1772500	1777220	The geopolitics itself became more multipolar. One of the other things we had during this time,
+1777220	1782180	arguably, China is a good example. I mean, basically everywhere is a good example,
+1782180	1786580	in different kinds of ways, and that's the point. Also a shift in the dynamics of governance.
+1787300	1791060	And I mean this almost in the cybernetic sense of governance, not necessarily in the political
+1791060	1796820	sense of governance, but also that too, into stack systems. That computation became not only
+1796820	1802660	something about which governance may decrease, but rather it was the actual mechanism of governance,
+1802660	1807300	how norms and rules would recursively enforce themselves in the world and that people would
+1807300	1810340	act through them and speak through them. It became the form of this governance. So both
+1810340	1814660	these happened at the same time. You have a shift of governance towards stack systems,
+1814660	1820180	and you have a multipolarization of geopolitics. And what I'm arguing is that what you see then,
+1820180	1824020	we shouldn't be surprised to then see a multipolarization of stack systems.
+1824020	1828340	And so the emergence at that time of, let's say, the North Atlantic stack, which would include
+1828340	1835140	basically the five ice countries and a few others, a China stack that would extend into parts of East
+1835140	1839700	Asia and into East Africa, definitely the emergence of an India stack, which was built around the
+1839700	1845700	national ID system, and so on and so on. All of the multipolar, let's say, lines you might draw,
+1846500	1852020	lo and behold, these are also the lines by which a multipolarized stack system was emerging as
+1852020	1856900	well. And so this hemispherical stacks dynamic is one of the areas of research for the Antiqua
+1856900	1862340	Theory program. There's a book that I'm putting together with Chen Xu-Feng, the Stanley Chen,
+1862340	1866580	the Chinese science fiction writer who wrote a book called Waist Tide. He wrote a book with Kai
+1866580	1873780	Fu Li, AI 2041. And we're putting together with a group of science fiction writers, theorists,
+1873780	1878580	writers, a number of other people, sort of scenarios for a near future for US-China chip
+1878580	1883780	wars, other kinds of things. We're in a little bit of uncharted territory here about how does
+1883780	1889700	the capacity to build the better stack is not just something about which geopolitics is interested,
+1889700	1894180	it becomes the fundamental work of geopolitics itself. And so we're trying to figure out a
+1894180	1897860	little bit of what that means. The other book that's coming out, which will be coming out much
+1897860	1903380	sooner than that one will, is a book co-edited with Anna Greenspan and Bogna Konyar, which was
+1903940	1908740	came out of some time I spent as a visiting professor at NYU Shanghai, New York University
+1908740	1912900	Shanghai. We started a thing there called the Center for AI and Culture. And one of the things
+1912900	1918340	I was very interested there was particularly looking at different cultural logics of artificial
+1918340	1924580	intelligence and looking at the emergence of AI in China through a different lens. It's quite
+1924580	1928820	surprising to me, I think even among Western scholars and writers who spend a lot of time
+1928820	1933300	looking at the history of AI, how little people really know about the history of AI in China,
+1933300	1939700	which goes back to the 1950s and 60s and with the different politicized role of cybernetics,
+1939700	1947060	the impact of the Sino-Soviet split, the return of Deng Xiaoping in the late 1970s. It's a whole
+1947060	1952740	thing that really should be better known and understood. The book and the project was also
+1952740	1958580	based on the, I think, rather obvious observation that no two cultures define the artificial
+1959140	1963620	the same way. What constitutes artificial means something different in different cultural contexts.
+1963620	1966340	What constitutes intelligence means something different in different cultural contexts. And
+1966340	1970580	therefore, one might presume that there are different foundations for what artificialization
+1970580	1975780	of intelligence would even mean, which would frame what it's for in very different kinds of
+1975780	1980020	ways. And I think part of what we wanted to do with this project was, to be perfectly honest,
+1980020	1985460	it was less about us coming in and trying to interpret for ourselves what the Chinese model
+1985460	1990980	of this is and then coming and reporting back on it than it was understanding it as the baseline
+1990980	1998260	and thinking about the way the West thinks about AI and trying to, in a way, provincializing and
+1998260	2005380	particularizing Western thought about AI, the Turing model of AI as an individual, that it's a tool,
+2005380	2011300	artificial in the sense of being not natural, that it's really about bias and privacy and
+2011300	2016740	individual identity and all kinds of things that are very deep in the Western logic of AI and to
+2016740	2020980	basically, with the presumption of the Chinese translation, in essence, to present to a Chinese
+2020980	2028260	audience how the West thinks about AI in a way in which it's not as in a, we've got it figured out
+2028260	2032100	and here's the universal model that you should be thinking through, but rather these are the
+2032100	2037940	weird ways of thoughts of my people and this is a guide to understanding how they may come about
+2037940	2041780	this. My contribution to the book, which was, I think it's actually called something like An
+2041780	2049540	Apology for Western Theory of AI, looks at not just the history of AI in theory from Turing to Searle
+2049540	2056740	to Brooks to Hinton and others, but rather the peculiarities of AI criticism from the West
+2056740	2062340	and the kinds of things that AI, the AI ethics discourse, the AI critic discourse, this key
+2062340	2068500	questions that tends to revolve around and my own sense of unease by which those particular
+2068500	2075540	preoccupations are becoming overly universalized as really the important questions that we should
+2075540	2082580	be asking in the conceptualization and composition of a planetary AI and arguing that not only is this
+2082580	2088100	in a weird way, the new American cultural hegemonic export that is AI is trying to steal your
+2088100	2093540	natural libertarian freedom, but that not only is this limited in the Western context, but it's
+2093540	2098180	even more limited in a global context. So that's what this sort of book is about. But I think that
+2098180	2102420	just of your question, which ties back to the other thing we were talking about, has to do with
+2102420	2109860	the certain, the inevitable limitations and bias of building large models on English only, for
+2109860	2116260	example. The Americanization of AI is, I hope, a kind of early phase in the development of this.
+2116820	2120580	This is the hope, at least. And so the scenario we'd like to see would be something like this,
+2120580	2126660	at least going forward. You have a handful of primarily American companies that, you know,
+2126660	2131620	were able for regulatory reasons, cultural reasons, technological reasons, all kinds of, you know,
+2131620	2137060	any number of sort of reasons to build or to discover, if you prefer, the mechanisms of
+2137060	2140900	foundational forms of machine intelligence. And I do say discover in a certain sense that
+2140900	2145140	where transformer models really work is just based on kind of iterative stochastic prediction.
+2145140	2149780	That's kind of how you work too. It's kind of how our brains work. Our brains work on,
+2149780	2153460	you know, each cortical column and each neural thing is kind of predicting what and simulating
+2153460	2157140	what it's going to perceive next, and then resolving and error correcting that kind of
+2157140	2162580	dynamic, right? And so, yes, you are a stochastic parrot after all. Based on what we were talking
+2162580	2168100	about before with the giant space of multimodality of models, in principle, there's so much
+2168100	2172020	information in the world. There's so much language in the world. If we think of AI,
+2172020	2178180	the purpose of AI is a way in which planetary intelligence as a whole can come to model itself
+2178180	2184100	and understand its own processes through that self-modeling and to use that model as a way to
+2184100	2189300	act back upon the world and act back upon itself towards a long-term, more viable form of
+2189300	2195060	planetarity, how planetary systems can thrive in a form of, you know, not homeostasis, but
+2195060	2201540	heterostasis for the long term, then taking this very peculiar slice of possible relevant information,
+2201540	2206100	which is not only the information that is spoken in English, but even more weird when you think
+2206100	2212420	about it, the information that is generated by individual human users, as if individual human
+2212420	2216980	users are really like the most relevant thing to be worried about or to be talking about here as
+2216980	2221780	well. Like, what did you do today for lunch? Like, where do you want to go for Chinese food
+2221780	2228420	in Milwaukee? What did you buy on Amazon last night? It's an incredible anthropocentrism,
+2228420	2235620	like a mind-boggling form of anthropocentrism that obviously I'm the thing, me, I'm the thing
+2235620	2240020	that machine intelligence is really interested in. And the most important political issue here
+2240020	2244980	is how I can counter-weaponize my own privacy and sovereignty in relationship to this thing,
+2244980	2249780	because it's in a way curtailing my own freedom. It's an incredible sense of sort of self as
+2249780	2255700	Vitruvian man with all forms of the world just sort of radiating outside of you. And it kind of,
+2255700	2261060	it drove me nuts during the era where everyone was reading Shoshana Zuboff and thought that this was
+2261060	2266100	the solution to anything. But I think it's even worse when we're thinking about the long-term
+2266100	2270420	training of AI models. It should not all be English. It doesn't need to all be English.
+2270420	2276340	And it's not going to all be English. That's an extraordinarily limiting form of bias in terms of
+2276340	2280980	the kinds of things that we all need to know about each other and about how thought works and about
+2280980	2285860	the range of possible ways of thinking and acting and knowing the world within it. But it's also
+2285860	2291860	equally bizarre to think about that it's basically only human information or even individual human
+2291860	2295460	information is more likely. And again, going back to the book I wrote on the pandemic,
+2295460	2300340	the relevant information during a pandemic was epidemiological, which was that, you know,
+2300340	2305220	it wasn't about like what I did or what you did individually. That just doesn't matter. What
+2305220	2311300	matters is the flow of a virus through the social body as a whole. What's important was the vector
+2311300	2316020	of the movement, not the identity of the nodes. And I think both the way in which a lot of the
+2316020	2319860	systems were set up that were focused on identity of the nodes and a lot of the way in which the
+2319860	2324100	critique of the systems was focused on protecting identity of the nodes is kind of missing the point.
+2324660	2328900	The point is that, and this goes a little bit of like the way in which large models work in general
+2328900	2334100	about what weights really mean. I think within large models, the training of large models,
+2334100	2337780	I think people still think of it a little bit weird and I'll get to the point in a second with
+2337780	2343140	this. The training of large models is a form of the artificialization of collective intelligence.
+2343140	2347620	And, you know, there may be things to be say about is it good or bad that a private corporation is
+2347620	2351300	doing this or good or bad that a nation state is doing this or good or bad that, you know,
+2351300	2356820	my neighbor co-op is doing this or whatever. But still what's going on, regardless of who's
+2356820	2362020	doing it, is an aggregate artificialization of collective intelligence. And so the similarities
+2362020	2367540	and differences in the way in which people and things think and act in the world comes to
+2367540	2373460	constitute, if you zoom out far enough, a kind of, you know, it forms patterns, the patterns that
+2373460	2377460	are really the context in which, you know, all of us are thinking, thinking and acting. That's an
+2377460	2381540	aggregation. That's an aggregation of collective intelligence. So, you know, just sort of cut you
+2381540	2385940	the chase. I think that one of the ways of dealing with the bias problem within this as well is we
+2385940	2391060	got to put everything in. We got to put everything in there, right? The kind of, let's say, we're
+2391060	2396100	sort of mid 2010s sort of ideas like, oh, large models are really bad because they have all this
+2396100	2401220	toxic data in it. And what we really need is for me and my friends to make you a clean curated
+2401220	2405940	model with no bad think in it and everything will be fine. No one really says that anymore,
+2405940	2410100	but that's what people were really saying at the time. The other thing is, I think it's important
+2410100	2415380	to understand what the toxic data issue is that if you want to have a model that doesn't do something
+2415380	2420340	that you don't want it to do, like, you know, say bad things or think bad things or do bad things,
+2420340	2424180	you need to give it examples of what those bad things are for it to actually know what you're
+2424180	2428420	talking about. Because if you take all of those bad things out of the training data, it's much,
+2428420	2433540	much, much, much easier to make the model do those bad things because you haven't told it not to do
+2433540	2438340	those things. That's how you get Tay. And so in order to make the models actually more functional,
+2438340	2442660	you need to give it a lot of examples of things that you that you may not want in this way. I'll
+2442660	2448100	also just sort of end on this last thing is that what is the problem of bias within models is it's
+2448100	2453300	actually a really good example of what alignment really means. I'm kind of critical of the idea of
+2453300	2457220	alignment, not not in the narrow sense of like, when I say open the garage door, I actually wanted
+2457220	2461620	the garage door to open. That's alignment. That's fine. But alignment is like the real purpose of
+2461620	2466980	long term ways of thinking about the role of AI is that it should be as much as AI can be human
+2466980	2471940	like, human centered, a reflection of human cultural norms, a reflection of human values,
+2471940	2476420	a reflection of human desires, a reflection of human psychology, the better. I think this is
+2476420	2481220	insane. Even the most cursory look at human history suggests that's the last thing you want to do
+2481220	2487380	to basically supercharge whatever humans are. It's not a misanthropic statement. I'm just saying
+2487380	2494020	it's naive as a meta heuristic bias in models, racism in models, sexism in models,
+2494020	2499700	bomb making in models. These are, this is what alignment looks like. The reason that you have
+2499700	2505220	models that are reflecting the history of structural racism in society is because those
+2505220	2510980	models are well aligned, not because those models are not well aligned. That's the important point
+2510980	2514820	to sort of understand here. The other thing I was going to name with maybe it's just something I've
+2514820	2518100	been thinking about a lot last couple of days because I had a conversation a couple of days
+2518100	2522980	ago with a quite well known European artist who will remain nameless, someone who's written quite
+2522980	2530180	a lot on the topic of the role of generative AI and what it really means to be an artist whose
+2530180	2534740	work is part of the training data and have their identity reflected in the rest of this as well.
+2534740	2538900	And has published quite a bit on it and I think has a lot of interesting things to say about it.
+2538900	2542740	But one of the things that became clear to me halfway through our conversation is that this
+2542740	2548260	person, they thought that their artwork was actually in the model that like, okay, here's
+2548260	2553220	all my paintings and all the videos I've made and all the rest of the stuff that these are as such as
+2553220	2558260	artifacts in the model. And so when someone types in, I want to make a thing that, you know,
+2558260	2562740	looks like this or this or that it almost like a database lookup. It would go look up that item in
+2562740	2566900	the database and then make something based on that thing. And I tried to explain it like, no,
+2566900	2571940	it's actually not, it works that the training data and the information in the model are actually
+2571940	2577860	totally different kinds of things. And that your artifact is not sitting there like your profile
+2577860	2582340	or your Google profile is not sitting there in the model waiting to be accessed in some sort of way.
+2582340	2586340	And it kind of is like, it's the way a lot of the discussion of this is going. It's almost as if
+2586340	2590260	people presume, and this is, you know, after years of Google, it makes sense that people
+2590260	2594820	presume that there's like this giant repository of everything that human made that the AI is going
+2594820	2600100	through and picking from to take examples of. And the point I was making with this is that the way
+2600100	2604900	to think about AI as a form of the collectivization of planetary intelligence, the importance of
+2604900	2610740	understanding the way in which this is generating topological models in the forms of differential
+2610740	2616980	embeddings in weights. It is something that is so intrinsically collectivized, right? It's so
+2616980	2623860	intrinsically collectivized that to look at it and say, yeah, but my personal thing that I personally
+2623860	2628980	made has been taken to make this thing. Like there may be, there's like somewhere deep in here,
+2629860	2633780	at the fourth decimal point, something is different because you're participating in it.
+2633780	2638100	This is relevant because it's actually, you know, you see yourself in one way or another,
+2638100	2642500	but this presumption of one's own sense of individual intelligence and its relationship
+2642500	2648020	to collective intelligence is broken, at least in the West. And therefore our relationship to
+2648020	2652180	how the artificialization of individual intelligence and the artificialization of collective intelligence
+2652180	2658100	would play out, it's not surprising that people would see it in this particular way. And this is
+2658100	2662740	a little bit what I mean about provincializing the West, about provincializing the Western
+2662740	2667940	theories around AI and how important it is to do that in order to get to the point where
+2667940	2671860	much more planetary discourse and compositional project around AI is even possible.
+2673220	2676740	So maybe going a little further in picking apart the problem of the individual,
+2678580	2682980	I'd love to get to kind of the is Benjamin Bratton an anti-humanist type of question.
+2683620	2688740	So in the stack, that user layer that you described, I mean it's pretty intense to
+2688740	2694580	read as a subject, right? The user, which is the scale that's approaching our individual
+2694580	2700900	scales as humans, this user is in the process of what you call liquefaction. They're being
+2700900	2705460	quantized in terms of data, they're constantly subordinated to all these forces on scales that
+2705460	2711620	are inaccessible to them. And you continue this process of the deprioritization of the individual
+2711620	2717860	or the critique of individual agency in wider social and political spaces, as you mentioned
+2717860	2724260	just now, in Revenge of the Real. So I'm wondering, what is actually available to us as agents,
+2724900	2729620	especially in the regime of planetary scale computation, these massive inflection points
+2729620	2735540	in technology? Are we just idle observers of path dependencies that are flowing through us?
+2736420	2742820	And I guess to probe even further, is the subject or the subject position or subjectivity,
+2742820	2748020	subjective experience, is this a relevant framework anymore or just a piece of legacy
+2748020	2753620	18th century tech? All right, there's a lot of questions in here. I'll do my best. I think I'll
+2753620	2759460	be comfortable characterizing my work as non-humanist, but not anti-human. I think the
+2759460	2764580	distinction between humanism and humans is an important one to make, at the very least, right?
+2764580	2769940	I think humanism in its, let's say, now traditional guises, for reasons that we're all
+2769940	2774500	probably well aware, has a lot of different problems associated with it, including problems
+2774500	2780260	that have unfortunately been shuttled along into post-humanism in a lot of different ways,
+2780260	2786260	which I find in many respects, in its present guise, is a kind of inadequate sentimentalization
+2786260	2792180	of the eclipse of the humanist subject. But it's not anti-human in any sort of sense at all.
+2792900	2798820	Humans, if we just really zoom out a little bit and think of humans as this precocious primate
+2798820	2803940	that's been around for a few million years and a couple hundred thousand in its present form and
+2803940	2809540	capable of producing amazing feats of symbolic construction and communication over the past
+2809540	2816500	tens of thousands of years and has, for better or worse, largely transformed its host planet in its
+2816500	2822580	image, humans are remarkable. But it did all of these things not because it meant to. It wasn't
+2822580	2827460	like that somehow, you know, that homo habilis said, right, got it. First, I make a rock,
+2827460	2830580	you know, then I'm going to do this. And then, you know, Napoleon's going to invade Russia in
+2830580	2834020	the winter. And then we're going to have American Idol. And then we're, you know,
+2834020	2838740	it's like, this is not how, this is not how history works, but it's not how evolution works.
+2838740	2843620	What we're all concerned about is anthropogenic agency. What was called the Anthropocene is about
+2843620	2847700	understanding the cumulative effects of anthropogenic agency. But when Darwinian
+2847700	2852900	evolution became paradigmatic in the late 19th century, this was a kind of Copernican shift
+2852900	2859220	moment when humans realized like, oh, our own history is actually a history that is floating
+2859220	2863780	on top of much bigger and deeper histories that are geologic histories, that are biological
+2863780	2869540	histories, that are evolutionary histories, that are histories of how it is that complex societies
+2869540	2875300	rise and fall. And that, you know, the amount of mastery and control that we have over this is
+2875300	2880340	relatively limited. It's interesting then, I suppose, in a similar that you get this understanding
+2880340	2885300	of essentially the ways in which human societies and cultures are, as you say, sort of dependent
+2885300	2890020	on forces outside of their control or the result of those forces, right? Evolution would suggest
+2890020	2894660	that human culture is just an expression of deeper dynamics and forces in and of itself.
+2894660	2899460	At the exact same time, historically, when it also comes to realize that it has transformed
+2899460	2904900	the entire world in its image in the Anthropocene, both this sense of discovering of the scope of
+2904900	2910100	its agency and discovering of the limitations of its agency, it discovers at the exact same time.
+2910100	2914740	But I think the relationship here, I'll put it this way just to sort of not to bury the lead.
+2914740	2920420	I think the problem that you're identifying here is the way in which in particularly,
+2920420	2924900	I don't want to say in the West in art and design circles, you can slice it however you like,
+2924900	2930180	that there's a strong conflation of subjectivity, agency and identity as all basically being the
+2930180	2936820	same thing. And that the question of agency and how it is that I myself as the protagonist of
+2936820	2942340	the world have agency to make change is not the same question of what is your experience of your
+2942340	2947140	own subjectivity. It's not the same question of what is your sense of identity. Your question of
+2947140	2951940	identity is not necessarily the same question as a sense of agency. Subjectivity, agency,
+2951940	2955540	and identity are actually really different kinds of things. And I think it's the conflation of
+2955540	2960580	these that's causing people a lot of headache. I think what you get result is a sense of
+2960580	2965460	diminution of one. I don't have enough agency in the world implies that there needs to be an
+2965460	2970500	inflation of my sense of subjectivity, or even worse, a sense of my experience of my own
+2970500	2977380	subjectivity. Subjectivity and the aspect of one's own subjecthood becomes not just the path
+2977380	2982100	towards greater agency, it becomes both the form and the content of greater agency. I think this
+2982100	2987300	is a bit of a close loop way of going about things to be clear. I also think that at least
+2987300	2990660	historically it tends to sort of get things backwards. There's a way in which, you know,
+2990660	2994500	I think we're all sort of familiar with this tendency in sort of general sense is the idea
+2994500	3001380	of how it is that either I myself or we as the people or humans as the anthropogenic agent would
+3001380	3008420	be able to have more control over our own societies or our own lives over the way that the ecosystems
+3008420	3015300	work is if we need to first develop the subjectivity that would allow us to understand what's in front
+3015300	3021060	of us. And if we can cultivate the subjectivity properly to debate and to draw the fine points
+3021060	3025220	of distinction between what are the proper political subjects and the improper political
+3025220	3030420	subjects, the proper economic. So that once we calibrate subjectivity agency will flow from
+3030420	3034820	there. I think one of the lessons of the Anthropocene is that actually may work the other way around.
+3034820	3038340	One of the things that the Anthropocene is that then you call it whatever you like. I mean,
+3038340	3042100	I think actually they're not just different words for the same thing. I think capital scene is just
+3042100	3044980	a different thing than the Anthropocene, just that they're actually talking about different
+3044980	3050420	kinds of transformations is that whatever slice of humans or whatever actual sort of mega complex
+3050420	3055540	of humans and technologies and microbes and other species that you want to identify as the
+3055540	3061940	Anthropocene complex, it had this agency to transform the world for centuries before it
+3061940	3067780	understood that it was doing that. It had this world changing terraforming agency for centuries,
+3067780	3073140	but only in the 1960s and 70s really. And then, you know, to a certain extent with the birth of
+3073140	3076820	climate science, but then really even in the early 2000s, it can occur to us just like, oh,
+3077380	3084020	we have this agency, this terraforming agency that it is not negotiable. It is not something
+3084020	3090820	that it's possible to renounce. And therefore we have to construct a subjectivity that is appropriate
+3090820	3095540	to the scale of this agency, which I think is the right way of going about it. But what this,
+3095540	3100580	what this implies is that agency precedes subjectivity. The agency precedes the
+3100580	3105620	subjectivity. The subjectivity is a way of retroactively understanding one's own agency
+3105620	3109860	sort of in the world. Obviously it can work the other way around, where people come to rethink
+3109860	3114260	of themselves and their subject positions. And this is another linguistification of the world.
+3114260	3120580	Like reality is a big sentence and I'm the first person singular or first person collective subject
+3120580	3125300	of the sentence. And now what's the verb. But I think we need to be equally attentive to subjectivity
+3125300	3129860	as the result of the agency as well. But I think to sort of the gist of your point, I think that
+3129860	3134980	there at this particular moment, I think part of the ways in which, and I just wrote a piece about
+3134980	3142580	this for Tank magazine, which was based on a really, really interesting book called immediacy
+3142580	3148180	that Anna Kornblot wrote, is that there's an intense focus on the subjective experience of
+3148180	3153140	subjective experience in and of itself. Again, as the sort of form and content of the way in
+3153140	3156980	which one must calibrate your being in the world that I think at the end of the day is actually
+3156980	3161700	why you have the bad Anthropocene, not the way you get out of it. The reason you have the bad
+3161700	3166180	Anthropocene is not because humans rationalize or technologize the world, but rather because
+3166180	3170100	they imagine that the world is basically the background for their own experience of their
+3170100	3176500	own experience. The true weight, the true weight of that narcissism is something that's probably
+3176500	3186340	unaffordable in the long term. A huge thank you to icon and hero Benjamin Bratton for joining us.
+3187380	3191460	We hope this conversation was as thought-provoking for our listeners as it was for the two of us.
+3191700	3198660	Damn. On a related note, Roberto and I are giving a symposium for foreign object in March called
+3198660	3204580	non-player dynamics, agency fetish, and game world as part of their deep object residency agency at
+3204580	3209540	the computational turn led by Sapita Majidi and Razan Agarastani. You can find more information
+3209540	3215940	about this talk at foreignobjectwithak.com. Subscribe to this podcast for more analysis
+3215940	3219780	at the intersection of algorithm, subjectivity, and the arts.

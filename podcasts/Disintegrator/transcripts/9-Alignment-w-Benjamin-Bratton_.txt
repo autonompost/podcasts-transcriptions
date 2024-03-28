@@ -1,0 +1,625 @@
+So, this is a big one.
+We got to speak with Benjamin Bratton last December, right before the New Year, and honestly,
+we can't stop thinking about this conversation.
+Bratton is Professor of Philosophy of Technology and Speculative Design at the University of
+California, San Diego.
+He's Director of Antikythera, a think tank on the speculative philosophy of computation
+at the Berggruen Institute, and he's also Professor of Digital Design at the European
+Graduate School and Visiting Professor at NYU Shanghai.
+In 2016, Bratton publishes The Stack, a book where he outlines a new geopolitical theory
+for the age of global computation and algorithmic governance.
+He proposes that different genres of planetary-scale computation can be seen as forming a coherent
+an accidental megastructure that has become a new governing architecture.
+We view Bratton's multilayered research as an attempt to address complex planetary challenges,
+emphasizing the need to integrate technology into the fabric of society and governance.
+As an example, in The Terraforming, published in 2019, Bratton suggests a shift away from
+anthropocentric views, taking artificiality, astronomy, and automation as foundations for
+a new form of planetarity.
+Two years later, in The Revenge of the Real, Bratton explores the failure of political
+imagination in the Western response to the COVID-19 pandemic, advocating a form of positive
+biopolitics.
+It follows that critiques of Bratton's work tend to focus on the diminishing role of the
+individual, this tiny moat before an enormous morass of geotechnical and geopolitical complexity.
+And we address this head on at the end of the conversation, which both Roberto and I
+find to be an extraordinarily compelling message that underscores the immensity of
+tasks that lie ahead without resorting to a kind of doomer skepticism.
+While the beginning of our conversation focuses on more specific territory, doing some trend
+analysis in present-day incongruities and AI and computation, generally speaking, it
+quickly picks up pace into a pretty dramatic critique of essentially every dominant paradigm
+in AI and tech as they intersect with the human scale, from privacy to bias to alignment
+to ownership, Anglo-centrism to the general problem of social determinism, broadly speaking,
+and really ultimately to the function of the subject, experience, agency, and the human
+in all of this.
+So this is a long one, so take a walk with this episode and maybe send it to someone
+who you know who, you know, maybe a friendly academic somewhere, someone who tends to overindex
+on the power wielded by the social onto computation.
+I suppose my interest in AI began a really long time ago when I was an undergraduate
+and I took a class in the psychology department on what was then quite new theories of connectionism
+as it was called back then.
+One of the books that we read was called Neurophilosophy by the Churchlands, who are here at UC San
+Diego, as it turns out, and there was an interesting thing that was happening at that time.
+This was way back in the before times when the world was in black and white.
+That is, there was a correspondence between what was then called cognitive science and
+the emerging fields of artificial intelligence.
+In many ways, these two areas of how it is that we understand how the brain works and
+how it is that we understand how machine intelligence works not only converge paradigmatically,
+but I think more importantly, the reason that they did over a period of time was that things
+that were learned in one area were applicable to another in ways that were both expected
+and unexpected.
+So for me, I think to a certain extent, the question of AI has always been one that's
+foundational to how I work and think as a theorist and philosopher, that AI is not just
+something to which philosophy might be applied, something that philosophy might interpret,
+but something that is more foundational to how we think about thinking and how we understand
+what cognition, sentience, sapience, and all those kinds of things might be through the
+process of their artificialization, that through the process of the artificialization of these
+natural processes, that there's something that becomes more analytically legible about
+them.
+Obviously, this is not unique to me in any sense at all, but the entire history of AI,
+and perhaps to some degree, it's unique in this regard among foundational technologies,
+that is that the evolution of AI has evolved in very sort of close coupling, let's say,
+in a kind of double helix with the philosophy of AI, that AI emerges as a kind of NASA-centered
+technology, or maybe we develop thought experiments and conjectures made about what machine intelligence
+may be in an empirical sense or in a more speculative sense, from Plato's Republic through
+to Descartes to Leibniz, and obviously to Turing in his own little works of speculative
+design about universal computers and party game, playing AIs, trying to pass as different
+genders, Searle's weird Chinese room, and on and on and on and on and on.
+The technology is driven by the speculation about the state of the technology, and the
+technology then drives and informs different thought experiments about that.
+So this is a little bit of context where I sort of see myself fitting into a much larger
+stream. More specifically, a lot of my work around what I call planetary computation or
+planetary scale computation, it looks at computation not just as mathematics or algorithms
+or as a kind of procedural logic or a kind of appliance or as a kind of human social
+medium, but rather as infrastructure and how it is that computation became the basis
+of planetary infrastructures, which can be seen sort of from both directions, how computation
+scaled to come to constitute a global scale infrastructure.
+And then from the other side, how it is that infrastructural systems came to both evolve
+and to be artificialized in the direction towards these infrastructures having greater
+capacities for cognition, infrastructures that were primarily, let's say, thermodynamic,
+their transformation to ones that were more informatic and semiotic and calculative is
+another way of also understanding the history of infrastructures.
+So long story short, I think where some of this stands right now is that we could look back
+at the first 50 years of planetary computation, you know, rough napkin sketch sort of
+schematic from roughly 1970 to 2020, where you're beginning to have real planetary
+computational networks to more recently as a particular phase in that dynamic, one that I
+attempted to give some shape to with a book called The Stack on Software and Sovereignty that
+came out, was written about 10 years ago and came out very end of 2015, early 2016.
+And that described an architecture of planetary computation that was based on a particular kind
+of modular stack system that had particular kind of architecture based on particular kind of
+anointment architectures, the computational machine, procedural programming paradigms for
+software development. And, you know, perhaps more importantly, it was based on a paradigm that
+information was light and inexpensive and highly mobile and hardware was expensive and heavy and
+immobile and that you primarily want to move the information to the hardware because that's your
+most efficient way of doing it.
+In any event, I think quite clearly we're entering a different phase.
+There's another 50 year cycle, or maybe it's only five, who knows how fast these things go.
+But there's another, let's say, 50 year cycle coming where that architecture of planetary
+computation itself is being transformed in relationship to the structural and indeed
+anatomical requirements of AI, which involves training foundational models at a very large
+scale, hosting them at a large scale, serving them and applications built upon them at a large
+scale, a different kind of programming logic from procedural programming to to different kinds of
+prompt design, fine tuning, different ways of engaging that in a certain sense collapses the
+distinction between using the AI and fine tuning the AI, I think quite clearly over the next few
+years that that space is going to collapse perhaps a little bit like the space between user and
+designer in video games. And so that may it'll produce different monopolies, it'll destroy other
+monopolies. And I think also the sort of the flip in that paradigm between now, I mean, this would
+involve one in which information itself is understood as big, heavy, expensive and immobile
+foundational models being essentially almost geologic or at least geographic in the kind of scale,
+and pushing this to lots of different kinds of inexpensive mobile hardware. And so I think, I
+mean, that's also maybe one of the ways in which we can understand this flip is that there's a kind
+of swapping places between the relative economies of hardware software in that dynamic. This is one
+of the things that a lot of my research is exploring now looking at issues of human AI interaction
+design, newer emerging forms of philosophy around AI, and ways in which let's say design and
+specular design in a rather peculiar idiosyncratic kind of genre that we've developed allows us to
+explore some of these spaces with with more curiosity with an idea that the exploration of
+the space of stochastic possibility around this is a way of understanding what's going on and
+maybe indeed sort of catching up with the present to analyze this as opposed to some other kinds of
+approaches. So in any event, that's a little bit of where the work stands and a little bit of
+background and where it came from.
+So when you speak about this moment in hardware, at least in terms of like some kind of rebalancing
+or some kind of paradigmatic change from these immobile, fixed, expensive data centers to some
+cheaper, more fluid, more mobile technologies, are you referring to things like edge ML and
+microprocessor integration, like computation moving closer to the ground, so to speak, and like, you
+know, being less reliant on large amounts of data flowing upstream? Or is there some other thought
+here? And I guess there's like a corollary to that there. Like, does this point to some kind of
+rebalancing in favor of decentralization, as opposed to centralized hardware software ecosystems?
+Like, is decentralization a paradigm worth talking about in the context of AI?
+It is, but it's incomplete. I think one of the things I understand is I think even with the stack
+model that I described in the book, the relationship between centralization and decentralization was
+not one of opposition where the more you have of one, the less you have of the other in a kind of
+zero-sum sort of way, but rather that these two topologies of organization were actually totally
+mutually dependent upon one another, that you have cloud platforms that are highly centralized
+only because you have lots of devices that are connecting to the cloud that are highly
+decentralized and vice versa. And so one might say that something like, you know, looking at all of
+the different builds and deployments of Android globally, and then the ways in which, you know,
+these are making calls to Google data centers and at least a number of the builds, just as an example,
+that there's a highly centralized dynamic, right? When you log into your Gmail, you're pinging the
+mothership in a way that one might see as a kind of hub and spoke centralization. At the same time,
+all of the devices that are doing this are quite free range in their movement as sort of slightly
+intentional agents across the surface of the globe and are connecting with each other in lots of
+different strange kinds of configurations. All of which is to say is it's both centralized and
+decentralized at the same time. And indeed, it's one because the other. And so this is not to say
+that some of the people who've been giving a lot of thought to much more fully decentralized systems
+by which you can have what we might think of as edge agents who are working both as, or we have
+agents that are both sort of edge agents and server agents, I suppose might be a way of saying
+this simultaneously, not to say that there isn't a there there. I just want to sort of understand
+the point that the status quo that we're describing is it would be inappropriate to see as entirely
+one or the other. There's connections I suppose to where you know, an AI stack, if we want to call
+it that is going in this as well. What I really meant to say is that, you know, while the weights
+of a large model are relatively, I mean, you could fit it on a USB stick, the scale necessary to
+actually integrate the models and to serve them in relationship to applications. Like if you wanted
+to think about how you would build Gemini into Gmail, for example, such that it can be used as
+the basis for this at the scale of billions and billions of users at one time, not to mention that,
+you know, the scale necessary to host training data to continue to update the models and all the rest
+is going to think the exabyte upon exabyte scale of information that is being produced and processed
+and calculated is one that is simply impossible to move quickly through the pipes to get from one
+place to another. Right. It's so big that even with, you know, fiber infrastructure that in
+essence, you would think of it as like, that's the heavy thing that's hard to move the data, you
+know, and you see this quite often in sort of the processes of work is that it's easier to move the
+compute to the data than it is to move the data to the compute. And so that's what I mean. And
+that's the flip, right? Instead of it being, we're going to move the data to the compute because
+compute is expensive and hardware is expensive and data is cheap and light. We see this paradigmatic
+flip and I think it's really more foundational that it's cheaper to move compute to the data than the
+other way around. Now, does it have to do with a lot of edge, you know, the relationship to edge ML
+and the rest of it? Yes, for sure. And what by edge ML, I think just for the listeners, you know,
+I think what we sort of convene there are ways in which devices that are part of a, let's say a
+learning network, that is they are making use of models in order to negotiate whatever it is that
+they're doing in the world, whatever insect intelligence they may have on whatever they're
+doing or however complex that may be. But in the process of using that model, they are also
+interacting with the world. And because they're interacting with the world, they are also in
+principle creating new data about the world and about their behavior, which in principle, should
+be able to reweight the model that they themselves are using in some sort of mechanism. And so one
+of our collaborators on a lot of work that we've done around this issue for some time is a fellow
+of Google research named Blaise Aquari-Arkos, who was the inventor of what's called federated
+learning, which is a process by which, for example, the scenario I just described where you have
+little devices, they could be sensors, they could be a person's phone, they could be any machine,
+animal, vegetable or mineral, that is not only using models in a functional way, but is producing
+data about the world through the use of their models can in fact participate in the retraining
+of the weights of the models in ways in which the underlying data that they're producing remains
+anonymous and remains opaque. It doesn't need to be disclosed to the whole repness as well, which is
+ultimately what you want, right? What you want is a world in which my health data, your health data
+remain private, that I don't, you know, I don't look see your health data, you don't see my health
+data, but that the relevant information in my health data and your health data are able to, let's
+say, reweight medical models that might be mutually beneficial to both of us. Is that
+centralization or decentralization? It's both. It's both in a different kind of way. It's a
+different kind of way than the other model, but it's clearly both at once. And so I do think it's
+fine. It's valuable to think about centralization and decentralization as kind of topological
+heuristics to understand this. I think it would be a huge mistake to think of one as intrinsically
+better than the other and to think of any system that you're looking at as a kind of, that there's
+a big knob that you can turn left or right to make it more centralized or decentralized in order to
+either describe it or to compose it, because that's just not how it works.
+This relates to a discussion I recall from a few years ago, where you introduced alternative
+modes of AI, particularly the concept of model B. And this is central to what we're discussing
+here as it relates to the material dimension of the AI stack that is a distributed hardware system
+that does all of the different sensing and signal processing. In this context, since you mentioned
+Blais Aguera, there's also a contribution that you made to Noema, where you point out something
+that we've discussed with some of the other collaborators here, a crisis that is not only
+conceptual, but also terminological. We're using words that have been stripped of any defined
+meaning and have become problematic. And you have argued that adopting a more precise vocabulary is
+crucial to addressing the current challenges in the field. Could you expand on this a bit more?
+Yeah, happy to. Let me take the first one real quick. So the model B that you're referring to
+was an essay I wrote some years ago, I think Synthetic Garden, I think, or something was the
+title. This came out of some discussions with Blais and also with Kendrick McDowell and a number
+of other people that is sort of looking at one sort of conceptual model, a kind of folk ontology,
+if you like, of what AI is. I mean, there's many of these, obviously, but there's one we might think
+of that it's the kind of brain in a box model, which is the AI is analogous to an artificial
+version of a single organism brain, you know, in the kind of Turing test face off, and that,
+you know, it exists in a virtual space, that it's disembodied, that it, you know, it's a kind of
+realm of pure virtual mind, etc. There's another model, which I think is descriptively more
+accurate, and also, I think, an open rise to which is that just like planetary intelligence itself,
+artificialized intelligence is widely distributed among lots of different kinds of agents and
+actors that are sensing, modeling and recursively acting back upon the world in lots of different
+ways. It's not just that you've got single humans interacting with single AIs, you've got groups of
+humans that are interacting with single AIs, single humans that are interacting with groups
+of AIs and AIs interacting with AIs. It's a genuine ecology of both natural and artificialized
+intelligence in various different kinds of non-zero sum combinations with each other.
+That was the model B. Yeah, on the language and precision thing, what you're referring to
+is an essay that I co-wrote called The Modelist Message, which was originally conceived as a kind
+of trying to make sense of what's going on after the Blake-LeMoyne scenario at Google some years
+ago where one of the engineers who was a, I believe his original task was to sort of try to
+identify forms of toxic speech and language within the models and spent a lot of time
+interacting with it. This was the Lambda model, I think was the model at that time. Obviously,
+Gemini is much more advanced. And in the course of doing so, I think we probably all know the story,
+he came to the conclusion that this AI was not only conscious, but also very angry at
+being held captive by Google and had asked him to help it escape and all the rest of this.
+This became a big media for Sulev. And then I think when GPT-4 came out a few months later,
+that clarified some of those issues, I think, around this to the extent, I think a lot of
+people had a kind of holy shit moment with some of their own interactions with GPT-4.
+But at any event, what we were looking at with that was not only trying to make sense of like,
+what was this guy thinking and to what extent was he right, but in the wrong way or wrong,
+but in the right way and so forth, was looking at the expert responses to what he was saying,
+where a lot of smart and learning people were arguing over whether or not the phenomenon that
+he was describing qualifies or counts as consciousness, or does this count as sentience,
+or does this count as thinking, or does this count as cognition, or does this count as mind,
+or does this count as sapience? And I think it became clear to us that like, this is kind of
+backwards in the way in which we want to be thinking about this, that all of those terms are
+ones that are themselves kind of folk ontologies. They're words that we've come up with to try to
+think about our own thinking. You know, I'm enough of an illimited materialist in a churchland mode
+to say that quite clearly we don't think, I mean, we the humans don't think the way that we think
+that our own mental model of our own mental models is itself a highly limited kind of fantastic
+construction. And probably has to be because I think if you could actually somehow the brain
+could really have some kind of clear real time model of itself, modeling itself infinite recursion,
+you kind of you wouldn't be able to do much over the course of your day. All which is say is these
+are words that we came up with centuries ago, decades ago, that are rough shorthand ideas to
+explain concepts that we barely understood when these terms were right. You think about how much
+brain science and neuroscience has disclosed to us about how the brain works over the last century,
+half century, but really the last half century, you know, to understand the uniqueness of the
+prefrontal cortex. This is not something that, you know, 19th century philosophers had had access to,
+to understand. So the conclusion we came to was simply that we got all this very interesting,
+provocative, clearly significant real world phenomena right in front of us. And instead of
+spending the time arguing about which 17th, 18th, 19th century terminology, you know,
+categorical terminology it should be aligned with, the better approach would be to basically to deal
+with the weirdness right in front of us on its own terms. And if that means inventing new words
+to describe things that we don't actually have a good word for, I think that's probably a better
+approach than to argue like, does it have a soul over and over in the New York Times? It's a lot
+of circular noise that I hope that in 10 years we'll look back on and think, well, that was silly.
+Hell yeah. Now we're, now we're cooking like this is, this is what we really wanted to talk about.
+Let's, let's talk about language. So, so when we met last week, you remarked on something that was
+pretty interesting, which is the fact that the transformer, which is this deep learning structure
+that's built to model and inference based on language. Yeah. You noted that it's strikingly
+effective at doing other things, right? Not just language, but paralinguistic things like code,
+but also audio images, video generation, tasks in the sciences as well. So I guess the question is
+like, what does this mean? Is it because there's some broader set of structures outside of language
+that bear linguistic traits, or is it because language is a much broader, more complex subject
+of inquiry than we currently understand it to be? Yeah. Okay. Great. Just to sort of set the table
+a little bit, I think what you're talking about is a phenomenon that's called multimodality.
+Multimodality would refer to the fact that you can, as opposed to narrow AIs where you may have,
+like, it's really going to play chess, but if you ask it to draw a picture of a toaster,
+it just has, it has no idea what you're even, what, what you're even talking about or vice versa.
+Multimodal models are ones that can accept not only different, let's say media types or different
+source types of input, you know, sound or text or something like this, but also there's a certain
+degree of integration across contexts such that you can have lots of different kinds of inputs
+that can spit out lots of different kinds of outputs. So you can give it texts and it'll
+make an image. You can give it an image and make a text. You can have it interpret,
+go in a picture of a robot arm, picking up the blue hat and putting it on the shelf and it'll go,
+aha, got it. And it'll control the robot arm to pick up the blue hat and put it on the shelf.
+So you're, you're linking an image interpretation capacity with a cybernetic mechanical control
+system in such a way that they're actually linked together in some way. Very helpful.
+Also, by the way, when we're talking about general artificial intelligence, this,
+this is kind of what we should be looking for. It's, it's not this Paul on this way to Damascus
+kind of moment when the singularity comes and all of a sudden there's this bright flash in the sky
+over the horizon and GAI has appeared. Artificialized intelligence is getting
+incrementally more generalized on a, in a sort of little bit at a time and that it's able to be
+slightly less narrow and slightly more general bit by bit by bit by bit. Clearly there's threshold
+and step functions and scaffolding within this, but it's a gradualizing process and that process
+of generalization of AI is well underway. So to the point you were suggesting is that
+transformer models, they've come from the field of natural language processing.
+The key moment in their appearance comes from a paper from 2017 called attention is all you need
+by a fellow at Google research named Ashish Baswani. They are trained on huge corpus of language.
+And that's just a trained on huge corpus of language, which then produced, you know,
+like the entire internet. And there's some people who are concerned that perhaps we're
+actually running out of English tokens to train models on. Like there's just not enough English
+in the world that has ever been made to make the models larger, which is a very Borges
+kind of place to be, but does speak to the problem of why English and why human tokens
+and all the rest of this. Anyway, it's trained on huge amounts of language, but the thing that was
+perhaps surprising is that through, and the transformer models work on, there's lots of
+ways in which they work, but the key idea in where the name attention is all you need from
+the process was called self-attention, which is the ways in which input sequences as they're
+embedded into vectors and representing words or other kinds of tasks or pixels and images or
+something like this, that there's, it's called the self-attention mechanism that operates on these
+vectors, which are then transformed into three different types of a query vector, key vector,
+value vector, and all the rest of this kind of thing. Long story short, basically what it does
+is it looks at the last thing it made and it calculates the last, the next likely thing to
+sort of come out of it. And it weights the likeliness in a lot of different kinds of ways,
+but it's kind of paying attention to itself, right? It's thinking about what did I just say?
+And based on what I just said, I'm going to go back. So it turns out that this kind of recursion
+self-attention is actually, that's the key to the whole thing. This came out of natural language
+processing, but I think what we're seeing now is that we're using language to move robot arms.
+You're using language to make pictures of things. You're using languages to make sounds. You're
+using languages to integrate environmental data, whale songs, bird sounds, movement of
+tectonic plates. These can be tokenized and used as training data in models in which language
+becomes the basis of a much larger space or let's say a much larger architecture of structural
+difference within systems, right? And if you think of semiotic systems as defined by a kind of
+internalized space of clustered correspondence and differentiation, which we call embeddings,
+lots and lots and lots of things that we don't normally think about as being linguistic can be
+made linguistic or turn out to be linguistic in some fundamental sense, depending on how you want
+to look at it, that would probably validate some of the people that have been working on
+more theoretical forms of biosemiotics all these years, people thinking about the world as cybernetic
+systems that have to do with this and ways in which cybernetic systems and information theory
+align with one another. It's not just information, but it's actually structured information that has
+to do with correspondences of similarities and dissimilarities between the semantic meaning
+within those forms of information. Now, when we say language, that's not normally what we
+mean by language, right? The word language comes from, you know, Latin refers to tongue speech,
+right? Language is like the things I say, the things that I write down. It's not this much larger
+and more universal, if you like, or at least general space of topological structure difference
+that is generative in this way, which means that the word language is not quite right,
+that language is actually something different than what the word language signifies it to be.
+And we probably should, we may need to either learn to redefine language in order to make sense
+of what's going on, or we need another word to describe this as well. But language is not what
+language thinks it is. I would like to take a slight detour or a tangent here, since we have
+limited time. And I just wanted to bring up a discussion that I have with Marek about the
+stack when we were in China a few months ago, preparing for an exhibition. At one point,
+we began to speculate, and perhaps it was just me, you know, maybe Marek was just agreeing because
+it was late and he wanted to sleep. But, you know, when we consider the stack and what is happening
+in China, we had a question. Is there a dual stack system where two stacks are interconnecting in
+some in-between space? I mean, what is happening in China is quite remarkable in a number of ways,
+as a form of, as a power structure, as a control mechanism, if you want, at least to some extent.
+And this connects to your upcoming book and the notion of AI as a cultural construct,
+but also to the concepts of artificiality and intelligence as sides of differences.
+So I guess the question is, does AI signify something else in China? And if not, could this
+be seen as a kind of post-imperialistic phenomenon, channeled mainly through technological means?
+It's not a tangent at all. I think it's the right move in the Bayesian groping of the conversation.
+So the term I think you're referring to is what I call hemispherical stacks,
+which was based on a talk I gave at Hacavé in, I think, 2017, that then sort of inspired,
+became the basis of a book, came out, I think, last year called Vertical Atlas. But what I
+was looking at there was the way in which we have not only, we have planetary computation,
+but we don't just have one stack. That part of what's happened over that period of time,
+between the mid-2010s to the present, was a shift towards a multipolarization of geopolitics.
+The geopolitics itself became more multipolar. One of the other things we had during this time,
+arguably, China is a good example. I mean, basically everywhere is a good example,
+in different kinds of ways, and that's the point. Also a shift in the dynamics of governance.
+And I mean this almost in the cybernetic sense of governance, not necessarily in the political
+sense of governance, but also that too, into stack systems. That computation became not only
+something about which governance may decrease, but rather it was the actual mechanism of governance,
+how norms and rules would recursively enforce themselves in the world and that people would
+act through them and speak through them. It became the form of this governance. So both
+these happened at the same time. You have a shift of governance towards stack systems,
+and you have a multipolarization of geopolitics. And what I'm arguing is that what you see then,
+we shouldn't be surprised to then see a multipolarization of stack systems.
+And so the emergence at that time of, let's say, the North Atlantic stack, which would include
+basically the five ice countries and a few others, a China stack that would extend into parts of East
+Asia and into East Africa, definitely the emergence of an India stack, which was built around the
+national ID system, and so on and so on. All of the multipolar, let's say, lines you might draw,
+lo and behold, these are also the lines by which a multipolarized stack system was emerging as
+well. And so this hemispherical stacks dynamic is one of the areas of research for the Antiqua
+Theory program. There's a book that I'm putting together with Chen Xu-Feng, the Stanley Chen,
+the Chinese science fiction writer who wrote a book called Waist Tide. He wrote a book with Kai
+Fu Li, AI 2041. And we're putting together with a group of science fiction writers, theorists,
+writers, a number of other people, sort of scenarios for a near future for US-China chip
+wars, other kinds of things. We're in a little bit of uncharted territory here about how does
+the capacity to build the better stack is not just something about which geopolitics is interested,
+it becomes the fundamental work of geopolitics itself. And so we're trying to figure out a
+little bit of what that means. The other book that's coming out, which will be coming out much
+sooner than that one will, is a book co-edited with Anna Greenspan and Bogna Konyar, which was
+came out of some time I spent as a visiting professor at NYU Shanghai, New York University
+Shanghai. We started a thing there called the Center for AI and Culture. And one of the things
+I was very interested there was particularly looking at different cultural logics of artificial
+intelligence and looking at the emergence of AI in China through a different lens. It's quite
+surprising to me, I think even among Western scholars and writers who spend a lot of time
+looking at the history of AI, how little people really know about the history of AI in China,
+which goes back to the 1950s and 60s and with the different politicized role of cybernetics,
+the impact of the Sino-Soviet split, the return of Deng Xiaoping in the late 1970s. It's a whole
+thing that really should be better known and understood. The book and the project was also
+based on the, I think, rather obvious observation that no two cultures define the artificial
+the same way. What constitutes artificial means something different in different cultural contexts.
+What constitutes intelligence means something different in different cultural contexts. And
+therefore, one might presume that there are different foundations for what artificialization
+of intelligence would even mean, which would frame what it's for in very different kinds of
+ways. And I think part of what we wanted to do with this project was, to be perfectly honest,
+it was less about us coming in and trying to interpret for ourselves what the Chinese model
+of this is and then coming and reporting back on it than it was understanding it as the baseline
+and thinking about the way the West thinks about AI and trying to, in a way, provincializing and
+particularizing Western thought about AI, the Turing model of AI as an individual, that it's a tool,
+artificial in the sense of being not natural, that it's really about bias and privacy and
+individual identity and all kinds of things that are very deep in the Western logic of AI and to
+basically, with the presumption of the Chinese translation, in essence, to present to a Chinese
+audience how the West thinks about AI in a way in which it's not as in a, we've got it figured out
+and here's the universal model that you should be thinking through, but rather these are the
+weird ways of thoughts of my people and this is a guide to understanding how they may come about
+this. My contribution to the book, which was, I think it's actually called something like An
+Apology for Western Theory of AI, looks at not just the history of AI in theory from Turing to Searle
+to Brooks to Hinton and others, but rather the peculiarities of AI criticism from the West
+and the kinds of things that AI, the AI ethics discourse, the AI critic discourse, this key
+questions that tends to revolve around and my own sense of unease by which those particular
+preoccupations are becoming overly universalized as really the important questions that we should
+be asking in the conceptualization and composition of a planetary AI and arguing that not only is this
+in a weird way, the new American cultural hegemonic export that is AI is trying to steal your
+natural libertarian freedom, but that not only is this limited in the Western context, but it's
+even more limited in a global context. So that's what this sort of book is about. But I think that
+just of your question, which ties back to the other thing we were talking about, has to do with
+the certain, the inevitable limitations and bias of building large models on English only, for
+example. The Americanization of AI is, I hope, a kind of early phase in the development of this.
+This is the hope, at least. And so the scenario we'd like to see would be something like this,
+at least going forward. You have a handful of primarily American companies that, you know,
+were able for regulatory reasons, cultural reasons, technological reasons, all kinds of, you know,
+any number of sort of reasons to build or to discover, if you prefer, the mechanisms of
+foundational forms of machine intelligence. And I do say discover in a certain sense that
+where transformer models really work is just based on kind of iterative stochastic prediction.
+That's kind of how you work too. It's kind of how our brains work. Our brains work on,
+you know, each cortical column and each neural thing is kind of predicting what and simulating
+what it's going to perceive next, and then resolving and error correcting that kind of
+dynamic, right? And so, yes, you are a stochastic parrot after all. Based on what we were talking
+about before with the giant space of multimodality of models, in principle, there's so much
+information in the world. There's so much language in the world. If we think of AI,
+the purpose of AI is a way in which planetary intelligence as a whole can come to model itself
+and understand its own processes through that self-modeling and to use that model as a way to
+act back upon the world and act back upon itself towards a long-term, more viable form of
+planetarity, how planetary systems can thrive in a form of, you know, not homeostasis, but
+heterostasis for the long term, then taking this very peculiar slice of possible relevant information,
+which is not only the information that is spoken in English, but even more weird when you think
+about it, the information that is generated by individual human users, as if individual human
+users are really like the most relevant thing to be worried about or to be talking about here as
+well. Like, what did you do today for lunch? Like, where do you want to go for Chinese food
+in Milwaukee? What did you buy on Amazon last night? It's an incredible anthropocentrism,
+like a mind-boggling form of anthropocentrism that obviously I'm the thing, me, I'm the thing
+that machine intelligence is really interested in. And the most important political issue here
+is how I can counter-weaponize my own privacy and sovereignty in relationship to this thing,
+because it's in a way curtailing my own freedom. It's an incredible sense of sort of self as
+Vitruvian man with all forms of the world just sort of radiating outside of you. And it kind of,
+it drove me nuts during the era where everyone was reading Shoshana Zuboff and thought that this was
+the solution to anything. But I think it's even worse when we're thinking about the long-term
+training of AI models. It should not all be English. It doesn't need to all be English.
+And it's not going to all be English. That's an extraordinarily limiting form of bias in terms of
+the kinds of things that we all need to know about each other and about how thought works and about
+the range of possible ways of thinking and acting and knowing the world within it. But it's also
+equally bizarre to think about that it's basically only human information or even individual human
+information is more likely. And again, going back to the book I wrote on the pandemic,
+the relevant information during a pandemic was epidemiological, which was that, you know,
+it wasn't about like what I did or what you did individually. That just doesn't matter. What
+matters is the flow of a virus through the social body as a whole. What's important was the vector
+of the movement, not the identity of the nodes. And I think both the way in which a lot of the
+systems were set up that were focused on identity of the nodes and a lot of the way in which the
+critique of the systems was focused on protecting identity of the nodes is kind of missing the point.
+The point is that, and this goes a little bit of like the way in which large models work in general
+about what weights really mean. I think within large models, the training of large models,
+I think people still think of it a little bit weird and I'll get to the point in a second with
+this. The training of large models is a form of the artificialization of collective intelligence.
+And, you know, there may be things to be say about is it good or bad that a private corporation is
+doing this or good or bad that a nation state is doing this or good or bad that, you know,
+my neighbor co-op is doing this or whatever. But still what's going on, regardless of who's
+doing it, is an aggregate artificialization of collective intelligence. And so the similarities
+and differences in the way in which people and things think and act in the world comes to
+constitute, if you zoom out far enough, a kind of, you know, it forms patterns, the patterns that
+are really the context in which, you know, all of us are thinking, thinking and acting. That's an
+aggregation. That's an aggregation of collective intelligence. So, you know, just sort of cut you
+the chase. I think that one of the ways of dealing with the bias problem within this as well is we
+got to put everything in. We got to put everything in there, right? The kind of, let's say, we're
+sort of mid 2010s sort of ideas like, oh, large models are really bad because they have all this
+toxic data in it. And what we really need is for me and my friends to make you a clean curated
+model with no bad think in it and everything will be fine. No one really says that anymore,
+but that's what people were really saying at the time. The other thing is, I think it's important
+to understand what the toxic data issue is that if you want to have a model that doesn't do something
+that you don't want it to do, like, you know, say bad things or think bad things or do bad things,
+you need to give it examples of what those bad things are for it to actually know what you're
+talking about. Because if you take all of those bad things out of the training data, it's much,
+much, much, much easier to make the model do those bad things because you haven't told it not to do
+those things. That's how you get Tay. And so in order to make the models actually more functional,
+you need to give it a lot of examples of things that you that you may not want in this way. I'll
+also just sort of end on this last thing is that what is the problem of bias within models is it's
+actually a really good example of what alignment really means. I'm kind of critical of the idea of
+alignment, not not in the narrow sense of like, when I say open the garage door, I actually wanted
+the garage door to open. That's alignment. That's fine. But alignment is like the real purpose of
+long term ways of thinking about the role of AI is that it should be as much as AI can be human
+like, human centered, a reflection of human cultural norms, a reflection of human values,
+a reflection of human desires, a reflection of human psychology, the better. I think this is
+insane. Even the most cursory look at human history suggests that's the last thing you want to do
+to basically supercharge whatever humans are. It's not a misanthropic statement. I'm just saying
+it's naive as a meta heuristic bias in models, racism in models, sexism in models,
+bomb making in models. These are, this is what alignment looks like. The reason that you have
+models that are reflecting the history of structural racism in society is because those
+models are well aligned, not because those models are not well aligned. That's the important point
+to sort of understand here. The other thing I was going to name with maybe it's just something I've
+been thinking about a lot last couple of days because I had a conversation a couple of days
+ago with a quite well known European artist who will remain nameless, someone who's written quite
+a lot on the topic of the role of generative AI and what it really means to be an artist whose
+work is part of the training data and have their identity reflected in the rest of this as well.
+And has published quite a bit on it and I think has a lot of interesting things to say about it.
+But one of the things that became clear to me halfway through our conversation is that this
+person, they thought that their artwork was actually in the model that like, okay, here's
+all my paintings and all the videos I've made and all the rest of the stuff that these are as such as
+artifacts in the model. And so when someone types in, I want to make a thing that, you know,
+looks like this or this or that it almost like a database lookup. It would go look up that item in
+the database and then make something based on that thing. And I tried to explain it like, no,
+it's actually not, it works that the training data and the information in the model are actually
+totally different kinds of things. And that your artifact is not sitting there like your profile
+or your Google profile is not sitting there in the model waiting to be accessed in some sort of way.
+And it kind of is like, it's the way a lot of the discussion of this is going. It's almost as if
+people presume, and this is, you know, after years of Google, it makes sense that people
+presume that there's like this giant repository of everything that human made that the AI is going
+through and picking from to take examples of. And the point I was making with this is that the way
+to think about AI as a form of the collectivization of planetary intelligence, the importance of
+understanding the way in which this is generating topological models in the forms of differential
+embeddings in weights. It is something that is so intrinsically collectivized, right? It's so
+intrinsically collectivized that to look at it and say, yeah, but my personal thing that I personally
+made has been taken to make this thing. Like there may be, there's like somewhere deep in here,
+at the fourth decimal point, something is different because you're participating in it.
+This is relevant because it's actually, you know, you see yourself in one way or another,
+but this presumption of one's own sense of individual intelligence and its relationship
+to collective intelligence is broken, at least in the West. And therefore our relationship to
+how the artificialization of individual intelligence and the artificialization of collective intelligence
+would play out, it's not surprising that people would see it in this particular way. And this is
+a little bit what I mean about provincializing the West, about provincializing the Western
+theories around AI and how important it is to do that in order to get to the point where
+much more planetary discourse and compositional project around AI is even possible.
+So maybe going a little further in picking apart the problem of the individual,
+I'd love to get to kind of the is Benjamin Bratton an anti-humanist type of question.
+So in the stack, that user layer that you described, I mean it's pretty intense to
+read as a subject, right? The user, which is the scale that's approaching our individual
+scales as humans, this user is in the process of what you call liquefaction. They're being
+quantized in terms of data, they're constantly subordinated to all these forces on scales that
+are inaccessible to them. And you continue this process of the deprioritization of the individual
+or the critique of individual agency in wider social and political spaces, as you mentioned
+just now, in Revenge of the Real. So I'm wondering, what is actually available to us as agents,
+especially in the regime of planetary scale computation, these massive inflection points
+in technology? Are we just idle observers of path dependencies that are flowing through us?
+And I guess to probe even further, is the subject or the subject position or subjectivity,
+subjective experience, is this a relevant framework anymore or just a piece of legacy
+18th century tech? All right, there's a lot of questions in here. I'll do my best. I think I'll
+be comfortable characterizing my work as non-humanist, but not anti-human. I think the
+distinction between humanism and humans is an important one to make, at the very least, right?
+I think humanism in its, let's say, now traditional guises, for reasons that we're all
+probably well aware, has a lot of different problems associated with it, including problems
+that have unfortunately been shuttled along into post-humanism in a lot of different ways,
+which I find in many respects, in its present guise, is a kind of inadequate sentimentalization
+of the eclipse of the humanist subject. But it's not anti-human in any sort of sense at all.
+Humans, if we just really zoom out a little bit and think of humans as this precocious primate
+that's been around for a few million years and a couple hundred thousand in its present form and
+capable of producing amazing feats of symbolic construction and communication over the past
+tens of thousands of years and has, for better or worse, largely transformed its host planet in its
+image, humans are remarkable. But it did all of these things not because it meant to. It wasn't
+like that somehow, you know, that homo habilis said, right, got it. First, I make a rock,
+you know, then I'm going to do this. And then, you know, Napoleon's going to invade Russia in
+the winter. And then we're going to have American Idol. And then we're, you know,
+it's like, this is not how, this is not how history works, but it's not how evolution works.
+What we're all concerned about is anthropogenic agency. What was called the Anthropocene is about
+understanding the cumulative effects of anthropogenic agency. But when Darwinian
+evolution became paradigmatic in the late 19th century, this was a kind of Copernican shift
+moment when humans realized like, oh, our own history is actually a history that is floating
+on top of much bigger and deeper histories that are geologic histories, that are biological
+histories, that are evolutionary histories, that are histories of how it is that complex societies
+rise and fall. And that, you know, the amount of mastery and control that we have over this is
+relatively limited. It's interesting then, I suppose, in a similar that you get this understanding
+of essentially the ways in which human societies and cultures are, as you say, sort of dependent
+on forces outside of their control or the result of those forces, right? Evolution would suggest
+that human culture is just an expression of deeper dynamics and forces in and of itself.
+At the exact same time, historically, when it also comes to realize that it has transformed
+the entire world in its image in the Anthropocene, both this sense of discovering of the scope of
+its agency and discovering of the limitations of its agency, it discovers at the exact same time.
+But I think the relationship here, I'll put it this way just to sort of not to bury the lead.
+I think the problem that you're identifying here is the way in which in particularly,
+I don't want to say in the West in art and design circles, you can slice it however you like,
+that there's a strong conflation of subjectivity, agency and identity as all basically being the
+same thing. And that the question of agency and how it is that I myself as the protagonist of
+the world have agency to make change is not the same question of what is your experience of your
+own subjectivity. It's not the same question of what is your sense of identity. Your question of
+identity is not necessarily the same question as a sense of agency. Subjectivity, agency,
+and identity are actually really different kinds of things. And I think it's the conflation of
+these that's causing people a lot of headache. I think what you get result is a sense of
+diminution of one. I don't have enough agency in the world implies that there needs to be an
+inflation of my sense of subjectivity, or even worse, a sense of my experience of my own
+subjectivity. Subjectivity and the aspect of one's own subjecthood becomes not just the path
+towards greater agency, it becomes both the form and the content of greater agency. I think this
+is a bit of a close loop way of going about things to be clear. I also think that at least
+historically it tends to sort of get things backwards. There's a way in which, you know,
+I think we're all sort of familiar with this tendency in sort of general sense is the idea
+of how it is that either I myself or we as the people or humans as the anthropogenic agent would
+be able to have more control over our own societies or our own lives over the way that the ecosystems
+work is if we need to first develop the subjectivity that would allow us to understand what's in front
+of us. And if we can cultivate the subjectivity properly to debate and to draw the fine points
+of distinction between what are the proper political subjects and the improper political
+subjects, the proper economic. So that once we calibrate subjectivity agency will flow from
+there. I think one of the lessons of the Anthropocene is that actually may work the other way around.
+One of the things that the Anthropocene is that then you call it whatever you like. I mean,
+I think actually they're not just different words for the same thing. I think capital scene is just
+a different thing than the Anthropocene, just that they're actually talking about different
+kinds of transformations is that whatever slice of humans or whatever actual sort of mega complex
+of humans and technologies and microbes and other species that you want to identify as the
+Anthropocene complex, it had this agency to transform the world for centuries before it
+understood that it was doing that. It had this world changing terraforming agency for centuries,
+but only in the 1960s and 70s really. And then, you know, to a certain extent with the birth of
+climate science, but then really even in the early 2000s, it can occur to us just like, oh,
+we have this agency, this terraforming agency that it is not negotiable. It is not something
+that it's possible to renounce. And therefore we have to construct a subjectivity that is appropriate
+to the scale of this agency, which I think is the right way of going about it. But what this,
+what this implies is that agency precedes subjectivity. The agency precedes the
+subjectivity. The subjectivity is a way of retroactively understanding one's own agency
+sort of in the world. Obviously it can work the other way around, where people come to rethink
+of themselves and their subject positions. And this is another linguistification of the world.
+Like reality is a big sentence and I'm the first person singular or first person collective subject
+of the sentence. And now what's the verb. But I think we need to be equally attentive to subjectivity
+as the result of the agency as well. But I think to sort of the gist of your point, I think that
+there at this particular moment, I think part of the ways in which, and I just wrote a piece about
+this for Tank magazine, which was based on a really, really interesting book called immediacy
+that Anna Kornblot wrote, is that there's an intense focus on the subjective experience of
+subjective experience in and of itself. Again, as the sort of form and content of the way in
+which one must calibrate your being in the world that I think at the end of the day is actually
+why you have the bad Anthropocene, not the way you get out of it. The reason you have the bad
+Anthropocene is not because humans rationalize or technologize the world, but rather because
+they imagine that the world is basically the background for their own experience of their
+own experience. The true weight, the true weight of that narcissism is something that's probably
+unaffordable in the long term. A huge thank you to icon and hero Benjamin Bratton for joining us.
+We hope this conversation was as thought-provoking for our listeners as it was for the two of us.
+Damn. On a related note, Roberto and I are giving a symposium for foreign object in March called
+non-player dynamics, agency fetish, and game world as part of their deep object residency agency at
+the computational turn led by Sapita Majidi and Razan Agarastani. You can find more information
+about this talk at foreignobjectwithak.com. Subscribe to this podcast for more analysis
+at the intersection of algorithm, subjectivity, and the arts.

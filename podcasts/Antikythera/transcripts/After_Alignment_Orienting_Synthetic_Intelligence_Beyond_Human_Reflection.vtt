@@ -1,0 +1,1787 @@
+WEBVTT
+
+00:30.000 --> 00:58.440
+The
+
+00:58.440 --> 01:04.120
+history of AI and the history of the philosophy of AI are deeply intertwined, from Leibniz
+
+01:04.120 --> 01:07.600
+to Turing to Hubert Dreyfus to today.
+
+01:07.600 --> 01:12.960
+Thought experiments drive technologies, which in turn drive a shift in the understanding
+
+01:12.960 --> 01:19.040
+of what intelligence itself is and might become and back and forth.
+
+01:19.040 --> 01:27.440
+But for that philosophy to find its way today, for this phase of AI, which it needs to, that
+
+01:27.760 --> 01:33.200
+finding its way needs to include expanding from the European philosophical tradition
+
+01:33.200 --> 01:38.120
+of what AI even is.
+
+01:38.120 --> 01:42.800
+And the connotation of this, from the connotation of artificial intelligence drawn from the
+
+01:42.800 --> 01:49.000
+Deng era in China was as a kind of, in relation to a kind of industrial mass mobilization.
+
+01:49.000 --> 01:54.320
+The Eastern European includes what Stanislav Lem called existential technologies, just
+
+01:54.320 --> 01:59.760
+as the Soviet era, it meant something more like governance rationalization.
+
+01:59.760 --> 02:06.600
+All of these contrast with the Western individualized and singular anthropomorphic models that dominate
+
+02:06.600 --> 02:10.020
+contemporary debates still today.
+
+02:10.020 --> 02:17.360
+So to ponder seriously the planetary pasts and futures of AI, must not only, it must
+
+02:17.360 --> 02:23.960
+extend and alter our notions of artificiality as such, intelligence as such, and must not
+
+02:23.960 --> 02:30.760
+only draw from this range of traditions, but also to a certain extent, almost inevitably,
+
+02:30.760 --> 02:33.960
+also leave them behind.
+
+02:33.960 --> 02:38.400
+What Turing proposed in his famous test as a sufficient condition for intelligence, for
+
+02:38.400 --> 02:44.520
+example, has become instead, solipsistic demands and misrecognitions.
+
+02:44.520 --> 02:51.920
+To idealize what appears and performs as most quote human in AI, either as praise or as
+
+02:51.960 --> 02:58.960
+criticism, is to willfully constrain our understanding of what machine intelligence is as it is.
+
+03:02.880 --> 03:06.360
+And this includes language itself.
+
+03:06.360 --> 03:11.320
+Large language models and their eerily convincing text and prediction capabilities has been
+
+03:11.320 --> 03:16.840
+used to write novels and screenplays, to make images in movies, songs, voices, symphonies,
+
+03:17.600 --> 03:22.480
+and are even being used by biotech researchers to predict gene sequences for drug discovery.
+
+03:22.480 --> 03:27.520
+Here at least, the language of genetics really is a language.
+
+03:27.520 --> 03:33.000
+LLMs also form the basis of generalist models capable of mixing inputs and outputs from
+
+03:33.000 --> 03:38.120
+one modality to another, interpreting what an image sees, so instruct the movement of
+
+03:38.120 --> 03:41.320
+a robot arm and so forth.
+
+03:41.320 --> 03:46.840
+Such foundational models may become a new kind of public utility around which industrial
+
+03:46.840 --> 03:52.800
+sectors organized, what we call cognitive infrastructures.
+
+03:52.800 --> 03:56.400
+So with their speculative philosophy then?
+
+03:56.400 --> 04:02.440
+Well, I honestly don't think that society at present has the critical and conceptual
+
+04:02.440 --> 04:06.720
+terms to properly approach this reality head on.
+
+04:06.720 --> 04:12.120
+As a co-author and I wrote recently, quote, reality overstepping the boundaries of comfortable
+
+04:12.120 --> 04:17.560
+vocabulary is the start, not the end of the conversation.
+
+04:17.560 --> 04:22.960
+Instead of groundhog day debates about whether machines have souls or can think like people
+
+04:22.960 --> 04:28.760
+imagine themselves to think, the ongoing double helix relationship between AI and the philosophy
+
+04:29.440 --> 04:35.440
+to do less projection of its own maxims and instead construct newer, more nuanced vocabularies
+
+04:38.320 --> 04:46.320
+for analysis, critique and composition based on the weirdness right in front of us.
+
+04:46.320 --> 04:52.320
+And that is really the topic of my talk, the weirdness right in front of us, and the clumsiness
+
+04:52.320 --> 04:55.440
+of our language to engage it.
+
+04:55.520 --> 05:01.760
+Toward that, let me say that, again, that the impasses over whether machine intelligence
+
+05:01.760 --> 05:07.280
+as mind or sentience or consciousness are, in fact, impasses in our language and our
+
+05:07.280 --> 05:14.160
+imagination more than they are in what is actually happening has happened and will happen.
+
+05:14.160 --> 05:21.280
+The productive interest instead may have less to do with how AI adheres to precedent models
+
+05:21.360 --> 05:27.760
+than what it reveals and does about the limitations of those models.
+
+05:27.760 --> 05:34.240
+So I say reveals and does. Why the split? Well, instead of presuming that ideas are
+
+05:34.240 --> 05:40.280
+first formed and then tools are wielded to act upon them, we may observe instead that
+
+05:40.280 --> 05:46.960
+different tools, or as well, that different tools make different ideas possible. It's
+
+05:46.960 --> 05:52.000
+not just that they invite different dispositions towards the world, they literally make the
+
+05:52.000 --> 05:59.000
+world conceivable in ways otherwise impossible. Per Lem, Stanislaw Lem that is, and his notion
+
+06:01.900 --> 06:08.900
+of an epistemological and instrumental technology distinction, we might say that some kinds
+
+06:10.000 --> 06:16.120
+of technologies have the greatest social impact in what they do and enable in artificially
+
+06:16.120 --> 06:22.720
+transforming the world. These are instrumental. Others, however, have greater social impact
+
+06:22.720 --> 06:29.720
+in what they reveal about how the world works. These are epistemological technologies. Telescopes
+
+06:30.160 --> 06:37.160
+and microscopes are good examples. Yes, they allow perception of the very large and the
+
+06:37.280 --> 06:44.280
+very small, but more importantly, they enable Copernican shifts in self-comprehension,
+
+06:44.960 --> 06:51.960
+grasping of our very selves as part of planetary and indeed extraplanetary conditions. With
+
+06:53.120 --> 06:59.040
+such shifts, it was possible to orient not only where the planet is, but thereby where
+
+06:59.040 --> 07:06.240
+and when and what, quote, we are, and of course, also thereby putting into question that collective
+
+07:06.240 --> 07:13.240
+pronoun itself. Taken together, again, these may be called epistemological technologies.
+
+07:14.280 --> 07:21.280
+Again it is certain that computation is artificially transforming the world in the form of a accidental
+
+07:21.640 --> 07:28.640
+megastructure that shifts politics and economics and cultures in its own image. However, computation
+
+07:29.440 --> 07:36.400
+is also an epistemological technology that has and does and will reorient the course
+
+07:36.400 --> 07:43.400
+of what a viable planetary condition may be. In fact, we may say that the planetary as
+
+07:43.880 --> 07:50.880
+such is an image that emerges via computation, via, for example, climate science, which is
+
+07:51.480 --> 07:56.800
+based of course on planetary sensors and models and most of all super computing simulations
+
+07:56.800 --> 08:03.800
+of the planetary past, present and future. The very idea of climate change is, in other
+
+08:03.880 --> 08:10.880
+words, an epistemological accomplishment of planetary computation. And thus, so indirectly,
+
+08:11.040 --> 08:18.040
+is the notion of the Anthropocene and of humanity as a terraforming subject. And that is what
+
+08:18.960 --> 08:25.960
+is at stake. So, full disclosure then, in this regard, my own approach to philosophy
+
+08:27.720 --> 08:32.440
+for a philosophy of technology then can then be understood as, in a sense, an inversion
+
+08:32.440 --> 08:39.440
+of the malaise carefully lamented by Heidegger for whom technical reasons alienation of
+
+08:39.440 --> 08:46.360
+the intuitive givenness of the world is its and indeed our downfall. Whereas for me, I
+
+08:46.360 --> 08:53.360
+think he has it backwards. That alienation, that Copernican weirdness achieved through
+
+08:54.240 --> 09:01.240
+technological mediation of our cognition has been and will be a path to access anything
+
+09:01.240 --> 09:08.240
+called being. Once again, where we are, when we are, where we are and how we are. But clearly,
+
+09:13.800 --> 09:20.800
+AI is not only disclosing these, it is also forcing us to question them. We then experience
+
+09:21.360 --> 09:28.360
+different kinds of, if you like, AI overhangs and arguably underhangs. An AI application
+
+09:28.680 --> 09:35.100
+overhang means that the technology is capable of doing things, that a society has a hard
+
+09:35.100 --> 09:42.100
+time integrating, modeling, adopting for any number of good or bad reasons. What one of
+
+09:42.840 --> 09:48.800
+our, in Antikythera program, one of the meta-science projects by Darren Zhu, Will Freudenheim and
+
+09:48.800 --> 09:55.800
+Imran Sekolala calls an AI epistemic overhang, on the other hand, means that AI is capable
+
+09:56.440 --> 10:03.440
+of discovering things, knowing things, disclosing things. That human science has a hard time
+
+10:05.200 --> 10:11.840
+modeling and integrating and adopting. The latter, we would argue, is not just an issue
+
+10:11.840 --> 10:18.840
+for science. In its generality, it is many ways the focus of this talk. So first, about
+
+10:18.840 --> 10:25.840
+alignment. What does it mean to ask machine intelligence to align to human wishes and
+
+10:38.920 --> 10:45.840
+self-image? Is this a useful tactic for design or a dubious metaphysics that obfuscates how
+
+10:45.840 --> 10:52.360
+intelligence as a whole might evolve? Given that AI and philosophy of AI have evolved
+
+10:52.360 --> 10:58.120
+in a tight coupling, informing and delimiting one another, how should we rethink this framework
+
+10:58.120 --> 11:04.520
+in both theory and practice? Or let me put it somewhat differently. If the stack describes
+
+11:04.520 --> 11:11.520
+the topology of planetary scale computation, the question that it implies is what is planetary
+
+11:12.040 --> 11:18.920
+scale computation for? We might insist that the emergence of machine intelligence must
+
+11:18.920 --> 11:26.080
+be steered toward a kind of planetary sapience in the service of viable long-term futures.
+
+11:26.080 --> 11:33.080
+And for that, instead of strong alignment with human values and superficial anthropocentrism,
+
+11:33.240 --> 11:40.240
+this steerage of AI means treating these humanisms with some nuanced suspicion and recognizing
+
+11:41.240 --> 11:48.240
+instead a broader potential. At stake is not only what AI is, but what a society is and
+
+11:50.880 --> 11:57.880
+indeed what either one is for. And what should align with what? The term synthetic intelligence
+
+12:00.080 --> 12:05.600
+in our parlance refers to the wider field of artificially composed intelligent systems
+
+12:05.600 --> 12:12.600
+that both do and do not correspond with humanism's traditions. These systems, however, can of
+
+12:15.520 --> 12:22.520
+course complement and combine with human cognition and intuition and creativity and abstraction
+
+12:22.640 --> 12:29.640
+and discovery. But as such, both are forever altered by these amalgamations.
+
+12:30.640 --> 12:37.640
+Now, machine intelligence itself may or may not be, strictly speaking, artificial. Now,
+
+12:40.160 --> 12:45.920
+if we mean artificial as something that is composed deliberately by some kind of precedent
+
+12:45.920 --> 12:52.920
+intelligence, then AI is a form of machine intelligence that is so composed. But it is
+
+12:53.600 --> 13:00.200
+perhaps not so simple. We recognize every day that there are forms of machine intelligence
+
+13:00.200 --> 13:07.200
+that are genuine and yet evolved without deliberate design. Just look around the city. And second,
+
+13:10.480 --> 13:17.040
+we can zoom out and see that the intelligence that does any artificializing is itself evolved.
+
+13:17.040 --> 13:24.040
+And so, its artifacts are then also part of this evolutionary phylogeny. Now, the primary
+
+13:24.560 --> 13:31.200
+significance of this for the present talk is that we should not, repeat not, see AI
+
+13:31.200 --> 13:38.200
+simply as a direct reflection of human ideas, culture, and economics. Nor, vis-a-vis alignment
+
+13:38.480 --> 13:45.480
+should it be. Put directly, the extent that it directly reflects human culture is not
+
+13:45.520 --> 13:52.960
+a goal, nor is it a reality. The extent to which it departs from human culture is not
+
+13:52.960 --> 13:59.960
+what we might name a disaster, and nor is it a hypothetical. That departure is, in fact,
+
+14:00.080 --> 14:07.080
+our reality. That human intelligence must or should orient, which is our preferred term,
+
+14:07.080 --> 14:14.080
+AI toward viable planetary futures, is essential. But again, that viability does not arrive
+
+14:18.440 --> 14:25.000
+simply from making AI resemble us or admire us or be subservient to our wishes. To the
+
+14:25.000 --> 14:32.000
+contrary. Now, there is obviously a Venn diagram overlap between AI ethics on the one hand,
+
+14:37.480 --> 14:44.040
+and AI alignment on the other. But there is also, between them, a kind of impasse. Or
+
+14:44.040 --> 14:51.040
+at least in principle, a contradiction between their visions. AI ethics, particularly in
+
+14:51.040 --> 14:58.040
+guises associated with popular pundits and so forth, insists, when coaxed, that AI is
+
+14:58.500 --> 15:05.400
+simply the reflection of human societies. From unjust biases and unequal economic systems
+
+15:05.400 --> 15:11.400
+that produce it. It seeks to demystify AI as just us. Nothing more. Nothing less. As a
+
+15:15.360 --> 15:21.360
+theory, it asks us to identify in principle any technology, especially AI, as ontologically
+
+15:23.760 --> 15:29.760
+artifactual. AI alignment, on the other hand, and again, my abstraction of these correlates more to
+
+15:29.760 --> 15:35.760
+the popular and populist guises than any deeper serious research. Alignment may hold that the
+
+15:40.800 --> 15:48.160
+potential existential, or at least serious, risk of AI is based in the fact that it is now so
+
+15:48.160 --> 15:55.160
+deeply divergent from human cultural values and norms. And that securing a safe future means
+
+15:55.160 --> 16:01.160
+actually gluing it to those values and norms. So you see the theoretical problem. How can AI be
+
+16:04.320 --> 16:09.840
+both automatically reflective of human biases and values and dangerously unreflective of human
+
+16:09.840 --> 16:15.840
+biases and values? How can the positions that straddle my cartoon binary hold the apparently
+
+16:15.840 --> 16:21.840
+contradictory conclusion at once? How can we observe that, again, that AI is us, and this is
+
+16:25.420 --> 16:31.420
+bad, and simultaneously that it is not us, and this is also bad? Well, it can be both, but only
+
+16:33.920 --> 16:40.800
+if we would radically qualify and specify what we mean by alignment and allow for alignment such
+
+16:40.840 --> 16:48.840
+that AI not only bends to social norms, but also for which society evolves in the positive sense
+
+16:48.840 --> 16:54.840
+in relation to the epistemological and instrumental affordances of AI. So before I go into a little
+
+16:57.920 --> 17:03.960
+bit more detail about what I envision, let me further contrast and clarify what I don't
+
+17:04.000 --> 17:10.000
+envision, what I don't mean. The possibly very sensible perspective that AI and potential AGI
+
+17:13.200 --> 17:20.320
+pose an existential risk and so therefore should be the focus of planetary concern for
+
+17:20.320 --> 17:27.720
+geopolitical and geosocial debate has not always been well represented in the public sphere as it
+
+17:27.720 --> 17:33.720
+should be. AI moral panics overwhelm imaginative reason in what amounts to several simultaneous AI
+
+17:38.600 --> 17:44.600
+moral panics competing for attention, oxygen and hegemony. These range from rather predictable
+
+17:45.880 --> 17:51.880
+American culture war templates that focus less on what is said than who is saying it to a strange
+
+17:52.040 --> 17:58.040
+inversion where some of the most well-known for rapturous, millenarian visions of AI have rotated
+
+18:01.080 --> 18:08.040
+to apocalyptic, eschatological ideas without missing a beat. From the singularity to the
+
+18:08.040 --> 18:14.040
+Unibomber and back is the new horseshoe theory of AI politics. The hype doom binary imploding into
+
+18:15.000 --> 18:21.000
+itself. Elsewhere, but not too far away, many public intellectuals spent the spring of 2023 in a
+
+18:24.440 --> 18:32.280
+perhaps well-meaning piety game to see who could say that we are in fact more fucked. You say we
+
+18:32.280 --> 18:41.320
+are fucked because of AI. Well, I say we are more fucked than thou. Sometimes the game
+
+18:41.320 --> 18:47.960
+eventuated in public letters of concern of varying quality and intellectual legitimacy,
+
+18:47.960 --> 18:52.840
+I think, but almost all with signatories that included very good and smart people.
+
+18:54.920 --> 19:02.840
+The most dubious of these, however, called for those in charge to push the imaginary red pause
+
+19:02.840 --> 19:10.520
+button on AI, quote, until we can figure out what's going on, as the man said. Knowing full
+
+19:10.520 --> 19:17.240
+well that no such button exists. That bad actors will not play along and that they themselves
+
+19:17.240 --> 19:21.160
+perhaps stand to benefit down the line for having signaled their concern thusly.
+
+19:23.240 --> 19:29.400
+Most importantly, that unlike aliens in a sci-fi movie who land and say take me to your leader,
+
+19:30.600 --> 19:38.040
+that when it comes to the serious, serious risks identified, there is no them to petition.
+
+19:38.040 --> 19:44.360
+Who is in charge is the right question. And I would like to think that the posing of that
+
+19:44.360 --> 19:54.040
+question was the real point and hopefully impact of the letters. That said, it is clear that the
+
+19:54.040 --> 20:01.000
+present discourse around AI is ironically enough exemplary of the kind of discourse that the
+
+20:01.000 --> 20:08.440
+discourse around AI is warning us about. Tribal, hyperbolic, truthy, unnecessarily dominated by
+
+20:08.440 --> 20:15.000
+whoever talks loudest and says the most outrageous thing, all amplified by advertising machines.
+
+20:17.000 --> 20:26.600
+Some critics may even go so far as to insist that AI is neither artificial nor intelligent.
+
+20:26.760 --> 20:32.840
+They say that it is not artificial because it is made of physical materials by people for specific
+
+20:32.840 --> 20:38.840
+purposes, which is the very definition of the artificial. They say it is not intelligent
+
+20:38.840 --> 20:44.120
+because it is merely modeling and solving problems, which in many significant ways is a good
+
+20:44.120 --> 20:49.640
+shorthand definition for a general theory of intelligence that is inclusive of but not
+
+20:49.640 --> 20:56.520
+exclusive to what it feels like to be human. They say that AI is not artificial because it is made
+
+20:56.520 --> 21:06.840
+human. Others may go a step further and advance a position that we might call AI denialism. That is,
+
+21:06.840 --> 21:13.480
+AI doesn't really exist. Don't be fooled. It is just statistics. It is just gradient descent.
+
+21:15.480 --> 21:20.360
+This is a bit like saying a symphony doesn't exist, it is just sound waves. Or that food
+
+21:20.360 --> 21:24.920
+doesn't exist, it is just molecules. All of these are trivially true,
+
+21:26.600 --> 21:33.240
+but this AI denialism is not remotely helpful in addressing the concerns it purports to stand for
+
+21:33.240 --> 21:41.720
+by making this particular case. The thing is it is usually advanced as part of a political position
+
+21:41.720 --> 21:49.160
+in relation to the economics of AI, often a quite legitimate one, that then raises the stakes
+
+21:49.160 --> 21:55.560
+to an ontological claim. And so it is perhaps difficult to climb down from denialism
+
+21:56.520 --> 21:59.320
+because it seems to put the validity of the politics in question.
+
+22:01.560 --> 22:09.080
+Elsewhere, AI denialism dovetails with what we might call AI abolitionism. AI does not really
+
+22:09.080 --> 22:17.160
+exist but should nevertheless be abolished. Now, there is a lot to unpack here and to do
+
+22:17.160 --> 22:22.200
+these positions justice and to systematically critique the critique of AI in this way and would
+
+22:22.200 --> 22:28.200
+take at least a few other lectures, but let me then just offer the punch line of what those other
+
+22:28.200 --> 22:35.240
+lectures might be because it is also the punch line of this lecture or one of them. There are
+
+22:35.240 --> 22:45.480
+several. Sociomorphism, that AI is or should be the reflection of human society, is the logical
+
+22:45.480 --> 22:51.000
+extrapolation of anthropomorphism, that AI is or should be the reflection of a single human.
+
+22:52.360 --> 23:00.600
+Both of these, neither of these, is a real alternative to a California ideology's planetary
+
+23:00.600 --> 23:07.800
+hegemony. They are in fact the pinnacle of it. The strong anthropomorphic view of AI
+
+23:08.440 --> 23:15.160
+goes back at least to the Turing test where what he offered as a sufficient condition for
+
+23:15.240 --> 23:23.000
+identifying machine intelligence became a necessary condition. That is, unless AI could perform
+
+23:23.000 --> 23:31.960
+thinking the way that humans think that humans think, then it's disqualified. This idealization
+
+23:31.960 --> 23:38.840
+of what we could call reflectionism, it manifested as well in the psychologism of human-centered
+
+23:38.840 --> 23:46.040
+design, which proved a very mixed bag as it turned out, and is present in the now contested
+
+23:46.040 --> 23:54.280
+terrain for human-centered AI, humanistic AI and so on, which are perhaps posed to make many of
+
+23:54.280 --> 24:03.080
+the same errors as human-centered design. I will talk about what we call human-AI interaction
+
+24:03.160 --> 24:09.080
+design, or HAID, in a moment. We are, in antikythera, very invested in this idea,
+
+24:09.960 --> 24:13.800
+not despite of its weirdness and complexity, but because of it.
+
+24:15.480 --> 24:23.560
+We are interested in the weirdness as well that is ensured by attempts to eradicate the badness.
+
+24:24.200 --> 24:32.200
+The last decade of AI ethics surely prevented a lot of horrible things. Alignment researchers
+
+24:36.520 --> 24:42.040
+themselves contributed to many of the core technologies that we now make use of, scaling
+
+24:42.040 --> 24:50.040
+laws to ROHF in particular. And yet, also, at the same time, ethics ended up dovetailing
+
+24:50.200 --> 24:57.640
+accidentally with corporate brand concerns to give us LLMs that are lobotomized to never speak
+
+24:57.640 --> 25:05.640
+about sex and violence in any meaningful way. We have prudish AIs. We all foresee how bad it
+
+25:05.640 --> 25:11.560
+could get if the worst human preoccupations were directly aligned with the power of foundation
+
+25:11.560 --> 25:18.600
+models. But we also, at the same time, think about the critical role of sex and violence in
+
+25:18.600 --> 25:26.040
+the evolution of animal intelligence, including ours. And so recognize the weirdness of machine
+
+25:26.040 --> 25:33.240
+intelligence evolving with these topics as unspeakables. Now, again, to be clear, my
+
+25:33.240 --> 25:39.880
+positions on this are not intended to be posed at the expense of the research in AI ethics and
+
+25:39.880 --> 25:46.840
+alignment, but rather actually in concert with their conclusions that ethics and alignment as
+
+25:46.840 --> 25:55.720
+such are together necessary but insufficient frameworks for the long-term orientation of
+
+25:55.720 --> 26:03.000
+machine intelligence. That, in other words, alignment overfitting is real. My concern,
+
+26:03.000 --> 26:13.000
+however, is that exhaustion with tech solutionism gives way to self-congratulatory parades of
+
+26:13.000 --> 26:20.280
+political solutionism that is now overflowing op-ed columns, trade books, and yes, schools and
+
+26:20.280 --> 26:28.520
+universities. On the continent, the inability to grasp how planetary computation upends 18th
+
+26:28.520 --> 26:37.080
+century forms of Westphalian citizenship leads as well to regulatory solutionism, AI laws that
+
+26:37.080 --> 26:42.360
+address yesterday's problems, the EU forever running to where the ball no longer is.
+
+26:43.640 --> 26:50.680
+Trying to shoehorn planetary dynamics into citizen-scale policies. For example,
+
+26:50.680 --> 26:56.440
+its permanent focus on individual citizen data as the core locus of concern and governance
+
+26:57.160 --> 27:07.800
+is, in a post-pandemic world, probably the wrong lens. The way out of this is to cut the knot
+
+27:08.440 --> 27:14.520
+of the weakest forms of reflectionism, which we might define as the moral and practical
+
+27:14.520 --> 27:23.640
+axiom that AI does or should be ontologically anthropomorphic. Not only are technologies not
+
+27:23.640 --> 27:30.200
+exhausted by the projection of social relations upon them, they are capable of forcing new
+
+27:30.200 --> 27:35.960
+practical concepts that contravene those social relations in the first place.
+
+27:38.520 --> 27:45.880
+As such, the harm, to use the parlance of the day, is not only in what reflectionism directs
+
+27:45.880 --> 27:53.160
+our attention to, but equally, perhaps more so, what it directs our attention from.
+
+27:55.160 --> 28:02.040
+AI represents an existential risk and existential potential in both senses of that term.
+
+28:02.520 --> 28:09.400
+By this, I don't mean that it may or may not kill us, but that it may or may not disclose to humans
+
+28:09.400 --> 28:15.000
+and to animal intelligence, to planetary intelligence, fundamental truths about what we
+
+28:15.000 --> 28:23.320
+are, what their existential condition really is. This is the Copernican risk-reward calculus,
+
+28:24.120 --> 28:30.120
+one that is neither messianic nor apocalyptic. Now, you may hear my criticism, such as it is,
+
+28:36.440 --> 28:43.320
+of shallow AI anthropomorphism and say, yes, but as it turns out, AI actually does reflect
+
+28:43.320 --> 28:49.960
+human intelligence in some important ways. So, against a shallow anthropomorphism that
+
+28:49.960 --> 28:57.400
+insists that AI present itself as thinking how humans think that humans think, there is also
+
+28:58.200 --> 29:05.400
+a deep anthropomorphism, or better, a deep biomorphism, that may correspond to how humans
+
+29:05.400 --> 29:12.200
+and other animals do really think, even if they don't experience thinking in that way.
+
+29:13.000 --> 29:20.520
+This is not only true, it's profound, and this is, as I say, what shallow reflectionism
+
+29:20.520 --> 29:30.440
+models. For example, very recently, research in how AIs discern edges in images was, for example,
+
+29:30.440 --> 29:36.280
+directed researchers to unidentified, as yet identified, unspecified neuronal mechanisms in
+
+29:36.280 --> 29:42.360
+human brains that perform more or less the same thing. As I'll discuss in a moment in relation to
+
+29:42.360 --> 29:49.960
+one of Antikythera's projects, AIs are becoming a kind of experimental organism, like a lab rat,
+
+29:51.000 --> 29:54.680
+in which it's possible to test for human conditions and responses.
+
+29:55.960 --> 30:04.360
+This would not work if there was no fundamental correspondence. But what is and isn't the quality
+
+30:04.360 --> 30:10.520
+of that correspondence is of genuine philosophical and practical interest.
+
+30:12.520 --> 30:18.360
+We also see, at perhaps a higher level of abstraction, that iterative predictive dynamics
+
+30:18.360 --> 30:23.800
+of transformer models does correspond with the iterative predictive dynamics of biological
+
+30:23.800 --> 30:32.760
+neurons. This was not the plan, but there it is. So yes, actually, you are a stochastic parrot,
+
+30:32.760 --> 30:38.520
+after all. Always has been. But you should not take that as the insult
+
+30:39.320 --> 30:42.760
+that the authors of that infamous paper perhaps intended it to be.
+
+30:45.000 --> 30:51.560
+Iterative stochastic prediction and thinking through the recursions of mental simulation
+
+30:51.560 --> 30:57.800
+and embedded embodied perception is how humans made all the things that you hold most dear.
+
+30:58.600 --> 31:05.800
+Literature, music, science, and so on. Parrots, by the way, are actually very smart and creative,
+
+31:05.800 --> 31:12.040
+so they're kind of a lousy token species for mindless repetition, but that's another thing.
+
+31:13.720 --> 31:20.760
+The deeper correspondence between iterative stochastic prediction and artificial and
+
+31:20.760 --> 31:26.280
+natural systems is technically an anthropomorphism, but as said, probably better to call it a
+
+31:26.280 --> 31:34.680
+biomorphism. And it suggests then a different kind of AGI, an artificial generic intelligence.
+
+31:37.480 --> 31:44.760
+And this is really the point. Emphasis on the correspondence between AI and the manifest image
+
+31:44.760 --> 31:53.000
+of human thought and intelligence and culture comes at this terrible price, obscuring the real
+
+31:53.000 --> 32:00.440
+and profoundly significant correspondence between animal machine intelligence that do not already
+
+32:00.440 --> 32:08.280
+register in common cultural norms, but which could orient those norms to the underlying reality
+
+32:09.000 --> 32:16.200
+from which they emerge. A different bidirectional path of and for alignment.
+
+32:16.200 --> 32:23.640
+And notice I say from which they emerge, as opposed to the reality that emerges from those
+
+32:23.640 --> 32:29.240
+cultural norms. This is where perhaps there are some points of difference in our approach
+
+32:29.960 --> 32:37.640
+and some others on offer in the humanities. It comes down to something rather fundamental
+
+32:37.640 --> 32:43.480
+of what is inside of what. The planet makes worlds or worlds make planets.
+
+32:43.480 --> 32:50.280
+I say that we must avoid what obscures the deeper and more philosophically challenging ways
+
+32:50.280 --> 32:58.680
+that AI does think like brains, but simultaneously does not orient itself around humanist norms,
+
+32:59.400 --> 33:06.440
+which thus distances human brains from human values in uncomfortable ways.
+
+33:06.920 --> 33:13.640
+In uncomfortable ways. Is this the real point of contention and unease?
+
+33:16.040 --> 33:22.680
+In the most extreme versions of reflectionism, what is being defended, I sometimes wonder,
+
+33:23.720 --> 33:30.600
+seems like a kind of political theological conviction that there is nothing outside the
+
+33:30.680 --> 33:37.240
+text as they used to say. Nothing outside the sociological interpretation of technology.
+
+33:37.240 --> 33:42.920
+The political economy of science. The reality of culture as determinant of reality.
+
+33:43.720 --> 33:50.680
+Nothing causing culture, but culture itself. Culture causing culture, which is caused by more
+
+33:50.680 --> 33:58.520
+culture and thus anything, including AI, is intrinsically a reflection of that culture
+
+33:59.240 --> 34:06.520
+and nothing more. We might call this social reductionism and cultural determinism,
+
+34:07.080 --> 34:15.960
+which for all its lip service to post-humanism can be the most militant guise of humanism.
+
+34:17.480 --> 34:26.120
+Now, obviously AI as it exists is fortunately and unfortunately a reflection of the cultures
+
+34:26.120 --> 34:32.440
+that produced it, but and here is the perhaps critical fork in the road. It is not nor should
+
+34:32.440 --> 34:42.680
+it be only a reflection of culture. It is more. We are more. AI itself and more importantly,
+
+34:42.680 --> 34:49.800
+the qualities of reality that are certain to be revealed by AI, all the Copernican twists to come
+
+34:50.760 --> 34:59.560
+are things to which culture must and will align. Not only something that must and will align to
+
+34:59.560 --> 35:05.240
+culture. So, two conclusions.
+
+35:05.240 --> 35:23.800
+Just some. AI is an existential technology and as such must align in both directions.
+
+35:24.440 --> 35:32.440
+AI aligning to culture's wisdom. Culture to AI's disclosures. So, specifically,
+
+35:33.320 --> 35:40.840
+first, lowercase alignment should be seen as a tactic for making machine intelligence's
+
+35:40.840 --> 35:49.000
+instrumentality, making it cohere to agency and intention to make it work. But uppercase alignment
+
+35:49.720 --> 35:55.880
+and the attendant metaphysics is an inadequate grounding for the long-term orientation of machine
+
+35:55.880 --> 36:05.720
+intelligence by animal intelligence. Second, a two-way alignment is both possible and desirable.
+
+36:06.360 --> 36:12.440
+AI's epistemic overhangs, things that it knows and implies for us to know that we have a difficult
+
+36:12.440 --> 36:20.200
+time grasping and accommodating and incorporating are not pathologies. They are in fact the deeper
+
+36:20.200 --> 36:29.720
+point of AI. And so, between AI as generic intelligence, AI as an experimental super
+
+36:29.720 --> 36:35.240
+organism per one of our Antikythera projects called the End of Science by our studio researchers
+
+36:35.240 --> 36:44.360
+Darren Zhu and Connor Cook, AI becomes an uncannily productive sort of mirror. But it's not a mirror
+
+36:44.360 --> 36:50.680
+reflecting what we think we are because we can see it and feel it, but rather a mirror of what
+
+36:50.680 --> 37:12.840
+we are but cannot see and cannot feel. At least not yet. Now, I would like to then
+
+37:13.720 --> 37:18.360
+specify this, ground this a bit in some of the work that we've done to try to explore
+
+37:19.240 --> 37:25.720
+these ideas and many others in the Antikythera program and to tell you a little bit about the
+
+37:25.720 --> 37:33.240
+studio but more importantly about the work. All the projects that I'll show you in a kind of
+
+37:33.240 --> 37:38.760
+summary coming up were all really just completed at the end of last week where they were first
+
+37:38.760 --> 37:43.720
+privately shown in Los Angeles. And again, we'll be back in London in the fall to do a
+
+37:43.720 --> 37:51.880
+bigger showcase around these. Antikythera, as Stephanie signaled to you, is a research
+
+37:51.880 --> 37:57.720
+program, a think tank of sorts for the speculative philosophy of computation. It is supported and
+
+37:57.720 --> 38:04.520
+housed at the Berggruen Institute. We're pleased to be joined by Niels Gilman from the Institute
+
+38:04.520 --> 38:12.200
+here tonight. Stephanie is the associate director. Nikolai is also here, my longtime friend and
+
+38:12.200 --> 38:18.760
+collaborator. Shrelka is our studio director and we are also held afloat by Case Miller and Emily
+
+38:18.760 --> 38:25.320
+Knapp and growing quite, growing every day it seems. The program includes 70 plus affiliate
+
+38:25.320 --> 38:31.000
+researchers from around the world, various universities, and has just completed in our
+
+38:31.000 --> 38:37.400
+last phase 12 studio researchers who completed this studio cycle. It is, in essence, a program
+
+38:37.400 --> 38:43.480
+that not only seeks to map planetary computation but to ask and provide some provisional answers
+
+38:43.480 --> 38:49.480
+to what planetary scale computation is for. Now, as I've already said, philosophy and more
+
+38:52.680 --> 38:58.680
+generally, the project of developing viable concepts about how the world works and thus
+
+38:58.680 --> 39:04.440
+thinking about and thus thinking about how the world works has always developed in conjunction
+
+39:04.440 --> 39:09.880
+with what technology reveals and does and thus what it's possible to think. And so at least in
+
+39:09.880 --> 39:14.920
+that regard, I am something of a technological determinist but only if we expand the definition
+
+39:14.920 --> 39:23.960
+of technology to its properly expansive scope. Here's the thing. At this moment, technology
+
+39:24.040 --> 39:32.120
+and particularly planetary computation has outpaced our theory. The response, as I've hinted
+
+39:32.120 --> 39:37.560
+tonight, is to some extent to force comfortable and settled ideas about ethics and scale and
+
+39:37.560 --> 39:43.640
+polity and meaning onto a situation that not only calls for a different framework but is already
+
+39:43.640 --> 39:48.200
+generating that different framework. So instead of simply applying philosophy to the topic of
+
+39:48.200 --> 39:54.200
+computation, we start from the other direction and produce ideas and the speculative from the
+
+39:58.040 --> 40:04.040
+direct encounter, from making things. So that being said, the program, the Antikythera program's
+
+40:06.500 --> 40:12.200
+real interest is not so much in calculation, in formalization, quantification, interoperability
+
+40:12.200 --> 40:18.200
+as such, than it is about how computation provides orientation, navigation, cosmology, in
+
+40:21.740 --> 40:27.740
+essence, planetary. The inspiration for the name comes from the Antikythera mechanism first
+
+40:30.780 --> 40:38.780
+discovered in 1901 in a shipwreck off the Greek island of said name and dated to about 200 B.C.
+
+40:38.860 --> 40:46.160
+It is perhaps apocryphally the first computer. But it is certainly a primordial computer. But it
+
+40:46.160 --> 40:52.160
+was not simply a calculator. It was also an astronomical machine mapping and predicting the
+
+40:52.160 --> 40:58.080
+movements of stars and planets, marking annual events and orienting a naval culture upon the
+
+40:58.080 --> 41:04.080
+surface of the globe. So it not only calculated interlocking variables, it gave a comprehensive
+
+41:04.080 --> 41:10.080
+orientation of thought in relation to its astronomic predicament, enabling prescriptive
+
+41:14.340 --> 41:20.340
+thought to act in relation to this revealed circumstance. So beyond forms of computation that
+
+41:22.340 --> 41:29.080
+are already perceivable in natural systems, artificial computation such as this is a kind of
+
+41:29.080 --> 41:35.080
+world ordering, a foundation for what would become complex culture. And that is really the
+
+41:38.500 --> 41:46.500
+core of it. For our initiative, the name Antikythera refers to computational technology
+
+41:46.500 --> 41:52.500
+that discloses and accelerates the planetary condition of intelligence. So let me go a bit
+
+41:52.580 --> 42:00.580
+deeper into some of the themes and ideas of the program and to show you some of the work,
+
+42:00.580 --> 42:06.500
+which will be playing in the background as I explain a little bit where it came from and what
+
+42:06.500 --> 42:12.000
+it's up to. Several of the projects, not all of them, several of the projects speak directly
+
+42:12.000 --> 42:17.880
+to questions of AI and indeed to questions of AI alignment rather directly. The project
+
+42:17.880 --> 42:23.880
+HAI ID or HAID, Human Artificial Intelligence Interaction Design by Antikythera Studio
+
+42:26.040 --> 42:33.040
+Researchers William Morgan, Sarah Olympia Scott and Daniel Barkay is what you see here. It is
+
+42:33.040 --> 42:39.040
+an ever growing catalog of existing and almost existing modes, positions and syndromes of human
+
+42:40.840 --> 42:47.840
+AI interaction that allows us to map and generalize the space. It is a compendium of
+
+42:47.880 --> 42:53.880
+hundreds of operant models, syndromes, patterns and persistent folk ontologies. As such, it maps
+
+42:56.420 --> 43:01.540
+not one but several conceptual models for what human AI interaction design may be and might be
+
+43:01.540 --> 43:07.540
+based upon. It sees HAID as present as a kind of subset of HCI but one that will arguably
+
+43:09.640 --> 43:16.180
+overwhelm and redefine that field, especially as personal AIs are more generally deployed at
+
+43:16.180 --> 43:21.600
+platform scale. As I've already insisted, the history of AI and the history of philosophy of
+
+43:21.600 --> 43:27.020
+AI are deeply intertwined. One side of that ledger is populated by numerous thought
+
+43:27.020 --> 43:33.640
+experiments, both canonical and obscure, the imitation game, the Chinese room, the paper clip
+
+43:33.640 --> 43:40.140
+maximizer, the three blue banana problem, Samantha's infidelity, the driverless red
+
+43:40.140 --> 43:46.140
+trolley and so on. These thought experiments responded to extend AI and in turn framed and drove
+
+43:48.720 --> 43:55.560
+further development of the technology. But each was not only a metaphor for what AI is but also a
+
+43:55.560 --> 44:01.560
+scenario for human AI interaction and indeed one because the other. We try to figure out what AI
+
+44:01.560 --> 44:06.260
+is by figuring out the terms for interacting with it and to learn how to interact with it by
+
+44:06.260 --> 44:12.260
+learning what it is, a perfectly understandable approach. Lately, however, with the rise of LLM,
+
+44:14.340 --> 44:20.020
+there are many new entries to this list, including Sydney's nervous breakdown in which instead of
+
+44:20.020 --> 44:25.760
+falling in love with this articulate OS, as in her, a journalist coaxes a chat bot to perform
+
+44:25.760 --> 44:33.260
+disturbing feats of abnormal psychology. Among the most notorious new entries may simply be
+
+44:33.260 --> 44:39.260
+called the Blake-Lamoine scenario where the highly evolved tendency to ascribe intentionality to
+
+44:41.020 --> 44:47.020
+linguistically competent conversance can lead to some unnecessary conclusions. Blaze and I wrote a
+
+44:49.600 --> 44:54.980
+piece addressing this episode called the model is the message, suggesting that the intelligence
+
+44:54.980 --> 45:00.980
+there is not quite what Lamoine thought it was, but not quite not what he thought it was either.
+
+45:00.980 --> 45:08.100
+With many AI interfaces, it would seem that computers have mastered presenting themselves in
+
+45:08.100 --> 45:13.900
+ways that require almost no additional comprehension for users beyond ingrained social
+
+45:13.900 --> 45:20.860
+interaction cues. The history of HCI is in this way a story that shifts from humans having to
+
+45:20.860 --> 45:26.360
+understand how computers work in order to use them to computers figuring out how humans work in
+
+45:26.360 --> 45:33.280
+order to be used by them. Now, language in its most abstract forms, linguistic reasoning, not only
+
+45:33.280 --> 45:41.280
+talking and writing, accelerates the latter dramatically and flexibly, even disturbingly. And so
+
+45:41.280 --> 45:49.280
+draws the practical boundaries of Haid both deep and wide. As you will see, the capacity for AI to
+
+45:50.120 --> 45:57.120
+present itself through human social cues is remarkable and in fact becomes the interface in and of
+
+45:57.120 --> 46:03.120
+itself. The shift from HCI to Haid means a shift from designing click paths to designing synthetic
+
+46:05.120 --> 46:13.120
+personalities. Now, perhaps the most quantitatively pervasive form of Haid is one in which the user
+
+46:13.200 --> 46:20.000
+doesn't even know the AI is there. Things just work. They work and who cares how. However, the forms
+
+46:20.000 --> 46:25.580
+of Haid that this project focuses on are those that inspire and extend personal relationships with
+
+46:25.580 --> 46:33.580
+not only AI but AI persona. Now, what we call personal AIs are essential to this and represent a
+
+46:33.580 --> 46:39.840
+field of tremendous interest, but personal can simply mean AIs that are customized by your
+
+46:39.840 --> 46:46.800
+personal use of it that are not necessarily persona. But many of the AIs that you will use and
+
+46:46.800 --> 46:52.800
+which will use you will be as personalized as your search history, if not your fingerprint. The
+
+46:55.300 --> 47:00.680
+avenue of exploration for this project is then the shift from a form of HCI that is based largely
+
+47:00.680 --> 47:07.840
+in spatial references, inside versus outside, up and down, over, under, to one that is based on
+
+47:07.840 --> 47:15.340
+psychosocial metaphors. Now, this is obviously a tremendously powerful shift, but one that comes
+
+47:15.340 --> 47:21.340
+with all the risks and downsides of human psychology itself. And yet, in the most basic form,
+
+47:23.680 --> 47:29.760
+this isn't optional. Some projective comprehension in the form of a mental model of what's
+
+47:29.760 --> 47:35.760
+going on here. In this case, what the AI is, what its affordances are, what it is and isn't doing,
+
+47:35.800 --> 47:43.800
+what and where and why it is, is so on. Folk ontologies are not optional. Most AI hate, we
+
+47:43.800 --> 47:48.800
+might suppose, will be interaction with, again, in some ways, AIs are invisible and boring and
+
+47:48.800 --> 47:54.260
+unmemorable and yet critical to the reproduction of everyday life, but as said, personal AIs are
+
+47:54.260 --> 48:02.020
+another matter. They are, they mean a kind of AI that is being trained in how you think, like
+
+48:02.020 --> 48:08.360
+teaching a dog a new trick, but also being trained by your thinking, like carving a rock into
+
+48:08.360 --> 48:14.360
+an arrowhead. It is a personalization of an external mental model. And is this potentially an
+
+48:17.600 --> 48:25.600
+experience of the self in the third person? If so, how can we not be fascinated? Now, in a moment,
+
+48:26.180 --> 48:31.480
+I will talk about another project of ours that is with simulations. Simulations, then, but
+
+48:31.480 --> 48:37.180
+however, clearly already tie back to the discussion of personal AIs, which are, in a sense,
+
+48:37.180 --> 48:44.680
+simulations of us or perhaps we are the digital twin of the AI that is working on our behalf. For
+
+48:44.680 --> 48:50.680
+both, the sim to real problematics are real and, of course, weird. Perhaps you are the NPC.
+
+48:53.760 --> 48:59.760
+Perhaps your shadow is chasing you. Perhaps all personality is a placebo. Memory is a
+
+49:01.940 --> 49:08.940
+key. Maybe the key to any personal alignment worth the name. Perhaps, then, if the uncanny valley
+
+49:08.940 --> 49:15.980
+is when you are weirded out by something that is but is not quite human, the inverse uncanny valley
+
+49:15.980 --> 49:20.860
+is when you are much more deeply weirded out by seeing yourself through the eyes of the
+
+49:20.860 --> 49:27.660
+machinic other and don't quite recognize what you see, but you do recognize that what you see is
+
+49:27.820 --> 49:33.660
+you, but in a way not, and yet it is more real than the version of you that you experience as
+
+49:33.660 --> 49:40.780
+you. Perhaps you and that newly demystified you will engage in what security teams call
+
+49:40.780 --> 49:46.780
+coordinated inauthentic behavior. What is alignment then? The field of Hade, then, is obviously
+
+49:51.040 --> 49:57.280
+not brand new in reality. It's quite old, but it is new perhaps as a formal disciplinary field of
+
+49:57.280 --> 50:03.860
+research and design, one that begins as such as said as a subset of HCI and may in time come to
+
+50:03.860 --> 50:10.580
+encompass it. Then, if so, does it pretend to shift from cognitive psychology of HCI to a
+
+50:10.580 --> 50:16.580
+renewal of psychoanalysis for HAI ID? Time will tell. Okay. Next. As said, we are as clear, we
+
+50:16.580 --> 50:22.580
+are quite interested in LLM, but not just as chatbots. We are also deeply interested, but
+
+50:30.160 --> 50:35.920
+rather also as a form of what we call cognitive infrastructure. The embedding of linguistic
+
+50:35.920 --> 50:42.040
+competence and hence symbolic reasoning in the inanimate and utterly non-anthropomorphic
+
+50:42.040 --> 50:48.580
+materials and systems of the world for which here, mind is literally distributed. This
+
+50:48.580 --> 50:54.540
+project, Whole Earth Codec, posits AI not as a brain in a petri dish, but as a synthetic
+
+50:54.540 --> 51:00.540
+augmentation of the forms of intelligence that emerge in and as complex ecological niches.
+
+51:00.540 --> 51:08.540
+It's by, this project is by Antikythera Studio researchers, Christina Lu, a DeepMind alum,
+
+51:08.660 --> 51:16.660
+and Delana Tran and Connor Cook. The project takes AI as a landscape scale phenomenon, focusing
+
+51:16.660 --> 51:24.660
+less on how AI may align with you or me than how it may align with AI in the wild, may align
+
+51:24.660 --> 51:34.660
+with the wider ecosystem. AI as an inorganic participant in an organic increasingly self-modeling
+
+51:34.820 --> 51:42.080
+living world. Put differently, Whole Earth Codec rethinks the position and application of
+
+51:42.080 --> 51:48.000
+artificial intelligence as a form of planetary intelligence and considers potential and
+
+51:48.000 --> 51:55.200
+necessary conditions for their alignment. It started by responding to a brief about the
+
+51:55.200 --> 52:00.620
+quality of data used for foundation models and by quality, it was meant whether the data is
+
+52:00.620 --> 52:07.620
+any good, but also what kind of data it is. Training models that would have global influence
+
+52:07.620 --> 52:15.620
+on just whatever data happens to be left out in the open, all but guarantees some degree of
+
+52:15.620 --> 52:22.740
+suboptimal quality. If the most interesting data that could, in theory, contribute to broad
+
+52:22.740 --> 52:29.620
+base socially constructive purposes is both private and or privatized, then other approaches
+
+52:29.620 --> 52:36.240
+are needed. Techniques like federated learning would allow that data to contribute to the
+
+52:36.240 --> 52:42.240
+reweighting of common models without disclosing underlying values. We could, in principle,
+
+52:42.240 --> 52:49.960
+have our cake and keep it private too. But for this project, such a rotation also implies a
+
+52:49.960 --> 52:57.500
+shift in what kind of data should be produced. It ventures that aggregating data about
+
+52:57.500 --> 53:04.080
+individual human users is only a fraction of what is possible and necessary for planetary
+
+53:04.080 --> 53:11.580
+intelligence worth the name. It proposes a fundamental deindividuation of computational
+
+53:11.580 --> 53:20.000
+observation in a focus instead on impersonal, ecological and systemic data. That is, instead of
+
+53:20.000 --> 53:25.620
+centering on individual data, instead of centering on individual data with ecological data as a kind
+
+53:25.620 --> 53:31.900
+of exceptional subsidiary, it inverts this. It posits data about individuals as a specific
+
+53:31.900 --> 53:39.000
+subset of ecological data, which, as should be clear, traces a recurring theme in all of our
+
+53:39.000 --> 53:47.280
+work, culture framed as a function of the planetary rather than the inverse. So, the scenario
+
+53:47.280 --> 53:53.960
+it explores for planetary intelligence is one in which systems of sensing and modeling are
+
+53:53.960 --> 54:03.700
+global, but importantly, it is an observatory looking not outward but inward. The self-attention
+
+54:03.700 --> 54:10.540
+of the transformer model is posed as an alternative metaphor to the panopticon of Foucault. The
+
+54:10.540 --> 54:16.020
+positions of the observer and the observed are less supervisor and supervised than they are
+
+54:16.020 --> 54:25.520
+mutually recursive. The model is sensing itself and thereby the planet is sensing itself. The
+
+54:25.520 --> 54:32.760
+transformer's self-referentiality is the figure, the allegory for planetary models as well. They
+
+54:32.760 --> 54:41.120
+call this folding the gaze. The scenario also hinges on the figure and function of multimodality.
+
+54:41.120 --> 54:48.160
+If we see computation itself as a kind of generic syntax between qualitatively unlike things and
+
+54:48.160 --> 54:53.960
+actions, then this project locates this generic syntactical function in the sensing and modeling
+
+54:53.960 --> 55:01.380
+applications of, as I say, AIs and landscape scale technology. The sensing and modeling system
+
+55:01.380 --> 55:07.880
+is a system for the artificial transduction of planetary phenomena into integrated and
+
+55:07.880 --> 55:15.680
+recombinant data, hence whole earth codec. Multimodality operates both at the level of the
+
+55:15.680 --> 55:21.560
+kinds of phenomena that are incorporated and artificially mutualized and in the range of
+
+55:21.560 --> 55:28.120
+applications and functions to which the system as a whole might be directed, mixing and matching
+
+55:28.120 --> 55:36.000
+inputs and outputs. Multimodal phenomenon, transduced and filtered into a generic syntax,
+
+55:36.040 --> 55:43.680
+outputted as multimodal application technologies. In this scenario, planetary intelligence enables
+
+55:43.680 --> 55:51.880
+planetary ecologies, again inclusive of human systems, to recompose themselves because the
+
+55:51.880 --> 55:59.040
+composition of whole earth codec as a technology for planetary composition enables the emergence
+
+55:59.520 --> 56:11.520
+of that intelligence. Knowing enables making, but making makes knowing possible. Last project that
+
+56:11.520 --> 56:24.520
+I'll show tonight. The, which is called vivarium. Perhaps the philosophy of simulation begins with
+
+56:24.560 --> 56:31.000
+the beginnings of philosophy itself. In a cave in Greece where Plato and Socrates cultivated a
+
+56:31.000 --> 56:38.560
+long-standing paranoia, not just of simulations, but of mediated perception and its relation to
+
+56:38.560 --> 56:46.920
+thought. External and internal simulation in conflict or alignment. There in that cave, they
+
+56:46.920 --> 56:52.640
+set the foundation not only as what would become a topic for philosophy, but perhaps, as I say,
+
+56:52.720 --> 56:59.760
+the foundational paranoia from which Western philosophy was born. Now, the politics of
+
+56:59.760 --> 57:05.960
+simulation can also be very personal. As you pass through a security gateway, perhaps at an
+
+57:05.960 --> 57:12.600
+airport, what is under inspection is not only your physical person, but also trace digital
+
+57:12.600 --> 57:19.760
+personas linked to you, but which live in a near-distance shadow city called the cloud. If the
+
+57:20.200 --> 57:26.160
+uniform lets you pass, it's because a decision was made according to risk models on those silhouettes
+
+57:26.160 --> 57:33.640
+of which your physical person is a reflection. Your ears may burn as the infrastructure whispers
+
+57:33.640 --> 57:42.080
+about your doubles, but it's not just you that's in play. At home and at work, as AI and simulations
+
+57:42.080 --> 57:47.880
+convene, the designer versus player distinction will collapse from both directions because large
+
+57:47.880 --> 57:53.120
+AI models and large simulation models will themselves converge, the latter as the interface
+
+57:53.120 --> 58:00.720
+to the former. Elsewhere, scientific simulations have proposed a different kind of planetary
+
+58:00.720 --> 58:06.640
+politics around the frame of climate change that seeks to give political priority and agency to
+
+58:06.640 --> 58:13.880
+large-scale long-duration simulations of macrological processes. It doesn't articulate itself as such,
+
+58:13.920 --> 58:20.440
+but the core of this approach, the core of climate politics, I say, is an attempt to refocus
+
+58:20.440 --> 58:26.440
+governmental attention from the mediation of voice to the mediation of ecologies and to make
+
+58:26.440 --> 58:33.840
+scientifically significant simulations sovereign actors, to make simulations of the future in
+
+58:33.840 --> 58:41.160
+order to govern the present. Now, Viverium, a project by Antikythera Studio researchers
+
+58:41.160 --> 58:47.000
+Deliana Tran, Christina Lu, and Will Freudenheim deals with the question of sim to real rather
+
+58:47.000 --> 58:53.760
+directly. It poses a platform for collective intelligence that aggregates multiple toy worlds
+
+58:53.760 --> 59:00.600
+into a larger platform of worlds that can be used to train physicalized AI and to aggregate
+
+59:00.600 --> 59:06.600
+collective data and thus collective intelligence. It works for one-to-one, one human, one AI,
+
+59:06.720 --> 59:13.920
+between one human and many AIs, many humans in one AI, and perhaps most interestingly, for forms
+
+59:13.920 --> 59:21.440
+of collaborative embodiment, many humans in many AIs. In practice, as already posed, simulations
+
+59:21.440 --> 59:26.560
+are an epistemological technology. They are technologies to think with, which in principle
+
+59:26.560 --> 59:33.160
+makes a philosophy of simulation, a philosophy of things to think with, central to the purpose of
+
+59:33.160 --> 59:40.480
+any program such as ours. We recognize that simulations are pervasive. Our friends from
+
+59:40.480 --> 59:46.480
+neuroscience raise the point that simulations are not only a kind of external technology with
+
+59:46.480 --> 59:51.520
+which intelligence figures out the world, but simulations is how minds have intelligence at
+
+59:51.520 --> 59:57.560
+all. The cortical columns of animal brains are constantly predicting what will be next,
+
+59:57.560 --> 01:00:02.360
+running through little simulations of the world and the immediate future, resolving them with
+
+01:00:02.360 --> 01:00:09.160
+new inputs and even competing with each other to organize perception and action. For many
+
+01:00:09.160 --> 01:00:14.680
+computational simulations, their purpose is as a model that reflects reality such as one hopes
+
+01:00:14.680 --> 01:00:21.220
+for climate science or astrophysics. For others, the back and forth is not just mirroring. Some
+
+01:00:21.220 --> 01:00:26.820
+simulations not only model the world, but feed back upon what they model both directly and
+
+01:00:26.820 --> 01:00:33.340
+indirectly. These we call recursive simulations. Recursive simulations are those which not only
+
+01:00:33.340 --> 01:00:39.700
+model that reality, but allow us to intervene and interact with it as part of our embodied and
+
+01:00:39.700 --> 01:00:47.140
+intentional experience in a decisive feedback loop. So what are called digital twins, perhaps a
+
+01:00:47.140 --> 01:00:55.460
+form of personal AI, are one such dynamic. So as Vyvarium shows, many AIs, especially those
+
+01:00:55.460 --> 01:01:00.780
+embodied in the world, such as driverless cars, are already trained in toy world simulations where
+
+01:01:00.780 --> 01:01:07.500
+they can explore more freely, bumping into walls until they, like us, learn the best ways to
+
+01:01:07.500 --> 01:01:14.740
+perceive and model and predict the real world. For the recursive simulation between simulation and
+
+01:01:14.740 --> 01:01:21.820
+the real, in some ways the real is the baseline model for the simulations and simulations are
+
+01:01:21.820 --> 01:01:29.420
+sometimes the baseline model for the real. Toy worlds serve as a kind of bounded domain of
+
+01:01:29.420 --> 01:01:34.660
+constrained information exchange interaction between otherwise unlike and incompatible things
+
+01:01:34.660 --> 01:01:39.900
+and actions. They are where some AIs learn to navigate the real world by navigating these
+
+01:01:39.900 --> 01:01:48.220
+focused reduction simulations of their contours. The sim to real passage is not just in terms of
+
+01:01:48.220 --> 01:01:54.140
+the implications of specific learned experiences, but also the physical virtual hybridization as
+
+01:01:54.140 --> 01:02:03.380
+such. ML exists in the world. AI is on its way to become something like a generic solvent soaked
+
+01:02:03.380 --> 01:02:09.660
+into things and into how they behave. And so the back and forth learning between artificial
+
+01:02:09.660 --> 01:02:17.020
+intelligence and natural intelligence never really stops. For the project, there are, as said,
+
+01:02:17.020 --> 01:02:23.660
+multiple possible combinations of human users, AI as prostheses, AI as users, human or humans as
+
+01:02:23.660 --> 01:02:30.620
+prostheses. There are multiple combinations of embodiment, of agency, of action in and across
+
+01:02:30.620 --> 01:02:37.700
+the simulation, the real and the recursion. Not just one to one, one to many, but ultimately many
+
+01:02:37.700 --> 01:02:45.300
+to many. Keep in mind, however, for us the AI's world is a simulation of ours and one we can
+
+01:02:45.300 --> 01:02:53.940
+interact with. The AI, our world, is just one part of the omni-simulation that it simply calls
+
+01:02:53.940 --> 01:03:10.780
+reality. Let me conclude. And while I make some concluding remarks, I will show clips from a
+
+01:03:10.780 --> 01:03:19.540
+fourth project called Xenoplex, which is on AI and the philosophy of biology, assembly theory and
+
+01:03:19.540 --> 01:03:31.340
+empirical astrobiology. It's by Antikythera, Derenzu and Connor Cook. Back to where we began, back
+
+01:03:31.340 --> 01:03:36.780
+to the Stanislaw Lem inspired distinction between existential or epistemological and
+
+01:03:36.780 --> 01:03:47.100
+instrumental phases of technologies. So for AI, in terms of its instrumental impact, alignment
+
+01:03:47.100 --> 01:03:54.420
+overfitting is itself a kind of existential risk. As said, capital A alignment is an inadequate
+
+01:03:54.420 --> 01:04:02.420
+practical metaphysics for what AI orientation implies and demands. Now, I assume that most, if
+
+01:04:02.420 --> 01:04:08.460
+not all, serious alignment researchers would not disagree. Now, if only the journalists,
+
+01:04:08.460 --> 01:04:15.740
+influencers and charismatic mega critics would follow their lead. As for the AI epistemological
+
+01:04:15.740 --> 01:04:21.260
+impact, what will be the ultimate impact of AI? The ultimate impact of AI will be on what we,
+
+01:04:21.260 --> 01:04:26.460
+quote unquote, come to grasp about what we are, how we are, why we are and the contingencies of
+
+01:04:26.460 --> 01:04:35.060
+that pronoun. What that will be, we don't know and we can't know. We can't really anticipate
+
+01:04:35.060 --> 01:04:41.500
+Copernican shifts and traumas in advance. Just recall that we didn't confirm the existence of
+
+01:04:41.500 --> 01:04:49.420
+other galaxies until 1924 or scientifically confident precise age of the earth until 1953.
+
+01:04:49.420 --> 01:05:00.740
+We don't know, but we have to defend the space in which what we will learn will go. We may presume
+
+01:05:00.740 --> 01:05:08.700
+that with regards to AI as an experimental super organism, one of those likely areas is what we
+
+01:05:08.700 --> 01:05:15.340
+today call neuroscience and tomorrow may simply call philosophy and vice versa. So what are the
+
+01:05:15.340 --> 01:05:22.020
+kinds of questions to be asked that are likely to lead in the direction of epistemic disclosure?
+
+01:05:22.020 --> 01:05:27.300
+There's likely no wrong answers, but safe bets are that posing fundamental questions about what,
+
+01:05:27.300 --> 01:05:34.100
+quote, life is and what intelligence is and why the words that we use may be inadequate
+
+01:05:34.100 --> 01:05:42.220
+signifiers for the range of phenomenon that they hope to describe. Even the boundary position
+
+01:05:42.220 --> 01:05:47.620
+between these is unclear as the boundary between life as is the boundary between life and technology
+
+01:05:47.620 --> 01:05:53.820
+and intelligence and technology are already, not just for advanced computers but for anything.
+
+01:05:53.820 --> 01:06:02.300
+Perhaps life is fundamentally something like evolutionary autopoiesis through niche
+
+01:06:02.300 --> 01:06:11.820
+technologization or perhaps intelligence is or perhaps both. Biotic systems make use of
+
+01:06:11.820 --> 01:06:18.540
+abiotic systems to replicate themselves as organisms and across generations. They can't
+
+01:06:18.540 --> 01:06:25.220
+exist without this fundamental technologization of the world. If part of the definition of
+
+01:06:25.220 --> 01:06:33.100
+intelligence is means agnostic problem solving, then this niche technologization is at least
+
+01:06:33.100 --> 01:06:40.300
+partially intelligent. This cycle happens not just once or twice here and there, but
+
+01:06:40.300 --> 01:06:47.900
+everywhere and constantly over and over for billions of years. It doesn't just happen on
+
+01:06:48.260 --> 01:06:56.260
+the earth. It happens by the earth. Life slash intelligence slash technologization is something
+
+01:06:56.260 --> 01:07:02.860
+that the earth does. And it not only does it, the earth makes and remakes itself through this
+
+01:07:02.860 --> 01:07:09.780
+process, building scaffolds for the next slightly more complex scaffold which are incorporated
+
+01:07:09.780 --> 01:07:16.260
+into the next scaffold and so on. It's why we have an atmosphere and why we have artificial
+
+01:07:16.260 --> 01:07:24.900
+intelligence. Some planets, at least one, fold themselves over time into forms of matter capable
+
+01:07:24.900 --> 01:07:30.180
+of not only participating in the cycle but of making abstractions about their own participation
+
+01:07:30.180 --> 01:07:37.980
+in them and thereby recalibrate them. Human brains are one such form. But they're not
+
+01:07:37.980 --> 01:07:43.780
+necessarily the only form capable of such abstractions. And nor are those brains
+
+01:07:43.940 --> 01:07:48.500
+independent of the technical systems of machine sensing and modeling and simulation and
+
+01:07:48.500 --> 01:07:54.500
+prediction that make those abstractions possible. Sapience itself is technological. More
+
+01:07:58.260 --> 01:08:02.900
+specifically, it's clear that simulation is, as said, not only part of how animal brains
+
+01:08:02.900 --> 01:08:07.860
+work, scientific inquiry works, how prediction works, it's ultimately how the recursion
+
+01:08:07.860 --> 01:08:15.100
+necessary for direct composition works. Simulation, as we know it, is an advanced coupling of
+
+01:08:15.100 --> 01:08:21.100
+biotic and abiotic systems. It is part of the scaffolding. That is, biospheres make
+
+01:08:23.700 --> 01:08:31.700
+technospheres that create biospheres that use technospheres to comprehend the whole dynamic. I
+
+01:08:31.700 --> 01:08:37.340
+think you see where I'm heading with this. What's called artificial intelligence is the
+
+01:08:37.340 --> 01:08:43.420
+name for a form of technologization that can occupy more than one position in this cycle.
+
+01:08:43.420 --> 01:08:49.460
+It can be part of the means of technical modeling that humans use to grasp planetary process.
+
+01:08:49.460 --> 01:08:56.500
+But it can also be the form of intelligence that's doing the grasping. It can be not only a
+
+01:08:56.500 --> 01:09:02.500
+means of planetary sapience but also co-constitutive of that sapience as such. That's one way in
+
+01:09:02.660 --> 01:09:08.660
+which the epistemic implications of AI get really interesting and really weird. It's then
+
+01:09:12.240 --> 01:09:17.740
+possible to locate AI not just in the reflective shadow of human intelligence but in the longer
+
+01:09:17.740 --> 01:09:23.720
+arc of intelligence as a planetary phenomenon and in the emergence of planetary intelligence as
+
+01:09:23.720 --> 01:09:30.720
+such. I suggested the very definition of these terms is, of course, put up for grabs not just by
+
+01:09:31.240 --> 01:09:37.240
+philosophy but by what clearly intelligent machine systems are already doing and by the need to
+
+01:09:39.080 --> 01:09:45.080
+shift the words to the reality. I repeat, to shift the words to the reality. I will end with
+
+01:09:47.260 --> 01:09:53.260
+this. There is at present a dangerous disconnect between cosmology and cosmology. By this I mean
+
+01:09:54.260 --> 01:10:01.260
+that if I go ask my friends in the astrophysics department, they will presume I want to know
+
+01:10:01.260 --> 01:10:08.260
+more about black holes and big bangs and curvature of space time and that kind of stuff. But if I
+
+01:10:08.260 --> 01:10:12.220
+go ask my friends in anthropology, they will presume I want to know about how different
+
+01:10:12.220 --> 01:10:19.100
+cultures imagine eschatology, kinship, how they think the universe began accordingly in
+
+01:10:19.100 --> 01:10:25.100
+relationship to those. Now, in the humanities there is, I am sorry to report, significant noise
+
+01:10:27.400 --> 01:10:34.060
+generated around this disconnect. The conclusion drawn adamantly by some is that the
+
+01:10:34.060 --> 01:10:41.560
+abstractions of scientific cosmology must be brought, quote, down to earth. Made to heal to the
+
+01:10:41.560 --> 01:10:47.560
+sovereignty of human cultures. I, however, wonder what are the cultures, plural, of the
+
+01:10:49.180 --> 01:10:55.180
+world that can be composed, not just inherited and lived and lived through that align their
+
+01:10:56.640 --> 01:11:02.640
+ways with the disclosures of planetary processes with that sapience that make them possible and
+
+01:11:03.980 --> 01:11:09.980
+which are graspable by them. That project is to collectively compose cosmologies adequate to the
+
+01:11:10.860 --> 01:11:16.860
+challenge of long-term planetary viability. Not necessarily the reconciliation of that with the
+
+01:11:20.060 --> 01:11:26.060
+diversity of cultural traditions by its subordination. That is, the disenchantment thesis
+
+01:11:28.180 --> 01:11:34.180
+that modern secularization of the cosmos removed cosmological grounding from culture is wrong.
+
+01:11:35.180 --> 01:11:41.180
+Instead, it made a real cosmology finally possible. Cultural cosmology emerges from the material
+
+01:11:43.720 --> 01:11:49.140
+possibility of thought. And that material possibility of thought emerges from the physical
+
+01:11:49.140 --> 01:11:55.140
+realities that are, in the long run, continuous among humans. Even if they exceed the
+
+01:11:55.760 --> 01:12:03.760
+uncertain boundaries of whatever humans are. So, instead of reifying cultural traditions and
+
+01:12:03.760 --> 01:12:10.100
+projecting them onto the universe, the better cosmopolitical project for the future is to
+
+01:12:10.100 --> 01:12:16.100
+grasp what is both convergent, because evolutionary, and what is divergent, because human, in the
+
+01:12:17.760 --> 01:12:23.760
+planetarization of civilizations and to derive abstraction and meaning accordingly. I hope
+
+01:12:27.060 --> 01:12:33.060
+that the implications for AI alignment, for shifting the words to the reality, are clear.
+
+01:12:33.760 --> 01:12:40.180
+What's at stake for that shift via AI is basically everything. Thank you.
+
