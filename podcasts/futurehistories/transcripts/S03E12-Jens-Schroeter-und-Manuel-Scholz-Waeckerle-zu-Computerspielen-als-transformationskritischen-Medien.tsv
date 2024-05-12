@@ -1,0 +1,724 @@
+start	end	text
+0	5520	Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+5520	11720	Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Jens Schröter und Manuel Scholz-Weckele
+11720	17160	begrüßen zu dürfen. Beide waren im Projekt die Gesellschaft nach dem Geld aktiv, das hier in
+17160	22320	Future Histories ja bereits mehrfach vorkam. Ich werde das natürlich alles in den Show Notes
+22320	28120	ausführlich verlinken. Jens ist Professor für Medienkulturwissenschaft an der Universität Bonn
+28120	34080	und war Sprecher des Projektes Die Gesellschaft nach dem Geld. Manuel ist Senior Lecturer an der
+34080	39920	WU Wien und forscht unter anderem zu agentenbasierter Modellierung, vor allem auch mit
+39920	44920	Blick auf makroökonomische Modellierung. Das alles ist hochinteressant und es gibt in Future
+44920	50440	Histories auch eine Doppelfolge, in der ich mit Stefan Meretz und Manuel Scholz-Weckele über die
+50440	55840	im Rahmen des Projektes Die Gesellschaft nach dem Geld erstellte agentenbasierte Modellierung des
+55840	62640	Kommunismus spreche. Alles wie gesagt verlinkt in den Show Notes. Heute, da soll das Ganze wiederum
+62640	69040	in eine etwas andere Richtung weitergetrieben werden, denn will man fundamental andere politische
+69040	74640	Ökonomien vorstellbar machen, dann braucht es eben nicht nur präfigurative Praxis im Hier und Jetzt
+74640	81160	und überzeugende Modelle und Theorien alternativen Wirtschaftens, sondern es gilt auch in alle
+81160	87840	möglichen Bereiche der Kulturproduktion auszuströmen und in vielfältigsten Medien diesen
+87840	92920	Raum des Vorstellbaren zu bespielen. Und bespielen, das meine ich in diesem Fall jetzt tatsächlich
+92920	99560	ganz wortwörtlich, denn im heutigen Gespräch da widmen wir uns der Frage, inwiefern Computerspiele
+99560	106160	Welten als Orte einer Herstellung, Diskursivierung und Demokratisierung eines Transformationswissens
+106520	112280	dienen können, als Orte des spielerischen Einübens und eben auch Vorstellbarmachens
+112280	119040	postkapitalistischer Welten und Praxen. Bevor es jetzt losgeht, da möchte ich noch Ihren als
+119040	125800	Patron von Future Histories begrüßen und ich möchte Marie-Thérèse, Karl, Hans Helmut, Lucas, Fabian
+125800	133320	und Samuel für ihre Spenden danken. Und jetzt viel Freude mit der heutigen Folge Future Histories mit
+133320	140160	Jens Schröter und Manuel Scholz-Weckele zu Computerspielen als Transformationskritische Medien.
+140160	152760	Herzlich willkommen! Hallo! Hallo! Wir wollen heute über ein Paper von euch sprechen, das mir
+152760	157880	wirklich sehr gut gefallen hat, muss ich sagen. Es trägt den Titel Computerspiele und ökonomische
+157880	163680	Modellformen auf dem Weg zu transformationskritischen Medien. Der Titel, der deutet ja schon in eine
+163680	168120	gewisse Richtung. Vielleicht könnt ihr uns zum Einstieg einen kurzen Überblick darüber geben,
+168120	174120	womit ihr euch in diesem Beitrag beschäftigt. Manuel, willst du oder soll ich? Ich kann gerne
+174120	181840	mal anfangen. Ja, also im Prinzip hatten wir diesen Text neu aufgenommen. Ich habe da schon
+181840	189320	vor zehn Jahren daran gearbeitet. Eine Vorversion möchte ich erwähnen, ist erschienen im Buch
+189320	197520	Die Innenwelt der Ökonomie, herausgegeben von Jens Mese, Hannu Pahl und Jan Sparsam. Wir hatten
+197520	206760	da mal einen Workshop am Postwachstumskollegin Jena, wo ich eben dieses Konzeption der
+206760	211560	Computerspielwelten und der Ökonomie präsentiert habe. Das ist jetzt schon längere Zeit her,
+211880	218360	dennoch das Thema ist immer noch relevant. Wir wollen das auch weiterentwickeln gemeinsam mit
+218360	225440	Jens und es gefällt diese Zusammenarbeit sehr gut. Worum geht es in dem Text? Im Prinzip habe
+225440	233560	ich mich damals sehr tief reingelesen in das Buch von Klaus Piers, Computerspielwelten und
+233560	240400	das hat mir besonders gut gefallen, weil er dort versucht hat Computerspiele, die Architekturen,
+240400	249080	das Design, die Konzeptionen vom Akteur, vom Spieler zu verbinden mit etwas Wissenschaftsgeschichte,
+249080	256000	mit Kulturgeschichte und hat ja einfach ein super Buch geschrieben und das hat mich sehr stark
+256000	262880	erinnert an oder zumindest habe ich Bezüge herstellen können zur Wissenschaftsgeschichte
+262880	270000	innerhalb der Ökonomie, also zur Theoriegeschichte, zur Geschichte des ökonomischen Denkens und das
+270000	278400	war, damit habe ich mich sehr eng befasst mit Ideengeschichte um 2010 herum, so etwa,
+278400	284760	nachdem ich meine Dissertation fertig gemacht habe und Schumpeter hat damals schon mal geschrieben
+284760	294240	A History of Economic Analysis und es gab A History of Economic Ideas und irgendwie hat mich immer
+294240	300080	interessiert zu einer History of Economic Models und weil das Computerspielgenre mich auch immer
+300080	305360	zugesagt hat, habe ich mir gedacht, es wäre doch gut da mal reinzuarbeiten und versuchen diese
+305360	311600	Computerspielwelten und diese Architekturen mit ökonomischen Modellformen in Assoziation zu
+311600	318840	bringen. Das war sozusagen der Einstiegspunkt. Ja und vielleicht was man noch ergänzen kann ist,
+318840	323800	dass uns während der Arbeit an dem Text und der Entwicklung dieses Begriffs des
+323800	330240	transformationskritischen Mediums so ein bisschen die Frage auch dämmerte, ob das nicht eine
+330240	336560	interessante Möglichkeit wäre, die Frage der Transformation zu anderen gesellschaftlichen,
+336560	345560	ökonomischen Strukturen, Verfahrensweisen über das Spiel noch mal zu denken, weil es gibt ja so eine
+345560	352760	Art Imaginations- und Vorstellbarkeitskrise anderer ökonomischer Ordnung, das mag viele Gründe haben,
+352760	358640	unter anderem vielleicht einfach auch eine gewisse Paralyse der Vorstellung, dass die Welt anders
+358640	364600	sein könnte und fiktionale Formen, das gibt es natürlich auch in der Literatur im Science Fiction
+364600	370240	oder so, fiktionale Formen können natürlich andere Szenarien entwerfen. Das interessante an
+370240	379160	Spielen ist aber im Prinzip, dass man auch andere Handlungsweisen testen, einüben könnte und über
+379160	384040	das Spiel vielleicht auch wiederum Beobachtungen über solche Handlungsweisen zusammentragen
+384040	392760	könnte, um zu der Frage zu gelangen, wie eine Transformation möglich sein könnte, wenn man zu
+392760	397720	dem Schluss kommt, dass die bisherigen Modelle, die man hat, also zum Beispiel einerseits die
+397720	403160	Vorstellung, dass irgendwelche revolutionären Avantgarden die Macht ergreifen, die Gesellschaft
+403160	411120	systematisch top-down umbauen, gescheitert sind aus vielen guten Gründen und andererseits anarchistische
+411120	417720	oder anarchismusähnliche Modelle der Bottom-up-Revolution, also Substruktion ist ein Begriff,
+417720	423920	der da manchmal verwendet wird, nur sozusagen Bottom-up-Leute gewissermaßen neue Formen bilden,
+423920	429200	neue Beziehungsweisen, wie Binnia Damczak das nennt, bilden und dann aussteigen, dass das natürlich
+429200	434520	sehr schwierig ist, weil die Leute das ja immer in den gegebenen Verhältnissen tun müssen, was eben
+434520	440280	auch ein Grund für die Krise der Vorstellbarkeit anderer Gesellschaftsformen ist und was wäre
+440280	446840	eigentlich, wenn man solche anderen Beziehungsweisen, ökonomischen Strukturen spielerisch
+446840	452320	erstmal ausprobieren könnte, bevor es sozusagen mit dem Ernst des Lebens losgeht, ob das nicht
+452320	459280	ein hilfreicher Weg sein könnte, diese Vorstellbarkeit zu verbessern. Da können wir jetzt eigentlich
+459280	464800	direkt beide Elemente miteinander verbinden, denn in Bezug auf die Frage, welche Formen von
+464800	469840	Spielen gut geeignet sein könnten, um eine solche Transformation eben auch schon mal im Spiel
+469840	475480	erlebbar zu machen, da geht ihr eben dann auf die von Manuel ja schon erwähnten Unterscheidungen von
+475480	481040	Klaus Piers ein, die er in seinem Buch trifft, nennt er nämlich Zeit, Entscheidungs- und
+481040	487440	konfigurationskritische Computerspielewelten und ihr analysiert in eurem Paper eben diese
+487440	494240	verschiedenen Computerspielewelten in Hinblick auf die Frage, inwiefern sie eben als Spielewelten
+494240	500440	der Transformationskritik irgendwie taugen würden oder nicht und entwickelt von da ausgehend dann
+500440	505320	eben auch noch eine eigene Konzeption. Vielleicht gehen wir da mal kurz drauf ein, vielleicht könnt
+505320	512240	ihr zunächst mal diese drei Zugänge von Piers erklären, worum es sich da handelt bei den Zeit,
+512240	519160	den Entscheidungs- und den konfigurationskritischen Computerspielewelten. Ja, das kann ich gern machen.
+519160	526360	Der Zugang ist sehr spannend, was versteht Piers in seinem Buch unter zeitkritischen Paradigma,
+526360	537600	da geht es sehr stark um der Genre Action und Action im Sinne von Arcade, also es geht hier
+537600	545800	um Optimierung vom Verhalten innerhalb einer Zeitsteife, wenn man so will und Piers bringt
+545800	554920	das in Verbindung mit dem Taylorism, mit quasi der Konditionierung der Arbeitsschritte, mit der
+554920	562240	Akkordarbeit, mit dem Einzug vom starken Intervallbezügen in der Arbeit, in der
+562240	573240	fordistischen Arbeit und das macht durchaus Sinn, weil er vergleicht quasi die Arcade Games mit
+573240	579880	Reaktionen, sehr stark sensormotorischen, imperativ, wenn man so will und man optimiert das,
+579880	587640	ein Arcade Game lebt ja davon, nicht dass man das einmal spielt, sondern man wiederholt das
+587640	601560	tausende Male und optimiert so die Coins und jeder kennt die Spielhallen, wo die Arcade-Konsolen
+601560	609200	herumstehen und kennt diese Bilder und dort wird dann optimiert, Tag ein, Tag aus und diese Genre
+609200	615360	passt eben sehr gut zu der Idee des Taylorismus und zu dieser optimierung, zeitkritischen
+615360	619880	Optimierung, ich setze das dann später in Verbindung mit den ökonomischen Modellen,
+619880	625400	weil du hast jetzt gefragt nach was sind denn diese Paradigmen, das zweite wäre eben das
+625400	633840	entscheidungskritische Paradigma, was ändert sich dort, das ist ein Wechsel vom Action-Genre zum
+633840	641800	Abenteuer, zum Adventure-Genre und da geht es um die Höhlen, also Piers beschreibt das auch sehr
+641800	652080	eindrücklich, hat Archivmaterial gefunden, dass die ersten Rollenspiele, die digitalen Rollenspiele
+652080	658800	sind entstanden bei einer amerikanischen Höhlenforscherin, die verheiratet war oder
+658800	668360	zusammen war mit einem Informatiker und die ihm erklärt hat, wie diese Kartierung von Höhlen
+668360	674680	funktioniert und was es heißt so in Höhlen einzudringen und zu forschen und dort ist quasi
+674680	682200	das entstanden und dort gibt es einen starken Bezug zur Informatik, also wie Datenbanken
+682200	689560	konzeptionalisiert sind, wie Routingprobleme, wie Kartierungen eine Rolle spielen und dort spielen
+689560	694360	halt Entscheidungen eine Rolle und das ist etwas anderes als eben diese sensomotorische
+694360	707480	Reaktionskomponente von Spielen, wo es darum geht einen bestimmten Ablauf von Knöpfen und Hebeln
+707480	713040	eben zu drücken, so wie im Tellerismus halt am Förderband, so unter Anführungszeichen, geht es bei
+713040	722760	den entscheidungskritischen Spielen darum, welche Abzeugung wählt man, wie kann ich auf Basis
+722760	728840	meiner Informationswelt die richtige Abzeugung wählen und in der Höhle weiter kommen und das
+728840	736560	hat eben schon einen starken Bezug zu Heuristiken, zu Datenbanken und zu pfadabhängigen Konzeptionen
+736560	742720	weil hier die Zeit nicht mehr so kritisch ist, also es gibt auch Pausen, das gibt es ja quasi bei
+742720	749520	Arcadespielen, bei Actionspielen nicht, da gibt es keine Pausen, da muss man funktionieren, es geht
+749520	756600	auch um dieses ich muss funktionieren und dort wird auch quasi das Arbeiten als bewusste Tätigkeit
+756600	767720	abgeschafft, das spricht Pias auch an, Arbeit an sich wird dort als bewusste Tätigkeit, auch der Flow an
+767720	773880	Arbeit wird abgeschafft durch dieses zeitkritische Optimieren und bei dem entscheidungskritischen
+773880	779440	Paradigma kommen neue Konzepte hier hinzu, wo quasi das Bewusstsein wieder eine starke Rolle spielt.
+779440	787400	Das letzte Paradigma, was Pias anspricht, das konfigurationskritische Paradigma und da kommt
+787400	794520	eine gravierende Neukonzeption hinzu, nämlich ein zweiter Spieler oder eine zweite Spielerin.
+794520	802160	Die vorherigen Spiele waren alles individuelle Spiele, da geht es nur um das Ich und das Optimieren
+802160	807480	quasi, einerseits eben zeitkritisches Optimieren oder entscheidungskritisches Optimieren und jetzt
+807480	815640	kommt eine zweite Spielerin dazu, ein zweiter Akteur und alles verändert sich, weil natürlich
+815640	824080	die Entscheidungen nicht nur von der Unsicherheit der Höhle geprägt sind, was birgt sich hinter der
+824080	829840	Abzweigung oder einer anderen Abzweigung, sondern was birgt sich hinter den Strategien und Entscheidungen
+829840	837240	der anderen Spielerinnen. Es ist natürlich viel komplexer, weil jetzt die Konfiguration, die jetzt
+837240	841640	gegeben ist, ist eben, es gibt mehrere Spielerinnen, die anders entscheiden, die einen anderen
+841640	849320	Informationshorizont haben und dadurch gewinnt das Spiel an enormer Komplexität und das Thema
+849320	855400	Strategie wird zentral, also nicht mehr die Entscheidung an sich, sondern Strategie in Form von
+855400	862320	Kombination von Entscheidungen und Durchdenken von Entscheidungspfaden. Das liegt dann nahe an
+862320	873000	auch Fragen der Spieltheorie, die stark thematisiert werden von Piers und auch Fragen, die aufkommen
+873000	882600	sind im kalten Krieg, wie kann man optimieren und strategische Entscheidungen dort fällen. Ja,
+882600	889600	das sind so quasi die drei Paradigmen, die hier Piers aufwirft. Und davon ausgehen bzw. eigentlich
+889840	896560	in so einer leicht kritisch abstoßenden Bewegung, zumindest in Teilen, argumentiert ihr dann dafür,
+896560	901480	dass es eben transformationskritische Spielewelten geben müsste, denn, und das scheint mir so ein
+901480	907480	zentraler Punkt auch eurer Kritik zu sein, auch die konfigurationskritischen Spiele bleiben sozusagen
+907480	911960	in den Welten hängen, in denen sie sich da befinden. Es gibt sozusagen einen, du hattest jetzt zum
+911960	915520	Beispiel Kalter Krieg, das ist natürlich der Klassiker, Command & Conquer oder sowas,
+915520	920120	du hast sozusagen so Konstellationen, die haben sozusagen eine Spielewelt, die eben in diesem
+920120	926520	konfrontativen Gegeneinander situiert ist, aber es gibt sozusagen keine Möglichkeit innerhalb des
+926520	932640	Spieles diese Ausgangskonfiguration in irgendeiner Form zu befragen. Und transformationskritische
+932640	938080	Computerspielewelten, so hatte ich euch dann jetzt verstanden, könnten eben in der Lage sein,
+938080	942460	genau das zu leisten. Vielleicht könnt ihr uns da ein bisschen durchführen, was ist es,
+942460	947780	was ihr sucht in diesen transformationskritischen Computerspielewelten, was könnten sie leisten?
+947780	953580	Ich gehe da nochmal kurz drauf ein, verbinde das mit den ökonomischen Modellen und dann kann
+953580	961540	Jens dazu etwas sagen. Also bevor ich darauf eingehen möchte, ich sage eben die ökonomischen
+961540	965220	Modellformen, die wir assoziieren mit diesen Computerspielewelten, sie nehmen bei dem
+965220	971220	zeitkritischen Paradigma die neoklassische Modellwelt, wo es um die Optimierung des
+971220	978340	individuellen Verhaltens, zum Beispiel des individuellen Nutzens geht oder des individuellen
+978340	984780	Profites. Also dort spielt zeitkritisch immer das Grenzwertprinzip eine Rolle, also Ableitungen.
+984780	990460	Es geht um die Kumulation, aber schlussendlich nicht nur um das Kumulieren, sondern um die
+990460	997500	Optimierung über die Zeit. Dort sind wir eine starke Beziehung, die würde ich jetzt nicht
+997500	1003260	korsal aufschlüsseln, aber eben eine Beziehung. Bei den entscheidungskritischen Computerspielewelten,
+1003260	1009220	was sehen wir da in der Ökonomie? Für mich steht eine starke Beziehung zum systemischen Denken,
+1009220	1015300	das heißt, man könnte hier Systemtheorie reininterpretieren, Systemdynamik, aber genauso
+1015300	1023860	auch die Konzeption von nicht vollständig rationalen Akteurinnen, das heißt Akteurinnen,
+1024020	1031220	die handeln auf Basis von Heuristiken mit begrenztem Wissen, also dass eben diese Idee
+1031220	1036140	der Höhle, dass wir eben nicht vollständige Information haben und dort kommen schon stärker,
+1036140	1043300	ich setze mal heterodoxe ökonomische Bezüge, kann man dort reininterpretieren. Beim
+1043300	1049420	konfigurationskritischen Paradigma ist diese systemische Komponente aufgegriffen, aber kommt
+1049500	1054660	die Disaggregation hinzu, das ist für mich das Spannende, weil ich mich eben mit agentenbasierter
+1054660	1060580	Modellierung auseinandergesetzt habe, das sieht man eben sehr gut, was heißt das, wenn unterschiedliche
+1060580	1068780	Akteure in Netzwerken zusammenarbeiten oder auch im Wettbewerb stehen und dort spielt das
+1068780	1074100	konfigurationskritische eine starke Rolle und all das spielt natürlich eine Rolle für
+1074100	1080100	transformationskritische Medien oder Computerspielwelten, wo die Möglichkeit
+1080100	1089460	bestehen müsste, Konfigurationen zu transformieren und dort kommt ein starkes utopisches Element
+1089460	1094100	hinzu und da würde ich jetzt zu Jens. Ja also das mit dem transformationskritischen Spielen,
+1094100	1101100	wie Manuel schon sagte, die Idee ist im Grunde, dass natürlich die meisten Computerspiele immer
+1101100	1108140	noch bestimmte Rahmenungen vorgeben, Dispositive wenn du so willst, die ökonomische Implikationen
+1108140	1115340	haben, dass viele zum Beispiel Multiplayer Role-Playing Games ausgerichtet sind auf
+1115340	1122260	Konkurrenz, auf gegenseitige Bekämpfung, aber natürlich auch immer schon kooperative Elemente
+1122260	1126540	enthalten können und die Frage war so ein bisschen, ob man sich nicht vorstellen kann,
+1126540	1133940	dass man solche synthetischen Gesellschaften, wie man die in etwa solchen Multiplayer Online
+1133940	1139820	Role-Playing Games findet, ob es nicht interessant wäre, die Möglichkeiten zu erweitern, diese
+1139820	1145300	Gesellschaften selber umzugestalten, also selber die Parameter zu verändern, ohne dass man gleich
+1145300	1151900	Programmiererin sein muss und auf diese Art und Weise möglicherweise gesellschaftliche Experimente
+1151900	1159940	in Silico vielleicht durchführen, skizzieren, ausprobieren kann, um auf diese Art und Weise
+1159940	1167780	neue Umgangsformen in der Kooperation, neue Umgangsformen mit virtuellen Ressourcen zu lernen,
+1167780	1174180	auszuprobieren und dort eben neue ökonomische Paradigmen mit Modellformen in Verbindung zu bringen,
+1174180	1181420	die eben über kapitalistische Formen und etablierte Formen hinausgehen. Solche Experimente gibt es in
+1181420	1188260	gewisser Weise schon. Es gibt zum Beispiel einen Democratic Socialism Simulator, den man im Netz
+1188260	1193540	oder auf bestimmten Endgeräten spielen kann. Der ist aber noch sehr gefangen sozusagen in der,
+1193540	1198380	wenn man so will, sozialdemokratistischen Vorstellung. Man ist also gewissermaßen
+1198380	1204540	Präsident der Vereinigten Staaten und lässt jetzt harte Gesetze zum Taxieren von Vermögen und
+1204540	1208420	ähnliches und da gibt es natürlich Unruhen und Aufstände. Also das berührt dann auch solche
+1208420	1216420	Felder der Wirtschaftssimulation und wie gesagt, es gab 1995 schon ein Spiel, das nannte sich
+1216420	1221820	Capitalism, was also ganz explizit sozusagen darauf ausgelegt war, dass man sich als Unternehmer
+1221820	1226860	innen durchsetzt. Aber was wäre eigentlich, wenn man versucht, nicht nur jetzt gewisse in
+1226860	1231860	diesem Paradigma reformere Schritte zu unternehmen, sondern wenn man dieses Paradigma selbst verändert
+1231860	1237820	und ausprobiert, wie andere Organisationsformen funktionieren könnten und das wäre eine
+1237820	1244500	Möglichkeit, die in solchen transformationskritischen Computerspielwelten im Prinzip gegeben sein könnte
+1244500	1249300	und müsste. Ja, das finde ich unglaublich spannend und vielleicht können wir da ein bisschen tiefer
+1249300	1254780	hinein eintauchen, weil was ich nämlich auch total relevant und interessant fand an eurem
+1254780	1259920	Vorschlag war, dass ihr das ja dann verknüpft mit dem Genre, das Massively Multiplayer Online
+1259920	1267120	Role Playing Games, kurz MMORPG, weil das bringt ja einfach noch mal eine andere Ebene hinein,
+1267120	1272480	die natürlich auch interessant verknüpft ist, Manuel, mit deiner Arbeit an agentenbasierter
+1272480	1278480	Modellierung, weil so wie ich euch verstanden hatte, ist ja zumindest jetzt mal so ein erster
+1278480	1283400	Gedanke, in welche Richtung das gehen könnte, dass man sagt, okay, wer Zeugen, der wirklich
+1283400	1290960	eine Computerspiele wählt, die eben zum einen in der Lage ist, diese Transformation sozusagen
+1290960	1295940	in sich mit aufzunehmen, dass also die Bedingungen, die man als Spieler in vorfindet, sozusagen
+1295940	1299280	innerhalb des Spiels selbst transformiert werden können, das ist sozusagen das eine,
+1299280	1306800	aber dass die Form innerhalb derer das passiert, eben eine ist, wo sozusagen viele menschliche
+1306800	1311880	AkteurInnen oder AgentInnen, würde man vielleicht in der agentenbasierten Modellierung eben sagen,
+1311960	1320280	menschliche AkteurInnen zusammen, aber auch mit zum Beispiel AI-basierten AkteurInnen sozusagen
+1320280	1328960	interagieren und dass man auf eine Art da wie so ein Testfeld, der nicht nur der Imagination,
+1328960	1335080	sondern auch des kollektiven Verhaltens eben innerhalb dieses gemeinschaftlichen Raums,
+1335080	1340960	sozusagen erzeugt. Und das fand ich also wirklich einen sehr interessanten Zugang. Vielleicht könnt
+1340960	1345680	ihr noch so ein bisschen was sagen zu diesen Massively Multiplayer Online Role Playing Games,
+1345680	1351440	weil die gibt es ja jetzt schon auch in einer ziemlich umfangreichen Form, also das passiert
+1351440	1359240	schon und dort entstehen eben auch schon eigene Ökonomien, also Ingame Ökonomien, die aber ja
+1359240	1365200	dann auch hinaus ragen in die in Anführungsstrichen reale Welt. Das heißt, hier gibt es schon ganz
+1365200	1373040	schöne und interessante Testfelder, in denen eben in dem Fall dann oft eben nicht postkapitalistisch,
+1373040	1379240	sondern durchaus kapitalistisch formiert, aber interessante Testfelder eigentlich heute schon
+1379240	1384800	zu beobachten sind. Vielleicht könnt ihr da kurz ein bisschen drauf eingehen auf diese spezifische
+1384800	1393680	Genre und das Potenzial, das darin liegt. Ja, warum sehen wir das als spannendes Genre für
+1394280	1404240	transformationskritische Medien oder Computerspielen? Ja, die MMORPGs sind Ende der 90er,
+1404240	1409880	Anfang 2000er, das habe ich jetzt mal entstanden, wahrscheinlich das bekannteste ist World of
+1409880	1420280	Warcraft. Das hat Millionen an User-Spielerinnen fasziniert und das verbinden wahrscheinlich die
+1420280	1427760	meisten mit diesem Genre. Was macht das Genre aus? Zum einen gibt es eine Open World, das bedeutet,
+1427760	1434880	dass die Spielerinnen und Spieler sich auf Pfaden bewegen können, die nicht vorgegeben sind. Das
+1434880	1441640	heißt, sie können frei explorieren. Ein anderes Spiel, wo man das her kennt, was aber nicht
+1441640	1449480	Massive Multiplayer ist, ist Zelda aus der Nintendo-Welt. Dort hast du auch heutzutage eine Open World,
+1449480	1455960	die du frei explorieren kannst. Und das ist eben ein Aspekt, der schon mal in die Transformation,
+1455960	1463780	ins Transformationskritische geht, dieses freie Explorieren und das nicht auf vorgelegten
+1463780	1469440	Pfaden zu bewegen. Der zweite Komponente ist der Rollenspielaspekt, also dass man quasi
+1469560	1476040	Charaktere entwickelt und nicht nur entwickelt, sondern auch in Charaktere sich reindenkt. Das
+1476040	1482280	ist für uns auch eine Komponente, die transformationskritisch relevant ist, weil es
+1482280	1489560	sehr stark zu tun hat mit was kann ich erfahren oder wie kann ich diese Rolle erfahren oder eine
+1489560	1496680	andere Rolle erfahren. Rollenspieldenken eignet sich da einfach sehr gut, gerade auch für zukünftige
+1496680	1506240	politökonomische Spiele oder Sozialsimulationen. Und Massive deswegen, weil da natürlich Millionen
+1506240	1513880	an Spielern in einer Instanz verbunden werden können, das unterscheidet sich zwischen den
+1513880	1521480	Spielen. Was ich in dem Artikel hervorgehoben habe oder was ich hervorheben wollte, ist ein
+1521480	1528920	bestimmtes Spiel, es heißt Eve Online, es ist weniger in dieser Fantasyworld, die man kennt
+1528920	1537320	von Warcraft, also wo da irgendwelche Orks und Elfen aufeinandertreffen. Nein, Eve Online spielt
+1537320	1547440	in einer Zukunft, es ist stellare Simulation, wo es Raumstationen gibt, Raumschiffe und Bewegung
+1547440	1556320	im Space. Was dort relevant ist, ist es gibt Ökonomien, also stärker als jetzt bei Fantasy
+1556320	1562080	Spielen. Dort gibt es auch Ökonomien, weil es immer Geld gibt, es gibt Gold, es gibt immer eine
+1562080	1567920	Art von Inflation, es gibt einfach diese Probleme, die es in realen Ökonomien auch gibt, es gibt auch
+1567920	1575360	enorme Ungleichheit etc. Aber was spannend ist bei Eve ist, dass dieses Spiel, also Eve Online
+1575360	1584560	eben seit Beginn läuft kontinuierlich und es gibt dort eine Instanz, also es gibt quasi die
+1584560	1589480	Menschen sind alle, also die Spielerinnen sind alle in dieser eine Instanz und das Spiel wurde
+1589480	1597200	abgedatet über die letzten 20 Jahre, aber im Kern ist es immer noch diese Instanz und dort haben sich
+1597200	1606880	eben Businesses gebildet, dort geht es um Management, da geht es um Strategien, dort gibt es mafiöse
+1606880	1615720	Entwicklungen, da gibt es alles, was die reale Welt des Wirtschaftens auch bietet. Dort gibt es
+1615720	1621680	natürlich auch Konflikte zwischen größeren Allianzen, die dann in Kriegen ausarten können,
+1621680	1631520	wo virtuelle Werte, also enorm große Werte dann plötzlich wieder vernichtet werden. Also ähnlich
+1631520	1639920	wie in realen Gesellschaften, wo auch in großen Konflikten Kapitalakkumulation dann einfach
+1639920	1648400	vernichtet wird, binnen kürzester Zeit durch Kriege. Und dies ist spannend da drinnen, weil
+1648400	1655840	dort kann man sich mal reindenken, was passiert in so einer virtuellen Ökonomie und warum rennen
+1655840	1663040	dort Spielerinnen tagelang ähnlichen Dingen nach, die es in der realen Welt auch gibt. Also
+1663040	1671120	wieder Management, Business, Planung, all das ist ja intensiv und weniger verbunden jetzt mit Spiel.
+1671680	1678440	Es geht schon in die Richtung Serious Game, ist aber natürlich sehr stark noch spielerisch und
+1678440	1686560	natürlich dort wenig Transformation, alles ist von Märkten abhängig und so, aber vom Genre her,
+1686560	1692600	würde ich sagen, oder vom Spiel her ist es natürlich sehr spannend zu untersuchen oder
+1692600	1698280	wäre sehr spannend zu untersuchen. Wenn ich da noch kurz einhaken darf, es ist ja so, dass in
+1698280	1705440	der sogenannten realen Welt soziale Experimente zu machen, ist entweder sehr schwierig und mit
+1705440	1712080	allen möglichen Widerständen behaftet oder hat leider oft in der Vergangenheit gewaltförmige
+1712080	1718240	Züge gehabt oder ist in irgendwelchen Desastern geendet. Der Vorteil an virtuellen sozialen
+1718240	1724400	Experimenten, wenn man so will, wäre, dass man eben Dinge ausprobieren kann, ohne dass einem
+1724400	1729000	gleich die reale Welt auf den Kopf fällt. Natürlich heißt das nicht, dass man das eins zu eins abbilden
+1729000	1735880	kann auf die reale Welt, aber je mehr Leute da mitspielen würden, desto mehr könnte man sich
+1735880	1745480	anschauen oder auch erfahren, wie solche alternativen sozialen Strukturen funktionieren,
+1745480	1749960	was auch an Problemen auftreten, die man, wenn man solche Modelle auf dem Papier,
+1750440	1755240	in einem Buch entwickelt, oft nicht im Blick hat. Also es gibt ja jede Menge interessanter
+1755240	1759920	Vorschläge, die du auch hier in Future Histories immer wieder diskutiert hast. Ich nehme jetzt mal
+1759920	1766040	ein Beispiel raus, Daniel Sarros, unseren Amazon-Socialism sozusagen. Es wäre ja mal
+1766040	1773360	interessant herauszufinden, eine Modellwelt zu konstruieren, die diesen Regeln folgt. Der
+1773360	1777000	erste Schritt wäre schon, wenn man das versucht, würde man wahrscheinlich feststellen, was alles
+1777000	1781400	an blinden Flecken in dem Modell steht, woran man nicht gedacht hat. Das ist ein Erkenntnisgewinn
+1781400	1787280	an sich selbst. Das ging uns mit unserer Simulation in dem Projekt auch so, dass wenn man so was
+1787280	1792200	versucht, in einer Simulation umzusetzen, also in dem Fall bei uns im Projekt ein kommunistisches
+1792200	1797600	Modell, man muss Abstriche machen, man kann nicht alles machen, es wird zu kompliziert. Viele Schritte,
+1797600	1802600	da rätselt man dann, wie müssen wir das eigentlich machen. Man stellt fest, dass man blinde Flecke
+1802600	1809200	hat, an die man nicht gedacht hat. Das ist an sich schon interessant, das umzusetzen. Dann könnte
+1809200	1813800	man eben versuchen, mit Leuten, die das gerne möchten, die das interessant finden, sowas mal
+1813800	1820000	durchzuspielen tatsächlich und sehen, was passiert da eigentlich? Funktioniert das? Würde das von
+1820000	1824520	Sarros beschriebene Modell, wenn man sozusagen diese Strukturen versucht umzusetzen in so einer
+1824520	1829000	Spielwelt, funktioniert das wirklich so? Trauchen vielleicht Probleme auf, an die man gar nicht
+1829000	1836000	gedacht hat? Was für Resultate gibt das? Das könnte einerseits eben als Serious Game, wie du schon
+1836000	1845400	gesagt hast, Manuel, erlauben diese Modelle zu testen, zu erweitern, zu Feinkörnige aufzulösen,
+1845400	1850880	aber auch Probleme zu sehen. Das halte ich für eine gute Möglichkeit, bevor man gleich mit so einem
+1850880	1857320	Modell auf die Wirklichkeit geht, vielleicht diesen Zwischenschritt einzuziehen und das stärker
+1857320	1861360	auszuprobieren. Ganz zu schweigen von dem Aspekt, den wir jetzt schon mehrfach genannt haben, dass
+1861360	1866240	das vielleicht, gerade wenn das viele Leute werden, die damit spielen, auch ermöglicht,
+1866240	1871320	solche neuen sozialen Zusammenhänge einfach mal zu erfahren, wenn auch nur virtuell. Das ist
+1871320	1876560	natürlich immer nur eine Approximation sein. Ja, das finde ich total interessant, nämlich also
+1876560	1882040	auch diesen Aspekt, Manuel, den du gleich angesprochen hattest, mit dem Reindenken. Das steht ja eben in
+1882040	1889120	der Verbindung zu diesem Erfahren und inwiefern dann halt, also das ist natürlich dann eine offene
+1889120	1894520	Frage, wie aussagekräftig diese Erfahrungen dann sind, wenn sie in so einem digitalen Raum gemacht
+1894520	1898760	worden sind. Das würde mich vielleicht noch so ein bisschen interessieren, wie ihr das seht,
+1898760	1906880	weil es gibt ja diese beiden Elemente. Auf der einen Ebene diesen Aspekt der Arbeit an kollektiven
+1906960	1912920	Imaginationen, also dass sozusagen diese Computerspielewelten auch einfach als so
+1912920	1919120	eine Art von Vorstellungsraum quasi, also geteilter Vorstellungsraum eben existieren,
+1919120	1923760	aber nachdem die Leute sich ja eben dann tatsächlich auch dort begegnen und auch
+1923760	1930120	soziale Beziehungen miteinander entwickeln, ist natürlich schon auch die Frage dann interessant,
+1930120	1937040	okay, was lässt sich daraus dann vielleicht eben schließen? Was lässt sich daraus ableiten? Wo
+1937040	1944760	sind Sachen eben nicht wirklich tragfähig, wenn sie in so einem Spiel erlebt worden sind? Was
+1944760	1950680	passiert im Versuch des Übertragens in die reale Welt? Also da sind ja viele offene Fragen noch mit
+1950680	1956480	verbunden, inwiefern das über so eine Arbeit an kollektiven Imaginationen hinausgehen kann und
+1956480	1961400	als eine Art von tatsächlichem Testfeld in irgendeiner Form zumindest irgendwie gelten kann.
+1961400	1968240	Wo würdet ihr da ja nicht vielleicht die Grenzen ziehen oder was wären eure Vermutungen in Bezug
+1968240	1975280	auf zum Beispiel die Frage der Bindungskraft von sozialen Beziehungen? Also weil jetzt,
+1975280	1981520	ihr sprecht ja auch von eurem agentenbasierten Modell des Kommunismus und auf einer bestimmten
+1981520	1986200	Ebene habe ich mich zumindest beim Kommunismus oder das ist ja eine zentrale Frage, die dort
+1986200	1995400	auch immer wieder gestellt wird, ist ja, wie kann man sozusagen eine Stabilität zwischen anonymen
+1995400	2001440	Verhältnissen sozusagen generieren, die auf vollständiger Freiwilligkeit basiert? Und wenn
+2001440	2007080	man jetzt den Kommunismus als eine Spielewelt sozusagen generieren würde und innerhalb dieser
+2007080	2013960	Spielewelt würde sich dann zeigen, aha, okay, die Leute, die stecken da tatsächlich Zeit rein und
+2013960	2018400	Zeit ist ja dann auch wirklich eine Form von, sag ich jetzt mal blöd, Investment sozusagen. Also
+2018400	2023240	da wird ja dann tatsächlich Zeit reingesteckt, wenn jetzt eben zum Beispiel soziale Beziehungen
+2023240	2028600	gepflegt werden oder ein virtuelles Commons quasi innerhalb dieser Spielewelt von einer Gruppe von
+2028600	2033000	Menschen, die sich zusammengeschlossen hat, gemeinsam gepflegt wird und so weiter. Dann
+2033000	2038720	könnte man ja sagen, aha, es lässt sich zumindest mal zeigen, dass die Leute bereit sind, da eine
+2038720	2045760	bestimmte Form von Aufwand, individuellem Aufwand hineinzustecken. Wie seht ihr das,
+2045760	2053760	also was gilt es da dann trotzdem noch weiter mit zu bedenken in dieser Frage, was sich für Schlüsse
+2053760	2059480	aus dieser Spielewelt zielen lassen in Bezug auf die Frage, wie sich das in die reale Welt quote
+2059480	2064520	on quote quasi transferieren ließe? Bisschen lange und verschlachtelte Frage, ich hoffe,
+2065120	2072040	also vielleicht muss man zunächst sagen, dass das natürlich das grundsätzliche Problem der
+2072040	2077640	Verwendung von Simulationen oder simulationsähnlichen Spielszenarien scientific gaming,
+2077640	2084040	also Simulation und Spiel waren historisch auch immer nah beieinander. Da ist ja grundsätzlich
+2084040	2089600	der Punkt, dass man natürlich immer in solchen Simulationen oder spielähnlichen Szenarien von
+2089600	2097280	Vereinfachungen ausgehen muss, von Annäherungen, von Vermutungen und dass man glaube ich nicht
+2097280	2103080	glauben sollte, dass sich die Ergebnisse solcher Simulationen oder spielähnliche Szenarien irgendwie
+2103080	2108560	eins zu eins auf Wirklichkeit übertragen lassen. Das ist eher würde ich sagen heuristische Praxis,
+2108560	2116400	um herauszufinden, was für Dynamiken existieren, was für Ergebnisse entstehen könnten und wie
+2116440	2123080	man vielleicht mit diesen Fragen umgeht. Jetzt zumindest aus meiner Sicht mit dem Beispiel
+2123080	2128840	Kommunismus und der Freiwilligkeit. Natürlich müsste man bedenken, dass bei so einem Spiel
+2128840	2134400	vielleicht auch nur Leute mitspielen würden, die der Idee ohnehin grundsätzlich zugeneigt werden
+2134400	2141680	und dann auch vielleicht bereit werden, wenn zum Beispiel in der spielerisch-simulativen Ökonomie
+2141680	2148120	freiwillig Aufgaben übernommen werden müssten, was einem durch stückmergische Signale,
+2148120	2152800	wie Mehretz und Sutterlüthi sagen, nagelegt wird, dass das vielleicht wahrscheinlicher wäre,
+2152800	2157120	dass die Leute, die da mitspielen, das dann auch machen. Das heißt, man sollte nicht gleich den
+2157120	2163560	Schluss ziehen, dass wenn solche in so einer spielähnlichen Szenario das ganz gut funktioniert,
+2163560	2169320	dass das auch realiter gut funktioniert. Aber man kann wahrscheinlich sehen, was dann auch dennoch
+2169520	2173440	für Probleme und Dynamiken auftreten, um zunächst mal an dem Modell auch weiter zu
+2173440	2180080	arbeiten, an dem theoretischen Modell. Manuel? Ja, genau. Was möchte ich noch dazu sagen? Also,
+2180080	2189280	die Sache mit den Spielerinnen und wer spielt damit jetzt das, was Jens anspricht, würde ich
+2189280	2195800	kombinieren zu der Frage der Zeit und das Zeitinvestment, was du, Jan, hervorgehoben hast.
+2195800	2201400	Weil wenn wir uns anschauen, wie Spiele heute funktionieren, also Spiele für Erwachsene,
+2201400	2210400	also Videospiele für Erwachsene. Es ist ja eine enorm riesige Branche, die schon längst,
+2210400	2215240	ich glaube vor zehn Jahren oder so, genau, weiß ich das alles nicht, die Filmindustrie überholt
+2215240	2223120	hat in Bezug auf Umsatz. Das heißt, das ist jetzt nicht irgendwie so ein Randphänomen. Nein,
+2223200	2233280	die Spiele, Videospiele sind in alle Haushalte eingezogen und alle Menschen, egal von welcher
+2233280	2238480	Region, sind mit Spielen konfrontiert und ein Großteil mit irgendeiner Art von Videospielen
+2238480	2243240	und sei es irgendein einfaches Spiel auf einem Smartphone. Weil Smartphones sind ja irgendwie
+2243240	2251800	durchaus weltweit stark verbreitet, würde ich behaupten. Und das heißt, es gibt einen Zugang
+2252080	2258880	zu sehr vielen Menschen über ein Medium, was sonst nicht so einfach ist. Und da muss man
+2258880	2266200	sich aber die Frage stellen, welche Spiele gibt es und wer spielt da damit. Und da spielt Zeit
+2266200	2274600	eine große Rolle. Wenn jetzt irgendwie die Menschen sehr stark in die Lohnarbeit eingebunden sind oder
+2274600	2282960	in irgendwelche unternehmerischen Aktivitäten, wie auch immer, oder in politische Arbeit,
+2282960	2292120	dann sieht man heute, dass einfach wenig Zeit für andere Dinge besteht, neben der Care-Arbeit
+2292120	2300240	zusätzlich. Und es gibt ja immer wieder Forderungen, vor allem auch aus der ökologischen
+2300240	2307840	Ökonomie für Arbeitszeitverkürzungen. Also es sind sehr stark aus der ökofeministischen Ökonomie.
+2307840	2313680	Heutzutage gibt es Forderungen, die nicht nur die Arbeitswoche verkürzen wollen pauschal,
+2313680	2321520	sondern dass man sich stärker orientiert an Tageszeit. Also wie viel Zeit kann ich einrichten
+2321520	2328600	für bestimmte Aktivitäten an einem Tag. Wenn jetzt ein Tag mit acht Stunden Lohnarbeit gefüllt ist,
+2328600	2336440	dann wenn sie sich eher nach einem Computerspiel widmet oder einem Videospiel, und das geht jetzt
+2336440	2343080	mittlerweile schon über die Geschlechtergrenzen hinaus, also es ist nicht mehr so stark maskulin
+2343080	2349400	dominiert wie vielleicht vor 30 Jahren, sage ich mal, dann wollen die Leute, die Spielerinnen,
+2349400	2357560	Effekte haben und den Alltag der Lohnarbeit absolut kompensieren. Das heißt, es geht um
+2357560	2371960	Spektakel, Effekte, um Emotionen, um Dopamin quasi da anzusprechen und Endorphine, die sonst
+2371960	2377360	nicht so leicht herzustellen sind. Natürlich kann man, viele gehen ins Fitnessstudio oder Radfahren
+2377360	2382480	oder laufen, was auch immer, aber andere spielen auf der Playstation irgendein Spiel oder ein
+2383000	2390440	Computerspiel. Und diese ganze Energie geht dann natürlich in spektakuläre Spiele und das ganze
+2390440	2397240	Business über Computerspiele bezieht sich in diese kommerzielle Richtung natürlich. Wenn jetzt mehr
+2397240	2403360	Zeit für die Spielerinnen und Spieler pro Tag besteht für politische Arbeit, dann könnte man
+2403360	2411440	ja ein Fenster aufmachen für solche Simulationen oder transformationskritische Computerspiele.
+2411440	2421520	Erst wenn die Zeit täglich da wäre, könnte man stärker mit Spieleherstellern oder so reden und
+2421520	2428160	Spiele entwerfen, die jetzt nicht nur sich auf Effekte und Emotionen beziehen, sondern auch die
+2428160	2436360	mit kritisch realistischen Fragen zu tun haben, mit Ökonomien, mit politischen Prozessen. Man
+2436360	2445360	könnte es quasi als eine politische Arbeit ja auch betrachten, sich in so ein Spiel reinzudenken.
+2445360	2450120	Es muss natürlich zuerst entwickelt werden. Es gibt zurzeit keine Spiele, die in so eine Richtung
+2450120	2458520	gehen, weil die Frage ist, was ist der Use-Case? Wer spielt das? Ja, also ich finde den Punkt
+2458520	2463120	natürlich total berechtigt zu sagen, nicht jeder und jeder kann es sich sozusagen leisten, diese
+2463120	2467320	Zeit zu investieren. Das ist vollkommen richtig und absolut. Und da streiche ich sozusagen diese
+2467320	2473480	Forderung nach Arbeitszeitbekürzung definitiv. Aber ich würde vielleicht anknüpfen, trotzdem sagen,
+2473480	2481600	dass in Bezug auf die Frage der Attraktivität, man da ja eigentlich dann anknüpfen kann an das,
+2481600	2488080	was Jens auch angesprochen hatte, diese Krise der Imagination. Also ich meine, der Podcast hier
+2488080	2492840	hat ja den Subtitel der Podcast zur Erweiterung unserer Vorstellung von Zukunft. Also ich habe
+2492840	2498360	definitiv das Gefühl, dass es sozusagen ein Bedürfnis gibt, danach diesen Raum zu
+2498360	2504240	bespielen. Und eben da steckt ja das Spielen auch schon drin. Also es gibt sehr wohl eine
+2504240	2510760	Sehnsucht danach, dass die Dinge doch anders sein könnten und das sozusagen, dass auch eine gewisse
+2510760	2516080	natürlich andersförmige Attraktivität, die dann vielleicht nicht so unmittelbar dopamin
+2516080	2520800	geleitet ist, wie irgendwie ein Arcade-Game oder sowas, ja, aber dass das eine gewisse
+2520800	2528720	Attraktivität ausstrahlt, sich sozusagen in einen solchen Raum hineinzudenken und in dem
+2528720	2534440	auch tatsächlich in sozialen Beziehungen dann partizipieren zu können, in dem es eben anders
+2534440	2540880	ist, ja, und dann auch noch sozusagen als ein bindungsstiftendes Element das Narrativ zu haben,
+2540880	2547400	dass diese Interaktion ja zeitgleich auch den Versuch darstellt, ein Element des Versuchs
+2547400	2552680	darstellt, um nachzuweisen, dass andere Welten möglich sein können. Das ist ja durchaus was
+2552680	2557960	sehr, also finde ich sehr attraktives, auch durchaus, ich meine, das ist jetzt ein bisschen
+2557960	2563760	überfrachtet vielleicht, aber zumindest, es hat ein Element von sinnstiftendem Tun auch, ja. Also
+2563760	2570440	ich finde, das könnte auf einer ganz anderen Ebene als jetzt eben so ein dopamin-geleitetes
+2570440	2576000	Arcade-Game durchaus eine Attraktivität ausstrahlen. Und wenn man sich anguckt, was für Spiele, ich
+2576000	2583800	meine, es fahren ja auch Leute in einem Truck-Simulator wirklich lange und viel durch die Gegend in der
+2583800	2589160	virtuellen Welt, weil sie das irgendwie witzig und geil finden. Also ich glaube, dass das durchaus
+2589160	2593960	funktionieren könnte und finde das eigentlich irgendwie auf einer bestimmten Ebene auch irgendwie
+2593960	2600520	schön als so ein kollektives Projekt, muss ich sagen, ja. Also insofern, I'm hooked, sage ich mal,
+2600720	2606400	ich finde, das hat durchaus eine gewisse Attraktivität. Was würdet ihr denn sagen,
+2606400	2612560	was braucht es, um das an den Start zu bringen? Also welche Elemente müssten da jetzt zusammen
+2612560	2618000	kommen, um so was tatsächlich entwickeln zu können? Bevor ich zu deiner Frage komme, die
+2618000	2623120	ich sehr wichtig finde, will ich noch mal ganz kurz was zu den Beziehungsformen oder Beziehungsweisen,
+2623200	2630800	wie Bini Adamczek das genannt hat, sagen, das Interessante an solchen spielähnlichen oder
+2630800	2636680	simulationsähnlichen Umgebungen, in denen sich Leute begegnen, ist, dass man einerseits Beziehungen,
+2636680	2641320	wenn auch virtuell, aufbaut. Das mag nicht dasselbe sein wie Face to Face und hat seine
+2641320	2647360	Einschränkungen, ist die Frage. Das ist unfraglich. Aber das Interessante ist auch, dass diese
+2647360	2652360	Beziehungsaufbau dann nicht auf den unmittelbaren Face to Face kontaktierbaren Kreis beschränkt
+2652360	2658080	bleibt. Das ist also gewissermaßen auch eine mögliche Erweiterung des Ausprobierens von
+2658080	2664040	Beziehungsweisen, denn das ist ja immer auch so ein Vorwurf, der manchmal von geneigter oder
+2664040	2668680	ungeneigter Seite gewissen linken Vorstellungen gemacht wird. Na ja, also ihr stellt euch das
+2668680	2676120	alles so vor wie eure WG und das wird in dem Küchentisch in der WG ausgehandelt und das hat
+2676120	2683280	dann sowas Enges und Personalistisches und Face to Face Lastiges. Und wie gesagt, bei aller
+2683280	2687840	Wichtigkeit, die der direkte Kontakt selbstverständlich hat, auch der körperliche Kontakt, etwa in der
+2687840	2693080	Care und so, das ist gar keine Frage, wäre das eine Möglichkeit, so neu beziehungsweise noch eben
+2693080	2698440	über den lokalen Kreis hinaus auszuprobieren und vielleicht sogar die Frage nach der Skalierbarkeit
+2698440	2703080	anderer Beziehungsweisen zu stellen. Wie das im Einzelnen funktioniert, müsste man sehen, aber das
+2703160	2708960	fände ich noch mal einen wichtigen Aspekt an dieser Art von virtueller Sozialität. Ja, zu deiner Frage,
+2708960	2715160	was es bräuchte, ja, also man bräuchte, das ist eine sehr gute und sehr schwierige Frage, also man
+2715160	2725120	bräuchte einerseits natürlich die Bereitschaft und das Interesse, bestimmte Modelle umzusetzen
+2725120	2730960	in so einem Spiel, was wir ja gesehen haben in unserem Projekt, nur der Übergang von dem
+2731040	2737240	Modell des Kommunismus, wie Stefan und Mehretz und Simon Sütterli, die beschrieben haben, in diese
+2737240	2743280	Simulation, das ist ein sehr schwieriger, kleinteiliger Prozess. Ja, das ist also Zeit,
+2743280	2746800	das bräuchte man erstmal. Zweitens will man ja natürlich nicht den Leuten jetzt wieder ein
+2746800	2752280	Modell hinstellen, das heißt, andererseits muss man mit irgendwas anfangen, also das ist ein
+2752280	2758240	Paradox, was man nicht ganz auflösen kann. Man muss ja in dieser Maße eine Struktur oder Elemente
+2758240	2762520	einer Struktur vorgeben, die dann aber transformierbar bleiben müssen, das müsste man in diese
+2762520	2767440	Architektur irgendwie mit eindenken. Ja, und dann wird es sehr konkret, dann braucht man natürlich
+2767440	2775200	Leute, die sowas designen können, die sowas programmieren können, die sowas austesten können,
+2775200	2782000	das ist, glaube ich, ein durchaus zumindest anfänglich sehr aufwendiger und schwieriger
+2782000	2787400	Prozess, für den man vielleicht erstmal war, da wir noch in einer Geldökonomie leben, auch
+2787400	2792880	Geld schlicht und ergreifend bräuchte. So einfach ist das, glaube ich, oder uneinfach ist das,
+2792880	2798920	glaube ich. Manuel? Ja, die Frage ist, was man konzipiert. Es gibt ja genug textbasierte
+2798920	2806200	Simulationen, von Planspielen etc., das interessiert ein paar wenige. Also da muss die
+2806200	2813600	Motivation und der Enthusiasmus schon enorm sein, wenn ich jetzt einfach nur in einen
+2813600	2822920	textbasierten Simulationen hänge und dort nur Daten sehe sozusagen. Wenn man jetzt ein Spiel
+2822920	2830440	machen will, was erlebbar ist und erfahrbar ist, dann geht es natürlich dann immer sofort um
+2830440	2838560	Grafik, das spielt eine große Rolle, das ist das Hauptverkaufsargument bei Computerspielen
+2838560	2844640	heutzutage und dafür braucht es einfach Entwicklerinnen, die das können. Also solche
+2844640	2853640	Welten bauen, das werden Wissenschaftler alleine nicht schaffen können. Da braucht es Leute aus
+2853640	2863640	diesem Business, also Game Developers, Game Designer und ich glaube, dass da schon in Zukunft
+2864000	2870600	sicher mehr Kooperationen geben wird, weil ja auch immer mehr Verschränkung virtuelle Welt und
+2870600	2878120	reale Welt kommen wird. Also wenn man sich die Konzeptionen anschaut, da auch, es wird auch
+2878120	2883680	viele Computerspielwelten geben, Transformationskritische, die jetzt nicht unbedingt
+2883680	2891880	in eine, sage ich mal sozialistische oder kommunistische oder kooperative Zukunft
+2891880	2900000	schauen werden. Es gibt mit Meta von EMAs Facebook eine Konzeption für eine Second World,
+2900000	2910400	die sehr stark auf Kommerz aufbaut und die eine Verschränkung, also mehr Werbungsfläche,
+2910400	2914040	wie kriege ich mehr Werbungsfläche? Ich kriege mehr Werbungsfläche, indem ich einen virtuellen Raum
+2914040	2919680	baue, wo die Menschen dann herum tingeltangeln und dann in ihrer Freizeit, in der virtuellen
+2919680	2925080	Welt, in der Wohnung auch noch Werbung konsumieren können. Also das ist halt auch eine eher so eine
+2925080	2932200	dystopische, transformationskritische Perspektive, aber das kommt immer mehr, diese Verschränkung
+2932200	2938440	von oder Augmented Reality, dass halt, wenn die Leute in ihrem tollen, selbstverständigen Auto
+2938440	2945760	sitzen, dann wird etwas eingeblendet, Augmented über die Realität, dann ist es ja auch eine
+2945760	2953680	Simulation in der realen Welt und man wird hier spielerisch ökonomisiert. Das wird es
+2953680	2961320	viel schneller geben, also kommerzielle, von Konzernen gesteuerte Spielwelten,
+2961320	2968480	transformationskritische Spielwelten, das wird es immer mehr geben in den nächsten Jahren. Die
+2968480	2976880	Frage ist, ob quasi auch gegenhegemoniale Projekte mit Bezug auf kooperativen Commoning
+2976880	2986440	hier auch entstehen können. Da wird es viel Engagement auf wissenschaftlicher Seite geben,
+2986440	2992440	müssen aber auch von Seiten Spieler, Entwicklerinnen, die jetzt nicht nur dem Kommerz
+2992440	2998080	verschrieben sind. Es gibt viele Independent Game Studios, mit denen muss man irgendwie versuchen,
+2998080	3005360	in Kooperation zu kommen. Es wird aber mit Sicherheit schwierig werden gegen großkommerzielle
+3005360	3013240	Lösungen, wie es Meta anbieten wird oder andere da eine Alternative anzubieten. Das wird sicherlich
+3013240	3017920	spannend. Wenn ich dann eine Fußlose zu machen darf, ich meine, es kann ja sogar passieren,
+3017920	3023640	dass es irgendwelche faschistischen, transformationskritischen Computerspielwelten
+3023640	3030120	gibt. Es ist ja auch durchaus vorstellbar, dass die äußerste Rechte sich diese Idee zu Nutze macht.
+3030120	3035440	Und das ist ja ein bisschen ein Problem, was man jetzt zum Beispiel an TikTok und der Rolle der
+3035440	3039960	AfD auf TikTok beobachten kann. Also ist es keineswegs ausgebracht, dass so etwas für
+3039960	3046520	emanzipatorische Projekte genutzt wird. Deswegen wäre das ein bisschen auch eine Hoffnung,
+3046520	3054520	die man im weitesten Sinne an linke oder kritische Szene oder Theorie richten muss.
+3054520	3060920	Man darf solche Technologien wie Simulationen und so nicht entweder den kommerziellen Großkonzernen,
+3060920	3067280	die alles mit Werbung vollstopfen wollen, überlassen und schon gar nicht errechten. Also da muss man,
+3067280	3073720	glaube ich, auch sehen, dass das ein Fehler wäre, solche Möglichkeiten wie Computerspiele und
+3073760	3081280	Simulationen zurückzuweisen als bloß virtuell oder selbst, weil sie auf Computertechnik basieren,
+3081280	3086200	als Spin-off der kapitalistischen Computerindustrie. Sondern man sollte versuchen,
+3086200	3092200	solche Techniken auch emanzipatorisch zu nutzen oder anzueignen. Sonst werden das andere tun,
+3092200	3099200	ist zu befürchten. Und ich würde gern nochmal kurz nachfragen, Jens, weil du das jetzt vorhin in
+3099200	3105320	der Antwort davor auch angesprochen hattest, diese Frage von, was gibt man als ersten Referenzrahmen
+3105320	3112040	mit? Also in welche Welt setzt man die SpielerInnen da oder was wird vorgegeben innerhalb dieser Welten?
+3112040	3118600	Ich meine, grundsätzlich könnte man sich ja auch vorstellen, dass das auch mitgestaltbar ist. Also
+3118600	3123520	dass man sagt, man kommt dann zu einer Art von vergleichenden Analyse unterschiedlicher
+3123520	3129760	Computerspielewelten, die halt in unterschiedlichen Anfangsstadien vielleicht gestartet sind und dann
+3129760	3134640	über die Zeit hinweg sich entwickeln. Aber natürlich, was du auch ansprichst, man kennt ja
+3134640	3139200	diese Beispiele von den, ich weiß nicht, ob es von Microsoft war, aber irgendwie so ein Chatbot,
+3139200	3144800	der als erstes rausgekommen ist und dann innerhalb von kürzester Zeit quasi dann eigentlich von einem
+3144800	3152640	Troll-Mob sozusagen zu einem totalen Nazi-Chatbot quasi umtrainiert worden ist. Irgendwie kann ich
+3152640	3157000	mich da dunkel dran erinnern. Also auf jeden Fall natürlich sind diese Tools dann sozusagen auch
+3157000	3165160	missbrauchbar in irgendeiner Form, aber genau durch so eine Form der Parallelität unterschiedlicher
+3165160	3169960	Welten, die in unterschiedlichen Ausgangsszenarien vielleicht auch gestartet sind, könnte man ja auch
+3169960	3175920	noch mal was anderes vielleicht versuchen zu hervorzubringen als so ein Vergleich irgendwie.
+3175920	3183280	Ja, das ist auch absolut wichtig. Man bräuchte im Grunde so eine Art Socioeconomical Construction Kit,
+3183280	3188560	das sozusagen, aber da muss man immer noch Elemente vorgeben und da muss man auch sehen,
+3188560	3193960	wie weit man die wieder modifizieren kann oder eben, es muss verschiedene Formen nebeneinander
+3193960	3198800	geben, einen Pluralismus möglicher, transformationskritischer Welten, in denen es
+3198800	3205240	sozusagen möglich ist mit Grundelementen, Ökonomien, sozioökonomische Strukturen natürlich
+3205240	3211440	wie immer in vereinfachter und partieller Form aufzubauen und damit zu experimentieren.
+3211440	3216040	Und dann könnte man sich vorstellen, dass sie dann vielleicht auch nebeneinander existieren oder
+3216040	3220840	sogar in Relation zueinander treten, dass man in so einer transformationskritischen Welt verschiedene
+3220840	3228560	Zonen hat, die von verschiedenen Modellen reguliert werden oder und die vielleicht dann auch was zu
+3228560	3234320	befürchten ist, in Konflikt treten und dann vielleicht sich auch bestimmte Modelle gegenüber
+3234360	3239120	anderen durchsetzen, was man ja durchaus real historisch durchaus auch beobachten kann,
+3239120	3244000	dass sowas passiert ist. Also das wären solche Dynamiken, die zu beobachten nicht außerordentlich
+3244000	3251960	interessant fände, aber bis man da hinkommt, ist der Weg weit. Varieties of Post-Capitalism
+3251960	3260720	im digitalen Raum sozusagen. Das wäre sozusagen eine iterative Revolution. Also mich würde noch
+3260800	3264640	interessieren, weil ein Aspekt, über den man ja dann auch gerade in Bezug auf diese Frage der
+3264640	3269840	sozialen Beziehung innerhalb dieser digitalen Welten, wenn man darüber nachdenkt, kommt die
+3269840	3278280	Frage auch auf, dass wenn sich menschliche AgentInnen, aber eben auch AI AgentInnen sozusagen
+3278280	3284920	innerhalb dieser Spielewelt befinden und das eben dann wahrscheinlich, so müsste das ja dann sein,
+3284920	3290600	auch nicht immer unterscheidbar ist, was bedeutet das in Bezug auf die Frage des Aufbaus von sozialen
+3290600	3295960	Beziehungen? Ist das was, worüber ihr irgendwie nachgedacht habt? Weil das kann ja unterschiedliche
+3295960	3302360	Richtungen annehmen. Also das kann ja sein, dass das dann auf eine Art wie so ein Misstrauen erzeugt,
+3302360	3307480	dass ich quasi in dieser Welt agiere und interagiere, aber auf eine Art eigentlich
+3307480	3312680	immer verunsichert bin, womit ich es jetzt hier zu tun habe. Also ob ich da jetzt mit einer
+3312680	3320600	menschlichen Akteurin oder Akteur interagiere oder mit einer AI-basierten oder genau, also irgendwie
+3320600	3326360	hatte ich mich da noch gefragt, ob das nicht auf einer bestimmten Ebene, gerade in Bezug auf diese
+3326360	3332840	Frage des Aufbaus von sozialen Bindungen innerhalb der Spielewelt nicht halt auch Probleme aufwirft.
+3332840	3339800	Also natürlich kann das Probleme aufwerfen, was du sagst, das Vertrauen, was das Vertrauen in
+3339800	3347480	andere Agenten anbetrifft. Andererseits interagieren wir ja schon sehr selbstverständlich heute mit
+3347480	3351960	künstlichen Agenten, also einfachstes Beispiel ist zum Beispiel Alexa und das ist wieder was, wo
+3351960	3355880	ich sagen würde, muss man das den Konzernen überlassen oder kann man nicht sich auch vorstellen,
+3355880	3362240	solche künstlichen Agenten als Teil einer anderen sozioökonomischen Gestaltung zu verstehen. Mir
+3362240	3367400	fällt da ein Paper, sehr interessantes Paper von Nick Dyer Weithfort ein, Red Plenty Platforms,
+3367480	3374760	wo Dyer Weithfort ja tatsächlich am Ende skizziert den Punkt, dass eine der Einwände gegen, sagen wir
+3374760	3381160	mal, dezentrale und deliberative Planungsprozesse ist, dass das zu viel Zeit kostet und dass das,
+3381160	3386840	da sind wir wieder bei dem Zeitproblem, was Manuel angesprochen hat und dass man vielleicht dann doch
+3386840	3392440	nicht bei der 17. Iteration des Plans dann immer mitdiskutieren will und Dyer Weithfort stellt
+3392440	3397960	spekulativ natürlich die Idee in den Raum, was wäre eigentlich, wenn man sozusagen gewissermaßen
+3397960	3405640	Avatare hätte, die die eigene Interessen- und Bedürfnisstruktur in der Lage sind,
+3405640	3411960	komplexitätsreduziert abzubilden und zum Beispiel partiell statt meiner an solchen Prozessen teilnehmen,
+3411960	3416560	damit ich mir die Zeit spare, eine Iteration teilzunehmen des Plans. Also das ist wirklich
+3416560	3420520	interessant, das ist natürlich rein spekulativ, aber so abwegig finde ich die Idee gar nicht,
+3420520	3429200	weil das Problem an sozioökonomischen Prozessen, die jetzt nicht zum Beispiel über Marktkonkurrenz
+3429200	3433920	und Preisbildung komplexitätsreduziert werden, brauchen vielleicht andere Formen der
+3433920	3440320	Komplexitätsreduktion, um überhaupt durchführbar zu sein. Und warum sollten künstliche AgentInnen
+3440320	3446400	da keine Rolle spielen können? Also das ist zugegeben spekulativ, aber ich halte das zumindest für
+3446400	3452840	Gedanken, denen man verfolgen sollte. An den Börsen handeln heute schon Computersysteme an
+3452840	3457840	Stelle der Händler und das ist wieder was. Warum muss man das den kapitalistischen Börsen und den
+3457840	3463000	herrschenden Industrien überlassen, solche Techniken zu nutzen? Vielleicht kann man die ja auch zu
+3463000	3468680	Komplexitätsreduktion anderer sozioökonomischer Strukturen nutzen, die eben nicht die Komplexität
+3468680	3473720	über so brachial Mechanism in den Preis reduzieren. Genau, ich glaube, da gilt es dann halt nur
+3473720	3480320	anzufügen. Also das sehe ich total, aber das sind ja quasi dann Beispiele, wo auch gekennzeichnet
+3480320	3485600	ist, womit man es zu tun hat. Dass jetzt das irgendwie ein algorithmisches System ist,
+3485600	3491360	das irgendwie Teile oder große Teile wahrscheinlich des Tradings heutzutage übernimmt. Da wird jetzt
+3491360	3498480	nicht so getan, als wären das jetzt menschliche Akteurinnen, die das machen und man weiß nicht,
+3498480	3502800	mit wem man es jetzt zu tun hat. So wie ich es verstanden hatte, innerhalb dieses Massive
+3502800	3508800	Multiplayer Online Role Playing Games, habe ich hoffentlich richtig gesagt, da wäre es ja dann so,
+3508800	3516560	dass man eben innerhalb der tatsächlichen sozialen Interaktion des Spiels, wo einem dann eben ja in
+3516560	3523480	irgendeiner Form digitale Avatare begegnen, dass man da dann zum Teil eben nicht weiß, ob die jetzt
+3523480	3529780	gespielt werden von menschlichen Akteurinnen und Akteuren oder eben gänzlich AI-basiert sind. So
+3529780	3533480	hatte ich es jetzt einfach mal angenommen, aber vielleicht war das gar nichts, was ihr so überhaupt
+3533480	3538960	vorgeschlagen hättet. Weil auf der anderen Seite kann man ja sagen, der super spannende Anteil an
+3538960	3544120	diesem Vorschlag ist ja eben die Tatsache, dass in diesem Massive Multiplayer Online Games eben
+3544120	3550080	menschliche Akteurinnen mit dabei sind. Das ist ja quasi der Unterschied zu den agentenbasierten
+3550080	3555960	Simulationen von Manuel, wo man dann sagen kann, naja, okay, das ist immer noch irgendwie in einer
+3555960	3562680	Art und Weise eine vereinfachte Simulation, die irgendwie dem menschlichen Verhalten niemals
+3562680	3566280	irgendwie annähernd auch nur gerecht werden könnte. Und sowas ist ja eine Kritik, die man
+3566280	3570960	äußern kann. Aber innerhalb dieser Spielewelt gäbe es ja dann eben tatsächliche Menschen,
+3570960	3576000	die sozusagen in der vollen Komplexität ihres Denkens fühlen und handeln sozusagen,
+3576000	3581920	dann mit agieren könnten. Ja, ich habe jetzt verstehe ich glaube ich den Bezug besser,
+3581920	3591000	den du gemeint hast. Ja, NPCs neben Menschen wird es geben, muss es geben. Warum? Ich glaube,
+3591000	3596000	da geht es gar nicht so sehr ums Vertrauen oder so. Das wird man sehr gut auseinanderhalten können,
+3596000	3603280	vielleicht in Zukunft nicht, aber in den nächsten Jahrzehnten wird man durchaus wissen oder es wird
+3603360	3611600	Mode geben, dass das signalisiert wird oder nicht. Aber hier habe ich eher gemeint, so eine Welt,
+3611600	3621480	die muss sich ja reproduzieren, weil sonst stagniert sie ja weg. Und in so einer Spielwelt wären auf
+3621480	3627960	jeden Fall eingangs nicht immer aktive menschliche Spielerinnen drinnen sein können oder nicht
+3627960	3634360	ausreichend. Das heißt, wenn wir jetzt quasi ein politisches, ein politökonomisches Simulationsspiel
+3634360	3640080	erschaffen wollen, dann müssen wir schon daran denken, dass diese Rollen, wenn wir wenn nicht
+3640080	3645160	genügend echte menschliche Userinnen teilnehmen, dass diese Rollen dann von NPCs übernommen werden,
+3645160	3653960	damit die wenigen, die teilnehmen, in diese Erfahrung kommen. Ja, weil ein Massive Online
+3653960	3659680	Role Playing Game lebt eben davon, dass es eine Masse hat und wenn wir dann zu wenige menschliche
+3659680	3664280	Spielerinnen haben, dann brauchen wir NPCs, die die anderen Rollen übernehmen oder sozusagen
+3664280	3671960	diesen Circular Flow, egal wie der jetzt ausschaut, ob der vom Markt gesteuert ist oder irgendwie
+3671960	3678080	anders durch Commoning oder Kooperativen, diesen Circular Flow, diese Reproduktion muss es dann
+3678080	3684160	geben. Und das können ja die NPCs übernehmen. Das wären dann quasi dann eben nur Agenten,
+3684160	3692440	wie in solchen agentenbasierten Makrosimulationen, wie es jetzt seit 15 Jahren gemacht wird. Das
+3692440	3698480	können die dann übernehmen. Keine Ahnung, wenn es jetzt eine real kapitalistische Simulation ist,
+3698480	3702880	dann sind das Firmen, die müssen Entscheidungen fällen, die müssen Produktionsmittel
+3703360	3708400	anschaffen, Arbeiterinnen müssen ihre Arbeitskraft verkaufen, etc. Und wenn man ins
+3708400	3713360	Postkapitalistische geht, dann wird man die reproduktiven Aktivitäten auch aufrechterhalten
+3713360	3721320	müssen von NPCs, weil das ist dann eben verbunden mit dieser Zeitfrage, denke ich,
+3721320	3729760	wie schafft man Momente, wo genügend Spielerinnen gleichzeitig synchron da mitwirken können. Aber
+3729800	3733240	transpersonal, weil ich kann nicht alle, es geht ja nicht darum, dass ich alle kenne,
+3733240	3741880	alle Millionen Spielerinnen in so einer komplexen Spielsimulation, sondern dass die trotzdem aktiv
+3741880	3748880	sind. Ich möchte erfahren, erleben, wie ich mit anderen menschlichen Spielerinnen diese
+3748880	3756160	Handlungen üben kann und auch strategisch planerische Konzepte entwickeln kann, etc. Das
+3756160	3761560	heißt, es muss eben diesen Mix geben an NPCs, die das System reproduzieren, aufrechterhalten
+3761560	3767080	in dieser Simulation und menschlichen Userinnen, dass ich jetzt nicht irgendwie in der Erfahrung
+3767080	3770560	komme, okay, das ist eine komplett künstliche Welt, was mache ich hier überhaupt, mit wem
+3770560	3775560	plane ich da, ich möchte ja nicht irgendwie mit KI's die Zukunft planen, möchte ja mit anderen
+3775560	3784080	Menschen versuchen, genau diese Handlungsweisen auszuprobieren, zu experimentieren. Das wäre toll.
+3784080	3789000	Wie wir dorthin kommen, ist schwierig, aber sicherlich irgendwie machbar.
+3789000	3794160	Ich meine, man könnte sich ja sogar noch die Frage stellen, inwiefern die Rolle von NPCs
+3794160	3800760	in solchen transformationskritischen Welten auch Auskunft darüber geben kann, welche Arten von
+3800760	3805760	Arbeit man an Maschinen delegieren möchte und welche nicht. Das könnte ja auch irgendwie
+3805760	3810840	Aufschluss darüber geben. Also diese Frage, die sich ja auch immer wieder in Transformationsdiskussionen
+3810840	3818160	stellt, also dass man bestimmte Arbeiten, die wirklich schrecklich sind, die eigentlich niemand
+3818160	3823240	machen möchte, dass man die entweder durch Rotation verteilt oder eben dann doch, sofern es
+3823240	3826560	die ökologischen Bedingungen der Energie- und Ressourcenverbrauch, was ja auch immer ein
+3826560	3831240	Problem bei sowas ist, übrigens auch für die Konstruktion transformationskritischer Welten
+3831240	3834800	selbstverständlich selbst, was ja auch Energie und sowas, auch ein Problem, dass man den Blick
+3834800	3840000	haben muss. Also dass man sich dann spielerisch diese Frage überlegen könnte, was will man
+3840000	3846360	eigentlich an NPCs delegieren und was nicht, als Muster darüber nachzudenken, welche Arbeit will
+3846360	3852920	man machen, welche nicht. Ja, wir hatten ja jetzt schon den Truck-Simulator angesprochen, also wer
+3852920	3858720	die Straßenbahn fährt. Ich glaube, dafür gibt es erstaunlicherweise anscheinend genug Kandidatinnen.
+3858720	3863440	Wenn die Leute das ja jetzt auch schon im Truck-Simulator machen, dann dürfte das sich wohl
+3863440	3868200	ausgehen, wie man hier in Österreich so schön sagt. Ich würde gerne noch einmal, bevor wir in die
+3868280	3875760	Abschlussfrage einbiegen, noch einmal kurz diese Frage des Brückenschlags angesprochen wissen,
+3875760	3881200	denn in der Vorbereitung unseres Gesprächs hier bin ich oder habe ich mir noch mal ein Interview
+3881200	3886880	mit Yannis Varoufakis durchgelesen, beim, ich glaube, Crypto Celebes war das und da geht er
+3886880	3893000	kurz darauf ein, dass er selbst ja auch mal als Berater für Valve heißt die Firma, das sind die
+3893000	3898640	hinter Steam, also richtig eine große, ja einfach ein Big Player quasi in der Gaming-Industrie und
+3898640	3905240	Varoufakis hatte für die mal als Berater gearbeitet, der ist ja auch selbst Spieltheoretiker und ich
+3905240	3909520	lese da mal ein kurzes Zitat vor, was er gesagt hat, warum er das spannend fand. Da sagt er
+3909520	3914160	nämlich, Zitat, es gab viele Gründe, also das jetzt von mir übersetzt, es gab viele Gründe,
+3914160	3918160	warum mich das interessiert hat. Einer war die Aussicht, eine Wirtschaft als allwissender
+3918160	3923080	Forscher zu untersuchen, da ich in Echtzeit Zugang zu allen Daten haben würde, bräuchte
+3923080	3928480	ich keine Statistiken. Ein anderer war die Verlockung sozusagen in Anführungsstrichen Gott zu spielen,
+3928480	3933520	das heißt mit diesen digitalen Volkswirtschaften Dinge zu tun, Dinge tun zu können, die kein
+3933520	3937560	Wirtschaftswissenschaftler in der wieder Anführungsstrichen realen Welt tun kann,
+3937560	3942640	zum Beispiel Regeln, Preise und Mengen zu ändern und zu sehen, was passiert. Ein weiteres Ziel war
+3942640	3948800	empirisch gestützte Narrative zu entwickeln, hier die Grenze zwischen der realen und der digitalen
+3948800	3954400	Wirtschaft überschreiten. Zitat Ende. Und das fand ich eigentlich ganz interessant, dass er das auch
+3954400	3958200	noch mal so aufwirft, da kommt ja einiges auch vor, was wir jetzt hier schon besprochen haben,
+3958200	3963600	diese Aufgabe Narrative zu bilden, das finde ich auf jeden Fall einen wichtigen Aspekt an dem ganzen
+3963600	3968640	oder eben auch Jens, wie du es richtigerweise angesprochen hattest, eben Imagination,
+3968640	3973680	Imagination anderer Wirtschaften sozusagen, das ist auf jeden Fall super wichtig da dran,
+3973680	3979360	aber ich fand es auch interessant, wie er nochmal anspricht, diese Frage des überschreitens der
+3979360	3985920	Grenze zwischen der digitalen Welt und der in Anführungsstrichen realen Wirtschaft. Und wir haben
+3985920	3990360	das jetzt schon so ein bisschen im Gespräch ein, zwei Mal so gestreift, aber mich würde es
+3990360	3995000	interessieren, habt ihr da aktiv drüber nachgedacht, wie man solche Brücken dann vielleicht auch
+3995000	4000920	schlagen könnte und ob das Sinn macht oder vielleicht auch einfach erstmal jetzt einen Schritt
+4000920	4005400	zu weit geht, weil an sich könnte man sich ja schon vorstellen, dass, was weiß ich zum Beispiel,
+4005400	4014080	innerhalb der digitalen Spielewelt dann Commons gepflegt werden, also digitale Commons in dem
+4014080	4019560	Fall, die es auch tatsächlich die Nutzen haben, auch in der realen Welt sozusagen oder man kann
+4019640	4025040	sich, Jens, du hattest jetzt schon den Digital Socialism von Daniel Iseros angesprochen,
+4025040	4031440	aber man könnte sich genauso gut auch vorstellen, dass sowas wie so ein Metacoordinations-Tool,
+4031440	4036360	eine digitale Plattform, wie hier in Future History es auch schon mal vorkam, das Global
+4036360	4043160	Commoning System, dass das quasi in der digitalen Spielewelt erprobt wird, geschaut wird, okay,
+4043160	4048160	wofür kann es nützlich sein, wie kann es funktionieren, unter welchen Bedingungen ist es,
+4048160	4054400	ist es wirklich nützlich oder so und dass man dann darauf aufbauend quasi auch in der in
+4054400	4059760	Anführungsstrichen echten Welt halt Experimente unternimmt, die versucht diese Erkenntnisse
+4059760	4064760	sozusagen auch in der eben Anführungsstrichen echten Welt nochmal auszuprobieren. Sind das Sachen,
+4064760	4069560	über die ihr auch schon nachgedacht habt, wie man diese Brückenschläge vielleicht machen kann und
+4069560	4074920	ob sie überhaupt sozusagen in dieser Form, in dieser direkten, direktgedachten Art und Weise
+4074920	4083160	sinnvoll sind? Darf ich noch kurz? Ja, bitte. Barofake sind super Referenz hier, aber ich
+4083160	4089920	habe noch eine andere, die ich erwähnen möchte. 2007 hat von Reuters jemand, einen Ökonomen
+4089920	4096600	interviewt, einen Isländer Gudmundson, der in der Zentralbank gearbeitet hat und der ist eben
+4096600	4105040	angestellt worden von CCP für dieses EVE Online Game und mit der Motivation, die Inflation in
+4105040	4111800	den Griff zu bekommen. Also der ist quasi real Geldpolitiker gewesen, in Zentralbank gearbeitet,
+4111800	4117400	jetzt unabhängig von Geldtheorie, welche der verwendet wird oder was auch immer, da kann man
+4117400	4124920	natürlich kritisch dazu stehen, aber ist eingesetzt worden von dem Spieleunternehmen, ähnlich wie
+4125000	4130680	Barofake schreibt. Für Barofake ist eher der Bezug so quasi dieses Experimentelle auch, das kommt
+4130680	4135640	stark rüber, da wirklich vor allem, weil die Daten da sind und das ist eben eine Sache. Du bist
+4135640	4139400	dann nicht auf Statistiken und irgendwelchen Schätzfeiern, du brauchst dann einfach weniger
+4139400	4146320	Ökonometrie zum Beispiel, weil du ja die Daten hast. Wir haben halt heute die Unternehmenslandschaft,
+4146320	4152600	ist ja so, Daten sind von den Unternehmen geschützt. Es werden sehr wenige Daten ausgewiesen,
+4152600	4158120	außer das Statistische Zentralamt benötigt diese Daten. Das muss ja auch alles legisliert
+4158120	4162880	sein, welche Daten freigegeben werden und welche nicht. Aber wenn du in so einer Spielewelt bist,
+4162880	4168880	dann hast du natürlich Zugang zu all diesen Daten und kannst diese verwerten. Da schreibt
+4168880	4175280	eben auch dieser isländische Geldpolitiker, dass es total spannend war, auch in der virtuellen
+4175280	4183840	Welt herauszufinden, wie entwickeln sich Preise, wie entwickeln sich Rohstoffwerte etc. Und das kann
+4183840	4189440	ich dir den Link dann schicken. Das ist ein ziemlich altes Interview, aber auch sehr spannend und zu
+4189440	4196800	Brücken schlagen zwischen realer Welt und virtueller Welt, glaube ich, wird die Klimafrage eine große
+4196800	4202400	Rolle spielen, weil dort auch viel mit Rollenspielen experimentiert wurde immer. Für die
+4202400	4209560	Kopferhandlungen hat es so Rollenspielartige Vorbereitungen gegeben für Kopferhandler. Die
+4209560	4217920	Idee von Rollenspiel hier, was heißt das, wenn ich ein Vertreter, ein Verhandler bin aus einer
+4217920	4226760	Region, wo wir sehr stark von Dürren und Fluten und Starkregen ausgesetzt sind und mit einer
+4226760	4233400	anderen Nation, einer hochindustriellen Nation, in Verhandlungen treten muss. Also dort werden
+4233400	4238040	quasi diese Spiele, das sind strategische Spiele, die werden durchgespielt. Das muss ja jetzt nicht
+4238040	4243240	unbedingt ein Computerspiel sein. Ein Computerspiel eröffnet natürlich mehr Möglichkeiten, aber
+4243240	4248920	dieses spielerhafte Zugang, dieses Rollenspielhafte kann hier sehr viel weiterhelfen, weil man sich
+4248920	4253560	eben in andere Rollen reindenken muss und lernen muss, da was heißt das, wenn ich in einer anderen
+4253560	4260760	Rolle drinnen bin. Und dasselbe wird vor allem für die sozial-ökologische Transformation eine
+4260760	4265040	große Rolle spielen. Ich hoffe, dass einfach mehr Spiele kommen. Es gibt jetzt für agent-based
+4265040	4273400	Modeling auch immer mehr, sag ich jetzt mal, empirische Grundlagen auf Basis von Rollenspielen,
+4273400	4277680	die man dann übernimmt in agentbasierte Spiele. Da gibt es auch mehr Abstimmung quasi. Das wäre
+4277680	4282840	jetzt mein Input dazu. Ja, ich kann das nur unterstreichen. Ich meine, das ist ja genau
+4282840	4289080	der Grund, warum es so was wie Simulationen und Scientific Gaming, Szenarioplanung und ähnliche
+4289080	4296640	Verfahren gibt. Das hat ja alles den Grund, dass man in der realen, sogenannten realen Welt versucht,
+4296640	4303640	richtig zu handeln. Ja, und vorher sich Gedanken macht in solchen spielerischen experimentellen
+4303640	4310040	Settings. Was gäbe es für mögliche Ausgänge? Was könnte wie passieren, damit man besser
+4310240	4315400	entscheiden kann? Und gerade in geplanten Ökonomien, glaube ich, wird das eine größere
+4315400	4324240	Rolle spielen, weil man dann bestimmte Güterflows und Ressourcenabbau und Energieverbrauche versuchen
+4324240	4331240	müssen wird. Wenn man es nicht einfach dem Markt überlässt und sein am Koordination, muss man das
+4331240	4337480	ja irgendwie stärker durchrechnen sozusagen oder durchkonzipieren. Und dadurch spielt natürlich,
+4337960	4342360	da werden solche Simulationen und Szenarioplanungen, wird gerade in geplanten Ökonomien,
+4342360	4347120	glaube ich, eine ganz große Rolle spielen. Und was man sich dann auch noch vorstellen kann,
+4347120	4351360	das ist jetzt wieder sehr spekulativ, ist, dass man natürlich, wenn man in solchen
+4352640	4358440	transformationskritischen Computerspielwelten bestimmte alternative Szenarien durchgespielt
+4358440	4363200	hat, dann kann man natürlich auch versuchen, diese Erkenntnisse lokal und partiell wieder
+4363200	4368080	in reale Praktiken zurückzusetzen. Also das wäre natürlich denkbar und vielleicht der
+4368080	4373680	notwendige nächste Schritt. Wie das im Einzelnen aussehen kann, finde ich sehr schwierig zu sagen,
+4373680	4377040	aber das wäre ein mögliches Ergebnis, dass man sagt, na gut, wir haben jetzt gelernt,
+4377040	4381720	dass so und so müssen wir vielleicht mal drangehen und so. Was würde das denn heißen,
+4381720	4386840	wenn wir das jetzt vor Ort tatsächlich mal ausprobieren? Also ganz ähnlich wie Simulationen,
+4386840	4390880	die im Grunde in vielen Bereichen tatsächlich funktionieren, dass man eben sich vorher überlegt,
+4391360	4395160	was gibt es für Möglichkeiten und dann kommt man zum Schluss und dann probiert man es wirklich aus.
+4395160	4399220	Es kann immer noch bedeuten, dass das, was man in der Simulation rausbekommen hat, dann beim
+4399220	4406540	Transfer in reale Settings nicht funktioniert. Das ist sogar durchaus häufig der Fall. Aber das
+4406540	4411200	sagt einem ja dann auch wiederum was darüber, was für Mängel das Modell hat und dass man in
+4411200	4418360	diesem iterativen Prozess sozusagen Schritt für Schritt versucht, sich an gangbare Lösungen
+4418360	4423160	heranzuarbeiten. Denn irgendwie so muss man es machen. Niemand hat die Patentlösung in der
+4423160	4427120	Tasche, niemand will von oben herab als Avantgarde den Leuten sagen, wir machen das jetzt so und so.
+4427120	4432680	So kann dieser Prozess ja nur so eine Art Trial, das wird ja auch immer betont, also als Trial
+4432680	4438480	and Error funktionieren und da werden solche spielerischen Szenarioplanungen, Simulationen,
+4438480	4445000	das wird eine ganz große Rolle spielen. Ja großartig, das finde ich im Sinne eines,
+4445080	4450120	ihr nennt das irgendwo Demokratisierung eines Transformationswissens, finde ich das natürlich
+4450120	4455880	total unterstützenswürdig, zumal natürlich ja gerade im Rahmen der Debatte um Fragen
+4455880	4461560	demokratischer Planung das demokratische entscheidendes Element ist, mit dem es
+4461560	4465080	ganz eigentlich steht und fällt. Insofern finde ich es natürlich großartig, wenn man das in
+4465080	4472840	so einem kollektiven Experimentieren und Imaginieren sozusagen erproben kann. Insofern freue
+4472840	4480240	ich mich schon auf massive Welten des Postkapitalismus im digitalen Raum zunächst
+4480240	4485960	ja und dann to be continued und frage euch zum Abschluss noch, wenn ihr euch Zukunft
+4485960	4493840	vorstellt, was stimmt euch freudig? Also was mich in Bezug auf die sagen wir mal jetzt nicht
+4493840	4499240	privaten Fragen, sondern auf die politisch ökonomischen Situationen der Welt, die ja
+4499240	4504800	nicht sehr ermutigend ist, wenn man an die Zukunft denkt, freudig stimmt ist, dass es solche
+4504800	4511000	Diskussionen gibt und dass das nicht mehr so isoliert ist, wie es mal war, weil irgendwie
+4511000	4516560	muss man neue Wege finden, um mit den Problemen fertig zu werden, Klimawandel natürlich und
+4516560	4521360	vieles andere und was mich freudig stimmt ist, dass es mittlerweile wieder eine lebendige
+4521360	4530440	Debattenkultur über sowas gibt. Dem schließe ich mich an. Mehr Spiele könnte ich noch dazu sagen,
+4530440	4538920	das stimmt mich auch positiv. Das Spiel erlaubt durchaus neue Erfahrungen zu gewinnen, das kann
+4538920	4545920	schon Sinn machen. Wunderbar. Manuel, Jens, vielen Dank für das Gespräch. Vielen Dank. Ja, danke dir.
+4551680	4557600	Das war Future Histories für heute. Vielen Dank fürs Zuhören. Shownotizen und vieles mehr
+4557600	4564000	findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+4564000	4569520	Future Histories oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen großen
+4569520	4575920	Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den
+4575920	4581880	Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne
+4581880	4588280	unter jan at futurehistories.today. Ich freue mich immer sehr über interessante Rückmeldungen und
+4588280	4594120	Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf patreon.com
+4594120	4600400	schrägstrich Future Histories oder auch via Spende auf unserer Homepage. Future Histories
+4600400	4608720	ist eine Produktion von MetaLapsis. Zu finden auf meta lapsis.net. Bis zum nächsten Mal. Ich freue mich.

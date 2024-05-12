@@ -1,0 +1,2171 @@
+WEBVTT
+
+00:00.000 --> 00:05.520
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von
+
+00:05.520 --> 00:11.720
+Zukunft. Mein Name ist Jan Groß und ich freue mich sehr, heute Jens Schröter und Manuel Scholz-Weckele
+
+00:11.720 --> 00:17.160
+begrüßen zu dürfen. Beide waren im Projekt die Gesellschaft nach dem Geld aktiv, das hier in
+
+00:17.160 --> 00:22.320
+Future Histories ja bereits mehrfach vorkam. Ich werde das natürlich alles in den Show Notes
+
+00:22.320 --> 00:28.120
+ausführlich verlinken. Jens ist Professor für Medienkulturwissenschaft an der Universität Bonn
+
+00:28.120 --> 00:34.080
+und war Sprecher des Projektes Die Gesellschaft nach dem Geld. Manuel ist Senior Lecturer an der
+
+00:34.080 --> 00:39.920
+WU Wien und forscht unter anderem zu agentenbasierter Modellierung, vor allem auch mit
+
+00:39.920 --> 00:44.920
+Blick auf makroökonomische Modellierung. Das alles ist hochinteressant und es gibt in Future
+
+00:44.920 --> 00:50.440
+Histories auch eine Doppelfolge, in der ich mit Stefan Meretz und Manuel Scholz-Weckele über die
+
+00:50.440 --> 00:55.840
+im Rahmen des Projektes Die Gesellschaft nach dem Geld erstellte agentenbasierte Modellierung des
+
+00:55.840 --> 01:02.640
+Kommunismus spreche. Alles wie gesagt verlinkt in den Show Notes. Heute, da soll das Ganze wiederum
+
+01:02.640 --> 01:09.040
+in eine etwas andere Richtung weitergetrieben werden, denn will man fundamental andere politische
+
+01:09.040 --> 01:14.640
+Ökonomien vorstellbar machen, dann braucht es eben nicht nur präfigurative Praxis im Hier und Jetzt
+
+01:14.640 --> 01:21.160
+und überzeugende Modelle und Theorien alternativen Wirtschaftens, sondern es gilt auch in alle
+
+01:21.160 --> 01:27.840
+möglichen Bereiche der Kulturproduktion auszuströmen und in vielfältigsten Medien diesen
+
+01:27.840 --> 01:32.920
+Raum des Vorstellbaren zu bespielen. Und bespielen, das meine ich in diesem Fall jetzt tatsächlich
+
+01:32.920 --> 01:39.560
+ganz wortwörtlich, denn im heutigen Gespräch da widmen wir uns der Frage, inwiefern Computerspiele
+
+01:39.560 --> 01:46.160
+Welten als Orte einer Herstellung, Diskursivierung und Demokratisierung eines Transformationswissens
+
+01:46.520 --> 01:52.280
+dienen können, als Orte des spielerischen Einübens und eben auch Vorstellbarmachens
+
+01:52.280 --> 01:59.040
+postkapitalistischer Welten und Praxen. Bevor es jetzt losgeht, da möchte ich noch Ihren als
+
+01:59.040 --> 02:05.800
+Patron von Future Histories begrüßen und ich möchte Marie-Thérèse, Karl, Hans Helmut, Lucas, Fabian
+
+02:05.800 --> 02:13.320
+und Samuel für ihre Spenden danken. Und jetzt viel Freude mit der heutigen Folge Future Histories mit
+
+02:13.320 --> 02:20.160
+Jens Schröter und Manuel Scholz-Weckele zu Computerspielen als Transformationskritische Medien.
+
+02:20.160 --> 02:32.760
+Herzlich willkommen! Hallo! Hallo! Wir wollen heute über ein Paper von euch sprechen, das mir
+
+02:32.760 --> 02:37.880
+wirklich sehr gut gefallen hat, muss ich sagen. Es trägt den Titel Computerspiele und ökonomische
+
+02:37.880 --> 02:43.680
+Modellformen auf dem Weg zu transformationskritischen Medien. Der Titel, der deutet ja schon in eine
+
+02:43.680 --> 02:48.120
+gewisse Richtung. Vielleicht könnt ihr uns zum Einstieg einen kurzen Überblick darüber geben,
+
+02:48.120 --> 02:54.120
+womit ihr euch in diesem Beitrag beschäftigt. Manuel, willst du oder soll ich? Ich kann gerne
+
+02:54.120 --> 03:01.840
+mal anfangen. Ja, also im Prinzip hatten wir diesen Text neu aufgenommen. Ich habe da schon
+
+03:01.840 --> 03:09.320
+vor zehn Jahren daran gearbeitet. Eine Vorversion möchte ich erwähnen, ist erschienen im Buch
+
+03:09.320 --> 03:17.520
+Die Innenwelt der Ökonomie, herausgegeben von Jens Mese, Hannu Pahl und Jan Sparsam. Wir hatten
+
+03:17.520 --> 03:26.760
+da mal einen Workshop am Postwachstumskollegin Jena, wo ich eben dieses Konzeption der
+
+03:26.760 --> 03:31.560
+Computerspielwelten und der Ökonomie präsentiert habe. Das ist jetzt schon längere Zeit her,
+
+03:31.880 --> 03:38.360
+dennoch das Thema ist immer noch relevant. Wir wollen das auch weiterentwickeln gemeinsam mit
+
+03:38.360 --> 03:45.440
+Jens und es gefällt diese Zusammenarbeit sehr gut. Worum geht es in dem Text? Im Prinzip habe
+
+03:45.440 --> 03:53.560
+ich mich damals sehr tief reingelesen in das Buch von Klaus Piers, Computerspielwelten und
+
+03:53.560 --> 04:00.400
+das hat mir besonders gut gefallen, weil er dort versucht hat Computerspiele, die Architekturen,
+
+04:00.400 --> 04:09.080
+das Design, die Konzeptionen vom Akteur, vom Spieler zu verbinden mit etwas Wissenschaftsgeschichte,
+
+04:09.080 --> 04:16.000
+mit Kulturgeschichte und hat ja einfach ein super Buch geschrieben und das hat mich sehr stark
+
+04:16.000 --> 04:22.880
+erinnert an oder zumindest habe ich Bezüge herstellen können zur Wissenschaftsgeschichte
+
+04:22.880 --> 04:30.000
+innerhalb der Ökonomie, also zur Theoriegeschichte, zur Geschichte des ökonomischen Denkens und das
+
+04:30.000 --> 04:38.400
+war, damit habe ich mich sehr eng befasst mit Ideengeschichte um 2010 herum, so etwa,
+
+04:38.400 --> 04:44.760
+nachdem ich meine Dissertation fertig gemacht habe und Schumpeter hat damals schon mal geschrieben
+
+04:44.760 --> 04:54.240
+A History of Economic Analysis und es gab A History of Economic Ideas und irgendwie hat mich immer
+
+04:54.240 --> 05:00.080
+interessiert zu einer History of Economic Models und weil das Computerspielgenre mich auch immer
+
+05:00.080 --> 05:05.360
+zugesagt hat, habe ich mir gedacht, es wäre doch gut da mal reinzuarbeiten und versuchen diese
+
+05:05.360 --> 05:11.600
+Computerspielwelten und diese Architekturen mit ökonomischen Modellformen in Assoziation zu
+
+05:11.600 --> 05:18.840
+bringen. Das war sozusagen der Einstiegspunkt. Ja und vielleicht was man noch ergänzen kann ist,
+
+05:18.840 --> 05:23.800
+dass uns während der Arbeit an dem Text und der Entwicklung dieses Begriffs des
+
+05:23.800 --> 05:30.240
+transformationskritischen Mediums so ein bisschen die Frage auch dämmerte, ob das nicht eine
+
+05:30.240 --> 05:36.560
+interessante Möglichkeit wäre, die Frage der Transformation zu anderen gesellschaftlichen,
+
+05:36.560 --> 05:45.560
+ökonomischen Strukturen, Verfahrensweisen über das Spiel noch mal zu denken, weil es gibt ja so eine
+
+05:45.560 --> 05:52.760
+Art Imaginations- und Vorstellbarkeitskrise anderer ökonomischer Ordnung, das mag viele Gründe haben,
+
+05:52.760 --> 05:58.640
+unter anderem vielleicht einfach auch eine gewisse Paralyse der Vorstellung, dass die Welt anders
+
+05:58.640 --> 06:04.600
+sein könnte und fiktionale Formen, das gibt es natürlich auch in der Literatur im Science Fiction
+
+06:04.600 --> 06:10.240
+oder so, fiktionale Formen können natürlich andere Szenarien entwerfen. Das interessante an
+
+06:10.240 --> 06:19.160
+Spielen ist aber im Prinzip, dass man auch andere Handlungsweisen testen, einüben könnte und über
+
+06:19.160 --> 06:24.040
+das Spiel vielleicht auch wiederum Beobachtungen über solche Handlungsweisen zusammentragen
+
+06:24.040 --> 06:32.760
+könnte, um zu der Frage zu gelangen, wie eine Transformation möglich sein könnte, wenn man zu
+
+06:32.760 --> 06:37.720
+dem Schluss kommt, dass die bisherigen Modelle, die man hat, also zum Beispiel einerseits die
+
+06:37.720 --> 06:43.160
+Vorstellung, dass irgendwelche revolutionären Avantgarden die Macht ergreifen, die Gesellschaft
+
+06:43.160 --> 06:51.120
+systematisch top-down umbauen, gescheitert sind aus vielen guten Gründen und andererseits anarchistische
+
+06:51.120 --> 06:57.720
+oder anarchismusähnliche Modelle der Bottom-up-Revolution, also Substruktion ist ein Begriff,
+
+06:57.720 --> 07:03.920
+der da manchmal verwendet wird, nur sozusagen Bottom-up-Leute gewissermaßen neue Formen bilden,
+
+07:03.920 --> 07:09.200
+neue Beziehungsweisen, wie Binnia Damczak das nennt, bilden und dann aussteigen, dass das natürlich
+
+07:09.200 --> 07:14.520
+sehr schwierig ist, weil die Leute das ja immer in den gegebenen Verhältnissen tun müssen, was eben
+
+07:14.520 --> 07:20.280
+auch ein Grund für die Krise der Vorstellbarkeit anderer Gesellschaftsformen ist und was wäre
+
+07:20.280 --> 07:26.840
+eigentlich, wenn man solche anderen Beziehungsweisen, ökonomischen Strukturen spielerisch
+
+07:26.840 --> 07:32.320
+erstmal ausprobieren könnte, bevor es sozusagen mit dem Ernst des Lebens losgeht, ob das nicht
+
+07:32.320 --> 07:39.280
+ein hilfreicher Weg sein könnte, diese Vorstellbarkeit zu verbessern. Da können wir jetzt eigentlich
+
+07:39.280 --> 07:44.800
+direkt beide Elemente miteinander verbinden, denn in Bezug auf die Frage, welche Formen von
+
+07:44.800 --> 07:49.840
+Spielen gut geeignet sein könnten, um eine solche Transformation eben auch schon mal im Spiel
+
+07:49.840 --> 07:55.480
+erlebbar zu machen, da geht ihr eben dann auf die von Manuel ja schon erwähnten Unterscheidungen von
+
+07:55.480 --> 08:01.040
+Klaus Piers ein, die er in seinem Buch trifft, nennt er nämlich Zeit, Entscheidungs- und
+
+08:01.040 --> 08:07.440
+konfigurationskritische Computerspielewelten und ihr analysiert in eurem Paper eben diese
+
+08:07.440 --> 08:14.240
+verschiedenen Computerspielewelten in Hinblick auf die Frage, inwiefern sie eben als Spielewelten
+
+08:14.240 --> 08:20.440
+der Transformationskritik irgendwie taugen würden oder nicht und entwickelt von da ausgehend dann
+
+08:20.440 --> 08:25.320
+eben auch noch eine eigene Konzeption. Vielleicht gehen wir da mal kurz drauf ein, vielleicht könnt
+
+08:25.320 --> 08:32.240
+ihr zunächst mal diese drei Zugänge von Piers erklären, worum es sich da handelt bei den Zeit,
+
+08:32.240 --> 08:39.160
+den Entscheidungs- und den konfigurationskritischen Computerspielewelten. Ja, das kann ich gern machen.
+
+08:39.160 --> 08:46.360
+Der Zugang ist sehr spannend, was versteht Piers in seinem Buch unter zeitkritischen Paradigma,
+
+08:46.360 --> 08:57.600
+da geht es sehr stark um der Genre Action und Action im Sinne von Arcade, also es geht hier
+
+08:57.600 --> 09:05.800
+um Optimierung vom Verhalten innerhalb einer Zeitsteife, wenn man so will und Piers bringt
+
+09:05.800 --> 09:14.920
+das in Verbindung mit dem Taylorism, mit quasi der Konditionierung der Arbeitsschritte, mit der
+
+09:14.920 --> 09:22.240
+Akkordarbeit, mit dem Einzug vom starken Intervallbezügen in der Arbeit, in der
+
+09:22.240 --> 09:33.240
+fordistischen Arbeit und das macht durchaus Sinn, weil er vergleicht quasi die Arcade Games mit
+
+09:33.240 --> 09:39.880
+Reaktionen, sehr stark sensormotorischen, imperativ, wenn man so will und man optimiert das,
+
+09:39.880 --> 09:47.640
+ein Arcade Game lebt ja davon, nicht dass man das einmal spielt, sondern man wiederholt das
+
+09:47.640 --> 10:01.560
+tausende Male und optimiert so die Coins und jeder kennt die Spielhallen, wo die Arcade-Konsolen
+
+10:01.560 --> 10:09.200
+herumstehen und kennt diese Bilder und dort wird dann optimiert, Tag ein, Tag aus und diese Genre
+
+10:09.200 --> 10:15.360
+passt eben sehr gut zu der Idee des Taylorismus und zu dieser optimierung, zeitkritischen
+
+10:15.360 --> 10:19.880
+Optimierung, ich setze das dann später in Verbindung mit den ökonomischen Modellen,
+
+10:19.880 --> 10:25.400
+weil du hast jetzt gefragt nach was sind denn diese Paradigmen, das zweite wäre eben das
+
+10:25.400 --> 10:33.840
+entscheidungskritische Paradigma, was ändert sich dort, das ist ein Wechsel vom Action-Genre zum
+
+10:33.840 --> 10:41.800
+Abenteuer, zum Adventure-Genre und da geht es um die Höhlen, also Piers beschreibt das auch sehr
+
+10:41.800 --> 10:52.080
+eindrücklich, hat Archivmaterial gefunden, dass die ersten Rollenspiele, die digitalen Rollenspiele
+
+10:52.080 --> 10:58.800
+sind entstanden bei einer amerikanischen Höhlenforscherin, die verheiratet war oder
+
+10:58.800 --> 11:08.360
+zusammen war mit einem Informatiker und die ihm erklärt hat, wie diese Kartierung von Höhlen
+
+11:08.360 --> 11:14.680
+funktioniert und was es heißt so in Höhlen einzudringen und zu forschen und dort ist quasi
+
+11:14.680 --> 11:22.200
+das entstanden und dort gibt es einen starken Bezug zur Informatik, also wie Datenbanken
+
+11:22.200 --> 11:29.560
+konzeptionalisiert sind, wie Routingprobleme, wie Kartierungen eine Rolle spielen und dort spielen
+
+11:29.560 --> 11:34.360
+halt Entscheidungen eine Rolle und das ist etwas anderes als eben diese sensomotorische
+
+11:34.360 --> 11:47.480
+Reaktionskomponente von Spielen, wo es darum geht einen bestimmten Ablauf von Knöpfen und Hebeln
+
+11:47.480 --> 11:53.040
+eben zu drücken, so wie im Tellerismus halt am Förderband, so unter Anführungszeichen, geht es bei
+
+11:53.040 --> 12:02.760
+den entscheidungskritischen Spielen darum, welche Abzeugung wählt man, wie kann ich auf Basis
+
+12:02.760 --> 12:08.840
+meiner Informationswelt die richtige Abzeugung wählen und in der Höhle weiter kommen und das
+
+12:08.840 --> 12:16.560
+hat eben schon einen starken Bezug zu Heuristiken, zu Datenbanken und zu pfadabhängigen Konzeptionen
+
+12:16.560 --> 12:22.720
+weil hier die Zeit nicht mehr so kritisch ist, also es gibt auch Pausen, das gibt es ja quasi bei
+
+12:22.720 --> 12:29.520
+Arcadespielen, bei Actionspielen nicht, da gibt es keine Pausen, da muss man funktionieren, es geht
+
+12:29.520 --> 12:36.600
+auch um dieses ich muss funktionieren und dort wird auch quasi das Arbeiten als bewusste Tätigkeit
+
+12:36.600 --> 12:47.720
+abgeschafft, das spricht Pias auch an, Arbeit an sich wird dort als bewusste Tätigkeit, auch der Flow an
+
+12:47.720 --> 12:53.880
+Arbeit wird abgeschafft durch dieses zeitkritische Optimieren und bei dem entscheidungskritischen
+
+12:53.880 --> 12:59.440
+Paradigma kommen neue Konzepte hier hinzu, wo quasi das Bewusstsein wieder eine starke Rolle spielt.
+
+12:59.440 --> 13:07.400
+Das letzte Paradigma, was Pias anspricht, das konfigurationskritische Paradigma und da kommt
+
+13:07.400 --> 13:14.520
+eine gravierende Neukonzeption hinzu, nämlich ein zweiter Spieler oder eine zweite Spielerin.
+
+13:14.520 --> 13:22.160
+Die vorherigen Spiele waren alles individuelle Spiele, da geht es nur um das Ich und das Optimieren
+
+13:22.160 --> 13:27.480
+quasi, einerseits eben zeitkritisches Optimieren oder entscheidungskritisches Optimieren und jetzt
+
+13:27.480 --> 13:35.640
+kommt eine zweite Spielerin dazu, ein zweiter Akteur und alles verändert sich, weil natürlich
+
+13:35.640 --> 13:44.080
+die Entscheidungen nicht nur von der Unsicherheit der Höhle geprägt sind, was birgt sich hinter der
+
+13:44.080 --> 13:49.840
+Abzweigung oder einer anderen Abzweigung, sondern was birgt sich hinter den Strategien und Entscheidungen
+
+13:49.840 --> 13:57.240
+der anderen Spielerinnen. Es ist natürlich viel komplexer, weil jetzt die Konfiguration, die jetzt
+
+13:57.240 --> 14:01.640
+gegeben ist, ist eben, es gibt mehrere Spielerinnen, die anders entscheiden, die einen anderen
+
+14:01.640 --> 14:09.320
+Informationshorizont haben und dadurch gewinnt das Spiel an enormer Komplexität und das Thema
+
+14:09.320 --> 14:15.400
+Strategie wird zentral, also nicht mehr die Entscheidung an sich, sondern Strategie in Form von
+
+14:15.400 --> 14:22.320
+Kombination von Entscheidungen und Durchdenken von Entscheidungspfaden. Das liegt dann nahe an
+
+14:22.320 --> 14:33.000
+auch Fragen der Spieltheorie, die stark thematisiert werden von Piers und auch Fragen, die aufkommen
+
+14:33.000 --> 14:42.600
+sind im kalten Krieg, wie kann man optimieren und strategische Entscheidungen dort fällen. Ja,
+
+14:42.600 --> 14:49.600
+das sind so quasi die drei Paradigmen, die hier Piers aufwirft. Und davon ausgehen bzw. eigentlich
+
+14:49.840 --> 14:56.560
+in so einer leicht kritisch abstoßenden Bewegung, zumindest in Teilen, argumentiert ihr dann dafür,
+
+14:56.560 --> 15:01.480
+dass es eben transformationskritische Spielewelten geben müsste, denn, und das scheint mir so ein
+
+15:01.480 --> 15:07.480
+zentraler Punkt auch eurer Kritik zu sein, auch die konfigurationskritischen Spiele bleiben sozusagen
+
+15:07.480 --> 15:11.960
+in den Welten hängen, in denen sie sich da befinden. Es gibt sozusagen einen, du hattest jetzt zum
+
+15:11.960 --> 15:15.520
+Beispiel Kalter Krieg, das ist natürlich der Klassiker, Command & Conquer oder sowas,
+
+15:15.520 --> 15:20.120
+du hast sozusagen so Konstellationen, die haben sozusagen eine Spielewelt, die eben in diesem
+
+15:20.120 --> 15:26.520
+konfrontativen Gegeneinander situiert ist, aber es gibt sozusagen keine Möglichkeit innerhalb des
+
+15:26.520 --> 15:32.640
+Spieles diese Ausgangskonfiguration in irgendeiner Form zu befragen. Und transformationskritische
+
+15:32.640 --> 15:38.080
+Computerspielewelten, so hatte ich euch dann jetzt verstanden, könnten eben in der Lage sein,
+
+15:38.080 --> 15:42.460
+genau das zu leisten. Vielleicht könnt ihr uns da ein bisschen durchführen, was ist es,
+
+15:42.460 --> 15:47.780
+was ihr sucht in diesen transformationskritischen Computerspielewelten, was könnten sie leisten?
+
+15:47.780 --> 15:53.580
+Ich gehe da nochmal kurz drauf ein, verbinde das mit den ökonomischen Modellen und dann kann
+
+15:53.580 --> 16:01.540
+Jens dazu etwas sagen. Also bevor ich darauf eingehen möchte, ich sage eben die ökonomischen
+
+16:01.540 --> 16:05.220
+Modellformen, die wir assoziieren mit diesen Computerspielewelten, sie nehmen bei dem
+
+16:05.220 --> 16:11.220
+zeitkritischen Paradigma die neoklassische Modellwelt, wo es um die Optimierung des
+
+16:11.220 --> 16:18.340
+individuellen Verhaltens, zum Beispiel des individuellen Nutzens geht oder des individuellen
+
+16:18.340 --> 16:24.780
+Profites. Also dort spielt zeitkritisch immer das Grenzwertprinzip eine Rolle, also Ableitungen.
+
+16:24.780 --> 16:30.460
+Es geht um die Kumulation, aber schlussendlich nicht nur um das Kumulieren, sondern um die
+
+16:30.460 --> 16:37.500
+Optimierung über die Zeit. Dort sind wir eine starke Beziehung, die würde ich jetzt nicht
+
+16:37.500 --> 16:43.260
+korsal aufschlüsseln, aber eben eine Beziehung. Bei den entscheidungskritischen Computerspielewelten,
+
+16:43.260 --> 16:49.220
+was sehen wir da in der Ökonomie? Für mich steht eine starke Beziehung zum systemischen Denken,
+
+16:49.220 --> 16:55.300
+das heißt, man könnte hier Systemtheorie reininterpretieren, Systemdynamik, aber genauso
+
+16:55.300 --> 17:03.860
+auch die Konzeption von nicht vollständig rationalen Akteurinnen, das heißt Akteurinnen,
+
+17:04.020 --> 17:11.220
+die handeln auf Basis von Heuristiken mit begrenztem Wissen, also dass eben diese Idee
+
+17:11.220 --> 17:16.140
+der Höhle, dass wir eben nicht vollständige Information haben und dort kommen schon stärker,
+
+17:16.140 --> 17:23.300
+ich setze mal heterodoxe ökonomische Bezüge, kann man dort reininterpretieren. Beim
+
+17:23.300 --> 17:29.420
+konfigurationskritischen Paradigma ist diese systemische Komponente aufgegriffen, aber kommt
+
+17:29.500 --> 17:34.660
+die Disaggregation hinzu, das ist für mich das Spannende, weil ich mich eben mit agentenbasierter
+
+17:34.660 --> 17:40.580
+Modellierung auseinandergesetzt habe, das sieht man eben sehr gut, was heißt das, wenn unterschiedliche
+
+17:40.580 --> 17:48.780
+Akteure in Netzwerken zusammenarbeiten oder auch im Wettbewerb stehen und dort spielt das
+
+17:48.780 --> 17:54.100
+konfigurationskritische eine starke Rolle und all das spielt natürlich eine Rolle für
+
+17:54.100 --> 18:00.100
+transformationskritische Medien oder Computerspielwelten, wo die Möglichkeit
+
+18:00.100 --> 18:09.460
+bestehen müsste, Konfigurationen zu transformieren und dort kommt ein starkes utopisches Element
+
+18:09.460 --> 18:14.100
+hinzu und da würde ich jetzt zu Jens. Ja also das mit dem transformationskritischen Spielen,
+
+18:14.100 --> 18:21.100
+wie Manuel schon sagte, die Idee ist im Grunde, dass natürlich die meisten Computerspiele immer
+
+18:21.100 --> 18:28.140
+noch bestimmte Rahmenungen vorgeben, Dispositive wenn du so willst, die ökonomische Implikationen
+
+18:28.140 --> 18:35.340
+haben, dass viele zum Beispiel Multiplayer Role-Playing Games ausgerichtet sind auf
+
+18:35.340 --> 18:42.260
+Konkurrenz, auf gegenseitige Bekämpfung, aber natürlich auch immer schon kooperative Elemente
+
+18:42.260 --> 18:46.540
+enthalten können und die Frage war so ein bisschen, ob man sich nicht vorstellen kann,
+
+18:46.540 --> 18:53.940
+dass man solche synthetischen Gesellschaften, wie man die in etwa solchen Multiplayer Online
+
+18:53.940 --> 18:59.820
+Role-Playing Games findet, ob es nicht interessant wäre, die Möglichkeiten zu erweitern, diese
+
+18:59.820 --> 19:05.300
+Gesellschaften selber umzugestalten, also selber die Parameter zu verändern, ohne dass man gleich
+
+19:05.300 --> 19:11.900
+Programmiererin sein muss und auf diese Art und Weise möglicherweise gesellschaftliche Experimente
+
+19:11.900 --> 19:19.940
+in Silico vielleicht durchführen, skizzieren, ausprobieren kann, um auf diese Art und Weise
+
+19:19.940 --> 19:27.780
+neue Umgangsformen in der Kooperation, neue Umgangsformen mit virtuellen Ressourcen zu lernen,
+
+19:27.780 --> 19:34.180
+auszuprobieren und dort eben neue ökonomische Paradigmen mit Modellformen in Verbindung zu bringen,
+
+19:34.180 --> 19:41.420
+die eben über kapitalistische Formen und etablierte Formen hinausgehen. Solche Experimente gibt es in
+
+19:41.420 --> 19:48.260
+gewisser Weise schon. Es gibt zum Beispiel einen Democratic Socialism Simulator, den man im Netz
+
+19:48.260 --> 19:53.540
+oder auf bestimmten Endgeräten spielen kann. Der ist aber noch sehr gefangen sozusagen in der,
+
+19:53.540 --> 19:58.380
+wenn man so will, sozialdemokratistischen Vorstellung. Man ist also gewissermaßen
+
+19:58.380 --> 20:04.540
+Präsident der Vereinigten Staaten und lässt jetzt harte Gesetze zum Taxieren von Vermögen und
+
+20:04.540 --> 20:08.420
+ähnliches und da gibt es natürlich Unruhen und Aufstände. Also das berührt dann auch solche
+
+20:08.420 --> 20:16.420
+Felder der Wirtschaftssimulation und wie gesagt, es gab 1995 schon ein Spiel, das nannte sich
+
+20:16.420 --> 20:21.820
+Capitalism, was also ganz explizit sozusagen darauf ausgelegt war, dass man sich als Unternehmer
+
+20:21.820 --> 20:26.860
+innen durchsetzt. Aber was wäre eigentlich, wenn man versucht, nicht nur jetzt gewisse in
+
+20:26.860 --> 20:31.860
+diesem Paradigma reformere Schritte zu unternehmen, sondern wenn man dieses Paradigma selbst verändert
+
+20:31.860 --> 20:37.820
+und ausprobiert, wie andere Organisationsformen funktionieren könnten und das wäre eine
+
+20:37.820 --> 20:44.500
+Möglichkeit, die in solchen transformationskritischen Computerspielwelten im Prinzip gegeben sein könnte
+
+20:44.500 --> 20:49.300
+und müsste. Ja, das finde ich unglaublich spannend und vielleicht können wir da ein bisschen tiefer
+
+20:49.300 --> 20:54.780
+hinein eintauchen, weil was ich nämlich auch total relevant und interessant fand an eurem
+
+20:54.780 --> 20:59.920
+Vorschlag war, dass ihr das ja dann verknüpft mit dem Genre, das Massively Multiplayer Online
+
+20:59.920 --> 21:07.120
+Role Playing Games, kurz MMORPG, weil das bringt ja einfach noch mal eine andere Ebene hinein,
+
+21:07.120 --> 21:12.480
+die natürlich auch interessant verknüpft ist, Manuel, mit deiner Arbeit an agentenbasierter
+
+21:12.480 --> 21:18.480
+Modellierung, weil so wie ich euch verstanden hatte, ist ja zumindest jetzt mal so ein erster
+
+21:18.480 --> 21:23.400
+Gedanke, in welche Richtung das gehen könnte, dass man sagt, okay, wer Zeugen, der wirklich
+
+21:23.400 --> 21:30.960
+eine Computerspiele wählt, die eben zum einen in der Lage ist, diese Transformation sozusagen
+
+21:30.960 --> 21:35.940
+in sich mit aufzunehmen, dass also die Bedingungen, die man als Spieler in vorfindet, sozusagen
+
+21:35.940 --> 21:39.280
+innerhalb des Spiels selbst transformiert werden können, das ist sozusagen das eine,
+
+21:39.280 --> 21:46.800
+aber dass die Form innerhalb derer das passiert, eben eine ist, wo sozusagen viele menschliche
+
+21:46.800 --> 21:51.880
+AkteurInnen oder AgentInnen, würde man vielleicht in der agentenbasierten Modellierung eben sagen,
+
+21:51.960 --> 22:00.280
+menschliche AkteurInnen zusammen, aber auch mit zum Beispiel AI-basierten AkteurInnen sozusagen
+
+22:00.280 --> 22:08.960
+interagieren und dass man auf eine Art da wie so ein Testfeld, der nicht nur der Imagination,
+
+22:08.960 --> 22:15.080
+sondern auch des kollektiven Verhaltens eben innerhalb dieses gemeinschaftlichen Raums,
+
+22:15.080 --> 22:20.960
+sozusagen erzeugt. Und das fand ich also wirklich einen sehr interessanten Zugang. Vielleicht könnt
+
+22:20.960 --> 22:25.680
+ihr noch so ein bisschen was sagen zu diesen Massively Multiplayer Online Role Playing Games,
+
+22:25.680 --> 22:31.440
+weil die gibt es ja jetzt schon auch in einer ziemlich umfangreichen Form, also das passiert
+
+22:31.440 --> 22:39.240
+schon und dort entstehen eben auch schon eigene Ökonomien, also Ingame Ökonomien, die aber ja
+
+22:39.240 --> 22:45.200
+dann auch hinaus ragen in die in Anführungsstrichen reale Welt. Das heißt, hier gibt es schon ganz
+
+22:45.200 --> 22:53.040
+schöne und interessante Testfelder, in denen eben in dem Fall dann oft eben nicht postkapitalistisch,
+
+22:53.040 --> 22:59.240
+sondern durchaus kapitalistisch formiert, aber interessante Testfelder eigentlich heute schon
+
+22:59.240 --> 23:04.800
+zu beobachten sind. Vielleicht könnt ihr da kurz ein bisschen drauf eingehen auf diese spezifische
+
+23:04.800 --> 23:13.680
+Genre und das Potenzial, das darin liegt. Ja, warum sehen wir das als spannendes Genre für
+
+23:14.280 --> 23:24.240
+transformationskritische Medien oder Computerspielen? Ja, die MMORPGs sind Ende der 90er,
+
+23:24.240 --> 23:29.880
+Anfang 2000er, das habe ich jetzt mal entstanden, wahrscheinlich das bekannteste ist World of
+
+23:29.880 --> 23:40.280
+Warcraft. Das hat Millionen an User-Spielerinnen fasziniert und das verbinden wahrscheinlich die
+
+23:40.280 --> 23:47.760
+meisten mit diesem Genre. Was macht das Genre aus? Zum einen gibt es eine Open World, das bedeutet,
+
+23:47.760 --> 23:54.880
+dass die Spielerinnen und Spieler sich auf Pfaden bewegen können, die nicht vorgegeben sind. Das
+
+23:54.880 --> 24:01.640
+heißt, sie können frei explorieren. Ein anderes Spiel, wo man das her kennt, was aber nicht
+
+24:01.640 --> 24:09.480
+Massive Multiplayer ist, ist Zelda aus der Nintendo-Welt. Dort hast du auch heutzutage eine Open World,
+
+24:09.480 --> 24:15.960
+die du frei explorieren kannst. Und das ist eben ein Aspekt, der schon mal in die Transformation,
+
+24:15.960 --> 24:23.780
+ins Transformationskritische geht, dieses freie Explorieren und das nicht auf vorgelegten
+
+24:23.780 --> 24:29.440
+Pfaden zu bewegen. Der zweite Komponente ist der Rollenspielaspekt, also dass man quasi
+
+24:29.560 --> 24:36.040
+Charaktere entwickelt und nicht nur entwickelt, sondern auch in Charaktere sich reindenkt. Das
+
+24:36.040 --> 24:42.280
+ist für uns auch eine Komponente, die transformationskritisch relevant ist, weil es
+
+24:42.280 --> 24:49.560
+sehr stark zu tun hat mit was kann ich erfahren oder wie kann ich diese Rolle erfahren oder eine
+
+24:49.560 --> 24:56.680
+andere Rolle erfahren. Rollenspieldenken eignet sich da einfach sehr gut, gerade auch für zukünftige
+
+24:56.680 --> 25:06.240
+politökonomische Spiele oder Sozialsimulationen. Und Massive deswegen, weil da natürlich Millionen
+
+25:06.240 --> 25:13.880
+an Spielern in einer Instanz verbunden werden können, das unterscheidet sich zwischen den
+
+25:13.880 --> 25:21.480
+Spielen. Was ich in dem Artikel hervorgehoben habe oder was ich hervorheben wollte, ist ein
+
+25:21.480 --> 25:28.920
+bestimmtes Spiel, es heißt Eve Online, es ist weniger in dieser Fantasyworld, die man kennt
+
+25:28.920 --> 25:37.320
+von Warcraft, also wo da irgendwelche Orks und Elfen aufeinandertreffen. Nein, Eve Online spielt
+
+25:37.320 --> 25:47.440
+in einer Zukunft, es ist stellare Simulation, wo es Raumstationen gibt, Raumschiffe und Bewegung
+
+25:47.440 --> 25:56.320
+im Space. Was dort relevant ist, ist es gibt Ökonomien, also stärker als jetzt bei Fantasy
+
+25:56.320 --> 26:02.080
+Spielen. Dort gibt es auch Ökonomien, weil es immer Geld gibt, es gibt Gold, es gibt immer eine
+
+26:02.080 --> 26:07.920
+Art von Inflation, es gibt einfach diese Probleme, die es in realen Ökonomien auch gibt, es gibt auch
+
+26:07.920 --> 26:15.360
+enorme Ungleichheit etc. Aber was spannend ist bei Eve ist, dass dieses Spiel, also Eve Online
+
+26:15.360 --> 26:24.560
+eben seit Beginn läuft kontinuierlich und es gibt dort eine Instanz, also es gibt quasi die
+
+26:24.560 --> 26:29.480
+Menschen sind alle, also die Spielerinnen sind alle in dieser eine Instanz und das Spiel wurde
+
+26:29.480 --> 26:37.200
+abgedatet über die letzten 20 Jahre, aber im Kern ist es immer noch diese Instanz und dort haben sich
+
+26:37.200 --> 26:46.880
+eben Businesses gebildet, dort geht es um Management, da geht es um Strategien, dort gibt es mafiöse
+
+26:46.880 --> 26:55.720
+Entwicklungen, da gibt es alles, was die reale Welt des Wirtschaftens auch bietet. Dort gibt es
+
+26:55.720 --> 27:01.680
+natürlich auch Konflikte zwischen größeren Allianzen, die dann in Kriegen ausarten können,
+
+27:01.680 --> 27:11.520
+wo virtuelle Werte, also enorm große Werte dann plötzlich wieder vernichtet werden. Also ähnlich
+
+27:11.520 --> 27:19.920
+wie in realen Gesellschaften, wo auch in großen Konflikten Kapitalakkumulation dann einfach
+
+27:19.920 --> 27:28.400
+vernichtet wird, binnen kürzester Zeit durch Kriege. Und dies ist spannend da drinnen, weil
+
+27:28.400 --> 27:35.840
+dort kann man sich mal reindenken, was passiert in so einer virtuellen Ökonomie und warum rennen
+
+27:35.840 --> 27:43.040
+dort Spielerinnen tagelang ähnlichen Dingen nach, die es in der realen Welt auch gibt. Also
+
+27:43.040 --> 27:51.120
+wieder Management, Business, Planung, all das ist ja intensiv und weniger verbunden jetzt mit Spiel.
+
+27:51.680 --> 27:58.440
+Es geht schon in die Richtung Serious Game, ist aber natürlich sehr stark noch spielerisch und
+
+27:58.440 --> 28:06.560
+natürlich dort wenig Transformation, alles ist von Märkten abhängig und so, aber vom Genre her,
+
+28:06.560 --> 28:12.600
+würde ich sagen, oder vom Spiel her ist es natürlich sehr spannend zu untersuchen oder
+
+28:12.600 --> 28:18.280
+wäre sehr spannend zu untersuchen. Wenn ich da noch kurz einhaken darf, es ist ja so, dass in
+
+28:18.280 --> 28:25.440
+der sogenannten realen Welt soziale Experimente zu machen, ist entweder sehr schwierig und mit
+
+28:25.440 --> 28:32.080
+allen möglichen Widerständen behaftet oder hat leider oft in der Vergangenheit gewaltförmige
+
+28:32.080 --> 28:38.240
+Züge gehabt oder ist in irgendwelchen Desastern geendet. Der Vorteil an virtuellen sozialen
+
+28:38.240 --> 28:44.400
+Experimenten, wenn man so will, wäre, dass man eben Dinge ausprobieren kann, ohne dass einem
+
+28:44.400 --> 28:49.000
+gleich die reale Welt auf den Kopf fällt. Natürlich heißt das nicht, dass man das eins zu eins abbilden
+
+28:49.000 --> 28:55.880
+kann auf die reale Welt, aber je mehr Leute da mitspielen würden, desto mehr könnte man sich
+
+28:55.880 --> 29:05.480
+anschauen oder auch erfahren, wie solche alternativen sozialen Strukturen funktionieren,
+
+29:05.480 --> 29:09.960
+was auch an Problemen auftreten, die man, wenn man solche Modelle auf dem Papier,
+
+29:10.440 --> 29:15.240
+in einem Buch entwickelt, oft nicht im Blick hat. Also es gibt ja jede Menge interessanter
+
+29:15.240 --> 29:19.920
+Vorschläge, die du auch hier in Future Histories immer wieder diskutiert hast. Ich nehme jetzt mal
+
+29:19.920 --> 29:26.040
+ein Beispiel raus, Daniel Sarros, unseren Amazon-Socialism sozusagen. Es wäre ja mal
+
+29:26.040 --> 29:33.360
+interessant herauszufinden, eine Modellwelt zu konstruieren, die diesen Regeln folgt. Der
+
+29:33.360 --> 29:37.000
+erste Schritt wäre schon, wenn man das versucht, würde man wahrscheinlich feststellen, was alles
+
+29:37.000 --> 29:41.400
+an blinden Flecken in dem Modell steht, woran man nicht gedacht hat. Das ist ein Erkenntnisgewinn
+
+29:41.400 --> 29:47.280
+an sich selbst. Das ging uns mit unserer Simulation in dem Projekt auch so, dass wenn man so was
+
+29:47.280 --> 29:52.200
+versucht, in einer Simulation umzusetzen, also in dem Fall bei uns im Projekt ein kommunistisches
+
+29:52.200 --> 29:57.600
+Modell, man muss Abstriche machen, man kann nicht alles machen, es wird zu kompliziert. Viele Schritte,
+
+29:57.600 --> 30:02.600
+da rätselt man dann, wie müssen wir das eigentlich machen. Man stellt fest, dass man blinde Flecke
+
+30:02.600 --> 30:09.200
+hat, an die man nicht gedacht hat. Das ist an sich schon interessant, das umzusetzen. Dann könnte
+
+30:09.200 --> 30:13.800
+man eben versuchen, mit Leuten, die das gerne möchten, die das interessant finden, sowas mal
+
+30:13.800 --> 30:20.000
+durchzuspielen tatsächlich und sehen, was passiert da eigentlich? Funktioniert das? Würde das von
+
+30:20.000 --> 30:24.520
+Sarros beschriebene Modell, wenn man sozusagen diese Strukturen versucht umzusetzen in so einer
+
+30:24.520 --> 30:29.000
+Spielwelt, funktioniert das wirklich so? Trauchen vielleicht Probleme auf, an die man gar nicht
+
+30:29.000 --> 30:36.000
+gedacht hat? Was für Resultate gibt das? Das könnte einerseits eben als Serious Game, wie du schon
+
+30:36.000 --> 30:45.400
+gesagt hast, Manuel, erlauben diese Modelle zu testen, zu erweitern, zu Feinkörnige aufzulösen,
+
+30:45.400 --> 30:50.880
+aber auch Probleme zu sehen. Das halte ich für eine gute Möglichkeit, bevor man gleich mit so einem
+
+30:50.880 --> 30:57.320
+Modell auf die Wirklichkeit geht, vielleicht diesen Zwischenschritt einzuziehen und das stärker
+
+30:57.320 --> 31:01.360
+auszuprobieren. Ganz zu schweigen von dem Aspekt, den wir jetzt schon mehrfach genannt haben, dass
+
+31:01.360 --> 31:06.240
+das vielleicht, gerade wenn das viele Leute werden, die damit spielen, auch ermöglicht,
+
+31:06.240 --> 31:11.320
+solche neuen sozialen Zusammenhänge einfach mal zu erfahren, wenn auch nur virtuell. Das ist
+
+31:11.320 --> 31:16.560
+natürlich immer nur eine Approximation sein. Ja, das finde ich total interessant, nämlich also
+
+31:16.560 --> 31:22.040
+auch diesen Aspekt, Manuel, den du gleich angesprochen hattest, mit dem Reindenken. Das steht ja eben in
+
+31:22.040 --> 31:29.120
+der Verbindung zu diesem Erfahren und inwiefern dann halt, also das ist natürlich dann eine offene
+
+31:29.120 --> 31:34.520
+Frage, wie aussagekräftig diese Erfahrungen dann sind, wenn sie in so einem digitalen Raum gemacht
+
+31:34.520 --> 31:38.760
+worden sind. Das würde mich vielleicht noch so ein bisschen interessieren, wie ihr das seht,
+
+31:38.760 --> 31:46.880
+weil es gibt ja diese beiden Elemente. Auf der einen Ebene diesen Aspekt der Arbeit an kollektiven
+
+31:46.960 --> 31:52.920
+Imaginationen, also dass sozusagen diese Computerspielewelten auch einfach als so
+
+31:52.920 --> 31:59.120
+eine Art von Vorstellungsraum quasi, also geteilter Vorstellungsraum eben existieren,
+
+31:59.120 --> 32:03.760
+aber nachdem die Leute sich ja eben dann tatsächlich auch dort begegnen und auch
+
+32:03.760 --> 32:10.120
+soziale Beziehungen miteinander entwickeln, ist natürlich schon auch die Frage dann interessant,
+
+32:10.120 --> 32:17.040
+okay, was lässt sich daraus dann vielleicht eben schließen? Was lässt sich daraus ableiten? Wo
+
+32:17.040 --> 32:24.760
+sind Sachen eben nicht wirklich tragfähig, wenn sie in so einem Spiel erlebt worden sind? Was
+
+32:24.760 --> 32:30.680
+passiert im Versuch des Übertragens in die reale Welt? Also da sind ja viele offene Fragen noch mit
+
+32:30.680 --> 32:36.480
+verbunden, inwiefern das über so eine Arbeit an kollektiven Imaginationen hinausgehen kann und
+
+32:36.480 --> 32:41.400
+als eine Art von tatsächlichem Testfeld in irgendeiner Form zumindest irgendwie gelten kann.
+
+32:41.400 --> 32:48.240
+Wo würdet ihr da ja nicht vielleicht die Grenzen ziehen oder was wären eure Vermutungen in Bezug
+
+32:48.240 --> 32:55.280
+auf zum Beispiel die Frage der Bindungskraft von sozialen Beziehungen? Also weil jetzt,
+
+32:55.280 --> 33:01.520
+ihr sprecht ja auch von eurem agentenbasierten Modell des Kommunismus und auf einer bestimmten
+
+33:01.520 --> 33:06.200
+Ebene habe ich mich zumindest beim Kommunismus oder das ist ja eine zentrale Frage, die dort
+
+33:06.200 --> 33:15.400
+auch immer wieder gestellt wird, ist ja, wie kann man sozusagen eine Stabilität zwischen anonymen
+
+33:15.400 --> 33:21.440
+Verhältnissen sozusagen generieren, die auf vollständiger Freiwilligkeit basiert? Und wenn
+
+33:21.440 --> 33:27.080
+man jetzt den Kommunismus als eine Spielewelt sozusagen generieren würde und innerhalb dieser
+
+33:27.080 --> 33:33.960
+Spielewelt würde sich dann zeigen, aha, okay, die Leute, die stecken da tatsächlich Zeit rein und
+
+33:33.960 --> 33:38.400
+Zeit ist ja dann auch wirklich eine Form von, sag ich jetzt mal blöd, Investment sozusagen. Also
+
+33:38.400 --> 33:43.240
+da wird ja dann tatsächlich Zeit reingesteckt, wenn jetzt eben zum Beispiel soziale Beziehungen
+
+33:43.240 --> 33:48.600
+gepflegt werden oder ein virtuelles Commons quasi innerhalb dieser Spielewelt von einer Gruppe von
+
+33:48.600 --> 33:53.000
+Menschen, die sich zusammengeschlossen hat, gemeinsam gepflegt wird und so weiter. Dann
+
+33:53.000 --> 33:58.720
+könnte man ja sagen, aha, es lässt sich zumindest mal zeigen, dass die Leute bereit sind, da eine
+
+33:58.720 --> 34:05.760
+bestimmte Form von Aufwand, individuellem Aufwand hineinzustecken. Wie seht ihr das,
+
+34:05.760 --> 34:13.760
+also was gilt es da dann trotzdem noch weiter mit zu bedenken in dieser Frage, was sich für Schlüsse
+
+34:13.760 --> 34:19.480
+aus dieser Spielewelt zielen lassen in Bezug auf die Frage, wie sich das in die reale Welt quote
+
+34:19.480 --> 34:24.520
+on quote quasi transferieren ließe? Bisschen lange und verschlachtelte Frage, ich hoffe,
+
+34:25.120 --> 34:32.040
+also vielleicht muss man zunächst sagen, dass das natürlich das grundsätzliche Problem der
+
+34:32.040 --> 34:37.640
+Verwendung von Simulationen oder simulationsähnlichen Spielszenarien scientific gaming,
+
+34:37.640 --> 34:44.040
+also Simulation und Spiel waren historisch auch immer nah beieinander. Da ist ja grundsätzlich
+
+34:44.040 --> 34:49.600
+der Punkt, dass man natürlich immer in solchen Simulationen oder spielähnlichen Szenarien von
+
+34:49.600 --> 34:57.280
+Vereinfachungen ausgehen muss, von Annäherungen, von Vermutungen und dass man glaube ich nicht
+
+34:57.280 --> 35:03.080
+glauben sollte, dass sich die Ergebnisse solcher Simulationen oder spielähnliche Szenarien irgendwie
+
+35:03.080 --> 35:08.560
+eins zu eins auf Wirklichkeit übertragen lassen. Das ist eher würde ich sagen heuristische Praxis,
+
+35:08.560 --> 35:16.400
+um herauszufinden, was für Dynamiken existieren, was für Ergebnisse entstehen könnten und wie
+
+35:16.440 --> 35:23.080
+man vielleicht mit diesen Fragen umgeht. Jetzt zumindest aus meiner Sicht mit dem Beispiel
+
+35:23.080 --> 35:28.840
+Kommunismus und der Freiwilligkeit. Natürlich müsste man bedenken, dass bei so einem Spiel
+
+35:28.840 --> 35:34.400
+vielleicht auch nur Leute mitspielen würden, die der Idee ohnehin grundsätzlich zugeneigt werden
+
+35:34.400 --> 35:41.680
+und dann auch vielleicht bereit werden, wenn zum Beispiel in der spielerisch-simulativen Ökonomie
+
+35:41.680 --> 35:48.120
+freiwillig Aufgaben übernommen werden müssten, was einem durch stückmergische Signale,
+
+35:48.120 --> 35:52.800
+wie Mehretz und Sutterlüthi sagen, nagelegt wird, dass das vielleicht wahrscheinlicher wäre,
+
+35:52.800 --> 35:57.120
+dass die Leute, die da mitspielen, das dann auch machen. Das heißt, man sollte nicht gleich den
+
+35:57.120 --> 36:03.560
+Schluss ziehen, dass wenn solche in so einer spielähnlichen Szenario das ganz gut funktioniert,
+
+36:03.560 --> 36:09.320
+dass das auch realiter gut funktioniert. Aber man kann wahrscheinlich sehen, was dann auch dennoch
+
+36:09.520 --> 36:13.440
+für Probleme und Dynamiken auftreten, um zunächst mal an dem Modell auch weiter zu
+
+36:13.440 --> 36:20.080
+arbeiten, an dem theoretischen Modell. Manuel? Ja, genau. Was möchte ich noch dazu sagen? Also,
+
+36:20.080 --> 36:29.280
+die Sache mit den Spielerinnen und wer spielt damit jetzt das, was Jens anspricht, würde ich
+
+36:29.280 --> 36:35.800
+kombinieren zu der Frage der Zeit und das Zeitinvestment, was du, Jan, hervorgehoben hast.
+
+36:35.800 --> 36:41.400
+Weil wenn wir uns anschauen, wie Spiele heute funktionieren, also Spiele für Erwachsene,
+
+36:41.400 --> 36:50.400
+also Videospiele für Erwachsene. Es ist ja eine enorm riesige Branche, die schon längst,
+
+36:50.400 --> 36:55.240
+ich glaube vor zehn Jahren oder so, genau, weiß ich das alles nicht, die Filmindustrie überholt
+
+36:55.240 --> 37:03.120
+hat in Bezug auf Umsatz. Das heißt, das ist jetzt nicht irgendwie so ein Randphänomen. Nein,
+
+37:03.200 --> 37:13.280
+die Spiele, Videospiele sind in alle Haushalte eingezogen und alle Menschen, egal von welcher
+
+37:13.280 --> 37:18.480
+Region, sind mit Spielen konfrontiert und ein Großteil mit irgendeiner Art von Videospielen
+
+37:18.480 --> 37:23.240
+und sei es irgendein einfaches Spiel auf einem Smartphone. Weil Smartphones sind ja irgendwie
+
+37:23.240 --> 37:31.800
+durchaus weltweit stark verbreitet, würde ich behaupten. Und das heißt, es gibt einen Zugang
+
+37:32.080 --> 37:38.880
+zu sehr vielen Menschen über ein Medium, was sonst nicht so einfach ist. Und da muss man
+
+37:38.880 --> 37:46.200
+sich aber die Frage stellen, welche Spiele gibt es und wer spielt da damit. Und da spielt Zeit
+
+37:46.200 --> 37:54.600
+eine große Rolle. Wenn jetzt irgendwie die Menschen sehr stark in die Lohnarbeit eingebunden sind oder
+
+37:54.600 --> 38:02.960
+in irgendwelche unternehmerischen Aktivitäten, wie auch immer, oder in politische Arbeit,
+
+38:02.960 --> 38:12.120
+dann sieht man heute, dass einfach wenig Zeit für andere Dinge besteht, neben der Care-Arbeit
+
+38:12.120 --> 38:20.240
+zusätzlich. Und es gibt ja immer wieder Forderungen, vor allem auch aus der ökologischen
+
+38:20.240 --> 38:27.840
+Ökonomie für Arbeitszeitverkürzungen. Also es sind sehr stark aus der ökofeministischen Ökonomie.
+
+38:27.840 --> 38:33.680
+Heutzutage gibt es Forderungen, die nicht nur die Arbeitswoche verkürzen wollen pauschal,
+
+38:33.680 --> 38:41.520
+sondern dass man sich stärker orientiert an Tageszeit. Also wie viel Zeit kann ich einrichten
+
+38:41.520 --> 38:48.600
+für bestimmte Aktivitäten an einem Tag. Wenn jetzt ein Tag mit acht Stunden Lohnarbeit gefüllt ist,
+
+38:48.600 --> 38:56.440
+dann wenn sie sich eher nach einem Computerspiel widmet oder einem Videospiel, und das geht jetzt
+
+38:56.440 --> 39:03.080
+mittlerweile schon über die Geschlechtergrenzen hinaus, also es ist nicht mehr so stark maskulin
+
+39:03.080 --> 39:09.400
+dominiert wie vielleicht vor 30 Jahren, sage ich mal, dann wollen die Leute, die Spielerinnen,
+
+39:09.400 --> 39:17.560
+Effekte haben und den Alltag der Lohnarbeit absolut kompensieren. Das heißt, es geht um
+
+39:17.560 --> 39:31.960
+Spektakel, Effekte, um Emotionen, um Dopamin quasi da anzusprechen und Endorphine, die sonst
+
+39:31.960 --> 39:37.360
+nicht so leicht herzustellen sind. Natürlich kann man, viele gehen ins Fitnessstudio oder Radfahren
+
+39:37.360 --> 39:42.480
+oder laufen, was auch immer, aber andere spielen auf der Playstation irgendein Spiel oder ein
+
+39:43.000 --> 39:50.440
+Computerspiel. Und diese ganze Energie geht dann natürlich in spektakuläre Spiele und das ganze
+
+39:50.440 --> 39:57.240
+Business über Computerspiele bezieht sich in diese kommerzielle Richtung natürlich. Wenn jetzt mehr
+
+39:57.240 --> 40:03.360
+Zeit für die Spielerinnen und Spieler pro Tag besteht für politische Arbeit, dann könnte man
+
+40:03.360 --> 40:11.440
+ja ein Fenster aufmachen für solche Simulationen oder transformationskritische Computerspiele.
+
+40:11.440 --> 40:21.520
+Erst wenn die Zeit täglich da wäre, könnte man stärker mit Spieleherstellern oder so reden und
+
+40:21.520 --> 40:28.160
+Spiele entwerfen, die jetzt nicht nur sich auf Effekte und Emotionen beziehen, sondern auch die
+
+40:28.160 --> 40:36.360
+mit kritisch realistischen Fragen zu tun haben, mit Ökonomien, mit politischen Prozessen. Man
+
+40:36.360 --> 40:45.360
+könnte es quasi als eine politische Arbeit ja auch betrachten, sich in so ein Spiel reinzudenken.
+
+40:45.360 --> 40:50.120
+Es muss natürlich zuerst entwickelt werden. Es gibt zurzeit keine Spiele, die in so eine Richtung
+
+40:50.120 --> 40:58.520
+gehen, weil die Frage ist, was ist der Use-Case? Wer spielt das? Ja, also ich finde den Punkt
+
+40:58.520 --> 41:03.120
+natürlich total berechtigt zu sagen, nicht jeder und jeder kann es sich sozusagen leisten, diese
+
+41:03.120 --> 41:07.320
+Zeit zu investieren. Das ist vollkommen richtig und absolut. Und da streiche ich sozusagen diese
+
+41:07.320 --> 41:13.480
+Forderung nach Arbeitszeitbekürzung definitiv. Aber ich würde vielleicht anknüpfen, trotzdem sagen,
+
+41:13.480 --> 41:21.600
+dass in Bezug auf die Frage der Attraktivität, man da ja eigentlich dann anknüpfen kann an das,
+
+41:21.600 --> 41:28.080
+was Jens auch angesprochen hatte, diese Krise der Imagination. Also ich meine, der Podcast hier
+
+41:28.080 --> 41:32.840
+hat ja den Subtitel der Podcast zur Erweiterung unserer Vorstellung von Zukunft. Also ich habe
+
+41:32.840 --> 41:38.360
+definitiv das Gefühl, dass es sozusagen ein Bedürfnis gibt, danach diesen Raum zu
+
+41:38.360 --> 41:44.240
+bespielen. Und eben da steckt ja das Spielen auch schon drin. Also es gibt sehr wohl eine
+
+41:44.240 --> 41:50.760
+Sehnsucht danach, dass die Dinge doch anders sein könnten und das sozusagen, dass auch eine gewisse
+
+41:50.760 --> 41:56.080
+natürlich andersförmige Attraktivität, die dann vielleicht nicht so unmittelbar dopamin
+
+41:56.080 --> 42:00.800
+geleitet ist, wie irgendwie ein Arcade-Game oder sowas, ja, aber dass das eine gewisse
+
+42:00.800 --> 42:08.720
+Attraktivität ausstrahlt, sich sozusagen in einen solchen Raum hineinzudenken und in dem
+
+42:08.720 --> 42:14.440
+auch tatsächlich in sozialen Beziehungen dann partizipieren zu können, in dem es eben anders
+
+42:14.440 --> 42:20.880
+ist, ja, und dann auch noch sozusagen als ein bindungsstiftendes Element das Narrativ zu haben,
+
+42:20.880 --> 42:27.400
+dass diese Interaktion ja zeitgleich auch den Versuch darstellt, ein Element des Versuchs
+
+42:27.400 --> 42:32.680
+darstellt, um nachzuweisen, dass andere Welten möglich sein können. Das ist ja durchaus was
+
+42:32.680 --> 42:37.960
+sehr, also finde ich sehr attraktives, auch durchaus, ich meine, das ist jetzt ein bisschen
+
+42:37.960 --> 42:43.760
+überfrachtet vielleicht, aber zumindest, es hat ein Element von sinnstiftendem Tun auch, ja. Also
+
+42:43.760 --> 42:50.440
+ich finde, das könnte auf einer ganz anderen Ebene als jetzt eben so ein dopamin-geleitetes
+
+42:50.440 --> 42:56.000
+Arcade-Game durchaus eine Attraktivität ausstrahlen. Und wenn man sich anguckt, was für Spiele, ich
+
+42:56.000 --> 43:03.800
+meine, es fahren ja auch Leute in einem Truck-Simulator wirklich lange und viel durch die Gegend in der
+
+43:03.800 --> 43:09.160
+virtuellen Welt, weil sie das irgendwie witzig und geil finden. Also ich glaube, dass das durchaus
+
+43:09.160 --> 43:13.960
+funktionieren könnte und finde das eigentlich irgendwie auf einer bestimmten Ebene auch irgendwie
+
+43:13.960 --> 43:20.520
+schön als so ein kollektives Projekt, muss ich sagen, ja. Also insofern, I'm hooked, sage ich mal,
+
+43:20.720 --> 43:26.400
+ich finde, das hat durchaus eine gewisse Attraktivität. Was würdet ihr denn sagen,
+
+43:26.400 --> 43:32.560
+was braucht es, um das an den Start zu bringen? Also welche Elemente müssten da jetzt zusammen
+
+43:32.560 --> 43:38.000
+kommen, um so was tatsächlich entwickeln zu können? Bevor ich zu deiner Frage komme, die
+
+43:38.000 --> 43:43.120
+ich sehr wichtig finde, will ich noch mal ganz kurz was zu den Beziehungsformen oder Beziehungsweisen,
+
+43:43.200 --> 43:50.800
+wie Bini Adamczek das genannt hat, sagen, das Interessante an solchen spielähnlichen oder
+
+43:50.800 --> 43:56.680
+simulationsähnlichen Umgebungen, in denen sich Leute begegnen, ist, dass man einerseits Beziehungen,
+
+43:56.680 --> 44:01.320
+wenn auch virtuell, aufbaut. Das mag nicht dasselbe sein wie Face to Face und hat seine
+
+44:01.320 --> 44:07.360
+Einschränkungen, ist die Frage. Das ist unfraglich. Aber das Interessante ist auch, dass diese
+
+44:07.360 --> 44:12.360
+Beziehungsaufbau dann nicht auf den unmittelbaren Face to Face kontaktierbaren Kreis beschränkt
+
+44:12.360 --> 44:18.080
+bleibt. Das ist also gewissermaßen auch eine mögliche Erweiterung des Ausprobierens von
+
+44:18.080 --> 44:24.040
+Beziehungsweisen, denn das ist ja immer auch so ein Vorwurf, der manchmal von geneigter oder
+
+44:24.040 --> 44:28.680
+ungeneigter Seite gewissen linken Vorstellungen gemacht wird. Na ja, also ihr stellt euch das
+
+44:28.680 --> 44:36.120
+alles so vor wie eure WG und das wird in dem Küchentisch in der WG ausgehandelt und das hat
+
+44:36.120 --> 44:43.280
+dann sowas Enges und Personalistisches und Face to Face Lastiges. Und wie gesagt, bei aller
+
+44:43.280 --> 44:47.840
+Wichtigkeit, die der direkte Kontakt selbstverständlich hat, auch der körperliche Kontakt, etwa in der
+
+44:47.840 --> 44:53.080
+Care und so, das ist gar keine Frage, wäre das eine Möglichkeit, so neu beziehungsweise noch eben
+
+44:53.080 --> 44:58.440
+über den lokalen Kreis hinaus auszuprobieren und vielleicht sogar die Frage nach der Skalierbarkeit
+
+44:58.440 --> 45:03.080
+anderer Beziehungsweisen zu stellen. Wie das im Einzelnen funktioniert, müsste man sehen, aber das
+
+45:03.160 --> 45:08.960
+fände ich noch mal einen wichtigen Aspekt an dieser Art von virtueller Sozialität. Ja, zu deiner Frage,
+
+45:08.960 --> 45:15.160
+was es bräuchte, ja, also man bräuchte, das ist eine sehr gute und sehr schwierige Frage, also man
+
+45:15.160 --> 45:25.120
+bräuchte einerseits natürlich die Bereitschaft und das Interesse, bestimmte Modelle umzusetzen
+
+45:25.120 --> 45:30.960
+in so einem Spiel, was wir ja gesehen haben in unserem Projekt, nur der Übergang von dem
+
+45:31.040 --> 45:37.240
+Modell des Kommunismus, wie Stefan und Mehretz und Simon Sütterli, die beschrieben haben, in diese
+
+45:37.240 --> 45:43.280
+Simulation, das ist ein sehr schwieriger, kleinteiliger Prozess. Ja, das ist also Zeit,
+
+45:43.280 --> 45:46.800
+das bräuchte man erstmal. Zweitens will man ja natürlich nicht den Leuten jetzt wieder ein
+
+45:46.800 --> 45:52.280
+Modell hinstellen, das heißt, andererseits muss man mit irgendwas anfangen, also das ist ein
+
+45:52.280 --> 45:58.240
+Paradox, was man nicht ganz auflösen kann. Man muss ja in dieser Maße eine Struktur oder Elemente
+
+45:58.240 --> 46:02.520
+einer Struktur vorgeben, die dann aber transformierbar bleiben müssen, das müsste man in diese
+
+46:02.520 --> 46:07.440
+Architektur irgendwie mit eindenken. Ja, und dann wird es sehr konkret, dann braucht man natürlich
+
+46:07.440 --> 46:15.200
+Leute, die sowas designen können, die sowas programmieren können, die sowas austesten können,
+
+46:15.200 --> 46:22.000
+das ist, glaube ich, ein durchaus zumindest anfänglich sehr aufwendiger und schwieriger
+
+46:22.000 --> 46:27.400
+Prozess, für den man vielleicht erstmal war, da wir noch in einer Geldökonomie leben, auch
+
+46:27.400 --> 46:32.880
+Geld schlicht und ergreifend bräuchte. So einfach ist das, glaube ich, oder uneinfach ist das,
+
+46:32.880 --> 46:38.920
+glaube ich. Manuel? Ja, die Frage ist, was man konzipiert. Es gibt ja genug textbasierte
+
+46:38.920 --> 46:46.200
+Simulationen, von Planspielen etc., das interessiert ein paar wenige. Also da muss die
+
+46:46.200 --> 46:53.600
+Motivation und der Enthusiasmus schon enorm sein, wenn ich jetzt einfach nur in einen
+
+46:53.600 --> 47:02.920
+textbasierten Simulationen hänge und dort nur Daten sehe sozusagen. Wenn man jetzt ein Spiel
+
+47:02.920 --> 47:10.440
+machen will, was erlebbar ist und erfahrbar ist, dann geht es natürlich dann immer sofort um
+
+47:10.440 --> 47:18.560
+Grafik, das spielt eine große Rolle, das ist das Hauptverkaufsargument bei Computerspielen
+
+47:18.560 --> 47:24.640
+heutzutage und dafür braucht es einfach Entwicklerinnen, die das können. Also solche
+
+47:24.640 --> 47:33.640
+Welten bauen, das werden Wissenschaftler alleine nicht schaffen können. Da braucht es Leute aus
+
+47:33.640 --> 47:43.640
+diesem Business, also Game Developers, Game Designer und ich glaube, dass da schon in Zukunft
+
+47:44.000 --> 47:50.600
+sicher mehr Kooperationen geben wird, weil ja auch immer mehr Verschränkung virtuelle Welt und
+
+47:50.600 --> 47:58.120
+reale Welt kommen wird. Also wenn man sich die Konzeptionen anschaut, da auch, es wird auch
+
+47:58.120 --> 48:03.680
+viele Computerspielwelten geben, Transformationskritische, die jetzt nicht unbedingt
+
+48:03.680 --> 48:11.880
+in eine, sage ich mal sozialistische oder kommunistische oder kooperative Zukunft
+
+48:11.880 --> 48:20.000
+schauen werden. Es gibt mit Meta von EMAs Facebook eine Konzeption für eine Second World,
+
+48:20.000 --> 48:30.400
+die sehr stark auf Kommerz aufbaut und die eine Verschränkung, also mehr Werbungsfläche,
+
+48:30.400 --> 48:34.040
+wie kriege ich mehr Werbungsfläche? Ich kriege mehr Werbungsfläche, indem ich einen virtuellen Raum
+
+48:34.040 --> 48:39.680
+baue, wo die Menschen dann herum tingeltangeln und dann in ihrer Freizeit, in der virtuellen
+
+48:39.680 --> 48:45.080
+Welt, in der Wohnung auch noch Werbung konsumieren können. Also das ist halt auch eine eher so eine
+
+48:45.080 --> 48:52.200
+dystopische, transformationskritische Perspektive, aber das kommt immer mehr, diese Verschränkung
+
+48:52.200 --> 48:58.440
+von oder Augmented Reality, dass halt, wenn die Leute in ihrem tollen, selbstverständigen Auto
+
+48:58.440 --> 49:05.760
+sitzen, dann wird etwas eingeblendet, Augmented über die Realität, dann ist es ja auch eine
+
+49:05.760 --> 49:13.680
+Simulation in der realen Welt und man wird hier spielerisch ökonomisiert. Das wird es
+
+49:13.680 --> 49:21.320
+viel schneller geben, also kommerzielle, von Konzernen gesteuerte Spielwelten,
+
+49:21.320 --> 49:28.480
+transformationskritische Spielwelten, das wird es immer mehr geben in den nächsten Jahren. Die
+
+49:28.480 --> 49:36.880
+Frage ist, ob quasi auch gegenhegemoniale Projekte mit Bezug auf kooperativen Commoning
+
+49:36.880 --> 49:46.440
+hier auch entstehen können. Da wird es viel Engagement auf wissenschaftlicher Seite geben,
+
+49:46.440 --> 49:52.440
+müssen aber auch von Seiten Spieler, Entwicklerinnen, die jetzt nicht nur dem Kommerz
+
+49:52.440 --> 49:58.080
+verschrieben sind. Es gibt viele Independent Game Studios, mit denen muss man irgendwie versuchen,
+
+49:58.080 --> 50:05.360
+in Kooperation zu kommen. Es wird aber mit Sicherheit schwierig werden gegen großkommerzielle
+
+50:05.360 --> 50:13.240
+Lösungen, wie es Meta anbieten wird oder andere da eine Alternative anzubieten. Das wird sicherlich
+
+50:13.240 --> 50:17.920
+spannend. Wenn ich dann eine Fußlose zu machen darf, ich meine, es kann ja sogar passieren,
+
+50:17.920 --> 50:23.640
+dass es irgendwelche faschistischen, transformationskritischen Computerspielwelten
+
+50:23.640 --> 50:30.120
+gibt. Es ist ja auch durchaus vorstellbar, dass die äußerste Rechte sich diese Idee zu Nutze macht.
+
+50:30.120 --> 50:35.440
+Und das ist ja ein bisschen ein Problem, was man jetzt zum Beispiel an TikTok und der Rolle der
+
+50:35.440 --> 50:39.960
+AfD auf TikTok beobachten kann. Also ist es keineswegs ausgebracht, dass so etwas für
+
+50:39.960 --> 50:46.520
+emanzipatorische Projekte genutzt wird. Deswegen wäre das ein bisschen auch eine Hoffnung,
+
+50:46.520 --> 50:54.520
+die man im weitesten Sinne an linke oder kritische Szene oder Theorie richten muss.
+
+50:54.520 --> 51:00.920
+Man darf solche Technologien wie Simulationen und so nicht entweder den kommerziellen Großkonzernen,
+
+51:00.920 --> 51:07.280
+die alles mit Werbung vollstopfen wollen, überlassen und schon gar nicht errechten. Also da muss man,
+
+51:07.280 --> 51:13.720
+glaube ich, auch sehen, dass das ein Fehler wäre, solche Möglichkeiten wie Computerspiele und
+
+51:13.760 --> 51:21.280
+Simulationen zurückzuweisen als bloß virtuell oder selbst, weil sie auf Computertechnik basieren,
+
+51:21.280 --> 51:26.200
+als Spin-off der kapitalistischen Computerindustrie. Sondern man sollte versuchen,
+
+51:26.200 --> 51:32.200
+solche Techniken auch emanzipatorisch zu nutzen oder anzueignen. Sonst werden das andere tun,
+
+51:32.200 --> 51:39.200
+ist zu befürchten. Und ich würde gern nochmal kurz nachfragen, Jens, weil du das jetzt vorhin in
+
+51:39.200 --> 51:45.320
+der Antwort davor auch angesprochen hattest, diese Frage von, was gibt man als ersten Referenzrahmen
+
+51:45.320 --> 51:52.040
+mit? Also in welche Welt setzt man die SpielerInnen da oder was wird vorgegeben innerhalb dieser Welten?
+
+51:52.040 --> 51:58.600
+Ich meine, grundsätzlich könnte man sich ja auch vorstellen, dass das auch mitgestaltbar ist. Also
+
+51:58.600 --> 52:03.520
+dass man sagt, man kommt dann zu einer Art von vergleichenden Analyse unterschiedlicher
+
+52:03.520 --> 52:09.760
+Computerspielewelten, die halt in unterschiedlichen Anfangsstadien vielleicht gestartet sind und dann
+
+52:09.760 --> 52:14.640
+über die Zeit hinweg sich entwickeln. Aber natürlich, was du auch ansprichst, man kennt ja
+
+52:14.640 --> 52:19.200
+diese Beispiele von den, ich weiß nicht, ob es von Microsoft war, aber irgendwie so ein Chatbot,
+
+52:19.200 --> 52:24.800
+der als erstes rausgekommen ist und dann innerhalb von kürzester Zeit quasi dann eigentlich von einem
+
+52:24.800 --> 52:32.640
+Troll-Mob sozusagen zu einem totalen Nazi-Chatbot quasi umtrainiert worden ist. Irgendwie kann ich
+
+52:32.640 --> 52:37.000
+mich da dunkel dran erinnern. Also auf jeden Fall natürlich sind diese Tools dann sozusagen auch
+
+52:37.000 --> 52:45.160
+missbrauchbar in irgendeiner Form, aber genau durch so eine Form der Parallelität unterschiedlicher
+
+52:45.160 --> 52:49.960
+Welten, die in unterschiedlichen Ausgangsszenarien vielleicht auch gestartet sind, könnte man ja auch
+
+52:49.960 --> 52:55.920
+noch mal was anderes vielleicht versuchen zu hervorzubringen als so ein Vergleich irgendwie.
+
+52:55.920 --> 53:03.280
+Ja, das ist auch absolut wichtig. Man bräuchte im Grunde so eine Art Socioeconomical Construction Kit,
+
+53:03.280 --> 53:08.560
+das sozusagen, aber da muss man immer noch Elemente vorgeben und da muss man auch sehen,
+
+53:08.560 --> 53:13.960
+wie weit man die wieder modifizieren kann oder eben, es muss verschiedene Formen nebeneinander
+
+53:13.960 --> 53:18.800
+geben, einen Pluralismus möglicher, transformationskritischer Welten, in denen es
+
+53:18.800 --> 53:25.240
+sozusagen möglich ist mit Grundelementen, Ökonomien, sozioökonomische Strukturen natürlich
+
+53:25.240 --> 53:31.440
+wie immer in vereinfachter und partieller Form aufzubauen und damit zu experimentieren.
+
+53:31.440 --> 53:36.040
+Und dann könnte man sich vorstellen, dass sie dann vielleicht auch nebeneinander existieren oder
+
+53:36.040 --> 53:40.840
+sogar in Relation zueinander treten, dass man in so einer transformationskritischen Welt verschiedene
+
+53:40.840 --> 53:48.560
+Zonen hat, die von verschiedenen Modellen reguliert werden oder und die vielleicht dann auch was zu
+
+53:48.560 --> 53:54.320
+befürchten ist, in Konflikt treten und dann vielleicht sich auch bestimmte Modelle gegenüber
+
+53:54.360 --> 53:59.120
+anderen durchsetzen, was man ja durchaus real historisch durchaus auch beobachten kann,
+
+53:59.120 --> 54:04.000
+dass sowas passiert ist. Also das wären solche Dynamiken, die zu beobachten nicht außerordentlich
+
+54:04.000 --> 54:11.960
+interessant fände, aber bis man da hinkommt, ist der Weg weit. Varieties of Post-Capitalism
+
+54:11.960 --> 54:20.720
+im digitalen Raum sozusagen. Das wäre sozusagen eine iterative Revolution. Also mich würde noch
+
+54:20.800 --> 54:24.640
+interessieren, weil ein Aspekt, über den man ja dann auch gerade in Bezug auf diese Frage der
+
+54:24.640 --> 54:29.840
+sozialen Beziehung innerhalb dieser digitalen Welten, wenn man darüber nachdenkt, kommt die
+
+54:29.840 --> 54:38.280
+Frage auch auf, dass wenn sich menschliche AgentInnen, aber eben auch AI AgentInnen sozusagen
+
+54:38.280 --> 54:44.920
+innerhalb dieser Spielewelt befinden und das eben dann wahrscheinlich, so müsste das ja dann sein,
+
+54:44.920 --> 54:50.600
+auch nicht immer unterscheidbar ist, was bedeutet das in Bezug auf die Frage des Aufbaus von sozialen
+
+54:50.600 --> 54:55.960
+Beziehungen? Ist das was, worüber ihr irgendwie nachgedacht habt? Weil das kann ja unterschiedliche
+
+54:55.960 --> 55:02.360
+Richtungen annehmen. Also das kann ja sein, dass das dann auf eine Art wie so ein Misstrauen erzeugt,
+
+55:02.360 --> 55:07.480
+dass ich quasi in dieser Welt agiere und interagiere, aber auf eine Art eigentlich
+
+55:07.480 --> 55:12.680
+immer verunsichert bin, womit ich es jetzt hier zu tun habe. Also ob ich da jetzt mit einer
+
+55:12.680 --> 55:20.600
+menschlichen Akteurin oder Akteur interagiere oder mit einer AI-basierten oder genau, also irgendwie
+
+55:20.600 --> 55:26.360
+hatte ich mich da noch gefragt, ob das nicht auf einer bestimmten Ebene, gerade in Bezug auf diese
+
+55:26.360 --> 55:32.840
+Frage des Aufbaus von sozialen Bindungen innerhalb der Spielewelt nicht halt auch Probleme aufwirft.
+
+55:32.840 --> 55:39.800
+Also natürlich kann das Probleme aufwerfen, was du sagst, das Vertrauen, was das Vertrauen in
+
+55:39.800 --> 55:47.480
+andere Agenten anbetrifft. Andererseits interagieren wir ja schon sehr selbstverständlich heute mit
+
+55:47.480 --> 55:51.960
+künstlichen Agenten, also einfachstes Beispiel ist zum Beispiel Alexa und das ist wieder was, wo
+
+55:51.960 --> 55:55.880
+ich sagen würde, muss man das den Konzernen überlassen oder kann man nicht sich auch vorstellen,
+
+55:55.880 --> 56:02.240
+solche künstlichen Agenten als Teil einer anderen sozioökonomischen Gestaltung zu verstehen. Mir
+
+56:02.240 --> 56:07.400
+fällt da ein Paper, sehr interessantes Paper von Nick Dyer Weithfort ein, Red Plenty Platforms,
+
+56:07.480 --> 56:14.760
+wo Dyer Weithfort ja tatsächlich am Ende skizziert den Punkt, dass eine der Einwände gegen, sagen wir
+
+56:14.760 --> 56:21.160
+mal, dezentrale und deliberative Planungsprozesse ist, dass das zu viel Zeit kostet und dass das,
+
+56:21.160 --> 56:26.840
+da sind wir wieder bei dem Zeitproblem, was Manuel angesprochen hat und dass man vielleicht dann doch
+
+56:26.840 --> 56:32.440
+nicht bei der 17. Iteration des Plans dann immer mitdiskutieren will und Dyer Weithfort stellt
+
+56:32.440 --> 56:37.960
+spekulativ natürlich die Idee in den Raum, was wäre eigentlich, wenn man sozusagen gewissermaßen
+
+56:37.960 --> 56:45.640
+Avatare hätte, die die eigene Interessen- und Bedürfnisstruktur in der Lage sind,
+
+56:45.640 --> 56:51.960
+komplexitätsreduziert abzubilden und zum Beispiel partiell statt meiner an solchen Prozessen teilnehmen,
+
+56:51.960 --> 56:56.560
+damit ich mir die Zeit spare, eine Iteration teilzunehmen des Plans. Also das ist wirklich
+
+56:56.560 --> 57:00.520
+interessant, das ist natürlich rein spekulativ, aber so abwegig finde ich die Idee gar nicht,
+
+57:00.520 --> 57:09.200
+weil das Problem an sozioökonomischen Prozessen, die jetzt nicht zum Beispiel über Marktkonkurrenz
+
+57:09.200 --> 57:13.920
+und Preisbildung komplexitätsreduziert werden, brauchen vielleicht andere Formen der
+
+57:13.920 --> 57:20.320
+Komplexitätsreduktion, um überhaupt durchführbar zu sein. Und warum sollten künstliche AgentInnen
+
+57:20.320 --> 57:26.400
+da keine Rolle spielen können? Also das ist zugegeben spekulativ, aber ich halte das zumindest für
+
+57:26.400 --> 57:32.840
+Gedanken, denen man verfolgen sollte. An den Börsen handeln heute schon Computersysteme an
+
+57:32.840 --> 57:37.840
+Stelle der Händler und das ist wieder was. Warum muss man das den kapitalistischen Börsen und den
+
+57:37.840 --> 57:43.000
+herrschenden Industrien überlassen, solche Techniken zu nutzen? Vielleicht kann man die ja auch zu
+
+57:43.000 --> 57:48.680
+Komplexitätsreduktion anderer sozioökonomischer Strukturen nutzen, die eben nicht die Komplexität
+
+57:48.680 --> 57:53.720
+über so brachial Mechanism in den Preis reduzieren. Genau, ich glaube, da gilt es dann halt nur
+
+57:53.720 --> 58:00.320
+anzufügen. Also das sehe ich total, aber das sind ja quasi dann Beispiele, wo auch gekennzeichnet
+
+58:00.320 --> 58:05.600
+ist, womit man es zu tun hat. Dass jetzt das irgendwie ein algorithmisches System ist,
+
+58:05.600 --> 58:11.360
+das irgendwie Teile oder große Teile wahrscheinlich des Tradings heutzutage übernimmt. Da wird jetzt
+
+58:11.360 --> 58:18.480
+nicht so getan, als wären das jetzt menschliche Akteurinnen, die das machen und man weiß nicht,
+
+58:18.480 --> 58:22.800
+mit wem man es jetzt zu tun hat. So wie ich es verstanden hatte, innerhalb dieses Massive
+
+58:22.800 --> 58:28.800
+Multiplayer Online Role Playing Games, habe ich hoffentlich richtig gesagt, da wäre es ja dann so,
+
+58:28.800 --> 58:36.560
+dass man eben innerhalb der tatsächlichen sozialen Interaktion des Spiels, wo einem dann eben ja in
+
+58:36.560 --> 58:43.480
+irgendeiner Form digitale Avatare begegnen, dass man da dann zum Teil eben nicht weiß, ob die jetzt
+
+58:43.480 --> 58:49.780
+gespielt werden von menschlichen Akteurinnen und Akteuren oder eben gänzlich AI-basiert sind. So
+
+58:49.780 --> 58:53.480
+hatte ich es jetzt einfach mal angenommen, aber vielleicht war das gar nichts, was ihr so überhaupt
+
+58:53.480 --> 58:58.960
+vorgeschlagen hättet. Weil auf der anderen Seite kann man ja sagen, der super spannende Anteil an
+
+58:58.960 --> 59:04.120
+diesem Vorschlag ist ja eben die Tatsache, dass in diesem Massive Multiplayer Online Games eben
+
+59:04.120 --> 59:10.080
+menschliche Akteurinnen mit dabei sind. Das ist ja quasi der Unterschied zu den agentenbasierten
+
+59:10.080 --> 59:15.960
+Simulationen von Manuel, wo man dann sagen kann, naja, okay, das ist immer noch irgendwie in einer
+
+59:15.960 --> 59:22.680
+Art und Weise eine vereinfachte Simulation, die irgendwie dem menschlichen Verhalten niemals
+
+59:22.680 --> 59:26.280
+irgendwie annähernd auch nur gerecht werden könnte. Und sowas ist ja eine Kritik, die man
+
+59:26.280 --> 59:30.960
+äußern kann. Aber innerhalb dieser Spielewelt gäbe es ja dann eben tatsächliche Menschen,
+
+59:30.960 --> 59:36.000
+die sozusagen in der vollen Komplexität ihres Denkens fühlen und handeln sozusagen,
+
+59:36.000 --> 59:41.920
+dann mit agieren könnten. Ja, ich habe jetzt verstehe ich glaube ich den Bezug besser,
+
+59:41.920 --> 59:51.000
+den du gemeint hast. Ja, NPCs neben Menschen wird es geben, muss es geben. Warum? Ich glaube,
+
+59:51.000 --> 59:56.000
+da geht es gar nicht so sehr ums Vertrauen oder so. Das wird man sehr gut auseinanderhalten können,
+
+59:56.000 --> 01:00:03.280
+vielleicht in Zukunft nicht, aber in den nächsten Jahrzehnten wird man durchaus wissen oder es wird
+
+01:00:03.360 --> 01:00:11.600
+Mode geben, dass das signalisiert wird oder nicht. Aber hier habe ich eher gemeint, so eine Welt,
+
+01:00:11.600 --> 01:00:21.480
+die muss sich ja reproduzieren, weil sonst stagniert sie ja weg. Und in so einer Spielwelt wären auf
+
+01:00:21.480 --> 01:00:27.960
+jeden Fall eingangs nicht immer aktive menschliche Spielerinnen drinnen sein können oder nicht
+
+01:00:27.960 --> 01:00:34.360
+ausreichend. Das heißt, wenn wir jetzt quasi ein politisches, ein politökonomisches Simulationsspiel
+
+01:00:34.360 --> 01:00:40.080
+erschaffen wollen, dann müssen wir schon daran denken, dass diese Rollen, wenn wir wenn nicht
+
+01:00:40.080 --> 01:00:45.160
+genügend echte menschliche Userinnen teilnehmen, dass diese Rollen dann von NPCs übernommen werden,
+
+01:00:45.160 --> 01:00:53.960
+damit die wenigen, die teilnehmen, in diese Erfahrung kommen. Ja, weil ein Massive Online
+
+01:00:53.960 --> 01:00:59.680
+Role Playing Game lebt eben davon, dass es eine Masse hat und wenn wir dann zu wenige menschliche
+
+01:00:59.680 --> 01:01:04.280
+Spielerinnen haben, dann brauchen wir NPCs, die die anderen Rollen übernehmen oder sozusagen
+
+01:01:04.280 --> 01:01:11.960
+diesen Circular Flow, egal wie der jetzt ausschaut, ob der vom Markt gesteuert ist oder irgendwie
+
+01:01:11.960 --> 01:01:18.080
+anders durch Commoning oder Kooperativen, diesen Circular Flow, diese Reproduktion muss es dann
+
+01:01:18.080 --> 01:01:24.160
+geben. Und das können ja die NPCs übernehmen. Das wären dann quasi dann eben nur Agenten,
+
+01:01:24.160 --> 01:01:32.440
+wie in solchen agentenbasierten Makrosimulationen, wie es jetzt seit 15 Jahren gemacht wird. Das
+
+01:01:32.440 --> 01:01:38.480
+können die dann übernehmen. Keine Ahnung, wenn es jetzt eine real kapitalistische Simulation ist,
+
+01:01:38.480 --> 01:01:42.880
+dann sind das Firmen, die müssen Entscheidungen fällen, die müssen Produktionsmittel
+
+01:01:43.360 --> 01:01:48.400
+anschaffen, Arbeiterinnen müssen ihre Arbeitskraft verkaufen, etc. Und wenn man ins
+
+01:01:48.400 --> 01:01:53.360
+Postkapitalistische geht, dann wird man die reproduktiven Aktivitäten auch aufrechterhalten
+
+01:01:53.360 --> 01:02:01.320
+müssen von NPCs, weil das ist dann eben verbunden mit dieser Zeitfrage, denke ich,
+
+01:02:01.320 --> 01:02:09.760
+wie schafft man Momente, wo genügend Spielerinnen gleichzeitig synchron da mitwirken können. Aber
+
+01:02:09.800 --> 01:02:13.240
+transpersonal, weil ich kann nicht alle, es geht ja nicht darum, dass ich alle kenne,
+
+01:02:13.240 --> 01:02:21.880
+alle Millionen Spielerinnen in so einer komplexen Spielsimulation, sondern dass die trotzdem aktiv
+
+01:02:21.880 --> 01:02:28.880
+sind. Ich möchte erfahren, erleben, wie ich mit anderen menschlichen Spielerinnen diese
+
+01:02:28.880 --> 01:02:36.160
+Handlungen üben kann und auch strategisch planerische Konzepte entwickeln kann, etc. Das
+
+01:02:36.160 --> 01:02:41.560
+heißt, es muss eben diesen Mix geben an NPCs, die das System reproduzieren, aufrechterhalten
+
+01:02:41.560 --> 01:02:47.080
+in dieser Simulation und menschlichen Userinnen, dass ich jetzt nicht irgendwie in der Erfahrung
+
+01:02:47.080 --> 01:02:50.560
+komme, okay, das ist eine komplett künstliche Welt, was mache ich hier überhaupt, mit wem
+
+01:02:50.560 --> 01:02:55.560
+plane ich da, ich möchte ja nicht irgendwie mit KI's die Zukunft planen, möchte ja mit anderen
+
+01:02:55.560 --> 01:03:04.080
+Menschen versuchen, genau diese Handlungsweisen auszuprobieren, zu experimentieren. Das wäre toll.
+
+01:03:04.080 --> 01:03:09.000
+Wie wir dorthin kommen, ist schwierig, aber sicherlich irgendwie machbar.
+
+01:03:09.000 --> 01:03:14.160
+Ich meine, man könnte sich ja sogar noch die Frage stellen, inwiefern die Rolle von NPCs
+
+01:03:14.160 --> 01:03:20.760
+in solchen transformationskritischen Welten auch Auskunft darüber geben kann, welche Arten von
+
+01:03:20.760 --> 01:03:25.760
+Arbeit man an Maschinen delegieren möchte und welche nicht. Das könnte ja auch irgendwie
+
+01:03:25.760 --> 01:03:30.840
+Aufschluss darüber geben. Also diese Frage, die sich ja auch immer wieder in Transformationsdiskussionen
+
+01:03:30.840 --> 01:03:38.160
+stellt, also dass man bestimmte Arbeiten, die wirklich schrecklich sind, die eigentlich niemand
+
+01:03:38.160 --> 01:03:43.240
+machen möchte, dass man die entweder durch Rotation verteilt oder eben dann doch, sofern es
+
+01:03:43.240 --> 01:03:46.560
+die ökologischen Bedingungen der Energie- und Ressourcenverbrauch, was ja auch immer ein
+
+01:03:46.560 --> 01:03:51.240
+Problem bei sowas ist, übrigens auch für die Konstruktion transformationskritischer Welten
+
+01:03:51.240 --> 01:03:54.800
+selbstverständlich selbst, was ja auch Energie und sowas, auch ein Problem, dass man den Blick
+
+01:03:54.800 --> 01:04:00.000
+haben muss. Also dass man sich dann spielerisch diese Frage überlegen könnte, was will man
+
+01:04:00.000 --> 01:04:06.360
+eigentlich an NPCs delegieren und was nicht, als Muster darüber nachzudenken, welche Arbeit will
+
+01:04:06.360 --> 01:04:12.920
+man machen, welche nicht. Ja, wir hatten ja jetzt schon den Truck-Simulator angesprochen, also wer
+
+01:04:12.920 --> 01:04:18.720
+die Straßenbahn fährt. Ich glaube, dafür gibt es erstaunlicherweise anscheinend genug Kandidatinnen.
+
+01:04:18.720 --> 01:04:23.440
+Wenn die Leute das ja jetzt auch schon im Truck-Simulator machen, dann dürfte das sich wohl
+
+01:04:23.440 --> 01:04:28.200
+ausgehen, wie man hier in Österreich so schön sagt. Ich würde gerne noch einmal, bevor wir in die
+
+01:04:28.280 --> 01:04:35.760
+Abschlussfrage einbiegen, noch einmal kurz diese Frage des Brückenschlags angesprochen wissen,
+
+01:04:35.760 --> 01:04:41.200
+denn in der Vorbereitung unseres Gesprächs hier bin ich oder habe ich mir noch mal ein Interview
+
+01:04:41.200 --> 01:04:46.880
+mit Yannis Varoufakis durchgelesen, beim, ich glaube, Crypto Celebes war das und da geht er
+
+01:04:46.880 --> 01:04:53.000
+kurz darauf ein, dass er selbst ja auch mal als Berater für Valve heißt die Firma, das sind die
+
+01:04:53.000 --> 01:04:58.640
+hinter Steam, also richtig eine große, ja einfach ein Big Player quasi in der Gaming-Industrie und
+
+01:04:58.640 --> 01:05:05.240
+Varoufakis hatte für die mal als Berater gearbeitet, der ist ja auch selbst Spieltheoretiker und ich
+
+01:05:05.240 --> 01:05:09.520
+lese da mal ein kurzes Zitat vor, was er gesagt hat, warum er das spannend fand. Da sagt er
+
+01:05:09.520 --> 01:05:14.160
+nämlich, Zitat, es gab viele Gründe, also das jetzt von mir übersetzt, es gab viele Gründe,
+
+01:05:14.160 --> 01:05:18.160
+warum mich das interessiert hat. Einer war die Aussicht, eine Wirtschaft als allwissender
+
+01:05:18.160 --> 01:05:23.080
+Forscher zu untersuchen, da ich in Echtzeit Zugang zu allen Daten haben würde, bräuchte
+
+01:05:23.080 --> 01:05:28.480
+ich keine Statistiken. Ein anderer war die Verlockung sozusagen in Anführungsstrichen Gott zu spielen,
+
+01:05:28.480 --> 01:05:33.520
+das heißt mit diesen digitalen Volkswirtschaften Dinge zu tun, Dinge tun zu können, die kein
+
+01:05:33.520 --> 01:05:37.560
+Wirtschaftswissenschaftler in der wieder Anführungsstrichen realen Welt tun kann,
+
+01:05:37.560 --> 01:05:42.640
+zum Beispiel Regeln, Preise und Mengen zu ändern und zu sehen, was passiert. Ein weiteres Ziel war
+
+01:05:42.640 --> 01:05:48.800
+empirisch gestützte Narrative zu entwickeln, hier die Grenze zwischen der realen und der digitalen
+
+01:05:48.800 --> 01:05:54.400
+Wirtschaft überschreiten. Zitat Ende. Und das fand ich eigentlich ganz interessant, dass er das auch
+
+01:05:54.400 --> 01:05:58.200
+noch mal so aufwirft, da kommt ja einiges auch vor, was wir jetzt hier schon besprochen haben,
+
+01:05:58.200 --> 01:06:03.600
+diese Aufgabe Narrative zu bilden, das finde ich auf jeden Fall einen wichtigen Aspekt an dem ganzen
+
+01:06:03.600 --> 01:06:08.640
+oder eben auch Jens, wie du es richtigerweise angesprochen hattest, eben Imagination,
+
+01:06:08.640 --> 01:06:13.680
+Imagination anderer Wirtschaften sozusagen, das ist auf jeden Fall super wichtig da dran,
+
+01:06:13.680 --> 01:06:19.360
+aber ich fand es auch interessant, wie er nochmal anspricht, diese Frage des überschreitens der
+
+01:06:19.360 --> 01:06:25.920
+Grenze zwischen der digitalen Welt und der in Anführungsstrichen realen Wirtschaft. Und wir haben
+
+01:06:25.920 --> 01:06:30.360
+das jetzt schon so ein bisschen im Gespräch ein, zwei Mal so gestreift, aber mich würde es
+
+01:06:30.360 --> 01:06:35.000
+interessieren, habt ihr da aktiv drüber nachgedacht, wie man solche Brücken dann vielleicht auch
+
+01:06:35.000 --> 01:06:40.920
+schlagen könnte und ob das Sinn macht oder vielleicht auch einfach erstmal jetzt einen Schritt
+
+01:06:40.920 --> 01:06:45.400
+zu weit geht, weil an sich könnte man sich ja schon vorstellen, dass, was weiß ich zum Beispiel,
+
+01:06:45.400 --> 01:06:54.080
+innerhalb der digitalen Spielewelt dann Commons gepflegt werden, also digitale Commons in dem
+
+01:06:54.080 --> 01:06:59.560
+Fall, die es auch tatsächlich die Nutzen haben, auch in der realen Welt sozusagen oder man kann
+
+01:06:59.640 --> 01:07:05.040
+sich, Jens, du hattest jetzt schon den Digital Socialism von Daniel Iseros angesprochen,
+
+01:07:05.040 --> 01:07:11.440
+aber man könnte sich genauso gut auch vorstellen, dass sowas wie so ein Metacoordinations-Tool,
+
+01:07:11.440 --> 01:07:16.360
+eine digitale Plattform, wie hier in Future History es auch schon mal vorkam, das Global
+
+01:07:16.360 --> 01:07:23.160
+Commoning System, dass das quasi in der digitalen Spielewelt erprobt wird, geschaut wird, okay,
+
+01:07:23.160 --> 01:07:28.160
+wofür kann es nützlich sein, wie kann es funktionieren, unter welchen Bedingungen ist es,
+
+01:07:28.160 --> 01:07:34.400
+ist es wirklich nützlich oder so und dass man dann darauf aufbauend quasi auch in der in
+
+01:07:34.400 --> 01:07:39.760
+Anführungsstrichen echten Welt halt Experimente unternimmt, die versucht diese Erkenntnisse
+
+01:07:39.760 --> 01:07:44.760
+sozusagen auch in der eben Anführungsstrichen echten Welt nochmal auszuprobieren. Sind das Sachen,
+
+01:07:44.760 --> 01:07:49.560
+über die ihr auch schon nachgedacht habt, wie man diese Brückenschläge vielleicht machen kann und
+
+01:07:49.560 --> 01:07:54.920
+ob sie überhaupt sozusagen in dieser Form, in dieser direkten, direktgedachten Art und Weise
+
+01:07:54.920 --> 01:08:03.160
+sinnvoll sind? Darf ich noch kurz? Ja, bitte. Barofake sind super Referenz hier, aber ich
+
+01:08:03.160 --> 01:08:09.920
+habe noch eine andere, die ich erwähnen möchte. 2007 hat von Reuters jemand, einen Ökonomen
+
+01:08:09.920 --> 01:08:16.600
+interviewt, einen Isländer Gudmundson, der in der Zentralbank gearbeitet hat und der ist eben
+
+01:08:16.600 --> 01:08:25.040
+angestellt worden von CCP für dieses EVE Online Game und mit der Motivation, die Inflation in
+
+01:08:25.040 --> 01:08:31.800
+den Griff zu bekommen. Also der ist quasi real Geldpolitiker gewesen, in Zentralbank gearbeitet,
+
+01:08:31.800 --> 01:08:37.400
+jetzt unabhängig von Geldtheorie, welche der verwendet wird oder was auch immer, da kann man
+
+01:08:37.400 --> 01:08:44.920
+natürlich kritisch dazu stehen, aber ist eingesetzt worden von dem Spieleunternehmen, ähnlich wie
+
+01:08:45.000 --> 01:08:50.680
+Barofake schreibt. Für Barofake ist eher der Bezug so quasi dieses Experimentelle auch, das kommt
+
+01:08:50.680 --> 01:08:55.640
+stark rüber, da wirklich vor allem, weil die Daten da sind und das ist eben eine Sache. Du bist
+
+01:08:55.640 --> 01:08:59.400
+dann nicht auf Statistiken und irgendwelchen Schätzfeiern, du brauchst dann einfach weniger
+
+01:08:59.400 --> 01:09:06.320
+Ökonometrie zum Beispiel, weil du ja die Daten hast. Wir haben halt heute die Unternehmenslandschaft,
+
+01:09:06.320 --> 01:09:12.600
+ist ja so, Daten sind von den Unternehmen geschützt. Es werden sehr wenige Daten ausgewiesen,
+
+01:09:12.600 --> 01:09:18.120
+außer das Statistische Zentralamt benötigt diese Daten. Das muss ja auch alles legisliert
+
+01:09:18.120 --> 01:09:22.880
+sein, welche Daten freigegeben werden und welche nicht. Aber wenn du in so einer Spielewelt bist,
+
+01:09:22.880 --> 01:09:28.880
+dann hast du natürlich Zugang zu all diesen Daten und kannst diese verwerten. Da schreibt
+
+01:09:28.880 --> 01:09:35.280
+eben auch dieser isländische Geldpolitiker, dass es total spannend war, auch in der virtuellen
+
+01:09:35.280 --> 01:09:43.840
+Welt herauszufinden, wie entwickeln sich Preise, wie entwickeln sich Rohstoffwerte etc. Und das kann
+
+01:09:43.840 --> 01:09:49.440
+ich dir den Link dann schicken. Das ist ein ziemlich altes Interview, aber auch sehr spannend und zu
+
+01:09:49.440 --> 01:09:56.800
+Brücken schlagen zwischen realer Welt und virtueller Welt, glaube ich, wird die Klimafrage eine große
+
+01:09:56.800 --> 01:10:02.400
+Rolle spielen, weil dort auch viel mit Rollenspielen experimentiert wurde immer. Für die
+
+01:10:02.400 --> 01:10:09.560
+Kopferhandlungen hat es so Rollenspielartige Vorbereitungen gegeben für Kopferhandler. Die
+
+01:10:09.560 --> 01:10:17.920
+Idee von Rollenspiel hier, was heißt das, wenn ich ein Vertreter, ein Verhandler bin aus einer
+
+01:10:17.920 --> 01:10:26.760
+Region, wo wir sehr stark von Dürren und Fluten und Starkregen ausgesetzt sind und mit einer
+
+01:10:26.760 --> 01:10:33.400
+anderen Nation, einer hochindustriellen Nation, in Verhandlungen treten muss. Also dort werden
+
+01:10:33.400 --> 01:10:38.040
+quasi diese Spiele, das sind strategische Spiele, die werden durchgespielt. Das muss ja jetzt nicht
+
+01:10:38.040 --> 01:10:43.240
+unbedingt ein Computerspiel sein. Ein Computerspiel eröffnet natürlich mehr Möglichkeiten, aber
+
+01:10:43.240 --> 01:10:48.920
+dieses spielerhafte Zugang, dieses Rollenspielhafte kann hier sehr viel weiterhelfen, weil man sich
+
+01:10:48.920 --> 01:10:53.560
+eben in andere Rollen reindenken muss und lernen muss, da was heißt das, wenn ich in einer anderen
+
+01:10:53.560 --> 01:11:00.760
+Rolle drinnen bin. Und dasselbe wird vor allem für die sozial-ökologische Transformation eine
+
+01:11:00.760 --> 01:11:05.040
+große Rolle spielen. Ich hoffe, dass einfach mehr Spiele kommen. Es gibt jetzt für agent-based
+
+01:11:05.040 --> 01:11:13.400
+Modeling auch immer mehr, sag ich jetzt mal, empirische Grundlagen auf Basis von Rollenspielen,
+
+01:11:13.400 --> 01:11:17.680
+die man dann übernimmt in agentbasierte Spiele. Da gibt es auch mehr Abstimmung quasi. Das wäre
+
+01:11:17.680 --> 01:11:22.840
+jetzt mein Input dazu. Ja, ich kann das nur unterstreichen. Ich meine, das ist ja genau
+
+01:11:22.840 --> 01:11:29.080
+der Grund, warum es so was wie Simulationen und Scientific Gaming, Szenarioplanung und ähnliche
+
+01:11:29.080 --> 01:11:36.640
+Verfahren gibt. Das hat ja alles den Grund, dass man in der realen, sogenannten realen Welt versucht,
+
+01:11:36.640 --> 01:11:43.640
+richtig zu handeln. Ja, und vorher sich Gedanken macht in solchen spielerischen experimentellen
+
+01:11:43.640 --> 01:11:50.040
+Settings. Was gäbe es für mögliche Ausgänge? Was könnte wie passieren, damit man besser
+
+01:11:50.240 --> 01:11:55.400
+entscheiden kann? Und gerade in geplanten Ökonomien, glaube ich, wird das eine größere
+
+01:11:55.400 --> 01:12:04.240
+Rolle spielen, weil man dann bestimmte Güterflows und Ressourcenabbau und Energieverbrauche versuchen
+
+01:12:04.240 --> 01:12:11.240
+müssen wird. Wenn man es nicht einfach dem Markt überlässt und sein am Koordination, muss man das
+
+01:12:11.240 --> 01:12:17.480
+ja irgendwie stärker durchrechnen sozusagen oder durchkonzipieren. Und dadurch spielt natürlich,
+
+01:12:17.960 --> 01:12:22.360
+da werden solche Simulationen und Szenarioplanungen, wird gerade in geplanten Ökonomien,
+
+01:12:22.360 --> 01:12:27.120
+glaube ich, eine ganz große Rolle spielen. Und was man sich dann auch noch vorstellen kann,
+
+01:12:27.120 --> 01:12:31.360
+das ist jetzt wieder sehr spekulativ, ist, dass man natürlich, wenn man in solchen
+
+01:12:32.640 --> 01:12:38.440
+transformationskritischen Computerspielwelten bestimmte alternative Szenarien durchgespielt
+
+01:12:38.440 --> 01:12:43.200
+hat, dann kann man natürlich auch versuchen, diese Erkenntnisse lokal und partiell wieder
+
+01:12:43.200 --> 01:12:48.080
+in reale Praktiken zurückzusetzen. Also das wäre natürlich denkbar und vielleicht der
+
+01:12:48.080 --> 01:12:53.680
+notwendige nächste Schritt. Wie das im Einzelnen aussehen kann, finde ich sehr schwierig zu sagen,
+
+01:12:53.680 --> 01:12:57.040
+aber das wäre ein mögliches Ergebnis, dass man sagt, na gut, wir haben jetzt gelernt,
+
+01:12:57.040 --> 01:13:01.720
+dass so und so müssen wir vielleicht mal drangehen und so. Was würde das denn heißen,
+
+01:13:01.720 --> 01:13:06.840
+wenn wir das jetzt vor Ort tatsächlich mal ausprobieren? Also ganz ähnlich wie Simulationen,
+
+01:13:06.840 --> 01:13:10.880
+die im Grunde in vielen Bereichen tatsächlich funktionieren, dass man eben sich vorher überlegt,
+
+01:13:11.360 --> 01:13:15.160
+was gibt es für Möglichkeiten und dann kommt man zum Schluss und dann probiert man es wirklich aus.
+
+01:13:15.160 --> 01:13:19.220
+Es kann immer noch bedeuten, dass das, was man in der Simulation rausbekommen hat, dann beim
+
+01:13:19.220 --> 01:13:26.540
+Transfer in reale Settings nicht funktioniert. Das ist sogar durchaus häufig der Fall. Aber das
+
+01:13:26.540 --> 01:13:31.200
+sagt einem ja dann auch wiederum was darüber, was für Mängel das Modell hat und dass man in
+
+01:13:31.200 --> 01:13:38.360
+diesem iterativen Prozess sozusagen Schritt für Schritt versucht, sich an gangbare Lösungen
+
+01:13:38.360 --> 01:13:43.160
+heranzuarbeiten. Denn irgendwie so muss man es machen. Niemand hat die Patentlösung in der
+
+01:13:43.160 --> 01:13:47.120
+Tasche, niemand will von oben herab als Avantgarde den Leuten sagen, wir machen das jetzt so und so.
+
+01:13:47.120 --> 01:13:52.680
+So kann dieser Prozess ja nur so eine Art Trial, das wird ja auch immer betont, also als Trial
+
+01:13:52.680 --> 01:13:58.480
+and Error funktionieren und da werden solche spielerischen Szenarioplanungen, Simulationen,
+
+01:13:58.480 --> 01:14:05.000
+das wird eine ganz große Rolle spielen. Ja großartig, das finde ich im Sinne eines,
+
+01:14:05.080 --> 01:14:10.120
+ihr nennt das irgendwo Demokratisierung eines Transformationswissens, finde ich das natürlich
+
+01:14:10.120 --> 01:14:15.880
+total unterstützenswürdig, zumal natürlich ja gerade im Rahmen der Debatte um Fragen
+
+01:14:15.880 --> 01:14:21.560
+demokratischer Planung das demokratische entscheidendes Element ist, mit dem es
+
+01:14:21.560 --> 01:14:25.080
+ganz eigentlich steht und fällt. Insofern finde ich es natürlich großartig, wenn man das in
+
+01:14:25.080 --> 01:14:32.840
+so einem kollektiven Experimentieren und Imaginieren sozusagen erproben kann. Insofern freue
+
+01:14:32.840 --> 01:14:40.240
+ich mich schon auf massive Welten des Postkapitalismus im digitalen Raum zunächst
+
+01:14:40.240 --> 01:14:45.960
+ja und dann to be continued und frage euch zum Abschluss noch, wenn ihr euch Zukunft
+
+01:14:45.960 --> 01:14:53.840
+vorstellt, was stimmt euch freudig? Also was mich in Bezug auf die sagen wir mal jetzt nicht
+
+01:14:53.840 --> 01:14:59.240
+privaten Fragen, sondern auf die politisch ökonomischen Situationen der Welt, die ja
+
+01:14:59.240 --> 01:15:04.800
+nicht sehr ermutigend ist, wenn man an die Zukunft denkt, freudig stimmt ist, dass es solche
+
+01:15:04.800 --> 01:15:11.000
+Diskussionen gibt und dass das nicht mehr so isoliert ist, wie es mal war, weil irgendwie
+
+01:15:11.000 --> 01:15:16.560
+muss man neue Wege finden, um mit den Problemen fertig zu werden, Klimawandel natürlich und
+
+01:15:16.560 --> 01:15:21.360
+vieles andere und was mich freudig stimmt ist, dass es mittlerweile wieder eine lebendige
+
+01:15:21.360 --> 01:15:30.440
+Debattenkultur über sowas gibt. Dem schließe ich mich an. Mehr Spiele könnte ich noch dazu sagen,
+
+01:15:30.440 --> 01:15:38.920
+das stimmt mich auch positiv. Das Spiel erlaubt durchaus neue Erfahrungen zu gewinnen, das kann
+
+01:15:38.920 --> 01:15:45.920
+schon Sinn machen. Wunderbar. Manuel, Jens, vielen Dank für das Gespräch. Vielen Dank. Ja, danke dir.
+
+01:15:51.680 --> 01:15:57.600
+Das war Future Histories für heute. Vielen Dank fürs Zuhören. Shownotizen und vieles mehr
+
+01:15:57.600 --> 01:16:04.000
+findet ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag
+
+01:16:04.000 --> 01:16:09.520
+Future Histories oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen großen
+
+01:16:09.520 --> 01:16:15.920
+Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den
+
+01:16:15.920 --> 01:16:21.880
+Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet. Schreibt mir gerne
+
+01:16:21.880 --> 01:16:28.280
+unter jan at futurehistories.today. Ich freue mich immer sehr über interessante Rückmeldungen und
+
+01:16:28.280 --> 01:16:34.120
+Hinweise. Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf patreon.com
+
+01:16:34.120 --> 01:16:40.400
+schrägstrich Future Histories oder auch via Spende auf unserer Homepage. Future Histories
+
+01:16:40.400 --> 01:16:48.720
+ist eine Produktion von MetaLapsis. Zu finden auf meta lapsis.net. Bis zum nächsten Mal. Ich freue mich.
+
