@@ -35,6 +35,7 @@ I rarely listen to all episodes of a podcast. If you request a podcast that is l
 - [Raetsel des Unbewussten](https://psy-cast.org/de/)
 - [Disintegrator](https://podcasts.apple.com/us/podcast/disintegrator/id1716416573)
 - [Antikythera](https://antikythera.org)
+- [Uebertage](https://www.youtube.com/channel/UCqPcGPe_6kA4nBWO25ORoyA)
 
 ## Obsidian and Audio Notes
 
