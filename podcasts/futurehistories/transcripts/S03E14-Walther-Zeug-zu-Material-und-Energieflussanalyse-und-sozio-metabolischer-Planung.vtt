@@ -1,0 +1,2732 @@
+WEBVTT
+
+00:00.000 --> 00:05.960
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:05.960 --> 00:11.280
+Mein Name ist Jan Groß und ich freue mich sehr, heute Walter Zeug begrüßen zu dürfen.
+
+00:11.280 --> 00:15.840
+Walter forscht am Helmholtz-Zentrum für Umweltforschung in Leipzig
+
+00:15.840 --> 00:23.080
+und hat eine Methode zur ganzheitlichen und integrierten Lebenszyklus-Analyse und Nachhaltigkeitsbewertung entwickelt.
+
+00:23.080 --> 00:29.920
+Und ich hatte ja bereits in mehreren vergangenen Folgen angeteasert, dass Walter hierzu zu Gast sein wird.
+
+00:30.080 --> 00:39.440
+Nun ist es also soweit und Walter und ich, wir sind tief eingetaucht in die Möglichkeiten und Grenzen einer solchen Energie- und Materialflussanalyse
+
+00:39.440 --> 00:43.920
+und was sie für Formen der sozio-metabolischen Planung leisten kann.
+
+00:43.920 --> 00:51.120
+Wir haben insgesamt, glaube ich, vier Stunden gesprochen, sodass ich das Gespräch auch über zwei Folgen verteilt veröffentlichen werde.
+
+00:51.120 --> 00:56.440
+Im heutigen ersten Teil, da gehen wir vor allem auf die von Walter entwickelte Methode ein
+
+00:56.440 --> 01:02.160
+und wie damit eine wichtige Informationsgrundlage für gesellschaftliche Planung erschaffen werden kann.
+
+01:02.160 --> 01:06.160
+Im zweiten Teil des Gesprächs, da widmen wir uns dann einem Paper,
+
+01:06.160 --> 01:14.440
+das Walter gemeinsam mit Jakob Heyer für die aktuelle Ausgabe der ProCLA, der Zeitschrift für kritische Sozialwissenschaft verfasst hat.
+
+01:14.440 --> 01:16.520
+Und das Paper, das trägt den Titel
+
+01:16.520 --> 01:26.280
+Ökobilanz und kubernetesche Wirtschaftsplanung, demokratisch geplante Wirtschaft zur Befriedigung gesellschaftlicher Bedürfnisse in planetaren Grenzen.
+
+01:26.280 --> 01:30.160
+Und in dem Paper, da führen Walter und Jakob erste Überlegungen dazu aus,
+
+01:30.160 --> 01:37.000
+wie Material- und Energieflussanalyse eben für demokratische Planung fruchtbar gemacht und genutzt werden kann.
+
+01:37.000 --> 01:43.440
+An dieser Stelle, da sei erwähnt, dass es zwei wirklich ausgezeichnete Future Histories Episoden mit Jakob gibt,
+
+01:43.440 --> 01:46.960
+zu Grundproblemen einer postkapitalistischen Produktionsweise.
+
+01:46.960 --> 01:49.480
+Ihr findet die Links in den Show Notes.
+
+01:49.480 --> 01:55.560
+Und was ihr ebenfalls in den Show Notes findet, ist ein Link zur gesamten Ausgabe der aktuellen ProCLA,
+
+01:55.560 --> 01:58.440
+die ich euch ganz unbedingt ans Herz legen möchte,
+
+01:58.440 --> 02:04.160
+denn sie widmet sich als Themenschwerpunkt diesmal der demokratischen Planung mit wirklich tollen Beiträgen von
+
+02:04.160 --> 02:12.720
+Robert Bärfelde und Jakob Blumenfeld, von Christoph Sorg, Simon Sütterlity, Max Grunberg, Samuel Decker und vielen mehr.
+
+02:12.720 --> 02:17.440
+Also großen Shout-out an alle Beteiligten und an alle HörerInnen gerichtet.
+
+02:17.440 --> 02:19.640
+Besorgt euch die ProCLA.
+
+02:19.640 --> 02:25.400
+Und jetzt viel Freude mit der heutigen Folge Future Histories mit Walter Zeug
+
+02:25.400 --> 02:30.760
+zu Material- und Energieflussanalyse und sozio-metabolischer Planung.
+
+02:37.040 --> 02:39.320
+Herzlich willkommen, Walter.
+
+02:39.320 --> 02:41.000
+Hallo Jan, freu mich auch sehr.
+
+02:41.000 --> 02:45.480
+Und das schon eine ganze Weile, seitdem wir uns auch mal live gesehen haben in Berlin.
+
+02:45.480 --> 02:49.840
+Ja, also ich muss sagen, ich habe ja damals eben in Berlin auch deinen Vortag gesehen
+
+02:49.840 --> 02:55.120
+und es war sofort so im Raum auch so ein ganz interessanter Moment, muss man sagen,
+
+02:55.120 --> 02:58.480
+wo die Leute also wie so erst mal das verarbeiten mussten,
+
+02:58.480 --> 03:02.280
+was sie da gerade von dir präsentiert bekommen und welches Potenzial da drinsteckt.
+
+03:02.280 --> 03:05.280
+Insofern freue ich mich auch total, dass wir das jetzt machen.
+
+03:05.280 --> 03:08.200
+Vielleicht erst mal, du arbeitest wirklich so unglaublich interdisziplinär.
+
+03:08.200 --> 03:11.680
+Ja, deswegen habe ich jetzt auch gar nicht so viel jetzt da vorausgeschickt
+
+03:11.680 --> 03:13.040
+in Bezug auf Vorstellung.
+
+03:13.040 --> 03:15.480
+Vielleicht magst du das selbst mal machen und dich einordnen.
+
+03:15.480 --> 03:18.680
+Was machst du? Wie definierst du das?
+
+03:18.680 --> 03:21.000
+Vielleicht kannst du dich einfach mal kurz vorstellen.
+
+03:21.000 --> 03:25.320
+Also es ist tatsächlich gar nicht so einfach, das so richtig zu fassen.
+
+03:25.320 --> 03:27.320
+Aber vielleicht fasst man es mit der Geschichte.
+
+03:27.320 --> 03:33.800
+Also eigentlich bin ich Ingenieur und ich habe eigentlich auch Ingenieurwissenschaften studiert,
+
+03:33.800 --> 03:38.440
+aber war parallel zu diesem Studium und dieser Auseinandersetzung
+
+03:38.440 --> 03:42.520
+damit immer sehr viel politisch und gesellschaftspolitisch aktiv
+
+03:42.520 --> 03:45.880
+und habe darüber viel Soziologie, Sozialwissenschaften,
+
+03:45.880 --> 03:48.720
+vor allem aber politische Ökonomie hier angeeignet
+
+03:48.720 --> 03:52.760
+und das zum Teil dann auch irgendwie in der Uni mituntergebracht
+
+03:52.760 --> 03:58.040
+und gleichzeitig aber auch von Anfang an, mittlerweile seit zwölf Jahren,
+
+03:58.040 --> 04:02.200
+am Helmholtz-Zentrum für Umweltforschung in Leipzig gearbeitet
+
+04:02.200 --> 04:06.880
+und habe dort eigentlich mit der Bachelor- und Masterarbeit schon mich in dieses Thema
+
+04:06.880 --> 04:09.160
+Lifecycle Assessment, Nachhaltigkeitsbewertung,
+
+04:09.160 --> 04:11.480
+aber vor allem die soziale Nachhaltigkeitsbewertung
+
+04:11.480 --> 04:15.200
+und halt eben diese ganzheitliche Nachhaltigkeitsbewertung gegeben.
+
+04:15.200 --> 04:18.720
+Und da gab es dann immer viele Diskussionen, ob man mir da für den Bachelor
+
+04:18.720 --> 04:20.760
+oder Master of Engineering noch verleihen will
+
+04:20.760 --> 04:22.760
+oder ob das eigentlich gar nichts mehr mit damit zu tun hat.
+
+04:22.760 --> 04:27.560
+Also das hat auch nie so richtig reingepasst eigentlich in das Fachhochschulsystem.
+
+04:27.560 --> 04:29.920
+Ich habe an der Fachhochschule studiert,
+
+04:29.960 --> 04:32.000
+aber dieses Studium ist eigentlich gar nicht entscheidend,
+
+04:32.000 --> 04:35.960
+sondern das Entscheidende ist de facto diese, würde ich sagen,
+
+04:35.960 --> 04:40.440
+auch so ein bisschen autodidaktische Auseinandersetzungen mit Geistessozialwissenschaften,
+
+04:40.440 --> 04:43.160
+Technik, Technikkritik, politischer Ökonomie.
+
+04:43.160 --> 04:45.440
+Das, würde ich sagen, ist das Zentrale.
+
+04:45.440 --> 04:49.640
+Und ich verstehe mich heute eigentlich als ein interdisziplinärer Wirtschafts-
+
+04:49.640 --> 04:51.960
+und Nachhaltigkeitswissenschaftler.
+
+04:51.960 --> 04:54.080
+Die Promotion ist im Wirtschaftsingenieurswesen.
+
+04:54.080 --> 04:56.640
+Also man sieht schon, das geht nicht so wirklich auf.
+
+04:56.640 --> 04:58.880
+Aber letztlich ist das, glaube ich, auch gar nicht so wichtig,
+
+04:58.920 --> 05:00.920
+dass das so richtig aufgeht.
+
+05:00.920 --> 05:03.680
+Sondern ich glaube, das, was ich werke, ist es eher,
+
+05:03.680 --> 05:06.080
+dass es in der Praxis dann funktioniert.
+
+05:06.080 --> 05:07.040
+Ja, ich wollte gerade sagen,
+
+05:07.040 --> 05:09.560
+da geht es nämlich dann für dich total gut auf.
+
+05:09.560 --> 05:11.600
+Also das ist ja gerade eigentlich das Schöne daran,
+
+05:11.600 --> 05:15.680
+dass du diese verschiedenen Welten eben dann da so sehr produktiv zueinander führst.
+
+05:15.680 --> 05:20.720
+Und ich hatte deine Arbeit ja auch bereits in der Folge mit Marina Fischer-Kowalski angeteasert.
+
+05:20.720 --> 05:24.560
+Marina ist ja eine Pionierin, kann man sagen, im Bereich der Material-
+
+05:24.560 --> 05:29.840
+und Energieflussanalyse und der Forschung zu Fragen des gesellschaftlichen Stoffwechsels.
+
+05:29.840 --> 05:33.280
+Und auch in der Folge mit dem Kollektiv Planning for Entropy.
+
+05:33.280 --> 05:38.160
+Zu sozio-metabolischer Planung hatte ich deine Arbeit ja auch schon bereits angekündigt.
+
+05:38.160 --> 05:41.000
+Insofern freut es mich jetzt wirklich sehr, dass wir das heute machen.
+
+05:41.000 --> 05:45.200
+Denn ich finde wirklich deine Arbeit, die treibt da so bestimmte Fragestellungen
+
+05:45.200 --> 05:51.400
+in sehr entscheidender Weise weiter, die für sozio-metabolische Planungen unglaublich wichtig sind.
+
+05:51.440 --> 05:57.480
+Also du hast ein Modell zur, ich sag's jetzt mal hier in der Originalphrase quasi,
+
+05:57.480 --> 06:04.320
+du hast ein Modell zur ganzheitlichen und integrierten Lebenszyklusanalyse und Nachhaltigkeitsbewertung entwickelt.
+
+06:04.320 --> 06:08.280
+Und dem wollen wir uns heute auch auf jeden Fall in aller Ausführlichkeit widmen.
+
+06:08.280 --> 06:13.040
+Bevor wir das aber machen und da tiefer eintauchen, glaube ich, müssen wir erst mal noch so ein paar Sachen klären.
+
+06:13.040 --> 06:18.200
+Denn es werden sicher nicht alle Hörerinnen mit dem Konzept der Lebenszyklusanalyse vertraut sein.
+
+06:18.200 --> 06:23.240
+Insofern wäre es, glaube ich, gut, wenn wir da so ein bisschen ein paar Basics klären erst mal.
+
+06:23.240 --> 06:30.720
+Was versteht man klassischerweise unter Lebenszyklusanalyse und Lifecycle Sustainability Assessment?
+
+06:30.720 --> 06:33.480
+Das wäre quasi noch ein bisschen eine erweiterte Form.
+
+06:33.480 --> 06:36.360
+Und wo und wie wird sie eingesetzt?
+
+06:36.360 --> 06:41.920
+Also, dass wir in dem Podcast hier über Lebenszyklusanalyse oder Lifecycle Assessment reden,
+
+06:41.920 --> 06:47.400
+ist auf jeden Fall kein natürlicher Vorgang, der irgendwie selbstverständlich ist.
+
+06:47.400 --> 06:53.160
+Weil diese Methoden eigentlich gar nichts so richtig damit zu tun haben, mit was wir uns hier beschäftigen.
+
+06:53.160 --> 06:55.200
+Und was ja auch meine zentrale Motivation ist.
+
+06:55.200 --> 06:57.160
+Aber das ist vielleicht genau schon der Punkt.
+
+06:57.160 --> 07:03.880
+Meine zentrale Motivation war auch immer über das Bestehende hinaus zu denken, Kapitalismus zu hinterfragen,
+
+07:03.880 --> 07:08.880
+zu gucken, was man halt eben anders machen kann und wie das dann genau auch passieren könnte.
+
+07:08.880 --> 07:17.120
+Und ich habe sozusagen Lifecycle Assessments oder diese Richtung, aus der ich da methodisch genau komme,
+
+07:17.160 --> 07:24.240
+umgedeutet eigentlich auf diese Probleme, mit denen wir uns quasi im Kontext von diesem Podcast auseinandersetzen.
+
+07:24.240 --> 07:28.240
+Also darum mag es einige wundern, dass Lebenszyklusanalysen jetzt hier vorkommen.
+
+07:28.240 --> 07:36.920
+Weil eigentlich sind Lebenszyklusanalysen in den Ende der 80er Jahre, Anfang der 90er Jahre entstanden
+
+07:36.920 --> 07:42.640
+und sind eine klassische Ingenieurwissenschaftliche Methode, in der man letztlich zum Ziel hat,
+
+07:42.640 --> 07:51.600
+systematisch alle potenziellen Umweltauswirkungen von Produkten entlang ihres Lebensweges zu messen,
+
+07:52.080 --> 07:54.280
+zu bilanzieren und zu bewerten.
+
+07:54.280 --> 08:03.120
+Also das heißt, prinzipiell lassen sich ja alle Produktionsprozesse von Produkten in unterschiedliche Prozessketten zerlegen.
+
+08:03.120 --> 08:12.240
+Beispielsweise von der Gewinnung der Rohstoffe über deren Transport und die Weiterverarbeitung bis hin zu einer Endfertigung.
+
+08:12.480 --> 08:19.240
+Dann sozusagen das Eintreten in den Marktprozess, der Verbrauch oder Gebrauch dieser Güter,
+
+08:19.240 --> 08:23.520
+der ja auch unter Umständen mit Umweltauswirkungen einhergehen kann.
+
+08:23.520 --> 08:30.000
+Also beispielsweise das Auto, nachdem produziert wurde, entstehen ja eigentlich erst die meisten Umweltauswirkungen dadurch, dass es fährt.
+
+08:30.000 --> 08:34.640
+Also darum ist sozusagen auch dieser komplette Lebenszyklus nach der Produktion ganz entscheidend.
+
+08:34.640 --> 08:40.880
+Und beim Beispiel jetzt nochmal Elektroauto, um in dem Bild zu bleiben, ist es natürlich noch wichtiger,
+
+08:40.880 --> 08:46.880
+weil wenn die dann entsorgt werden müssen am Ende ihres Lebensweges, dann entstehen natürlich nochmal viel höhere Umweltauswirkungen,
+
+08:47.480 --> 08:56.800
+wenn es darum geht, die Schad- und Umweltgifte de facto fachgerecht zu entsorgen und vielleicht auch Ressourcen rückzugewinnen.
+
+08:56.800 --> 09:07.080
+Also beispielsweise Lithium als knappe und kritische Ressource einer batteriegetriebenen oder batteriebasierten Energieinfrastruktur.
+
+09:07.800 --> 09:14.000
+Also darum setzt man sich de facto mit dem kompletten Lebenszyklus auseinander und probiert den auch so abzubilden.
+
+09:14.000 --> 09:19.920
+Und das kommt tatsächlich eigentlich von dieser produktspezifischen Auseinandersetzung damit.
+
+09:19.920 --> 09:26.360
+Und die ursprüngliche Motivation war es eigentlich wirklich nur, diese Umweltauswirkungen zu bilanzieren,
+
+09:26.360 --> 09:32.240
+aber halt eben nicht nur die Umweltauswirkungen, um jetzt nochmal ein Beispiel zu bleiben des Autos,
+
+09:32.240 --> 09:39.040
+sondern halt eben auch aller Vor- und Nachketten, die für diese Autoproduktion notwendig sind.
+
+09:39.040 --> 09:46.440
+Also es geht halt eben nicht nur um die Fertigung des Autos in der Fabrik, sondern halt eben auch um die Fertigung der Bleche.
+
+09:46.440 --> 09:56.080
+Und für die Fertigung der Bleche braucht man ja Stahl und dieses Stahl muss oder der Stahl muss aus Eisenerz gewonnen werden.
+
+09:56.080 --> 09:59.640
+Für die Fertigung dieser Bleche braucht man aber auch die Maschinen, die die Bleche fertigen.
+
+09:59.680 --> 10:05.200
+Diese Maschinen werden ja auch wieder von Maschinen gefertigt und die Maschinen, die die Maschinen, die die Maschinen fertigen,
+
+10:05.200 --> 10:06.960
+die brauchen wiederum auch Ressourcen.
+
+10:06.960 --> 10:12.200
+Also es geht darum, die komplette Vorkette zu bilanzieren als auch die komplette Nachkette zu bilanzieren.
+
+10:12.200 --> 10:17.120
+Also beispielsweise, wenn diese Maschinen, die die Bleche produzieren, aus denen die Autos bestehen,
+
+10:17.120 --> 10:25.120
+dann wieder entsorgt werden oder die Gebäude abgerissen werden, dann fallen da ja sozusagen auch Abfall und Reststoffe an.
+
+10:25.160 --> 10:31.480
+Und die gilt es ja auch zur Entsorgung und das passiert halt eben auch mit gewissen Umweltauswirkungen.
+
+10:31.480 --> 10:38.960
+Und de facto, was Lebenszyklusanalysen machen, ist eine bestimmte Logik auf all diese Produktionsprozesse anzuwenden,
+
+10:38.960 --> 10:46.440
+nämlich, dass es Prozesse gibt und diese Prozesse haben Inputs und Outputs.
+
+10:46.440 --> 10:54.400
+Also beispielsweise gibt es den Prozess der Autofertigung und die Inputs sind halt eben alle Rohstoffe,
+
+10:54.400 --> 11:00.320
+Halbzeuge, Halbfertigprodukte, die für die Autoproduktion notwendig wären.
+
+11:00.320 --> 11:06.880
+Und der Output ist halt eben ein Auto plus eben alle Rest- und Abfallstoffe und Emissionen.
+
+11:06.880 --> 11:10.600
+Man kann diesen Prozess aber nicht nur auf so einer sehr großen Ebene verstehen,
+
+11:10.600 --> 11:17.640
+also auf so einer sehr hohen Aggregations-Ebene, sondern ein Prozess wäre auch beliebig kleinteiliger darstellbar,
+
+11:17.640 --> 11:20.640
+beispielsweise in der Produktion dieser Bleche.
+
+11:20.640 --> 11:28.680
+Da ist der Inputs halt eben das Stahlblech in einer bestimmten Qualität, in einer bestimmten Güte, in einer bestimmten Stärke.
+
+11:28.680 --> 11:34.520
+Die Inputs sind außerdem die Maschinen, die man dafür braucht und die Outputs ist dann halt eben dieses umgeformte Stahlblech.
+
+11:34.600 --> 11:40.520
+Also Prozesse sind sozusagen auf unterschiedlicher Aggregations-Ebene darstellbar.
+
+11:40.520 --> 11:50.680
+Und wie stark sie aggregiert sind, hängt letztlich immer damit zusammen, inwiefern dieser Prozess eine gewisse Blackbox darstellen soll
+
+11:50.680 --> 11:53.360
+oder inwiefern man ihn näher zerlegen möchte.
+
+11:53.360 --> 11:59.080
+Das kommt einfach auf den Detaillierungsgrad der Betrachtung drauf an.
+
+11:59.120 --> 12:06.960
+Aber was all diesen Prozessen oder unterschiedlichen Aggregations-Ebenen gemeinsam ist, ist, dass es halt eben Prozesse gibt und diese haben Inputs und Outputs.
+
+12:06.960 --> 12:17.160
+Und de facto kann man nahezu alle ökonomischen Aktivitäten, die – und das ist das ganz Entscheidende – in dieser Input-Output-Logik aufgehen,
+
+12:17.160 --> 12:23.440
+in Netzwerke aus Prozessen, die über Flüsse miteinander verschaltet sind,
+
+12:23.440 --> 12:28.600
+also Flüsse, die reingehen, Inputs, und Flüsse, die rausgehen aus so einem Prozess, Outputs.
+
+12:28.600 --> 12:34.880
+Also alle Prozesse, die in so einem Netzwerk verschaltet sind, letztlich über diese Input-Output-Logik verstehen und abbilden.
+
+12:34.880 --> 12:36.280
+Und das macht LCA.
+
+12:36.280 --> 12:43.200
+Also letztlich ist LCA eine Methode, in der eine Input-Output-Balanzierung erfolgt.
+
+12:43.200 --> 12:49.080
+Ähnlich wie wir das auch sehen beispielsweise bei einer volkswirtschaftlichen Input-Output-Balanzierung.
+
+12:49.080 --> 12:54.600
+Dort aber auf einer anderen Ebene – und das ist der entscheidende Unterschied – mit monetären Größen.
+
+12:54.600 --> 12:57.680
+Im LCA wird aber das Stoff nicht konkreter gemessen.
+
+12:57.680 --> 13:03.400
+Also wir haben Inputs, die – wie ich schon meinte – solche Sachen angehen können wie Stahlbleche.
+
+13:03.400 --> 13:12.480
+Es geht aber auch wirklich um die Inputs im Sinne von wir nehmen zwei Kilogramm Luft beispielsweise für einen Verbrennungsprozess.
+
+13:12.480 --> 13:22.520
+Und wir nehmen die Luft nicht nur irgendwoher, sondern wir nehmen die Luft beispielsweise aus einer Umgebung, einer Stadt oder in einem ländlichen Gebiet.
+
+13:22.560 --> 13:29.840
+Oder noch viel wichtiger, wenn Emissionen abgegeben werden, werden diese Emissionen natürlich gemessen als stofflich konkrete Emissionen.
+
+13:29.840 --> 13:33.320
+Beispielsweise als CO2-Equivalent oder als Feinstäube.
+
+13:33.320 --> 13:36.440
+Und diese Feinstäube können ja auch in unterschiedlichen Gebieten abgegeben werden.
+
+13:36.440 --> 13:44.280
+Also beispielsweise macht es einen großen Unterschied, ob ein Feinstaub in der Stadt emittiert wird und dort zu viel mehr Gesundheitsauswirkungen führt,
+
+13:44.280 --> 13:51.440
+als wenn er in der ländlichen Umgebung abgegeben wird, wo gar nicht so viele Menschen betroffen sind und die Konzentration dieser Feinstäube nicht so hoch ist.
+
+13:51.440 --> 13:58.640
+Also das ist sozusagen das Besondere an der Input-Output-Methodik des LCA im Vergleich zur volkswirtschaftlichen Input-Output-Logik,
+
+13:58.640 --> 14:12.800
+dass in der volkswirtschaftlichen Input-Output-Logik mit monetären, allgemein abstrakten Äquivalenten gerechnet wird und dem LCA, soweit es geht, probiert mit dem stofflich und energetisch Konkretens verrechnen.
+
+14:12.800 --> 14:19.840
+Und genau das war eigentlich auch das erste, wo ich diese Methoden das erste Mal gesehen habe, wo ich mir dachte,
+
+14:19.880 --> 14:28.600
+es gibt doch so Debatten um demokratische Wirtschaftsplanung und die sind ja nicht selten daran gescheitert, dass man auch an ganz vielen anderen Herausforderungen gescheitert ist,
+
+14:28.600 --> 14:41.840
+aber dass es vielleicht solche Systeme, so eine stofflich-konkreten, auf Energien- und Materie-basierenden Bilanzierung nicht gab oder halt eben nicht zu einem ausreichenden Maße.
+
+14:41.840 --> 14:53.200
+Also das heißt, wenn man das mit einer gewissen Interesse an solchen Problemstellungen sieht, diese Methodik, wird einem, denke ich, schon relativ schnell bewusst, was das Potenzial davon ist.
+
+14:53.200 --> 15:03.080
+Komischerweise werden glaube ich aber diese Methoden häufig von Leuten angewendet, die sich diese Frage nicht stellen und das ist vielleicht auch der Grund, warum diese Methode sehr, sehr alt ist eigentlich mittlerweile,
+
+15:03.080 --> 15:06.920
+aber wir das erste Mal jetzt vielleicht in so einem Kontext wirklich darüber reden.
+
+15:06.920 --> 15:21.720
+Aber vielleicht nochmal, um nochmal klarzukriegen, wie diese LCAs de facto ablaufen, also es gibt da eine ISO-Norm, eine europäische Norm, das war auch früher mal eine deutsche Norm und die sagt eigentlich letztlich nur,
+
+15:21.720 --> 15:32.800
+das, was eine LCA zu tun hat, ist erstens ein Ziel und ein Untersuchungsrahmen dieser Untersuchung, dieser Bilanzierung zu definieren, also das hieße beispielsweise, was wollen wir untersuchen?
+
+15:32.800 --> 15:43.120
+Die Produktion eines Autos, wo wollen wir das Untersuchung, beispielsweise in einer bestimmten Region und wo wollen wir die Cutoff-Kriterien setzen oder was ist der Bilanzierungsrahmen?
+
+15:43.120 --> 15:44.880
+Also was wollen wir alles mit einbeziehen?
+
+15:44.880 --> 15:49.800
+Da gibt es auch unterschiedliche Methoden, wo man die Systemgrenzen quasi setzt.
+
+15:49.800 --> 16:02.640
+Darauf folgt eine Sachbilanz und diese Sachbilanz ist sozusagen genau das Erstellen dieser Modelle der stofflichen und energetischen Inputs und Outputs, zumindest im klassischen LCA,
+
+16:02.640 --> 16:14.000
+indem man dann diese Netzwerke, diese Produktionsnetzwerke aufbaut, das dann aus einer Kombination von Primär- und Sekundärdaten und am Ende, wenn dieses Modell erstellt ist,
+
+16:14.000 --> 16:24.080
+erfolgt mit sogenannten Lifecycle Impact Assessment Methods die Wirkungsabschätzung und diese Wirkungsabschätzung hat dann zum Ziel alle diese Inputs und Outputs,
+
+16:24.080 --> 16:35.080
+insbesondere aber die Emissionen und die Inputs im Sinne von die Inputs, die aus der Natur kommen, hinsichtlich ihrer Umweltauswirkungen abzuschätzen.
+
+16:35.080 --> 16:48.080
+Also beispielsweise, wie viele CO2-Emissionen zu einem bestimmten Anstieg der CO2-Konzentration in der Atmosphäre führen und das hat ja wiederum vielfältige Effekte,
+
+16:48.080 --> 16:58.080
+beispielsweise auf die menschliche Gesundheit, indem wir wissen, dass wenn sich das Klima erwärmt, so viele, ja da gibt es eine ganz komische Recheneinheit, die dann teilweise verwendet wird,
+
+16:58.080 --> 17:10.080
+wo das sozusagen gerechnet wird in die Lebensjahre, die man ohne gesundheitliche Einschränkungen sozusagen nicht verbringen kann, weil man gesundheitliche Auswirkungen hat.
+
+17:10.080 --> 17:23.080
+Aber wir wissen ja auch, CO2-Emissionen haben Auswirkungen auf Biodiversität und so weiter und so fort, also diese Wirkungsabschätzung einzelner Inputs und Outputs auf eine ganze Reihe von Wirkungskategorien,
+
+17:23.080 --> 17:40.080
+also beispielsweise menschliche Gesundheit, Klima, Biodiversität, etc., das passiert in dieser Wirkungsabschätzung und wenn man die gemacht hat, dann kann man das auswerten und interpretieren, indem man eben diese Ergebnisse darstellt und dann vor allem häufig eine Hotspot-Analyse macht.
+
+17:40.080 --> 17:52.080
+Diese Hotspot-Analyse ist eine klassische Optimierung, also man würde einfach schauen, wo in dieser Prozesskette finden letztlich die meisten Auswirkungen statt und wie können wir die halt eben optimieren und senken,
+
+17:52.080 --> 18:01.080
+indem wir beispielsweise andere Prozesse oder andere Materialien verwenden, das vielleicht so zum generellen, des klassischen LCAs.
+
+18:01.080 --> 18:13.080
+Genau, ich mag vielleicht nur für die Zuhörerinnen und Zuhörer nochmal kurz klären, LCA steht für Life Cycle Analysis, das hatte ich nämlich in meiner Frage gar nicht jetzt so klar gemacht, nur dass man sich nicht wundert, was jetzt diese Abkürzung bedeutet.
+
+18:13.080 --> 18:33.080
+Und dann, also ich finde in dem, weil jetzt sehr der Eingang, wie du auch angefangen hast, war, dass du gesagt hast, ja es ist eigentlich gar nicht so selbstverständlich, dass in so einem Kontext wie Future Histories jetzt eben über Lebenszyklus-Analyse gesprochen wird und ich finde in der Art und Weise, wie du das jetzt erklärt hast,
+
+18:33.080 --> 18:44.080
+erklärt sich bis zum gewissen Grad auch, warum das für bestimmte Akteurinnen, die eben das vielleicht nicht in dem Sinne nutzen wollen, wie du das vorschlägst, warum das für die trotzdem attraktiv ist.
+
+18:44.080 --> 18:54.080
+Weil du hast ja schon angesprochen, es gibt sozusagen so eine Form von Black Boxing und es muss quasi eine Systemgrenze definiert werden, die in die Betrachtung mit eingezogen wird.
+
+18:54.080 --> 19:18.080
+Und das heißt ja auch, dass das eigentlich auf einer bestimmten Ebene auch ein sehr gefälliges Tool sein kann für Formen des Green Washings, wo man dann sagt, okay, ich mach dies und das, also ich mach dieses eine Produkt und in dem ich definiere, wo die Grenze der Betrachtung liegt, kann ich das quasi nach außen hin so darstellen, als wäre das eigentlich eh mehr oder minder unproblematisch.
+
+19:18.080 --> 19:26.080
+Aber in Wirklichkeit ist dieser Eindruck sozusagen nur dadurch erzeugt worden, dass ich halt einfach bestimmte Dinge systematisch aus der Betrachtung dann doch habe ausklammern können.
+
+19:26.080 --> 19:43.080
+Also was weiß ich, dass ich irgendwelche Produkte, die ich mit hinein nehme, darüber keine Daten habe, ob die jetzt eben in einem sozial vernünftigen Kontext produziert worden sind oder ökologisch sinnvoll produziert worden sind und so weiter und so weiter.
+
+19:43.080 --> 19:53.080
+Und dann sag ich sozusagen, okay, diese Elemente, darüber habe ich keine Information, die kann ich nicht in meine Berechnungen mit einbeziehen oder ich sag einfach, das gehört nicht quasi in meine Verantwortung mit hinein.
+
+19:53.080 --> 19:57.080
+Und deswegen fließt es quasi in diese Analyse nicht hinein.
+
+19:57.080 --> 20:03.080
+Das heißt, es gibt eigentlich auch viele Möglichkeiten, dieses Tool der Lifecycle Analysis zu missbrauchen.
+
+20:03.080 --> 20:15.080
+Vielleicht können wir uns das auch noch mal so ein bisschen genauer angucken, denn das ist ja auch so geknüpft eigentlich an überhaupt so ein bisschen eine Form von eben Greenwashing-Bemühungen, kann man sagen.
+
+20:15.080 --> 20:20.080
+Vielfältigste Art, die mit verschiedenen Arten des Label-Links dann auch zu tun haben.
+
+20:20.080 --> 20:30.080
+Und wir können ja vielleicht uns ein paar Sachen davon mal angucken und vielleicht anfangen mit der Nachhaltigkeit, weil die ist natürlich ein Schlagwort, das immer wieder gerne verwendet wird.
+
+20:30.080 --> 20:33.080
+Also von unterschiedlichsten Seiten.
+
+20:33.080 --> 20:41.080
+Und es gilt da aber doch trotzdem noch mal ein bisschen genauer nachzugucken, in welchen Kontexten das vielleicht auch problematisiert gehört.
+
+20:41.080 --> 20:58.080
+Nämlich gerade, wenn man spricht von Form der nachhaltigen Entwicklung, also in dieser Kombination, da ist ja dann eigentlich implizit auch schon gerne mal was mitgeführt, was vielleicht in manchen Ohren dann eher so klingt wie okay, es muss auf jeden Fall eine Form von Wachstum geben.
+
+20:58.080 --> 21:10.080
+Und das soll halt eine Form von Green Capitalism sein, der zwar weiterhin wächst, aber eben nur auf erneuerbaren Energien und und eben Kasselwirtschaft oder sowas basierend.
+
+21:10.080 --> 21:16.080
+Das heißt, da werden dann schon bestimmte Annahmen implizit mit eingeschrieben, aber eigentlich nicht so richtig klar gemacht.
+
+21:16.080 --> 21:18.080
+Vielleicht können wir uns das noch mal kurz anschauen.
+
+21:18.080 --> 21:24.080
+Was bedeutet das, Nachhaltigkeit als Begriff zu verwenden und wo muss man da vielleicht auch aufpassen?
+
+21:24.080 --> 21:32.080
+Also es ist auf jeden Fall richtig, dass man diese Methoden nicht komplett unkritisch sehen sollte, weil sie wären halt eben vor allem betrieblich angewendet.
+
+21:32.080 --> 21:37.080
+Und Betriebe im Kapitalismus haben natürlich auch spezifische Interessen und das sind auch bornierte Interessen.
+
+21:37.080 --> 21:45.080
+Und das sind halt eben nicht die, die die systemische Betrachtung sind, sondern halt eben auf einen spezifischen Nutzen der Verwertung dieser Ergebnisse abzielen.
+
+21:45.080 --> 21:57.080
+Das ist ganz klar. Es gibt zwar gute methodische Rahmenlinien, an denen diese SES durchgeführt werden und damit soll dann auch sichergestellt werden, dass dann doch alle Umweltauswirkungen mit einbezogen werden.
+
+21:57.080 --> 22:04.080
+Das wird vor allem dann über diese Datenbank und Sekundärdaten gemacht, in denen wir später noch mal uns vielleicht genauer angucken wollen.
+
+22:04.080 --> 22:21.080
+Was aber eigentlich das Problem ist, insbesondere wenn man nicht nur klassische SES durchführen will, sondern LCSES, also nicht Life Cycle Assessments nur SES, sondern LCSES, Life Cycle Sustainability Assessment.
+
+22:21.080 --> 22:33.080
+Da geht es darum, das hat man dann irgendwann festgestellt, es gibt ja nicht nur Umweltauswirkungen der Produktion, Überraschungen, sondern es gibt ja tatsächlich auch soziale und ökonomische Auswirkungen von Produktionsweisen.
+
+22:33.080 --> 22:45.080
+Und diesen Prozessen. Und dann hat man gedacht, okay, dann muss man das wirklich so vorstellen. Ingenieure fangen dann an, darüber nachzudenken, was soziale Auswirkungen von Prozessen sind.
+
+22:45.080 --> 22:57.080
+Und das kann gut gehen. Das hat aber auch bestimmte Nachteile, wenn man sich mit all den dahinterliegenden Problemen und was eigentlich sozial, was Natur, was Gesellschaft heißt, nicht auseinandersetzt.
+
+22:57.080 --> 23:07.080
+Und das hat dazu geführt, dass diese LCSES, so wie sie lange gemacht wurden, eigentlich einfach nur eine Kombination von drei unterschiedlichen Methoden waren.
+
+23:07.080 --> 23:19.080
+Also man hat diese klassische Ökobilanzierung, man hat diese Social Life Cycle Assessment, also soziale Nachhaltigkeitsbilanzierung und das Life Cycle Costing.
+
+23:19.080 --> 23:29.080
+Also das ist schon mal der erste Punkt. Ökonomische Bilanzierung ist gleich Life Cycle Costing. Also Ökonomie heißt Betriebswirtschaft.
+
+23:29.080 --> 23:36.080
+Das ist sozusagen vielleicht der erste Punkt, über den man stolpern könnte. Aber dann hat man gesagt, okay, also wir haben diese drei unterschiedlichen Methoden.
+
+23:37.080 --> 23:51.080
+Ja, damit wollen wir uns diese drei unterschiedlichen Bereiche angucken. Und das ist Ökologie oder Environment, Soziales, Society irgendwie, Gesellschaft und dann halt eben Ökonomie.
+
+23:51.080 --> 24:01.080
+Das ist ja Betriebswirtschaft und die haben auch irgendwas miteinander zu tun. Aber was sie eigentlich genau miteinander zu tun haben, das war meines Erachtens sehr lange komplett unterbelichtet.
+
+24:01.080 --> 24:12.080
+Man wusste aber, es gibt da auch Überschneidungen zwischen diesen Bereichen. Also beispielsweise, wenn eine bestimmte Umweltauswirkung wie beim Klimawandel oder wie bei Feinstäuben,
+
+24:12.080 --> 24:19.080
+das ist ja nicht nur eine Auswirkung auf die Umwelt oder die Natur, sondern das hat ja auch was mit den Menschen zu tun, weil die werden dann krank.
+
+24:19.080 --> 24:32.080
+Okay, ist das jetzt ökologisch oder ist das jetzt sozial? Dann kann man sich ja auch fragen, okay, vielleicht verdienen die so und so viel Geld irgendwie in diesem Produktionsprozess, die Arbeiter beispielsweise.
+
+24:32.080 --> 24:39.080
+Ist das jetzt dieses Einkommen, was sie da haben? Ist das jetzt was Soziales oder ist das was Ökonomisches? Schwierig.
+
+24:39.080 --> 24:50.080
+Schwierig. Also diese Problematik war ganz lange, dass man eigentlich drei unterschiedliche Methoden genommen hat, nämlich dieses Social Ecological and Economic Lifecycle Assessment,
+
+24:50.080 --> 25:02.080
+die parallel durchgeführt hat, unabhängig voneinander mit unterschiedlichen Daten, mit unterschiedlichen Methoden und dann am Ende drei unterschiedliche Ergebnisse bekommen hat für all diese Bereiche
+
+25:02.080 --> 25:16.080
+und dann diese Ergebnisse irgendwie kombinieren musste. Und dieses irgendwie kann dann durch solche MCDA-Methoden passieren, Multi-Criteria Decision Analysis, also eine multikriterielle, ich sage jetzt mal ein bisschen polemisch,
+
+25:16.080 --> 25:26.080
+Zusammenwürfelung der Ergebnisse mit Gewichtung etc., pp. Aber das eigentliche Problem, was dahinter steht, ist nicht unbedingt, dass Ingenieure jetzt so blöd gewesen wären,
+
+25:26.080 --> 25:41.080
+für sich über soziale Sachen Gedanken zu machen, sondern dass häufig der Point of Departure, also wo man angefangen hat, über diese Interaktionen von sozialen, ökologischen und ökonomischen nachzudenken,
+
+25:41.080 --> 25:53.080
+dieser Free-Pillar Approach war, also diese drei Säulen der Nachhaltigkeit, die seit mindestens 20 Jahren aus den kritischen Sozialwissenschaften und Systemwissenschaften kritisiert werden dafür,
+
+25:53.080 --> 26:02.080
+dass es einfach reduktionistisch und vor allem sehr mechanistisches Verständnis dieser drei Säulen ist, auf denen dann sozusagen dieses Dach der Nachhaltigkeit beruhen würde.
+
+26:02.080 --> 26:15.080
+So ungefähr kann man sich auch dieses Bild vorstellen, in dem das kommuniziert wurde. Und letztlich ist das große Problem, dass wenn man das tut und wenn man das so begreift,
+
+26:15.080 --> 26:28.080
+dass man einem sehr alten Hochschluss auf die Schippe geht, nämlich Natur, Gesellschaft und Ökonomie als drei voneinander irgendwie unterschiedliche Sphären, Entitäten zu begreifen,
+
+26:28.080 --> 26:39.080
+die doch irgendwie was miteinander zu tun haben, aber was sie eigentlich genau miteinander zu tun haben, nicht wirklich verstehen kann oder verstehen will.
+
+26:39.080 --> 26:48.080
+Und das findet Ausdruck in dem, was du angesprochen hast, nämlich in dieser Differenzierung von Nachhaltigkeit und nachhaltiger Entwicklung.
+
+26:48.080 --> 26:59.080
+Also diese Begriffe von Nachhaltigkeit und nachhaltiger Entwicklung werden heute synonym gebraucht und ja auch völlig inflationär gebraucht von NGOs über Politik bis Wirtschaft und Zivilgesellschaft.
+
+26:59.080 --> 27:07.080
+Die Gesellschaft, was die aber meinen, ist häufig sehr unklar. Also es sind heute eher gefühlte Begriffe. Es sind vor allem aber Narrative eigentlich.
+
+27:07.080 --> 27:12.080
+Es sind Narrative und auch bestimmte Visionen, um die sich dann alles Mögliche probieren kann.
+
+27:12.080 --> 27:24.080
+Wenn man sich diese Begriffe aber genauer anguckt, dann kann man nachvollziehen, dass Nachhaltigkeit eher dafür steht für ein Konzept, wo sich die Gesellschaft der Natur unterzuordnen hätte.
+
+27:24.080 --> 27:35.080
+Und dieses Unterordnen der Gesellschaft unter die Natur und diese Natur dann auch einen gewissen Eigenwert hat, das nannte sich lange Konzepte von Ökozentrismus.
+
+27:35.080 --> 27:43.080
+Also die Ökologie steht im Mittelpunkt und wir Menschen sind Teil dieses ökologischen Systems, eigentlich ja auch nur Tiere.
+
+27:43.080 --> 27:51.080
+Und wir haben uns dem sozusagen unterzuordnen. Und weil das halt eben ganz besonders nachhaltig wäre, hat man das im Diskurs Starke Nachhaltigkeit genannt.
+
+27:51.080 --> 27:58.080
+Nachhaltige Entwicklung hingegen, das steht aber eigentlich eher für eine Gesellschaft, die sich der Natur bedient.
+
+27:58.080 --> 28:06.080
+Also irgendwie ist die Gesellschaft zwar abhängig von der Natur, aber dann doch ihr äußerlich.
+
+28:06.080 --> 28:12.080
+Und die Gesellschaft kann und sollte sich auch der Natur bedienen, weil die Natur vor allem den ökonomischen Wert hat.
+
+28:12.080 --> 28:15.080
+Und wenn sie den ökonomischen Wert nicht hat, dann hat sie gar keinen Wert.
+
+28:16.080 --> 28:24.080
+Und dieses Konzept nennt sich auch Anthropozentrismus, also Anthropo, der Mensch steht im Mittelpunkt und wurde auch als schwache Nachhaltigkeit tituliert.
+
+28:24.080 --> 28:39.080
+Und de facto ist der Free Pillar Approach und diese Konzepte von Nachhaltigkeit und nachhaltiger Entwicklung beides Resultate dieser künstlichen Trennung von Gesellschaft und Natur.
+
+28:39.080 --> 28:44.080
+Und nicht nur das, sondern es geht eigentlich in beiden Konzepten um eine Herrschaftsbeziehung.
+
+28:44.080 --> 28:50.080
+Also es geht um eine Herrschaft von der Natur über den Menschen oder von den Menschen über die Natur.
+
+28:52.080 --> 28:59.080
+Und diese Herrschaftsbeziehung, die wird auch irgendwie als natürlich in Anführungsstrichen gegeben hingenommen.
+
+28:59.080 --> 29:04.080
+Also es sei halt eben so, dass die Natur über den Menschen herrscht oder der Mensch über die Natur herrscht.
+
+29:05.080 --> 29:19.080
+Und diese zwei Konzepte, nachhaltige Entwicklung, Nachhaltigkeit, schwache, starke Nachhaltigkeit, Ökozentrismus, Anthropozentrismus, das ist letztlich eine Abbildung der grundlegenden Frage, ist es Natur versus Mensch?
+
+29:19.080 --> 29:28.080
+Also ist die sozial-ökologische Krise, ist das so was wie Gesellschaft gegen Natur so eine Art, weiß nicht, überhistorischer Antagonismus?
+
+29:29.080 --> 29:42.080
+Genau, das muss man, glaube ich, grundlegend hinterfragen. Und das machen letztlich die Konzepte der gesellschaftlichen Naturverhältnisse, in dem man sich halt eben fragt, was heißt denn Gesellschaft und Natur überhaupt?
+
+29:42.080 --> 29:54.080
+Also Gesellschaft und Natur muss man prinzipiell erstmal begreifen als zwei Entitäten, die nur im Bezug aufeinander überhaupt Sinn machen.
+
+29:54.080 --> 30:05.080
+Also nur wenn man benennen kann, was Gesellschaft ist, also beispielsweise Kultur, Technik, etc., pp., nur wenn man benennen kann, was Gesellschaft ist, kann man überhaupt sagen, was Natur ist.
+
+30:05.080 --> 30:11.080
+Weil die Natur, beispielsweise der Baum selbst, der kann sich ja gar nicht als Natur begreifen.
+
+30:11.080 --> 30:19.080
+Also es gibt Natur und Gesellschaft nur in Trennung und vor allem aber im gegenseitigen Bezug zueinander.
+
+30:19.080 --> 30:26.080
+Also streng genommen gibt es keine Gesellschaft ohne Natur und vor allem aber auch keine Natur ohne Gesellschaft.
+
+30:26.080 --> 30:34.080
+Und das ist vielleicht auch ein gutes Argument, beispielsweise gegen so eine bestimmte Strömung zu argumentieren im Ökozentrismus,
+
+30:34.080 --> 30:44.080
+dass man die Natur als solche, die ursprüngliche Natur, die müsste man jetzt in irgendeiner Form wieder herstellen oder wieder erlangen, restaurieren.
+
+30:44.080 --> 30:54.080
+Und es gäbe es sozusagen diese unberührte Natur, die gibt es aber sowieso nicht, also schon lange nicht mehr, weil selbst durch den Klimawandel ist ja jeder Baum,
+
+30:54.080 --> 31:01.080
+den noch nie ein Mensch gesehen hat, in der Tiefe des Regenwaldes schon allein über die Klimaerwärmung sozusagen durch den Mensch beeinflusst.
+
+31:01.080 --> 31:10.080
+Aber wenn man diese Konzepte von Gesellschaft und Natur im gegenseitigen Bezug wirklich streng oder ernst nimmt, zeigt sich ja vor allem,
+
+31:10.080 --> 31:18.080
+dass es diese unberührte Natur oder die Natur selbst auch nie gegeben hat, weil es ja immer die Gesellschaft braucht, die sagen kann,
+
+31:18.080 --> 31:23.080
+dass es Natur und dass es Gesellschaft und selbst diese Trennung halt eben nicht trennscharf ist.
+
+31:23.080 --> 31:32.080
+Um das also wirklich zu verstehen, was eigentlich Gesellschaft und Natur bedeutet, bringt es gar nicht so viel, sich Gesellschaft und Natur selbst anzugucken,
+
+31:32.080 --> 31:35.080
+sondern die Verhältnisse, in denen sie zueinander stehen.
+
+31:35.080 --> 31:43.080
+Und darum sprechen wir auch von den gesellschaftlichen Naturverhältnissen, was auch ein Konzept aus der sozialen Ökologie, also aus der Sozialphilosophie ist.
+
+31:43.080 --> 31:50.080
+Und das bildet eigentlich die Grundlage, also dieses integrierte Verständnis davon, dieses ganzheitliche Verständnis davon,
+
+31:50.080 --> 32:03.080
+dass wir eigentlich uns die Verhältnisse anschauen müssen, um diese Verkürzung und diese Mechanisierung und diese Reduktion von Free-Pillar-Approach Gesellschaft, Natur, Ökonomie zu überwinden.
+
+32:03.080 --> 32:09.080
+Das ist sehr schön. Gibt es da vielleicht, weil du hattest jetzt angesprochen, dass die anderen beiden von dir skizzierten Zugänge,
+
+32:09.080 --> 32:18.080
+du eigentlich als Herrschaftsbeziehungen deuten würdest, also auf eine Art sich spiegelnd quasi in der Art und Weise, wie sie das angehen,
+
+32:18.080 --> 32:24.080
+könntest du vielleicht für diesen Zugang der gesellschaftlichen Naturverhältnisse,
+
+32:24.080 --> 32:32.080
+bei dem sich eben sowohl Gesellschaft als auch Natur gegenseitig mit hervorbringen und es eben dann auf die Bezugsverhältnisse zu schauen gilt,
+
+32:32.080 --> 32:40.080
+gibt es da auch vielleicht Prinzipien, auf die du verweisen kannst, die sich zeigen, wenn man das aus dieser Perspektivierung heraus betrachtet?
+
+32:40.080 --> 32:52.080
+Also gibt es Prinzipien, wie diese Bezugnahme, diese Beziehungsweise, könnte man ja vielleicht sagen, wie die gestaltet werden sollte, wenn das der Zugang ist?
+
+32:52.080 --> 32:57.080
+Also wenn man sich anschaut aus einer Perspektive der gesellschaftlichen Naturverhältnisse?
+
+32:57.080 --> 33:06.080
+Ich würde es vielleicht noch mal deutlicher machen an dem Problem des Themas, über das wir ja auch noch reden wollen, der Bioökonomie.
+
+33:06.080 --> 33:13.080
+In dieser Bioökonomie gab es lange die Diskussion Tank versus Teller, wer sich daran noch erinnert.
+
+33:13.080 --> 33:22.080
+Da ging es darum, ob man Biokraftstoffe produzieren sollte und ob man Kraftstoffe überhaupt aus Nahrungsmitteln produzieren sollte.
+
+33:23.080 --> 33:27.080
+Und das wurde als eine Art ethische Frage begriffen, Tank versus Teller.
+
+33:27.080 --> 33:38.080
+Also soll man das jetzt, ist es ethisch vertretbar sozusagen, damit mit einem Auto rumzufahren oder sollte man nicht erst mal lieber probieren, alles abzubekommen?
+
+33:38.080 --> 33:48.080
+Und allein schon diese ethische Debatte darum, was jetzt sozusagen vielleicht auch moralisch in irgendeiner Form sinnvoller ist, das würde ich sagen,
+
+33:48.080 --> 33:51.080
+ist schon Ausdruck unverstandener gesellschaftlicher Naturverhältnisse.
+
+33:51.080 --> 34:01.080
+Weil das, was gesellschaftliche Naturverhältnisse ja im Kern ausmacht, ist der Stoffwechsel von Gesellschaft und Natur.
+
+34:01.080 --> 34:06.080
+Oder zwischen diesen zwei Sphären, wenn man das so ein bisschen noch mal so aufmachen will.
+
+34:06.080 --> 34:13.080
+Also es geht um diesen Stoffwechsel. Und diese Stoffwechsel, das ist ja das letztlich Entscheidende.
+
+34:13.080 --> 34:22.080
+Vor allem dann, wenn die gesellschaftlichen Naturverhältnisse, wie das aktuell der Fall ist, durch einen ökonomischen Stoffwechsel geprägt sind.
+
+34:22.080 --> 34:33.080
+Und in diesem ökonomischen Stoffwechsel, der im Kapitalismus mehr oder weniger unsere gesellschaftlichen Naturverhältnisse dominiert, geht es ja vor allem eben um die Nutzbarmachung davon.
+
+34:33.080 --> 34:45.080
+Und es ist uns eben nicht mehr erlaubt, über den Baum nachzudenken in der Form, dass er schön ist oder über die Biene in einer, ich sag mal, abstrakteren, auch romantischeren Form.
+
+34:45.080 --> 34:50.080
+Sondern es geht vor allem häufig darum, diese Natur in Wert setzen zu können.
+
+34:50.080 --> 34:53.080
+Also das heißt, monetarisieren, quantifizieren zu können.
+
+34:53.080 --> 35:01.080
+Wie viel Ökosystemdienstleistung, um diesen Begriff nochmal aufzunehmen, der häufig dafür in Stellung gebracht wird.
+
+35:01.080 --> 35:14.080
+Wie viel Ökosystemdienstleistung kann dieser Baum oder diese Biene im Sinne der Biodiversität, im Sinne der CO2-Speicherung oder so für uns Menschen sozusagen beitragen?
+
+35:14.080 --> 35:25.080
+Da zeigt sich schon, wie diese Herrschaftsfunktion auf solche natürlichen Entitäten oder auf die Natur geprägt wird.
+
+35:25.080 --> 35:32.080
+Vor allem ist es ja aber so, dass die Metabolismen, also diese Stoffwechsel, gesellschaftlich spezifisch sind.
+
+35:32.080 --> 35:36.080
+Also sie sind historisch und gesellschaftlich spezifisch.
+
+35:36.080 --> 35:42.080
+Und aktuell stecken wir in den Metabolismus, der sich Kapitalismus nennt.
+
+35:42.080 --> 35:58.080
+Kapitalismus würde erstmal heißen, dass wir, wenn wir das VWL-Lehrbuch Seite 1 aufschlagen, dann stellen wir fest, dass Ökonomien definiert werden als zeitliche und geographisch unterschiedliche soziale Systeme,
+
+35:58.080 --> 36:06.080
+die mittels natürlicher Ressourcen, Technologien und Arbeit bestimmte Bedürfnisse oder bestimmte Zwecke befriedigen.
+
+36:06.080 --> 36:09.080
+Das ist sozusagen die Lehrbuchdefinition.
+
+36:09.080 --> 36:14.080
+Tatsächlich ist es aber so, dass im Kapitalismus dieses Mittelszweckverhältnis ja umgedreht ist.
+
+36:14.080 --> 36:19.080
+Also das heißt, man könnte zugespitzt sagen, dass es im Kapitalismus eigentlich darum geht,
+
+36:19.080 --> 36:26.080
+einen ganz anderen Zweck, nämlich den der Kapitalkommutation und sozusagen den des Profits, zu befriedigen.
+
+36:26.080 --> 36:36.080
+Also das ist der eigentliche Zweck, den zu befriedigen über die Mittel gesellschaftlicher Bedürfnisse, Technologie, Arbeit und Ressourcen.
+
+36:36.080 --> 36:44.080
+Also da zeigt sich schon sozusagen das erste Herrschaftsverhältnis, was in die gesellschaftlichen Naturverhältnisse im Kapitalismus eingeschrieben ist,
+
+36:44.080 --> 36:49.080
+nämlich halt eben die Herrschaft des Tauschwerts über den Gebrauchswert.
+
+36:49.080 --> 36:57.080
+Und ich glaube, das muss man halt eben grundlegend verstehen, um diese Tank-Teller-Debatte letztlich auch nicht moralisch und ethisch zu deuten,
+
+36:57.080 --> 37:00.080
+sondern ökonomisch, materialistisch deuten zu können.
+
+37:00.080 --> 37:11.080
+Nämlich, dass es im Kapitalismus ja gar keine ethische oder moralische Frage ist, ob man bestimmte Ressourcen in den Tank oder in den Teller kuscht,
+
+37:11.080 --> 37:16.080
+sondern es ist ja eine Frage des Tauschwerts, also es ist eine Frage des Profits.
+
+37:16.080 --> 37:22.080
+Wenn man ein Kilogramm Mais hat, dann kann man dieses ein Kilogramm Mais entweder halt eben zu Biografstoffen machen
+
+37:22.080 --> 37:25.080
+oder man kann es halt eben nehmen, um Menschen damit zu ernähren.
+
+37:25.080 --> 37:35.080
+Und das ein Kilogramm Mais wird genau dann in den Tank gehen, wenn jemand beispielsweise in Europa bereit ist, für einen Liter Biografstoff einen Euro zu bezahlen.
+
+37:35.080 --> 37:45.080
+Und wenn jemand irgendwo anders aber für dieses eine Kilo Mais zum Befriedigen seiner gesellschaftlichen Bedürfnisse nach Nahrung nur bereit ist, 70 Cent zu bezahlen,
+
+37:45.080 --> 37:51.080
+dann wird dieser Mensch verhungern und aber aus diesem ein Kilogramm Mais die Biografstoffe hergestellt.
+
+37:51.080 --> 38:03.080
+Also es ist keine moralische oder ethische Entscheidung, die da stattfindet, sondern es ist eine rein ökonomische Entscheidung vor dem bonierten Zweck der Akkumulation und des Profits.
+
+38:03.080 --> 38:10.080
+Und das wird, glaube ich, häufig verkannt, vielleicht auch idealisiert, dass es sozusagen irgendwelche gesellschaftlichen Kräfte gäbe,
+
+38:10.080 --> 38:18.080
+die diese moralische oder ethische Entscheidung treffen würden, wobei es eigentlich tatsächlich sozusagen die gesellschaftlichen Verhältnisse sind,
+
+38:18.080 --> 38:30.080
+die hinter den Gesellschaften oder die die gesellschaftlichen Naturverhältnisse prägen, eben in der Form, dass alles sozusagen der Kapitalokumulation und der Tauschwertproduktion untergeordnet ist.
+
+38:30.080 --> 38:41.080
+Und könntest du das jetzt noch rückbinden an diese Frage der Bioökonomie? Weil das ist ja auch, das hatten wir ja schon bei der Frage der Nachhaltigkeit mitunter eine Labelfrage, oder?
+
+38:41.080 --> 38:47.080
+Also es gibt unterschiedliche Deutungen davon, was Bioökonomie denn sein kann.
+
+38:47.080 --> 38:53.080
+Und es gibt quasi eine, die eigentlich kompatibel ist mit Ideologien des grünen Kapitalismus.
+
+38:53.080 --> 39:00.080
+Und es gibt aber auch eine Deutung von, was Bioökonomie eigentlich bedeutet im Sinne einer sozialökologischen Transformation.
+
+39:00.080 --> 39:08.080
+Und ich glaube, eine, vielleicht kann ich das damit verbinden, das muss ich mal schauen, ob es sich ausgeht, wie man hier in Österreich so schön sagt.
+
+39:08.080 --> 39:16.080
+Ich glaube, eine damit einhergehende Frage wäre noch in dem, was du jetzt beschrieben hast.
+
+39:16.080 --> 39:28.080
+Daran anschließen stellt sich ja ein bisschen auch die Frage, oder zumindest habe ich es so verstanden, dass es eben ja nicht nur darum geht, quasi den Zweck zu ändern.
+
+39:28.080 --> 39:35.080
+Also dass man sagt, okay, wir wollen jetzt nicht mehr, dass der Zweck einfach nur die Verwertung des Werts ist und sozusagen die Kapitalokumulation,
+
+39:35.080 --> 39:44.080
+sondern wir wollen, dass der Zweck die tatsächliche Befriedigung von Bedürfnissen ist für alle, möglichst, so gut es nur geht.
+
+39:44.080 --> 39:51.080
+Das wäre quasi ein Austauschen des Ziels sozusagen, des Zwecks, auf das man hinarbeitet.
+
+39:51.080 --> 40:00.080
+Aber zumindest hatte ich es so verstanden, als ob die Frage, wie gesellschaftliche Naturverhältnisse gestaltet sind
+
+40:00.080 --> 40:11.080
+und gerade der Verweis darauf, dass es eben um Bezugsverhältnisse, um Beziehungsweisen geht, dass das eigentlich ja auf eine Ebene hindeutet, die viel tiefer reicht als nur das.
+
+40:11.080 --> 40:24.080
+Nämlich auch eben auf die Frage, ob es nicht insgesamt viel weiterreichen muss, als zu sagen, wir entfernen uns zum Beispiel von einer monetären Quantifizierung
+
+40:24.080 --> 40:33.080
+und gehen auf eine stofflich-materielle Form der Quantifizierung, weil ja grundlegend man dann eigentlich als Argument auch sagen könnte,
+
+40:33.080 --> 40:41.080
+hm, gut, dann habe ich vielleicht eine umfassende stofflich-materielle Form der Rechnung.
+
+40:41.080 --> 40:51.080
+Aber ich bewege mich eigentlich in Bezug, in Hinsicht auf die Bezugnahme immer noch in einem, in einer bestimmten Formatierung des Bezugsverhältnisses,
+
+40:51.080 --> 40:59.080
+das deswegen noch nicht zwingend anders ist, als das monetäre Bezugsverhältnis. Ich weiß nicht, ob das nachvollziehbar ist, was ich meine.
+
+40:59.080 --> 41:06.080
+Ich will vielleicht erst mal kurz bei diesem Bioökonomie-Begriff nochmal weitermachen.
+
+41:06.080 --> 41:21.080
+Also diese Bioökonomie ist ein Begriff, den gibt es schon relativ lange, der wurde in den 70er Jahren auch um diesen Entropiebegriff herumformiert.
+
+41:22.080 --> 41:33.080
+So richtig ist es aber erst in den letzten 10, 20 Jahren, so ungefähr ab 2008, aufgekommen. Und diese Bioökonomie, da gibt es verschiedene Definitionen davon.
+
+41:33.080 --> 41:40.080
+Letztlich kann man aber sagen, dass Bioökonomie erst mal meint, dass wirtschaften mit nachwachsenden Rohstoffen.
+
+41:41.080 --> 41:54.080
+Also eben nicht mit fossilen Rohstoffen, also fossil nochmal im Sinne von, die kommen meistens ja von unter der Erde und wurden dort sozusagen auch auf biogener Basis erzeugt,
+
+41:54.080 --> 42:03.080
+sind aber halt eben nicht erneuerbar, weil der Dino und der Baum eben unter der Erde liegen, dort einmal sozusagen zur Erdöl zerdrückt wurden unter Hitze.
+
+42:03.080 --> 42:10.080
+Und aber diese Prozesse so langsam sind, dass man nicht von einer Regenerierbarkeit sprechen kann.
+
+42:10.080 --> 42:21.080
+Auch wenn natürlich heute auch immer noch Erdöl entsteht, aber natürlich nie in Quantitäten, die signifikant wären für eine Regeneration vor dem Hintergrund dessen, was wir eigentlich verbrauchen.
+
+42:21.080 --> 42:29.080
+Und dann gibt es natürlich noch mineralische Ressourcen, die nie in irgendeiner Form sozusagen durch biogener oder biologische Prozesse entstanden sind,
+
+42:29.080 --> 42:34.080
+sondern letztlich aus der Geologie und erdgeschichtlich sich halt eben formiert haben.
+
+42:34.080 --> 42:43.080
+Aber die Bioökonomie hat eigentlich zum Sinn und zum Ziel, auf die Ressourcennutzung auf erneuerbare Rohstoffe umzustellen.
+
+42:43.080 --> 42:56.080
+Und das ist genau der Punkt. Es ist halt eben in der, ich sag mal, gängigen strategischen Interpretation der Bioökonomie genau darauf beschränkt.
+
+42:56.080 --> 43:02.080
+Man will die Ressourcennutzung auf erneuerbare, nachwachsende Ressourcen umstellen.
+
+43:02.080 --> 43:13.080
+Das heißt aber nicht zwangsläufig, dass man eine sozial-ökologische Transformation irgendwie damit macht oder dass man überhaupt grundlegend was verändert,
+
+43:13.080 --> 43:23.080
+sondern Bioökonomie kann im einfachsten Fall und so wird es oder wurde es auch lange in der europäischen und deutschen Bioökonomiestrategie formuliert,
+
+43:24.080 --> 43:28.080
+letztlich einfaches Nutzen für ein zusätzliches Wachstum.
+
+43:28.080 --> 43:39.080
+Also es geht gar nicht eigentlich dann gar nicht mehr sogar darum, die fossilen und die mineralischen Ressourcen zu substituieren, also zu ersetzen durch nachwachsende Ressourcen,
+
+43:39.080 --> 43:46.080
+sondern eigentlich will man de facto auch das fossile Wachstum noch ein grünes, nachhaltiges Wachstum draufsatteln.
+
+43:46.080 --> 43:56.080
+Also die Bioökonomie kann verstanden werden und so wurde sie das lange auch einfach als ein zusätzlicher Wachstumsmarkt im Sinne des Green Capitalism,
+
+43:56.080 --> 44:09.080
+der dann aber das Versprechen beinhaltet, dieses zusätzliche Wachstum mit weniger Umweltauswirkung umsetzen zu können, was sich letztlich aber nicht bei Wahrheit hat.
+
+44:09.080 --> 44:23.080
+Weil es geht ja im Kern nicht darum, das zusätzliche Wachstum mit weniger Umweltauswirkung zu erreichen, sondern insgesamt weniger Umweltauswirkungen zu haben.
+
+44:23.080 --> 44:32.080
+Und das wird durch die Bioökonomiestand jetzt eben nicht erreicht, sondern es hat letztlich einfach nur dazu geführt, dass sozusagen noch mehr erneuerbare,
+
+44:32.080 --> 44:43.080
+regenerative Ressourcen in Form von Land-, Forstwirtschaft etc. pp. sozusagen in diese Akkumulationsmaschine eingespeist werden.
+
+44:43.080 --> 44:52.080
+Und das ist genau die Konsequenz, wenn man beispielsweise Bioökonomie nicht als Gegenstand einer sozialökologischen Transformation versteht.
+
+44:52.080 --> 45:06.080
+Also es geht nicht eigentlich um das Ersetzen von fossilen Ressourcen, sondern es sollte uns eigentlich darum gehen, sozialökologische Transformationen anzustreben, von der Bioökonomie dann ein Teil ist.
+
+45:06.080 --> 45:15.080
+Weil stellen wir uns sozusagen eine utopische, befreite Gesellschaft vor, auf welcher Ressourcenbasis als auf nachwachsende Ressourcen soll die denn wirtschaften?
+
+45:16.080 --> 45:25.080
+Natürlich müssen das nachwachsende Ressourcen sein, weil fossile Energien und fossile Ressourcen eben nicht nachhaltig sind, egal in welchem Gesellschaftssystem.
+
+45:25.080 --> 45:39.080
+Aber man kann sagen, dass die sozialökologische Transformation nicht nur die notwendige, sondern auch die hinreichende Bedingung dafür ist, dass Bioökonomie oder das Wirtschaften mit nachwachsenden Ressourcen tatsächlich auch nachhaltig sein kann.
+
+45:39.080 --> 45:49.080
+Und du hast eigentlich jetzt aufbauend auf diesen Gedanken im Grunde auch ein eigenes formalistisches Modell einer sozialökologischen Transformation dir überlegt.
+
+45:49.080 --> 45:54.080
+Ist das jetzt schon darin enthalten oder geht das noch darüber hinaus?
+
+45:54.080 --> 46:00.080
+Das ist ungefähr das, auf was ich hinaus wollte und wie man sich das vielleicht vorstellen kann.
+
+46:00.080 --> 46:06.080
+Und man fragt sich jetzt vielleicht schon in der ganzen Zeit, was hat das jetzt eigentlich alles mit Lifecycle Assessment zu tun?
+
+46:06.080 --> 46:19.080
+Aber der Punkt ist letztlich, dass all diese Betrachtungen in der klassischen Lifecycle Assessment Diskussion nicht gemacht werden und die halt eben der Grund dafür sind, warum diese Methoden halt eben durchaus beschränkt sein können
+
+46:19.080 --> 46:26.080
+und eben nicht Anwendung finden konnten für solche Themen, über die wir bei Future Histories oder später noch heute reden werden.
+
+46:27.080 --> 46:34.080
+Aber vielleicht nur für diese gesellschaftliche Herausforderung der sozialökologischen Transformation noch mal gesprochen.
+
+46:34.080 --> 46:44.080
+Was wir ja gesehen haben seit den 1950er Jahren ist ein exponentieller Anstieg der Produktion von Waren.
+
+46:44.080 --> 46:50.080
+Und dieser exponentielle Anstieg, der wird gemessen ganz einfach in BIP, im Bruttointerns Brutto.
+
+46:50.080 --> 46:58.080
+Was wir auch gesehen haben, ist ein exponentieller Anstieg der damit verbundenen ökologischen Auswirkungen und der Zursourcenverbrauchs.
+
+46:58.080 --> 47:08.080
+Das heißt, es ist nicht gelungen, Feststellung eins, es ist nicht gelungen, die Produktion von Waren oder letztlich die Produktion von Tauschwert,
+
+47:08.080 --> 47:18.080
+weil BIP ist ja Tauschwert, also den Tauschwert zu entkoppeln von dem steigenden Verbrauch von Ressourcen und damit einer hergehenden Umweltauswirkung.
+
+47:18.080 --> 47:25.080
+Noch viel schlimmer ist aber, dass wir zwar exponentielle Steigerungen in dem Bereich haben, aber nur eine lineare Steigerung,
+
+47:25.080 --> 47:33.080
+dass ich sage mal, gerade der gesellschaftlichen Bedürfnisbefriedigung, gemessen über so Indikatoren wie den Human Development Index,
+
+47:33.080 --> 47:41.080
+also sind Menschen glücklich, satt, haben sie demokratische Gesellschaftssysteme, eine gute Bildung, was ist ihre Lebenserwartung,
+
+47:41.080 --> 47:45.080
+also das, was man jetzt gruppieren könnte unter diesen Begriff gesellschaftliche Bedürfnisse.
+
+47:46.080 --> 47:55.080
+Diese nämlich nur linear gestiegen und das quasi die Warenproduktion exponentiell steigt, aber die Befriedigung gesellschaftlicher Bedürfnisse nur linear
+
+47:55.080 --> 48:00.080
+ist keine Überraschung, sondern halt eben genau Ausdruck dieser Mittel-Zweckvertretung.
+
+48:00.080 --> 48:07.080
+Es geht ja eben nicht im Kapitalismus darum, die gesellschaftlichen Bedürfnisse zu befriedigen, sondern halt eben den Tauschwert exponentiell zu steigern
+
+48:08.080 --> 48:15.080
+und das mit der Auswirkung der sich auch exponentiell steigenden Umweltauswirkungen und Ressourcen für euch.
+
+48:15.080 --> 48:21.080
+Und was es in der sozial-ökologischen Transformation eben ganz formalistisch gesprochen Gänge wäre, natürlich,
+
+48:21.080 --> 48:28.080
+und das haben wir zusammengefasst unter dem Slogan, ein gutes Leben für alle in planetaren Grenzen,
+
+48:28.080 --> 48:35.080
+dass der Zweck der ganzen Veranstaltungen, also der gesellschaftlichen Veranstaltungen, Stoffwechsel, Metabolismus, Produktion,
+
+48:35.080 --> 48:44.080
+eigentlich sein sollte, gesellschaftliche Bedürfnisse zu befriedigen, und zwar global so, dass wir alle ein gutes Leben führen können,
+
+48:44.080 --> 48:51.080
+auch ein sufficientes Leben, könnte man sagen, aber dass das global und vor allem relativ gleich und gerecht stattfindet.
+
+48:51.080 --> 48:58.080
+Also eigentlich würde es darum gehen, in Zukunft die Befriedigung gesellschaftlicher Bedürfnisse exponentiell zu steigern,
+
+48:58.080 --> 49:04.080
+weil das müssten wir ja tun, wenn alle global auch nur ansatzweise ungefähr auf dem Niveau,
+
+49:04.080 --> 49:09.080
+auch wenn es nur das halbe Niveau unseres Niveaus in Europa ist, leben sollen.
+
+49:09.080 --> 49:13.080
+Also es ging um eine exponentielle Steigerung gesellschaftlicher Bedürfnisbefriedigung,
+
+49:13.080 --> 49:22.080
+gleichzeitig aber noch notwendigen Reduktionen der Produktion von, ich sage jetzt mal, Gütern,
+
+49:22.080 --> 49:26.080
+weil es ist ja dann wahrscheinlich kein Kapitalismus mehr, darum sind es keine Waren, sondern Güter,
+
+49:26.080 --> 49:34.080
+also gleichzeitig muss aber die Produktion von Gütern gesenkt werden, weil, obwohl wir immer effizienter,
+
+49:34.080 --> 49:41.080
+effektiver wären in der Produktion dieser Güter, die planetaren Grenzen so stark überschritten sind,
+
+49:41.080 --> 49:51.080
+dass es keine plausible Modellierung, keine plausiblen Theorien darüber gäbe, wie man nicht nur relativ,
+
+49:51.080 --> 49:59.080
+sondern absolut die Produktion von Gütern entkoppeln kann, von ökologischen Auswirkungen und dem Ressourcenverbrauch.
+
+49:59.080 --> 50:06.080
+Also anders gesprochen, wir müssen die Güterproduktion senken, das wird auch wahrscheinlich in 50 oder 100 Jahren der Fall sein,
+
+50:06.080 --> 50:11.080
+dass diese Güterproduktion gesenkt werden muss, um letztlich mit dem Ressourcenverbrauch
+
+50:11.080 --> 50:16.080
+und mit den Umweltauswirkungen unterhalb der planetaren Grenzen zu kommen.
+
+50:16.080 --> 50:22.080
+Das heißt, was es letztlich eigentlich braucht in dieser sozial-ökologischen Transformation,
+
+50:22.080 --> 50:29.080
+ist einerseits die Entkopplung der Befriedigung gesellschaftlicher Bedürfnisse von einer immer steigenden,
+
+50:29.080 --> 50:34.080
+immer mehr steigenden Güterproduktion. Jetzt kann man sich fragen, wie soll das gehen?
+
+50:34.080 --> 50:40.080
+Das hieße ja, mit weniger mehr zu machen, aber ein gutes Beispiel wäre ÖPNV statt Autos.
+
+50:40.080 --> 50:48.080
+Ich glaube, dass wir ÖPNV mit den örtlichen Personen nachverkehrt, der vielleicht am bestenfalls noch kostenlos ist,
+
+50:48.080 --> 50:53.080
+können wir natürlich mit wesentlich weniger Produktion, also beispielsweise eben einer weniger Produktion,
+
+50:53.080 --> 50:57.080
+im Sinne von wir brauchen ja nur noch die Straßenbahnen und die Gleise produzieren
+
+50:57.080 --> 51:00.080
+und aber nicht mehr die ganzen Autos und mit allem, was da dran hängt,
+
+51:00.080 --> 51:06.080
+mit dem können wir mehr gesellschaftliche Bedürfnisse und die auch mit dem gleicheren Zugang befriedigen,
+
+51:06.080 --> 51:13.080
+beispielsweise mit den Autos. Also es ist, obwohl es ein scheinbarer Widerspruch ist, mit weniger sozusagen mehr zu machen,
+
+51:13.080 --> 51:16.080
+ist es aber eine Frage der gesellschaftlichen Verhältnisse, die dahinterstehen.
+
+51:16.080 --> 51:23.080
+Dass es halt eben Autos im Kapitalismus sind, liegt daran, dass Autos eben so unglaublich aufwendig zu produzieren sind,
+
+51:23.080 --> 51:30.080
+also unglaublich viel Ressourcen und vor allem menschliche Arbeit in diesen Produktionsprozess eingesaugt werden kann.
+
+51:30.080 --> 51:35.080
+Bei nur menschlicher Arbeit ist ja die Grundlage für die Tauschwerbproduktion und um die geht es um Kapitalismus.
+
+51:35.080 --> 51:39.080
+Also es geht nicht um die effiziente Produktion oder die effiziente Befriedigung gesellschaftlicher Bedürfnisse,
+
+51:39.080 --> 51:42.080
+sondern halt eben um die Vernutzung menschlicher Arbeit.
+
+51:42.080 --> 51:48.080
+Also das zeigt ganz deutlich, warum diese Entkopplung nicht nur eine technische Herausforderung ist,
+
+51:48.080 --> 51:53.080
+sondern eine gesellschaftliche Herausforderung und die technische Herausforderung wird aber auch
+
+51:53.080 --> 51:57.080
+in einer zukünftigen Gesellschaft, in einer befreiten Gesellschaft weiter bleiben,
+
+51:57.080 --> 52:04.080
+weil die immer noch notwendige, wenn auch geringere Produktion von Gütern ja trotzdem entkoppelt werden muss
+
+52:04.080 --> 52:08.080
+von negativen sozialen, ökologischen und ökonomischen Auswirkungen.
+
+52:08.080 --> 52:16.080
+Und was LCAs vor allem machen können in ihrer gegenwärtigen Ausprägung und nur in ihrer isolierten Anwendung,
+
+52:16.080 --> 52:21.080
+ist vor allem diese zweite Entkopplungsdimension, also diese technische Entkopplung,
+
+52:21.080 --> 52:28.080
+diese Entkopplung sozusagen der Güterproduktion von den ökologisch, ökonomischen und sozialen Auswirkungen,
+
+52:28.080 --> 52:33.080
+die zu untersuchen, dass es der eigentliche Kern von LCAs ist,
+
+52:33.080 --> 52:38.080
+muss aber eben eingebettet werden in dieses Konzept der sozial-ökologischen Transformation
+
+52:38.080 --> 52:44.080
+und beispielsweise diesen normativen Anspruch im gutes Leben für alle erreichen zu wollen.
+
+52:44.080 --> 52:48.080
+Und auch erst wenn man das kann, normativ zu argumentieren,
+
+52:48.080 --> 52:51.080
+wir wollen ein gutes Leben für alle im planetaren Grenzen,
+
+52:51.080 --> 52:54.080
+könnte man auch definieren, was bisher nämlich nicht passiert ist,
+
+52:54.080 --> 52:58.080
+was soziale, ökologische und ökonomische Nachhaltigkeit eigentlich bedeutet.
+
+52:58.080 --> 53:02.080
+Wir könnten jetzt sagen, soziale Nachhaltigkeit bedeutet,
+
+53:02.080 --> 53:10.080
+wir wollen gesellschaftliche Bedürfnisse für alle global zumindest halbwegs gleichberechtigt befriedigen.
+
+53:10.080 --> 53:14.080
+Und das möglichst lange, weil es soll ja nachhaltig sein.
+
+53:14.080 --> 53:21.080
+Ökologische Nachhaltigkeit wäre genau dabei oder damit die planetaren Grenzen aber nicht zu überschreiten.
+
+53:21.080 --> 53:25.080
+Also das heißt, vor allem in der Bioökonomie, die Regenerationsfähigkeit,
+
+53:25.080 --> 53:32.080
+weil es ja nachwachsende Ressourcen sind, die Regenerationsfähigkeit der Umwelt sozusagen nicht zu untergraben
+
+53:32.080 --> 53:39.080
+und letztlich in Zukunft genauso viele oder noch mehr nachwachsende Ressourcen zu gewinnen als aktuell,
+
+53:39.080 --> 53:45.080
+ohne dabei eben mit Klimawandel etc. pp. die eigenen Reproduktionsgrundlagen zu untergraben.
+
+53:46.080 --> 53:54.080
+Und ökonomische Nachhaltigkeit ist dann aber eben nicht profit in der sozial-ökologischen Transformation oder Akkumulation,
+
+53:54.080 --> 53:59.080
+sondern ökonomische Nachhaltigkeit wäre, dass wir Technologien und Infrastrukturen haben,
+
+53:59.080 --> 54:08.080
+die es uns erlauben, die Güterproduktion so gerecht, effektiv und effizient zu gestalten,
+
+54:08.080 --> 54:13.080
+dass wir letztlich die gesellschaftlichen Bedürfnisse innerhalb planetarer Grenzen befriedigen.
+
+54:13.080 --> 54:22.080
+Also das heißt, ökonomische Nachhaltigkeit erlaubt uns letztlich eine soziale Nachhaltigkeit innerhalb einer ökologischen Nachhaltigkeit.
+
+54:22.080 --> 54:28.080
+Und in der Bioökonomie ist genau das unglaublich wichtig, weil die Bioökonomie,
+
+54:28.080 --> 54:31.080
+auch nochmal um auf gesellschaftliche Naturverhältnisse zurückzukommen,
+
+54:31.080 --> 54:37.080
+in der Bioökonomie ist dadurch, dass wir auf die Regenerationsfähigkeit angewiesen sind,
+
+54:38.080 --> 54:45.080
+die Kopplung von unserem Handeln im Hier und Jetzt und dem, was uns in Zukunft an Ressourcen zur Verfügung steht,
+
+54:45.080 --> 54:52.080
+noch viel komplexer und viel direkter miteinander verbunden, als das beispielsweise in der fossilen Ökonomie der Fall wäre.
+
+54:52.080 --> 54:58.080
+Und das bedeutet ein wirklich grundsätzliches Umdenken davon, wie wir auch technisch wirtschaften,
+
+54:58.080 --> 55:03.080
+weil es in der fossilen Ökonomie eben nicht diese Reflexion, diese Anbindung gibt,
+
+55:03.080 --> 55:07.080
+sondern da kann man de facto relativ unabhängig davon, was auf der Erdoberfläche passiert,
+
+55:07.080 --> 55:10.080
+einfach diese fossilen und mineralischen Ressourcen verbrauchen.
+
+55:10.080 --> 55:17.080
+In der Bioökonomie gibt es aber eine ganz direkte Kopplung sozusagen zwischen der Verwendung von Ressourcen,
+
+55:17.080 --> 55:22.080
+den Umweltauswirkungen und der unmittelbaren Verfügbarkeit von diesen Ressourcen selbst,
+
+55:22.080 --> 55:26.080
+weil diese Regenerationsfähigkeit letztlich nicht untergraben werden darf,
+
+55:26.080 --> 55:32.080
+um in Zukunft noch genauso viele nachwachsende Ressourcen zur Verfügung stehen zu haben wie aktuell oder sogar mehr.
+
+55:33.080 --> 55:40.080
+Wunderbar, da zeigen sich jetzt schon einige Sachen an, warum es eben die HILXA braucht,
+
+55:40.080 --> 55:48.080
+die Holistic Integrated Life Cycle Sustainability Assessment.
+
+55:48.080 --> 55:55.080
+Und weil du jetzt gemeint hast, ja, im fossilen Metabolismus kann man quasi das mehr oder minder ignorieren
+
+55:55.080 --> 55:58.080
+und halt die Sachen einfach verbrauchen, das geht ja auch nur für eine Zeit.
+
+55:58.080 --> 56:05.080
+Natürlich, das merken wir jetzt alle. Ab einem gewissen Punkt beißt uns das alle dann in den Arsch, wie man so schön sagt.
+
+56:05.080 --> 56:08.080
+Und insofern brauchen wir definitiv dieses Umdenken.
+
+56:08.080 --> 56:12.080
+Und wir haben es jetzt schon mehrfach erwähnt, eben der von dir entwickelte methodische Zugang,
+
+56:12.080 --> 56:18.080
+der versucht da wirklich eben einen ganzheitlicheren Blick, wenn man so will, an die Sache anzulegen.
+
+56:18.080 --> 56:23.080
+Und ich finde, man hat jetzt aus der Art, wie du darüber gesprochen hast, eigentlich schon sehr schön gesehen,
+
+56:23.080 --> 56:29.080
+warum eine solche Form der Betrachtung auf der materiell-stofflichen Ebene eben so wichtig ist,
+
+56:29.080 --> 56:34.080
+um eben zum Beispiel diese Dinge einhalten zu können, die du jetzt zuletzt angesprochen hast,
+
+56:34.080 --> 56:44.080
+die Regenerationszyklen, die eben auf einer bestimmten Ebene natürlich dann auch die Grenzen der eben nachhaltigen Vernutzung sozusagen mitbestimmen.
+
+56:44.080 --> 56:49.080
+Vielleicht kannst du uns erstmal auf so einer Überblicksebene nochmal kurz sagen,
+
+56:49.080 --> 56:53.080
+was möchtest du mit diesem Modell, mit diesem Zugang eigentlich erreichen?
+
+56:53.080 --> 56:57.080
+Was ist quasi der Umfang vielleicht auch und was sind die Ziele dessen?
+
+56:57.080 --> 57:04.080
+Also dieser schwer aussprechbare Name der Methode, das ist übrigens kein Modell, das ist wirklich nur eine Methode.
+
+57:04.080 --> 57:07.080
+Das werden wir dann später noch sehen, warum das ein entscheidender Unterschied ist.
+
+57:07.080 --> 57:12.080
+Kommt daher, dass es diese LCSAs, also diese Life-Size Sustainability Assessment gibt.
+
+57:12.080 --> 57:22.080
+Und wir jetzt aber eine Form des ganzheitlichen, also Holistik und integrated, also integrierten Life-Size Sustainability Assessments machen.
+
+57:22.080 --> 57:31.080
+Und Holistik steht letztlich erstmal dafür, dass wir all das, was ich gerade gesagt habe, mit in unsere Analyse einbeziehen.
+
+57:31.080 --> 57:39.080
+Also es ist eine transdisziplinäre, es ist eine kritische Methode, die verschiedene Disziplinen zumindest mit berücksichtigt,
+
+57:39.080 --> 57:55.080
+um beispielsweise diese LCSAs und vor allem die Interpretation ihrer Ergebnisse einbetten zu können in ein explizit normatives Verständnis von Nachhaltigkeit.
+
+57:55.080 --> 58:03.080
+Weil wir wissen ja, und das wird aber häufig vernachlässigt, es gibt natürlich keine nicht normative Wissenschaft,
+
+58:03.080 --> 58:12.080
+sondern wenn sie sagt, sie sei nicht normativ, dann ist sie implizit normativ und spricht sozusagen ihrer eigenen Normierung nur nicht aus.
+
+58:12.080 --> 58:17.080
+Und wir sagen aber nein, wir sprechen das explizit aus. Es geht um ein gutes Leben für alle im planetaren Grenzen.
+
+58:17.080 --> 58:22.080
+Wer damit nicht einverstanden ist, kann gerne dagegen argumentieren. Aber vor diesem Hintergrund machen wir das.
+
+58:22.080 --> 58:30.080
+Also das meint Holistik und Integrated meint, dass wir eben nicht, wie das noch beim Free Pillar Approach der Fall war,
+
+58:30.080 --> 58:37.080
+diese drei Säulen der Nachhaltigkeit isoliert voneinander beachten und dann auch isoliert voneinander diese drei Methoden,
+
+58:37.080 --> 58:42.080
+Social Lifecycle Assessment, Environmental Lifecycle Assessment, Lifecycle Costing durchführen,
+
+58:42.080 --> 58:48.080
+sondern eben eine integrierte Methodik haben, auch integrierte Modelle haben,
+
+58:48.080 --> 58:56.080
+in denen diese Sachen de facto gleichzeitig in ihren Verhältnissen zueinander betrachtet werden können und letztlich auch analysiert werden können.
+
+58:56.080 --> 59:02.080
+Also daher dieser Name Holistik und Integrated Lifecycle Sustainability Assessment oder HILSA.
+
+59:02.080 --> 59:07.080
+Und was dieses HILSA de facto macht, wir sind jetzt aktuell bei Version 2.1.
+
+59:07.080 --> 59:14.080
+Also man sieht, das ist auch nicht direkt vom Himmel gefallen, sondern da gab es auch Fehler und Probleme,
+
+59:14.080 --> 59:21.080
+beispielsweise in der Aggregation von diesen Größen, was ja auch nicht überrascht, weil es ja doch relativ komplex ist,
+
+59:21.080 --> 59:32.080
+ist aktuell mit ungefähr 100 Indikatoren, von denen ungefähr 21, 22 auf die soziale Nachhaltigkeit bezogen sind,
+
+59:32.080 --> 59:37.080
+ungefähr 60 auf die ökonomische Nachhaltigkeit und ungefähr 30 auf die ökologische Nachhaltigkeit,
+
+59:37.080 --> 59:47.080
+mit diesen Indikatoren letztlich die Risiken, Chancen, Synergien, Zielkonflikte und Hotspots,
+
+59:47.080 --> 59:58.080
+also Stellen mit besonderer Bedeutung in dem Produktionssystem zu identifizieren für die gesellschaftlichen, ökologischen und ökonomischen Auswirkungen.
+
+59:58.080 --> 01:00:05.080
+Das macht im Kern diese Methode und es geht dabei aber insbesondere darum, nicht einfach nur das zu bilanzieren
+
+01:00:05.080 --> 01:00:09.080
+und dann diese Ergebnisse hinzustellen, sondern eine sinnvolle Interpretation davon vorzulegen.
+
+01:00:09.080 --> 01:00:14.080
+Und diese sinnvolle Interpretation davon, die basiert halt eben letztlich auf den gesellschaftlichen Naturverhältnissen.
+
+01:00:14.080 --> 01:00:23.080
+Darum ist es so untaublich wichtig, diese Vorbetrachtung zu haben, weil nur dann kann man ja beispielsweise aus bestimmten Synergien oder Zielkonflikten
+
+01:00:23.080 --> 01:00:28.080
+auch die entsprechenden Schlussfolgerungen schließen, also warum es eben diese Synergien und diese Zielkonflikte gibt
+
+01:00:28.080 --> 01:00:36.080
+und was die Gründe dafür sind, die halt eben seltensten technologischen Ursachen liegen, sondern eigentlich gesellschaftliche Ursachen haben,
+
+01:00:36.080 --> 01:00:39.080
+die aber häufig sonst ausgeblendet werden.
+
+01:00:39.080 --> 01:00:50.080
+Also es geht darum, de facto eine erweiterte LCA-Methodik zu haben und diese Methodik funktioniert letztlich so,
+
+01:00:50.080 --> 01:00:57.080
+dass wir in Software, wir benutzen eine Software, die nennt sich OpenLCA, wer Lust hat in diese Software reinzuschauen, kann das auch gerne tun,
+
+01:00:57.080 --> 01:01:06.080
+die ist frei zum Download verfügbar. In dieser Software werden de facto erst mal diese Produktionssysteme modelliert.
+
+01:01:06.080 --> 01:01:18.080
+Also das heißt, mal angenommen, wir wollen ein Auto produzieren, dann würden wir anfangen zu modellieren, am Ende, sozusagen vom Ende gedacht.
+
+01:01:18.080 --> 01:01:29.080
+Also das heißt, mit der Produktion dieses Autos, oder andersrum, also wir würden sozusagen dieses Produktionssystem vom Ende her modellieren,
+
+01:01:29.080 --> 01:01:39.080
+im Sinne von, am Ende steht diese funktionelle Einheit, Auto, funktionelle Einheit heißt, dass dieses Auto ein Auto ist,
+
+01:01:39.080 --> 01:01:47.080
+beispielsweise, es können auch, tausend Autos können diese funktionelle Einheit sein und funktionell bedeutet, dass sie eine bestimmte Funktion erfüllen.
+
+01:01:47.080 --> 01:01:53.080
+Also beispielsweise eben eine bestimmte Anzahl von Menschen so und so viele Kilometer weit zu transportieren.
+
+01:01:53.080 --> 01:02:02.080
+Diese funktionelle Einheit kann hier quasi als Auto begriffen werden, aber es gäbe ja auch ganz unterschiedliche Methoden,
+
+01:02:02.080 --> 01:02:07.080
+diese Menschen eben eine bestimmte Distanz zu transportieren, also man könnte das ja auch mit Straßenbahnen machen.
+
+01:02:08.080 --> 01:02:18.080
+Also darum geht es eigentlich immer darum, von der Funktion der Produkte herzudenken, um diese Funktion auch letztlich vergleichbar zu machen,
+
+01:02:18.080 --> 01:02:24.080
+mit anderen Möglichkeiten von Technologien diese Funktion halt eben zu erfüllen.
+
+01:02:24.080 --> 01:02:35.080
+Und wenn wir quasi diese funktionelle Einheit festgelegt haben, also beispielsweise das eine Auto oder konkreter gesagt eben die Beförderung von so und so vielen Personen über so und so viele Kilometer,
+
+01:02:35.080 --> 01:02:45.080
+dann fängt man an diesen Produktionsprozess, also das heißt die Vorketten der Autoproduktion zu modellieren, als auch die Nachketten zu modellieren,
+
+01:02:45.080 --> 01:02:51.080
+also beispielsweise zu gucken, ok, welche Produktionsprozesse brauchen wir für die Herstellung der Bleche,
+
+01:02:51.080 --> 01:02:56.080
+meinetwegen für die der Batterien, für die der Türen, für die der Gummis, wo kommen die Rohstoffe dafür her,
+
+01:02:56.080 --> 01:03:02.080
+also es entfaltet sich sozusagen die Vorkette und es entfaltet sich gleichzeitig eine Nachkette,
+
+01:03:02.080 --> 01:03:07.080
+wenn es darum geht, wie diese Autos genutzt werden, wie diese Autos entsorgt werden, etc.,
+
+01:03:07.080 --> 01:03:13.080
+also das heißt diese kompletten Produktionsnetzwerke über den kompletten Lebenszyklus aufzubauen.
+
+01:03:13.080 --> 01:03:23.080
+Und da ist LC-HILSA, also das Solistic and Integrated Lifecycle Assessment, gar nicht so unterschiedlich im Gegensatz zum normalen Lifecycle Assessment.
+
+01:03:23.080 --> 01:03:29.080
+Der wesentliche Punkt ist aber dann am Ende, dass wir eben diese 100 Indikatoren mitführen,
+
+01:03:29.080 --> 01:03:35.080
+die uns Aufschlüsse über die sozialen, ökologischen und ökonomischen Auswirkungen geben
+
+01:03:35.080 --> 01:03:45.080
+und wir die uns dann auch dezidiert anschauen können und halt eben Kraft der Interpretation über die gesellschaftlichen Naturverhältnisse halt eben auch in ihre Beziehungen zueinandersetzen.
+
+01:03:45.080 --> 01:03:50.080
+Vielleicht kannst du das nochmal ein bisschen genauer erklären, was es dann in dem Fall bedeutet,
+
+01:03:50.080 --> 01:03:58.080
+die Sachen quasi von vornherein als in Beziehung zueinander zu verstehen,
+
+01:03:58.080 --> 01:04:05.080
+weil also die Kritik ist ja quasi zu sagen, es gibt dieses Three-Pillar-Modell und da werden die Sachen erstmal getrennt voneinander angeschaut
+
+01:04:05.080 --> 01:04:09.080
+und am Ende versucht man das dann wieder irgendwie zueinander in Verhältnis zu setzen
+
+01:04:09.080 --> 01:04:16.080
+und dein Argument ist ja zu sagen, nein, man muss von Anfang an in die methodische Betrachtung hinein schon mit einschreiben,
+
+01:04:16.080 --> 01:04:21.080
+dass diese Dinge in Bezug zueinander gesetzt werden müssen.
+
+01:04:21.080 --> 01:04:29.080
+Jetzt frage ich mich aber, wenn du es so wie du es jetzt beschreibst, gibt es quasi dann zu Beginn sozusagen eine Vielfalt an Indikatoren
+
+01:04:29.080 --> 01:04:34.080
+und die schreibst du jetzt quasi bestimmten Feldern zu, zum Beispiel indem du sagst,
+
+01:04:34.080 --> 01:04:39.080
+okay, du hast die Sustainable Development Goals, die SDGs oder sowas und sagst dann,
+
+01:04:39.080 --> 01:04:45.080
+die Indikatoren gehören zu diesem SDG, die gehören zu dem SDG und so weiter und so fort,
+
+01:04:45.080 --> 01:04:56.080
+aber wie bildet sich das tatsächliche Zueinander in Bezug setzen innerhalb des Modells ab?
+
+01:04:56.080 --> 01:05:01.080
+Ist das einfach quasi die Breite der Indikatoren oder was unterscheidet dann,
+
+01:05:01.080 --> 01:05:08.080
+also woran macht sich das fest oder was bedeutet das methodisch, dass man das von Anfang an versucht mit einzuflechten?
+
+01:05:08.080 --> 01:05:15.080
+Kannst du da vielleicht das nochmal so ein bisschen genauer erklären, was das dann tatsächlich auch im Ergebnis vielleicht bedeutet?
+
+01:05:15.080 --> 01:05:19.080
+Vielleicht kann man das an einem Beispiel oder sowas mal versuchen näher zu bringen.
+
+01:05:19.080 --> 01:05:24.080
+Also man muss wirklich erstmal unterscheiden zwischen der Methode und dem Modell,
+
+01:05:24.080 --> 01:05:31.080
+weil das Modell ist de facto nur ein kleiner Teil der Methode und im Modell,
+
+01:05:31.080 --> 01:05:39.080
+also das heißt de facto in diesem Aufstellen der Prozessketten, der Prozesse und der Input- und Outputflüsse,
+
+01:05:39.080 --> 01:05:46.080
+das funktioniert eigentlich relativ klassisch, weil auch dort können wir ja nur Inputs und Outputs modellieren.
+
+01:05:46.080 --> 01:05:52.080
+Also wir können beispielsweise sagen, dass halt eben die Inputs so und so viele Stoffströme,
+
+01:05:52.080 --> 01:05:57.080
+Energieströme sind, die aus der Technosphäre oder halt eben aus der Ökosphäre kommen,
+
+01:05:57.080 --> 01:06:03.080
+aber weil wir auch ein Social Life Cycle Assessment hier sozusagen integriert haben als eine soziale Betrachtung,
+
+01:06:03.080 --> 01:06:10.080
+können wir auch gucken, welche nicht nur wie viel Arbeitszeit im bestimmten Prozess notwendig ist,
+
+01:06:10.080 --> 01:06:18.080
+sondern auch mit welchen sozialen Auswirkungen diese Arbeitszeit oder diese Prozesse stehen.
+
+01:06:18.080 --> 01:06:25.080
+Also das heißt, man kann bilanzieren im Prozess, wie schwer diese Arbeit ist,
+
+01:06:25.080 --> 01:06:32.080
+wie gesundheitsgepernt diese Arbeit ist, ob da vor allem, ob das Arbeiten sind,
+
+01:06:32.080 --> 01:06:40.080
+die eine bestimmte Qualifikation benötigen oder die mit besonderen sozialen Herausforderungen
+
+01:06:40.080 --> 01:06:43.080
+hinsichtlich Arbeitssicherheit etc. pp einhergehen.
+
+01:06:43.080 --> 01:06:47.080
+Aber wie? Also mir fehlt da noch ein Element,
+
+01:06:47.080 --> 01:06:50.080
+weil da kommen doch dann Fragen der Gewichtung immer mit hinein, oder?
+
+01:06:50.080 --> 01:06:57.080
+Also wie in einem quantitativ arbeitenden Modell, wie kommt der Aspekt,
+
+01:06:57.080 --> 01:07:03.080
+dass das eine eine Arbeit ist, die zum Beispiel bestimmte Sicherheitsstandards nicht einhält,
+
+01:07:03.080 --> 01:07:08.080
+und das andere ist aber eine Arbeitsstunde, die sehr wohl diese Sicherheitsstandards einhält.
+
+01:07:08.080 --> 01:07:12.080
+Wie werden die unterschiedlich in das Modell mit eingebracht?
+
+01:07:12.080 --> 01:07:18.080
+Die müssen sich dann ja in der Form, wie sie in Anführungsstrichen gezählt werden, in irgendeiner Form unterscheiden.
+
+01:07:18.080 --> 01:07:21.080
+Das heißt, man braucht dort dann eigentlich ein Element der Gewichtung,
+
+01:07:21.080 --> 01:07:29.080
+das uns am Ende dann doch quasi diesen, sage ich mal, qualitativen Faktor in einen quantitativen Faktor übersetzt.
+
+01:07:29.080 --> 01:07:36.080
+Und diese Frage, wie das gewichtet wird, wird von Fall zu Fall ja unglaublich unterschiedlich sein müssen.
+
+01:07:36.080 --> 01:07:38.080
+Wie schafft sozusagen dann die Methode?
+
+01:07:38.080 --> 01:07:45.080
+HILXA ist all diese verschiedene, also diese hochgradig komplexe Differenziertheit der Betrachtung,
+
+01:07:45.080 --> 01:07:48.080
+die ja das ist, was es mit hineinbringen will.
+
+01:07:48.080 --> 01:07:52.080
+Wie schafft HILXA es, das in das Modell mit hinein zu transferieren,
+
+01:07:52.080 --> 01:07:58.080
+in ein letztlicher dann doch sich quantitativ artikulierendes Modell nämlich?
+
+01:07:58.080 --> 01:08:03.080
+Ja, die Gewichtung selbst, also die Gewichtung zwischen den Indikatoren,
+
+01:08:03.080 --> 01:08:05.080
+also vielleicht nochmal um Beispiele zu nennen.
+
+01:08:05.080 --> 01:08:12.080
+Indikatoren können sein CO2-Emissionen, also sowohl für den Prozess als auch für die gesamten Prozessketten.
+
+01:08:12.080 --> 01:08:19.080
+CO2-Emissionen, Arbeitssicherheit, Arbeitsunfälle, Arbeitszeiten, also wöchentliche Arbeitszeiten,
+
+01:08:19.080 --> 01:08:21.080
+meinetwegen auch sowas wie Lohn.
+
+01:08:21.080 --> 01:08:29.080
+Es können Ressourceneffizienz sein, wie viel Rezyklate, also wie viele Ressourcen zirkulieren.
+
+01:08:29.080 --> 01:08:35.080
+Es sind aber auch solche Sachen wie Toxizität, also wie viele Umweltgifte dort freigesetzt werden,
+
+01:08:35.080 --> 01:08:38.080
+wie viel Land verbraucht wird, wie viel Wasser verbraucht wird, etc.
+
+01:08:38.080 --> 01:08:40.080
+Also das sind die Indikatoren.
+
+01:08:40.080 --> 01:08:47.080
+Und diese Indikatoren, die werden ja am Ende aggregiert zu den SDGs aktuell.
+
+01:08:47.080 --> 01:08:53.080
+Also die verschiedenen Indikatoren werden den verschiedenen solchen Development Goals zugeordnet.
+
+01:08:53.080 --> 01:09:00.080
+Und diese Aggregation zu den SDGs selbst, die wird noch nicht gewichtet.
+
+01:09:00.080 --> 01:09:06.080
+Was aber gemacht wird, ist, die SDGs werden selbst zueinander gewichtet,
+
+01:09:06.080 --> 01:09:10.080
+wenn man die SDGs im Nachhinein weiter aggregieren möchte.
+
+01:09:10.080 --> 01:09:15.080
+Also wir kommen dann am Ende so ein bisschen dazu, wie HILSA aktuell funktioniert.
+
+01:09:15.080 --> 01:09:22.080
+Aber letztlich diese Gewichtung der Indikatoren erfolgt nach der Zuordnung,
+
+01:09:22.080 --> 01:09:27.080
+nach der Allokation der Indikatoren zu den Sustainable Development Goals.
+
+01:09:27.080 --> 01:09:32.080
+Und diese Gewichtung haben wir vorgenommen über Workshops,
+
+01:09:32.080 --> 01:09:36.080
+die wir mit Stakeholdern der deutschen Bioökonomie gemacht haben.
+
+01:09:36.080 --> 01:09:44.080
+Und die haben letztlich nichts anderes gemacht, als den SDGs bestimmte Relevanzen zu geteilt.
+
+01:09:44.080 --> 01:09:50.080
+Also beispielsweise wie relevant eben das SDG keine Armut oder kein Hunger,
+
+01:09:50.080 --> 01:09:57.080
+SDG 1 und 2 sind das, sind für das Monitoring der deutschen Bioökonomie.
+
+01:09:58.080 --> 01:10:05.080
+Und über diese Relevanzen können dann die unterschiedlichen Indikatoren Ergebnisse
+
+01:10:05.080 --> 01:10:09.080
+sozusagen im Ergebnis, wenn sie weiter aggregiert werden, gewichtet werden.
+
+01:10:09.080 --> 01:10:11.080
+Das war nämlich glaube ich auch ein Missverständnis.
+
+01:10:11.080 --> 01:10:16.080
+Ich wollte gar nicht jetzt unbedingt zu der Gewichtung wie bei der Stakeholder Participation,
+
+01:10:16.080 --> 01:10:21.080
+sondern das, worauf ich also abzielen wollte, war eigentlich wirklich eben die Frage,
+
+01:10:21.080 --> 01:10:29.080
+wie man ein und dieselbe Maßeinheit, wenn man so will, zum Beispiel Arbeitsstunde,
+
+01:10:29.080 --> 01:10:37.080
+wie man die in Hilxer integriert in einer Art und Weise, die darstellt,
+
+01:10:37.080 --> 01:10:43.080
+dass es ja eine Arbeitsstunde geben kann, die in total beschissenen Konditionen ausgeführt wird,
+
+01:10:43.080 --> 01:10:50.080
+versus eine Arbeitsstunde, die für die Arbeiter in total angenehmen Konditionen ausgeführt wird.
+
+01:10:50.080 --> 01:10:58.080
+Das heißt, ich habe zwar in beiden Fällen die Stunde Zeit als eine quantitative Werteinheit,
+
+01:10:58.080 --> 01:11:02.080
+aber ich möchte in irgendeiner Form das qualitative Element,
+
+01:11:02.080 --> 01:11:07.080
+dass das eine eine beschissene Stunde war und das andere eine okaye Stunde der Arbeit,
+
+01:11:07.080 --> 01:11:10.080
+in Hilxer mit hineinbringen.
+
+01:11:10.080 --> 01:11:18.080
+Wie schaffe ich es in diesem methodischen Zugang Hilxer, diesen Unterschied mit hineinzubringen?
+
+01:11:18.080 --> 01:11:22.080
+Was sind die Elemente, die Faktoren, die Gewichtungen oder wie auch immer,
+
+01:11:22.080 --> 01:11:25.080
+in denen sich das innerhalb der Methode darstellen lässt?
+
+01:11:25.080 --> 01:11:33.080
+Also für die Bilanzierung der sozialen Auswirkungen, die verbunden sind mit der Arbeitszeit,
+
+01:11:33.080 --> 01:11:38.080
+ist es so, dass die Daten dazu vor allem ja aus den Datenbanken kommen.
+
+01:11:38.080 --> 01:11:45.080
+Und die Datenbanken sagen uns beispielsweise, dass im Prozess der Verformung von Stahlblechen
+
+01:11:45.080 --> 01:11:51.080
+so und so viele Arbeitsstunden unter diesen und jenen Bedingungen geleistet werden.
+
+01:11:51.080 --> 01:11:55.080
+Also beispielsweise, dass es bestimmte gesundheitliche Auswirkungen gibt,
+
+01:11:55.080 --> 01:12:03.080
+dass es eine so und so hohe Gender-Wage-Gap gibt, dass es vielleicht auch Anteile von Kinderarbeit gibt,
+
+01:12:03.080 --> 01:12:06.080
+dass es diese und jene Gesundheitsbelastung gibt.
+
+01:12:06.080 --> 01:12:13.080
+Und diese qualitativen oder auch quantitativen Ausprägungen der unterschiedlichen Arbeitsbedingungen,
+
+01:12:13.080 --> 01:12:17.080
+die werden durch die Datenbanken, das heißt durch eine Vorarbeit,
+
+01:12:17.080 --> 01:12:21.080
+die eigentlich in diesen sozialen Datenbanken, die es gibt, gemacht wird,
+
+01:12:21.080 --> 01:12:26.080
+in bestimmte Risk-Level, also in bestimmte Risiko-Level, eingeprobiert.
+
+01:12:26.080 --> 01:12:33.080
+Also es gibt sozusagen für diesen Indikator Toxizität oder Umwelt- oder Gesundheitsbelastung am Arbeitsplatz
+
+01:12:33.080 --> 01:12:39.080
+bestimmte Risiko-Level, beispielsweise ein sehr hohes Risiko-Level oder ein niedriges Risiko-Level,
+
+01:12:40.080 --> 01:12:45.080
+was bestimmt wird im Vergleich zu allen anderen Arbeitsprozessen.
+
+01:12:45.080 --> 01:12:51.080
+Also es ist schon eine relative Betrachtung, die in Form von Risiko-Level sozusagen eingeht.
+
+01:12:51.080 --> 01:12:59.080
+Also der Indikator hat eine qualitative Ausprägung in Form von Low-Risk, High-Risk, Medium-Risk.
+
+01:12:59.080 --> 01:13:04.080
+Und diese Betrachtung, also ob das jetzt ein hohes Risiko ist oder ein niedriges Risiko ist,
+
+01:13:04.080 --> 01:13:07.080
+die wird aktuell sozusagen aus den Datenbanken rausgezogen.
+
+01:13:07.080 --> 01:13:14.080
+Das ist aber auch eine Einschätzung, die man vor Ort, wenn man jetzt keine Sekundärdaten aus Datenbanken erhebt,
+
+01:13:14.080 --> 01:13:20.080
+sondern Primärdaten von Betrieben vor Ort auch direkt von den Leuten, die dort arbeiten, erheben kann.
+
+01:13:20.080 --> 01:13:28.080
+Also indem sie halt eben sagen, das sind besonders schwere Arbeiten im gesellschaftlichen Vergleich
+
+01:13:28.080 --> 01:13:35.080
+oder das ist besonders belastend oder wir könnten halt eben sagen, wenn beispielsweise die Arbeitsstunden
+
+01:13:35.080 --> 01:13:41.080
+pro Woche so und so hoch sind, dann ist das im Vergleich zu allen anderen Arbeitszeiten in Deutschland
+
+01:13:41.080 --> 01:13:48.080
+relativ hoch oder relativ niedrig. Also so gehen sozusagen diese Indikatoren in einer qualitativen Größe
+
+01:13:48.080 --> 01:13:58.080
+in diese Modellierung des einen Prozesses ein. Und wie stark sie dann quasi am Ende gewichtet werden
+
+01:13:58.080 --> 01:14:06.080
+über die kompletten Produktionsprozesse ist abhängig von der Arbeitszeit, die in einem so einen Prozess drinsteckt,
+
+01:14:06.080 --> 01:14:15.080
+weil die Annahme ist, dass die gesellschaftliche Verknüpfung dieser sozialen Auswirkungen damit einhergeht,
+
+01:14:15.080 --> 01:14:26.080
+je mehr Arbeitszeit in diesem Prozess notwendig ist. Also beispielsweise wenn das Risiko für eine hohe Gesundheitsbelastung
+
+01:14:26.080 --> 01:14:35.080
+in einem Arbeitsprozess sehr hoch ist und in diesem Prozess besonders viel Arbeitszeit reingesteckt werden muss,
+
+01:14:35.080 --> 01:14:41.080
+dann kann auch im Vergleich zu allen anderen Prozessen davon ausgegangen werden, dass die gesellschaftliche Auswirkung
+
+01:14:41.080 --> 01:14:46.080
+für die Gesundheitsbelastung in diesem Prozess im Vergleich zu allen anderen besonders hoch ist,
+
+01:14:46.080 --> 01:14:52.080
+eben anhand der Arbeitsstunden, die in diesen einen Prozess reinfließen. Also wenn man jetzt 5 Prozesse hätte
+
+01:14:52.080 --> 01:15:00.080
+und in einen gehen 2 Stunden Arbeitszeit rein, in den nächsten 1 Stunde Arbeitszeit und in wieder einen 0,2 Stunden Arbeitszeit
+
+01:15:00.080 --> 01:15:10.080
+und alle quasi das gleiche Risikolevel für Gesundheitsbelastung haben, dann wird am Ende eben der Prozess mit 2 Stunden Arbeitszeit
+
+01:15:10.080 --> 01:15:18.080
+die insgesamt höhere Gesundheitsbelastung für die Gesellschaft mit sich bringen, weil genau dort eben die meiste Arbeitszeit
+
+01:15:18.080 --> 01:15:27.080
+unter diesen schlechten Bedingungen stattfindet. Also es gibt qualitativ unterschiedliche Level von sozialen Auswirkungen,
+
+01:15:27.080 --> 01:15:37.080
+die aber allokiert und bilanziert werden über die Arbeitszeit, die quasi verbunden ist mit genau diesem qualitativen Level der Auswirkungen.
+
+01:15:37.080 --> 01:15:48.080
+Okay, das ist super spannend, aber noch einige Nachfragen. Also das mit der Arbeitszeit, das ist ja erstmal dann nur noch eine Frage des Umfangs sozusagen.
+
+01:15:48.080 --> 01:15:57.080
+Also das multipliziert sozusagen dann noch einfach, wie viel Zeit unter schlechten Bedingungen quasi dann ertragen werden musste.
+
+01:15:57.080 --> 01:16:09.080
+Aber also die eine Frage wäre, glaube ich, was für eine Vielfalt gibt es im Bezug auf diese qualitativen Indikatoren?
+
+01:16:09.080 --> 01:16:18.080
+Weil du hast jetzt von Risikolevel gesprochen, aber Risikolevel ist ja nur ein spezifischer Fokus und es könnten ja ganz viele andere sein,
+
+01:16:18.080 --> 01:16:28.080
+die da noch mit hineinfließen. Die zweite Frage wäre, wenn diese Datenbanken, die du ja jetzt nutzt, unter heutigen gesellschaftlichen Bedingungen entstanden sind,
+
+01:16:28.080 --> 01:16:38.080
+ist wahrscheinlich die Idee davon, was ein Risiko ist und was nicht und welche qualitativen Indikatoren da sozusagen angeknüpft werden sollten,
+
+01:16:38.080 --> 01:16:47.080
+schon gefärbt durch eben zum Beispiel bestimmte kapitalistische Imperative der Verwertung und der Profitmaximierung. Das wäre noch eine andere Frage.
+
+01:16:47.080 --> 01:16:56.080
+Und die dritte Frage wäre, dass, wenn es jetzt ja schon so ist in den von dir jetzt verwendeten Datenbanken,
+
+01:16:56.080 --> 01:17:07.080
+dass diese Indikatoren oder diese qualitative Gewichtung der Indikatoren in Form in dem Fall von Risikoleveln schon in den Datenbanken mitverzeichnet sind,
+
+01:17:07.080 --> 01:17:19.080
+würde das doch eigentlich den Schluss nahelegen, dass das auch heute schon innerhalb von in dem Fall wahrscheinlich Lifecycle Sustainability Assessment Analysen durchaus gemacht wird.
+
+01:17:19.080 --> 01:17:33.080
+Also was ist dann quasi noch der Faktor, der innerhalb von HIXA hinzukommt, um sicherzustellen, dass eben es tatsächlich eine Form der ganzheitlichen und integrierten Betrachtung gibt,
+
+01:17:33.080 --> 01:17:44.080
+die innerhalb in diese in diesen methodischen Zugang in erster Instanz quasi schon so früh wie möglich quasi mit hinein fließt und das Ganze informiert?
+
+01:17:44.080 --> 01:17:52.080
+Es ist nicht so, dass HIXA was ganz grundsätzlich anderes macht als die normalen SESA-Methoden.
+
+01:17:52.080 --> 01:18:06.080
+Also wir verwenden zwar die integrierten Datenbanken, aber die Modelle, die sich da draus ergeben, das sind genau die gleichen, wie das auch in anderen SESA-Methoden der Fall ist,
+
+01:18:06.080 --> 01:18:21.080
+nämlich in dem da die Inputs und Outputs in Form von der Stoff- und Energieflüsse als auch eben der Arbeitszeiten und die mit dieser Arbeitszeit verbundenen sozialen Auswirkungen in Form von Risiken.
+
+01:18:21.080 --> 01:18:35.080
+Bilanziert werden und das andere bei HIXA ist nur, dass wir es halt eben nicht in drei unterschiedlichen Modellen machen, sondern es diese integrierten Produktionsmodelle davon gibt.
+
+01:18:35.080 --> 01:18:49.080
+Das heißt, dass ich auch immer die sozialen Auswirkungen, die ökologischen und die ökonomischen Auswirkungen auf den gleichen Prozess im Modell beziehen und halt eben nicht auf drei unterschiedliche Prozesse in drei unterschiedlichen Modellen,
+
+01:18:49.080 --> 01:19:05.080
+die man dann am Ende wieder zusammenwürfeln muss. Also das ist sozusagen der eine Unterschied. Und der andere Unterschied ist, dass es halt eben vor dieser Modellierung und vor allem auch nach dieser Modellierung eine kritische Betrachtung der Verhältnisse gibt.
+
+01:19:05.080 --> 01:19:23.080
+Also beispielsweise, wenn wir dann sehen, dass bestimmte Auswirkungen für die Arbeitsprozesse halt eben in Indien ganz besonders schlimm sind, dann können wir das in ein Verhältnis setzen zu den gesellschaftlichen Verhältnissen, unter denen diese Arbeit stattfindet.
+
+01:19:23.080 --> 01:19:37.080
+Also das heißt, warum sind die Arbeitsbedingungen in Indien so schlecht oder warum sind auf den kompletten Produktionsprozess, auf die kompletten globalen Vorketten viele soziale Risiken besonders in Indien sehr sehr groß?
+
+01:19:37.080 --> 01:19:58.080
+Na ja, deshalb, weil in Indien ganz besonders viel Arbeitszeit aufgewendet wird, weil die Produktivität der Arbeit dort relativ gering ist, weil die variable Kosten oder die Kosten des variablen Kapitals, also der Arbeit im Vergleich zum Fixungkapital, also für die Maschinen, besonders gering sind.
+
+01:19:58.080 --> 01:20:12.080
+Also es wird ganz besonders viel Arbeitszeit verbraucht und das unter relativ schlimmen Bedingungen, weil dort vor Ort unter dem gegebenen politischen Ökonomie das sich letztlich einfach lohnt.
+
+01:20:12.080 --> 01:20:27.080
+Aber es ist jetzt nicht so, dass es quasi in dem Modell, also in dieser Input-Output-Abbildung de facto eine formalisierte Reflektion gesellschaftlicher Naturverhältnisse gibt.
+
+01:20:27.080 --> 01:20:44.080
+Das ist nicht der Fall. Es ist sozusagen, es ist nach wie vor ein sehr functionales Modell mit in dieser Input-Output-Logik, was aber kontextualisiert wird durch eine kritische Analyse gesellschaftlicher Naturverhältnisse und der politischen Ökonomie.
+
+01:20:44.080 --> 01:21:05.080
+Ich verstehe. Im Grunde sind wir jetzt dann wieder bei der Frage, die ich vorhin, also im ersten Drittel sozusagen schon einmal versucht hatte, unterzubringen, inwiefern man da eben Gefahr laufen würde, quasi noch nicht in die Methode eingeschrieben, eine andere Form des Bezugsverhältnisses mit einzubeben.
+
+01:21:05.080 --> 01:21:10.080
+Aber das würde vielleicht jetzt, glaube ich, zu weit gehen. Aber im Grunde sind wir genau wieder an dem Punkt.
+
+01:21:10.080 --> 01:21:21.080
+Ja, ja. Ich glaube aber, dass das tatsächlich, das kann und sollte nicht Ziel solcher Formals-, also oder vor allem quantitative Methoden sein.
+
+01:21:21.080 --> 01:21:40.080
+Also du kannst sozusagen nicht in eine quantitative Bilanzierung irgendeine Reflektion oder sogar eine Transformation oder einen transformatorischen Anspruch gesellschaftlicher Beziehungsweisen sozusagen mit einflächten in Form, dass man das dann anders berechnet oder so.
+
+01:21:40.080 --> 01:21:54.080
+Naja, aber doch. Also die Gewichtung, also ja doch. I think so. Weil das ist ja genau das, was du, also wie wenn man beim Risiko-Level, wenn du sagst, das ist ja nichts anderes.
+
+01:21:54.080 --> 01:22:05.080
+Aber diese Risiko-Level, das ist ja, das wird zwar aktuell so gemacht. Also aktuell machen wir das über diese Datenbanken, die diese Risiko-Level bereitstellen.
+
+01:22:05.080 --> 01:22:18.080
+Aber ja nur deshalb, weil wir halt eben die direkten Daten aus den Produktionsprozessen in der Form für die Sekundärdaten, die aus diesen Datenbanken kommen, aus diesem globalen Produktionssystem nicht direkt haben.
+
+01:22:18.080 --> 01:22:41.080
+Genau, genau. Und das ist auf jeden Fall was, was man in Zukunft bräuchte. Also darum kann man diese Methode als auch die Datenbank nicht unmittelbar für eine Planung sozusagen vollumfänglich einsetzen, weil es halt eben beispielsweise für die sozialen Prozesse noch auf diesen Risiko-Level,
+
+01:22:41.080 --> 01:22:50.080
+auf einer nicht ganz transparenten Datenbasis, die nicht gespeist ist von Worten ab, von dem direkten Daten vor Ort, weil man das halt eben nicht hat.
+
+01:22:50.080 --> 01:23:04.080
+Also gerade was diese sozialen Daten angeht, ist das noch sehr lügenhaft und halt eben nur auf diesen Risiko-Levelen, die unter kapitalistischen Bedingungen bestimmt werden, verfügbar und halt nicht eben nicht auf Basis von Primärdaten,
+
+01:23:04.080 --> 01:23:17.080
+wo beispielsweise eine indische Arbeiterin angegeben hätte, dass die Gesundheitsauswirkungen so und so groß sind oder die subjektive Arbeitsbelastung so und so hoch ist.
+
+01:23:17.080 --> 01:23:28.080
+Walter, weißt du, wo wir jetzt sind? Wir sind sozusagen direkt bei der Erweiterung, bei der Notwendigkeit der Erweiterung zu Formen des Bottom-Up-Planings,
+
+01:23:28.080 --> 01:23:48.080
+wo sozusagen die Leute tatsächlich auch in die Lage versetzt werden müssten, eben ihre vor Ort verankerten Gewichtungsparameter in diese Form des methodischen Zugangs sozusagen mit einbringen zu können,
+
+01:23:48.080 --> 01:23:53.080
+in Form solcher eben zusätzlichen qualitativen Faktoren, nicht?
+
+01:23:53.080 --> 01:23:54.080
+Ja, ja.
+
+01:23:54.080 --> 01:24:08.080
+Und dann aber vielleicht noch dran gehängt, weil dann stellt sich ja trotzdem noch die Frage, okay, inwiefern explodiert dann das Feld der Indikatoren oder der Metergewichtungen,
+
+01:24:08.080 --> 01:24:17.080
+weil ja dann auf eine Art Gefahr läuft, keine Form der Vereinheitlichung mehr zu haben, oder?
+
+01:24:17.080 --> 01:24:37.080
+Also weil dann habe ich vielleicht quasi ein unglaublich detailliertes Bild verschiedenster Indikatoren, die auf einer Metaebene auch noch von den Teilnehmenden vor Ort in spezifischer Weise gewichtet worden sind durch Meta-Indikatoren oder Meta-Informationen zu den Indikatoren.
+
+01:24:37.080 --> 01:24:57.080
+Aber dann geht es da quasi komplett in die Breite und es stellen sich quasi wieder Fragen der Aggregation bzw. eben dann auch der ja überhaupt noch machbaren Disaggregation, wenn man später quasi dann das wieder verstehen lernen will.
+
+01:24:57.080 --> 01:25:09.080
+Auch weil ja dann die Meta-Informationen, die zu den Indikatoren hinzugegeben worden sind, auf einer Art vielleicht auf einer höherstufigen Ebene gar nicht verstanden werden können,
+
+01:25:09.080 --> 01:25:22.080
+weil sie ja eben aus den aus den spezifischen Positionen derjenigen heraus entwickelt worden sind, die an dieser Bottom-Up-Planung quasi auch mit beteiligt gewesen sind.
+
+01:25:22.080 --> 01:25:27.080
+Aber das ist jetzt vielleicht dann schon alles viel zu abstrakt.
+
+01:25:27.080 --> 01:25:38.080
+Ich würde vielleicht, also ich sehe voll auf was du hinaus willst, aber ich würde vielleicht noch mal kurz dieses Hilsa-Ding abbinden wollen.
+
+01:25:38.080 --> 01:25:39.080
+Voll, voll, voll, voll.
+
+01:25:39.080 --> 01:25:46.080
+Was ich vielleicht bloß festhalten will, ist um dieses Hilsa-Ding sozusagen abzubinden für das, was jetzt kommt.
+
+01:25:46.080 --> 01:25:59.080
+Dass also mit Hilsa zumindest prinzipiell für planwirtschaftliche oder für Anwendungen der demokratischen Planung eine relativ detaillierte Software-
+
+01:25:59.080 --> 01:26:07.080
+und datenbankgestützte Input-Output-Modellierung von ökonomischen und technischen Prozessen zur Verfügung steht,
+
+01:26:07.080 --> 01:26:19.080
+die letztlich mit konsistenten und vergleichbaren sozialen, ökologischen und ökonomischen Daten diese eigentliche notwendige naturalen Arbeitszeit-
+
+01:26:19.080 --> 01:26:32.080
+und das heißt moralistische Kostenrechnung, könnte man sagen, anhand einer beliebig durchführbaren Zusammensetzung von Parametern ermöglicht und zur Verfügung stellt.
+
+01:26:32.080 --> 01:26:44.080
+Also es geht gar nicht darum, dass Hilsa jetzt sozusagen unmittelbar anwendbar ist für planerische Aufgaben, sondern dass diese Input-Output-Modellierung mit sozialen,
+
+01:26:44.080 --> 01:26:57.080
+ökologisch und ökonomischen Daten, das heißt eine vollständige Erfassung von Naturalstoff, Energie und Arbeitsflüssen und deren Auswirkungen eigentlich die Informationsgrundlage
+
+01:26:57.080 --> 01:27:11.080
+stellt für eine ganzheitliche Rechnungslegung, mit der dann wieder Parameter, Indizes, man könnte auch Preise sagen, ökosozialistischen Planwirtschaft ermittelt werden könnten.
+
+01:27:11.080 --> 01:27:24.080
+Und das, was wir damit bereitstellen können oder das, was es leisten kann, ist halt eben ein multidimensionales System für so eine Rechnungslegung mit unterschiedlichen Recheneinheiten zu sein,
+
+01:27:24.080 --> 01:27:35.080
+die eben diese vielfältigen ökologischen, ökonomischen und sozialen Faktoren beinhalten und potenziell auch aggregieren können, ohne aber die Frage zu beantworten,
+
+01:27:35.080 --> 01:27:40.080
+wie sie dann genauer aggregiert werden müssten, weil das ja auch eine politische Frage ist.
+
+01:27:40.080 --> 01:27:56.080
+Und kannst du vielleicht, damit wir auch so ein bisschen ein greifbares, konkretes Beispiel haben anhand dieser Frage, wie jetzt die Qualität einer Arbeitsstunde unterschiedlich in so einen methodischen Zugang eingebracht werden kann,
+
+01:27:56.080 --> 01:28:07.080
+vielleicht kannst du daran einmal kurz exemplarisch darlegen, wie solche qualitativen Aspekte der Betrachtung quasi in dieser Methode sozusagen mit bedacht werden?
+
+01:28:07.080 --> 01:28:19.080
+Also das wäre sozusagen das erste, was man tatsächlich tun müsste. Und dann könnte man über die Befragung der Menschen, die in diesen Prozessen tätig sind,
+
+01:28:19.080 --> 01:28:31.080
+ermitteln, ob sie das, was sie da tun, eben gemessen an diesen an diesen gesellschaftlichen Vereinbarungen eher als eine Scheißstunde oder als eine gute Stunde betrachten.
+
+01:28:31.080 --> 01:28:41.080
+Und genau so würde es dann eben auch eingehen, als Scheißstunde oder als gute Stunde. Also je nachdem, auf was wir uns sozusagen gesellschaftlich qualitativ geeinigt haben.
+
+01:28:41.080 --> 01:28:57.080
+Also wie diese qualitative Differenzierung der Arbeitsverhältnisse der Arbeitsstunde aussieht, das ist ja beliebig gestaltbar, solange wir qualitative Level der Qualität der Betrachtung haben.
+
+01:28:57.080 --> 01:29:11.080
+Solange wir qualitative Level irgendwie haben, von gut bis scheiße, in einer Abstufung von 10 oder 5 Level beispielsweise, indem wir das dann sozusagen dort festhalten können.
+
+01:29:11.080 --> 01:29:20.080
+Interesting. Jetzt habe ich das erst verstanden. Also es ist nicht so, dass man quasi eine Stunde rechnet und dann gibt es eine Form von zusätzlichem Indikator,
+
+01:29:20.080 --> 01:29:30.080
+der eine Gewichtung darstellt, wie gut oder schlecht die Stunde war, sondern wenn man das jetzt denkt als eine Rechnungslegung in Anführungsstrichen, dann würde das bedeuten,
+
+01:29:30.080 --> 01:29:37.080
+das sind einfach unterschiedliche Rechnungseinheiten. Es gibt die Rechnungseinheit okaye Stunde und es gibt die Rechnungseinheit scheißstunde.
+
+01:29:37.080 --> 01:29:44.080
+Und so würden sie sozusagen dann auch quasi in eine Form der Berechnung einfließen, oder? Verstehe ich das jetzt richtig?
+
+01:29:45.080 --> 01:29:53.080
+Genau. Und zwar in dem Maße, wie viele gute oder schlechte Stunden geleistet wurden.
+
+01:29:53.080 --> 01:30:06.080
+Verstehe. Okay, das heißt, wir haben sozusagen qualitative Elemente auch hineingebracht, indem wir einfach dann eine Vielzahl unterschiedlicher Indikatoren haben.
+
+01:30:06.080 --> 01:30:12.080
+Wir haben eben dann shitty hours. Wir haben okaye Stunden. Wir haben großartige Stunden. Ja, vielleicht auch.
+
+01:30:12.080 --> 01:30:24.080
+Das bringt uns eigentlich schon auch so ein bisschen zu dieser Frage von Datenbanken, weil ich meine, derzeit werden bestimmte Sachen dort ja noch nicht abgebildet sein, aber manche eben doch.
+
+01:30:24.080 --> 01:30:32.080
+Also es ist schon so. Das war auch bei dem Vortrag, den ich von dir sehen durfte in Berlin ebenso, dass das wirklich also sehr beeindruckend ist,
+
+01:30:32.080 --> 01:30:38.080
+was doch alles schon mittlerweile erfasst wird in diesen Datenbanken. Vielleicht kannst du da mal kurz darauf eingehen.
+
+01:30:38.080 --> 01:30:45.080
+Was verwendest du da für unterschiedliche Datenbanken? Was können die leisten? Was können sie vielleicht auch noch nicht leisten?
+
+01:30:45.080 --> 01:30:53.080
+Welche Daten brauchen wir noch? Und vielleicht auch wie verlässlich ist das, was man da findet an den existierenden Datenbanken?
+
+01:30:53.080 --> 01:31:03.080
+Ja, also wir verwenden im LCA oder auch im LCSA letztlich auch im HI-LCSA, also in HILSA, Sekundär- und Primärdaten.
+
+01:31:03.080 --> 01:31:12.080
+Und Primärdaten ist alles das, was wir tatsächlich erheben. Also wirklich wir gehen raus und erheben bei einem bestimmten Betrieb diese und jene Daten.
+
+01:31:12.080 --> 01:31:20.080
+Und die Sekundärdaten ist alles das, was aus diesen Datenbanken kommt. Und was es an Datenbanken gibt, ist die klassischen Datenbanken,
+
+01:31:20.080 --> 01:31:29.080
+die sozusagen die ökologischen, technischen Aspekte und Größen und Flüsse letztlich abbilden.
+
+01:31:29.080 --> 01:31:38.080
+Das ist vor allem diese EcoInvent-Datenbank. Und die EcoInvent-Datenbank ist eine Datenbank, die über 30 Jahre jetzt mittlerweile gewachsen ist
+
+01:31:38.080 --> 01:31:48.080
+und 25.000 technische Prozesse beinhaltet mit ihren Inputs und Outputs, die letztlich so miteinander verknüpft sind,
+
+01:31:48.080 --> 01:31:57.080
+dass man einen isolierten Prozess hat und dieser Prozess hat bestimmte Inputs. Aber in diesem Input ist quasi vermerkt,
+
+01:31:57.080 --> 01:32:06.080
+wo dieser Input, also aus welchem anderen Prozess dieser Input herkommt. Also obwohl die Datenbank sozusagen nur aus isolierten Prozessen
+
+01:32:06.080 --> 01:32:14.080
+mit Inputs und Outputs besteht, ist über die Information, woher der Input kommt, also von welchem anderen Prozess,
+
+01:32:14.080 --> 01:32:24.080
+ist letztlich möglich zu sagen, Programm, bitte beschreibe mir, baue mir die Prozesskette für die Produktion eines Autos auf.
+
+01:32:24.080 --> 01:32:36.080
+Weil das, was dann passiert ist, dass die Software nimmt de facto den Prozess aus der Datenbank, der der letzte Prozess in der Autoproduktion ist
+
+01:32:36.080 --> 01:32:46.080
+und schaut dann, welche Inputs dafür notwendig waren und verknüpft dann quasi die entsprechenden Prozesse, deren Outputs,
+
+01:32:46.080 --> 01:32:54.080
+die Inputs für diesen letzten Prozess sind, mit diesem letzten Prozess. Und so ergibt sich quasi für diesen letzten Prozess,
+
+01:32:54.080 --> 01:33:05.080
+beispielsweise der Autoentfertigung eine ganze Reihe von Vorprozessen, die wiederum Inputs haben, die wiederum die Information
+
+01:33:05.080 --> 01:33:14.080
+haben, welche Prozesse, die zur Verfügung stehen. Also aus diesen Datenbanken mit diesen 25.000 Prozessen bauen sich sozusagen letztlich diese Prozessketten
+
+01:33:14.080 --> 01:33:26.080
+immer individuell auf, je nachdem, welchen Prozess man sich halt eben isoliert anschauen will. Das Gute ist aber daran, dass man letztlich ja nicht nur ein Produkt
+
+01:33:26.080 --> 01:33:37.080
+oder ein Prozess sich am Ende anschauen kann, sondern man könnte ja auch einen Warenkorb, beispielsweise ein regionales Set von unterschiedlichen Produkten,
+
+01:33:37.080 --> 01:33:45.080
+die man haben möchte, sich modellieren lassen. Und somit bekommt man eben nicht nur ein Produkt, sondern eine ganze Produktpalette,
+
+01:33:45.080 --> 01:33:55.080
+inklusive aller ihrer Vernetzungen und ihrer Wechselwirkungen miteinander durch den Aufbau dieser Prozesskette anhand dieser Datenbanken geliefert.
+
+01:33:55.080 --> 01:34:04.080
+Und das ist sozusagen das Geheimnis von EcoInvent, die Prozesse und deren Inputs und Outputs mit der Verknüpfung zu den jeweils anderen Prozessen.
+
+01:34:04.080 --> 01:34:15.080
+Und diese Prozesse, als auch die Inputs und Outputs, die kommen de facto aus wissenschaftlichen Studien. Also das heißt, über 30 Jahre mittlerweile
+
+01:34:15.080 --> 01:34:25.080
+wurde aus unterschiedlichen wissenschaftlichen Einzelstudien, beispielsweise zum Produktionsprozess in Autos oder zum Produktionsprozess in Raffinerie,
+
+01:34:25.080 --> 01:34:34.080
+diese Daten erhoben und dann in die EcoInvent eingespeist. Und wenn man das halt eben über 30 Jahre lang macht, hat man eine Datenbasis, die so breit ist,
+
+01:34:34.080 --> 01:34:43.080
+dass sie eben all diese Prozesse und diese wissenschaftlichen Studien sozusagen am Ende damit kombinieren kann, dass es sie in Beziehungen zueinander setzt.
+
+01:34:43.080 --> 01:34:55.080
+Also so sind diese Datenbanken von EcoInvent entstanden, die die rein technischen und ökonomischen Prozesse mit ihren ökologischen Auswirkungen beinhalten.
+
+01:34:55.080 --> 01:35:03.080
+Das ist die eine Seite. Die andere Seite sind soziale Datenbanken. Und da ist vor allem zu nennen die PSILCA-Datenbank.
+
+01:35:03.080 --> 01:35:19.080
+Und das steht für Product Social Impact Lifecycle Assessment Database. Also das heißt, wo die Arbeitsbedingungen in bestimmten Sektoren erfasst sind.
+
+01:35:19.080 --> 01:35:27.080
+Und was jetzt passiert, ist, dass man diese, also man hat sozusagen diese EcoInvent Database und man hat diese PSILCA-Datenbank.
+
+01:35:27.080 --> 01:35:38.080
+Das eine sind technisch ökonomische Prozesse. Das andere sind sozusagen die sozialen Auswirkungen in bestimmten oder die sozialen Bedingungen in bestimmten Sektoren, in bestimmten Regionen.
+
+01:35:38.080 --> 01:35:49.080
+Und was man jetzt macht, und das hat Green Delta, also das Unternehmen, was diese Datenbanken bereitstellt, mit der PSILCA-Datenbank gemacht, ist zu schauen,
+
+01:35:49.080 --> 01:35:55.080
+okay, wir haben einen bestimmten Prozess in EcoInvent, der findet in einer bestimmten Region statt, in einem bestimmten Sektor.
+
+01:35:55.080 --> 01:36:12.080
+Also beispielsweise die Automobilproduktion in Zentraldeutschland. Und jetzt nimmt man quasi genau diese Region und diesen Sektor aus der sozialen Datenbank und fügt quasi diese Daten zusammen.
+
+01:36:12.080 --> 01:36:28.080
+Also das heißt, man hat den technischen Prozess mit Inputs und Outputs der Automobilproduktion in Mitteldeutschland und ordnet diesen Prozess die sozialen Daten aus dem Sektor Automobilproduktion in Mitteldeutschland zu.
+
+01:36:28.080 --> 01:36:42.080
+Und in dieser Kombination oder besser gesagt Integration von den technischen, ökologischen Daten und der sozialen Datenbank liegt sozusagen das Geheimnis dieser integrierten Datenbanken in SOCA.
+
+01:36:42.080 --> 01:36:53.080
+Also dass man de facto eine Allokation hat von sozialen Strukturdaten und von diesen technischen ökonomischen Prozessen.
+
+01:36:53.080 --> 01:37:15.080
+Das heißt aber gleichzeitig auch, dass die sozialen Daten oder die sozialen Auswirkungen, die diesem Prozess zugeordnet werden, letztlich nicht diesen, die on the ground vor Ort in einem bestimmten Betrieb genauso stattfinden, sondern sektorale und regionale Durchschnitte bilden.
+
+01:37:15.080 --> 01:37:19.080
+Das ist interessant.
+
+01:37:19.080 --> 01:37:25.080
+Vielleicht ist jetzt auch nochmal klar geworden, wo diese sozialen Daten herkommen.
+
+01:37:25.080 --> 01:37:33.080
+Voll, voll, voll, voll, voll. Das heißt, in welcher Form werden diese Daten zueinander gefügt?
+
+01:37:33.080 --> 01:37:47.080
+Also wenn du sagst, es wird eben die EcoInvent Datenbank mit der PSILCA Datenbank fusioniert sozusagen und eben in der sogenannten SOCA Datenbank findet sich dann eben schon dieses verbundene Datenset.
+
+01:37:47.080 --> 01:38:14.080
+Ist das dann sowas wie Meta-Information, also dass ich dann mir halt quasi bei einem bestimmten materiell-stofflichen Zyklus, den ich mir abbilden lasse, mir dann anzeigen lassen kann in so einer Art von zusätzlichem Seitenfenster oder sowas, welche sozialen Indikatoren in diesem Prozess eben in einem, wie du ja sagst, sektoralen Durchschnitt sozusagen quasi zu vermuten wären.
+
+01:38:14.080 --> 01:38:27.080
+Das heißt immer noch nicht heißt, dass es im einzelnen lokalen Betrieb dann tatsächlich so ist oder wird das quasi in einem Wert auch dann oder eben in einer Gewichtung quasi zusammengefügt oder sind es einfach nur Metadaten?
+
+01:38:27.080 --> 01:38:33.080
+Die Stärke und Schwäche ist letztlich die Input und Output Logik der ganzen Methodik.
+
+01:38:33.080 --> 01:38:48.080
+Die Inputs sind de facto die Arbeitszeit als auch eben die technischen Inputs oder die Stoffströme. Die Outputs sind die Produkte, die dabei rauskommen, die Emissionen, aber auch die sozialen Auswirkungen.
+
+01:38:48.080 --> 01:39:06.080
+Die sozialen Auswirkungen sind quasi genauso als Output dort enthalten, wie beispielsweise der Output Emission, nur halt eben mit dem Unterschied, dass die sozialen Outputs über die Arbeitszeiten bilanziert werden
+
+01:39:06.080 --> 01:39:19.080
+und die technischen ökologischen Outputs über die funktionelle Einheit, das heißt über die Massen oder Energieströme, die am Ende aus diesem Prozess rauskommen.
+
+01:39:19.080 --> 01:39:34.080
+Das ist auch deshalb wichtig, weil es gibt ja Prozesse, in denen wahnsinnig viele technische oder stoffliche, materielle Inputs reingehen und auch rausgehen, unglaubliche Menge an Energie notwendig sind.
+
+01:39:34.080 --> 01:39:43.080
+Aber eigentlich dort nur eine Person arbeitet und die sozialen Auswirkungen des unmittelbaren Prozesses sehr, sehr klein sind.
+
+01:39:43.080 --> 01:39:58.080
+Darum braucht man quasi eine getrennte Bilanzierung über funktionelle Einheit, also über die stofflich-energetische Ebene und über die Ebene der Arbeitszeiten, damit man quasi die Bilanzierung am Ende sinnvoll hinbekommt.
+
+01:39:58.080 --> 01:40:07.080
+Es gibt ja auch Prozesse, in denen ganz geringe Stoffdurchsätze stattfinden, aber sehr, sehr hohe Arbeitsleistungen notwendig sind.
+
+01:40:07.080 --> 01:40:20.080
+Und darum muss man dort an der Stelle eben die sozialen Auswirkungen über die Arbeitsleistung bilanzieren und nicht im Kontext der kompletten Prozesskette über die stofflichen oder energetischen Flüsse.
+
+01:40:20.080 --> 01:40:38.080
+Aber das heißt auch, dass im Grunde, weil das überrascht mich jetzt eigentlich ein bisschen, muss ich sagen, es ja nicht wirklich möglich ist, dass ich dann mithilfe dieser Methode für einen konkreten Betrieb eine solche Form der Betrachtung anlegen kann,
+
+01:40:38.080 --> 01:40:54.080
+die am Ende auch tatsächlich das widerspiegelt, was passiert, solange ich nicht auch Primärdaten habe, weil sonst werde ich immer auf einen eben sektoralen Durchschnitt zugreifen, der aber im individuellen Fall ja vielleicht ganz anders sein kann.
+
+01:40:54.080 --> 01:41:08.080
+Es kann ja sein, dass der, weiß ich nicht, in Österreich gibt es Waldviertler Schuhe zum Beispiel, das ist ein Schuhproduzent, der sehr darauf achtet, dass das eben alles ökologisch und sozial quasi vertretbar produziert wird und so weiter und so fort.
+
+01:41:08.080 --> 01:41:20.080
+Wenn ich dort jetzt eine solche Methode drauf anlegen würde und in der Betrachtung eben dann einen sektoralen Durchschnitt der Turnschuhindustrie quasi irgendwie anlege, dann habe ich ja eigentlich ein verzerrtes Bild.
+
+01:41:21.080 --> 01:41:30.080
+Also das heißt, ich muss eigentlich mir Primärdaten holen, um für einen konkreten Fall dann auch wirklich zu verlässlich eine Aussage treffen zu können, oder?
+
+01:41:30.080 --> 01:41:35.080
+Genau, das wäre die gute wissenschaftliche Praxis im Arbeiten mit diesem Modell.
+
+01:41:35.080 --> 01:41:39.080
+Du willst mir sagen, das machen nicht alle.
+
+01:41:39.080 --> 01:41:50.080
+Es kann natürlich aber auch sein, dass es tatsächlich so ist, dass der gesellschaftliche regionale Durchschnitt auf genau diesen Betrieb, den man sich angucken will, passt.
+
+01:41:50.080 --> 01:41:53.080
+Aber man muss das im Zweifelsfall immer prüfen.
+
+01:41:53.080 --> 01:42:01.080
+Also man nimmt quasi diese Datenbanken und das gilt ja nicht nur für die sozialen Daten, sondern auch für die technischen und stofflichen und energetischen Daten.
+
+01:42:01.080 --> 01:42:12.080
+Man nimmt sozusagen diese Datenbanken als eine Art Grundlage und schaut dann, wo die reale Fallstudie, die man sich angucken will, von diesen Daten halt eben abweicht.
+
+01:42:12.080 --> 01:42:22.080
+Und wenn man dann bessere Daten zur Verfügung hat, dann ergänzt man die Sekundärdaten durch diese Primärdaten, so gut man das kann.
+
+01:42:22.080 --> 01:42:34.080
+Und wenn man es nicht kann, dann muss man zumindest in der Auswertung der Resultate letztlich reflektieren, dass es halt eben eine mangelnde Datenqualität in der Abbildung,
+
+01:42:34.080 --> 01:42:45.080
+beispielsweise bestimmter konkreter sozialer Verhältnisse gibt, die eben nicht diesen Sekundärdaten des regionalen sektoralen Durchschnitts entsprechen.
+
+01:42:45.080 --> 01:42:53.080
+Wunderbar, ich sehe schon, da deuten sich ganz klar die nächsten Schritte vor Formen des Bottom-up-Plannings an, aber da kommen wir später noch hinzu.
+
+01:42:53.080 --> 01:43:08.080
+Bevor wir das machen, würde ich gerne mal noch kurz auf die von dir ja auch verwendeten SDGs, die Sustainable Development Goals eingehen und wie die in der Methodik der HILXA mit eingewoben sind.
+
+01:43:08.080 --> 01:43:14.080
+Denn es gibt quasi eine Vielzahl an Indikatoren. Ich habe es jetzt vergessen, über 120 waren es, irgendwas zwischen 120 und 130.
+
+01:43:14.080 --> 01:43:22.080
+Und dann erfolgt es aber innerhalb des methodischen Zugangs, dass man die bestimmten SDGs eben zuordnet.
+
+01:43:22.080 --> 01:43:27.080
+Vielleicht kannst du uns diesen Prozess nochmal erklären, warum man überhaupt noch diese Zuordnung macht.
+
+01:43:27.080 --> 01:43:36.080
+Ist das einfach eine Form der Darstellbarkeit, weil das ein Indikator ist, auf dem man sich gesellschaftlich fast schon weltweit zumindest in einem bestimmten Feld geeinigt hat
+
+01:43:36.080 --> 01:43:41.080
+und deswegen das eine gute Bezugsgröße ist? Was sind die Gründe, warum man die SDGs hier verwendet?
+
+01:43:41.080 --> 01:43:48.080
+Genau das ist der Grund, die SDGs zu verwenden, dass sie halt eben, wir sprechen hier über normative Fragen.
+
+01:43:48.080 --> 01:43:57.080
+Also was will man gesellschaftlich eigentlich erreichen? Also was ist beispielsweise, wollen wir Gender Equality erreichen?
+
+01:43:57.080 --> 01:44:06.080
+Ja, wollen wir, weil es gibt ein SDG, das heißt Gender Equality. Und dieses SDG ist untersetzt mit einer ganze Reihe von Indikatoren,
+
+01:44:06.080 --> 01:44:15.080
+auf die man sich in einem, ich sag mal institutionell, halbdemokratischen Prozess in Form dieser SDGs letztlich geeinigt hat.
+
+01:44:15.080 --> 01:44:26.080
+Also diese SDGs, die Stärke der SDGs besteht letztlich darin, dass es eine gewisse demokratische Legitimierung von gesellschaftlichen Zielen ist,
+
+01:44:26.080 --> 01:44:35.080
+auf die man sich einerseits geeinigt hat, über deren Logik man aber andererseits Ergebnisse von LCA kommunizieren kann.
+
+01:44:35.080 --> 01:44:45.080
+Also das heißt, wenn wir global unterschiedliche oder wenn wir global LCA's durchführen in unterschiedlichen Sektoren, in unterschiedlichen Regionen,
+
+01:44:45.080 --> 01:44:54.080
+müssten wir uns darauf einigen, was für Indikatoren und was für Ziele wir mit diesen Indikatoren letztlich messen und verfolgen wollen.
+
+01:44:54.080 --> 01:45:07.080
+Also beispielsweise könnte man ja auch zur Debatte stellen, wenn man den Indikator ausgewählt hat Gender Wage Gap, ob es besser ist, wenn die Gender Wage Gap sehr hoch oder sehr niedrig ist.
+
+01:45:07.080 --> 01:45:16.080
+Also die normative Festlegung, ob eine bestimmte Ausprägung eines Indikators wünschenswert oder nicht wünschenswert ist, ist ja intrinsisch normativ.
+
+01:45:17.080 --> 01:45:29.080
+Und die SDGs erlauben uns sozusagen zusätzlich zu einer Interpretation gesellschaftlicher Naturverhältnisse eine Art globales, demokratisch beschlossenes Set von Zielen zu haben,
+
+01:45:29.080 --> 01:45:40.080
+zu denen wir die Ergebnisse unserer LCA's zuordnen können und anhand deren wir die Ergebnisse dieser LCA's auch kommunizieren können.
+
+01:45:40.080 --> 01:45:53.080
+Also das was letztlich passiert ist, wir nehmen die SDGs, von denen es 17 gibt und ungefähr 169 Unterziele, also diese 17 SDGs haben insgesamt 169 Unterziele
+
+01:45:53.080 --> 01:46:05.080
+und was wir machen ist, wir allokieren quasi die Indikatoren, diese über 100 Indikatoren aus der LCA Methodik zu diesen 169 Unterziele.
+
+01:46:05.080 --> 01:46:21.080
+Es gibt also, das sieht man jetzt schon an der Zahl 100 und 969 bestimmte Indikatoren aus der LCA Methodik, die auf mehrere SDG Subgoals, also SDG Unterziele zutreppen.
+
+01:46:21.080 --> 01:46:28.080
+Typisch wäre beispielsweise der Indikator CO2 Emissionen oder CO2 Äquivalente Emissionen.
+
+01:46:28.080 --> 01:46:39.080
+Die treffen ja auf eine ganze Reihe von SDGs letztlich zu, nämlich einerseits auf den Klimawandel selbst, aber auch auf die Biodiversität, aber auch auf die menschliche Gesundheit,
+
+01:46:39.080 --> 01:46:52.080
+was jetzt schon drei unterschiedliche SDGs sind, weil halt eben durch die durchschnittliche Erhöhung der Temperatur eben quasi der Klimawandel als zu bekämpfen des gesellschaftliches Phänomen ein SDG adressiert,
+
+01:46:52.080 --> 01:47:00.080
+die Biodiversität einschränkt, was schon ein zweites SDG ist und auch das dritte SDG, nämlich die gesellschaftliche Gesundheit adressiert.
+
+01:47:00.080 --> 01:47:16.080
+Also das heißt, unterschiedliche Indikatoren beeinflussen unterschiedliche SDGs und wir können dann für jeweils ein SDG sagen, wie stark diese Ausprägungen oder diese Auswirkungen sind.
+
+01:47:16.080 --> 01:47:26.080
+Und das, was letztlich in dieser SDG Logik das Entscheidende ist, wenn wir das weiter aggregieren wollen, ist die Gewichtung der SDGs zueinander.
+
+01:47:26.080 --> 01:47:38.080
+Und diese Gewichtung der SDGs zueinander, die wurde vorgenommen über die Partizipationsmethoden, die wir angewendet haben für die Bioökonomie in Deutschland.
+
+01:47:39.080 --> 01:47:50.080
+Was man hier vielleicht grundsätzlich noch mal verstehen muss, ist am Ende, wenn man nur ein Produktionssystem bilanziert und für ein Produktionssystem diese Indikatoren hat,
+
+01:47:50.080 --> 01:47:58.080
+dann hat man ja nur absolute Zahlen, beispielsweise CO2-Emissionen oder Landflechtverbrauch oder Wasserverbrauch.
+
+01:47:58.080 --> 01:48:03.080
+Und diese absolute Aussage, die ist ja in ihrer Aussagekraft sehr begrenzt.
+
+01:48:03.080 --> 01:48:10.080
+Was wir auf dem jetzigen Stand von HILSA machen, ist, wir bilanzieren mindestens zwei Produktionssysteme.
+
+01:48:10.080 --> 01:48:22.080
+Also wir bilanzieren ein Produktionssystem beispielsweise aus der Bioökonomie und ein Produktionssystem aus der Fossilenökonomie, die aber vergleichbare Produkte hervorbringen.
+
+01:48:22.080 --> 01:48:29.080
+Also beispielsweise aus der Bioökonomie ein Holzbalken und aus der Fossilenökonomie ein Stahlbalken.
+
+01:48:29.080 --> 01:48:42.080
+Und wenn man diese zwei Produktionssysteme hinsichtlich ihrer Indikatoren miteinander vergleicht, dann würde man beispielsweise für den Indikator CO2-Emissionen feststellen.
+
+01:48:42.080 --> 01:48:52.080
+Und das haben wir dann ausgerechnet, dass mit der Methode, mit dem Modell, dass der Holzbalken 1,5 Tonnen CO2-Emissionen freisetzt,
+
+01:48:52.080 --> 01:49:00.080
+während seine Produktion und seine Verwendung und seine Entsorgung und der Stahlbalken aber, der Stahlträger aber 3 Tonnen.
+
+01:49:00.080 --> 01:49:08.080
+Und was wir dann machen, um sozusagen keine absolute Aussage, sondern eine relative Aussage zu bekommen, die letztlich ja auch nur Sinn hat,
+
+01:49:08.080 --> 01:49:15.080
+ist diese zwei Größen in Beziehungen zueinanderzusetzen über einen Rechenschritt. Im Englischen heißt es Substitution Factor of Impact.
+
+01:49:15.080 --> 01:49:24.080
+Im Deutschen wäre es der Substitutionsfaktor der Auswirkung. Also das heißt, es gibt eine Rechengröße der Substitutionsfaktor der Auswirkung,
+
+01:49:24.080 --> 01:49:35.080
+wo wir letztlich einfach den Quotienten bilden aus dem Indikatorenwert des Bioökonomiebeispiels und des Fossilenbeispiels im Sinne von,
+
+01:49:35.080 --> 01:49:47.080
+am Beispiel jetzt der CO2-Emissionen wäre das 1,5 Tonnen CO2-Emissionen des Holzbalkens durch 3 Tonnen CO2-Emissionen des Stahlträgers.
+
+01:49:47.080 --> 01:50:04.080
+Und dieser Faktor, der dabei rauskommt, nämlich 0,5, gibt letztlich einfach an, dass nur halb so viele CO2-Emissionen freiwerben bei der Produktion des Holzbalkens im Vergleich zur Produktion des Stahlbalkens.
+
+01:50:04.080 --> 01:50:23.080
+Dieser Substitutionsfaktor der Auswirkung von 0,5 ist jetzt eine dimensionslose Größe, die die Aussage hat, wie viele relative Auswirkungen hat eben der Vergleich dieser beiden Produktionssysteme oder diese beiden Produktionssysteme zueinander.
+
+01:50:23.080 --> 01:50:41.080
+Man könnte auch sagen, die Aussage ist, wenn wir die Stahlträgerproduktion durch eine Holzbalkenproduktion ersetzen, dann erwarten wir halb so viele Auswirkungen für das Ziel Klimawandel, weil die Emissionen ja nur halb so groß sind.
+
+01:50:41.080 --> 01:50:58.080
+Der große Vorteil ist, wenn wir diesen Substitution Factor of Impact berechnen, das heißt, dieser Substitutionsfaktor der Auswirkung, der im Quotient von zwei Zahlenwerten des gleichen Indikators ist, dann verschwindet die Einheit.
+
+01:50:58.080 --> 01:51:10.080
+Und die Aussage ist immer die gleiche, nämlich sozusagen die relative Mehr- oder weniger Nachhaltigkeit des einen Produktionssystems verglichen zu einem anderen Produktionssystem.
+
+01:51:10.080 --> 01:51:18.080
+Und weil diese Dimension verschwindet, kann man das quasi ja auch für alle anderen Indikatoren machen, die ja ganz andere Einheiten haben.
+
+01:51:18.080 --> 01:51:26.080
+Also für der CO2-Emission sind es CO2-Äquivalente. Bei Landflächenverbrauch wären es Hektar Landflächenverbrauch.
+
+01:51:26.080 --> 01:51:45.080
+Wenn da jetzt der Landflächenverbrauch bei dem Bioökonomie-Beispiel drei Hektar ist und im Stahl-Beispiel halt eben zwei Hektar ist, dann ergibt sich dort ein Faktor größer eins, der letztlich aussagt, dass wir in der Bioökonomie mehr Landflächen verbrauchen als in Stahlproduktion.
+
+01:51:45.080 --> 01:51:57.080
+Das heißt, wir bekommen eine dimensionslose Größe, die im Kern sozusagen den gleichen Informationsgehalt, nämlich die relativen Auswirkungen, widerspiegelt.
+
+01:51:57.080 --> 01:52:04.080
+Und diese verschiedenen dimensionslosen Größen, alle 100 Indikatoren, die kann man dann zueinander aggregieren.
+
+01:52:04.080 --> 01:52:20.080
+Und in dieser Aggregation kann man eine Gewichtung vornehmen, indem man halt eben sagt, Klimawandel ist für unsere Stakeholder oder für unsere Menschen, die diese Gewichtung durchgeführt haben, wesentlich relevanter als beispielsweise der Landflächenverbrauch.
+
+01:52:20.080 --> 01:52:28.080
+Das ist ein entscheidender Punkt. Also ich hoffe, die Zuhörerinnen und Zuhörer sind noch bei uns.
+
+01:52:28.080 --> 01:52:40.080
+Denn hier sind wir an einem wichtigen Punkt, einem interessanten Punkt, weil hier ja eigentlich dann Fragen der Skalierbarkeit aufkommen.
+
+01:52:40.080 --> 01:52:48.080
+Also ich versuche das nochmal zu rekapitulieren für mich, aber vielleicht auch für die Zuhörerinnen und Zuhörer.
+
+01:52:48.080 --> 01:53:02.080
+Was du gesagt hast, ist, ihr habt einen Faktor F und das ist ein Faktor der Gewichtung, der immer in Bezug steht oder sich immer bezieht auf einen spezifischen Indikator.
+
+01:53:02.080 --> 01:53:15.080
+Sagen wir mal CO2 oder eben Landnutzung. Und nachdem aber es dann quasi so ist, dass es in Bezug auf all diese verschiedenen Indikatoren jeweils Gewichtungen gibt,
+
+01:53:15.080 --> 01:53:28.080
+sagst du, kann man das quasi zusammenführen und dadurch dann wie so einen allgemeinen Faktor, eine allgemeine Gewichtung vielleicht versuchen darzustellen.
+
+01:53:28.080 --> 01:53:44.080
+Das ist ein Allgemeinfaktor F und dieser Allgemeinfaktor F ergibt sich daraus, wie bestimmte Stakeholderinnen, bestimmte Teilnehmende innerhalb dieses Prozesses,
+
+01:53:44.080 --> 01:53:51.080
+individuell in dem Fall bestimmte SDGs für sich gewichten.
+
+01:53:51.080 --> 01:54:04.080
+Also je nachdem wie sie quasi gewichten, ob jetzt Umweltschutz wichtiger ist als ein anderer Faktor, vielleicht Arbeitsbedingungen oder sowas,
+
+01:54:04.080 --> 01:54:17.080
+wird sich sozusagen die Aggregation dieser verschiedenen Teilsubstitutionsfaktoren quasi unterschiedlich auswirken auf einen Gesamtsubstitutionsfaktor. Ist das richtig?
+
+01:54:17.080 --> 01:54:33.080
+Ja, so ungefähr. Also das Gesamtergebnis dieses Substitutionsfaktors der Auswirkung widerspiegelt einen Vergleich von zwei oder mehr Produktionssystemen mit der gleichen funktionellen Einheit.
+
+01:54:33.080 --> 01:54:41.080
+Darf ich da noch kurz ansetzen? Weil das wirft ja eigentlich nämlich diese beiden Sachen, werfen eigentlich unmittelbar Fragen der Eskalierbarkeit auf.
+
+01:54:41.080 --> 01:54:52.080
+Also das eine ist, dass du sagst, die Methode ist dann anwendbar, wenn ich zwei miteinander vergleichbare, in dem Fall Produktionsprozesse habe.
+
+01:54:52.080 --> 01:55:00.080
+Und das, was sie leisten kann, ist eben diesen Vergleich darstellbar zu machen. Und ich kann diesen Vergleich darstellbar machen.
+
+01:55:00.080 --> 01:55:12.080
+Also das wäre dann der zweite Schritt, wenn ich in irgendeiner Form eine Form der Gewichtung einführen kann, die sich nicht intrinsisch aus dieser Betrachtung selbst ergibt,
+
+01:55:12.080 --> 01:55:25.080
+sondern die durch eine Außenstehende, im Gegenteil, die sich durch eine involvierte andere Partei quasi ergibt, die diese Gewichtung uns sozusagen hinzugibt.
+
+01:55:25.080 --> 01:55:33.080
+Ja, also und diese beiden Faktoren, dass immer jemanden oder etwas oder irgendein Prozess geben muss, der eine Gewichtung bereitstellt.
+
+01:55:33.080 --> 01:55:43.080
+Und die Tatsache, dass es immer ähnliche Prozesse, also miteinander sinnvollerweise vergleichbare Prozesse sein müssen, die da durch diese Methode betrachtet werden.
+
+01:55:43.080 --> 01:56:05.080
+Das zusammengenommen lässt sich, lässt einen dann ja auf einer bestimmten Ebene fragen, inwiefern das dann für eine gesamtgesellschaftliche Form der Betrachtung durch diese Methode zielführend ist, also im Sinne der Skalierbarkeit.
+
+01:56:05.080 --> 01:56:12.080
+Ja, man muss aber zwei Anwendungsfälle unterscheiden. Der eine Anwendungsfall ist das, was wir mit HILSA aktuell machen.
+
+01:56:12.080 --> 01:56:21.080
+Und das ist der Nachhaltigkeitsvergleich oder eine vergleichende Nachhaltigkeitsbetrachtung von unterschiedlichen Produktionssystemen.
+
+01:56:21.080 --> 01:56:40.080
+Das passiert mit diesem Substitution Factor of Impact. Das andere wäre aber die Anwendung von HILSA als Bilanzierungsmethodik für eine Natur, Stoff, Energie und Arbeitszeitrechnung in einer demokratischen Wirtschaftsplanung.
+
+01:56:40.080 --> 01:56:52.080
+Da würde quasi dieser Vergleich mit diesen Substitutionsfaktoren des Impacts gar nicht die Rolle spielen, weil dort die Aufgabenstellung ja eine ganz andere ist.
+
+01:56:52.080 --> 01:57:04.080
+Also aktuell ist die Aufgabenstellung an HILSA zu sagen, wir machen eine vergleichende Nachhaltigkeitsbetrachtung von zwei Produktionssystemen, die ähnliche Sachen herstellen, um dann zu sagen, das eine ist nachhaltiger als das andere.
+
+01:57:04.080 --> 01:57:23.080
+In einer planwirtschaftlichen oder demokratischen Planwirtschaft wäre HILSA, aber eigentlich wäre gar nicht das Ziel, diese vergleichende Nachhaltigkeitsbetrachtung herzustellen, sondern tatsächlich diese Bilanzierung der Stoff, Energie und Arbeitszeitflüsse über diese Methodik darzustellen.
+
+01:57:23.080 --> 01:57:29.080
+Und das diese Information quasi in die kubernetesische Planwirtschaft einzuspeisen.
+
+01:57:29.080 --> 01:57:35.080
+Wunderbar, da sind wir dann eigentlich schon bei dem zweiten Block unseres Gesprächs und da wollen wir auf jeden Fall auch tief eintauchen.
+
+01:57:35.080 --> 01:57:55.080
+Aber ich würde dir gerne vorher trotzdem nochmal vielleicht eben auch anschließend an das, was du gerade gesagt hast, nochmal die Chance geben, vielleicht so ein bisschen für dich auch zu bilanzieren, was kann jetzt eben HILSA leisten und was kann es vielleicht, was kann die Methode eben nicht leisten.
+
+01:57:55.080 --> 01:58:10.080
+Also was bräuchte es sozusagen darüber hinaus noch? Und dann gehen wir von da aus dann im Grunde zu der Frage, wie wiederum HILSA auch anders eingesetzt werden könnte in einer Form von ökologisch orientierter kubernetesischen Planwirtschaft?
+
+01:58:10.080 --> 01:58:22.080
+Also das, was HILSA kann, ist halt eben genau diese Bilanzierung der Stoff, Energie und Arbeitszeiteinsätze und deren konkrete Qualitäten und Quantitäten in komplexen Produktionssystemen.
+
+01:58:22.080 --> 01:58:32.080
+Was man damit machen kann, ist zu sagen, dass dieses und jenes Produktionssystem diese und jene soziale, ökologische und ökonomische Auswirkungen hat.
+
+01:58:32.080 --> 01:58:46.080
+Für die relative Nachhaltigkeitsbetrachtung bedeutet das, dass man sagen kann, dass bestimmte Produktionssysteme a. aus der Bioökonomie nachhaltiger sind als bestimmte Produktionssysteme b. aus der fossilen Ökonomie.
+
+01:58:47.080 --> 01:59:10.080
+Die eigentliche Kernfrage, die man aber nicht beantworten kann auf dem gegenwärtigen Stand, ist, wie viel Produktionssystem a. können wir uns denn eigentlich erlauben, um in planetaren Grenzen die gesellschaftlichen Bedürfnisse nach dem Produkt von Produktionssystem a. zu befriedigen?
+
+01:59:10.080 --> 01:59:17.080
+Also das heißt, die relative Nachhaltigkeitsbetrachtung erlaubt uns aktuell, diesen Vergleich zu machen.
+
+01:59:17.080 --> 01:59:34.080
+Was es aber nicht erlaubt, ist eine absolute Nachhaltigkeitsbetrachtung, die uns erlauben würde, zu sagen, wie viel von diesen Produkten a. können wir denn überhaupt herstellen innerhalb von planetaren Grenzen und welche gesellschaftlichen Bedürfnisse können wir damit zu welchem Grad befriedigen?
+
+01:59:35.080 --> 02:00:03.080
+Das steckt also in der aktuellen Methodik nicht drin und diese Problemstellung, sich zu fragen, wie viele oder wie viel eines bestimmten Produktes oder man produzieren könnte mit den gegebenen Produktionssystemen, das wird in der LCA-Sparte oder in den LCA-Methoden auch verhandelt halt eben als absolute Nachhaltigkeitsbewerbung.
+
+02:00:03.080 --> 02:00:26.080
+Und was da aktuell in der Wissenschaft diskutiert wird, ist zu sagen, okay, man müsste ja also planetare Grenzen, beispielsweise die CO2-Emissionen, die wir global noch emittieren dürfen, um letztlich nicht über 1,5 Grad zu bekommen, diese jährlichen CO2-Emissionen sektoral und regional runterzubrechen.
+
+02:00:26.080 --> 02:00:48.080
+Also dass man sagt, okay, wir haben so und so viele Millionen Tonnen CO2-Emissionen, die wir pro Jahr noch emittieren dürfen und jetzt brechen wir das meinetwegen auf ein Pro-Kopf-Budget runter und können dann über die Einwohner, die in einer bestimmten Region leben, ermitteln, wie viele CO2-Emissionen regional nur bestimmten Regionen noch zustehen.
+
+02:00:49.080 --> 02:01:03.080
+Und dann hätte man quasi ein regionales CO2-Budget. Dann könnte man auch noch sagen, und das wird probiert, irgendwie auszurechnen, wie man dann dieses regionale CO2-Budget noch auf Sektoren in dieser Region umrechnen kann.
+
+02:01:03.080 --> 02:01:12.080
+Also dass beispielsweise für die komplette Autoproduktion in Mitteldeutschland noch so und so viele CO2-Emissionen als Budget zur Verfügung stehen.
+
+02:01:13.080 --> 02:01:22.080
+Das heißt quasi, planetare Grenzen in ein Verhältnis zu setzen zu den Umweltauswirkungen dieser Produktionssysteme.
+
+02:01:22.080 --> 02:01:29.080
+Und das hat man, probiert man aktuell oder hat man lange probiert, letztlich über reine Rechenschritte zu machen.
+
+02:01:29.080 --> 02:01:42.080
+Also eben über dieses, anhand der jetzigen Produktion, Bevölkerung und sektoralen und regionalen Verteilungen, sozusagen diese sektoralen und regionalen Produktionsbudgets auszurechnen.
+
+02:01:42.080 --> 02:01:53.080
+Einfach auszurechnen, ohne sich aber die Frage zu stellen, dass genau diese sektorale und regionale Budgetierung eigentlich der Gegenstand einer gesellschaftlichen Planung sein sollte.
+
+02:01:53.080 --> 02:02:03.080
+Und das ja demokratisch ausgehandelt werden muss. Und darum wird HILSA an diesen Schritt nicht gehen, auch wenn ich lange Zeit überlegt habe, ob man das vielleicht tun sollte.
+
+02:02:03.080 --> 02:02:18.080
+HILSA wird eben genau diesen Schritt nicht gehen, sozusagen dieses Downscaling, also dieses Herunterskalieren von globalen planetaren Grenzen auf bestimmte Sektoren, Regionen und Produktionssysteme einfach operationalistisch durchzuziehen,
+
+02:02:18.080 --> 02:02:29.080
+sondern macht genau diese Budgetierung, diese Verteilung der globalen und regionalen ökologischen Grenzen zum Gegenstand einer gesellschaftlichen Verhandlung, die nicht in HILSA stattfindet,
+
+02:02:29.080 --> 02:02:42.080
+sondern für die HILSA sozusagen nur ein Informationstool darstellt. Das ist vielleicht ein wesentlicher Komplex der Begrenztheit, also dass man letztlich die entscheidende Frage danach,
+
+02:02:42.080 --> 02:02:53.080
+wie viel wir eigentlich von bestimmten Sachen produzieren können in ökologischen Grenzen, nur in einem viel größeren System einer deliberativen demokratischen Diskussion erreichen kann
+
+02:02:53.080 --> 02:03:05.080
+und halt eben nicht mit diesen Methoden selbst. Und dass wenn man das mit diesen Methoden selbst probiert, auf jeden Fall diese Methoden überstrafiziert und glaube ich weit über ihre Grenzeneinsatz.
+
+02:03:06.080 --> 02:03:18.080
+Ja, da sind wir eigentlich schon mitten im Themenbereich drinnen, nämlich eigentlich der Notwendigkeit, dass wir auf eine Form der gesamtgesellschaftlichen sozio-metabolischen Planung hinsteuern,
+
+02:03:18.080 --> 02:03:32.080
+die eben, und das sagst du ja vollkommen richtig, immer eine Form der demokratischen Planung sein muss. Das heißt, wir können eben genau nicht in so einem quasi deterministisch-technokratischen Sinne einfach nur diese Werte hernehmen und so tun,
+
+02:03:32.080 --> 02:03:49.080
+als wäre damit schon alles gesagt. Du hast, um das auch so ein bisschen weiterzutreiben, eben diese Verschränkung zwischen Formen der demokratischen Planung und Formen der Material- und Energieflussanalyse oder der sozio-metabolischen Betrachtung,
+
+02:03:49.080 --> 02:04:03.080
+also um das weiterzutreiben mit Jakob Heyer, der ja auch hier in Future Histories schon begrüßt werden durfte, Shoutout an der Stelle an Jakob, zusammen mit Jakob ein Paper geschrieben, das sich nennt Ökobilanz und kybernetische Planwirtschaft.
+
+02:04:03.080 --> 02:04:09.080
+Vielleicht kannst du uns einmal kurz die grundlegenden Überlegungen skizzieren, die ihr da in diesem Paper macht.
+
+02:04:09.080 --> 02:04:24.080
+Das war Future Histories für heute. Vielen Dank fürs Zuhören, Show-Notizen und vieles mehr findet ihr auf www.futurehistories.today.
+
+02:04:24.080 --> 02:04:30.080
+Diskutiert mit auf Twitter unter dem Hashtag Future Histories oder im eigenen Subreddit.
+
+02:04:30.080 --> 02:04:44.080
+Ihr könnt Future Histories nicht nur auf allen großen Podcast-Plattformen hören und abonnieren, sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu Kernbegriffen einzelner Episoden findet.
+
+02:04:44.080 --> 02:04:52.080
+Schreibt mir gerne unter jan at futurehistories.today. Ich freue mich immer sehr über interessante Rückmeldungen und Hinweise.
+
+02:04:52.080 --> 02:05:02.080
+Wenn ihr Future Histories unterstützen wollt, dann könnt ihr das auf patreon.com-futurehistories oder auch via Spende auf unserer Homepage.
+
+02:05:02.080 --> 02:05:12.080
+Future Histories ist eine Produktion von MetaLapses zu finden auf meta lapses.net. Bis zum nächsten Mal. Ich freue mich.
+
