@@ -1,0 +1,2033 @@
+WEBVTT
+
+00:00.000 --> 00:05.800
+Herzlich willkommen bei Future Histories, dem Podcast zur Erweiterung unserer Vorstellung von Zukunft.
+
+00:05.800 --> 00:11.200
+Mein Name ist Jan Groß und ihr hört heute den zweiten Teil meines Gesprächs mit Walter Zeug
+
+00:11.200 --> 00:15.800
+zu Material- und Energieflussanalyse und sozio-metabolischer Planung.
+
+00:15.800 --> 00:20.800
+Wir haben im ersten Teil ja schon ausführlich über Walters HIGSA-Methode gesprochen
+
+00:20.800 --> 00:25.400
+und steigen im heutigen zweiten Teil des Gesprächs mit Anmerkungen dazu ein,
+
+00:25.600 --> 00:30.000
+dass in heutigen Datenbanken die Lebenszyklusanalysen zugrunde liegen.
+
+00:30.000 --> 00:35.800
+Zwar Arbeit erscheint, aber der komplette Bereich unbezahlter Sorgearbeit invisibilisiert wird
+
+00:35.800 --> 00:40.600
+und dass es daher auch ganz unbedingt neuer Datenbanken bedarf.
+
+00:40.600 --> 00:46.200
+Danach widmen wir uns dann dem von Walter zusammen mit Jakob Heyer verfassten Paper
+
+00:46.200 --> 00:50.200
+zu Ökobilanz und kybernetische Wirtschaftsplanung.
+
+00:50.400 --> 00:54.000
+Also viel Freude mit der heutigen Folge Future Histories,
+
+00:54.000 --> 00:59.800
+dem zweiten Teil meines Gesprächs mit Walter Zeug zu Material- und Energieflussanalyse
+
+00:59.800 --> 01:02.600
+und sozio-metabolischer Planung.
+
+01:08.200 --> 01:15.400
+Ich hoffe, das hatte ich gestern dazu gesagt, dass die Datenbanken ja keinerlei Reproduktionsarbeit,
+
+01:15.400 --> 01:20.400
+Sorgearbeit, Care-Arbeit erfassen und auch nur einen geringen Teil der Dienstleistungen,
+
+01:20.400 --> 01:23.400
+die ja tatsächlich in Produktionsprozessen enthalten sind.
+
+01:23.400 --> 01:28.600
+Aber das ist auf jeden Fall der Punkt, dass das ja vielleicht sogar in den Datenbanken,
+
+01:28.600 --> 01:34.800
+die wir aktuell haben, die allerwesentlichste Lücke ist, wo man sagen kann,
+
+01:34.800 --> 01:42.000
+man kann diese Datenbanken, so wie sie sind, eigentlich für eine Art postkapitalistischer Produktionsplanung
+
+01:42.000 --> 01:48.800
+so nicht verwenden, weil sie halt eben nur einen ganz bestimmten Ausschnitt der gesellschaftlichen Arbeit darstellen
+
+01:48.800 --> 01:53.200
+und das Bild auch teilweise extrem verzerren würden, wenn man nur das nimmt,
+
+01:53.200 --> 01:59.800
+weil halt eben es Arbeitsprozesse gibt, die vielleicht einer sehr hohen Sorge- und Care-Arbeit sozusagen bedarfen,
+
+01:59.800 --> 02:03.000
+die aber de facto in diesen Datenbanken unsichtbar gemacht wird.
+
+02:03.000 --> 02:10.400
+Und das ist ja auch keine Überraschung, weil das ist ja genau die Eigenschaft dieser im Kapitalismus geschaffenen Datenbanken,
+
+02:10.400 --> 02:14.800
+dass sie ja auch nur unter weitestgehend kapitalistischen Prinzipien bilanzieren
+
+02:14.800 --> 02:18.000
+und dazu gehört eben nicht die Sorge- und Care-Arbeit,
+
+02:18.000 --> 02:23.200
+weil diese Allokation der Arbeitszeit zu bestimmten Regionen und Sektoren
+
+02:23.200 --> 02:28.000
+erfolgt ja letztlich über eine monetäre Verrechnung des Bruttoinlandsprodukts.
+
+02:28.000 --> 02:31.800
+So kommen ja überhaupt erst diese Daten zustande, es sind ja keine Primärdaten.
+
+02:31.800 --> 02:36.000
+Und im Bruttoinlandsprodukt ist die Produktion von Pansern erfasst,
+
+02:36.000 --> 02:43.400
+auch die Produktion von Bleistüften, Matjes und Heizkörpern hat da halt eben nicht die Sorge- und Care-Arbeit.
+
+02:43.400 --> 02:54.000
+Und damit wird die sozusagen über diese Generierung der Daten aus dem BIP de facto schon oder aus dem GDP de facto schon unsichtbar.
+
+02:54.000 --> 03:00.000
+Was man machen müsste, um das Problem zu beheben, ist de facto eine tatsächliche Primärdatenerhebung
+
+03:00.800 --> 03:09.200
+mit einem, ich sag mal, emanzipatorischen Anspruch daran, der halt eben all das, was wir in der Linken als Arbeiten und Tätigkeiten
+
+03:09.200 --> 03:13.000
+mit gesellschaftlicher Relevanz diskutieren, auch erfasst.
+
+03:13.000 --> 03:20.800
+Die Datenbanken sind also nicht, ich sag mal, die Grundlage für diese sozialistische Produktionsplanung,
+
+03:20.800 --> 03:27.600
+sondern sie geben uns eigentlich nur bestenfalls eine Idee, wie sowas aussehen könnte,
+
+03:27.600 --> 03:32.000
+wenn wir es dann aber richtig und vernünftig machen mit allem, was dazugehört.
+
+03:32.000 --> 03:38.400
+Das heißt, wir brauchen auf jeden Fall neue Datenbanken, die dann eben auch Sorgtätigkeit beinhalten.
+
+03:38.400 --> 03:42.600
+Wir brauchen aber eben nicht nur diese neuen Datenbanken, sondern es gilt natürlich grundsätzlich,
+
+03:42.600 --> 03:49.000
+die Perspektive zu erweitern, hin zu einer Form von gesamtgesellschaftlicher, sozio-metabolischer Planung.
+
+03:49.000 --> 03:56.400
+Und du hast da zusammen mit Jakob Heyer ein Paper geschrieben mit dem Titel Ökobilanz und kybernetische Planwirtschaft.
+
+03:56.400 --> 04:00.600
+Vielleicht magst du uns da einmal kurz einführen, was sind so die grundlegenden Überlegungen?
+
+04:00.600 --> 04:06.200
+Vielleicht kannst du das einmal skizzieren, wie ihr über Ökobilanz und kybernetische Planwirtschaft nachdenkt.
+
+04:06.200 --> 04:12.000
+Also wir haben damit angefangen zu schauen, welche Stärken und Schwächen haben bisherige Konzepte
+
+04:12.000 --> 04:20.000
+von einer kybernetischen Planwirtschaft und welche Stärken und Schwächen hat diese LCA, LCSA oder HILSA-Methodik?
+
+04:20.000 --> 04:26.400
+Und was kann man de facto von beiden Elementen zusammenbringen, um insgesamt ein stärkeres Konzept zu entwickeln?
+
+04:26.400 --> 04:30.800
+Das heißt, es wird Elemente der kybernetischen Planwirtschaft geben, die wir bisher diskutiert haben,
+
+04:30.800 --> 04:32.200
+die wir so nicht weiter aufnehmen werden.
+
+04:32.200 --> 04:36.600
+Es wird aber auch Elemente aus dem LCA geben, die so in der kybernetischen Planwirtschaft
+
+04:36.600 --> 04:39.600
+mit einem emanzipatorischen Anspruch nicht umsetzbar sind.
+
+04:39.600 --> 04:45.800
+Also es geht da wirklich darum, diese Methoden auch noch mal grundlegend neu zu denken und weiterzuentwickeln.
+
+04:45.800 --> 04:53.400
+Aber prinzipiell ist es so, dass dieses Modell dieser kybernetischen dezentralen, zentralen Planwirtschaft,
+
+04:53.400 --> 04:57.800
+die sehr demokratisch ausgestaltet werden soll, drei Ebenen umfasst.
+
+04:57.800 --> 05:02.400
+Und diese drei Ebenen sind auch Ebenen, die wir auch aus bisherigen Modellen kybernetischer Planwirtschaft
+
+05:02.400 --> 05:07.600
+und von Planwirtschaften allgemein kennen, wie eben beispielsweise bei Ted DeVine oder Nightmare.
+
+05:07.600 --> 05:11.800
+Und die erste Ebene ist diese Ebene der zentralen Planung,
+
+05:11.800 --> 05:16.600
+die de facto zur Aufgabe hat, Makropläne zu erstellen.
+
+05:16.600 --> 05:24.600
+Und diese Makropläne sollen demokratisch entwickelte Prioritäten, Entwicklungsrichtungen sein,
+
+05:24.600 --> 05:32.200
+um Investitionen zu steuern, um Basisdienste regeln zu können, um sich auf beispielsweise planetare Grenzen zu einigen
+
+05:32.200 --> 05:41.400
+und insgesamt einfach die Proportionen und Parameter dieser Produktionssysteme in bestimmten Sektoren und Regionen demokratisch festzulegen.
+
+05:41.400 --> 05:47.000
+Die Planung auf der zentralen Ebene muss dafür auf jeden Fall in einem sehr hohen Maße deliberativ sein
+
+05:47.000 --> 05:53.400
+und eben auch demokratisch oder direktdemokratisch mit repräsentativen Prinzipien konstruiert sein.
+
+05:53.400 --> 05:58.400
+Das politische System dahinter, also ob das jetzt beispielsweise ein Redesystem ist oder andere Systeme,
+
+05:58.400 --> 06:00.600
+das denken wir jetzt noch nicht explizit mit.
+
+06:00.600 --> 06:06.400
+Das ist auf jeden Fall noch ein Punkt, den man weiterentwickeln muss, was wir in Zukunft gegebenenfalls auch tun werden.
+
+06:06.400 --> 06:13.000
+Damit sei bloß gesagt, das ist ein sehr ökonomisch gedachtes System, ohne jetzt irgendwie diese Trennung von Ökonomie und Politik machen zu wollen.
+
+06:13.000 --> 06:17.800
+Aber der Schwerpunkt liegt hier sozusagen auf der ökonomischen Ebene.
+
+06:17.800 --> 06:27.600
+Wichtig ist dieses dezentrale, zentrale System aber insbesondere deshalb, weil es, auch wenn wir den Schwerpunkt eigentlich auf die Dezentralität legen,
+
+06:27.600 --> 06:31.400
+es zentrale Funktionen bedarf, die man nicht dezentral lösen kann.
+
+06:31.400 --> 06:38.600
+Also beispielsweise muss man für Energiesysteme, die ja de facto aus lokalen Einheiten bestehen,
+
+06:38.600 --> 06:46.200
+die sie produzieren, die Energie, aber auch konsumieren die Energie, trotzdem über regionale Outputziele festlegen,
+
+06:46.200 --> 06:52.800
+weil das ja Netzwerksysteme sind und die man nicht ausschließlich regional dezentral planen kann.
+
+06:52.800 --> 06:57.400
+Also beispielsweise sowas wie Energiesysteme, die auch mit hohen Investitionen einhergehen,
+
+06:57.400 --> 07:03.800
+also auch mit hohen infrastrukturellen Aufwendungen, sowas muss man de facto zentral planen,
+
+07:03.800 --> 07:12.800
+weil ja auch nur eine zentrale Planung von solchen sehr übergreifenden komplexen Strukturen eine gewisse ökonomische Rationalität entfaltet,
+
+07:12.800 --> 07:16.800
+die es auf einer dezentralen Organisation nicht unbedingt schaffen würde.
+
+07:16.800 --> 07:23.000
+Man könnte sich das beispielsweise vorstellen an einem Eisenbahnnetz, was ausschließlich dezentral geplant würde
+
+07:23.000 --> 07:26.800
+und jede Kommune das Eisenbahnnetz für sich planen würde. Das würde natürlich nicht funktionieren.
+
+07:26.800 --> 07:32.400
+Also das ist die zentrale Ebene. Der große Unterschied zum sowjetischen Modell ist aber,
+
+07:32.400 --> 07:39.800
+dass eben nicht die gesamte Wirtschaft zentral geplant wird und vor allem diese physischen Outputziele
+
+07:39.800 --> 07:42.800
+für die lokalen Einheiten nicht zentral vorgegeben werden.
+
+07:42.800 --> 07:50.200
+Also das heißt, die zentrale Ebene würde nicht dem Betrieb der Schrauben produziert in einer bestimmten Region ganz genau vorschreiben,
+
+07:50.200 --> 07:54.800
+wie viele Schrauben die zu produzieren hätten, unter welchen Bedingungen, mit welchen Methoden,
+
+07:54.800 --> 07:59.000
+mit was für Maschinen und welche Inputs und Outputs es insgesamt dafür bräuchte.
+
+07:59.000 --> 08:05.000
+Also das wollen wir nicht. Das wäre die Kommandowirtschaft nach sowjetischem Vorbild, die halt eben dysfunktional ist,
+
+08:05.000 --> 08:09.200
+letztlich einfach schon deshalb, weil sie überhaupt gar nicht über die notwendigen Informationen
+
+08:09.200 --> 08:13.600
+und das lokale, dezentrale Wissen verfügt, was eigentlich notwendig ist,
+
+08:13.600 --> 08:19.800
+um in diesen lokalen Produktionseinheiten überhaupt eine effektive Produktion hinzubekommen.
+
+08:19.800 --> 08:26.400
+Abseits von diesem zentral geplanten Sektor ist der eigentliche Schwerpunkt aber die kybernetische,
+
+08:26.400 --> 08:34.000
+das heißt die parametrische und die adaptive Steuerung und vor allem Regelungen von vor allem der Rahmenbedingungen
+
+08:34.000 --> 08:39.800
+innerhalb dieser lokalen Einheiten dezentral dann eigenverantwortlich planen und wirtschaften
+
+08:39.800 --> 08:46.200
+und das aber tun mit dem Blick unter Berücksichtigung der zentralen Ebene.
+
+08:46.200 --> 08:51.400
+Denn wichtig ist ja, dass auch auf dieser dezentraleren Ebene eben die planetaren Grenzen
+
+08:51.400 --> 08:56.600
+nicht überschritten werden dürfen, genauso wie sie das halt eben auch auf der zentralen globalen Ebene
+
+08:56.600 --> 09:04.600
+nicht überschritten werden dürfen und dass diese Budgets sowohl global als auch regional eingehalten werden müssen.
+
+09:04.600 --> 09:08.200
+Also beispielsweise das Budget, was wir an CO2-Emissionen zur Verfügung stehen haben
+
+09:08.200 --> 09:12.600
+und das Budget, was wir an, das ist ja ein globales Budget, aber auch das Budget,
+
+09:12.600 --> 09:16.400
+die wir regional zur Verfügung stehen haben, also beispielsweise Landflächen oder Wasser,
+
+09:16.400 --> 09:21.600
+das sind regional begrenzte sehr unterschiedliche ökologische Budgets.
+
+09:21.600 --> 09:25.600
+Darum ist es auch wichtig, dass wir nicht einfach durchschnittswerte zentral ansetzen,
+
+09:25.600 --> 09:29.200
+beispielsweise für den Wasserverbrauch oder für das zur Verfügung stehende Wasser
+
+09:29.200 --> 09:33.200
+oder für die zur Verfügung stehenden Landflächen, Böden etc. pp.
+
+09:33.200 --> 09:38.200
+um dieser regionalen Differenzierung, um dieser regionalen Unterschiedlichkeit halt eben auch gerecht zu werden,
+
+09:38.200 --> 09:44.600
+sondern solche regional spezifischen Größen müssen dann halt eben auch regional bestimmt werden,
+
+09:44.600 --> 09:48.000
+aber als Information an die zentrale Ebene weitergegeben werden
+
+09:48.000 --> 09:54.200
+und dort in ihrer spezifischen Ausprägung eben berücksichtigt werden.
+
+09:54.200 --> 09:56.400
+Das ist die zentrale Ebene.
+
+09:56.400 --> 10:02.800
+Die zweite Ebene ist die Ebene der wissenschaftlich-ökonomischen Gesamtrechnung.
+
+10:02.800 --> 10:06.400
+Und diese Ebene der wissenschaftlich-ökonomischen Gesamtrechnung
+
+10:06.400 --> 10:11.400
+ist de facto eine wissenschaftlich-ökonomische Informationsebene
+
+10:11.400 --> 10:14.200
+zwischen der zentralen und dezentralen Ebene,
+
+10:14.200 --> 10:19.200
+die aber keine eigene ökonomische Funktion im Produktionsprozess hat,
+
+10:19.200 --> 10:24.400
+als dass dort Entscheidungen gefällt würden oder Dinge tatsächlich produziert werden,
+
+10:24.400 --> 10:30.200
+sondern die ist letztlich entscheidend für eine kypanetische und ein ökologisches Plansystem,
+
+10:30.200 --> 10:36.200
+um überhaupt kohärente, ganzheitliche und zugleich transparente Methoden
+
+10:36.200 --> 10:40.600
+in der gesellschaftlichen Buchführung realisieren zu können.
+
+10:40.600 --> 10:45.000
+Und diese gesamtgesellschaftliche Buchführung wird mit Echtzeitdaten gefördert
+
+10:45.000 --> 10:52.400
+und diese Echtzeitdaten kommen sowohl aus der dezentralen Ebene als auch aus der zentralen Ebene.
+
+10:52.400 --> 10:55.800
+Und was dort gemacht wird, ist, den Anspruch zu verfolgen,
+
+10:56.000 --> 11:01.800
+den gesamten Wirtschaftsprozess möglichst genau symbolisch beschreiben und modellieren zu können,
+
+11:01.800 --> 11:07.000
+das heißt also eine Art verschachteltes Modell des gesamten Produktionsprozesses darstellen zu können,
+
+11:07.000 --> 11:15.400
+der sowohl die lokalen Bottom-up als auch die globalen oder zentralen Top-Down-Elemente integriert.
+
+11:15.400 --> 11:20.200
+Die verschiedenen Ebenen und Einheiten können und sollen damit
+
+11:20.200 --> 11:26.400
+eine realistische, kohärente und effizite Planung, Koordination der Produktion ermöglichen,
+
+11:26.400 --> 11:31.200
+indem sie dieses möglichst detailgetreue Bild der Verhältnisse vorliegen haben,
+
+11:31.200 --> 11:35.000
+also sowohl auf der dezentralen als auch auf der zentralen Ebene,
+
+11:35.000 --> 11:39.800
+um einerseits die sinnvollen Makropläne zu ermöglichen,
+
+11:39.800 --> 11:44.400
+umgekehrt aber auch den lokalen Einheiten eine möglichst genaue Einschätzung
+
+11:44.400 --> 11:49.800
+ihrer spezifischen Stellung im Reproduktionsprozess zu erlauben
+
+11:49.800 --> 11:55.400
+und damit auch der Mikroebene eine sinnvolle Planung und Koordination der Aktivitäten zu ermöglichen.
+
+11:55.400 --> 12:02.200
+Und hier dient LCA oder HILSA letztlich einfach als eine Art Möglichkeit
+
+12:02.200 --> 12:09.800
+einer software- und datenbankgestützten Nutzung dieser Plattform für eine komplexe ökonomische Netzwerkorganisation,
+
+12:09.800 --> 12:12.800
+also das heißt für die Bilanzierung, die Verrechnung,
+
+12:12.800 --> 12:18.400
+beispielsweise der regionalen, planetaren und ökologischen Grenzen, der Knappheit natürlicher Ressourcen,
+
+12:18.400 --> 12:26.000
+aber halt eben auch für die Vernetzung der jeweiligen Sektoren und Regionen miteinander.
+
+12:26.800 --> 12:34.400
+Das ist auch gar nicht so unglaublich neu, denn schon heute gibt es ja beispielsweise dieses Enterprise Resource Planning,
+
+12:34.400 --> 12:38.400
+also das heißt auch im digitalen Kapitalismus gibt es bereits diese voranschreitenden,
+
+12:38.400 --> 12:41.000
+datengetretenen Management- und Planungstechnologien,
+
+12:41.000 --> 12:45.200
+die halt eben auf Informationstechnologien digitaler Steuerung von Unternehmen beruhen
+
+12:45.600 --> 12:50.200
+und beispielsweise in Clouds dieses Wissen schon zentralisieren,
+
+12:50.200 --> 12:55.800
+allerdings dort halt eben im Privateigentum befinden und mit dem Geschäftsgeheimnis eben nicht Transferenzen
+
+12:55.800 --> 12:58.400
+und nicht für eine gesellschaftlich bewusste Planung zugänglich werden.
+
+12:59.800 --> 13:05.200
+Die wesentlichste Ebene in der dezentral-zentralen, demokratischen, hypernetischen Planwirtschaft
+
+13:05.200 --> 13:09.000
+ist aber die dezentrale Ebene, also das heißt die Ebene der lokalen Einheiten,
+
+13:09.600 --> 13:15.000
+das heißt der selbstverwalteten Betriebe, die selbstverwaltet planen, koordinieren und wirtschaften
+
+13:15.000 --> 13:19.200
+und auch weitestgehend selbstständig und eigenverantwortlich agieren,
+
+13:19.200 --> 13:24.000
+aber halt eben unter Berücksichtigung der Makropläne, also das heißt der ökologischen Grenzen
+
+13:24.000 --> 13:30.200
+und den allokierten Budgets der Sektoren und Regionen, als auch unter Berücksichtigung der
+
+13:30.200 --> 13:35.000
+gesamtgesellschaftlichen Buchführung und der zur Verfügung gestellten Informationen und Parameter,
+
+13:35.000 --> 13:41.200
+das heißt auch unter ihren eigenen spezifischen lokalen Bedingungen, also indem sie selbst vor Ort
+
+13:41.400 --> 13:47.000
+demokratisch sozusagen probieren zu entscheiden, ob bestimmte Produktionsmethoden unter einer
+
+13:47.000 --> 13:51.000
+bestimmten Flächenverfügbarkeit, unter bestimmten Bodenbedingungen, unter bestimmter Wasserverfügbarkeit
+
+13:51.000 --> 13:57.600
+halt eben nachhaltig überhaupt darstellbar sind in dieser Region und vor allem erstellen diese
+
+13:57.600 --> 14:02.400
+lokalen Einheiten neben dem, was sie tatsächlich vom gesellschaftlichen Nutzen produzieren,
+
+14:02.400 --> 14:09.160
+detaillierte Pläne über Inputs und Outputs, kleinere Investitionen, Bestände, Umsätze,
+
+14:09.160 --> 14:15.640
+Leistungen etc. pp. Und genau diese Bilanzierung, diese detaillierten Pläne über Inputs und Outputs,
+
+14:15.640 --> 14:22.320
+die können über LCA-Datensätze direkt in den Betrieben erfasst werden und dann in die Datenbanken
+
+14:22.320 --> 14:28.840
+auf der zentralen Ebene und der Ebene der holistischen Gesamtrechnung integriert werden.
+
+14:28.840 --> 14:36.000
+Also das heißt, man hätte damit eine Datenbank gestützte regionale und überregionale Transparenz
+
+14:36.080 --> 14:41.120
+über die Produktionsprozesse und weil man diese hat, also auch über die Inputs und Outputs,
+
+14:41.120 --> 14:49.120
+könnte man dann dort eine Art stoffliche Verteilplattform für Zwischen- und Produkte
+
+14:49.120 --> 14:56.640
+herstellen. Also das heißt, eine Verteilplattform, wo andere Betriebe schauen können, welche Inputs
+
+14:56.640 --> 15:02.240
+und Outputs in einer bestimmten Region anfallen und sich der dann bedienen, um halt eben keine
+
+15:02.320 --> 15:08.960
+Märkte schaffen zu müssen für die Interaktion von Betrieben miteinander, sondern eben die
+
+15:08.960 --> 15:14.400
+Verteilplattform von bestimmten Inputs und Outputs, die anfallen, letztlich auch im Sinne
+
+15:14.400 --> 15:19.280
+einer Kreislaufwirtschaft, das heißt, offene Stoffströme miteinander zu verbinden und damit
+
+15:19.280 --> 15:24.040
+die ökologischen Auswirkungen einerseits zu reduzieren, andererseits aber die Effizienz und
+
+15:24.040 --> 15:28.840
+die Effektivität dieser Produktion überhaupt zu erhöhen. Und das aber nicht, wie das teilweise
+
+15:29.320 --> 15:34.600
+im Kapitalismus funktioniert, nach den verkürzten Kriterien des Profils, sondern halt eben tatsächlich
+
+15:34.600 --> 15:41.520
+nach dem Kriterium der stofflichen, energetischen und ich sag mal sozialen, also in der Arbeitszeit,
+
+15:41.520 --> 15:48.480
+Effizienz und Effektivität. Diese spezifische Form der Mehr-Ebenen-Organisation, wenn man so will,
+
+15:48.480 --> 15:53.080
+du hattest es jetzt schon angesprochen, die kennen wir innerhalb der Planungsdebatte auch aus anderen
+
+15:53.080 --> 15:57.240
+Modellen, du hattest Divine angesprochen, aber auch David Leibmann eben mit seiner Multi-Level
+
+15:57.240 --> 16:03.720
+Iterative Coordination, Multi-Level Democritic Iterative Coordination, das ist wichtig,
+
+16:03.720 --> 16:09.480
+das Democritic, auch dem Plattenkampf hat da so ein bisschen dran angeknüpft und auch dezidiert
+
+16:09.480 --> 16:15.560
+eben die Kybernetik mit hinein gebracht. Und ein interessantes Element dabei oder eine große Frage,
+
+16:15.560 --> 16:20.120
+die sich da natürlich immer stellt, ist die Frage der Vermittlung zwischen den Ebenen,
+
+16:20.120 --> 16:25.600
+weil du hast jetzt natürlich in einem nachvollziehbaren Optimismus das so
+
+16:25.600 --> 16:29.840
+dargestellt, als ob quasi die dezentralen Ebenen natürlich dann ihre Information von
+
+16:29.840 --> 16:35.160
+unten nach oben schicken, das auch vollkommen annehmen, dass bestimmte Parameter wiederum von
+
+16:35.160 --> 16:40.040
+oben angegeben worden sind und sie ihr Handeln quasi innerhalb dieser Parameter organisieren
+
+16:40.040 --> 16:45.560
+und koordinieren sollten. Das ist also jetzt erstmal recht harmonisch quasi dargestellt und
+
+16:45.560 --> 16:49.320
+das wäre natürlich super, wenn das auch selbstverständlich so funktioniert, aber stellt
+
+16:49.320 --> 16:57.320
+sich ja trotzdem die Frage, wenn es semi-autonom handelnde Akteurinnen auf der dezentralen Ebene
+
+16:57.320 --> 17:03.840
+gibt, die eben vielleicht auch andere Interessen haben mitunter oder einfach spezifische regionale
+
+17:03.840 --> 17:10.800
+Interessen haben, die eventuell mit den parametrischen Vorgaben der zentralen Ebene vielleicht im
+
+17:10.800 --> 17:18.680
+Konflikt stehen, welche Formen der Vermittlung es gibt, um trotzdem zu einer Form von funktionierendem
+
+17:18.680 --> 17:27.240
+Gesamtsystem kommen zu können. Also das war ja bekannterweise in der, also nochmal ganz klar
+
+17:27.240 --> 17:32.160
+ausgesprochen, hierarchischen Planung der Sowjetunion immer wieder ein Problem. Man
+
+17:32.160 --> 17:37.440
+hatte die sogenannten perverse incentives, also es gab da sozusagen definitiv feststellbare
+
+17:37.440 --> 17:44.440
+Konfliktlinien zwischen den dezentralen Akteurinnen und den zentralen Ebenen und die Debatte versucht,
+
+17:44.440 --> 17:49.560
+das ja in verschiedenster Weise aufzulösen. Wie geht ihr da dran innerhalb eures Modells,
+
+17:49.560 --> 17:53.200
+wenn es um diese Frage der Vermittlung zwischen den verschiedenen Ebenen geht?
+
+17:53.200 --> 17:57.720
+Also einerseits will ich vorwegschicken, dass ein ganz wesentlicher Teil der Vermittlung
+
+17:57.720 --> 18:02.200
+zwischen dezentraler und zentraler Ebene letztlich auch auf einer politischen Ebene stattfinden wird
+
+18:02.200 --> 18:07.240
+und diese politische Ebene ist eine, die wir aktuell noch weitestgehend ausklammern. Also
+
+18:07.240 --> 18:11.800
+welche Institutionen in welchen Beziehungen zueinander stehen und welche Akteure vielleicht
+
+18:11.800 --> 18:16.760
+auch in welchen Gremien oder in welchen Entscheidungsmustern welche Mächte auch
+
+18:16.760 --> 18:20.200
+transparent gemacht werden. Macht wird es auch immer geben, die Frage ist halt eben nur, ob sie
+
+18:20.200 --> 18:25.840
+transparent und demokratisch verteilt werden kann. Ich kann aber so ein bisschen probieren zu
+
+18:25.840 --> 18:31.120
+skizzieren, wie es wäre, zumindest auf der rein ökonomischen Ebene. Letztlich werden wir natürlich
+
+18:31.120 --> 18:36.720
+probieren, aufgrund der engen Verschaltung von zentraler und dezentraler Ebene diese Konflikte
+
+18:36.720 --> 18:41.000
+so klein wie möglich zu halten. Auch darüber, dass es eben nicht wie im sowjetischen Modell
+
+18:41.000 --> 18:46.800
+eine klare Hierarchisierung von zentraler und dezentraler Ebene gibt. Wenn dieses System aber
+
+18:46.800 --> 18:51.040
+gut funktioniert zwischen dezentraler und zentraler Ebene, vor allem über diese Ebene der
+
+18:51.040 --> 18:58.840
+wissenschaftlich ökonomischen Gesamtrechnungen, dann haben wir auf einer zentralen Ebene das
+
+18:58.840 --> 19:05.440
+Vorliegen dieser lokalen aggregierten Pläne, in der dann auch Unstimmigkeiten festgestellt werden,
+
+19:05.440 --> 19:09.520
+wo man auch Prognosen machen kann, Optimierungsvorschläge, die dann wieder an die
+
+19:09.520 --> 19:15.440
+dezentrale Ebene zurückgegeben werden können, dort zurückgespiegelt werden können. Und die
+
+19:15.440 --> 19:21.240
+Paktone Diskussion eigentlich idealerweise schon erfolgt, bevor sich Konflikte aufbauen,
+
+19:21.240 --> 19:25.960
+indem man sie frühzeitig identifiziert, da ja idealerweise diese Informationen auch in
+
+19:25.960 --> 19:32.000
+Echtzeit vorliegen. Es gibt ja dieses Sprichwort, dass jedes große Problem mal klein war. Und so
+
+19:32.000 --> 19:38.760
+könnte man versuchen, die großen Probleme quasi schon zu bearbeiten und zu identifizieren in dem
+
+19:38.760 --> 19:44.760
+Moment, wo sie klein angefangen haben. Natürlich wird es diese Probleme unter Umständen trotzdem
+
+19:44.760 --> 19:53.160
+geben. Aber wir denken schon, dass diese Autonomie und Initiative der lokalen Einheiten überhaupt
+
+19:53.160 --> 19:59.480
+erst die verlässlichen und kompetierbaren Informationen erzeugt, um überhaupt mit diesem
+
+19:59.480 --> 20:06.000
+lokalen, spezifischen Wissen aggregierten Daten auf dieser zentralen Ebene herstellen zu können.
+
+20:06.000 --> 20:15.400
+Und diese Konvergenz und Regelungen zwischen Makroplanung und Mikroaktivität effektiv zu
+
+20:15.400 --> 20:22.640
+koordinieren. Ein Teil davon wird das Token-System sein, auf das wir vielleicht noch zu sprechen
+
+20:22.640 --> 20:30.040
+kommen. Das wäre sozusagen die Art eher operationalistische Vermittlung zwischen
+
+20:30.040 --> 20:34.920
+zentraler und dezentraler Ebene, jenseits sozusagen dieser politischen Vermittlung,
+
+20:34.920 --> 20:40.920
+die wir hier noch ein Stück weit ausklammern. Vielleicht können wir ein bisschen genauer uns
+
+20:40.920 --> 20:45.760
+nochmal diesen Mechanismus der gesamtgesellschaftlichen Buchführung angucken, weil du hast verschiedene
+
+20:45.760 --> 20:51.520
+Elemente natürlich jetzt schon angesprochen. Du hast vor allem eben gesagt, solche Methoden wie
+
+20:51.520 --> 20:59.600
+HIXA und Lifecycle Analysis können dazu dienen, dass ezentrale AkteurInnen eben auch ein lokales
+
+20:59.600 --> 21:06.120
+Wissen über diese Lifecycle Analysis in den Planungsprozess und in diese gesamtgesellschaftliche
+
+21:06.120 --> 21:10.280
+Buchführung mit einspeisen. Das heißt, das ist ja sehr schön. Wir haben da quasi ein Element
+
+21:10.280 --> 21:15.400
+auch von Bottom-Up-Planung, ein Tool, dass sozusagen diese Bottom-Up-Planung auf einer
+
+21:15.400 --> 21:21.280
+bestimmten Ebene eben zumindest mal auch erlaubt und möglich macht. Welche anderen Aspekte gibt
+
+21:21.280 --> 21:25.320
+es denn doch, wenn man zu einem Punkt der gesamtgesellschaftlichen Buchführung kommen
+
+21:25.320 --> 21:28.400
+will? Vielleicht können wir versuchen, da mal so ein bisschen dieses Bild zu
+
+21:28.400 --> 21:34.200
+vervollständigen, weil also wir hatten ja jetzt schon zum Beispiel natürlich ausgewiesen,
+
+21:34.200 --> 21:39.520
+es braucht andere Daten. Das war ja ein großer Punkt. Also es braucht quasi noch ganze Felder,
+
+21:39.520 --> 21:45.120
+wie zum Beispiel die Sorgearbeit, die in heutigen Datenbanken überhaupt nicht aufscheinen. Aber es
+
+21:45.120 --> 21:50.680
+ist ja auch trotzdem noch eine offene Frage, was es noch auf einer methodischen Ebene weiter braucht,
+
+21:50.680 --> 21:54.760
+wenn man so eine gesamtgesellschaftliche Buchführung wirklich an den Start bringen will,
+
+21:54.760 --> 21:59.280
+weil, wenn ich das jetzt noch mal den Hörerinnen in Erinnerung rufen darf,
+
+21:59.280 --> 22:04.080
+zumindest jetzt bei Hilxer oder bei der Life-Cycle-Analysis, die du jetzt vorgestellt
+
+22:04.080 --> 22:10.680
+hattest, ging es ja eigentlich darum, dass man zwei Prozesse, die ähnlich sind, aber zum
+
+22:10.680 --> 22:15.360
+Beispiel unterschiedliche Materialien verwenden, miteinander vergleichbar macht. Das ist ja
+
+22:15.360 --> 22:20.400
+eigentlich dann eine ganz andere Aufgabe im Grunde als so eine Form der gesamtgesellschaftlichen
+
+22:21.160 --> 22:28.120
+Buchführung. Wie ist dieses System sozusagen aufgesetzt, damit es trotzdem in der Lage ist,
+
+22:28.120 --> 22:35.800
+diese Abbildbarkeit zu leisten, von der du sprichst, anhand derer dann eben unbedingt politische und
+
+22:35.800 --> 22:40.720
+demokratisch deliberative Prozesse sagen, angehängt sein müssen, um auf Basis dieser
+
+22:40.720 --> 22:45.280
+Informationen dann auch kollektive Entscheidungen treffen zu können. Was braucht es da noch?
+
+22:46.240 --> 22:49.760
+Einerseits müsste man vielleicht erstmal verstehen, warum wir überhaupt von
+
+22:49.760 --> 22:53.200
+Kybernetik sprechen und warum dieser Schwerpunkt auf dieser Kybernetik liegt,
+
+22:53.200 --> 23:00.000
+die wir im Paper auch nochmal genauer herleiten und substantiieren mit Konzepten. Also diese
+
+23:00.000 --> 23:06.760
+kybernetische Steuerung und Regelung von komplexen Systemen hat eigentlich eine zentrale Motivation,
+
+23:06.760 --> 23:14.880
+dass man eine Art Selbstregulierung von zumindest Teilsystemen so weit wie möglich vorantreiben
+
+23:14.880 --> 23:23.160
+kann, um und damit aber gleichzeitig eine Gesamtkoherenz insgesamt des gesamten Systems
+
+23:23.160 --> 23:28.200
+zu erreichen und auch eine kontinuierliche Kommunikation letztlich zu erreichen und die
+
+23:28.200 --> 23:35.240
+auch besonders effizient darzustellen. Diese Kybernetik kann man letztlich auch verstehen
+
+23:35.240 --> 23:39.960
+und das erinnert jetzt gleich so ein bisschen an die Commons, als eine Art Planung von Emergenz,
+
+23:40.040 --> 23:46.520
+also das heißt ein emergentes Verhalten von Akteuren auf der dezentralen Ebene ergibt sich
+
+23:46.520 --> 23:54.560
+ja aus der Interaktion dieser lokalen autonomen Einheiten innerhalb dieses dezentralen Plansystems
+
+23:54.560 --> 24:02.960
+und lebt vor allem davon, dass die Regeln der Interaktion und die Parameter dieser Kybernetik
+
+24:02.960 --> 24:11.760
+in einem Plansystem bewusst und demokratisch manipulieren und gestaltbar sind. Also das heißt,
+
+24:11.760 --> 24:17.280
+über die Kybernetik kann man versuchen diese Parametrisierung, diese Steuerung und Regelung
+
+24:17.280 --> 24:24.760
+dieser Systeme so weit wie möglich zu treiben und braucht dafür letztlich abstrakte Repräsentationen
+
+24:24.760 --> 24:31.400
+von Kosten, Nutzen und Grenzen. Und wir würden sagen, dass diese Abstraktion von Kosten, Nutzen
+
+24:31.400 --> 24:37.400
+und Grenzen de facto auch das Thema Universal Unit of Account hinausläuft und wie man das,
+
+24:37.400 --> 24:42.440
+ich hatte es ja bereits angedeutet, wir haben da dieses Token-System vor Augen,
+
+24:42.440 --> 24:52.280
+wie das ausgestaltbar ist mit der Hilfe von LCA. Es gibt ja eine lange Debatte und auch Kritik
+
+24:52.280 --> 24:57.600
+daran, inwiefern es überhaupt so eine Art universelle und umfassende kommensurabte
+
+24:57.600 --> 25:05.360
+Recheneinheit gäbe, weil es ja von dazu unendlich viele konkrete physische, ökologische,
+
+25:05.360 --> 25:11.640
+soziale Dimensionen gibt, die in diese Verhandlungen mit einfließen müssen und sich ja gar nicht so
+
+25:11.640 --> 25:20.920
+richtig auf eine Einheit oder auf einen abstrakten gemeinsamen Nenner bringen lassen, wie man das
+
+25:20.920 --> 25:26.480
+vielleicht beim Geld aktuell denkt, dass es so sei, aber das natürlich unglaublich viele
+
+25:26.480 --> 25:32.000
+Probleme mitbringt und das Geld halt eben nicht in der Lage ist, diese kommensurabilität tatsächlich
+
+25:32.000 --> 25:37.680
+herzustellen und diese Informationsverdichtung rational und vor allem transparent zu machen.
+
+25:37.680 --> 25:45.400
+Es gäbe aber eine Möglichkeit, über die Tokens letztlich eine Vermittlung zwischen dezentraler
+
+25:45.400 --> 25:53.560
+und zentraler Ebene insofern herzustellen, dass diese Tokens zwei Dimensionen oder Funktionen
+
+25:53.560 --> 26:01.960
+verfolgen oder erfüllen können. Die Dimension eins, bzw. Funktion eins ist, dass man die Tokens
+
+26:01.960 --> 26:11.720
+nutzen kann, als eine parametrisierte Aggregation der Kosten, also de facto eine Art sozial-ökologische,
+
+26:11.720 --> 26:20.200
+sozialistische Produktionspreise zu erstellen. Das könnte so aussehen, dass die Tokens letztlich
+
+26:20.200 --> 26:28.680
+eine aggregierte Information darüber darstellen, welchen Naturverbrauch, Stoff, Energieverbrauch
+
+26:28.680 --> 26:35.760
+und welche Arbeitszeitaufwendungen unter welchen konkreten Bedingungen für die Produktion bestimmter
+
+26:35.760 --> 26:41.960
+Güter notwendig sind. Also, ich sage es nochmal ganz kurz anders, ein Token stellt sozusagen
+
+26:41.960 --> 26:47.680
+den bestimmten Naturverbrauch, eine bestimmte Aufwendung von Stoff, Energie und Arbeitszeit dar.
+
+26:47.680 --> 26:56.000
+Die LCA-Methoden wie HESA, bzw. auch erweiterte Input-Output-Methoden, lassen ja es zu,
+
+26:56.000 --> 27:01.520
+diese vielfältigen Dimensionen nicht nur zu quantifizieren, also das heißt, wir hätten
+
+27:01.520 --> 27:08.040
+jetzt beispielsweise 20 unterschiedliche Stoffströme, Methan, CO2 beispielsweise,
+
+27:08.040 --> 27:15.240
+aber auch andere Gase, die zum Klimawandel beitragen. Der Klimawandel selbst ist eine
+
+27:15.240 --> 27:20.080
+Wirkungskategorie und diese Wirkungskategorie selbst stellt ja schon eine Aggregation dar,
+
+27:20.080 --> 27:25.200
+indem wir halt eben sagen, unterschiedliche Stoffströme führen zu dieser und jener
+
+27:25.200 --> 27:30.560
+Temperaturerhöhung. Also, man kann einerseits sozusagen mit LCAs auf diese Wirkungskategorien
+
+27:30.560 --> 27:37.760
+schon Informationen aggregieren, andererseits kann man aber auch ganz unterschiedliche
+
+27:37.760 --> 27:43.480
+Wirkungskategorien in den Tokens wiederum aggregieren, das heißt, man könnte eine Art
+
+27:43.480 --> 27:48.520
+synthetische Indikatorik erstellen, die letztlich einfach zum Ziel hat, die Komplexität zu
+
+27:48.520 --> 27:54.480
+reduzieren und das in so einem Planungs- und Rechnungswesen in dieser Budgetierung überhaupt
+
+27:54.480 --> 28:02.440
+handhabbar zu machen. Und was es letztlich geht, ist ja eine gewisse Vergleichbarkeit von Inputs
+
+28:02.440 --> 28:07.600
+und Outputs, von Kosten und Leistungen, also von diesen unzähligen unterschiedlichen Gütern,
+
+28:07.600 --> 28:12.600
+Dienstleistungen, Produktionstechniken in den Unternehmen zu erstellen. Man könne sich quasi
+
+28:12.680 --> 28:17.480
+die Berechnung oder die Zusammensetzung des Tokens als eine Art parametrischer,
+
+28:17.480 --> 28:24.120
+algorithmischer Verrechnung der unterschiedlichen Anteile vorstellen, also beispielsweise hätte man
+
+28:24.120 --> 28:29.720
+ökologische Aspekte, soziale Aspekte, bestimmte ökonomische Aspekte in einer Vielzahl von
+
+28:29.720 --> 28:37.640
+Indikatoren, die in einer bestimmten Qualität und Quantität, die für die Produktion eines
+
+28:37.640 --> 28:41.720
+Produktes notwendig sind, die wir ja wissen, also wir wissen diese Qualität und Quantität über
+
+28:41.720 --> 28:49.320
+die LCAs, die wir dann über Parameter sozusagen kombiniert in diesen Token aggregieren können,
+
+28:49.320 --> 28:56.920
+also in diesen Token verrechnen können. Der Token selbst enthält, also der eine Token selbst enthält
+
+28:56.920 --> 29:02.440
+dann nicht mehr diese Information, aber der Token ist, das kann man beispielsweise über
+
+29:02.440 --> 29:07.600
+Blockchain-Technologien realisieren, der Token selbst ist aber nicht nur dieser eine Token,
+
+29:07.600 --> 29:11.640
+der sich ergeben hat aus dieser Verrechnung dieser sozialen, ökologischen und ökonomischen
+
+29:11.640 --> 29:17.400
+Indikatoren, sondern dieser Token enthält eine Reihe von Metainformationen, die es letztlich zu
+
+29:17.400 --> 29:22.400
+jedem Zeitpunkt erlauben, diesen Token auch wieder zu disaggregieren, also beispielsweise von der
+
+29:22.400 --> 29:28.800
+Information ein Token wieder zurückzukommen zu, welche konkreten ökologischen, ökonomischen und
+
+29:28.800 --> 29:34.880
+sozialen Auswirkungen und Aufwendungen von Stoff- und Energiesprünge und Arbeitszeit stecken dahinter.
+
+29:34.880 --> 29:42.680
+Also das heißt, es geht um eine Differenzierung und gleichzeitig Komplexitätsreduktion in
+
+29:42.680 --> 29:48.440
+diesem System mit der Hilfe von Parametern. Wie genau so ein sozialistisches Preissystem
+
+29:48.440 --> 29:54.200
+aussehen kann, wird auch in Jakobs Paper, was aktuell im Erscheinen ist, nochmal genauer
+
+29:54.200 --> 29:58.880
+ausgeführt. Jetzt könnte man sich fragen, ok, aber was sind jetzt die Unterschiede eigentlich zum
+
+29:58.880 --> 30:06.320
+Geld von diesen Tokens? Prinzipiell kann man erst mal sagen, dass die Kommensurabilität ja im
+
+30:06.320 --> 30:11.800
+Tokensystem nicht wie im Kapitalismus ex post durch den Wert hergestellt wird und dann durch
+
+30:11.800 --> 30:18.440
+einen Marktaustauschprozess, sondern ja Ergebnis eines ex ante Planungsprozesses ist und eher
+
+30:18.440 --> 30:24.760
+eben der ex ante Bestimmung dieser Tokens als Aggregation von sozialen, ökologischen,
+
+30:24.760 --> 30:31.600
+ökonomischen Aufwendungen und Auswirkungen. Es würden dabei also nicht alle möglichen komplexen
+
+30:31.600 --> 30:36.840
+Faktoren unbewusst miteinander vermischt, wie das im Marktprozess der Fall ist, wo sich dann
+
+30:36.840 --> 30:42.600
+zwischen Angebot und Nachfrage halt eben auch nochmal den Geldpreis einstellt, der aber unter
+
+30:42.600 --> 30:47.880
+Ausschluss aller möglichen externen Effekte dann eben keine Rückschlüsse mehr darauf zulässt,
+
+30:47.880 --> 30:52.840
+welche sozialen, ökologischen und ökonomischen Risiken eigentlich dahinterstehen. Das heißt,
+
+30:52.920 --> 31:00.600
+die eine Dimension, die eine Funktion eins, ist der Token als Verdichtung, als Information über
+
+31:00.600 --> 31:05.720
+Naturverbrauch, Stoff, Energie und Arbeitszeitaufwendung, die parametrisch, also mit unterschiedlichen
+
+31:05.720 --> 31:12.960
+Faktoren dort einfließen und damit sozusagen eine Art ökologisch-sozialen Preis von Produkten
+
+31:12.960 --> 31:19.840
+darstellt. Das ist die eine Dimension. Die zweite Dimension ist aber, dass Tokens es auch zulassen,
+
+31:19.840 --> 31:26.800
+eine Art parametrisierte Regelung der Menge der Tokens, also das heißt der Menge des
+
+31:26.800 --> 31:32.880
+Naturverbrauchs und beispielsweise dem Einsatz von Arbeitszeit zu erlauben. Man kann sich das so
+
+31:32.880 --> 31:39.080
+vorstellen, dass wir also einerseits die Preise haben über die Tokens, andererseits aber direkt
+
+31:39.080 --> 31:46.680
+über die LCAs, jetzt ganz unabhängig von den Tokens, ja alle stofflichen, ökologischen,
+
+31:46.680 --> 31:53.720
+energetischen, sozialen Indikatoren aus den LCAs über das komplette Produktionssystem
+
+31:53.720 --> 31:58.920
+aggregieren können. Also wir ganz genau wissen in einer Art Ist-Zustand, welchen Verbrauch an
+
+31:58.920 --> 32:03.400
+Ressourcen wir haben und wie viel Arbeitszeit für unsere Produktion insgesamt eingesetzt wird.
+
+32:03.400 --> 32:10.800
+Diesen Ist-Zustand des Naturverbrauchs und beispielsweise der Arbeitszeit kann man dann
+
+32:10.800 --> 32:16.320
+einem Soll-Zustand gegenüberstellen und dieser Soll-Zustand, der kann dann demokratisch behandelt
+
+32:16.320 --> 32:20.640
+werden, also beispielsweise indem wir uns demokratisch darauf einigen, wie viel Arbeitszeit
+
+32:20.640 --> 32:25.440
+wir gesamtgesellschaftlich aufwenden wollen oder welche planetaren Grenzen wir halt eben
+
+32:25.440 --> 32:30.320
+einhalten wollen, beispielsweise das 1,5 Grad Ziel oder das 1 Grad Ziel oder das 0,5 Grad Ziel.
+
+32:30.320 --> 32:37.360
+Wenn man dann den Vergleich zwischen Ist und Soll machen, beispielsweise in Formen des Quotienten,
+
+32:37.360 --> 32:44.200
+aber es Solle und Ist, kann man daraus einen Parameter errechnen, mit dem man die Menge der
+
+32:44.200 --> 32:49.400
+Tokens, die insgesamt für den Konsum ausgegeben werden, also das ist so eine Art Konsumberechtigung
+
+32:49.400 --> 32:53.760
+auf der anderen Seite, das eine ist der Token auf der Produktionsseite, das andere ist sozusagen
+
+32:53.760 --> 32:58.960
+der Token auf der Konsumtionsseite als eine Art Konsumberechtigung. Wenn man diesen Soll- und
+
+32:58.960 --> 33:03.960
+Ist-Vergleich macht, kann man de facto nur die Menge der Tokens, die man für die gesellschaftliche
+
+33:03.960 --> 33:10.640
+Konsumtion regeln, das heißt daran anpassen, ob beispielsweise planetare Grenzen insgesamt
+
+33:10.640 --> 33:15.080
+überschritten werden oder halt eben wir uns doch innerhalb dieser planetaren Grenzen bewegen,
+
+33:15.080 --> 33:20.480
+ebenfalls, ob wir mehr Arbeitszeit verausgaben, als uns das eigentlich lieb ist oder weniger
+
+33:20.480 --> 33:28.040
+Arbeitszeit und somit die Menge der Tokens insgesamt erhöhen oder senken und damit halt eben regulieren,
+
+33:28.040 --> 33:35.360
+um die Größe des Produktionssystems selbst entsprechend der demokratischen verhandelten
+
+33:35.360 --> 33:41.120
+Rahmenbedingungen anzupassen. Also das heißt, es gibt ungefähr zwei Dimensionen, das eine ist
+
+33:41.120 --> 33:50.000
+der Token als Preis von Gütern und das andere ist die Menge der Tokens als Umfang des gesellschaftlichen
+
+33:50.000 --> 33:55.000
+Konsums und damit auch der Bestimmung des Umfangs des Produktionssystems selbst.
+
+33:55.000 --> 34:04.320
+Also vielleicht erstmal vorausgeschickt einfach die Frage, wenn die Tokens eine aggregierte Größe,
+
+34:04.320 --> 34:09.000
+sagen wir jetzt ein Token, wenn ein Token eine aggregierte Größe aus 120 verschiedenen
+
+34:09.000 --> 34:15.360
+Faktoren ist oder wahrscheinlich dann noch viel mehr, in welcher Hinsicht, also wie soll das dann
+
+34:15.360 --> 34:20.960
+diese Steuerungsfunktion in einer sehr aktiv gedachten Rolle, wie du das jetzt gerade zuletzt
+
+34:20.960 --> 34:30.000
+genannt hattest, erfüllen können, weil ja dann, wenn ich sage, okay wir erhöhen die Token, die
+
+34:30.000 --> 34:36.000
+Tokenausschüttung um 20%, ich dadurch eben nicht nur ein Parameter angreife, wie du es ja eben gerade
+
+34:36.000 --> 34:41.720
+genannt hattest, zum Beispiel die gesellschaftlich einzusetzende Arbeitszeit, sondern nachdem es sich
+
+34:41.720 --> 34:48.160
+ja um eine Aggregation von 120 verschiedenen Elementen sagen, die da hinein kollabiert worden sind,
+
+34:48.160 --> 34:54.520
+handelt, würdest du ja dann alle anderen 119 da hinein kollabierten Elemente auch mit erhöhen.
+
+34:54.520 --> 34:59.320
+Also insofern wäre das ja dann, würde das ja nicht das erfüllen, was du jetzt gerade zuletzt
+
+34:59.320 --> 35:04.120
+gesagt hattest, dass man die Sachen eben so detailliert angreifen kann, nur dadurch,
+
+35:04.120 --> 35:09.880
+dass man quasi die Token, den Umlauf, die Menge der sich in Umlauf befindenden Tokens erhöht.
+
+35:09.880 --> 35:15.920
+Das wäre jetzt erstmal so eine unmittelbare Verständnisnachfrage irgendwie und aber
+
+35:15.920 --> 35:22.520
+vielleicht damit verbunden auch in eine ähnliche Richtung gehend vielleicht auch die Frage, wenn
+
+35:22.560 --> 35:30.200
+ich 120 verschiedene Faktoren habe und ich möchte ja sozusagen diese multifaktorielle Qualität
+
+35:30.200 --> 35:36.680
+eigentlich erhalten wissen, weil man sagt, dass das sozusagen die Qualität einer sozio-metabolischen
+
+35:36.680 --> 35:41.720
+Planung ist, ja, und dann kollabiere ich das aber wieder in eine einzelne Recheneinheit und
+
+35:41.720 --> 35:47.480
+handle quasi mit der, dann entsteht, ähnlich wie ich es jetzt zu Beginn der Frage eben auch
+
+35:47.480 --> 35:54.640
+ausgewiesen hatte, entsteht ja eigentlich wieder eine Form von, ja, Grobheit, wenn man so will oder
+
+35:54.640 --> 36:01.120
+eben Fake-Kommensurabilität könnte man auch sagen oder zumindest die Tendenz in diese Richtung gehend,
+
+36:01.120 --> 36:05.480
+dass man, dass man dann aufgrund dessen, dass es in einer Recheneinheit kollabiert worden ist,
+
+36:05.480 --> 36:10.480
+so ein bisschen so tut oder auch vielleicht schnell dahin kommt, dass es so wirkt, als würde man so
+
+36:10.480 --> 36:14.640
+tun, dass man eben diese eigentlich nicht miteinander vergleichbaren Elemente dann
+
+36:14.640 --> 36:18.800
+doch meinen vergleichbar machen zu können. Lüch, kannst du das mal kurz noch mal skizzieren,
+
+36:18.800 --> 36:23.160
+weil das ist ja so ein Grundproblem dieser Frage einer Universal Unit of Account.
+
+36:23.160 --> 36:27.720
+Also diese Tokens sind prinzipiell erst mal nur als eine Informationsverdichtung zur
+
+36:27.720 --> 36:33.160
+einfachen Kommunizierbarkeit gedacht. Es gibt natürlich immer die Möglichkeit, dadurch,
+
+36:33.160 --> 36:38.400
+dass diese Daten uns ja vorliegen, in einer disaggregierten Form, eine gesellschaftliche
+
+36:38.400 --> 36:44.000
+Entscheidung darüber zu fällen, wie bestimmte Einzelaspekte eben besser oder anders gemanagt
+
+36:44.000 --> 36:49.760
+werden. Also dass es halt eben engere Grenzen für beispielsweise Biodiversität gibt, als es das jetzt
+
+36:49.760 --> 36:55.000
+für einen Klimawandel geben sollte. Also diese gesellschaftliche Entscheidung ist trotz der
+
+36:55.000 --> 37:01.040
+Informationsverdichtung auf den Token nach wie vor zugänglich, weil diese Informationen auch
+
+37:01.040 --> 37:08.080
+disaggregiert vorliegen. Also das ist in einer gewissen Weise würde ich sagen, hebt das das
+
+37:08.080 --> 37:15.840
+Problem des Gegenarguments der Inkommensurabilität auf, weil wir ja nicht nur die aggregierte Form
+
+37:15.840 --> 37:22.600
+haben, sondern die aggregierte Form zur einfachen Information, eben dieser eine Token, gleichzeitig
+
+37:22.600 --> 37:30.080
+existiert immer zur disaggregierten Information über das Besondere. Also das Allgemeine und
+
+37:30.080 --> 37:37.360
+Besondere existiert als Information parallel und ist beliebig disaggregierbar und aufeinander
+
+37:37.360 --> 37:42.960
+beziehbar. Der Unterschied ist nur, dass wenn ich beispielsweise in den Konsummarkt gehen würde oder
+
+37:42.960 --> 37:50.760
+dort wo wir dann unsere Produkte herholen, traue ich mir de facto nicht 20 Seiten Studien durchzulesen,
+
+37:50.760 --> 37:56.920
+welche ökologischen und sozialen Auswirkungen hinter der Produktion beispielsweise eines Fischs
+
+37:56.920 --> 38:02.800
+liegen, sondern das wird über diesen Token einfach kommuniziert und da uns ja auch nur eine bestimmte
+
+38:02.800 --> 38:09.080
+Anzahl von Token vorliegen für den Konsum, kann man so de facto die nachhaltige Konsumtionsmenge
+
+38:09.080 --> 38:14.520
+regeln und damit auch in einer gewissen Weise steuern. Wenn ich aber darüber gesellschaftlich
+
+38:14.520 --> 38:19.920
+diskutieren möchte, ob wir bei bestimmten ökologischen Auswirkungen bestimmte Grenzen
+
+38:19.920 --> 38:24.400
+beispielsweise überschritten haben oder bestimmte sozialen Indikatoren optimieren wollen, dann können
+
+38:24.400 --> 38:29.160
+wir das ja auf Ebene genau diese Indikatoren trotzdem tun. Also es sind quasi nur zwei
+
+38:29.240 --> 38:34.920
+Informationssysteme mit unterschiedlichen Anwendungsbereichen und unterschiedlichen
+
+38:34.920 --> 38:42.560
+Ebenen, die es auf der einen Seite vereinfachen sollen, im Alltag diese Informationen aggregiert
+
+38:42.560 --> 38:46.280
+mit der umgehen zu können und auf der anderen Seite für die gesellschaftlich bewusste Planung
+
+38:46.280 --> 38:52.280
+trotzdem im Detail halt eben die notwendigen Informationen zur Verfügung zu stellen auf Basis
+
+38:52.280 --> 38:56.880
+der einzelnen Indikatoren. Wie viele Indikatoren das dann sind, ob man diese Indikatoren, ob das
+
+38:56.880 --> 39:00.600
+wirklich unter 20 oder mehr sind oder ob die sich vielleicht auch sogar akkredieren lassen,
+
+39:00.600 --> 39:07.400
+zu 20 oder 30 ohne einen ganz wesentlichen Informationsverlust zu erleiden, das müsste
+
+39:07.400 --> 39:11.760
+man auch diskutieren. Ja, aber das ist nicht die Frage, die ich stelle. Die Frage, die ich stelle,
+
+39:11.760 --> 39:18.520
+ist eine andere. Die Frage ist, oder vielleicht frage ich es anders, ist jeder Token einzigartig?
+
+39:18.520 --> 39:24.360
+Das ist sozusagen die erste Frage. Wenn nicht jeder Token einzigartig ist, also er müsste das
+
+39:24.360 --> 39:32.920
+sein. Oder ich stehe total auf dem Schlauch. Entweder habe ich einen Prozess, in dem diese
+
+39:32.920 --> 39:40.360
+Vielschichtigkeit der Information, dieses multifaktorielle sozusagen an einem Punkt
+
+39:40.360 --> 39:46.800
+sozusagen ausgelöscht wird und in eine Eins übertragen, ein Token. Oder ich habe quasi
+
+39:46.800 --> 39:51.480
+eine Situation, in der ich einen, das nennt man glaube ich dann non-fungible Token habe. Also
+
+39:51.560 --> 39:57.000
+ich habe sozusagen, jeder Token ist einzigartig. Und wenn jeder Token einzigartig ist,
+
+39:57.000 --> 40:02.160
+weil er immer noch die Information um seine spezifische Zusammensetzung beinhaltet,
+
+40:02.160 --> 40:09.240
+dann habe ich auch quasi bestimmte Elemente nicht oder dann komme ich quasi in den Konflikt,
+
+40:09.240 --> 40:13.960
+wenn ich auf einer praktischen Ebene aber dann so tue, als könnte ich A gegen B
+
+40:14.360 --> 40:19.720
+kommensurabel machen und ich sage mal blöd eintauschen, weil ich dann auf einer
+
+40:19.720 --> 40:27.880
+Oberflächen-Ebene so tue, als wären sie das gleiche, beides ein Token. Aber in der auf
+
+40:27.880 --> 40:32.200
+gedröselten Ebene würde sich mir eigentlich zeigen, dass sie genau gar nicht das gleiche sind.
+
+40:32.200 --> 40:38.480
+Also es ist either or, es ist entweder oder. Eins von beiden müsste irgendwie zutreffen. Oder ich
+
+40:38.480 --> 40:43.200
+habe einen Knoten in meinem Kopf gerade. Vielleicht verstehe ich es auch nur nicht, aber das ist
+
+40:43.200 --> 40:49.560
+sozusagen der Punkt. Entweder ich habe quasi einzigartige Einheiten und dann ist es keine
+
+40:49.560 --> 40:56.360
+universal unit of account, sondern es ist eigentlich genau das Gegenteil. Oder ich habe sozusagen
+
+40:56.360 --> 41:03.280
+wieder auf einer bestimmten Ebene das Problem, dass ich inkommensurable Sachen so tue, als könnte
+
+41:03.280 --> 41:09.040
+man sie kommensurabel machen. Also ich muss vielleicht vorwegschicken, dass das genau die
+
+41:09.040 --> 41:15.120
+Debatte sein wird, die wir in diesem Paper, was wir in Zukunft dazu schreiben werden und in dem es
+
+41:15.120 --> 41:21.120
+diese Modellierung geben wird, nochmal genau angucken. Ich habe darauf keine endgültige Antwort und keine
+
+41:21.120 --> 41:26.680
+perfekte Lösung. Tatsächlich ist das ein Grundproblem, was ich glaube ich immer stelle, dieser Konflikt
+
+41:26.680 --> 41:33.120
+eben zwischen dem Allgemeinen und dem Besonderen und dieses Allgemeine, inwiefern das Besondere
+
+41:33.120 --> 41:37.920
+im Allgemeinen noch sichtbar wird und inwiefern man diese verschiedenen Allgemeinheiten dann
+
+41:37.920 --> 41:43.240
+miteinander vergleichbar machen kann, wenn man das will und wenn man das soll, wenn man sie halt
+
+41:43.240 --> 41:50.040
+gegenseitig kommensurabel macht. Ich würde sagen, es gibt unterschiedliche Optionen vielleicht mit
+
+41:50.040 --> 41:57.200
+dem Problem umzugehen. Das eine ist, wie sich dieser Token zusammensetzt, dass das für jedes
+
+41:57.200 --> 42:02.080
+Produkt unterschiedlich ist, indem eben diese Parametrisierung der Indikatoren, die da rein
+
+42:02.080 --> 42:08.720
+fließen, beispielsweise über eine gesellschaftliche demokratische Gewichtung für Produkte
+
+42:08.720 --> 42:14.320
+unterschiedlich ist und vielleicht auch adaptiert wird, je nachdem wie sich auch die Herausforderungen,
+
+42:14.320 --> 42:19.080
+die gesellschaftlichen Herausforderungen in bestimmten Produktionsprozessen auch verändern.
+
+42:19.080 --> 42:24.120
+Also dass sich de facto die parametrische Zusammensetzung des Tokens aus bestimmten
+
+42:24.120 --> 42:29.800
+Indikatoren selbst vielleicht in einer gewissen zeitlichen Dynamik unterliegt. Und das hätte
+
+42:29.800 --> 42:37.640
+gewisse Vorteile, weil dann der Token zwar eine spezifische Aggregation nach wie vor darstellt,
+
+42:37.640 --> 42:42.960
+also besonders ist, aber dann sich das Problem stellt, okay, wie du schon meintest, also ob der
+
+42:42.960 --> 42:48.000
+da noch mit den anderen Tokens vergleichbar ist. Also in der LCA-Logik denken wir an Inputs und
+
+42:48.000 --> 42:55.520
+Outputs. Und diese Inputs und Outputs, die sind zwar nicht vergleichbar, weil es gibt ja
+
+42:55.520 --> 43:01.320
+Produktionsprozesse, die ganz unterschiedliche stoffliche Inputs und Outputs haben. Was aber
+
+43:01.320 --> 43:08.120
+vergleichbar ist, ist deren Auswirkung auf soziale, ökologische und ökonomische Aspekte oder deren
+
+43:08.120 --> 43:12.600
+Auswirkung auf die soziale, ökologische und ökonomische Nachhaltigkeit. Also jetzt mal
+
+43:12.600 --> 43:17.960
+an dem Beispiel, du hättest einen Produktionsprozess, in dem Methan frei wird und du hättest einen
+
+43:17.960 --> 43:24.000
+Produktionsprozess, in dem CO2 frei wird. Methan hat eine bestimmte Auswirkung auf den
+
+43:24.000 --> 43:30.600
+Klimawandel, nämlich hat ein Kilogramm Methan den 20-fach höheren, die 20-fach höhere Auswirkung
+
+43:30.600 --> 43:38.920
+auf den Klimawandel als ein Kilogramm CO2. Aber die Auswirkung auf den Klimawandel lässt sich in Form
+
+43:38.920 --> 43:47.160
+von CO2-Äquivalenten widerspiegeln, weil letztlich ist das vergleichbar hinsichtlich der
+
+43:47.160 --> 43:52.480
+Konzentration von Treibhausgasen, wie dann halt eben die globale Temperatur um ein Grad erwehrt.
+
+43:52.480 --> 43:58.240
+Also es gibt, obwohl es unterschiedliche Stoffströme sind, die als Outputs, als Emissionen
+
+43:58.240 --> 44:05.560
+dort frei werden, sind sie vergleichbar hinsichtlich ihrer Auswirkungen auf den Klimawandel. Also für
+
+44:05.560 --> 44:11.080
+ökologische oder für stoffliche, für energetische Indikatoren, für die Auswirkung funktioniert das,
+
+44:11.080 --> 44:17.920
+denke ich durchaus. Inwiefern es sozusagen eine soziale Vergleichbarkeit gibt von beispielsweise
+
+44:17.920 --> 44:24.200
+bestimmten Arbeitsbedingungen, das wäre eine Frage, der man sich auf jeden Fall noch nähern müsste,
+
+44:24.200 --> 44:31.800
+weil das dann die Frage wäre, inwiefern man die soziale Auswirkung oder die Auswirkung von
+
+44:31.800 --> 44:37.520
+einer bestimmten Anzahl von Arbeitsunfällen vergleichen kann, halt eben mit der sozialen
+
+44:37.520 --> 44:45.160
+Auswirkung von der Umweltbelastung des Arbeitsplatzes vor Ort und damit halt eben auch den Auswirkungen
+
+44:45.160 --> 44:53.560
+auf die Gesundheit. Es gibt dort auch den Versuch, aktuell das in diesen abstrakten Größen zu machen,
+
+44:53.560 --> 45:02.080
+wie diese Daily-Indikator oder diese Daily-Größe, also diese Anzahl der Lebensjahre, die reduziert,
+
+45:02.080 --> 45:07.560
+also die Anzahl der gesunden Lebensjahre, die dann reduziert wird. Ich bin eben auch skeptisch,
+
+45:07.560 --> 45:12.680
+also ich sehe das auch skeptisch, ob man das wirklich machen kann. Aber das wäre eine entscheidende
+
+45:12.680 --> 45:17.600
+Frage, der man sich annähern müsste. Also inwiefern es sozusagen, obwohl die Stoffströme
+
+45:17.600 --> 45:22.120
+unterschiedlich sind, obwohl die Inputs und Outputs von Produktionsprozessen unterschiedlich
+
+45:22.120 --> 45:28.400
+sind, deren sozialen, ökologischen und ökonomischen Auswirkungen dennoch vergleichbar sind und eben
+
+45:28.400 --> 45:34.360
+diese sozialen, ökologischen und ökonomischen Auswirkungen als Maßzahl sozusagen parametrisiert
+
+45:34.360 --> 45:39.760
+in diesen Token, der dann wiederum vergleichbar ist mit allen anderen Token eingeht. Und das
+
+45:39.800 --> 45:47.320
+Argument, warum man das überhaupt machen sollte, ist ein Komplexitätsargument, oder? Also, weil man
+
+45:47.320 --> 45:53.520
+merkt jetzt, okay, da stößt man auf jeden Fall an alle möglichen Probleme an. Man läuft eben
+
+45:53.520 --> 45:59.280
+wieder Gefahr, sagen, dieses Apple-and-Oranges-Äpfel-und-Birnen-Problem irgendwie zu haben,
+
+45:59.280 --> 46:04.320
+dass es schnell dahin rutscht, dass da dann doch Sachen miteinander verglichen werden oder
+
+46:04.320 --> 46:08.040
+vergleichbar gemacht werden sollen, von denen man vielleicht das Gefühl hätte, dass sie eigentlich
+
+46:08.040 --> 46:14.400
+in dieser Form eben vielleicht doch nicht so gut verglichen werden können. Aber das Argument,
+
+46:14.400 --> 46:21.360
+welches ihr führt, warum ihr meint, das ist eine solche Form der verdichteten Parametrisierung,
+
+46:21.360 --> 46:26.120
+also der aggregierten Parametrisierung, weil das ist es ja, worum es geht, warum es das geben
+
+46:26.120 --> 46:32.320
+solle, ist ein Argument der Komplexitätsreduktion, oder? Also, das ist der letzte Punkt eigentlich,
+
+46:32.320 --> 46:37.760
+also der letztgültige Punkt, um den es sich dann dreht, oder? Genau. Wie aber unsere Meinung
+
+46:37.760 --> 46:45.320
+absolut notwendig ist, um im Alltag diese Gegenüberstellung der sozialen, ökologischen
+
+46:45.320 --> 46:52.080
+und ökonomischen Aufwendung oder Kosten von Produkten und der Möglichkeit, diese innerhalb
+
+46:52.080 --> 47:00.720
+von Planetaren und sozialen Grenzen zu konsumieren, also um das letztlich im Alltag zusammenzubringen.
+
+47:00.720 --> 47:05.640
+Das heißt, wenn ich beispielsweise im Supermarkt stehe oder im Markt stehe,
+
+47:05.640 --> 47:09.560
+oder quasi in diesem Versorgungszentrum stehe, indem ich mir dann meine Produkte hole,
+
+47:09.560 --> 47:15.600
+wie soll ich wissen oder wie kann ich wissen, dass es unter Umständen sozial halt eben,
+
+47:15.600 --> 47:24.080
+also dass die sozialen und ökologischen Kosten von beispielsweise einer Rinderwurst hundertmal
+
+47:24.080 --> 47:31.040
+höher sind als von einem Sellerie. Und dass es halt eben mir unter Umständen, dass es mir
+
+47:31.040 --> 47:37.960
+kommuniziert wird, dass es nicht möglich ist, jeden Monat 50 Würste zu konsumieren,
+
+47:37.960 --> 47:44.560
+es aber durchaus eben möglich wäre, beispielsweise mein Bedürfnis nach Nahrung über pflanzliche
+
+47:44.560 --> 47:51.160
+Nahrungsmittel zu decken. Also, da würde dann sozusagen in diesem Tokenpreis eben genau diese
+
+47:51.160 --> 47:58.880
+Informationen drin stecken über die sozialen, ökologischen Aufwendung der Produktion, die sonst
+
+47:58.880 --> 48:04.880
+nur vielleicht über ein 20-, 30-, 40-seitiges Beiblatt dokumentiert wird. Das ist die eine
+
+48:04.880 --> 48:10.160
+Seite. Und die andere Seite ist letztlich, dass man über die Ausschüttung der allgemeinen Tokenmenge
+
+48:10.160 --> 48:19.160
+für den Konsum sicherstellen kann, dass der gesamtgesellschaftliche Konsum, das heißt eben
+
+48:19.160 --> 48:23.520
+auch die gesamtgesellschaftliche Produktion, innerhalb Planetarer und sozialer Grenzen bleibt.
+
+48:23.520 --> 48:29.880
+Würde man das nicht, also würde man keine Tokens mit sich führen oder keine aggregierte
+
+48:29.880 --> 48:36.680
+Verrechnungseinheit, müsste man ja die Frage beantworten, wie kommuniziert man das, dass es
+
+48:36.680 --> 48:41.240
+halt eben nicht möglich ist, im Monat zwei Kühlschränke zu kaufen? Einfach nur über den
+
+48:41.240 --> 48:48.800
+Mangel an Kühlschränken? Na ja, also da gibt es ja schon noch unterschiedliche Aspekte zu der
+
+48:48.800 --> 48:54.320
+Frage. Also ist da jetzt implizit ein Subjekt angenommen, das im Grunde unstillbare Bedürfnisse
+
+48:54.320 --> 49:00.960
+hat und deswegen eigentlich quasi, wenn es nicht irgendwie diszipliniert werden würde,
+
+49:00.960 --> 49:05.720
+über die Verknappung von Tokens dann sozusagen permanent in Anführungsstrichen über die Stränge
+
+49:05.720 --> 49:10.880
+schlägt, ist das nicht irgendwie auf eine Art auch eine individualisierte Form der Betrachtung des
+
+49:10.880 --> 49:18.080
+Problems, dass man so zu sagen, als wäre quasi der der Individualkonsument, die Individualkonsument
+
+49:18.080 --> 49:24.360
+in sozusagen der Grund des Problems oder das, also der Nukleus des eigentlichen Problems,
+
+49:24.360 --> 49:29.480
+das ist eine spezifische Form von Framing, die das jetzt schon mit sich trägt, wenn man das in
+
+49:29.480 --> 49:35.720
+dieser Art und Weise präsentiert. Also ist die Tokenüberlegung eigentlich vor allem an eben
+
+49:35.720 --> 49:42.920
+Endkonsument in den Märkte und in Anführungsstrichen Märkte quasi gerichtet oder ist das das Argument
+
+49:43.320 --> 49:48.640
+oder geht es auch um Formen der Verrechnungsgrößen auf einer Produktionsebene und so weiter und so
+
+49:48.640 --> 49:54.400
+fort? Also ich will jetzt auch nicht da eine endgültige Position irgendwie zu einnehmen
+
+49:54.400 --> 50:00.240
+oder so, aber ich glaube schon, dass es da noch andere Perspektiven, also auch relevante
+
+50:00.240 --> 50:08.560
+und rücksichtigenswerte Perspektiven auf diese Frage gäbe als sozusagen eben da so eine
+
+50:09.120 --> 50:15.040
+individualisierte Konsumperspektive quasi mit ins Boot zu holen, wobei ich natürlich das auch
+
+50:15.040 --> 50:19.400
+verstehe, ja, und da müsste man dann nochmal drüber nachdenken, was es für alternative
+
+50:19.400 --> 50:27.240
+Mechanismen auch gäbe, um eben solche Formen des destruktiven Konsums oder so was zu reglementieren.
+
+50:27.240 --> 50:32.440
+Also ich finde jetzt zum Beispiel, wenn man, was weiß ich, an SUVs als jetzt dieses populistische,
+
+50:32.440 --> 50:37.240
+klassische Beispiel denkt, da würde man ja auch sagen, es geht eigentlich nicht um die Debatte
+
+50:37.240 --> 50:44.000
+was für ein Arsch die Person jetzt ist, die den SUV kauft oder so was, sondern warum produzieren
+
+50:44.000 --> 50:50.320
+wir überhaupt SUVs? Was ist das eigentlich für ein Quatsch, dass das als so eine Form von
+
+50:50.320 --> 50:55.240
+Alltagspanzer sich quasi durchgesetzt hat und wenn man sich das fragt, dann kommt man aber zu ganz
+
+50:55.240 --> 51:01.240
+anderen Fragen und zu ganz anderen Antworten auch, als wenn man sich dieser individualisierten
+
+51:01.240 --> 51:04.840
+Konsumperspektive nähert, weil Simon Schaub zum Beispiel in seinem Buch, kann ich mich
+
+51:04.880 --> 51:10.480
+erinnern, eine total interessante Passage dazu hat, wo erklärt worden ist, warum auf der Ebene
+
+51:10.480 --> 51:14.520
+von gesetzlichen Bestimmungen, weil sich irgendwann Änderungen eingestellt haben,
+
+51:14.520 --> 51:19.960
+die dann für Autohersteller die Produktion von SUVs quasi besonders lukrativ gemacht hat, ja,
+
+51:19.960 --> 51:25.280
+und dann gab es auf einmal plötzlich diesen Boom von SUVs und das ist eine ganz andere Form der
+
+51:25.280 --> 51:29.800
+Betrachtung, weißt du, wie ich meine? In unserem System würde ja die Frage dessen,
+
+51:29.800 --> 51:37.240
+was produziert wird, immer noch demokratisch entschieden über die Zuteilung und die Verteilung
+
+51:37.240 --> 51:43.160
+der Produktionsmittel, also der Investitionen zu bestimmten Produktionsbereichen, also die
+
+51:43.160 --> 51:49.840
+Produktion beispielsweise eines gesellschaftlich völlig unnützen SUVs, wäre darüber auch schon
+
+51:49.840 --> 51:53.960
+ausgeschlossen, wenn die Gesellschaft zu dem Schluss kommt, dass sie halt eben unnütz sind
+
+51:53.960 --> 52:00.440
+und sogar ökologisch und sozial nachteilig. Also das ist vielleicht der eine Punkt. Ich
+
+52:00.440 --> 52:05.600
+fand aber das, was du am Anfang meintest, noch viel, viel wichtiger zu bedenken, nämlich von
+
+52:05.600 --> 52:11.400
+welchem Subjekt oder vielleicht auch von welchem, ich sag mal, Stand der Geschichte gehen wir
+
+52:11.400 --> 52:16.840
+eigentlich aus, weil dieses Token-System ist kein System, auch diese LCA-Verrechnung, diese
+
+52:16.840 --> 52:23.920
+parametrische Verrechnung ist kein System, was vom Endzustand her gedacht ist, also ein utopisches
+
+52:23.920 --> 52:30.240
+Zustand sozusagen in einer befreiten Gesellschaft mit einer ganz anderen Subjektkonstitution,
+
+52:30.240 --> 52:37.960
+sondern das Token-System ist eigentlich gedacht als eine andere Art Transformationszustand. Also
+
+52:37.960 --> 52:45.120
+das heißt, in einer gesellschaftlichen Phase, in der wir es nach wie vor mit Subjekten zu tun haben,
+
+52:45.120 --> 52:51.720
+die ganz tief geprägt sind vielleicht von der kapitalistischen Produktions- und Beziehungsweise
+
+52:51.720 --> 52:57.800
+und wir nicht davon ausgehen können, dass sie in jeder Phase sozusagen gesellschaftlich rational
+
+52:57.800 --> 53:05.760
+handeln, sondern diese schwierigen Muster, auch Konsummuster sozusagen des Kapitalismus nach wie
+
+53:05.760 --> 53:11.280
+vor in ihnen verhaftet sind. Ich würde das gar nicht als so eine Art Endzustand darstellen,
+
+53:11.280 --> 53:17.760
+das Token-System, sondern als eher so eine Art Transformationslösung, die genau so lange
+
+53:17.760 --> 53:23.040
+beibehalten werden kann, bis sie vielleicht selbst obsolet wird. Ich hatte mich das ja schon
+
+53:23.040 --> 53:27.960
+am Beginn unseres Gesprächs einmal gefragt und vielleicht ist das jetzt auch der Punkt,
+
+53:27.960 --> 53:32.480
+das nochmal aufzubringen und da vielleicht nochmal kurz einfach drüber nachzudenken,
+
+53:32.480 --> 53:40.120
+weil also auf einer bestimmten Ebene hatte ich mich gefragt, wenn man jetzt wirklich nochmal so
+
+53:40.120 --> 53:48.800
+ziemlich weit hinauszoomt. Du fängst eigentlich an, wenn du dieses Higgs-Modell einführst,
+
+53:48.800 --> 53:54.840
+indem du sagst, okay, wir stoßen uns hier ab von einer spezifischen Form der Betrachtung,
+
+53:54.840 --> 54:01.960
+die auf einem, das nannte sich dann Three-Pillar-Modell, also drei-Säulen-Modell zu sagen,
+
+54:01.960 --> 54:09.040
+aufbaut, das bestimmte Sphären quasi so voneinander getrennt theoretisiert auch und im Grunde
+
+54:09.080 --> 54:16.320
+Berechnungen für soziale, ökologische und ökonomische Faktoren quasi vornimmt und die
+
+54:16.320 --> 54:22.320
+dann später mal zusammenwürfen zu können. Auf Basis dessen stößt du dich quasi davon ab und
+
+54:22.320 --> 54:27.000
+sagst, nein, es muss eigentlich eine Form der ganzheitlicheren Betrachtung geben. Wir müssen
+
+54:27.000 --> 54:35.560
+die sozialen, die ökologischen und die politischen und ökonomischen Faktoren quasi von vornherein
+
+54:35.880 --> 54:44.080
+immer miteinander in Beziehung stehend denken. Und das ist natürlich was, dem ich total folgen
+
+54:44.080 --> 54:54.600
+würde. Und meine Frage ist aber ein bisschen, ob wenn man in dieser Art und Weise eine parametrische
+
+54:54.600 --> 55:07.400
+gesellschaftliche Gesamtbilanzierung anstrebt, inwiefern man dort, und das auch noch quasi
+
+55:07.400 --> 55:14.720
+anreichert mit so einer Form von Token-System, inwiefern man dort dann Gefahr läuft eigentlich
+
+55:14.720 --> 55:19.800
+auf der Form, auf der Ebene der Bezugnahme. Du hattest eben Bini angesprochen. Bini würde
+
+55:19.800 --> 55:26.320
+eben sagen, auf der Ebene der Beziehungsweisen sozusagen im Grunde eine spezifische Form der
+
+55:26.320 --> 55:32.600
+Bezugnahme reproduziert, die man in anderen Kontexten vielleicht auch zu Recht sozusagen
+
+55:32.600 --> 55:39.880
+kritisieren würde. Und dies letztlich dann immer noch begründet, also hergeleitet aus
+
+55:39.880 --> 55:48.840
+Notwendigkeiten der Effizienz und der Effektivität und so weiter. Und die Frage wäre halt, wie ein
+
+55:48.840 --> 55:58.080
+solches System und wo ein solches System den Raum bietet, um den eigentlich wünschenswerten
+
+55:58.080 --> 56:02.280
+Entwicklungshorizont nämlich hin zu anderen Beziehungsweisen, wie du es jetzt eigentlich
+
+56:02.280 --> 56:07.080
+im Schluss, also in deiner letzten Frage auch ausgewiesen hast, in welcher Form und wo bietet
+
+56:07.080 --> 56:13.200
+ein solches System den Horizont des Entwicklungs anderer Beziehungsweisen, wenn es weiterhin diese
+
+56:13.200 --> 56:20.720
+spezifische Form der Formiertheit der Bezugnahme quasi reproduziert. Ich weiß nicht, ob das
+
+56:20.720 --> 56:24.680
+verständlich ist, ein bisschen kompliziert formuliert. Aber man hat so ein bisschen das
+
+56:24.680 --> 56:30.240
+Gefühl, dass es auf einer auf einer funktionalistischen Ebene, wenn man so will, bestimmte Logiken
+
+56:30.240 --> 56:36.400
+reproduziert, die eigentlich auf einer bestimmten Art und Weise vielleicht auch mit überwunden
+
+56:36.400 --> 56:39.800
+werden müssten, um zu dem zu kommen, zu dem man eigentlich kommen will.
+
+56:39.800 --> 56:45.200
+Also ich bin dann definitiv, also ich kann diese Kritik absolut nachvollziehen und würde mich
+
+56:45.200 --> 56:51.680
+dem sogar anschließen und sagen, nein, wir können in diesen Modellen nicht jede wünschenswerte
+
+56:51.680 --> 56:58.640
+Beziehungsweise oder nicht jedes mitgedachte Verhältnis zwischen bestimmten Aspekten formalistisch
+
+56:58.640 --> 57:05.880
+operationalisieren und als Parameter einpflegen. Also dem sind definitiv Grenzen gesetzt. Aber
+
+57:05.880 --> 57:14.080
+darum ist dieses Token-System ja nicht als System einer gesellschaftlichen Vermittlung gedacht,
+
+57:14.080 --> 57:21.160
+sondern als ein System einer Informationsbereitstellung. Also man könnte auch so sagen,
+
+57:21.160 --> 57:27.600
+dass das Token-System vielleicht ein Informationssystem unter vielen ist. Die Frage wäre ja auch,
+
+57:27.600 --> 57:34.200
+auf welche gesellschaftlichen Produktions- und Reproduktionsbereiche, ohne diese Trennung auch
+
+57:34.200 --> 57:39.120
+zwangsläufig aufmachen zu wollen. Man könnte ja auch sagen, Reproduktionsbereiche, so wie das
+
+57:39.120 --> 57:45.440
+Heidi Luther schon gut beschrieben hat. Man könnte auch absolut überlegen, auf welche Bereiche man
+
+57:45.440 --> 57:52.240
+dieses Token-System überhaupt anwendet. Also ob es vielleicht nur eine industrielle Güterproduktion
+
+57:52.240 --> 57:57.200
+zu einem gewissen Teil ist oder ob es nur beispielsweise gesellschaftliche Investitionen
+
+57:57.200 --> 58:01.600
+sind. Was ich mir zum Beispiel sehr schwierig vorstellen würde, ist dieses Token-System auf,
+
+58:01.600 --> 58:07.160
+wenn man das als isolierte Sektoren irgendwie aufmachen könnte, was allgemein schon schwierig ist,
+
+58:07.160 --> 58:15.560
+auch beispielsweise Kehrarbeit oder so anzuwenden. Also ich glaube dieses Token-System oder allgemein
+
+58:15.560 --> 58:23.360
+auch dieses System der Input-Output-Bilanzierung hat eine gewisse Begrenztheit. Und das eine ist
+
+58:23.360 --> 58:27.640
+sozusagen die Begrenztheit dessen, welche gesellschaftlichen Beziehungsweisen sich
+
+58:27.640 --> 58:32.520
+darüber überhaupt, also welche gesellschaftlichen Verhältnisse sich darüber überhaupt abbilden
+
+58:32.520 --> 58:40.840
+lassen und welche Grenzen das setzt und welche gesellschaftlichen Bereiche oder welche Produktionsbereiche
+
+58:40.840 --> 58:47.160
+sich damit überhaupt sinnvoll erfassen lassen. Also das ist auf jeden Fall was, was man mitdenken
+
+58:47.160 --> 58:52.760
+muss. Aber der entscheidende Punkt ist, würde ich sagen, im Unterschied zum Kapitalismus oder zu
+
+58:52.760 --> 59:00.440
+einem kapitalistischen Geldsystem, dass diese Tokens halt eben aufwendungs- und nutzenbasiert sind
+
+59:00.440 --> 59:06.760
+und in ihrer Zusammensetzung, in ihrer parametrischen Zusammensetzung demokratisch bestimmt und
+
+59:06.760 --> 59:14.440
+transparent sind, was beim Gelder halt eben alles nicht der Fall ist. Plus, dass das ja nur die
+
+59:14.440 --> 59:21.880
+rein ökonomische Ebene einer parametrisierten Vermittlung ist und wie gesagt die politische
+
+59:21.880 --> 59:27.520
+Ebene, also welche politischen Akteure, Institutionen sich hier in den Rätern oder
+
+59:27.520 --> 59:33.360
+was auch immer für ein System gegenüberstehen, hier noch nicht dazu gesagt ist und vielleicht am
+
+59:33.360 --> 59:36.800
+Ende auch eine viel größere Bedeutung für die gesellschaftliche Vermittlung haben als das
+
+59:36.800 --> 59:45.680
+Tokensystem selbst. Ja, also das sehe ich schon. Das hast du ja auch absolut richtig schon vorher
+
+59:45.760 --> 59:51.520
+ausgewiesen, dass es eben dann noch politische Institutionen und Rahmenungen geben muss,
+
+59:51.520 --> 59:56.800
+innerhalb derer dann eigentlich diese Information einfließt. Aber dann, also zum Teil gibt es dann
+
+59:56.800 --> 01:00:00.680
+glaube ich auch so ein bisschen vielleicht Probleme mit dem Wording oder sowas, weil sowas wie
+
+01:00:00.680 --> 01:00:05.360
+gesamtgesellschaftliche Bilanzierung suggeriert natürlich eine gesamtgesellschaftliche Bilanzierung.
+
+01:00:05.360 --> 01:00:11.920
+Und wenn dann aber eben du jetzt quasi anmerkst, dass du dir absolut nicht sicher wärst, ob man
+
+01:00:11.920 --> 01:00:20.720
+Fragen der Sorge, Tätigkeiten über ein solches System überhaupt adressieren sollte, dann kann
+
+01:00:20.720 --> 01:00:24.200
+man ja auf jeden Fall mal schon überhaupt nicht von der gesamtgesellschaftlichen Bilanzierung
+
+01:00:24.200 --> 01:00:30.680
+sprechen. Also das ist dann auf der Ebene quasi ein bisschen irreführend und umgekehrt ist es aber
+
+01:00:30.680 --> 01:00:37.480
+natürlich auch wieder ein Problem, wenn man sagen würde, aha okay, man reproduziert aber halt dann
+
+01:00:37.520 --> 01:00:43.360
+dadurch diese Abspaltungen wieder. Also wo man sagt, okay das ist sozusagen irgendwie eine eben
+
+01:00:43.360 --> 01:00:48.960
+getrennte Sphäre. Und auf eine Art war ja so ein bisschen die Hoffnung oder ist die damit verbundene
+
+01:00:48.960 --> 01:00:59.400
+Hoffnung, dass man multifaktorielle Formen der Perspektivierung in eine solche Systematik versucht
+
+01:00:59.400 --> 01:01:07.360
+mit einzubinden, dass das zumindest bis zu einem gewissen Grad halt es eben schaffen könnte sowas
+
+01:01:07.360 --> 01:01:14.560
+wie soziale und politische und ökologische Elemente eben doch mit hineinzuholen. Also auf
+
+01:01:14.560 --> 01:01:19.000
+der einen Ebene wollt ihr das ja und macht das ja auch, weil das bis zu einem gewissen Grad ja
+
+01:01:19.000 --> 01:01:23.360
+auch quasi methodisch versucht wird. Aber gleichzeitig merkt man auch, es stößt irgendwie
+
+01:01:23.360 --> 01:01:29.120
+auf einer bestimmten Ebene dann doch an die Grenzen. Ja absolut. Also ich würde sagen,
+
+01:01:29.120 --> 01:01:35.000
+um überhaupt sich der Frage nähern zu können, bis zu welchem Punkt man dieses System treiben kann
+
+01:01:35.000 --> 01:01:40.440
+oder inwiefern es sozusagen auch noch mal eine adaptive Anpassung braucht oder auf welche
+
+01:01:40.440 --> 01:01:45.280
+gesellschaftlichen Bereiche man das erstreckt oder ob es vielleicht doch möglich ist, eine
+
+01:01:45.280 --> 01:01:51.840
+Parametrisierung oder Quantifizierung, Qualifizierung in diesem Modellierung von beispielsweise allen
+
+01:01:51.840 --> 01:01:56.680
+sozialen Auswirkungen oder von den meisten sozialen Auswirkungen zu erfassen oder beispielsweise der
+
+01:01:56.680 --> 01:02:05.200
+Kehr- und Reproduktionsarbeit, müsste man das an einem tatsächlich praktischen Beispiel durchspielen.
+
+01:02:05.200 --> 01:02:13.120
+Das könnte ich mir vorstellen, ist einerseits eine Simulation, andererseits aber das tatsächliche
+
+01:02:13.120 --> 01:02:21.640
+Arbeiten mit realen Daten aus konkreten gesellschaftlichen Prozessen, aus Produktionsprozessen,
+
+01:02:21.760 --> 01:02:26.760
+aus der Vermittlung von Konjunktion, Produktion, Kehrarbeit. Und ich glaube erst dann,
+
+01:02:26.760 --> 01:02:31.720
+wenn man das sieht, also das heißt aus einem Praxisbeispiel, die Daten und die konkrete
+
+01:02:31.720 --> 01:02:36.760
+Betrachtung bekommen, in der dann tatsächlich alles rein spielt und halt eben nicht nur die
+
+01:02:36.760 --> 01:02:42.680
+verkürzte Darstellung, wie das in den aktuellen Datenbanken der Fall ist und sich dann die Gedanken
+
+01:02:42.680 --> 01:02:47.320
+macht darüber, okay, wir machen jetzt mal, wir versuchen jetzt eine gesellschaftliche Simulation
+
+01:02:47.800 --> 01:02:56.600
+auf Basis dieser komplexen Daten, dass man dann viel bessere und auch genauere und schlüssigere
+
+01:02:56.600 --> 01:03:02.240
+Antworten darauf findet, wie und ich würde aber auch generell immer noch sagen, ob dieses System
+
+01:03:02.240 --> 01:03:09.000
+überhaupt sinnvoll ist und funktionieren kann. Also ich will mich darauf gar nicht festlegen,
+
+01:03:09.000 --> 01:03:15.640
+letztlich ist es einfach eine Frage dessen, welche Systeme und Modelle eben welche Vor- und
+
+01:03:15.640 --> 01:03:21.920
+Nachteile bieten und das Token-System wird beispielsweise gegenüber des Commons Modells
+
+01:03:21.920 --> 01:03:27.800
+bestimmte Vorteile bieten, was die gesellschaftliche Koordination und Information angehen wird,
+
+01:03:27.800 --> 01:03:34.400
+hat aber unter Umständen massive Nachteile, was halt eben beispielsweise die Reproduktion
+
+01:03:34.400 --> 01:03:40.920
+nachteiliger Beziehungsweisen angeht, was in den Commons wesentlich besser darstellbar ist. Also
+
+01:03:40.920 --> 01:03:45.720
+die Frage ist auch, glaube ich, gar nicht unbedingt, ob sich Token-System, Modellierung,
+
+01:03:45.720 --> 01:03:51.600
+Parametrisierung, Kybernetik und Commons ausschließen, sondern eher an welchen
+
+01:03:51.600 --> 01:03:57.680
+Punkten sie sich sinnvoll ergänzen kann. Das ist aber eine Frage, auf die habe ich heute keine
+
+01:03:57.680 --> 01:04:09.360
+gute und schlüssige Antwort. Ja, das wäre auch glaube ich zu viel verlangt von dir. Ich glaube,
+
+01:04:09.400 --> 01:04:15.720
+wir haben einen ungefähr einen Eindruck zumindest davon bekommen, in welche Richtung es denn gehen
+
+01:04:15.720 --> 01:04:21.960
+könnte und auch das finde ich super, wie du sozusagen die eigene Selbstbefragung sozusagen
+
+01:04:21.960 --> 01:04:26.480
+da ja dann auch nicht ausklammerst, auch davon, welche Fragen eben eigentlich noch offen sind oder
+
+01:04:26.480 --> 01:04:31.960
+zumindest einige dieser Fragen, die noch offen sind. Ich stelle am Ende einer jeden Episode immer noch
+
+01:04:31.960 --> 01:04:36.200
+die Frage, du wirst es vielleicht kennen, wenn du dir Zukunft vorstellst. Walter, was stimmt dich
+
+01:04:36.200 --> 01:04:42.440
+freudig? Das ist immer die schwierigste Frage in jeder Folge von Future Histories, finde ich. Und
+
+01:04:42.440 --> 01:04:48.080
+ich bin auf alle Antworten immer sehr gespannt. Ich würde vielleicht so antworten, im Großteil
+
+01:04:48.080 --> 01:04:55.480
+meiner politischen Auseinandersetzung hat sich verändert und auch dadurch gestaltet, dass wir
+
+01:04:55.480 --> 01:05:03.360
+2018 vielleicht noch gar keine Vorstellungen hatten davon, was 2019 relevante gesellschaftliche Themen
+
+01:05:03.360 --> 01:05:11.040
+sein könnten. Und dann kam Fridays for Future. Also das heißt, die Dynamik von Gesellschaften,
+
+01:05:11.040 --> 01:05:17.400
+die soziale Dynamik von Bewegungen ist so unvorhersehbar, dass the future unwritten ist.
+
+01:05:17.400 --> 01:05:22.440
+Und dass the future unwritten ist, das ist vielleicht das, was mich am allerfreudigsten stimmt oder
+
+01:05:22.440 --> 01:05:27.560
+anders gesagt, dass es diese Lokomotive der Geschichte nicht gibt. Also es gibt die Lokomotive
+
+01:05:27.560 --> 01:05:35.240
+der Geschichte weder sozusagen in der modernistischen, leninistischen Ausprägung des automatischen
+
+01:05:35.240 --> 01:05:41.520
+selbstständigen Fortschritts, an den zu glauben, sich als einen großen Druckfluss herausgestellt hat.
+
+01:05:41.520 --> 01:05:47.040
+Es gibt diese Lokomotive der Geschichte aber auch nicht in die andere Richtung, wie uns das vor dem
+
+01:05:47.040 --> 01:05:52.240
+Eindruck der aktuellen Realitäten als Linke vielleicht auch vorkommen will, dass es nämlich
+
+01:05:52.240 --> 01:05:57.200
+einen Automatismus hinsichtlich der Regression gibt und diese Lokomotive eigentlich nur gegen
+
+01:05:57.200 --> 01:06:01.880
+Abgrund fahren kann. Sondern sich frei zu machen davon, dass es diese Lokomotive der Geschichte
+
+01:06:01.880 --> 01:06:08.880
+überhaupt gäbe. Sondern dass das, was morgen passiert, erstens extrem unvorhersehbar ist und
+
+01:06:08.880 --> 01:06:15.200
+zweitens zumindest für einen ganz kleinen Teil gesellschaftlich gestaltbar bleibt. Das stimmt
+
+01:06:15.200 --> 01:06:19.800
+mich vielleicht noch am folgenden. Zu einem riesigen Teil gesellschaftlich gestaltbar bleibt.
+
+01:06:19.800 --> 01:06:22.880
+Walter, vielen Dank für das Gespräch.
+
+01:06:22.880 --> 01:06:34.960
+Das war Future Histories für heute. Vielen Dank fürs Zuhören, Shownotizen und vieles mehr findet
+
+01:06:34.960 --> 01:06:41.840
+ihr auf www.futurehistories.today. Diskutiert mit auf Twitter unter dem Hashtag Future Histories
+
+01:06:41.840 --> 01:06:48.200
+oder im eigenen Subreddit. Ihr könnt Future Histories nicht nur auf allen großen Podcastplattformen
+
+01:06:48.200 --> 01:06:55.000
+hören und abonnieren, sondern auch auf YouTube, wo ihr neben den Episoden dann auch Kurzvideos zu
+
+01:06:55.000 --> 01:07:02.120
+Kernbegriffen einzelner Episoden findet. Schreibt mir gerne unter jan at futurehistories.today. Ich
+
+01:07:02.120 --> 01:07:07.640
+freue mich immer sehr über interessante Rückmeldungen und Hinweise. Wenn ihr Future
+
+01:07:07.640 --> 01:07:13.440
+Histories unterstützen wollt, dann könnt ihr das auf patreon.com schrägstrich Future Histories
+
+01:07:13.440 --> 01:07:20.000
+oder auch via Spende auf unserer Homepage. Future Histories ist eine Produktion von Metalapsis zu
+
+01:07:20.000 --> 01:07:25.680
+finden auf metalapsis.net. Bis zum nächsten Mal. Ich freue mich.
+
